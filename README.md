@@ -1,4 +1,4 @@
-# ![JavaScript Design Patterns](https://raw.githubusercontent.com/AlexRogalskiy/javascript-patterns/master/images/icon.png) JavaScript Design patterns
+# JavaScript Design patterns
 
 <p align="center" style="text-align:center;">
 	<img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patterns/master/images/banner.png" width="100%" height="60%" alt="JavaScript Design patterns"/>
@@ -29,7 +29,7 @@
 [![Dependabot](https://img.shields.io/badge/dependabot-enabled-1f8ceb.svg?style=flat-square)](https://dependabot.com/)
 [![NewReleases](https://newreleases.io/badge.svg)](https://newreleases.io/github/AlexRogalskiy/javascript-patterns)
 [![Hits-of-Code](https://hitsofcode.com/github/AlexRogalskiy/javascript-patterns)](https://hitsofcode.com/github/AlexRogalskiy/javascript-patterns/view)
-[![ComVer](https://img.shields.io/badge/ComVer-compliant-brightgreen.svg)](https://github.com/AlexRogalskiy/javascript-patterns)
+[![ComVer](https://img.shields.io/badge/ComVer-compliant-brightgreen.svg)][repo]
 
 ## 🎹 _Table of contents_
 
@@ -79,7 +79,7 @@
 	</a>
 </p>
 
-**JavaScript Design Patterns** is intended to provide various use case scenarios and architectural concepts on prototyping adaptive applications.
+_**JavaScript Design Patterns**_ is intended to provide various use case scenarios and architectural concepts on prototyping adaptive applications.
 
 ```text 
 mkdocs.yml    # Configuration file.
@@ -169,7 +169,7 @@ mkdocs --verbose gh-deploy --force --remote-branch gh-pages
 
 ## 📝 _Versioning_
 
-The project uses [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/AlexRogalskiy/javascript-patterns/tags).
+The project uses [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository][tags].
 
 ## 🌹 _Authors_
 
@@ -188,7 +188,7 @@ Please read [CONTRIBUTING.md](https://github.com/AlexRogalskiy/javascript-patter
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 ![Github contributors](https://img.shields.io/github/all-contributors/AlexRogalskiy/javascript-patterns)
 
-See also the list of [contributors](https://github.com/AlexRogalskiy/javascript-patterns/graphs/contributors) who participated in this project.
+See also the list of [contributors][contributors] who participated in this project.
 
 ## 🚨 _Visitor stats_
 
@@ -205,11 +205,12 @@ LGPLv3 is additional permissions on top of GPLv3.
 
 ![image](https://user-images.githubusercontent.com/19885116/48661948-6cf97e80-ea7a-11e8-97e7-b45332a13e49.png)
 
-([License](https://github.com/AlexRogalskiy/javascript-patterns/blob/master/LICENSE.txt))
+[[License](https://github.com/AlexRogalskiy/javascript-patterns/blob/master/LICENSE.txt)]
 
 ## 🌟 _Development Support_
 
-Like _**JavaScript Patterns**_ ? Consider buying me a coffee :\)
+Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patterns/master/images/icon.png" width="20" height="20" alt="JavaScript Design patterns"/>
+ and _**JavaScript Patterns**_ ? Consider buying me a coffee :\)
 
 [![Become a Patron](https://img.shields.io/badge/Become_Patron-Support_me_on_Patreon-blue.svg?style=flat-square&logo=patreon&color=e64413)](https://www.patreon.com/alexrogalskiy)
 [![Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellow.svg?logo=buy%20me%20a%20coffee)](https://www.buymeacoffee.com/AlexRogalskiy)
@@ -217,7 +218,7 @@ Like _**JavaScript Patterns**_ ? Consider buying me a coffee :\)
 
 ## 👨‍👨‍👧‍👦 _Acknowledgement_
 
-[![Stargazers repo roster for @AlexRogalskiy/javascript-patterns](https://reporoster.com/stars/AlexRogalskiy/javascript-patterns)](https://github.com/AlexRogalskiy/javascript-patterns/stargazers)
+[![Stargazers repo roster for @AlexRogalskiy/javascript-patterns](https://reporoster.com/stars/AlexRogalskiy/javascript-patterns)][stars]
 
 ## 🔥 _Feeds and Podcasts_
 
@@ -276,3 +277,11 @@ Like _**JavaScript Patterns**_ ? Consider buying me a coffee :\)
 ### _JavaScript Ninja posts_
 
 <!-- JAVASCRIPTNINJA-POST-LIST:START --><!-- JAVASCRIPTNINJA-POST-LIST:END -->
+
+  [repo]:           https://github.com/AlexRogalskiy/javascript-patterns
+  [tags]:           https://github.com/AlexRogalskiy/javascript-patterns/tags
+  [issues]:         https://github.com/AlexRogalskiy/javascript-patterns/issues
+  [pulls]:          https://github.com/AlexRogalskiy/javascript-patterns/pulls
+  [wiki]:           https://github.com/AlexRogalskiy/javascript-patterns/wiki
+  [stars]:          https://github.com/AlexRogalskiy/javascript-patterns/stargazers
+  [contributors]:   https://github.com/AlexRogalskiy/javascript-patterns/graphs/contributors
