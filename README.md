@@ -164,6 +164,12 @@ mkdocs --verbose gh-deploy --force --remote-branch gh-pages
 
 5\) Open up [localhost](http://127.0.0.1:8000/) in browser to get the default documentation homepage.
 
+## ⏰ _Statistics_
+
+<p align="center" style="text-align:center;">
+    <img alt="Documentation page speed" src="https://pagespeed-insights.herokuapp.com/?url=https://alexander-rogalsky.gitbook.io/java-patterns/&strategy=mobile"/>
+</p>
+
 ## 📝 _Versioning_
 
 The project uses [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository][tags].
