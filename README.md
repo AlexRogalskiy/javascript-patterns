@@ -266,7 +266,18 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 
 ### _YouTube code posts_
 
-<!-- YOUTUBE-POST-LIST:START --><!-- YOUTUBE-POST-LIST:END -->
+<!-- YOUTUBE-POST-LIST:START -->
+- [A Powerful Introduction to Machine Learning with Js - Oliver Alejandro López  [spanish languaje]](https://www.youtube.com/watch?v=qV1SvbYdTrI)
+- [Deployed math - Brenda Berenice Ramos Hernández [spanish languaje]](https://www.youtube.com/watch?v=xUWckZyinq4)
+- [Your emotions are not an anti-pattern - Jenn Creighton](https://www.youtube.com/watch?v=FFSgOkKJ95c)
+- [Machine Learning Principles, with JavaScript? - Francisco Sevilla [spanish languaje]](https://www.youtube.com/watch?v=Bu8l_-3EAKY)
+- [Ode to the decade++ - Eva Ferreira  [spanish languaje]](https://www.youtube.com/watch?v=v74Jej_cdu0)
+- [Code Factorization: How to Organize Boilerplate Code - Jaewon Seo  - JSConf Korea[Korean language]](https://www.youtube.com/watch?v=Urj-aaxB6mE)
+- [In Search of the Lost UI: A Tale of Design System Development - Woojin Jeon[Korean language]](https://www.youtube.com/watch?v=3Qo9mMT9VvU)
+- [Turning on an Air-Con 10 Mins before Arriving at Home - Justin Yoo [Korean language]](https://www.youtube.com/watch?v=xDd2B9uzqkc)
+- [DIY Data Visualization in JavaScript while Stanning BTS - Chloe Noh - JSConf Korea](https://www.youtube.com/watch?v=y1MrNZteYdA)
+- [Developing in a Large Monorepo - Jai Santhosh - JSConf Korea](https://www.youtube.com/watch?v=pTi0MQbD7No)
+<!-- YOUTUBE-POST-LIST:END -->
 
 ### _ReactJS posts_
 
