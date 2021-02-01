@@ -48,7 +48,6 @@
       * [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
          * [<em>Reddit posts</em>](#reddit-posts)
          * [<em>InfoWorld posts</em>](#infoworld-posts)
-         * [<em>EchoJS posts</em>](#echojs-posts)
          * [<em>EmberJS posts</em>](#emberjs-posts)
          * [<em>YouTube code posts</em>](#youtube-code-posts)
          * [<em>ReactJS posts</em>](#reactjs-posts)
@@ -61,7 +60,7 @@
          * [<em>Writing JavaScript posts</em>](#writing-javascript-posts)
          * [<em>JavaScript Ninja posts</em>](#javascript-ninja-posts)
 
-<!-- Added by: runner, at: Mon Feb  1 12:36:58 UTC 2021 -->
+<!-- Added by: runner, at: Mon Feb  1 12:49:47 UTC 2021 -->
 
 <!--te-->
 
