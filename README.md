@@ -296,7 +296,18 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 
 ### _javascript programmer posts_
 
-<!-- METEOR-POST-LIST:START --><!-- METEOR-POST-LIST:END -->
+<!-- METEOR-POST-LIST:START -->
+- [Meteor 2.0 is here!](https://blog.meteor.com/meteor-2-0-is-here-867b0ab4f8df?source=rss----a9bcaf865278---4)
+- [Introducing Meteor Cloud](https://blog.meteor.com/introducing-meteor-cloud-f25ddd3da535?source=rss----a9bcaf865278---4)
+- [Meteor 1.12 is here!](https://blog.meteor.com/meteor-1-12-is-here-ec0c78dbb973?source=rss----a9bcaf865278---4)
+- [Meteor Fibers meet Promises meet Callbacks — A practical guide](https://blog.meteor.com/meteor-fibers-meet-promises-meet-callbacks-a-practical-guide-e134db15afcb?source=rss----a9bcaf865278---4)
+- [Meteor Impact 2020 is this week!](https://blog.meteor.com/meteor-impact-2020-is-this-week-db3a1ee1e0cd?source=rss----a9bcaf865278---4)
+- [How Any.Run Became The Most Popular Malware Sandbox in the World with Meteor.js.](https://blog.meteor.com/how-any-run-became-the-most-popular-malware-sandbox-in-the-world-with-meteor-js-e7aeb5ac29e1?source=rss----a9bcaf865278---4)
+- [Nested Imports in Meteor](https://blog.meteor.com/nested-imports-in-meteor-73fff491a11c?source=rss----a9bcaf865278---4)
+- [Announcing Meteor 1.11](https://blog.meteor.com/announcing-meteor-1-11-a4af1c5cc689?source=rss----a9bcaf865278---4)
+- [Hot Code Push, step by step](https://blog.meteor.com/hot-code-push-step-by-step-bd940de7323c?source=rss----a9bcaf865278---4)
+- [Security Where You Need It: Introducing Two-Factor Authentication + App Protection](https://blog.meteor.com/security-where-you-need-it-introducing-two-factor-authentication-app-protection-3d75df80ba5b?source=rss----a9bcaf865278---4)
+<!-- METEOR-POST-LIST:END -->
 
 ### _Dreamix posts_
 
