@@ -34,7 +34,7 @@
 ## 🎹 _Table of contents_
 
 <!--ts-->
-   * [<a href="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patterns/master/images/icon.png" target="_blank" rel="nofollow"><img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patterns/master/images/icon.png" alt="JavaScript Design Patterns" style="max-width:100%;"></a> JavaScript Design patterns](#-javascript-design-patterns)
+   * [JavaScript Design patterns](#javascript-design-patterns)
       * [<em>Table of contents</em>](#-table-of-contents)
       * [<em>Summary</em>](#-summary)
       * [<em>Documentation</em>](#-documentation)
@@ -61,7 +61,7 @@
          * [<em>Writing JavaScript posts</em>](#writing-javascript-posts)
          * [<em>JavaScript Ninja posts</em>](#javascript-ninja-posts)
 
-<!-- Added by: runner, at: Mon Feb  1 12:12:41 UTC 2021 -->
+<!-- Added by: runner, at: Mon Feb  1 12:34:03 UTC 2021 -->
 
 <!--te-->
 
