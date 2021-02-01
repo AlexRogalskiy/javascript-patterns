@@ -371,7 +371,18 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 
 ### _Writing JavaScript posts_
 
-<!-- WRITINGJAVASCRIPT-POST-LIST:START --><!-- WRITINGJAVASCRIPT-POST-LIST:END -->
+<!-- WRITINGJAVASCRIPT-POST-LIST:START -->
+- [Use more ergonomic custom events](https://writingjavascript.com/use-more-ergonomic-custom-events)
+- [10 great JavaScript tricks that will improve your productivity](https://writingjavascript.com/10-great-javascript-tricks-that-will-improve-your-productivity)
+- [Why should I start using Optional Chaining and Nullish Coalescing operators?](https://writingjavascript.com/why-should-i-start-using-optional-chaining-and-nullish-coalescing-operators)
+- [Lets code a plain JavaScript notification queue using private fields and methods](https://writingjavascript.com/lets-code-a-plain-javascript-notification-queue-using-private-fields-and-methods)
+- [ESLint disable single line and code blocks](https://writingjavascript.com/eslint-disable-single-line-and-code-blocks)
+- [Keep your HTML output secure and clean from XSS JavaScript injection](https://writingjavascript.com/keep-your-html-output-secure-and-clean-from-xss-javascript-injection)
+- [How-to create and use mixins in JavaScript](https://writingjavascript.com/how-to-create-and-use-mixins-in-javascript)
+- [How to use keyword arguments in JavaScript](https://writingjavascript.com/how-to-use-keyword-arguments-in-javascript)
+- [Why default exports are bad](https://writingjavascript.com/why-default-exports-are-bad)
+- [How to use lookahead and lookbehind RegExp in javascript](https://writingjavascript.com/how-to-use-lookahead-lookbehind-in-regexp-in-javascript)
+<!-- WRITINGJAVASCRIPT-POST-LIST:END -->
 
 ### _JavaScript Ninja posts_
 
