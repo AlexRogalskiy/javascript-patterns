@@ -116,7 +116,7 @@ docs/
 
 The Website documentation is provided by [gitbook](https://www.gitbook.com/) and can be discovered at url:
 
-[_**JavaScript Patterns**_](https://alexander-rogalsky.gitbook.io/javascript-patterns/)
+[_**JavaScript Patterns**_][docs]
 
 To enable documentation serving at _**localhost**_ ****the following steps should be considered:
 
@@ -406,3 +406,4 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
   [wiki]:           https://github.com/AlexRogalskiy/javascript-patterns/wiki
   [stars]:          https://github.com/AlexRogalskiy/javascript-patterns/stargazers
   [contributors]:   https://github.com/AlexRogalskiy/javascript-patterns/graphs/contributors
+  [docs]:           https://alexander-rogalsky.gitbook.io/javascript-patterns/
