@@ -251,7 +251,18 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 
 ### _EmberJS posts_
 
-<!-- EMBERJS-POST-LIST:START --><!-- EMBERJS-POST-LIST:END -->
+<!-- EMBERJS-POST-LIST:START -->
+- [The Ember Times - Issue No. 172](https://blog.emberjs.com/the-ember-times-issue-172)
+- [The Ember Times - Issue No. 171](https://blog.emberjs.com/the-ember-times-issue-171)
+- [Ember 3.24 Released](https://blog.emberjs.com/ember-3-24-released)
+- [The Ember Times - Issue No. 170](https://blog.emberjs.com/the-ember-times-issue-170)
+- [Ember 3.23 Released](https://blog.emberjs.com/ember-3-23-released)
+- [The Ember Times - Issue No. 169](https://blog.emberjs.com/the-ember-times-issue-169)
+- [The Ember Times - Issue No. 168](https://blog.emberjs.com/the-ember-times-issue-168)
+- [The Ember Times - Issue No. 167](https://blog.emberjs.com/the-ember-times-issue-167)
+- [The Ember Times - Issue No. 166](https://blog.emberjs.com/the-ember-times-issue-166)
+- [Ember 3.22 Released](https://blog.emberjs.com/ember-3-22-released)
+<!-- EMBERJS-POST-LIST:END -->
 
 ### _YouTube code posts_
 
