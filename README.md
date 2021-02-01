@@ -116,7 +116,7 @@ The Website documentation is provided by [gitbook](https://www.gitbook.com/) and
 
 [_**JavaScript Patterns**_][docs]
 
-To enable documentation serving at _**localhost**_ ****the following steps should be considered:
+To enable documentation serving at _**localhost**_ the following steps should be considered:
 
 1\) Install/upgrade _**pip**_ command-line utility:
 
@@ -167,7 +167,7 @@ mkdocs --verbose gh-deploy --force --remote-branch gh-pages
 ## ⏰ _Statistics_
 
 <p align="center" style="text-align:center;">
-    <img alt="Documentation page speed" src="https://pagespeed-insights.herokuapp.com/?url=https://alexander-rogalsky.gitbook.io/java-patterns/&strategy=mobile"/>
+    <img alt="Documentation page speed" src="https://pagespeed-insights.herokuapp.com/?url=https://alexander-rogalsky.gitbook.io/javascript-patterns/&strategy=mobile"/>
 </p>
 
 ## 📝 _Versioning_
