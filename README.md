@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patterns/master/images/icon.svg" width="40" height="40" alt="JavaScript Design patterns"/> JavaScript Design patterns
+# ![JavaScript Design Patterns](https://raw.githubusercontent.com/AlexRogalskiy/javascript-patterns/master/images/icon.png) JavaScript Design patterns
 
 <p align="center" style="text-align:center;">
 	<img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patterns/master/images/banner.png" width="100%" height="60%" alt="JavaScript Design patterns"/>
@@ -79,7 +79,7 @@
 	</a>
 </p>
 
-**javascript Design Patterns** is intended to provide various use case scenarios and architectural concepts on prototyping adaptive applications.
+**JavaScript Design Patterns** is intended to provide various use case scenarios and architectural concepts on prototyping adaptive applications.
 
 ```text 
 mkdocs.yml    # Configuration file.
@@ -117,7 +117,7 @@ docs/
 
 The Website documentation is provided by [gitbook](https://www.gitbook.com/) and can be discovered at url:
 
-[**javascript Patterns**](https://alexander-rogalsky.gitbook.io/javascript-patterns/)
+[**JavaScript Patterns**](https://alexander-rogalsky.gitbook.io/javascript-patterns/)
 
 To enable documentation serving at _**localhost**_ ****the following steps should be considered:
 
@@ -173,7 +173,7 @@ The project uses [SemVer](http://semver.org/) for versioning. For the versions a
 
 ## 🌹 _Authors_
 
-_**javascript Patterns**_ is maintained by the following GitHub team-members:
+_**JavaScript Patterns**_ is maintained by the following GitHub team-members:
 
 * [![Author](https://img.shields.io/badge/author-AlexRogalskiy-FB8F0A)](https://github.com/AlexRogalskiy)
 
@@ -200,7 +200,7 @@ See also the list of [contributors](https://github.com/AlexRogalskiy/javascript-
 
 ## ⚽ _Licensing_
 
-_**javascript Patterns**_ is distributed under LGPL version 3 or later, see COPYING.LESSER\(LGPL\) and COPYING\(GPL\).
+_**JavaScript Patterns**_ is distributed under LGPL version 3 or later, see COPYING.LESSER\(LGPL\) and COPYING\(GPL\).
 LGPLv3 is additional permissions on top of GPLv3.
 
 ![image](https://user-images.githubusercontent.com/19885116/48661948-6cf97e80-ea7a-11e8-97e7-b45332a13e49.png)
@@ -209,7 +209,7 @@ LGPLv3 is additional permissions on top of GPLv3.
 
 ## 🌟 _Development Support_
 
-Like _**javascript Patterns**_ ? Consider buying me a coffee :\)
+Like _**JavaScript Patterns**_ ? Consider buying me a coffee :\)
 
 [![Become a Patron](https://img.shields.io/badge/Become_Patron-Support_me_on_Patreon-blue.svg?style=flat-square&logo=patreon&color=e64413)](https://www.patreon.com/alexrogalskiy)
 [![Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellow.svg?logo=buy%20me%20a%20coffee)](https://www.buymeacoffee.com/AlexRogalskiy)
