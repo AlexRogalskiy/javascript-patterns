@@ -16,64 +16,69 @@ jobs:
         with:
           max_post_count: "10"
           comment_tag_name: "REDDIT-POST-LIST"
-          feed_list: "https://www.reddit.com/r/java/.rss"
+          feed_list: "https://www.reddit.com/r/javascript/.rss"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "10"
           comment_tag_name: "INFOWORLD-POST-LIST"
-          feed_list: "https://www.infoworld.com/category/java/index.rss"
+          feed_list: "https://www.infoworld.com/category/javascript/index.rss"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "10"
-          comment_tag_name: "LETSTALK-POST-LIST"
-          feed_list: "http://letstalkaboutjava.blogspot.com/feeds/posts/default?alt=rss"
+          comment_tag_name: "ECHOJS-POST-LIST"
+          feed_list: "https://www.echojs.com/rss"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "10"
-          comment_tag_name: "RANDOMTHOUGHTS-POST-LIST"
-          feed_list: "http://randomthoughtsonjavaprogramming.blogspot.com/feeds/posts/default?alt=rss"
+          comment_tag_name: "EMBERJS-POST-LIST"
+          feed_list: "https://blog.emberjs.com/rss.xml"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "10"
-          comment_tag_name: "BETTERCODE-POST-LIST"
-          feed_list: "https://betterjavacode.com/feed"
+          comment_tag_name: "YOUTUBE-POST-LIST"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?user=jsconfeu"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "10"
-          comment_tag_name: "INSIDE-POST-LIST"
-          feed_list: "https://inside.java/feed.xml"
+          comment_tag_name: "REACTJS-POST-LIST"
+          feed_list: "https://reactjs.org/feed.xml"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "10"
-          comment_tag_name: "JAVAPROG-POST-LIST"
-          feed_list: "https://www.thejavaprogrammer.com/feed/"
+          comment_tag_name: "METEOR-POST-LIST"
+          feed_list: "https://blog.meteor.com/feed"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "10"
           comment_tag_name: "DREAMIX-POST-LIST"
-          feed_list: "https://dreamix.eu/blog/category/java/feed"
+          feed_list: "https://dreamix.eu/blog/category/javascript/feed"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "10"
-          comment_tag_name: "PLUMBR-POST-LIST"
-          feed_list: "https://plumbr.io/blog/feed"
+          comment_tag_name: "NODESOURCE-POST-LIST"
+          feed_list: "https://nodesource.com/blog/rss"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "10"
-          comment_tag_name: "TJ-POST-LIST"
-          feed_list: "https://thorben-janssen.com/feed/"
+          comment_tag_name: "REACTNATIVE-POST-LIST"
+          feed_list: "http://www.reactnative.com/rss/"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "10"
           comment_tag_name: "REDHAT-POST-LIST"
-          feed_list: "https://developers.redhat.com/blog/tag/java/feed/"
+          feed_list: "https://developers.redhat.com/blog/tag/javascript/feed/"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "10"
-          comment_tag_name: "JAVACODEGEEKS-POST-LIST"
-          feed_list: "https://www.javacodegeeks.com/feed"
+          comment_tag_name: "JAVASCRIPTWEEKLY-POST-LIST"
+          feed_list: "https://cprss.s3.amazonaws.com/javascriptweekly.com.xml"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "10"
-          comment_tag_name: "DEVCASES-POST-LIST"
-          feed_list: "https://devcases.com/feed/"
+          comment_tag_name: "WRITINGJAVASCRIPT-POST-LIST"
+          feed_list: "https://writingjavascript.com/rss.xml"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "10"
+          comment_tag_name: "JAVASCRIPTNINJA-POST-LIST"
+          feed_list: "https://thejavascriptninja.com/feed/"
