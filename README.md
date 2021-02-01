@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patterns/master/images/icon.svg" width="20%" height="20" alt="JavaScript Design patterns"/> JavaScript Design patterns
+# <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patterns/master/images/icon.svg" width="40" height="40" alt="JavaScript Design patterns"/> JavaScript Design patterns
 
 <p align="center" style="text-align:center;">
 	<img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patterns/master/images/banner.png" width="100%" height="60%" alt="JavaScript Design patterns"/>
