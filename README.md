@@ -116,7 +116,7 @@ docs/
 
 The Website documentation is provided by [gitbook](https://www.gitbook.com/) and can be discovered at url:
 
-[**JavaScript Patterns**](https://alexander-rogalsky.gitbook.io/javascript-patterns/)
+[_**JavaScript Patterns**_](https://alexander-rogalsky.gitbook.io/javascript-patterns/)
 
 To enable documentation serving at _**localhost**_ ****the following steps should be considered:
 
