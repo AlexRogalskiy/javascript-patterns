@@ -34,7 +34,7 @@
 ## 🎹 _Table of contents_
 
 <!--ts-->
-   * [javascript Design patterns](#javascript-design-patterns)
+   * [<a href="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patterns/master/images/icon.svg" target="_blank" rel="nofollow"><img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patterns/master/images/icon.svg" width="20%" height="20" alt="JavaScript Design patterns" style="max-width:100%;"></a> JavaScript Design patterns](#-javascript-design-patterns)
       * [<em>Table of contents</em>](#-table-of-contents)
       * [<em>Summary</em>](#-summary)
       * [<em>Documentation</em>](#-documentation)
@@ -48,19 +48,20 @@
       * [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
          * [<em>Reddit posts</em>](#reddit-posts)
          * [<em>InfoWorld posts</em>](#infoworld-posts)
-         * [<em>Let's talk posts</em>](#lets-talk-posts)
-         * [<em>Random thoughts posts</em>](#random-thoughts-posts)
-         * [<em>Better code posts</em>](#better-code-posts)
-         * [<em>Inside javascript posts</em>](#inside-javascript-posts)
+         * [<em>EchoJS posts</em>](#echojs-posts)
+         * [<em>EmberJS posts</em>](#emberjs-posts)
+         * [<em>YouTube code posts</em>](#youtube-code-posts)
+         * [<em>ReactJS posts</em>](#reactjs-posts)
          * [<em>javascript programmer posts</em>](#javascript-programmer-posts)
          * [<em>Dreamix posts</em>](#dreamix-posts)
-         * [<em>Plumbr posts</em>](#plumbr-posts)
-         * [<em>Thorben Janssen posts</em>](#thorben-janssen-posts)
+         * [<em>NodeSource posts</em>](#nodesource-posts)
+         * [<em>React Native posts</em>](#react-native-posts)
          * [<em>Redhat posts</em>](#redhat-posts)
-         * [<em>javascriptCodeGeeks posts</em>](#javascriptcodegeeks-posts)
-         * [<em>DevCases posts</em>](#devcases-posts)
+         * [<em>JavaScript Weekly posts</em>](#javascript-weekly-posts)
+         * [<em>Writing JavaScript posts</em>](#writing-javascript-posts)
+         * [<em>JavaScript Ninja posts</em>](#javascript-ninja-posts)
 
-<!-- Added by: runner, at: Mon Feb  1 04:15:38 UTC 2021 -->
+<!-- Added by: runner, at: Mon Feb  1 11:41:05 UTC 2021 -->
 
 <!--te-->
 
