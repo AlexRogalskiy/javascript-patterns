@@ -59,9 +59,6 @@
          * [<em>JavaScript Weekly posts</em>](#javascript-weekly-posts)
          * [<em>Writing JavaScript posts</em>](#writing-javascript-posts)
          * [<em>JavaScript Ninja posts</em>](#javascript-ninja-posts)
-
-<!-- Added by: runner, at: Mon Feb  1 13:36:48 UTC 2021 -->
-
 <!--te-->
 
 ## ☝ _Summary_
