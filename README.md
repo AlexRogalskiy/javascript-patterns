@@ -61,7 +61,7 @@
          * [<em>Writing JavaScript posts</em>](#writing-javascript-posts)
          * [<em>JavaScript Ninja posts</em>](#javascript-ninja-posts)
 
-<!-- Added by: runner, at: Mon Feb  1 12:34:03 UTC 2021 -->
+<!-- Added by: runner, at: Mon Feb  1 12:36:58 UTC 2021 -->
 
 <!--te-->
 
@@ -222,11 +222,33 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 
 ### _Reddit posts_
 
-<!-- REDDIT-POST-LIST:START --><!-- REDDIT-POST-LIST:END -->
+<!-- REDDIT-POST-LIST:START -->
+- [emacs-ng: emacs with JavaScript/TypeScript/Async I/O and WebWorkers powered by Deno](https://www.reddit.com/r/javascript/comments/la1zw6/emacsng_emacs_with_javascripttypescriptasync_io/)
+- [Use streaming operators in React Components](https://www.reddit.com/r/javascript/comments/l9zyus/use_streaming_operators_in_react_components/)
+- [Your /r/javascript recap for the week of January 25 - January 31](https://www.reddit.com/r/javascript/comments/l9zseb/your_rjavascript_recap_for_the_week_of_january_25/)
+- [JavaScript and JQuery Interactive Front-End Web Development Download](https://www.reddit.com/r/javascript/comments/l9z290/javascript_and_jquery_interactive_frontend_web/)
+- [Moment.js - So long and thanks for all the fish!](https://www.reddit.com/r/javascript/comments/l9yaqy/momentjs_so_long_and_thanks_for_all_the_fish/)
+- [TypeScript Discriminated Unions: Problems and Solutions](https://www.reddit.com/r/javascript/comments/l9xxpw/typescript_discriminated_unions_problems_and/)
+- [What's new in ECMAScript 2021](https://www.reddit.com/r/javascript/comments/l9wtjf/whats_new_in_ecmascript_2021/)
+- [All about React's createRef method](https://www.reddit.com/r/javascript/comments/l9w852/all_about_reacts_createref_method/)
+- [React Snapshot Testing With Jest: An Introduction With Examples](https://www.reddit.com/r/javascript/comments/l9w6du/react_snapshot_testing_with_jest_an_introduction/)
+- [Fetch vs Axios: Which Is the Best Library for Making HTTP Requests?](https://www.reddit.com/r/javascript/comments/l9w2xb/fetch_vs_axios_which_is_the_best_library_for/)
+<!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
 
-<!-- INFOWORLD-POST-LIST:START --><!-- INFOWORLD-POST-LIST:END -->
+<!-- INFOWORLD-POST-LIST:START -->
+- [Angular adds error codes, debugging guides](https://www.infoworld.com/article/3605016/angular-adds-error-codes-debugging-guides.html#tk.rss_javascript)
+- [How to handle errors in ReactJS](https://www.infoworld.com/article/3604336/how-to-handle-errors-in-reactjs.html#tk.rss_javascript)
+- [Sentry for JavaScript monitors release health](https://www.infoworld.com/article/3605128/sentry-for-javascript-monitors-release-health.html#tk.rss_javascript)
+- [Deno 1.7 brings compilation improvements](https://www.infoworld.com/article/3604740/deno-17-brings-compilation-improvements.html#tk.rss_javascript)
+- [TypeScript 4.2 tunes tuple types](https://www.infoworld.com/article/3603495/typescript-42-tunes-tuple-types.html#tk.rss_javascript)
+- [How to use React functional components](https://www.infoworld.com/article/3603276/how-to-use-react-functional-components.html#tk.rss_javascript)
+- [Angular 12 looks to improve deployment integrations](https://www.infoworld.com/article/3603268/angular-12-looks-to-improve-deployment-integrations.html#tk.rss_javascript)
+- [Vno brings Vue to Deno](https://www.infoworld.com/article/3602992/vno-brings-vue-to-deno.html#tk.rss_javascript)
+- [Fable F# to JavaScript compiler improves usability, speed](https://www.infoworld.com/article/3600432/fable-f-to-javascript-compiler-improves-usability-speed.html#tk.rss_javascript)
+- [The best programming language to learn now](https://www.infoworld.com/article/3403404/the-best-programming-language-to-learn-now.html#tk.rss_javascript)
+<!-- INFOWORLD-POST-LIST:END -->
 
 ### _EmberJS posts_
 
