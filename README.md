@@ -347,7 +347,18 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 
 ### _Redhat posts_
 
-<!-- REDHAT-POST-LIST:START --><!-- REDHAT-POST-LIST:END -->
+<!-- REDHAT-POST-LIST:START -->
+- [Easily deploy Node.js applications to Red Hat OpenShift using Nodeshift](https://developers.redhat.com/blog/2019/08/30/easily-deploy-node-js-applications-to-red-hat-openshift-using-nodeshift/)
+- [The browser wars and the birth of JavaScript](https://developers.redhat.com/blog/2019/07/23/the-browser-wars-and-the-birth-of-javascript/)
+- [Use Node.js 12 on Red Hat OpenShift today](https://developers.redhat.com/blog/2019/04/29/use-node-js-12-on-red-hat-openshift-today/)
+- [Modern web applications on OpenShift: Part 3 — Openshift as a development environment](https://developers.redhat.com/blog/2019/01/17/modern-web-applications-on-openshift-part-3-openshift-as-a-development-environment/)
+- [Processing CloudEvents with Eclipse Vert.x](https://developers.redhat.com/blog/2018/12/11/processing-cloudevents-vertx/)
+- [Modern web applications on OpenShift: Part 2 — Using chained builds](https://developers.redhat.com/blog/2018/10/23/modern-web-applications-on-openshift-part-2-using-chained-builds/)
+- [Modern web applications on OpenShift: Part 1 — Web apps in two commands](https://developers.redhat.com/blog/2018/10/04/modern-web-apps-openshift-part-1/)
+- [Container-native integration testing](https://developers.redhat.com/blog/2018/08/02/container-native-integration-testing/)
+- [Announcing updated Red Hat Developer Studio and Container Development Kit](https://developers.redhat.com/blog/2018/07/18/announcing-updated-cdk-devstudio/)
+- [How to Debug Your Node.js Application on OpenShift with Chrome DevTools](https://developers.redhat.com/blog/2018/05/15/debug-your-node-js-application-on-openshift-with-chrome-devtools/)
+<!-- REDHAT-POST-LIST:END -->
 
 ### _JavaScript Weekly posts_
 
