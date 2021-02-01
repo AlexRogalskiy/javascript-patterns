@@ -25,11 +25,6 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "10"
-          comment_tag_name: "ECHOJS-POST-LIST"
-          feed_list: "https://www.echojs.com/rss"
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          max_post_count: "10"
           comment_tag_name: "EMBERJS-POST-LIST"
           feed_list: "https://blog.emberjs.com/rss.xml"
       - uses: gautamkrishnar/blog-post-workflow@master

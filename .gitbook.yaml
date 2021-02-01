@@ -1,6 +1,6 @@
 root: ./docs/
 
-​structure:  
+structure:
   user-guide:
     changelog: ./user-guide/changelog.md
     dependency: ./user-guide/dependency.md
@@ -27,6 +27,6 @@ root: ./docs/
 
 redirects:  
   msin: ./README.md
-  info: ./SUMMARY.md​
+  info: ./SUMMARY.md
   help: ./user-guide/support.md
   start: ./user-guide/getting-started.md

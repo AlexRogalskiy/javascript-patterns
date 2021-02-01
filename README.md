@@ -228,10 +228,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 
 <!-- INFOWORLD-POST-LIST:START --><!-- INFOWORLD-POST-LIST:END -->
 
-### _EchoJS posts_
-
-<!-- ECHOJS-POST-LIST:START --><!-- ECHOJS-POST-LIST:END -->
-
 ### _EmberJS posts_
 
 <!-- EMBERJS-POST-LIST:START --><!-- EMBERJS-POST-LIST:END -->
