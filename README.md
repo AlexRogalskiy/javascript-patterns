@@ -332,7 +332,18 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 
 ### _React Native posts_
 
-<!-- REACTNATIVE-POST-LIST:START --><!-- REACTNATIVE-POST-LIST:END -->
+<!-- REACTNATIVE-POST-LIST:START -->
+- [React Native v0.63.x released](http://www.reactnative.com/react-native-v0-63-x-released/)
+- [React Native v0.62.x released](http://www.reactnative.com/react-native-v0-62-x-released/)
+- [Tweet from @reactnative](http://www.reactnative.com/tweet-from-reactnative-7/)
+- [Tweet from @reactnative](http://www.reactnative.com/tweet-from-reactnative-6/)
+- [React Native v0.61.x released](http://www.reactnative.com/react-native-v0-61-x-released/)
+- [Tweet from @reactnative](http://www.reactnative.com/tweet-from-reactnative-5/)
+- [React Native v0.60.x released](http://www.reactnative.com/react-native-v0-60-x-released/)
+- [React Native v0.59.x released](http://www.reactnative.com/react-native-v0-59-x-released/)
+- [Tweet from @reactnative](http://www.reactnative.com/tweet-from-reactnative-4/)
+- [Tweet from @reactnative](http://www.reactnative.com/tweet-from-reactnative-3/)
+<!-- REACTNATIVE-POST-LIST:END -->
 
 ### _Redhat posts_
 
