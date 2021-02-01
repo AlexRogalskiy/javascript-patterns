@@ -200,12 +200,10 @@ See also the list of [contributors][contributors] who participated in this proje
 
 ## ⚽ _Licensing_
 
-_**JavaScript Patterns**_ is distributed under LGPL version 3 or later, see COPYING.LESSER\(LGPL\) and COPYING\(GPL\).
+_**JavaScript Patterns**_ is distributed under LGPL version 3 or later, [[License](https://github.com/AlexRogalskiy/javascript-patterns/blob/master/LICENSE.txt)].
 LGPLv3 is additional permissions on top of GPLv3.
 
 ![image](https://user-images.githubusercontent.com/19885116/48661948-6cf97e80-ea7a-11e8-97e7-b45332a13e49.png)
-
-[[License](https://github.com/AlexRogalskiy/javascript-patterns/blob/master/LICENSE.txt)]
 
 ## 🌟 _Development Support_
 
