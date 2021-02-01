@@ -28,7 +28,7 @@
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAlexRogalskiy%2Fjavascript-patterns.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAlexRogalskiy%2Fjavascript-patterns?ref=badge_shield)
 [![Dependabot](https://img.shields.io/badge/dependabot-enabled-1f8ceb.svg?style=flat-square)](https://dependabot.com/)
 [![NewReleases](https://newreleases.io/badge.svg)](https://newreleases.io/github/AlexRogalskiy/javascript-patterns)
-[![Hits-of-Code](https://hitsofcode.com/github/AlexRogalskiy/javascript-patterns)](https://hitsofcode.com/github/AlexRogalskiy/javascript-patterns/view)
+[![Hits-of-Code](https://hitsofcode.com/github/alexrogalskiy/javascript-patterns?branch=master)](https://hitsofcode.com/github/alexrogalskiy/javascript-patterns?branch=master/view?branch=master)
 [![ComVer](https://img.shields.io/badge/ComVer-compliant-brightgreen.svg)][repo]
 
 ## 🎹 _Table of contents_
@@ -64,21 +64,21 @@
 ## ☝ _Summary_
 
 <p align="center" style="text-align:center;">
-	<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"/>
-	<a href="https://www.repostatus.org/#active">
-		<img src="https://img.shields.io/badge/Project%20Status-Active-brightgreen" alt="Project Status: Active – The project has reached a stable, usable state and is being actively developed." />
-	</a>
-	<a href="https://badges.pufler.dev">
-		<img src="https://badges.pufler.dev/created/AlexRogalskiy/javascript-patterns" alt="Project created status" />
-	</a>
-	<a href="https://badges.pufler.dev">
-		<img src="https://badges.pufler.dev/updated/AlexRogalskiy/javascript-patterns" alt="Project updated status" />
-	</a>
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"/>
+    <a href="https://www.repostatus.org/#active">
+        <img src="https://img.shields.io/badge/Project%20Status-Active-brightgreen" alt="Project Status: Active – The project has reached a stable, usable state and is being actively developed." />
+    </a>
+    <a href="https://badges.pufler.dev">
+        <img src="https://badges.pufler.dev/created/AlexRogalskiy/javascript-patterns" alt="Project created status" />
+    </a>
+    <a href="https://badges.pufler.dev">
+        <img src="https://badges.pufler.dev/updated/AlexRogalskiy/javascript-patterns" alt="Project updated status" />
+    </a>
 </p>
 
 _**JavaScript Design Patterns**_ is intended to provide various use case scenarios and architectural concepts on prototyping adaptive applications.
 
-```text 
+```text
 mkdocs.yml    # Configuration file.
 docs/
     readme.md  # General information
