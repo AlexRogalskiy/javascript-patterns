@@ -281,7 +281,18 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 
 ### _ReactJS posts_
 
-<!-- REACTJS-POST-LIST:START --><!-- REACTJS-POST-LIST:END -->
+<!-- REACTJS-POST-LIST:START -->
+- [Introducing Zero-Bundle-Size React Server Components](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html)
+- [React v17.0](https://reactjs.org/blog/2020/10/20/react-v17.html)
+- [Introducing the New JSX Transform](https://reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html)
+- [React v17.0 Release Candidate: No New Features](https://reactjs.org/blog/2020/08/10/react-v17-rc.html)
+- [React v16.13.0](https://reactjs.org/blog/2020/02/26/react-v16.13.0.html)
+- [Building Great User Experiences with Concurrent Mode and Suspense](https://reactjs.org/blog/2019/11/06/building-great-user-experiences-with-concurrent-mode-and-suspense.html)
+- [Preparing for the Future with React Prereleases](https://reactjs.org/blog/2019/10/22/react-release-channels.html)
+- [Introducing the New React DevTools](https://reactjs.org/blog/2019/08/15/new-react-devtools.html)
+- [React v16.9.0 and the Roadmap Update](https://reactjs.org/blog/2019/08/08/react-v16.9.0.html)
+- [Is React Translated Yet? ¡Sí! Sim! はい！](https://reactjs.org/blog/2019/02/23/is-react-translated-yet.html)
+<!-- REACTJS-POST-LIST:END -->
 
 ### _javascript programmer posts_
 
