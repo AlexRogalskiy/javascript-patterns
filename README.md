@@ -227,16 +227,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Deploy Next.js Into Google Cloud Run With Github Actions](https://www.reddit.com/r/javascript/comments/laj2fm/deploy_nextjs_into_google_cloud_run_with_github/)
+- [[AskJS] JavaScript has "class" syntax sugar now... so should it have prototype sugar too?](https://www.reddit.com/r/javascript/comments/lagibf/askjs_javascript_has_class_syntax_sugar_now_so/)
+- [Send automatic patch notes/releases to your discord server, using this GitHub action. Powered by webhooks.](https://www.reddit.com/r/javascript/comments/lae9ek/send_automatic_patch_notesreleases_to_your/)
+- [Import-Remap: build tool to apply import-maps (since browsers don't yet support them)](https://www.reddit.com/r/javascript/comments/la9pr3/importremap_build_tool_to_apply_importmaps_since/)
+- [3 JavaScript features that bloat your ES5 bundle](https://www.reddit.com/r/javascript/comments/la89ec/3_javascript_features_that_bloat_your_es5_bundle/)
+- [Write Vue like you write React](https://www.reddit.com/r/javascript/comments/la86fp/write_vue_like_you_write_react/)
+- [Log and test RxJS observables with 1log](https://www.reddit.com/r/javascript/comments/la68fr/log_and_test_rxjs_observables_with_1log/)
+- [Prettify your JavaScript strings](https://www.reddit.com/r/javascript/comments/la50cu/prettify_your_javascript_strings/)
+- [Add contextual search, extractive QA and similarity ranking to JavaScript apps](https://www.reddit.com/r/javascript/comments/la47u5/add_contextual_search_extractive_qa_and/)
 - [emacs-ng: emacs with JavaScript/TypeScript/Async I/O and WebWorkers powered by Deno](https://www.reddit.com/r/javascript/comments/la1zw6/emacsng_emacs_with_javascripttypescriptasync_io/)
-- [Use streaming operators in React Components](https://www.reddit.com/r/javascript/comments/l9zyus/use_streaming_operators_in_react_components/)
-- [Your /r/javascript recap for the week of January 25 - January 31](https://www.reddit.com/r/javascript/comments/l9zseb/your_rjavascript_recap_for_the_week_of_january_25/)
-- [JavaScript and JQuery Interactive Front-End Web Development Download](https://www.reddit.com/r/javascript/comments/l9z290/javascript_and_jquery_interactive_frontend_web/)
-- [Moment.js - So long and thanks for all the fish!](https://www.reddit.com/r/javascript/comments/l9yaqy/momentjs_so_long_and_thanks_for_all_the_fish/)
-- [TypeScript Discriminated Unions: Problems and Solutions](https://www.reddit.com/r/javascript/comments/l9xxpw/typescript_discriminated_unions_problems_and/)
-- [What's new in ECMAScript 2021](https://www.reddit.com/r/javascript/comments/l9wtjf/whats_new_in_ecmascript_2021/)
-- [All about React's createRef method](https://www.reddit.com/r/javascript/comments/l9w852/all_about_reacts_createref_method/)
-- [React Snapshot Testing With Jest: An Introduction With Examples](https://www.reddit.com/r/javascript/comments/l9w6du/react_snapshot_testing_with_jest_an_introduction/)
-- [Fetch vs Axios: Which Is the Best Library for Making HTTP Requests?](https://www.reddit.com/r/javascript/comments/l9w2xb/fetch_vs_axios_which_is_the_best_library_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
