@@ -272,6 +272,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _YouTube code posts_
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [Async JS - Nacho Sainz [Spanish language]](https://www.youtube.com/watch?v=AwG9WfkDQrI)
 - [DevTools, the CSS advocate in your browse - Chen Hui Jing](https://www.youtube.com/watch?v=jMd82CaT100)
 - [A Powerful Introduction to Machine Learning with Js - Oliver Alejandro López  [spanish languaje]](https://www.youtube.com/watch?v=qV1SvbYdTrI)
 - [Deployed math - Brenda Berenice Ramos Hernández [spanish languaje]](https://www.youtube.com/watch?v=xUWckZyinq4)
@@ -281,7 +282,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 - [Code Factorization: How to Organize Boilerplate Code - Jaewon Seo  - JSConf Korea[Korean language]](https://www.youtube.com/watch?v=Urj-aaxB6mE)
 - [In Search of the Lost UI: A Tale of Design System Development - Woojin Jeon[Korean language]](https://www.youtube.com/watch?v=3Qo9mMT9VvU)
 - [Turning on an Air-Con 10 Mins before Arriving at Home - Justin Yoo [Korean language]](https://www.youtube.com/watch?v=xDd2B9uzqkc)
-- [DIY Data Visualization in JavaScript while Stanning BTS - Chloe Noh - JSConf Korea](https://www.youtube.com/watch?v=y1MrNZteYdA)
 <!-- YOUTUBE-POST-LIST:END -->
 
 ### _ReactJS posts_
