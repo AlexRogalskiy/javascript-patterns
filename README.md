@@ -227,16 +227,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Deploy Next.js Into Google Cloud Run With Github Actions](https://www.reddit.com/r/javascript/comments/laj2fm/deploy_nextjs_into_google_cloud_run_with_github/)
-- [[AskJS] JavaScript has "class" syntax sugar now... so should it have prototype sugar too?](https://www.reddit.com/r/javascript/comments/lagibf/askjs_javascript_has_class_syntax_sugar_now_so/)
-- [Send automatic patch notes/releases to your discord server, using this GitHub action. Powered by webhooks.](https://www.reddit.com/r/javascript/comments/lae9ek/send_automatic_patch_notesreleases_to_your/)
-- [Import-Remap: build tool to apply import-maps (since browsers don't yet support them)](https://www.reddit.com/r/javascript/comments/la9pr3/importremap_build_tool_to_apply_importmaps_since/)
-- [3 JavaScript features that bloat your ES5 bundle](https://www.reddit.com/r/javascript/comments/la89ec/3_javascript_features_that_bloat_your_es5_bundle/)
-- [Write Vue like you write React](https://www.reddit.com/r/javascript/comments/la86fp/write_vue_like_you_write_react/)
-- [Log and test RxJS observables with 1log](https://www.reddit.com/r/javascript/comments/la68fr/log_and_test_rxjs_observables_with_1log/)
-- [Prettify your JavaScript strings](https://www.reddit.com/r/javascript/comments/la50cu/prettify_your_javascript_strings/)
-- [Add contextual search, extractive QA and similarity ranking to JavaScript apps](https://www.reddit.com/r/javascript/comments/la47u5/add_contextual_search_extractive_qa_and/)
-- [emacs-ng: emacs with JavaScript/TypeScript/Async I/O and WebWorkers powered by Deno](https://www.reddit.com/r/javascript/comments/la1zw6/emacsng_emacs_with_javascripttypescriptasync_io/)
+- [Generate random data for your JSON dataset without configuration - easy with fakemyjson.io. Just launch my new baby :). Feedback welcome](https://www.reddit.com/r/javascript/comments/lb9jk2/generate_random_data_for_your_json_dataset/)
+- [[AskJS] AssemblyScript JS interpreter](https://www.reddit.com/r/javascript/comments/lb6ec8/askjs_assemblyscript_js_interpreter/)
+- [A react library for integrating spline.design models and animations using a single tag. Probably the easiest way to add 3d animations to the web.](https://www.reddit.com/r/javascript/comments/lb5avq/a_react_library_for_integrating_splinedesign/)
+- [[AskJS] Tensorflow.js Graph Object Detection](https://www.reddit.com/r/javascript/comments/lb3vxf/askjs_tensorflowjs_graph_object_detection/)
+- [Potential remote code execution vulnerability uncovered in Node.js apps](https://www.reddit.com/r/javascript/comments/lb0ndh/potential_remote_code_execution_vulnerability/)
+- [[AskJS] Why are generators so scarce in the real world?](https://www.reddit.com/r/javascript/comments/lazy71/askjs_why_are_generators_so_scarce_in_the_real/)
+- [factbook.json - 267 Public Domain (Free) Country Profiles / Datasets (incl. Population, Internet Users, etc.) Updated - Source: CIA World Factbook](https://www.reddit.com/r/javascript/comments/laz798/factbookjson_267_public_domain_free_country/)
+- [I needed a "feedback component" for my projects. Since I was unable to find one which met my requirements which is very minimal looking / user friendly and FREE this is what i came up with. I published it as a NPM package.](https://www.reddit.com/r/javascript/comments/laz0f1/i_needed_a_feedback_component_for_my_projects/)
+- [Advanced Redux: How to create multiple instances of a state slice](https://www.reddit.com/r/javascript/comments/lavxto/advanced_redux_how_to_create_multiple_instances/)
+- [Visual Studio Code: How Microsoft's 'any OS, any programming language, any software' plan is paying off | ZDNet](https://www.reddit.com/r/javascript/comments/lautii/visual_studio_code_how_microsofts_any_os_any/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
