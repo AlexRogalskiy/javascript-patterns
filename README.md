@@ -227,16 +227,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Generate random data for your JSON dataset without configuration - easy with fakemyjson.io. Just launch my new baby :). Feedback welcome](https://www.reddit.com/r/javascript/comments/lb9jk2/generate_random_data_for_your_json_dataset/)
-- [[AskJS] AssemblyScript JS interpreter](https://www.reddit.com/r/javascript/comments/lb6ec8/askjs_assemblyscript_js_interpreter/)
-- [A react library for integrating spline.design models and animations using a single tag. Probably the easiest way to add 3d animations to the web.](https://www.reddit.com/r/javascript/comments/lb5avq/a_react_library_for_integrating_splinedesign/)
-- [[AskJS] Tensorflow.js Graph Object Detection](https://www.reddit.com/r/javascript/comments/lb3vxf/askjs_tensorflowjs_graph_object_detection/)
-- [Potential remote code execution vulnerability uncovered in Node.js apps](https://www.reddit.com/r/javascript/comments/lb0ndh/potential_remote_code_execution_vulnerability/)
-- [[AskJS] Why are generators so scarce in the real world?](https://www.reddit.com/r/javascript/comments/lazy71/askjs_why_are_generators_so_scarce_in_the_real/)
-- [factbook.json - 267 Public Domain (Free) Country Profiles / Datasets (incl. Population, Internet Users, etc.) Updated - Source: CIA World Factbook](https://www.reddit.com/r/javascript/comments/laz798/factbookjson_267_public_domain_free_country/)
-- [I needed a "feedback component" for my projects. Since I was unable to find one which met my requirements which is very minimal looking / user friendly and FREE this is what i came up with. I published it as a NPM package.](https://www.reddit.com/r/javascript/comments/laz0f1/i_needed_a_feedback_component_for_my_projects/)
-- [Advanced Redux: How to create multiple instances of a state slice](https://www.reddit.com/r/javascript/comments/lavxto/advanced_redux_how_to_create_multiple_instances/)
-- [Visual Studio Code: How Microsoft's 'any OS, any programming language, any software' plan is paying off | ZDNet](https://www.reddit.com/r/javascript/comments/lautii/visual_studio_code_how_microsofts_any_os_any/)
+- [An architectural overview for Web RTC: A protocol for implementing video conferencing](https://www.reddit.com/r/javascript/comments/lbwy6n/an_architectural_overview_for_web_rtc_a_protocol/)
+- [Vue video-conferencing UI for Galène SFU](https://www.reddit.com/r/javascript/comments/lbwcxf/vue_videoconferencing_ui_for_galène_sfu/)
+- [[AskJS] Coding assignments, am I bad, tell me your interview horror stories!](https://www.reddit.com/r/javascript/comments/lbt2tx/askjs_coding_assignments_am_i_bad_tell_me_your/)
+- [Vite Land - New official Discord Server for Vitejs, Next-generation frontend tooling | Discussions about incredibly fast DX, optimized builds, plugin development, rollup, esbuild, SSR, and the future of web dev tooling | lit-html, Preact, React, Svelte, Vue | Join the chat! Everybody's welcome!](https://www.reddit.com/r/javascript/comments/lbppo1/vite_land_new_official_discord_server_for_vitejs/)
+- [JWT Authentication Best Practices](https://www.reddit.com/r/javascript/comments/lbpchv/jwt_authentication_best_practices/)
+- [The easy way to get started building your app with React: I published a set of open source React components named the InsuloJS library. They are designed to easily build React applications. I invite you to try them out.](https://www.reddit.com/r/javascript/comments/lbos27/the_easy_way_to_get_started_building_your_app/)
+- [Space SDK: Javascript/Typescript Modular interface library for building Open Web / distributed apps and Dapps on browser and mobile. Uses protocols like IPFS, Textile, GunDB.](https://www.reddit.com/r/javascript/comments/lbo3um/space_sdk_javascripttypescript_modular_interface/)
+- [I made a tool to create mini SVG infographics using various API like GitHub, LightHouse, Twitter, AniList, and more. Would love some feedback!](https://www.reddit.com/r/javascript/comments/lbnqj8/i_made_a_tool_to_create_mini_svg_infographics/)
+- [Understanding Redux Through Implementation Pt 2](https://www.reddit.com/r/javascript/comments/lblmqt/understanding_redux_through_implementation_pt_2/)
+- [React.js: Switch from PropTypes to TypeScript - If you are a React.js developer and does not use TypeScript, this article is for you!](https://www.reddit.com/r/javascript/comments/lbk8en/reactjs_switch_from_proptypes_to_typescript_if/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
