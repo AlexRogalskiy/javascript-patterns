@@ -227,16 +227,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [An architectural overview for Web RTC: A protocol for implementing video conferencing](https://www.reddit.com/r/javascript/comments/lbwy6n/an_architectural_overview_for_web_rtc_a_protocol/)
-- [Vue video-conferencing UI for Galène SFU](https://www.reddit.com/r/javascript/comments/lbwcxf/vue_videoconferencing_ui_for_galène_sfu/)
-- [[AskJS] Coding assignments, am I bad, tell me your interview horror stories!](https://www.reddit.com/r/javascript/comments/lbt2tx/askjs_coding_assignments_am_i_bad_tell_me_your/)
-- [Vite Land - New official Discord Server for Vitejs, Next-generation frontend tooling | Discussions about incredibly fast DX, optimized builds, plugin development, rollup, esbuild, SSR, and the future of web dev tooling | lit-html, Preact, React, Svelte, Vue | Join the chat! Everybody's welcome!](https://www.reddit.com/r/javascript/comments/lbppo1/vite_land_new_official_discord_server_for_vitejs/)
-- [JWT Authentication Best Practices](https://www.reddit.com/r/javascript/comments/lbpchv/jwt_authentication_best_practices/)
-- [The easy way to get started building your app with React: I published a set of open source React components named the InsuloJS library. They are designed to easily build React applications. I invite you to try them out.](https://www.reddit.com/r/javascript/comments/lbos27/the_easy_way_to_get_started_building_your_app/)
-- [Space SDK: Javascript/Typescript Modular interface library for building Open Web / distributed apps and Dapps on browser and mobile. Uses protocols like IPFS, Textile, GunDB.](https://www.reddit.com/r/javascript/comments/lbo3um/space_sdk_javascripttypescript_modular_interface/)
-- [I made a tool to create mini SVG infographics using various API like GitHub, LightHouse, Twitter, AniList, and more. Would love some feedback!](https://www.reddit.com/r/javascript/comments/lbnqj8/i_made_a_tool_to_create_mini_svg_infographics/)
-- [Understanding Redux Through Implementation Pt 2](https://www.reddit.com/r/javascript/comments/lblmqt/understanding_redux_through_implementation_pt_2/)
-- [React.js: Switch from PropTypes to TypeScript - If you are a React.js developer and does not use TypeScript, this article is for you!](https://www.reddit.com/r/javascript/comments/lbk8en/reactjs_switch_from_proptypes_to_typescript_if/)
+- [Day as percentage](https://www.reddit.com/r/javascript/comments/lcue6z/day_as_percentage/)
+- [Use of requestAnimationFrame](https://www.reddit.com/r/javascript/comments/lcu6vg/use_of_requestanimationframe/)
+- [liftd - a CLI tool to keep your yarn dependencies up to date](https://www.reddit.com/r/javascript/comments/lcpksu/liftd_a_cli_tool_to_keep_your_yarn_dependencies/)
+- [[AskJS] What is your weird JS trick you know?](https://www.reddit.com/r/javascript/comments/lcnena/askjs_what_is_your_weird_js_trick_you_know/)
+- [V8 release v8.9](https://www.reddit.com/r/javascript/comments/lcn5x8/v8_release_v89/)
+- [A tool for generating html from ES6 template literals that I built](https://www.reddit.com/r/javascript/comments/lcm8zz/a_tool_for_generating_html_from_es6_template/)
+- [Visual Studio Code January 2021](https://www.reddit.com/r/javascript/comments/lcl4d8/visual_studio_code_january_2021/)
+- [Zero Dependency, Vanilla JavaScript Tag Editor](https://www.reddit.com/r/javascript/comments/lcjzfe/zero_dependency_vanilla_javascript_tag_editor/)
+- [NPM 7 is now generally available!](https://www.reddit.com/r/javascript/comments/lcjgxb/npm_7_is_now_generally_available/)
+- [Fusuma - make slides with Markdown easily.](https://www.reddit.com/r/javascript/comments/lcjd0q/fusuma_make_slides_with_markdown_easily/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
