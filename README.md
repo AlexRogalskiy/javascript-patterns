@@ -272,6 +272,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _YouTube code posts_
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [Why WebAssembly - Miguel Useche  [Spanish language]](https://www.youtube.com/watch?v=BoV0o_aTBCA)
 - [Hacking Web Performance - Maximiliano Firtman  [Spanish language]](https://www.youtube.com/watch?v=dyABQXGgB7Y)
 - [Async JS - Nacho Sainz [Spanish language]](https://www.youtube.com/watch?v=AwG9WfkDQrI)
 - [DevTools, the CSS advocate in your browse - Chen Hui Jing](https://www.youtube.com/watch?v=jMd82CaT100)
@@ -280,8 +281,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 - [Your emotions are not an anti-pattern - Jenn Creighton](https://www.youtube.com/watch?v=FFSgOkKJ95c)
 - [Machine Learning Principles, with JavaScript? - Francisco Sevilla [spanish languaje]](https://www.youtube.com/watch?v=Bu8l_-3EAKY)
 - [Ode to the decade++ - Eva Ferreira  [spanish languaje]](https://www.youtube.com/watch?v=v74Jej_cdu0)
-- [Why WebAssembly - Miguel Useche  [Spanish language]](https://www.youtube.com/watch?v=BoV0o_aTBCA)
-- [Code Factorization: How to Organize Boilerplate Code - Jaewon Seo  - JSConf Korea[Korean language]](https://www.youtube.com/watch?v=Urj-aaxB6mE)
+- [Starting a thread: pin the right questions - Dora Makszy](https://www.youtube.com/watch?v=gmjIcE97JC8)
 <!-- YOUTUBE-POST-LIST:END -->
 
 ### _ReactJS posts_
