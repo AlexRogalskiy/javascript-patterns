@@ -371,10 +371,10 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _JavaScript Weekly posts_
 
 <!-- JAVASCRIPTWEEKLY-POST-LIST:START -->
+- [How GitHub keeps its new homepage fast](https://javascriptweekly.com/issues/524)
 - [undefined vs null in JavaScript](https://javascriptweekly.com/issues/523)
 - [What impact could modern JS have on your users?](https://javascriptweekly.com/issues/522)
 - [The State of JS 2020 survey results](https://javascriptweekly.com/issues/521)
-- [The top tools, stories, and resources of the past year.](https://javascriptweekly.com/issues/520)
 <!-- JAVASCRIPTWEEKLY-POST-LIST:END -->
 
 ### _Writing JavaScript posts_
