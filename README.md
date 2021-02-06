@@ -230,16 +230,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Day as percentage](https://www.reddit.com/r/javascript/comments/lcue6z/day_as_percentage/)
-- [Use of requestAnimationFrame](https://www.reddit.com/r/javascript/comments/lcu6vg/use_of_requestanimationframe/)
-- [liftd - a CLI tool to keep your yarn dependencies up to date](https://www.reddit.com/r/javascript/comments/lcpksu/liftd_a_cli_tool_to_keep_your_yarn_dependencies/)
-- [[AskJS] What is your weird JS trick you know?](https://www.reddit.com/r/javascript/comments/lcnena/askjs_what_is_your_weird_js_trick_you_know/)
-- [V8 release v8.9](https://www.reddit.com/r/javascript/comments/lcn5x8/v8_release_v89/)
-- [A tool for generating html from ES6 template literals that I built](https://www.reddit.com/r/javascript/comments/lcm8zz/a_tool_for_generating_html_from_es6_template/)
-- [Visual Studio Code January 2021](https://www.reddit.com/r/javascript/comments/lcl4d8/visual_studio_code_january_2021/)
-- [Zero Dependency, Vanilla JavaScript Tag Editor](https://www.reddit.com/r/javascript/comments/lcjzfe/zero_dependency_vanilla_javascript_tag_editor/)
-- [NPM 7 is now generally available!](https://www.reddit.com/r/javascript/comments/lcjgxb/npm_7_is_now_generally_available/)
-- [Fusuma - make slides with Markdown easily.](https://www.reddit.com/r/javascript/comments/lcjd0q/fusuma_make_slides_with_markdown_easily/)
+- [Attacking npm by using Abandoned Resources [LIVE]](https://www.reddit.com/r/javascript/comments/ldllf5/attacking_npm_by_using_abandoned_resources_live/)
+- [Google's Facemesh Model](https://www.reddit.com/r/javascript/comments/ldhknf/googles_facemesh_model/)
+- [Implementer's Guide to WebSockets](https://www.reddit.com/r/javascript/comments/ldgvaz/implementers_guide_to_websockets/)
+- [I made a PWA with Vue that generates markdown and HTML hyperlinks, it uses share targets as well as the clipboard API to make the process as intuitive as possible!](https://www.reddit.com/r/javascript/comments/ldgeae/i_made_a_pwa_with_vue_that_generates_markdown_and/)
+- [CodeMirror 6 Beta](https://www.reddit.com/r/javascript/comments/ldeup5/codemirror_6_beta/)
+- [[AskJS] Sensible Prototype Extensions?](https://www.reddit.com/r/javascript/comments/ldeojy/askjs_sensible_prototype_extensions/)
+- [ElectroDB: Create simple and easy to read dynamodb queries that support single table design, now with TypeScript generation in beta.](https://www.reddit.com/r/javascript/comments/ldch4j/electrodb_create_simple_and_easy_to_read_dynamodb/)
+- [[AskJS] Storing JWT refresh token in HttpOnly cookie ?](https://www.reddit.com/r/javascript/comments/ld8bxj/askjs_storing_jwt_refresh_token_in_httponly_cookie/)
+- [@angular/cli temporarily limit npm to version 6](https://www.reddit.com/r/javascript/comments/ld88na/angularcli_temporarily_limit_npm_to_version_6/)
+- [A modern React.js template for your projects in 2021](https://www.reddit.com/r/javascript/comments/ld86gk/a_modern_reactjs_template_for_your_projects_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
@@ -275,6 +275,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _YouTube code posts_
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [Starting a thread: pin the right questions - Dora Makszy](https://www.youtube.com/watch?v=gmjIcE97JC8)
 - [Why WebAssembly - Miguel Useche  [Spanish language]](https://www.youtube.com/watch?v=BoV0o_aTBCA)
 - [Hacking Web Performance - Maximiliano Firtman  [Spanish language]](https://www.youtube.com/watch?v=dyABQXGgB7Y)
 - [Async JS - Nacho Sainz [Spanish language]](https://www.youtube.com/watch?v=AwG9WfkDQrI)
@@ -284,7 +285,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 - [Your emotions are not an anti-pattern - Jenn Creighton](https://www.youtube.com/watch?v=FFSgOkKJ95c)
 - [Machine Learning Principles, with JavaScript? - Francisco Sevilla [spanish languaje]](https://www.youtube.com/watch?v=Bu8l_-3EAKY)
 - [Ode to the decade++ - Eva Ferreira  [spanish languaje]](https://www.youtube.com/watch?v=v74Jej_cdu0)
-- [Starting a thread: pin the right questions - Dora Makszy](https://www.youtube.com/watch?v=gmjIcE97JC8)
 <!-- YOUTUBE-POST-LIST:END -->
 
 ### _ReactJS posts_
@@ -371,10 +371,10 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _JavaScript Weekly posts_
 
 <!-- JAVASCRIPTWEEKLY-POST-LIST:START -->
+- [How GitHub keeps its new homepage fast](https://javascriptweekly.com/issues/524)
 - [undefined vs null in JavaScript](https://javascriptweekly.com/issues/523)
 - [What impact could modern JS have on your users?](https://javascriptweekly.com/issues/522)
 - [The State of JS 2020 survey results](https://javascriptweekly.com/issues/521)
-- [The top tools, stories, and resources of the past year.](https://javascriptweekly.com/issues/520)
 <!-- JAVASCRIPTWEEKLY-POST-LIST:END -->
 
 ### _Writing JavaScript posts_
