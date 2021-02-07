@@ -11,8 +11,8 @@ jobs:
       THEME: light
       MARKDOWN_ENABLED: 1
       FONT_SIZE: 75px
-      IMAGES_HEIGHT: ( 200 200 )
-      IMAGES: ( 'https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-black.svg' 'https://simpleicons.org/icons/github.svg' )
+      IMAGES_HEIGHT: "200, 200"
+      IMAGES: "https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-black.svg', 'https://simpleicons.org/icons/github.svg"
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
@@ -22,17 +22,21 @@ jobs:
 
       - name: Create OpenGraph card
         run: |
+          IFS=', '
+
           full_path="${BASE_PATH}/${QUERY_PATH}"
           full_path="${full_path}?theme=${THEME}"
           full_path="${full_path}&md=${MARKDOWN_ENABLED}"
           full_path="${full_path}&fontSize=${FONT_SIZE}"
 
-          for i in "${IMAGES[@]}"
+          read -r -a array <<< "$IMAGES"
+          for i in "${array[@]}"
           do
             full_path="${full_path}&images=$i"
           done
 
-          for i in "${IMAGES_HEIGHT[@]}"
+          read -r -a array <<< "$IMAGES_HEIGHT"
+          for i in "${array[@]}"
           do
             full_path="${full_path}&heights=$i"
           done
