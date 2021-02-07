@@ -225,6 +225,12 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 
 [![Stargazers repo roster for @AlexRogalskiy/javascript-patterns](https://reporoster.com/stars/AlexRogalskiy/javascript-patterns)][stars]
 
+## 📎 _OpenGraph Card_
+
+<p align="center" style="text-align:center;">
+    <img alt="OpenGraph card" src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patterns/master/images/opengraph-card.png"/>
+</p>
+
 ## 🔥 _Feeds and Podcasts_
 
 ### _Reddit posts_
