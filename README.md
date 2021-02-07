@@ -230,16 +230,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Attacking npm by using Abandoned Resources [LIVE]](https://www.reddit.com/r/javascript/comments/ldllf5/attacking_npm_by_using_abandoned_resources_live/)
-- [Google's Facemesh Model](https://www.reddit.com/r/javascript/comments/ldhknf/googles_facemesh_model/)
-- [Implementer's Guide to WebSockets](https://www.reddit.com/r/javascript/comments/ldgvaz/implementers_guide_to_websockets/)
-- [I made a PWA with Vue that generates markdown and HTML hyperlinks, it uses share targets as well as the clipboard API to make the process as intuitive as possible!](https://www.reddit.com/r/javascript/comments/ldgeae/i_made_a_pwa_with_vue_that_generates_markdown_and/)
-- [CodeMirror 6 Beta](https://www.reddit.com/r/javascript/comments/ldeup5/codemirror_6_beta/)
-- [[AskJS] Sensible Prototype Extensions?](https://www.reddit.com/r/javascript/comments/ldeojy/askjs_sensible_prototype_extensions/)
-- [ElectroDB: Create simple and easy to read dynamodb queries that support single table design, now with TypeScript generation in beta.](https://www.reddit.com/r/javascript/comments/ldch4j/electrodb_create_simple_and_easy_to_read_dynamodb/)
-- [[AskJS] Storing JWT refresh token in HttpOnly cookie ?](https://www.reddit.com/r/javascript/comments/ld8bxj/askjs_storing_jwt_refresh_token_in_httponly_cookie/)
-- [@angular/cli temporarily limit npm to version 6](https://www.reddit.com/r/javascript/comments/ld88na/angularcli_temporarily_limit_npm_to_version_6/)
-- [A modern React.js template for your projects in 2021](https://www.reddit.com/r/javascript/comments/ld86gk/a_modern_reactjs_template_for_your_projects_in/)
+- [Just published a new blog post on setting up a Mac for NativeScript Android development!](https://www.reddit.com/r/javascript/comments/le7v6l/just_published_a_new_blog_post_on_setting_up_a/)
+- [Generators in Javascript: How to use them](https://www.reddit.com/r/javascript/comments/le3bus/generators_in_javascript_how_to_use_them/)
+- [A tool made in React for creating structured Stand Up notes for your meetings](https://www.reddit.com/r/javascript/comments/le2v2v/a_tool_made_in_react_for_creating_structured/)
+- [Metabase - The simplest, fastest way to get business intelligence and analytics to everyone in your company](https://www.reddit.com/r/javascript/comments/le2j3t/metabase_the_simplest_fastest_way_to_get_business/)
+- [iMove is a logic-reusable, function-oriented and process-visualized JavaScript tool library.](https://www.reddit.com/r/javascript/comments/ldzczi/imove_is_a_logicreusable_functionoriented_and/)
+- [Discover WebAssembly System Interface (WASI) with C/Rust use cases](https://www.reddit.com/r/javascript/comments/ldykyd/discover_webassembly_system_interface_wasi_with/)
+- [A Post-Mortem in 5 Acts, of How Microsoft Privatized Open Source, killing JavaScript in the Process.](https://www.reddit.com/r/javascript/comments/ldx2ff/a_postmortem_in_5_acts_of_how_microsoft/)
+- [SpeedTyper.dev: Type racing for programmers](https://www.reddit.com/r/javascript/comments/ldu77i/speedtyperdev_type_racing_for_programmers/)
+- [How to Change Look & Feel of Pseudo Elements using JavaScript and CSS Custom Properties](https://www.reddit.com/r/javascript/comments/ldtv4q/how_to_change_look_feel_of_pseudo_elements_using/)
+- [Showoff Saturday (February 06, 2021)](https://www.reddit.com/r/javascript/comments/ldstlf/showoff_saturday_february_06_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
