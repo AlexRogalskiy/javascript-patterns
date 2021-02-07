@@ -39,6 +39,7 @@ jobs:
 
           echo "$full_path"
           curl "$full_path" > ./images/opengraph-card2.png
+        shell: bash
 
       - name: Commit update
         uses: stefanzweifel/git-auto-commit-action@v4
