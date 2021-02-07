@@ -37,6 +37,7 @@ jobs:
             full_path="${full_path}&heights=$i"
           done
 
+          echo "$full_path"
           curl "$full_path" > ./images/opengraph-card2.png
 
       - name: Commit update
