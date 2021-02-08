@@ -237,16 +237,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Just published a new blog post on setting up a Mac for NativeScript Android development!](https://www.reddit.com/r/javascript/comments/le7v6l/just_published_a_new_blog_post_on_setting_up_a/)
-- [Generators in Javascript: How to use them](https://www.reddit.com/r/javascript/comments/le3bus/generators_in_javascript_how_to_use_them/)
-- [A tool made in React for creating structured Stand Up notes for your meetings](https://www.reddit.com/r/javascript/comments/le2v2v/a_tool_made_in_react_for_creating_structured/)
-- [Metabase - The simplest, fastest way to get business intelligence and analytics to everyone in your company](https://www.reddit.com/r/javascript/comments/le2j3t/metabase_the_simplest_fastest_way_to_get_business/)
-- [iMove is a logic-reusable, function-oriented and process-visualized JavaScript tool library.](https://www.reddit.com/r/javascript/comments/ldzczi/imove_is_a_logicreusable_functionoriented_and/)
-- [Discover WebAssembly System Interface (WASI) with C/Rust use cases](https://www.reddit.com/r/javascript/comments/ldykyd/discover_webassembly_system_interface_wasi_with/)
-- [A Post-Mortem in 5 Acts, of How Microsoft Privatized Open Source, killing JavaScript in the Process.](https://www.reddit.com/r/javascript/comments/ldx2ff/a_postmortem_in_5_acts_of_how_microsoft/)
-- [SpeedTyper.dev: Type racing for programmers](https://www.reddit.com/r/javascript/comments/ldu77i/speedtyperdev_type_racing_for_programmers/)
-- [How to Change Look & Feel of Pseudo Elements using JavaScript and CSS Custom Properties](https://www.reddit.com/r/javascript/comments/ldtv4q/how_to_change_look_feel_of_pseudo_elements_using/)
-- [Showoff Saturday (February 06, 2021)](https://www.reddit.com/r/javascript/comments/ldstlf/showoff_saturday_february_06_2021/)
+- [[AskJS] electron to neutralino, what should I consider prior to migration?](https://www.reddit.com/r/javascript/comments/ley9e7/askjs_electron_to_neutralino_what_should_i/)
+- [[AskJS] How can I store the return value of a node script in a bash variable?](https://www.reddit.com/r/javascript/comments/lex1x5/askjs_how_can_i_store_the_return_value_of_a_node/)
+- [[AskJS] How can I make a picture that you click spots and it shows a word?](https://www.reddit.com/r/javascript/comments/levxm1/askjs_how_can_i_make_a_picture_that_you_click/)
+- [Explanation for webpack](https://www.reddit.com/r/javascript/comments/leu4ha/explanation_for_webpack/)
+- [JavaScript's Memory Management Explained](https://www.reddit.com/r/javascript/comments/let3nx/javascripts_memory_management_explained/)
+- [Flecs - Entity Component System implementation for the web](https://www.reddit.com/r/javascript/comments/les81d/flecs_entity_component_system_implementation_for/)
+- [privatenumber/minification-benchmarks JS minification benchmarks](https://www.reddit.com/r/javascript/comments/leqs8n/privatenumberminificationbenchmarks_js/)
+- [rp-codemirror: lightweight, copy/pastable, runnable code recordings](https://www.reddit.com/r/javascript/comments/lep17u/rpcodemirror_lightweight_copypastable_runnable/)
+- [Build an interactive kanban board with Vue Draggable](https://www.reddit.com/r/javascript/comments/lejtfk/build_an_interactive_kanban_board_with_vue/)
+- [Using JS Modules (ESM) in Node.js: A Practical Guide (Part 1)](https://www.reddit.com/r/javascript/comments/leisvd/using_js_modules_esm_in_nodejs_a_practical_guide/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
