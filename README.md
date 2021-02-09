@@ -237,16 +237,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] electron to neutralino, what should I consider prior to migration?](https://www.reddit.com/r/javascript/comments/ley9e7/askjs_electron_to_neutralino_what_should_i/)
-- [[AskJS] How can I store the return value of a node script in a bash variable?](https://www.reddit.com/r/javascript/comments/lex1x5/askjs_how_can_i_store_the_return_value_of_a_node/)
-- [[AskJS] How can I make a picture that you click spots and it shows a word?](https://www.reddit.com/r/javascript/comments/levxm1/askjs_how_can_i_make_a_picture_that_you_click/)
-- [Explanation for webpack](https://www.reddit.com/r/javascript/comments/leu4ha/explanation_for_webpack/)
-- [JavaScript's Memory Management Explained](https://www.reddit.com/r/javascript/comments/let3nx/javascripts_memory_management_explained/)
-- [Flecs - Entity Component System implementation for the web](https://www.reddit.com/r/javascript/comments/les81d/flecs_entity_component_system_implementation_for/)
-- [privatenumber/minification-benchmarks JS minification benchmarks](https://www.reddit.com/r/javascript/comments/leqs8n/privatenumberminificationbenchmarks_js/)
-- [rp-codemirror: lightweight, copy/pastable, runnable code recordings](https://www.reddit.com/r/javascript/comments/lep17u/rpcodemirror_lightweight_copypastable_runnable/)
-- [Build an interactive kanban board with Vue Draggable](https://www.reddit.com/r/javascript/comments/lejtfk/build_an_interactive_kanban_board_with_vue/)
-- [Using JS Modules (ESM) in Node.js: A Practical Guide (Part 1)](https://www.reddit.com/r/javascript/comments/leisvd/using_js_modules_esm_in_nodejs_a_practical_guide/)
+- [monumental javaScript cheat sheet](https://www.reddit.com/r/javascript/comments/lfr3vv/monumental_javascript_cheat_sheet/)
+- [npm - Catching Up with Package Lockfile Changes in v7](https://www.reddit.com/r/javascript/comments/lfo8gt/npm_catching_up_with_package_lockfile_changes_in/)
+- [Ruby on Rails Creator Takes on JavaScript Frameworks with Hotwire](https://www.reddit.com/r/javascript/comments/lfmi4p/ruby_on_rails_creator_takes_on_javascript/)
+- [Multi-functional Panes & Boards](https://www.reddit.com/r/javascript/comments/lflzn3/multifunctional_panes_boards/)
+- [Other tools for Monadic error handling on TypeScript](https://www.reddit.com/r/javascript/comments/lfkn56/other_tools_for_monadic_error_handling_on/)
+- [Husky, a popular JavaScript project with 4M weekly downloads, drops MIT license](https://www.reddit.com/r/javascript/comments/lfk9hc/husky_a_popular_javascript_project_with_4m_weekly/)
+- [High Performance HTML Rendering: How to properly use a game loop with HTML canvas drawings](https://www.reddit.com/r/javascript/comments/lfh6ru/high_performance_html_rendering_how_to_properly/)
+- [Clean code through Reactive programming in Angular with RxJS](https://www.reddit.com/r/javascript/comments/lfd20t/clean_code_through_reactive_programming_in/)
+- [A year, 100 releases, from 0.0.1 to 1.0.0.](https://www.reddit.com/r/javascript/comments/lfbmyo/a_year_100_releases_from_001_to_100/)
+- [DeriveJS version 2 - new major release for the reactive ODM for Node and MongoDB. Now uses Change Streams for events and callbacks, new syntax for update callbacks, and support for `delete`](https://www.reddit.com/r/javascript/comments/lf9t32/derivejs_version_2_new_major_release_for_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
