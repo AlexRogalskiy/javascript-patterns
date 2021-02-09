@@ -333,6 +333,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _NodeSource posts_
 
 <!-- NODESOURCE-POST-LIST:START -->
+- [PagerDuty integration with NSolid](https://nodesource.com/blog/pagerduty-integration-with-NSolid)
 - [Node By Numbers 2020](https://nodesource.com/blog/node-by-numbers-2020)
 - [Need to Node – Volume 69](https://nodesource.com/blog/need-to-node-vol-69)
 - [Security Release for NSolid Version 4.4.1](https://nodesource.com/blog/security-release-for-NSolid-version-4.4.1)
@@ -342,7 +343,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 - [Announcing N|Solid 4.3.0 - Import/Export Settings](https://nodesource.com/blog/announcing-NSolid-4.3.0)
 - [Announcing N|Solid JS API](https://nodesource.com/blog/announcing-NSolid-JS-API)
 - [Announcing N|Solid Version 4.1.0 - NCM in N|Solid Console and NCM Strict Mode](https://nodesource.com/blog/announcing-NSolid-Version-4.1.0)
-- [N|Solid v4 - now with Windows support](https://nodesource.com/blog/nsolid-available-windows10)
 <!-- NODESOURCE-POST-LIST:END -->
 
 ### _React Native posts_
