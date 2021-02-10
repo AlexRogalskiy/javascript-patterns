@@ -333,7 +333,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _NodeSource posts_
 
 <!-- NODESOURCE-POST-LIST:START -->
-- [PagerDuty integration with NSolid](https://nodesource.com/blog/pagerduty-integration-with-NSolid)
+- [PagerDuty integration with N|Solid](https://nodesource.com/blog/pagerduty-integration-with-NSolid)
 - [Node By Numbers 2020](https://nodesource.com/blog/node-by-numbers-2020)
 - [Need to Node – Volume 69](https://nodesource.com/blog/need-to-node-vol-69)
 - [Security Release for NSolid Version 4.4.1](https://nodesource.com/blog/security-release-for-NSolid-version-4.4.1)
