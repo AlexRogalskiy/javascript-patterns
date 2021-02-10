@@ -237,16 +237,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [monumental javaScript cheat sheet](https://www.reddit.com/r/javascript/comments/lfr3vv/monumental_javascript_cheat_sheet/)
-- [npm - Catching Up with Package Lockfile Changes in v7](https://www.reddit.com/r/javascript/comments/lfo8gt/npm_catching_up_with_package_lockfile_changes_in/)
-- [Ruby on Rails Creator Takes on JavaScript Frameworks with Hotwire](https://www.reddit.com/r/javascript/comments/lfmi4p/ruby_on_rails_creator_takes_on_javascript/)
-- [Multi-functional Panes & Boards](https://www.reddit.com/r/javascript/comments/lflzn3/multifunctional_panes_boards/)
-- [Other tools for Monadic error handling on TypeScript](https://www.reddit.com/r/javascript/comments/lfkn56/other_tools_for_monadic_error_handling_on/)
-- [Husky, a popular JavaScript project with 4M weekly downloads, drops MIT license](https://www.reddit.com/r/javascript/comments/lfk9hc/husky_a_popular_javascript_project_with_4m_weekly/)
-- [High Performance HTML Rendering: How to properly use a game loop with HTML canvas drawings](https://www.reddit.com/r/javascript/comments/lfh6ru/high_performance_html_rendering_how_to_properly/)
-- [Clean code through Reactive programming in Angular with RxJS](https://www.reddit.com/r/javascript/comments/lfd20t/clean_code_through_reactive_programming_in/)
-- [A year, 100 releases, from 0.0.1 to 1.0.0.](https://www.reddit.com/r/javascript/comments/lfbmyo/a_year_100_releases_from_001_to_100/)
-- [DeriveJS version 2 - new major release for the reactive ODM for Node and MongoDB. Now uses Change Streams for events and callbacks, new syntax for update callbacks, and support for `delete`](https://www.reddit.com/r/javascript/comments/lf9t32/derivejs_version_2_new_major_release_for_the/)
+- [useMemo inspired memoization outside of React Tree.](https://www.reddit.com/r/javascript/comments/lghdsp/usememo_inspired_memoization_outside_of_react_tree/)
+- [r-assign - Object.assign() with super powers](https://www.reddit.com/r/javascript/comments/lgf3zf/rassign_objectassign_with_super_powers/)
+- [Gaze-detection - Use machine learning in JavaScript to detect eye movements and build gaze-controlled experiences](https://www.reddit.com/r/javascript/comments/lgdwks/gazedetection_use_machine_learning_in_javascript/)
+- [Future of state management in React with XState](https://www.reddit.com/r/javascript/comments/lgdtz4/future_of_state_management_in_react_with_xstate/)
+- [The last REST API client library that you will ever need](https://www.reddit.com/r/javascript/comments/lgcehs/the_last_rest_api_client_library_that_you_will/)
+- [SVG Experiments - I am not a front-end developer or anything, but SVG was my gateway to this wonderful language so I would like to share some experiments.](https://www.reddit.com/r/javascript/comments/lgb5sc/svg_experiments_i_am_not_a_frontend_developer_or/)
+- [Browser fuzzing at Mozilla](https://www.reddit.com/r/javascript/comments/lg9m9f/browser_fuzzing_at_mozilla/)
+- [Node.js 14 is over 20x faster than Python3.8 for fib(n)](https://www.reddit.com/r/javascript/comments/lg80p2/nodejs_14_is_over_20x_faster_than_python38_for/)
+- [Node.js Modules, Packages, and SemVer](https://www.reddit.com/r/javascript/comments/lg7v18/nodejs_modules_packages_and_semver/)
+- [A Hands-on Introduction to Fine-Grained Reactivity](https://www.reddit.com/r/javascript/comments/lg603p/a_handson_introduction_to_finegrained_reactivity/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
