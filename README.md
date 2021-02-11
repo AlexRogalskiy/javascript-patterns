@@ -237,16 +237,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [useMemo inspired memoization outside of React Tree.](https://www.reddit.com/r/javascript/comments/lghdsp/usememo_inspired_memoization_outside_of_react_tree/)
-- [r-assign - Object.assign() with super powers](https://www.reddit.com/r/javascript/comments/lgf3zf/rassign_objectassign_with_super_powers/)
-- [Gaze-detection - Use machine learning in JavaScript to detect eye movements and build gaze-controlled experiences](https://www.reddit.com/r/javascript/comments/lgdwks/gazedetection_use_machine_learning_in_javascript/)
-- [Future of state management in React with XState](https://www.reddit.com/r/javascript/comments/lgdtz4/future_of_state_management_in_react_with_xstate/)
-- [The last REST API client library that you will ever need](https://www.reddit.com/r/javascript/comments/lgcehs/the_last_rest_api_client_library_that_you_will/)
-- [SVG Experiments - I am not a front-end developer or anything, but SVG was my gateway to this wonderful language so I would like to share some experiments.](https://www.reddit.com/r/javascript/comments/lgb5sc/svg_experiments_i_am_not_a_frontend_developer_or/)
-- [Browser fuzzing at Mozilla](https://www.reddit.com/r/javascript/comments/lg9m9f/browser_fuzzing_at_mozilla/)
-- [Node.js 14 is over 20x faster than Python3.8 for fib(n)](https://www.reddit.com/r/javascript/comments/lg80p2/nodejs_14_is_over_20x_faster_than_python38_for/)
-- [Node.js Modules, Packages, and SemVer](https://www.reddit.com/r/javascript/comments/lg7v18/nodejs_modules_packages_and_semver/)
-- [A Hands-on Introduction to Fine-Grained Reactivity](https://www.reddit.com/r/javascript/comments/lg603p/a_handson_introduction_to_finegrained_reactivity/)
+- [I made a hello world program in JSFuck, all written by hand (though I had to do a little bit of cheating, couldn't figure out how to get the apostrophe)](https://www.reddit.com/r/javascript/comments/lh8tfs/i_made_a_hello_world_program_in_jsfuck_all/)
+- [Explosiv, a simple JSX static site generator. (no React, just JSX)](https://www.reddit.com/r/javascript/comments/lh81o1/explosiv_a_simple_jsx_static_site_generator_no/)
+- [charliegerard/gaze-detection Use machine learning in JavaScript to detect eye movements and build gaze-controlled experiences!](https://www.reddit.com/r/javascript/comments/lh4lgo/charliegerardgazedetection_use_machine_learning/)
+- [Dependency Confusion: A write-up on mirroring vulnerabilities in npm](https://www.reddit.com/r/javascript/comments/lgyjh4/dependency_confusion_a_writeup_on_mirroring/)
+- [LinkeDOM - A faster, ESModule friendly, and more readable alternative to JSDOM](https://www.reddit.com/r/javascript/comments/lgycvs/linkedom_a_faster_esmodule_friendly_and_more/)
+- [MPI-like Parallel Programming in JavaScript](https://www.reddit.com/r/javascript/comments/lgy3sp/mpilike_parallel_programming_in_javascript/)
+- [One second to read GitHub code with VS Code.](https://www.reddit.com/r/javascript/comments/lgxe5v/one_second_to_read_github_code_with_vs_code/)
+- [Maintain a Single Layer of Abstraction at a Time | Object-Oriented Design Principles w/ TypeScript](https://www.reddit.com/r/javascript/comments/lgwv5e/maintain_a_single_layer_of_abstraction_at_a_time/)
+- [[GitHub Action] pkg-size-action - Automatic size change reports on your PRs](https://www.reddit.com/r/javascript/comments/lgvkue/github_action_pkgsizeaction_automatic_size_change/)
+- [What are the key changes in dotenv-linter v3.0.0 release?](https://www.reddit.com/r/javascript/comments/lgu2ss/what_are_the_key_changes_in_dotenvlinter_v300/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
