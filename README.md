@@ -237,16 +237,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [I made a hello world program in JSFuck, all written by hand (though I had to do a little bit of cheating, couldn't figure out how to get the apostrophe)](https://www.reddit.com/r/javascript/comments/lh8tfs/i_made_a_hello_world_program_in_jsfuck_all/)
-- [Explosiv, a simple JSX static site generator. (no React, just JSX)](https://www.reddit.com/r/javascript/comments/lh81o1/explosiv_a_simple_jsx_static_site_generator_no/)
-- [charliegerard/gaze-detection Use machine learning in JavaScript to detect eye movements and build gaze-controlled experiences!](https://www.reddit.com/r/javascript/comments/lh4lgo/charliegerardgazedetection_use_machine_learning/)
-- [Dependency Confusion: A write-up on mirroring vulnerabilities in npm](https://www.reddit.com/r/javascript/comments/lgyjh4/dependency_confusion_a_writeup_on_mirroring/)
-- [LinkeDOM - A faster, ESModule friendly, and more readable alternative to JSDOM](https://www.reddit.com/r/javascript/comments/lgycvs/linkedom_a_faster_esmodule_friendly_and_more/)
-- [MPI-like Parallel Programming in JavaScript](https://www.reddit.com/r/javascript/comments/lgy3sp/mpilike_parallel_programming_in_javascript/)
-- [One second to read GitHub code with VS Code.](https://www.reddit.com/r/javascript/comments/lgxe5v/one_second_to_read_github_code_with_vs_code/)
-- [Maintain a Single Layer of Abstraction at a Time | Object-Oriented Design Principles w/ TypeScript](https://www.reddit.com/r/javascript/comments/lgwv5e/maintain_a_single_layer_of_abstraction_at_a_time/)
-- [[GitHub Action] pkg-size-action - Automatic size change reports on your PRs](https://www.reddit.com/r/javascript/comments/lgvkue/github_action_pkgsizeaction_automatic_size_change/)
-- [What are the key changes in dotenv-linter v3.0.0 release?](https://www.reddit.com/r/javascript/comments/lgu2ss/what_are_the_key_changes_in_dotenvlinter_v300/)
+- [Simple caching in Javascript using the new Logical nullish assignment (??=) operator](https://www.reddit.com/r/javascript/comments/lhye9m/simple_caching_in_javascript_using_the_new/)
+- [A Post-Mortem in 5 Acts, of How Microsoft Privatized Open Source, killing JavaScript in the Process](https://www.reddit.com/r/javascript/comments/lhy8y3/a_postmortem_in_5_acts_of_how_microsoft/)
+- [Announcing TypeScript 4.2 RC](https://www.reddit.com/r/javascript/comments/lhxv98/announcing_typescript_42_rc/)
+- [[AskJS] Do you prefer ‘single’ or “double” quotations? Why?](https://www.reddit.com/r/javascript/comments/lhxawv/askjs_do_you_prefer_single_or_double_quotations/)
+- [Yarn v2 plugin for watching workspaces (installs/removes dependencies automatically during development in response to changes in package.json)](https://www.reddit.com/r/javascript/comments/lhv69h/yarn_v2_plugin_for_watching_workspaces/)
+- [Implementing Matrix Multiplication with WebGPU in Safari](https://www.reddit.com/r/javascript/comments/lhsg2h/implementing_matrix_multiplication_with_webgpu_in/)
+- [eBay Launches Marko 5](https://www.reddit.com/r/javascript/comments/lhqyv2/ebay_launches_marko_5/)
+- [Indexing 226,379 API endpoints with JavaScript](https://www.reddit.com/r/javascript/comments/lhpxnd/indexing_226379_api_endpoints_with_javascript/)
+- [“Computer! Tea, Earl Grey, Hot”: Offline Voice on NodeJS](https://www.reddit.com/r/javascript/comments/lhoe2a/computer_tea_earl_grey_hot_offline_voice_on_nodejs/)
+- [MDN localization update, February 2021](https://www.reddit.com/r/javascript/comments/lho3dl/mdn_localization_update_february_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
