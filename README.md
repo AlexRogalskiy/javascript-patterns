@@ -282,6 +282,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _YouTube code posts_
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [From beginner to expert in web performance  - Tracy Lee](https://www.youtube.com/watch?v=l1A1ImFkNvA)
 - [Accessibility, what do you eat that with? - Marjorie Figueroa (Spanish language)](https://www.youtube.com/watch?v=nOTw35C5ba4)
 - [Micro Frontends, or how to evolve to an extensible frontend - Benjamín Martínez (Spanish langauaje)](https://www.youtube.com/watch?v=qAzL3QmmtVg)
 - [React is hard but not why you may think  - Sara Vieira](https://www.youtube.com/watch?v=MmQvVkYMi8g)
@@ -291,7 +292,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 - [Async JS - Nacho Sainz [Spanish language]](https://www.youtube.com/watch?v=AwG9WfkDQrI)
 - [DevTools, the CSS advocate in your browse - Chen Hui Jing](https://www.youtube.com/watch?v=jMd82CaT100)
 - [A Powerful Introduction to Machine Learning with Js - Oliver Alejandro López  [spanish languaje]](https://www.youtube.com/watch?v=qV1SvbYdTrI)
-- [Deployed math - Brenda Berenice Ramos Hernández [spanish languaje]](https://www.youtube.com/watch?v=xUWckZyinq4)
 <!-- YOUTUBE-POST-LIST:END -->
 
 ### _ReactJS posts_
