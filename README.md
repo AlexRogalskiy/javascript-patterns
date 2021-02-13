@@ -237,16 +237,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Simple caching in Javascript using the new Logical nullish assignment (??=) operator](https://www.reddit.com/r/javascript/comments/lhye9m/simple_caching_in_javascript_using_the_new/)
-- [A Post-Mortem in 5 Acts, of How Microsoft Privatized Open Source, killing JavaScript in the Process](https://www.reddit.com/r/javascript/comments/lhy8y3/a_postmortem_in_5_acts_of_how_microsoft/)
-- [Announcing TypeScript 4.2 RC](https://www.reddit.com/r/javascript/comments/lhxv98/announcing_typescript_42_rc/)
-- [[AskJS] Do you prefer ‘single’ or “double” quotations? Why?](https://www.reddit.com/r/javascript/comments/lhxawv/askjs_do_you_prefer_single_or_double_quotations/)
-- [Yarn v2 plugin for watching workspaces (installs/removes dependencies automatically during development in response to changes in package.json)](https://www.reddit.com/r/javascript/comments/lhv69h/yarn_v2_plugin_for_watching_workspaces/)
-- [Implementing Matrix Multiplication with WebGPU in Safari](https://www.reddit.com/r/javascript/comments/lhsg2h/implementing_matrix_multiplication_with_webgpu_in/)
-- [eBay Launches Marko 5](https://www.reddit.com/r/javascript/comments/lhqyv2/ebay_launches_marko_5/)
-- [Indexing 226,379 API endpoints with JavaScript](https://www.reddit.com/r/javascript/comments/lhpxnd/indexing_226379_api_endpoints_with_javascript/)
-- [“Computer! Tea, Earl Grey, Hot”: Offline Voice on NodeJS](https://www.reddit.com/r/javascript/comments/lhoe2a/computer_tea_earl_grey_hot_offline_voice_on_nodejs/)
-- [MDN localization update, February 2021](https://www.reddit.com/r/javascript/comments/lho3dl/mdn_localization_update_february_2021/)
+- [npm update - What's new in npm 7 [LIVE]](https://www.reddit.com/r/javascript/comments/lioetf/npm_update_whats_new_in_npm_7_live/)
+- [A Vue3 renderer for slack](https://www.reddit.com/r/javascript/comments/liidxj/a_vue3_renderer_for_slack/)
+- [Domain-Driven Hexagon - architecture and best practices](https://www.reddit.com/r/javascript/comments/lih9h0/domaindriven_hexagon_architecture_and_best/)
+- [Modern Javascript -- Nullish coalescing operator (??)](https://www.reddit.com/r/javascript/comments/lig3a9/modern_javascript_nullish_coalescing_operator/)
+- [ImageStore - An open-source alternative to Google photos](https://www.reddit.com/r/javascript/comments/lienp3/imagestore_an_opensource_alternative_to_google/)
+- [How to Implement Google Photos Grid in javascript](https://www.reddit.com/r/javascript/comments/lic5f8/how_to_implement_google_photos_grid_in_javascript/)
+- [Minimalistic Command Line Notification App under 50 Lines](https://www.reddit.com/r/javascript/comments/librx7/minimalistic_command_line_notification_app_under/)
+- [Javascript memoization: a practical example for better HTTP performance (Node.js example)](https://www.reddit.com/r/javascript/comments/li8xj1/javascript_memoization_a_practical_example_for/)
+- [Data visualizations as <HTML> tags](https://www.reddit.com/r/javascript/comments/li813h/data_visualizations_as_html_tags/)
+- [Awesome Resources for Reactive Programming](https://www.reddit.com/r/javascript/comments/li789m/awesome_resources_for_reactive_programming/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
