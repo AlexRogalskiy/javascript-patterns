@@ -267,6 +267,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _EmberJS posts_
 
 <!-- EMBERJS-POST-LIST:START -->
+- [The Ember Times - Issue No. 173](https://blog.emberjs.com/the-ember-times-issue-173)
 - [How To Todo In Ember Template Lint](https://blog.emberjs.com/how-to-todo-in-ember-template-lint)
 - [The Ember Times - Issue No. 172](https://blog.emberjs.com/the-ember-times-issue-172)
 - [The Ember Times - Issue No. 171](https://blog.emberjs.com/the-ember-times-issue-171)
@@ -276,7 +277,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 - [The Ember Times - Issue No. 169](https://blog.emberjs.com/the-ember-times-issue-169)
 - [The Ember Times - Issue No. 168](https://blog.emberjs.com/the-ember-times-issue-168)
 - [The Ember Times - Issue No. 167](https://blog.emberjs.com/the-ember-times-issue-167)
-- [The Ember Times - Issue No. 166](https://blog.emberjs.com/the-ember-times-issue-166)
 <!-- EMBERJS-POST-LIST:END -->
 
 ### _YouTube code posts_
