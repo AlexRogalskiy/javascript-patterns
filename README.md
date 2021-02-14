@@ -237,16 +237,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [npm update - What's new in npm 7 [LIVE]](https://www.reddit.com/r/javascript/comments/lioetf/npm_update_whats_new_in_npm_7_live/)
-- [A Vue3 renderer for slack](https://www.reddit.com/r/javascript/comments/liidxj/a_vue3_renderer_for_slack/)
-- [Domain-Driven Hexagon - architecture and best practices](https://www.reddit.com/r/javascript/comments/lih9h0/domaindriven_hexagon_architecture_and_best/)
-- [Modern Javascript -- Nullish coalescing operator (??)](https://www.reddit.com/r/javascript/comments/lig3a9/modern_javascript_nullish_coalescing_operator/)
-- [ImageStore - An open-source alternative to Google photos](https://www.reddit.com/r/javascript/comments/lienp3/imagestore_an_opensource_alternative_to_google/)
-- [How to Implement Google Photos Grid in javascript](https://www.reddit.com/r/javascript/comments/lic5f8/how_to_implement_google_photos_grid_in_javascript/)
-- [Minimalistic Command Line Notification App under 50 Lines](https://www.reddit.com/r/javascript/comments/librx7/minimalistic_command_line_notification_app_under/)
-- [Javascript memoization: a practical example for better HTTP performance (Node.js example)](https://www.reddit.com/r/javascript/comments/li8xj1/javascript_memoization_a_practical_example_for/)
-- [Data visualizations as <HTML> tags](https://www.reddit.com/r/javascript/comments/li813h/data_visualizations_as_html_tags/)
-- [Awesome Resources for Reactive Programming](https://www.reddit.com/r/javascript/comments/li789m/awesome_resources_for_reactive_programming/)
+- [isepic-chess.js is a Chess utility library (with UI available but optional)](https://www.reddit.com/r/javascript/comments/ljdro9/isepicchessjs_is_a_chess_utility_library_with_ui/)
+- [2020 sucked, so I added a Signal Boost page to my Gatsby site to highlight tech workers looking for a new job. Here's how I did it so you can add one too.](https://www.reddit.com/r/javascript/comments/ljdpy1/2020_sucked_so_i_added_a_signal_boost_page_to_my/)
+- [[AskJS] Has anyone set up their dev env on new M1 MacBook Air?](https://www.reddit.com/r/javascript/comments/ljd3hz/askjs_has_anyone_set_up_their_dev_env_on_new_m1/)
+- [We built a tool to prevent merge conflicts before they even happen, given merge conflicts can be a pain in the neck, hope this is useful to the javascript community (initial focus on VSCode). Would love some feedback](https://www.reddit.com/r/javascript/comments/lja44d/we_built_a_tool_to_prevent_merge_conflicts_before/)
+- [Social assistant - my first full stack project](https://www.reddit.com/r/javascript/comments/lj8ngk/social_assistant_my_first_full_stack_project/)
+- [Story pointing app built with Svelte](https://www.reddit.com/r/javascript/comments/lj8j44/story_pointing_app_built_with_svelte/)
+- [Debug your tests in TypeScript with Visual Studio Code | Blog](https://www.reddit.com/r/javascript/comments/lj5a1j/debug_your_tests_in_typescript_with_visual_studio/)
+- [Execute JavaScript from Go - JS functions with Go callbacks, update JS objects from Go & more](https://www.reddit.com/r/javascript/comments/lj4t1z/execute_javascript_from_go_js_functions_with_go/)
+- [Nestia, automatic SDK generator for NestJS server](https://www.reddit.com/r/javascript/comments/lj3yx0/nestia_automatic_sdk_generator_for_nestjs_server/)
+- [Generate a presigned URL in modular AWS SDK for JavaScript](https://www.reddit.com/r/javascript/comments/lj1zkm/generate_a_presigned_url_in_modular_aws_sdk_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
