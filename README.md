@@ -237,16 +237,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why I Fell in Love with Cloudflare Workers](https://www.reddit.com/r/javascript/comments/ljynnb/why_i_fell_in_love_with_cloudflare_workers/)
+- [The Simplest and Most Powerful Archive Format Ever Made](https://www.reddit.com/r/javascript/comments/ljr076/the_simplest_and_most_powerful_archive_format/)
+- [Black Hole Object - Create infinitely chainable, callable, no-op stubs in JavaScript](https://www.reddit.com/r/javascript/comments/ljqms2/black_hole_object_create_infinitely_chainable/)
+- [Dotadraft - DotA Ability Draft Helper](https://www.reddit.com/r/javascript/comments/ljlj6y/dotadraft_dota_ability_draft_helper/)
+- [NanoNeuron - 7 simple JS functions that explain how machines learn](https://www.reddit.com/r/javascript/comments/ljl416/nanoneuron_7_simple_js_functions_that_explain_how/)
 - [isepic-chess.js is a Chess utility library (with UI available but optional)](https://www.reddit.com/r/javascript/comments/ljdro9/isepicchessjs_is_a_chess_utility_library_with_ui/)
 - [2020 sucked, so I added a Signal Boost page to my Gatsby site to highlight tech workers looking for a new job. Here's how I did it so you can add one too.](https://www.reddit.com/r/javascript/comments/ljdpy1/2020_sucked_so_i_added_a_signal_boost_page_to_my/)
 - [[AskJS] Has anyone set up their dev env on new M1 MacBook Air?](https://www.reddit.com/r/javascript/comments/ljd3hz/askjs_has_anyone_set_up_their_dev_env_on_new_m1/)
 - [We built a tool to prevent merge conflicts before they even happen, given merge conflicts can be a pain in the neck, hope this is useful to the javascript community (initial focus on VSCode). Would love some feedback](https://www.reddit.com/r/javascript/comments/lja44d/we_built_a_tool_to_prevent_merge_conflicts_before/)
 - [Social assistant - my first full stack project](https://www.reddit.com/r/javascript/comments/lj8ngk/social_assistant_my_first_full_stack_project/)
-- [Story pointing app built with Svelte](https://www.reddit.com/r/javascript/comments/lj8j44/story_pointing_app_built_with_svelte/)
-- [Debug your tests in TypeScript with Visual Studio Code | Blog](https://www.reddit.com/r/javascript/comments/lj5a1j/debug_your_tests_in_typescript_with_visual_studio/)
-- [Execute JavaScript from Go - JS functions with Go callbacks, update JS objects from Go & more](https://www.reddit.com/r/javascript/comments/lj4t1z/execute_javascript_from_go_js_functions_with_go/)
-- [Nestia, automatic SDK generator for NestJS server](https://www.reddit.com/r/javascript/comments/lj3yx0/nestia_automatic_sdk_generator_for_nestjs_server/)
-- [Generate a presigned URL in modular AWS SDK for JavaScript](https://www.reddit.com/r/javascript/comments/lj1zkm/generate_a_presigned_url_in_modular_aws_sdk_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
