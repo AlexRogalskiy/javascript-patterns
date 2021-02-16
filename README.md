@@ -237,16 +237,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Why I Fell in Love with Cloudflare Workers](https://www.reddit.com/r/javascript/comments/ljynnb/why_i_fell_in_love_with_cloudflare_workers/)
-- [The Simplest and Most Powerful Archive Format Ever Made](https://www.reddit.com/r/javascript/comments/ljr076/the_simplest_and_most_powerful_archive_format/)
-- [Black Hole Object - Create infinitely chainable, callable, no-op stubs in JavaScript](https://www.reddit.com/r/javascript/comments/ljqms2/black_hole_object_create_infinitely_chainable/)
-- [Dotadraft - DotA Ability Draft Helper](https://www.reddit.com/r/javascript/comments/ljlj6y/dotadraft_dota_ability_draft_helper/)
-- [NanoNeuron - 7 simple JS functions that explain how machines learn](https://www.reddit.com/r/javascript/comments/ljl416/nanoneuron_7_simple_js_functions_that_explain_how/)
-- [isepic-chess.js is a Chess utility library (with UI available but optional)](https://www.reddit.com/r/javascript/comments/ljdro9/isepicchessjs_is_a_chess_utility_library_with_ui/)
-- [2020 sucked, so I added a Signal Boost page to my Gatsby site to highlight tech workers looking for a new job. Here's how I did it so you can add one too.](https://www.reddit.com/r/javascript/comments/ljdpy1/2020_sucked_so_i_added_a_signal_boost_page_to_my/)
-- [[AskJS] Has anyone set up their dev env on new M1 MacBook Air?](https://www.reddit.com/r/javascript/comments/ljd3hz/askjs_has_anyone_set_up_their_dev_env_on_new_m1/)
-- [We built a tool to prevent merge conflicts before they even happen, given merge conflicts can be a pain in the neck, hope this is useful to the javascript community (initial focus on VSCode). Would love some feedback](https://www.reddit.com/r/javascript/comments/lja44d/we_built_a_tool_to_prevent_merge_conflicts_before/)
-- [Social assistant - my first full stack project](https://www.reddit.com/r/javascript/comments/lj8ngk/social_assistant_my_first_full_stack_project/)
+- [Doodle 0.4.2 released](https://www.reddit.com/r/javascript/comments/lkrzco/doodle_042_released/)
+- [Device Detection with the User-Agent](https://www.reddit.com/r/javascript/comments/lkirh1/device_detection_with_the_useragent/)
+- [Creating a template for new React projects](https://www.reddit.com/r/javascript/comments/lkhfzj/creating_a_template_for_new_react_projects/)
+- [ustaxes.org – open-source tax filing webapp](https://www.reddit.com/r/javascript/comments/lkgriv/ustaxesorg_opensource_tax_filing_webapp/)
+- [Faster JavaScript calls](https://www.reddit.com/r/javascript/comments/lkfy2j/faster_javascript_calls/)
+- [The Aurelia 2 alpha is coming (March 2nd, 2021)](https://www.reddit.com/r/javascript/comments/lkfruy/the_aurelia_2_alpha_is_coming_march_2nd_2021/)
+- [Modern Web Application Thing Generator - Are you building a state-of-the-art reactive responsive isomorphic universal performant web application or a framework? Are you struggling to name your functions? If so, this site is for you!](https://www.reddit.com/r/javascript/comments/lkfomq/modern_web_application_thing_generator_are_you/)
+- [Effector for http calls: Svelte](https://www.reddit.com/r/javascript/comments/lkenit/effector_for_http_calls_svelte/)
+- [What are Tuples and Records in JavaScript?](https://www.reddit.com/r/javascript/comments/lkecur/what_are_tuples_and_records_in_javascript/)
+- [Your /r/javascript recap for the week of February 08 - February 14](https://www.reddit.com/r/javascript/comments/lkams4/your_rjavascript_recap_for_the_week_of_february/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
