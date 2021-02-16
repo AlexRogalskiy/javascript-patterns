@@ -333,6 +333,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _NodeSource posts_
 
 <!-- NODESOURCE-POST-LIST:START -->
+- [NodeSource brings C++ API to N|Solid!](https://nodesource.com/blog/c++-api-to-nsolid)
 - [PagerDuty integration with N|Solid](https://nodesource.com/blog/pagerduty-integration-with-NSolid)
 - [Node By Numbers 2020](https://nodesource.com/blog/node-by-numbers-2020)
 - [Need to Node – Volume 69](https://nodesource.com/blog/need-to-node-vol-69)
@@ -342,7 +343,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 - [Introduction to Event Loop Utilization in Node.js](https://nodesource.com/blog/event-loop-utilization-nodejs)
 - [Announcing N|Solid 4.3.0 - Import/Export Settings](https://nodesource.com/blog/announcing-NSolid-4.3.0)
 - [Announcing N|Solid JS API](https://nodesource.com/blog/announcing-NSolid-JS-API)
-- [Announcing N|Solid Version 4.1.0 - NCM in N|Solid Console and NCM Strict Mode](https://nodesource.com/blog/announcing-NSolid-Version-4.1.0)
 <!-- NODESOURCE-POST-LIST:END -->
 
 ### _React Native posts_
