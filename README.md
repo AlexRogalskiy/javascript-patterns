@@ -237,16 +237,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Doodle 0.4.2 released](https://www.reddit.com/r/javascript/comments/lkrzco/doodle_042_released/)
-- [Device Detection with the User-Agent](https://www.reddit.com/r/javascript/comments/lkirh1/device_detection_with_the_useragent/)
-- [Creating a template for new React projects](https://www.reddit.com/r/javascript/comments/lkhfzj/creating_a_template_for_new_react_projects/)
-- [ustaxes.org – open-source tax filing webapp](https://www.reddit.com/r/javascript/comments/lkgriv/ustaxesorg_opensource_tax_filing_webapp/)
-- [Faster JavaScript calls](https://www.reddit.com/r/javascript/comments/lkfy2j/faster_javascript_calls/)
-- [The Aurelia 2 alpha is coming (March 2nd, 2021)](https://www.reddit.com/r/javascript/comments/lkfruy/the_aurelia_2_alpha_is_coming_march_2nd_2021/)
-- [Modern Web Application Thing Generator - Are you building a state-of-the-art reactive responsive isomorphic universal performant web application or a framework? Are you struggling to name your functions? If so, this site is for you!](https://www.reddit.com/r/javascript/comments/lkfomq/modern_web_application_thing_generator_are_you/)
-- [Effector for http calls: Svelte](https://www.reddit.com/r/javascript/comments/lkenit/effector_for_http_calls_svelte/)
-- [What are Tuples and Records in JavaScript?](https://www.reddit.com/r/javascript/comments/lkecur/what_are_tuples_and_records_in_javascript/)
-- [Your /r/javascript recap for the week of February 08 - February 14](https://www.reddit.com/r/javascript/comments/lkams4/your_rjavascript_recap_for_the_week_of_february/)
+- [Server-side 3D rendering with THREE.js and headless-gl](https://www.reddit.com/r/javascript/comments/llhu4x/serverside_3d_rendering_with_threejs_and/)
+- [Announcing Vite 2.0, Next generation frontend tooling. It's fast!](https://www.reddit.com/r/javascript/comments/llgjg9/announcing_vite_20_next_generation_frontend/)
+- [I built a site to scrape r/wallstreetbets and count stock mentions so I can get into the hype early, built entirely with javascript [Details in Comments]](https://www.reddit.com/r/javascript/comments/lld9fi/i_built_a_site_to_scrape_rwallstreetbets_and/)
+- [[AskJS] Picking library for graphics editor (Canva-like)](https://www.reddit.com/r/javascript/comments/llbx5g/askjs_picking_library_for_graphics_editor/)
+- [Hello People, I wrote a short article about using pipe in javascript and why it might be a good idea.](https://www.reddit.com/r/javascript/comments/llb16y/hello_people_i_wrote_a_short_article_about_using/)
+- [[AskJS] 8 reasons I bash on JavaScript [AskJS]](https://www.reddit.com/r/javascript/comments/llao5h/askjs_8_reasons_i_bash_on_javascript_askjs/)
+- [I made an Open Source app to Analyze JSON/CSV and generate type-aware code! Supports TypeScript interfaces, SQL Scripts, MongoDB Mongoose, and more!](https://www.reddit.com/r/javascript/comments/ll7k2c/i_made_an_open_source_app_to_analyze_jsoncsv_and/)
+- [supply-chain attack affecting private dependencies](https://www.reddit.com/r/javascript/comments/ll6nfc/supplychain_attack_affecting_private_dependencies/)
+- [[AskJS] Using async in a function where await is never used.](https://www.reddit.com/r/javascript/comments/ll60aw/askjs_using_async_in_a_function_where_await_is/)
+- [Visual Studio Code extension bisect utility](https://www.reddit.com/r/javascript/comments/ll5m1o/visual_studio_code_extension_bisect_utility/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
