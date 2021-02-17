@@ -252,6 +252,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Entry-level software developer? Learn React to get that first job](https://www.infoworld.com/article/3607234/entry-level-software-developer-learn-react-to-get-that-first-job.html#tk.rss_javascript)
 - [TypeScript 4.2 tunes tuple types](https://www.infoworld.com/article/3603495/typescript-42-tunes-tuple-types.html#tk.rss_javascript)
 - [Angular 12 beta preview arrives](https://www.infoworld.com/article/3607428/angular-12-beta-preview-arrives.html#tk.rss_javascript)
 - [Angular, React, Vue: JavaScript frameworks compared](https://www.infoworld.com/article/3606737/angular-react-vue-javascript-frameworks-compared.html#tk.rss_javascript)
@@ -261,7 +262,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 - [How to handle errors in React](https://www.infoworld.com/article/3604336/how-to-handle-errors-in-react.html#tk.rss_javascript)
 - [Sentry for JavaScript monitors release health](https://www.infoworld.com/article/3605128/sentry-for-javascript-monitors-release-health.html#tk.rss_javascript)
 - [Deno 1.7 brings compilation improvements](https://www.infoworld.com/article/3604740/deno-17-brings-compilation-improvements.html#tk.rss_javascript)
-- [How to use React functional components](https://www.infoworld.com/article/3603276/how-to-use-react-functional-components.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _EmberJS posts_
