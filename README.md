@@ -243,16 +243,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [The web didn't change; you did](https://www.reddit.com/r/javascript/comments/lm17m7/the_web_didnt_change_you_did/)
+- [Front-end JavaScript Frameworks: Multi-Year Developer Surveys Visualized [2021 Update]](https://www.reddit.com/r/javascript/comments/lm16pt/frontend_javascript_frameworks_multiyear/)
+- [Improving DNS in Node.js](https://www.reddit.com/r/javascript/comments/llz1dz/improving_dns_in_nodejs/)
+- [Blitz - The Fullstack React Framework. A batteries-included framework that's inspired by Ruby on Rails, is built on Next.js, and features a "Zero-API" data layer abstraction that eliminates the need for REST/GraphQL. Now in beta, 1.0 expected this April](https://www.reddit.com/r/javascript/comments/llwsjm/blitz_the_fullstack_react_framework_a/)
+- [Random_Quote-App](https://www.reddit.com/r/javascript/comments/llu4jh/random_quoteapp/)
+- [Interview with Ryan Dahl, Node.js & Deno creator](https://www.reddit.com/r/javascript/comments/llslpa/interview_with_ryan_dahl_nodejs_deno_creator/)
+- [WTF Wednesday (February 17, 2021)](https://www.reddit.com/r/javascript/comments/llpb95/wtf_wednesday_february_17_2021/)
+- [If you want to understand the difference between Python and JavaScript, then this article is for you.](https://www.reddit.com/r/javascript/comments/lllydp/if_you_want_to_understand_the_difference_between/)
+- [Review of Svelte](https://www.reddit.com/r/javascript/comments/llk8jp/review_of_svelte/)
 - [Server-side 3D rendering with THREE.js and headless-gl](https://www.reddit.com/r/javascript/comments/llhu4x/serverside_3d_rendering_with_threejs_and/)
-- [Announcing Vite 2.0, Next generation frontend tooling. It's fast!](https://www.reddit.com/r/javascript/comments/llgjg9/announcing_vite_20_next_generation_frontend/)
-- [I built a site to scrape r/wallstreetbets and count stock mentions so I can get into the hype early, built entirely with javascript [Details in Comments]](https://www.reddit.com/r/javascript/comments/lld9fi/i_built_a_site_to_scrape_rwallstreetbets_and/)
-- [[AskJS] Picking library for graphics editor (Canva-like)](https://www.reddit.com/r/javascript/comments/llbx5g/askjs_picking_library_for_graphics_editor/)
-- [Hello People, I wrote a short article about using pipe in javascript and why it might be a good idea.](https://www.reddit.com/r/javascript/comments/llb16y/hello_people_i_wrote_a_short_article_about_using/)
-- [[AskJS] 8 reasons I bash on JavaScript [AskJS]](https://www.reddit.com/r/javascript/comments/llao5h/askjs_8_reasons_i_bash_on_javascript_askjs/)
-- [I made an Open Source app to Analyze JSON/CSV and generate type-aware code! Supports TypeScript interfaces, SQL Scripts, MongoDB Mongoose, and more!](https://www.reddit.com/r/javascript/comments/ll7k2c/i_made_an_open_source_app_to_analyze_jsoncsv_and/)
-- [supply-chain attack affecting private dependencies](https://www.reddit.com/r/javascript/comments/ll6nfc/supplychain_attack_affecting_private_dependencies/)
-- [[AskJS] Using async in a function where await is never used.](https://www.reddit.com/r/javascript/comments/ll60aw/askjs_using_async_in_a_function_where_await_is/)
-- [Visual Studio Code extension bisect utility](https://www.reddit.com/r/javascript/comments/ll5m1o/visual_studio_code_extension_bisect_utility/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
