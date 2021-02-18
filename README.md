@@ -318,6 +318,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _javascript programmer posts_
 
 <!-- METEOR-POST-LIST:START -->
+- [Updating Meteor Packages for HMR](https://blog.meteor.com/updating-meteor-packages-for-hmr-7d514271bbd4?source=rss----a9bcaf865278---4)
 - [Meteor 2.0 is here!](https://blog.meteor.com/meteor-2-0-is-here-867b0ab4f8df?source=rss----a9bcaf865278---4)
 - [Introducing Meteor Cloud](https://blog.meteor.com/introducing-meteor-cloud-f25ddd3da535?source=rss----a9bcaf865278---4)
 - [Meteor 1.12 is here!](https://blog.meteor.com/meteor-1-12-is-here-ec0c78dbb973?source=rss----a9bcaf865278---4)
@@ -327,7 +328,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 - [Nested Imports in Meteor](https://blog.meteor.com/nested-imports-in-meteor-73fff491a11c?source=rss----a9bcaf865278---4)
 - [Announcing Meteor 1.11](https://blog.meteor.com/announcing-meteor-1-11-a4af1c5cc689?source=rss----a9bcaf865278---4)
 - [Hot Code Push, step by step](https://blog.meteor.com/hot-code-push-step-by-step-bd940de7323c?source=rss----a9bcaf865278---4)
-- [Security Where You Need It: Introducing Two-Factor Authentication + App Protection](https://blog.meteor.com/security-where-you-need-it-introducing-two-factor-authentication-app-protection-3d75df80ba5b?source=rss----a9bcaf865278---4)
 <!-- METEOR-POST-LIST:END -->
 
 ### _Dreamix posts_
