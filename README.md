@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [The web didn't change; you did](https://www.reddit.com/r/javascript/comments/lm17m7/the_web_didnt_change_you_did/)
-- [Front-end JavaScript Frameworks: Multi-Year Developer Surveys Visualized [2021 Update]](https://www.reddit.com/r/javascript/comments/lm16pt/frontend_javascript_frameworks_multiyear/)
-- [Improving DNS in Node.js](https://www.reddit.com/r/javascript/comments/llz1dz/improving_dns_in_nodejs/)
-- [Blitz - The Fullstack React Framework. A batteries-included framework that's inspired by Ruby on Rails, is built on Next.js, and features a "Zero-API" data layer abstraction that eliminates the need for REST/GraphQL. Now in beta, 1.0 expected this April](https://www.reddit.com/r/javascript/comments/llwsjm/blitz_the_fullstack_react_framework_a/)
-- [Random_Quote-App](https://www.reddit.com/r/javascript/comments/llu4jh/random_quoteapp/)
-- [Interview with Ryan Dahl, Node.js & Deno creator](https://www.reddit.com/r/javascript/comments/llslpa/interview_with_ryan_dahl_nodejs_deno_creator/)
-- [WTF Wednesday (February 17, 2021)](https://www.reddit.com/r/javascript/comments/llpb95/wtf_wednesday_february_17_2021/)
-- [If you want to understand the difference between Python and JavaScript, then this article is for you.](https://www.reddit.com/r/javascript/comments/lllydp/if_you_want_to_understand_the_difference_between/)
-- [Review of Svelte](https://www.reddit.com/r/javascript/comments/llk8jp/review_of_svelte/)
-- [Server-side 3D rendering with THREE.js and headless-gl](https://www.reddit.com/r/javascript/comments/llhu4x/serverside_3d_rendering_with_threejs_and/)
+- [Here's a simple "How-To Build a To-Do List" video I made using JavaScript, HTML and CSS. It's short and to the point.](https://www.reddit.com/r/javascript/comments/ln10n9/heres_a_simple_howto_build_a_todo_list_video_i/)
+- [fast-word-wrap: wrap at least 8x faster than using other packages](https://www.reddit.com/r/javascript/comments/lmz61h/fastwordwrap_wrap_at_least_8x_faster_than_using/)
+- [[AskJS] Does anyone know of any dev communities out there for developers interested in making apps to help with COVID relief?](https://www.reddit.com/r/javascript/comments/lmyqbk/askjs_does_anyone_know_of_any_dev_communities_out/)
+- [Vue.js Debugging: A Guide to Fixing Your Frontend](https://www.reddit.com/r/javascript/comments/lmtysd/vuejs_debugging_a_guide_to_fixing_your_frontend/)
+- [Super fast `super` property access](https://www.reddit.com/r/javascript/comments/lmt8uv/super_fast_super_property_access/)
+- [Combining React, generative art and Netlify functions to build a profile card generator](https://www.reddit.com/r/javascript/comments/lmq4rb/combining_react_generative_art_and_netlify/)
+- [Building a Reactive Library from Scratch](https://www.reddit.com/r/javascript/comments/lmpxfa/building_a_reactive_library_from_scratch/)
+- [Moiva.io v3: a universal tool to Evaluate, Discover and Compare software](https://www.reddit.com/r/javascript/comments/lmnhzn/moivaio_v3_a_universal_tool_to_evaluate_discover/)
+- [Here is a simple shopping cart I built using Svelte. It was super easy to build.](https://www.reddit.com/r/javascript/comments/lmmewj/here_is_a_simple_shopping_cart_i_built_using/)
+- [[AskJS] How do you feel about using public CDNs?](https://www.reddit.com/r/javascript/comments/lmi4ng/askjs_how_do_you_feel_about_using_public_cdns/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
