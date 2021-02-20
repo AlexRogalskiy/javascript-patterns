@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Here's a simple "How-To Build a To-Do List" video I made using JavaScript, HTML and CSS. It's short and to the point.](https://www.reddit.com/r/javascript/comments/ln10n9/heres_a_simple_howto_build_a_todo_list_video_i/)
-- [fast-word-wrap: wrap at least 8x faster than using other packages](https://www.reddit.com/r/javascript/comments/lmz61h/fastwordwrap_wrap_at_least_8x_faster_than_using/)
-- [[AskJS] Does anyone know of any dev communities out there for developers interested in making apps to help with COVID relief?](https://www.reddit.com/r/javascript/comments/lmyqbk/askjs_does_anyone_know_of_any_dev_communities_out/)
-- [Vue.js Debugging: A Guide to Fixing Your Frontend](https://www.reddit.com/r/javascript/comments/lmtysd/vuejs_debugging_a_guide_to_fixing_your_frontend/)
-- [Super fast `super` property access](https://www.reddit.com/r/javascript/comments/lmt8uv/super_fast_super_property_access/)
-- [Combining React, generative art and Netlify functions to build a profile card generator](https://www.reddit.com/r/javascript/comments/lmq4rb/combining_react_generative_art_and_netlify/)
-- [Building a Reactive Library from Scratch](https://www.reddit.com/r/javascript/comments/lmpxfa/building_a_reactive_library_from_scratch/)
-- [Moiva.io v3: a universal tool to Evaluate, Discover and Compare software](https://www.reddit.com/r/javascript/comments/lmnhzn/moivaio_v3_a_universal_tool_to_evaluate_discover/)
-- [Here is a simple shopping cart I built using Svelte. It was super easy to build.](https://www.reddit.com/r/javascript/comments/lmmewj/here_is_a_simple_shopping_cart_i_built_using/)
-- [[AskJS] How do you feel about using public CDNs?](https://www.reddit.com/r/javascript/comments/lmi4ng/askjs_how_do_you_feel_about_using_public_cdns/)
+- [I wrote a dumb sort algorithm that lets you choose how long the sort operation will take.](https://www.reddit.com/r/javascript/comments/lnve33/i_wrote_a_dumb_sort_algorithm_that_lets_you/)
+- [A Gift of Sound and Vision — Affecting images using the Web Audio API [Live]](https://www.reddit.com/r/javascript/comments/lnu166/a_gift_of_sound_and_vision_affecting_images_using/)
+- [Lucid Sight acquires Colyseus open-source multiplayer game engine](https://www.reddit.com/r/javascript/comments/lnpddj/lucid_sight_acquires_colyseus_opensource/)
+- [WavTool.com - In-browser dev environment for JS audio programming!](https://www.reddit.com/r/javascript/comments/lnoujr/wavtoolcom_inbrowser_dev_environment_for_js_audio/)
+- [Mooz: My own take on WebRTC based video conferencing solution using React/Recoil, Fluent UI.](https://www.reddit.com/r/javascript/comments/lno3az/mooz_my_own_take_on_webrtc_based_video/)
+- [Tauri - Build smaller, faster, and more secure desktop applications with a web frontend.](https://www.reddit.com/r/javascript/comments/lnnhv6/tauri_build_smaller_faster_and_more_secure/)
+- [Hegel is a static type checker for JavaScript](https://www.reddit.com/r/javascript/comments/lnkjug/hegel_is_a_static_type_checker_for_javascript/)
+- [ClickHouse Analytical Dashboard with Stock Market Data](https://www.reddit.com/r/javascript/comments/lnj8ir/clickhouse_analytical_dashboard_with_stock_market/)
+- [LogChimp, an open source tool to capture your customers feedback and inform your product decisions](https://www.reddit.com/r/javascript/comments/lnf3r6/logchimp_an_open_source_tool_to_capture_your/)
+- [I made an image recognition model written in NodeJs and typescript](https://www.reddit.com/r/javascript/comments/ln8r3v/i_made_an_image_recognition_model_written_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
