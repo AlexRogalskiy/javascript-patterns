@@ -386,10 +386,10 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _JavaScript Weekly posts_
 
 <!-- JAVASCRIPTWEEKLY-POST-LIST:START -->
+- [How V8 continues to get faster](https://javascriptweekly.com/issues/526)
 - [Eich shares his full JavaScript story](https://javascriptweekly.com/issues/525)
 - [How GitHub keeps its new homepage fast](https://javascriptweekly.com/issues/524)
 - [undefined vs null in JavaScript](https://javascriptweekly.com/issues/523)
-- [What impact could modern JS have on your users?](https://javascriptweekly.com/issues/522)
 <!-- JAVASCRIPTWEEKLY-POST-LIST:END -->
 
 ### _Writing JavaScript posts_
