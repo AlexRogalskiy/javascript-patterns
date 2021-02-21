@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [tsParticles is 1 year old - The improved version of Particles.js is growing - An entire year from 0 to 1.5k stars on GH and 13k/week downloads on npm. Thanks to everyone supporting the project and to those who will support it in the future.](https://www.reddit.com/r/javascript/comments/lojbiy/tsparticles_is_1_year_old_the_improved_version_of/)
+- [How to make your functions fit together nicely? Let me introduce you to the currying](https://www.reddit.com/r/javascript/comments/lobx4m/how_to_make_your_functions_fit_together_nicely/)
+- [Immer vs Ramda - two approaches towards writing Redux reducers](https://www.reddit.com/r/javascript/comments/lo9q7t/immer_vs_ramda_two_approaches_towards_writing/)
+- [How I created a vanilla web component](https://www.reddit.com/r/javascript/comments/lo8p22/how_i_created_a_vanilla_web_component/)
+- [Change Jest mock per test with ease](https://www.reddit.com/r/javascript/comments/lo6mee/change_jest_mock_per_test_with_ease/)
+- [μECS - a tiny and fast ECS library](https://www.reddit.com/r/javascript/comments/lo33bz/μecs_a_tiny_and_fast_ecs_library/)
+- [Showoff Saturday (February 20, 2021)](https://www.reddit.com/r/javascript/comments/lo2ez7/showoff_saturday_february_20_2021/)
+- [xicons: Integrated SVG icons from well-known projects for React and Vue](https://www.reddit.com/r/javascript/comments/lo060y/xicons_integrated_svg_icons_from_wellknown/)
+- [I wrote an open-source library for interacting with Call of Duty data, friends, and more](https://www.reddit.com/r/javascript/comments/lo024v/i_wrote_an_opensource_library_for_interacting/)
 - [I wrote a dumb sort algorithm that lets you choose how long the sort operation will take.](https://www.reddit.com/r/javascript/comments/lnve33/i_wrote_a_dumb_sort_algorithm_that_lets_you/)
-- [A Gift of Sound and Vision — Affecting images using the Web Audio API [Live]](https://www.reddit.com/r/javascript/comments/lnu166/a_gift_of_sound_and_vision_affecting_images_using/)
-- [Lucid Sight acquires Colyseus open-source multiplayer game engine](https://www.reddit.com/r/javascript/comments/lnpddj/lucid_sight_acquires_colyseus_opensource/)
-- [WavTool.com - In-browser dev environment for JS audio programming!](https://www.reddit.com/r/javascript/comments/lnoujr/wavtoolcom_inbrowser_dev_environment_for_js_audio/)
-- [Mooz: My own take on WebRTC based video conferencing solution using React/Recoil, Fluent UI.](https://www.reddit.com/r/javascript/comments/lno3az/mooz_my_own_take_on_webrtc_based_video/)
-- [Tauri - Build smaller, faster, and more secure desktop applications with a web frontend.](https://www.reddit.com/r/javascript/comments/lnnhv6/tauri_build_smaller_faster_and_more_secure/)
-- [Hegel is a static type checker for JavaScript](https://www.reddit.com/r/javascript/comments/lnkjug/hegel_is_a_static_type_checker_for_javascript/)
-- [ClickHouse Analytical Dashboard with Stock Market Data](https://www.reddit.com/r/javascript/comments/lnj8ir/clickhouse_analytical_dashboard_with_stock_market/)
-- [LogChimp, an open source tool to capture your customers feedback and inform your product decisions](https://www.reddit.com/r/javascript/comments/lnf3r6/logchimp_an_open_source_tool_to_capture_your/)
-- [I made an image recognition model written in NodeJs and typescript](https://www.reddit.com/r/javascript/comments/ln8r3v/i_made_an_image_recognition_model_written_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
