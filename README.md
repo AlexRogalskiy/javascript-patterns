@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [tsParticles is 1 year old - The improved version of Particles.js is growing - An entire year from 0 to 1.5k stars on GH and 13k/week downloads on npm. Thanks to everyone supporting the project and to those who will support it in the future.](https://www.reddit.com/r/javascript/comments/lojbiy/tsparticles_is_1_year_old_the_improved_version_of/)
-- [How to make your functions fit together nicely? Let me introduce you to the currying](https://www.reddit.com/r/javascript/comments/lobx4m/how_to_make_your_functions_fit_together_nicely/)
-- [Immer vs Ramda - two approaches towards writing Redux reducers](https://www.reddit.com/r/javascript/comments/lo9q7t/immer_vs_ramda_two_approaches_towards_writing/)
-- [How I created a vanilla web component](https://www.reddit.com/r/javascript/comments/lo8p22/how_i_created_a_vanilla_web_component/)
-- [Change Jest mock per test with ease](https://www.reddit.com/r/javascript/comments/lo6mee/change_jest_mock_per_test_with_ease/)
-- [μECS - a tiny and fast ECS library](https://www.reddit.com/r/javascript/comments/lo33bz/μecs_a_tiny_and_fast_ecs_library/)
-- [Showoff Saturday (February 20, 2021)](https://www.reddit.com/r/javascript/comments/lo2ez7/showoff_saturday_february_20_2021/)
-- [xicons: Integrated SVG icons from well-known projects for React and Vue](https://www.reddit.com/r/javascript/comments/lo060y/xicons_integrated_svg_icons_from_wellknown/)
-- [I wrote an open-source library for interacting with Call of Duty data, friends, and more](https://www.reddit.com/r/javascript/comments/lo024v/i_wrote_an_opensource_library_for_interacting/)
-- [I wrote a dumb sort algorithm that lets you choose how long the sort operation will take.](https://www.reddit.com/r/javascript/comments/lnve33/i_wrote_a_dumb_sort_algorithm_that_lets_you/)
+- [A react middleware UI library](https://www.reddit.com/r/javascript/comments/lpb9kk/a_react_middleware_ui_library/)
+- [OpenClubhouse - A third-party web application based on flask to play Clubhouse audio.](https://www.reddit.com/r/javascript/comments/lpaptu/openclubhouse_a_thirdparty_web_application_based/)
+- [I've built this deep space exploration project using angular, js, html and css.](https://www.reddit.com/r/javascript/comments/lp4kfw/ive_built_this_deep_space_exploration_project/)
+- [Wire - a new state management library for React](https://www.reddit.com/r/javascript/comments/lp3kz3/wire_a_new_state_management_library_for_react/)
+- [Futurity: Easy wraps effectful mutable promise libs into Fluture monad](https://www.reddit.com/r/javascript/comments/lp3frr/futurity_easy_wraps_effectful_mutable_promise/)
+- [Learn from your favorite developer’s public repos](https://www.reddit.com/r/javascript/comments/lp39wy/learn_from_your_favorite_developers_public_repos/)
+- [Unishox JS library for compressing short strings over Websockets](https://www.reddit.com/r/javascript/comments/lp2r8c/unishox_js_library_for_compressing_short_strings/)
+- [PHP 8 features I wish also existed in JavaScript](https://www.reddit.com/r/javascript/comments/lp1gzu/php_8_features_i_wish_also_existed_in_javascript/)
+- [Debugging Memory Leaks In Production JavaScript Applications](https://www.reddit.com/r/javascript/comments/loz3vy/debugging_memory_leaks_in_production_javascript/)
+- [Building a modern React app from scratch in 2021](https://www.reddit.com/r/javascript/comments/loykgp/building_a_modern_react_app_from_scratch_in_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
