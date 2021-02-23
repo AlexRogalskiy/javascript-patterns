@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [A react middleware UI library](https://www.reddit.com/r/javascript/comments/lpb9kk/a_react_middleware_ui_library/)
-- [OpenClubhouse - A third-party web application based on flask to play Clubhouse audio.](https://www.reddit.com/r/javascript/comments/lpaptu/openclubhouse_a_thirdparty_web_application_based/)
-- [I've built this deep space exploration project using angular, js, html and css.](https://www.reddit.com/r/javascript/comments/lp4kfw/ive_built_this_deep_space_exploration_project/)
-- [Wire - a new state management library for React](https://www.reddit.com/r/javascript/comments/lp3kz3/wire_a_new_state_management_library_for_react/)
-- [Futurity: Easy wraps effectful mutable promise libs into Fluture monad](https://www.reddit.com/r/javascript/comments/lp3frr/futurity_easy_wraps_effectful_mutable_promise/)
-- [Learn from your favorite developer’s public repos](https://www.reddit.com/r/javascript/comments/lp39wy/learn_from_your_favorite_developers_public_repos/)
-- [Unishox JS library for compressing short strings over Websockets](https://www.reddit.com/r/javascript/comments/lp2r8c/unishox_js_library_for_compressing_short_strings/)
-- [PHP 8 features I wish also existed in JavaScript](https://www.reddit.com/r/javascript/comments/lp1gzu/php_8_features_i_wish_also_existed_in_javascript/)
-- [Debugging Memory Leaks In Production JavaScript Applications](https://www.reddit.com/r/javascript/comments/loz3vy/debugging_memory_leaks_in_production_javascript/)
-- [Building a modern React app from scratch in 2021](https://www.reddit.com/r/javascript/comments/loykgp/building_a_modern_react_app_from_scratch_in_2021/)
+- [[AskJS] Performance Cost of Light DOM Manipulation?](https://www.reddit.com/r/javascript/comments/lq36je/askjs_performance_cost_of_light_dom_manipulation/)
+- [[AskJS] JavaScript functional programming - is it bad from a garbage collection standpoint?](https://www.reddit.com/r/javascript/comments/lq2ozl/askjs_javascript_functional_programming_is_it_bad/)
+- [Display dates in your user's time zone with the Intl API](https://www.reddit.com/r/javascript/comments/lq22n0/display_dates_in_your_users_time_zone_with_the/)
+- [I created a wrapper for Express's Router to make life more pleasant.](https://www.reddit.com/r/javascript/comments/lpyxwq/i_created_a_wrapper_for_expresss_router_to_make/)
+- [[AskJS] Best backend web framework](https://www.reddit.com/r/javascript/comments/lpy7si/askjs_best_backend_web_framework/)
+- [Kord - A streaming site combining Spotify, Soundcloud, and YouTube! Built almost entirely with JS](https://www.reddit.com/r/javascript/comments/lpxvc3/kord_a_streaming_site_combining_spotify/)
+- [Run Git commands from Node.js application using JavaScript!](https://www.reddit.com/r/javascript/comments/lpwfyn/run_git_commands_from_nodejs_application_using/)
+- [Slack Bolt for Deno: TypeScript framework to build Slack apps using Deno rapidly with the latest platform features](https://www.reddit.com/r/javascript/comments/lps7sj/slack_bolt_for_deno_typescript_framework_to_build/)
+- [Monetizing your blog with cryptocurrencies - JavaScript implementation](https://www.reddit.com/r/javascript/comments/lpl72p/monetizing_your_blog_with_cryptocurrencies/)
+- [Your /r/javascript recap for the week of February 15 - February 21](https://www.reddit.com/r/javascript/comments/lpkgmt/your_rjavascript_recap_for_the_week_of_february/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
