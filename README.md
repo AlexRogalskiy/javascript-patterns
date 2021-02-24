@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Performance Cost of Light DOM Manipulation?](https://www.reddit.com/r/javascript/comments/lq36je/askjs_performance_cost_of_light_dom_manipulation/)
-- [[AskJS] JavaScript functional programming - is it bad from a garbage collection standpoint?](https://www.reddit.com/r/javascript/comments/lq2ozl/askjs_javascript_functional_programming_is_it_bad/)
-- [Display dates in your user's time zone with the Intl API](https://www.reddit.com/r/javascript/comments/lq22n0/display_dates_in_your_users_time_zone_with_the/)
-- [I created a wrapper for Express's Router to make life more pleasant.](https://www.reddit.com/r/javascript/comments/lpyxwq/i_created_a_wrapper_for_expresss_router_to_make/)
-- [[AskJS] Best backend web framework](https://www.reddit.com/r/javascript/comments/lpy7si/askjs_best_backend_web_framework/)
-- [Kord - A streaming site combining Spotify, Soundcloud, and YouTube! Built almost entirely with JS](https://www.reddit.com/r/javascript/comments/lpxvc3/kord_a_streaming_site_combining_spotify/)
-- [Run Git commands from Node.js application using JavaScript!](https://www.reddit.com/r/javascript/comments/lpwfyn/run_git_commands_from_nodejs_application_using/)
-- [Slack Bolt for Deno: TypeScript framework to build Slack apps using Deno rapidly with the latest platform features](https://www.reddit.com/r/javascript/comments/lps7sj/slack_bolt_for_deno_typescript_framework_to_build/)
-- [Monetizing your blog with cryptocurrencies - JavaScript implementation](https://www.reddit.com/r/javascript/comments/lpl72p/monetizing_your_blog_with_cryptocurrencies/)
-- [Your /r/javascript recap for the week of February 15 - February 21](https://www.reddit.com/r/javascript/comments/lpkgmt/your_rjavascript_recap_for_the_week_of_february/)
+- [Announcing TypeScript 4.2](https://www.reddit.com/r/javascript/comments/lqu7pd/announcing_typescript_42/)
+- [Discover proceduraly-generated NodeJS GraphQL APIs with GraphQL-sequelize-generator](https://www.reddit.com/r/javascript/comments/lqu2i2/discover_proceduralygenerated_nodejs_graphql_apis/)
+- [[AskJS] Setup Questions](https://www.reddit.com/r/javascript/comments/lqtzb4/askjs_setup_questions/)
+- [decky: Zero bundle size decorators for TypeScript](https://www.reddit.com/r/javascript/comments/lqsflp/decky_zero_bundle_size_decorators_for_typescript/)
+- [[AskJS] How do you compress js files?](https://www.reddit.com/r/javascript/comments/lqs3il/askjs_how_do_you_compress_js_files/)
+- [Built a platform for engineers to better prepare for interviews by trying out real world programming interview questions. Kind of a side project. Any feedback would be appreciated. :)](https://www.reddit.com/r/javascript/comments/lqrjmq/built_a_platform_for_engineers_to_better_prepare/)
+- [[AskJS] I trying to make an NPM package.](https://www.reddit.com/r/javascript/comments/lqqcef/askjs_i_trying_to_make_an_npm_package/)
+- [JavaScript performance beyond bundle size](https://www.reddit.com/r/javascript/comments/lqozvu/javascript_performance_beyond_bundle_size/)
+- [I have created a Coronavirus statistics tracker website, can I know your point of view about it and why not some ideas to enhance it (created with react js)](https://www.reddit.com/r/javascript/comments/lqoaqu/i_have_created_a_coronavirus_statistics_tracker/)
+- [The answers to every what, why, when, and how about Static Code Analysis in JavaScript](https://www.reddit.com/r/javascript/comments/lqnc5l/the_answers_to_every_what_why_when_and_how_about/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
