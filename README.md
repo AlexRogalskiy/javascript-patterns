@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Announcing TypeScript 4.2](https://www.reddit.com/r/javascript/comments/lqu7pd/announcing_typescript_42/)
-- [Discover proceduraly-generated NodeJS GraphQL APIs with GraphQL-sequelize-generator](https://www.reddit.com/r/javascript/comments/lqu2i2/discover_proceduralygenerated_nodejs_graphql_apis/)
-- [[AskJS] Setup Questions](https://www.reddit.com/r/javascript/comments/lqtzb4/askjs_setup_questions/)
-- [decky: Zero bundle size decorators for TypeScript](https://www.reddit.com/r/javascript/comments/lqsflp/decky_zero_bundle_size_decorators_for_typescript/)
-- [[AskJS] How do you compress js files?](https://www.reddit.com/r/javascript/comments/lqs3il/askjs_how_do_you_compress_js_files/)
-- [Built a platform for engineers to better prepare for interviews by trying out real world programming interview questions. Kind of a side project. Any feedback would be appreciated. :)](https://www.reddit.com/r/javascript/comments/lqrjmq/built_a_platform_for_engineers_to_better_prepare/)
-- [[AskJS] I trying to make an NPM package.](https://www.reddit.com/r/javascript/comments/lqqcef/askjs_i_trying_to_make_an_npm_package/)
-- [JavaScript performance beyond bundle size](https://www.reddit.com/r/javascript/comments/lqozvu/javascript_performance_beyond_bundle_size/)
-- [I have created a Coronavirus statistics tracker website, can I know your point of view about it and why not some ideas to enhance it (created with react js)](https://www.reddit.com/r/javascript/comments/lqoaqu/i_have_created_a_coronavirus_statistics_tracker/)
-- [The answers to every what, why, when, and how about Static Code Analysis in JavaScript](https://www.reddit.com/r/javascript/comments/lqnc5l/the_answers_to_every_what_why_when_and_how_about/)
+- [How to Work with Date in Plain Javascript — No Libraries Needed](https://www.reddit.com/r/javascript/comments/lrtgma/how_to_work_with_date_in_plain_javascript_no/)
+- [[AskJS] Which one is more future proof, React or Angular?](https://www.reddit.com/r/javascript/comments/lrocpl/askjs_which_one_is_more_future_proof_react_or/)
+- [How to extract pdf data with PDF.js](https://www.reddit.com/r/javascript/comments/lrlmyj/how_to_extract_pdf_data_with_pdfjs/)
+- [Storybook now works with Vue 3](https://www.reddit.com/r/javascript/comments/lrkazf/storybook_now_works_with_vue_3/)
+- [Use DTOs to Enforce a Layer of Indirection | Node.js w/ TypeScript](https://www.reddit.com/r/javascript/comments/lrjp3g/use_dtos_to_enforce_a_layer_of_indirection_nodejs/)
+- [Node-efficientnet – image recognition model written in Node.js and TypeScript](https://www.reddit.com/r/javascript/comments/lriuhp/nodeefficientnet_image_recognition_model_written/)
+- [How to Create Native Drag and Drop Functionality in JavaScript](https://www.reddit.com/r/javascript/comments/lrin52/how_to_create_native_drag_and_drop_functionality/)
+- [Strapi Draft System Explained](https://www.reddit.com/r/javascript/comments/lrd2h5/strapi_draft_system_explained/)
+- [[AskJS] What is the role of ISO in the ECMAScript standardization process?](https://www.reddit.com/r/javascript/comments/lra68i/askjs_what_is_the_role_of_iso_in_the_ecmascript/)
+- [Object detection model written in node js with TensorFlow js can detect more than 1000 different objects](https://www.reddit.com/r/javascript/comments/lra1vc/object_detection_model_written_in_node_js_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
