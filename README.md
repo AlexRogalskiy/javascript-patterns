@@ -395,6 +395,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Writing JavaScript posts_
 
 <!-- WRITINGJAVASCRIPT-POST-LIST:START -->
+- [Escaping your CSS selectors in the easiest way possible](https://writingjavascript.com/escape-your-css-selectors)
 - [How to extract pdf data with PDF.js](https://writingjavascript.com/how-to-extract-pdf-data-with-pdfjs)
 - [Use more ergonomic custom events](https://writingjavascript.com/use-more-ergonomic-custom-events)
 - [10 great JavaScript tricks that will improve your productivity](https://writingjavascript.com/10-great-javascript-tricks-that-will-improve-your-productivity)
@@ -404,7 +405,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 - [Keep your HTML output secure and clean from XSS JavaScript injection](https://writingjavascript.com/keep-your-html-output-secure-and-clean-from-xss-javascript-injection)
 - [How-to create and use mixins in JavaScript](https://writingjavascript.com/how-to-create-and-use-mixins-in-javascript)
 - [How to use keyword arguments in JavaScript](https://writingjavascript.com/how-to-use-keyword-arguments-in-javascript)
-- [Why default exports are bad](https://writingjavascript.com/why-default-exports-are-bad)
 <!-- WRITINGJAVASCRIPT-POST-LIST:END -->
 
 ### _JavaScript Ninja posts_
