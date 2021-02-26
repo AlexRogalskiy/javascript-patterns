@@ -260,6 +260,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [How to handle component interaction in React](https://www.infoworld.com/article/3609210/how-to-handle-component-interaction-in-react.html#tk.rss_javascript)
 - [TypeScript 4.2 tunes tuple types](https://www.infoworld.com/article/3603495/typescript-42-tunes-tuple-types.html#tk.rss_javascript)
 - [Scala 3 moves to release candidate stage](https://www.infoworld.com/article/3608574/scala-3-moves-to-release-candidate-stage.html#tk.rss_javascript)
 - [Entry-level software developer? Learn React to get that first job](https://www.infoworld.com/article/3607234/entry-level-software-developer-learn-react-to-get-that-first-job.html#tk.rss_javascript)
@@ -269,7 +270,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 - [NPM CLI 7 arrives with Workspaces](https://www.infoworld.com/article/3605555/npm-cli-7-arrives-with-workspaces.html#tk.rss_javascript)
 - [Angular adds error codes, debugging guides](https://www.infoworld.com/article/3605016/angular-adds-error-codes-debugging-guides.html#tk.rss_javascript)
 - [How to handle errors in React](https://www.infoworld.com/article/3604336/how-to-handle-errors-in-react.html#tk.rss_javascript)
-- [Sentry for JavaScript monitors release health](https://www.infoworld.com/article/3605128/sentry-for-javascript-monitors-release-health.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _EmberJS posts_
