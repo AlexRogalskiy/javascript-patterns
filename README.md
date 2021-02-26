@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to Work with Date in Plain Javascript — No Libraries Needed](https://www.reddit.com/r/javascript/comments/lrtgma/how_to_work_with_date_in_plain_javascript_no/)
+- [[AskJS] Clone an array and make it unique](https://www.reddit.com/r/javascript/comments/lsgdfz/askjs_clone_an_array_and_make_it_unique/)
+- [Currying Reducers](https://www.reddit.com/r/javascript/comments/lsf2ry/currying_reducers/)
+- [Unit-Testing Angular Components Using Cypress](https://www.reddit.com/r/javascript/comments/lsdopr/unittesting_angular_components_using_cypress/)
+- [A command-line utility for deploying serverless applications to AWS. Complete with custom domains, deploy previews, TypeScript support, and more.](https://www.reddit.com/r/javascript/comments/lsa9ha/a_commandline_utility_for_deploying_serverless/)
+- [[AskJS] async iterators to replace EventEmitter, EventTarget and so on](https://www.reddit.com/r/javascript/comments/lsa4s1/askjs_async_iterators_to_replace_eventemitter/)
+- [Server Rendering in JavaScript: Optimizing Performance](https://www.reddit.com/r/javascript/comments/ls9f8n/server_rendering_in_javascript_optimizing/)
+- [Programs As Proofs - Thinking about code like a Pythagorean](https://www.reddit.com/r/javascript/comments/ls9ax4/programs_as_proofs_thinking_about_code_like_a/)
+- [Create videos in React that viewers can interact with](https://www.reddit.com/r/javascript/comments/ls8mll/create_videos_in_react_that_viewers_can_interact/)
+- [meshell - dead simple shell library for Node](https://www.reddit.com/r/javascript/comments/ls6ckm/meshell_dead_simple_shell_library_for_node/)
 - [[AskJS] Which one is more future proof, React or Angular?](https://www.reddit.com/r/javascript/comments/lrocpl/askjs_which_one_is_more_future_proof_react_or/)
-- [How to extract pdf data with PDF.js](https://www.reddit.com/r/javascript/comments/lrlmyj/how_to_extract_pdf_data_with_pdfjs/)
-- [Storybook now works with Vue 3](https://www.reddit.com/r/javascript/comments/lrkazf/storybook_now_works_with_vue_3/)
-- [Use DTOs to Enforce a Layer of Indirection | Node.js w/ TypeScript](https://www.reddit.com/r/javascript/comments/lrjp3g/use_dtos_to_enforce_a_layer_of_indirection_nodejs/)
-- [Node-efficientnet – image recognition model written in Node.js and TypeScript](https://www.reddit.com/r/javascript/comments/lriuhp/nodeefficientnet_image_recognition_model_written/)
-- [How to Create Native Drag and Drop Functionality in JavaScript](https://www.reddit.com/r/javascript/comments/lrin52/how_to_create_native_drag_and_drop_functionality/)
-- [Strapi Draft System Explained](https://www.reddit.com/r/javascript/comments/lrd2h5/strapi_draft_system_explained/)
-- [[AskJS] What is the role of ISO in the ECMAScript standardization process?](https://www.reddit.com/r/javascript/comments/lra68i/askjs_what_is_the_role_of_iso_in_the_ecmascript/)
-- [Object detection model written in node js with TensorFlow js can detect more than 1000 different objects](https://www.reddit.com/r/javascript/comments/lra1vc/object_detection_model_written_in_node_js_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
