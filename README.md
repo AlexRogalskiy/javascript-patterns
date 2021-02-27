@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Clone an array and make it unique](https://www.reddit.com/r/javascript/comments/lsgdfz/askjs_clone_an_array_and_make_it_unique/)
-- [Currying Reducers](https://www.reddit.com/r/javascript/comments/lsf2ry/currying_reducers/)
-- [Unit-Testing Angular Components Using Cypress](https://www.reddit.com/r/javascript/comments/lsdopr/unittesting_angular_components_using_cypress/)
-- [A command-line utility for deploying serverless applications to AWS. Complete with custom domains, deploy previews, TypeScript support, and more.](https://www.reddit.com/r/javascript/comments/lsa9ha/a_commandline_utility_for_deploying_serverless/)
-- [[AskJS] async iterators to replace EventEmitter, EventTarget and so on](https://www.reddit.com/r/javascript/comments/lsa4s1/askjs_async_iterators_to_replace_eventemitter/)
-- [Server Rendering in JavaScript: Optimizing Performance](https://www.reddit.com/r/javascript/comments/ls9f8n/server_rendering_in_javascript_optimizing/)
-- [Programs As Proofs - Thinking about code like a Pythagorean](https://www.reddit.com/r/javascript/comments/ls9ax4/programs_as_proofs_thinking_about_code_like_a/)
-- [Create videos in React that viewers can interact with](https://www.reddit.com/r/javascript/comments/ls8mll/create_videos_in_react_that_viewers_can_interact/)
-- [meshell - dead simple shell library for Node](https://www.reddit.com/r/javascript/comments/ls6ckm/meshell_dead_simple_shell_library_for_node/)
-- [[AskJS] Which one is more future proof, React or Angular?](https://www.reddit.com/r/javascript/comments/lrocpl/askjs_which_one_is_more_future_proof_react_or/)
+- [The Amazing Mechanical Plumbus (React, Howler.js)](https://www.reddit.com/r/javascript/comments/ltacm0/the_amazing_mechanical_plumbus_react_howlerjs/)
+- [Here’s what’s happening with the Firefox Nightly logo](https://www.reddit.com/r/javascript/comments/lt6qx9/heres_whats_happening_with_the_firefox_nightly/)
+- [Keep Calm: The fox is here to stay](https://www.reddit.com/r/javascript/comments/lt63rx/keep_calm_the_fox_is_here_to_stay/)
+- [Page builder with Netlify CMS and Next.js](https://www.reddit.com/r/javascript/comments/lszsuz/page_builder_with_netlify_cms_and_nextjs/)
+- [Find 850+ remote job openings hand-picked from Hacker News who is hiring - February](https://www.reddit.com/r/javascript/comments/lszhgh/find_850_remote_job_openings_handpicked_from/)
+- [romanice - Convert to/from Roman numerals](https://www.reddit.com/r/javascript/comments/lsyzoe/romanice_convert_tofrom_roman_numerals/)
+- [CSS-in-JS support in DevTools | Web | Google Developers](https://www.reddit.com/r/javascript/comments/lsyy9c/cssinjs_support_in_devtools_web_google_developers/)
+- [I built an open source Next.js app to visualize/auto generate GraphQL schemas](https://www.reddit.com/r/javascript/comments/lsymo4/i_built_an_open_source_nextjs_app_to/)
+- [I created STARTD. It is a free open source landing page template. Built with Next.js, TypeScript and Twind.](https://www.reddit.com/r/javascript/comments/lsxdlx/i_created_startd_it_is_a_free_open_source_landing/)
+- [Securing Node services with Client Authenticated TLS using CATKeys](https://www.reddit.com/r/javascript/comments/lsurmp/securing_node_services_with_client_authenticated/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
