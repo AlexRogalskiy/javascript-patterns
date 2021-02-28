@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [The Amazing Mechanical Plumbus (React, Howler.js)](https://www.reddit.com/r/javascript/comments/ltacm0/the_amazing_mechanical_plumbus_react_howlerjs/)
-- [Here’s what’s happening with the Firefox Nightly logo](https://www.reddit.com/r/javascript/comments/lt6qx9/heres_whats_happening_with_the_firefox_nightly/)
-- [Keep Calm: The fox is here to stay](https://www.reddit.com/r/javascript/comments/lt63rx/keep_calm_the_fox_is_here_to_stay/)
-- [Page builder with Netlify CMS and Next.js](https://www.reddit.com/r/javascript/comments/lszsuz/page_builder_with_netlify_cms_and_nextjs/)
-- [Find 850+ remote job openings hand-picked from Hacker News who is hiring - February](https://www.reddit.com/r/javascript/comments/lszhgh/find_850_remote_job_openings_handpicked_from/)
-- [romanice - Convert to/from Roman numerals](https://www.reddit.com/r/javascript/comments/lsyzoe/romanice_convert_tofrom_roman_numerals/)
-- [CSS-in-JS support in DevTools | Web | Google Developers](https://www.reddit.com/r/javascript/comments/lsyy9c/cssinjs_support_in_devtools_web_google_developers/)
-- [I built an open source Next.js app to visualize/auto generate GraphQL schemas](https://www.reddit.com/r/javascript/comments/lsymo4/i_built_an_open_source_nextjs_app_to/)
-- [I created STARTD. It is a free open source landing page template. Built with Next.js, TypeScript and Twind.](https://www.reddit.com/r/javascript/comments/lsxdlx/i_created_startd_it_is_a_free_open_source_landing/)
-- [Securing Node services with Client Authenticated TLS using CATKeys](https://www.reddit.com/r/javascript/comments/lsurmp/securing_node_services_with_client_authenticated/)
+- [[AskJS] Multiple variables initially assigned to the same value](https://www.reddit.com/r/javascript/comments/lu2d9o/askjs_multiple_variables_initially_assigned_to/)
+- [Unicode Lookup - The Web's Fastest Unicode Lookup Tool](https://www.reddit.com/r/javascript/comments/ltzref/unicode_lookup_the_webs_fastest_unicode_lookup/)
+- [[AskJS] Heroku Node API deploy](https://www.reddit.com/r/javascript/comments/ltzoyi/askjs_heroku_node_api_deploy/)
+- [Here’s what’s happening with the Firefox Nightly logo](https://www.reddit.com/r/javascript/comments/lty79p/heres_whats_happening_with_the_firefox_nightly/)
+- [A library for managing GOG store Products written in JavaScript](https://www.reddit.com/r/javascript/comments/ltv5ji/a_library_for_managing_gog_store_products_written/)
+- [[AskJS] How can we improve the user experience with links on the internet?](https://www.reddit.com/r/javascript/comments/ltuu4f/askjs_how_can_we_improve_the_user_experience_with/)
+- [Google Chrome Extension to disable certain sections of the web page like ads and sidebars](https://www.reddit.com/r/javascript/comments/ltuckj/google_chrome_extension_to_disable_certain/)
+- [JS work-around for fixing how CSS vw/vh units aren't computed reliably on various mobile devices](https://www.reddit.com/r/javascript/comments/lttxdy/js_workaround_for_fixing_how_css_vwvh_units_arent/)
+- [Node-efficientnet – image recognition model written in Node.js and TypeScript](https://www.reddit.com/r/javascript/comments/ltqi6z/nodeefficientnet_image_recognition_model_written/)
+- ["Under-the-hood of Git" - this post aims to shine a light on the mechanisms inside the "versioned file system" know as Git.](https://www.reddit.com/r/javascript/comments/ltnb47/underthehood_of_git_this_post_aims_to_shine_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
