@@ -395,6 +395,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Writing JavaScript posts_
 
 <!-- WRITINGJAVASCRIPT-POST-LIST:START -->
+- [How to format numbers](https://writingjavascript.com/how-to-format-numbers)
 - [Format "5 days ago" localized relative date strings in a few lines with native JavaScript](https://writingjavascript.com/format-5-days-ago-localized-relative-date-strings-in-a-few-lines-with-native-javascript)
 - [Escaping your CSS selectors in the easiest way possible](https://writingjavascript.com/escape-your-css-selectors)
 - [How to extract pdf data with PDF.js](https://writingjavascript.com/how-to-extract-pdf-data-with-pdfjs)
@@ -404,7 +405,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 - [Lets code a plain JavaScript notification queue using private fields and methods](https://writingjavascript.com/lets-code-a-plain-javascript-notification-queue-using-private-fields-and-methods)
 - [ESLint disable single line and code blocks](https://writingjavascript.com/eslint-disable-single-line-and-code-blocks)
 - [Keep your HTML output secure and clean from XSS JavaScript injection](https://writingjavascript.com/keep-your-html-output-secure-and-clean-from-xss-javascript-injection)
-- [How-to create and use mixins in JavaScript](https://writingjavascript.com/how-to-create-and-use-mixins-in-javascript)
 <!-- WRITINGJAVASCRIPT-POST-LIST:END -->
 
 ### _JavaScript Ninja posts_
