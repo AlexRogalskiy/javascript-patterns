@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [esbuild-config: config files for esbuild](https://www.reddit.com/r/javascript/comments/luqo08/esbuildconfig_config_files_for_esbuild/)
+- [[AskJS] A mini library to map position to sound that could maybe help with web accessibility (a11y)](https://www.reddit.com/r/javascript/comments/lupua3/askjs_a_mini_library_to_map_position_to_sound/)
+- [Using vanilla javascript and Arduino to fix my bad typing](https://www.reddit.com/r/javascript/comments/lup6u8/using_vanilla_javascript_and_arduino_to_fix_my/)
+- [In Console 42 we got an interview with the lead developer of a Node.js based open-source feature flagging service. I thought this group might be interested in checking it out!](https://www.reddit.com/r/javascript/comments/lujebx/in_console_42_we_got_an_interview_with_the_lead/)
+- [What's the optimal way to contact a developer on Github?](https://www.reddit.com/r/javascript/comments/luit1o/whats_the_optimal_way_to_contact_a_developer_on/)
+- [[AskJS] Is there any tool out there that lets you setup a website front-to-back with minimal or zero configuration that is not framework specific?](https://www.reddit.com/r/javascript/comments/luf7li/askjs_is_there_any_tool_out_there_that_lets_you/)
+- [Reading an Excel file in node](https://www.reddit.com/r/javascript/comments/ludsvl/reading_an_excel_file_in_node/)
 - [[AskJS] Multiple variables initially assigned to the same value](https://www.reddit.com/r/javascript/comments/lu2d9o/askjs_multiple_variables_initially_assigned_to/)
 - [Unicode Lookup - The Web's Fastest Unicode Lookup Tool](https://www.reddit.com/r/javascript/comments/ltzref/unicode_lookup_the_webs_fastest_unicode_lookup/)
-- [[AskJS] Heroku Node API deploy](https://www.reddit.com/r/javascript/comments/ltzoyi/askjs_heroku_node_api_deploy/)
-- [Here’s what’s happening with the Firefox Nightly logo](https://www.reddit.com/r/javascript/comments/lty79p/heres_whats_happening_with_the_firefox_nightly/)
 - [A library for managing GOG store Products written in JavaScript](https://www.reddit.com/r/javascript/comments/ltv5ji/a_library_for_managing_gog_store_products_written/)
-- [[AskJS] How can we improve the user experience with links on the internet?](https://www.reddit.com/r/javascript/comments/ltuu4f/askjs_how_can_we_improve_the_user_experience_with/)
-- [Google Chrome Extension to disable certain sections of the web page like ads and sidebars](https://www.reddit.com/r/javascript/comments/ltuckj/google_chrome_extension_to_disable_certain/)
-- [JS work-around for fixing how CSS vw/vh units aren't computed reliably on various mobile devices](https://www.reddit.com/r/javascript/comments/lttxdy/js_workaround_for_fixing_how_css_vwvh_units_arent/)
-- [Node-efficientnet – image recognition model written in Node.js and TypeScript](https://www.reddit.com/r/javascript/comments/ltqi6z/nodeefficientnet_image_recognition_model_written/)
-- ["Under-the-hood of Git" - this post aims to shine a light on the mechanisms inside the "versioned file system" know as Git.](https://www.reddit.com/r/javascript/comments/ltnb47/underthehood_of_git_this_post_aims_to_shine_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
