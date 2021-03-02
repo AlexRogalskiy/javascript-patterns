@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [esbuild-config: config files for esbuild](https://www.reddit.com/r/javascript/comments/luqo08/esbuildconfig_config_files_for_esbuild/)
-- [[AskJS] A mini library to map position to sound that could maybe help with web accessibility (a11y)](https://www.reddit.com/r/javascript/comments/lupua3/askjs_a_mini_library_to_map_position_to_sound/)
-- [Using vanilla javascript and Arduino to fix my bad typing](https://www.reddit.com/r/javascript/comments/lup6u8/using_vanilla_javascript_and_arduino_to_fix_my/)
-- [In Console 42 we got an interview with the lead developer of a Node.js based open-source feature flagging service. I thought this group might be interested in checking it out!](https://www.reddit.com/r/javascript/comments/lujebx/in_console_42_we_got_an_interview_with_the_lead/)
-- [What's the optimal way to contact a developer on Github?](https://www.reddit.com/r/javascript/comments/luit1o/whats_the_optimal_way_to_contact_a_developer_on/)
-- [[AskJS] Is there any tool out there that lets you setup a website front-to-back with minimal or zero configuration that is not framework specific?](https://www.reddit.com/r/javascript/comments/luf7li/askjs_is_there_any_tool_out_there_that_lets_you/)
-- [Reading an Excel file in node](https://www.reddit.com/r/javascript/comments/ludsvl/reading_an_excel_file_in_node/)
-- [[AskJS] Multiple variables initially assigned to the same value](https://www.reddit.com/r/javascript/comments/lu2d9o/askjs_multiple_variables_initially_assigned_to/)
-- [Unicode Lookup - The Web's Fastest Unicode Lookup Tool](https://www.reddit.com/r/javascript/comments/ltzref/unicode_lookup_the_webs_fastest_unicode_lookup/)
-- [A library for managing GOG store Products written in JavaScript](https://www.reddit.com/r/javascript/comments/ltv5ji/a_library_for_managing_gog_store_products_written/)
+- [snowpack-start, a tool for easier Snowpack startup](https://www.reddit.com/r/javascript/comments/lvn3mt/snowpackstart_a_tool_for_easier_snowpack_startup/)
+- [michaljaz/web-minecraft: A FOSS Minecraft client written in JS for the web](https://www.reddit.com/r/javascript/comments/lvl10c/michaljazwebminecraft_a_foss_minecraft_client/)
+- [Rollup - JavaScript Obfuscator](https://www.reddit.com/r/javascript/comments/lvftz5/rollup_javascript_obfuscator/)
+- [How to Change Look & Feel of Pseudo Elements using JavaScript and CSS Custom Properties](https://www.reddit.com/r/javascript/comments/lvebbn/how_to_change_look_feel_of_pseudo_elements_using/)
+- [Still, Going Native Is Better Than React Native and Flutter](https://www.reddit.com/r/javascript/comments/lvdlp2/still_going_native_is_better_than_react_native/)
+- [Paperclip: A DSL for presentational web components](https://www.reddit.com/r/javascript/comments/lvd02j/paperclip_a_dsl_for_presentational_web_components/)
+- [vitejs - Next generation frontend tooling.](https://www.reddit.com/r/javascript/comments/lvckv3/vitejs_next_generation_frontend_tooling/)
+- [How to handle component interaction in React](https://www.reddit.com/r/javascript/comments/lvbxwi/how_to_handle_component_interaction_in_react/)
+- [Is Functional Programming The Silver Bullet? You May Not Like The Answer.](https://www.reddit.com/r/javascript/comments/lvansu/is_functional_programming_the_silver_bullet_you/)
+- [What's New In DevTools (Chrome 90)](https://www.reddit.com/r/javascript/comments/lva2vh/whats_new_in_devtools_chrome_90/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
