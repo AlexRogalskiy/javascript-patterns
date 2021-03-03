@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [snowpack-start, a tool for easier Snowpack startup](https://www.reddit.com/r/javascript/comments/lvn3mt/snowpackstart_a_tool_for_easier_snowpack_startup/)
-- [michaljaz/web-minecraft: A FOSS Minecraft client written in JS for the web](https://www.reddit.com/r/javascript/comments/lvl10c/michaljazwebminecraft_a_foss_minecraft_client/)
-- [Rollup - JavaScript Obfuscator](https://www.reddit.com/r/javascript/comments/lvftz5/rollup_javascript_obfuscator/)
-- [How to Change Look & Feel of Pseudo Elements using JavaScript and CSS Custom Properties](https://www.reddit.com/r/javascript/comments/lvebbn/how_to_change_look_feel_of_pseudo_elements_using/)
-- [Still, Going Native Is Better Than React Native and Flutter](https://www.reddit.com/r/javascript/comments/lvdlp2/still_going_native_is_better_than_react_native/)
-- [Paperclip: A DSL for presentational web components](https://www.reddit.com/r/javascript/comments/lvd02j/paperclip_a_dsl_for_presentational_web_components/)
-- [vitejs - Next generation frontend tooling.](https://www.reddit.com/r/javascript/comments/lvckv3/vitejs_next_generation_frontend_tooling/)
-- [How to handle component interaction in React](https://www.reddit.com/r/javascript/comments/lvbxwi/how_to_handle_component_interaction_in_react/)
-- [Is Functional Programming The Silver Bullet? You May Not Like The Answer.](https://www.reddit.com/r/javascript/comments/lvansu/is_functional_programming_the_silver_bullet_you/)
-- [What's New In DevTools (Chrome 90)](https://www.reddit.com/r/javascript/comments/lva2vh/whats_new_in_devtools_chrome_90/)
+- [Exploring Hotwire, the new approach to building responsive web applications - TeamHQ](https://www.reddit.com/r/javascript/comments/lwghyj/exploring_hotwire_the_new_approach_to_building/)
+- [jspm.org - Import Maps Release & Module CDN Launch](https://www.reddit.com/r/javascript/comments/lwfy0j/jspmorg_import_maps_release_module_cdn_launch/)
+- [Tell a story with your commits - making an app to quickly peek / restore / rearrange coding history](https://www.reddit.com/r/javascript/comments/lwdwdp/tell_a_story_with_your_commits_making_an_app_to/)
+- [Open source Twitter un-follower finder web-extension](https://www.reddit.com/r/javascript/comments/lwa7ut/open_source_twitter_unfollower_finder_webextension/)
+- [JavaScript Modules Versus Components](https://www.reddit.com/r/javascript/comments/lw903a/javascript_modules_versus_components/)
+- [Gyro-web: Accessing the device orientation in JavaScript](https://www.reddit.com/r/javascript/comments/lw8yht/gyroweb_accessing_the_device_orientation_in/)
+- [Faster Gitlab CI pipelines by parallelizing Cypress tests with Knapsack Pro](https://www.reddit.com/r/javascript/comments/lw7miq/faster_gitlab_ci_pipelines_by_parallelizing/)
+- [Building a realtime chat app with Next.js and Vercel](https://www.reddit.com/r/javascript/comments/lw60f4/building_a_realtime_chat_app_with_nextjs_and/)
+- [OrbitDB - Peer-to-Peer Databases for the Decentralized Web](https://www.reddit.com/r/javascript/comments/lw5sxf/orbitdb_peertopeer_databases_for_the/)
+- [Fast, smooth React Data Grid](https://www.reddit.com/r/javascript/comments/lw4xdt/fast_smooth_react_data_grid/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
