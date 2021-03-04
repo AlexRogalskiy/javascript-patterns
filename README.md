@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Exploring Hotwire, the new approach to building responsive web applications - TeamHQ](https://www.reddit.com/r/javascript/comments/lwghyj/exploring_hotwire_the_new_approach_to_building/)
-- [jspm.org - Import Maps Release & Module CDN Launch](https://www.reddit.com/r/javascript/comments/lwfy0j/jspmorg_import_maps_release_module_cdn_launch/)
-- [Tell a story with your commits - making an app to quickly peek / restore / rearrange coding history](https://www.reddit.com/r/javascript/comments/lwdwdp/tell_a_story_with_your_commits_making_an_app_to/)
-- [Open source Twitter un-follower finder web-extension](https://www.reddit.com/r/javascript/comments/lwa7ut/open_source_twitter_unfollower_finder_webextension/)
-- [JavaScript Modules Versus Components](https://www.reddit.com/r/javascript/comments/lw903a/javascript_modules_versus_components/)
-- [Gyro-web: Accessing the device orientation in JavaScript](https://www.reddit.com/r/javascript/comments/lw8yht/gyroweb_accessing_the_device_orientation_in/)
-- [Faster Gitlab CI pipelines by parallelizing Cypress tests with Knapsack Pro](https://www.reddit.com/r/javascript/comments/lw7miq/faster_gitlab_ci_pipelines_by_parallelizing/)
-- [Building a realtime chat app with Next.js and Vercel](https://www.reddit.com/r/javascript/comments/lw60f4/building_a_realtime_chat_app_with_nextjs_and/)
-- [OrbitDB - Peer-to-Peer Databases for the Decentralized Web](https://www.reddit.com/r/javascript/comments/lw5sxf/orbitdb_peertopeer_databases_for_the/)
-- [Fast, smooth React Data Grid](https://www.reddit.com/r/javascript/comments/lw4xdt/fast_smooth_react_data_grid/)
+- [I've used the pipe() function 2,560 times and I can tell you it's good!](https://www.reddit.com/r/javascript/comments/lx94qs/ive_used_the_pipe_function_2560_times_and_i_can/)
+- [[AskJS] Millions of Indian and Chinese devs use Javascript: how come there aren't more big open source tools coming out of these places?](https://www.reddit.com/r/javascript/comments/lx3hbt/askjs_millions_of_indian_and_chinese_devs_use/)
+- [Needle - a full featured dependency injection library](https://www.reddit.com/r/javascript/comments/lx2tps/needle_a_full_featured_dependency_injection/)
+- [How to Make Custom Event Listeners in JavaScript](https://www.reddit.com/r/javascript/comments/lx2ojj/how_to_make_custom_event_listeners_in_javascript/)
+- [The Halftone Mirror (Webcam Required)](https://www.reddit.com/r/javascript/comments/lx2gjz/the_halftone_mirror_webcam_required/)
+- [The JavaScript Templating Landscape | Patrick Steele-Idem](https://www.reddit.com/r/javascript/comments/lx2ape/the_javascript_templating_landscape_patrick/)
+- [Launching an Addon Kit and in-depth guide for Storybook](https://www.reddit.com/r/javascript/comments/lwyrbw/launching_an_addon_kit_and_indepth_guide_for/)
+- [Announcing our new Free Forever plan Payload, a Node / TypeScript headless CMS](https://www.reddit.com/r/javascript/comments/lwyjcw/announcing_our_new_free_forever_plan_payload_a/)
+- [GUN - An open source cybersecurity protocol for syncing decentralized graph data. Used by Internet Archive and Hackernoon.](https://www.reddit.com/r/javascript/comments/lwy8qf/gun_an_open_source_cybersecurity_protocol_for/)
+- [jQuery 3.6.0 Released - "We still have our eyes on a jQuery 4.0 release"](https://www.reddit.com/r/javascript/comments/lwxxij/jquery_360_released_we_still_have_our_eyes_on_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
