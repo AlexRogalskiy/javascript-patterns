@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] JavaScript Interview Advice?](https://www.reddit.com/r/javascript/comments/lxwi2b/askjs_javascript_interview_advice/)
+- [[AskJS] Is there such a thing as too much isolation with unit testing?](https://www.reddit.com/r/javascript/comments/lxszwd/askjs_is_there_such_a_thing_as_too_much_isolation/)
+- [Using BigQuery Public Datasets to build an analytical app and research the impact of COVID-19](https://www.reddit.com/r/javascript/comments/lxrduq/using_bigquery_public_datasets_to_build_an/)
+- [Visual Studio Code February 2021](https://www.reddit.com/r/javascript/comments/lxr6ou/visual_studio_code_february_2021/)
+- [[AskJS] What you love about Javascript that we don't find in another programming language and why many OO programmer from others language Java, C#, C++ etc hate/don't like it ?](https://www.reddit.com/r/javascript/comments/lxqf2s/askjs_what_you_love_about_javascript_that_we_dont/)
+- [OkCupid Presents: Modeling UI States in A React Form Component Using A Finite State Machine](https://www.reddit.com/r/javascript/comments/lxm6id/okcupid_presents_modeling_ui_states_in_a_react/)
+- [How to Bind Remote Data and Enable Virtual Scrolling in JavaScript Pivot Table](https://www.reddit.com/r/javascript/comments/lxj6kt/how_to_bind_remote_data_and_enable_virtual/)
+- [How to Build a Clubhouse Clone](https://www.reddit.com/r/javascript/comments/lxeykx/how_to_build_a_clubhouse_clone/)
+- [Genius or lunacy? A pattern for using Services As DOM Elements (also, custom elements how-to w/ 5 different libraries)](https://www.reddit.com/r/javascript/comments/lxc2hc/genius_or_lunacy_a_pattern_for_using_services_as/)
 - [I've used the pipe() function 2,560 times and I can tell you it's good!](https://www.reddit.com/r/javascript/comments/lx94qs/ive_used_the_pipe_function_2560_times_and_i_can/)
-- [[AskJS] Millions of Indian and Chinese devs use Javascript: how come there aren't more big open source tools coming out of these places?](https://www.reddit.com/r/javascript/comments/lx3hbt/askjs_millions_of_indian_and_chinese_devs_use/)
-- [Needle - a full featured dependency injection library](https://www.reddit.com/r/javascript/comments/lx2tps/needle_a_full_featured_dependency_injection/)
-- [How to Make Custom Event Listeners in JavaScript](https://www.reddit.com/r/javascript/comments/lx2ojj/how_to_make_custom_event_listeners_in_javascript/)
-- [The Halftone Mirror (Webcam Required)](https://www.reddit.com/r/javascript/comments/lx2gjz/the_halftone_mirror_webcam_required/)
-- [The JavaScript Templating Landscape | Patrick Steele-Idem](https://www.reddit.com/r/javascript/comments/lx2ape/the_javascript_templating_landscape_patrick/)
-- [Launching an Addon Kit and in-depth guide for Storybook](https://www.reddit.com/r/javascript/comments/lwyrbw/launching_an_addon_kit_and_indepth_guide_for/)
-- [Announcing our new Free Forever plan Payload, a Node / TypeScript headless CMS](https://www.reddit.com/r/javascript/comments/lwyjcw/announcing_our_new_free_forever_plan_payload_a/)
-- [GUN - An open source cybersecurity protocol for syncing decentralized graph data. Used by Internet Archive and Hackernoon.](https://www.reddit.com/r/javascript/comments/lwy8qf/gun_an_open_source_cybersecurity_protocol_for/)
-- [jQuery 3.6.0 Released - "We still have our eyes on a jQuery 4.0 release"](https://www.reddit.com/r/javascript/comments/lwxxij/jquery_360_released_we_still_have_our_eyes_on_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
