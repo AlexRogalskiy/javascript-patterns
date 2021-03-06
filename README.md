@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Announcing Svelte NodeGUI, a lightweight Electron alternative with native UI, based on Node.js!](https://www.reddit.com/r/javascript/comments/lykubx/announcing_svelte_nodegui_a_lightweight_electron/)
+- [How to Deploy a Powerful Virtual Event in Record Time](https://www.reddit.com/r/javascript/comments/lykgpb/how_to_deploy_a_powerful_virtual_event_in_record/)
+- [How I built offline mode in Liftosaur](https://www.reddit.com/r/javascript/comments/lyj0m4/how_i_built_offline_mode_in_liftosaur/)
+- [Is the Biggest Source of Bugs of All Time Killing Your Productivity?](https://www.reddit.com/r/javascript/comments/lyfeok/is_the_biggest_source_of_bugs_of_all_time_killing/)
+- [date-fns: one of the most popular date libraries backed by black hat world](https://www.reddit.com/r/javascript/comments/lyaf6t/datefns_one_of_the_most_popular_date_libraries/)
 - [[AskJS] JavaScript Interview Advice?](https://www.reddit.com/r/javascript/comments/lxwi2b/askjs_javascript_interview_advice/)
 - [[AskJS] Is there such a thing as too much isolation with unit testing?](https://www.reddit.com/r/javascript/comments/lxszwd/askjs_is_there_such_a_thing_as_too_much_isolation/)
 - [Using BigQuery Public Datasets to build an analytical app and research the impact of COVID-19](https://www.reddit.com/r/javascript/comments/lxrduq/using_bigquery_public_datasets_to_build_an/)
 - [Visual Studio Code February 2021](https://www.reddit.com/r/javascript/comments/lxr6ou/visual_studio_code_february_2021/)
 - [[AskJS] What you love about Javascript that we don't find in another programming language and why many OO programmer from others language Java, C#, C++ etc hate/don't like it ?](https://www.reddit.com/r/javascript/comments/lxqf2s/askjs_what_you_love_about_javascript_that_we_dont/)
-- [OkCupid Presents: Modeling UI States in A React Form Component Using A Finite State Machine](https://www.reddit.com/r/javascript/comments/lxm6id/okcupid_presents_modeling_ui_states_in_a_react/)
-- [How to Bind Remote Data and Enable Virtual Scrolling in JavaScript Pivot Table](https://www.reddit.com/r/javascript/comments/lxj6kt/how_to_bind_remote_data_and_enable_virtual/)
-- [How to Build a Clubhouse Clone](https://www.reddit.com/r/javascript/comments/lxeykx/how_to_build_a_clubhouse_clone/)
-- [Genius or lunacy? A pattern for using Services As DOM Elements (also, custom elements how-to w/ 5 different libraries)](https://www.reddit.com/r/javascript/comments/lxc2hc/genius_or_lunacy_a_pattern_for_using_services_as/)
-- [I've used the pipe() function 2,560 times and I can tell you it's good!](https://www.reddit.com/r/javascript/comments/lx94qs/ive_used_the_pipe_function_2560_times_and_i_can/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
