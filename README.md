@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] confusions about how images are transferred via HTTP and handled in JavaScript](https://www.reddit.com/r/javascript/comments/lzc50l/askjs_confusions_about_how_images_are_transferred/)
+- [I wrote a tiny generator runner that transparently concludes yielded promises, iterators, and effects, making your async flows cancellable and testable.](https://www.reddit.com/r/javascript/comments/lz0rm3/i_wrote_a_tiny_generator_runner_that/)
+- [Getting started with speech-to-text transcriptions with AssemblyAI, JavaScript and Node.js](https://www.reddit.com/r/javascript/comments/lyy40s/getting_started_with_speechtotext_transcriptions/)
+- [Showoff Saturday (March 06, 2021)](https://www.reddit.com/r/javascript/comments/lyx0lc/showoff_saturday_march_06_2021/)
+- [AWS JS SDK v3 first impressions](https://www.reddit.com/r/javascript/comments/lyva2b/aws_js_sdk_v3_first_impressions/)
+- [Makerwork 006 includes an open source Javascript alternative to Clubhouse, Twitter Spaces and similar audio spaces.](https://www.reddit.com/r/javascript/comments/lyruts/makerwork_006_includes_an_open_source_javascript/)
 - [Announcing Svelte NodeGUI, a lightweight Electron alternative with native UI, based on Node.js!](https://www.reddit.com/r/javascript/comments/lykubx/announcing_svelte_nodegui_a_lightweight_electron/)
 - [How to Deploy a Powerful Virtual Event in Record Time](https://www.reddit.com/r/javascript/comments/lykgpb/how_to_deploy_a_powerful_virtual_event_in_record/)
 - [How I built offline mode in Liftosaur](https://www.reddit.com/r/javascript/comments/lyj0m4/how_i_built_offline_mode_in_liftosaur/)
 - [Is the Biggest Source of Bugs of All Time Killing Your Productivity?](https://www.reddit.com/r/javascript/comments/lyfeok/is_the_biggest_source_of_bugs_of_all_time_killing/)
-- [date-fns: one of the most popular date libraries backed by black hat world](https://www.reddit.com/r/javascript/comments/lyaf6t/datefns_one_of_the_most_popular_date_libraries/)
-- [[AskJS] JavaScript Interview Advice?](https://www.reddit.com/r/javascript/comments/lxwi2b/askjs_javascript_interview_advice/)
-- [[AskJS] Is there such a thing as too much isolation with unit testing?](https://www.reddit.com/r/javascript/comments/lxszwd/askjs_is_there_such_a_thing_as_too_much_isolation/)
-- [Using BigQuery Public Datasets to build an analytical app and research the impact of COVID-19](https://www.reddit.com/r/javascript/comments/lxrduq/using_bigquery_public_datasets_to_build_an/)
-- [Visual Studio Code February 2021](https://www.reddit.com/r/javascript/comments/lxr6ou/visual_studio_code_february_2021/)
-- [[AskJS] What you love about Javascript that we don't find in another programming language and why many OO programmer from others language Java, C#, C++ etc hate/don't like it ?](https://www.reddit.com/r/javascript/comments/lxqf2s/askjs_what_you_love_about_javascript_that_we_dont/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
