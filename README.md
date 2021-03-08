@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] confusions about how images are transferred via HTTP and handled in JavaScript](https://www.reddit.com/r/javascript/comments/lzc50l/askjs_confusions_about_how_images_are_transferred/)
+- [A handy JS color picker, that lets you pick either a HTML color or from an artist-designed palette. Repeatable color picking is now easy. Implemented as a web page, so no install needed.](https://www.reddit.com/r/javascript/comments/m03pb2/a_handy_js_color_picker_that_lets_you_pick_either/)
+- [Turbo Showcase - fundamental JS server-side interaction achieved with no custom JavaScript](https://www.reddit.com/r/javascript/comments/m01xk7/turbo_showcase_fundamental_js_serverside/)
+- [Kataw An insane fast Javascript toolchain supporting both Javascript and Typescript.](https://www.reddit.com/r/javascript/comments/lzzz4t/kataw_an_insane_fast_javascript_toolchain/)
+- [[AskJS] thoughts on Svelte versus React?](https://www.reddit.com/r/javascript/comments/lzzhv5/askjs_thoughts_on_svelte_versus_react/)
+- [Why to have a Service-Controller architecture for every backend app?](https://www.reddit.com/r/javascript/comments/lzw88i/why_to_have_a_servicecontroller_architecture_for/)
+- [[AskJS] Any interesting use cases for Proxy?](https://www.reddit.com/r/javascript/comments/lzsx4p/askjs_any_interesting_use_cases_for_proxy/)
+- [Porting Kotlin Coroutines library to JavaScript](https://www.reddit.com/r/javascript/comments/lzsvna/porting_kotlin_coroutines_library_to_javascript/)
+- [Peripheral Communication using React Native BLE (Bluetooth Low Energy)](https://www.reddit.com/r/javascript/comments/lzhcta/peripheral_communication_using_react_native_ble/)
 - [I wrote a tiny generator runner that transparently concludes yielded promises, iterators, and effects, making your async flows cancellable and testable.](https://www.reddit.com/r/javascript/comments/lz0rm3/i_wrote_a_tiny_generator_runner_that/)
 - [Getting started with speech-to-text transcriptions with AssemblyAI, JavaScript and Node.js](https://www.reddit.com/r/javascript/comments/lyy40s/getting_started_with_speechtotext_transcriptions/)
-- [Showoff Saturday (March 06, 2021)](https://www.reddit.com/r/javascript/comments/lyx0lc/showoff_saturday_march_06_2021/)
-- [AWS JS SDK v3 first impressions](https://www.reddit.com/r/javascript/comments/lyva2b/aws_js_sdk_v3_first_impressions/)
-- [Makerwork 006 includes an open source Javascript alternative to Clubhouse, Twitter Spaces and similar audio spaces.](https://www.reddit.com/r/javascript/comments/lyruts/makerwork_006_includes_an_open_source_javascript/)
-- [Announcing Svelte NodeGUI, a lightweight Electron alternative with native UI, based on Node.js!](https://www.reddit.com/r/javascript/comments/lykubx/announcing_svelte_nodegui_a_lightweight_electron/)
-- [How to Deploy a Powerful Virtual Event in Record Time](https://www.reddit.com/r/javascript/comments/lykgpb/how_to_deploy_a_powerful_virtual_event_in_record/)
-- [How I built offline mode in Liftosaur](https://www.reddit.com/r/javascript/comments/lyj0m4/how_i_built_offline_mode_in_liftosaur/)
-- [Is the Biggest Source of Bugs of All Time Killing Your Productivity?](https://www.reddit.com/r/javascript/comments/lyfeok/is_the_biggest_source_of_bugs_of_all_time_killing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
