@@ -320,6 +320,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _javascript programmer posts_
 
 <!-- METEOR-POST-LIST:START -->
+- [First load optimization with Meteor](https://blog.meteor.com/first-load-optimization-with-meteor-7cd896fa217d?source=rss----a9bcaf865278---4)
 - [Scale your app with multi-core](https://blog.meteor.com/scale-your-app-with-multi-core-7fba03192ea2?source=rss----a9bcaf865278---4)
 - [Updating Meteor Packages for HMR](https://blog.meteor.com/updating-meteor-packages-for-hmr-7d514271bbd4?source=rss----a9bcaf865278---4)
 - [Meteor 2.0 is here!](https://blog.meteor.com/meteor-2-0-is-here-867b0ab4f8df?source=rss----a9bcaf865278---4)
@@ -329,7 +330,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 - [Meteor Impact 2020 is this week!](https://blog.meteor.com/meteor-impact-2020-is-this-week-db3a1ee1e0cd?source=rss----a9bcaf865278---4)
 - [How Any.Run Became The Most Popular Malware Sandbox in the World with Meteor.js.](https://blog.meteor.com/how-any-run-became-the-most-popular-malware-sandbox-in-the-world-with-meteor-js-e7aeb5ac29e1?source=rss----a9bcaf865278---4)
 - [Nested Imports in Meteor](https://blog.meteor.com/nested-imports-in-meteor-73fff491a11c?source=rss----a9bcaf865278---4)
-- [Announcing Meteor 1.11](https://blog.meteor.com/announcing-meteor-1-11-a4af1c5cc689?source=rss----a9bcaf865278---4)
 <!-- METEOR-POST-LIST:END -->
 
 ### _Dreamix posts_
