@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [A handy JS color picker, that lets you pick either a HTML color or from an artist-designed palette. Repeatable color picking is now easy. Implemented as a web page, so no install needed.](https://www.reddit.com/r/javascript/comments/m03pb2/a_handy_js_color_picker_that_lets_you_pick_either/)
-- [Turbo Showcase - fundamental JS server-side interaction achieved with no custom JavaScript](https://www.reddit.com/r/javascript/comments/m01xk7/turbo_showcase_fundamental_js_serverside/)
-- [Kataw An insane fast Javascript toolchain supporting both Javascript and Typescript.](https://www.reddit.com/r/javascript/comments/lzzz4t/kataw_an_insane_fast_javascript_toolchain/)
-- [[AskJS] thoughts on Svelte versus React?](https://www.reddit.com/r/javascript/comments/lzzhv5/askjs_thoughts_on_svelte_versus_react/)
-- [Why to have a Service-Controller architecture for every backend app?](https://www.reddit.com/r/javascript/comments/lzw88i/why_to_have_a_servicecontroller_architecture_for/)
-- [[AskJS] Any interesting use cases for Proxy?](https://www.reddit.com/r/javascript/comments/lzsx4p/askjs_any_interesting_use_cases_for_proxy/)
-- [Porting Kotlin Coroutines library to JavaScript](https://www.reddit.com/r/javascript/comments/lzsvna/porting_kotlin_coroutines_library_to_javascript/)
-- [Peripheral Communication using React Native BLE (Bluetooth Low Energy)](https://www.reddit.com/r/javascript/comments/lzhcta/peripheral_communication_using_react_native_ble/)
-- [I wrote a tiny generator runner that transparently concludes yielded promises, iterators, and effects, making your async flows cancellable and testable.](https://www.reddit.com/r/javascript/comments/lz0rm3/i_wrote_a_tiny_generator_runner_that/)
-- [Getting started with speech-to-text transcriptions with AssemblyAI, JavaScript and Node.js](https://www.reddit.com/r/javascript/comments/lyy40s/getting_started_with_speechtotext_transcriptions/)
+- [[AskJS] What do people think of Ramda or other functional libraries for JS?](https://www.reddit.com/r/javascript/comments/m0jf0o/askjs_what_do_people_think_of_ramda_or_other/)
+- [Web Development Collaboration - Better, Faster | zipBoard](https://www.reddit.com/r/javascript/comments/m0hq6u/web_development_collaboration_better_faster/)
+- [Peripheral Communication with React Native BLE (Bluetooth Low Energy)](https://www.reddit.com/r/javascript/comments/m0h8s6/peripheral_communication_with_react_native_ble/)
+- [[AskJS] How does imports work?](https://www.reddit.com/r/javascript/comments/m0dqyg/askjs_how_does_imports_work/)
+- [Your /r/javascript recap for the week of March 01 - March 07](https://www.reddit.com/r/javascript/comments/m0cmlk/your_rjavascript_recap_for_the_week_of_march_01/)
+- [Mobx Reaction Control - wrapper enabling dynamic Mobx reactivity control](https://www.reddit.com/r/javascript/comments/m0bva5/mobx_reaction_control_wrapper_enabling_dynamic/)
+- [ECMAScript - Introducing Dynamic Imports in ES2020 (ES11)](https://www.reddit.com/r/javascript/comments/m0aked/ecmascript_introducing_dynamic_imports_in_es2020/)
+- [Jquery Drag and Drop Builder!](https://www.reddit.com/r/javascript/comments/m0aazl/jquery_drag_and_drop_builder/)
+- [Taro - a lightweight 3D game engine for the web](https://www.reddit.com/r/javascript/comments/m098ws/taro_a_lightweight_3d_game_engine_for_the_web/)
+- [Killblanks Use pre-rendering and skeleton screen to solve page white screen problem](https://www.reddit.com/r/javascript/comments/m06tqy/killblanks_use_prerendering_and_skeleton_screen/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
