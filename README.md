@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] What do people think of Ramda or other functional libraries for JS?](https://www.reddit.com/r/javascript/comments/m0jf0o/askjs_what_do_people_think_of_ramda_or_other/)
-- [Web Development Collaboration - Better, Faster | zipBoard](https://www.reddit.com/r/javascript/comments/m0hq6u/web_development_collaboration_better_faster/)
-- [Peripheral Communication with React Native BLE (Bluetooth Low Energy)](https://www.reddit.com/r/javascript/comments/m0h8s6/peripheral_communication_with_react_native_ble/)
-- [[AskJS] How does imports work?](https://www.reddit.com/r/javascript/comments/m0dqyg/askjs_how_does_imports_work/)
-- [Your /r/javascript recap for the week of March 01 - March 07](https://www.reddit.com/r/javascript/comments/m0cmlk/your_rjavascript_recap_for_the_week_of_march_01/)
-- [Mobx Reaction Control - wrapper enabling dynamic Mobx reactivity control](https://www.reddit.com/r/javascript/comments/m0bva5/mobx_reaction_control_wrapper_enabling_dynamic/)
-- [ECMAScript - Introducing Dynamic Imports in ES2020 (ES11)](https://www.reddit.com/r/javascript/comments/m0aked/ecmascript_introducing_dynamic_imports_in_es2020/)
-- [Jquery Drag and Drop Builder!](https://www.reddit.com/r/javascript/comments/m0aazl/jquery_drag_and_drop_builder/)
-- [Taro - a lightweight 3D game engine for the web](https://www.reddit.com/r/javascript/comments/m098ws/taro_a_lightweight_3d_game_engine_for_the_web/)
-- [Killblanks Use pre-rendering and skeleton screen to solve page white screen problem](https://www.reddit.com/r/javascript/comments/m06tqy/killblanks_use_prerendering_and_skeleton_screen/)
+- [Important array methods in JavaScript - HtoStudios](https://www.reddit.com/r/javascript/comments/m1m4qw/important_array_methods_in_javascript_htostudios/)
+- [React authentication, simplified](https://www.reddit.com/r/javascript/comments/m1luzd/react_authentication_simplified/)
+- [I designed and coded this online puzzlebox in JavaScript with some jquery for animations. (Not for mobile, requires right-clicking.) I made use of SHA-hashes to not leave the solution to the different puzzles visible in the code.](https://www.reddit.com/r/javascript/comments/m1ljad/i_designed_and_coded_this_online_puzzlebox_in/)
+- [AI-powered surveillance for businesses.](https://www.reddit.com/r/javascript/comments/m1h6cd/aipowered_surveillance_for_businesses/)
+- [Jest website upgraded to Docusaurus v2](https://www.reddit.com/r/javascript/comments/m1fi40/jest_website_upgraded_to_docusaurus_v2/)
+- [Releasing Docusaurus v2 i18n: translate your docs websites easily!](https://www.reddit.com/r/javascript/comments/m1fgnw/releasing_docusaurus_v2_i18n_translate_your_docs/)
+- [Angular, React, Vue: JavaScript frameworks compared](https://www.reddit.com/r/javascript/comments/m1dh8h/angular_react_vue_javascript_frameworks_compared/)
+- [Introducing Relay Hooks: Improved React APIs for Relay](https://www.reddit.com/r/javascript/comments/m1by4b/introducing_relay_hooks_improved_react_apis_for/)
+- [Modeling A GraphQL API For Your Blog Using Webiny Serverless CMS](https://www.reddit.com/r/javascript/comments/m1bc5t/modeling_a_graphql_api_for_your_blog_using_webiny/)
+- [Webpack 5 and next-gen tooling for Storybook](https://www.reddit.com/r/javascript/comments/m1a84d/webpack_5_and_nextgen_tooling_for_storybook/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
