@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Important array methods in JavaScript - HtoStudios](https://www.reddit.com/r/javascript/comments/m1m4qw/important_array_methods_in_javascript_htostudios/)
-- [React authentication, simplified](https://www.reddit.com/r/javascript/comments/m1luzd/react_authentication_simplified/)
-- [I designed and coded this online puzzlebox in JavaScript with some jquery for animations. (Not for mobile, requires right-clicking.) I made use of SHA-hashes to not leave the solution to the different puzzles visible in the code.](https://www.reddit.com/r/javascript/comments/m1ljad/i_designed_and_coded_this_online_puzzlebox_in/)
-- [AI-powered surveillance for businesses.](https://www.reddit.com/r/javascript/comments/m1h6cd/aipowered_surveillance_for_businesses/)
-- [Jest website upgraded to Docusaurus v2](https://www.reddit.com/r/javascript/comments/m1fi40/jest_website_upgraded_to_docusaurus_v2/)
-- [Releasing Docusaurus v2 i18n: translate your docs websites easily!](https://www.reddit.com/r/javascript/comments/m1fgnw/releasing_docusaurus_v2_i18n_translate_your_docs/)
-- [Angular, React, Vue: JavaScript frameworks compared](https://www.reddit.com/r/javascript/comments/m1dh8h/angular_react_vue_javascript_frameworks_compared/)
-- [Introducing Relay Hooks: Improved React APIs for Relay](https://www.reddit.com/r/javascript/comments/m1by4b/introducing_relay_hooks_improved_react_apis_for/)
-- [Modeling A GraphQL API For Your Blog Using Webiny Serverless CMS](https://www.reddit.com/r/javascript/comments/m1bc5t/modeling_a_graphql_api_for_your_blog_using_webiny/)
-- [Webpack 5 and next-gen tooling for Storybook](https://www.reddit.com/r/javascript/comments/m1a84d/webpack_5_and_nextgen_tooling_for_storybook/)
+- [CRM System Rate Limiting Overview](https://www.reddit.com/r/javascript/comments/m2ez2i/crm_system_rate_limiting_overview/)
+- [Semaphore - a modern UI for Ansible](https://www.reddit.com/r/javascript/comments/m2ewa0/semaphore_a_modern_ui_for_ansible/)
+- [Updates from the 81st meeting of TC39](https://www.reddit.com/r/javascript/comments/m2eiig/updates_from_the_81st_meeting_of_tc39/)
+- [Back to Basics: Building a HackerNews Clone with Marko](https://www.reddit.com/r/javascript/comments/m2bd8e/back_to_basics_building_a_hackernews_clone_with/)
+- [Introducing Snippy - A snippet manager Chrome extension for developers](https://www.reddit.com/r/javascript/comments/m28xu1/introducing_snippy_a_snippet_manager_chrome/)
+- [[AskJS] Do you secure your APIs from sensitive data exposure?](https://www.reddit.com/r/javascript/comments/m27p5e/askjs_do_you_secure_your_apis_from_sensitive_data/)
+- [SHOWOFF - I made a note-taking extension for Firefox in JS](https://www.reddit.com/r/javascript/comments/m247p0/showoff_i_made_a_notetaking_extension_for_firefox/)
+- [Email & password authentication with accounts-js and Apollo Server](https://www.reddit.com/r/javascript/comments/m21v3c/email_password_authentication_with_accountsjs_and/)
+- [Introducing Necktie – a simple and small (~ 3kB) DOM binding tool](https://www.reddit.com/r/javascript/comments/m1whgr/introducing_necktie_a_simple_and_small_3kb_dom/)
+- [ts-audio v0.45 is out!](https://www.reddit.com/r/javascript/comments/m1vdkz/tsaudio_v045_is_out/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
