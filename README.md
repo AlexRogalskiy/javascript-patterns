@@ -260,6 +260,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Out-of-this-world monitoring with InfluxDB and React](https://www.infoworld.com/article/3609389/out-of-this-world-monitoring-with-influxdb-and-react.html#tk.rss_javascript)
 - [Deno 1.8 preps for GPU-accelerated machine learning](https://www.infoworld.com/article/3610391/deno-18-preps-for-gpu-accelerated-machine-learning.html#tk.rss_javascript)
 - [How to handle component interaction in React](https://www.infoworld.com/article/3609210/how-to-handle-component-interaction-in-react.html#tk.rss_javascript)
 - [TypeScript 4.2 tunes tuple types](https://www.infoworld.com/article/3603495/typescript-42-tunes-tuple-types.html#tk.rss_javascript)
@@ -269,7 +270,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 - [Angular, React, Vue: JavaScript frameworks compared](https://www.infoworld.com/article/3606737/angular-react-vue-javascript-frameworks-compared.html#tk.rss_javascript)
 - [Visual Studio Code 1.53 brings customizable search mode](https://www.infoworld.com/article/3606191/visual-studio-code-153-brings-customizable-search-mode.html#tk.rss_javascript)
 - [NPM CLI 7 arrives with Workspaces](https://www.infoworld.com/article/3605555/npm-cli-7-arrives-with-workspaces.html#tk.rss_javascript)
-- [Angular adds error codes, debugging guides](https://www.infoworld.com/article/3605016/angular-adds-error-codes-debugging-guides.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _EmberJS posts_
