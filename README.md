@@ -341,16 +341,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _NodeSource posts_
 
 <!-- NODESOURCE-POST-LIST:START -->
+- [Announcing Worker Threads Monitoring for Node.js in N|Solid](https://nodesource.com/blog/worker-threads-monitoring-for-node.js-in-NSolid)
 - [NodeSource brings C++ API to N|Solid!](https://nodesource.com/blog/c++-api-to-nsolid)
 - [PagerDuty integration with N|Solid](https://nodesource.com/blog/pagerduty-integration-with-NSolid)
 - [Node By Numbers 2020](https://nodesource.com/blog/node-by-numbers-2020)
-- [Need to Node – Volume 69](https://nodesource.com/blog/need-to-node-vol-69)
 - [Security Release for NSolid Version 4.4.1](https://nodesource.com/blog/security-release-for-NSolid-version-4.4.1)
+- [Need to Node – Volume 69](https://nodesource.com/blog/need-to-node-vol-69)
 - [NodeSource brings arm64 support, C++ API and  Event Profiler to N|Solid!](https://nodesource.com/blog/arm64-support-C++-API-event-profiler-to-NSolid)
 - [NodeSource Brings arm64 Support to its Node.js Binary Distributions](https://nodesource.com/blog/arm64-support-Node.js-binary-distributions)
 - [Introduction to Event Loop Utilization in Node.js](https://nodesource.com/blog/event-loop-utilization-nodejs)
 - [Announcing N|Solid 4.3.0 - Import/Export Settings](https://nodesource.com/blog/announcing-NSolid-4.3.0)
-- [Announcing N|Solid JS API](https://nodesource.com/blog/announcing-NSolid-JS-API)
 <!-- NODESOURCE-POST-LIST:END -->
 
 ### _React Native posts_
