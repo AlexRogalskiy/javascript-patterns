@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [CRM System Rate Limiting Overview](https://www.reddit.com/r/javascript/comments/m2ez2i/crm_system_rate_limiting_overview/)
-- [Semaphore - a modern UI for Ansible](https://www.reddit.com/r/javascript/comments/m2ewa0/semaphore_a_modern_ui_for_ansible/)
-- [Updates from the 81st meeting of TC39](https://www.reddit.com/r/javascript/comments/m2eiig/updates_from_the_81st_meeting_of_tc39/)
-- [Back to Basics: Building a HackerNews Clone with Marko](https://www.reddit.com/r/javascript/comments/m2bd8e/back_to_basics_building_a_hackernews_clone_with/)
-- [Introducing Snippy - A snippet manager Chrome extension for developers](https://www.reddit.com/r/javascript/comments/m28xu1/introducing_snippy_a_snippet_manager_chrome/)
-- [[AskJS] Do you secure your APIs from sensitive data exposure?](https://www.reddit.com/r/javascript/comments/m27p5e/askjs_do_you_secure_your_apis_from_sensitive_data/)
-- [SHOWOFF - I made a note-taking extension for Firefox in JS](https://www.reddit.com/r/javascript/comments/m247p0/showoff_i_made_a_notetaking_extension_for_firefox/)
-- [Email & password authentication with accounts-js and Apollo Server](https://www.reddit.com/r/javascript/comments/m21v3c/email_password_authentication_with_accountsjs_and/)
-- [Introducing Necktie – a simple and small (~ 3kB) DOM binding tool](https://www.reddit.com/r/javascript/comments/m1whgr/introducing_necktie_a_simple_and_small_3kb_dom/)
-- [ts-audio v0.45 is out!](https://www.reddit.com/r/javascript/comments/m1vdkz/tsaudio_v045_is_out/)
+- [Are coding bootcamps still worth it?? 💻 Yes or No](https://www.reddit.com/r/javascript/comments/m34y6a/are_coding_bootcamps_still_worth_it_yes_or_no/)
+- [[AskJS] Post-interview feedback on NodeJS code exercise](https://www.reddit.com/r/javascript/comments/m32ygd/askjs_postinterview_feedback_on_nodejs_code/)
+- [Zero Dependency, Vanilla JavaScript Tag Editor](https://www.reddit.com/r/javascript/comments/m2zmbz/zero_dependency_vanilla_javascript_tag_editor/)
+- [JS Proposal Temporal is now stage 3](https://www.reddit.com/r/javascript/comments/m2yg7s/js_proposal_temporal_is_now_stage_3/)
+- [Reactive Programming with React](https://www.reddit.com/r/javascript/comments/m2tv0h/reactive_programming_with_react/)
+- [Use Vim as a JavaScript IDE](https://www.reddit.com/r/javascript/comments/m2t8gf/use_vim_as_a_javascript_ide/)
+- [Join AngularNg Reddit group to learn Angular and share project ideas](https://www.reddit.com/r/javascript/comments/m2sp6x/join_angularng_reddit_group_to_learn_angular_and/)
+- [Add Voice Recognition to React Native Without Adding the Cloud](https://www.reddit.com/r/javascript/comments/m2rwwm/add_voice_recognition_to_react_native_without/)
+- [[AskJS] What are your favourite EasterEggs in websites?](https://www.reddit.com/r/javascript/comments/m2rdx1/askjs_what_are_your_favourite_eastereggs_in/)
+- [simple-git-hooks: pre-commit hook manager with 0 dependencies, great performance, and without license problems (in contrast with husky 5)](https://www.reddit.com/r/javascript/comments/m2qsvv/simplegithooks_precommit_hook_manager_with_0/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
