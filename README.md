@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Are coding bootcamps still worth it?? 💻 Yes or No](https://www.reddit.com/r/javascript/comments/m34y6a/are_coding_bootcamps_still_worth_it_yes_or_no/)
-- [[AskJS] Post-interview feedback on NodeJS code exercise](https://www.reddit.com/r/javascript/comments/m32ygd/askjs_postinterview_feedback_on_nodejs_code/)
-- [Zero Dependency, Vanilla JavaScript Tag Editor](https://www.reddit.com/r/javascript/comments/m2zmbz/zero_dependency_vanilla_javascript_tag_editor/)
-- [JS Proposal Temporal is now stage 3](https://www.reddit.com/r/javascript/comments/m2yg7s/js_proposal_temporal_is_now_stage_3/)
-- [Reactive Programming with React](https://www.reddit.com/r/javascript/comments/m2tv0h/reactive_programming_with_react/)
-- [Use Vim as a JavaScript IDE](https://www.reddit.com/r/javascript/comments/m2t8gf/use_vim_as_a_javascript_ide/)
-- [Join AngularNg Reddit group to learn Angular and share project ideas](https://www.reddit.com/r/javascript/comments/m2sp6x/join_angularng_reddit_group_to_learn_angular_and/)
-- [Add Voice Recognition to React Native Without Adding the Cloud](https://www.reddit.com/r/javascript/comments/m2rwwm/add_voice_recognition_to_react_native_without/)
-- [[AskJS] What are your favourite EasterEggs in websites?](https://www.reddit.com/r/javascript/comments/m2rdx1/askjs_what_are_your_favourite_eastereggs_in/)
-- [simple-git-hooks: pre-commit hook manager with 0 dependencies, great performance, and without license problems (in contrast with husky 5)](https://www.reddit.com/r/javascript/comments/m2qsvv/simplegithooks_precommit_hook_manager_with_0/)
+- [[AskJS] Looking for Questionnaire Library](https://www.reddit.com/r/javascript/comments/m3vpwg/askjs_looking_for_questionnaire_library/)
+- [Urpflanze Core: Typescript library for genarate 2d shapes](https://www.reddit.com/r/javascript/comments/m3rbig/urpflanze_core_typescript_library_for_genarate_2d/)
+- [A brief introduction to functional programming concepts in JavaScript !!!](https://www.reddit.com/r/javascript/comments/m3pu49/a_brief_introduction_to_functional_programming/)
+- [Javascript for optimizers: Changing element hierarchy - GrowthPenguin](https://www.reddit.com/r/javascript/comments/m3ojgw/javascript_for_optimizers_changing_element/)
+- [Multi-Tenant Analytics with Auth0 and Cube.js, the complete guide](https://www.reddit.com/r/javascript/comments/m3mzql/multitenant_analytics_with_auth0_and_cubejs_the/)
+- [GitHub's Web Component collection.](https://www.reddit.com/r/javascript/comments/m3muzk/githubs_web_component_collection/)
+- [Create and share QR codes with Swedish football statistics](https://www.reddit.com/r/javascript/comments/m3l3w5/create_and_share_qr_codes_with_swedish_football/)
+- [I made simple JS game.](https://www.reddit.com/r/javascript/comments/m3jsrg/i_made_simple_js_game/)
+- [Ember.js in 2021 – a beacon of productivity](https://www.reddit.com/r/javascript/comments/m3ijb6/emberjs_in_2021_a_beacon_of_productivity/)
+- [Have you encountered of having JavaScript Fatigue? I have a useful insight of what i think about it.](https://www.reddit.com/r/javascript/comments/m3hbaj/have_you_encountered_of_having_javascript_fatigue/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
