@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Looking for Questionnaire Library](https://www.reddit.com/r/javascript/comments/m3vpwg/askjs_looking_for_questionnaire_library/)
-- [Urpflanze Core: Typescript library for genarate 2d shapes](https://www.reddit.com/r/javascript/comments/m3rbig/urpflanze_core_typescript_library_for_genarate_2d/)
-- [A brief introduction to functional programming concepts in JavaScript !!!](https://www.reddit.com/r/javascript/comments/m3pu49/a_brief_introduction_to_functional_programming/)
-- [Javascript for optimizers: Changing element hierarchy - GrowthPenguin](https://www.reddit.com/r/javascript/comments/m3ojgw/javascript_for_optimizers_changing_element/)
-- [Multi-Tenant Analytics with Auth0 and Cube.js, the complete guide](https://www.reddit.com/r/javascript/comments/m3mzql/multitenant_analytics_with_auth0_and_cubejs_the/)
-- [GitHub's Web Component collection.](https://www.reddit.com/r/javascript/comments/m3muzk/githubs_web_component_collection/)
-- [Create and share QR codes with Swedish football statistics](https://www.reddit.com/r/javascript/comments/m3l3w5/create_and_share_qr_codes_with_swedish_football/)
-- [I made simple JS game.](https://www.reddit.com/r/javascript/comments/m3jsrg/i_made_simple_js_game/)
-- [Ember.js in 2021 – a beacon of productivity](https://www.reddit.com/r/javascript/comments/m3ijb6/emberjs_in_2021_a_beacon_of_productivity/)
-- [Have you encountered of having JavaScript Fatigue? I have a useful insight of what i think about it.](https://www.reddit.com/r/javascript/comments/m3hbaj/have_you_encountered_of_having_javascript_fatigue/)
+- [goodtimer - setTimeouts for humans + timer functionality](https://www.reddit.com/r/javascript/comments/m4iyhy/goodtimer_settimeouts_for_humans_timer/)
+- [Build a react-router clone from scratch](https://www.reddit.com/r/javascript/comments/m4i668/build_a_reactrouter_clone_from_scratch/)
+- [React App with WebSockets implemented inside WebWorker](https://www.reddit.com/r/javascript/comments/m4guhq/react_app_with_websockets_implemented_inside/)
+- [Just published my first front-end library - Simate : A (sim)ple st(ate) management tool](https://www.reddit.com/r/javascript/comments/m4dniu/just_published_my_first_frontend_library_simate_a/)
+- [Drag and drop for Vue.js made with vue.js (poc)](https://www.reddit.com/r/javascript/comments/m4881n/drag_and_drop_for_vuejs_made_with_vuejs_poc/)
+- [The only JavaScript loop benchmark that matters for the most of us.](https://www.reddit.com/r/javascript/comments/m47jn4/the_only_javascript_loop_benchmark_that_matters/)
+- [[AskJS] why are we so reliant on frameworks?](https://www.reddit.com/r/javascript/comments/m47fp9/askjs_why_are_we_so_reliant_on_frameworks/)
+- [moovie.js Movie focused HTML5 Player](https://www.reddit.com/r/javascript/comments/m44yb8/mooviejs_movie_focused_html5_player/)
+- [TwoWayGallery (JS Image Gallery)](https://www.reddit.com/r/javascript/comments/m43ywx/twowaygallery_js_image_gallery/)
+- [Showoff Saturday (March 13, 2021)](https://www.reddit.com/r/javascript/comments/m41y88/showoff_saturday_march_13_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
