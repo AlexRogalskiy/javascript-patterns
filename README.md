@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [goodtimer - setTimeouts for humans + timer functionality](https://www.reddit.com/r/javascript/comments/m4iyhy/goodtimer_settimeouts_for_humans_timer/)
-- [Build a react-router clone from scratch](https://www.reddit.com/r/javascript/comments/m4i668/build_a_reactrouter_clone_from_scratch/)
-- [React App with WebSockets implemented inside WebWorker](https://www.reddit.com/r/javascript/comments/m4guhq/react_app_with_websockets_implemented_inside/)
-- [Just published my first front-end library - Simate : A (sim)ple st(ate) management tool](https://www.reddit.com/r/javascript/comments/m4dniu/just_published_my_first_frontend_library_simate_a/)
-- [Drag and drop for Vue.js made with vue.js (poc)](https://www.reddit.com/r/javascript/comments/m4881n/drag_and_drop_for_vuejs_made_with_vuejs_poc/)
-- [The only JavaScript loop benchmark that matters for the most of us.](https://www.reddit.com/r/javascript/comments/m47jn4/the_only_javascript_loop_benchmark_that_matters/)
-- [[AskJS] why are we so reliant on frameworks?](https://www.reddit.com/r/javascript/comments/m47fp9/askjs_why_are_we_so_reliant_on_frameworks/)
-- [moovie.js Movie focused HTML5 Player](https://www.reddit.com/r/javascript/comments/m44yb8/mooviejs_movie_focused_html5_player/)
-- [TwoWayGallery (JS Image Gallery)](https://www.reddit.com/r/javascript/comments/m43ywx/twowaygallery_js_image_gallery/)
-- [Showoff Saturday (March 13, 2021)](https://www.reddit.com/r/javascript/comments/m41y88/showoff_saturday_march_13_2021/)
+- [useEncapsulation](https://www.reddit.com/r/javascript/comments/m570h8/useencapsulation/)
+- [Write code. Not too much. Mostly functions.](https://www.reddit.com/r/javascript/comments/m56zr6/write_code_not_too_much_mostly_functions/)
+- [What Mr. Meeseeks Can Teach Us About Single Responsibility](https://www.reddit.com/r/javascript/comments/m56mbu/what_mr_meeseeks_can_teach_us_about_single/)
+- [Using GraphQL Code Generator to create a great developer experience with Typescript and GraphQL](https://www.reddit.com/r/javascript/comments/m51tu5/using_graphql_code_generator_to_create_a_great/)
+- [Why serverless fits side-projects perfectly](https://www.reddit.com/r/javascript/comments/m4zsx6/why_serverless_fits_sideprojects_perfectly/)
+- [Convert open-source javascript library into a profitable business](https://www.reddit.com/r/javascript/comments/m4xhy0/convert_opensource_javascript_library_into_a/)
+- [SQLfuzz new release with postgres support](https://www.reddit.com/r/javascript/comments/m4vusb/sqlfuzz_new_release_with_postgres_support/)
+- [I build a front-end "framework". Nothing fancy. Just plain old HTML and ES](https://www.reddit.com/r/javascript/comments/m4ullw/i_build_a_frontend_framework_nothing_fancy_just/)
+- [order-book-heatmap.js - a low latency heatmap visualizing rapid changes in live markets, built with D3 & WS](https://www.reddit.com/r/javascript/comments/m4u1cf/orderbookheatmapjs_a_low_latency_heatmap/)
+- [Modern Javascript - II](https://www.reddit.com/r/javascript/comments/m4sx79/modern_javascript_ii/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
