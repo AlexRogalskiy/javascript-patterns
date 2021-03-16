@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [useEncapsulation](https://www.reddit.com/r/javascript/comments/m570h8/useencapsulation/)
-- [Write code. Not too much. Mostly functions.](https://www.reddit.com/r/javascript/comments/m56zr6/write_code_not_too_much_mostly_functions/)
-- [What Mr. Meeseeks Can Teach Us About Single Responsibility](https://www.reddit.com/r/javascript/comments/m56mbu/what_mr_meeseeks_can_teach_us_about_single/)
-- [Using GraphQL Code Generator to create a great developer experience with Typescript and GraphQL](https://www.reddit.com/r/javascript/comments/m51tu5/using_graphql_code_generator_to_create_a_great/)
-- [Why serverless fits side-projects perfectly](https://www.reddit.com/r/javascript/comments/m4zsx6/why_serverless_fits_sideprojects_perfectly/)
-- [Convert open-source javascript library into a profitable business](https://www.reddit.com/r/javascript/comments/m4xhy0/convert_opensource_javascript_library_into_a/)
-- [SQLfuzz new release with postgres support](https://www.reddit.com/r/javascript/comments/m4vusb/sqlfuzz_new_release_with_postgres_support/)
-- [I build a front-end "framework". Nothing fancy. Just plain old HTML and ES](https://www.reddit.com/r/javascript/comments/m4ullw/i_build_a_frontend_framework_nothing_fancy_just/)
-- [order-book-heatmap.js - a low latency heatmap visualizing rapid changes in live markets, built with D3 & WS](https://www.reddit.com/r/javascript/comments/m4u1cf/orderbookheatmapjs_a_low_latency_heatmap/)
-- [Modern Javascript - II](https://www.reddit.com/r/javascript/comments/m4sx79/modern_javascript_ii/)
+- [Just-In-Time: The Next Generation of Tailwind CSS](https://www.reddit.com/r/javascript/comments/m5x9b9/justintime_the_next_generation_of_tailwind_css/)
+- [What it means to “Know how to Code”](https://www.reddit.com/r/javascript/comments/m5wybd/what_it_means_to_know_how_to_code/)
+- [Rethinking the JavaScript ternary operator](https://www.reddit.com/r/javascript/comments/m5uuri/rethinking_the_javascript_ternary_operator/)
+- [[AskJS] Is it pointless to learn JS as a Computer Science grad?](https://www.reddit.com/r/javascript/comments/m5tylq/askjs_is_it_pointless_to_learn_js_as_a_computer/)
+- [Quick, zero-setup, persistent State management with Stoxy](https://www.reddit.com/r/javascript/comments/m5sf0h/quick_zerosetup_persistent_state_management_with/)
+- [svgj: convert .svg into jsx 40x faster than svgr & an esbuild plugin to import svg as jsx](https://www.reddit.com/r/javascript/comments/m5s90v/svgj_convert_svg_into_jsx_40x_faster_than_svgr_an/)
+- [Speech Synthesis on Firefox is broken](https://www.reddit.com/r/javascript/comments/m5rkr4/speech_synthesis_on_firefox_is_broken/)
+- [Typescript declaration generator for svelte with typescript](https://www.reddit.com/r/javascript/comments/m5qgqt/typescript_declaration_generator_for_svelte_with/)
+- [A look at the CSS Paint API](https://www.reddit.com/r/javascript/comments/m5p623/a_look_at_the_css_paint_api/)
+- [[V8 Deep Dives] Understanding Array Internals](https://www.reddit.com/r/javascript/comments/m5oj3q/v8_deep_dives_understanding_array_internals/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
