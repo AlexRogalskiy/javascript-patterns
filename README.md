@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [30 Days of React JS: Solving 30 Problems in 30 Days!](https://www.reddit.com/r/javascript/comments/m6oi8o/30_days_of_react_js_solving_30_problems_in_30_days/)
+- [Modern Javascript - III](https://www.reddit.com/r/javascript/comments/m6m49p/modern_javascript_iii/)
+- [An interactive map to learn RxJS](https://www.reddit.com/r/javascript/comments/m6k0ls/an_interactive_map_to_learn_rxjs/)
+- [Generate a TOTP code from a QR image for 2FA](https://www.reddit.com/r/javascript/comments/m6jp15/generate_a_totp_code_from_a_qr_image_for_2fa/)
+- [What is the Javascript Call Stack and how does it get Exceeded](https://www.reddit.com/r/javascript/comments/m6dxfa/what_is_the_javascript_call_stack_and_how_does_it/)
+- [PanvasJS - a JavaScript library for working with the HTML canvas | making animations, simulations, and game development in the browser much easier](https://www.reddit.com/r/javascript/comments/m6d7a3/panvasjs_a_javascript_library_for_working_with/)
+- [Error Cause in Javascript](https://www.reddit.com/r/javascript/comments/m683jh/error_cause_in_javascript/)
+- [temp-color : Scale temperature (°C /°F) to RGB color](https://www.reddit.com/r/javascript/comments/m675lg/tempcolor_scale_temperature_c_f_to_rgb_color/)
+- [{} + [] is not 0](https://www.reddit.com/r/javascript/comments/m5ya34/is_not_0/)
 - [Just-In-Time: The Next Generation of Tailwind CSS](https://www.reddit.com/r/javascript/comments/m5x9b9/justintime_the_next_generation_of_tailwind_css/)
-- [What it means to “Know how to Code”](https://www.reddit.com/r/javascript/comments/m5wybd/what_it_means_to_know_how_to_code/)
-- [Rethinking the JavaScript ternary operator](https://www.reddit.com/r/javascript/comments/m5uuri/rethinking_the_javascript_ternary_operator/)
-- [[AskJS] Is it pointless to learn JS as a Computer Science grad?](https://www.reddit.com/r/javascript/comments/m5tylq/askjs_is_it_pointless_to_learn_js_as_a_computer/)
-- [Quick, zero-setup, persistent State management with Stoxy](https://www.reddit.com/r/javascript/comments/m5sf0h/quick_zerosetup_persistent_state_management_with/)
-- [svgj: convert .svg into jsx 40x faster than svgr & an esbuild plugin to import svg as jsx](https://www.reddit.com/r/javascript/comments/m5s90v/svgj_convert_svg_into_jsx_40x_faster_than_svgr_an/)
-- [Speech Synthesis on Firefox is broken](https://www.reddit.com/r/javascript/comments/m5rkr4/speech_synthesis_on_firefox_is_broken/)
-- [Typescript declaration generator for svelte with typescript](https://www.reddit.com/r/javascript/comments/m5qgqt/typescript_declaration_generator_for_svelte_with/)
-- [A look at the CSS Paint API](https://www.reddit.com/r/javascript/comments/m5p623/a_look_at_the_css_paint_api/)
-- [[V8 Deep Dives] Understanding Array Internals](https://www.reddit.com/r/javascript/comments/m5oj3q/v8_deep_dives_understanding_array_internals/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
