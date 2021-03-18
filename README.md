@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [30 Days of React JS: Solving 30 Problems in 30 Days!](https://www.reddit.com/r/javascript/comments/m6oi8o/30_days_of_react_js_solving_30_problems_in_30_days/)
-- [Modern Javascript - III](https://www.reddit.com/r/javascript/comments/m6m49p/modern_javascript_iii/)
-- [An interactive map to learn RxJS](https://www.reddit.com/r/javascript/comments/m6k0ls/an_interactive_map_to_learn_rxjs/)
-- [Generate a TOTP code from a QR image for 2FA](https://www.reddit.com/r/javascript/comments/m6jp15/generate_a_totp_code_from_a_qr_image_for_2fa/)
-- [What is the Javascript Call Stack and how does it get Exceeded](https://www.reddit.com/r/javascript/comments/m6dxfa/what_is_the_javascript_call_stack_and_how_does_it/)
-- [PanvasJS - a JavaScript library for working with the HTML canvas | making animations, simulations, and game development in the browser much easier](https://www.reddit.com/r/javascript/comments/m6d7a3/panvasjs_a_javascript_library_for_working_with/)
-- [Error Cause in Javascript](https://www.reddit.com/r/javascript/comments/m683jh/error_cause_in_javascript/)
-- [temp-color : Scale temperature (°C /°F) to RGB color](https://www.reddit.com/r/javascript/comments/m675lg/tempcolor_scale_temperature_c_f_to_rgb_color/)
-- [{} + [] is not 0](https://www.reddit.com/r/javascript/comments/m5ya34/is_not_0/)
-- [Just-In-Time: The Next Generation of Tailwind CSS](https://www.reddit.com/r/javascript/comments/m5x9b9/justintime_the_next_generation_of_tailwind_css/)
+- [Search and seek to specific words in youtube videos](https://www.reddit.com/r/javascript/comments/m7dem4/search_and_seek_to_specific_words_in_youtube/)
+- [I built a COVID-19 vaccination tracker, showing all the relevant information using world-map, table, and charts. It also includes a rough forcasting feature to estimate how much more time it'll take untill 70% or 100% vaccination. (source in the comments)](https://www.reddit.com/r/javascript/comments/m7dc0o/i_built_a_covid19_vaccination_tracker_showing_all/)
+- [isoworker - universal multithreading with main-thread dependencies, 6kB](https://www.reddit.com/r/javascript/comments/m7by4r/isoworker_universal_multithreading_with/)
+- [Contributing to Node.js Core](https://www.reddit.com/r/javascript/comments/m7anlh/contributing_to_nodejs_core/)
+- [[AskJS] What are people using for technical diagramming these days?](https://www.reddit.com/r/javascript/comments/m77cm4/askjs_what_are_people_using_for_technical/)
+- [How to easily sync with multiple v-models in Vue 3 using Composition API](https://www.reddit.com/r/javascript/comments/m75k43/how_to_easily_sync_with_multiple_vmodels_in_vue_3/)
+- [Storybook for Svelte revamped](https://www.reddit.com/r/javascript/comments/m75egp/storybook_for_svelte_revamped/)
+- [V8 release v9.0](https://www.reddit.com/r/javascript/comments/m74olp/v8_release_v90/)
+- [Exporting Design Tokens From Figma With Style Dictionary (Automating the Handoff From Designers to Platforms)](https://www.reddit.com/r/javascript/comments/m73odx/exporting_design_tokens_from_figma_with_style/)
+- [Copenhagen: Free, lightweight, open source and hackable code editor for the web](https://www.reddit.com/r/javascript/comments/m6v05g/copenhagen_free_lightweight_open_source_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
