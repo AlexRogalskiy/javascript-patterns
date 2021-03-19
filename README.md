@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Search and seek to specific words in youtube videos](https://www.reddit.com/r/javascript/comments/m7dem4/search_and_seek_to_specific_words_in_youtube/)
-- [I built a COVID-19 vaccination tracker, showing all the relevant information using world-map, table, and charts. It also includes a rough forcasting feature to estimate how much more time it'll take untill 70% or 100% vaccination. (source in the comments)](https://www.reddit.com/r/javascript/comments/m7dc0o/i_built_a_covid19_vaccination_tracker_showing_all/)
-- [isoworker - universal multithreading with main-thread dependencies, 6kB](https://www.reddit.com/r/javascript/comments/m7by4r/isoworker_universal_multithreading_with/)
-- [Contributing to Node.js Core](https://www.reddit.com/r/javascript/comments/m7anlh/contributing_to_nodejs_core/)
-- [[AskJS] What are people using for technical diagramming these days?](https://www.reddit.com/r/javascript/comments/m77cm4/askjs_what_are_people_using_for_technical/)
-- [How to easily sync with multiple v-models in Vue 3 using Composition API](https://www.reddit.com/r/javascript/comments/m75k43/how_to_easily_sync_with_multiple_vmodels_in_vue_3/)
-- [Storybook for Svelte revamped](https://www.reddit.com/r/javascript/comments/m75egp/storybook_for_svelte_revamped/)
-- [V8 release v9.0](https://www.reddit.com/r/javascript/comments/m74olp/v8_release_v90/)
-- [Exporting Design Tokens From Figma With Style Dictionary (Automating the Handoff From Designers to Platforms)](https://www.reddit.com/r/javascript/comments/m73odx/exporting_design_tokens_from_figma_with_style/)
-- [Copenhagen: Free, lightweight, open source and hackable code editor for the web](https://www.reddit.com/r/javascript/comments/m6v05g/copenhagen_free_lightweight_open_source_and/)
+- [Type Safe Event Emitter Pattern](https://www.reddit.com/r/javascript/comments/m868gj/type_safe_event_emitter_pattern/)
+- [NASA's next generation mission control system is written in JavaScript, and it's open source.](https://www.reddit.com/r/javascript/comments/m85kw5/nasas_next_generation_mission_control_system_is/)
+- [js-confetti: lightweight zero-config open-source JavaScript library for confetti without any dependencies](https://www.reddit.com/r/javascript/comments/m7utbg/jsconfetti_lightweight_zeroconfig_opensource/)
+- [How React isn't reactive, and why you shouldn't care](https://www.reddit.com/r/javascript/comments/m7uq1l/how_react_isnt_reactive_and_why_you_shouldnt_care/)
+- [[AskJS] Does React foster bad practises?](https://www.reddit.com/r/javascript/comments/m7spne/askjs_does_react_foster_bad_practises/)
+- [MobX-State-Tree + RxJS = ?](https://www.reddit.com/r/javascript/comments/m7sje3/mobxstatetree_rxjs/)
+- [Clio: A functional, distributed programming language that compiles to JavaScript](https://www.reddit.com/r/javascript/comments/m7pslt/clio_a_functional_distributed_programming/)
+- [prismarine-web-client : A minecraft client in the browser built from PrismarineJS modules](https://www.reddit.com/r/javascript/comments/m7pq49/prismarinewebclient_a_minecraft_client_in_the/)
+- [Creating a Github profile search component in htmx](https://www.reddit.com/r/javascript/comments/m7kvt1/creating_a_github_profile_search_component_in_htmx/)
+- [An Open Source Recursive Kanban](https://www.reddit.com/r/javascript/comments/m7gfp6/an_open_source_recursive_kanban/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
