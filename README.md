@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [JS controlled sine-wave animation](https://www.reddit.com/r/javascript/comments/m8wfro/js_controlled_sinewave_animation/)
+- [[dev.to] How to create beautiful confetti animations with tsParticles (Vanilla, React, Angular and Vue)](https://www.reddit.com/r/javascript/comments/m8wf6s/devto_how_to_create_beautiful_confetti_animations/)
+- [Send styled automatic patch notes to your discord server, using GitHub actions and webhooks.](https://www.reddit.com/r/javascript/comments/m8n09e/send_styled_automatic_patch_notes_to_your_discord/)
+- [Announcing commithelper, a tool to create and lint your commit messages](https://www.reddit.com/r/javascript/comments/m8l6pv/announcing_commithelper_a_tool_to_create_and_lint/)
+- [Create animated navigation indicator with HTML, CSS, and JS](https://www.reddit.com/r/javascript/comments/m8clou/create_animated_navigation_indicator_with_html/)
+- [Documenting Design Tokens With Docusaurus (Adding Visuals To Your Style Dictionary)](https://www.reddit.com/r/javascript/comments/m8bjvf/documenting_design_tokens_with_docusaurus_adding/)
 - [Type Safe Event Emitter Pattern](https://www.reddit.com/r/javascript/comments/m868gj/type_safe_event_emitter_pattern/)
 - [NASA's next generation mission control system is written in JavaScript, and it's open source.](https://www.reddit.com/r/javascript/comments/m85kw5/nasas_next_generation_mission_control_system_is/)
 - [js-confetti: lightweight zero-config open-source JavaScript library for confetti without any dependencies](https://www.reddit.com/r/javascript/comments/m7utbg/jsconfetti_lightweight_zeroconfig_opensource/)
 - [How React isn't reactive, and why you shouldn't care](https://www.reddit.com/r/javascript/comments/m7uq1l/how_react_isnt_reactive_and_why_you_shouldnt_care/)
-- [[AskJS] Does React foster bad practises?](https://www.reddit.com/r/javascript/comments/m7spne/askjs_does_react_foster_bad_practises/)
-- [MobX-State-Tree + RxJS = ?](https://www.reddit.com/r/javascript/comments/m7sje3/mobxstatetree_rxjs/)
-- [Clio: A functional, distributed programming language that compiles to JavaScript](https://www.reddit.com/r/javascript/comments/m7pslt/clio_a_functional_distributed_programming/)
-- [prismarine-web-client : A minecraft client in the browser built from PrismarineJS modules](https://www.reddit.com/r/javascript/comments/m7pq49/prismarinewebclient_a_minecraft_client_in_the/)
-- [Creating a Github profile search component in htmx](https://www.reddit.com/r/javascript/comments/m7kvt1/creating_a_github_profile_search_component_in_htmx/)
-- [An Open Source Recursive Kanban](https://www.reddit.com/r/javascript/comments/m7gfp6/an_open_source_recursive_kanban/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
