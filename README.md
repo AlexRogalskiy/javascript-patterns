@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [JS controlled sine-wave animation](https://www.reddit.com/r/javascript/comments/m8wfro/js_controlled_sinewave_animation/)
-- [[dev.to] How to create beautiful confetti animations with tsParticles (Vanilla, React, Angular and Vue)](https://www.reddit.com/r/javascript/comments/m8wf6s/devto_how_to_create_beautiful_confetti_animations/)
-- [Send styled automatic patch notes to your discord server, using GitHub actions and webhooks.](https://www.reddit.com/r/javascript/comments/m8n09e/send_styled_automatic_patch_notes_to_your_discord/)
-- [Announcing commithelper, a tool to create and lint your commit messages](https://www.reddit.com/r/javascript/comments/m8l6pv/announcing_commithelper_a_tool_to_create_and_lint/)
-- [Create animated navigation indicator with HTML, CSS, and JS](https://www.reddit.com/r/javascript/comments/m8clou/create_animated_navigation_indicator_with_html/)
-- [Documenting Design Tokens With Docusaurus (Adding Visuals To Your Style Dictionary)](https://www.reddit.com/r/javascript/comments/m8bjvf/documenting_design_tokens_with_docusaurus_adding/)
-- [Type Safe Event Emitter Pattern](https://www.reddit.com/r/javascript/comments/m868gj/type_safe_event_emitter_pattern/)
-- [NASA's next generation mission control system is written in JavaScript, and it's open source.](https://www.reddit.com/r/javascript/comments/m85kw5/nasas_next_generation_mission_control_system_is/)
-- [js-confetti: lightweight zero-config open-source JavaScript library for confetti without any dependencies](https://www.reddit.com/r/javascript/comments/m7utbg/jsconfetti_lightweight_zeroconfig_opensource/)
-- [How React isn't reactive, and why you shouldn't care](https://www.reddit.com/r/javascript/comments/m7uq1l/how_react_isnt_reactive_and_why_you_shouldnt_care/)
+- [The Strictness Principle - Restrict the scope by default. Increase the scope as the need arises.](https://www.reddit.com/r/javascript/comments/m9g7ni/the_strictness_principle_restrict_the_scope_by/)
+- [Perfect combo Next & Redux-Saga](https://www.reddit.com/r/javascript/comments/m9g0eb/perfect_combo_next_reduxsaga/)
+- [[AskJS] What do you guys feel about boilerplate?](https://www.reddit.com/r/javascript/comments/m9fw2q/askjs_what_do_you_guys_feel_about_boilerplate/)
+- [[AskJS] Looking for a small fast javascript checksum library for use on the client](https://www.reddit.com/r/javascript/comments/m9dnrn/askjs_looking_for_a_small_fast_javascript/)
+- [[AskJS] People who work with APIs: Do you validate JSON responses in JS?](https://www.reddit.com/r/javascript/comments/m9acuz/askjs_people_who_work_with_apis_do_you_validate/)
+- [Integrating Design Tokens With Tailwind](https://www.reddit.com/r/javascript/comments/m9a747/integrating_design_tokens_with_tailwind/)
+- [Go full-stack in 5min with your first cloud function – compares 3 providers](https://www.reddit.com/r/javascript/comments/m98krn/go_fullstack_in_5min_with_your_first_cloud/)
+- [A clock based on Cistercian numerals (with Web Components)](https://www.reddit.com/r/javascript/comments/m98eh4/a_clock_based_on_cistercian_numerals_with_web/)
+- [Microservices - maybe not - Techblog - Hostmoz](https://www.reddit.com/r/javascript/comments/m91wcc/microservices_maybe_not_techblog_hostmoz/)
+- [Showoff Saturday (March 20, 2021)](https://www.reddit.com/r/javascript/comments/m91p4v/showoff_saturday_march_20_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
