@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [My first blog - 5 things to include in your project ASAP](https://www.reddit.com/r/javascript/comments/mab1l9/my_first_blog_5_things_to_include_in_your_project/)
+- [Cursed Argument Parsing](https://www.reddit.com/r/javascript/comments/ma6onx/cursed_argument_parsing/)
+- [Modeling and Reasoning about DOM Events - capturing, bubbling, and reactiveness](https://www.reddit.com/r/javascript/comments/ma65ai/modeling_and_reasoning_about_dom_events_capturing/)
+- [Switching from WordPress to GatsbyJS](https://www.reddit.com/r/javascript/comments/ma2a96/switching_from_wordpress_to_gatsbyjs/)
+- [[AskJS] Which is your favorite JS editor and what is the best alternative to VSCode with the same rich plugins features ? does the telemetry inside VSCode bother you ?](https://www.reddit.com/r/javascript/comments/m9u2gs/askjs_which_is_your_favorite_js_editor_and_what/)
 - [The Strictness Principle - Restrict the scope by default. Increase the scope as the need arises.](https://www.reddit.com/r/javascript/comments/m9g7ni/the_strictness_principle_restrict_the_scope_by/)
 - [Perfect combo Next & Redux-Saga](https://www.reddit.com/r/javascript/comments/m9g0eb/perfect_combo_next_reduxsaga/)
 - [[AskJS] What do you guys feel about boilerplate?](https://www.reddit.com/r/javascript/comments/m9fw2q/askjs_what_do_you_guys_feel_about_boilerplate/)
-- [[AskJS] Looking for a small fast javascript checksum library for use on the client](https://www.reddit.com/r/javascript/comments/m9dnrn/askjs_looking_for_a_small_fast_javascript/)
 - [[AskJS] People who work with APIs: Do you validate JSON responses in JS?](https://www.reddit.com/r/javascript/comments/m9acuz/askjs_people_who_work_with_apis_do_you_validate/)
 - [Integrating Design Tokens With Tailwind](https://www.reddit.com/r/javascript/comments/m9a747/integrating_design_tokens_with_tailwind/)
-- [Go full-stack in 5min with your first cloud function – compares 3 providers](https://www.reddit.com/r/javascript/comments/m98krn/go_fullstack_in_5min_with_your_first_cloud/)
-- [A clock based on Cistercian numerals (with Web Components)](https://www.reddit.com/r/javascript/comments/m98eh4/a_clock_based_on_cistercian_numerals_with_web/)
-- [Microservices - maybe not - Techblog - Hostmoz](https://www.reddit.com/r/javascript/comments/m91wcc/microservices_maybe_not_techblog_hostmoz/)
-- [Showoff Saturday (March 20, 2021)](https://www.reddit.com/r/javascript/comments/m91p4v/showoff_saturday_march_20_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
