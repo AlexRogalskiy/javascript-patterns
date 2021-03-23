@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [My first blog - 5 things to include in your project ASAP](https://www.reddit.com/r/javascript/comments/mab1l9/my_first_blog_5_things_to_include_in_your_project/)
-- [Cursed Argument Parsing](https://www.reddit.com/r/javascript/comments/ma6onx/cursed_argument_parsing/)
-- [Modeling and Reasoning about DOM Events - capturing, bubbling, and reactiveness](https://www.reddit.com/r/javascript/comments/ma65ai/modeling_and_reasoning_about_dom_events_capturing/)
-- [Switching from WordPress to GatsbyJS](https://www.reddit.com/r/javascript/comments/ma2a96/switching_from_wordpress_to_gatsbyjs/)
-- [[AskJS] Which is your favorite JS editor and what is the best alternative to VSCode with the same rich plugins features ? does the telemetry inside VSCode bother you ?](https://www.reddit.com/r/javascript/comments/m9u2gs/askjs_which_is_your_favorite_js_editor_and_what/)
-- [The Strictness Principle - Restrict the scope by default. Increase the scope as the need arises.](https://www.reddit.com/r/javascript/comments/m9g7ni/the_strictness_principle_restrict_the_scope_by/)
-- [Perfect combo Next & Redux-Saga](https://www.reddit.com/r/javascript/comments/m9g0eb/perfect_combo_next_reduxsaga/)
-- [[AskJS] What do you guys feel about boilerplate?](https://www.reddit.com/r/javascript/comments/m9fw2q/askjs_what_do_you_guys_feel_about_boilerplate/)
-- [[AskJS] People who work with APIs: Do you validate JSON responses in JS?](https://www.reddit.com/r/javascript/comments/m9acuz/askjs_people_who_work_with_apis_do_you_validate/)
-- [Integrating Design Tokens With Tailwind](https://www.reddit.com/r/javascript/comments/m9a747/integrating_design_tokens_with_tailwind/)
+- [How MDN’s site-search works](https://www.reddit.com/r/javascript/comments/mast6q/how_mdns_sitesearch_works/)
+- [Nicely asking our users to update the app through an XSS attack](https://www.reddit.com/r/javascript/comments/mas70i/nicely_asking_our_users_to_update_the_app_through/)
+- [How to send large SQS/SNS messages with Node.js](https://www.reddit.com/r/javascript/comments/marjgn/how_to_send_large_sqssns_messages_with_nodejs/)
+- [simpler state - The simplest app state management for React](https://www.reddit.com/r/javascript/comments/maq3v3/simpler_state_the_simplest_app_state_management/)
+- [Callbag JSX: React without the "magic"](https://www.reddit.com/r/javascript/comments/mapvu2/callbag_jsx_react_without_the_magic/)
+- [Replacing Jest Snapshots With Cypress Screenshots for Testing React Components: An Experiment](https://www.reddit.com/r/javascript/comments/maonyk/replacing_jest_snapshots_with_cypress_screenshots/)
+- [How to create multi-language newsletter for free using Google Sheets and Localazy](https://www.reddit.com/r/javascript/comments/mao9sv/how_to_create_multilanguage_newsletter_for_free/)
+- [tdash - a vanilla JS translation solution using WebComponents/CustomElements](https://www.reddit.com/r/javascript/comments/mamhpw/tdash_a_vanilla_js_translation_solution_using/)
+- [Your /r/javascript recap for the week of March 15 - March 21](https://www.reddit.com/r/javascript/comments/maj0c8/your_rjavascript_recap_for_the_week_of_march_15/)
+- [Web based multi-screen apps including drag & drop](https://www.reddit.com/r/javascript/comments/mahjru/web_based_multiscreen_apps_including_drag_drop/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
