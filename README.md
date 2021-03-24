@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [How MDN’s site-search works](https://www.reddit.com/r/javascript/comments/mast6q/how_mdns_sitesearch_works/)
-- [Nicely asking our users to update the app through an XSS attack](https://www.reddit.com/r/javascript/comments/mas70i/nicely_asking_our_users_to_update_the_app_through/)
-- [How to send large SQS/SNS messages with Node.js](https://www.reddit.com/r/javascript/comments/marjgn/how_to_send_large_sqssns_messages_with_nodejs/)
-- [simpler state - The simplest app state management for React](https://www.reddit.com/r/javascript/comments/maq3v3/simpler_state_the_simplest_app_state_management/)
-- [Callbag JSX: React without the "magic"](https://www.reddit.com/r/javascript/comments/mapvu2/callbag_jsx_react_without_the_magic/)
-- [Replacing Jest Snapshots With Cypress Screenshots for Testing React Components: An Experiment](https://www.reddit.com/r/javascript/comments/maonyk/replacing_jest_snapshots_with_cypress_screenshots/)
-- [How to create multi-language newsletter for free using Google Sheets and Localazy](https://www.reddit.com/r/javascript/comments/mao9sv/how_to_create_multilanguage_newsletter_for_free/)
-- [tdash - a vanilla JS translation solution using WebComponents/CustomElements](https://www.reddit.com/r/javascript/comments/mamhpw/tdash_a_vanilla_js_translation_solution_using/)
-- [Your /r/javascript recap for the week of March 15 - March 21](https://www.reddit.com/r/javascript/comments/maj0c8/your_rjavascript_recap_for_the_week_of_march_15/)
-- [Web based multi-screen apps including drag & drop](https://www.reddit.com/r/javascript/comments/mahjru/web_based_multiscreen_apps_including_drag_drop/)
+- [[AskJS] Looking for a new project idea - NPM Package/VS Code Extension](https://www.reddit.com/r/javascript/comments/mbt413/askjs_looking_for_a_new_project_idea_npm/)
+- [The Modest Frontend](https://www.reddit.com/r/javascript/comments/mbpubm/the_modest_frontend/)
+- [image recognition model written in typescript](https://www.reddit.com/r/javascript/comments/mbpdw0/image_recognition_model_written_in_typescript/)
+- [Tips when Debugging Node.js Libraries, examples use Vite.js](https://www.reddit.com/r/javascript/comments/mbopi6/tips_when_debugging_nodejs_libraries_examples_use/)
+- [I am working on a NodeJS Chatbot Builder Framework](https://www.reddit.com/r/javascript/comments/mblzbr/i_am_working_on_a_nodejs_chatbot_builder_framework/)
+- [Runtime check of dependency injections](https://www.reddit.com/r/javascript/comments/mbjodt/runtime_check_of_dependency_injections/)
+- [Making Your Extension Compatible with Both Chrome and Firefox](https://www.reddit.com/r/javascript/comments/mbj4k6/making_your_extension_compatible_with_both_chrome/)
+- [In March, we see Firefox 87](https://www.reddit.com/r/javascript/comments/mbhzlu/in_march_we_see_firefox_87/)
+- [Easily deploy TypeScript project to AWS Lambda using Github Actions](https://www.reddit.com/r/javascript/comments/mbhp3t/easily_deploy_typescript_project_to_aws_lambda/)
+- [[dev.to] The Shocking Immaturity of JavaScript](https://www.reddit.com/r/javascript/comments/mbhd8v/devto_the_shocking_immaturity_of_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
