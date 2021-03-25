@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [A collection of user scripts and Tool Labs tools intended for users of Wikimedia Foundation wikis.](https://www.reddit.com/r/javascript/comments/mci6dp/a_collection_of_user_scripts_and_tool_labs_tools/)
+- [SvelteKit is in public beta](https://www.reddit.com/r/javascript/comments/mcebg8/sveltekit_is_in_public_beta/)
+- [React Context for Dependency Injection Not State Management](https://www.reddit.com/r/javascript/comments/mcdypb/react_context_for_dependency_injection_not_state/)
+- [What about Svelte? Should you care!](https://www.reddit.com/r/javascript/comments/mc5upf/what_about_svelte_should_you_care/)
+- [What’s new in Socket.IO 4?](https://www.reddit.com/r/javascript/comments/mc3n6q/whats_new_in_socketio_4/)
+- [Which JavaScript frameworks are worth learning in 2021?](https://www.reddit.com/r/javascript/comments/mc1cw5/which_javascript_frameworks_are_worth_learning_in/)
+- [Re:factor - a free software development conference for charity](https://www.reddit.com/r/javascript/comments/mc10qo/refactor_a_free_software_development_conference/)
+- [WTF Wednesday (March 24, 2021)](https://www.reddit.com/r/javascript/comments/mbzlzi/wtf_wednesday_march_24_2021/)
 - [[AskJS] Looking for a new project idea - NPM Package/VS Code Extension](https://www.reddit.com/r/javascript/comments/mbt413/askjs_looking_for_a_new_project_idea_npm/)
 - [The Modest Frontend](https://www.reddit.com/r/javascript/comments/mbpubm/the_modest_frontend/)
-- [image recognition model written in typescript](https://www.reddit.com/r/javascript/comments/mbpdw0/image_recognition_model_written_in_typescript/)
-- [Tips when Debugging Node.js Libraries, examples use Vite.js](https://www.reddit.com/r/javascript/comments/mbopi6/tips_when_debugging_nodejs_libraries_examples_use/)
-- [I am working on a NodeJS Chatbot Builder Framework](https://www.reddit.com/r/javascript/comments/mblzbr/i_am_working_on_a_nodejs_chatbot_builder_framework/)
-- [Runtime check of dependency injections](https://www.reddit.com/r/javascript/comments/mbjodt/runtime_check_of_dependency_injections/)
-- [Making Your Extension Compatible with Both Chrome and Firefox](https://www.reddit.com/r/javascript/comments/mbj4k6/making_your_extension_compatible_with_both_chrome/)
-- [In March, we see Firefox 87](https://www.reddit.com/r/javascript/comments/mbhzlu/in_march_we_see_firefox_87/)
-- [Easily deploy TypeScript project to AWS Lambda using Github Actions](https://www.reddit.com/r/javascript/comments/mbhp3t/easily_deploy_typescript_project_to_aws_lambda/)
-- [[dev.to] The Shocking Immaturity of JavaScript](https://www.reddit.com/r/javascript/comments/mbhd8v/devto_the_shocking_immaturity_of_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
