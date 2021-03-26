@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [A collection of user scripts and Tool Labs tools intended for users of Wikimedia Foundation wikis.](https://www.reddit.com/r/javascript/comments/mci6dp/a_collection_of_user_scripts_and_tool_labs_tools/)
-- [SvelteKit is in public beta](https://www.reddit.com/r/javascript/comments/mcebg8/sveltekit_is_in_public_beta/)
-- [React Context for Dependency Injection Not State Management](https://www.reddit.com/r/javascript/comments/mcdypb/react_context_for_dependency_injection_not_state/)
-- [What about Svelte? Should you care!](https://www.reddit.com/r/javascript/comments/mc5upf/what_about_svelte_should_you_care/)
-- [What’s new in Socket.IO 4?](https://www.reddit.com/r/javascript/comments/mc3n6q/whats_new_in_socketio_4/)
-- [Which JavaScript frameworks are worth learning in 2021?](https://www.reddit.com/r/javascript/comments/mc1cw5/which_javascript_frameworks_are_worth_learning_in/)
-- [Re:factor - a free software development conference for charity](https://www.reddit.com/r/javascript/comments/mc10qo/refactor_a_free_software_development_conference/)
-- [WTF Wednesday (March 24, 2021)](https://www.reddit.com/r/javascript/comments/mbzlzi/wtf_wednesday_march_24_2021/)
-- [[AskJS] Looking for a new project idea - NPM Package/VS Code Extension](https://www.reddit.com/r/javascript/comments/mbt413/askjs_looking_for_a_new_project_idea_npm/)
-- [The Modest Frontend](https://www.reddit.com/r/javascript/comments/mbpubm/the_modest_frontend/)
+- [[AskJS] Is it a problem that jQuery Terminal use jQuery?](https://www.reddit.com/r/javascript/comments/mdbilq/askjs_is_it_a_problem_that_jquery_terminal_use/)
+- [[AskJS] What is the one npm package that changed your life?](https://www.reddit.com/r/javascript/comments/md4h2i/askjs_what_is_the_one_npm_package_that_changed/)
+- [I made an ESLint plugin for JS regexes. It detects potential errors, suggests improvements, and simplifies patterns.](https://www.reddit.com/r/javascript/comments/md497d/i_made_an_eslint_plugin_for_js_regexes_it_detects/)
+- [Talc: Insta-CLI for your projects!](https://www.reddit.com/r/javascript/comments/md41ns/talc_instacli_for_your_projects/)
+- [MDN localization in March — Tier 1 locales unfrozen, and future plans](https://www.reddit.com/r/javascript/comments/md1z1z/mdn_localization_in_march_tier_1_locales_unfrozen/)
+- [Yet another cookie consent popup! But this one is neat #GDPR #CCPA](https://www.reddit.com/r/javascript/comments/md1wz5/yet_another_cookie_consent_popup_but_this_one_is/)
+- [Human-Readable JavaScript: A Tale of Two Experts](https://www.reddit.com/r/javascript/comments/md13u2/humanreadable_javascript_a_tale_of_two_experts/)
+- [On JavaScript Ecosystem](https://www.reddit.com/r/javascript/comments/mczplz/on_javascript_ecosystem/)
+- [Easy Command Line Scripts With Node](https://www.reddit.com/r/javascript/comments/mcyuvd/easy_command_line_scripts_with_node/)
+- [[RFC] Semantic versioning for TypeScript types (applicable to all JS/TS ecosystems' library authors)](https://www.reddit.com/r/javascript/comments/mcyc5h/rfc_semantic_versioning_for_typescript_types/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
