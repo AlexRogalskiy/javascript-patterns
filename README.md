@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Is it a problem that jQuery Terminal use jQuery?](https://www.reddit.com/r/javascript/comments/mdbilq/askjs_is_it_a_problem_that_jquery_terminal_use/)
-- [[AskJS] What is the one npm package that changed your life?](https://www.reddit.com/r/javascript/comments/md4h2i/askjs_what_is_the_one_npm_package_that_changed/)
-- [I made an ESLint plugin for JS regexes. It detects potential errors, suggests improvements, and simplifies patterns.](https://www.reddit.com/r/javascript/comments/md497d/i_made_an_eslint_plugin_for_js_regexes_it_detects/)
-- [Talc: Insta-CLI for your projects!](https://www.reddit.com/r/javascript/comments/md41ns/talc_instacli_for_your_projects/)
-- [MDN localization in March — Tier 1 locales unfrozen, and future plans](https://www.reddit.com/r/javascript/comments/md1z1z/mdn_localization_in_march_tier_1_locales_unfrozen/)
-- [Yet another cookie consent popup! But this one is neat #GDPR #CCPA](https://www.reddit.com/r/javascript/comments/md1wz5/yet_another_cookie_consent_popup_but_this_one_is/)
-- [Human-Readable JavaScript: A Tale of Two Experts](https://www.reddit.com/r/javascript/comments/md13u2/humanreadable_javascript_a_tale_of_two_experts/)
-- [On JavaScript Ecosystem](https://www.reddit.com/r/javascript/comments/mczplz/on_javascript_ecosystem/)
-- [Easy Command Line Scripts With Node](https://www.reddit.com/r/javascript/comments/mcyuvd/easy_command_line_scripts_with_node/)
-- [[RFC] Semantic versioning for TypeScript types (applicable to all JS/TS ecosystems' library authors)](https://www.reddit.com/r/javascript/comments/mcyc5h/rfc_semantic_versioning_for_typescript_types/)
+- [AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML](https://www.reddit.com/r/javascript/comments/me1pag/ajax_css_transitions_websockets_and_server_sent/)
+- [[AskJS] How to build a streaming API](https://www.reddit.com/r/javascript/comments/me0fja/askjs_how_to_build_a_streaming_api/)
+- [I Created a CLI to Cross-Post Your Articles On Dev, Hashnode, and Medium](https://www.reddit.com/r/javascript/comments/mdzhiw/i_created_a_cli_to_crosspost_your_articles_on_dev/)
+- [To Those Who Criticize JavaScript](https://www.reddit.com/r/javascript/comments/mdykus/to_those_who_criticize_javascript/)
+- [[AskJS] Geolocation API Improvements...](https://www.reddit.com/r/javascript/comments/mdwdnw/askjs_geolocation_api_improvements/)
+- [JavaScript baby](https://www.reddit.com/r/javascript/comments/mdw3cd/javascript_baby/)
+- [JavaScript for optimizers: Removing currency symbols - GrowthPenguin](https://www.reddit.com/r/javascript/comments/mdrpxa/javascript_for_optimizers_removing_currency/)
+- [GraphQL Subscriptions w/ Serverless on AWS - Subscriptionless](https://www.reddit.com/r/javascript/comments/mdqgab/graphql_subscriptions_w_serverless_on_aws/)
+- [Make Your Jest Tests up to 20% Faster by Changing a Single Setting](https://www.reddit.com/r/javascript/comments/mdq17o/make_your_jest_tests_up_to_20_faster_by_changing/)
+- [foldl, foldr, and associative order](https://www.reddit.com/r/javascript/comments/mdntyc/foldl_foldr_and_associative_order/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
