@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML](https://www.reddit.com/r/javascript/comments/me1pag/ajax_css_transitions_websockets_and_server_sent/)
-- [[AskJS] How to build a streaming API](https://www.reddit.com/r/javascript/comments/me0fja/askjs_how_to_build_a_streaming_api/)
-- [I Created a CLI to Cross-Post Your Articles On Dev, Hashnode, and Medium](https://www.reddit.com/r/javascript/comments/mdzhiw/i_created_a_cli_to_crosspost_your_articles_on_dev/)
-- [To Those Who Criticize JavaScript](https://www.reddit.com/r/javascript/comments/mdykus/to_those_who_criticize_javascript/)
-- [[AskJS] Geolocation API Improvements...](https://www.reddit.com/r/javascript/comments/mdwdnw/askjs_geolocation_api_improvements/)
-- [JavaScript baby](https://www.reddit.com/r/javascript/comments/mdw3cd/javascript_baby/)
-- [JavaScript for optimizers: Removing currency symbols - GrowthPenguin](https://www.reddit.com/r/javascript/comments/mdrpxa/javascript_for_optimizers_removing_currency/)
-- [GraphQL Subscriptions w/ Serverless on AWS - Subscriptionless](https://www.reddit.com/r/javascript/comments/mdqgab/graphql_subscriptions_w_serverless_on_aws/)
-- [Make Your Jest Tests up to 20% Faster by Changing a Single Setting](https://www.reddit.com/r/javascript/comments/mdq17o/make_your_jest_tests_up_to_20_faster_by_changing/)
-- [foldl, foldr, and associative order](https://www.reddit.com/r/javascript/comments/mdntyc/foldl_foldr_and_associative_order/)
+- [[PHP\JavaScript] Date, Time and Timezone! (Test Script)](https://www.reddit.com/r/javascript/comments/meqjgj/phpjavascript_date_time_and_timezone_test_script/)
+- [Ohm – A library and language for building parsers, interpreters, compilers, etc.](https://www.reddit.com/r/javascript/comments/men9rk/ohm_a_library_and_language_for_building_parsers/)
+- [LINQ implemented in JavaScript Template Literals](https://www.reddit.com/r/javascript/comments/mel37u/linq_implemented_in_javascript_template_literals/)
+- [Advanced Promises in Javascript (Dataloader Pattern) - Mike Alche](https://www.reddit.com/r/javascript/comments/mekimu/advanced_promises_in_javascript_dataloader/)
+- [How to write a Webpack loader](https://www.reddit.com/r/javascript/comments/mej7m7/how_to_write_a_webpack_loader/)
+- [jCore - JavaScript library for building UI components](https://www.reddit.com/r/javascript/comments/megqdt/jcore_javascript_library_for_building_ui/)
+- [Create videos in React that viewers can interact with](https://www.reddit.com/r/javascript/comments/megarn/create_videos_in_react_that_viewers_can_interact/)
+- [[showoff saturday] with all the hype around cryptos, I decided to make a online ledger](https://www.reddit.com/r/javascript/comments/mebhj5/showoff_saturday_with_all_the_hype_around_cryptos/)
+- [[Showoff Saturday] Using native Javascript which has come a long way, I built a job board](https://www.reddit.com/r/javascript/comments/mea7tj/showoff_saturday_using_native_javascript_which/)
+- [Showoff Saturday (March 27, 2021)](https://www.reddit.com/r/javascript/comments/me8p4p/showoff_saturday_march_27_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
