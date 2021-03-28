@@ -260,7 +260,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
-- [Move over Java, JavaScript is the new WORA. Or is it?](https://www.infoworld.com/article/3611412/move-over-java-javascript-is-the-new-wora-or-is-it.html#tk.rss_javascript)
+- [Is JavaScript the new Java?](https://www.infoworld.com/article/3611412/is-javascript-the-new-java.html#tk.rss_javascript)
 - [How to use React’s concurrent mode](https://www.infoworld.com/article/3610457/how-to-use-reacts-concurrent-mode.html#tk.rss_javascript)
 - [Out-of-this-world monitoring with InfluxDB and React](https://www.infoworld.com/article/3609389/out-of-this-world-monitoring-with-influxdb-and-react.html#tk.rss_javascript)
 - [Deno 1.8 preps for GPU-accelerated machine learning](https://www.infoworld.com/article/3610391/deno-18-preps-for-gpu-accelerated-machine-learning.html#tk.rss_javascript)
