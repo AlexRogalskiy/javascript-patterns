@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [[PHP\JavaScript] Date, Time and Timezone! (Test Script)](https://www.reddit.com/r/javascript/comments/meqjgj/phpjavascript_date_time_and_timezone_test_script/)
-- [Ohm – A library and language for building parsers, interpreters, compilers, etc.](https://www.reddit.com/r/javascript/comments/men9rk/ohm_a_library_and_language_for_building_parsers/)
-- [LINQ implemented in JavaScript Template Literals](https://www.reddit.com/r/javascript/comments/mel37u/linq_implemented_in_javascript_template_literals/)
-- [Advanced Promises in Javascript (Dataloader Pattern) - Mike Alche](https://www.reddit.com/r/javascript/comments/mekimu/advanced_promises_in_javascript_dataloader/)
-- [How to write a Webpack loader](https://www.reddit.com/r/javascript/comments/mej7m7/how_to_write_a_webpack_loader/)
-- [jCore - JavaScript library for building UI components](https://www.reddit.com/r/javascript/comments/megqdt/jcore_javascript_library_for_building_ui/)
-- [Create videos in React that viewers can interact with](https://www.reddit.com/r/javascript/comments/megarn/create_videos_in_react_that_viewers_can_interact/)
-- [[showoff saturday] with all the hype around cryptos, I decided to make a online ledger](https://www.reddit.com/r/javascript/comments/mebhj5/showoff_saturday_with_all_the_hype_around_cryptos/)
-- [[Showoff Saturday] Using native Javascript which has come a long way, I built a job board](https://www.reddit.com/r/javascript/comments/mea7tj/showoff_saturday_using_native_javascript_which/)
-- [Showoff Saturday (March 27, 2021)](https://www.reddit.com/r/javascript/comments/me8p4p/showoff_saturday_march_27_2021/)
+- [Closure: A visual explanation](https://www.reddit.com/r/javascript/comments/mfei5r/closure_a_visual_explanation/)
+- [The 3 ways to make an asynchronous method in JavaScript](https://www.reddit.com/r/javascript/comments/mfdcch/the_3_ways_to_make_an_asynchronous_method_in/)
+- [Real-Time JavaScript Tool - Execute JavaScript codes in Real-Time!](https://www.reddit.com/r/javascript/comments/mfcx1g/realtime_javascript_tool_execute_javascript_codes/)
+- [A Space Background (for Web Games) in JavaScript with QCObjects](https://www.reddit.com/r/javascript/comments/mfa13s/a_space_background_for_web_games_in_javascript/)
+- [Express-File-Logger: a library to help who needs to save a log entry about every ExpressJS hit](https://www.reddit.com/r/javascript/comments/mf7we3/expressfilelogger_a_library_to_help_who_needs_to/)
+- [Format file size like macOS](https://www.reddit.com/r/javascript/comments/mf744t/format_file_size_like_macos/)
+- [How es6 classes work under the hood ?](https://www.reddit.com/r/javascript/comments/mf3bo3/how_es6_classes_work_under_the_hood/)
+- [Scaffolder for your next micro-frontend architecture](https://www.reddit.com/r/javascript/comments/mf2yy9/scaffolder_for_your_next_microfrontend/)
+- [[PHP\JavaScript] Date, Time and Timezone! (Test Script)](https://www.reddit.com/r/javascript/comments/mf1p81/phpjavascript_date_time_and_timezone_test_script/)
+- [image recognition model (EfficientNet) written in typescript](https://www.reddit.com/r/javascript/comments/mex4od/image_recognition_model_efficientnet_written_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
