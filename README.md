@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Closure: A visual explanation](https://www.reddit.com/r/javascript/comments/mfei5r/closure_a_visual_explanation/)
-- [The 3 ways to make an asynchronous method in JavaScript](https://www.reddit.com/r/javascript/comments/mfdcch/the_3_ways_to_make_an_asynchronous_method_in/)
-- [Real-Time JavaScript Tool - Execute JavaScript codes in Real-Time!](https://www.reddit.com/r/javascript/comments/mfcx1g/realtime_javascript_tool_execute_javascript_codes/)
-- [A Space Background (for Web Games) in JavaScript with QCObjects](https://www.reddit.com/r/javascript/comments/mfa13s/a_space_background_for_web_games_in_javascript/)
-- [Express-File-Logger: a library to help who needs to save a log entry about every ExpressJS hit](https://www.reddit.com/r/javascript/comments/mf7we3/expressfilelogger_a_library_to_help_who_needs_to/)
-- [Format file size like macOS](https://www.reddit.com/r/javascript/comments/mf744t/format_file_size_like_macos/)
-- [How es6 classes work under the hood ?](https://www.reddit.com/r/javascript/comments/mf3bo3/how_es6_classes_work_under_the_hood/)
-- [Scaffolder for your next micro-frontend architecture](https://www.reddit.com/r/javascript/comments/mf2yy9/scaffolder_for_your_next_microfrontend/)
-- [[PHP\JavaScript] Date, Time and Timezone! (Test Script)](https://www.reddit.com/r/javascript/comments/mf1p81/phpjavascript_date_time_and_timezone_test_script/)
-- [image recognition model (EfficientNet) written in typescript](https://www.reddit.com/r/javascript/comments/mex4od/image_recognition_model_efficientnet_written_in/)
+- [Meteorite — The Solution to Noisy GitHub Notifications](https://www.reddit.com/r/javascript/comments/mg3iuf/meteorite_the_solution_to_noisy_github/)
+- [Server-side rendering and how it works](https://www.reddit.com/r/javascript/comments/mfyjtu/serverside_rendering_and_how_it_works/)
+- [[AskJS] Was wondering if anyone was running VSCodium on Linux as their main dev env to remove completly the telemetry ? What's the advantage or state of extensions in VSCodium vs VSCode today ? any other viable editor that can do exactly what code does today sublime ? atom ? brackets ?](https://www.reddit.com/r/javascript/comments/mfxyxt/askjs_was_wondering_if_anyone_was_running/)
+- [MouseView.js - a library for tracking attention on web content without using eye tracking](https://www.reddit.com/r/javascript/comments/mfp2nl/mouseviewjs_a_library_for_tracking_attention_on/)
+- [Download files behind JWT-authenticated routes with no extra libraries, using object URLs](https://www.reddit.com/r/javascript/comments/mfoxd8/download_files_behind_jwtauthenticated_routes/)
+- [Announcing the Deno Company](https://www.reddit.com/r/javascript/comments/mfnwrj/announcing_the_deno_company/)
+- [Am I the only one who don't want to spend some good hours, or maybe days while creating PDF Invoices? Take a look at this #javascript library. Just fetch your data and add them to the param object. That's it, 5 min!](https://www.reddit.com/r/javascript/comments/mflcoj/am_i_the_only_one_who_dont_want_to_spend_some/)
+- [Your /r/javascript recap for the week of March 22 - March 28](https://www.reddit.com/r/javascript/comments/mflciz/your_rjavascript_recap_for_the_week_of_march_22/)
+- [Bitwise Config Flags - Get rid of unnecessary if conditions with esoteric way](https://www.reddit.com/r/javascript/comments/mfkqyy/bitwise_config_flags_get_rid_of_unnecessary_if/)
+- [ECMAScript - Introducing BigInt Primitive in ES2020 (ES11)](https://www.reddit.com/r/javascript/comments/mfj83v/ecmascript_introducing_bigint_primitive_in_es2020/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
