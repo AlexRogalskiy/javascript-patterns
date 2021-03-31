@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Meteorite — The Solution to Noisy GitHub Notifications](https://www.reddit.com/r/javascript/comments/mg3iuf/meteorite_the_solution_to_noisy_github/)
-- [Server-side rendering and how it works](https://www.reddit.com/r/javascript/comments/mfyjtu/serverside_rendering_and_how_it_works/)
-- [[AskJS] Was wondering if anyone was running VSCodium on Linux as their main dev env to remove completly the telemetry ? What's the advantage or state of extensions in VSCodium vs VSCode today ? any other viable editor that can do exactly what code does today sublime ? atom ? brackets ?](https://www.reddit.com/r/javascript/comments/mfxyxt/askjs_was_wondering_if_anyone_was_running/)
-- [MouseView.js - a library for tracking attention on web content without using eye tracking](https://www.reddit.com/r/javascript/comments/mfp2nl/mouseviewjs_a_library_for_tracking_attention_on/)
-- [Download files behind JWT-authenticated routes with no extra libraries, using object URLs](https://www.reddit.com/r/javascript/comments/mfoxd8/download_files_behind_jwtauthenticated_routes/)
-- [Announcing the Deno Company](https://www.reddit.com/r/javascript/comments/mfnwrj/announcing_the_deno_company/)
-- [Am I the only one who don't want to spend some good hours, or maybe days while creating PDF Invoices? Take a look at this #javascript library. Just fetch your data and add them to the param object. That's it, 5 min!](https://www.reddit.com/r/javascript/comments/mflcoj/am_i_the_only_one_who_dont_want_to_spend_some/)
-- [Your /r/javascript recap for the week of March 22 - March 28](https://www.reddit.com/r/javascript/comments/mflciz/your_rjavascript_recap_for_the_week_of_march_22/)
-- [Bitwise Config Flags - Get rid of unnecessary if conditions with esoteric way](https://www.reddit.com/r/javascript/comments/mfkqyy/bitwise_config_flags_get_rid_of_unnecessary_if/)
-- [ECMAScript - Introducing BigInt Primitive in ES2020 (ES11)](https://www.reddit.com/r/javascript/comments/mfj83v/ecmascript_introducing_bigint_primitive_in_es2020/)
+- [I put my first game onto the web using replit, domain will be here soon. Would appreciate feedback, I intend to update over time, and this is definitely not a finished product.](https://www.reddit.com/r/javascript/comments/mgtw3l/i_put_my_first_game_onto_the_web_using_replit/)
+- [[AskJS] What's Javascript's immediate ancestor?](https://www.reddit.com/r/javascript/comments/mgr3qk/askjs_whats_javascripts_immediate_ancestor/)
+- [[AskJS] Do you use JavaScript on Microcontrollers? Which engine / interpreter?](https://www.reddit.com/r/javascript/comments/mgq1r5/askjs_do_you_use_javascript_on_microcontrollers/)
+- [How To Obtain Random Numbers Within a Range Using JavaScript](https://www.reddit.com/r/javascript/comments/mgph8k/how_to_obtain_random_numbers_within_a_range_using/)
+- [Using media queries with JavaScript](https://www.reddit.com/r/javascript/comments/mgp8mh/using_media_queries_with_javascript/)
+- [Grid.js: UI component that can arrange items according to the type of grids(masonry, justified, frame, packing)](https://www.reddit.com/r/javascript/comments/mglneu/gridjs_ui_component_that_can_arrange_items/)
+- [Class static initializer blocks](https://www.reddit.com/r/javascript/comments/mgjbrb/class_static_initializer_blocks/)
+- [JSCause - A new server-side Javascript framework for small yet awesome websites and quick ideas](https://www.reddit.com/r/javascript/comments/mghg67/jscause_a_new_serverside_javascript_framework_for/)
+- [Genson-js: a user-friendly JSON Schema generator](https://www.reddit.com/r/javascript/comments/mgg57z/gensonjs_a_userfriendly_json_schema_generator/)
+- [[AskJS] Vue or react?](https://www.reddit.com/r/javascript/comments/mgg29q/askjs_vue_or_react/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
