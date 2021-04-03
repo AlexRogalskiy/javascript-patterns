@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [I put my first game onto the web using replit, domain will be here soon. Would appreciate feedback, I intend to update over time, and this is definitely not a finished product.](https://www.reddit.com/r/javascript/comments/mgtw3l/i_put_my_first_game_onto_the_web_using_replit/)
-- [[AskJS] What's Javascript's immediate ancestor?](https://www.reddit.com/r/javascript/comments/mgr3qk/askjs_whats_javascripts_immediate_ancestor/)
-- [[AskJS] Do you use JavaScript on Microcontrollers? Which engine / interpreter?](https://www.reddit.com/r/javascript/comments/mgq1r5/askjs_do_you_use_javascript_on_microcontrollers/)
-- [How To Obtain Random Numbers Within a Range Using JavaScript](https://www.reddit.com/r/javascript/comments/mgph8k/how_to_obtain_random_numbers_within_a_range_using/)
-- [Using media queries with JavaScript](https://www.reddit.com/r/javascript/comments/mgp8mh/using_media_queries_with_javascript/)
-- [Grid.js: UI component that can arrange items according to the type of grids(masonry, justified, frame, packing)](https://www.reddit.com/r/javascript/comments/mglneu/gridjs_ui_component_that_can_arrange_items/)
-- [Class static initializer blocks](https://www.reddit.com/r/javascript/comments/mgjbrb/class_static_initializer_blocks/)
-- [JSCause - A new server-side Javascript framework for small yet awesome websites and quick ideas](https://www.reddit.com/r/javascript/comments/mghg67/jscause_a_new_serverside_javascript_framework_for/)
-- [Genson-js: a user-friendly JSON Schema generator](https://www.reddit.com/r/javascript/comments/mgg57z/gensonjs_a_userfriendly_json_schema_generator/)
-- [[AskJS] Vue or react?](https://www.reddit.com/r/javascript/comments/mgg29q/askjs_vue_or_react/)
+- [How to Timeout a Promise](https://www.reddit.com/r/javascript/comments/mir80f/how_to_timeout_a_promise/)
+- [[RFC] Vue 3 won't support IE11](https://www.reddit.com/r/javascript/comments/miqxh9/rfc_vue_3_wont_support_ie11/)
+- [DIV and Backend again. A TypeScript Tale: Part 3 - TypeORM](https://www.reddit.com/r/javascript/comments/mipjlm/div_and_backend_again_a_typescript_tale_part_3/)
+- [Vue JS - Differences between Computed and Watch](https://www.reddit.com/r/javascript/comments/milf7p/vue_js_differences_between_computed_and_watch/)
+- [I tried to wrote about CSS Variable usages in SCSS functions, and their manipulation via JavaScript](https://www.reddit.com/r/javascript/comments/mik4r1/i_tried_to_wrote_about_css_variable_usages_in/)
+- [Show: A cute cyberpunk platformer](https://www.reddit.com/r/javascript/comments/mijzwm/show_a_cute_cyberpunk_platformer/)
+- [Chery — CLI for the DOM and Web Worker spawning platform](https://www.reddit.com/r/javascript/comments/mihqie/chery_cli_for_the_dom_and_web_worker_spawning/)
+- [WhatsUp - front-end framework based on ideas of streams and fractals](https://www.reddit.com/r/javascript/comments/mih48s/whatsup_frontend_framework_based_on_ideas_of/)
+- [Announcing TypeScript 4.3 Beta](https://www.reddit.com/r/javascript/comments/mi4c85/announcing_typescript_43_beta/)
+- [yaloc - a simple loading cache with auto refresh & expiration for JS, inspired by guava](https://www.reddit.com/r/javascript/comments/mi3pit/yaloc_a_simple_loading_cache_with_auto_refresh/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
