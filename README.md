@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to Timeout a Promise](https://www.reddit.com/r/javascript/comments/mir80f/how_to_timeout_a_promise/)
-- [[RFC] Vue 3 won't support IE11](https://www.reddit.com/r/javascript/comments/miqxh9/rfc_vue_3_wont_support_ie11/)
-- [DIV and Backend again. A TypeScript Tale: Part 3 - TypeORM](https://www.reddit.com/r/javascript/comments/mipjlm/div_and_backend_again_a_typescript_tale_part_3/)
-- [Vue JS - Differences between Computed and Watch](https://www.reddit.com/r/javascript/comments/milf7p/vue_js_differences_between_computed_and_watch/)
-- [I tried to wrote about CSS Variable usages in SCSS functions, and their manipulation via JavaScript](https://www.reddit.com/r/javascript/comments/mik4r1/i_tried_to_wrote_about_css_variable_usages_in/)
-- [Show: A cute cyberpunk platformer](https://www.reddit.com/r/javascript/comments/mijzwm/show_a_cute_cyberpunk_platformer/)
-- [Chery — CLI for the DOM and Web Worker spawning platform](https://www.reddit.com/r/javascript/comments/mihqie/chery_cli_for_the_dom_and_web_worker_spawning/)
-- [WhatsUp - front-end framework based on ideas of streams and fractals](https://www.reddit.com/r/javascript/comments/mih48s/whatsup_frontend_framework_based_on_ideas_of/)
-- [Announcing TypeScript 4.3 Beta](https://www.reddit.com/r/javascript/comments/mi4c85/announcing_typescript_43_beta/)
-- [yaloc - a simple loading cache with auto refresh & expiration for JS, inspired by guava](https://www.reddit.com/r/javascript/comments/mi3pit/yaloc_a_simple_loading_cache_with_auto_refresh/)
+- [Add a simple loading spinner to your async JS calls - built for the browser.](https://www.reddit.com/r/javascript/comments/mjikjq/add_a_simple_loading_spinner_to_your_async_js/)
+- [An interactive, accessible way to build maps](https://www.reddit.com/r/javascript/comments/mjgkvu/an_interactive_accessible_way_to_build_maps/)
+- [React's higher order components I use the most](https://www.reddit.com/r/javascript/comments/mjf556/reacts_higher_order_components_i_use_the_most/)
+- [[AskJS] JavaScript backend applications, single-threaded performance tips & design patterns](https://www.reddit.com/r/javascript/comments/mjew00/askjs_javascript_backend_applications/)
+- [[AskJS] Best practices for building a JS library (tooling and architecture)](https://www.reddit.com/r/javascript/comments/mjeiys/askjs_best_practices_for_building_a_js_library/)
+- [DIV and Backend again. A TypeScript Tale: Part 4 - GraphQL Code Gen](https://www.reddit.com/r/javascript/comments/mjdz2h/div_and_backend_again_a_typescript_tale_part_4/)
+- [How to enforce best practice for setTimeout and setInterval](https://www.reddit.com/r/javascript/comments/mjah1k/how_to_enforce_best_practice_for_settimeout_and/)
+- [Functions without Borders - A typesafe RPC library thinning the boundaries between client and server](https://www.reddit.com/r/javascript/comments/mj8h9k/functions_without_borders_a_typesafe_rpc_library/)
+- [Showoff Saturday (April 03, 2021)](https://www.reddit.com/r/javascript/comments/mj3e7e/showoff_saturday_april_03_2021/)
+- [Surprised sendBeacon JS API incompatibility in IOS caused so much trouble for developers](https://www.reddit.com/r/javascript/comments/mj365m/surprised_sendbeacon_js_api_incompatibility_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
