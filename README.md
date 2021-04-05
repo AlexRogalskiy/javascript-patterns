@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Add a simple loading spinner to your async JS calls - built for the browser.](https://www.reddit.com/r/javascript/comments/mjikjq/add_a_simple_loading_spinner_to_your_async_js/)
-- [An interactive, accessible way to build maps](https://www.reddit.com/r/javascript/comments/mjgkvu/an_interactive_accessible_way_to_build_maps/)
-- [React's higher order components I use the most](https://www.reddit.com/r/javascript/comments/mjf556/reacts_higher_order_components_i_use_the_most/)
-- [[AskJS] JavaScript backend applications, single-threaded performance tips & design patterns](https://www.reddit.com/r/javascript/comments/mjew00/askjs_javascript_backend_applications/)
-- [[AskJS] Best practices for building a JS library (tooling and architecture)](https://www.reddit.com/r/javascript/comments/mjeiys/askjs_best_practices_for_building_a_js_library/)
-- [DIV and Backend again. A TypeScript Tale: Part 4 - GraphQL Code Gen](https://www.reddit.com/r/javascript/comments/mjdz2h/div_and_backend_again_a_typescript_tale_part_4/)
-- [How to enforce best practice for setTimeout and setInterval](https://www.reddit.com/r/javascript/comments/mjah1k/how_to_enforce_best_practice_for_settimeout_and/)
-- [Functions without Borders - A typesafe RPC library thinning the boundaries between client and server](https://www.reddit.com/r/javascript/comments/mj8h9k/functions_without_borders_a_typesafe_rpc_library/)
-- [Showoff Saturday (April 03, 2021)](https://www.reddit.com/r/javascript/comments/mj3e7e/showoff_saturday_april_03_2021/)
-- [Surprised sendBeacon JS API incompatibility in IOS caused so much trouble for developers](https://www.reddit.com/r/javascript/comments/mj365m/surprised_sendbeacon_js_api_incompatibility_in/)
+- [I created a Manager for GitHub Actions to automate projects quickly and share best CI/CD practices](https://www.reddit.com/r/javascript/comments/mk5xfz/i_created_a_manager_for_github_actions_to/)
+- [Lazy evaluation in the Developer Console, some gotchas](https://www.reddit.com/r/javascript/comments/mk4xv4/lazy_evaluation_in_the_developer_console_some/)
+- [Pipeline operator (Stage 1) - check out the updated TypeScript playground and provide feedback!](https://www.reddit.com/r/javascript/comments/mk29rl/pipeline_operator_stage_1_check_out_the_updated/)
+- [DIV and Backend again. A TypeScript Tale: Part 5](https://www.reddit.com/r/javascript/comments/mk14wk/div_and_backend_again_a_typescript_tale_part_5/)
+- [Rethinking the development / build environment with service workers](https://www.reddit.com/r/javascript/comments/mjytt9/rethinking_the_development_build_environment_with/)
+- [chainson - a database-backed Map with zero dependencies for Node.js](https://www.reddit.com/r/javascript/comments/mjxven/chainson_a_databasebacked_map_with_zero/)
+- [A library for going general PRC between threads and processes using high-level classes](https://www.reddit.com/r/javascript/comments/mjwk9d/a_library_for_going_general_prc_between_threads/)
+- [Created a Node.js boilerplate for quickly building production-ready RESTful APIs using Express and Mongoose. Let me know what you think. Contributions are welcomed!](https://www.reddit.com/r/javascript/comments/mjuzsd/created_a_nodejs_boilerplate_for_quickly_building/)
+- [I have made a calculator that can recognize handwritten characters. It uses TensorFlowJS for inference on the browser.](https://www.reddit.com/r/javascript/comments/mjup6u/i_have_made_a_calculator_that_can_recognize/)
+- [A lightweight CLI framework I made](https://www.reddit.com/r/javascript/comments/mjt31a/a_lightweight_cli_framework_i_made/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
