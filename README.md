@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [I created a Manager for GitHub Actions to automate projects quickly and share best CI/CD practices](https://www.reddit.com/r/javascript/comments/mk5xfz/i_created_a_manager_for_github_actions_to/)
-- [Lazy evaluation in the Developer Console, some gotchas](https://www.reddit.com/r/javascript/comments/mk4xv4/lazy_evaluation_in_the_developer_console_some/)
-- [Pipeline operator (Stage 1) - check out the updated TypeScript playground and provide feedback!](https://www.reddit.com/r/javascript/comments/mk29rl/pipeline_operator_stage_1_check_out_the_updated/)
-- [DIV and Backend again. A TypeScript Tale: Part 5](https://www.reddit.com/r/javascript/comments/mk14wk/div_and_backend_again_a_typescript_tale_part_5/)
-- [Rethinking the development / build environment with service workers](https://www.reddit.com/r/javascript/comments/mjytt9/rethinking_the_development_build_environment_with/)
-- [chainson - a database-backed Map with zero dependencies for Node.js](https://www.reddit.com/r/javascript/comments/mjxven/chainson_a_databasebacked_map_with_zero/)
-- [A library for going general PRC between threads and processes using high-level classes](https://www.reddit.com/r/javascript/comments/mjwk9d/a_library_for_going_general_prc_between_threads/)
-- [Created a Node.js boilerplate for quickly building production-ready RESTful APIs using Express and Mongoose. Let me know what you think. Contributions are welcomed!](https://www.reddit.com/r/javascript/comments/mjuzsd/created_a_nodejs_boilerplate_for_quickly_building/)
-- [I have made a calculator that can recognize handwritten characters. It uses TensorFlowJS for inference on the browser.](https://www.reddit.com/r/javascript/comments/mjup6u/i_have_made_a_calculator_that_can_recognize/)
-- [A lightweight CLI framework I made](https://www.reddit.com/r/javascript/comments/mjt31a/a_lightweight_cli_framework_i_made/)
+- [Creating a modern JavaScript library](https://www.reddit.com/r/javascript/comments/mkyjv0/creating_a_modern_javascript_library/)
+- [Hey guys! I made a platform to get your static site forms data without a backend](https://www.reddit.com/r/javascript/comments/mktxb8/hey_guys_i_made_a_platform_to_get_your_static/)
+- [I'm launching a side project to award folks for building rad "non-corporate-y" stuff for the web. If you're working on something for a local community, I'd love to throw you some coffee money!](https://www.reddit.com/r/javascript/comments/mkt17v/im_launching_a_side_project_to_award_folks_for/)
+- [Let's build the best REST API mocker tool together](https://www.reddit.com/r/javascript/comments/mkobzj/lets_build_the_best_rest_api_mocker_tool_together/)
+- [Symbology.js - generate 50+ types of 1D or 2D Barcode in png, svg, or eps formats](https://www.reddit.com/r/javascript/comments/mkn6lf/symbologyjs_generate_50_types_of_1d_or_2d_barcode/)
+- [WhatsUp - front-end framework based on ideas of streams and fractals. Part 2.](https://www.reddit.com/r/javascript/comments/mkmixh/whatsup_frontend_framework_based_on_ideas_of/)
+- [Quando: a conditional expressions library](https://www.reddit.com/r/javascript/comments/mkibz5/quando_a_conditional_expressions_library/)
+- [Your /r/javascript recap for the week of March 29 - April 04](https://www.reddit.com/r/javascript/comments/mkgcj3/your_rjavascript_recap_for_the_week_of_march_29/)
+- [Created a styled-components like library for using TailwindCSS (or other class framework) in a cleaner an meaningful way than inline classes. Contributions are Welcome!](https://www.reddit.com/r/javascript/comments/mkfrod/created_a_styledcomponents_like_library_for_using/)
+- [Cypress fail-fast plugin now can be configured to skip tests in parallel runs](https://www.reddit.com/r/javascript/comments/mkfjbi/cypress_failfast_plugin_now_can_be_configured_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
