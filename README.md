@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Creating a modern JavaScript library](https://www.reddit.com/r/javascript/comments/mkyjv0/creating_a_modern_javascript_library/)
-- [Hey guys! I made a platform to get your static site forms data without a backend](https://www.reddit.com/r/javascript/comments/mktxb8/hey_guys_i_made_a_platform_to_get_your_static/)
-- [I'm launching a side project to award folks for building rad "non-corporate-y" stuff for the web. If you're working on something for a local community, I'd love to throw you some coffee money!](https://www.reddit.com/r/javascript/comments/mkt17v/im_launching_a_side_project_to_award_folks_for/)
-- [Let's build the best REST API mocker tool together](https://www.reddit.com/r/javascript/comments/mkobzj/lets_build_the_best_rest_api_mocker_tool_together/)
-- [Symbology.js - generate 50+ types of 1D or 2D Barcode in png, svg, or eps formats](https://www.reddit.com/r/javascript/comments/mkn6lf/symbologyjs_generate_50_types_of_1d_or_2d_barcode/)
-- [WhatsUp - front-end framework based on ideas of streams and fractals. Part 2.](https://www.reddit.com/r/javascript/comments/mkmixh/whatsup_frontend_framework_based_on_ideas_of/)
-- [Quando: a conditional expressions library](https://www.reddit.com/r/javascript/comments/mkibz5/quando_a_conditional_expressions_library/)
-- [Your /r/javascript recap for the week of March 29 - April 04](https://www.reddit.com/r/javascript/comments/mkgcj3/your_rjavascript_recap_for_the_week_of_march_29/)
-- [Created a styled-components like library for using TailwindCSS (or other class framework) in a cleaner an meaningful way than inline classes. Contributions are Welcome!](https://www.reddit.com/r/javascript/comments/mkfrod/created_a_styledcomponents_like_library_for_using/)
-- [Cypress fail-fast plugin now can be configured to skip tests in parallel runs](https://www.reddit.com/r/javascript/comments/mkfjbi/cypress_failfast_plugin_now_can_be_configured_to/)
+- [Dynamic Imports and Full Support & compatibility with top-level await](https://www.reddit.com/r/javascript/comments/mlppk8/dynamic_imports_and_full_support_compatibility/)
+- [Introducing Kaboom - Kaboom is an effort to try make game making more accessible and fun for both beginners and intermediate programmers](https://www.reddit.com/r/javascript/comments/mlm2rk/introducing_kaboom_kaboom_is_an_effort_to_try/)
+- [How to develop/design an API that developers want to use - Python/Data Science Tutorials and Projects](https://www.reddit.com/r/javascript/comments/mlgx6n/how_to_developdesign_an_api_that_developers_want/)
+- [Wrote a tool for generating barrel files with watching and custom template support](https://www.reddit.com/r/javascript/comments/mlgnng/wrote_a_tool_for_generating_barrel_files_with/)
+- [10 One-Liner Utility methods in TypeScript/JavaScript](https://www.reddit.com/r/javascript/comments/mlg7zw/10_oneliner_utility_methods_in/)
+- [Minecraft Client in browser!](https://www.reddit.com/r/javascript/comments/mlftny/minecraft_client_in_browser/)
+- [5 Places SolidJS is not the Best](https://www.reddit.com/r/javascript/comments/mlfkfo/5_places_solidjs_is_not_the_best/)
+- [I wrote a water simulation with P5.js](https://www.reddit.com/r/javascript/comments/mlemfi/i_wrote_a_water_simulation_with_p5js/)
+- [Eliminating Data Races in Firefox – A Technical Report](https://www.reddit.com/r/javascript/comments/mlebed/eliminating_data_races_in_firefox_a_technical/)
+- [Abort HTTP requests using fetch, React and Redux-Saga](https://www.reddit.com/r/javascript/comments/mle3t5/abort_http_requests_using_fetch_react_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
