@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Dynamic Imports and Full Support & compatibility with top-level await](https://www.reddit.com/r/javascript/comments/mlppk8/dynamic_imports_and_full_support_compatibility/)
-- [Introducing Kaboom - Kaboom is an effort to try make game making more accessible and fun for both beginners and intermediate programmers](https://www.reddit.com/r/javascript/comments/mlm2rk/introducing_kaboom_kaboom_is_an_effort_to_try/)
-- [How to develop/design an API that developers want to use - Python/Data Science Tutorials and Projects](https://www.reddit.com/r/javascript/comments/mlgx6n/how_to_developdesign_an_api_that_developers_want/)
-- [Wrote a tool for generating barrel files with watching and custom template support](https://www.reddit.com/r/javascript/comments/mlgnng/wrote_a_tool_for_generating_barrel_files_with/)
-- [10 One-Liner Utility methods in TypeScript/JavaScript](https://www.reddit.com/r/javascript/comments/mlg7zw/10_oneliner_utility_methods_in/)
-- [Minecraft Client in browser!](https://www.reddit.com/r/javascript/comments/mlftny/minecraft_client_in_browser/)
-- [5 Places SolidJS is not the Best](https://www.reddit.com/r/javascript/comments/mlfkfo/5_places_solidjs_is_not_the_best/)
-- [I wrote a water simulation with P5.js](https://www.reddit.com/r/javascript/comments/mlemfi/i_wrote_a_water_simulation_with_p5js/)
-- [Eliminating Data Races in Firefox – A Technical Report](https://www.reddit.com/r/javascript/comments/mlebed/eliminating_data_races_in_firefox_a_technical/)
-- [Abort HTTP requests using fetch, React and Redux-Saga](https://www.reddit.com/r/javascript/comments/mle3t5/abort_http_requests_using_fetch_react_and/)
+- [Authentication with Supabase and React](https://www.reddit.com/r/javascript/comments/mm7e07/authentication_with_supabase_and_react/)
+- [Node.js development with Docker and Docker Compose](https://www.reddit.com/r/javascript/comments/mm6u6b/nodejs_development_with_docker_and_docker_compose/)
+- [easy way to reduce RAM consumption when using ts-node](https://www.reddit.com/r/javascript/comments/mm2nct/easy_way_to_reduce_ram_consumption_when_using/)
+- [Understanding how Babel Works](https://www.reddit.com/r/javascript/comments/mm1rjj/understanding_how_babel_works/)
+- [Skruv - no-dependency, no-build, small JS framework](https://www.reddit.com/r/javascript/comments/mm0o44/skruv_nodependency_nobuild_small_js_framework/)
+- [I Think React Is Junk, Round Two](https://www.reddit.com/r/javascript/comments/mlwx7j/i_think_react_is_junk_round_two/)
+- [Why I Think React Is Junk](https://www.reddit.com/r/javascript/comments/mlwwvd/why_i_think_react_is_junk/)
+- [WTF Wednesday (April 07, 2021)](https://www.reddit.com/r/javascript/comments/mlwf4n/wtf_wednesday_april_07_2021/)
+- [Bundler Wars](https://www.reddit.com/r/javascript/comments/mlvpej/bundler_wars/)
+- [Introducing view models for the neo.mjs Javascript UI framework](https://www.reddit.com/r/javascript/comments/mlv7je/introducing_view_models_for_the_neomjs_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
