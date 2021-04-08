@@ -341,6 +341,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _NodeSource posts_
 
 <!-- NODESOURCE-POST-LIST:START -->
+- [Security Release for N|Solid Version 4.5.2](https://nodesource.com/blog/security-release-for-NSolid-version-4.5.2)
 - [Avoiding npm substitution attacks using NCM](https://nodesource.com/blog/avoiding-npm-substitution-attacks-using-NCM)
 - [Security Release for N|Solid Version 4.5.1](https://nodesource.com/blog/security-release-for-NSolid-Version-4.5.1)
 - [Announcing Worker Threads Monitoring for Node.js in N|Solid](https://nodesource.com/blog/worker-threads-monitoring-for-node.js-in-NSolid)
@@ -350,7 +351,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 - [Security Release for NSolid Version 4.4.1](https://nodesource.com/blog/security-release-for-NSolid-version-4.4.1)
 - [Need to Node – Volume 69](https://nodesource.com/blog/need-to-node-vol-69)
 - [NodeSource brings arm64 support, C++ API and  Event Profiler to N|Solid!](https://nodesource.com/blog/arm64-support-C++-API-event-profiler-to-NSolid)
-- [NodeSource Brings arm64 Support to its Node.js Binary Distributions](https://nodesource.com/blog/arm64-support-Node.js-binary-distributions)
 <!-- NODESOURCE-POST-LIST:END -->
 
 ### _React Native posts_
