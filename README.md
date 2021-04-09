@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Authentication with Supabase and React](https://www.reddit.com/r/javascript/comments/mm7e07/authentication_with_supabase_and_react/)
-- [Node.js development with Docker and Docker Compose](https://www.reddit.com/r/javascript/comments/mm6u6b/nodejs_development_with_docker_and_docker_compose/)
-- [easy way to reduce RAM consumption when using ts-node](https://www.reddit.com/r/javascript/comments/mm2nct/easy_way_to_reduce_ram_consumption_when_using/)
-- [Understanding how Babel Works](https://www.reddit.com/r/javascript/comments/mm1rjj/understanding_how_babel_works/)
-- [Skruv - no-dependency, no-build, small JS framework](https://www.reddit.com/r/javascript/comments/mm0o44/skruv_nodependency_nobuild_small_js_framework/)
-- [I Think React Is Junk, Round Two](https://www.reddit.com/r/javascript/comments/mlwx7j/i_think_react_is_junk_round_two/)
-- [Why I Think React Is Junk](https://www.reddit.com/r/javascript/comments/mlwwvd/why_i_think_react_is_junk/)
-- [WTF Wednesday (April 07, 2021)](https://www.reddit.com/r/javascript/comments/mlwf4n/wtf_wednesday_april_07_2021/)
-- [Bundler Wars](https://www.reddit.com/r/javascript/comments/mlvpej/bundler_wars/)
-- [Introducing view models for the neo.mjs Javascript UI framework](https://www.reddit.com/r/javascript/comments/mlv7je/introducing_view_models_for_the_neomjs_javascript/)
+- [Three intermediate functional JS patterns](https://www.reddit.com/r/javascript/comments/mn1zur/three_intermediate_functional_js_patterns/)
+- [[AskJS] Projects with clean and helpful Git histories?](https://www.reddit.com/r/javascript/comments/mn1wcp/askjs_projects_with_clean_and_helpful_git/)
+- [Why I Prefer Makefiles Over package.json Scripts](https://www.reddit.com/r/javascript/comments/mn1ixg/why_i_prefer_makefiles_over_packagejson_scripts/)
+- [[AskJS] Issue with grunt node_modules](https://www.reddit.com/r/javascript/comments/mn0dh1/askjs_issue_with_grunt_node_modules/)
+- [Migrating DevTools to TypeScript - Chrome Developers](https://www.reddit.com/r/javascript/comments/mmvicn/migrating_devtools_to_typescript_chrome_developers/)
+- [How to actually test UIs](https://www.reddit.com/r/javascript/comments/mmvegy/how_to_actually_test_uis/)
+- [You think protobuf.js is faster than JSON?](https://www.reddit.com/r/javascript/comments/mmu8xz/you_think_protobufjs_is_faster_than_json/)
+- [An immutable Javascript data-ledger.](https://www.reddit.com/r/javascript/comments/mmttne/an_immutable_javascript_dataledger/)
+- [JavaScript for optimizers #8: Changing button icons - GrowthPenguin](https://www.reddit.com/r/javascript/comments/mmtd52/javascript_for_optimizers_8_changing_button_icons/)
+- [Tau - A template for creating Electron apps using React with TypeScript.](https://www.reddit.com/r/javascript/comments/mmrxu3/tau_a_template_for_creating_electron_apps_using/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
