@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Three intermediate functional JS patterns](https://www.reddit.com/r/javascript/comments/mn1zur/three_intermediate_functional_js_patterns/)
-- [[AskJS] Projects with clean and helpful Git histories?](https://www.reddit.com/r/javascript/comments/mn1wcp/askjs_projects_with_clean_and_helpful_git/)
-- [Why I Prefer Makefiles Over package.json Scripts](https://www.reddit.com/r/javascript/comments/mn1ixg/why_i_prefer_makefiles_over_packagejson_scripts/)
-- [[AskJS] Issue with grunt node_modules](https://www.reddit.com/r/javascript/comments/mn0dh1/askjs_issue_with_grunt_node_modules/)
-- [Migrating DevTools to TypeScript - Chrome Developers](https://www.reddit.com/r/javascript/comments/mmvicn/migrating_devtools_to_typescript_chrome_developers/)
-- [How to actually test UIs](https://www.reddit.com/r/javascript/comments/mmvegy/how_to_actually_test_uis/)
-- [You think protobuf.js is faster than JSON?](https://www.reddit.com/r/javascript/comments/mmu8xz/you_think_protobufjs_is_faster_than_json/)
-- [An immutable Javascript data-ledger.](https://www.reddit.com/r/javascript/comments/mmttne/an_immutable_javascript_dataledger/)
-- [JavaScript for optimizers #8: Changing button icons - GrowthPenguin](https://www.reddit.com/r/javascript/comments/mmtd52/javascript_for_optimizers_8_changing_button_icons/)
-- [Tau - A template for creating Electron apps using React with TypeScript.](https://www.reddit.com/r/javascript/comments/mmrxu3/tau_a_template_for_creating_electron_apps_using/)
+- [Oracle v. Google Ruling Is Good for APIs — But with Some Catches](https://www.reddit.com/r/javascript/comments/mnuyzo/oracle_v_google_ruling_is_good_for_apis_but_with/)
+- [I made a simple Stock and Crypto alert console app and open sourced it. You can add your own API's, your own assets, you own mathematical expressions and get your own messages with Webhook!](https://www.reddit.com/r/javascript/comments/mnr2s7/i_made_a_simple_stock_and_crypto_alert_console/)
+- [Comparing the New Generation of Build Tools](https://www.reddit.com/r/javascript/comments/mnp71d/comparing_the_new_generation_of_build_tools/)
+- [Use Javascript Proxy for isolated context intercommunication](https://www.reddit.com/r/javascript/comments/mno9ld/use_javascript_proxy_for_isolated_context/)
+- [Stitching Styles to a Headless UI Using Design Tokens and Twind](https://www.reddit.com/r/javascript/comments/mnn3k4/stitching_styles_to_a_headless_ui_using_design/)
+- [Doodle 0.5.0 released](https://www.reddit.com/r/javascript/comments/mnkbo7/doodle_050_released/)
+- [Car keys toggle it right !](https://www.reddit.com/r/javascript/comments/mnhh8u/car_keys_toggle_it_right/)
+- [object detection deep learning with javascript](https://www.reddit.com/r/javascript/comments/mnf5v5/object_detection_deep_learning_with_javascript/)
+- [moovie.js - Movie focused HTML5 Player](https://www.reddit.com/r/javascript/comments/mndlm4/mooviejs_movie_focused_html5_player/)
+- [LogChimp is an open source software to capture your customers feedback](https://www.reddit.com/r/javascript/comments/mnc31r/logchimp_is_an_open_source_software_to_capture/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
