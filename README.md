@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Oracle v. Google Ruling Is Good for APIs — But with Some Catches](https://www.reddit.com/r/javascript/comments/mnuyzo/oracle_v_google_ruling_is_good_for_apis_but_with/)
+- [Frontend Security](https://www.reddit.com/r/javascript/comments/mohfff/frontend_security/)
+- [I made a password generator that can also serve as a strong id generator for an app](https://www.reddit.com/r/javascript/comments/mof4jk/i_made_a_password_generator_that_can_also_serve/)
+- [Node-binding for 'peco'. command line prompt utility written in Go](https://www.reddit.com/r/javascript/comments/mod6ep/nodebinding_for_peco_command_line_prompt_utility/)
+- [React with TypeScript](https://www.reddit.com/r/javascript/comments/mo87gy/react_with_typescript/)
+- [Showoff Saturday (April 10, 2021)](https://www.reddit.com/r/javascript/comments/mnzwpv/showoff_saturday_april_10_2021/)
+- [Makerwork 008 includes an open source Javascript alternative to Help Scout, ZenDesk and similar customer feedback software.](https://www.reddit.com/r/javascript/comments/mnzamx/makerwork_008_includes_an_open_source_javascript/)
 - [I made a simple Stock and Crypto alert console app and open sourced it. You can add your own API's, your own assets, you own mathematical expressions and get your own messages with Webhook!](https://www.reddit.com/r/javascript/comments/mnr2s7/i_made_a_simple_stock_and_crypto_alert_console/)
 - [Comparing the New Generation of Build Tools](https://www.reddit.com/r/javascript/comments/mnp71d/comparing_the_new_generation_of_build_tools/)
 - [Use Javascript Proxy for isolated context intercommunication](https://www.reddit.com/r/javascript/comments/mno9ld/use_javascript_proxy_for_isolated_context/)
 - [Stitching Styles to a Headless UI Using Design Tokens and Twind](https://www.reddit.com/r/javascript/comments/mnn3k4/stitching_styles_to_a_headless_ui_using_design/)
-- [Doodle 0.5.0 released](https://www.reddit.com/r/javascript/comments/mnkbo7/doodle_050_released/)
-- [Car keys toggle it right !](https://www.reddit.com/r/javascript/comments/mnhh8u/car_keys_toggle_it_right/)
-- [object detection deep learning with javascript](https://www.reddit.com/r/javascript/comments/mnf5v5/object_detection_deep_learning_with_javascript/)
-- [moovie.js - Movie focused HTML5 Player](https://www.reddit.com/r/javascript/comments/mndlm4/mooviejs_movie_focused_html5_player/)
-- [LogChimp is an open source software to capture your customers feedback](https://www.reddit.com/r/javascript/comments/mnc31r/logchimp_is_an_open_source_software_to_capture/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
