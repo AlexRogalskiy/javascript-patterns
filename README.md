@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Do ES modules kill the need for bundling/concatenating our JS files with bundlers e.g. webpack?](https://www.reddit.com/r/javascript/comments/mp204y/askjs_do_es_modules_kill_the_need_for/)
+- [I made this D3 heatmap to represent profiled Python code any ideas on how this heatmap could be made better and fancier?](https://www.reddit.com/r/javascript/comments/mp0410/i_made_this_d3_heatmap_to_represent_profiled/)
+- [USON, UXML, UCFG: micro formats in modern way](https://www.reddit.com/r/javascript/comments/mov2wz/uson_uxml_ucfg_micro_formats_in_modern_way/)
+- [In Console 48 we got an interview with Mark Nadal, founder of GUN, a P2P database written in Javascript! I thought /r/javascript might be interested in checking it out!](https://www.reddit.com/r/javascript/comments/mosadr/in_console_48_we_got_an_interview_with_mark_nadal/)
+- [[AskJS] Do you love or hate Typescript ? Do you use it in all your project ? if not do you code sometimes a big part of your project in vanilla ?](https://www.reddit.com/r/javascript/comments/monlkj/askjs_do_you_love_or_hate_typescript_do_you_use/)
+- [swc v1.2.52: Fast refresh, TypeScript 4.3, etc](https://www.reddit.com/r/javascript/comments/monbze/swc_v1252_fast_refresh_typescript_43_etc/)
+- [The Simplest Way to Download SVG/DOM Elements](https://www.reddit.com/r/javascript/comments/molwaw/the_simplest_way_to_download_svgdom_elements/)
+- [I just write a WYSIWYG markdown editor, inspired by Typora.](https://www.reddit.com/r/javascript/comments/moistb/i_just_write_a_wysiwyg_markdown_editor_inspired/)
 - [Frontend Security](https://www.reddit.com/r/javascript/comments/mohfff/frontend_security/)
 - [I made a password generator that can also serve as a strong id generator for an app](https://www.reddit.com/r/javascript/comments/mof4jk/i_made_a_password_generator_that_can_also_serve/)
-- [Node-binding for 'peco'. command line prompt utility written in Go](https://www.reddit.com/r/javascript/comments/mod6ep/nodebinding_for_peco_command_line_prompt_utility/)
-- [React with TypeScript](https://www.reddit.com/r/javascript/comments/mo87gy/react_with_typescript/)
-- [Showoff Saturday (April 10, 2021)](https://www.reddit.com/r/javascript/comments/mnzwpv/showoff_saturday_april_10_2021/)
-- [Makerwork 008 includes an open source Javascript alternative to Help Scout, ZenDesk and similar customer feedback software.](https://www.reddit.com/r/javascript/comments/mnzamx/makerwork_008_includes_an_open_source_javascript/)
-- [I made a simple Stock and Crypto alert console app and open sourced it. You can add your own API's, your own assets, you own mathematical expressions and get your own messages with Webhook!](https://www.reddit.com/r/javascript/comments/mnr2s7/i_made_a_simple_stock_and_crypto_alert_console/)
-- [Comparing the New Generation of Build Tools](https://www.reddit.com/r/javascript/comments/mnp71d/comparing_the_new_generation_of_build_tools/)
-- [Use Javascript Proxy for isolated context intercommunication](https://www.reddit.com/r/javascript/comments/mno9ld/use_javascript_proxy_for_isolated_context/)
-- [Stitching Styles to a Headless UI Using Design Tokens and Twind](https://www.reddit.com/r/javascript/comments/mnn3k4/stitching_styles_to_a_headless_ui_using_design/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
