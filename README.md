@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Do ES modules kill the need for bundling/concatenating our JS files with bundlers e.g. webpack?](https://www.reddit.com/r/javascript/comments/mp204y/askjs_do_es_modules_kill_the_need_for/)
-- [I made this D3 heatmap to represent profiled Python code any ideas on how this heatmap could be made better and fancier?](https://www.reddit.com/r/javascript/comments/mp0410/i_made_this_d3_heatmap_to_represent_profiled/)
-- [USON, UXML, UCFG: micro formats in modern way](https://www.reddit.com/r/javascript/comments/mov2wz/uson_uxml_ucfg_micro_formats_in_modern_way/)
-- [In Console 48 we got an interview with Mark Nadal, founder of GUN, a P2P database written in Javascript! I thought /r/javascript might be interested in checking it out!](https://www.reddit.com/r/javascript/comments/mosadr/in_console_48_we_got_an_interview_with_mark_nadal/)
-- [[AskJS] Do you love or hate Typescript ? Do you use it in all your project ? if not do you code sometimes a big part of your project in vanilla ?](https://www.reddit.com/r/javascript/comments/monlkj/askjs_do_you_love_or_hate_typescript_do_you_use/)
-- [swc v1.2.52: Fast refresh, TypeScript 4.3, etc](https://www.reddit.com/r/javascript/comments/monbze/swc_v1252_fast_refresh_typescript_43_etc/)
-- [The Simplest Way to Download SVG/DOM Elements](https://www.reddit.com/r/javascript/comments/molwaw/the_simplest_way_to_download_svgdom_elements/)
-- [I just write a WYSIWYG markdown editor, inspired by Typora.](https://www.reddit.com/r/javascript/comments/moistb/i_just_write_a_wysiwyg_markdown_editor_inspired/)
-- [Frontend Security](https://www.reddit.com/r/javascript/comments/mohfff/frontend_security/)
-- [I made a password generator that can also serve as a strong id generator for an app](https://www.reddit.com/r/javascript/comments/mof4jk/i_made_a_password_generator_that_can_also_serve/)
+- [Rececss: minimalistic but highly customizable CSS utilities generator](https://www.reddit.com/r/javascript/comments/mpq9wv/rececss_minimalistic_but_highly_customizable_css/)
+- [Transpilation Free Starter Kit](https://www.reddit.com/r/javascript/comments/mpngdr/transpilation_free_starter_kit/)
+- [Local Party - a desktop app where you can create rooms and chat while watching local video files synchronized with your friends.](https://www.reddit.com/r/javascript/comments/mplos9/local_party_a_desktop_app_where_you_can_create/)
+- [Tips from someone who interviews Junior Frontend Developers](https://www.reddit.com/r/javascript/comments/mpkcv6/tips_from_someone_who_interviews_junior_frontend/)
+- [Merging arrays without duplicates a performance comparison](https://www.reddit.com/r/javascript/comments/mpjkso/merging_arrays_without_duplicates_a_performance/)
+- [Ketting 7 released: HATEOAS HTTP client for JavaScript](https://www.reddit.com/r/javascript/comments/mpilph/ketting_7_released_hateoas_http_client_for/)
+- [[AskJS] Vue versus React in 2021 - Myth vs Fact?](https://www.reddit.com/r/javascript/comments/mphbzy/askjs_vue_versus_react_in_2021_myth_vs_fact/)
+- [Use console.log() like a pro](https://www.reddit.com/r/javascript/comments/mpgx52/use_consolelog_like_a_pro/)
+- [Use console.log() like a pro](https://www.reddit.com/r/javascript/comments/mpgl44/use_consolelog_like_a_pro/)
+- [I wrote an tool to auto-internationalize any react app](https://www.reddit.com/r/javascript/comments/mpfv24/i_wrote_an_tool_to_autointernationalize_any_react/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
