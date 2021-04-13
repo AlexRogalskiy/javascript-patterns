@@ -260,6 +260,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [NativeScript 8.0 shines on Apple M1, Webpack](https://www.infoworld.com/article/3614852/nativescript-80-shines-on-apple-m1-webpack.html#tk.rss_javascript)
 - [TypeScript 4.3 supports type specification for properties](https://www.infoworld.com/article/3613942/typescript-43-supports-type-specification-for-properties.html#tk.rss_javascript)
 - [ECMAScript 2021 spec for JavaScript nears the finish line](https://www.infoworld.com/article/3613948/ecmascript-2021-spec-for-javascript-nears-the-finish-line.html#tk.rss_javascript)
 - [What is functional programming? A practical guide](https://www.infoworld.com/article/3613715/what-is-functional-programming-a-practical-guide.html#tk.rss_javascript)
@@ -269,7 +270,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 - [How to use React’s concurrent mode](https://www.infoworld.com/article/3610457/how-to-use-reacts-concurrent-mode.html#tk.rss_javascript)
 - [Out-of-this-world monitoring with InfluxDB and React](https://www.infoworld.com/article/3609389/out-of-this-world-monitoring-with-influxdb-and-react.html#tk.rss_javascript)
 - [Deno 1.8 preps for GPU-accelerated machine learning](https://www.infoworld.com/article/3610391/deno-18-preps-for-gpu-accelerated-machine-learning.html#tk.rss_javascript)
-- [How to handle component interaction in React](https://www.infoworld.com/article/3609210/how-to-handle-component-interaction-in-react.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _EmberJS posts_
