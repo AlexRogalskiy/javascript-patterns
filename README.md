@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Rececss: minimalistic but highly customizable CSS utilities generator](https://www.reddit.com/r/javascript/comments/mpq9wv/rececss_minimalistic_but_highly_customizable_css/)
-- [Transpilation Free Starter Kit](https://www.reddit.com/r/javascript/comments/mpngdr/transpilation_free_starter_kit/)
-- [Local Party - a desktop app where you can create rooms and chat while watching local video files synchronized with your friends.](https://www.reddit.com/r/javascript/comments/mplos9/local_party_a_desktop_app_where_you_can_create/)
-- [Tips from someone who interviews Junior Frontend Developers](https://www.reddit.com/r/javascript/comments/mpkcv6/tips_from_someone_who_interviews_junior_frontend/)
-- [Merging arrays without duplicates a performance comparison](https://www.reddit.com/r/javascript/comments/mpjkso/merging_arrays_without_duplicates_a_performance/)
-- [Ketting 7 released: HATEOAS HTTP client for JavaScript](https://www.reddit.com/r/javascript/comments/mpilph/ketting_7_released_hateoas_http_client_for/)
-- [[AskJS] Vue versus React in 2021 - Myth vs Fact?](https://www.reddit.com/r/javascript/comments/mphbzy/askjs_vue_versus_react_in_2021_myth_vs_fact/)
-- [Use console.log() like a pro](https://www.reddit.com/r/javascript/comments/mpgx52/use_consolelog_like_a_pro/)
-- [Use console.log() like a pro](https://www.reddit.com/r/javascript/comments/mpgl44/use_consolelog_like_a_pro/)
-- [I wrote an tool to auto-internationalize any react app](https://www.reddit.com/r/javascript/comments/mpfv24/i_wrote_an_tool_to_autointernationalize_any_react/)
+- [Vouch: A dependency review tool for NPM packages](https://www.reddit.com/r/javascript/comments/mqff8s/vouch_a_dependency_review_tool_for_npm_packages/)
+- [V8 inspector from node](https://www.reddit.com/r/javascript/comments/mqc5bl/v8_inspector_from_node/)
+- [deno 1.9 is released - with unstable fast http](https://www.reddit.com/r/javascript/comments/mqa8il/deno_19_is_released_with_unstable_fast_http/)
+- [JS classes are not “just syntactic sugar”](https://www.reddit.com/r/javascript/comments/mq9upa/js_classes_are_not_just_syntactic_sugar/)
+- [Slow and Steady: Converting Sentry’s Entire Frontend to TypeScript](https://www.reddit.com/r/javascript/comments/mq9igz/slow_and_steady_converting_sentrys_entire/)
+- [Why some developers are avoiding app store headaches by going web-only](https://www.reddit.com/r/javascript/comments/mq8d9i/why_some_developers_are_avoiding_app_store/)
+- [hapi pal v3: Birthday Edition](https://www.reddit.com/r/javascript/comments/mq7krr/hapi_pal_v3_birthday_edition/)
+- [The complete guide to working with strings in modern JavaScript](https://www.reddit.com/r/javascript/comments/mq48wd/the_complete_guide_to_working_with_strings_in/)
+- [Use Typescript mapped types to "Promisify" interfaces](https://www.reddit.com/r/javascript/comments/mq1bno/use_typescript_mapped_types_to_promisify/)
+- [natto.dev - a spatial canvas/playground for JavaScript](https://www.reddit.com/r/javascript/comments/mq14ex/nattodev_a_spatial_canvasplayground_for_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
