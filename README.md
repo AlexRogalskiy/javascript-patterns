@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Vouch: A dependency review tool for NPM packages](https://www.reddit.com/r/javascript/comments/mqff8s/vouch_a_dependency_review_tool_for_npm_packages/)
-- [V8 inspector from node](https://www.reddit.com/r/javascript/comments/mqc5bl/v8_inspector_from_node/)
-- [deno 1.9 is released - with unstable fast http](https://www.reddit.com/r/javascript/comments/mqa8il/deno_19_is_released_with_unstable_fast_http/)
-- [JS classes are not “just syntactic sugar”](https://www.reddit.com/r/javascript/comments/mq9upa/js_classes_are_not_just_syntactic_sugar/)
-- [Slow and Steady: Converting Sentry’s Entire Frontend to TypeScript](https://www.reddit.com/r/javascript/comments/mq9igz/slow_and_steady_converting_sentrys_entire/)
-- [Why some developers are avoiding app store headaches by going web-only](https://www.reddit.com/r/javascript/comments/mq8d9i/why_some_developers_are_avoiding_app_store/)
-- [hapi pal v3: Birthday Edition](https://www.reddit.com/r/javascript/comments/mq7krr/hapi_pal_v3_birthday_edition/)
-- [The complete guide to working with strings in modern JavaScript](https://www.reddit.com/r/javascript/comments/mq48wd/the_complete_guide_to_working_with_strings_in/)
-- [Use Typescript mapped types to "Promisify" interfaces](https://www.reddit.com/r/javascript/comments/mq1bno/use_typescript_mapped_types_to_promisify/)
-- [natto.dev - a spatial canvas/playground for JavaScript](https://www.reddit.com/r/javascript/comments/mq14ex/nattodev_a_spatial_canvasplayground_for_javascript/)
+- [[AskJS] Tracking dependencies for a function saved as text](https://www.reddit.com/r/javascript/comments/mr3cm2/askjs_tracking_dependencies_for_a_function_saved/)
+- [Enso 2.0 is out! Visual programming in JavaScript, Python, Java, and R. Written in Rust, running on GraalVM and WebGL.](https://www.reddit.com/r/javascript/comments/mr06jp/enso_20_is_out_visual_programming_in_javascript/)
+- [WhatsApp Clone Progressive Web App](https://www.reddit.com/r/javascript/comments/mqyvzg/whatsapp_clone_progressive_web_app/)
+- [Private brand checks a.k.a. `#foo in obj`](https://www.reddit.com/r/javascript/comments/mqvuwz/private_brand_checks_aka_foo_in_obj/)
+- [[AskJS] Where can I buy Javascript T-Shirts?](https://www.reddit.com/r/javascript/comments/mqvkv8/askjs_where_can_i_buy_javascript_tshirts/)
+- [[AskJS] What's the terminology for the pattern of purposely not executing anything inside a js file (module)?](https://www.reddit.com/r/javascript/comments/mqt4k8/askjs_whats_the_terminology_for_the_pattern_of/)
+- [How to make optimized tree shakeable libraries to improve your app's performance](https://www.reddit.com/r/javascript/comments/mqsju1/how_to_make_optimized_tree_shakeable_libraries_to/)
+- [wavesurfer.js - waveforms on the web. A simple Javascript/CSS solution for a drop-in replacement of the standard audio tag for more stylized audio playback](https://www.reddit.com/r/javascript/comments/mqqwq1/wavesurferjs_waveforms_on_the_web_a_simple/)
+- [State Management Libraries Report Q1 2021](https://www.reddit.com/r/javascript/comments/mqpg86/state_management_libraries_report_q1_2021/)
+- [Mastering Postgres transactions in Node.js](https://www.reddit.com/r/javascript/comments/mqouqj/mastering_postgres_transactions_in_nodejs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
