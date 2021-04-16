@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL).](https://www.reddit.com/r/javascript/comments/mrjuah/javascript_sql_database_for_browser_and_nodejs/)
+- [Storybook addons for CSS](https://www.reddit.com/r/javascript/comments/mri1ws/storybook_addons_for_css/)
+- [How to create your own language that compile to JavaScript](https://www.reddit.com/r/javascript/comments/mrcml6/how_to_create_your_own_language_that_compile_to/)
+- [Some time ago I wrote an article about microfrontends, but put it behind Medium paywall by accident - now it's free to read.](https://www.reddit.com/r/javascript/comments/mrcl2e/some_time_ago_i_wrote_an_article_about/)
+- [New JavaScript Exploit Can Now Carry Out DDR4 Rowhammer Attacks](https://www.reddit.com/r/javascript/comments/mr8o2q/new_javascript_exploit_can_now_carry_out_ddr4/)
 - [[AskJS] Tracking dependencies for a function saved as text](https://www.reddit.com/r/javascript/comments/mr3cm2/askjs_tracking_dependencies_for_a_function_saved/)
 - [Enso 2.0 is out! Visual programming in JavaScript, Python, Java, and R. Written in Rust, running on GraalVM and WebGL.](https://www.reddit.com/r/javascript/comments/mr06jp/enso_20_is_out_visual_programming_in_javascript/)
 - [WhatsApp Clone Progressive Web App](https://www.reddit.com/r/javascript/comments/mqyvzg/whatsapp_clone_progressive_web_app/)
 - [Private brand checks a.k.a. `#foo in obj`](https://www.reddit.com/r/javascript/comments/mqvuwz/private_brand_checks_aka_foo_in_obj/)
-- [[AskJS] Where can I buy Javascript T-Shirts?](https://www.reddit.com/r/javascript/comments/mqvkv8/askjs_where_can_i_buy_javascript_tshirts/)
 - [[AskJS] What's the terminology for the pattern of purposely not executing anything inside a js file (module)?](https://www.reddit.com/r/javascript/comments/mqt4k8/askjs_whats_the_terminology_for_the_pattern_of/)
-- [How to make optimized tree shakeable libraries to improve your app's performance](https://www.reddit.com/r/javascript/comments/mqsju1/how_to_make_optimized_tree_shakeable_libraries_to/)
-- [wavesurfer.js - waveforms on the web. A simple Javascript/CSS solution for a drop-in replacement of the standard audio tag for more stylized audio playback](https://www.reddit.com/r/javascript/comments/mqqwq1/wavesurferjs_waveforms_on_the_web_a_simple/)
-- [State Management Libraries Report Q1 2021](https://www.reddit.com/r/javascript/comments/mqpg86/state_management_libraries_report_q1_2021/)
-- [Mastering Postgres transactions in Node.js](https://www.reddit.com/r/javascript/comments/mqouqj/mastering_postgres_transactions_in_nodejs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
