@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL).](https://www.reddit.com/r/javascript/comments/mrjuah/javascript_sql_database_for_browser_and_nodejs/)
-- [Storybook addons for CSS](https://www.reddit.com/r/javascript/comments/mri1ws/storybook_addons_for_css/)
-- [How to create your own language that compile to JavaScript](https://www.reddit.com/r/javascript/comments/mrcml6/how_to_create_your_own_language_that_compile_to/)
-- [Some time ago I wrote an article about microfrontends, but put it behind Medium paywall by accident - now it's free to read.](https://www.reddit.com/r/javascript/comments/mrcl2e/some_time_ago_i_wrote_an_article_about/)
-- [New JavaScript Exploit Can Now Carry Out DDR4 Rowhammer Attacks](https://www.reddit.com/r/javascript/comments/mr8o2q/new_javascript_exploit_can_now_carry_out_ddr4/)
-- [[AskJS] Tracking dependencies for a function saved as text](https://www.reddit.com/r/javascript/comments/mr3cm2/askjs_tracking_dependencies_for_a_function_saved/)
-- [Enso 2.0 is out! Visual programming in JavaScript, Python, Java, and R. Written in Rust, running on GraalVM and WebGL.](https://www.reddit.com/r/javascript/comments/mr06jp/enso_20_is_out_visual_programming_in_javascript/)
-- [WhatsApp Clone Progressive Web App](https://www.reddit.com/r/javascript/comments/mqyvzg/whatsapp_clone_progressive_web_app/)
-- [Private brand checks a.k.a. `#foo in obj`](https://www.reddit.com/r/javascript/comments/mqvuwz/private_brand_checks_aka_foo_in_obj/)
-- [[AskJS] What's the terminology for the pattern of purposely not executing anything inside a js file (module)?](https://www.reddit.com/r/javascript/comments/mqt4k8/askjs_whats_the_terminology_for_the_pattern_of/)
+- [[AskJS] JavaScript code sandbox](https://www.reddit.com/r/javascript/comments/msgbz8/askjs_javascript_code_sandbox/)
+- [[AskJS] Question about convention and efficiency](https://www.reddit.com/r/javascript/comments/msfw6x/askjs_question_about_convention_and_efficiency/)
+- [I rewrote my blog with Tailwind Css, thoughts?](https://www.reddit.com/r/javascript/comments/mse65b/i_rewrote_my_blog_with_tailwind_css_thoughts/)
+- [QUIC and HTTP/3 Support now in Firefox Nightly and Beta](https://www.reddit.com/r/javascript/comments/msbjsz/quic_and_http3_support_now_in_firefox_nightly_and/)
+- [Helpful content when memorizing English words](https://www.reddit.com/r/javascript/comments/msbhyh/helpful_content_when_memorizing_english_words/)
+- [Why you should not use Webpack](https://www.reddit.com/r/javascript/comments/msajkm/why_you_should_not_use_webpack/)
+- [Content-aware image resizing in JavaScript](https://www.reddit.com/r/javascript/comments/ms699d/contentaware_image_resizing_in_javascript/)
+- [Introducing kairo.js - Reactive programming refined in three primitives, with frameworks integrations to write reactive webapp in one mental model](https://www.reddit.com/r/javascript/comments/ms4co9/introducing_kairojs_reactive_programming_refined/)
+- [The shortest way to conditionally insert properties into an object literal](https://www.reddit.com/r/javascript/comments/mrzrty/the_shortest_way_to_conditionally_insert/)
+- [Typestates Would Have Saved the Roman Republic](https://www.reddit.com/r/javascript/comments/mrziz3/typestates_would_have_saved_the_roman_republic/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
