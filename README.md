@@ -386,10 +386,10 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _JavaScript Weekly posts_
 
 <!-- JAVASCRIPTWEEKLY-POST-LIST:START -->
+- [All about the tools](https://javascriptweekly.com/issues/534)
 - [The healing power of JavaScript](https://javascriptweekly.com/issues/533)
 - [Deno gets (even more) serious](https://javascriptweekly.com/issues/532)
 - [SvelteKit now in beta](https://javascriptweekly.com/issues/531)
-- [Comparing Svelte and React](https://javascriptweekly.com/issues/530)
 <!-- JAVASCRIPTWEEKLY-POST-LIST:END -->
 
 ### _Writing JavaScript posts_
