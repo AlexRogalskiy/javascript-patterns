@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] JavaScript code sandbox](https://www.reddit.com/r/javascript/comments/msgbz8/askjs_javascript_code_sandbox/)
-- [[AskJS] Question about convention and efficiency](https://www.reddit.com/r/javascript/comments/msfw6x/askjs_question_about_convention_and_efficiency/)
-- [I rewrote my blog with Tailwind Css, thoughts?](https://www.reddit.com/r/javascript/comments/mse65b/i_rewrote_my_blog_with_tailwind_css_thoughts/)
-- [QUIC and HTTP/3 Support now in Firefox Nightly and Beta](https://www.reddit.com/r/javascript/comments/msbjsz/quic_and_http3_support_now_in_firefox_nightly_and/)
-- [Helpful content when memorizing English words](https://www.reddit.com/r/javascript/comments/msbhyh/helpful_content_when_memorizing_english_words/)
-- [Why you should not use Webpack](https://www.reddit.com/r/javascript/comments/msajkm/why_you_should_not_use_webpack/)
-- [Content-aware image resizing in JavaScript](https://www.reddit.com/r/javascript/comments/ms699d/contentaware_image_resizing_in_javascript/)
-- [Introducing kairo.js - Reactive programming refined in three primitives, with frameworks integrations to write reactive webapp in one mental model](https://www.reddit.com/r/javascript/comments/ms4co9/introducing_kairojs_reactive_programming_refined/)
-- [The shortest way to conditionally insert properties into an object literal](https://www.reddit.com/r/javascript/comments/mrzrty/the_shortest_way_to_conditionally_insert/)
-- [Typestates Would Have Saved the Roman Republic](https://www.reddit.com/r/javascript/comments/mrziz3/typestates_would_have_saved_the_roman_republic/)
+- [An open-source NodeJS solution to keep Github and Jira issues in sync](https://www.reddit.com/r/javascript/comments/msxzo7/an_opensource_nodejs_solution_to_keep_github_and/)
+- [Page fade-in animation with CSS](https://www.reddit.com/r/javascript/comments/msxz97/page_fadein_animation_with_css/)
+- [React hooks and why should they get you “hooked” ?](https://www.reddit.com/r/javascript/comments/mswfaj/react_hooks_and_why_should_they_get_you_hooked/)
+- [JavaScript library to efficiently mutate data without changing the original source](https://www.reddit.com/r/javascript/comments/msvpcp/javascript_library_to_efficiently_mutate_data/)
+- [Detecting browser support for lazyload on images and iframes](https://www.reddit.com/r/javascript/comments/msv5cx/detecting_browser_support_for_lazyload_on_images/)
+- [Swagger-stats is on the path to 1.0 release!](https://www.reddit.com/r/javascript/comments/msuzmq/swaggerstats_is_on_the_path_to_10_release/)
+- [I made a graphical JavaScript coding platform for kids and code newbies. The coding playground exposes a code editor and a canvas based area for output. The runtime is based on p5.js and p5.play. Please let me know your feedback if you get the chance to check it.](https://www.reddit.com/r/javascript/comments/msud68/i_made_a_graphical_javascript_coding_platform_for/)
+- [Performance trace recipes with Puppeteer](https://www.reddit.com/r/javascript/comments/mspyhc/performance_trace_recipes_with_puppeteer/)
+- [My first attempt at micro-SaaS; suggestions and feedback please.](https://www.reddit.com/r/javascript/comments/mspc84/my_first_attempt_at_microsaas_suggestions_and/)
+- [A simple file viewer app made with Neutralinojs (as a demo of Neutralinojs)](https://www.reddit.com/r/javascript/comments/msokck/a_simple_file_viewer_app_made_with_neutralinojs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
