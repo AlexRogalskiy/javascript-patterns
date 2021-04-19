@@ -245,16 +245,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [An open-source NodeJS solution to keep Github and Jira issues in sync](https://www.reddit.com/r/javascript/comments/msxzo7/an_opensource_nodejs_solution_to_keep_github_and/)
-- [Page fade-in animation with CSS](https://www.reddit.com/r/javascript/comments/msxz97/page_fadein_animation_with_css/)
-- [React hooks and why should they get you “hooked” ?](https://www.reddit.com/r/javascript/comments/mswfaj/react_hooks_and_why_should_they_get_you_hooked/)
-- [JavaScript library to efficiently mutate data without changing the original source](https://www.reddit.com/r/javascript/comments/msvpcp/javascript_library_to_efficiently_mutate_data/)
-- [Detecting browser support for lazyload on images and iframes](https://www.reddit.com/r/javascript/comments/msv5cx/detecting_browser_support_for_lazyload_on_images/)
-- [Swagger-stats is on the path to 1.0 release!](https://www.reddit.com/r/javascript/comments/msuzmq/swaggerstats_is_on_the_path_to_10_release/)
-- [I made a graphical JavaScript coding platform for kids and code newbies. The coding playground exposes a code editor and a canvas based area for output. The runtime is based on p5.js and p5.play. Please let me know your feedback if you get the chance to check it.](https://www.reddit.com/r/javascript/comments/msud68/i_made_a_graphical_javascript_coding_platform_for/)
-- [Performance trace recipes with Puppeteer](https://www.reddit.com/r/javascript/comments/mspyhc/performance_trace_recipes_with_puppeteer/)
-- [My first attempt at micro-SaaS; suggestions and feedback please.](https://www.reddit.com/r/javascript/comments/mspc84/my_first_attempt_at_microsaas_suggestions_and/)
-- [A simple file viewer app made with Neutralinojs (as a demo of Neutralinojs)](https://www.reddit.com/r/javascript/comments/msokck/a_simple_file_viewer_app_made_with_neutralinojs/)
+- [WinBox is a new professional window manager for the web. Lightweight, outstanding performance, no dependencies, fully customizable, free and open source!](https://www.reddit.com/r/javascript/comments/mtmd8t/winbox_is_a_new_professional_window_manager_for/)
+- [Calendso - The open-source Calendly alternative written in Typescript](https://www.reddit.com/r/javascript/comments/mtl42r/calendso_the_opensource_calendly_alternative/)
+- [Dynamic Dimension React Container with Resize Observer](https://www.reddit.com/r/javascript/comments/mtkdj0/dynamic_dimension_react_container_with_resize/)
+- [The Fastest JavaScript Frameworks](https://www.reddit.com/r/javascript/comments/mth4ss/the_fastest_javascript_frameworks/)
+- [[AskJS] Need help with a code challenge about Promises](https://www.reddit.com/r/javascript/comments/mtgkvr/askjs_need_help_with_a_code_challenge_about/)
+- [Anime.js Staggering Effect - JSitor](https://www.reddit.com/r/javascript/comments/mtgaix/animejs_staggering_effect_jsitor/)
+- [To master JS events and DOM manipulation, I wrote a mobile-friendly detail-oriented Carousel component with support for touch, mouse dragging, lazy loading, thumbnails and RTL using React.](https://www.reddit.com/r/javascript/comments/mtdrtq/to_master_js_events_and_dom_manipulation_i_wrote/)
+- [Tilt.js - Lightweight parallax hover tilt effect](https://www.reddit.com/r/javascript/comments/mtd8pn/tiltjs_lightweight_parallax_hover_tilt_effect/)
+- [I turned a ThreeJS example into a game!](https://www.reddit.com/r/javascript/comments/mt8jqc/i_turned_a_threejs_example_into_a_game/)
+- [Lazy Loading with React & Intersection Observer API.](https://www.reddit.com/r/javascript/comments/mt7xiv/lazy_loading_with_react_intersection_observer_api/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
