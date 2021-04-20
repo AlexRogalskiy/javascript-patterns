@@ -247,16 +247,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [WinBox is a new professional window manager for the web. Lightweight, outstanding performance, no dependencies, fully customizable, free and open source!](https://www.reddit.com/r/javascript/comments/mtmd8t/winbox_is_a_new_professional_window_manager_for/)
-- [Calendso - The open-source Calendly alternative written in Typescript](https://www.reddit.com/r/javascript/comments/mtl42r/calendso_the_opensource_calendly_alternative/)
-- [Dynamic Dimension React Container with Resize Observer](https://www.reddit.com/r/javascript/comments/mtkdj0/dynamic_dimension_react_container_with_resize/)
-- [The Fastest JavaScript Frameworks](https://www.reddit.com/r/javascript/comments/mth4ss/the_fastest_javascript_frameworks/)
-- [[AskJS] Need help with a code challenge about Promises](https://www.reddit.com/r/javascript/comments/mtgkvr/askjs_need_help_with_a_code_challenge_about/)
-- [Anime.js Staggering Effect - JSitor](https://www.reddit.com/r/javascript/comments/mtgaix/animejs_staggering_effect_jsitor/)
-- [To master JS events and DOM manipulation, I wrote a mobile-friendly detail-oriented Carousel component with support for touch, mouse dragging, lazy loading, thumbnails and RTL using React.](https://www.reddit.com/r/javascript/comments/mtdrtq/to_master_js_events_and_dom_manipulation_i_wrote/)
-- [Tilt.js - Lightweight parallax hover tilt effect](https://www.reddit.com/r/javascript/comments/mtd8pn/tiltjs_lightweight_parallax_hover_tilt_effect/)
-- [I turned a ThreeJS example into a game!](https://www.reddit.com/r/javascript/comments/mt8jqc/i_turned_a_threejs_example_into_a_game/)
-- [Lazy Loading with React & Intersection Observer API.](https://www.reddit.com/r/javascript/comments/mt7xiv/lazy_loading_with_react_intersection_observer_api/)
+- [Page Transition Effect in NextJS](https://www.reddit.com/r/javascript/comments/mufbj2/page_transition_effect_in_nextjs/)
+- [[AskJS] Stripping HTML elements, then counting characters](https://www.reddit.com/r/javascript/comments/mucnba/askjs_stripping_html_elements_then_counting/)
+- [node-beanstalk - the most comprehensive beanstalk client for nodejs](https://www.reddit.com/r/javascript/comments/mucmos/nodebeanstalk_the_most_comprehensive_beanstalk/)
+- [My experiences going from CSS-in-JS to Tailwind CSS](https://www.reddit.com/r/javascript/comments/mubtaw/my_experiences_going_from_cssinjs_to_tailwind_css/)
+- [Class fields and private class members are now stage 4, ready for ES2022](https://www.reddit.com/r/javascript/comments/mual4x/class_fields_and_private_class_members_are_now/)
+- [Never too late for Firefox 88](https://www.reddit.com/r/javascript/comments/mu96jl/never_too_late_for_firefox_88/)
+- [I Wrote an Open Source Analytics Platform in full Javascript in less than 30 Days.](https://www.reddit.com/r/javascript/comments/mu7vvw/i_wrote_an_open_source_analytics_platform_in_full/)
+- [Starboard Observable: an open source ObservableHQ notebook environment](https://www.reddit.com/r/javascript/comments/mu5x2c/starboard_observable_an_open_source_observablehq/)
+- [Changelog: swc v1.2.54](https://www.reddit.com/r/javascript/comments/mu4nn0/changelog_swc_v1254/)
+- [[AskJS] Heat Map on Google Charts](https://www.reddit.com/r/javascript/comments/mu3g6p/askjs_heat_map_on_google_charts/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
