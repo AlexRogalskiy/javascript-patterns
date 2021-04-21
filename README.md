@@ -247,16 +247,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Page Transition Effect in NextJS](https://www.reddit.com/r/javascript/comments/mufbj2/page_transition_effect_in_nextjs/)
-- [[AskJS] Stripping HTML elements, then counting characters](https://www.reddit.com/r/javascript/comments/mucnba/askjs_stripping_html_elements_then_counting/)
-- [node-beanstalk - the most comprehensive beanstalk client for nodejs](https://www.reddit.com/r/javascript/comments/mucmos/nodebeanstalk_the_most_comprehensive_beanstalk/)
-- [My experiences going from CSS-in-JS to Tailwind CSS](https://www.reddit.com/r/javascript/comments/mubtaw/my_experiences_going_from_cssinjs_to_tailwind_css/)
-- [Class fields and private class members are now stage 4, ready for ES2022](https://www.reddit.com/r/javascript/comments/mual4x/class_fields_and_private_class_members_are_now/)
-- [Never too late for Firefox 88](https://www.reddit.com/r/javascript/comments/mu96jl/never_too_late_for_firefox_88/)
-- [I Wrote an Open Source Analytics Platform in full Javascript in less than 30 Days.](https://www.reddit.com/r/javascript/comments/mu7vvw/i_wrote_an_open_source_analytics_platform_in_full/)
-- [Starboard Observable: an open source ObservableHQ notebook environment](https://www.reddit.com/r/javascript/comments/mu5x2c/starboard_observable_an_open_source_observablehq/)
-- [Changelog: swc v1.2.54](https://www.reddit.com/r/javascript/comments/mu4nn0/changelog_swc_v1254/)
-- [[AskJS] Heat Map on Google Charts](https://www.reddit.com/r/javascript/comments/mu3g6p/askjs_heat_map_on_google_charts/)
+- [Audiovisual Emotion Recognition in the browser - get emotion from a face in pure JS](https://www.reddit.com/r/javascript/comments/mv0cvg/audiovisual_emotion_recognition_in_the_browser/)
+- [///_hyperscript](https://www.reddit.com/r/javascript/comments/muzusb/hyperscript/)
+- [EZGesture - Small(~1KB) alternative to Hammer.js](https://www.reddit.com/r/javascript/comments/muz769/ezgesture_small1kb_alternative_to_hammerjs/)
+- [How to track client-side JavaScript errors](https://www.reddit.com/r/javascript/comments/muz5cr/how_to_track_clientside_javascript_errors/)
+- [Bundling Figma Plugin With Esbuild](https://www.reddit.com/r/javascript/comments/muxmm6/bundling_figma_plugin_with_esbuild/)
+- [[AskJS] Survey for my research paper](https://www.reddit.com/r/javascript/comments/muxeej/askjs_survey_for_my_research_paper/)
+- [Node v16.0.0 (Current)](https://www.reddit.com/r/javascript/comments/muwpr6/node_v1600_current/)
+- [How To Mock Only One Function From A Module In Jest](https://www.reddit.com/r/javascript/comments/muvvjz/how_to_mock_only_one_function_from_a_module_in/)
+- [My first legit project with node js - a cryptocurrency trading simulator](https://www.reddit.com/r/javascript/comments/muuedw/my_first_legit_project_with_node_js_a/)
+- [All you can learn about Storybook in 10 minutes](https://www.reddit.com/r/javascript/comments/muue50/all_you_can_learn_about_storybook_in_10_minutes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
