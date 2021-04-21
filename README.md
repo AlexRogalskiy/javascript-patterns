@@ -262,6 +262,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Node.js 16 introduces Apple Silicon support](https://www.infoworld.com/article/3615673/nodejs-16-introduces-apple-silicon-support.html#tk.rss_javascript)
 - [Deno 1.9 previews native HTTP/2 server](https://www.infoworld.com/article/3615288/deno-19-previews-native-http2-server.html#tk.rss_javascript)
 - [NativeScript 8.0 shines on Apple M1, Webpack](https://www.infoworld.com/article/3614852/nativescript-80-shines-on-apple-m1-webpack.html#tk.rss_javascript)
 - [TypeScript 4.3 supports type specification for properties](https://www.infoworld.com/article/3613942/typescript-43-supports-type-specification-for-properties.html#tk.rss_javascript)
@@ -271,7 +272,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 - [Angular 12 betas pile on the improvements](https://www.infoworld.com/article/3607428/angular-12-beta-preview-arrives.html#tk.rss_javascript)
 - [Is JavaScript the new Java?](https://www.infoworld.com/article/3611412/is-javascript-the-new-java.html#tk.rss_javascript)
 - [How to use React’s concurrent mode](https://www.infoworld.com/article/3610457/how-to-use-reacts-concurrent-mode.html#tk.rss_javascript)
-- [Out-of-this-world monitoring with InfluxDB and React](https://www.infoworld.com/article/3609389/out-of-this-world-monitoring-with-influxdb-and-react.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### _EmberJS posts_
