@@ -37,40 +37,44 @@
 [![ComVer](https://img.shields.io/badge/ComVer-compliant-brightgreen.svg)][repo]
 [![GitHub Super-Linter](https://github.com/alexrogalskiy/javascript-patterns/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 [![Documentation Status](https://readthedocs.org/projects/javascript-patterns/badge/?version=latest)](https://javascript-patterns.readthedocs.io/en/latest/?badge=latest)
+[![NetflixOSS Lifecycle](https://img.shields.io/osslifecycle/AlexRogalskiy/javascript-patterns.svg)]()
+[![CI](https://github.com/AlexRogalskiy/javascript-patterns/workflows/CI/badge.svg)](https://github.com/AlexRogalskiy/javascript-patterns/actions/workflows/build.yml)
 
-## 🎹 _Table of contents_
+## 🎹 *Table of contents*
 
 <!--ts-->
-   * [JavaScript Design patterns](#javascript-design-patterns)
-      * [<em>Table of contents</em>](#-table-of-contents)
-      * [<em>Summary</em>](#-summary)
-      * [<em>Documentation</em>](#-documentation)
-      * [<em>Statistics</em>](#-statistics)
-      * [<em>Versioning</em>](#-versioning)
-      * [<em>Authors</em>](#-authors)
-      * [<em>Contributing</em>](#-contributing)
-      * [<em>Visitor stats</em>](#-visitor-stats)
-      * [<em>Licensing</em>](#-licensing)
-      * [<em>Development Support</em>](#-development-support)
-      * [<em>Acknowledgement</em>](#-acknowledgement)
-      * [<em>OpenGraph Card</em>](#-opengraph-card)
-      * [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
-         * [<em>Reddit posts</em>](#reddit-posts)
-         * [<em>InfoWorld posts</em>](#infoworld-posts)
-         * [<em>EmberJS posts</em>](#emberjs-posts)
-         * [<em>YouTube code posts</em>](#youtube-code-posts)
-         * [<em>ReactJS posts</em>](#reactjs-posts)
-         * [<em>javascript programmer posts</em>](#javascript-programmer-posts)
-         * [<em>Dreamix posts</em>](#dreamix-posts)
-         * [<em>NodeSource posts</em>](#nodesource-posts)
-         * [<em>React Native posts</em>](#react-native-posts)
-         * [<em>Redhat posts</em>](#redhat-posts)
-         * [<em>JavaScript Weekly posts</em>](#javascript-weekly-posts)
-         * [<em>Writing JavaScript posts</em>](#writing-javascript-posts)
-         * [<em>JavaScript Ninja posts</em>](#javascript-ninja-posts)
+
+- [JavaScript Design patterns](#javascript-design-patterns)
+  - [<em>Table of contents</em>](#-table-of-contents)
+  - [<em>Summary</em>](#-summary)
+  - [<em>Documentation</em>](#-documentation)
+  - [<em>Statistics</em>](#-statistics)
+  - [<em>Versioning</em>](#-versioning)
+  - [<em>Authors</em>](#-authors)
+  - [<em>Contributing</em>](#-contributing)
+  - [<em>Visitor stats</em>](#-visitor-stats)
+  - [<em>Licensing</em>](#-licensing)
+  - [<em>Development Support</em>](#-development-support)
+  - [<em>Acknowledgement</em>](#-acknowledgement)
+  - [<em>OpenGraph Card</em>](#-opengraph-card)
+  - [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
+    - [<em>Reddit posts</em>](#reddit-posts)
+    - [<em>InfoWorld posts</em>](#infoworld-posts)
+    - [<em>EmberJS posts</em>](#emberjs-posts)
+    - [<em>YouTube code posts</em>](#youtube-code-posts)
+    - [<em>ReactJS posts</em>](#reactjs-posts)
+    - [<em>javascript programmer posts</em>](#javascript-programmer-posts)
+    - [<em>Dreamix posts</em>](#dreamix-posts)
+    - [<em>NodeSource posts</em>](#nodesource-posts)
+    - [<em>React Native posts</em>](#react-native-posts)
+    - [<em>Redhat posts</em>](#redhat-posts)
+    - [<em>JavaScript Weekly posts</em>](#javascript-weekly-posts)
+    - [<em>Writing JavaScript posts</em>](#writing-javascript-posts)
+    - [<em>JavaScript Ninja posts</em>](#javascript-ninja-posts)
+
 <!--te-->
 
-## ☝ _Summary_
+## ☝ *Summary*
 
 <p align="center" style="text-align:center;">
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"/>
@@ -85,7 +89,7 @@
     </a>
 </p>
 
-_**JavaScript Design Patterns**_ is intended to provide various use case scenarios and architectural concepts on prototyping adaptive applications.
+***JavaScript Design Patterns*** is intended to provide various use case scenarios and architectural concepts on prototyping adaptive applications.
 
 ```text
 mkdocs.yml    # Configuration file.
@@ -119,27 +123,27 @@ docs/
         info.md # Links page
 ```
 
-## 📝 _Documentation_
+## 📝 *Documentation*
 
 The Website documentation is provided by [gitbook](https://www.gitbook.com/) and can be discovered at url:
 
-[_**JavaScript Patterns**_][docs]
+[***JavaScript Patterns***][docs]
 
-To enable documentation serving at _**localhost**_ the following steps should be considered:
+To enable documentation serving at ***localhost*** the following steps should be considered:
 
-1\) Install/upgrade _**pip**_ command-line utility:
+1\) Install/upgrade ***pip*** command-line utility:
 
 ```text
 pip install --upgrade pip
 ```
 
-or if you need to install _**pip**_ for the first time:
+or if you need to install ***pip*** for the first time:
 
 ```text
 python get-pip.py
 ```
 
-2\) Install the _**mkdocs**_ package using pip:
+2\) Install the ***mkdocs*** package using pip:
 
 ```text
 pip install mkdocs
@@ -159,7 +163,7 @@ pip install mkdocs-material
 pip install markdown-include
 ```
 
-4\) Start the server at _**localhost**_ by running the following command:
+4\) Start the server at ***localhost*** by running the following command:
 
 ```text
 mkdocs serve --verbose --dirtyreload
@@ -173,27 +177,27 @@ mkdocs --verbose gh-deploy --force --remote-branch gh-pages
 
 5\) Open up [localhost](http://127.0.0.1:8000/) in browser to get the default documentation homepage.
 
-## ⏰ _Statistics_
+## ⏰ *Statistics*
 
 <p align="center" style="text-align:center;">
     <img alt="Documentation PageSpeed result dashboard" src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patterns/master/reports/pagespeedresultmobile.svg"/>
 </p>
 
-## 📝 _Versioning_
+## 📝 *Versioning*
 
 The project uses [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository][tags].
 
-## 🌹 _Authors_
+## 🌹 *Authors*
 
-_**JavaScript Patterns**_ is maintained by the following GitHub team-members:
+***JavaScript Patterns*** is maintained by the following GitHub team-members:
 
-* [![Author](https://img.shields.io/badge/author-AlexRogalskiy-FB8F0A)](https://github.com/AlexRogalskiy)
+- [![Author](https://img.shields.io/badge/author-AlexRogalskiy-FB8F0A)](https://github.com/AlexRogalskiy)
 
 with community support please contact with us if you have some question or proposition.
 
-## 💕 _Contributing_
+## 💕 *Contributing*
 
-[![Contributors Display](https://badges.pufler.dev/contributors/AlexRogalskiy/javascript-patterns?size=50&padding=5&bots=true)](https://badges.pufler.dev)
+[![Contributors Display](https://badges.pufler.dev/contributors/AlexRogalskiy/javascript-patterns?size=50\&padding=5\&bots=true)](https://badges.pufler.dev)
 
 Please read
 [CONTRIBUTING.md](https://github.com/AlexRogalskiy/javascript-patterns/blob/master/.github/CONTRIBUTING.md)
@@ -208,60 +212,63 @@ specification. Contributions of any kind are welcome!
 
 See also the list of [contributors][contributors] who participated in this project.
 
-## 🚨 _Visitor stats_
+## 🚨 *Visitor stats*
 
-[![GitHub page hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlexRogalskiy%2Fjavascript-patterns&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![GitHub page hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlexRogalskiy%2Fjavascript-patterns\&count_bg=%2379C83D\&title_bg=%23555555\&icon=\&icon_color=%23E7E7E7\&title=hits\&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ![GitHub stars](https://img.shields.io/github/stars/AlexRogalskiy/javascript-patterns?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/AlexRogalskiy/javascript-patterns?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/AlexRogalskiy/javascript-patterns?style=social)
 
-## ⚽ _Licensing_
+## ⚽ *Licensing*
 
-_**JavaScript Patterns**_ is distributed under LGPL version 3 or later, [[License](https://github.com/AlexRogalskiy/javascript-patterns/blob/master/LICENSE.txt)].
+***JavaScript Patterns*** is distributed under LGPL version 3 or later, \[[License](https://github.com/AlexRogalskiy/javascript-patterns/blob/master/LICENSE.txt)].
 LGPLv3 is additional permissions on top of GPLv3.
 
 ![image](https://user-images.githubusercontent.com/19885116/48661948-6cf97e80-ea7a-11e8-97e7-b45332a13e49.png)
 
-## 🌟 _Development Support_
+## 🌟 *Development Support*
 
 Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patterns/master/images/icon.png" width="20" height="20" alt="JavaScript Design patterns"/>
- and _**JavaScript Patterns**_ ? Consider buying me a coffee :\)
+and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 
-[![Become a Patron](https://img.shields.io/badge/Become_Patron-Support_me_on_Patreon-blue.svg?style=flat-square&logo=patreon&color=e64413)](https://www.patreon.com/alexrogalskiy)
+[![Become a Patron](https://img.shields.io/badge/Become_Patron-Support_me_on_Patreon-blue.svg?style=flat-square\&logo=patreon\&color=e64413)](https://www.patreon.com/alexrogalskiy)
 [![Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellow.svg?logo=buy%20me%20a%20coffee)](https://www.buymeacoffee.com/AlexRogalskiy)
 [![KoFi](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellow.svg?logo=ko-fi)](https://ko-fi.com/alexrogalskiy)
 
-## 👨‍👨‍👧‍👦 _Acknowledgement_
+## 👨‍👨‍👧‍👦 *Acknowledgement*
 
 [![Stargazers repo roster for @AlexRogalskiy/javascript-patterns](https://reporoster.com/stars/AlexRogalskiy/javascript-patterns)][stars]
 
-## 📎 _OpenGraph Card_
+## 📎 *OpenGraph Card*
 
 <p align="center" style="text-align:center;">
     <img alt="OpenGraph card" src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patterns/master/images/opengraph-card.png"/>
 </p>
 
-## 🔥 _Feeds and Podcasts_
+## 🔥 *Feeds and Podcasts*
 
-### _Reddit posts_
+### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Totally stuck with listIndexes calls. Our volunteer social project building community migrated from Mlab to Mongo DB's Atlas in Nov and all our sites died. I've tried everything i can think to get the platform back up. Can anyone help or offer advice?](https://www.reddit.com/r/javascript/comments/mvt3sf/askjs_totally_stuck_with_listindexes_calls_our/)
-- [The Suspense is Killing Me: Part 1](https://www.reddit.com/r/javascript/comments/mvqd1r/the_suspense_is_killing_me_part_1/)
+
+- [\[AskJS\] Totally stuck with listIndexes calls. Our volunteer social project building community migrated from Mlab to Mongo DB's Atlas in Nov and all our sites died. I've tried everything i can think to get the platform back up. Can anyone help or offer advice?](https://www.reddit.com/r/javascript/comments/mvt3sf/askjs_totally_stuck_with_listindexes_calls_our/)
+- [The Suspense is Killing Me: Part 1](https://www.reddit.com/r/javascript/comments/mvqd1r/the_suspense_is_killing_me_part\_1/)
 - [StronglyTyped variables in JS](https://www.reddit.com/r/javascript/comments/mvpl27/stronglytyped_variables_in_js/)
-- [[AskJS] Tell me, not knowing what kind of framework it is, do you understand what this code does?](https://www.reddit.com/r/javascript/comments/mvndvn/askjs_tell_me_not_knowing_what_kind_of_framework/)
-- [[AskJS] Is MeteorJS Dead?](https://www.reddit.com/r/javascript/comments/mvmpcx/askjs_is_meteorjs_dead/)
+- [\[AskJS\] Tell me, not knowing what kind of framework it is, do you understand what this code does?](https://www.reddit.com/r/javascript/comments/mvndvn/askjs_tell_me_not_knowing_what_kind_of_framework/)
+- [\[AskJS\] Is MeteorJS Dead?](https://www.reddit.com/r/javascript/comments/mvmpcx/askjs_is_meteorjs_dead/)
 - [Lit - New framework from Google](https://www.reddit.com/r/javascript/comments/mvk1m0/lit_new_framework_from_google/)
-- [What's New In DevTools (Chrome 91) - Chrome Developers](https://www.reddit.com/r/javascript/comments/mvjaj7/whats_new_in_devtools_chrome_91_chrome_developers/)
+- [What's New In DevTools (Chrome 91) - Chrome Developers](https://www.reddit.com/r/javascript/comments/mvjaj7/whats_new_in_devtools_chrome\_91\_chrome_developers/)
 - [I wrote a small Fetch API wrapper, comes with testing utilities](https://www.reddit.com/r/javascript/comments/mvevj1/i_wrote_a_small_fetch_api_wrapper_comes_with/)
-- [[AskJS] Do you think TCP/UDP will ever come to browser?](https://www.reddit.com/r/javascript/comments/mvedek/askjs_do_you_think_tcpudp_will_ever_come_to/)
+- [\[AskJS\] Do you think TCP/UDP will ever come to browser?](https://www.reddit.com/r/javascript/comments/mvedek/askjs_do_you_think_tcpudp_will_ever_come_to/)
 - [How to Write File-Based Tests With Real Files](https://www.reddit.com/r/javascript/comments/mvdsiw/how_to_write_filebased_tests_with_real_files/)
+
 <!-- REDDIT-POST-LIST:END -->
 
-### _InfoWorld posts_
+### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+
 - [Node.js 16 introduces Apple Silicon support](https://www.infoworld.com/article/3615673/nodejs-16-introduces-apple-silicon-support.html#tk.rss_javascript)
 - [Deno 1.9 previews native HTTP/2 server](https://www.infoworld.com/article/3615288/deno-19-previews-native-http2-server.html#tk.rss_javascript)
 - [NativeScript 8.0 shines on Apple M1, Webpack](https://www.infoworld.com/article/3614852/nativescript-80-shines-on-apple-m1-webpack.html#tk.rss_javascript)
@@ -272,11 +279,13 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 - [Angular 12 betas pile on the improvements](https://www.infoworld.com/article/3607428/angular-12-beta-preview-arrives.html#tk.rss_javascript)
 - [Is JavaScript the new Java?](https://www.infoworld.com/article/3611412/is-javascript-the-new-java.html#tk.rss_javascript)
 - [How to use React’s concurrent mode](https://www.infoworld.com/article/3610457/how-to-use-reacts-concurrent-mode.html#tk.rss_javascript)
+
 <!-- INFOWORLD-POST-LIST:END -->
 
-### _EmberJS posts_
+### *EmberJS posts*
 
 <!-- EMBERJS-POST-LIST:START -->
+
 - [Ember 3.26 Released](https://blog.emberjs.com/ember-3-26-released)
 - [The Ember Times - Issue No. 177](https://blog.emberjs.com/the-ember-times-issue-177)
 - [The Ember Times - Issue No. 176](https://blog.emberjs.com/the-ember-times-issue-176)
@@ -287,26 +296,30 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 - [How To Todo In Ember Template Lint](https://blog.emberjs.com/how-to-todo-in-ember-template-lint)
 - [The Ember Times - Issue No. 172](https://blog.emberjs.com/the-ember-times-issue-172)
 - [The Ember Times - Issue No. 171](https://blog.emberjs.com/the-ember-times-issue-171)
+
 <!-- EMBERJS-POST-LIST:END -->
 
-### _YouTube code posts_
+### *YouTube code posts*
 
 <!-- YOUTUBE-POST-LIST:START -->
+
 - [From JavaScript to React - Leonidas Esteban (Spanish language)](https://www.youtube.com/watch?v=T-lRHCPfQ1o)
 - [From beginner to expert in web performance  - Tracy Lee](https://www.youtube.com/watch?v=l1A1ImFkNvA)
 - [Accessibility, what do you eat that with? - Marjorie Figueroa (Spanish language)](https://www.youtube.com/watch?v=nOTw35C5ba4)
 - [Micro Frontends, or how to evolve to an extensible frontend - Benjamín Martínez (Spanish langauaje)](https://www.youtube.com/watch?v=qAzL3QmmtVg)
 - [React is hard but not why you may think  - Sara Vieira](https://www.youtube.com/watch?v=MmQvVkYMi8g)
 - [Starting a thread: pin the right questions - Dora Makszy](https://www.youtube.com/watch?v=gmjIcE97JC8)
-- [Why WebAssembly - Miguel Useche  [Spanish language]](https://www.youtube.com/watch?v=BoV0o_aTBCA)
-- [Hacking Web Performance - Maximiliano Firtman  [Spanish language]](https://www.youtube.com/watch?v=dyABQXGgB7Y)
-- [Async JS - Nacho Sainz [Spanish language]](https://www.youtube.com/watch?v=AwG9WfkDQrI)
+- [Why WebAssembly - Miguel Useche  \[Spanish language\]](https://www.youtube.com/watch?v=BoV0o_aTBCA)
+- [Hacking Web Performance - Maximiliano Firtman  \[Spanish language\]](https://www.youtube.com/watch?v=dyABQXGgB7Y)
+- [Async JS - Nacho Sainz \[Spanish language\]](https://www.youtube.com/watch?v=AwG9WfkDQrI)
 - [DevTools, the CSS advocate in your browse - Chen Hui Jing](https://www.youtube.com/watch?v=jMd82CaT100)
+
 <!-- YOUTUBE-POST-LIST:END -->
 
-### _ReactJS posts_
+### *ReactJS posts*
 
 <!-- REACTJS-POST-LIST:START -->
+
 - [Introducing Zero-Bundle-Size React Server Components](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html)
 - [React v17.0](https://reactjs.org/blog/2020/10/20/react-v17.html)
 - [Introducing the New JSX Transform](https://reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html)
@@ -317,11 +330,13 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 - [Introducing the New React DevTools](https://reactjs.org/blog/2019/08/15/new-react-devtools.html)
 - [React v16.9.0 and the Roadmap Update](https://reactjs.org/blog/2019/08/08/react-v16.9.0.html)
 - [Is React Translated Yet? ¡Sí! Sim! はい！](https://reactjs.org/blog/2019/02/23/is-react-translated-yet.html)
+
 <!-- REACTJS-POST-LIST:END -->
 
-### _javascript programmer posts_
+### *javascript programmer posts*
 
 <!-- METEOR-POST-LIST:START -->
+
 - [New Meteor Meetups](https://blog.meteor.com/new-meteor-meetups-b1fca07b49c3?source=rss----a9bcaf865278---4)
 - [First load optimization with Meteor](https://blog.meteor.com/first-load-optimization-with-meteor-7cd896fa217d?source=rss----a9bcaf865278---4)
 - [Scale your app with multi-core](https://blog.meteor.com/scale-your-app-with-multi-core-7fba03192ea2?source=rss----a9bcaf865278---4)
@@ -332,17 +347,21 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 - [Meteor Fibers meet Promises meet Callbacks — A practical guide](https://blog.meteor.com/meteor-fibers-meet-promises-meet-callbacks-a-practical-guide-e134db15afcb?source=rss----a9bcaf865278---4)
 - [Meteor Impact 2020 is this week!](https://blog.meteor.com/meteor-impact-2020-is-this-week-db3a1ee1e0cd?source=rss----a9bcaf865278---4)
 - [How Any.Run Became The Most Popular Malware Sandbox in the World with Meteor.js.](https://blog.meteor.com/how-any-run-became-the-most-popular-malware-sandbox-in-the-world-with-meteor-js-e7aeb5ac29e1?source=rss----a9bcaf865278---4)
+
 <!-- METEOR-POST-LIST:END -->
 
-### _Dreamix posts_
+### *Dreamix posts*
 
 <!-- DREAMIX-POST-LIST:START -->
+
 - [Hunting memory leaks in JavaScript using Chrome DevTools](https://dreamix.eu/blog/frontpage/hunting-memory-leaks-in-javascript-using-chrome-devtools)
+
 <!-- DREAMIX-POST-LIST:END -->
 
-### _NodeSource posts_
+### *NodeSource posts*
 
 <!-- NODESOURCE-POST-LIST:START -->
+
 - [Announcing N|Solid Version 4.5.3](https://nodesource.com/blog/announcing-NSolid-Version-4.5.3)
 - [Security Release for N|Solid Version 4.5.2](https://nodesource.com/blog/security-release-for-NSolid-version-4.5.2)
 - [Avoiding npm substitution attacks using NCM](https://nodesource.com/blog/avoiding-npm-substitution-attacks-using-NCM)
@@ -353,11 +372,13 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 - [Node By Numbers 2020](https://nodesource.com/blog/node-by-numbers-2020)
 - [Security Release for NSolid Version 4.4.1](https://nodesource.com/blog/security-release-for-NSolid-version-4.4.1)
 - [Need to Node – Volume 69](https://nodesource.com/blog/need-to-node-vol-69)
+
 <!-- NODESOURCE-POST-LIST:END -->
 
-### _React Native posts_
+### *React Native posts*
 
 <!-- REACTNATIVE-POST-LIST:START -->
+
 - [React Native v0.64.x released](http://www.reactnative.com/react-native-v0-64-x-released/)
 - [React Native v0.63.x released](http://www.reactnative.com/react-native-v0-63-x-released/)
 - [React Native v0.62.x released](http://www.reactnative.com/react-native-v0-62-x-released/)
@@ -368,11 +389,13 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 - [React Native v0.60.x released](http://www.reactnative.com/react-native-v0-60-x-released/)
 - [React Native v0.59.x released](http://www.reactnative.com/react-native-v0-59-x-released/)
 - [Tweet from @reactnative](http://www.reactnative.com/tweet-from-reactnative-4/)
+
 <!-- REACTNATIVE-POST-LIST:END -->
 
-### _Redhat posts_
+### *Redhat posts*
 
 <!-- REDHAT-POST-LIST:START -->
+
 - [Easily deploy Node.js applications to Red Hat OpenShift using Nodeshift](https://developers.redhat.com/blog/2019/08/30/easily-deploy-node-js-applications-to-red-hat-openshift-using-nodeshift/)
 - [The browser wars and the birth of JavaScript](https://developers.redhat.com/blog/2019/07/23/the-browser-wars-and-the-birth-of-javascript/)
 - [Use Node.js 12 on Red Hat OpenShift today](https://developers.redhat.com/blog/2019/04/29/use-node-js-12-on-red-hat-openshift-today/)
@@ -383,20 +406,24 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 - [Container-native integration testing](https://developers.redhat.com/blog/2018/08/02/container-native-integration-testing/)
 - [Announcing updated Red Hat Developer Studio and Container Development Kit](https://developers.redhat.com/blog/2018/07/18/announcing-updated-cdk-devstudio/)
 - [How to Debug Your Node.js Application on OpenShift with Chrome DevTools](https://developers.redhat.com/blog/2018/05/15/debug-your-node-js-application-on-openshift-with-chrome-devtools/)
+
 <!-- REDHAT-POST-LIST:END -->
 
-### _JavaScript Weekly posts_
+### *JavaScript Weekly posts*
 
 <!-- JAVASCRIPTWEEKLY-POST-LIST:START -->
+
 - [All about the tools](https://javascriptweekly.com/issues/534)
 - [The healing power of JavaScript](https://javascriptweekly.com/issues/533)
 - [Deno gets (even more) serious](https://javascriptweekly.com/issues/532)
 - [SvelteKit now in beta](https://javascriptweekly.com/issues/531)
+
 <!-- JAVASCRIPTWEEKLY-POST-LIST:END -->
 
-### _Writing JavaScript posts_
+### *Writing JavaScript posts*
 
 <!-- WRITINGJAVASCRIPT-POST-LIST:START -->
+
 - [What are numeric separators?](https://writingjavascript.com/what-are-numeric-separators)
 - [JavaScript array methods and how to use them](https://writingjavascript.com/javascript-array-methods-and-how-to-use-them)
 - [How to build a Web Components app with Redux!](https://writingjavascript.com/how-to-build-a-web-components-app-with-redux)
@@ -407,35 +434,44 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 - [Use more ergonomic custom events](https://writingjavascript.com/use-more-ergonomic-custom-events)
 - [10 great JavaScript tricks that will improve your productivity](https://writingjavascript.com/10-great-javascript-tricks-that-will-improve-your-productivity)
 - [Why should I start using Optional Chaining and Nullish Coalescing operators?](https://writingjavascript.com/why-should-i-start-using-optional-chaining-and-nullish-coalescing-operators)
+
 <!-- WRITINGJAVASCRIPT-POST-LIST:END -->
 
-### _JavaScript Ninja posts_
+### *JavaScript Ninja posts*
 
 <!-- JAVASCRIPTNINJA-POST-LIST:START -->
-- [The Ultimate Beginner’s Guide to GraphQL: Part 2 – Organization, Parameters, more Queries, and Mutations](https://thejavascriptninja.com/the-ultimate-beginners-guide-to-graphql-part-2-organization-parameters-more-queries-and-mutations/?utm_source=rss&utm_medium=rss&utm_campaign=the-ultimate-beginners-guide-to-graphql-part-2-organization-parameters-more-queries-and-mutations)
-- [The Ultimate Beginner’s Guide to GraphQL](https://thejavascriptninja.com/the-ultimate-beginners-guide-to-graphql/?utm_source=rss&utm_medium=rss&utm_campaign=the-ultimate-beginners-guide-to-graphql)
-- [Svelte Tutorial: The Comprehensive Guide Part 2 – Logic, Events, and Reactivity](https://thejavascriptninja.com/svelte-tutorial-the-comprehensive-guide-part-2-logic-events-and-reactivity/?utm_source=rss&utm_medium=rss&utm_campaign=svelte-tutorial-the-comprehensive-guide-part-2-logic-events-and-reactivity)
-- [Svelte Tutorial: The Comprehensive Guide](https://thejavascriptninja.com/svelte-tutorial-the-comprehensive-guide/?utm_source=rss&utm_medium=rss&utm_campaign=svelte-tutorial-the-comprehensive-guide)
-- [Making POST Requests With Node.js](https://thejavascriptninja.com/making-post-requests-with-node-js/?utm_source=rss&utm_medium=rss&utm_campaign=making-post-requests-with-node-js)
-- [String Interpolation In Javascript](https://thejavascriptninja.com/string-interpolation-in-javascript/?utm_source=rss&utm_medium=rss&utm_campaign=string-interpolation-in-javascript)
-- [Using Arrow Functions in Javascript – The Why and How](https://thejavascriptninja.com/using-arrow-functions-in-javascript-the-why-and-how/?utm_source=rss&utm_medium=rss&utm_campaign=using-arrow-functions-in-javascript-the-why-and-how)
-- [30 Best Javascript Projects For All Levels](https://thejavascriptninja.com/30-best-javascript-projects-for-all-levels/?utm_source=rss&utm_medium=rss&utm_campaign=30-best-javascript-projects-for-all-levels)
-- [Connecting a Project to GitHub from the Command Line](https://thejavascriptninja.com/connecting-a-project-to-github-from-the-command-line/?utm_source=rss&utm_medium=rss&utm_campaign=connecting-a-project-to-github-from-the-command-line)
-- [Setting Waits With setTimeout() and setInterval() in Javascript](https://thejavascriptninja.com/setting-waits-with-settimeout-and-setinterval-in-javascript/?utm_source=rss&utm_medium=rss&utm_campaign=setting-waits-with-settimeout-and-setinterval-in-javascript)
+
+- [The Ultimate Beginner’s Guide to GraphQL: Part 2 – Organization, Parameters, more Queries, and Mutations](https://thejavascriptninja.com/the-ultimate-beginners-guide-to-graphql-part-2-organization-parameters-more-queries-and-mutations/?utm_source=rss\&utm_medium=rss\&utm_campaign=the-ultimate-beginners-guide-to-graphql-part-2-organization-parameters-more-queries-and-mutations)
+- [The Ultimate Beginner’s Guide to GraphQL](https://thejavascriptninja.com/the-ultimate-beginners-guide-to-graphql/?utm_source=rss\&utm_medium=rss\&utm_campaign=the-ultimate-beginners-guide-to-graphql)
+- [Svelte Tutorial: The Comprehensive Guide Part 2 – Logic, Events, and Reactivity](https://thejavascriptninja.com/svelte-tutorial-the-comprehensive-guide-part-2-logic-events-and-reactivity/?utm_source=rss\&utm_medium=rss\&utm_campaign=svelte-tutorial-the-comprehensive-guide-part-2-logic-events-and-reactivity)
+- [Svelte Tutorial: The Comprehensive Guide](https://thejavascriptninja.com/svelte-tutorial-the-comprehensive-guide/?utm_source=rss\&utm_medium=rss\&utm_campaign=svelte-tutorial-the-comprehensive-guide)
+- [Making POST Requests With Node.js](https://thejavascriptninja.com/making-post-requests-with-node-js/?utm_source=rss\&utm_medium=rss\&utm_campaign=making-post-requests-with-node-js)
+- [String Interpolation In Javascript](https://thejavascriptninja.com/string-interpolation-in-javascript/?utm_source=rss\&utm_medium=rss\&utm_campaign=string-interpolation-in-javascript)
+- [Using Arrow Functions in Javascript – The Why and How](https://thejavascriptninja.com/using-arrow-functions-in-javascript-the-why-and-how/?utm_source=rss\&utm_medium=rss\&utm_campaign=using-arrow-functions-in-javascript-the-why-and-how)
+- [30 Best Javascript Projects For All Levels](https://thejavascriptninja.com/30-best-javascript-projects-for-all-levels/?utm_source=rss\&utm_medium=rss\&utm_campaign=30-best-javascript-projects-for-all-levels)
+- [Connecting a Project to GitHub from the Command Line](https://thejavascriptninja.com/connecting-a-project-to-github-from-the-command-line/?utm_source=rss\&utm_medium=rss\&utm_campaign=connecting-a-project-to-github-from-the-command-line)
+- [Setting Waits With setTimeout() and setInterval() in Javascript](https://thejavascriptninja.com/setting-waits-with-settimeout-and-setinterval-in-javascript/?utm_source=rss\&utm_medium=rss\&utm_campaign=setting-waits-with-settimeout-and-setinterval-in-javascript)
+
 <!-- JAVASCRIPTNINJA-POST-LIST:END -->
 
----
+***
 
-[![forthebadge](https://img.shields.io/badge/made%20with-%20markdown-C1282D.svg?logo=markdown&style=for-the-badge)](https://www.markdownguide.org/)
-[![forthebadge](https://img.shields.io/badge/powered%20by-%20gitbook-7116FB.svg?logo=gitbook&style=for-the-badge)](https://www.gitbook.com/)
-[![forthebadge](https://img.shields.io/badge/build%20with-%20%E2%9D%A4-B6FF9B.svg?logo=heart&style=for-the-badge)](https://forthebadge.com/)
+[![forthebadge](https://img.shields.io/badge/made%20with-%20markdown-C1282D.svg?logo=markdown\&style=for-the-badge)](https://www.markdownguide.org/)
+[![forthebadge](https://img.shields.io/badge/powered%20by-%20gitbook-7116FB.svg?logo=gitbook\&style=for-the-badge)](https://www.gitbook.com/)
+[![forthebadge](https://img.shields.io/badge/build%20with-%20%E2%9D%A4-B6FF9B.svg?logo=heart\&style=for-the-badge)](https://forthebadge.com/)
 
+[repo]: https://github.com/AlexRogalskiy/javascript-patterns
 
-  [repo]:           https://github.com/AlexRogalskiy/javascript-patterns
-  [tags]:           https://github.com/AlexRogalskiy/javascript-patterns/tags
-  [issues]:         https://github.com/AlexRogalskiy/javascript-patterns/issues
-  [pulls]:          https://github.com/AlexRogalskiy/javascript-patterns/pulls
-  [wiki]:           https://github.com/AlexRogalskiy/javascript-patterns/wiki
-  [stars]:          https://github.com/AlexRogalskiy/javascript-patterns/stargazers
-  [contributors]:   https://github.com/AlexRogalskiy/javascript-patterns/graphs/contributors
-  [docs]:           https://alexander-rogalsky.gitbook.io/javascript-patterns/
+[tags]: https://github.com/AlexRogalskiy/javascript-patterns/tags
+
+[issues]: https://github.com/AlexRogalskiy/javascript-patterns/issues
+
+[pulls]: https://github.com/AlexRogalskiy/javascript-patterns/pulls
+
+[wiki]: https://github.com/AlexRogalskiy/javascript-patterns/wiki
+
+[stars]: https://github.com/AlexRogalskiy/javascript-patterns/stargazers
+
+[contributors]: https://github.com/AlexRogalskiy/javascript-patterns/graphs/contributors
+
+[docs]: https://alexander-rogalsky.gitbook.io/javascript-patterns/
