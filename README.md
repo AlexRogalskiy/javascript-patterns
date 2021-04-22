@@ -247,16 +247,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/javascript-patter
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Audiovisual Emotion Recognition in the browser - get emotion from a face in pure JS](https://www.reddit.com/r/javascript/comments/mv0cvg/audiovisual_emotion_recognition_in_the_browser/)
-- [///_hyperscript](https://www.reddit.com/r/javascript/comments/muzusb/hyperscript/)
-- [EZGesture - Small(~1KB) alternative to Hammer.js](https://www.reddit.com/r/javascript/comments/muz769/ezgesture_small1kb_alternative_to_hammerjs/)
-- [How to track client-side JavaScript errors](https://www.reddit.com/r/javascript/comments/muz5cr/how_to_track_clientside_javascript_errors/)
-- [Bundling Figma Plugin With Esbuild](https://www.reddit.com/r/javascript/comments/muxmm6/bundling_figma_plugin_with_esbuild/)
-- [[AskJS] Survey for my research paper](https://www.reddit.com/r/javascript/comments/muxeej/askjs_survey_for_my_research_paper/)
-- [Node v16.0.0 (Current)](https://www.reddit.com/r/javascript/comments/muwpr6/node_v1600_current/)
-- [How To Mock Only One Function From A Module In Jest](https://www.reddit.com/r/javascript/comments/muvvjz/how_to_mock_only_one_function_from_a_module_in/)
-- [My first legit project with node js - a cryptocurrency trading simulator](https://www.reddit.com/r/javascript/comments/muuedw/my_first_legit_project_with_node_js_a/)
-- [All you can learn about Storybook in 10 minutes](https://www.reddit.com/r/javascript/comments/muue50/all_you_can_learn_about_storybook_in_10_minutes/)
+- [[AskJS] Totally stuck with listIndexes calls. Our volunteer social project building community migrated from Mlab to Mongo DB's Atlas in Nov and all our sites died. I've tried everything i can think to get the platform back up. Can anyone help or offer advice?](https://www.reddit.com/r/javascript/comments/mvt3sf/askjs_totally_stuck_with_listindexes_calls_our/)
+- [The Suspense is Killing Me: Part 1](https://www.reddit.com/r/javascript/comments/mvqd1r/the_suspense_is_killing_me_part_1/)
+- [StronglyTyped variables in JS](https://www.reddit.com/r/javascript/comments/mvpl27/stronglytyped_variables_in_js/)
+- [[AskJS] Tell me, not knowing what kind of framework it is, do you understand what this code does?](https://www.reddit.com/r/javascript/comments/mvndvn/askjs_tell_me_not_knowing_what_kind_of_framework/)
+- [[AskJS] Is MeteorJS Dead?](https://www.reddit.com/r/javascript/comments/mvmpcx/askjs_is_meteorjs_dead/)
+- [Lit - New framework from Google](https://www.reddit.com/r/javascript/comments/mvk1m0/lit_new_framework_from_google/)
+- [What's New In DevTools (Chrome 91) - Chrome Developers](https://www.reddit.com/r/javascript/comments/mvjaj7/whats_new_in_devtools_chrome_91_chrome_developers/)
+- [I wrote a small Fetch API wrapper, comes with testing utilities](https://www.reddit.com/r/javascript/comments/mvevj1/i_wrote_a_small_fetch_api_wrapper_comes_with/)
+- [[AskJS] Do you think TCP/UDP will ever come to browser?](https://www.reddit.com/r/javascript/comments/mvedek/askjs_do_you_think_tcpudp_will_ever_come_to/)
+- [How to Write File-Based Tests With Real Files](https://www.reddit.com/r/javascript/comments/mvdsiw/how_to_write_filebased_tests_with_real_files/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
