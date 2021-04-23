@@ -390,12 +390,10 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *JavaScript Weekly posts*
 
 <!-- JAVASCRIPTWEEKLY-POST-LIST:START -->
-
 - [All about the tools](https://javascriptweekly.com/issues/534)
 - [The healing power of JavaScript](https://javascriptweekly.com/issues/533)
 - [Deno gets (even more) serious](https://javascriptweekly.com/issues/532)
 - [SvelteKit now in beta](https://javascriptweekly.com/issues/531)
-
 <!-- JAVASCRIPTWEEKLY-POST-LIST:END -->
 
 ### *Writing JavaScript posts*
