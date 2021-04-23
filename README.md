@@ -309,7 +309,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *ReactJS posts*
 
 <!-- REACTJS-POST-LIST:START -->
-
 - [Introducing Zero-Bundle-Size React Server Components](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html)
 - [React v17.0](https://reactjs.org/blog/2020/10/20/react-v17.html)
 - [Introducing the New JSX Transform](https://reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html)
@@ -320,7 +319,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Introducing the New React DevTools](https://reactjs.org/blog/2019/08/15/new-react-devtools.html)
 - [React v16.9.0 and the Roadmap Update](https://reactjs.org/blog/2019/08/08/react-v16.9.0.html)
 - [Is React Translated Yet? ¡Sí! Sim! はい！](https://reactjs.org/blog/2019/02/23/is-react-translated-yet.html)
-
 <!-- REACTJS-POST-LIST:END -->
 
 ### *javascript programmer posts*
