@@ -249,18 +249,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-
-- [\[AskJS\] Totally stuck with listIndexes calls. Our volunteer social project building community migrated from Mlab to Mongo DB's Atlas in Nov and all our sites died. I've tried everything i can think to get the platform back up. Can anyone help or offer advice?](https://www.reddit.com/r/javascript/comments/mvt3sf/askjs_totally_stuck_with_listindexes_calls_our/)
-- [The Suspense is Killing Me: Part 1](https://www.reddit.com/r/javascript/comments/mvqd1r/the_suspense_is_killing_me_part\_1/)
-- [StronglyTyped variables in JS](https://www.reddit.com/r/javascript/comments/mvpl27/stronglytyped_variables_in_js/)
-- [\[AskJS\] Tell me, not knowing what kind of framework it is, do you understand what this code does?](https://www.reddit.com/r/javascript/comments/mvndvn/askjs_tell_me_not_knowing_what_kind_of_framework/)
-- [\[AskJS\] Is MeteorJS Dead?](https://www.reddit.com/r/javascript/comments/mvmpcx/askjs_is_meteorjs_dead/)
-- [Lit - New framework from Google](https://www.reddit.com/r/javascript/comments/mvk1m0/lit_new_framework_from_google/)
-- [What's New In DevTools (Chrome 91) - Chrome Developers](https://www.reddit.com/r/javascript/comments/mvjaj7/whats_new_in_devtools_chrome\_91\_chrome_developers/)
-- [I wrote a small Fetch API wrapper, comes with testing utilities](https://www.reddit.com/r/javascript/comments/mvevj1/i_wrote_a_small_fetch_api_wrapper_comes_with/)
-- [\[AskJS\] Do you think TCP/UDP will ever come to browser?](https://www.reddit.com/r/javascript/comments/mvedek/askjs_do_you_think_tcpudp_will_ever_come_to/)
-- [How to Write File-Based Tests With Real Files](https://www.reddit.com/r/javascript/comments/mvdsiw/how_to_write_filebased_tests_with_real_files/)
-
+- [[AskJS] Looking for resources for working with nested data from API calls.](https://www.reddit.com/r/javascript/comments/mwjawp/askjs_looking_for_resources_for_working_with/)
+- [3 Years of VueJS (2021)](https://www.reddit.com/r/javascript/comments/mwgebh/3_years_of_vuejs_2021/)
+- [[AskJS] What is the best way to handle data when testing with Jest?](https://www.reddit.com/r/javascript/comments/mwg078/askjs_what_is_the_best_way_to_handle_data_when/)
+- [Of Chickens and Pigs - The Dilemma of Creator Self Promotion](https://www.reddit.com/r/javascript/comments/mwbcxp/of_chickens_and_pigs_the_dilemma_of_creator_self/)
+- [Getting Hooked on Stoxy. Global State management hooks made simple](https://www.reddit.com/r/javascript/comments/mwaga5/getting_hooked_on_stoxy_global_state_management/)
+- [Pyodide Spin Out and 0.17 Release](https://www.reddit.com/r/javascript/comments/mwa1pc/pyodide_spin_out_and_017_release/)
+- [It is now possible to customize Keycloak's login pages with React](https://www.reddit.com/r/javascript/comments/mw96hj/it_is_now_possible_to_customize_keycloaks_login/)
+- [Noise in Creative Coding—using canvas and WebGL](https://www.reddit.com/r/javascript/comments/mw8teg/noise_in_creative_codingusing_canvas_and_webgl/)
+- [Voice-enabling an Angular App with Wake Words](https://www.reddit.com/r/javascript/comments/mw6v1s/voiceenabling_an_angular_app_with_wake_words/)
+- [Interview with Jory Burson, Community Director, OpenJS Foundation on Open Source Standards](https://www.reddit.com/r/javascript/comments/mw6s60/interview_with_jory_burson_community_director/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
