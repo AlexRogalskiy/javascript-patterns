@@ -132,7 +132,7 @@ The Website documentation is provided by [gitbook](https://www.gitbook.com/) and
 To enable documentation serving at ***localhost*** you can run the following script
 
 ```shell script
-./build-docs.sh
+./scripts/build-docs.sh
 ```
 
 otherwise, the next steps should be considered:
