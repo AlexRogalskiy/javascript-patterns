@@ -399,7 +399,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Writing JavaScript posts*
 
 <!-- WRITINGJAVASCRIPT-POST-LIST:START -->
-
 - [What are numeric separators?](https://writingjavascript.com/what-are-numeric-separators)
 - [JavaScript array methods and how to use them](https://writingjavascript.com/javascript-array-methods-and-how-to-use-them)
 - [How to build a Web Components app with Redux!](https://writingjavascript.com/how-to-build-a-web-components-app-with-redux)
@@ -410,7 +409,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Use more ergonomic custom events](https://writingjavascript.com/use-more-ergonomic-custom-events)
 - [10 great JavaScript tricks that will improve your productivity](https://writingjavascript.com/10-great-javascript-tricks-that-will-improve-your-productivity)
 - [Why should I start using Optional Chaining and Nullish Coalescing operators?](https://writingjavascript.com/why-should-i-start-using-optional-chaining-and-nullish-coalescing-operators)
-
 <!-- WRITINGJAVASCRIPT-POST-LIST:END -->
 
 ### *JavaScript Ninja posts*
