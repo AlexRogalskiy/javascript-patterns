@@ -256,18 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-
-- [\[AskJS\] Looking for resources for working with nested data from API calls.](https://www.reddit.com/r/javascript/comments/mwjawp/askjs_looking_for_resources_for_working_with/)
-- [3 Years of VueJS (2021)](https://www.reddit.com/r/javascript/comments/mwgebh/3\_years_of_vuejs\_2021/)
-- [\[AskJS\] What is the best way to handle data when testing with Jest?](https://www.reddit.com/r/javascript/comments/mwg078/askjs_what_is_the_best_way_to_handle_data_when/)
-- [Of Chickens and Pigs - The Dilemma of Creator Self Promotion](https://www.reddit.com/r/javascript/comments/mwbcxp/of_chickens_and_pigs_the_dilemma_of_creator_self/)
+- [$999 Worth of Ultimate Python Bookshelf by Packt for $18 (-97% OFF)](https://www.reddit.com/r/javascript/comments/mx998m/999_worth_of_ultimate_python_bookshelf_by_packt/)
+- [TIL you can name regex capture groups, e.g.: 'John Doe'.match(/^(?<first>\w+)\s+(?<last>\w+)/).groups => {first: "John", last: "Doe"}](https://www.reddit.com/r/javascript/comments/mx94wk/til_you_can_name_regex_capture_groups_eg_john/)
+- [How to use CSS flex gap in unsupported browsers](https://www.reddit.com/r/javascript/comments/mx6wyb/how_to_use_css_flex_gap_in_unsupported_browsers/)
+- [XState Machines *as* Components](https://www.reddit.com/r/javascript/comments/mx5vkt/xstate_machines_as_components/)
+- [React 17 adds support for KeyboardEvent.code property to SyntheticEvent](https://www.reddit.com/r/javascript/comments/mwx3x3/react_17_adds_support_for_keyboardeventcode/)
+- [Advanced Discord.js: Cache APIs Requests with Redis](https://www.reddit.com/r/javascript/comments/mwvz40/advanced_discordjs_cache_apis_requests_with_redis/)
+- [The webworkers driven UI framework neo.mjs version 2 release announcement](https://www.reddit.com/r/javascript/comments/mwvr0w/the_webworkers_driven_ui_framework_neomjs_version/)
+- [Complete, in-depth overview of Sync and Async Iterators and Generators](https://www.reddit.com/r/javascript/comments/mwrbyy/complete_indepth_overview_of_sync_and_async/)
+- [3 Years of VueJS (2021)](https://www.reddit.com/r/javascript/comments/mwgebh/3_years_of_vuejs_2021/)
 - [Getting Hooked on Stoxy. Global State management hooks made simple](https://www.reddit.com/r/javascript/comments/mwaga5/getting_hooked_on_stoxy_global_state_management/)
-- [Pyodide Spin Out and 0.17 Release](https://www.reddit.com/r/javascript/comments/mwa1pc/pyodide_spin_out_and\_017\_release/)
-- [It is now possible to customize Keycloak's login pages with React](https://www.reddit.com/r/javascript/comments/mw96hj/it_is_now_possible_to_customize_keycloaks_login/)
-- [Noise in Creative Coding—using canvas and WebGL](https://www.reddit.com/r/javascript/comments/mw8teg/noise_in_creative_codingusing_canvas_and_webgl/)
-- [Voice-enabling an Angular App with Wake Words](https://www.reddit.com/r/javascript/comments/mw6v1s/voiceenabling_an_angular_app_with_wake_words/)
-- [Interview with Jory Burson, Community Director, OpenJS Foundation on Open Source Standards](https://www.reddit.com/r/javascript/comments/mw6s60/interview_with_jory_burson_community_director/)
-
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
