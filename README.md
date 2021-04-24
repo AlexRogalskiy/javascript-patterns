@@ -382,7 +382,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Redhat posts*
 
 <!-- REDHAT-POST-LIST:START -->
-
 - [Easily deploy Node.js applications to Red Hat OpenShift using Nodeshift](https://developers.redhat.com/blog/2019/08/30/easily-deploy-node-js-applications-to-red-hat-openshift-using-nodeshift/)
 - [The browser wars and the birth of JavaScript](https://developers.redhat.com/blog/2019/07/23/the-browser-wars-and-the-birth-of-javascript/)
 - [Use Node.js 12 on Red Hat OpenShift today](https://developers.redhat.com/blog/2019/04/29/use-node-js-12-on-red-hat-openshift-today/)
@@ -393,7 +392,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Container-native integration testing](https://developers.redhat.com/blog/2018/08/02/container-native-integration-testing/)
 - [Announcing updated Red Hat Developer Studio and Container Development Kit](https://developers.redhat.com/blog/2018/07/18/announcing-updated-cdk-devstudio/)
 - [How to Debug Your Node.js Application on OpenShift with Chrome DevTools](https://developers.redhat.com/blog/2018/05/15/debug-your-node-js-application-on-openshift-with-chrome-devtools/)
-
 <!-- REDHAT-POST-LIST:END -->
 
 ### *JavaScript Weekly posts*
