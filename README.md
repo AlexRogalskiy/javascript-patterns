@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [$999 Worth of Ultimate Python Bookshelf by Packt for $18 (-97% OFF)](https://www.reddit.com/r/javascript/comments/mx998m/999_worth_of_ultimate_python_bookshelf_by_packt/)
-- [TIL you can name regex capture groups, e.g.: 'John Doe'.match(/^(?<first>\w+)\s+(?<last>\w+)/).groups => {first: "John", last: "Doe"}](https://www.reddit.com/r/javascript/comments/mx94wk/til_you_can_name_regex_capture_groups_eg_john/)
-- [How to use CSS flex gap in unsupported browsers](https://www.reddit.com/r/javascript/comments/mx6wyb/how_to_use_css_flex_gap_in_unsupported_browsers/)
-- [XState Machines *as* Components](https://www.reddit.com/r/javascript/comments/mx5vkt/xstate_machines_as_components/)
-- [React 17 adds support for KeyboardEvent.code property to SyntheticEvent](https://www.reddit.com/r/javascript/comments/mwx3x3/react_17_adds_support_for_keyboardeventcode/)
-- [Advanced Discord.js: Cache APIs Requests with Redis](https://www.reddit.com/r/javascript/comments/mwvz40/advanced_discordjs_cache_apis_requests_with_redis/)
-- [The webworkers driven UI framework neo.mjs version 2 release announcement](https://www.reddit.com/r/javascript/comments/mwvr0w/the_webworkers_driven_ui_framework_neomjs_version/)
-- [Complete, in-depth overview of Sync and Async Iterators and Generators](https://www.reddit.com/r/javascript/comments/mwrbyy/complete_indepth_overview_of_sync_and_async/)
-- [3 Years of VueJS (2021)](https://www.reddit.com/r/javascript/comments/mwgebh/3_years_of_vuejs_2021/)
-- [Getting Hooked on Stoxy. Global State management hooks made simple](https://www.reddit.com/r/javascript/comments/mwaga5/getting_hooked_on_stoxy_global_state_management/)
+- [fast-path-set: 3x faster drop-in replacement for lodash.set](https://www.reddit.com/r/javascript/comments/mxvk0b/fastpathset_3x_faster_dropin_replacement_for/)
+- [Eva.js - A front-end game engine specifically for creating interactive game projects.](https://www.reddit.com/r/javascript/comments/mxq9ai/evajs_a_frontend_game_engine_specifically_for/)
+- [LeetCode Palindrome Number](https://www.reddit.com/r/javascript/comments/mxpc54/leetcode_palindrome_number/)
+- [I made an open-source mind-map application](https://www.reddit.com/r/javascript/comments/mxp1ds/i_made_an_opensource_mindmap_application/)
+- [Me & my buddy spent the past week building Aspire.app! Super basic idea: a lightning fast way for developers to spin up a beautiful homepage and showcase themselves. We'd really appreciate feedback & advice from the community! :) Built with pizza & javascript!](https://www.reddit.com/r/javascript/comments/mxoxs8/me_my_buddy_spent_the_past_week_building/)
+- [logzone : a package to print pretty log messages. you can use predefined or customize your own!](https://www.reddit.com/r/javascript/comments/mxnth7/logzone_a_package_to_print_pretty_log_messages/)
+- [I have made an open source npm package wrapped around Twitter Standard Search API named TWI-JS.](https://www.reddit.com/r/javascript/comments/mxnc9h/i_have_made_an_open_source_npm_package_wrapped/)
+- [3 use cases for ES6 generators](https://www.reddit.com/r/javascript/comments/mxn51j/3_use_cases_for_es6_generators/)
+- [I made a Free Drag and Drop Dashboard Builder](https://www.reddit.com/r/javascript/comments/mxk88x/i_made_a_free_drag_and_drop_dashboard_builder/)
+- [How to Send Notifications in Chrome Extensions](https://www.reddit.com/r/javascript/comments/mxjgs4/how_to_send_notifications_in_chrome_extensions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
