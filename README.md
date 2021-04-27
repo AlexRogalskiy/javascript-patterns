@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] How would I do background queue processing like Laravel+Supervisor?](https://www.reddit.com/r/javascript/comments/mymios/askjs_how_would_i_do_background_queue_processing/)
-- [[AskJS] The shortcomings of legacy code deployed in modern solutions. (submit your own)](https://www.reddit.com/r/javascript/comments/myg6t1/askjs_the_shortcomings_of_legacy_code_deployed_in/)
-- [We got an interview with the developer of Replit’s Kaboom game dev framework this week! We talked about learning to code, how the idea for Kaboom came about, and what he’s has been listening to lately. I thought /r/javascript might be interested in checking it out!](https://www.reddit.com/r/javascript/comments/myav3k/we_got_an_interview_with_the_developer_of_replits/)
-- [Interactive Maps using Leaflet](https://www.reddit.com/r/javascript/comments/my1ogs/interactive_maps_using_leaflet/)
-- [fast-path-set: 3x faster drop-in replacement for lodash.set](https://www.reddit.com/r/javascript/comments/mxvk0b/fastpathset_3x_faster_dropin_replacement_for/)
-- [Eva.js - A front-end game engine specifically for creating interactive game projects.](https://www.reddit.com/r/javascript/comments/mxq9ai/evajs_a_frontend_game_engine_specifically_for/)
-- [LeetCode Palindrome Number](https://www.reddit.com/r/javascript/comments/mxpc54/leetcode_palindrome_number/)
-- [logzone : a package to print pretty log messages. you can use predefined or customize your own!](https://www.reddit.com/r/javascript/comments/mxnth7/logzone_a_package_to_print_pretty_log_messages/)
-- [I have made an open source npm package wrapped around Twitter Standard Search API named TWI-JS.](https://www.reddit.com/r/javascript/comments/mxnc9h/i_have_made_an_open_source_npm_package_wrapped/)
-- [3 use cases for ES6 generators](https://www.reddit.com/r/javascript/comments/mxn51j/3_use_cases_for_es6_generators/)
+- [Data types in JavaScript](https://www.reddit.com/r/javascript/comments/mzd8e6/data_types_in_javascript/)
+- [[AskJS] Electron JS: How do I create a folder for the user during the installation process (like dropbox)?](https://www.reddit.com/r/javascript/comments/mzcs7a/askjs_electron_js_how_do_i_create_a_folder_for/)
+- [Someone had a vague request for help building a thing. I honestly have no idea what the use case is… or you know, why. But, it seemed like a fun challenge, so this is what I came up with. You can adjust the shape size/density by adjusting the data-attributes on the <option> elements](https://www.reddit.com/r/javascript/comments/mzckud/someone_had_a_vague_request_for_help_building_a/)
+- [Infinite Scroll with React Hook](https://www.reddit.com/r/javascript/comments/mzbus1/infinite_scroll_with_react_hook/)
+- [Promisified node builtins](https://www.reddit.com/r/javascript/comments/mz77x3/promisified_node_builtins/)
+- [WebRTC Demystified: How to add audio/video call capabilities to your JS app](https://www.reddit.com/r/javascript/comments/mz2bl8/webrtc_demystified_how_to_add_audiovideo_call/)
+- [I made a 3d boids implementation](https://www.reddit.com/r/javascript/comments/myy0k1/i_made_a_3d_boids_implementation/)
+- [SWR: React Hooks for Data Fetching Vercel is the BEST!](https://www.reddit.com/r/javascript/comments/myvluv/swr_react_hooks_for_data_fetching_vercel_is_the/)
+- [[AskJS] Have I found a bug in the current Intl.DateTimeFormat implementation?](https://www.reddit.com/r/javascript/comments/myvdki/askjs_have_i_found_a_bug_in_the_current/)
+- [Is it prime? my React.js game](https://www.reddit.com/r/javascript/comments/myulqc/is_it_prime_my_reactjs_game/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
