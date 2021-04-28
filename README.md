@@ -256,18 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-
-- [Data types in JavaScript](https://www.reddit.com/r/javascript/comments/mzd8e6/data_types_in_javascript/)
-- [\[AskJS\] Electron JS: How do I create a folder for the user during the installation process (like dropbox)?](https://www.reddit.com/r/javascript/comments/mzcs7a/askjs_electron_js_how_do_i_create_a_folder_for/)
-- [Someone had a vague request for help building a thing. I honestly have no idea what the use case is… or you know, why. But, it seemed like a fun challenge, so this is what I came up with. You can adjust the shape size/density by adjusting the data-attributes on the <option> elements](https://www.reddit.com/r/javascript/comments/mzckud/someone_had_a_vague_request_for_help_building_a/)
-- [Infinite Scroll with React Hook](https://www.reddit.com/r/javascript/comments/mzbus1/infinite_scroll_with_react_hook/)
-- [Promisified node builtins](https://www.reddit.com/r/javascript/comments/mz77x3/promisified_node_builtins/)
-- [WebRTC Demystified: How to add audio/video call capabilities to your JS app](https://www.reddit.com/r/javascript/comments/mz2bl8/webrtc_demystified_how_to_add_audiovideo_call/)
-- [I made a 3d boids implementation](https://www.reddit.com/r/javascript/comments/myy0k1/i_made_a\_3d_boids_implementation/)
-- [SWR: React Hooks for Data Fetching Vercel is the BEST!](https://www.reddit.com/r/javascript/comments/myvluv/swr_react_hooks_for_data_fetching_vercel_is_the/)
-- [\[AskJS\] Have I found a bug in the current Intl.DateTimeFormat implementation?](https://www.reddit.com/r/javascript/comments/myvdki/askjs_have_i_found_a_bug_in_the_current/)
-- [Is it prime? my React.js game](https://www.reddit.com/r/javascript/comments/myulqc/is_it_prime_my_reactjs_game/)
-
+- [FREE Bootcamp: Becoming a front end web developer in 2021 and getting a job as a web developer.](https://www.reddit.com/r/javascript/comments/mzz3vh/free_bootcamp_becoming_a_front_end_web_developer/)
+- [New JavaScript Features ECMAScript 2021 (with examples)](https://www.reddit.com/r/javascript/comments/mzxidz/new_javascript_features_ecmascript_2021_with/)
+- [[AskJS] We're looking for volunteer developers to help be rebuild a micro-volunteering community which organizes altruistic projects targeting community well-being and world happiness](https://www.reddit.com/r/javascript/comments/mzwos0/askjs_were_looking_for_volunteer_developers_to/)
+- [I created a tool to hide a short message in an image using EXIF GPS data. GitHub project link in the comments for more info, feedback appreciated!](https://www.reddit.com/r/javascript/comments/mzwg61/i_created_a_tool_to_hide_a_short_message_in_an/)
+- [GLTF implementation based on WebGPU backend](https://www.reddit.com/r/javascript/comments/mzv8v7/gltf_implementation_based_on_webgpu_backend/)
+- [Tunnel Run game in ~170 lines of pure JS](https://www.reddit.com/r/javascript/comments/mzv14k/tunnel_run_game_in_170_lines_of_pure_js/)
+- [instant-mocha: build tests with Webpack and run with Mocha in one command](https://www.reddit.com/r/javascript/comments/mzt1zi/instantmocha_build_tests_with_webpack_and_run/)
+- [How to Automatically Generate Changelog for your node.js projects (step by step)](https://www.reddit.com/r/javascript/comments/mzszyr/how_to_automatically_generate_changelog_for_your/)
+- [How to set breakpoints for a Node.js Lambda function in VS Code](https://www.reddit.com/r/javascript/comments/mzswxe/how_to_set_breakpoints_for_a_nodejs_lambda/)
+- [Build an HTTPS-intercepting JavaScript proxy in 30 seconds flat](https://www.reddit.com/r/javascript/comments/mzpnfp/build_an_httpsintercepting_javascript_proxy_in_30/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
