@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [FREE Bootcamp: Becoming a front end web developer in 2021 and getting a job as a web developer.](https://www.reddit.com/r/javascript/comments/mzz3vh/free_bootcamp_becoming_a_front_end_web_developer/)
-- [New JavaScript Features ECMAScript 2021 (with examples)](https://www.reddit.com/r/javascript/comments/mzxidz/new_javascript_features_ecmascript_2021_with/)
-- [[AskJS] We're looking for volunteer developers to help be rebuild a micro-volunteering community which organizes altruistic projects targeting community well-being and world happiness](https://www.reddit.com/r/javascript/comments/mzwos0/askjs_were_looking_for_volunteer_developers_to/)
-- [I created a tool to hide a short message in an image using EXIF GPS data. GitHub project link in the comments for more info, feedback appreciated!](https://www.reddit.com/r/javascript/comments/mzwg61/i_created_a_tool_to_hide_a_short_message_in_an/)
-- [GLTF implementation based on WebGPU backend](https://www.reddit.com/r/javascript/comments/mzv8v7/gltf_implementation_based_on_webgpu_backend/)
-- [Tunnel Run game in ~170 lines of pure JS](https://www.reddit.com/r/javascript/comments/mzv14k/tunnel_run_game_in_170_lines_of_pure_js/)
-- [instant-mocha: build tests with Webpack and run with Mocha in one command](https://www.reddit.com/r/javascript/comments/mzt1zi/instantmocha_build_tests_with_webpack_and_run/)
-- [How to Automatically Generate Changelog for your node.js projects (step by step)](https://www.reddit.com/r/javascript/comments/mzszyr/how_to_automatically_generate_changelog_for_your/)
-- [How to set breakpoints for a Node.js Lambda function in VS Code](https://www.reddit.com/r/javascript/comments/mzswxe/how_to_set_breakpoints_for_a_nodejs_lambda/)
-- [Build an HTTPS-intercepting JavaScript proxy in 30 seconds flat](https://www.reddit.com/r/javascript/comments/mzpnfp/build_an_httpsintercepting_javascript_proxy_in_30/)
+- [Basic understanding of "this" keyword in javascript](https://www.reddit.com/r/javascript/comments/n0pouo/basic_understanding_of_this_keyword_in_javascript/)
+- [Incredible tutorial for outside-in TDD in frontend development. Demonstrates agile workflow, CI/CD (using Github Actions and automatic deployment to Netlify), and E2E/functional/unit testing with Cypress, React Testing Library, and Jest. I can't believe this is free.](https://www.reddit.com/r/javascript/comments/n0p7j1/incredible_tutorial_for_outsidein_tdd_in_frontend/)
+- [Why People Are Afraid Of The DOM?](https://www.reddit.com/r/javascript/comments/n0ovwf/why_people_are_afraid_of_the_dom/)
+- [What usage metrics and crash reports do you use for JavaScript libraries?](https://www.reddit.com/r/javascript/comments/n0lmlk/what_usage_metrics_and_crash_reports_do_you_use/)
+- [A quick and easy intro to working with popups in javascript and passing data between different browser windows](https://www.reddit.com/r/javascript/comments/n0lefv/a_quick_and_easy_intro_to_working_with_popups_in/)
+- [JavaScript for Data Science](https://www.reddit.com/r/javascript/comments/n0kxsg/javascript_for_data_science/)
+- [Fluid: Simple, lightweight, and blazing-fast UI library at only around 1.5 KB minified and gzipped](https://www.reddit.com/r/javascript/comments/n0kwig/fluid_simple_lightweight_and_blazingfast_ui/)
+- [[AskJS] What do you think of my one click tool to generate unit test on simple functions?](https://www.reddit.com/r/javascript/comments/n0io3x/askjs_what_do_you_think_of_my_one_click_tool_to/)
+- [Contributing to GitLab and Lighthouse CI](https://www.reddit.com/r/javascript/comments/n0gxxv/contributing_to_gitlab_and_lighthouse_ci/)
+- [The Angular team is deprecating support for Internet Explorer 11 in Angular v12 (to be released in May 2021 and supported through November 2022), and plans to remove support for this browser in Angular v13 (late 2021)](https://www.reddit.com/r/javascript/comments/n0gjpd/the_angular_team_is_deprecating_support_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
