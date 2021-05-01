@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Declarative Shadow DOM](https://www.reddit.com/r/javascript/comments/n24jni/declarative_shadow_dom/)
+- [Cloning JavaScript objects with graph theory](https://www.reddit.com/r/javascript/comments/n200dz/cloning_javascript_objects_with_graph_theory/)
+- [Node.js v10 Is Being End-of-Lifed Today, but What Does It All Mean?](https://www.reddit.com/r/javascript/comments/n1z6hf/nodejs_v10_is_being_endoflifed_today_but_what/)
+- [I built this in Javascript: Put text.fish/ before any URL to skip paywalls](https://www.reddit.com/r/javascript/comments/n1wwx3/i_built_this_in_javascript_put_textfish_before/)
+- [[AskJS] Why are large, sprawling functions more common than small, compact ones?](https://www.reddit.com/r/javascript/comments/n1wpit/askjs_why_are_large_sprawling_functions_more/)
+- [Demo of a mathematical curve fitting webapp in 2000 lines of pure JS](https://www.reddit.com/r/javascript/comments/n1vbo0/demo_of_a_mathematical_curve_fitting_webapp_in/)
+- [JavaScript Design Patterns](https://www.reddit.com/r/javascript/comments/n1s1gb/javascript_design_patterns/)
+- [UI testing - types of tests](https://www.reddit.com/r/javascript/comments/n1s0rk/ui_testing_types_of_tests/)
+- [manifetch: A manifest-based fetch() API client builder.](https://www.reddit.com/r/javascript/comments/n1m0cr/manifetch_a_manifestbased_fetch_api_client_builder/)
 - [Open source [ReactJS] [Vanilla JavaScript] [Golang] live polling site/stream wrapper for the NFL draft starting tonight (8pm EST)](https://www.reddit.com/r/javascript/comments/n14cz2/open_source_reactjs_vanilla_javascript_golang/)
-- [Scaling out JavaScript Monorepos with Yarn Workspaces](https://www.reddit.com/r/javascript/comments/n13szw/scaling_out_javascript_monorepos_with_yarn/)
-- [A JavaScript optimizing compiler](https://www.reddit.com/r/javascript/comments/n114y7/a_javascript_optimizing_compiler/)
-- [Lazy loading for card layout items and tabs → neo.mjs v2.0.10](https://www.reddit.com/r/javascript/comments/n0xssr/lazy_loading_for_card_layout_items_and_tabs/)
-- [Why People Are Afraid Of The DOM?](https://www.reddit.com/r/javascript/comments/n0ovwf/why_people_are_afraid_of_the_dom/)
-- [What usage metrics and crash reports do you use for JavaScript libraries?](https://www.reddit.com/r/javascript/comments/n0lmlk/what_usage_metrics_and_crash_reports_do_you_use/)
-- [A quick and easy intro to working with popups in javascript and passing data between different browser windows](https://www.reddit.com/r/javascript/comments/n0lefv/a_quick_and_easy_intro_to_working_with_popups_in/)
-- [JavaScript for Data Science](https://www.reddit.com/r/javascript/comments/n0kxsg/javascript_for_data_science/)
-- [Fluid: Simple, lightweight, and blazing-fast UI library at only around 1.5 KB minified and gzipped](https://www.reddit.com/r/javascript/comments/n0kwig/fluid_simple_lightweight_and_blazingfast_ui/)
-- [[AskJS] What do you think of my one click tool to generate unit test on simple functions?](https://www.reddit.com/r/javascript/comments/n0io3x/askjs_what_do_you_think_of_my_one_click_tool_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
