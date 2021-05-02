@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Declarative Shadow DOM](https://www.reddit.com/r/javascript/comments/n24jni/declarative_shadow_dom/)
-- [Cloning JavaScript objects with graph theory](https://www.reddit.com/r/javascript/comments/n200dz/cloning_javascript_objects_with_graph_theory/)
-- [Node.js v10 Is Being End-of-Lifed Today, but What Does It All Mean?](https://www.reddit.com/r/javascript/comments/n1z6hf/nodejs_v10_is_being_endoflifed_today_but_what/)
-- [I built this in Javascript: Put text.fish/ before any URL to skip paywalls](https://www.reddit.com/r/javascript/comments/n1wwx3/i_built_this_in_javascript_put_textfish_before/)
-- [[AskJS] Why are large, sprawling functions more common than small, compact ones?](https://www.reddit.com/r/javascript/comments/n1wpit/askjs_why_are_large_sprawling_functions_more/)
-- [Demo of a mathematical curve fitting webapp in 2000 lines of pure JS](https://www.reddit.com/r/javascript/comments/n1vbo0/demo_of_a_mathematical_curve_fitting_webapp_in/)
-- [JavaScript Design Patterns](https://www.reddit.com/r/javascript/comments/n1s1gb/javascript_design_patterns/)
-- [UI testing - types of tests](https://www.reddit.com/r/javascript/comments/n1s0rk/ui_testing_types_of_tests/)
-- [manifetch: A manifest-based fetch() API client builder.](https://www.reddit.com/r/javascript/comments/n1m0cr/manifetch_a_manifestbased_fetch_api_client_builder/)
-- [Open source [ReactJS] [Vanilla JavaScript] [Golang] live polling site/stream wrapper for the NFL draft starting tonight (8pm EST)](https://www.reddit.com/r/javascript/comments/n14cz2/open_source_reactjs_vanilla_javascript_golang/)
+- [Aurora Analytics - Made in NextJS is now v0.5!](https://www.reddit.com/r/javascript/comments/n2sztp/aurora_analytics_made_in_nextjs_is_now_v05/)
+- [[AskJS] Backend development situation apart from Express](https://www.reddit.com/r/javascript/comments/n2pa8a/askjs_backend_development_situation_apart_from/)
+- [[Ask for Feedback] MyKeys: Save or share your passwords into a long encrypted URL!](https://www.reddit.com/r/javascript/comments/n2nxo6/ask_for_feedback_mykeys_save_or_share_your/)
+- [2 JavaScript memory concerns for React developers](https://www.reddit.com/r/javascript/comments/n2kvkw/2_javascript_memory_concerns_for_react_developers/)
+- [Can you beat other players using JavaScript in this Bomberman-like programming challenge?](https://www.reddit.com/r/javascript/comments/n2kliz/can_you_beat_other_players_using_javascript_in/)
+- [New formatting concept for JSON based virtual DOM](https://www.reddit.com/r/javascript/comments/n2kkl1/new_formatting_concept_for_json_based_virtual_dom/)
+- [Leon Open-Source Personal Assistant: Getting Rid of Dust / 1.0.0-beta.4](https://www.reddit.com/r/javascript/comments/n2iygp/leon_opensource_personal_assistant_getting_rid_of/)
+- [Showoff Saturday (May 01, 2021)](https://www.reddit.com/r/javascript/comments/n2d61x/showoff_saturday_may_01_2021/)
+- [ractive-player now exports to mp4! Create interactive *and* "real" videos in React](https://www.reddit.com/r/javascript/comments/n2bnv9/ractiveplayer_now_exports_to_mp4_create/)
+- [[AskJS] What is the best design/architectural pattern for creating apps in vanilla js?](https://www.reddit.com/r/javascript/comments/n29su6/askjs_what_is_the_best_designarchitectural/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
