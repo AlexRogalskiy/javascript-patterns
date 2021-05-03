@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I just created the chrome extension 'Reddit Wherever'. It allows you to view Reddit posts/comments of your current URL. Feedback would be appreciated (GitHub in comments).](https://www.reddit.com/r/javascript/comments/n3jxwf/i_just_created_the_chrome_extension_reddit/)
+- [Paperboard - a cli application for managing a reading list of bookmarks from the Internet](https://www.reddit.com/r/javascript/comments/n3eqb7/paperboard_a_cli_application_for_managing_a/)
+- [Spotlight.js v0.7.0 has finally arrived!](https://www.reddit.com/r/javascript/comments/n3cjb7/spotlightjs_v070_has_finally_arrived/)
+- [LeetCode Container With Most Water](https://www.reddit.com/r/javascript/comments/n3ag6i/leetcode_container_with_most_water/)
+- [Random-colors-palette](https://www.reddit.com/r/javascript/comments/n33ybe/randomcolorspalette/)
 - [Aurora Analytics - Made in NextJS is now v0.5!](https://www.reddit.com/r/javascript/comments/n2sztp/aurora_analytics_made_in_nextjs_is_now_v05/)
 - [[AskJS] Backend development situation apart from Express](https://www.reddit.com/r/javascript/comments/n2pa8a/askjs_backend_development_situation_apart_from/)
 - [[Ask for Feedback] MyKeys: Save or share your passwords into a long encrypted URL!](https://www.reddit.com/r/javascript/comments/n2nxo6/ask_for_feedback_mykeys_save_or_share_your/)
 - [2 JavaScript memory concerns for React developers](https://www.reddit.com/r/javascript/comments/n2kvkw/2_javascript_memory_concerns_for_react_developers/)
 - [Can you beat other players using JavaScript in this Bomberman-like programming challenge?](https://www.reddit.com/r/javascript/comments/n2kliz/can_you_beat_other_players_using_javascript_in/)
-- [New formatting concept for JSON based virtual DOM](https://www.reddit.com/r/javascript/comments/n2kkl1/new_formatting_concept_for_json_based_virtual_dom/)
-- [Leon Open-Source Personal Assistant: Getting Rid of Dust / 1.0.0-beta.4](https://www.reddit.com/r/javascript/comments/n2iygp/leon_opensource_personal_assistant_getting_rid_of/)
-- [Showoff Saturday (May 01, 2021)](https://www.reddit.com/r/javascript/comments/n2d61x/showoff_saturday_may_01_2021/)
-- [ractive-player now exports to mp4! Create interactive *and* "real" videos in React](https://www.reddit.com/r/javascript/comments/n2bnv9/ractiveplayer_now_exports_to_mp4_create/)
-- [[AskJS] What is the best design/architectural pattern for creating apps in vanilla js?](https://www.reddit.com/r/javascript/comments/n29su6/askjs_what_is_the_best_designarchitectural/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
