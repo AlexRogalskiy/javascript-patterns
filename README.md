@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I just created the chrome extension 'Reddit Wherever'. It allows you to view Reddit posts/comments of your current URL. Feedback would be appreciated (GitHub in comments).](https://www.reddit.com/r/javascript/comments/n3jxwf/i_just_created_the_chrome_extension_reddit/)
-- [Paperboard - a cli application for managing a reading list of bookmarks from the Internet](https://www.reddit.com/r/javascript/comments/n3eqb7/paperboard_a_cli_application_for_managing_a/)
-- [Spotlight.js v0.7.0 has finally arrived!](https://www.reddit.com/r/javascript/comments/n3cjb7/spotlightjs_v070_has_finally_arrived/)
-- [LeetCode Container With Most Water](https://www.reddit.com/r/javascript/comments/n3ag6i/leetcode_container_with_most_water/)
-- [Random-colors-palette](https://www.reddit.com/r/javascript/comments/n33ybe/randomcolorspalette/)
-- [Aurora Analytics - Made in NextJS is now v0.5!](https://www.reddit.com/r/javascript/comments/n2sztp/aurora_analytics_made_in_nextjs_is_now_v05/)
-- [[AskJS] Backend development situation apart from Express](https://www.reddit.com/r/javascript/comments/n2pa8a/askjs_backend_development_situation_apart_from/)
-- [[Ask for Feedback] MyKeys: Save or share your passwords into a long encrypted URL!](https://www.reddit.com/r/javascript/comments/n2nxo6/ask_for_feedback_mykeys_save_or_share_your/)
-- [2 JavaScript memory concerns for React developers](https://www.reddit.com/r/javascript/comments/n2kvkw/2_javascript_memory_concerns_for_react_developers/)
-- [Can you beat other players using JavaScript in this Bomberman-like programming challenge?](https://www.reddit.com/r/javascript/comments/n2kliz/can_you_beat_other_players_using_javascript_in/)
+- [I found this particles library while searching for some ideas for my projects and it's awesome. It has also react, vue, angular and more components.](https://www.reddit.com/r/javascript/comments/n491oz/i_found_this_particles_library_while_searching/)
+- [When to useCallback and useMemo in our React projects?](https://www.reddit.com/r/javascript/comments/n48bk4/when_to_usecallback_and_usememo_in_our_react/)
+- [ESBuild and SWC result in more than fifteen times speed up for builds.](https://www.reddit.com/r/javascript/comments/n47rnn/esbuild_and_swc_result_in_more_than_fifteen_times/)
+- [I built a cool 3D visualization library, grafar](https://www.reddit.com/r/javascript/comments/n44x25/i_built_a_cool_3d_visualization_library_grafar/)
+- [Solaire v0.1 - A simple and intuitive framework for building Discord bots](https://www.reddit.com/r/javascript/comments/n44uwg/solaire_v01_a_simple_and_intuitive_framework_for/)
+- [Is 0kb of JavaScript in your Future?](https://www.reddit.com/r/javascript/comments/n42kmb/is_0kb_of_javascript_in_your_future/)
+- [SyncPaint 0.8 adds drawing shapes](https://www.reddit.com/r/javascript/comments/n41hz8/syncpaint_08_adds_drawing_shapes/)
+- [Measuring Web Performance in 2021: The Definitive Guide](https://www.reddit.com/r/javascript/comments/n412tr/measuring_web_performance_in_2021_the_definitive/)
+- [GitHub Profile README Generator](https://www.reddit.com/r/javascript/comments/n3yu8j/github_profile_readme_generator/)
+- [Mantine – new React library, 60+ hooks and components with dark theme support](https://www.reddit.com/r/javascript/comments/n3y4ov/mantine_new_react_library_60_hooks_and_components/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
