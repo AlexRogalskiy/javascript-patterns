@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I found this particles library while searching for some ideas for my projects and it's awesome. It has also react, vue, angular and more components.](https://www.reddit.com/r/javascript/comments/n491oz/i_found_this_particles_library_while_searching/)
-- [When to useCallback and useMemo in our React projects?](https://www.reddit.com/r/javascript/comments/n48bk4/when_to_usecallback_and_usememo_in_our_react/)
-- [ESBuild and SWC result in more than fifteen times speed up for builds.](https://www.reddit.com/r/javascript/comments/n47rnn/esbuild_and_swc_result_in_more_than_fifteen_times/)
-- [I built a cool 3D visualization library, grafar](https://www.reddit.com/r/javascript/comments/n44x25/i_built_a_cool_3d_visualization_library_grafar/)
-- [Solaire v0.1 - A simple and intuitive framework for building Discord bots](https://www.reddit.com/r/javascript/comments/n44uwg/solaire_v01_a_simple_and_intuitive_framework_for/)
-- [Is 0kb of JavaScript in your Future?](https://www.reddit.com/r/javascript/comments/n42kmb/is_0kb_of_javascript_in_your_future/)
-- [SyncPaint 0.8 adds drawing shapes](https://www.reddit.com/r/javascript/comments/n41hz8/syncpaint_08_adds_drawing_shapes/)
-- [Measuring Web Performance in 2021: The Definitive Guide](https://www.reddit.com/r/javascript/comments/n412tr/measuring_web_performance_in_2021_the_definitive/)
-- [GitHub Profile README Generator](https://www.reddit.com/r/javascript/comments/n3yu8j/github_profile_readme_generator/)
-- [Mantine – new React library, 60+ hooks and components with dark theme support](https://www.reddit.com/r/javascript/comments/n3y4ov/mantine_new_react_library_60_hooks_and_components/)
+- [HTML Sanitizer API](https://www.reddit.com/r/javascript/comments/n527pr/html_sanitizer_api/)
+- [[AskJS] What are existing libraries for parsing / filtering using Kibana query language?](https://www.reddit.com/r/javascript/comments/n4yn39/askjs_what_are_existing_libraries_for_parsing/)
+- [Generate spreadsheet files based on a template XLSX](https://www.reddit.com/r/javascript/comments/n4wlvd/generate_spreadsheet_files_based_on_a_template/)
+- [Analytics in your React App with ThoughtSpot](https://www.reddit.com/r/javascript/comments/n4wfth/analytics_in_your_react_app_with_thoughtspot/)
+- [Embed consumer grade analytics in your Apps](https://www.reddit.com/r/javascript/comments/n4wb21/embed_consumer_grade_analytics_in_your_apps/)
+- [When to useCallback and useMemo in our React projects?](https://www.reddit.com/r/javascript/comments/n4urbq/when_to_usecallback_and_usememo_in_our_react/)
+- [Announcing Rome Tools Inc, an open source first company](https://www.reddit.com/r/javascript/comments/n4rxs6/announcing_rome_tools_inc_an_open_source_first/)
+- [Node.js v16.1.0](https://www.reddit.com/r/javascript/comments/n4rrrh/nodejs_v1610/)
+- [UPDATE: I'm launching a side project to award folks for building rad "non-corporate-y" stuff for the web. If you're working on something for a local community, I'd love to throw you some coffee money!](https://www.reddit.com/r/javascript/comments/n4qgs5/update_im_launching_a_side_project_to_award_folks/)
+- [Here's how to take a GraphQL schema and get typed queries & results out of the box](https://www.reddit.com/r/javascript/comments/n4ot7c/heres_how_to_take_a_graphql_schema_and_get_typed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
