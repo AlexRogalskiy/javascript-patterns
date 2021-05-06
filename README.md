@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [HTML Sanitizer API](https://www.reddit.com/r/javascript/comments/n527pr/html_sanitizer_api/)
-- [[AskJS] What are existing libraries for parsing / filtering using Kibana query language?](https://www.reddit.com/r/javascript/comments/n4yn39/askjs_what_are_existing_libraries_for_parsing/)
-- [Generate spreadsheet files based on a template XLSX](https://www.reddit.com/r/javascript/comments/n4wlvd/generate_spreadsheet_files_based_on_a_template/)
-- [Analytics in your React App with ThoughtSpot](https://www.reddit.com/r/javascript/comments/n4wfth/analytics_in_your_react_app_with_thoughtspot/)
-- [Embed consumer grade analytics in your Apps](https://www.reddit.com/r/javascript/comments/n4wb21/embed_consumer_grade_analytics_in_your_apps/)
-- [When to useCallback and useMemo in our React projects?](https://www.reddit.com/r/javascript/comments/n4urbq/when_to_usecallback_and_usememo_in_our_react/)
-- [Announcing Rome Tools Inc, an open source first company](https://www.reddit.com/r/javascript/comments/n4rxs6/announcing_rome_tools_inc_an_open_source_first/)
-- [Node.js v16.1.0](https://www.reddit.com/r/javascript/comments/n4rrrh/nodejs_v1610/)
-- [UPDATE: I'm launching a side project to award folks for building rad "non-corporate-y" stuff for the web. If you're working on something for a local community, I'd love to throw you some coffee money!](https://www.reddit.com/r/javascript/comments/n4qgs5/update_im_launching_a_side_project_to_award_folks/)
-- [Here's how to take a GraphQL schema and get typed queries & results out of the box](https://www.reddit.com/r/javascript/comments/n4ot7c/heres_how_to_take_a_graphql_schema_and_get_typed/)
+- [Dependency Managers Don’t Manage Your Dependencies](https://www.reddit.com/r/javascript/comments/n5swip/dependency_managers_dont_manage_your_dependencies/)
+- [V8 release v9.1](https://www.reddit.com/r/javascript/comments/n5shra/v8_release_v91/)
+- [Built an email tracker with Node.js and React](https://www.reddit.com/r/javascript/comments/n5rylp/built_an_email_tracker_with_nodejs_and_react/)
+- [Visual Studio Code April 2021](https://www.reddit.com/r/javascript/comments/n5qj0p/visual_studio_code_april_2021/)
+- [How to opt-out Federated Learning of Cohorts (FLoC) using JavaScript](https://www.reddit.com/r/javascript/comments/n5pggw/how_to_optout_federated_learning_of_cohorts_floc/)
+- [What’s New in RxJS 7](https://www.reddit.com/r/javascript/comments/n5nea6/whats_new_in_rxjs_7/)
+- [Hello, Modules!](https://www.reddit.com/r/javascript/comments/n5lyjm/hello_modules/)
+- [[AskJS] Unpopular Opinion: Developing using old jQuery is faster than using Vue/Angular/React](https://www.reddit.com/r/javascript/comments/n5hr07/askjs_unpopular_opinion_developing_using_old/)
+- [Increasing performance by batching IndexedDB writes with mergebounce](https://www.reddit.com/r/javascript/comments/n5fhoh/increasing_performance_by_batching_indexeddb/)
+- [[AskJS] Is it just me or is core-js fundamentally broken?](https://www.reddit.com/r/javascript/comments/n5eqie/askjs_is_it_just_me_or_is_corejs_fundamentally/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
