@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Dependency Managers Don’t Manage Your Dependencies](https://www.reddit.com/r/javascript/comments/n5swip/dependency_managers_dont_manage_your_dependencies/)
-- [V8 release v9.1](https://www.reddit.com/r/javascript/comments/n5shra/v8_release_v91/)
-- [Built an email tracker with Node.js and React](https://www.reddit.com/r/javascript/comments/n5rylp/built_an_email_tracker_with_nodejs_and_react/)
-- [Visual Studio Code April 2021](https://www.reddit.com/r/javascript/comments/n5qj0p/visual_studio_code_april_2021/)
-- [How to opt-out Federated Learning of Cohorts (FLoC) using JavaScript](https://www.reddit.com/r/javascript/comments/n5pggw/how_to_optout_federated_learning_of_cohorts_floc/)
-- [What’s New in RxJS 7](https://www.reddit.com/r/javascript/comments/n5nea6/whats_new_in_rxjs_7/)
-- [Hello, Modules!](https://www.reddit.com/r/javascript/comments/n5lyjm/hello_modules/)
-- [[AskJS] Unpopular Opinion: Developing using old jQuery is faster than using Vue/Angular/React](https://www.reddit.com/r/javascript/comments/n5hr07/askjs_unpopular_opinion_developing_using_old/)
-- [Increasing performance by batching IndexedDB writes with mergebounce](https://www.reddit.com/r/javascript/comments/n5fhoh/increasing_performance_by_batching_indexeddb/)
-- [[AskJS] Is it just me or is core-js fundamentally broken?](https://www.reddit.com/r/javascript/comments/n5eqie/askjs_is_it_just_me_or_is_corejs_fundamentally/)
+- [ad4ad, a free advertising system where you can get your site advertised by advertising other sites using a small ad in the corner. Made with Nodejs and JS.](https://www.reddit.com/r/javascript/comments/n6im4e/ad4ad_a_free_advertising_system_where_you_can_get/)
+- [30+ Javascript Short-hand Coding Techniques (Tips and Tricks)](https://www.reddit.com/r/javascript/comments/n6i4xd/30_javascript_shorthand_coding_techniques_tips/)
+- [[AskJS] Does anyone know how to create a pipeline that allows the front end to communicate with the backend for the OCR?](https://www.reddit.com/r/javascript/comments/n6g3bg/askjs_does_anyone_know_how_to_create_a_pipeline/)
+- [A package for writing scripts on JavaScript instead of Bash](https://www.reddit.com/r/javascript/comments/n6g23f/a_package_for_writing_scripts_on_javascript/)
+- [[AskJS] How do you approach building native integration in your app?](https://www.reddit.com/r/javascript/comments/n6a17r/askjs_how_do_you_approach_building_native/)
+- [How to test a function that works with time](https://www.reddit.com/r/javascript/comments/n6a0z0/how_to_test_a_function_that_works_with_time/)
+- [christian-git: A CLI Tool to Sanctify Your Git Workflow](https://www.reddit.com/r/javascript/comments/n66p4e/christiangit_a_cli_tool_to_sanctify_your_git/)
+- [[AskJS] Suggestions on good open source projects to help](https://www.reddit.com/r/javascript/comments/n64z1r/askjs_suggestions_on_good_open_source_projects_to/)
+- [How we sped up Chrome DevTools stack traces by 10x - Chrome Developers](https://www.reddit.com/r/javascript/comments/n62t4l/how_we_sped_up_chrome_devtools_stack_traces_by/)
+- [Create a satellite tracker completely in JavaScript](https://www.reddit.com/r/javascript/comments/n5x76h/create_a_satellite_tracker_completely_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
