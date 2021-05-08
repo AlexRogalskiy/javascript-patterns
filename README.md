@@ -397,10 +397,10 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *JavaScript Weekly posts*
 
 <!-- JAVASCRIPTWEEKLY-POST-LIST:START -->
+- [Writing shell scripts with JavaScript](https://javascriptweekly.com/issues/537)
 - [How you're in the 1.4%](https://javascriptweekly.com/issues/536)
 - [Node 16, Grunt 1.4, and Firefox 88](https://javascriptweekly.com/issues/535)
 - [All about the tools](https://javascriptweekly.com/issues/534)
-- [The healing power of JavaScript](https://javascriptweekly.com/issues/533)
 <!-- JAVASCRIPTWEEKLY-POST-LIST:END -->
 
 ### *Writing JavaScript posts*
