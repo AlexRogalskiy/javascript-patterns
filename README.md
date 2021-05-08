@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [ad4ad, a free advertising system where you can get your site advertised by advertising other sites using a small ad in the corner. Made with Nodejs and JS.](https://www.reddit.com/r/javascript/comments/n6im4e/ad4ad_a_free_advertising_system_where_you_can_get/)
-- [30+ Javascript Short-hand Coding Techniques (Tips and Tricks)](https://www.reddit.com/r/javascript/comments/n6i4xd/30_javascript_shorthand_coding_techniques_tips/)
-- [[AskJS] Does anyone know how to create a pipeline that allows the front end to communicate with the backend for the OCR?](https://www.reddit.com/r/javascript/comments/n6g3bg/askjs_does_anyone_know_how_to_create_a_pipeline/)
-- [A package for writing scripts on JavaScript instead of Bash](https://www.reddit.com/r/javascript/comments/n6g23f/a_package_for_writing_scripts_on_javascript/)
-- [[AskJS] How do you approach building native integration in your app?](https://www.reddit.com/r/javascript/comments/n6a17r/askjs_how_do_you_approach_building_native/)
-- [How to test a function that works with time](https://www.reddit.com/r/javascript/comments/n6a0z0/how_to_test_a_function_that_works_with_time/)
-- [christian-git: A CLI Tool to Sanctify Your Git Workflow](https://www.reddit.com/r/javascript/comments/n66p4e/christiangit_a_cli_tool_to_sanctify_your_git/)
-- [[AskJS] Suggestions on good open source projects to help](https://www.reddit.com/r/javascript/comments/n64z1r/askjs_suggestions_on_good_open_source_projects_to/)
-- [How we sped up Chrome DevTools stack traces by 10x - Chrome Developers](https://www.reddit.com/r/javascript/comments/n62t4l/how_we_sped_up_chrome_devtools_stack_traces_by/)
-- [Create a satellite tracker completely in JavaScript](https://www.reddit.com/r/javascript/comments/n5x76h/create_a_satellite_tracker_completely_in/)
+- [A custom element `<gem-panel>`, let you easily create layout similar to Adobe After Effects](https://www.reddit.com/r/javascript/comments/n7b2a5/a_custom_element_gempanel_let_you_easily_create/)
+- [[AskJS] how do I create a callback hell?](https://www.reddit.com/r/javascript/comments/n7b19n/askjs_how_do_i_create_a_callback_hell/)
+- [How to write better JavaScript using plumbing techniques](https://www.reddit.com/r/javascript/comments/n76hej/how_to_write_better_javascript_using_plumbing/)
+- [Care about your users, don't minify your JS! | LibrePlanet 2021](https://www.reddit.com/r/javascript/comments/n766n4/care_about_your_users_dont_minify_your_js/)
+- [Make A Link Preview: Ultimate Step By Step Guide using Javascript](https://www.reddit.com/r/javascript/comments/n758yp/make_a_link_preview_ultimate_step_by_step_guide/)
+- [Testing On Mobile Devices the Easy Way](https://www.reddit.com/r/javascript/comments/n709wz/testing_on_mobile_devices_the_easy_way/)
+- [[AskJS] Which JS tools/frameworks have the best websites in terms of UX?](https://www.reddit.com/r/javascript/comments/n6yqed/askjs_which_js_toolsframeworks_have_the_best/)
+- [Expanding Single Page Apps into multiple Browser Windows — Part 2](https://www.reddit.com/r/javascript/comments/n6ygq6/expanding_single_page_apps_into_multiple_browser/)
+- [[AskJS] Do you use Vite.js for big projects?](https://www.reddit.com/r/javascript/comments/n6x6f2/askjs_do_you_use_vitejs_for_big_projects/)
+- [A JavaScript Library that executes your callback when specified element get added to DOM](https://www.reddit.com/r/javascript/comments/n6vyi4/a_javascript_library_that_executes_your_callback/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
