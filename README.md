@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A web app for creating multi question polls / survey](https://www.reddit.com/r/javascript/comments/n80ykq/a_web_app_for_creating_multi_question_polls_survey/)
+- [We are researchers that work to improve Machine Learning models. If you have experience with python and/or java and a few minutes to spare please take our survey!](https://www.reddit.com/r/javascript/comments/n80lbf/we_are_researchers_that_work_to_improve_machine/)
+- [JS cobrowsing demo](https://www.reddit.com/r/javascript/comments/n7xxsd/js_cobrowsing_demo/)
+- [[AskJS] The state of JavaScript (SSGs and Headless)](https://www.reddit.com/r/javascript/comments/n7wqph/askjs_the_state_of_javascript_ssgs_and_headless/)
+- [Fair benchmark of javascript build tools](https://www.reddit.com/r/javascript/comments/n7sr77/fair_benchmark_of_javascript_build_tools/)
+- [Showoff Saturday (May 08, 2021)](https://www.reddit.com/r/javascript/comments/n7ji7d/showoff_saturday_may_08_2021/)
+- [Linkinator: A super simple site crawler and broken link checker](https://www.reddit.com/r/javascript/comments/n7hbja/linkinator_a_super_simple_site_crawler_and_broken/)
+- [[AskJS] Good network/graph diagramming tool](https://www.reddit.com/r/javascript/comments/n7h7fb/askjs_good_networkgraph_diagramming_tool/)
 - [A custom element `<gem-panel>`, let you easily create layout similar to Adobe After Effects](https://www.reddit.com/r/javascript/comments/n7b2a5/a_custom_element_gempanel_let_you_easily_create/)
-- [[AskJS] how do I create a callback hell?](https://www.reddit.com/r/javascript/comments/n7b19n/askjs_how_do_i_create_a_callback_hell/)
 - [How to write better JavaScript using plumbing techniques](https://www.reddit.com/r/javascript/comments/n76hej/how_to_write_better_javascript_using_plumbing/)
-- [Care about your users, don't minify your JS! | LibrePlanet 2021](https://www.reddit.com/r/javascript/comments/n766n4/care_about_your_users_dont_minify_your_js/)
-- [Make A Link Preview: Ultimate Step By Step Guide using Javascript](https://www.reddit.com/r/javascript/comments/n758yp/make_a_link_preview_ultimate_step_by_step_guide/)
-- [Testing On Mobile Devices the Easy Way](https://www.reddit.com/r/javascript/comments/n709wz/testing_on_mobile_devices_the_easy_way/)
-- [[AskJS] Which JS tools/frameworks have the best websites in terms of UX?](https://www.reddit.com/r/javascript/comments/n6yqed/askjs_which_js_toolsframeworks_have_the_best/)
-- [Expanding Single Page Apps into multiple Browser Windows — Part 2](https://www.reddit.com/r/javascript/comments/n6ygq6/expanding_single_page_apps_into_multiple_browser/)
-- [[AskJS] Do you use Vite.js for big projects?](https://www.reddit.com/r/javascript/comments/n6x6f2/askjs_do_you_use_vitejs_for_big_projects/)
-- [A JavaScript Library that executes your callback when specified element get added to DOM](https://www.reddit.com/r/javascript/comments/n6vyi4/a_javascript_library_that_executes_your_callback/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
