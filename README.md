@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [It’s time we admit the truth about Javascript](https://www.reddit.com/r/javascript/comments/n9lahp/its_time_we_admit_the_truth_about_javascript/)
+- [tinyws — tiny WebSocket middleware for Node.js](https://www.reddit.com/r/javascript/comments/n9gkwv/tinyws_tiny_websocket_middleware_for_nodejs/)
+- [[AskJS] How has your experience with Deno been so far?](https://www.reddit.com/r/javascript/comments/n9cp8n/askjs_how_has_your_experience_with_deno_been_so/)
+- [Components are Pure Overhead](https://www.reddit.com/r/javascript/comments/n9aucq/components_are_pure_overhead/)
+- [Why jQuery should be more appreciated](https://www.reddit.com/r/javascript/comments/n969u4/why_jquery_should_be_more_appreciated/)
+- [Your /r/javascript recap for the week of May 03 - May 09](https://www.reddit.com/r/javascript/comments/n8zz9n/your_rjavascript_recap_for_the_week_of_may_03_may/)
 - [Portable Unix shell commands for Node.js](https://www.reddit.com/r/javascript/comments/n8rlqh/portable_unix_shell_commands_for_nodejs/)
-- [Mothers Day CSS Card](https://www.reddit.com/r/javascript/comments/n8r1fy/mothers_day_css_card/)
 - [How JavaScript works: 3 types of polymorphism](https://www.reddit.com/r/javascript/comments/n8paqw/how_javascript_works_3_types_of_polymorphism/)
 - [Ajv JSON validator online event on May 20, 10am PT (6pm UK)](https://www.reddit.com/r/javascript/comments/n8gal6/ajv_json_validator_online_event_on_may_20_10am_pt/)
 - [Hammer: A build tool for node and browser applications](https://www.reddit.com/r/javascript/comments/n897dv/hammer_a_build_tool_for_node_and_browser/)
-- [[AskJS] Upcoming event with a React Core engineer, what interesting questions would you ask?](https://www.reddit.com/r/javascript/comments/n86mtv/askjs_upcoming_event_with_a_react_core_engineer/)
-- [ok6 - Minimal JavaScript library for writing tests and assertions:](https://www.reddit.com/r/javascript/comments/n85mf6/ok6_minimal_javascript_library_for_writing_tests/)
-- [We are researchers that work to improve Machine Learning models. If you have experience with python and/or java and a few minutes to spare please take our survey!](https://www.reddit.com/r/javascript/comments/n80lbf/we_are_researchers_that_work_to_improve_machine/)
-- [JS cobrowsing demo](https://www.reddit.com/r/javascript/comments/n7xxsd/js_cobrowsing_demo/)
-- [[AskJS] The state of JavaScript (SSGs and Headless)](https://www.reddit.com/r/javascript/comments/n7wqph/askjs_the_state_of_javascript_ssgs_and_headless/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
