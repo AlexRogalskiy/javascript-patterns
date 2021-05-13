@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [txtai 3.0 released - Machine-learning workflows, similarity search and JavaScript support via API](https://www.reddit.com/r/javascript/comments/nad96f/txtai_30_released_machinelearning_workflows/)
-- [Undercover.mjs. Store your environment variables and secrets in git safely using JS. Built with google/zx](https://www.reddit.com/r/javascript/comments/na8nni/undercovermjs_store_your_environment_variables/)
-- [Meet zx: A Better Way to Write Scripts with Node.js](https://www.reddit.com/r/javascript/comments/na7pm4/meet_zx_a_better_way_to_write_scripts_with_nodejs/)
-- [JavaScript projects for beginers](https://www.reddit.com/r/javascript/comments/na78qd/javascript_projects_for_beginers/)
-- [wu tang lorem ipsum - a text generator - vanillaJS](https://www.reddit.com/r/javascript/comments/na6uor/wu_tang_lorem_ipsum_a_text_generator_vanillajs/)
-- [[AskJS] Any infinite scroll/slider lib like the one on nextjs.org Homepage?](https://www.reddit.com/r/javascript/comments/na304l/askjs_any_infinite_scrollslider_lib_like_the_one/)
-- [[AskJS] Django alternative in JS?](https://www.reddit.com/r/javascript/comments/na20ur/askjs_django_alternative_in_js/)
-- [Cross-Browser Voice Commands with React](https://www.reddit.com/r/javascript/comments/n9z6nb/crossbrowser_voice_commands_with_react/)
-- [Practical hash tables & testing examples in documentation](https://www.reddit.com/r/javascript/comments/n9vvnk/practical_hash_tables_testing_examples_in/)
-- [Babel.js is used by millions, so why are we running out of money?](https://www.reddit.com/r/javascript/comments/n9rvke/babeljs_is_used_by_millions_so_why_are_we_running/)
+- [untab - a productivity tool to boost your browser workflow](https://www.reddit.com/r/javascript/comments/nb5tci/untab_a_productivity_tool_to_boost_your_browser/)
+- [Angular 12 is available now](https://www.reddit.com/r/javascript/comments/nb557k/angular_12_is_available_now/)
+- [Exalt - A JavaScript framework for building universal apps.](https://www.reddit.com/r/javascript/comments/nb3nrs/exalt_a_javascript_framework_for_building/)
+- [An Open Source Privacy Focus Analytics Platform in Javascript!](https://www.reddit.com/r/javascript/comments/nb22ae/an_open_source_privacy_focus_analytics_platform/)
+- [Announcing TypeScript 4.3 RC](https://www.reddit.com/r/javascript/comments/nb1flc/announcing_typescript_43_rc/)
+- [Most Awesome Hooks for your React project](https://www.reddit.com/r/javascript/comments/naywev/most_awesome_hooks_for_your_react_project/)
+- [[AskJS] Create email: JS replacement for VB’s CreateObject()?](https://www.reddit.com/r/javascript/comments/naxdpo/askjs_create_email_js_replacement_for_vbs/)
+- [facebook/docusaurus v2 beta finally released, after 2 years of alphas](https://www.reddit.com/r/javascript/comments/nau95l/facebookdocusaurus_v2_beta_finally_released_after/)
+- [Lerna hello world: creating a monorepo for multiple node packages](https://www.reddit.com/r/javascript/comments/napwrk/lerna_hello_world_creating_a_monorepo_for/)
+- [Is #DevOps kryptonite for JS Devs? Join our event, 12th May, 13:00 CST](https://www.reddit.com/r/javascript/comments/nanyev/is_devops_kryptonite_for_js_devs_join_our_event/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
