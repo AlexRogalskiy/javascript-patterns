@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [untab - a productivity tool to boost your browser workflow](https://www.reddit.com/r/javascript/comments/nb5tci/untab_a_productivity_tool_to_boost_your_browser/)
-- [Angular 12 is available now](https://www.reddit.com/r/javascript/comments/nb557k/angular_12_is_available_now/)
-- [Exalt - A JavaScript framework for building universal apps.](https://www.reddit.com/r/javascript/comments/nb3nrs/exalt_a_javascript_framework_for_building/)
-- [An Open Source Privacy Focus Analytics Platform in Javascript!](https://www.reddit.com/r/javascript/comments/nb22ae/an_open_source_privacy_focus_analytics_platform/)
-- [Announcing TypeScript 4.3 RC](https://www.reddit.com/r/javascript/comments/nb1flc/announcing_typescript_43_rc/)
-- [Most Awesome Hooks for your React project](https://www.reddit.com/r/javascript/comments/naywev/most_awesome_hooks_for_your_react_project/)
-- [[AskJS] Create email: JS replacement for VB’s CreateObject()?](https://www.reddit.com/r/javascript/comments/naxdpo/askjs_create_email_js_replacement_for_vbs/)
-- [facebook/docusaurus v2 beta finally released, after 2 years of alphas](https://www.reddit.com/r/javascript/comments/nau95l/facebookdocusaurus_v2_beta_finally_released_after/)
-- [Lerna hello world: creating a monorepo for multiple node packages](https://www.reddit.com/r/javascript/comments/napwrk/lerna_hello_world_creating_a_monorepo_for/)
-- [Is #DevOps kryptonite for JS Devs? Join our event, 12th May, 13:00 CST](https://www.reddit.com/r/javascript/comments/nanyev/is_devops_kryptonite_for_js_devs_join_our_event/)
+- [Mapbox GL JS v2: 3D Maps + Camera API + Sky API Launch](https://www.reddit.com/r/javascript/comments/nbtadt/mapbox_gl_js_v2_3d_maps_camera_api_sky_api_launch/)
+- [Aurora. Website's analytics made easy! Cookieless & Privacy Focus out of the Box. Built in NextJS.](https://www.reddit.com/r/javascript/comments/nbra9c/aurora_websites_analytics_made_easy_cookieless/)
+- [Simple Server-sent events example in Node.js/JavaScript](https://www.reddit.com/r/javascript/comments/nbm4tf/simple_serversent_events_example_in/)
+- [A tiny blogging platform that lets you write posts in Google Docs and syncs with a Google Drive directory.](https://www.reddit.com/r/javascript/comments/nbm4hc/a_tiny_blogging_platform_that_lets_you_write/)
+- [Examin chrome extension!](https://www.reddit.com/r/javascript/comments/nbk8qy/examin_chrome_extension/)
+- [Random-colors-palette](https://www.reddit.com/r/javascript/comments/nbhd19/randomcolorspalette/)
+- [Simple-Fast-Prefix-Completions -- The fastest autocomplete package in javascript?](https://www.reddit.com/r/javascript/comments/nbh56a/simplefastprefixcompletions_the_fastest/)
+- [Drop IE11 support plan for Vue 3](https://www.reddit.com/r/javascript/comments/nbh4ct/drop_ie11_support_plan_for_vue_3/)
+- [[AskJS] Searching for a library that can create gravity for a normal html element](https://www.reddit.com/r/javascript/comments/nbgz8i/askjs_searching_for_a_library_that_can_create/)
+- [JavaScript Spreadsheet Chart Feature Overview](https://www.reddit.com/r/javascript/comments/nbf344/javascript_spreadsheet_chart_feature_overview/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
