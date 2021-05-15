@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Mapbox GL JS v2: 3D Maps + Camera API + Sky API Launch](https://www.reddit.com/r/javascript/comments/nbtadt/mapbox_gl_js_v2_3d_maps_camera_api_sky_api_launch/)
-- [Aurora. Website's analytics made easy! Cookieless & Privacy Focus out of the Box. Built in NextJS.](https://www.reddit.com/r/javascript/comments/nbra9c/aurora_websites_analytics_made_easy_cookieless/)
-- [Simple Server-sent events example in Node.js/JavaScript](https://www.reddit.com/r/javascript/comments/nbm4tf/simple_serversent_events_example_in/)
-- [A tiny blogging platform that lets you write posts in Google Docs and syncs with a Google Drive directory.](https://www.reddit.com/r/javascript/comments/nbm4hc/a_tiny_blogging_platform_that_lets_you_write/)
-- [Examin chrome extension!](https://www.reddit.com/r/javascript/comments/nbk8qy/examin_chrome_extension/)
-- [Random-colors-palette](https://www.reddit.com/r/javascript/comments/nbhd19/randomcolorspalette/)
-- [Simple-Fast-Prefix-Completions -- The fastest autocomplete package in javascript?](https://www.reddit.com/r/javascript/comments/nbh56a/simplefastprefixcompletions_the_fastest/)
-- [Drop IE11 support plan for Vue 3](https://www.reddit.com/r/javascript/comments/nbh4ct/drop_ie11_support_plan_for_vue_3/)
-- [[AskJS] Searching for a library that can create gravity for a normal html element](https://www.reddit.com/r/javascript/comments/nbgz8i/askjs_searching_for_a_library_that_can_create/)
-- [JavaScript Spreadsheet Chart Feature Overview](https://www.reddit.com/r/javascript/comments/nbf344/javascript_spreadsheet_chart_feature_overview/)
+- [[AskJS] How the fuck does JSTorrent work?](https://www.reddit.com/r/javascript/comments/ncme2f/askjs_how_the_fuck_does_jstorrent_work/)
+- [PayPal's free JavaScript conference, JS@PayPal, will be running next week! Register now for free tickets.](https://www.reddit.com/r/javascript/comments/ncmaeg/paypals_free_javascript_conference_jspaypal_will/)
+- [Notion-like database built in React](https://www.reddit.com/r/javascript/comments/ncic1v/notionlike_database_built_in_react/)
+- [How to build micro-frontends with Angular](https://www.reddit.com/r/javascript/comments/ncew1l/how_to_build_microfrontends_with_angular/)
+- [PrivacyBot - A simple way to delete your data from all the data brokers](https://www.reddit.com/r/javascript/comments/ncevti/privacybot_a_simple_way_to_delete_your_data_from/)
+- [Is Ignite a React Native starter kit for beginners or for experts?](https://www.reddit.com/r/javascript/comments/ncem9j/is_ignite_a_react_native_starter_kit_for/)
+- [[AskJS] Best JavaScript markdown WYSIWYG editors?](https://www.reddit.com/r/javascript/comments/nce8v1/askjs_best_javascript_markdown_wysiwyg_editors/)
+- [Minecraft client written in jJAVASCRIPT!](https://www.reddit.com/r/javascript/comments/ncctwn/minecraft_client_written_in_jjavascript/)
+- [You Think You Can Forget About the “Legacy” Microsoft Edge? Not So Fast!](https://www.reddit.com/r/javascript/comments/nccgdu/you_think_you_can_forget_about_the_legacy/)
+- [Map of Javascript](https://www.reddit.com/r/javascript/comments/ncbqvx/map_of_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
