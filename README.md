@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] How the fuck does JSTorrent work?](https://www.reddit.com/r/javascript/comments/ncme2f/askjs_how_the_fuck_does_jstorrent_work/)
-- [PayPal's free JavaScript conference, JS@PayPal, will be running next week! Register now for free tickets.](https://www.reddit.com/r/javascript/comments/ncmaeg/paypals_free_javascript_conference_jspaypal_will/)
-- [Notion-like database built in React](https://www.reddit.com/r/javascript/comments/ncic1v/notionlike_database_built_in_react/)
-- [How to build micro-frontends with Angular](https://www.reddit.com/r/javascript/comments/ncew1l/how_to_build_microfrontends_with_angular/)
-- [PrivacyBot - A simple way to delete your data from all the data brokers](https://www.reddit.com/r/javascript/comments/ncevti/privacybot_a_simple_way_to_delete_your_data_from/)
-- [Is Ignite a React Native starter kit for beginners or for experts?](https://www.reddit.com/r/javascript/comments/ncem9j/is_ignite_a_react_native_starter_kit_for/)
-- [[AskJS] Best JavaScript markdown WYSIWYG editors?](https://www.reddit.com/r/javascript/comments/nce8v1/askjs_best_javascript_markdown_wysiwyg_editors/)
-- [Minecraft client written in jJAVASCRIPT!](https://www.reddit.com/r/javascript/comments/ncctwn/minecraft_client_written_in_jjavascript/)
-- [You Think You Can Forget About the “Legacy” Microsoft Edge? Not So Fast!](https://www.reddit.com/r/javascript/comments/nccgdu/you_think_you_can_forget_about_the_legacy/)
-- [Map of Javascript](https://www.reddit.com/r/javascript/comments/ncbqvx/map_of_javascript/)
+- [[AskJS] Is this a good idea?](https://www.reddit.com/r/javascript/comments/ndccok/askjs_is_this_a_good_idea/)
+- [fill-packagejson: A CLI tool to create or fill in missing information for package.json files.](https://www.reddit.com/r/javascript/comments/nd8lob/fillpackagejson_a_cli_tool_to_create_or_fill_in/)
+- [Rebasing & Merging](https://www.reddit.com/r/javascript/comments/nd5qoq/rebasing_merging/)
+- [A node ESM package template](https://www.reddit.com/r/javascript/comments/nd5gcu/a_node_esm_package_template/)
+- [Modern Javascript: Everything you missed over the last 10 years (ECMAScript 2020)](https://www.reddit.com/r/javascript/comments/nd14sf/modern_javascript_everything_you_missed_over_the/)
+- [QUnitX: Oldest JavaScript test framework now runs in CLI or browser](https://www.reddit.com/r/javascript/comments/nd07f4/qunitx_oldest_javascript_test_framework_now_runs/)
+- [Optional Chaining (?.) Refactoring](https://www.reddit.com/r/javascript/comments/ncz39p/optional_chaining_refactoring/)
+- [RPS Exclusive Game [Pixi.js]](https://www.reddit.com/r/javascript/comments/ncx849/rps_exclusive_game_pixijs/)
+- [[AskJS] How to pass session cookie with graphql-request while doing SSR in Next.js?](https://www.reddit.com/r/javascript/comments/nct3ua/askjs_how_to_pass_session_cookie_with/)
+- [Showoff Saturday (May 15, 2021)](https://www.reddit.com/r/javascript/comments/ncsst8/showoff_saturday_may_15_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
