@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Is this a good idea?](https://www.reddit.com/r/javascript/comments/ndccok/askjs_is_this_a_good_idea/)
+- [A backend dev figuring out modern frontend ecosystem](https://www.reddit.com/r/javascript/comments/ne06hk/a_backend_dev_figuring_out_modern_frontend/)
+- [ngx-icon-blur : An Angular component that can be used to create frosted glass effect of icons](https://www.reddit.com/r/javascript/comments/ndyj0z/ngxiconblur_an_angular_component_that_can_be_used/)
+- [What’s new in ECMAScript 2016 (ES7) – ECMAScript 2021? [Show Reddit]](https://www.reddit.com/r/javascript/comments/ndqrsr/whats_new_in_ecmascript_2016_es7_ecmascript_2021/)
+- [Beginners guide to creating a countdown timer with plain JavaScript.](https://www.reddit.com/r/javascript/comments/ndpjrq/beginners_guide_to_creating_a_countdown_timer/)
+- [Learn.js: A fast introduction to modern programming with javascript](https://www.reddit.com/r/javascript/comments/ndnhgs/learnjs_a_fast_introduction_to_modern_programming/)
 - [fill-packagejson: A CLI tool to create or fill in missing information for package.json files.](https://www.reddit.com/r/javascript/comments/nd8lob/fillpackagejson_a_cli_tool_to_create_or_fill_in/)
-- [Rebasing & Merging](https://www.reddit.com/r/javascript/comments/nd5qoq/rebasing_merging/)
 - [A node ESM package template](https://www.reddit.com/r/javascript/comments/nd5gcu/a_node_esm_package_template/)
 - [Modern Javascript: Everything you missed over the last 10 years (ECMAScript 2020)](https://www.reddit.com/r/javascript/comments/nd14sf/modern_javascript_everything_you_missed_over_the/)
 - [QUnitX: Oldest JavaScript test framework now runs in CLI or browser](https://www.reddit.com/r/javascript/comments/nd07f4/qunitx_oldest_javascript_test_framework_now_runs/)
-- [Optional Chaining (?.) Refactoring](https://www.reddit.com/r/javascript/comments/ncz39p/optional_chaining_refactoring/)
 - [RPS Exclusive Game [Pixi.js]](https://www.reddit.com/r/javascript/comments/ncx849/rps_exclusive_game_pixijs/)
-- [[AskJS] How to pass session cookie with graphql-request while doing SSR in Next.js?](https://www.reddit.com/r/javascript/comments/nct3ua/askjs_how_to_pass_session_cookie_with/)
-- [Showoff Saturday (May 15, 2021)](https://www.reddit.com/r/javascript/comments/ncsst8/showoff_saturday_may_15_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
