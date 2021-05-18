@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [A backend dev figuring out modern frontend ecosystem](https://www.reddit.com/r/javascript/comments/ne06hk/a_backend_dev_figuring_out_modern_frontend/)
-- [ngx-icon-blur : An Angular component that can be used to create frosted glass effect of icons](https://www.reddit.com/r/javascript/comments/ndyj0z/ngxiconblur_an_angular_component_that_can_be_used/)
-- [What’s new in ECMAScript 2016 (ES7) – ECMAScript 2021? [Show Reddit]](https://www.reddit.com/r/javascript/comments/ndqrsr/whats_new_in_ecmascript_2016_es7_ecmascript_2021/)
-- [Beginners guide to creating a countdown timer with plain JavaScript.](https://www.reddit.com/r/javascript/comments/ndpjrq/beginners_guide_to_creating_a_countdown_timer/)
-- [Learn.js: A fast introduction to modern programming with javascript](https://www.reddit.com/r/javascript/comments/ndnhgs/learnjs_a_fast_introduction_to_modern_programming/)
-- [fill-packagejson: A CLI tool to create or fill in missing information for package.json files.](https://www.reddit.com/r/javascript/comments/nd8lob/fillpackagejson_a_cli_tool_to_create_or_fill_in/)
-- [A node ESM package template](https://www.reddit.com/r/javascript/comments/nd5gcu/a_node_esm_package_template/)
-- [Modern Javascript: Everything you missed over the last 10 years (ECMAScript 2020)](https://www.reddit.com/r/javascript/comments/nd14sf/modern_javascript_everything_you_missed_over_the/)
-- [QUnitX: Oldest JavaScript test framework now runs in CLI or browser](https://www.reddit.com/r/javascript/comments/nd07f4/qunitx_oldest_javascript_test_framework_now_runs/)
-- [RPS Exclusive Game [Pixi.js]](https://www.reddit.com/r/javascript/comments/ncx849/rps_exclusive_game_pixijs/)
+- [A visualiser to help people learn about the DOM Event system through exploration](https://www.reddit.com/r/javascript/comments/nev94y/a_visualiser_to_help_people_learn_about_the_dom/)
+- [Full-text search with Node.js and ElasticSearch on Docker](https://www.reddit.com/r/javascript/comments/neibr3/fulltext_search_with_nodejs_and_elasticsearch_on/)
+- [Short builtin calls](https://www.reddit.com/r/javascript/comments/nefzzp/short_builtin_calls/)
+- [A modern boilerplate for Vite, React 17, and TypeScript 4.3](https://www.reddit.com/r/javascript/comments/nefvi6/a_modern_boilerplate_for_vite_react_17_and/)
+- [Bugbattle: Feedback & Bug Reporting SDK for JS that offers a screenshot, console & network logs as well session replays](https://www.reddit.com/r/javascript/comments/neeijk/bugbattle_feedback_bug_reporting_sdk_for_js_that/)
+- [Challenge: Javascript calculator in the smallest code.](https://www.reddit.com/r/javascript/comments/ned09m/challenge_javascript_calculator_in_the_smallest/)
+- [Typehole – Create TypeScript interfaces from JS runtime values automatically](https://www.reddit.com/r/javascript/comments/nebmum/typehole_create_typescript_interfaces_from_js/)
+- [[AskJS] Question about event loop](https://www.reddit.com/r/javascript/comments/neb7so/askjs_question_about_event_loop/)
+- [Your /r/javascript recap for the week of May 10 - May 16](https://www.reddit.com/r/javascript/comments/neb74i/your_rjavascript_recap_for_the_week_of_may_10_may/)
+- [[AskJS] Will there be a replacement for the deprecated orientationchange event?](https://www.reddit.com/r/javascript/comments/nea8fo/askjs_will_there_be_a_replacement_for_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
