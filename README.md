@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [A visualiser to help people learn about the DOM Event system through exploration](https://www.reddit.com/r/javascript/comments/nev94y/a_visualiser_to_help_people_learn_about_the_dom/)
-- [Full-text search with Node.js and ElasticSearch on Docker](https://www.reddit.com/r/javascript/comments/neibr3/fulltext_search_with_nodejs_and_elasticsearch_on/)
-- [Short builtin calls](https://www.reddit.com/r/javascript/comments/nefzzp/short_builtin_calls/)
-- [A modern boilerplate for Vite, React 17, and TypeScript 4.3](https://www.reddit.com/r/javascript/comments/nefvi6/a_modern_boilerplate_for_vite_react_17_and/)
-- [Bugbattle: Feedback & Bug Reporting SDK for JS that offers a screenshot, console & network logs as well session replays](https://www.reddit.com/r/javascript/comments/neeijk/bugbattle_feedback_bug_reporting_sdk_for_js_that/)
-- [Challenge: Javascript calculator in the smallest code.](https://www.reddit.com/r/javascript/comments/ned09m/challenge_javascript_calculator_in_the_smallest/)
-- [Typehole – Create TypeScript interfaces from JS runtime values automatically](https://www.reddit.com/r/javascript/comments/nebmum/typehole_create_typescript_interfaces_from_js/)
-- [[AskJS] Question about event loop](https://www.reddit.com/r/javascript/comments/neb7so/askjs_question_about_event_loop/)
-- [Your /r/javascript recap for the week of May 10 - May 16](https://www.reddit.com/r/javascript/comments/neb74i/your_rjavascript_recap_for_the_week_of_may_10_may/)
-- [[AskJS] Will there be a replacement for the deprecated orientationchange event?](https://www.reddit.com/r/javascript/comments/nea8fo/askjs_will_there_be_a_replacement_for_the/)
+- [Free tool for Developers to spin up a beautiful personal website in under 30 seconds. Roasting & feedback is welcome :)](https://www.reddit.com/r/javascript/comments/nfhboi/free_tool_for_developers_to_spin_up_a_beautiful/)
+- [Learn.js: A fast introduction to modern programming with javascript (Updated + Restyled)](https://www.reddit.com/r/javascript/comments/nfffpj/learnjs_a_fast_introduction_to_modern_programming/)
+- [How to create a serverless WebSocket API with Node.js](https://www.reddit.com/r/javascript/comments/nfewrh/how_to_create_a_serverless_websocket_api_with/)
+- [prerelease-checks: run essential pre-release checks before publishing to npm](https://www.reddit.com/r/javascript/comments/nfe7w7/prereleasechecks_run_essential_prerelease_checks/)
+- [Introducing Firefox’ new Site Isolation Security Architecture](https://www.reddit.com/r/javascript/comments/nfe3w4/introducing_firefox_new_site_isolation_security/)
+- [Helping Babel move to ES Modules](https://www.reddit.com/r/javascript/comments/nfdls2/helping_babel_move_to_es_modules/)
+- [How to reuse Storybook stories with React tests](https://www.reddit.com/r/javascript/comments/nfdld2/how_to_reuse_storybook_stories_with_react_tests/)
+- [lightGallery - Modern JavaScript image and video gallery.](https://www.reddit.com/r/javascript/comments/nfd7lr/lightgallery_modern_javascript_image_and_video/)
+- [How to Deploy your React Project to Netlify? (step by step)](https://www.reddit.com/r/javascript/comments/nfd0j9/how_to_deploy_your_react_project_to_netlify_step/)
+- [[AskJS] Does anyone have any good resources for mapping a webpack config to snowpack?](https://www.reddit.com/r/javascript/comments/nfbxqq/askjs_does_anyone_have_any_good_resources_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
