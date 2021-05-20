@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Free tool for Developers to spin up a beautiful personal website in under 30 seconds. Roasting & feedback is welcome :)](https://www.reddit.com/r/javascript/comments/nfhboi/free_tool_for_developers_to_spin_up_a_beautiful/)
-- [Learn.js: A fast introduction to modern programming with javascript (Updated + Restyled)](https://www.reddit.com/r/javascript/comments/nfffpj/learnjs_a_fast_introduction_to_modern_programming/)
-- [How to create a serverless WebSocket API with Node.js](https://www.reddit.com/r/javascript/comments/nfewrh/how_to_create_a_serverless_websocket_api_with/)
-- [prerelease-checks: run essential pre-release checks before publishing to npm](https://www.reddit.com/r/javascript/comments/nfe7w7/prereleasechecks_run_essential_prerelease_checks/)
-- [Introducing Firefox’ new Site Isolation Security Architecture](https://www.reddit.com/r/javascript/comments/nfe3w4/introducing_firefox_new_site_isolation_security/)
-- [Helping Babel move to ES Modules](https://www.reddit.com/r/javascript/comments/nfdls2/helping_babel_move_to_es_modules/)
-- [How to reuse Storybook stories with React tests](https://www.reddit.com/r/javascript/comments/nfdld2/how_to_reuse_storybook_stories_with_react_tests/)
-- [lightGallery - Modern JavaScript image and video gallery.](https://www.reddit.com/r/javascript/comments/nfd7lr/lightgallery_modern_javascript_image_and_video/)
-- [How to Deploy your React Project to Netlify? (step by step)](https://www.reddit.com/r/javascript/comments/nfd0j9/how_to_deploy_your_react_project_to_netlify_step/)
-- [[AskJS] Does anyone have any good resources for mapping a webpack config to snowpack?](https://www.reddit.com/r/javascript/comments/nfbxqq/askjs_does_anyone_have_any_good_resources_for/)
+- [Over the pandemic, I made a 2D Arena Shooter in node.js! Alpha launch Thursday 9pm CST and I'm looking for feedback!](https://www.reddit.com/r/javascript/comments/ngnrjs/over_the_pandemic_i_made_a_2d_arena_shooter_in/)
+- [I've created a 3D product configurator with modelviewer.dev. Let me know your thoughts](https://www.reddit.com/r/javascript/comments/nggnz5/ive_created_a_3d_product_configurator_with/)
+- [The google/zx starting with v1.8 supports Markdown Scripts (AKA litcoffee)](https://www.reddit.com/r/javascript/comments/ngfpwe/the_googlezx_starting_with_v18_supports_markdown/)
+- [NodeJS | Express | Mongo (Mongoose ODM) | TypeScript Boilerplate | RESTful](https://www.reddit.com/r/javascript/comments/ngfcr8/nodejs_express_mongo_mongoose_odm_typescript/)
+- [Vandal – Browser extension that helps you navigate back in time using Wayback Machine without leaving your current tab](https://www.reddit.com/r/javascript/comments/ngfbim/vandal_browser_extension_that_helps_you_navigate/)
+- [[AskJS] What are some of your experiences with open source JS projects?](https://www.reddit.com/r/javascript/comments/nge61e/askjs_what_are_some_of_your_experiences_with_open/)
+- [A couple weeks ago I made a post about my chrome extension 'Reddit Wherever'. Which allows you view Reddit comments of the current webpage or replace YouTube comments with Reddit comments. Using your feedback I added tons of new features. (GitHub in comments)](https://www.reddit.com/r/javascript/comments/ngdmwq/a_couple_weeks_ago_i_made_a_post_about_my_chrome/)
+- [Microsoft finally retiring Internet Explorer on June 15,2022](https://www.reddit.com/r/javascript/comments/ngd4ep/microsoft_finally_retiring_internet_explorer_on/)
+- [Improving Firefox stability on Linux](https://www.reddit.com/r/javascript/comments/ngd0d0/improving_firefox_stability_on_linux/)
+- [Rollup.Js Cheat Sheet](https://www.reddit.com/r/javascript/comments/ng8yvl/rollupjs_cheat_sheet/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
