@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Over the pandemic, I made a 2D Arena Shooter in node.js! Alpha launch Thursday 9pm CST and I'm looking for feedback!](https://www.reddit.com/r/javascript/comments/ngnrjs/over_the_pandemic_i_made_a_2d_arena_shooter_in/)
-- [I've created a 3D product configurator with modelviewer.dev. Let me know your thoughts](https://www.reddit.com/r/javascript/comments/nggnz5/ive_created_a_3d_product_configurator_with/)
-- [The google/zx starting with v1.8 supports Markdown Scripts (AKA litcoffee)](https://www.reddit.com/r/javascript/comments/ngfpwe/the_googlezx_starting_with_v18_supports_markdown/)
-- [NodeJS | Express | Mongo (Mongoose ODM) | TypeScript Boilerplate | RESTful](https://www.reddit.com/r/javascript/comments/ngfcr8/nodejs_express_mongo_mongoose_odm_typescript/)
-- [Vandal – Browser extension that helps you navigate back in time using Wayback Machine without leaving your current tab](https://www.reddit.com/r/javascript/comments/ngfbim/vandal_browser_extension_that_helps_you_navigate/)
-- [[AskJS] What are some of your experiences with open source JS projects?](https://www.reddit.com/r/javascript/comments/nge61e/askjs_what_are_some_of_your_experiences_with_open/)
-- [A couple weeks ago I made a post about my chrome extension 'Reddit Wherever'. Which allows you view Reddit comments of the current webpage or replace YouTube comments with Reddit comments. Using your feedback I added tons of new features. (GitHub in comments)](https://www.reddit.com/r/javascript/comments/ngdmwq/a_couple_weeks_ago_i_made_a_post_about_my_chrome/)
-- [Microsoft finally retiring Internet Explorer on June 15,2022](https://www.reddit.com/r/javascript/comments/ngd4ep/microsoft_finally_retiring_internet_explorer_on/)
-- [Improving Firefox stability on Linux](https://www.reddit.com/r/javascript/comments/ngd0d0/improving_firefox_stability_on_linux/)
-- [Rollup.Js Cheat Sheet](https://www.reddit.com/r/javascript/comments/ng8yvl/rollupjs_cheat_sheet/)
+- [Pair of concepts may confuse you in Javascript - Number.isNaN() and isNaN()](https://www.reddit.com/r/javascript/comments/nhgy7g/pair_of_concepts_may_confuse_you_in_javascript/)
+- [WebTool - Most relevant and flexible code editor for web designers.](https://www.reddit.com/r/javascript/comments/nhft02/webtool_most_relevant_and_flexible_code_editor/)
+- [Introducing WebContainers: Run Node.js natively in your browser](https://www.reddit.com/r/javascript/comments/nhdfkj/introducing_webcontainers_run_nodejs_natively_in/)
+- [How to Deploy your React Project to Netlify? (step by step)](https://www.reddit.com/r/javascript/comments/nhd793/how_to_deploy_your_react_project_to_netlify_step/)
+- [Summer Coding Course: Introduction to Javascript by making games. Primarily for ages 13-16 but students of any age can join!](https://www.reddit.com/r/javascript/comments/nhcv8z/summer_coding_course_introduction_to_javascript/)
+- [Turn Your Rockets into Washing Machines](https://www.reddit.com/r/javascript/comments/nhckz0/turn_your_rockets_into_washing_machines/)
+- [I built a color + font generator with JS, hopefully it helps you design your next project! 100% free, no signup required :)](https://www.reddit.com/r/javascript/comments/nhaktk/i_built_a_color_font_generator_with_js_hopefully/)
+- [I built this Lottie animation editor to edit Lottie animations without After Effects! If like me, you use Lottie animations as part of your frontend UI but struggle with After Effects or implementation issues, would like to know what you think](https://www.reddit.com/r/javascript/comments/nh9qw6/i_built_this_lottie_animation_editor_to_edit/)
+- [[Poly Art 3D] You will fall in love](https://www.reddit.com/r/javascript/comments/nh925o/poly_art_3d_you_will_fall_in_love/)
+- [Building Bitcoin in JavaScript, to learn how it works](https://www.reddit.com/r/javascript/comments/nh916t/building_bitcoin_in_javascript_to_learn_how_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
