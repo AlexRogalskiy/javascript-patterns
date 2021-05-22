@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Pair of concepts may confuse you in Javascript - Number.isNaN() and isNaN()](https://www.reddit.com/r/javascript/comments/nhgy7g/pair_of_concepts_may_confuse_you_in_javascript/)
-- [WebTool - Most relevant and flexible code editor for web designers.](https://www.reddit.com/r/javascript/comments/nhft02/webtool_most_relevant_and_flexible_code_editor/)
-- [Introducing WebContainers: Run Node.js natively in your browser](https://www.reddit.com/r/javascript/comments/nhdfkj/introducing_webcontainers_run_nodejs_natively_in/)
-- [How to Deploy your React Project to Netlify? (step by step)](https://www.reddit.com/r/javascript/comments/nhd793/how_to_deploy_your_react_project_to_netlify_step/)
-- [Summer Coding Course: Introduction to Javascript by making games. Primarily for ages 13-16 but students of any age can join!](https://www.reddit.com/r/javascript/comments/nhcv8z/summer_coding_course_introduction_to_javascript/)
-- [Turn Your Rockets into Washing Machines](https://www.reddit.com/r/javascript/comments/nhckz0/turn_your_rockets_into_washing_machines/)
-- [I built a color + font generator with JS, hopefully it helps you design your next project! 100% free, no signup required :)](https://www.reddit.com/r/javascript/comments/nhaktk/i_built_a_color_font_generator_with_js_hopefully/)
-- [I built this Lottie animation editor to edit Lottie animations without After Effects! If like me, you use Lottie animations as part of your frontend UI but struggle with After Effects or implementation issues, would like to know what you think](https://www.reddit.com/r/javascript/comments/nh9qw6/i_built_this_lottie_animation_editor_to_edit/)
-- [[Poly Art 3D] You will fall in love](https://www.reddit.com/r/javascript/comments/nh925o/poly_art_3d_you_will_fall_in_love/)
-- [Building Bitcoin in JavaScript, to learn how it works](https://www.reddit.com/r/javascript/comments/nh916t/building_bitcoin_in_javascript_to_learn_how_it/)
+- [Marching Squares with Linear Interpolation - interactive demo](https://www.reddit.com/r/javascript/comments/ni7170/marching_squares_with_linear_interpolation/)
+- [How to build a Pythagorean theorem calculator with JavaScript.](https://www.reddit.com/r/javascript/comments/ni6fz8/how_to_build_a_pythagorean_theorem_calculator/)
+- [[AskJS] Building a CLI using Typescript](https://www.reddit.com/r/javascript/comments/ni1srw/askjs_building_a_cli_using_typescript/)
+- [TC39er Podcast with Mike Samuel!](https://www.reddit.com/r/javascript/comments/ni17fg/tc39er_podcast_with_mike_samuel/)
+- [Svelte3 web-components boilerplate for creating custom elements](https://www.reddit.com/r/javascript/comments/ni0z9x/svelte3_webcomponents_boilerplate_for_creating/)
+- [Front-end Studio powered by SolidJS](https://www.reddit.com/r/javascript/comments/nhy5vg/frontend_studio_powered_by_solidjs/)
+- [Adlib: A Project Configuration Management Tool](https://www.reddit.com/r/javascript/comments/nhxtk4/adlib_a_project_configuration_management_tool/)
+- [[Re]introducing the Clio programming language](https://www.reddit.com/r/javascript/comments/nhxhb5/reintroducing_the_clio_programming_language/)
+- [Web Components 101: Why use Web Components?](https://www.reddit.com/r/javascript/comments/nhvekt/web_components_101_why_use_web_components/)
+- [HyperExpress: A high performance Node.js webserver with a simple-to-use API](https://www.reddit.com/r/javascript/comments/nhuft9/hyperexpress_a_high_performance_nodejs_webserver/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
