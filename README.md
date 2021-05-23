@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Marching Squares with Linear Interpolation - interactive demo](https://www.reddit.com/r/javascript/comments/ni7170/marching_squares_with_linear_interpolation/)
-- [How to build a Pythagorean theorem calculator with JavaScript.](https://www.reddit.com/r/javascript/comments/ni6fz8/how_to_build_a_pythagorean_theorem_calculator/)
-- [[AskJS] Building a CLI using Typescript](https://www.reddit.com/r/javascript/comments/ni1srw/askjs_building_a_cli_using_typescript/)
-- [TC39er Podcast with Mike Samuel!](https://www.reddit.com/r/javascript/comments/ni17fg/tc39er_podcast_with_mike_samuel/)
-- [Svelte3 web-components boilerplate for creating custom elements](https://www.reddit.com/r/javascript/comments/ni0z9x/svelte3_webcomponents_boilerplate_for_creating/)
-- [Front-end Studio powered by SolidJS](https://www.reddit.com/r/javascript/comments/nhy5vg/frontend_studio_powered_by_solidjs/)
-- [Adlib: A Project Configuration Management Tool](https://www.reddit.com/r/javascript/comments/nhxtk4/adlib_a_project_configuration_management_tool/)
-- [[Re]introducing the Clio programming language](https://www.reddit.com/r/javascript/comments/nhxhb5/reintroducing_the_clio_programming_language/)
-- [Web Components 101: Why use Web Components?](https://www.reddit.com/r/javascript/comments/nhvekt/web_components_101_why_use_web_components/)
-- [HyperExpress: A high performance Node.js webserver with a simple-to-use API](https://www.reddit.com/r/javascript/comments/nhuft9/hyperexpress_a_high_performance_nodejs_webserver/)
+- [DOOM Captcha - Captchas don't have to be boring](https://www.reddit.com/r/javascript/comments/niu5o3/doom_captcha_captchas_dont_have_to_be_boring/)
+- [easy-ast-transform - a much easier way of modifying js AST nodes](https://www.reddit.com/r/javascript/comments/niojsh/easyasttransform_a_much_easier_way_of_modifying/)
+- [Rewriting Deno’s Testing Tools](https://www.reddit.com/r/javascript/comments/nilo20/rewriting_denos_testing_tools/)
+- [zx 1.9.0 release with a new pipe() method](https://www.reddit.com/r/javascript/comments/niks0q/zx_190_release_with_a_new_pipe_method/)
+- [Access Device Camera from static HTML page using Javascript Camera API](https://www.reddit.com/r/javascript/comments/nikp6c/access_device_camera_from_static_html_page_using/)
+- [[AskJS] Can someone help me understand some of this code in SolidJS?](https://www.reddit.com/r/javascript/comments/nih3d7/askjs_can_someone_help_me_understand_some_of_this/)
+- [I made a desktop app with JavaScript: Geniemoji](https://www.reddit.com/r/javascript/comments/nih254/i_made_a_desktop_app_with_javascript_geniemoji/)
+- [[AskJS] Looking for a javascript visualisation library that can handle a big number (150) of shapes](https://www.reddit.com/r/javascript/comments/nigg4a/askjs_looking_for_a_javascript_visualisation/)
+- [COVID-19 Vaccination Tracker: I wanted to visualize the vaccination progress as best as I could, it gives me hope seeing the progress in the otherwise grim situation. Hope that this website can also help you. Also, it's Open Source, please feel free to submit PRs if you want.](https://www.reddit.com/r/javascript/comments/nifayd/covid19_vaccination_tracker_i_wanted_to_visualize/)
+- [What is the difference between console installation and silent installation?](https://www.reddit.com/r/javascript/comments/nidz4r/what_is_the_difference_between_console/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
