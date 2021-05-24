@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [DOOM Captcha - Captchas don't have to be boring](https://www.reddit.com/r/javascript/comments/niu5o3/doom_captcha_captchas_dont_have_to_be_boring/)
-- [easy-ast-transform - a much easier way of modifying js AST nodes](https://www.reddit.com/r/javascript/comments/niojsh/easyasttransform_a_much_easier_way_of_modifying/)
-- [Rewriting Deno’s Testing Tools](https://www.reddit.com/r/javascript/comments/nilo20/rewriting_denos_testing_tools/)
-- [zx 1.9.0 release with a new pipe() method](https://www.reddit.com/r/javascript/comments/niks0q/zx_190_release_with_a_new_pipe_method/)
-- [Access Device Camera from static HTML page using Javascript Camera API](https://www.reddit.com/r/javascript/comments/nikp6c/access_device_camera_from_static_html_page_using/)
-- [[AskJS] Can someone help me understand some of this code in SolidJS?](https://www.reddit.com/r/javascript/comments/nih3d7/askjs_can_someone_help_me_understand_some_of_this/)
-- [I made a desktop app with JavaScript: Geniemoji](https://www.reddit.com/r/javascript/comments/nih254/i_made_a_desktop_app_with_javascript_geniemoji/)
-- [[AskJS] Looking for a javascript visualisation library that can handle a big number (150) of shapes](https://www.reddit.com/r/javascript/comments/nigg4a/askjs_looking_for_a_javascript_visualisation/)
-- [COVID-19 Vaccination Tracker: I wanted to visualize the vaccination progress as best as I could, it gives me hope seeing the progress in the otherwise grim situation. Hope that this website can also help you. Also, it's Open Source, please feel free to submit PRs if you want.](https://www.reddit.com/r/javascript/comments/nifayd/covid19_vaccination_tracker_i_wanted_to_visualize/)
-- [What is the difference between console installation and silent installation?](https://www.reddit.com/r/javascript/comments/nidz4r/what_is_the_difference_between_console/)
+- [Bottery – A conversational agent prototyping platform](https://www.reddit.com/r/javascript/comments/njmiwt/bottery_a_conversational_agent_prototyping/)
+- [First Project: JavaScript Game that takes 1-2 minutes to play. (GitHub in comments)](https://www.reddit.com/r/javascript/comments/njljm4/first_project_javascript_game_that_takes_12/)
+- [[AskJS] doing feedback reports with screenshot](https://www.reddit.com/r/javascript/comments/njhfe1/askjs_doing_feedback_reports_with_screenshot/)
+- [It's cool to play elastic man](https://www.reddit.com/r/javascript/comments/nje8g0/its_cool_to_play_elastic_man/)
+- [zap-db: we made a JSON based database written in typescript and running on node, especially suited to slack/discord bots and works great as a replacement to json blobs :)](https://www.reddit.com/r/javascript/comments/njdo3f/zapdb_we_made_a_json_based_database_written_in/)
+- [The stupid simple React store hook](https://www.reddit.com/r/javascript/comments/njbgxj/the_stupid_simple_react_store_hook/)
+- [I remade my n-dimensional Hypercube Visualizer in javascript to work on browsers!](https://www.reddit.com/r/javascript/comments/nja3ts/i_remade_my_ndimensional_hypercube_visualizer_in/)
+- [JS ES2021 - It's Almost Here](https://www.reddit.com/r/javascript/comments/nja3n0/js_es2021_its_almost_here/)
+- [jsfxr is a quick and easy sound effects generator](https://www.reddit.com/r/javascript/comments/nja03x/jsfxr_is_a_quick_and_easy_sound_effects_generator/)
+- [What is the meaning of this?](https://www.reddit.com/r/javascript/comments/nj9wsw/what_is_the_meaning_of_this/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
