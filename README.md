@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Bottery – A conversational agent prototyping platform](https://www.reddit.com/r/javascript/comments/njmiwt/bottery_a_conversational_agent_prototyping/)
-- [First Project: JavaScript Game that takes 1-2 minutes to play. (GitHub in comments)](https://www.reddit.com/r/javascript/comments/njljm4/first_project_javascript_game_that_takes_12/)
-- [[AskJS] doing feedback reports with screenshot](https://www.reddit.com/r/javascript/comments/njhfe1/askjs_doing_feedback_reports_with_screenshot/)
-- [It's cool to play elastic man](https://www.reddit.com/r/javascript/comments/nje8g0/its_cool_to_play_elastic_man/)
-- [zap-db: we made a JSON based database written in typescript and running on node, especially suited to slack/discord bots and works great as a replacement to json blobs :)](https://www.reddit.com/r/javascript/comments/njdo3f/zapdb_we_made_a_json_based_database_written_in/)
-- [The stupid simple React store hook](https://www.reddit.com/r/javascript/comments/njbgxj/the_stupid_simple_react_store_hook/)
-- [I remade my n-dimensional Hypercube Visualizer in javascript to work on browsers!](https://www.reddit.com/r/javascript/comments/nja3ts/i_remade_my_ndimensional_hypercube_visualizer_in/)
-- [JS ES2021 - It's Almost Here](https://www.reddit.com/r/javascript/comments/nja3n0/js_es2021_its_almost_here/)
-- [jsfxr is a quick and easy sound effects generator](https://www.reddit.com/r/javascript/comments/nja03x/jsfxr_is_a_quick_and_easy_sound_effects_generator/)
-- [What is the meaning of this?](https://www.reddit.com/r/javascript/comments/nj9wsw/what_is_the_meaning_of_this/)
+- [JavaScript Inheritance: the Dark Arts](https://www.reddit.com/r/javascript/comments/nkcwun/javascript_inheritance_the_dark_arts/)
+- [The Bad Reasons People Avoid TypeScript — and the Better Reasons Why They Shouldn’t](https://www.reddit.com/r/javascript/comments/nkcn2k/the_bad_reasons_people_avoid_typescript_and_the/)
+- [How to Deploy your React Project to Netlify?](https://www.reddit.com/r/javascript/comments/nk76c6/how_to_deploy_your_react_project_to_netlify/)
+- [zx 1.12 introduces a new nothrow() function and a better TypeScript support](https://www.reddit.com/r/javascript/comments/nk67p4/zx_112_introduces_a_new_nothrow_function_and_a/)
+- [Sending images and more with Telegram bot](https://www.reddit.com/r/javascript/comments/nk5u0m/sending_images_and_more_with_telegram_bot/)
+- [Build A Library With esbuild](https://www.reddit.com/r/javascript/comments/njyk3k/build_a_library_with_esbuild/)
+- [A prototype for simple real time remote pair programming without any special editors.](https://www.reddit.com/r/javascript/comments/njvm47/a_prototype_for_simple_real_time_remote_pair/)
+- [Codemod for migrating to Tailwind utilities](https://www.reddit.com/r/javascript/comments/njvkyp/codemod_for_migrating_to_tailwind_utilities/)
+- [Your /r/javascript recap for the week of May 17 - May 23](https://www.reddit.com/r/javascript/comments/njties/your_rjavascript_recap_for_the_week_of_may_17_may/)
+- [SvelteKitAuth enables developers to rapidly implement OAuth and other authentication flows in their SvelteKit apps using a class-based architecture and HTTP only cookies!](https://www.reddit.com/r/javascript/comments/njtfrf/sveltekitauth_enables_developers_to_rapidly/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
