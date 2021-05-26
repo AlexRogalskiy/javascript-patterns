@@ -206,10 +206,8 @@ with community support please contact with us if you have some question or propo
 
 [![Contributors Display](https://badges.pufler.dev/contributors/AlexRogalskiy/javascript-patterns?size=50\&padding=5\&bots=true)](https://badges.pufler.dev)
 
-Please read
-[CONTRIBUTING.md](CONTRIBUTING.md)
-for details on our code of conduct, and the process for submitting pull requests to us
-([emoji key](https://allcontributors.org/docs/en/emoji-key)).
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests
+to us ([emoji key](https://allcontributors.org/docs/en/emoji-key)).
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors)
 specification. Contributions of any kind are welcome!
@@ -259,16 +257,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 
 <!-- REDDIT-POST-LIST:START -->
 
-- [JavaScript Inheritance: the Dark Arts](https://www.reddit.com/r/javascript/comments/nkcwun/javascript_inheritance_the_dark_arts/)
-- [The Bad Reasons People Avoid TypeScript — and the Better Reasons Why They Shouldn’t](https://www.reddit.com/r/javascript/comments/nkcn2k/the_bad_reasons_people_avoid_typescript_and_the/)
-- [How to Deploy your React Project to Netlify?](https://www.reddit.com/r/javascript/comments/nk76c6/how_to_deploy_your_react_project_to_netlify/)
-- [zx 1.12 introduces a new nothrow() function and a better TypeScript support](https://www.reddit.com/r/javascript/comments/nk67p4/zx\_112\_introduces_a_new_nothrow_function_and_a/)
-- [Sending images and more with Telegram bot](https://www.reddit.com/r/javascript/comments/nk5u0m/sending_images_and_more_with_telegram_bot/)
-- [Build A Library With esbuild](https://www.reddit.com/r/javascript/comments/njyk3k/build_a_library_with_esbuild/)
-- [A prototype for simple real time remote pair programming without any special editors.](https://www.reddit.com/r/javascript/comments/njvm47/a_prototype_for_simple_real_time_remote_pair/)
-- [Codemod for migrating to Tailwind utilities](https://www.reddit.com/r/javascript/comments/njvkyp/codemod_for_migrating_to_tailwind_utilities/)
-- [Your /r/javascript recap for the week of May 17 - May 23](https://www.reddit.com/r/javascript/comments/njties/your_rjavascript_recap_for_the_week_of_may\_17\_may/)
-- [SvelteKitAuth enables developers to rapidly implement OAuth and other authentication flows in their SvelteKit apps using a class-based architecture and HTTP only cookies!](https://www.reddit.com/r/javascript/comments/njtfrf/sveltekitauth_enables_developers_to_rapidly/)
+- [\[AskJS\] why do you think JS gets so much hate from devs?](https://www.reddit.com/r/javascript/comments/nl2e0t/askjs_why_do_you_think_js_gets_so_much_hate_from/)
+- [I created a Markdown blog using the Notion API, Next.js and Tailwind](https://www.reddit.com/r/javascript/comments/nl0bnn/i_created_a_markdown_blog_using_the_notion_api/)
+- [Adding Authentication to an existing serverless Next.js App in no time with NextAuth.js!](https://www.reddit.com/r/javascript/comments/nkzqd4/adding_authentication_to_an_existing_serverless/)
+- [Hate Cookies? Introducing Aurora, 100% Cookie-Free Javascript Open Website Analytics.](https://www.reddit.com/r/javascript/comments/nkznwp/hate_cookies_introducing_aurora\_100\_cookiefree/)
+- [Enjoying an Haskell like Type System in Javascript](https://www.reddit.com/r/javascript/comments/nkwy36/enjoying_an_haskell_like_type_system_in_javascript/)
+- [10 Useful Tips That Every React JS Developer Should Know](https://www.reddit.com/r/javascript/comments/nkw6f0/10\_useful_tips_that_every_react_js_developer/)
+- [CodeLockr: a website built for developers to keep all the stuff they need while coding in one place, like code snippets, and much more.](https://www.reddit.com/r/javascript/comments/nkvb7o/codelockr_a_website_built_for_developers_to_keep/)
+- [Parsing in JavaScript: all the tools and libraries you can use](https://www.reddit.com/r/javascript/comments/nku4sj/parsing_in_javascript_all_the_tools_and_libraries/)
+- [snap-tweet: CLI to snap a screenshot of a tweet](https://www.reddit.com/r/javascript/comments/nkt2l8/snaptweet_cli_to_snap_a_screenshot_of_a_tweet/)
+- [There is already a foreign function call library for node out there!](https://www.reddit.com/r/javascript/comments/nkr59w/there_is_already_a_foreign_function_call_library/)
 
 <!-- REDDIT-POST-LIST:END -->
 
