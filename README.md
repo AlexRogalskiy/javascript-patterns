@@ -284,7 +284,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *EmberJS posts*
 
 <!-- EMBERJS-POST-LIST:START -->
-
 - [The Ember Times - Issue No. 180](https://blog.emberjs.com/the-ember-times-issue-180)
 - [The Ember JS Framework Takes the GAAD Pledge](https://blog.emberjs.com/gaad-2021)
 - [The Ember Times - Issue No. 179](https://blog.emberjs.com/the-ember-times-issue-179)
@@ -295,7 +294,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [The Ember Times - Issue No. 175](https://blog.emberjs.com/the-ember-times-issue-175)
 - [The Ember Times - Issue No. 174](https://blog.emberjs.com/the-ember-times-issue-174)
 - [Ember 3.25 Released](https://blog.emberjs.com/ember-3-25-released)
-
 <!-- EMBERJS-POST-LIST:END -->
 
 ### *YouTube code posts*
