@@ -254,18 +254,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-
-- [\[AskJS\] why do you think JS gets so much hate from devs?](https://www.reddit.com/r/javascript/comments/nl2e0t/askjs_why_do_you_think_js_gets_so_much_hate_from/)
-- [I created a Markdown blog using the Notion API, Next.js and Tailwind](https://www.reddit.com/r/javascript/comments/nl0bnn/i_created_a_markdown_blog_using_the_notion_api/)
-- [Adding Authentication to an existing serverless Next.js App in no time with NextAuth.js!](https://www.reddit.com/r/javascript/comments/nkzqd4/adding_authentication_to_an_existing_serverless/)
-- [Hate Cookies? Introducing Aurora, 100% Cookie-Free Javascript Open Website Analytics.](https://www.reddit.com/r/javascript/comments/nkznwp/hate_cookies_introducing_aurora\_100\_cookiefree/)
-- [Enjoying an Haskell like Type System in Javascript](https://www.reddit.com/r/javascript/comments/nkwy36/enjoying_an_haskell_like_type_system_in_javascript/)
-- [10 Useful Tips That Every React JS Developer Should Know](https://www.reddit.com/r/javascript/comments/nkw6f0/10\_useful_tips_that_every_react_js_developer/)
-- [CodeLockr: a website built for developers to keep all the stuff they need while coding in one place, like code snippets, and much more.](https://www.reddit.com/r/javascript/comments/nkvb7o/codelockr_a_website_built_for_developers_to_keep/)
-- [Parsing in JavaScript: all the tools and libraries you can use](https://www.reddit.com/r/javascript/comments/nku4sj/parsing_in_javascript_all_the_tools_and_libraries/)
-- [snap-tweet: CLI to snap a screenshot of a tweet](https://www.reddit.com/r/javascript/comments/nkt2l8/snaptweet_cli_to_snap_a_screenshot_of_a_tweet/)
-- [There is already a foreign function call library for node out there!](https://www.reddit.com/r/javascript/comments/nkr59w/there_is_already_a_foreign_function_call_library/)
-
+- [Updates from latest (83rd) meeting of TC39](https://www.reddit.com/r/javascript/comments/nltoqz/updates_from_latest_83rd_meeting_of_tc39/)
+- [MDN is launching MDN Plus](https://www.reddit.com/r/javascript/comments/nlsddu/mdn_is_launching_mdn_plus/)
+- [A little library I made: React Service Locator. I managed to replace Redux and Context API for several use-cases in a couple of projects with it. Hope someone finds it useful.](https://www.reddit.com/r/javascript/comments/nlp8y6/a_little_library_i_made_react_service_locator_i/)
+- [Announcing TypeScript 4.3](https://www.reddit.com/r/javascript/comments/nlmqvj/announcing_typescript_43/)
+- [I made a website that documents TypeScript packages](https://www.reddit.com/r/javascript/comments/nlks81/i_made_a_website_that_documents_typescript/)
+- [Re:factor - a FREE software development conference for charity](https://www.reddit.com/r/javascript/comments/nljlbm/refactor_a_free_software_development_conference/)
+- [Clarity on Flow’s Direction and Open Source Engagement](https://www.reddit.com/r/javascript/comments/nliw95/clarity_on_flows_direction_and_open_source/)
+- [Making It Possible to Write Strongly Typed, Overloadable Constructors and Methods in JavaScript](https://www.reddit.com/r/javascript/comments/nlhe4q/making_it_possible_to_write_strongly_typed/)
+- [Building a SaaS Application with Next.js, Prisma, Auth0 and Stripe](https://www.reddit.com/r/javascript/comments/nlg078/building_a_saas_application_with_nextjs_prisma/)
+- [I made a JWT-Library for Cloudflare Workers with ZERO dependencies](https://www.reddit.com/r/javascript/comments/nlewrd/i_made_a_jwtlibrary_for_cloudflare_workers_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
