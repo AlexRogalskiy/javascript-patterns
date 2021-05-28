@@ -254,21 +254,22 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Writing custom REPLs in Node.js](https://www.reddit.com/r/javascript/comments/nmnb2b/writing_custom_repls_in_nodejs/)
+- [Create sites or tables from a airtable/gsheet/csv](https://www.reddit.com/r/javascript/comments/nmjwhl/create_sites_or_tables_from_a_airtablegsheetcsv/)
+- [Are you a professional developer?](https://www.reddit.com/r/javascript/comments/nmj7lv/are_you_a_professional_developer/)
+- [I made a little webapp to automatically create CSS particle effects for buttons](https://www.reddit.com/r/javascript/comments/nmgwl0/i_made_a_little_webapp_to_automatically_create/)
+- [Setting up webhooks for Facebook apps](https://www.reddit.com/r/javascript/comments/nmdae5/setting_up_webhooks_for_facebook_apps/)
+- [Customizeable, simple and free URL shortener coded in JavaScript (FOSS)](https://www.reddit.com/r/javascript/comments/nmbkez/customizeable_simple_and_free_url_shortener_coded/)
+- [Sparkplug — A non-optimizing JavaScript compiler](https://www.reddit.com/r/javascript/comments/nmbd5p/sparkplug_a_nonoptimizing_javascript_compiler/)
+- [The Evolution and Redefinition of The Jamstack](https://www.reddit.com/r/javascript/comments/nm8wpi/the_evolution_and_redefinition_of_the_jamstack/)
+- [Demystifying Iterables by implementing a python like range function](https://www.reddit.com/r/javascript/comments/nm7ov4/demystifying_iterables_by_implementing_a_python/)
 - [Updates from latest (83rd) meeting of TC39](https://www.reddit.com/r/javascript/comments/nltoqz/updates_from_latest_83rd_meeting_of_tc39/)
-- [MDN is launching MDN Plus](https://www.reddit.com/r/javascript/comments/nlsddu/mdn_is_launching_mdn_plus/)
-- [A little library I made: React Service Locator. I managed to replace Redux and Context API for several use-cases in a couple of projects with it. Hope someone finds it useful.](https://www.reddit.com/r/javascript/comments/nlp8y6/a_little_library_i_made_react_service_locator_i/)
-- [Announcing TypeScript 4.3](https://www.reddit.com/r/javascript/comments/nlmqvj/announcing_typescript_43/)
-- [I made a website that documents TypeScript packages](https://www.reddit.com/r/javascript/comments/nlks81/i_made_a_website_that_documents_typescript/)
-- [Re:factor - a FREE software development conference for charity](https://www.reddit.com/r/javascript/comments/nljlbm/refactor_a_free_software_development_conference/)
-- [Clarity on Flow’s Direction and Open Source Engagement](https://www.reddit.com/r/javascript/comments/nliw95/clarity_on_flows_direction_and_open_source/)
-- [Making It Possible to Write Strongly Typed, Overloadable Constructors and Methods in JavaScript](https://www.reddit.com/r/javascript/comments/nlhe4q/making_it_possible_to_write_strongly_typed/)
-- [Building a SaaS Application with Next.js, Prisma, Auth0 and Stripe](https://www.reddit.com/r/javascript/comments/nlg078/building_a_saas_application_with_nextjs_prisma/)
-- [I made a JWT-Library for Cloudflare Workers with ZERO dependencies](https://www.reddit.com/r/javascript/comments/nlewrd/i_made_a_jwtlibrary_for_cloudflare_workers_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [TypeScript 4.3 brings type specification for properties](https://www.infoworld.com/article/3613942/typescript-43-brings-type-specification-for-properties.html#tk.rss_javascript)
 - [7 tools transforming JavaScript development](https://www.infoworld.com/article/3619560/7-tools-transforming-javascript-development.html#tk.rss_javascript)
 - [Google unveils DevTools extension for Angular](https://www.infoworld.com/article/3619892/google-unveils-devtools-extension-for-angular.html#tk.rss_javascript)
 - [Scala 3 ushers in ‘complete overhaul’ of the language](https://www.infoworld.com/article/3608574/scala-3-moves-to-release-candidate-stage.html#tk.rss_javascript)
@@ -278,7 +279,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Babel project is running out of money](https://www.infoworld.com/article/3618021/babel-project-is-running-out-of-money.html#tk.rss_javascript)
 - [Get moving with Microsoft’s FAST web components](https://www.infoworld.com/article/3618410/get-moving-with-microsofts-fast-web-components.html#tk.rss_javascript)
 - [Next.js taps Webpack 5 for faster builds](https://www.infoworld.com/article/3617276/nextjs-taps-webpack-for-faster-builds.html#tk.rss_javascript)
-- [10 tips for tuning React UI performance](https://www.infoworld.com/article/3616579/10-tips-for-tuning-react-ui-performance.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
