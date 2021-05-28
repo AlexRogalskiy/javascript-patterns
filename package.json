@@ -53,7 +53,9 @@
     "engines": {
         "node": ">= 12.x"
     },
-    "keywords": ["java patterns"],
+    "keywords": [
+        "javascript patterns"
+    ],
     "maintainers": [
         {
             "name": "Alexander Rogalskiy",
