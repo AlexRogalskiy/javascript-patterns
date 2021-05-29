@@ -254,16 +254,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A Codemod to migrate from Moment to day.js](https://www.reddit.com/r/javascript/comments/nndw4u/a_codemod_to_migrate_from_moment_to_dayjs/)
+- [Youtube videos uploader package without daily upload limits](https://www.reddit.com/r/javascript/comments/nnb9mu/youtube_videos_uploader_package_without_daily/)
+- [Making art from science using AI in TensorFlow.js](https://www.reddit.com/r/javascript/comments/nnalnd/making_art_from_science_using_ai_in_tensorflowjs/)
+- [pattern-grab.js - Regular Expression Data Grabber](https://www.reddit.com/r/javascript/comments/nn7hw5/patterngrabjs_regular_expression_data_grabber/)
+- [20 JavaScript Concepts you should know as a JavaScript Programmer!](https://www.reddit.com/r/javascript/comments/nmxq29/20_javascript_concepts_you_should_know_as_a/)
+- [State Management: How to tell a bad boolean from a good boolean](https://www.reddit.com/r/javascript/comments/nmsktr/state_management_how_to_tell_a_bad_boolean_from_a/)
+- [neo.mjs v2.2: Main thread MicroLoaders for your Apps](https://www.reddit.com/r/javascript/comments/nms3g7/neomjs_v22_main_thread_microloaders_for_your_apps/)
 - [Writing custom REPLs in Node.js](https://www.reddit.com/r/javascript/comments/nmnb2b/writing_custom_repls_in_nodejs/)
 - [Create sites or tables from a airtable/gsheet/csv](https://www.reddit.com/r/javascript/comments/nmjwhl/create_sites_or_tables_from_a_airtablegsheetcsv/)
 - [Are you a professional developer?](https://www.reddit.com/r/javascript/comments/nmj7lv/are_you_a_professional_developer/)
-- [I made a little webapp to automatically create CSS particle effects for buttons](https://www.reddit.com/r/javascript/comments/nmgwl0/i_made_a_little_webapp_to_automatically_create/)
-- [Setting up webhooks for Facebook apps](https://www.reddit.com/r/javascript/comments/nmdae5/setting_up_webhooks_for_facebook_apps/)
-- [Customizeable, simple and free URL shortener coded in JavaScript (FOSS)](https://www.reddit.com/r/javascript/comments/nmbkez/customizeable_simple_and_free_url_shortener_coded/)
-- [Sparkplug — A non-optimizing JavaScript compiler](https://www.reddit.com/r/javascript/comments/nmbd5p/sparkplug_a_nonoptimizing_javascript_compiler/)
-- [The Evolution and Redefinition of The Jamstack](https://www.reddit.com/r/javascript/comments/nm8wpi/the_evolution_and_redefinition_of_the_jamstack/)
-- [Demystifying Iterables by implementing a python like range function](https://www.reddit.com/r/javascript/comments/nm7ov4/demystifying_iterables_by_implementing_a_python/)
-- [Updates from latest (83rd) meeting of TC39](https://www.reddit.com/r/javascript/comments/nltoqz/updates_from_latest_83rd_meeting_of_tc39/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
