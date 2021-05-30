@@ -254,16 +254,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [A Codemod to migrate from Moment to day.js](https://www.reddit.com/r/javascript/comments/nndw4u/a_codemod_to_migrate_from_moment_to_dayjs/)
-- [Youtube videos uploader package without daily upload limits](https://www.reddit.com/r/javascript/comments/nnb9mu/youtube_videos_uploader_package_without_daily/)
-- [Making art from science using AI in TensorFlow.js](https://www.reddit.com/r/javascript/comments/nnalnd/making_art_from_science_using_ai_in_tensorflowjs/)
-- [pattern-grab.js - Regular Expression Data Grabber](https://www.reddit.com/r/javascript/comments/nn7hw5/patterngrabjs_regular_expression_data_grabber/)
-- [20 JavaScript Concepts you should know as a JavaScript Programmer!](https://www.reddit.com/r/javascript/comments/nmxq29/20_javascript_concepts_you_should_know_as_a/)
-- [State Management: How to tell a bad boolean from a good boolean](https://www.reddit.com/r/javascript/comments/nmsktr/state_management_how_to_tell_a_bad_boolean_from_a/)
-- [neo.mjs v2.2: Main thread MicroLoaders for your Apps](https://www.reddit.com/r/javascript/comments/nms3g7/neomjs_v22_main_thread_microloaders_for_your_apps/)
-- [Writing custom REPLs in Node.js](https://www.reddit.com/r/javascript/comments/nmnb2b/writing_custom_repls_in_nodejs/)
-- [Create sites or tables from a airtable/gsheet/csv](https://www.reddit.com/r/javascript/comments/nmjwhl/create_sites_or_tables_from_a_airtablegsheetcsv/)
-- [Are you a professional developer?](https://www.reddit.com/r/javascript/comments/nmj7lv/are_you_a_professional_developer/)
+- [I created a script to transition to and from a height/width of auto](https://www.reddit.com/r/javascript/comments/no0o80/i_created_a_script_to_transition_to_and_from_a/)
+- [feedback-component: a native web component for collecting quick, binary user feedback](https://www.reddit.com/r/javascript/comments/nnvnb4/feedbackcomponent_a_native_web_component_for/)
+- [Why React is not Functional](https://www.reddit.com/r/javascript/comments/nnu7vf/why_react_is_not_functional/)
+- [TiddlyWiki, a non-linear personal web notebook that anyone can use and keep forever, independently of any corporation.](https://www.reddit.com/r/javascript/comments/nntaxi/tiddlywiki_a_nonlinear_personal_web_notebook_that/)
+- [Spinning service containers in GitHub action workflow](https://www.reddit.com/r/javascript/comments/nnryb3/spinning_service_containers_in_github_action/)
+- [Ready to move from jQuery to shiny reactivess?](https://www.reddit.com/r/javascript/comments/nnqho0/ready_to_move_from_jquery_to_shiny_reactivess/)
+- [Rocket Booster - I made a serverless reverse proxy and speed booster for websites and APIs](https://www.reddit.com/r/javascript/comments/nnn2ge/rocket_booster_i_made_a_serverless_reverse_proxy/)
+- [I made a useless language that compiles to Javascript. Try it out!](https://www.reddit.com/r/javascript/comments/nnls8o/i_made_a_useless_language_that_compiles_to/)
+- [I made an app for Web Developers using JavaScript!](https://www.reddit.com/r/javascript/comments/nnkx1j/i_made_an_app_for_web_developers_using_javascript/)
+- [Why should you learn JavaScript in 2021 ?](https://www.reddit.com/r/javascript/comments/nnj47a/why_should_you_learn_javascript_in_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
