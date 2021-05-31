@@ -254,16 +254,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I created a script to transition to and from a height/width of auto](https://www.reddit.com/r/javascript/comments/no0o80/i_created_a_script_to_transition_to_and_from_a/)
-- [feedback-component: a native web component for collecting quick, binary user feedback](https://www.reddit.com/r/javascript/comments/nnvnb4/feedbackcomponent_a_native_web_component_for/)
-- [Why React is not Functional](https://www.reddit.com/r/javascript/comments/nnu7vf/why_react_is_not_functional/)
-- [TiddlyWiki, a non-linear personal web notebook that anyone can use and keep forever, independently of any corporation.](https://www.reddit.com/r/javascript/comments/nntaxi/tiddlywiki_a_nonlinear_personal_web_notebook_that/)
-- [Spinning service containers in GitHub action workflow](https://www.reddit.com/r/javascript/comments/nnryb3/spinning_service_containers_in_github_action/)
-- [Ready to move from jQuery to shiny reactivess?](https://www.reddit.com/r/javascript/comments/nnqho0/ready_to_move_from_jquery_to_shiny_reactivess/)
-- [Rocket Booster - I made a serverless reverse proxy and speed booster for websites and APIs](https://www.reddit.com/r/javascript/comments/nnn2ge/rocket_booster_i_made_a_serverless_reverse_proxy/)
-- [I made a useless language that compiles to Javascript. Try it out!](https://www.reddit.com/r/javascript/comments/nnls8o/i_made_a_useless_language_that_compiles_to/)
-- [I made an app for Web Developers using JavaScript!](https://www.reddit.com/r/javascript/comments/nnkx1j/i_made_an_app_for_web_developers_using_javascript/)
-- [Why should you learn JavaScript in 2021 ?](https://www.reddit.com/r/javascript/comments/nnj47a/why_should_you_learn_javascript_in_2021/)
+- [Protect Your Route With ProtectedRoute and Guards in ReactJS](https://www.reddit.com/r/javascript/comments/noqnjo/protect_your_route_with_protectedroute_and_guards/)
+- [I created a React Native toast notifications API provider](https://www.reddit.com/r/javascript/comments/nomp6o/i_created_a_react_native_toast_notifications_api/)
+- [maze generation with DFS](https://www.reddit.com/r/javascript/comments/noioy4/maze_generation_with_dfs/)
+- [Why React Hooks cannot be conditioned](https://www.reddit.com/r/javascript/comments/nogrsi/why_react_hooks_cannot_be_conditioned/)
+- [I built a movie review website using material UI and React](https://www.reddit.com/r/javascript/comments/noe6sx/i_built_a_movie_review_website_using_material_ui/)
+- [Have you ever thought, how ‘nodemon’ works internally? Let’s build our own ‘nodemon’ in under 10 minutes!](https://www.reddit.com/r/javascript/comments/nodemb/have_you_ever_thought_how_nodemon_works/)
+- [LeetCode - Remove Duplicates from Sorted Array](https://www.reddit.com/r/javascript/comments/nod40q/leetcode_remove_duplicates_from_sorted_array/)
+- ["Under-the-hood of NPM" - Idea is to replicate a basic version of a connected Registry, CLI and website.](https://www.reddit.com/r/javascript/comments/nob22f/underthehood_of_npm_idea_is_to_replicate_a_basic/)
+- [I created a jQuery Plugin for in-place editing!](https://www.reddit.com/r/javascript/comments/no9tk5/i_created_a_jquery_plugin_for_inplace_editing/)
+- [Reiryoku-Technologies/Mida A JavaScript framework to easily operate in global financial markets.](https://www.reddit.com/r/javascript/comments/no7cs8/reiryokutechnologiesmida_a_javascript_framework/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
