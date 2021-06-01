@@ -254,16 +254,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [React and Express HTTPS application boiler plate](https://www.reddit.com/r/javascript/comments/npkz8d/react_and_express_https_application_boiler_plate/)
+- [TypeScript + fp-ts: ReaderTaskEither Foundations](https://www.reddit.com/r/javascript/comments/npi2bc/typescript_fpts_readertaskeither_foundations/)
+- [How to integrate ESLint with your React Typescript project (2021)](https://www.reddit.com/r/javascript/comments/np8x2p/how_to_integrate_eslint_with_your_react/)
+- [1247687 - Implement worker modules (Mozilla)](https://www.reddit.com/r/javascript/comments/np6kba/1247687_implement_worker_modules_mozilla/)
+- [[WIP] RayCast.js Engine](https://www.reddit.com/r/javascript/comments/np3k9a/wip_raycastjs_engine/)
+- [Implement dark mode on the web with user override option](https://www.reddit.com/r/javascript/comments/nozm1o/implement_dark_mode_on_the_web_with_user_override/)
+- [I have created a home cloud project, for sharing files across your devices on the same network. Please do check it out and star it if you like the project. There are more features yet to come which I have planned. Thank you](https://www.reddit.com/r/javascript/comments/noz8ah/i_have_created_a_home_cloud_project_for_sharing/)
+- [Your /r/javascript recap for the week of May 24 - May 30](https://www.reddit.com/r/javascript/comments/noyyi3/your_rjavascript_recap_for_the_week_of_may_24_may/)
+- [[AskJS] Why should I use Node.JS as a Python full stack developer?](https://www.reddit.com/r/javascript/comments/noxtyr/askjs_why_should_i_use_nodejs_as_a_python_full/)
 - [Protect Your Route With ProtectedRoute and Guards in ReactJS](https://www.reddit.com/r/javascript/comments/noqnjo/protect_your_route_with_protectedroute_and_guards/)
-- [I created a React Native toast notifications API provider](https://www.reddit.com/r/javascript/comments/nomp6o/i_created_a_react_native_toast_notifications_api/)
-- [maze generation with DFS](https://www.reddit.com/r/javascript/comments/noioy4/maze_generation_with_dfs/)
-- [Why React Hooks cannot be conditioned](https://www.reddit.com/r/javascript/comments/nogrsi/why_react_hooks_cannot_be_conditioned/)
-- [I built a movie review website using material UI and React](https://www.reddit.com/r/javascript/comments/noe6sx/i_built_a_movie_review_website_using_material_ui/)
-- [Have you ever thought, how ‘nodemon’ works internally? Let’s build our own ‘nodemon’ in under 10 minutes!](https://www.reddit.com/r/javascript/comments/nodemb/have_you_ever_thought_how_nodemon_works/)
-- [LeetCode - Remove Duplicates from Sorted Array](https://www.reddit.com/r/javascript/comments/nod40q/leetcode_remove_duplicates_from_sorted_array/)
-- ["Under-the-hood of NPM" - Idea is to replicate a basic version of a connected Registry, CLI and website.](https://www.reddit.com/r/javascript/comments/nob22f/underthehood_of_npm_idea_is_to_replicate_a_basic/)
-- [I created a jQuery Plugin for in-place editing!](https://www.reddit.com/r/javascript/comments/no9tk5/i_created_a_jquery_plugin_for_inplace_editing/)
-- [Reiryoku-Technologies/Mida A JavaScript framework to easily operate in global financial markets.](https://www.reddit.com/r/javascript/comments/no7cs8/reiryokutechnologiesmida_a_javascript_framework/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
