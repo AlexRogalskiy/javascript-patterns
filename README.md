@@ -269,16 +269,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Google boosts V8 JavaScript performance](https://www.infoworld.com/article/3620237/google-boosts-v8-javascript-performance.html#tk.rss_javascript)
 - [TypeScript 4.3 brings type specification for properties](https://www.infoworld.com/article/3613942/typescript-43-brings-type-specification-for-properties.html#tk.rss_javascript)
 - [7 tools transforming JavaScript development](https://www.infoworld.com/article/3619560/7-tools-transforming-javascript-development.html#tk.rss_javascript)
 - [Google unveils DevTools extension for Angular](https://www.infoworld.com/article/3619892/google-unveils-devtools-extension-for-angular.html#tk.rss_javascript)
 - [Scala 3 ushers in ‘complete overhaul’ of the language](https://www.infoworld.com/article/3608574/scala-3-moves-to-release-candidate-stage.html#tk.rss_javascript)
 - [Angular 12 arrives with pile of improvements](https://www.infoworld.com/article/3607428/angular-12-arrives-with-pile-of-improvements.html#tk.rss_javascript)
-- [How to use the Svelte JavaScript framework](https://www.infoworld.com/article/3618748/how-to-use-the-svelte-javascript-framework.html#tk.rss_javascript)
 - [Deno 1.10 overhauls test runner](https://www.infoworld.com/article/3618791/deno-110-overhauls-test-runner.html#tk.rss_javascript)
+- [How to use the Svelte JavaScript framework](https://www.infoworld.com/article/3618748/how-to-use-the-svelte-javascript-framework.html#tk.rss_javascript)
 - [Babel project is running out of money](https://www.infoworld.com/article/3618021/babel-project-is-running-out-of-money.html#tk.rss_javascript)
 - [Get moving with Microsoft’s FAST web components](https://www.infoworld.com/article/3618410/get-moving-with-microsofts-fast-web-components.html#tk.rss_javascript)
-- [Next.js taps Webpack 5 for faster builds](https://www.infoworld.com/article/3617276/nextjs-taps-webpack-for-faster-builds.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
