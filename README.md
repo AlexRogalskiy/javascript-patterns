@@ -254,16 +254,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Mermaid - a Javascript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically](https://www.reddit.com/r/javascript/comments/nq6uh3/mermaid_a_javascript_based_diagramming_and/)
-- [A Look at Compilation in JavaScript Frameworks](https://www.reddit.com/r/javascript/comments/nq65vo/a_look_at_compilation_in_javascript_frameworks/)
-- [The Power of 11ty - Ultra-Fast SEO Friendly Pokédex](https://www.reddit.com/r/javascript/comments/nq3low/the_power_of_11ty_ultrafast_seo_friendly_pokédex/)
-- [Looking fine with Firefox 89](https://www.reddit.com/r/javascript/comments/npwpo9/looking_fine_with_firefox_89/)
-- [Watching for Changes in Vue.js Component Slot Content](https://www.reddit.com/r/javascript/comments/npvdfo/watching_for_changes_in_vuejs_component_slot/)
-- [Fake news: 6 false claims about Web Components](https://www.reddit.com/r/javascript/comments/npuz5w/fake_news_6_false_claims_about_web_components/)
-- [TC39er.us: Daniel Ehrenberg](https://www.reddit.com/r/javascript/comments/npum6t/tc39erus_daniel_ehrenberg/)
-- [My full-stack open-source heatmap based social app made with React Native and Apollo GraphQL](https://www.reddit.com/r/javascript/comments/npufyk/my_fullstack_opensource_heatmap_based_social_app/)
-- [Web Development & Design eBooks by O’Reilly](https://www.reddit.com/r/javascript/comments/nps1an/web_development_design_ebooks_by_oreilly/)
-- [A declartive api testing tool](https://www.reddit.com/r/javascript/comments/npppbp/a_declartive_api_testing_tool/)
+- [Supabase May 21: Apple & Twitter logins, Supabase Grid, Return data as CSV](https://www.reddit.com/r/javascript/comments/nr20pk/supabase_may_21_apple_twitter_logins_supabase/)
+- [A better tsc --build --watch for typescript projects](https://www.reddit.com/r/javascript/comments/nr12o1/a_better_tsc_build_watch_for_typescript_projects/)
+- [HyperFiler: Archive web pages by bundling them into single HTML files](https://www.reddit.com/r/javascript/comments/nqz121/hyperfiler_archive_web_pages_by_bundling_them/)
+- [Visual Studio Code at Microsoft Build 2021](https://www.reddit.com/r/javascript/comments/nqypc8/visual_studio_code_at_microsoft_build_2021/)
+- [[AskJS] why are arrow functions used so universally nowdays? What's the benefit over named functions/function keyword?](https://www.reddit.com/r/javascript/comments/nqrmuu/askjs_why_are_arrow_functions_used_so_universally/)
+- [ts-audio v0.5.0 is out!](https://www.reddit.com/r/javascript/comments/nqr3e9/tsaudio_v050_is_out/)
+- [How to integrate ESLint with your React Typescript project (2021)](https://www.reddit.com/r/javascript/comments/nqqtfj/how_to_integrate_eslint_with_your_react/)
+- [Implementing a sane backend in Node.js using NestJS, Part I: Architecture](https://www.reddit.com/r/javascript/comments/nqpn52/implementing_a_sane_backend_in_nodejs_using/)
+- [Become the master of your eslint with no-restricted-syntax](https://www.reddit.com/r/javascript/comments/nqorqz/become_the_master_of_your_eslint_with/)
+- [Curried Reducer: generate type-safe action creators and a reducer from a set of curried functions](https://www.reddit.com/r/javascript/comments/nqolrk/curried_reducer_generate_typesafe_action_creators/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
