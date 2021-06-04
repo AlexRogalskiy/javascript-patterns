@@ -254,16 +254,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Supabase May 21: Apple & Twitter logins, Supabase Grid, Return data as CSV](https://www.reddit.com/r/javascript/comments/nr20pk/supabase_may_21_apple_twitter_logins_supabase/)
-- [A better tsc --build --watch for typescript projects](https://www.reddit.com/r/javascript/comments/nr12o1/a_better_tsc_build_watch_for_typescript_projects/)
-- [HyperFiler: Archive web pages by bundling them into single HTML files](https://www.reddit.com/r/javascript/comments/nqz121/hyperfiler_archive_web_pages_by_bundling_them/)
-- [Visual Studio Code at Microsoft Build 2021](https://www.reddit.com/r/javascript/comments/nqypc8/visual_studio_code_at_microsoft_build_2021/)
-- [[AskJS] why are arrow functions used so universally nowdays? What's the benefit over named functions/function keyword?](https://www.reddit.com/r/javascript/comments/nqrmuu/askjs_why_are_arrow_functions_used_so_universally/)
-- [ts-audio v0.5.0 is out!](https://www.reddit.com/r/javascript/comments/nqr3e9/tsaudio_v050_is_out/)
-- [How to integrate ESLint with your React Typescript project (2021)](https://www.reddit.com/r/javascript/comments/nqqtfj/how_to_integrate_eslint_with_your_react/)
-- [Implementing a sane backend in Node.js using NestJS, Part I: Architecture](https://www.reddit.com/r/javascript/comments/nqpn52/implementing_a_sane_backend_in_nodejs_using/)
-- [Become the master of your eslint with no-restricted-syntax](https://www.reddit.com/r/javascript/comments/nqorqz/become_the_master_of_your_eslint_with/)
-- [Curried Reducer: generate type-safe action creators and a reducer from a set of curried functions](https://www.reddit.com/r/javascript/comments/nqolrk/curried_reducer_generate_typesafe_action_creators/)
+- [React Aria - a library of React Hooks that provides accessible UI primitives for your design system](https://www.reddit.com/r/javascript/comments/nrowf8/react_aria_a_library_of_react_hooks_that_provides/)
+- [Webpack5's module federation walk through](https://www.reddit.com/r/javascript/comments/nroh1g/webpack5s_module_federation_walk_through/)
+- [RUN 2K21 Hackathon: JavaScript and Blockchain!](https://www.reddit.com/r/javascript/comments/nrnp4t/run_2k21_hackathon_javascript_and_blockchain/)
+- [Emulating Component Behavior with JavaScript Closures](https://www.reddit.com/r/javascript/comments/nrmu92/emulating_component_behavior_with_javascript/)
+- [Making Ignite a multi-platform React Native boilerplate](https://www.reddit.com/r/javascript/comments/nrlrrh/making_ignite_a_multiplatform_react_native/)
+- [[AskJS] Intrinsic MOTIVATION as a SWE. How Drug Dealers do it and how I can as well.](https://www.reddit.com/r/javascript/comments/nrlp06/askjs_intrinsic_motivation_as_a_swe_how_drug/)
+- [A Comprehensive Guide To Proper Behaviour Testing in React With Enzyme and Jest](https://www.reddit.com/r/javascript/comments/nrktx5/a_comprehensive_guide_to_proper_behaviour_testing/)
+- [New in Storybook 6.3: addons for better layout debugging](https://www.reddit.com/r/javascript/comments/nri6wx/new_in_storybook_63_addons_for_better_layout/)
+- [What's New In DevTools (Chrome 92) - Chrome Developers](https://www.reddit.com/r/javascript/comments/nrenb0/whats_new_in_devtools_chrome_92_chrome_developers/)
+- [History of the Web: Part 1](https://www.reddit.com/r/javascript/comments/nrc3m3/history_of_the_web_part_1/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
