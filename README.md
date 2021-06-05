@@ -254,16 +254,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [React Aria - a library of React Hooks that provides accessible UI primitives for your design system](https://www.reddit.com/r/javascript/comments/nrowf8/react_aria_a_library_of_react_hooks_that_provides/)
-- [Webpack5's module federation walk through](https://www.reddit.com/r/javascript/comments/nroh1g/webpack5s_module_federation_walk_through/)
-- [RUN 2K21 Hackathon: JavaScript and Blockchain!](https://www.reddit.com/r/javascript/comments/nrnp4t/run_2k21_hackathon_javascript_and_blockchain/)
-- [Emulating Component Behavior with JavaScript Closures](https://www.reddit.com/r/javascript/comments/nrmu92/emulating_component_behavior_with_javascript/)
-- [Making Ignite a multi-platform React Native boilerplate](https://www.reddit.com/r/javascript/comments/nrlrrh/making_ignite_a_multiplatform_react_native/)
-- [[AskJS] Intrinsic MOTIVATION as a SWE. How Drug Dealers do it and how I can as well.](https://www.reddit.com/r/javascript/comments/nrlp06/askjs_intrinsic_motivation_as_a_swe_how_drug/)
-- [A Comprehensive Guide To Proper Behaviour Testing in React With Enzyme and Jest](https://www.reddit.com/r/javascript/comments/nrktx5/a_comprehensive_guide_to_proper_behaviour_testing/)
-- [New in Storybook 6.3: addons for better layout debugging](https://www.reddit.com/r/javascript/comments/nri6wx/new_in_storybook_63_addons_for_better_layout/)
-- [What's New In DevTools (Chrome 92) - Chrome Developers](https://www.reddit.com/r/javascript/comments/nrenb0/whats_new_in_devtools_chrome_92_chrome_developers/)
-- [History of the Web: Part 1](https://www.reddit.com/r/javascript/comments/nrc3m3/history_of_the_web_part_1/)
+- [Create minimalist, blazing fast no-javascript websites from a single, portable plain text file](https://www.reddit.com/r/javascript/comments/nskwux/create_minimalist_blazing_fast_nojavascript/)
+- [Esbuild, the incredibly fast and promising bundler !](https://www.reddit.com/r/javascript/comments/nsfpky/esbuild_the_incredibly_fast_and_promising_bundler/)
+- [Callback Hell and How to Rescue it ?](https://www.reddit.com/r/javascript/comments/nse2wp/callback_hell_and_how_to_rescue_it/)
+- [Milkdown editor online demo and documents is available now!](https://www.reddit.com/r/javascript/comments/nsbo5f/milkdown_editor_online_demo_and_documents_is/)
+- [Why PWA is the future](https://www.reddit.com/r/javascript/comments/nsafdk/why_pwa_is_the_future/)
+- [Go beyond eslint limits with these 3 tricks](https://www.reddit.com/r/javascript/comments/ns8vhb/go_beyond_eslint_limits_with_these_3_tricks/)
+- [Rockin' Blocks: Create your own block library for Gatsby](https://www.reddit.com/r/javascript/comments/ns6svl/rockin_blocks_create_your_own_block_library_for/)
+- [Making JavaScript run fast on WebAssembly](https://www.reddit.com/r/javascript/comments/ns6h0w/making_javascript_run_fast_on_webassembly/)
+- [Free Bootstrap 5 admin template with Vanilla JS - AdminKit v3](https://www.reddit.com/r/javascript/comments/ns5kzn/free_bootstrap_5_admin_template_with_vanilla_js/)
+- [HTML and CSS techniques to reduce your JavaScript](https://www.reddit.com/r/javascript/comments/ns5hr3/html_and_css_techniques_to_reduce_your_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
