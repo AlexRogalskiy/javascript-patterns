@@ -254,16 +254,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Application Compiler: Single File Applications Re-Imagined With Inline Include Calls](https://www.reddit.com/r/javascript/comments/nt58rq/application_compiler_single_file_applications/)
+- [Chess app built using React, Redux, and RxJs](https://www.reddit.com/r/javascript/comments/nt3fnf/chess_app_built_using_react_redux_and_rxjs/)
+- [been working on my own gaming platform for example (collision, velocity, mass, etc) so I decided to implement that on this simulator I'm not done yet and it's probably not an accurate solar system lol this was all created with vanilla JS, HTML, CSS](https://www.reddit.com/r/javascript/comments/nt2ueg/been_working_on_my_own_gaming_platform_for/)
+- [jimp-native, a reimplementation of jimp as a native module with multi-threading support](https://www.reddit.com/r/javascript/comments/nt22q1/jimpnative_a_reimplementation_of_jimp_as_a_native/)
+- [CLOCKTab - I made a chrome extension to replace newtab page with minimalistic digital watch.](https://www.reddit.com/r/javascript/comments/nt0r7u/clocktab_i_made_a_chrome_extension_to_replace/)
+- [Quickly integrate face, hand, and/or pose tracking to your frontend projects in a snap](https://www.reddit.com/r/javascript/comments/nsxrxl/quickly_integrate_face_hand_andor_pose_tracking/)
+- [Showoff Saturday (June 05, 2021)](https://www.reddit.com/r/javascript/comments/nspvyv/showoff_saturday_june_05_2021/)
 - [Create minimalist, blazing fast no-javascript websites from a single, portable plain text file](https://www.reddit.com/r/javascript/comments/nskwux/create_minimalist_blazing_fast_nojavascript/)
 - [Esbuild, the incredibly fast and promising bundler !](https://www.reddit.com/r/javascript/comments/nsfpky/esbuild_the_incredibly_fast_and_promising_bundler/)
 - [Callback Hell and How to Rescue it ?](https://www.reddit.com/r/javascript/comments/nse2wp/callback_hell_and_how_to_rescue_it/)
-- [Milkdown editor online demo and documents is available now!](https://www.reddit.com/r/javascript/comments/nsbo5f/milkdown_editor_online_demo_and_documents_is/)
-- [Why PWA is the future](https://www.reddit.com/r/javascript/comments/nsafdk/why_pwa_is_the_future/)
-- [Go beyond eslint limits with these 3 tricks](https://www.reddit.com/r/javascript/comments/ns8vhb/go_beyond_eslint_limits_with_these_3_tricks/)
-- [Rockin' Blocks: Create your own block library for Gatsby](https://www.reddit.com/r/javascript/comments/ns6svl/rockin_blocks_create_your_own_block_library_for/)
-- [Making JavaScript run fast on WebAssembly](https://www.reddit.com/r/javascript/comments/ns6h0w/making_javascript_run_fast_on_webassembly/)
-- [Free Bootstrap 5 admin template with Vanilla JS - AdminKit v3](https://www.reddit.com/r/javascript/comments/ns5kzn/free_bootstrap_5_admin_template_with_vanilla_js/)
-- [HTML and CSS techniques to reduce your JavaScript](https://www.reddit.com/r/javascript/comments/ns5hr3/html_and_css_techniques_to_reduce_your_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
