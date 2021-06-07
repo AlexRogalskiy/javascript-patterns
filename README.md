@@ -254,16 +254,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Let's Stop Making it Cool to Hate jQuery](https://www.reddit.com/r/javascript/comments/nu1aoo/lets_stop_making_it_cool_to_hate_jquery/)
+- [Adding push notifications to a static eleventy site](https://www.reddit.com/r/javascript/comments/ntuqx0/adding_push_notifications_to_a_static_eleventy/)
+- [[AskJS] can someone give me an idea for a library to work on in js?](https://www.reddit.com/r/javascript/comments/ntudkj/askjs_can_someone_give_me_an_idea_for_a_library/)
+- [Creating a serverless function to scrape web pages metadata](https://www.reddit.com/r/javascript/comments/ntqt3n/creating_a_serverless_function_to_scrape_web/)
+- [Dynamic Remotes, Webpack Module Federation](https://www.reddit.com/r/javascript/comments/ntq1xd/dynamic_remotes_webpack_module_federation/)
+- [LeetCode - Find First and Last Position of Element in Sorted Array](https://www.reddit.com/r/javascript/comments/ntpp98/leetcode_find_first_and_last_position_of_element/)
+- [Objetos en Javascript](https://www.reddit.com/r/javascript/comments/ntewab/objetos_en_javascript/)
 - [Application Compiler: Single File Applications Re-Imagined With Inline Include Calls](https://www.reddit.com/r/javascript/comments/nt58rq/application_compiler_single_file_applications/)
 - [Chess app built using React, Redux, and RxJs](https://www.reddit.com/r/javascript/comments/nt3fnf/chess_app_built_using_react_redux_and_rxjs/)
 - [been working on my own gaming platform for example (collision, velocity, mass, etc) so I decided to implement that on this simulator I'm not done yet and it's probably not an accurate solar system lol this was all created with vanilla JS, HTML, CSS](https://www.reddit.com/r/javascript/comments/nt2ueg/been_working_on_my_own_gaming_platform_for/)
-- [jimp-native, a reimplementation of jimp as a native module with multi-threading support](https://www.reddit.com/r/javascript/comments/nt22q1/jimpnative_a_reimplementation_of_jimp_as_a_native/)
-- [CLOCKTab - I made a chrome extension to replace newtab page with minimalistic digital watch.](https://www.reddit.com/r/javascript/comments/nt0r7u/clocktab_i_made_a_chrome_extension_to_replace/)
-- [Quickly integrate face, hand, and/or pose tracking to your frontend projects in a snap](https://www.reddit.com/r/javascript/comments/nsxrxl/quickly_integrate_face_hand_andor_pose_tracking/)
-- [Showoff Saturday (June 05, 2021)](https://www.reddit.com/r/javascript/comments/nspvyv/showoff_saturday_june_05_2021/)
-- [Create minimalist, blazing fast no-javascript websites from a single, portable plain text file](https://www.reddit.com/r/javascript/comments/nskwux/create_minimalist_blazing_fast_nojavascript/)
-- [Esbuild, the incredibly fast and promising bundler !](https://www.reddit.com/r/javascript/comments/nsfpky/esbuild_the_incredibly_fast_and_promising_bundler/)
-- [Callback Hell and How to Rescue it ?](https://www.reddit.com/r/javascript/comments/nse2wp/callback_hell_and_how_to_rescue_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
