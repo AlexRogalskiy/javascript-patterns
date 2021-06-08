@@ -254,16 +254,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Let's Stop Making it Cool to Hate jQuery](https://www.reddit.com/r/javascript/comments/nu1aoo/lets_stop_making_it_cool_to_hate_jquery/)
-- [Adding push notifications to a static eleventy site](https://www.reddit.com/r/javascript/comments/ntuqx0/adding_push_notifications_to_a_static_eleventy/)
-- [[AskJS] can someone give me an idea for a library to work on in js?](https://www.reddit.com/r/javascript/comments/ntudkj/askjs_can_someone_give_me_an_idea_for_a_library/)
-- [Creating a serverless function to scrape web pages metadata](https://www.reddit.com/r/javascript/comments/ntqt3n/creating_a_serverless_function_to_scrape_web/)
-- [Dynamic Remotes, Webpack Module Federation](https://www.reddit.com/r/javascript/comments/ntq1xd/dynamic_remotes_webpack_module_federation/)
-- [LeetCode - Find First and Last Position of Element in Sorted Array](https://www.reddit.com/r/javascript/comments/ntpp98/leetcode_find_first_and_last_position_of_element/)
-- [Objetos en Javascript](https://www.reddit.com/r/javascript/comments/ntewab/objetos_en_javascript/)
-- [Application Compiler: Single File Applications Re-Imagined With Inline Include Calls](https://www.reddit.com/r/javascript/comments/nt58rq/application_compiler_single_file_applications/)
-- [Chess app built using React, Redux, and RxJs](https://www.reddit.com/r/javascript/comments/nt3fnf/chess_app_built_using_react_redux_and_rxjs/)
-- [been working on my own gaming platform for example (collision, velocity, mass, etc) so I decided to implement that on this simulator I'm not done yet and it's probably not an accurate solar system lol this was all created with vanilla JS, HTML, CSS](https://www.reddit.com/r/javascript/comments/nt2ueg/been_working_on_my_own_gaming_platform_for/)
+- [Building an Accessible Reveal-Card](https://www.reddit.com/r/javascript/comments/nupnr3/building_an_accessible_revealcard/)
+- [[AskJS] Looking for advices/recommendations to improve my JS skill level.](https://www.reddit.com/r/javascript/comments/nuhxqo/askjs_looking_for_advicesrecommendations_to/)
+- [Fusionner spring boot et Vue3 en monolithique - Ultron Systems](https://www.reddit.com/r/javascript/comments/nug92t/fusionner_spring_boot_et_vue3_en_monolithique/)
+- [I made a fun JavaScript quiz that will test your knowledge on somewhat obscure JS syntax. You'll be shown 25 expressions and will have to guess the output. Please give it a try and let me know what you think :)](https://www.reddit.com/r/javascript/comments/nufso5/i_made_a_fun_javascript_quiz_that_will_test_your/)
+- [Django, HTMX and Alpine.JS: A Match Made In Heaven](https://www.reddit.com/r/javascript/comments/nufhog/django_htmx_and_alpinejs_a_match_made_in_heaven/)
+- [[AskJS] How should I make my random number not guessable?](https://www.reddit.com/r/javascript/comments/nue042/askjs_how_should_i_make_my_random_number_not/)
+- [Redux Toolkit 1.6.0 - new RTK Query data caching API!](https://www.reddit.com/r/javascript/comments/nudadh/redux_toolkit_160_new_rtk_query_data_caching_api/)
+- [racing-game - this project is a showcase for the feasibility of react in gaming. We would like to develop it open source, anyone can participate](https://www.reddit.com/r/javascript/comments/nud3qh/racinggame_this_project_is_a_showcase_for_the/)
+- [I made a static site generator which creates minimalist, multi-page, no-JS sites from a single markdown-ish file](https://www.reddit.com/r/javascript/comments/nuayqy/i_made_a_static_site_generator_which_creates/)
+- [Apitest is declarative api testing tool with JSON-like DSL for easy testing.](https://www.reddit.com/r/javascript/comments/nu8g75/apitest_is_declarative_api_testing_tool_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
