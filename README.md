@@ -254,16 +254,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Building an Accessible Reveal-Card](https://www.reddit.com/r/javascript/comments/nupnr3/building_an_accessible_revealcard/)
-- [[AskJS] Looking for advices/recommendations to improve my JS skill level.](https://www.reddit.com/r/javascript/comments/nuhxqo/askjs_looking_for_advicesrecommendations_to/)
-- [Fusionner spring boot et Vue3 en monolithique - Ultron Systems](https://www.reddit.com/r/javascript/comments/nug92t/fusionner_spring_boot_et_vue3_en_monolithique/)
-- [I made a fun JavaScript quiz that will test your knowledge on somewhat obscure JS syntax. You'll be shown 25 expressions and will have to guess the output. Please give it a try and let me know what you think :)](https://www.reddit.com/r/javascript/comments/nufso5/i_made_a_fun_javascript_quiz_that_will_test_your/)
-- [Django, HTMX and Alpine.JS: A Match Made In Heaven](https://www.reddit.com/r/javascript/comments/nufhog/django_htmx_and_alpinejs_a_match_made_in_heaven/)
-- [[AskJS] How should I make my random number not guessable?](https://www.reddit.com/r/javascript/comments/nue042/askjs_how_should_i_make_my_random_number_not/)
-- [Redux Toolkit 1.6.0 - new RTK Query data caching API!](https://www.reddit.com/r/javascript/comments/nudadh/redux_toolkit_160_new_rtk_query_data_caching_api/)
-- [racing-game - this project is a showcase for the feasibility of react in gaming. We would like to develop it open source, anyone can participate](https://www.reddit.com/r/javascript/comments/nud3qh/racinggame_this_project_is_a_showcase_for_the/)
-- [I made a static site generator which creates minimalist, multi-page, no-JS sites from a single markdown-ish file](https://www.reddit.com/r/javascript/comments/nuayqy/i_made_a_static_site_generator_which_creates/)
-- [Apitest is declarative api testing tool with JSON-like DSL for easy testing.](https://www.reddit.com/r/javascript/comments/nu8g75/apitest_is_declarative_api_testing_tool_with/)
+- [TC39er podcast with Tierney Cyren!](https://www.reddit.com/r/javascript/comments/nvjgvt/tc39er_podcast_with_tierney_cyren/)
+- [Rust from a JavaScript perspective - A tongue in cheek walk-through](https://www.reddit.com/r/javascript/comments/nvgmbp/rust_from_a_javascript_perspective_a_tongue_in/)
+- [Introducing Astro: Ship Less JavaScript](https://www.reddit.com/r/javascript/comments/nveid2/introducing_astro_ship_less_javascript/)
+- [Implementing Private Fields for JavaScript – Mozilla Hacks - the Web developer blog](https://www.reddit.com/r/javascript/comments/nvctu6/implementing_private_fields_for_javascript/)
+- [Exploring Deno Land with Ryan Dahl [audio]](https://www.reddit.com/r/javascript/comments/nva4e3/exploring_deno_land_with_ryan_dahl_audio/)
+- [The Plan for React 18](https://www.reddit.com/r/javascript/comments/nv9x1n/the_plan_for_react_18/)
+- [ELI5: Flipper - Cross-Platform Debugger](https://www.reddit.com/r/javascript/comments/nv9aft/eli5_flipper_crossplatform_debugger/)
+- [How to patch an HTTP Response with Cypress](https://www.reddit.com/r/javascript/comments/nv8k4z/how_to_patch_an_http_response_with_cypress/)
+- [cindr.musicPlayer.js: a plain-JavaScript, no-external-references, music-player-management library](https://www.reddit.com/r/javascript/comments/nv6mii/cindrmusicplayerjs_a_plainjavascript/)
+- [How to integrate ESLint with your React Typescript project (2021)](https://www.reddit.com/r/javascript/comments/nv605v/how_to_integrate_eslint_with_your_react/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
