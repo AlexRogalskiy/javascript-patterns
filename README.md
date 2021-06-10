@@ -254,16 +254,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [TC39er podcast with Tierney Cyren!](https://www.reddit.com/r/javascript/comments/nvjgvt/tc39er_podcast_with_tierney_cyren/)
-- [Rust from a JavaScript perspective - A tongue in cheek walk-through](https://www.reddit.com/r/javascript/comments/nvgmbp/rust_from_a_javascript_perspective_a_tongue_in/)
-- [Introducing Astro: Ship Less JavaScript](https://www.reddit.com/r/javascript/comments/nveid2/introducing_astro_ship_less_javascript/)
-- [Implementing Private Fields for JavaScript – Mozilla Hacks - the Web developer blog](https://www.reddit.com/r/javascript/comments/nvctu6/implementing_private_fields_for_javascript/)
-- [Exploring Deno Land with Ryan Dahl [audio]](https://www.reddit.com/r/javascript/comments/nva4e3/exploring_deno_land_with_ryan_dahl_audio/)
-- [The Plan for React 18](https://www.reddit.com/r/javascript/comments/nv9x1n/the_plan_for_react_18/)
-- [ELI5: Flipper - Cross-Platform Debugger](https://www.reddit.com/r/javascript/comments/nv9aft/eli5_flipper_crossplatform_debugger/)
-- [How to patch an HTTP Response with Cypress](https://www.reddit.com/r/javascript/comments/nv8k4z/how_to_patch_an_http_response_with_cypress/)
-- [cindr.musicPlayer.js: a plain-JavaScript, no-external-references, music-player-management library](https://www.reddit.com/r/javascript/comments/nv6mii/cindrmusicplayerjs_a_plainjavascript/)
-- [How to integrate ESLint with your React Typescript project (2021)](https://www.reddit.com/r/javascript/comments/nv605v/how_to_integrate_eslint_with_your_react/)
+- [Playwright by Microsoft releases custom test-runner and trace viewer for running and debugging end-to-end tests](https://www.reddit.com/r/javascript/comments/nw7q6c/playwright_by_microsoft_releases_custom/)
+- [Code in Boxes, Why only restrict ourselves to colors?](https://www.reddit.com/r/javascript/comments/nw60vd/code_in_boxes_why_only_restrict_ourselves_to/)
+- [The thinnest possible layer between development and production for the modern web.](https://www.reddit.com/r/javascript/comments/nw19e5/the_thinnest_possible_layer_between_development/)
+- [Wrote an article about using D3 Force layout for a mind map interface (made it an ES module)](https://www.reddit.com/r/javascript/comments/nvzn26/wrote_an_article_about_using_d3_force_layout_for/)
+- [I made a cryptocurrency price graph with Chart.js](https://www.reddit.com/r/javascript/comments/nvzl1f/i_made_a_cryptocurrency_price_graph_with_chartjs/)
+- [[Tutorial] Crawling all NBA defensive teams award data and structuring it using Danfo.JS](https://www.reddit.com/r/javascript/comments/nvz89s/tutorial_crawling_all_nba_defensive_teams_award/)
+- [CSS nth- Selectors Variable Within Web Components](https://www.reddit.com/r/javascript/comments/nvy6f2/css_nth_selectors_variable_within_web_components/)
+- [Angular 12 and Ivy support coming to Storybook](https://www.reddit.com/r/javascript/comments/nvwky5/angular_12_and_ivy_support_coming_to_storybook/)
+- [[AskJS] MongoDB - how to Query through an array of objects by a specific key](https://www.reddit.com/r/javascript/comments/nvwf3l/askjs_mongodb_how_to_query_through_an_array_of/)
+- [Confident JS series: Part 2 — Types, JSDocs, and declaration files](https://www.reddit.com/r/javascript/comments/nvvbjl/confident_js_series_part_2_types_jsdocs_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
