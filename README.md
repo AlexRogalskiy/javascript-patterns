@@ -254,16 +254,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Playwright by Microsoft releases custom test-runner and trace viewer for running and debugging end-to-end tests](https://www.reddit.com/r/javascript/comments/nw7q6c/playwright_by_microsoft_releases_custom/)
-- [Code in Boxes, Why only restrict ourselves to colors?](https://www.reddit.com/r/javascript/comments/nw60vd/code_in_boxes_why_only_restrict_ourselves_to/)
-- [The thinnest possible layer between development and production for the modern web.](https://www.reddit.com/r/javascript/comments/nw19e5/the_thinnest_possible_layer_between_development/)
-- [Wrote an article about using D3 Force layout for a mind map interface (made it an ES module)](https://www.reddit.com/r/javascript/comments/nvzn26/wrote_an_article_about_using_d3_force_layout_for/)
-- [I made a cryptocurrency price graph with Chart.js](https://www.reddit.com/r/javascript/comments/nvzl1f/i_made_a_cryptocurrency_price_graph_with_chartjs/)
-- [[Tutorial] Crawling all NBA defensive teams award data and structuring it using Danfo.JS](https://www.reddit.com/r/javascript/comments/nvz89s/tutorial_crawling_all_nba_defensive_teams_award/)
-- [CSS nth- Selectors Variable Within Web Components](https://www.reddit.com/r/javascript/comments/nvy6f2/css_nth_selectors_variable_within_web_components/)
-- [Angular 12 and Ivy support coming to Storybook](https://www.reddit.com/r/javascript/comments/nvwky5/angular_12_and_ivy_support_coming_to_storybook/)
-- [[AskJS] MongoDB - how to Query through an array of objects by a specific key](https://www.reddit.com/r/javascript/comments/nvwf3l/askjs_mongodb_how_to_query_through_an_array_of/)
-- [Confident JS series: Part 2 — Types, JSDocs, and declaration files](https://www.reddit.com/r/javascript/comments/nvvbjl/confident_js_series_part_2_types_jsdocs_and/)
+- [A cs student trying to use his skill. Please give this group chat app a try and let me know how you like :)](https://www.reddit.com/r/javascript/comments/nx4iy4/a_cs_student_trying_to_use_his_skill_please_give/)
+- [Demo: Implementing Permissions in Node Applications](https://www.reddit.com/r/javascript/comments/nwyo8d/demo_implementing_permissions_in_node_applications/)
+- [[AskJS] Any good websites for assessment tests?](https://www.reddit.com/r/javascript/comments/nww791/askjs_any_good_websites_for_assessment_tests/)
+- [Visual Studio Code May 2021](https://www.reddit.com/r/javascript/comments/nwtr7q/visual_studio_code_may_2021/)
+- [Remote Repositories extension for Visual Studio Code](https://www.reddit.com/r/javascript/comments/nwtr7l/remote_repositories_extension_for_visual_studio/)
+- [How to build a food advisor UI for Strapi using GC & GraphQL](https://www.reddit.com/r/javascript/comments/nwstjw/how_to_build_a_food_advisor_ui_for_strapi_using/)
+- [Nano Stores: tiny state manager for React/Preact/Vue/Svelte in 152 bytes (!) and with tree-shaking support](https://www.reddit.com/r/javascript/comments/nwqrj3/nano_stores_tiny_state_manager_for/)
+- [OpenJS Foundation Continues to Grow JavaScript Community](https://www.reddit.com/r/javascript/comments/nwqd1s/openjs_foundation_continues_to_grow_javascript/)
+- [Testing React Native Apps](https://www.reddit.com/r/javascript/comments/nwmkzp/testing_react_native_apps/)
+- [How we added custom languages, code completion and highlighting to the Monaco editor](https://www.reddit.com/r/javascript/comments/nwjkym/how_we_added_custom_languages_code_completion_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
