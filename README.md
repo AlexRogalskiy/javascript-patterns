@@ -254,16 +254,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [A cs student trying to use his skill. Please give this group chat app a try and let me know how you like :)](https://www.reddit.com/r/javascript/comments/nx4iy4/a_cs_student_trying_to_use_his_skill_please_give/)
-- [Demo: Implementing Permissions in Node Applications](https://www.reddit.com/r/javascript/comments/nwyo8d/demo_implementing_permissions_in_node_applications/)
-- [[AskJS] Any good websites for assessment tests?](https://www.reddit.com/r/javascript/comments/nww791/askjs_any_good_websites_for_assessment_tests/)
-- [Visual Studio Code May 2021](https://www.reddit.com/r/javascript/comments/nwtr7q/visual_studio_code_may_2021/)
-- [Remote Repositories extension for Visual Studio Code](https://www.reddit.com/r/javascript/comments/nwtr7l/remote_repositories_extension_for_visual_studio/)
-- [How to build a food advisor UI for Strapi using GC & GraphQL](https://www.reddit.com/r/javascript/comments/nwstjw/how_to_build_a_food_advisor_ui_for_strapi_using/)
-- [Nano Stores: tiny state manager for React/Preact/Vue/Svelte in 152 bytes (!) and with tree-shaking support](https://www.reddit.com/r/javascript/comments/nwqrj3/nano_stores_tiny_state_manager_for/)
-- [OpenJS Foundation Continues to Grow JavaScript Community](https://www.reddit.com/r/javascript/comments/nwqd1s/openjs_foundation_continues_to_grow_javascript/)
-- [Testing React Native Apps](https://www.reddit.com/r/javascript/comments/nwmkzp/testing_react_native_apps/)
-- [How we added custom languages, code completion and highlighting to the Monaco editor](https://www.reddit.com/r/javascript/comments/nwjkym/how_we_added_custom_languages_code_completion_and/)
+- [I made a 600 byte library for sliding elements w/ variable heights open & closed.](https://www.reddit.com/r/javascript/comments/nxtkjj/i_made_a_600_byte_library_for_sliding_elements_w/)
+- [JavaScript Evaluator](https://www.reddit.com/r/javascript/comments/nxqft3/javascript_evaluator/)
+- [[AskJS] Babel not working on VSC](https://www.reddit.com/r/javascript/comments/nxorcv/askjs_babel_not_working_on_vsc/)
+- [Build a Search GraphQL API with Apollo, Elasticsearch and Searchkit](https://www.reddit.com/r/javascript/comments/nxm5kd/build_a_search_graphql_api_with_apollo/)
+- [Getting Started with Kubernetes for JavaScript Developers](https://www.reddit.com/r/javascript/comments/nxkoh7/getting_started_with_kubernetes_for_javascript/)
+- [Where to find a job you love + my list of services I have known and loved](https://www.reddit.com/r/javascript/comments/nxkd41/where_to_find_a_job_you_love_my_list_of_services/)
+- [Modern JavaScript: A Series of Posts About Modern JavaScript Development](https://www.reddit.com/r/javascript/comments/nxjry4/modern_javascript_a_series_of_posts_about_modern/)
+- [Cleaner ways to build dynamic JS arrays](https://www.reddit.com/r/javascript/comments/nxjp6t/cleaner_ways_to_build_dynamic_js_arrays/)
+- [Uppy Open File Uploader 1.29: Golden Retriever (restores files after refresh or browser crash), disableLocalFiles, Webcam previews before submit, uppy.logout()](https://www.reddit.com/r/javascript/comments/nxjmd3/uppy_open_file_uploader_129_golden_retriever/)
+- [A list of JavaScript libraries and resources](https://www.reddit.com/r/javascript/comments/nxiy33/a_list_of_javascript_libraries_and_resources/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
