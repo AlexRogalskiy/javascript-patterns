@@ -254,16 +254,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I made a 600 byte library for sliding elements w/ variable heights open & closed.](https://www.reddit.com/r/javascript/comments/nxtkjj/i_made_a_600_byte_library_for_sliding_elements_w/)
-- [JavaScript Evaluator](https://www.reddit.com/r/javascript/comments/nxqft3/javascript_evaluator/)
-- [[AskJS] Babel not working on VSC](https://www.reddit.com/r/javascript/comments/nxorcv/askjs_babel_not_working_on_vsc/)
-- [Build a Search GraphQL API with Apollo, Elasticsearch and Searchkit](https://www.reddit.com/r/javascript/comments/nxm5kd/build_a_search_graphql_api_with_apollo/)
-- [Getting Started with Kubernetes for JavaScript Developers](https://www.reddit.com/r/javascript/comments/nxkoh7/getting_started_with_kubernetes_for_javascript/)
-- [Where to find a job you love + my list of services I have known and loved](https://www.reddit.com/r/javascript/comments/nxkd41/where_to_find_a_job_you_love_my_list_of_services/)
-- [Modern JavaScript: A Series of Posts About Modern JavaScript Development](https://www.reddit.com/r/javascript/comments/nxjry4/modern_javascript_a_series_of_posts_about_modern/)
-- [Cleaner ways to build dynamic JS arrays](https://www.reddit.com/r/javascript/comments/nxjp6t/cleaner_ways_to_build_dynamic_js_arrays/)
-- [Uppy Open File Uploader 1.29: Golden Retriever (restores files after refresh or browser crash), disableLocalFiles, Webcam previews before submit, uppy.logout()](https://www.reddit.com/r/javascript/comments/nxjmd3/uppy_open_file_uploader_129_golden_retriever/)
-- [A list of JavaScript libraries and resources](https://www.reddit.com/r/javascript/comments/nxiy33/a_list_of_javascript_libraries_and_resources/)
+- [Bubble vs Quick vs Radix - 3 sort algorithms compared](https://www.reddit.com/r/javascript/comments/nyj96k/bubble_vs_quick_vs_radix_3_sort_algorithms/)
+- [[AskJS] Trying to level up learning backend stuff more as a Javascript/front-end developer](https://www.reddit.com/r/javascript/comments/nydp0y/askjs_trying_to_level_up_learning_backend_stuff/)
+- [Real Time Video Stream Server based on Aiohttp, OpenCV and ECMA6 JS. Please check my work and thank you for your time!](https://www.reddit.com/r/javascript/comments/nybu1z/real_time_video_stream_server_based_on_aiohttp/)
+- [[AskJS] Scrap an image from a Url without using a web crawler like Puppeteer or Selenium? (self.javascript)](https://www.reddit.com/r/javascript/comments/ny9a2a/askjs_scrap_an_image_from_a_url_without_using_a/)
+- [A GitHub based, open-source Status Page in pure HTML/JS](https://www.reddit.com/r/javascript/comments/ny8a20/a_github_based_opensource_status_page_in_pure/)
+- [[AskJS] JavaScript in detail course](https://www.reddit.com/r/javascript/comments/ny70l0/askjs_javascript_in_detail_course/)
+- [[AskJS] Lets Lean About Engineer Culture Together [Video].](https://www.reddit.com/r/javascript/comments/ny69ct/askjs_lets_lean_about_engineer_culture_together/)
+- [A visually pleasing, wasm-powered conways game of life simulation (desktop only)](https://www.reddit.com/r/javascript/comments/ny519z/a_visually_pleasing_wasmpowered_conways_game_of/)
+- [We made Lowdefy - An open-source, self-hosted, low-code framework to easily make web apps, admin panels, BI dashboards, workflows, and CRUD apps with YAML or JSON.](https://www.reddit.com/r/javascript/comments/ny4m59/we_made_lowdefy_an_opensource_selfhosted_lowcode/)
+- [Google OAuth2 Wrapper for NodeJS](https://www.reddit.com/r/javascript/comments/ny4091/google_oauth2_wrapper_for_nodejs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
