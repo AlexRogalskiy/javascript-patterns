@@ -254,16 +254,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to integrate ESLint with your React Typescript project (2021)](https://www.reddit.com/r/javascript/comments/nz65dk/how_to_integrate_eslint_with_your_react/)
+- [My experiences with concurrency while writing an NPM package](https://www.reddit.com/r/javascript/comments/nz4f5b/my_experiences_with_concurrency_while_writing_an/)
+- [LeetCode - Maximum Subarray](https://www.reddit.com/r/javascript/comments/nz1t4g/leetcode_maximum_subarray/)
+- [Why using object spread with reduce probably a bad idea](https://www.reddit.com/r/javascript/comments/nz1lpz/why_using_object_spread_with_reduce_probably_a/)
+- [Top React Hook libraries](https://www.reddit.com/r/javascript/comments/nyuiyw/top_react_hook_libraries/)
+- [Writing Non UI blocking loops using setTimeouts.](https://www.reddit.com/r/javascript/comments/nyuij2/writing_non_ui_blocking_loops_using_settimeouts/)
+- [JavaScript and web development courses for interview prep](https://www.reddit.com/r/javascript/comments/nyt4ic/javascript_and_web_development_courses_for/)
+- [The art of Frontend Engineering](https://www.reddit.com/r/javascript/comments/nyncnb/the_art_of_frontend_engineering/)
 - [Bubble vs Quick vs Radix - 3 sort algorithms compared](https://www.reddit.com/r/javascript/comments/nyj96k/bubble_vs_quick_vs_radix_3_sort_algorithms/)
 - [[AskJS] Trying to level up learning backend stuff more as a Javascript/front-end developer](https://www.reddit.com/r/javascript/comments/nydp0y/askjs_trying_to_level_up_learning_backend_stuff/)
-- [Real Time Video Stream Server based on Aiohttp, OpenCV and ECMA6 JS. Please check my work and thank you for your time!](https://www.reddit.com/r/javascript/comments/nybu1z/real_time_video_stream_server_based_on_aiohttp/)
-- [[AskJS] Scrap an image from a Url without using a web crawler like Puppeteer or Selenium? (self.javascript)](https://www.reddit.com/r/javascript/comments/ny9a2a/askjs_scrap_an_image_from_a_url_without_using_a/)
-- [A GitHub based, open-source Status Page in pure HTML/JS](https://www.reddit.com/r/javascript/comments/ny8a20/a_github_based_opensource_status_page_in_pure/)
-- [[AskJS] JavaScript in detail course](https://www.reddit.com/r/javascript/comments/ny70l0/askjs_javascript_in_detail_course/)
-- [[AskJS] Lets Lean About Engineer Culture Together [Video].](https://www.reddit.com/r/javascript/comments/ny69ct/askjs_lets_lean_about_engineer_culture_together/)
-- [A visually pleasing, wasm-powered conways game of life simulation (desktop only)](https://www.reddit.com/r/javascript/comments/ny519z/a_visually_pleasing_wasmpowered_conways_game_of/)
-- [We made Lowdefy - An open-source, self-hosted, low-code framework to easily make web apps, admin panels, BI dashboards, workflows, and CRUD apps with YAML or JSON.](https://www.reddit.com/r/javascript/comments/ny4m59/we_made_lowdefy_an_opensource_selfhosted_lowcode/)
-- [Google OAuth2 Wrapper for NodeJS](https://www.reddit.com/r/javascript/comments/ny4091/google_oauth2_wrapper_for_nodejs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
