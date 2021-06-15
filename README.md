@@ -254,16 +254,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Write to a Notion Database via SMS with Twilio Serverless in JavaScript](https://www.reddit.com/r/javascript/comments/nzuqua/write_to_a_notion_database_via_sms_with_twilio/)
+- [Pathfinding Visualizer: A*, Dijkstra, Bidirectional Search, Breadth First](https://www.reddit.com/r/javascript/comments/nzsa4e/pathfinding_visualizer_a_dijkstra_bidirectional/)
+- [What has the Marko Team Been Doing all These Years?](https://www.reddit.com/r/javascript/comments/nzqphy/what_has_the_marko_team_been_doing_all_these_years/)
+- [How to get performance metrics and web vitals using Puppeteer, React and TypeScript](https://www.reddit.com/r/javascript/comments/nzp9tf/how_to_get_performance_metrics_and_web_vitals/)
+- [Let web applications be file handlers (Chrome)](https://www.reddit.com/r/javascript/comments/nzkud8/let_web_applications_be_file_handlers_chrome/)
+- [Visualization of common sorting algorithms in JS: QuickSort, MergeSort, HeapSort, BubbleSort, InsertionSort](https://www.reddit.com/r/javascript/comments/nzjm2p/visualization_of_common_sorting_algorithms_in_js/)
+- [Version history available in the WYSIWYG editor](https://www.reddit.com/r/javascript/comments/nzine9/version_history_available_in_the_wysiwyg_editor/)
+- [Your /r/javascript recap for the week of June 07 - June 13](https://www.reddit.com/r/javascript/comments/nzijqg/your_rjavascript_recap_for_the_week_of_june_07/)
+- [Python vs Javascript](https://www.reddit.com/r/javascript/comments/nzf4jx/python_vs_javascript/)
 - [How to integrate ESLint with your React Typescript project (2021)](https://www.reddit.com/r/javascript/comments/nz65dk/how_to_integrate_eslint_with_your_react/)
-- [My experiences with concurrency while writing an NPM package](https://www.reddit.com/r/javascript/comments/nz4f5b/my_experiences_with_concurrency_while_writing_an/)
-- [LeetCode - Maximum Subarray](https://www.reddit.com/r/javascript/comments/nz1t4g/leetcode_maximum_subarray/)
-- [Why using object spread with reduce probably a bad idea](https://www.reddit.com/r/javascript/comments/nz1lpz/why_using_object_spread_with_reduce_probably_a/)
-- [Top React Hook libraries](https://www.reddit.com/r/javascript/comments/nyuiyw/top_react_hook_libraries/)
-- [Writing Non UI blocking loops using setTimeouts.](https://www.reddit.com/r/javascript/comments/nyuij2/writing_non_ui_blocking_loops_using_settimeouts/)
-- [JavaScript and web development courses for interview prep](https://www.reddit.com/r/javascript/comments/nyt4ic/javascript_and_web_development_courses_for/)
-- [The art of Frontend Engineering](https://www.reddit.com/r/javascript/comments/nyncnb/the_art_of_frontend_engineering/)
-- [Bubble vs Quick vs Radix - 3 sort algorithms compared](https://www.reddit.com/r/javascript/comments/nyj96k/bubble_vs_quick_vs_radix_3_sort_algorithms/)
-- [[AskJS] Trying to level up learning backend stuff more as a Javascript/front-end developer](https://www.reddit.com/r/javascript/comments/nydp0y/askjs_trying_to_level_up_learning_backend_stuff/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
