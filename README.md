@@ -254,16 +254,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Nodejs Event Loop Visualizer](https://www.reddit.com/r/javascript/comments/o0n0wz/nodejs_event_loop_visualizer/)
+- [Working on a Free Low Code builder for Bootstrap 5 Dashboards. Feedback?](https://www.reddit.com/r/javascript/comments/o0mcbc/working_on_a_free_low_code_builder_for_bootstrap/)
+- [Next.js 11 released](https://www.reddit.com/r/javascript/comments/o0jrrq/nextjs_11_released/)
+- [Import assertions](https://www.reddit.com/r/javascript/comments/o0febj/import_assertions/)
+- [The Apple Compact Unwinding Format: Documented and Explained](https://www.reddit.com/r/javascript/comments/o0ervn/the_apple_compact_unwinding_format_documented_and/)
+- [evolve-ts: a lightweight alternative to immer and updeep, easily update nested objects immutably](https://www.reddit.com/r/javascript/comments/o0epvt/evolvets_a_lightweight_alternative_to_immer_and/)
+- [[AskJS] Comparing yourself to other developers isn’t a bad thing if you’re not being adversarial](https://www.reddit.com/r/javascript/comments/o0buqs/askjs_comparing_yourself_to_other_developers_isnt/)
+- [New browser APIs to detect JavaScript performance problems in production](https://www.reddit.com/r/javascript/comments/o09j4o/new_browser_apis_to_detect_javascript_performance/)
+- [[AskJS] Best Server Side Validator](https://www.reddit.com/r/javascript/comments/o08i6v/askjs_best_server_side_validator/)
 - [Write to a Notion Database via SMS with Twilio Serverless in JavaScript](https://www.reddit.com/r/javascript/comments/nzuqua/write_to_a_notion_database_via_sms_with_twilio/)
-- [Pathfinding Visualizer: A*, Dijkstra, Bidirectional Search, Breadth First](https://www.reddit.com/r/javascript/comments/nzsa4e/pathfinding_visualizer_a_dijkstra_bidirectional/)
-- [What has the Marko Team Been Doing all These Years?](https://www.reddit.com/r/javascript/comments/nzqphy/what_has_the_marko_team_been_doing_all_these_years/)
-- [How to get performance metrics and web vitals using Puppeteer, React and TypeScript](https://www.reddit.com/r/javascript/comments/nzp9tf/how_to_get_performance_metrics_and_web_vitals/)
-- [Let web applications be file handlers (Chrome)](https://www.reddit.com/r/javascript/comments/nzkud8/let_web_applications_be_file_handlers_chrome/)
-- [Visualization of common sorting algorithms in JS: QuickSort, MergeSort, HeapSort, BubbleSort, InsertionSort](https://www.reddit.com/r/javascript/comments/nzjm2p/visualization_of_common_sorting_algorithms_in_js/)
-- [Version history available in the WYSIWYG editor](https://www.reddit.com/r/javascript/comments/nzine9/version_history_available_in_the_wysiwyg_editor/)
-- [Your /r/javascript recap for the week of June 07 - June 13](https://www.reddit.com/r/javascript/comments/nzijqg/your_rjavascript_recap_for_the_week_of_june_07/)
-- [Python vs Javascript](https://www.reddit.com/r/javascript/comments/nzf4jx/python_vs_javascript/)
-- [How to integrate ESLint with your React Typescript project (2021)](https://www.reddit.com/r/javascript/comments/nz65dk/how_to_integrate_eslint_with_your_react/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
