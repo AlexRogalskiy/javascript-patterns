@@ -254,16 +254,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Nodejs Event Loop Visualizer](https://www.reddit.com/r/javascript/comments/o0n0wz/nodejs_event_loop_visualizer/)
-- [Working on a Free Low Code builder for Bootstrap 5 Dashboards. Feedback?](https://www.reddit.com/r/javascript/comments/o0mcbc/working_on_a_free_low_code_builder_for_bootstrap/)
-- [Next.js 11 released](https://www.reddit.com/r/javascript/comments/o0jrrq/nextjs_11_released/)
-- [Import assertions](https://www.reddit.com/r/javascript/comments/o0febj/import_assertions/)
-- [The Apple Compact Unwinding Format: Documented and Explained](https://www.reddit.com/r/javascript/comments/o0ervn/the_apple_compact_unwinding_format_documented_and/)
-- [evolve-ts: a lightweight alternative to immer and updeep, easily update nested objects immutably](https://www.reddit.com/r/javascript/comments/o0epvt/evolvets_a_lightweight_alternative_to_immer_and/)
-- [[AskJS] Comparing yourself to other developers isn’t a bad thing if you’re not being adversarial](https://www.reddit.com/r/javascript/comments/o0buqs/askjs_comparing_yourself_to_other_developers_isnt/)
-- [New browser APIs to detect JavaScript performance problems in production](https://www.reddit.com/r/javascript/comments/o09j4o/new_browser_apis_to_detect_javascript_performance/)
-- [[AskJS] Best Server Side Validator](https://www.reddit.com/r/javascript/comments/o08i6v/askjs_best_server_side_validator/)
-- [Write to a Notion Database via SMS with Twilio Serverless in JavaScript](https://www.reddit.com/r/javascript/comments/nzuqua/write_to_a_notion_database_via_sms_with_twilio/)
+- [Best Free and Open Source JavaScript Animation Libraries](https://www.reddit.com/r/javascript/comments/o1l6b0/best_free_and_open_source_javascript_animation/)
+- [Asking questions as a web developer: how not to get ZERO answers](https://www.reddit.com/r/javascript/comments/o1de70/asking_questions_as_a_web_developer_how_not_to/)
+- [Imba - a compile-to-JavaScript alternative for increased developer productivity](https://www.reddit.com/r/javascript/comments/o1d4go/imba_a_compiletojavascript_alternative_for/)
+- [[AskJS] What is the correct error code for a request which is valid on the client side but invalid on server side ?](https://www.reddit.com/r/javascript/comments/o1c6mx/askjs_what_is_the_correct_error_code_for_a/)
+- [Brainstorm Father's Day gifts with Notion and Twilio SMS and Serverless in JavaScript](https://www.reddit.com/r/javascript/comments/o1bgyp/brainstorm_fathers_day_gifts_with_notion_and/)
+- [How to integrate i18next Internationalization with your React project?](https://www.reddit.com/r/javascript/comments/o187m2/how_to_integrate_i18next_internationalization/)
+- [How I Used the Web Animation API to Build an Animation Library](https://www.reddit.com/r/javascript/comments/o17jkz/how_i_used_the_web_animation_api_to_build_an/)
+- [[AskJS] Is it possible to upload a file to Firebase Storage from client without using Firebase Auth or any of the other Firebase services?](https://www.reddit.com/r/javascript/comments/o16dxx/askjs_is_it_possible_to_upload_a_file_to_firebase/)
+- [[AskJS] Is JavaScript becoming obsolete? If yes, what other languages are worth pursuing?](https://www.reddit.com/r/javascript/comments/o15s3y/askjs_is_javascript_becoming_obsolete_if_yes_what/)
+- [You can now use Vite to build your Storybook](https://www.reddit.com/r/javascript/comments/o159ae/you_can_now_use_vite_to_build_your_storybook/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
