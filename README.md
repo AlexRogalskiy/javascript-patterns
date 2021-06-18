@@ -254,16 +254,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Best Free and Open Source JavaScript Animation Libraries](https://www.reddit.com/r/javascript/comments/o1l6b0/best_free_and_open_source_javascript_animation/)
-- [Asking questions as a web developer: how not to get ZERO answers](https://www.reddit.com/r/javascript/comments/o1de70/asking_questions_as_a_web_developer_how_not_to/)
-- [Imba - a compile-to-JavaScript alternative for increased developer productivity](https://www.reddit.com/r/javascript/comments/o1d4go/imba_a_compiletojavascript_alternative_for/)
-- [[AskJS] What is the correct error code for a request which is valid on the client side but invalid on server side ?](https://www.reddit.com/r/javascript/comments/o1c6mx/askjs_what_is_the_correct_error_code_for_a/)
-- [Brainstorm Father's Day gifts with Notion and Twilio SMS and Serverless in JavaScript](https://www.reddit.com/r/javascript/comments/o1bgyp/brainstorm_fathers_day_gifts_with_notion_and/)
-- [How to integrate i18next Internationalization with your React project?](https://www.reddit.com/r/javascript/comments/o187m2/how_to_integrate_i18next_internationalization/)
-- [How I Used the Web Animation API to Build an Animation Library](https://www.reddit.com/r/javascript/comments/o17jkz/how_i_used_the_web_animation_api_to_build_an/)
-- [[AskJS] Is it possible to upload a file to Firebase Storage from client without using Firebase Auth or any of the other Firebase services?](https://www.reddit.com/r/javascript/comments/o16dxx/askjs_is_it_possible_to_upload_a_file_to_firebase/)
-- [[AskJS] Is JavaScript becoming obsolete? If yes, what other languages are worth pursuing?](https://www.reddit.com/r/javascript/comments/o15s3y/askjs_is_javascript_becoming_obsolete_if_yes_what/)
-- [You can now use Vite to build your Storybook](https://www.reddit.com/r/javascript/comments/o159ae/you_can_now_use_vite_to_build_your_storybook/)
+- [Languages you can run in the browser, part 1: Python, JavaScript, SQLite](https://www.reddit.com/r/javascript/comments/o2987n/languages_you_can_run_in_the_browser_part_1/)
+- [[AskJS] What are the Pros/Cons of using Imba, Svelte or Mint?](https://www.reddit.com/r/javascript/comments/o2943u/askjs_what_are_the_proscons_of_using_imba_svelte/)
+- [8 Basic and Advanced React Router Tips](https://www.reddit.com/r/javascript/comments/o27p7p/8_basic_and_advanced_react_router_tips/)
+- [[Podcast] Interview of Tab Atkins Bittner!](https://www.reddit.com/r/javascript/comments/o27bhp/podcast_interview_of_tab_atkins_bittner/)
+- [Bad Apple Safari update breaks IndexedDB JavaScript API, upsets web apps](https://www.reddit.com/r/javascript/comments/o26lxk/bad_apple_safari_update_breaks_indexeddb/)
+- [Trading Robots With JavaScript](https://www.reddit.com/r/javascript/comments/o22t75/trading_robots_with_javascript/)
+- [Node.js CMS Apostrophe releases 3.0.0](https://www.reddit.com/r/javascript/comments/o219im/nodejs_cms_apostrophe_releases_300/)
+- [ES 12/2021 introduces new logical assignment operators](https://www.reddit.com/r/javascript/comments/o213l9/es_122021_introduces_new_logical_assignment/)
+- [OpenPGP.js | OpenPGP JavaScript Implementation](https://www.reddit.com/r/javascript/comments/o1zxp3/openpgpjs_openpgp_javascript_implementation/)
+- [MEVN template: skip Express.js, develop front & backend with live-reload, deploy dynamically](https://www.reddit.com/r/javascript/comments/o1yrkx/mevn_template_skip_expressjs_develop_front/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
