@@ -254,16 +254,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [An 100% spec compliant ES2022 Javascript toolchain](https://www.reddit.com/r/javascript/comments/o35d73/an_100_spec_compliant_es2022_javascript_toolchain/)
+- [[AskJS] Been away from Javascript for a couple of years, what did I miss?](https://www.reddit.com/r/javascript/comments/o35c81/askjs_been_away_from_javascript_for_a_couple_of/)
+- [Ten years of Web Components](https://www.reddit.com/r/javascript/comments/o32cz5/ten_years_of_web_components/)
+- [gmail-tester: Add email assertions to your JS tests!](https://www.reddit.com/r/javascript/comments/o2uzm7/gmailtester_add_email_assertions_to_your_js_tests/)
+- [Keeping code simple with regular expressions](https://www.reddit.com/r/javascript/comments/o2tlcb/keeping_code_simple_with_regular_expressions/)
+- [Introducing Div.js, a framework for the HTML programming language.](https://www.reddit.com/r/javascript/comments/o2qtnq/introducing_divjs_a_framework_for_the_html/)
+- [Evaluate JavaScript on a URL through headless Chrome browser](https://www.reddit.com/r/javascript/comments/o2gvg6/evaluate_javascript_on_a_url_through_headless/)
 - [Languages you can run in the browser, part 1: Python, JavaScript, SQLite](https://www.reddit.com/r/javascript/comments/o2987n/languages_you_can_run_in_the_browser_part_1/)
 - [[AskJS] What are the Pros/Cons of using Imba, Svelte or Mint?](https://www.reddit.com/r/javascript/comments/o2943u/askjs_what_are_the_proscons_of_using_imba_svelte/)
 - [8 Basic and Advanced React Router Tips](https://www.reddit.com/r/javascript/comments/o27p7p/8_basic_and_advanced_react_router_tips/)
-- [[Podcast] Interview of Tab Atkins Bittner!](https://www.reddit.com/r/javascript/comments/o27bhp/podcast_interview_of_tab_atkins_bittner/)
-- [Bad Apple Safari update breaks IndexedDB JavaScript API, upsets web apps](https://www.reddit.com/r/javascript/comments/o26lxk/bad_apple_safari_update_breaks_indexeddb/)
-- [Trading Robots With JavaScript](https://www.reddit.com/r/javascript/comments/o22t75/trading_robots_with_javascript/)
-- [Node.js CMS Apostrophe releases 3.0.0](https://www.reddit.com/r/javascript/comments/o219im/nodejs_cms_apostrophe_releases_300/)
-- [ES 12/2021 introduces new logical assignment operators](https://www.reddit.com/r/javascript/comments/o213l9/es_122021_introduces_new_logical_assignment/)
-- [OpenPGP.js | OpenPGP JavaScript Implementation](https://www.reddit.com/r/javascript/comments/o1zxp3/openpgpjs_openpgp_javascript_implementation/)
-- [MEVN template: skip Express.js, develop front & backend with live-reload, deploy dynamically](https://www.reddit.com/r/javascript/comments/o1yrkx/mevn_template_skip_expressjs_develop_front/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
