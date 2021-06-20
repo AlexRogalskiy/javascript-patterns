@@ -254,16 +254,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [An 100% spec compliant ES2022 Javascript toolchain](https://www.reddit.com/r/javascript/comments/o35d73/an_100_spec_compliant_es2022_javascript_toolchain/)
-- [[AskJS] Been away from Javascript for a couple of years, what did I miss?](https://www.reddit.com/r/javascript/comments/o35c81/askjs_been_away_from_javascript_for_a_couple_of/)
-- [Ten years of Web Components](https://www.reddit.com/r/javascript/comments/o32cz5/ten_years_of_web_components/)
-- [gmail-tester: Add email assertions to your JS tests!](https://www.reddit.com/r/javascript/comments/o2uzm7/gmailtester_add_email_assertions_to_your_js_tests/)
-- [Keeping code simple with regular expressions](https://www.reddit.com/r/javascript/comments/o2tlcb/keeping_code_simple_with_regular_expressions/)
-- [Introducing Div.js, a framework for the HTML programming language.](https://www.reddit.com/r/javascript/comments/o2qtnq/introducing_divjs_a_framework_for_the_html/)
-- [Evaluate JavaScript on a URL through headless Chrome browser](https://www.reddit.com/r/javascript/comments/o2gvg6/evaluate_javascript_on_a_url_through_headless/)
-- [Languages you can run in the browser, part 1: Python, JavaScript, SQLite](https://www.reddit.com/r/javascript/comments/o2987n/languages_you_can_run_in_the_browser_part_1/)
-- [[AskJS] What are the Pros/Cons of using Imba, Svelte or Mint?](https://www.reddit.com/r/javascript/comments/o2943u/askjs_what_are_the_proscons_of_using_imba_svelte/)
-- [8 Basic and Advanced React Router Tips](https://www.reddit.com/r/javascript/comments/o27p7p/8_basic_and_advanced_react_router_tips/)
+- [[AskJS] Why 'mouseover' does not work to simulate hover in some cases?](https://www.reddit.com/r/javascript/comments/o3u0au/askjs_why_mouseover_does_not_work_to_simulate/)
+- [Adding Custom Easing to the Web Animation API](https://www.reddit.com/r/javascript/comments/o3syh8/adding_custom_easing_to_the_web_animation_api/)
+- [From JavaScript to TypeScript Crash Course/CheatSheet : Basics](https://www.reddit.com/r/javascript/comments/o3o6kr/from_javascript_to_typescript_crash/)
+- [Decode the new Digital COVID-19 Vaccine Record with Javascript](https://www.reddit.com/r/javascript/comments/o3nj5j/decode_the_new_digital_covid19_vaccine_record/)
+- [bundle - An online npm package bundle size checker](https://www.reddit.com/r/javascript/comments/o3jmii/bundle_an_online_npm_package_bundle_size_checker/)
+- [[AskJS] How can I print the global variable here?](https://www.reddit.com/r/javascript/comments/o3iu1p/askjs_how_can_i_print_the_global_variable_here/)
+- [How to Learn JavaScript Faster](https://www.reddit.com/r/javascript/comments/o3gwd3/how_to_learn_javascript_faster/)
+- [[AskJS] 2D RPG in JavaScript but what framework/library](https://www.reddit.com/r/javascript/comments/o3gw2y/askjs_2d_rpg_in_javascript_but_what/)
+- [[AskJS] Can I learn JavaScript, HTML and CSS with ram 1gb laptop?](https://www.reddit.com/r/javascript/comments/o3fqtp/askjs_can_i_learn_javascript_html_and_css_with/)
+- [[AskJS] Can I learn JavaScript,HTML and CSS with ram 1gb laptop?](https://www.reddit.com/r/javascript/comments/o3fpoo/askjs_can_i_learn_javascripthtml_and_css_with_ram/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
