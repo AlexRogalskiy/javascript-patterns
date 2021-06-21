@@ -254,16 +254,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Why 'mouseover' does not work to simulate hover in some cases?](https://www.reddit.com/r/javascript/comments/o3u0au/askjs_why_mouseover_does_not_work_to_simulate/)
-- [Adding Custom Easing to the Web Animation API](https://www.reddit.com/r/javascript/comments/o3syh8/adding_custom_easing_to_the_web_animation_api/)
-- [From JavaScript to TypeScript Crash Course/CheatSheet : Basics](https://www.reddit.com/r/javascript/comments/o3o6kr/from_javascript_to_typescript_crash/)
-- [Decode the new Digital COVID-19 Vaccine Record with Javascript](https://www.reddit.com/r/javascript/comments/o3nj5j/decode_the_new_digital_covid19_vaccine_record/)
-- [bundle - An online npm package bundle size checker](https://www.reddit.com/r/javascript/comments/o3jmii/bundle_an_online_npm_package_bundle_size_checker/)
-- [[AskJS] How can I print the global variable here?](https://www.reddit.com/r/javascript/comments/o3iu1p/askjs_how_can_i_print_the_global_variable_here/)
-- [How to Learn JavaScript Faster](https://www.reddit.com/r/javascript/comments/o3gwd3/how_to_learn_javascript_faster/)
-- [[AskJS] 2D RPG in JavaScript but what framework/library](https://www.reddit.com/r/javascript/comments/o3gw2y/askjs_2d_rpg_in_javascript_but_what/)
-- [[AskJS] Can I learn JavaScript, HTML and CSS with ram 1gb laptop?](https://www.reddit.com/r/javascript/comments/o3fqtp/askjs_can_i_learn_javascript_html_and_css_with/)
-- [[AskJS] Can I learn JavaScript,HTML and CSS with ram 1gb laptop?](https://www.reddit.com/r/javascript/comments/o3fpoo/askjs_can_i_learn_javascripthtml_and_css_with_ram/)
+- [O'Reilly eBooks bundle on web development and web design, supports charity](https://www.reddit.com/r/javascript/comments/o4g36v/oreilly_ebooks_bundle_on_web_development_and_web/)
+- [Medium on Website - simplest way to get Medium blog posts on your HTML website](https://www.reddit.com/r/javascript/comments/o47fj9/medium_on_website_simplest_way_to_get_medium_blog/)
+- [LeetCode - Rotate Image](https://www.reddit.com/r/javascript/comments/o473vg/leetcode_rotate_image/)
+- [[AskJS] How to create simple social media web application](https://www.reddit.com/r/javascript/comments/o46c9l/askjs_how_to_create_simple_social_media_web/)
+- [3 Uses of the Three Dots in JavaScript](https://www.reddit.com/r/javascript/comments/o43r9r/3_uses_of_the_three_dots_in_javascript/)
+- [Cross platform cron-like job scheduler implemented under 20 lines of JS](https://www.reddit.com/r/javascript/comments/o43493/cross_platform_cronlike_job_scheduler_implemented/)
+- [[AskJS] How to add custom admin panel in nodejs?](https://www.reddit.com/r/javascript/comments/o42qhw/askjs_how_to_add_custom_admin_panel_in_nodejs/)
+- [Rust from a JavaScript perspective](https://www.reddit.com/r/javascript/comments/o40amv/rust_from_a_javascript_perspective/)
+- [[AskJS] Google Chrome + Mac Automator can't understand my code?](https://www.reddit.com/r/javascript/comments/o4009q/askjs_google_chrome_mac_automator_cant_understand/)
+- [How To Secure Your JavaScript Backend via Node.js & Express.js](https://www.reddit.com/r/javascript/comments/o3zd4h/how_to_secure_your_javascript_backend_via_nodejs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
