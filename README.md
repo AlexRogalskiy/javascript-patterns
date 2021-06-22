@@ -254,16 +254,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [O'Reilly eBooks bundle on web development and web design, supports charity](https://www.reddit.com/r/javascript/comments/o4g36v/oreilly_ebooks_bundle_on_web_development_and_web/)
-- [Medium on Website - simplest way to get Medium blog posts on your HTML website](https://www.reddit.com/r/javascript/comments/o47fj9/medium_on_website_simplest_way_to_get_medium_blog/)
-- [LeetCode - Rotate Image](https://www.reddit.com/r/javascript/comments/o473vg/leetcode_rotate_image/)
-- [[AskJS] How to create simple social media web application](https://www.reddit.com/r/javascript/comments/o46c9l/askjs_how_to_create_simple_social_media_web/)
-- [3 Uses of the Three Dots in JavaScript](https://www.reddit.com/r/javascript/comments/o43r9r/3_uses_of_the_three_dots_in_javascript/)
-- [Cross platform cron-like job scheduler implemented under 20 lines of JS](https://www.reddit.com/r/javascript/comments/o43493/cross_platform_cronlike_job_scheduler_implemented/)
-- [[AskJS] How to add custom admin panel in nodejs?](https://www.reddit.com/r/javascript/comments/o42qhw/askjs_how_to_add_custom_admin_panel_in_nodejs/)
-- [Rust from a JavaScript perspective](https://www.reddit.com/r/javascript/comments/o40amv/rust_from_a_javascript_perspective/)
-- [[AskJS] Google Chrome + Mac Automator can't understand my code?](https://www.reddit.com/r/javascript/comments/o4009q/askjs_google_chrome_mac_automator_cant_understand/)
-- [How To Secure Your JavaScript Backend via Node.js & Express.js](https://www.reddit.com/r/javascript/comments/o3zd4h/how_to_secure_your_javascript_backend_via_nodejs/)
+- [your name as HTML color](https://www.reddit.com/r/javascript/comments/o550ck/your_name_as_html_color/)
+- [Using Next.js and Vercel to instantly load a data-heavy website](https://www.reddit.com/r/javascript/comments/o50oxb/using_nextjs_and_vercel_to_instantly_load_a/)
+- [Mocking Stripe.js methods with Cypress](https://www.reddit.com/r/javascript/comments/o4zzhy/mocking_stripejs_methods_with_cypress/)
+- [[AskJS] Question for those who use both IntelliJ Ultimate and Visual Studio](https://www.reddit.com/r/javascript/comments/o4xur9/askjs_question_for_those_who_use_both_intellij/)
+- [React Ruined Web Development](https://www.reddit.com/r/javascript/comments/o4vzcx/react_ruined_web_development/)
+- [Introducing LinkIn Customizable self hosted link tree platform](https://www.reddit.com/r/javascript/comments/o4uogs/introducing_linkin_customizable_self_hosted_link/)
+- [Your /r/javascript recap for the week of June 14 - June 20](https://www.reddit.com/r/javascript/comments/o4ukyk/your_rjavascript_recap_for_the_week_of_june_14/)
+- [[AskJS] What is better than Webpack?](https://www.reddit.com/r/javascript/comments/o4tjz6/askjs_what_is_better_than_webpack/)
+- [Working on a framework-less online frontend IDE to code reactive apps faster. Your thoughts?](https://www.reddit.com/r/javascript/comments/o4r55z/working_on_a_frameworkless_online_frontend_ide_to/)
+- [React XSS Protection Cheat Sheet](https://www.reddit.com/r/javascript/comments/o4r3x2/react_xss_protection_cheat_sheet/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
