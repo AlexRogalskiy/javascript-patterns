@@ -254,16 +254,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [your name as HTML color](https://www.reddit.com/r/javascript/comments/o550ck/your_name_as_html_color/)
-- [Using Next.js and Vercel to instantly load a data-heavy website](https://www.reddit.com/r/javascript/comments/o50oxb/using_nextjs_and_vercel_to_instantly_load_a/)
-- [Mocking Stripe.js methods with Cypress](https://www.reddit.com/r/javascript/comments/o4zzhy/mocking_stripejs_methods_with_cypress/)
-- [[AskJS] Question for those who use both IntelliJ Ultimate and Visual Studio](https://www.reddit.com/r/javascript/comments/o4xur9/askjs_question_for_those_who_use_both_intellij/)
-- [React Ruined Web Development](https://www.reddit.com/r/javascript/comments/o4vzcx/react_ruined_web_development/)
-- [Introducing LinkIn Customizable self hosted link tree platform](https://www.reddit.com/r/javascript/comments/o4uogs/introducing_linkin_customizable_self_hosted_link/)
-- [Your /r/javascript recap for the week of June 14 - June 20](https://www.reddit.com/r/javascript/comments/o4ukyk/your_rjavascript_recap_for_the_week_of_june_14/)
-- [[AskJS] What is better than Webpack?](https://www.reddit.com/r/javascript/comments/o4tjz6/askjs_what_is_better_than_webpack/)
-- [Working on a framework-less online frontend IDE to code reactive apps faster. Your thoughts?](https://www.reddit.com/r/javascript/comments/o4r55z/working_on_a_frameworkless_online_frontend_ide_to/)
-- [React XSS Protection Cheat Sheet](https://www.reddit.com/r/javascript/comments/o4r3x2/react_xss_protection_cheat_sheet/)
+- [React Initializr - Generate custom react projects bundled using webpack 5 in just a few clicks](https://www.reddit.com/r/javascript/comments/o60yp3/react_initializr_generate_custom_react_projects/)
+- [[AskJS] What are the best OCRs for handwriting and pictures in non latin text?](https://www.reddit.com/r/javascript/comments/o5xv9n/askjs_what_are_the_best_ocrs_for_handwriting_and/)
+- [[AskJS] help with engines](https://www.reddit.com/r/javascript/comments/o5xbmw/askjs_help_with_engines/)
+- [I made a twitter bot which send results to the students](https://www.reddit.com/r/javascript/comments/o5wqqh/i_made_a_twitter_bot_which_send_results_to_the/)
+- [Imperative vs Declarative programming in JavaScript](https://www.reddit.com/r/javascript/comments/o5wju9/imperative_vs_declarative_programming_in/)
+- [3 Design Patterns in TypeScript for Frontend Developers](https://www.reddit.com/r/javascript/comments/o5vclq/3_design_patterns_in_typescript_for_frontend/)
+- [How to create music with Tone.js](https://www.reddit.com/r/javascript/comments/o5s2g1/how_to_create_music_with_tonejs/)
+- [ES2021 features list as approved by the Ecma General Assembly!](https://www.reddit.com/r/javascript/comments/o5rwwt/es2021_features_list_as_approved_by_the_ecma/)
+- [NextJS with WebAssembly and Web Workers](https://www.reddit.com/r/javascript/comments/o5rtl1/nextjs_with_webassembly_and_web_workers/)
+- [The State Of Progressive Web Apps Adoption By Developers In 2021](https://www.reddit.com/r/javascript/comments/o5oyq1/the_state_of_progressive_web_apps_adoption_by/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
