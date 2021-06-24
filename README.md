@@ -254,18 +254,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-
-- [React Initializr - Generate custom react projects bundled using webpack 5 in just a few clicks](https://www.reddit.com/r/javascript/comments/o60yp3/react_initializr_generate_custom_react_projects/)
-- [\[AskJS\] What are the best OCRs for handwriting and pictures in non latin text?](https://www.reddit.com/r/javascript/comments/o5xv9n/askjs_what_are_the_best_ocrs_for_handwriting_and/)
-- [\[AskJS\] help with engines](https://www.reddit.com/r/javascript/comments/o5xbmw/askjs_help_with_engines/)
-- [I made a twitter bot which send results to the students](https://www.reddit.com/r/javascript/comments/o5wqqh/i_made_a_twitter_bot_which_send_results_to_the/)
-- [Imperative vs Declarative programming in JavaScript](https://www.reddit.com/r/javascript/comments/o5wju9/imperative_vs_declarative_programming_in/)
-- [3 Design Patterns in TypeScript for Frontend Developers](https://www.reddit.com/r/javascript/comments/o5vclq/3\_design_patterns_in_typescript_for_frontend/)
-- [How to create music with Tone.js](https://www.reddit.com/r/javascript/comments/o5s2g1/how_to_create_music_with_tonejs/)
-- [ES2021 features list as approved by the Ecma General Assembly!](https://www.reddit.com/r/javascript/comments/o5rwwt/es2021\_features_list_as_approved_by_the_ecma/)
-- [NextJS with WebAssembly and Web Workers](https://www.reddit.com/r/javascript/comments/o5rtl1/nextjs_with_webassembly_and_web_workers/)
-- [The State Of Progressive Web Apps Adoption By Developers In 2021](https://www.reddit.com/r/javascript/comments/o5oyq1/the_state_of_progressive_web_apps_adoption_by/)
-
+- [50 Javascript Best Practice Rules to Write Better Code](https://www.reddit.com/r/javascript/comments/o6o9t9/50_javascript_best_practice_rules_to_write_better/)
+- [How to change the git commit author?](https://www.reddit.com/r/javascript/comments/o6ma01/how_to_change_the_git_commit_author/)
+- [Introducing Debug Trainer v1.1 - A free, open source little desktop tool to improve your JavaScript debugging skills, by safely adding errors to your existing code and then gives hints on how to find them](https://www.reddit.com/r/javascript/comments/o6lvwq/introducing_debug_trainer_v11_a_free_open_source/)
+- [What's new in ES2021](https://www.reddit.com/r/javascript/comments/o6ha0o/whats_new_in_es2021/)
+- [[AskJS] Anyone want to help a homelessness and mental health volunteer network get back online by bug hunting a Discourse plugin?](https://www.reddit.com/r/javascript/comments/o6ggty/askjs_anyone_want_to_help_a_homelessness_and/)
+- [Mario 64 - Javascript VR Tribute](https://www.reddit.com/r/javascript/comments/o6f3mt/mario_64_javascript_vr_tribute/)
+- [Juke Build - a general-purpose build system with JavaScript DSL.](https://www.reddit.com/r/javascript/comments/o6b8i7/juke_build_a_generalpurpose_build_system_with/)
+- [Is Django more faster than Node JS?](https://www.reddit.com/r/javascript/comments/o6b38a/is_django_more_faster_than_node_js/)
+- [Able Pro Bootstrap, Angular & React Admin Template](https://www.reddit.com/r/javascript/comments/o6a9qg/able_pro_bootstrap_angular_react_admin_template/)
+- [[AskJS] WebdriverIO vs. Cypress - which tool to pick?](https://www.reddit.com/r/javascript/comments/o69l3l/askjs_webdriverio_vs_cypress_which_tool_to_pick/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
