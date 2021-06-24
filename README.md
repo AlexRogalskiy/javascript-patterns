@@ -269,18 +269,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
-
+- [ECMAScript 2021 spec for JavaScript crosses the finish line](https://www.infoworld.com/article/3613948/ecmascript-2021-spec-for-javascript-crosses-the-finish-line.html#tk.rss_javascript)
 - [Next.js 11 boasts faster startup](https://www.infoworld.com/article/3622464/nextjs-11-boasts-faster-startup.html#tk.rss_javascript)
 - [How to CRUD with Node.js and MongoDB](https://www.infoworld.com/article/3619533/how-to-crud-with-nodejs-and-mongodb.html#tk.rss_javascript)
-- [10 hot language projects riding WebAssembly](https://www.infoworld.com/article/3619608/10-hot-language-projects-riding-webassembly.html#tk.rss_javascript)
 - [Angular team streamlines feature requests](https://www.infoworld.com/article/3620239/angular-team-streamlines-feature-requests.html#tk.rss_javascript)
+- [10 hot language projects riding WebAssembly](https://www.infoworld.com/article/3619608/10-hot-language-projects-riding-webassembly.html#tk.rss_javascript)
 - [Google boosts V8 JavaScript performance](https://www.infoworld.com/article/3620237/google-boosts-v8-javascript-performance.html#tk.rss_javascript)
 - [TypeScript 4.3 brings type specification for properties](https://www.infoworld.com/article/3613942/typescript-43-brings-type-specification-for-properties.html#tk.rss_javascript)
 - [7 tools transforming JavaScript development](https://www.infoworld.com/article/3619560/7-tools-transforming-javascript-development.html#tk.rss_javascript)
 - [Google unveils DevTools extension for Angular](https://www.infoworld.com/article/3619892/google-unveils-devtools-extension-for-angular.html#tk.rss_javascript)
 - [Scala 3 ushers in ‘complete overhaul’ of the language](https://www.infoworld.com/article/3608574/scala-3-moves-to-release-candidate-stage.html#tk.rss_javascript)
-- [Angular 12 arrives with pile of improvements](https://www.infoworld.com/article/3607428/angular-12-arrives-with-pile-of-improvements.html#tk.rss_javascript)
-
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
