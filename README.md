@@ -254,16 +254,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [React Class vs. Functional Components: props, pure components, inner state, lifecycle, and performance.](https://www.reddit.com/r/javascript/comments/o79aym/react_class_vs_functional_components_props_pure/)
-- [[AskJS] Is JWT safe?](https://www.reddit.com/r/javascript/comments/o788q4/askjs_is_jwt_safe/)
-- [Storybook 6.3 is out—handy new CSS tools, test utils, and revamped integrations](https://www.reddit.com/r/javascript/comments/o72kpf/storybook_63_is_outhandy_new_css_tools_test_utils/)
-- [A browser driver on top of puppeteer, ready for production scenarios.](https://www.reddit.com/r/javascript/comments/o72e78/a_browser_driver_on_top_of_puppeteer_ready_for/)
-- [Learn JavaScript with games](https://www.reddit.com/r/javascript/comments/o70x1o/learn_javascript_with_games/)
-- [[AskJS] Advice on potentially migrating from Meteor](https://www.reddit.com/r/javascript/comments/o6x5lp/askjs_advice_on_potentially_migrating_from_meteor/)
-- [Opinion-driven design](https://www.reddit.com/r/javascript/comments/o6vvnu/opiniondriven_design/)
-- [Cypress or how I learned to stop worrying and love E2E](https://www.reddit.com/r/javascript/comments/o6vrb8/cypress_or_how_i_learned_to_stop_worrying_and/)
-- [[AskJS] Avoid cancellation of XHR calls while Navigating](https://www.reddit.com/r/javascript/comments/o6vomt/askjs_avoid_cancellation_of_xhr_calls_while/)
-- [Babel 7.14 enables class fields & private methods by default in @babel/preset-env](https://www.reddit.com/r/javascript/comments/o6veoq/babel_714_enables_class_fields_private_methods_by/)
+- [Why You Shouldn’t Google Code Solutions](https://www.reddit.com/r/javascript/comments/o801tw/why_you_shouldnt_google_code_solutions/)
+- [[AskJS] Bootstrap vs MaterialUI/MDBootstrap, from an end-user's perpective](https://www.reddit.com/r/javascript/comments/o7zu0q/askjs_bootstrap_vs_materialuimdbootstrap_from_an/)
+- [[AskJS] What is the best method to step through/reverse engineer JS?](https://www.reddit.com/r/javascript/comments/o7zklh/askjs_what_is_the_best_method_to_step/)
+- [Controlled HTML select element in React has weird default UX](https://www.reddit.com/r/javascript/comments/o7urwh/controlled_html_select_element_in_react_has_weird/)
+- [[AskJS] What am I doing wrong? document.getElement not changing](https://www.reddit.com/r/javascript/comments/o7upjp/askjs_what_am_i_doing_wrong_documentgetelement/)
+- [Grok (VSCode Extension) - a mind map for development](https://www.reddit.com/r/javascript/comments/o7tozd/grok_vscode_extension_a_mind_map_for_development/)
+- [The Real Cost of UI Components Revisited](https://www.reddit.com/r/javascript/comments/o7r6do/the_real_cost_of_ui_components_revisited/)
+- [[AskJS] What features does only webpack have vs other bundlers?](https://www.reddit.com/r/javascript/comments/o7pnrq/askjs_what_features_does_only_webpack_have_vs/)
+- [Awesome dataviz tools by Cube.js—an open-source list of charting libraries, data grids, maps, etc.](https://www.reddit.com/r/javascript/comments/o7p5bb/awesome_dataviz_tools_by_cubejsan_opensource_list/)
+- [[AskJS] Data scraping with JavaScript](https://www.reddit.com/r/javascript/comments/o7npcf/askjs_data_scraping_with_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
