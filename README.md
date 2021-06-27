@@ -254,16 +254,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Why You Shouldn’t Google Code Solutions](https://www.reddit.com/r/javascript/comments/o801tw/why_you_shouldnt_google_code_solutions/)
+- [[AskJS] If you don't use TypeScript, tell me why (2 year follow up)](https://www.reddit.com/r/javascript/comments/o8n3uk/askjs_if_you_dont_use_typescript_tell_me_why_2/)
+- [[AskJS] I need advice on writing a browser scripts to auto answer calls](https://www.reddit.com/r/javascript/comments/o8le08/askjs_i_need_advice_on_writing_a_browser_scripts/)
+- [Tiny spy implementation for mocking and spying dependencies in the unit tests](https://www.reddit.com/r/javascript/comments/o8ieif/tiny_spy_implementation_for_mocking_and_spying/)
+- [[AskJS] Arrays with name-value pair](https://www.reddit.com/r/javascript/comments/o8ds1u/askjs_arrays_with_namevalue_pair/)
+- [Showoff Saturday (June 26, 2021)](https://www.reddit.com/r/javascript/comments/o85s7d/showoff_saturday_june_26_2021/)
+- [We made a little web component for collecting binary (thumbs up/down) user feedback on a website.](https://www.reddit.com/r/javascript/comments/o83kyj/we_made_a_little_web_component_for_collecting/)
 - [[AskJS] Bootstrap vs MaterialUI/MDBootstrap, from an end-user's perpective](https://www.reddit.com/r/javascript/comments/o7zu0q/askjs_bootstrap_vs_materialuimdbootstrap_from_an/)
 - [[AskJS] What is the best method to step through/reverse engineer JS?](https://www.reddit.com/r/javascript/comments/o7zklh/askjs_what_is_the_best_method_to_step/)
 - [Controlled HTML select element in React has weird default UX](https://www.reddit.com/r/javascript/comments/o7urwh/controlled_html_select_element_in_react_has_weird/)
-- [[AskJS] What am I doing wrong? document.getElement not changing](https://www.reddit.com/r/javascript/comments/o7upjp/askjs_what_am_i_doing_wrong_documentgetelement/)
 - [Grok (VSCode Extension) - a mind map for development](https://www.reddit.com/r/javascript/comments/o7tozd/grok_vscode_extension_a_mind_map_for_development/)
-- [The Real Cost of UI Components Revisited](https://www.reddit.com/r/javascript/comments/o7r6do/the_real_cost_of_ui_components_revisited/)
-- [[AskJS] What features does only webpack have vs other bundlers?](https://www.reddit.com/r/javascript/comments/o7pnrq/askjs_what_features_does_only_webpack_have_vs/)
-- [Awesome dataviz tools by Cube.js—an open-source list of charting libraries, data grids, maps, etc.](https://www.reddit.com/r/javascript/comments/o7p5bb/awesome_dataviz_tools_by_cubejsan_opensource_list/)
-- [[AskJS] Data scraping with JavaScript](https://www.reddit.com/r/javascript/comments/o7npcf/askjs_data_scraping_with_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
