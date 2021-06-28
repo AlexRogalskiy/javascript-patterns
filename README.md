@@ -254,16 +254,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The Last CodeBender: A gamified platform to learn how to code. First course will be about JavaScript!](https://www.reddit.com/r/javascript/comments/o981mh/the_last_codebender_a_gamified_platform_to_learn/)
+- [E2E Mailbox - easily add email tests to your integration tests](https://www.reddit.com/r/javascript/comments/o976tw/e2e_mailbox_easily_add_email_tests_to_your/)
+- [[AskJS] Looking for Stack Advice](https://www.reddit.com/r/javascript/comments/o8z0bw/askjs_looking_for_stack_advice/)
+- [Simplifying backend development with Prisma](https://www.reddit.com/r/javascript/comments/o8rhjr/simplifying_backend_development_with_prisma/)
+- [whenTime: A Simple Package To Do Things On Time](https://www.reddit.com/r/javascript/comments/o8p87w/whentime_a_simple_package_to_do_things_on_time/)
+- [[AskJS] How does something like Google Analytics collect accurate data and how could one build their own analytics?](https://www.reddit.com/r/javascript/comments/o8opps/askjs_how_does_something_like_google_analytics/)
 - [[AskJS] If you don't use TypeScript, tell me why (2 year follow up)](https://www.reddit.com/r/javascript/comments/o8n3uk/askjs_if_you_dont_use_typescript_tell_me_why_2/)
 - [[AskJS] I need advice on writing a browser scripts to auto answer calls](https://www.reddit.com/r/javascript/comments/o8le08/askjs_i_need_advice_on_writing_a_browser_scripts/)
 - [Tiny spy implementation for mocking and spying dependencies in the unit tests](https://www.reddit.com/r/javascript/comments/o8ieif/tiny_spy_implementation_for_mocking_and_spying/)
 - [[AskJS] Arrays with name-value pair](https://www.reddit.com/r/javascript/comments/o8ds1u/askjs_arrays_with_namevalue_pair/)
-- [Showoff Saturday (June 26, 2021)](https://www.reddit.com/r/javascript/comments/o85s7d/showoff_saturday_june_26_2021/)
-- [We made a little web component for collecting binary (thumbs up/down) user feedback on a website.](https://www.reddit.com/r/javascript/comments/o83kyj/we_made_a_little_web_component_for_collecting/)
-- [[AskJS] Bootstrap vs MaterialUI/MDBootstrap, from an end-user's perpective](https://www.reddit.com/r/javascript/comments/o7zu0q/askjs_bootstrap_vs_materialuimdbootstrap_from_an/)
-- [[AskJS] What is the best method to step through/reverse engineer JS?](https://www.reddit.com/r/javascript/comments/o7zklh/askjs_what_is_the_best_method_to_step/)
-- [Controlled HTML select element in React has weird default UX](https://www.reddit.com/r/javascript/comments/o7urwh/controlled_html_select_element_in_react_has_weird/)
-- [Grok (VSCode Extension) - a mind map for development](https://www.reddit.com/r/javascript/comments/o7tozd/grok_vscode_extension_a_mind_map_for_development/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
