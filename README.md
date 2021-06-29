@@ -254,16 +254,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [The Last CodeBender: A gamified platform to learn how to code. First course will be about JavaScript!](https://www.reddit.com/r/javascript/comments/o981mh/the_last_codebender_a_gamified_platform_to_learn/)
-- [E2E Mailbox - easily add email tests to your integration tests](https://www.reddit.com/r/javascript/comments/o976tw/e2e_mailbox_easily_add_email_tests_to_your/)
-- [[AskJS] Looking for Stack Advice](https://www.reddit.com/r/javascript/comments/o8z0bw/askjs_looking_for_stack_advice/)
-- [Simplifying backend development with Prisma](https://www.reddit.com/r/javascript/comments/o8rhjr/simplifying_backend_development_with_prisma/)
-- [whenTime: A Simple Package To Do Things On Time](https://www.reddit.com/r/javascript/comments/o8p87w/whentime_a_simple_package_to_do_things_on_time/)
-- [[AskJS] How does something like Google Analytics collect accurate data and how could one build their own analytics?](https://www.reddit.com/r/javascript/comments/o8opps/askjs_how_does_something_like_google_analytics/)
-- [[AskJS] If you don't use TypeScript, tell me why (2 year follow up)](https://www.reddit.com/r/javascript/comments/o8n3uk/askjs_if_you_dont_use_typescript_tell_me_why_2/)
-- [[AskJS] I need advice on writing a browser scripts to auto answer calls](https://www.reddit.com/r/javascript/comments/o8le08/askjs_i_need_advice_on_writing_a_browser_scripts/)
-- [Tiny spy implementation for mocking and spying dependencies in the unit tests](https://www.reddit.com/r/javascript/comments/o8ieif/tiny_spy_implementation_for_mocking_and_spying/)
-- [[AskJS] Arrays with name-value pair](https://www.reddit.com/r/javascript/comments/o8ds1u/askjs_arrays_with_namevalue_pair/)
+- [tsParticles 1.30.0 is here! Confetti rework (all particles shapes supported, emojis too, with sample inside)](https://www.reddit.com/r/javascript/comments/o9vfsk/tsparticles_1300_is_here_confetti_rework_all/)
+- [[AskJS] How to deal with the non-blocking nature of Nodejs and async/await](https://www.reddit.com/r/javascript/comments/o9u0o2/askjs_how_to_deal_with_the_nonblocking_nature_of/)
+- [[AskJS] Suggestions for best library to convert html to pdf in JavaScript](https://www.reddit.com/r/javascript/comments/o9pqk0/askjs_suggestions_for_best_library_to_convert/)
+- [Temporal: getting started with JavaScript’s new date time API](https://www.reddit.com/r/javascript/comments/o9ojy6/temporal_getting_started_with_javascripts_new/)
+- [Sorting colors in JavaScript](https://www.reddit.com/r/javascript/comments/o9o98l/sorting_colors_in_javascript/)
+- [SolidJS Official Release: The long road to 1.0](https://www.reddit.com/r/javascript/comments/o9ms5y/solidjs_official_release_the_long_road_to_10/)
+- [react-query: A magical way to fetch data in React](https://www.reddit.com/r/javascript/comments/o9j6bv/reactquery_a_magical_way_to_fetch_data_in_react/)
+- [[AskJS] How can I speed up my test runner with Vite.js?](https://www.reddit.com/r/javascript/comments/o9j18s/askjs_how_can_i_speed_up_my_test_runner_with/)
+- [Your /r/javascript recap for the week of June 21 - June 27](https://www.reddit.com/r/javascript/comments/o9gh7e/your_rjavascript_recap_for_the_week_of_june_21/)
+- [pbfish - Minimal error-tolerant schema validation](https://www.reddit.com/r/javascript/comments/o9g7dv/pbfish_minimal_errortolerant_schema_validation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
