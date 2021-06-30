@@ -254,16 +254,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [tsParticles 1.30.0 is here! Confetti rework (all particles shapes supported, emojis too, with sample inside)](https://www.reddit.com/r/javascript/comments/o9vfsk/tsparticles_1300_is_here_confetti_rework_all/)
-- [[AskJS] How to deal with the non-blocking nature of Nodejs and async/await](https://www.reddit.com/r/javascript/comments/o9u0o2/askjs_how_to_deal_with_the_nonblocking_nature_of/)
-- [[AskJS] Suggestions for best library to convert html to pdf in JavaScript](https://www.reddit.com/r/javascript/comments/o9pqk0/askjs_suggestions_for_best_library_to_convert/)
-- [Temporal: getting started with JavaScript’s new date time API](https://www.reddit.com/r/javascript/comments/o9ojy6/temporal_getting_started_with_javascripts_new/)
-- [Sorting colors in JavaScript](https://www.reddit.com/r/javascript/comments/o9o98l/sorting_colors_in_javascript/)
-- [SolidJS Official Release: The long road to 1.0](https://www.reddit.com/r/javascript/comments/o9ms5y/solidjs_official_release_the_long_road_to_10/)
-- [react-query: A magical way to fetch data in React](https://www.reddit.com/r/javascript/comments/o9j6bv/reactquery_a_magical_way_to_fetch_data_in_react/)
-- [[AskJS] How can I speed up my test runner with Vite.js?](https://www.reddit.com/r/javascript/comments/o9j18s/askjs_how_can_i_speed_up_my_test_runner_with/)
-- [Your /r/javascript recap for the week of June 21 - June 27](https://www.reddit.com/r/javascript/comments/o9gh7e/your_rjavascript_recap_for_the_week_of_june_21/)
-- [pbfish - Minimal error-tolerant schema validation](https://www.reddit.com/r/javascript/comments/o9g7dv/pbfish_minimal_errortolerant_schema_validation/)
+- [How to create an interactive map of the US .](https://www.reddit.com/r/javascript/comments/oamp3a/how_to_create_an_interactive_map_of_the_us/)
+- [Built a World of Warcraft API while playing with some new libraries and frameworks](https://www.reddit.com/r/javascript/comments/oah4lu/built_a_world_of_warcraft_api_while_playing_with/)
+- [[AskJS] Migrating Guinea pigs: Any open-source project you care about still on jQuery 2.x?](https://www.reddit.com/r/javascript/comments/oag4h3/askjs_migrating_guinea_pigs_any_opensource/)
+- [Introducing the packageanalyzer [Feedback Welcome]](https://www.reddit.com/r/javascript/comments/oafycv/introducing_the_packageanalyzer_feedback_welcome/)
+- [Hello, you can use my codes if you wish, I shared on my Github. I used React.js, CSS, HTML for software, and Firestore for storing. Thanks a lot.](https://www.reddit.com/r/javascript/comments/oafsyc/hello_you_can_use_my_codes_if_you_wish_i_shared/)
+- [Back to Basics: Your Guide to the HTML5 Video Tag](https://www.reddit.com/r/javascript/comments/oaesmc/back_to_basics_your_guide_to_the_html5_video_tag/)
+- [JS Confetti library that supports emojis](https://www.reddit.com/r/javascript/comments/oacbzo/js_confetti_library_that_supports_emojis/)
+- [Dynamically generate social share images with serverless](https://www.reddit.com/r/javascript/comments/oaa4aj/dynamically_generate_social_share_images_with/)
+- [Confident JS series: Part 3 — Test what improves your confidence](https://www.reddit.com/r/javascript/comments/oa8yjd/confident_js_series_part_3_test_what_improves/)
+- [Benchmarking JavaScript Memory Usage](https://www.reddit.com/r/javascript/comments/oa5879/benchmarking_javascript_memory_usage/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
