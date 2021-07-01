@@ -254,16 +254,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to create an interactive map of the US .](https://www.reddit.com/r/javascript/comments/oamp3a/how_to_create_an_interactive_map_of_the_us/)
-- [Built a World of Warcraft API while playing with some new libraries and frameworks](https://www.reddit.com/r/javascript/comments/oah4lu/built_a_world_of_warcraft_api_while_playing_with/)
-- [[AskJS] Migrating Guinea pigs: Any open-source project you care about still on jQuery 2.x?](https://www.reddit.com/r/javascript/comments/oag4h3/askjs_migrating_guinea_pigs_any_opensource/)
-- [Introducing the packageanalyzer [Feedback Welcome]](https://www.reddit.com/r/javascript/comments/oafycv/introducing_the_packageanalyzer_feedback_welcome/)
-- [Hello, you can use my codes if you wish, I shared on my Github. I used React.js, CSS, HTML for software, and Firestore for storing. Thanks a lot.](https://www.reddit.com/r/javascript/comments/oafsyc/hello_you_can_use_my_codes_if_you_wish_i_shared/)
-- [Back to Basics: Your Guide to the HTML5 Video Tag](https://www.reddit.com/r/javascript/comments/oaesmc/back_to_basics_your_guide_to_the_html5_video_tag/)
-- [JS Confetti library that supports emojis](https://www.reddit.com/r/javascript/comments/oacbzo/js_confetti_library_that_supports_emojis/)
-- [Dynamically generate social share images with serverless](https://www.reddit.com/r/javascript/comments/oaa4aj/dynamically_generate_social_share_images_with/)
-- [Confident JS series: Part 3 — Test what improves your confidence](https://www.reddit.com/r/javascript/comments/oa8yjd/confident_js_series_part_3_test_what_improves/)
-- [Benchmarking JavaScript Memory Usage](https://www.reddit.com/r/javascript/comments/oa5879/benchmarking_javascript_memory_usage/)
+- [Stories are tests](https://www.reddit.com/r/javascript/comments/ob3i4z/stories_are_tests/)
+- [I made some ridiculous nonsense: A Fortnite VS Code Theme! It has special effects! It has chickens and fire!](https://www.reddit.com/r/javascript/comments/ob06pb/i_made_some_ridiculous_nonsense_a_fortnite_vs/)
+- [5 Essential Tips for Testing JavaScript UIs](https://www.reddit.com/r/javascript/comments/oaz6xv/5_essential_tips_for_testing_javascript_uis/)
+- [[AskJS] nuxt vs next](https://www.reddit.com/r/javascript/comments/oayo81/askjs_nuxt_vs_next/)
+- [Implementing a sane backend in Node.js using NestJS, Part II: Project setup and structure](https://www.reddit.com/r/javascript/comments/oaxib8/implementing_a_sane_backend_in_nodejs_using/)
+- [Encoding data for POST requests](https://www.reddit.com/r/javascript/comments/oaw2t6/encoding_data_for_post_requests/)
+- [Break and Continue in JavaScript](https://www.reddit.com/r/javascript/comments/oaw2qz/break_and_continue_in_javascript/)
+- [OOP in JavaScript: Explained using games](https://www.reddit.com/r/javascript/comments/oaveey/oop_in_javascript_explained_using_games/)
+- [I found this library for creating particles effect, now supports also a beautiful confetti animation](https://www.reddit.com/r/javascript/comments/oauz8y/i_found_this_library_for_creating_particles/)
+- [[AskJS] SIMPLE JAVASCRIPT: Design a table in Google Sheets that updates itself with answears from a Google Form](https://www.reddit.com/r/javascript/comments/oasnuz/askjs_simple_javascript_design_a_table_in_google/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
