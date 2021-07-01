@@ -43,35 +43,33 @@
 ## 🎹 *Table of contents*
 
 <!--ts-->
-
-- [JavaScript Design Patterns](#javascript-design-patterns)
-  - [<em>Table of contents</em>](#-table-of-contents)
-  - [<em>Summary</em>](#-summary)
-  - [<em>Documentation</em>](#-documentation)
-  - [<em>Statistics</em>](#-statistics)
-  - [<em>Versioning</em>](#-versioning)
-  - [<em>Authors</em>](#-authors)
-  - [<em>Contributing</em>](#-contributing)
-  - [<em>Visitor stats</em>](#-visitor-stats)
-  - [<em>Licensing</em>](#-licensing)
-  - [<em>Development Support</em>](#-development-support)
-  - [<em>Acknowledgement</em>](#-acknowledgement)
-  - [<em>OpenGraph Card</em>](#-opengraph-card)
-  - [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
-    - [<em>Reddit posts</em>](#reddit-posts)
-    - [<em>InfoWorld posts</em>](#infoworld-posts)
-    - [<em>EmberJS posts</em>](#emberjs-posts)
-    - [<em>YouTube code posts</em>](#youtube-code-posts)
-    - [<em>ReactJS posts</em>](#reactjs-posts)
-    - [<em>javascript programmer posts</em>](#javascript-programmer-posts)
-    - [<em>Dreamix posts</em>](#dreamix-posts)
-    - [<em>NodeSource posts</em>](#nodesource-posts)
-    - [<em>React Native posts</em>](#react-native-posts)
-    - [<em>Redhat posts</em>](#redhat-posts)
-    - [<em>JavaScript Weekly posts</em>](#javascript-weekly-posts)
-    - [<em>Writing JavaScript posts</em>](#writing-javascript-posts)
-    - [<em>JavaScript Ninja posts</em>](#javascript-ninja-posts)
-
+   * [JavaScript Design Patterns](#javascript-design-patterns)
+      * [<em>Table of contents</em>](#-table-of-contents)
+      * [<em>Summary</em>](#-summary)
+      * [<em>Documentation</em>](#-documentation)
+      * [<em>Statistics</em>](#-statistics)
+      * [<em>Versioning</em>](#-versioning)
+      * [<em>Authors</em>](#-authors)
+      * [<em>Contributing</em>](#-contributing)
+      * [<em>Visitor stats</em>](#-visitor-stats)
+      * [<em>Licensing</em>](#-licensing)
+      * [<em>Development Support</em>](#-development-support)
+      * [<em>Acknowledgement</em>](#-acknowledgement)
+      * [<em>OpenGraph Card</em>](#-opengraph-card)
+      * [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
+         * [<em>Reddit posts</em>](#reddit-posts)
+         * [<em>InfoWorld posts</em>](#infoworld-posts)
+         * [<em>EmberJS posts</em>](#emberjs-posts)
+         * [<em>YouTube code posts</em>](#youtube-code-posts)
+         * [<em>ReactJS posts</em>](#reactjs-posts)
+         * [<em>javascript programmer posts</em>](#javascript-programmer-posts)
+         * [<em>Dreamix posts</em>](#dreamix-posts)
+         * [<em>NodeSource posts</em>](#nodesource-posts)
+         * [<em>React Native posts</em>](#react-native-posts)
+         * [<em>Redhat posts</em>](#redhat-posts)
+         * [<em>JavaScript Weekly posts</em>](#javascript-weekly-posts)
+         * [<em>Writing JavaScript posts</em>](#writing-javascript-posts)
+         * [<em>JavaScript Ninja posts</em>](#javascript-ninja-posts)
 <!--te-->
 
 ## ☝ *Summary*
@@ -256,41 +254,36 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-
-- [React Initializr - Generate custom react projects bundled using webpack 5 in just a few clicks](https://www.reddit.com/r/javascript/comments/o60yp3/react_initializr_generate_custom_react_projects/)
-- [\[AskJS\] What are the best OCRs for handwriting and pictures in non latin text?](https://www.reddit.com/r/javascript/comments/o5xv9n/askjs_what_are_the_best_ocrs_for_handwriting_and/)
-- [\[AskJS\] help with engines](https://www.reddit.com/r/javascript/comments/o5xbmw/askjs_help_with_engines/)
-- [I made a twitter bot which send results to the students](https://www.reddit.com/r/javascript/comments/o5wqqh/i_made_a_twitter_bot_which_send_results_to_the/)
-- [Imperative vs Declarative programming in JavaScript](https://www.reddit.com/r/javascript/comments/o5wju9/imperative_vs_declarative_programming_in/)
-- [3 Design Patterns in TypeScript for Frontend Developers](https://www.reddit.com/r/javascript/comments/o5vclq/3\_design_patterns_in_typescript_for_frontend/)
-- [How to create music with Tone.js](https://www.reddit.com/r/javascript/comments/o5s2g1/how_to_create_music_with_tonejs/)
-- [ES2021 features list as approved by the Ecma General Assembly!](https://www.reddit.com/r/javascript/comments/o5rwwt/es2021\_features_list_as_approved_by_the_ecma/)
-- [NextJS with WebAssembly and Web Workers](https://www.reddit.com/r/javascript/comments/o5rtl1/nextjs_with_webassembly_and_web_workers/)
-- [The State Of Progressive Web Apps Adoption By Developers In 2021](https://www.reddit.com/r/javascript/comments/o5oyq1/the_state_of_progressive_web_apps_adoption_by/)
-
+- [Stories are tests](https://www.reddit.com/r/javascript/comments/ob3i4z/stories_are_tests/)
+- [I made some ridiculous nonsense: A Fortnite VS Code Theme! It has special effects! It has chickens and fire!](https://www.reddit.com/r/javascript/comments/ob06pb/i_made_some_ridiculous_nonsense_a_fortnite_vs/)
+- [5 Essential Tips for Testing JavaScript UIs](https://www.reddit.com/r/javascript/comments/oaz6xv/5_essential_tips_for_testing_javascript_uis/)
+- [[AskJS] nuxt vs next](https://www.reddit.com/r/javascript/comments/oayo81/askjs_nuxt_vs_next/)
+- [Implementing a sane backend in Node.js using NestJS, Part II: Project setup and structure](https://www.reddit.com/r/javascript/comments/oaxib8/implementing_a_sane_backend_in_nodejs_using/)
+- [Encoding data for POST requests](https://www.reddit.com/r/javascript/comments/oaw2t6/encoding_data_for_post_requests/)
+- [Break and Continue in JavaScript](https://www.reddit.com/r/javascript/comments/oaw2qz/break_and_continue_in_javascript/)
+- [OOP in JavaScript: Explained using games](https://www.reddit.com/r/javascript/comments/oaveey/oop_in_javascript_explained_using_games/)
+- [I found this library for creating particles effect, now supports also a beautiful confetti animation](https://www.reddit.com/r/javascript/comments/oauz8y/i_found_this_library_for_creating_particles/)
+- [[AskJS] SIMPLE JAVASCRIPT: Design a table in Google Sheets that updates itself with answears from a Google Form](https://www.reddit.com/r/javascript/comments/oasnuz/askjs_simple_javascript_design_a_table_in_google/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
-
+- [What’s new in Angular 12](https://www.infoworld.com/article/3607428/whats-new-in-angular-12.html#tk.rss_javascript)
+- [11 hot language projects riding WebAssembly](https://www.infoworld.com/article/3619608/-11-hot-language-projects-riding-webassembly.html#tk.rss_javascript)
+- [Deno Company unveils server-side JavaScript hosting service](https://www.infoworld.com/article/3622914/deno-company-unveils-server-side-javascript-hosting-service.html#tk.rss_javascript)
+- [ECMAScript 2021 spec for JavaScript crosses the finish line](https://www.infoworld.com/article/3613948/ecmascript-2021-spec-for-javascript-crosses-the-finish-line.html#tk.rss_javascript)
 - [Next.js 11 boasts faster startup](https://www.infoworld.com/article/3622464/nextjs-11-boasts-faster-startup.html#tk.rss_javascript)
 - [How to CRUD with Node.js and MongoDB](https://www.infoworld.com/article/3619533/how-to-crud-with-nodejs-and-mongodb.html#tk.rss_javascript)
-- [10 hot language projects riding WebAssembly](https://www.infoworld.com/article/3619608/10-hot-language-projects-riding-webassembly.html#tk.rss_javascript)
 - [Angular team streamlines feature requests](https://www.infoworld.com/article/3620239/angular-team-streamlines-feature-requests.html#tk.rss_javascript)
 - [Google boosts V8 JavaScript performance](https://www.infoworld.com/article/3620237/google-boosts-v8-javascript-performance.html#tk.rss_javascript)
 - [TypeScript 4.3 brings type specification for properties](https://www.infoworld.com/article/3613942/typescript-43-brings-type-specification-for-properties.html#tk.rss_javascript)
 - [7 tools transforming JavaScript development](https://www.infoworld.com/article/3619560/7-tools-transforming-javascript-development.html#tk.rss_javascript)
-- [Google unveils DevTools extension for Angular](https://www.infoworld.com/article/3619892/google-unveils-devtools-extension-for-angular.html#tk.rss_javascript)
-- [Scala 3 ushers in ‘complete overhaul’ of the language](https://www.infoworld.com/article/3608574/scala-3-moves-to-release-candidate-stage.html#tk.rss_javascript)
-- [Angular 12 arrives with pile of improvements](https://www.infoworld.com/article/3607428/angular-12-arrives-with-pile-of-improvements.html#tk.rss_javascript)
-
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
 
 <!-- EMBERJS-POST-LIST:START -->
-
 - [The Ember Times - Issue No. 182](https://blog.emberjs.com/the-ember-times-issue-182)
 - [The Ember Times - Issue No. 181](https://blog.emberjs.com/the-ember-times-issue-181)
 - [The Ember Times - Issue No. 180](https://blog.emberjs.com/the-ember-times-issue-180)
@@ -301,30 +294,26 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [The Ember Times - Issue No. 177](https://blog.emberjs.com/the-ember-times-issue-177)
 - [The Ember Times - Issue No. 176](https://blog.emberjs.com/the-ember-times-issue-176)
 - [The Ember Times - Issue No. 175](https://blog.emberjs.com/the-ember-times-issue-175)
-
 <!-- EMBERJS-POST-LIST:END -->
 
 ### *YouTube code posts*
 
 <!-- YOUTUBE-POST-LIST:START -->
-
 - [From JavaScript to React - Leonidas Esteban (Spanish language)](https://www.youtube.com/watch?v=T-lRHCPfQ1o)
 - [From beginner to expert in web performance  - Tracy Lee](https://www.youtube.com/watch?v=l1A1ImFkNvA)
 - [Accessibility, what do you eat that with? - Marjorie Figueroa (Spanish language)](https://www.youtube.com/watch?v=nOTw35C5ba4)
 - [Micro Frontends, or how to evolve to an extensible frontend - Benjamín Martínez (Spanish langauaje)](https://www.youtube.com/watch?v=qAzL3QmmtVg)
 - [React is hard but not why you may think  - Sara Vieira](https://www.youtube.com/watch?v=MmQvVkYMi8g)
 - [Starting a thread: pin the right questions - Dora Makszy](https://www.youtube.com/watch?v=gmjIcE97JC8)
-- [Why WebAssembly - Miguel Useche  \[Spanish language\]](https://www.youtube.com/watch?v=BoV0o_aTBCA)
-- [Hacking Web Performance - Maximiliano Firtman  \[Spanish language\]](https://www.youtube.com/watch?v=dyABQXGgB7Y)
-- [Async JS - Nacho Sainz \[Spanish language\]](https://www.youtube.com/watch?v=AwG9WfkDQrI)
+- [Why WebAssembly - Miguel Useche  [Spanish language]](https://www.youtube.com/watch?v=BoV0o_aTBCA)
+- [Hacking Web Performance - Maximiliano Firtman  [Spanish language]](https://www.youtube.com/watch?v=dyABQXGgB7Y)
+- [Async JS - Nacho Sainz [Spanish language]](https://www.youtube.com/watch?v=AwG9WfkDQrI)
 - [DevTools, the CSS advocate in your browse - Chen Hui Jing](https://www.youtube.com/watch?v=jMd82CaT100)
-
 <!-- YOUTUBE-POST-LIST:END -->
 
 ### *ReactJS posts*
 
 <!-- REACTJS-POST-LIST:START -->
-
 - [The Plan for React 18](https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html)
 - [Introducing Zero-Bundle-Size React Server Components](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html)
 - [React v17.0](https://reactjs.org/blog/2020/10/20/react-v17.html)
@@ -335,13 +324,11 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Preparing for the Future with React Prereleases](https://reactjs.org/blog/2019/10/22/react-release-channels.html)
 - [Introducing the New React DevTools](https://reactjs.org/blog/2019/08/15/new-react-devtools.html)
 - [React v16.9.0 and the Roadmap Update](https://reactjs.org/blog/2019/08/08/react-v16.9.0.html)
-
 <!-- REACTJS-POST-LIST:END -->
 
 ### *javascript programmer posts*
 
 <!-- METEOR-POST-LIST:START -->
-
 - [How Avion Brings User Story Mapping To Product Teams using Meteor](https://blog.meteor.com/how-avion-brings-user-story-mapping-to-product-teams-using-meteor-51f92bb0928a?source=rss----a9bcaf865278---4)
 - [New Meteor Meetups](https://blog.meteor.com/new-meteor-meetups-b1fca07b49c3?source=rss----a9bcaf865278---4)
 - [First load optimization with Meteor](https://blog.meteor.com/first-load-optimization-with-meteor-7cd896fa217d?source=rss----a9bcaf865278---4)
@@ -352,22 +339,18 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Meteor 1.12 is here!](https://blog.meteor.com/meteor-1-12-is-here-ec0c78dbb973?source=rss----a9bcaf865278---4)
 - [Meteor Fibers meet Promises meet Callbacks — A practical guide](https://blog.meteor.com/meteor-fibers-meet-promises-meet-callbacks-a-practical-guide-e134db15afcb?source=rss----a9bcaf865278---4)
 - [Meteor Impact 2020 is this week!](https://blog.meteor.com/meteor-impact-2020-is-this-week-db3a1ee1e0cd?source=rss----a9bcaf865278---4)
-
 <!-- METEOR-POST-LIST:END -->
 
 ### *Dreamix posts*
 
 <!-- DREAMIX-POST-LIST:START -->
-
 - [Java vs JavaScript: How to Choose the Right Backend Technology?](https://dreamix.eu/blog/java/java-vs-javascript-how-to-choose-the-right-backend-technology)
 - [Hunting memory leaks in JavaScript using Chrome DevTools](https://dreamix.eu/blog/frontpage/hunting-memory-leaks-in-javascript-using-chrome-devtools)
-
 <!-- DREAMIX-POST-LIST:END -->
 
 ### *NodeSource posts*
 
 <!-- NODESOURCE-POST-LIST:START -->
-
 - [Security Release for N|Solid Version 4.5.5](https://nodesource.com/blog/security-release-for-NSolid-version-4.5.5)
 - [The Node.js Application Maintainer Guide](https://nodesource.com/blog/the-Node.js-application-maintainer-guide)
 - [Announcing N|Solid Version 4.5.3](https://nodesource.com/blog/announcing-NSolid-Version-4.5.3)
@@ -378,13 +361,11 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [NodeSource brings C++ API to N|Solid!](https://nodesource.com/blog/c++-api-to-nsolid)
 - [PagerDuty integration with N|Solid](https://nodesource.com/blog/pagerduty-integration-with-NSolid)
 - [Node By Numbers 2020](https://nodesource.com/blog/node-by-numbers-2020)
-
 <!-- NODESOURCE-POST-LIST:END -->
 
 ### *React Native posts*
 
 <!-- REACTNATIVE-POST-LIST:START -->
-
 - [React Native v0.64.x released](http://www.reactnative.com/react-native-v0-64-x-released/)
 - [React Native v0.63.x released](http://www.reactnative.com/react-native-v0-63-x-released/)
 - [React Native v0.62.x released](http://www.reactnative.com/react-native-v0-62-x-released/)
@@ -395,7 +376,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [React Native v0.60.x released](http://www.reactnative.com/react-native-v0-60-x-released/)
 - [React Native v0.59.x released](http://www.reactnative.com/react-native-v0-59-x-released/)
 - [Tweet from @reactnative](http://www.reactnative.com/tweet-from-reactnative-4/)
-
 <!-- REACTNATIVE-POST-LIST:END -->
 
 ### *Redhat posts*
