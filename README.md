@@ -257,16 +257,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 
 <!-- REDDIT-POST-LIST:START -->
 
-- [Stories are tests](https://www.reddit.com/r/javascript/comments/ob3i4z/stories_are_tests/)
-- [I made some ridiculous nonsense: A Fortnite VS Code Theme! It has special effects! It has chickens and fire!](https://www.reddit.com/r/javascript/comments/ob06pb/i_made_some_ridiculous_nonsense_a_fortnite_vs/)
-- [5 Essential Tips for Testing JavaScript UIs](https://www.reddit.com/r/javascript/comments/oaz6xv/5\_essential_tips_for_testing_javascript_uis/)
-- [\[AskJS\] nuxt vs next](https://www.reddit.com/r/javascript/comments/oayo81/askjs_nuxt_vs_next/)
-- [Implementing a sane backend in Node.js using NestJS, Part II: Project setup and structure](https://www.reddit.com/r/javascript/comments/oaxib8/implementing_a_sane_backend_in_nodejs_using/)
-- [Encoding data for POST requests](https://www.reddit.com/r/javascript/comments/oaw2t6/encoding_data_for_post_requests/)
-- [Break and Continue in JavaScript](https://www.reddit.com/r/javascript/comments/oaw2qz/break_and_continue_in_javascript/)
-- [OOP in JavaScript: Explained using games](https://www.reddit.com/r/javascript/comments/oaveey/oop_in_javascript_explained_using_games/)
-- [I found this library for creating particles effect, now supports also a beautiful confetti animation](https://www.reddit.com/r/javascript/comments/oauz8y/i_found_this_library_for_creating_particles/)
-- [\[AskJS\] SIMPLE JAVASCRIPT: Design a table in Google Sheets that updates itself with answears from a Google Form](https://www.reddit.com/r/javascript/comments/oasnuz/askjs_simple_javascript_design_a_table_in_google/)
+- [Announcing TypeScript 4.4 Beta](https://www.reddit.com/r/javascript/comments/obtg9l/announcing_typescript\_44\_beta/)
+- [How to properly internationalize a React application using i18next](https://www.reddit.com/r/javascript/comments/obta8g/how_to_properly_internationalize_a_react/)
+- [\[AskJS\] Why don't they make JavaScript multi-threaded?](https://www.reddit.com/r/javascript/comments/obq4ve/askjs_why_dont_they_make_javascript_multithreaded/)
+- [Photo Fit - Fit your images perfectly with beautiful blurred border (developed using reactjs and tailwind css)](https://www.reddit.com/r/javascript/comments/obq4i3/photo_fit_fit_your_images_perfectly_with/)
+- [Flicking v4 - Carousel UI library updated with more customization and UI preserving](https://www.reddit.com/r/javascript/comments/obpblv/flicking_v4\_carousel_ui_library_updated_with_more/)
+- [Object-oriented Programming in JavaScript: Made Super Simple](https://www.reddit.com/r/javascript/comments/obocl0/objectoriented_programming_in_javascript_made/)
+- [Built a knowledge graph to learn ML using Javascript](https://www.reddit.com/r/javascript/comments/obin88/built_a_knowledge_graph_to_learn_ml_using/)
+- [you do not need math to learn to code](https://www.reddit.com/r/javascript/comments/obhuio/you_do_not_need_math_to_learn_to_code/)
+- [\[AskJS\] Are Nestjs & Decorators the future of nodejs servers?](https://www.reddit.com/r/javascript/comments/obhqoy/askjs_are_nestjs_decorators_the_future_of_nodejs/)
+- [Why write an entire game (including Graphics) in a single, hand-coded JavaScript file?](https://www.reddit.com/r/javascript/comments/obgrjz/why_write_an_entire_game_including_graphics_in_a/)
 
 <!-- REDDIT-POST-LIST:END -->
 
@@ -291,6 +291,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 
 <!-- EMBERJS-POST-LIST:START -->
 
+- [The Ember Times - Issue No. 183](https://blog.emberjs.com/the-ember-times-issue-183)
 - [The Ember Times - Issue No. 182](https://blog.emberjs.com/the-ember-times-issue-182)
 - [The Ember Times - Issue No. 181](https://blog.emberjs.com/the-ember-times-issue-181)
 - [The Ember Times - Issue No. 180](https://blog.emberjs.com/the-ember-times-issue-180)
@@ -300,7 +301,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Ember 3.26 Released](https://blog.emberjs.com/ember-3-26-released)
 - [The Ember Times - Issue No. 177](https://blog.emberjs.com/the-ember-times-issue-177)
 - [The Ember Times - Issue No. 176](https://blog.emberjs.com/the-ember-times-issue-176)
-- [The Ember Times - Issue No. 175](https://blog.emberjs.com/the-ember-times-issue-175)
 
 <!-- EMBERJS-POST-LIST:END -->
 
@@ -368,6 +368,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 
 <!-- NODESOURCE-POST-LIST:START -->
 
+- [Security Release for N|Solid 4.5.6](https://nodesource.com/blog/security-release-for-NSolid-4.5.6)
 - [Security Release for N|Solid Version 4.5.5](https://nodesource.com/blog/security-release-for-NSolid-version-4.5.5)
 - [The Node.js Application Maintainer Guide](https://nodesource.com/blog/the-Node.js-application-maintainer-guide)
 - [Announcing N|Solid Version 4.5.3](https://nodesource.com/blog/announcing-NSolid-Version-4.5.3)
@@ -377,7 +378,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Announcing Worker Threads Monitoring for Node.js in N|Solid](https://nodesource.com/blog/worker-threads-monitoring-for-node.js-in-NSolid)
 - [NodeSource brings C++ API to N|Solid!](https://nodesource.com/blog/c++-api-to-nsolid)
 - [PagerDuty integration with N|Solid](https://nodesource.com/blog/pagerduty-integration-with-NSolid)
-- [Node By Numbers 2020](https://nodesource.com/blog/node-by-numbers-2020)
 
 <!-- NODESOURCE-POST-LIST:END -->
 
