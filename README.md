@@ -351,6 +351,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *NodeSource posts*
 
 <!-- NODESOURCE-POST-LIST:START -->
+- [Security Release for N|Solid 4.5.6](https://nodesource.com/blog/security-release-for-NSolid-4.5.6)
 - [Security Release for N|Solid Version 4.5.5](https://nodesource.com/blog/security-release-for-NSolid-version-4.5.5)
 - [The Node.js Application Maintainer Guide](https://nodesource.com/blog/the-Node.js-application-maintainer-guide)
 - [Announcing N|Solid Version 4.5.3](https://nodesource.com/blog/announcing-NSolid-Version-4.5.3)
@@ -360,7 +361,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Announcing Worker Threads Monitoring for Node.js in N|Solid](https://nodesource.com/blog/worker-threads-monitoring-for-node.js-in-NSolid)
 - [NodeSource brings C++ API to N|Solid!](https://nodesource.com/blog/c++-api-to-nsolid)
 - [PagerDuty integration with N|Solid](https://nodesource.com/blog/pagerduty-integration-with-NSolid)
-- [Node By Numbers 2020](https://nodesource.com/blog/node-by-numbers-2020)
 <!-- NODESOURCE-POST-LIST:END -->
 
 ### *React Native posts*
