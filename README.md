@@ -254,18 +254,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-
-- [Announcing TypeScript 4.4 Beta](https://www.reddit.com/r/javascript/comments/obtg9l/announcing_typescript\_44\_beta/)
-- [How to properly internationalize a React application using i18next](https://www.reddit.com/r/javascript/comments/obta8g/how_to_properly_internationalize_a_react/)
-- [\[AskJS\] Why don't they make JavaScript multi-threaded?](https://www.reddit.com/r/javascript/comments/obq4ve/askjs_why_dont_they_make_javascript_multithreaded/)
-- [Photo Fit - Fit your images perfectly with beautiful blurred border (developed using reactjs and tailwind css)](https://www.reddit.com/r/javascript/comments/obq4i3/photo_fit_fit_your_images_perfectly_with/)
-- [Flicking v4 - Carousel UI library updated with more customization and UI preserving](https://www.reddit.com/r/javascript/comments/obpblv/flicking_v4\_carousel_ui_library_updated_with_more/)
-- [Object-oriented Programming in JavaScript: Made Super Simple](https://www.reddit.com/r/javascript/comments/obocl0/objectoriented_programming_in_javascript_made/)
-- [Built a knowledge graph to learn ML using Javascript](https://www.reddit.com/r/javascript/comments/obin88/built_a_knowledge_graph_to_learn_ml_using/)
-- [you do not need math to learn to code](https://www.reddit.com/r/javascript/comments/obhuio/you_do_not_need_math_to_learn_to_code/)
-- [\[AskJS\] Are Nestjs & Decorators the future of nodejs servers?](https://www.reddit.com/r/javascript/comments/obhqoy/askjs_are_nestjs_decorators_the_future_of_nodejs/)
-- [Why write an entire game (including Graphics) in a single, hand-coded JavaScript file?](https://www.reddit.com/r/javascript/comments/obgrjz/why_write_an_entire_game_including_graphics_in_a/)
-
+- [Chrome extension built with pure JavaScript to change and customize the boring GitHub code viewer font.](https://www.reddit.com/r/javascript/comments/ocl0ty/chrome_extension_built_with_pure_javascript_to/)
+- [petite-vue: a 5kb subset of Vue optimized for progressive enhancement](https://www.reddit.com/r/javascript/comments/ociqgu/petitevue_a_5kb_subset_of_vue_optimized_for/)
+- [I'm trying to create a names API. It's still a work in progress and any suggestions or pull requests are welcome. Essentially I'm looking to create an API that can solve the issue of non-English names being flagged as invalid or spelling errors by applications such as word, online forms etc.](https://www.reddit.com/r/javascript/comments/ocg9is/im_trying_to_create_a_names_api_its_still_a_work/)
+- [The Elder.js Guide to the Galaxy with Nick Reese (JS Party #182)](https://www.reddit.com/r/javascript/comments/ocffpz/the_elderjs_guide_to_the_galaxy_with_nick_reese/)
+- [Fronts - A progressive micro frontends framework](https://www.reddit.com/r/javascript/comments/ocfb22/fronts_a_progressive_micro_frontends_framework/)
+- [Define_macro-loader for webpack. Compile time function expansion(C-like #define function)](https://www.reddit.com/r/javascript/comments/ocb7lc/define_macroloader_for_webpack_compile_time/)
+- [A relatively complex web app built with sveltejs](https://www.reddit.com/r/javascript/comments/oca4d1/a_relatively_complex_web_app_built_with_sveltejs/)
+- [Arrays in JavaScript](https://www.reddit.com/r/javascript/comments/oc95u5/arrays_in_javascript/)
+- [How to build a Color Picker Field Type into a CMS](https://www.reddit.com/r/javascript/comments/oc8dxz/how_to_build_a_color_picker_field_type_into_a_cms/)
+- [Loops in JavaScript](https://www.reddit.com/r/javascript/comments/oc49cf/loops_in_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
