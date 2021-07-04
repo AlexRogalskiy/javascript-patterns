@@ -257,16 +257,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 
 <!-- REDDIT-POST-LIST:START -->
 
-- [Chrome extension built with pure JavaScript to change and customize the boring GitHub code viewer font.](https://www.reddit.com/r/javascript/comments/ocl0ty/chrome_extension_built_with_pure_javascript_to/)
+- [Inline Actions Creator](https://www.reddit.com/r/javascript/comments/od4l8t/inline_actions_creator/)
+- [\[AskJS\] is there a discord server for this subreddit?](https://www.reddit.com/r/javascript/comments/od0y9i/askjs_is_there_a_discord_server_for_this_subreddit/)
+- [I attempt to clone Codepen.io using Vue 3 and Monaco editor](https://www.reddit.com/r/javascript/comments/ocxtny/i_attempt_to_clone_codepenio_using_vue\_3\_and/)
+- [Showoff Saturday (July 03, 2021)](https://www.reddit.com/r/javascript/comments/ocsz98/showoff_saturday_july\_03\_2021/)
 - [petite-vue: a 5kb subset of Vue optimized for progressive enhancement](https://www.reddit.com/r/javascript/comments/ociqgu/petitevue_a\_5kb_subset_of_vue_optimized_for/)
-- [I'm trying to create a names API. It's still a work in progress and any suggestions or pull requests are welcome. Essentially I'm looking to create an API that can solve the issue of non-English names being flagged as invalid or spelling errors by applications such as word, online forms etc.](https://www.reddit.com/r/javascript/comments/ocg9is/im_trying_to_create_a_names_api_its_still_a_work/)
 - [The Elder.js Guide to the Galaxy with Nick Reese (JS Party #182)](https://www.reddit.com/r/javascript/comments/ocffpz/the_elderjs_guide_to_the_galaxy_with_nick_reese/)
 - [Fronts - A progressive micro frontends framework](https://www.reddit.com/r/javascript/comments/ocfb22/fronts_a_progressive_micro_frontends_framework/)
 - [Define_macro-loader for webpack. Compile time function expansion(C-like #define function)](https://www.reddit.com/r/javascript/comments/ocb7lc/define_macroloader_for_webpack_compile_time/)
 - [A relatively complex web app built with sveltejs](https://www.reddit.com/r/javascript/comments/oca4d1/a_relatively_complex_web_app_built_with_sveltejs/)
-- [Arrays in JavaScript](https://www.reddit.com/r/javascript/comments/oc95u5/arrays_in_javascript/)
 - [How to build a Color Picker Field Type into a CMS](https://www.reddit.com/r/javascript/comments/oc8dxz/how_to_build_a_color_picker_field_type_into_a_cms/)
-- [Loops in JavaScript](https://www.reddit.com/r/javascript/comments/oc49cf/loops_in_javascript/)
 
 <!-- REDDIT-POST-LIST:END -->
 
