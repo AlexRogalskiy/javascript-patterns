@@ -256,18 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-
+- [[AskJS] Hide the Temporal Regime?](https://www.reddit.com/r/javascript/comments/odx1nl/askjs_hide_the_temporal_regime/)
+- [[AskJS] What do you think about online Javascript beautify tools?](https://www.reddit.com/r/javascript/comments/odupd7/askjs_what_do_you_think_about_online_javascript/)
+- [fzstd - expand super-compressed Zstandard data in 8kB of pure JS](https://www.reddit.com/r/javascript/comments/odr87w/fzstd_expand_supercompressed_zstandard_data_in/)
+- [I made an Open Source Next JS Starter Template with NextJS 11 + Tailwind CSS 2 with JIT + React 17 + TypeScript + ESLint (Next and Airbnb) + Prettier + Husky + Lint-Staged + PostCSS + VSCode (w/ Debugging) + Strict Mode + SEO + Default Theme + Bundler Analyzer + One-click deploy to Vercel/Netlify](https://www.reddit.com/r/javascript/comments/odjkrm/i_made_an_open_source_next_js_starter_template/)
+- [Node.js boilerplate using Express and Mongoose, for quickly building production-ready APIs](https://www.reddit.com/r/javascript/comments/odic38/nodejs_boilerplate_using_express_and_mongoose_for/)
+- [I studied for physics exams by programming interactive simulations in P5JS! Any thoughts?](https://www.reddit.com/r/javascript/comments/odbrfy/i_studied_for_physics_exams_by_programming/)
+- [[AskJS] what library can I use for a asset hierarchal browser panel? Sort of like the one in VS code on the left side.](https://www.reddit.com/r/javascript/comments/odbhiu/askjs_what_library_can_i_use_for_a_asset/)
 - [Inline Actions Creator](https://www.reddit.com/r/javascript/comments/od4l8t/inline_actions_creator/)
-- [\[AskJS\] is there a discord server for this subreddit?](https://www.reddit.com/r/javascript/comments/od0y9i/askjs_is_there_a_discord_server_for_this_subreddit/)
-- [I attempt to clone Codepen.io using Vue 3 and Monaco editor](https://www.reddit.com/r/javascript/comments/ocxtny/i_attempt_to_clone_codepenio_using_vue\_3\_and/)
-- [Showoff Saturday (July 03, 2021)](https://www.reddit.com/r/javascript/comments/ocsz98/showoff_saturday_july\_03\_2021/)
-- [petite-vue: a 5kb subset of Vue optimized for progressive enhancement](https://www.reddit.com/r/javascript/comments/ociqgu/petitevue_a\_5kb_subset_of_vue_optimized_for/)
-- [The Elder.js Guide to the Galaxy with Nick Reese (JS Party #182)](https://www.reddit.com/r/javascript/comments/ocffpz/the_elderjs_guide_to_the_galaxy_with_nick_reese/)
-- [Fronts - A progressive micro frontends framework](https://www.reddit.com/r/javascript/comments/ocfb22/fronts_a_progressive_micro_frontends_framework/)
-- [Define_macro-loader for webpack. Compile time function expansion(C-like #define function)](https://www.reddit.com/r/javascript/comments/ocb7lc/define_macroloader_for_webpack_compile_time/)
-- [A relatively complex web app built with sveltejs](https://www.reddit.com/r/javascript/comments/oca4d1/a_relatively_complex_web_app_built_with_sveltejs/)
-- [How to build a Color Picker Field Type into a CMS](https://www.reddit.com/r/javascript/comments/oc8dxz/how_to_build_a_color_picker_field_type_into_a_cms/)
-
+- [[AskJS] is there a discord server for this subreddit?](https://www.reddit.com/r/javascript/comments/od0y9i/askjs_is_there_a_discord_server_for_this_subreddit/)
+- [I attempt to clone Codepen.io using Vue 3 and Monaco editor](https://www.reddit.com/r/javascript/comments/ocxtny/i_attempt_to_clone_codepenio_using_vue_3_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
