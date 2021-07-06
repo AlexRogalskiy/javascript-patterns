@@ -256,18 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-
-- [\[AskJS\] Hide the Temporal Regime?](https://www.reddit.com/r/javascript/comments/odx1nl/askjs_hide_the_temporal_regime/)
-- [\[AskJS\] What do you think about online Javascript beautify tools?](https://www.reddit.com/r/javascript/comments/odupd7/askjs_what_do_you_think_about_online_javascript/)
-- [fzstd - expand super-compressed Zstandard data in 8kB of pure JS](https://www.reddit.com/r/javascript/comments/odr87w/fzstd_expand_supercompressed_zstandard_data_in/)
-- [I made an Open Source Next JS Starter Template with NextJS 11 + Tailwind CSS 2 with JIT + React 17 + TypeScript + ESLint (Next and Airbnb) + Prettier + Husky + Lint-Staged + PostCSS + VSCode (w/ Debugging) + Strict Mode + SEO + Default Theme + Bundler Analyzer + One-click deploy to Vercel/Netlify](https://www.reddit.com/r/javascript/comments/odjkrm/i_made_an_open_source_next_js_starter_template/)
-- [Node.js boilerplate using Express and Mongoose, for quickly building production-ready APIs](https://www.reddit.com/r/javascript/comments/odic38/nodejs_boilerplate_using_express_and_mongoose_for/)
-- [I studied for physics exams by programming interactive simulations in P5JS! Any thoughts?](https://www.reddit.com/r/javascript/comments/odbrfy/i_studied_for_physics_exams_by_programming/)
-- [\[AskJS\] what library can I use for a asset hierarchal browser panel? Sort of like the one in VS code on the left side.](https://www.reddit.com/r/javascript/comments/odbhiu/askjs_what_library_can_i_use_for_a_asset/)
-- [Inline Actions Creator](https://www.reddit.com/r/javascript/comments/od4l8t/inline_actions_creator/)
-- [\[AskJS\] is there a discord server for this subreddit?](https://www.reddit.com/r/javascript/comments/od0y9i/askjs_is_there_a_discord_server_for_this_subreddit/)
-- [I attempt to clone Codepen.io using Vue 3 and Monaco editor](https://www.reddit.com/r/javascript/comments/ocxtny/i_attempt_to_clone_codepenio_using_vue\_3\_and/)
-
+- [[AskJS] Out of these 5 test versions of Deferred object, the slowest is the one extending the native Promise class. Could someone please explain why?](https://www.reddit.com/r/javascript/comments/oekqux/askjs_out_of_these_5_test_versions_of_deferred/)
+- [Some Experiments with GitHub Copilot](https://www.reddit.com/r/javascript/comments/oejly7/some_experiments_with_github_copilot/)
+- [[AskJS] what are the pros and cons of Sanity vs GraphCMS](https://www.reddit.com/r/javascript/comments/oejkw2/askjs_what_are_the_pros_and_cons_of_sanity_vs/)
+- [[AskJS] Object function property syntax: why does setting the value to a native function not work?](https://www.reddit.com/r/javascript/comments/oefmpl/askjs_object_function_property_syntax_why_does/)
+- [[AskJS] If I wrap a web app for mobile using Cordova or Capacitor/desktop app in Electron, can I make Axios/fetch requests on the client-side without having to worry about CORS?](https://www.reddit.com/r/javascript/comments/oedffj/askjs_if_i_wrap_a_web_app_for_mobile_using/)
+- [[AskJS] What are some similar products to RunJS? As in, a JS playground with a desktop app? Like a scratch pad. I asked a similar question earlier, but I don’t mean IDEs. Thanks](https://www.reddit.com/r/javascript/comments/oed9q2/askjs_what_are_some_similar_products_to_runjs_as/)
+- [[AskJS] What the options for desktop apps to write JS? Interested in all OSes. Looking into all my options. Thanks.](https://www.reddit.com/r/javascript/comments/oeb5da/askjs_what_the_options_for_desktop_apps_to_write/)
+- [Exploring the npm registry API](https://www.reddit.com/r/javascript/comments/oeao4g/exploring_the_npm_registry_api/)
+- [How Can Symlink Cause An Outage? A small harmless convenience can become a significantly harmful inconvenience.](https://www.reddit.com/r/javascript/comments/oe8a1c/how_can_symlink_cause_an_outage_a_small_harmless/)
+- [google/zx: release 2.0.0: now uses fs-extra and minimist](https://www.reddit.com/r/javascript/comments/oe6z8a/googlezx_release_200_now_uses_fsextra_and_minimist/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
