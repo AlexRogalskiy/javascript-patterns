@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Out of these 5 test versions of Deferred object, the slowest is the one extending the native Promise class. Could someone please explain why?](https://www.reddit.com/r/javascript/comments/oekqux/askjs_out_of_these_5_test_versions_of_deferred/)
-- [Some Experiments with GitHub Copilot](https://www.reddit.com/r/javascript/comments/oejly7/some_experiments_with_github_copilot/)
-- [[AskJS] what are the pros and cons of Sanity vs GraphCMS](https://www.reddit.com/r/javascript/comments/oejkw2/askjs_what_are_the_pros_and_cons_of_sanity_vs/)
-- [[AskJS] Object function property syntax: why does setting the value to a native function not work?](https://www.reddit.com/r/javascript/comments/oefmpl/askjs_object_function_property_syntax_why_does/)
-- [[AskJS] If I wrap a web app for mobile using Cordova or Capacitor/desktop app in Electron, can I make Axios/fetch requests on the client-side without having to worry about CORS?](https://www.reddit.com/r/javascript/comments/oedffj/askjs_if_i_wrap_a_web_app_for_mobile_using/)
-- [[AskJS] What are some similar products to RunJS? As in, a JS playground with a desktop app? Like a scratch pad. I asked a similar question earlier, but I don’t mean IDEs. Thanks](https://www.reddit.com/r/javascript/comments/oed9q2/askjs_what_are_some_similar_products_to_runjs_as/)
-- [[AskJS] What the options for desktop apps to write JS? Interested in all OSes. Looking into all my options. Thanks.](https://www.reddit.com/r/javascript/comments/oeb5da/askjs_what_the_options_for_desktop_apps_to_write/)
-- [Exploring the npm registry API](https://www.reddit.com/r/javascript/comments/oeao4g/exploring_the_npm_registry_api/)
-- [How Can Symlink Cause An Outage? A small harmless convenience can become a significantly harmful inconvenience.](https://www.reddit.com/r/javascript/comments/oe8a1c/how_can_symlink_cause_an_outage_a_small_harmless/)
-- [google/zx: release 2.0.0: now uses fs-extra and minimist](https://www.reddit.com/r/javascript/comments/oe6z8a/googlezx_release_200_now_uses_fsextra_and_minimist/)
+- [[AskJS] What's the right/common naming convention for initialisms or acronyms in JS?](https://www.reddit.com/r/javascript/comments/of1zpa/askjs_whats_the_rightcommon_naming_convention_for/)
+- [Just created SpacersJS - a JS library that supports multiple spacers for controlling padding/margin, linking functionality & much more!](https://www.reddit.com/r/javascript/comments/oeznez/just_created_spacersjs_a_js_library_that_supports/)
+- [Workspace Trust in Visual Studio Code](https://www.reddit.com/r/javascript/comments/oeynbl/workspace_trust_in_visual_studio_code/)
+- [[AskJS] losing values after saving to chrome.storage.local](https://www.reddit.com/r/javascript/comments/oewwmy/askjs_losing_values_after_saving_to/)
+- [[AskJS] What makes ExpressJS 3x slower than Koa and Fastify?](https://www.reddit.com/r/javascript/comments/oevtki/askjs_what_makes_expressjs_3x_slower_than_koa_and/)
+- [rrweb 1.0 record and replay the web even better](https://www.reddit.com/r/javascript/comments/oevgem/rrweb_10_record_and_replay_the_web_even_better/)
+- [Mantine 2.0 is out – 100+ hooks and components with dark theme support](https://www.reddit.com/r/javascript/comments/oeuzxu/mantine_20_is_out_100_hooks_and_components_with/)
+- [Open source Chat app with React.js. You can use my codes](https://www.reddit.com/r/javascript/comments/oeuk9x/open_source_chat_app_with_reactjs_you_can_use_my/)
+- [Calling beforeEach in Mocha Tests is the Root of All Evil](https://www.reddit.com/r/javascript/comments/oet924/calling_beforeeach_in_mocha_tests_is_the_root_of/)
+- [Using the WebSerial API to flash an ESP32](https://www.reddit.com/r/javascript/comments/oesp4o/using_the_webserial_api_to_flash_an_esp32/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
