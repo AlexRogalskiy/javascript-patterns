@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] What's the right/common naming convention for initialisms or acronyms in JS?](https://www.reddit.com/r/javascript/comments/of1zpa/askjs_whats_the_rightcommon_naming_convention_for/)
-- [Just created SpacersJS - a JS library that supports multiple spacers for controlling padding/margin, linking functionality & much more!](https://www.reddit.com/r/javascript/comments/oeznez/just_created_spacersjs_a_js_library_that_supports/)
-- [Workspace Trust in Visual Studio Code](https://www.reddit.com/r/javascript/comments/oeynbl/workspace_trust_in_visual_studio_code/)
-- [[AskJS] losing values after saving to chrome.storage.local](https://www.reddit.com/r/javascript/comments/oewwmy/askjs_losing_values_after_saving_to/)
-- [[AskJS] What makes ExpressJS 3x slower than Koa and Fastify?](https://www.reddit.com/r/javascript/comments/oevtki/askjs_what_makes_expressjs_3x_slower_than_koa_and/)
-- [rrweb 1.0 record and replay the web even better](https://www.reddit.com/r/javascript/comments/oevgem/rrweb_10_record_and_replay_the_web_even_better/)
-- [Mantine 2.0 is out – 100+ hooks and components with dark theme support](https://www.reddit.com/r/javascript/comments/oeuzxu/mantine_20_is_out_100_hooks_and_components_with/)
-- [Open source Chat app with React.js. You can use my codes](https://www.reddit.com/r/javascript/comments/oeuk9x/open_source_chat_app_with_reactjs_you_can_use_my/)
-- [Calling beforeEach in Mocha Tests is the Root of All Evil](https://www.reddit.com/r/javascript/comments/oet924/calling_beforeeach_in_mocha_tests_is_the_root_of/)
-- [Using the WebSerial API to flash an ESP32](https://www.reddit.com/r/javascript/comments/oesp4o/using_the_webserial_api_to_flash_an_esp32/)
+- [[AskJS] What about a second language?](https://www.reddit.com/r/javascript/comments/ofwgiy/askjs_what_about_a_second_language/)
+- [[AskJS] How to get an array item's corresponding value to a key with filter](https://www.reddit.com/r/javascript/comments/ofsl5f/askjs_how_to_get_an_array_items_corresponding/)
+- [Web dev podcasts, by the numbers](https://www.reddit.com/r/javascript/comments/ofshgj/web_dev_podcasts_by_the_numbers/)
+- [Rhymo.js - Avoid writing repetitive React code.](https://www.reddit.com/r/javascript/comments/ofrdt3/rhymojs_avoid_writing_repetitive_react_code/)
+- [I made a simple open analytics platform in Javascript](https://www.reddit.com/r/javascript/comments/ofmxpi/i_made_a_simple_open_analytics_platform_in/)
+- [React Architecture with Tommy Groshong - RRU 146 | Devchat.tv](https://www.reddit.com/r/javascript/comments/ofmw77/react_architecture_with_tommy_groshong_rru_146/)
+- [Why React is popular ?](https://www.reddit.com/r/javascript/comments/ofmecj/why_react_is_popular/)
+- [Component Story Format 3.0—simpler syntax with support for scripted interactions](https://www.reddit.com/r/javascript/comments/ofkpli/component_story_format_30simpler_syntax_with/)
+- [Node and Vanilla JS Roku Remote](https://www.reddit.com/r/javascript/comments/ofjyat/node_and_vanilla_js_roku_remote/)
+- [npm audit: Broken by Design](https://www.reddit.com/r/javascript/comments/ofjqwz/npm_audit_broken_by_design/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
