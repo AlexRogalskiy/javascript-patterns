@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] What about a second language?](https://www.reddit.com/r/javascript/comments/ofwgiy/askjs_what_about_a_second_language/)
-- [[AskJS] How to get an array item's corresponding value to a key with filter](https://www.reddit.com/r/javascript/comments/ofsl5f/askjs_how_to_get_an_array_items_corresponding/)
-- [Web dev podcasts, by the numbers](https://www.reddit.com/r/javascript/comments/ofshgj/web_dev_podcasts_by_the_numbers/)
-- [Rhymo.js - Avoid writing repetitive React code.](https://www.reddit.com/r/javascript/comments/ofrdt3/rhymojs_avoid_writing_repetitive_react_code/)
-- [I made a simple open analytics platform in Javascript](https://www.reddit.com/r/javascript/comments/ofmxpi/i_made_a_simple_open_analytics_platform_in/)
-- [React Architecture with Tommy Groshong - RRU 146 | Devchat.tv](https://www.reddit.com/r/javascript/comments/ofmw77/react_architecture_with_tommy_groshong_rru_146/)
-- [Why React is popular ?](https://www.reddit.com/r/javascript/comments/ofmecj/why_react_is_popular/)
-- [Component Story Format 3.0—simpler syntax with support for scripted interactions](https://www.reddit.com/r/javascript/comments/ofkpli/component_story_format_30simpler_syntax_with/)
-- [Node and Vanilla JS Roku Remote](https://www.reddit.com/r/javascript/comments/ofjyat/node_and_vanilla_js_roku_remote/)
-- [npm audit: Broken by Design](https://www.reddit.com/r/javascript/comments/ofjqwz/npm_audit_broken_by_design/)
+- [Connect your bank account to Google Sheets](https://www.reddit.com/r/javascript/comments/oggiiq/connect_your_bank_account_to_google_sheets/)
+- [Vuetify 3 Alpha (a Vue UI Library with beautifully handcrafted Material Components)](https://www.reddit.com/r/javascript/comments/oge34w/vuetify_3_alpha_a_vue_ui_library_with_beautifully/)
+- [Visual Studio Code June 2021](https://www.reddit.com/r/javascript/comments/ogcm5v/visual_studio_code_june_2021/)
+- [[AskJS] Need help with setTimeout loop](https://www.reddit.com/r/javascript/comments/ogb6yr/askjs_need_help_with_settimeout_loop/)
+- [DuckEngine - A 2D Game Library for the web. 1.0.0 out now!](https://www.reddit.com/r/javascript/comments/og8xdi/duckengine_a_2d_game_library_for_the_web_100_out/)
+- [Appwrite - A Self Hosted Open Source Firebase Alternative](https://www.reddit.com/r/javascript/comments/og6w86/appwrite_a_self_hosted_open_source_firebase/)
+- [Getting Started with Jest](https://www.reddit.com/r/javascript/comments/og6gjt/getting_started_with_jest/)
+- [How to Use IndexedDB to Manage State in JavaScript](https://www.reddit.com/r/javascript/comments/og4qz3/how_to_use_indexeddb_to_manage_state_in_javascript/)
+- [How to create custom saas push notifications using an API](https://www.reddit.com/r/javascript/comments/og3lwe/how_to_create_custom_saas_push_notifications/)
+- [React Design Patterns](https://www.reddit.com/r/javascript/comments/og2r0o/react_design_patterns/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
