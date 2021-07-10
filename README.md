@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Nyun - A small, fast and minimalist rendering engine for express, probably not for production usage | Author's Note: Have you ever used with in Javascript?](https://www.reddit.com/r/javascript/comments/oh8z4p/nyun_a_small_fast_and_minimalist_rendering_engine/)
+- [LILY: Simple JavaScript options parser inspired by Yargs with no dependencies](https://www.reddit.com/r/javascript/comments/ogzovg/lily_simple_javascript_options_parser_inspired_by/)
+- [Friday Fun: Svelte-like variable reactivity in 7LOC with with Proxy](https://www.reddit.com/r/javascript/comments/ogz9zl/friday_fun_sveltelike_variable_reactivity_in_7loc/)
+- [muffon - Desktop music browser](https://www.reddit.com/r/javascript/comments/ogwzja/muffon_desktop_music_browser/)
+- [[AskJS] How to create Google maps movement in JS ?](https://www.reddit.com/r/javascript/comments/ogv45b/askjs_how_to_create_google_maps_movement_in_js/)
+- [I like how page elements are stretched when I scroll, Can someone let me know what is this effect? so I can apply it to my WordPress website?](https://www.reddit.com/r/javascript/comments/ogrkwm/i_like_how_page_elements_are_stretched_when_i/)
+- [mongodb-elasticsearch-sync - Copy data from MongoDB to Elasticsearch with a single command (Javascript CLI)](https://www.reddit.com/r/javascript/comments/ogq1n5/mongodbelasticsearchsync_copy_data_from_mongodb/)
+- [TrueShuffle: An open-source music shuffling web application for Spotify](https://www.reddit.com/r/javascript/comments/ogotnp/trueshuffle_an_opensource_music_shuffling_web/)
+- [Const Assertion in TypeScript For “ReadOnly” Type Objects](https://www.reddit.com/r/javascript/comments/ogmflh/const_assertion_in_typescript_for_readonly_type/)
 - [Connect your bank account to Google Sheets](https://www.reddit.com/r/javascript/comments/oggiiq/connect_your_bank_account_to_google_sheets/)
-- [Vuetify 3 Alpha (a Vue UI Library with beautifully handcrafted Material Components)](https://www.reddit.com/r/javascript/comments/oge34w/vuetify_3_alpha_a_vue_ui_library_with_beautifully/)
-- [Visual Studio Code June 2021](https://www.reddit.com/r/javascript/comments/ogcm5v/visual_studio_code_june_2021/)
-- [[AskJS] Need help with setTimeout loop](https://www.reddit.com/r/javascript/comments/ogb6yr/askjs_need_help_with_settimeout_loop/)
-- [DuckEngine - A 2D Game Library for the web. 1.0.0 out now!](https://www.reddit.com/r/javascript/comments/og8xdi/duckengine_a_2d_game_library_for_the_web_100_out/)
-- [Appwrite - A Self Hosted Open Source Firebase Alternative](https://www.reddit.com/r/javascript/comments/og6w86/appwrite_a_self_hosted_open_source_firebase/)
-- [Getting Started with Jest](https://www.reddit.com/r/javascript/comments/og6gjt/getting_started_with_jest/)
-- [How to Use IndexedDB to Manage State in JavaScript](https://www.reddit.com/r/javascript/comments/og4qz3/how_to_use_indexeddb_to_manage_state_in_javascript/)
-- [How to create custom saas push notifications using an API](https://www.reddit.com/r/javascript/comments/og3lwe/how_to_create_custom_saas_push_notifications/)
-- [React Design Patterns](https://www.reddit.com/r/javascript/comments/og2r0o/react_design_patterns/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
