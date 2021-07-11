@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Nyun - A small, fast and minimalist rendering engine for express, probably not for production usage | Author's Note: Have you ever used with in Javascript?](https://www.reddit.com/r/javascript/comments/oh8z4p/nyun_a_small_fast_and_minimalist_rendering_engine/)
-- [LILY: Simple JavaScript options parser inspired by Yargs with no dependencies](https://www.reddit.com/r/javascript/comments/ogzovg/lily_simple_javascript_options_parser_inspired_by/)
-- [Friday Fun: Svelte-like variable reactivity in 7LOC with with Proxy](https://www.reddit.com/r/javascript/comments/ogz9zl/friday_fun_sveltelike_variable_reactivity_in_7loc/)
-- [muffon - Desktop music browser](https://www.reddit.com/r/javascript/comments/ogwzja/muffon_desktop_music_browser/)
-- [[AskJS] How to create Google maps movement in JS ?](https://www.reddit.com/r/javascript/comments/ogv45b/askjs_how_to_create_google_maps_movement_in_js/)
-- [I like how page elements are stretched when I scroll, Can someone let me know what is this effect? so I can apply it to my WordPress website?](https://www.reddit.com/r/javascript/comments/ogrkwm/i_like_how_page_elements_are_stretched_when_i/)
-- [mongodb-elasticsearch-sync - Copy data from MongoDB to Elasticsearch with a single command (Javascript CLI)](https://www.reddit.com/r/javascript/comments/ogq1n5/mongodbelasticsearchsync_copy_data_from_mongodb/)
-- [TrueShuffle: An open-source music shuffling web application for Spotify](https://www.reddit.com/r/javascript/comments/ogotnp/trueshuffle_an_opensource_music_shuffling_web/)
-- [Const Assertion in TypeScript For “ReadOnly” Type Objects](https://www.reddit.com/r/javascript/comments/ogmflh/const_assertion_in_typescript_for_readonly_type/)
-- [Connect your bank account to Google Sheets](https://www.reddit.com/r/javascript/comments/oggiiq/connect_your_bank_account_to_google_sheets/)
+- [I made a back-end web framework designed for small to medium sized sites](https://www.reddit.com/r/javascript/comments/ohvfm3/i_made_a_backend_web_framework_designed_for_small/)
+- [How to create dynamic inputs in react](https://www.reddit.com/r/javascript/comments/ohulwz/how_to_create_dynamic_inputs_in_react/)
+- [Functional-ish JavaScript](https://www.reddit.com/r/javascript/comments/ohtmox/functionalish_javascript/)
+- [HTML+ is a robust HTML site builder and engine with a lot out of the box perfect to build FULL STACK websites.](https://www.reddit.com/r/javascript/comments/ohs9kf/html_is_a_robust_html_site_builder_and_engine/)
+- [WebGL-based LED SignBoard effect for image / video / text](https://www.reddit.com/r/javascript/comments/ohrplk/webglbased_led_signboard_effect_for_image_video/)
+- [[AskJS] how functional programming is popular among Javascript community?](https://www.reddit.com/r/javascript/comments/ohqcgw/askjs_how_functional_programming_is_popular_among/)
+- [[AskJS] STOCKTWITS API Guide or Tutorial](https://www.reddit.com/r/javascript/comments/ohnr4d/askjs_stocktwits_api_guide_or_tutorial/)
+- [Open Website Analytics. Entirely in Javascript. I use it as a guinea pig to try everything I learn about new programming things](https://www.reddit.com/r/javascript/comments/ohlz2z/open_website_analytics_entirely_in_javascript_i/)
+- [حي مصر الجديدة.. حي له تاريخ](https://www.reddit.com/r/javascript/comments/ohhzoi/حي_مصر_الجديدة_حي_له_تاريخ/)
+- [[AskJS] concerns about the alleged performance benefits hyped in svelte](https://www.reddit.com/r/javascript/comments/ohhsdv/askjs_concerns_about_the_alleged_performance/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
