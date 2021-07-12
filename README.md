@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] How did you level up your javascript game?](https://www.reddit.com/r/javascript/comments/oi7b4r/askjs_how_did_you_level_up_your_javascript_game/)
+- [Deep JavaScript: Theory and techniques](https://www.reddit.com/r/javascript/comments/oi40z0/deep_javascript_theory_and_techniques/)
+- [JavaScript iterators and generators: A complete guide](https://www.reddit.com/r/javascript/comments/oi3vkl/javascript_iterators_and_generators_a_complete/)
+- [Centering a tooltip](https://www.reddit.com/r/javascript/comments/oi1t02/centering_a_tooltip/)
 - [I made a back-end web framework designed for small to medium sized sites](https://www.reddit.com/r/javascript/comments/ohvfm3/i_made_a_backend_web_framework_designed_for_small/)
 - [How to create dynamic inputs in react](https://www.reddit.com/r/javascript/comments/ohulwz/how_to_create_dynamic_inputs_in_react/)
 - [Functional-ish JavaScript](https://www.reddit.com/r/javascript/comments/ohtmox/functionalish_javascript/)
-- [HTML+ is a robust HTML site builder and engine with a lot out of the box perfect to build FULL STACK websites.](https://www.reddit.com/r/javascript/comments/ohs9kf/html_is_a_robust_html_site_builder_and_engine/)
 - [WebGL-based LED SignBoard effect for image / video / text](https://www.reddit.com/r/javascript/comments/ohrplk/webglbased_led_signboard_effect_for_image_video/)
 - [[AskJS] how functional programming is popular among Javascript community?](https://www.reddit.com/r/javascript/comments/ohqcgw/askjs_how_functional_programming_is_popular_among/)
-- [[AskJS] STOCKTWITS API Guide or Tutorial](https://www.reddit.com/r/javascript/comments/ohnr4d/askjs_stocktwits_api_guide_or_tutorial/)
 - [Open Website Analytics. Entirely in Javascript. I use it as a guinea pig to try everything I learn about new programming things](https://www.reddit.com/r/javascript/comments/ohlz2z/open_website_analytics_entirely_in_javascript_i/)
-- [حي مصر الجديدة.. حي له تاريخ](https://www.reddit.com/r/javascript/comments/ohhzoi/حي_مصر_الجديدة_حي_له_تاريخ/)
-- [[AskJS] concerns about the alleged performance benefits hyped in svelte](https://www.reddit.com/r/javascript/comments/ohhsdv/askjs_concerns_about_the_alleged_performance/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
