@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [JavaScript Logging Library that Support TS, Micro-Frontend's / Modular Architectures, and Most Importantly Emoji's](https://www.reddit.com/r/javascript/comments/oj032d/javascript_logging_library_that_support_ts/)
+- [Tangram: Machine Learning in JavaScript](https://www.reddit.com/r/javascript/comments/oiwxd5/tangram_machine_learning_in_javascript/)
+- [Understanding React Testing Library](https://www.reddit.com/r/javascript/comments/oitgej/understanding_react_testing_library/)
+- [FracturedJson - a JSON formatter that produces human-readable but fairly compact output](https://www.reddit.com/r/javascript/comments/oir4o4/fracturedjson_a_json_formatter_that_produces/)
+- [Your /r/javascript recap for the week of July 05 - July 11](https://www.reddit.com/r/javascript/comments/oinjp5/your_rjavascript_recap_for_the_week_of_july_05/)
+- [How to Inject Javascript to a Site From Chrome Extension](https://www.reddit.com/r/javascript/comments/oikmwj/how_to_inject_javascript_to_a_site_from_chrome/)
+- [[AskJS] Is it bad to make JavaScript games?](https://www.reddit.com/r/javascript/comments/oikfdd/askjs_is_it_bad_to_make_javascript_games/)
 - [[AskJS] How did you level up your javascript game?](https://www.reddit.com/r/javascript/comments/oi7b4r/askjs_how_did_you_level_up_your_javascript_game/)
 - [Deep JavaScript: Theory and techniques](https://www.reddit.com/r/javascript/comments/oi40z0/deep_javascript_theory_and_techniques/)
 - [JavaScript iterators and generators: A complete guide](https://www.reddit.com/r/javascript/comments/oi3vkl/javascript_iterators_and_generators_a_complete/)
-- [Centering a tooltip](https://www.reddit.com/r/javascript/comments/oi1t02/centering_a_tooltip/)
-- [I made a back-end web framework designed for small to medium sized sites](https://www.reddit.com/r/javascript/comments/ohvfm3/i_made_a_backend_web_framework_designed_for_small/)
-- [How to create dynamic inputs in react](https://www.reddit.com/r/javascript/comments/ohulwz/how_to_create_dynamic_inputs_in_react/)
-- [Functional-ish JavaScript](https://www.reddit.com/r/javascript/comments/ohtmox/functionalish_javascript/)
-- [WebGL-based LED SignBoard effect for image / video / text](https://www.reddit.com/r/javascript/comments/ohrplk/webglbased_led_signboard_effect_for_image_video/)
-- [[AskJS] how functional programming is popular among Javascript community?](https://www.reddit.com/r/javascript/comments/ohqcgw/askjs_how_functional_programming_is_popular_among/)
-- [Open Website Analytics. Entirely in Javascript. I use it as a guinea pig to try everything I learn about new programming things](https://www.reddit.com/r/javascript/comments/ohlz2z/open_website_analytics_entirely_in_javascript_i/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
