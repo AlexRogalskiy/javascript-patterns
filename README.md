@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [JavaScript Logging Library that Support TS, Micro-Frontend's / Modular Architectures, and Most Importantly Emoji's](https://www.reddit.com/r/javascript/comments/oj032d/javascript_logging_library_that_support_ts/)
-- [Tangram: Machine Learning in JavaScript](https://www.reddit.com/r/javascript/comments/oiwxd5/tangram_machine_learning_in_javascript/)
-- [Understanding React Testing Library](https://www.reddit.com/r/javascript/comments/oitgej/understanding_react_testing_library/)
-- [FracturedJson - a JSON formatter that produces human-readable but fairly compact output](https://www.reddit.com/r/javascript/comments/oir4o4/fracturedjson_a_json_formatter_that_produces/)
-- [Your /r/javascript recap for the week of July 05 - July 11](https://www.reddit.com/r/javascript/comments/oinjp5/your_rjavascript_recap_for_the_week_of_july_05/)
-- [How to Inject Javascript to a Site From Chrome Extension](https://www.reddit.com/r/javascript/comments/oikmwj/how_to_inject_javascript_to_a_site_from_chrome/)
-- [[AskJS] Is it bad to make JavaScript games?](https://www.reddit.com/r/javascript/comments/oikfdd/askjs_is_it_bad_to_make_javascript_games/)
-- [[AskJS] How did you level up your javascript game?](https://www.reddit.com/r/javascript/comments/oi7b4r/askjs_how_did_you_level_up_your_javascript_game/)
-- [Deep JavaScript: Theory and techniques](https://www.reddit.com/r/javascript/comments/oi40z0/deep_javascript_theory_and_techniques/)
-- [JavaScript iterators and generators: A complete guide](https://www.reddit.com/r/javascript/comments/oi3vkl/javascript_iterators_and_generators_a_complete/)
+- [[AskJS] What do you guys think about my npm package to help with JavaScript?](https://www.reddit.com/r/javascript/comments/ojrg9z/askjs_what_do_you_guys_think_about_my_npm_package/)
+- [Use mongoose with typescript](https://www.reddit.com/r/javascript/comments/ojok1n/use_mongoose_with_typescript/)
+- [How to use RxJS with Svelte](https://www.reddit.com/r/javascript/comments/ojnox2/how_to_use_rxjs_with_svelte/)
+- [Post to Dev, Hashnode, and Medium using their APIs and NodeJS](https://www.reddit.com/r/javascript/comments/ojmy49/post_to_dev_hashnode_and_medium_using_their_apis/)
+- [Perspective, a DataVis tool powered by WASM](https://www.reddit.com/r/javascript/comments/ojmpwo/perspective_a_datavis_tool_powered_by_wasm/)
+- [TC39er podcast: Yulia Startsev from Mozilla](https://www.reddit.com/r/javascript/comments/ojlo7l/tc39er_podcast_yulia_startsev_from_mozilla/)
+- [Getting lively with Firefox 90](https://www.reddit.com/r/javascript/comments/oji0r9/getting_lively_with_firefox_90/)
+- [Fakeflix – Netflix open source clone](https://www.reddit.com/r/javascript/comments/ojgkd6/fakeflix_netflix_open_source_clone/)
+- [Detecting media query support in CSS and JavaScript](https://www.reddit.com/r/javascript/comments/ojcwyg/detecting_media_query_support_in_css_and/)
+- [[AskJS] Is there an added cost to short, Single-Responsibility Principle-conforming functions compared to a monolithic function?](https://www.reddit.com/r/javascript/comments/oj86vc/askjs_is_there_an_added_cost_to_short/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
