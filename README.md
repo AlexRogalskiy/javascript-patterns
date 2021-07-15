@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] What do you guys think about my npm package to help with JavaScript?](https://www.reddit.com/r/javascript/comments/ojrg9z/askjs_what_do_you_guys_think_about_my_npm_package/)
-- [Use mongoose with typescript](https://www.reddit.com/r/javascript/comments/ojok1n/use_mongoose_with_typescript/)
-- [How to use RxJS with Svelte](https://www.reddit.com/r/javascript/comments/ojnox2/how_to_use_rxjs_with_svelte/)
-- [Post to Dev, Hashnode, and Medium using their APIs and NodeJS](https://www.reddit.com/r/javascript/comments/ojmy49/post_to_dev_hashnode_and_medium_using_their_apis/)
-- [Perspective, a DataVis tool powered by WASM](https://www.reddit.com/r/javascript/comments/ojmpwo/perspective_a_datavis_tool_powered_by_wasm/)
-- [TC39er podcast: Yulia Startsev from Mozilla](https://www.reddit.com/r/javascript/comments/ojlo7l/tc39er_podcast_yulia_startsev_from_mozilla/)
-- [Getting lively with Firefox 90](https://www.reddit.com/r/javascript/comments/oji0r9/getting_lively_with_firefox_90/)
-- [Fakeflix – Netflix open source clone](https://www.reddit.com/r/javascript/comments/ojgkd6/fakeflix_netflix_open_source_clone/)
-- [Detecting media query support in CSS and JavaScript](https://www.reddit.com/r/javascript/comments/ojcwyg/detecting_media_query_support_in_css_and/)
-- [[AskJS] Is there an added cost to short, Single-Responsibility Principle-conforming functions compared to a monolithic function?](https://www.reddit.com/r/javascript/comments/oj86vc/askjs_is_there_an_added_cost_to_short/)
+- [Aesthetic Minecraft-like Voxel Engine in JS/TS/RS!](https://www.reddit.com/r/javascript/comments/ok9gfu/aesthetic_minecraftlike_voxel_engine_in_jstsrs/)
+- [How to Build a Binary Search Tree in JavaScript](https://www.reddit.com/r/javascript/comments/ok7mdj/how_to_build_a_binary_search_tree_in_javascript/)
+- [Building JavaScript Frameworks to Conquer eCommerce](https://www.reddit.com/r/javascript/comments/ok653w/building_javascript_frameworks_to_conquer/)
+- [Cut down your Webpack build times by half with esbuild-loader](https://www.reddit.com/r/javascript/comments/ok5sds/cut_down_your_webpack_build_times_by_half_with/)
+- [How to stop the chain reaction of bugs? My new tutorial on testing component compositions](https://www.reddit.com/r/javascript/comments/ok5gp4/how_to_stop_the_chain_reaction_of_bugs_my_new/)
+- [[OC] I made an app that shows you your keyboard and mouse usage, with JavaScript!](https://www.reddit.com/r/javascript/comments/ok433e/oc_i_made_an_app_that_shows_you_your_keyboard_and/)
+- [Build Your Own Role-Based Access Control in Payload](https://www.reddit.com/r/javascript/comments/ok3wpi/build_your_own_rolebased_access_control_in_payload/)
+- [[AskJS] How well does ctags work for javascript?](https://www.reddit.com/r/javascript/comments/ok3c30/askjs_how_well_does_ctags_work_for_javascript/)
+- [[AskJS] Good books and resources you used to learn node.js?](https://www.reddit.com/r/javascript/comments/ok2l8x/askjs_good_books_and_resources_you_used_to_learn/)
+- [The Ultimate Guide to Browser-Side Storage](https://www.reddit.com/r/javascript/comments/ojzvh2/the_ultimate_guide_to_browserside_storage/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
