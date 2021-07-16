@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Aesthetic Minecraft-like Voxel Engine in JS/TS/RS!](https://www.reddit.com/r/javascript/comments/ok9gfu/aesthetic_minecraftlike_voxel_engine_in_jstsrs/)
-- [How to Build a Binary Search Tree in JavaScript](https://www.reddit.com/r/javascript/comments/ok7mdj/how_to_build_a_binary_search_tree_in_javascript/)
-- [Building JavaScript Frameworks to Conquer eCommerce](https://www.reddit.com/r/javascript/comments/ok653w/building_javascript_frameworks_to_conquer/)
-- [Cut down your Webpack build times by half with esbuild-loader](https://www.reddit.com/r/javascript/comments/ok5sds/cut_down_your_webpack_build_times_by_half_with/)
-- [How to stop the chain reaction of bugs? My new tutorial on testing component compositions](https://www.reddit.com/r/javascript/comments/ok5gp4/how_to_stop_the_chain_reaction_of_bugs_my_new/)
-- [[OC] I made an app that shows you your keyboard and mouse usage, with JavaScript!](https://www.reddit.com/r/javascript/comments/ok433e/oc_i_made_an_app_that_shows_you_your_keyboard_and/)
-- [Build Your Own Role-Based Access Control in Payload](https://www.reddit.com/r/javascript/comments/ok3wpi/build_your_own_rolebased_access_control_in_payload/)
-- [[AskJS] How well does ctags work for javascript?](https://www.reddit.com/r/javascript/comments/ok3c30/askjs_how_well_does_ctags_work_for_javascript/)
-- [[AskJS] Good books and resources you used to learn node.js?](https://www.reddit.com/r/javascript/comments/ok2l8x/askjs_good_books_and_resources_you_used_to_learn/)
-- [The Ultimate Guide to Browser-Side Storage](https://www.reddit.com/r/javascript/comments/ojzvh2/the_ultimate_guide_to_browserside_storage/)
+- [Create a custom cursor that follows you and inverts colors](https://www.reddit.com/r/javascript/comments/ol3s2m/create_a_custom_cursor_that_follows_you_and/)
+- [[AskJS] Javascript testing dependencies (e.g. SendGrid) best practices](https://www.reddit.com/r/javascript/comments/ol2m8h/askjs_javascript_testing_dependencies_eg_sendgrid/)
+- [Early termination in functional folds a.k.a. reduce](https://www.reddit.com/r/javascript/comments/ol15po/early_termination_in_functional_folds_aka_reduce/)
+- [Updates from the latest meeting of TC39](https://www.reddit.com/r/javascript/comments/okyw9h/updates_from_the_latest_meeting_of_tc39/)
+- [Writing an efficient object previewer for JavaScript](https://www.reddit.com/r/javascript/comments/okuyeu/writing_an_efficient_object_previewer_for/)
+- [Learn how you can use GraphQL with Node and Apollo in this tutorial](https://www.reddit.com/r/javascript/comments/oktwbg/learn_how_you_can_use_graphql_with_node_and/)
+- [What is Gatsby ?](https://www.reddit.com/r/javascript/comments/oksz1d/what_is_gatsby/)
+- [Hey, I am a beginner in JavaScript.](https://www.reddit.com/r/javascript/comments/oks2mt/hey_i_am_a_beginner_in_javascript/)
+- [useCookieConsent hook to manage GDPR style cookies](https://www.reddit.com/r/javascript/comments/okqnwx/usecookieconsent_hook_to_manage_gdpr_style_cookies/)
+- [You want to rotate HTML elements freely with CSS3 transforms using mouse/touch? Try Trackball.js](https://www.reddit.com/r/javascript/comments/okotg4/you_want_to_rotate_html_elements_freely_with_css3/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
