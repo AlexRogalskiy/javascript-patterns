@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Create a custom cursor that follows you and inverts colors](https://www.reddit.com/r/javascript/comments/ol3s2m/create_a_custom_cursor_that_follows_you_and/)
-- [[AskJS] Javascript testing dependencies (e.g. SendGrid) best practices](https://www.reddit.com/r/javascript/comments/ol2m8h/askjs_javascript_testing_dependencies_eg_sendgrid/)
-- [Early termination in functional folds a.k.a. reduce](https://www.reddit.com/r/javascript/comments/ol15po/early_termination_in_functional_folds_aka_reduce/)
-- [Updates from the latest meeting of TC39](https://www.reddit.com/r/javascript/comments/okyw9h/updates_from_the_latest_meeting_of_tc39/)
-- [Writing an efficient object previewer for JavaScript](https://www.reddit.com/r/javascript/comments/okuyeu/writing_an_efficient_object_previewer_for/)
-- [Learn how you can use GraphQL with Node and Apollo in this tutorial](https://www.reddit.com/r/javascript/comments/oktwbg/learn_how_you_can_use_graphql_with_node_and/)
-- [What is Gatsby ?](https://www.reddit.com/r/javascript/comments/oksz1d/what_is_gatsby/)
-- [Hey, I am a beginner in JavaScript.](https://www.reddit.com/r/javascript/comments/oks2mt/hey_i_am_a_beginner_in_javascript/)
-- [useCookieConsent hook to manage GDPR style cookies](https://www.reddit.com/r/javascript/comments/okqnwx/usecookieconsent_hook_to_manage_gdpr_style_cookies/)
-- [You want to rotate HTML elements freely with CSS3 transforms using mouse/touch? Try Trackball.js](https://www.reddit.com/r/javascript/comments/okotg4/you_want_to_rotate_html_elements_freely_with_css3/)
+- [[JS & Vue] Optimizing For Millions of Annotations on a Single Machine](https://www.reddit.com/r/javascript/comments/ols888/js_vue_optimizing_for_millions_of_annotations_on/)
+- [Using Tauri (instead of Electron.js) to build a desktop app with TypeScript and Elm](https://www.reddit.com/r/javascript/comments/olr07f/using_tauri_instead_of_electronjs_to_build_a/)
+- [6 Ways to Create Objects in Javascript — Intro to Object & Prototype](https://www.reddit.com/r/javascript/comments/olqxd0/6_ways_to_create_objects_in_javascript_intro_to/)
+- [[AskJS] What if you ran a PWA inside Electron?](https://www.reddit.com/r/javascript/comments/olphg6/askjs_what_if_you_ran_a_pwa_inside_electron/)
+- [New Prompt & Confirmation Dialog API for React](https://www.reddit.com/r/javascript/comments/ololw8/new_prompt_confirmation_dialog_api_for_react/)
+- [A library for specific error type handling in async JavaScript code](https://www.reddit.com/r/javascript/comments/olob96/a_library_for_specific_error_type_handling_in/)
+- [[AskJS] JS and SOAP Api help](https://www.reddit.com/r/javascript/comments/oli9nf/askjs_js_and_soap_api_help/)
+- [The Road to Ember 4.0](https://www.reddit.com/r/javascript/comments/olha6f/the_road_to_ember_40/)
+- [I made a reaction time test in vanilla JS, more info in the comments](https://www.reddit.com/r/javascript/comments/olgmkq/i_made_a_reaction_time_test_in_vanilla_js_more/)
+- [The JavaScript Spread Operator Explained](https://www.reddit.com/r/javascript/comments/olg57e/the_javascript_spread_operator_explained/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
