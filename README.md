@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Selectra - A custom select box in vanilla JS](https://www.reddit.com/r/javascript/comments/omfjna/selectra_a_custom_select_box_in_vanilla_js/)
+- [Introducing FZF – A fuzzy finder to find stuff fast](https://www.reddit.com/r/javascript/comments/omc9ti/introducing_fzf_a_fuzzy_finder_to_find_stuff_fast/)
+- [Introducing CalDOM: An agnostic, reactive & minimalist 3kb UI library](https://www.reddit.com/r/javascript/comments/om83x5/introducing_caldom_an_agnostic_reactive/)
+- [jsdiff-A javascript text differencing implementation](https://www.reddit.com/r/javascript/comments/om0cfg/jsdiffa_javascript_text_differencing/)
+- [[AskJS] Do you use curried functions and partial application in your own JavaScript code?](https://www.reddit.com/r/javascript/comments/olzhyt/askjs_do_you_use_curried_functions_and_partial/)
+- [Showoff Saturday (July 17, 2021)](https://www.reddit.com/r/javascript/comments/olzcq0/showoff_saturday_july_17_2021/)
+- [Here's a little script for expanding HTML text into individual nodes for each character.](https://www.reddit.com/r/javascript/comments/olxn9z/heres_a_little_script_for_expanding_html_text/)
 - [[JS & Vue] Optimizing For Millions of Annotations on a Single Machine](https://www.reddit.com/r/javascript/comments/ols888/js_vue_optimizing_for_millions_of_annotations_on/)
 - [Using Tauri (instead of Electron.js) to build a desktop app with TypeScript and Elm](https://www.reddit.com/r/javascript/comments/olr07f/using_tauri_instead_of_electronjs_to_build_a/)
 - [6 Ways to Create Objects in Javascript — Intro to Object & Prototype](https://www.reddit.com/r/javascript/comments/olqxd0/6_ways_to_create_objects_in_javascript_intro_to/)
-- [[AskJS] What if you ran a PWA inside Electron?](https://www.reddit.com/r/javascript/comments/olphg6/askjs_what_if_you_ran_a_pwa_inside_electron/)
-- [New Prompt & Confirmation Dialog API for React](https://www.reddit.com/r/javascript/comments/ololw8/new_prompt_confirmation_dialog_api_for_react/)
-- [A library for specific error type handling in async JavaScript code](https://www.reddit.com/r/javascript/comments/olob96/a_library_for_specific_error_type_handling_in/)
-- [[AskJS] JS and SOAP Api help](https://www.reddit.com/r/javascript/comments/oli9nf/askjs_js_and_soap_api_help/)
-- [The Road to Ember 4.0](https://www.reddit.com/r/javascript/comments/olha6f/the_road_to_ember_40/)
-- [I made a reaction time test in vanilla JS, more info in the comments](https://www.reddit.com/r/javascript/comments/olgmkq/i_made_a_reaction_time_test_in_vanilla_js_more/)
-- [The JavaScript Spread Operator Explained](https://www.reddit.com/r/javascript/comments/olg57e/the_javascript_spread_operator_explained/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
