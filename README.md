@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [5 Github Projects Essential For Every Aspiring Javascript Developer](https://www.reddit.com/r/javascript/comments/omwsah/5_github_projects_essential_for_every_aspiring/)
+- [Web Component DevTools - A browser extension to enhance your Web Component development](https://www.reddit.com/r/javascript/comments/omv7qe/web_component_devtools_a_browser_extension_to/)
+- [Bulletproof React - A simple, scalable, and powerful architecture for building production ready React applications.](https://www.reddit.com/r/javascript/comments/omuvhz/bulletproof_react_a_simple_scalable_and_powerful/)
+- [How to safely work with nested objects in JavaScript](https://www.reddit.com/r/javascript/comments/omtw79/how_to_safely_work_with_nested_objects_in/)
 - [Selectra - A custom select box in vanilla JS](https://www.reddit.com/r/javascript/comments/omfjna/selectra_a_custom_select_box_in_vanilla_js/)
 - [Introducing FZF – A fuzzy finder to find stuff fast](https://www.reddit.com/r/javascript/comments/omc9ti/introducing_fzf_a_fuzzy_finder_to_find_stuff_fast/)
 - [Introducing CalDOM: An agnostic, reactive & minimalist 3kb UI library](https://www.reddit.com/r/javascript/comments/om83x5/introducing_caldom_an_agnostic_reactive/)
 - [jsdiff-A javascript text differencing implementation](https://www.reddit.com/r/javascript/comments/om0cfg/jsdiffa_javascript_text_differencing/)
 - [[AskJS] Do you use curried functions and partial application in your own JavaScript code?](https://www.reddit.com/r/javascript/comments/olzhyt/askjs_do_you_use_curried_functions_and_partial/)
 - [Showoff Saturday (July 17, 2021)](https://www.reddit.com/r/javascript/comments/olzcq0/showoff_saturday_july_17_2021/)
-- [Here's a little script for expanding HTML text into individual nodes for each character.](https://www.reddit.com/r/javascript/comments/olxn9z/heres_a_little_script_for_expanding_html_text/)
-- [[JS & Vue] Optimizing For Millions of Annotations on a Single Machine](https://www.reddit.com/r/javascript/comments/ols888/js_vue_optimizing_for_millions_of_annotations_on/)
-- [Using Tauri (instead of Electron.js) to build a desktop app with TypeScript and Elm](https://www.reddit.com/r/javascript/comments/olr07f/using_tauri_instead_of_electronjs_to_build_a/)
-- [6 Ways to Create Objects in Javascript — Intro to Object & Prototype](https://www.reddit.com/r/javascript/comments/olqxd0/6_ways_to_create_objects_in_javascript_intro_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
