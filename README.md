@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [5 Github Projects Essential For Every Aspiring Javascript Developer](https://www.reddit.com/r/javascript/comments/omwsah/5_github_projects_essential_for_every_aspiring/)
-- [Web Component DevTools - A browser extension to enhance your Web Component development](https://www.reddit.com/r/javascript/comments/omv7qe/web_component_devtools_a_browser_extension_to/)
+- [New Folder Extension - Create Projects from Within Visual Studio Code](https://www.reddit.com/r/javascript/comments/ons6ex/new_folder_extension_create_projects_from_within/)
+- [A simple developer-friendly CLI for managing secrets](https://www.reddit.com/r/javascript/comments/onpax1/a_simple_developerfriendly_cli_for_managing/)
+- [[AskJS] Are there any scenarios where libraries like React will perform better than Vanilla JS?](https://www.reddit.com/r/javascript/comments/onkvgz/askjs_are_there_any_scenarios_where_libraries/)
+- [[AskJS] Getting the right input for automatically injecting values](https://www.reddit.com/r/javascript/comments/ong6py/askjs_getting_the_right_input_for_automatically/)
+- [Binary Protocol for JavaScript](https://www.reddit.com/r/javascript/comments/onestd/binary_protocol_for_javascript/)
+- [Getting Started With The Internet Computer Web-Hosting](https://www.reddit.com/r/javascript/comments/ondwen/getting_started_with_the_internet_computer/)
+- [[AskJS] Open-Source, but paying to get MIT license on it?](https://www.reddit.com/r/javascript/comments/on7pfg/askjs_opensource_but_paying_to_get_mit_license_on/)
 - [Bulletproof React - A simple, scalable, and powerful architecture for building production ready React applications.](https://www.reddit.com/r/javascript/comments/omuvhz/bulletproof_react_a_simple_scalable_and_powerful/)
-- [How to safely work with nested objects in JavaScript](https://www.reddit.com/r/javascript/comments/omtw79/how_to_safely_work_with_nested_objects_in/)
 - [Selectra - A custom select box in vanilla JS](https://www.reddit.com/r/javascript/comments/omfjna/selectra_a_custom_select_box_in_vanilla_js/)
 - [Introducing FZF – A fuzzy finder to find stuff fast](https://www.reddit.com/r/javascript/comments/omc9ti/introducing_fzf_a_fuzzy_finder_to_find_stuff_fast/)
-- [Introducing CalDOM: An agnostic, reactive & minimalist 3kb UI library](https://www.reddit.com/r/javascript/comments/om83x5/introducing_caldom_an_agnostic_reactive/)
-- [jsdiff-A javascript text differencing implementation](https://www.reddit.com/r/javascript/comments/om0cfg/jsdiffa_javascript_text_differencing/)
-- [[AskJS] Do you use curried functions and partial application in your own JavaScript code?](https://www.reddit.com/r/javascript/comments/olzhyt/askjs_do_you_use_curried_functions_and_partial/)
-- [Showoff Saturday (July 17, 2021)](https://www.reddit.com/r/javascript/comments/olzcq0/showoff_saturday_july_17_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
