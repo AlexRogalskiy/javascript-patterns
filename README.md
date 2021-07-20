@@ -357,12 +357,12 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Security Release for N|Solid 4.5.6](https://nodesource.com/blog/security-release-for-NSolid-4.5.6)
 - [Security Release for N|Solid Version 4.5.5](https://nodesource.com/blog/security-release-for-NSolid-version-4.5.5)
 - [The Node.js Application Maintainer Guide](https://nodesource.com/blog/the-Node.js-application-maintainer-guide)
+- [Need to Node – Volume 70](https://nodesource.com/blog/need-to-node-vol-70)
 - [Announcing N|Solid Version 4.5.3](https://nodesource.com/blog/announcing-NSolid-Version-4.5.3)
 - [Security Release for N|Solid Version 4.5.2](https://nodesource.com/blog/security-release-for-NSolid-version-4.5.2)
 - [Avoiding npm substitution attacks using NCM](https://nodesource.com/blog/avoiding-npm-substitution-attacks-using-NCM)
 - [Security Release for N|Solid Version 4.5.1](https://nodesource.com/blog/security-release-for-NSolid-Version-4.5.1)
 - [Announcing Worker Threads Monitoring for Node.js in N|Solid](https://nodesource.com/blog/worker-threads-monitoring-for-node.js-in-NSolid)
-- [NodeSource brings C++ API to N|Solid!](https://nodesource.com/blog/c++-api-to-nsolid)
 <!-- NODESOURCE-POST-LIST:END -->
 
 ### *React Native posts*
