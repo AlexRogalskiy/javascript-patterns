@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] How can i structure my js library?](https://www.reddit.com/r/javascript/comments/oo5b6k/askjs_how_can_i_structure_my_js_library/)
+- [Spring Cleaning MDN: Part 1](https://www.reddit.com/r/javascript/comments/oo4zpx/spring_cleaning_mdn_part_1/)
+- [Headless Recorder 1.0 is out! Record Puppeteer & Playwright JS scripts for testing and monitoring](https://www.reddit.com/r/javascript/comments/onz868/headless_recorder_10_is_out_record_puppeteer/)
+- [npm-quick-run: a shorter way of running package.json scripts](https://www.reddit.com/r/javascript/comments/onyll5/npmquickrun_a_shorter_way_of_running_packagejson/)
+- [What are Web Components?](https://www.reddit.com/r/javascript/comments/onyh22/what_are_web_components/)
+- [[AskJS] Is returning a JavaScript iterable object from another object a linear time operation with respect to that objects size?](https://www.reddit.com/r/javascript/comments/onwn20/askjs_is_returning_a_javascript_iterable_object/)
+- [Please roast (or contribute ) to my open-source node mongo boilerplate ( includes form/calc system )](https://www.reddit.com/r/javascript/comments/onum3e/please_roast_or_contribute_to_my_opensource_node/)
 - [New Folder Extension - Create Projects from Within Visual Studio Code](https://www.reddit.com/r/javascript/comments/ons6ex/new_folder_extension_create_projects_from_within/)
-- [A simple developer-friendly CLI for managing secrets](https://www.reddit.com/r/javascript/comments/onpax1/a_simple_developerfriendly_cli_for_managing/)
 - [[AskJS] Are there any scenarios where libraries like React will perform better than Vanilla JS?](https://www.reddit.com/r/javascript/comments/onkvgz/askjs_are_there_any_scenarios_where_libraries/)
 - [[AskJS] Getting the right input for automatically injecting values](https://www.reddit.com/r/javascript/comments/ong6py/askjs_getting_the_right_input_for_automatically/)
-- [Binary Protocol for JavaScript](https://www.reddit.com/r/javascript/comments/onestd/binary_protocol_for_javascript/)
-- [Getting Started With The Internet Computer Web-Hosting](https://www.reddit.com/r/javascript/comments/ondwen/getting_started_with_the_internet_computer/)
-- [[AskJS] Open-Source, but paying to get MIT license on it?](https://www.reddit.com/r/javascript/comments/on7pfg/askjs_opensource_but_paying_to_get_mit_license_on/)
-- [Bulletproof React - A simple, scalable, and powerful architecture for building production ready React applications.](https://www.reddit.com/r/javascript/comments/omuvhz/bulletproof_react_a_simple_scalable_and_powerful/)
-- [Selectra - A custom select box in vanilla JS](https://www.reddit.com/r/javascript/comments/omfjna/selectra_a_custom_select_box_in_vanilla_js/)
-- [Introducing FZF – A fuzzy finder to find stuff fast](https://www.reddit.com/r/javascript/comments/omc9ti/introducing_fzf_a_fuzzy_finder_to_find_stuff_fast/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
