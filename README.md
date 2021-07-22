@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] How can i structure my js library?](https://www.reddit.com/r/javascript/comments/oo5b6k/askjs_how_can_i_structure_my_js_library/)
-- [Spring Cleaning MDN: Part 1](https://www.reddit.com/r/javascript/comments/oo4zpx/spring_cleaning_mdn_part_1/)
-- [Headless Recorder 1.0 is out! Record Puppeteer & Playwright JS scripts for testing and monitoring](https://www.reddit.com/r/javascript/comments/onz868/headless_recorder_10_is_out_record_puppeteer/)
-- [npm-quick-run: a shorter way of running package.json scripts](https://www.reddit.com/r/javascript/comments/onyll5/npmquickrun_a_shorter_way_of_running_packagejson/)
-- [What are Web Components?](https://www.reddit.com/r/javascript/comments/onyh22/what_are_web_components/)
-- [[AskJS] Is returning a JavaScript iterable object from another object a linear time operation with respect to that objects size?](https://www.reddit.com/r/javascript/comments/onwn20/askjs_is_returning_a_javascript_iterable_object/)
-- [Please roast (or contribute ) to my open-source node mongo boilerplate ( includes form/calc system )](https://www.reddit.com/r/javascript/comments/onum3e/please_roast_or_contribute_to_my_opensource_node/)
-- [New Folder Extension - Create Projects from Within Visual Studio Code](https://www.reddit.com/r/javascript/comments/ons6ex/new_folder_extension_create_projects_from_within/)
-- [[AskJS] Are there any scenarios where libraries like React will perform better than Vanilla JS?](https://www.reddit.com/r/javascript/comments/onkvgz/askjs_are_there_any_scenarios_where_libraries/)
-- [[AskJS] Getting the right input for automatically injecting values](https://www.reddit.com/r/javascript/comments/ong6py/askjs_getting_the_right_input_for_automatically/)
+- [Sunflower Editor – like adding console.log to every line of your code](https://www.reddit.com/r/javascript/comments/op4alk/sunflower_editor_like_adding_consolelog_to_every/)
+- [I'm sure people have heard of this already, but just in case, I just found out about run.js and wanted to share](https://www.reddit.com/r/javascript/comments/op49pe/im_sure_people_have_heard_of_this_already_but/)
+- [My friend made a Next.js template with GraphQL, Urql, Prisma, Nexus and Tailwind](https://www.reddit.com/r/javascript/comments/op3fze/my_friend_made_a_nextjs_template_with_graphql/)
+- [I switched my islands architecture static site generator from Webpack to Vite](https://www.reddit.com/r/javascript/comments/op1m0e/i_switched_my_islands_architecture_static_site/)
+- [[AskJS] The Event Loop & The Game Loop](https://www.reddit.com/r/javascript/comments/op0fum/askjs_the_event_loop_the_game_loop/)
+- [[AskJS] If ~~1 === 1, and ~~2,147,483,645 === 2,147,483,645 ... why does ~~2,147,483,648 !== 2,147,483,648 ??? (It equals -2,147,483,648)](https://www.reddit.com/r/javascript/comments/oowaun/askjs_if_1_1_and_2147483645_2147483645_why_does/)
+- [How to test component interactions](https://www.reddit.com/r/javascript/comments/oouzsr/how_to_test_component_interactions/)
+- [10 Must-Know Concepts of Modern Web Architecture](https://www.reddit.com/r/javascript/comments/ooqvs6/10_mustknow_concepts_of_modern_web_architecture/)
+- [Jsynchronous.js - Data synchronization for games and real-time web apps](https://www.reddit.com/r/javascript/comments/ooqsdd/jsynchronousjs_data_synchronization_for_games_and/)
+- [CxJS and Tailwind CSS work really well together (practical example)](https://www.reddit.com/r/javascript/comments/oop8ps/cxjs_and_tailwind_css_work_really_well_together/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
