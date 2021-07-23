@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Sunflower Editor – like adding console.log to every line of your code](https://www.reddit.com/r/javascript/comments/op4alk/sunflower_editor_like_adding_consolelog_to_every/)
-- [I'm sure people have heard of this already, but just in case, I just found out about run.js and wanted to share](https://www.reddit.com/r/javascript/comments/op49pe/im_sure_people_have_heard_of_this_already_but/)
-- [My friend made a Next.js template with GraphQL, Urql, Prisma, Nexus and Tailwind](https://www.reddit.com/r/javascript/comments/op3fze/my_friend_made_a_nextjs_template_with_graphql/)
-- [I switched my islands architecture static site generator from Webpack to Vite](https://www.reddit.com/r/javascript/comments/op1m0e/i_switched_my_islands_architecture_static_site/)
-- [[AskJS] The Event Loop & The Game Loop](https://www.reddit.com/r/javascript/comments/op0fum/askjs_the_event_loop_the_game_loop/)
-- [[AskJS] If ~~1 === 1, and ~~2,147,483,645 === 2,147,483,645 ... why does ~~2,147,483,648 !== 2,147,483,648 ??? (It equals -2,147,483,648)](https://www.reddit.com/r/javascript/comments/oowaun/askjs_if_1_1_and_2147483645_2147483645_why_does/)
-- [How to test component interactions](https://www.reddit.com/r/javascript/comments/oouzsr/how_to_test_component_interactions/)
-- [10 Must-Know Concepts of Modern Web Architecture](https://www.reddit.com/r/javascript/comments/ooqvs6/10_mustknow_concepts_of_modern_web_architecture/)
-- [Jsynchronous.js - Data synchronization for games and real-time web apps](https://www.reddit.com/r/javascript/comments/ooqsdd/jsynchronousjs_data_synchronization_for_games_and/)
-- [CxJS and Tailwind CSS work really well together (practical example)](https://www.reddit.com/r/javascript/comments/oop8ps/cxjs_and_tailwind_css_work_really_well_together/)
+- [[AskJS] What to learn after 1 year of javascript?](https://www.reddit.com/r/javascript/comments/opqepn/askjs_what_to_learn_after_1_year_of_javascript/)
+- [Getting Started with Jamstack](https://www.reddit.com/r/javascript/comments/oppl16/getting_started_with_jamstack/)
+- [I made a tiny library for doing partial React hydration/islands](https://www.reddit.com/r/javascript/comments/opo2dj/i_made_a_tiny_library_for_doing_partial_react/)
+- [JavaScript Promises: then(f,f) vs then(f).catch(f)](https://www.reddit.com/r/javascript/comments/opnw5c/javascript_promises_thenff_vs_thenfcatchf/)
+- [A Windows 7 Web Desktop Recreation made with Vanilla JS](https://www.reddit.com/r/javascript/comments/opnl5x/a_windows_7_web_desktop_recreation_made_with/)
+- [Malicious NPM Package Steals Passwords via Chrome’s Account-Recovery Tool](https://www.reddit.com/r/javascript/comments/opn2od/malicious_npm_package_steals_passwords_via/)
+- [3 Lessons from React that can make you a better Svelte Developer](https://www.reddit.com/r/javascript/comments/opjhvr/3_lessons_from_react_that_can_make_you_a_better/)
+- [Google Translate's usage of <font> for text replacement breaks React](https://www.reddit.com/r/javascript/comments/opirqi/google_translates_usage_of_font_for_text/)
+- [Windows 11 in React](https://www.reddit.com/r/javascript/comments/opio7q/windows_11_in_react/)
+- [Supercharged End 2 End Testing Framework for NodeJS](https://www.reddit.com/r/javascript/comments/opgpr9/supercharged_end_2_end_testing_framework_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
