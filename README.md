@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [14 JavaScript Array Methods (In 8 Minutes)](https://www.reddit.com/r/javascript/comments/oqdpcd/14_javascript_array_methods_in_8_minutes/)
+- [Opensource project: Adopt Animals. What do you can with Adopt Animals? First things first, this app mobile friend app, so you can use also on mobile devices. This app created by Alper Efe Şahin, and shared with MIT License. So you can use all of the codes :)](https://www.reddit.com/r/javascript/comments/oq5zg0/opensource_project_adopt_animals_what_do_you_can/)
+- [Free resources for learning JavaScript for beginners](https://www.reddit.com/r/javascript/comments/oq3t2z/free_resources_for_learning_javascript_for/)
+- [Intro to Webpack](https://www.reddit.com/r/javascript/comments/oq05bm/intro_to_webpack/)
+- [Event - Launch a documentation website in a flash, with Docusaurus w. Sébastien Lorber, React Expert & the lead maintainer for Facebook’s React-based static site generator](https://www.reddit.com/r/javascript/comments/opyti5/event_launch_a_documentation_website_in_a_flash/)
+- [Idle JavaScript Observations](https://www.reddit.com/r/javascript/comments/opy04w/idle_javascript_observations/)
+- [React 18 adds automatic batching](https://www.reddit.com/r/javascript/comments/opxccd/react_18_adds_automatic_batching/)
+- [How to use finite state machines in React?](https://www.reddit.com/r/javascript/comments/opx5jc/how_to_use_finite_state_machines_in_react/)
+- [Text to speech conversion using React Native Expo (Android & IOS)](https://www.reddit.com/r/javascript/comments/opt164/text_to_speech_conversion_using_react_native_expo/)
 - [[AskJS] What to learn after 1 year of javascript?](https://www.reddit.com/r/javascript/comments/opqepn/askjs_what_to_learn_after_1_year_of_javascript/)
-- [Getting Started with Jamstack](https://www.reddit.com/r/javascript/comments/oppl16/getting_started_with_jamstack/)
-- [I made a tiny library for doing partial React hydration/islands](https://www.reddit.com/r/javascript/comments/opo2dj/i_made_a_tiny_library_for_doing_partial_react/)
-- [JavaScript Promises: then(f,f) vs then(f).catch(f)](https://www.reddit.com/r/javascript/comments/opnw5c/javascript_promises_thenff_vs_thenfcatchf/)
-- [A Windows 7 Web Desktop Recreation made with Vanilla JS](https://www.reddit.com/r/javascript/comments/opnl5x/a_windows_7_web_desktop_recreation_made_with/)
-- [Malicious NPM Package Steals Passwords via Chrome’s Account-Recovery Tool](https://www.reddit.com/r/javascript/comments/opn2od/malicious_npm_package_steals_passwords_via/)
-- [3 Lessons from React that can make you a better Svelte Developer](https://www.reddit.com/r/javascript/comments/opjhvr/3_lessons_from_react_that_can_make_you_a_better/)
-- [Google Translate's usage of <font> for text replacement breaks React](https://www.reddit.com/r/javascript/comments/opirqi/google_translates_usage_of_font_for_text/)
-- [Windows 11 in React](https://www.reddit.com/r/javascript/comments/opio7q/windows_11_in_react/)
-- [Supercharged End 2 End Testing Framework for NodeJS](https://www.reddit.com/r/javascript/comments/opgpr9/supercharged_end_2_end_testing_framework_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
