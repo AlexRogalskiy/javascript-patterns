@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [14 JavaScript Array Methods (In 8 Minutes)](https://www.reddit.com/r/javascript/comments/oqdpcd/14_javascript_array_methods_in_8_minutes/)
+- [[AskJS] Feedback on idea to catch bugs in web applications before they hit production](https://www.reddit.com/r/javascript/comments/oqye8k/askjs_feedback_on_idea_to_catch_bugs_in_web/)
+- [CodeSandbox - An online IDE for rapid web development](https://www.reddit.com/r/javascript/comments/oqxmbe/codesandbox_an_online_ide_for_rapid_web/)
+- [JavaScript - A callback based utility for making fluent number changes.](https://www.reddit.com/r/javascript/comments/oqwjg2/javascript_a_callback_based_utility_for_making/)
+- [[AskJS] I want to build something for you](https://www.reddit.com/r/javascript/comments/oqvn9x/askjs_i_want_to_build_something_for_you/)
+- [How JavaScript conquered the web](https://www.reddit.com/r/javascript/comments/oqsfwz/how_javascript_conquered_the_web/)
+- [Persist Vuex State between Page Reloads with LocalStorage and IndexedDB](https://www.reddit.com/r/javascript/comments/oqrlns/persist_vuex_state_between_page_reloads_with/)
+- [todocheck v0.4.0 released with support for VueJS, new issue trackers & more!](https://www.reddit.com/r/javascript/comments/oqng4i/todocheck_v040_released_with_support_for_vuejs/)
+- [Showoff Saturday (July 24, 2021)](https://www.reddit.com/r/javascript/comments/oqkz3d/showoff_saturday_july_24_2021/)
 - [Opensource project: Adopt Animals. What do you can with Adopt Animals? First things first, this app mobile friend app, so you can use also on mobile devices. This app created by Alper Efe Şahin, and shared with MIT License. So you can use all of the codes :)](https://www.reddit.com/r/javascript/comments/oq5zg0/opensource_project_adopt_animals_what_do_you_can/)
-- [Free resources for learning JavaScript for beginners](https://www.reddit.com/r/javascript/comments/oq3t2z/free_resources_for_learning_javascript_for/)
 - [Intro to Webpack](https://www.reddit.com/r/javascript/comments/oq05bm/intro_to_webpack/)
-- [Event - Launch a documentation website in a flash, with Docusaurus w. Sébastien Lorber, React Expert & the lead maintainer for Facebook’s React-based static site generator](https://www.reddit.com/r/javascript/comments/opyti5/event_launch_a_documentation_website_in_a_flash/)
-- [Idle JavaScript Observations](https://www.reddit.com/r/javascript/comments/opy04w/idle_javascript_observations/)
-- [React 18 adds automatic batching](https://www.reddit.com/r/javascript/comments/opxccd/react_18_adds_automatic_batching/)
-- [How to use finite state machines in React?](https://www.reddit.com/r/javascript/comments/opx5jc/how_to_use_finite_state_machines_in_react/)
-- [Text to speech conversion using React Native Expo (Android & IOS)](https://www.reddit.com/r/javascript/comments/opt164/text_to_speech_conversion_using_react_native_expo/)
-- [[AskJS] What to learn after 1 year of javascript?](https://www.reddit.com/r/javascript/comments/opqepn/askjs_what_to_learn_after_1_year_of_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
