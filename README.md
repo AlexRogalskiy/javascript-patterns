@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Store more with Firebase Firestore by compressing text using Unishox 2](https://www.reddit.com/r/javascript/comments/orb44f/store_more_with_firebase_firestore_by_compressing/)
+- [[AskJS] Unit Testing vs Integration Testing a Data Service (NodeJS)](https://www.reddit.com/r/javascript/comments/or9kx7/askjs_unit_testing_vs_integration_testing_a_data/)
+- [Is Particles.js still good in 2021?](https://www.reddit.com/r/javascript/comments/or6i6z/is_particlesjs_still_good_in_2021/)
+- [[AskJS] Header Comments in Files](https://www.reddit.com/r/javascript/comments/or5vd6/askjs_header_comments_in_files/)
 - [[AskJS] Feedback on idea to catch bugs in web applications before they hit production](https://www.reddit.com/r/javascript/comments/oqye8k/askjs_feedback_on_idea_to_catch_bugs_in_web/)
 - [CodeSandbox - An online IDE for rapid web development](https://www.reddit.com/r/javascript/comments/oqxmbe/codesandbox_an_online_ide_for_rapid_web/)
 - [JavaScript - A callback based utility for making fluent number changes.](https://www.reddit.com/r/javascript/comments/oqwjg2/javascript_a_callback_based_utility_for_making/)
 - [[AskJS] I want to build something for you](https://www.reddit.com/r/javascript/comments/oqvn9x/askjs_i_want_to_build_something_for_you/)
 - [How JavaScript conquered the web](https://www.reddit.com/r/javascript/comments/oqsfwz/how_javascript_conquered_the_web/)
 - [Persist Vuex State between Page Reloads with LocalStorage and IndexedDB](https://www.reddit.com/r/javascript/comments/oqrlns/persist_vuex_state_between_page_reloads_with/)
-- [todocheck v0.4.0 released with support for VueJS, new issue trackers & more!](https://www.reddit.com/r/javascript/comments/oqng4i/todocheck_v040_released_with_support_for_vuejs/)
-- [Showoff Saturday (July 24, 2021)](https://www.reddit.com/r/javascript/comments/oqkz3d/showoff_saturday_july_24_2021/)
-- [Opensource project: Adopt Animals. What do you can with Adopt Animals? First things first, this app mobile friend app, so you can use also on mobile devices. This app created by Alper Efe Şahin, and shared with MIT License. So you can use all of the codes :)](https://www.reddit.com/r/javascript/comments/oq5zg0/opensource_project_adopt_animals_what_do_you_can/)
-- [Intro to Webpack](https://www.reddit.com/r/javascript/comments/oq05bm/intro_to_webpack/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
