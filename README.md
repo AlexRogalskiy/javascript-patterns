@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Store more with Firebase Firestore by compressing text using Unishox 2](https://www.reddit.com/r/javascript/comments/orb44f/store_more_with_firebase_firestore_by_compressing/)
-- [[AskJS] Unit Testing vs Integration Testing a Data Service (NodeJS)](https://www.reddit.com/r/javascript/comments/or9kx7/askjs_unit_testing_vs_integration_testing_a_data/)
-- [Is Particles.js still good in 2021?](https://www.reddit.com/r/javascript/comments/or6i6z/is_particlesjs_still_good_in_2021/)
-- [[AskJS] Header Comments in Files](https://www.reddit.com/r/javascript/comments/or5vd6/askjs_header_comments_in_files/)
-- [[AskJS] Feedback on idea to catch bugs in web applications before they hit production](https://www.reddit.com/r/javascript/comments/oqye8k/askjs_feedback_on_idea_to_catch_bugs_in_web/)
-- [CodeSandbox - An online IDE for rapid web development](https://www.reddit.com/r/javascript/comments/oqxmbe/codesandbox_an_online_ide_for_rapid_web/)
-- [JavaScript - A callback based utility for making fluent number changes.](https://www.reddit.com/r/javascript/comments/oqwjg2/javascript_a_callback_based_utility_for_making/)
-- [[AskJS] I want to build something for you](https://www.reddit.com/r/javascript/comments/oqvn9x/askjs_i_want_to_build_something_for_you/)
-- [How JavaScript conquered the web](https://www.reddit.com/r/javascript/comments/oqsfwz/how_javascript_conquered_the_web/)
-- [Persist Vuex State between Page Reloads with LocalStorage and IndexedDB](https://www.reddit.com/r/javascript/comments/oqrlns/persist_vuex_state_between_page_reloads_with/)
+- [[AskJS] Modern, maintained delegation library for vanilla JS?](https://www.reddit.com/r/javascript/comments/oscsb1/askjs_modern_maintained_delegation_library_for/)
+- [A non-code explanation of how Async Await and Promises work](https://www.reddit.com/r/javascript/comments/osa7qh/a_noncode_explanation_of_how_async_await_and/)
+- [[AskJS] Which A/B Testing Framework should I use?](https://www.reddit.com/r/javascript/comments/os91v9/askjs_which_ab_testing_framework_should_i_use/)
+- [How To Write Readable React Content States](https://www.reddit.com/r/javascript/comments/os8zqp/how_to_write_readable_react_content_states/)
+- [Yarn 3.0 - Performances, ESBuild, Better Patches, ...](https://www.reddit.com/r/javascript/comments/os2pp4/yarn_30_performances_esbuild_better_patches/)
+- [[AskJS] People recommend to use JS with FP intead of OOP but do real world proyects follow this advise?](https://www.reddit.com/r/javascript/comments/os2nh4/askjs_people_recommend_to_use_js_with_fp_intead/)
+- [Had some fun connecting GPT-3 to Clubhouse](https://www.reddit.com/r/javascript/comments/os240b/had_some_fun_connecting_gpt3_to_clubhouse/)
+- [[AskJS] Syntax highlighting by closure?](https://www.reddit.com/r/javascript/comments/os1w5h/askjs_syntax_highlighting_by_closure/)
+- [Why you need Strapi](https://www.reddit.com/r/javascript/comments/os1lvf/why_you_need_strapi/)
+- [I just ran `npm i - otherpackage` by accident. Turns out "-" is a real but practically empty package with 13k weekly downloads.](https://www.reddit.com/r/javascript/comments/os1db1/i_just_ran_npm_i_otherpackage_by_accident_turns/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
