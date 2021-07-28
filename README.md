@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Mask or no mask? With Twilio Video, machine learning, and JavaScript](https://www.reddit.com/r/javascript/comments/oss76m/mask_or_no_mask_with_twilio_video_machine/)
+- [What’s Exported Fragment in Web Development (Svelte, Malina.js)](https://www.reddit.com/r/javascript/comments/osrouu/whats_exported_fragment_in_web_development_svelte/)
+- [A large-object previewer](https://www.reddit.com/r/javascript/comments/osqunz/a_largeobject_previewer/)
+- [Airplanes - GSAP ScrollTrigger animation](https://www.reddit.com/r/javascript/comments/ospn13/airplanes_gsap_scrolltrigger_animation/)
+- [Generate mock data and fixtures with interfaceForge](https://www.reddit.com/r/javascript/comments/osixyo/generate_mock_data_and_fixtures_with/)
+- [You don’t need React for building websites](https://www.reddit.com/r/javascript/comments/osity5/you_dont_need_react_for_building_websites/)
 - [[AskJS] Modern, maintained delegation library for vanilla JS?](https://www.reddit.com/r/javascript/comments/oscsb1/askjs_modern_maintained_delegation_library_for/)
 - [A non-code explanation of how Async Await and Promises work](https://www.reddit.com/r/javascript/comments/osa7qh/a_noncode_explanation_of_how_async_await_and/)
 - [[AskJS] Which A/B Testing Framework should I use?](https://www.reddit.com/r/javascript/comments/os91v9/askjs_which_ab_testing_framework_should_i_use/)
 - [How To Write Readable React Content States](https://www.reddit.com/r/javascript/comments/os8zqp/how_to_write_readable_react_content_states/)
-- [Yarn 3.0 - Performances, ESBuild, Better Patches, ...](https://www.reddit.com/r/javascript/comments/os2pp4/yarn_30_performances_esbuild_better_patches/)
-- [[AskJS] People recommend to use JS with FP intead of OOP but do real world proyects follow this advise?](https://www.reddit.com/r/javascript/comments/os2nh4/askjs_people_recommend_to_use_js_with_fp_intead/)
-- [Had some fun connecting GPT-3 to Clubhouse](https://www.reddit.com/r/javascript/comments/os240b/had_some_fun_connecting_gpt3_to_clubhouse/)
-- [[AskJS] Syntax highlighting by closure?](https://www.reddit.com/r/javascript/comments/os1w5h/askjs_syntax_highlighting_by_closure/)
-- [Why you need Strapi](https://www.reddit.com/r/javascript/comments/os1lvf/why_you_need_strapi/)
-- [I just ran `npm i - otherpackage` by accident. Turns out "-" is a real but practically empty package with 13k weekly downloads.](https://www.reddit.com/r/javascript/comments/os1db1/i_just_ran_npm_i_otherpackage_by_accident_turns/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
