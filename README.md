@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Mask or no mask? With Twilio Video, machine learning, and JavaScript](https://www.reddit.com/r/javascript/comments/oss76m/mask_or_no_mask_with_twilio_video_machine/)
-- [What’s Exported Fragment in Web Development (Svelte, Malina.js)](https://www.reddit.com/r/javascript/comments/osrouu/whats_exported_fragment_in_web_development_svelte/)
-- [A large-object previewer](https://www.reddit.com/r/javascript/comments/osqunz/a_largeobject_previewer/)
-- [Airplanes - GSAP ScrollTrigger animation](https://www.reddit.com/r/javascript/comments/ospn13/airplanes_gsap_scrolltrigger_animation/)
-- [Generate mock data and fixtures with interfaceForge](https://www.reddit.com/r/javascript/comments/osixyo/generate_mock_data_and_fixtures_with/)
-- [You don’t need React for building websites](https://www.reddit.com/r/javascript/comments/osity5/you_dont_need_react_for_building_websites/)
-- [[AskJS] Modern, maintained delegation library for vanilla JS?](https://www.reddit.com/r/javascript/comments/oscsb1/askjs_modern_maintained_delegation_library_for/)
-- [A non-code explanation of how Async Await and Promises work](https://www.reddit.com/r/javascript/comments/osa7qh/a_noncode_explanation_of_how_async_await_and/)
-- [[AskJS] Which A/B Testing Framework should I use?](https://www.reddit.com/r/javascript/comments/os91v9/askjs_which_ab_testing_framework_should_i_use/)
-- [How To Write Readable React Content States](https://www.reddit.com/r/javascript/comments/os8zqp/how_to_write_readable_react_content_states/)
+- [[AskJS] dame - 23 KB axios alternative with zero dependencies. What do you think?](https://www.reddit.com/r/javascript/comments/otkl4x/askjs_dame_23_kb_axios_alternative_with_zero/)
+- [Drum Synthesis in JavaScript](https://www.reddit.com/r/javascript/comments/otg688/drum_synthesis_in_javascript/)
+- [Introducing the Marko Tags API Preview](https://www.reddit.com/r/javascript/comments/otdqz9/introducing_the_marko_tags_api_preview/)
+- [Front-end JavaScript performance](https://www.reddit.com/r/javascript/comments/otcs2d/frontend_javascript_performance/)
+- [The const keyword does not create immutable variables](https://www.reddit.com/r/javascript/comments/otcror/the_const_keyword_does_not_create_immutable/)
+- [Basic schema inference for arbitrary JavaScript data objects](https://www.reddit.com/r/javascript/comments/otbbxo/basic_schema_inference_for_arbitrary_javascript/)
+- [RuntimeX - A programming language written in Javascript, designed to be fast and easy to use.](https://www.reddit.com/r/javascript/comments/ota2tt/runtimex_a_programming_language_written_in/)
+- [[AskJS] Do you know a way to generate automated SMS from google sheet?](https://www.reddit.com/r/javascript/comments/ota1gd/askjs_do_you_know_a_way_to_generate_automated_sms/)
+- [An implementation of a subset of javascript in that subset](https://www.reddit.com/r/javascript/comments/ot934b/an_implementation_of_a_subset_of_javascript_in/)
+- [Javascript ES2021 Summary](https://www.reddit.com/r/javascript/comments/ot69a8/javascript_es2021_summary/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
