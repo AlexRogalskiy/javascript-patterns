@@ -353,6 +353,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *NodeSource posts*
 
 <!-- NODESOURCE-POST-LIST:START -->
+- [Differences between N|Solid SaaS and On-Prem](https://nodesource.com/blog/differences-between-NSolid-SaaS-and-On-Prem)
 - [Announcing N|Solid SaaS!](https://nodesource.com/blog/NSolid-SaaS)
 - [Inteview With Giovanny Gongora – SafetyDetectives](https://nodesource.com/blog/inteview-with-Giovanny-Gongora–security)
 - [Security Release for N|Solid 4.5.6](https://nodesource.com/blog/security-release-for-NSolid-4.5.6)
@@ -362,7 +363,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Announcing N|Solid Version 4.5.3](https://nodesource.com/blog/announcing-NSolid-Version-4.5.3)
 - [Security Release for N|Solid Version 4.5.2](https://nodesource.com/blog/security-release-for-NSolid-version-4.5.2)
 - [Avoiding npm substitution attacks using NCM](https://nodesource.com/blog/avoiding-npm-substitution-attacks-using-NCM)
-- [Security Release for N|Solid Version 4.5.1](https://nodesource.com/blog/security-release-for-NSolid-Version-4.5.1)
 <!-- NODESOURCE-POST-LIST:END -->
 
 ### *React Native posts*
