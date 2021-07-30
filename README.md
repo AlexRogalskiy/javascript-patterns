@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] dame - 23 KB axios alternative with zero dependencies. What do you think?](https://www.reddit.com/r/javascript/comments/otkl4x/askjs_dame_23_kb_axios_alternative_with_zero/)
-- [Drum Synthesis in JavaScript](https://www.reddit.com/r/javascript/comments/otg688/drum_synthesis_in_javascript/)
-- [Introducing the Marko Tags API Preview](https://www.reddit.com/r/javascript/comments/otdqz9/introducing_the_marko_tags_api_preview/)
-- [Front-end JavaScript performance](https://www.reddit.com/r/javascript/comments/otcs2d/frontend_javascript_performance/)
-- [The const keyword does not create immutable variables](https://www.reddit.com/r/javascript/comments/otcror/the_const_keyword_does_not_create_immutable/)
-- [Basic schema inference for arbitrary JavaScript data objects](https://www.reddit.com/r/javascript/comments/otbbxo/basic_schema_inference_for_arbitrary_javascript/)
-- [RuntimeX - A programming language written in Javascript, designed to be fast and easy to use.](https://www.reddit.com/r/javascript/comments/ota2tt/runtimex_a_programming_language_written_in/)
-- [[AskJS] Do you know a way to generate automated SMS from google sheet?](https://www.reddit.com/r/javascript/comments/ota1gd/askjs_do_you_know_a_way_to_generate_automated_sms/)
-- [An implementation of a subset of javascript in that subset](https://www.reddit.com/r/javascript/comments/ot934b/an_implementation_of_a_subset_of_javascript_in/)
-- [Javascript ES2021 Summary](https://www.reddit.com/r/javascript/comments/ot69a8/javascript_es2021_summary/)
+- [Safari isn't protecting the web, it's killing it](https://www.reddit.com/r/javascript/comments/ouamc1/safari_isnt_protecting_the_web_its_killing_it/)
+- [Blockly: A JavaScript library for building visual programming editors](https://www.reddit.com/r/javascript/comments/ouakdo/blockly_a_javascript_library_for_building_visual/)
+- [BlueAuth: Open-source passwordless and serverless auth. No databases needed, only javascript!](https://www.reddit.com/r/javascript/comments/ou53g0/blueauth_opensource_passwordless_and_serverless/)
+- [The "with" keyword](https://www.reddit.com/r/javascript/comments/ou4mql/the_with_keyword/)
+- [[AskJS] redact-it, a flexible tool to redact JS objects' data](https://www.reddit.com/r/javascript/comments/ou4cmr/askjs_redactit_a_flexible_tool_to_redact_js/)
+- [Flan: a cli tool to help your team save and share postgres snapshots](https://www.reddit.com/r/javascript/comments/ou2t9n/flan_a_cli_tool_to_help_your_team_save_and_share/)
+- [Using Google Drive as a CMS](https://www.reddit.com/r/javascript/comments/ou2pf8/using_google_drive_as_a_cms/)
+- [Build a powerful table using React Table](https://www.reddit.com/r/javascript/comments/otzhmr/build_a_powerful_table_using_react_table/)
+- [[AskJS] Getting a domain HTTPS certificate details in a browser context?](https://www.reddit.com/r/javascript/comments/otym1t/askjs_getting_a_domain_https_certificate_details/)
+- [Build real‑time collaborative experiences in JS](https://www.reddit.com/r/javascript/comments/otwpaj/build_realtime_collaborative_experiences_in_js/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
