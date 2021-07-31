@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Safari isn't protecting the web, it's killing it](https://www.reddit.com/r/javascript/comments/ouamc1/safari_isnt_protecting_the_web_its_killing_it/)
-- [Blockly: A JavaScript library for building visual programming editors](https://www.reddit.com/r/javascript/comments/ouakdo/blockly_a_javascript_library_for_building_visual/)
-- [BlueAuth: Open-source passwordless and serverless auth. No databases needed, only javascript!](https://www.reddit.com/r/javascript/comments/ou53g0/blueauth_opensource_passwordless_and_serverless/)
-- [The "with" keyword](https://www.reddit.com/r/javascript/comments/ou4mql/the_with_keyword/)
-- [[AskJS] redact-it, a flexible tool to redact JS objects' data](https://www.reddit.com/r/javascript/comments/ou4cmr/askjs_redactit_a_flexible_tool_to_redact_js/)
-- [Flan: a cli tool to help your team save and share postgres snapshots](https://www.reddit.com/r/javascript/comments/ou2t9n/flan_a_cli_tool_to_help_your_team_save_and_share/)
-- [Using Google Drive as a CMS](https://www.reddit.com/r/javascript/comments/ou2pf8/using_google_drive_as_a_cms/)
-- [Build a powerful table using React Table](https://www.reddit.com/r/javascript/comments/otzhmr/build_a_powerful_table_using_react_table/)
-- [[AskJS] Getting a domain HTTPS certificate details in a browser context?](https://www.reddit.com/r/javascript/comments/otym1t/askjs_getting_a_domain_https_certificate_details/)
-- [Build real‑time collaborative experiences in JS](https://www.reddit.com/r/javascript/comments/otwpaj/build_realtime_collaborative_experiences_in_js/)
+- [Tagless is javascript library that interpret costume HTML syntax (HTML syntax without tags that's easy to read and faster to write) into normal HTML and it's only 5KB minified.](https://www.reddit.com/r/javascript/comments/ouwloe/tagless_is_javascript_library_that_interpret/)
+- [Creating a Financial OHLC Chart with JavaScript (Visualizing Amazon Stock Prices)](https://www.reddit.com/r/javascript/comments/ousrgc/creating_a_financial_ohlc_chart_with_javascript/)
+- [[AskJS] Which 3d JS engine should I use for a networked FPS camera that can support up to 32 players on a VPS?](https://www.reddit.com/r/javascript/comments/ourids/askjs_which_3d_js_engine_should_i_use_for_a/)
+- [What's new in ES2022?](https://www.reddit.com/r/javascript/comments/ouqadk/whats_new_in_es2022/)
+- [[AskJS] I wonder why there is no javascript compiler?](https://www.reddit.com/r/javascript/comments/ouoaom/askjs_i_wonder_why_there_is_no_javascript_compiler/)
+- [LimberGridView - Flexible grids for your web application.](https://www.reddit.com/r/javascript/comments/oumqka/limbergridview_flexible_grids_for_your_web/)
+- [[AskJS] Gatsby js is Frontend or backend ?](https://www.reddit.com/r/javascript/comments/ouj7m8/askjs_gatsby_js_is_frontend_or_backend/)
+- [Interview with Kent C. Dodds: Consume, build, and teach — and level up your career](https://www.reddit.com/r/javascript/comments/ouiuqh/interview_with_kent_c_dodds_consume_build_and/)
+- [The Complete Guide to Localizing your App with JavaScript's Internationalization API](https://www.reddit.com/r/javascript/comments/ouhznh/the_complete_guide_to_localizing_your_app_with/)
+- [Text to speech with Javascript](https://www.reddit.com/r/javascript/comments/oufnle/text_to_speech_with_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
