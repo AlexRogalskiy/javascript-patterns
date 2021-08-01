@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [7 TypeScript Tricks with Enum (and Fruits)](https://www.reddit.com/r/javascript/comments/ovfryu/7_typescript_tricks_with_enum_and_fruits/)
+- [ViewFinder - Virtualized browsers for your web app](https://www.reddit.com/r/javascript/comments/ovfpze/viewfinder_virtualized_browsers_for_your_web_app/)
+- [[AskJS] Favorite alternatives to Owl Carousel / Slick Carousel that are built with vanilla js?](https://www.reddit.com/r/javascript/comments/ovflgn/askjs_favorite_alternatives_to_owl_carousel_slick/)
+- [Kanye and the ontology of bleached T-shirts. A JavaScript implementation.](https://www.reddit.com/r/javascript/comments/ovcys8/kanye_and_the_ontology_of_bleached_tshirts_a/)
+- [[AskJS] Do you type all the needed document.querySelector's as constants before you start coding or do you create each of them just when you need them?](https://www.reddit.com/r/javascript/comments/ov95xa/askjs_do_you_type_all_the_needed/)
+- [Showoff Saturday (July 31, 2021)](https://www.reddit.com/r/javascript/comments/ov2kx6/showoff_saturday_july_31_2021/)
+- [Using svelte-kit with static-adapter on neocities.org](https://www.reddit.com/r/javascript/comments/ov2b4v/using_sveltekit_with_staticadapter_on_neocitiesorg/)
+- [Never use Date.parse or parse strings with new Date. I built an eslint plugin for that.](https://www.reddit.com/r/javascript/comments/ov138e/never_use_dateparse_or_parse_strings_with_new/)
 - [Tagless is javascript library that interpret costume HTML syntax (HTML syntax without tags that's easy to read and faster to write) into normal HTML and it's only 5KB minified.](https://www.reddit.com/r/javascript/comments/ouwloe/tagless_is_javascript_library_that_interpret/)
 - [Creating a Financial OHLC Chart with JavaScript (Visualizing Amazon Stock Prices)](https://www.reddit.com/r/javascript/comments/ousrgc/creating_a_financial_ohlc_chart_with_javascript/)
-- [[AskJS] Which 3d JS engine should I use for a networked FPS camera that can support up to 32 players on a VPS?](https://www.reddit.com/r/javascript/comments/ourids/askjs_which_3d_js_engine_should_i_use_for_a/)
-- [What's new in ES2022?](https://www.reddit.com/r/javascript/comments/ouqadk/whats_new_in_es2022/)
-- [[AskJS] I wonder why there is no javascript compiler?](https://www.reddit.com/r/javascript/comments/ouoaom/askjs_i_wonder_why_there_is_no_javascript_compiler/)
-- [LimberGridView - Flexible grids for your web application.](https://www.reddit.com/r/javascript/comments/oumqka/limbergridview_flexible_grids_for_your_web/)
-- [[AskJS] Gatsby js is Frontend or backend ?](https://www.reddit.com/r/javascript/comments/ouj7m8/askjs_gatsby_js_is_frontend_or_backend/)
-- [Interview with Kent C. Dodds: Consume, build, and teach — and level up your career](https://www.reddit.com/r/javascript/comments/ouiuqh/interview_with_kent_c_dodds_consume_build_and/)
-- [The Complete Guide to Localizing your App with JavaScript's Internationalization API](https://www.reddit.com/r/javascript/comments/ouhznh/the_complete_guide_to_localizing_your_app_with/)
-- [Text to speech with Javascript](https://www.reddit.com/r/javascript/comments/oufnle/text_to_speech_with_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
