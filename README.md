@@ -256,6 +256,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Any WebStorm Fans Make the Switch to VSCode?](https://www.reddit.com/r/javascript/comments/ow2gjh/askjs_any_webstorm_fans_make_the_switch_to_vscode/)
+- [Customize your automatic versioning and release process with flexible semantic-release configurations](https://www.reddit.com/r/javascript/comments/ovt68j/customize_your_automatic_versioning_and_release/)
+- [Creating a DOOM-inspired aesthetic with PlayCanvas - an interactive article](https://www.reddit.com/r/javascript/comments/ovk7cc/creating_a_doominspired_aesthetic_with_playcanvas/)
 - [7 TypeScript Tricks with Enum (and Fruits)](https://www.reddit.com/r/javascript/comments/ovfryu/7_typescript_tricks_with_enum_and_fruits/)
 - [ViewFinder - Virtualized browsers for your web app](https://www.reddit.com/r/javascript/comments/ovfpze/viewfinder_virtualized_browsers_for_your_web_app/)
 - [[AskJS] Favorite alternatives to Owl Carousel / Slick Carousel that are built with vanilla js?](https://www.reddit.com/r/javascript/comments/ovflgn/askjs_favorite_alternatives_to_owl_carousel_slick/)
@@ -263,9 +266,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [[AskJS] Do you type all the needed document.querySelector's as constants before you start coding or do you create each of them just when you need them?](https://www.reddit.com/r/javascript/comments/ov95xa/askjs_do_you_type_all_the_needed/)
 - [Showoff Saturday (July 31, 2021)](https://www.reddit.com/r/javascript/comments/ov2kx6/showoff_saturday_july_31_2021/)
 - [Using svelte-kit with static-adapter on neocities.org](https://www.reddit.com/r/javascript/comments/ov2b4v/using_sveltekit_with_staticadapter_on_neocitiesorg/)
-- [Never use Date.parse or parse strings with new Date. I built an eslint plugin for that.](https://www.reddit.com/r/javascript/comments/ov138e/never_use_dateparse_or_parse_strings_with_new/)
-- [Tagless is javascript library that interpret costume HTML syntax (HTML syntax without tags that's easy to read and faster to write) into normal HTML and it's only 5KB minified.](https://www.reddit.com/r/javascript/comments/ouwloe/tagless_is_javascript_library_that_interpret/)
-- [Creating a Financial OHLC Chart with JavaScript (Visualizing Amazon Stock Prices)](https://www.reddit.com/r/javascript/comments/ousrgc/creating_a_financial_ohlc_chart_with_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
