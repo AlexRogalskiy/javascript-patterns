@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Any WebStorm Fans Make the Switch to VSCode?](https://www.reddit.com/r/javascript/comments/ow2gjh/askjs_any_webstorm_fans_make_the_switch_to_vscode/)
-- [Customize your automatic versioning and release process with flexible semantic-release configurations](https://www.reddit.com/r/javascript/comments/ovt68j/customize_your_automatic_versioning_and_release/)
-- [Creating a DOOM-inspired aesthetic with PlayCanvas - an interactive article](https://www.reddit.com/r/javascript/comments/ovk7cc/creating_a_doominspired_aesthetic_with_playcanvas/)
-- [7 TypeScript Tricks with Enum (and Fruits)](https://www.reddit.com/r/javascript/comments/ovfryu/7_typescript_tricks_with_enum_and_fruits/)
-- [ViewFinder - Virtualized browsers for your web app](https://www.reddit.com/r/javascript/comments/ovfpze/viewfinder_virtualized_browsers_for_your_web_app/)
-- [[AskJS] Favorite alternatives to Owl Carousel / Slick Carousel that are built with vanilla js?](https://www.reddit.com/r/javascript/comments/ovflgn/askjs_favorite_alternatives_to_owl_carousel_slick/)
-- [Kanye and the ontology of bleached T-shirts. A JavaScript implementation.](https://www.reddit.com/r/javascript/comments/ovcys8/kanye_and_the_ontology_of_bleached_tshirts_a/)
-- [[AskJS] Do you type all the needed document.querySelector's as constants before you start coding or do you create each of them just when you need them?](https://www.reddit.com/r/javascript/comments/ov95xa/askjs_do_you_type_all_the_needed/)
-- [Showoff Saturday (July 31, 2021)](https://www.reddit.com/r/javascript/comments/ov2kx6/showoff_saturday_july_31_2021/)
-- [Using svelte-kit with static-adapter on neocities.org](https://www.reddit.com/r/javascript/comments/ov2b4v/using_sveltekit_with_staticadapter_on_neocitiesorg/)
+- [The Wikimedia Foundation's chooses Vue.js over React as its new frontend framework](https://www.reddit.com/r/javascript/comments/owpikq/the_wikimedia_foundations_chooses_vuejs_over/)
+- [This is How To Implement JavaScript Promises [From Scratch] (Follow up post based on a request made in this Reddit community from a previous blog post written about promises. This post is how to create a promise implementation from scratch - fair warning, it's a pretty advanced topic)](https://www.reddit.com/r/javascript/comments/owokya/this_is_how_to_implement_javascript_promises_from/)
+- [[AskJS] Introduction To JavaScript: First Steps - Educative - Free](https://www.reddit.com/r/javascript/comments/owlm0v/askjs_introduction_to_javascript_first_steps/)
+- [Migrating a React codebase to web components](https://www.reddit.com/r/javascript/comments/owkfqv/migrating_a_react_codebase_to_web_components/)
+- [[AskJS] I need an excel formula calculator](https://www.reddit.com/r/javascript/comments/owhrie/askjs_i_need_an_excel_formula_calculator/)
+- [How we reduced Next.js page size by 3.5x and achieved a 98 Lighthouse score](https://www.reddit.com/r/javascript/comments/owhovq/how_we_reduced_nextjs_page_size_by_35x_and/)
+- [This is How [JavaScript] Promises Work](https://www.reddit.com/r/javascript/comments/owh8xe/this_is_how_javascript_promises_work/)
+- ["this" can be a little tricky in Javascript, test your knowledge!](https://www.reddit.com/r/javascript/comments/owfqo3/this_can_be_a_little_tricky_in_javascript_test/)
+- [[AskJS] anybody worked with JS based barcode scanner ??](https://www.reddit.com/r/javascript/comments/owdmiy/askjs_anybody_worked_with_js_based_barcode_scanner/)
+- [GitHub - saghul/txiki.js: The tiny JavaScript runtime built with QuickJS, libuv](https://www.reddit.com/r/javascript/comments/owao5v/github_saghultxikijs_the_tiny_javascript_runtime/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
