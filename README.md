@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [The Wikimedia Foundation's chooses Vue.js over React as its new frontend framework](https://www.reddit.com/r/javascript/comments/owpikq/the_wikimedia_foundations_chooses_vuejs_over/)
-- [This is How To Implement JavaScript Promises [From Scratch] (Follow up post based on a request made in this Reddit community from a previous blog post written about promises. This post is how to create a promise implementation from scratch - fair warning, it's a pretty advanced topic)](https://www.reddit.com/r/javascript/comments/owokya/this_is_how_to_implement_javascript_promises_from/)
-- [[AskJS] Introduction To JavaScript: First Steps - Educative - Free](https://www.reddit.com/r/javascript/comments/owlm0v/askjs_introduction_to_javascript_first_steps/)
-- [Migrating a React codebase to web components](https://www.reddit.com/r/javascript/comments/owkfqv/migrating_a_react_codebase_to_web_components/)
-- [[AskJS] I need an excel formula calculator](https://www.reddit.com/r/javascript/comments/owhrie/askjs_i_need_an_excel_formula_calculator/)
-- [How we reduced Next.js page size by 3.5x and achieved a 98 Lighthouse score](https://www.reddit.com/r/javascript/comments/owhovq/how_we_reduced_nextjs_page_size_by_35x_and/)
-- [This is How [JavaScript] Promises Work](https://www.reddit.com/r/javascript/comments/owh8xe/this_is_how_javascript_promises_work/)
-- ["this" can be a little tricky in Javascript, test your knowledge!](https://www.reddit.com/r/javascript/comments/owfqo3/this_can_be_a_little_tricky_in_javascript_test/)
-- [[AskJS] anybody worked with JS based barcode scanner ??](https://www.reddit.com/r/javascript/comments/owdmiy/askjs_anybody_worked_with_js_based_barcode_scanner/)
-- [GitHub - saghul/txiki.js: The tiny JavaScript runtime built with QuickJS, libuv](https://www.reddit.com/r/javascript/comments/owao5v/github_saghultxikijs_the_tiny_javascript_runtime/)
+- [[AskJS] Fillable pdf validation - For my work. I am sorry that I am bad at JavaScript.](https://www.reddit.com/r/javascript/comments/oxetgy/askjs_fillable_pdf_validation_for_my_work_i_am/)
+- [React Readability Analysis Of Inline Conditional Rendering](https://www.reddit.com/r/javascript/comments/oxawby/react_readability_analysis_of_inline_conditional/)
+- [Smart Debugging in Node.js](https://www.reddit.com/r/javascript/comments/ox8q1l/smart_debugging_in_nodejs/)
+- [How to Design a Type Friendly Context](https://www.reddit.com/r/javascript/comments/ox88pw/how_to_design_a_type_friendly_context/)
+- [[AskJS] Logging into a website from some other website?](https://www.reddit.com/r/javascript/comments/ox7th3/askjs_logging_into_a_website_from_some_other/)
+- [How MDN’s autocomplete search works](https://www.reddit.com/r/javascript/comments/ox7tcr/how_mdns_autocomplete_search_works/)
+- [How to use `test.todo()` in Jest effectively! Hope you all enjoy writing test!](https://www.reddit.com/r/javascript/comments/ox7ri7/how_to_use_testtodo_in_jest_effectively_hope_you/)
+- [Nuro: A lightweight, reactive, component-based UI framework](https://www.reddit.com/r/javascript/comments/ox7c6m/nuro_a_lightweight_reactive_componentbased_ui/)
+- [Emma Bostian's career tips: I landed my dream job by sharing my blogs on Twitter](https://www.reddit.com/r/javascript/comments/owzn81/emma_bostians_career_tips_i_landed_my_dream_job/)
+- [Write your first API in javascript with expressjs.](https://www.reddit.com/r/javascript/comments/owycf3/write_your_first_api_in_javascript_with_expressjs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
