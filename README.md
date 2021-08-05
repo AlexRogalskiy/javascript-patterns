@@ -256,18 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-
-- [\[AskJS\] Fillable pdf validation - For my work. I am sorry that I am bad at JavaScript.](https://www.reddit.com/r/javascript/comments/oxetgy/askjs_fillable_pdf_validation_for_my_work_i_am/)
-- [React Readability Analysis Of Inline Conditional Rendering](https://www.reddit.com/r/javascript/comments/oxawby/react_readability_analysis_of_inline_conditional/)
-- [Smart Debugging in Node.js](https://www.reddit.com/r/javascript/comments/ox8q1l/smart_debugging_in_nodejs/)
-- [How to Design a Type Friendly Context](https://www.reddit.com/r/javascript/comments/ox88pw/how_to_design_a_type_friendly_context/)
-- [\[AskJS\] Logging into a website from some other website?](https://www.reddit.com/r/javascript/comments/ox7th3/askjs_logging_into_a_website_from_some_other/)
-- [How MDN’s autocomplete search works](https://www.reddit.com/r/javascript/comments/ox7tcr/how_mdns_autocomplete_search_works/)
-- [How to use `test.todo()` in Jest effectively! Hope you all enjoy writing test!](https://www.reddit.com/r/javascript/comments/ox7ri7/how_to_use_testtodo_in_jest_effectively_hope_you/)
-- [Nuro: A lightweight, reactive, component-based UI framework](https://www.reddit.com/r/javascript/comments/ox7c6m/nuro_a_lightweight_reactive_componentbased_ui/)
-- [Emma Bostian's career tips: I landed my dream job by sharing my blogs on Twitter](https://www.reddit.com/r/javascript/comments/owzn81/emma_bostians_career_tips_i_landed_my_dream_job/)
-- [Write your first API in javascript with expressjs.](https://www.reddit.com/r/javascript/comments/owycf3/write_your_first_api_in_javascript_with_expressjs/)
-
+- [A small cli wrapper around playwright to make it simple and easy to "prerender" a js-rendered page [x-post from r/node]](https://www.reddit.com/r/javascript/comments/oy3xjm/a_small_cli_wrapper_around_playwright_to_make_it/)
+- [[AskJS] Any places it is worth to follow / read in order to see cool tips and tricks in javascript just for education purposes?](https://www.reddit.com/r/javascript/comments/oy1qvh/askjs_any_places_it_is_worth_to_follow_read_in/)
+- [When to Use Mocks: Use Case Tests](https://www.reddit.com/r/javascript/comments/oy1h3w/when_to_use_mocks_use_case_tests/)
+- [Google-controlled web standard bodies break the web again and in response to complaints from affected developers lock the issue as "off topic"](https://www.reddit.com/r/javascript/comments/oy05vp/googlecontrolled_web_standard_bodies_break_the/)
+- [Automate accessibility testing with Storybook](https://www.reddit.com/r/javascript/comments/oxzzgw/automate_accessibility_testing_with_storybook/)
+- [How to License and Distribute Commercial Node Modules](https://www.reddit.com/r/javascript/comments/oxzn7k/how_to_license_and_distribute_commercial_node/)
+- [How to Add a Youtube Like Progress Bar in Next.js Application](https://www.reddit.com/r/javascript/comments/oxw8we/how_to_add_a_youtube_like_progress_bar_in_nextjs/)
+- [A Node.js Boilerplate for building Production-Ready and Serverless RESTful API using Express + TypeScript + ESLint + Prettier + Husky + Environment variables + Local Support](https://www.reddit.com/r/javascript/comments/oxt6o7/a_nodejs_boilerplate_for_building_productionready/)
+- [Tutorial: Awaiting Multiple Promises with Promise.all (and creating your own Promise.all from scratch!)](https://www.reddit.com/r/javascript/comments/oxrl5o/tutorial_awaiting_multiple_promises_with/)
+- [A tiny event utility library for modern browsers(IE 11+). Just 1 KB](https://www.reddit.com/r/javascript/comments/oxq1rx/a_tiny_event_utility_library_for_modern/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
