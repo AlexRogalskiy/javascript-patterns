@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [A small cli wrapper around playwright to make it simple and easy to "prerender" a js-rendered page [x-post from r/node]](https://www.reddit.com/r/javascript/comments/oy3xjm/a_small_cli_wrapper_around_playwright_to_make_it/)
-- [[AskJS] Any places it is worth to follow / read in order to see cool tips and tricks in javascript just for education purposes?](https://www.reddit.com/r/javascript/comments/oy1qvh/askjs_any_places_it_is_worth_to_follow_read_in/)
-- [When to Use Mocks: Use Case Tests](https://www.reddit.com/r/javascript/comments/oy1h3w/when_to_use_mocks_use_case_tests/)
-- [Google-controlled web standard bodies break the web again and in response to complaints from affected developers lock the issue as "off topic"](https://www.reddit.com/r/javascript/comments/oy05vp/googlecontrolled_web_standard_bodies_break_the/)
-- [Automate accessibility testing with Storybook](https://www.reddit.com/r/javascript/comments/oxzzgw/automate_accessibility_testing_with_storybook/)
-- [How to License and Distribute Commercial Node Modules](https://www.reddit.com/r/javascript/comments/oxzn7k/how_to_license_and_distribute_commercial_node/)
-- [How to Add a Youtube Like Progress Bar in Next.js Application](https://www.reddit.com/r/javascript/comments/oxw8we/how_to_add_a_youtube_like_progress_bar_in_nextjs/)
-- [A Node.js Boilerplate for building Production-Ready and Serverless RESTful API using Express + TypeScript + ESLint + Prettier + Husky + Environment variables + Local Support](https://www.reddit.com/r/javascript/comments/oxt6o7/a_nodejs_boilerplate_for_building_productionready/)
-- [Tutorial: Awaiting Multiple Promises with Promise.all (and creating your own Promise.all from scratch!)](https://www.reddit.com/r/javascript/comments/oxrl5o/tutorial_awaiting_multiple_promises_with/)
-- [A tiny event utility library for modern browsers(IE 11+). Just 1 KB](https://www.reddit.com/r/javascript/comments/oxq1rx/a_tiny_event_utility_library_for_modern/)
+- [Boltz: A fast and self hosted JS cloud functions platform](https://www.reddit.com/r/javascript/comments/oysx8g/boltz_a_fast_and_self_hosted_js_cloud_functions/)
+- [[AskJS] Places for watching livecoding](https://www.reddit.com/r/javascript/comments/oyr7yb/askjs_places_for_watching_livecoding/)
+- [Visual Studio Code July 2021](https://www.reddit.com/r/javascript/comments/oynvt1/visual_studio_code_july_2021/)
+- [The Coming of Age of Notebooks](https://www.reddit.com/r/javascript/comments/oynvsm/the_coming_of_age_of_notebooks/)
+- [[AskJS] Why does GitHub use Puppeteer instead of SVG or Canvas for rendering repository previews?](https://www.reddit.com/r/javascript/comments/oym8a5/askjs_why_does_github_use_puppeteer_instead_of/)
+- [[AskJS] Do you prefer "P2P Calls" or "1 on 1 Calls"](https://www.reddit.com/r/javascript/comments/oyllsh/askjs_do_you_prefer_p2p_calls_or_1_on_1_calls/)
+- [KUR8: Start Visualizing Your Cluster’s Topology and Metrics](https://www.reddit.com/r/javascript/comments/oyklhn/kur8_start_visualizing_your_clusters_topology_and/)
+- [Real talk: Where are Unit tests actually used?](https://www.reddit.com/r/javascript/comments/oyjot5/real_talk_where_are_unit_tests_actually_used/)
+- [ts-audio v0.6.0 is out!](https://www.reddit.com/r/javascript/comments/oyhryn/tsaudio_v060_is_out/)
+- [Module federation ad SSR in NextJS 11](https://www.reddit.com/r/javascript/comments/oygmvz/module_federation_ad_ssr_in_nextjs_11/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
