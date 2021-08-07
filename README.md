@@ -353,6 +353,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *NodeSource posts*
 
 <!-- NODESOURCE-POST-LIST:START -->
+- [CPU Profiles as a Diagnostics tool in Node.js](https://nodesource.com/blog/CPU-Profiles-as-a-Diagnostics-tool-in-Node.js)
 - [SaaS Release Experience](https://nodesource.com/blog/SaaS-Release-Experience)
 - [Differences between N|Solid SaaS and On-Prem](https://nodesource.com/blog/differences-between-NSolid-SaaS-and-On-Prem)
 - [Announcing N|Solid SaaS!](https://nodesource.com/blog/NSolid-SaaS)
@@ -362,7 +363,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [The Node.js Application Maintainer Guide](https://nodesource.com/blog/the-Node.js-application-maintainer-guide)
 - [Need to Node – Volume 70](https://nodesource.com/blog/need-to-node-vol-70)
 - [Announcing N|Solid Version 4.5.3](https://nodesource.com/blog/announcing-NSolid-Version-4.5.3)
-- [Security Release for N|Solid Version 4.5.2](https://nodesource.com/blog/security-release-for-NSolid-version-4.5.2)
 <!-- NODESOURCE-POST-LIST:END -->
 
 ### *React Native posts*
