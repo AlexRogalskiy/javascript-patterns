@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Boltz: A fast and self hosted JS cloud functions platform](https://www.reddit.com/r/javascript/comments/oysx8g/boltz_a_fast_and_self_hosted_js_cloud_functions/)
-- [[AskJS] Places for watching livecoding](https://www.reddit.com/r/javascript/comments/oyr7yb/askjs_places_for_watching_livecoding/)
-- [Visual Studio Code July 2021](https://www.reddit.com/r/javascript/comments/oynvt1/visual_studio_code_july_2021/)
-- [The Coming of Age of Notebooks](https://www.reddit.com/r/javascript/comments/oynvsm/the_coming_of_age_of_notebooks/)
-- [[AskJS] Why does GitHub use Puppeteer instead of SVG or Canvas for rendering repository previews?](https://www.reddit.com/r/javascript/comments/oym8a5/askjs_why_does_github_use_puppeteer_instead_of/)
-- [[AskJS] Do you prefer "P2P Calls" or "1 on 1 Calls"](https://www.reddit.com/r/javascript/comments/oyllsh/askjs_do_you_prefer_p2p_calls_or_1_on_1_calls/)
-- [KUR8: Start Visualizing Your Cluster’s Topology and Metrics](https://www.reddit.com/r/javascript/comments/oyklhn/kur8_start_visualizing_your_clusters_topology_and/)
-- [Real talk: Where are Unit tests actually used?](https://www.reddit.com/r/javascript/comments/oyjot5/real_talk_where_are_unit_tests_actually_used/)
-- [ts-audio v0.6.0 is out!](https://www.reddit.com/r/javascript/comments/oyhryn/tsaudio_v060_is_out/)
-- [Module federation ad SSR in NextJS 11](https://www.reddit.com/r/javascript/comments/oygmvz/module_federation_ad_ssr_in_nextjs_11/)
+- [Control your Monorepo](https://www.reddit.com/r/javascript/comments/ozdeag/control_your_monorepo/)
+- [Full-Stack Data Science: A Complete Overview](https://www.reddit.com/r/javascript/comments/ozcbjj/fullstack_data_science_a_complete_overview/)
+- [Generating Test Data and Fixtures](https://www.reddit.com/r/javascript/comments/ozbvem/generating_test_data_and_fixtures/)
+- [Why it’s okay for web components to use frameworks](https://www.reddit.com/r/javascript/comments/ozaupg/why_its_okay_for_web_components_to_use_frameworks/)
+- [Rendering 3d offscreen: Getting max performance using canvas workers](https://www.reddit.com/r/javascript/comments/oz6tl5/rendering_3d_offscreen_getting_max_performance/)
+- [timecut - Record smooth movies of web pages with JavaScript animations](https://www.reddit.com/r/javascript/comments/oz6b5f/timecut_record_smooth_movies_of_web_pages_with/)
+- [Svelte is the most loved web framework](https://www.reddit.com/r/javascript/comments/oz5dpm/svelte_is_the_most_loved_web_framework/)
+- [Habits you should change if you wants to develop](https://www.reddit.com/r/javascript/comments/oz36zs/habits_you_should_change_if_you_wants_to_develop/)
+- [Top Interview Questions for Frontend Developers(React)](https://www.reddit.com/r/javascript/comments/oz3325/top_interview_questions_for_frontend/)
+- [How I structure my React /TS applications (2021)](https://www.reddit.com/r/javascript/comments/oz1zci/how_i_structure_my_react_ts_applications_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
