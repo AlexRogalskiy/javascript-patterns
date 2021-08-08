@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why the New Firebase Web v9 Modular SDK is a Game-Changer](https://www.reddit.com/r/javascript/comments/p05xny/why_the_new_firebase_web_v9_modular_sdk_is_a/)
+- [[AskJS] Concatenate variables with objects from API calls?](https://www.reddit.com/r/javascript/comments/p02n7d/askjs_concatenate_variables_with_objects_from_api/)
+- [GitHub - Aslemammad/vitext: The Next.js like React framework for better User & Developer experience!](https://www.reddit.com/r/javascript/comments/p00s1i/github_aslemammadvitext_the_nextjs_like_react/)
+- [jQuery Ajax tutorial with example](https://www.reddit.com/r/javascript/comments/ozzo7a/jquery_ajax_tutorial_with_example/)
+- [Exalt: Sparking the Creation of Web Components](https://www.reddit.com/r/javascript/comments/ozskaa/exalt_sparking_the_creation_of_web_components/)
+- [Showoff Saturday (August 07, 2021)](https://www.reddit.com/r/javascript/comments/ozojv9/showoff_saturday_august_07_2021/)
+- [[AskJS] [Project] Announcing Hora 0.1.1, an blazingly fast AI Similarity search algorithm library (WebAssembly)](https://www.reddit.com/r/javascript/comments/ozoffv/askjs_project_announcing_hora_011_an_blazingly/)
+- [Useful Tips & Tricks In Javascript](https://www.reddit.com/r/javascript/comments/ozmr6y/useful_tips_tricks_in_javascript/)
+- [[AskJS] Recommendations for a free react table component with some requirements](https://www.reddit.com/r/javascript/comments/ozkiq7/askjs_recommendations_for_a_free_react_table/)
 - [Control your Monorepo](https://www.reddit.com/r/javascript/comments/ozdeag/control_your_monorepo/)
-- [Full-Stack Data Science: A Complete Overview](https://www.reddit.com/r/javascript/comments/ozcbjj/fullstack_data_science_a_complete_overview/)
-- [Generating Test Data and Fixtures](https://www.reddit.com/r/javascript/comments/ozbvem/generating_test_data_and_fixtures/)
-- [Why it’s okay for web components to use frameworks](https://www.reddit.com/r/javascript/comments/ozaupg/why_its_okay_for_web_components_to_use_frameworks/)
-- [Rendering 3d offscreen: Getting max performance using canvas workers](https://www.reddit.com/r/javascript/comments/oz6tl5/rendering_3d_offscreen_getting_max_performance/)
-- [timecut - Record smooth movies of web pages with JavaScript animations](https://www.reddit.com/r/javascript/comments/oz6b5f/timecut_record_smooth_movies_of_web_pages_with/)
-- [Svelte is the most loved web framework](https://www.reddit.com/r/javascript/comments/oz5dpm/svelte_is_the_most_loved_web_framework/)
-- [Habits you should change if you wants to develop](https://www.reddit.com/r/javascript/comments/oz36zs/habits_you_should_change_if_you_wants_to_develop/)
-- [Top Interview Questions for Frontend Developers(React)](https://www.reddit.com/r/javascript/comments/oz3325/top_interview_questions_for_frontend/)
-- [How I structure my React /TS applications (2021)](https://www.reddit.com/r/javascript/comments/oz1zci/how_i_structure_my_react_ts_applications_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
