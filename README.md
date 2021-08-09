@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [webJSON - Build Modern Web Apps just with JSON | It's open source, please give me suggestions for improvements](https://www.reddit.com/r/javascript/comments/p0g1q2/webjson_build_modern_web_apps_just_with_json_its/)
+- [I made a browser extension that allows Reddit's top sort to use other time durations than the default ones. Get top posts from last three days, 21 hours, 7 months or whatever you want!](https://www.reddit.com/r/javascript/comments/p0fw41/i_made_a_browser_extension_that_allows_reddits/)
+- [I'm the dev and designer of Sigma File Manager app, ask me anything about development](https://www.reddit.com/r/javascript/comments/p0c2sx/im_the_dev_and_designer_of_sigma_file_manager_app/)
+- [I wrote vuex — but for React! The challenges I faced](https://www.reddit.com/r/javascript/comments/p0azcn/i_wrote_vuex_but_for_react_the_challenges_i_faced/)
+- [JavaScript function currying](https://www.reddit.com/r/javascript/comments/p0a5hm/javascript_function_currying/)
+- [How to Write TypeScript Interfaces in JSDoc Comments](https://www.reddit.com/r/javascript/comments/p08upw/how_to_write_typescript_interfaces_in_jsdoc/)
 - [Why the New Firebase Web v9 Modular SDK is a Game-Changer](https://www.reddit.com/r/javascript/comments/p05xny/why_the_new_firebase_web_v9_modular_sdk_is_a/)
-- [[AskJS] Concatenate variables with objects from API calls?](https://www.reddit.com/r/javascript/comments/p02n7d/askjs_concatenate_variables_with_objects_from_api/)
 - [GitHub - Aslemammad/vitext: The Next.js like React framework for better User & Developer experience!](https://www.reddit.com/r/javascript/comments/p00s1i/github_aslemammadvitext_the_nextjs_like_react/)
 - [jQuery Ajax tutorial with example](https://www.reddit.com/r/javascript/comments/ozzo7a/jquery_ajax_tutorial_with_example/)
 - [Exalt: Sparking the Creation of Web Components](https://www.reddit.com/r/javascript/comments/ozskaa/exalt_sparking_the_creation_of_web_components/)
-- [Showoff Saturday (August 07, 2021)](https://www.reddit.com/r/javascript/comments/ozojv9/showoff_saturday_august_07_2021/)
-- [[AskJS] [Project] Announcing Hora 0.1.1, an blazingly fast AI Similarity search algorithm library (WebAssembly)](https://www.reddit.com/r/javascript/comments/ozoffv/askjs_project_announcing_hora_011_an_blazingly/)
-- [Useful Tips & Tricks In Javascript](https://www.reddit.com/r/javascript/comments/ozmr6y/useful_tips_tricks_in_javascript/)
-- [[AskJS] Recommendations for a free react table component with some requirements](https://www.reddit.com/r/javascript/comments/ozkiq7/askjs_recommendations_for_a_free_react_table/)
-- [Control your Monorepo](https://www.reddit.com/r/javascript/comments/ozdeag/control_your_monorepo/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
