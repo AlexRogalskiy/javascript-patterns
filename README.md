@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [webJSON - Build Modern Web Apps just with JSON | It's open source, please give me suggestions for improvements](https://www.reddit.com/r/javascript/comments/p0g1q2/webjson_build_modern_web_apps_just_with_json_its/)
-- [I made a browser extension that allows Reddit's top sort to use other time durations than the default ones. Get top posts from last three days, 21 hours, 7 months or whatever you want!](https://www.reddit.com/r/javascript/comments/p0fw41/i_made_a_browser_extension_that_allows_reddits/)
-- [I'm the dev and designer of Sigma File Manager app, ask me anything about development](https://www.reddit.com/r/javascript/comments/p0c2sx/im_the_dev_and_designer_of_sigma_file_manager_app/)
-- [I wrote vuex — but for React! The challenges I faced](https://www.reddit.com/r/javascript/comments/p0azcn/i_wrote_vuex_but_for_react_the_challenges_i_faced/)
-- [JavaScript function currying](https://www.reddit.com/r/javascript/comments/p0a5hm/javascript_function_currying/)
-- [How to Write TypeScript Interfaces in JSDoc Comments](https://www.reddit.com/r/javascript/comments/p08upw/how_to_write_typescript_interfaces_in_jsdoc/)
-- [Why the New Firebase Web v9 Modular SDK is a Game-Changer](https://www.reddit.com/r/javascript/comments/p05xny/why_the_new_firebase_web_v9_modular_sdk_is_a/)
-- [GitHub - Aslemammad/vitext: The Next.js like React framework for better User & Developer experience!](https://www.reddit.com/r/javascript/comments/p00s1i/github_aslemammadvitext_the_nextjs_like_react/)
-- [jQuery Ajax tutorial with example](https://www.reddit.com/r/javascript/comments/ozzo7a/jquery_ajax_tutorial_with_example/)
-- [Exalt: Sparking the Creation of Web Components](https://www.reddit.com/r/javascript/comments/ozskaa/exalt_sparking_the_creation_of_web_components/)
+- [[AskJS] Base64 to binary conversion not working as expected](https://www.reddit.com/r/javascript/comments/p1d2z3/askjs_base64_to_binary_conversion_not_working_as/)
+- [[AskJS] Any simple alternatives to jsfiddle that allow free private sandbox? (fiddles are public)](https://www.reddit.com/r/javascript/comments/p1c1ht/askjs_any_simple_alternatives_to_jsfiddle_that/)
+- [CachedLookup: A Simple Package To Cache And Save On Expensive API Calls](https://www.reddit.com/r/javascript/comments/p1btgr/cachedlookup_a_simple_package_to_cache_and_save/)
+- [[AskJS] Help! Am I on the right track with 'This' concept](https://www.reddit.com/r/javascript/comments/p18f5l/askjs_help_am_i_on_the_right_track_with_this/)
+- [21 HTML Best Practices for Writing Maintainable and Scalable Document.](https://www.reddit.com/r/javascript/comments/p16ojr/21_html_best_practices_for_writing_maintainable/)
+- [Made a little audio reactive music video using WebGL](https://www.reddit.com/r/javascript/comments/p140pa/made_a_little_audio_reactive_music_video_using/)
+- [[AskJS] How to implement cross-domain single sign on? (I own all the sites)](https://www.reddit.com/r/javascript/comments/p1303v/askjs_how_to_implement_crossdomain_single_sign_on/)
+- [snm v0.7.0: A completely revamped node version manager](https://www.reddit.com/r/javascript/comments/p12ynn/snm_v070_a_completely_revamped_node_version/)
+- [JavaScript needs more helper functions for iteration (map, filter, etc.)](https://www.reddit.com/r/javascript/comments/p12vbv/javascript_needs_more_helper_functions_for/)
+- [V8 release v9.3](https://www.reddit.com/r/javascript/comments/p10rk7/v8_release_v93/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
