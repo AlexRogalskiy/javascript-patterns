@@ -256,16 +256,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Base64 to binary conversion not working as expected](https://www.reddit.com/r/javascript/comments/p1d2z3/askjs_base64_to_binary_conversion_not_working_as/)
-- [[AskJS] Any simple alternatives to jsfiddle that allow free private sandbox? (fiddles are public)](https://www.reddit.com/r/javascript/comments/p1c1ht/askjs_any_simple_alternatives_to_jsfiddle_that/)
-- [CachedLookup: A Simple Package To Cache And Save On Expensive API Calls](https://www.reddit.com/r/javascript/comments/p1btgr/cachedlookup_a_simple_package_to_cache_and_save/)
-- [[AskJS] Help! Am I on the right track with 'This' concept](https://www.reddit.com/r/javascript/comments/p18f5l/askjs_help_am_i_on_the_right_track_with_this/)
-- [21 HTML Best Practices for Writing Maintainable and Scalable Document.](https://www.reddit.com/r/javascript/comments/p16ojr/21_html_best_practices_for_writing_maintainable/)
-- [Made a little audio reactive music video using WebGL](https://www.reddit.com/r/javascript/comments/p140pa/made_a_little_audio_reactive_music_video_using/)
-- [[AskJS] How to implement cross-domain single sign on? (I own all the sites)](https://www.reddit.com/r/javascript/comments/p1303v/askjs_how_to_implement_crossdomain_single_sign_on/)
-- [snm v0.7.0: A completely revamped node version manager](https://www.reddit.com/r/javascript/comments/p12ynn/snm_v070_a_completely_revamped_node_version/)
-- [JavaScript needs more helper functions for iteration (map, filter, etc.)](https://www.reddit.com/r/javascript/comments/p12vbv/javascript_needs_more_helper_functions_for/)
-- [V8 release v9.3](https://www.reddit.com/r/javascript/comments/p10rk7/v8_release_v93/)
+- [Don’t attach tooltips to document.body](https://www.reddit.com/r/javascript/comments/p1xwz0/dont_attach_tooltips_to_documentbody/)
+- [Using React Router for Building a SPA](https://www.reddit.com/r/javascript/comments/p1wk2m/using_react_router_for_building_a_spa/)
+- [[AskJS] Ending a nodejs script when BullJS queues are completed](https://www.reddit.com/r/javascript/comments/p1vue7/askjs_ending_a_nodejs_script_when_bulljs_queues/)
+- [Hopping on Firefox 91](https://www.reddit.com/r/javascript/comments/p1udat/hopping_on_firefox_91/)
+- [Stay alert - DEV Community (Rich Harris on standard bodies attitude about breaking the web)](https://www.reddit.com/r/javascript/comments/p1svnz/stay_alert_dev_community_rich_harris_on_standard/)
+- [Moiva.io August 2021 update - npm packages comparison became more insightful](https://www.reddit.com/r/javascript/comments/p1pjob/moivaio_august_2021_update_npm_packages/)
+- [How to develop a serverless mobile app with Amplify, React Native & GraphQL](https://www.reddit.com/r/javascript/comments/p1ojp8/how_to_develop_a_serverless_mobile_app_with/)
+- [[AskJS] What is the best way in your opinion to manipulate complex javascript objects (JSON) ?](https://www.reddit.com/r/javascript/comments/p1naej/askjs_what_is_the_best_way_in_your_opinion_to/)
+- [Zx 2.1 release - a better scripting tool for JavaScript](https://www.reddit.com/r/javascript/comments/p1myij/zx_21_release_a_better_scripting_tool_for/)
+- [Vue 3.2 Released](https://www.reddit.com/r/javascript/comments/p1ikqt/vue_32_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
