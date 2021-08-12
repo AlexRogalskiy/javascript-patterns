@@ -274,16 +274,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Don’t attach tooltips to document.body](https://www.reddit.com/r/javascript/comments/p1xwz0/dont_attach_tooltips_to_documentbody/)
-- [Using React Router for Building a SPA](https://www.reddit.com/r/javascript/comments/p1wk2m/using_react_router_for_building_a_spa/)
-- [[AskJS] Ending a nodejs script when BullJS queues are completed](https://www.reddit.com/r/javascript/comments/p1vue7/askjs_ending_a_nodejs_script_when_bulljs_queues/)
-- [Hopping on Firefox 91](https://www.reddit.com/r/javascript/comments/p1udat/hopping_on_firefox_91/)
-- [Stay alert - DEV Community (Rich Harris on standard bodies attitude about breaking the web)](https://www.reddit.com/r/javascript/comments/p1svnz/stay_alert_dev_community_rich_harris_on_standard/)
-- [Moiva.io August 2021 update - npm packages comparison became more insightful](https://www.reddit.com/r/javascript/comments/p1pjob/moivaio_august_2021_update_npm_packages/)
-- [How to develop a serverless mobile app with Amplify, React Native & GraphQL](https://www.reddit.com/r/javascript/comments/p1ojp8/how_to_develop_a_serverless_mobile_app_with/)
-- [[AskJS] What is the best way in your opinion to manipulate complex javascript objects (JSON) ?](https://www.reddit.com/r/javascript/comments/p1naej/askjs_what_is_the_best_way_in_your_opinion_to/)
-- [Zx 2.1 release - a better scripting tool for JavaScript](https://www.reddit.com/r/javascript/comments/p1myij/zx_21_release_a_better_scripting_tool_for/)
-- [Vue 3.2 Released](https://www.reddit.com/r/javascript/comments/p1ikqt/vue_32_released/)
+- [IntelliSense for CoffeeScript](https://www.reddit.com/r/javascript/comments/p2lecx/intellisense_for_coffeescript/)
+- [A Journey from JavaScript and TypeScript, to Rescript/React, via Elm, OCaml & Haskell.](https://www.reddit.com/r/javascript/comments/p2j1at/a_journey_from_javascript_and_typescript_to/)
+- [HTTPS certificate non-validation vulnerability in Node.js](https://www.reddit.com/r/javascript/comments/p2hxpl/https_certificate_nonvalidation_vulnerability_in/)
+- [Who’s coding that? Why diversity in tech matters](https://www.reddit.com/r/javascript/comments/p2exo6/whos_coding_that_why_diversity_in_tech_matters/)
+- [Fake Local Server: A Mock server](https://www.reddit.com/r/javascript/comments/p2exif/fake_local_server_a_mock_server/)
+- [Loading 3rd-Party JavaScript](https://www.reddit.com/r/javascript/comments/p2d7g4/loading_3rdparty_javascript/)
+- [[AskJS] calling an api through a post request without blocking the code for the response?](https://www.reddit.com/r/javascript/comments/p2cwao/askjs_calling_an_api_through_a_post_request/)
+- [[AskJS] Learning data structures and algorithm scripting](https://www.reddit.com/r/javascript/comments/p2bkos/askjs_learning_data_structures_and_algorithm/)
+- [EfficientNet - image recognition and object detection model written in node and typescript](https://www.reddit.com/r/javascript/comments/p2b76t/efficientnet_image_recognition_and_object/)
+- [[AskJS] Help with queryselectorAll & Map](https://www.reddit.com/r/javascript/comments/p287fx/askjs_help_with_queryselectorall_map/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
