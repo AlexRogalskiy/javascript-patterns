@@ -274,16 +274,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [IntelliSense for CoffeeScript](https://www.reddit.com/r/javascript/comments/p2lecx/intellisense_for_coffeescript/)
-- [A Journey from JavaScript and TypeScript, to Rescript/React, via Elm, OCaml & Haskell.](https://www.reddit.com/r/javascript/comments/p2j1at/a_journey_from_javascript_and_typescript_to/)
-- [HTTPS certificate non-validation vulnerability in Node.js](https://www.reddit.com/r/javascript/comments/p2hxpl/https_certificate_nonvalidation_vulnerability_in/)
-- [Who’s coding that? Why diversity in tech matters](https://www.reddit.com/r/javascript/comments/p2exo6/whos_coding_that_why_diversity_in_tech_matters/)
-- [Fake Local Server: A Mock server](https://www.reddit.com/r/javascript/comments/p2exif/fake_local_server_a_mock_server/)
-- [Loading 3rd-Party JavaScript](https://www.reddit.com/r/javascript/comments/p2d7g4/loading_3rdparty_javascript/)
-- [[AskJS] calling an api through a post request without blocking the code for the response?](https://www.reddit.com/r/javascript/comments/p2cwao/askjs_calling_an_api_through_a_post_request/)
-- [[AskJS] Learning data structures and algorithm scripting](https://www.reddit.com/r/javascript/comments/p2bkos/askjs_learning_data_structures_and_algorithm/)
-- [EfficientNet - image recognition and object detection model written in node and typescript](https://www.reddit.com/r/javascript/comments/p2b76t/efficientnet_image_recognition_and_object/)
-- [[AskJS] Help with queryselectorAll & Map](https://www.reddit.com/r/javascript/comments/p287fx/askjs_help_with_queryselectorall_map/)
+- [A future for SQL on the web](https://www.reddit.com/r/javascript/comments/p3asmu/a_future_for_sql_on_the_web/)
+- [Announcing TypeScript 4.4 RC](https://www.reddit.com/r/javascript/comments/p3ah3c/announcing_typescript_44_rc/)
+- [How to setup end to end tests with WebdriverIo on Github action ?](https://www.reddit.com/r/javascript/comments/p3a6pn/how_to_setup_end_to_end_tests_with_webdriverio_on/)
+- [Chat Application using Reactjs (source code in comment)](https://www.reddit.com/r/javascript/comments/p39c51/chat_application_using_reactjs_source_code_in/)
+- [The Next.js team works towards replacing Babel with SWC. Also, experimental ES Modules support.](https://www.reddit.com/r/javascript/comments/p32qwx/the_nextjs_team_works_towards_replacing_babel/)
+- [[Vanilla javascript / React] GQty: Embrace a world where you don't repeat yourself.](https://www.reddit.com/r/javascript/comments/p325bc/vanilla_javascript_react_gqty_embrace_a_world/)
+- [Trace-based testing](https://www.reddit.com/r/javascript/comments/p315q0/tracebased_testing/)
+- [Simple countdown timer in Vanilla javascript.](https://www.reddit.com/r/javascript/comments/p30rsf/simple_countdown_timer_in_vanilla_javascript/)
+- [OpenSaaS biometric authentication through npm](https://www.reddit.com/r/javascript/comments/p30lhd/opensaas_biometric_authentication_through_npm/)
+- [Basic structure of PDF Format](https://www.reddit.com/r/javascript/comments/p30elu/basic_structure_of_pdf_format/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
