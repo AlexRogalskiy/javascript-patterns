@@ -289,16 +289,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Angular 13 begins to take shape](https://www.infoworld.com/article/3629473/angular-13-begins-to-take-shape.html#tk.rss_javascript)
+- [Visual Studio 2022 Preview 3 shines on JavaScript, TypeScript, Git](https://www.infoworld.com/article/3629393/visual-studio-2022-preview-3-shines-on-javascript-typescript-github.html#tk.rss_javascript)
 - [Vue 3.2 promises a speed boost](https://www.infoworld.com/article/3629089/vue-32-promises-speed-boost.html#tk.rss_javascript)
 - [How to use FilePond with Node.js](https://www.infoworld.com/article/3627248/how-to-use-filepond-with-nodejs.html#tk.rss_javascript)
 - [GraalVM adds Native Image, compiler enhancements](https://www.infoworld.com/article/3626402/graalvm-adds-native-image-compiler-enhancements.html#tk.rss_javascript)
-- [SolidJS creator: JavaScript innovation isn’t slowing down](https://www.infoworld.com/article/3626348/solidjs-creator-javascript-innovation-isnt-slowing-down.html#tk.rss_javascript)
 - [TypeScript 4.4 brings performance boosts](https://www.infoworld.com/article/3626459/typescript-44-brings-performance-boosts.html#tk.rss_javascript)
+- [SolidJS creator: JavaScript innovation isn’t slowing down](https://www.infoworld.com/article/3626348/solidjs-creator-javascript-innovation-isnt-slowing-down.html#tk.rss_javascript)
 - [Shouldn’t you be using CodeSandbox?](https://www.infoworld.com/article/3624630/shouldnt-you-be-using-codesandbox.html#tk.rss_javascript)
 - [What’s new in Angular 12](https://www.infoworld.com/article/3607428/whats-new-in-angular-12.html#tk.rss_javascript)
 - [11 hot language projects riding WebAssembly](https://www.infoworld.com/article/3619608/-11-hot-language-projects-riding-webassembly.html#tk.rss_javascript)
-- [Deno Company unveils server-side JavaScript hosting service](https://www.infoworld.com/article/3622914/deno-company-unveils-server-side-javascript-hosting-service.html#tk.rss_javascript)
-- [ECMAScript 2021 spec for JavaScript crosses the finish line](https://www.infoworld.com/article/3613948/ecmascript-2021-spec-for-javascript-crosses-the-finish-line.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
