@@ -274,16 +274,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [A future for SQL on the web](https://www.reddit.com/r/javascript/comments/p3asmu/a_future_for_sql_on_the_web/)
-- [Announcing TypeScript 4.4 RC](https://www.reddit.com/r/javascript/comments/p3ah3c/announcing_typescript_44_rc/)
-- [How to setup end to end tests with WebdriverIo on Github action ?](https://www.reddit.com/r/javascript/comments/p3a6pn/how_to_setup_end_to_end_tests_with_webdriverio_on/)
-- [Chat Application using Reactjs (source code in comment)](https://www.reddit.com/r/javascript/comments/p39c51/chat_application_using_reactjs_source_code_in/)
-- [The Next.js team works towards replacing Babel with SWC. Also, experimental ES Modules support.](https://www.reddit.com/r/javascript/comments/p32qwx/the_nextjs_team_works_towards_replacing_babel/)
-- [[Vanilla javascript / React] GQty: Embrace a world where you don't repeat yourself.](https://www.reddit.com/r/javascript/comments/p325bc/vanilla_javascript_react_gqty_embrace_a_world/)
-- [Trace-based testing](https://www.reddit.com/r/javascript/comments/p315q0/tracebased_testing/)
-- [Simple countdown timer in Vanilla javascript.](https://www.reddit.com/r/javascript/comments/p30rsf/simple_countdown_timer_in_vanilla_javascript/)
-- [OpenSaaS biometric authentication through npm](https://www.reddit.com/r/javascript/comments/p30lhd/opensaas_biometric_authentication_through_npm/)
-- [Basic structure of PDF Format](https://www.reddit.com/r/javascript/comments/p30elu/basic_structure_of_pdf_format/)
+- [[AskJS] How to write unit tests with large dependency API surface?](https://www.reddit.com/r/javascript/comments/p3y50b/askjs_how_to_write_unit_tests_with_large/)
+- [[AskJS] Which JS OpenID Connect library to use in 2021?](https://www.reddit.com/r/javascript/comments/p3vg20/askjs_which_js_openid_connect_library_to_use_in/)
+- [Pluralsight free weekend (Friday 8/13 - Sunday 8/15)](https://www.reddit.com/r/javascript/comments/p3uagn/pluralsight_free_weekend_friday_813_sunday_815/)
+- [JS13K has started! This year's theme is SPACE](https://www.reddit.com/r/javascript/comments/p3r6k0/js13k_has_started_this_years_theme_is_space/)
+- [RxEffects: reactive state and effect management with RxJS](https://www.reddit.com/r/javascript/comments/p3pvum/rxeffects_reactive_state_and_effect_management/)
+- [Introducing MIDIVal: the easiest way to interact with MIDI in your browser](https://www.reddit.com/r/javascript/comments/p3ldcf/introducing_midival_the_easiest_way_to_interact/)
+- [Using Material Web Components within the neo.mjs application worker](https://www.reddit.com/r/javascript/comments/p3l46j/using_material_web_components_within_the_neomjs/)
+- [Lark.js: Use EBNF to generate a LALR(1) parser in Javascript](https://www.reddit.com/r/javascript/comments/p3j14a/larkjs_use_ebnf_to_generate_a_lalr1_parser_in/)
+- [Developing and Playing Fun Games online in the easiest way](https://www.reddit.com/r/javascript/comments/p3h4yq/developing_and_playing_fun_games_online_in_the/)
+- [[AskJS] file hosting for xmlhttprequest](https://www.reddit.com/r/javascript/comments/p3fv5t/askjs_file_hosting_for_xmlhttprequest/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
