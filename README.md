@@ -274,16 +274,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Authorize Git Operations Using Personal Access Token](https://www.reddit.com/r/javascript/comments/p4do2l/authorize_git_operations_using_personal_access/)
+- [[AskJS] Anyone make the transition from JavaScript to Java? Feeling overwhelmed.](https://www.reddit.com/r/javascript/comments/p4afae/askjs_anyone_make_the_transition_from_javascript/)
+- [Building a desktop application using Electron and Create React App](https://www.reddit.com/r/javascript/comments/p4accd/building_a_desktop_application_using_electron_and/)
+- [Hello everyone, I have been working on a tool to help developers and non developers create Tailwind CSS websites without writing code. Been working on this for the past couple of months and would appreciate any feedback, questions, support, or thoughts on this.](https://www.reddit.com/r/javascript/comments/p47n88/hello_everyone_i_have_been_working_on_a_tool_to/)
+- [A guide on how to easily learn Javascript](https://www.reddit.com/r/javascript/comments/p46bht/a_guide_on_how_to_easily_learn_javascript/)
+- [Naming, Code Conventions & Glory](https://www.reddit.com/r/javascript/comments/p44kh6/naming_code_conventions_glory/)
+- [Showoff Saturday (August 14, 2021)](https://www.reddit.com/r/javascript/comments/p439v5/showoff_saturday_august_14_2021/)
+- [The jest.mock() escape hatch](https://www.reddit.com/r/javascript/comments/p436ze/the_jestmock_escape_hatch/)
+- [How to Setup Monorepos with Git for JavaScript and TypeScript](https://www.reddit.com/r/javascript/comments/p3z7u8/how_to_setup_monorepos_with_git_for_javascript/)
 - [[AskJS] How to write unit tests with large dependency API surface?](https://www.reddit.com/r/javascript/comments/p3y50b/askjs_how_to_write_unit_tests_with_large/)
-- [[AskJS] Which JS OpenID Connect library to use in 2021?](https://www.reddit.com/r/javascript/comments/p3vg20/askjs_which_js_openid_connect_library_to_use_in/)
-- [Pluralsight free weekend (Friday 8/13 - Sunday 8/15)](https://www.reddit.com/r/javascript/comments/p3uagn/pluralsight_free_weekend_friday_813_sunday_815/)
-- [JS13K has started! This year's theme is SPACE](https://www.reddit.com/r/javascript/comments/p3r6k0/js13k_has_started_this_years_theme_is_space/)
-- [RxEffects: reactive state and effect management with RxJS](https://www.reddit.com/r/javascript/comments/p3pvum/rxeffects_reactive_state_and_effect_management/)
-- [Introducing MIDIVal: the easiest way to interact with MIDI in your browser](https://www.reddit.com/r/javascript/comments/p3ldcf/introducing_midival_the_easiest_way_to_interact/)
-- [Using Material Web Components within the neo.mjs application worker](https://www.reddit.com/r/javascript/comments/p3l46j/using_material_web_components_within_the_neomjs/)
-- [Lark.js: Use EBNF to generate a LALR(1) parser in Javascript](https://www.reddit.com/r/javascript/comments/p3j14a/larkjs_use_ebnf_to_generate_a_lalr1_parser_in/)
-- [Developing and Playing Fun Games online in the easiest way](https://www.reddit.com/r/javascript/comments/p3h4yq/developing_and_playing_fun_games_online_in_the/)
-- [[AskJS] file hosting for xmlhttprequest](https://www.reddit.com/r/javascript/comments/p3fv5t/askjs_file_hosting_for_xmlhttprequest/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
