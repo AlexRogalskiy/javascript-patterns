@@ -274,16 +274,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Frontend - Advance query inside document.querySelectorAll](https://www.reddit.com/r/javascript/comments/p56g4d/askjs_frontend_advance_query_inside/)
+- [Humble beginnings of my first open source npm package: The Music Builder](https://www.reddit.com/r/javascript/comments/p50qnz/humble_beginnings_of_my_first_open_source_npm/)
+- [[AskJS] Where should I close a database connection that is used inside an api?](https://www.reddit.com/r/javascript/comments/p4z5nm/askjs_where_should_i_close_a_database_connection/)
+- [Drayman - a server-side component framework](https://www.reddit.com/r/javascript/comments/p4vakg/drayman_a_serverside_component_framework/)
+- [Encryption in PDF Specification and my attempt to do it in pdf-lib](https://www.reddit.com/r/javascript/comments/p4qt69/encryption_in_pdf_specification_and_my_attempt_to/)
+- [Progressive Web Applications: Your Website as a Native Mobile App with HTML and JavaScript](https://www.reddit.com/r/javascript/comments/p4q42v/progressive_web_applications_your_website_as_a/)
+- [How To Use A Web API With Pure JavaScript](https://www.reddit.com/r/javascript/comments/p4pckq/how_to_use_a_web_api_with_pure_javascript/)
 - [Authorize Git Operations Using Personal Access Token](https://www.reddit.com/r/javascript/comments/p4do2l/authorize_git_operations_using_personal_access/)
 - [[AskJS] Anyone make the transition from JavaScript to Java? Feeling overwhelmed.](https://www.reddit.com/r/javascript/comments/p4afae/askjs_anyone_make_the_transition_from_javascript/)
 - [Building a desktop application using Electron and Create React App](https://www.reddit.com/r/javascript/comments/p4accd/building_a_desktop_application_using_electron_and/)
-- [Hello everyone, I have been working on a tool to help developers and non developers create Tailwind CSS websites without writing code. Been working on this for the past couple of months and would appreciate any feedback, questions, support, or thoughts on this.](https://www.reddit.com/r/javascript/comments/p47n88/hello_everyone_i_have_been_working_on_a_tool_to/)
-- [A guide on how to easily learn Javascript](https://www.reddit.com/r/javascript/comments/p46bht/a_guide_on_how_to_easily_learn_javascript/)
-- [Naming, Code Conventions & Glory](https://www.reddit.com/r/javascript/comments/p44kh6/naming_code_conventions_glory/)
-- [Showoff Saturday (August 14, 2021)](https://www.reddit.com/r/javascript/comments/p439v5/showoff_saturday_august_14_2021/)
-- [The jest.mock() escape hatch](https://www.reddit.com/r/javascript/comments/p436ze/the_jestmock_escape_hatch/)
-- [How to Setup Monorepos with Git for JavaScript and TypeScript](https://www.reddit.com/r/javascript/comments/p3z7u8/how_to_setup_monorepos_with_git_for_javascript/)
-- [[AskJS] How to write unit tests with large dependency API surface?](https://www.reddit.com/r/javascript/comments/p3y50b/askjs_how_to_write_unit_tests_with_large/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
