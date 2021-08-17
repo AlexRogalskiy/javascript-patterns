@@ -274,16 +274,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Frontend - Advance query inside document.querySelectorAll](https://www.reddit.com/r/javascript/comments/p56g4d/askjs_frontend_advance_query_inside/)
-- [Humble beginnings of my first open source npm package: The Music Builder](https://www.reddit.com/r/javascript/comments/p50qnz/humble_beginnings_of_my_first_open_source_npm/)
-- [[AskJS] Where should I close a database connection that is used inside an api?](https://www.reddit.com/r/javascript/comments/p4z5nm/askjs_where_should_i_close_a_database_connection/)
-- [Drayman - a server-side component framework](https://www.reddit.com/r/javascript/comments/p4vakg/drayman_a_serverside_component_framework/)
-- [Encryption in PDF Specification and my attempt to do it in pdf-lib](https://www.reddit.com/r/javascript/comments/p4qt69/encryption_in_pdf_specification_and_my_attempt_to/)
-- [Progressive Web Applications: Your Website as a Native Mobile App with HTML and JavaScript](https://www.reddit.com/r/javascript/comments/p4q42v/progressive_web_applications_your_website_as_a/)
-- [How To Use A Web API With Pure JavaScript](https://www.reddit.com/r/javascript/comments/p4pckq/how_to_use_a_web_api_with_pure_javascript/)
-- [Authorize Git Operations Using Personal Access Token](https://www.reddit.com/r/javascript/comments/p4do2l/authorize_git_operations_using_personal_access/)
-- [[AskJS] Anyone make the transition from JavaScript to Java? Feeling overwhelmed.](https://www.reddit.com/r/javascript/comments/p4afae/askjs_anyone_make_the_transition_from_javascript/)
-- [Building a desktop application using Electron and Create React App](https://www.reddit.com/r/javascript/comments/p4accd/building_a_desktop_application_using_electron_and/)
+- [[AskJS] Can Someone Explain Sideeffects](https://www.reddit.com/r/javascript/comments/p5pn4a/askjs_can_someone_explain_sideeffects/)
+- [How Readable Are Your React Component's TypeScript Props Typing?](https://www.reddit.com/r/javascript/comments/p5n9k8/how_readable_are_your_react_components_typescript/)
+- [[AskJS] Webpack Module Federation - what if remote is not available?](https://www.reddit.com/r/javascript/comments/p5mnhp/askjs_webpack_module_federation_what_if_remote_is/)
+- [[AskJS] What happened to Deno.JS](https://www.reddit.com/r/javascript/comments/p5korj/askjs_what_happened_to_denojs/)
+- [[AskJS] Trying to Find a Good JS Chart Library](https://www.reddit.com/r/javascript/comments/p5iuez/askjs_trying_to_find_a_good_js_chart_library/)
+- [4 packages to generate UUIDs in JavaScript](https://www.reddit.com/r/javascript/comments/p5i9dx/4_packages_to_generate_uuids_in_javascript/)
+- [CSS Grid tooling in DevTools - Chrome Developers](https://www.reddit.com/r/javascript/comments/p5hbpw/css_grid_tooling_in_devtools_chrome_developers/)
+- [An amazing error message if you put more than 2^24-1 items in a JS Map object](https://www.reddit.com/r/javascript/comments/p5f23d/an_amazing_error_message_if_you_put_more_than/)
+- [LemonadeJS: a micro reactive, two-way binding, no dependencies (4KB) JavaScript Library.](https://www.reddit.com/r/javascript/comments/p5e3xu/lemonadejs_a_micro_reactive_twoway_binding_no/)
+- [[AskJS] I have spent 7 years creating a JavaScript alternative, would love to hear your feedback](https://www.reddit.com/r/javascript/comments/p5cwvb/askjs_i_have_spent_7_years_creating_a_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
