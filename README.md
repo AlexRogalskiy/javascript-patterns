@@ -274,16 +274,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Can Someone Explain Sideeffects](https://www.reddit.com/r/javascript/comments/p5pn4a/askjs_can_someone_explain_sideeffects/)
-- [How Readable Are Your React Component's TypeScript Props Typing?](https://www.reddit.com/r/javascript/comments/p5n9k8/how_readable_are_your_react_components_typescript/)
-- [[AskJS] Webpack Module Federation - what if remote is not available?](https://www.reddit.com/r/javascript/comments/p5mnhp/askjs_webpack_module_federation_what_if_remote_is/)
-- [[AskJS] What happened to Deno.JS](https://www.reddit.com/r/javascript/comments/p5korj/askjs_what_happened_to_denojs/)
-- [[AskJS] Trying to Find a Good JS Chart Library](https://www.reddit.com/r/javascript/comments/p5iuez/askjs_trying_to_find_a_good_js_chart_library/)
-- [4 packages to generate UUIDs in JavaScript](https://www.reddit.com/r/javascript/comments/p5i9dx/4_packages_to_generate_uuids_in_javascript/)
-- [CSS Grid tooling in DevTools - Chrome Developers](https://www.reddit.com/r/javascript/comments/p5hbpw/css_grid_tooling_in_devtools_chrome_developers/)
-- [An amazing error message if you put more than 2^24-1 items in a JS Map object](https://www.reddit.com/r/javascript/comments/p5f23d/an_amazing_error_message_if_you_put_more_than/)
-- [LemonadeJS: a micro reactive, two-way binding, no dependencies (4KB) JavaScript Library.](https://www.reddit.com/r/javascript/comments/p5e3xu/lemonadejs_a_micro_reactive_twoway_binding_no/)
-- [[AskJS] I have spent 7 years creating a JavaScript alternative, would love to hear your feedback](https://www.reddit.com/r/javascript/comments/p5cwvb/askjs_i_have_spent_7_years_creating_a_javascript/)
+- [I created a JAM Stack Starter CLI that will make it much faster to get started on your next web project](https://www.reddit.com/r/javascript/comments/p6cghp/i_created_a_jam_stack_starter_cli_that_will_make/)
+- [[AskJS] Could someone point me to a guide about the naming conventions for file folders and the standard filesystem and such?](https://www.reddit.com/r/javascript/comments/p6cbyr/askjs_could_someone_point_me_to_a_guide_about_the/)
+- [Deno - HTTP 203](https://www.reddit.com/r/javascript/comments/p6ak9y/deno_http_203/)
+- [[AskJS] Simple site with possibility to upload picture](https://www.reddit.com/r/javascript/comments/p68rcd/askjs_simple_site_with_possibility_to_upload/)
+- [Top Web Development Technology Stack](https://www.reddit.com/r/javascript/comments/p68r8k/top_web_development_technology_stack/)
+- [Nodejs, EJS with Typescript using Gulp and Webpack](https://www.reddit.com/r/javascript/comments/p68kyd/nodejs_ejs_with_typescript_using_gulp_and_webpack/)
+- [Accessible Multistep Forms in React with Awesome UX](https://www.reddit.com/r/javascript/comments/p68b4r/accessible_multistep_forms_in_react_with_awesome/)
+- [How to use Console methods to the fullest | Console.log() isn't the only one](https://www.reddit.com/r/javascript/comments/p683yi/how_to_use_console_methods_to_the_fullest/)
+- [[AskJS] Transition to Ruby on Rails](https://www.reddit.com/r/javascript/comments/p67owu/askjs_transition_to_ruby_on_rails/)
+- [Getting started with Drayman](https://www.reddit.com/r/javascript/comments/p66mx4/getting_started_with_drayman/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
