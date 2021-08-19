@@ -274,16 +274,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I created a JAM Stack Starter CLI that will make it much faster to get started on your next web project](https://www.reddit.com/r/javascript/comments/p6cghp/i_created_a_jam_stack_starter_cli_that_will_make/)
-- [[AskJS] Could someone point me to a guide about the naming conventions for file folders and the standard filesystem and such?](https://www.reddit.com/r/javascript/comments/p6cbyr/askjs_could_someone_point_me_to_a_guide_about_the/)
-- [Deno - HTTP 203](https://www.reddit.com/r/javascript/comments/p6ak9y/deno_http_203/)
-- [[AskJS] Simple site with possibility to upload picture](https://www.reddit.com/r/javascript/comments/p68rcd/askjs_simple_site_with_possibility_to_upload/)
-- [Top Web Development Technology Stack](https://www.reddit.com/r/javascript/comments/p68r8k/top_web_development_technology_stack/)
-- [Nodejs, EJS with Typescript using Gulp and Webpack](https://www.reddit.com/r/javascript/comments/p68kyd/nodejs_ejs_with_typescript_using_gulp_and_webpack/)
-- [Accessible Multistep Forms in React with Awesome UX](https://www.reddit.com/r/javascript/comments/p68b4r/accessible_multistep_forms_in_react_with_awesome/)
-- [How to use Console methods to the fullest | Console.log() isn't the only one](https://www.reddit.com/r/javascript/comments/p683yi/how_to_use_console_methods_to_the_fullest/)
-- [[AskJS] Transition to Ruby on Rails](https://www.reddit.com/r/javascript/comments/p67owu/askjs_transition_to_ruby_on_rails/)
-- [Getting started with Drayman](https://www.reddit.com/r/javascript/comments/p66mx4/getting_started_with_drayman/)
+- [[AskJS] Trying to use if loop and return](https://www.reddit.com/r/javascript/comments/p74hez/askjs_trying_to_use_if_loop_and_return/)
+- [TypeScript Compiler API: Improve API Integrations Using Code Generation](https://www.reddit.com/r/javascript/comments/p74683/typescript_compiler_api_improve_api_integrations/)
+- [Testing user flows](https://www.reddit.com/r/javascript/comments/p6tuo4/testing_user_flows/)
+- [Spring cleaning MDN: Part 2](https://www.reddit.com/r/javascript/comments/p6t997/spring_cleaning_mdn_part_2/)
+- [Automate JavaScript Code Linting and Formatting in 5 simple Steps](https://www.reddit.com/r/javascript/comments/p6sy9m/automate_javascript_code_linting_and_formatting/)
+- [[AskJS] Does any one know how to find new people to help me on a project ?](https://www.reddit.com/r/javascript/comments/p6smb0/askjs_does_any_one_know_how_to_find_new_people_to/)
+- [Siesta-Test JavaScript/TypeScript code everywhere - in browsers, Node.js or Deno](https://www.reddit.com/r/javascript/comments/p6qbsv/siestatest_javascripttypescript_code_everywhere/)
+- [Why does One Want to learn Web Components with React, Angular, VueJs, and Svelte Around?](https://www.reddit.com/r/javascript/comments/p6my8k/why_does_one_want_to_learn_web_components_with/)
+- [Procedurally generated fish drawings](https://www.reddit.com/r/javascript/comments/p6mrzg/procedurally_generated_fish_drawings/)
+- [Understanding common errors caused by CORS](https://www.reddit.com/r/javascript/comments/p6mbpq/understanding_common_errors_caused_by_cors/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
