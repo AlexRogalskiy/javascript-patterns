@@ -319,6 +319,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *YouTube code posts*
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [Jsconf India Online 2021](https://www.youtube.com/watch?v=j6S3IRXQyqw)
 - [From JavaScript to React - Leonidas Esteban (Spanish language)](https://www.youtube.com/watch?v=T-lRHCPfQ1o)
 - [From beginner to expert in web performance  - Tracy Lee](https://www.youtube.com/watch?v=l1A1ImFkNvA)
 - [Accessibility, what do you eat that with? - Marjorie Figueroa (Spanish language)](https://www.youtube.com/watch?v=nOTw35C5ba4)
@@ -328,7 +329,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Why WebAssembly - Miguel Useche  [Spanish language]](https://www.youtube.com/watch?v=BoV0o_aTBCA)
 - [Hacking Web Performance - Maximiliano Firtman  [Spanish language]](https://www.youtube.com/watch?v=dyABQXGgB7Y)
 - [Async JS - Nacho Sainz [Spanish language]](https://www.youtube.com/watch?v=AwG9WfkDQrI)
-- [DevTools, the CSS advocate in your browse - Chen Hui Jing](https://www.youtube.com/watch?v=jMd82CaT100)
 <!-- YOUTUBE-POST-LIST:END -->
 
 ### *ReactJS posts*
