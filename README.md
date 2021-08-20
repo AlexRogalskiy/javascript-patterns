@@ -289,6 +289,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [How to use Auth0 with Node.js and Express](https://www.infoworld.com/article/3629129/how-to-use-auth0-with-nodejs-and-express.html#tk.rss_javascript)
 - [TypeScript 4.4 brings performance boosts](https://www.infoworld.com/article/3626459/typescript-44-brings-performance-boosts.html#tk.rss_javascript)
 - [Angular 13 begins to take shape](https://www.infoworld.com/article/3629473/angular-13-begins-to-take-shape.html#tk.rss_javascript)
 - [Visual Studio 2022 Preview 3 shines on JavaScript, TypeScript, Git](https://www.infoworld.com/article/3629393/visual-studio-2022-preview-3-shines-on-javascript-typescript-github.html#tk.rss_javascript)
@@ -298,7 +299,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [SolidJS creator: JavaScript innovation isn’t slowing down](https://www.infoworld.com/article/3626348/solidjs-creator-javascript-innovation-isnt-slowing-down.html#tk.rss_javascript)
 - [Shouldn’t you be using CodeSandbox?](https://www.infoworld.com/article/3624630/shouldnt-you-be-using-codesandbox.html#tk.rss_javascript)
 - [What’s new in Angular 12](https://www.infoworld.com/article/3607428/whats-new-in-angular-12.html#tk.rss_javascript)
-- [11 hot language projects riding WebAssembly](https://www.infoworld.com/article/3619608/-11-hot-language-projects-riding-webassembly.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
