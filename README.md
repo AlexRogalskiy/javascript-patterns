@@ -274,16 +274,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Trying to use if loop and return](https://www.reddit.com/r/javascript/comments/p74hez/askjs_trying_to_use_if_loop_and_return/)
-- [TypeScript Compiler API: Improve API Integrations Using Code Generation](https://www.reddit.com/r/javascript/comments/p74683/typescript_compiler_api_improve_api_integrations/)
-- [Testing user flows](https://www.reddit.com/r/javascript/comments/p6tuo4/testing_user_flows/)
-- [Spring cleaning MDN: Part 2](https://www.reddit.com/r/javascript/comments/p6t997/spring_cleaning_mdn_part_2/)
-- [Automate JavaScript Code Linting and Formatting in 5 simple Steps](https://www.reddit.com/r/javascript/comments/p6sy9m/automate_javascript_code_linting_and_formatting/)
-- [[AskJS] Does any one know how to find new people to help me on a project ?](https://www.reddit.com/r/javascript/comments/p6smb0/askjs_does_any_one_know_how_to_find_new_people_to/)
-- [Siesta-Test JavaScript/TypeScript code everywhere - in browsers, Node.js or Deno](https://www.reddit.com/r/javascript/comments/p6qbsv/siestatest_javascripttypescript_code_everywhere/)
-- [Why does One Want to learn Web Components with React, Angular, VueJs, and Svelte Around?](https://www.reddit.com/r/javascript/comments/p6my8k/why_does_one_want_to_learn_web_components_with/)
-- [Procedurally generated fish drawings](https://www.reddit.com/r/javascript/comments/p6mrzg/procedurally_generated_fish_drawings/)
-- [Understanding common errors caused by CORS](https://www.reddit.com/r/javascript/comments/p6mbpq/understanding_common_errors_caused_by_cors/)
+- [[AskJS] How can I make something like this in Javascript?](https://www.reddit.com/r/javascript/comments/p7rfih/askjs_how_can_i_make_something_like_this_in/)
+- [Home Screen Shortcuts in React Native (with Expo)](https://www.reddit.com/r/javascript/comments/p7q7ht/home_screen_shortcuts_in_react_native_with_expo/)
+- [[AskJS] Network request/DNS lib/lib help](https://www.reddit.com/r/javascript/comments/p7pwmr/askjs_network_requestdns_liblib_help/)
+- [A Visual Guide to React Rendering - It Always Re-renders](https://www.reddit.com/r/javascript/comments/p7ozi1/a_visual_guide_to_react_rendering_it_always/)
+- [A ripple animation in JavaScript](https://www.reddit.com/r/javascript/comments/p7ms3a/a_ripple_animation_in_javascript/)
+- [[AskJS] Is it good practice to use closures only to use variables by reference?](https://www.reddit.com/r/javascript/comments/p7lilc/askjs_is_it_good_practice_to_use_closures_only_to/)
+- [Create a Puzzle using JS & Canvas](https://www.reddit.com/r/javascript/comments/p7jnem/create_a_puzzle_using_js_canvas/)
+- [[AskJS] How do you handle waterfall JS feature development?](https://www.reddit.com/r/javascript/comments/p7jn22/askjs_how_do_you_handle_waterfall_js_feature/)
+- [[AskJS] Team lead asks to revert small improvements](https://www.reddit.com/r/javascript/comments/p7i19j/askjs_team_lead_asks_to_revert_small_improvements/)
+- [JavaScript vs JavaScript. Fight! MPA vs SPA, React vs Reactivity, VDOM vs No VDOM and more](https://www.reddit.com/r/javascript/comments/p7g0i2/javascript_vs_javascript_fight_mpa_vs_spa_react/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
