@@ -274,16 +274,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] How can I make something like this in Javascript?](https://www.reddit.com/r/javascript/comments/p7rfih/askjs_how_can_i_make_something_like_this_in/)
-- [Home Screen Shortcuts in React Native (with Expo)](https://www.reddit.com/r/javascript/comments/p7q7ht/home_screen_shortcuts_in_react_native_with_expo/)
-- [[AskJS] Network request/DNS lib/lib help](https://www.reddit.com/r/javascript/comments/p7pwmr/askjs_network_requestdns_liblib_help/)
-- [A Visual Guide to React Rendering - It Always Re-renders](https://www.reddit.com/r/javascript/comments/p7ozi1/a_visual_guide_to_react_rendering_it_always/)
-- [A ripple animation in JavaScript](https://www.reddit.com/r/javascript/comments/p7ms3a/a_ripple_animation_in_javascript/)
-- [[AskJS] Is it good practice to use closures only to use variables by reference?](https://www.reddit.com/r/javascript/comments/p7lilc/askjs_is_it_good_practice_to_use_closures_only_to/)
-- [Create a Puzzle using JS & Canvas](https://www.reddit.com/r/javascript/comments/p7jnem/create_a_puzzle_using_js_canvas/)
-- [[AskJS] How do you handle waterfall JS feature development?](https://www.reddit.com/r/javascript/comments/p7jn22/askjs_how_do_you_handle_waterfall_js_feature/)
-- [[AskJS] Team lead asks to revert small improvements](https://www.reddit.com/r/javascript/comments/p7i19j/askjs_team_lead_asks_to_revert_small_improvements/)
-- [JavaScript vs JavaScript. Fight! MPA vs SPA, React vs Reactivity, VDOM vs No VDOM and more](https://www.reddit.com/r/javascript/comments/p7g0i2/javascript_vs_javascript_fight_mpa_vs_spa_react/)
+- [[AskJS] Did you know Array.prototype.fill(<object>) fills with *references*?](https://www.reddit.com/r/javascript/comments/p8czv6/askjs_did_you_know_arrayprototypefillobject_fills/)
+- [Clivern/Minion: Single Page Application Boilerplate.](https://www.reddit.com/r/javascript/comments/p8cp66/clivernminion_single_page_application_boilerplate/)
+- [[AskJS] Basic loop newbie problem](https://www.reddit.com/r/javascript/comments/p8cga9/askjs_basic_loop_newbie_problem/)
+- [Meater Monitor - Tiny app to monitor Meater thermometers](https://www.reddit.com/r/javascript/comments/p8aqv8/meater_monitor_tiny_app_to_monitor_meater/)
+- [15 Modern ES6 Snippets For JavaScript](https://www.reddit.com/r/javascript/comments/p87z2y/15_modern_es6_snippets_for_javascript/)
+- [Optimizing React apps: Hardcore edition](https://www.reddit.com/r/javascript/comments/p87n3r/optimizing_react_apps_hardcore_edition/)
+- [Smooth and simple page transitions with the shared element transition API](https://www.reddit.com/r/javascript/comments/p86ap5/smooth_and_simple_page_transitions_with_the/)
+- [core.js Lightweight framework for scalable applications](https://www.reddit.com/r/javascript/comments/p83ir0/corejs_lightweight_framework_for_scalable/)
+- [The best frontend development strategies in 2022](https://www.reddit.com/r/javascript/comments/p81czz/the_best_frontend_development_strategies_in_2022/)
+- [[AskJS] Is "var" keyword considered legacy in JavaScript at present?](https://www.reddit.com/r/javascript/comments/p7xc62/askjs_is_var_keyword_considered_legacy_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
