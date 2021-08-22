@@ -274,16 +274,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Pitch Shifting with exemple piano from only one note](https://www.reddit.com/r/javascript/comments/p8vadg/pitch_shifting_with_exemple_piano_from_only_one/)
+- [Mindows: a minimal Operating system in browser made using React](https://www.reddit.com/r/javascript/comments/p8qb55/mindows_a_minimal_operating_system_in_browser/)
+- [EfficientNet - image recognition and object detection model written in node and typescript](https://www.reddit.com/r/javascript/comments/p8oxsb/efficientnet_image_recognition_and_object/)
+- [Open Source eMarket Online Store (PHP + JS). I ask you to evaluate the project and give constructive criticism on the JS code. )](https://www.reddit.com/r/javascript/comments/p8owqj/open_source_emarket_online_store_php_js_i_ask_you/)
+- [Microsoft and Google have collaborated to bring native support for CSS modules to Chromium, available in Edge and Chrome 93.](https://www.reddit.com/r/javascript/comments/p8oujq/microsoft_and_google_have_collaborated_to_bring/)
+- [Showoff Saturday (August 21, 2021)](https://www.reddit.com/r/javascript/comments/p8mvml/showoff_saturday_august_21_2021/)
 - [[AskJS] Did you know Array.prototype.fill(<object>) fills with *references*?](https://www.reddit.com/r/javascript/comments/p8czv6/askjs_did_you_know_arrayprototypefillobject_fills/)
 - [Clivern/Minion: Single Page Application Boilerplate.](https://www.reddit.com/r/javascript/comments/p8cp66/clivernminion_single_page_application_boilerplate/)
-- [[AskJS] Basic loop newbie problem](https://www.reddit.com/r/javascript/comments/p8cga9/askjs_basic_loop_newbie_problem/)
 - [Meater Monitor - Tiny app to monitor Meater thermometers](https://www.reddit.com/r/javascript/comments/p8aqv8/meater_monitor_tiny_app_to_monitor_meater/)
 - [15 Modern ES6 Snippets For JavaScript](https://www.reddit.com/r/javascript/comments/p87z2y/15_modern_es6_snippets_for_javascript/)
-- [Optimizing React apps: Hardcore edition](https://www.reddit.com/r/javascript/comments/p87n3r/optimizing_react_apps_hardcore_edition/)
-- [Smooth and simple page transitions with the shared element transition API](https://www.reddit.com/r/javascript/comments/p86ap5/smooth_and_simple_page_transitions_with_the/)
-- [core.js Lightweight framework for scalable applications](https://www.reddit.com/r/javascript/comments/p83ir0/corejs_lightweight_framework_for_scalable/)
-- [The best frontend development strategies in 2022](https://www.reddit.com/r/javascript/comments/p81czz/the_best_frontend_development_strategies_in_2022/)
-- [[AskJS] Is "var" keyword considered legacy in JavaScript at present?](https://www.reddit.com/r/javascript/comments/p7xc62/askjs_is_var_keyword_considered_legacy_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
