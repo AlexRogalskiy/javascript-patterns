@@ -274,6 +274,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [GSlides Maker: Generate Google Presentations from Wikipedia articles](https://www.reddit.com/r/javascript/comments/p9nkd6/gslides_maker_generate_google_presentations_from/)
+- [Modern web apps without JavaScript bundling or transpiling](https://www.reddit.com/r/javascript/comments/p9iwac/modern_web_apps_without_javascript_bundling_or/)
+- [ls-lint just reached the 500 000 npm downloads - road to 1 million!](https://www.reddit.com/r/javascript/comments/p9ehwb/lslint_just_reached_the_500_000_npm_downloads/)
 - [Pitch Shifting with exemple piano from only one note](https://www.reddit.com/r/javascript/comments/p8vadg/pitch_shifting_with_exemple_piano_from_only_one/)
 - [Mindows: a minimal Operating system in browser made using React](https://www.reddit.com/r/javascript/comments/p8qb55/mindows_a_minimal_operating_system_in_browser/)
 - [EfficientNet - image recognition and object detection model written in node and typescript](https://www.reddit.com/r/javascript/comments/p8oxsb/efficientnet_image_recognition_and_object/)
@@ -281,9 +284,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Microsoft and Google have collaborated to bring native support for CSS modules to Chromium, available in Edge and Chrome 93.](https://www.reddit.com/r/javascript/comments/p8oujq/microsoft_and_google_have_collaborated_to_bring/)
 - [Showoff Saturday (August 21, 2021)](https://www.reddit.com/r/javascript/comments/p8mvml/showoff_saturday_august_21_2021/)
 - [[AskJS] Did you know Array.prototype.fill(<object>) fills with *references*?](https://www.reddit.com/r/javascript/comments/p8czv6/askjs_did_you_know_arrayprototypefillobject_fills/)
-- [Clivern/Minion: Single Page Application Boilerplate.](https://www.reddit.com/r/javascript/comments/p8cp66/clivernminion_single_page_application_boilerplate/)
-- [Meater Monitor - Tiny app to monitor Meater thermometers](https://www.reddit.com/r/javascript/comments/p8aqv8/meater_monitor_tiny_app_to_monitor_meater/)
-- [15 Modern ES6 Snippets For JavaScript](https://www.reddit.com/r/javascript/comments/p87z2y/15_modern_es6_snippets_for_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
