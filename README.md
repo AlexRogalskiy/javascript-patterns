@@ -274,16 +274,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I implemented a Windows like GUI in JavaScript on CANVAS. It allows to create, move, resize windows as well as interact with the content. Probably can be extended to simulate a real OS. Press "Play" button in the editor to run.](https://www.reddit.com/r/javascript/comments/pad43v/i_implemented_a_windows_like_gui_in_javascript_on/)
+- [You Don’t Need Npm Scripts](https://www.reddit.com/r/javascript/comments/pac1a3/you_dont_need_npm_scripts/)
+- [I implemented raycasting algorithm in React that renders scene using only HTML divs (no canvas), renders as text in textarea or browser console (works nice in Chrome). In div mode it has textures, sprites and primitive lighting system](https://www.reddit.com/r/javascript/comments/pa9jtf/i_implemented_raycasting_algorithm_in_react_that/)
+- [Getting started with React Cosmos](https://www.reddit.com/r/javascript/comments/pa7a9e/getting_started_with_react_cosmos/)
+- [[AskJS] What is going on with all websites in JS this decade and being so complicated (compared to 1990s)?](https://www.reddit.com/r/javascript/comments/pa73t6/askjs_what_is_going_on_with_all_websites_in_js/)
+- [[AskJS] how can i generate random symmetrical shapes on a canvas or svg?](https://www.reddit.com/r/javascript/comments/p9wial/askjs_how_can_i_generate_random_symmetrical/)
+- [Hello World! today I published v5 of tiny-schema-validator, I would love to hear your feedback.](https://www.reddit.com/r/javascript/comments/p9vgha/hello_world_today_i_published_v5_of/)
+- [[AskJS] Where are simple 2D/3D non-Geo, non-fancy libraries to be found ?!](https://www.reddit.com/r/javascript/comments/p9vfry/askjs_where_are_simple_2d3d_nongeo_nonfancy/)
 - [GSlides Maker: Generate Google Presentations from Wikipedia articles](https://www.reddit.com/r/javascript/comments/p9nkd6/gslides_maker_generate_google_presentations_from/)
 - [Modern web apps without JavaScript bundling or transpiling](https://www.reddit.com/r/javascript/comments/p9iwac/modern_web_apps_without_javascript_bundling_or/)
-- [ls-lint just reached the 500 000 npm downloads - road to 1 million!](https://www.reddit.com/r/javascript/comments/p9ehwb/lslint_just_reached_the_500_000_npm_downloads/)
-- [Pitch Shifting with exemple piano from only one note](https://www.reddit.com/r/javascript/comments/p8vadg/pitch_shifting_with_exemple_piano_from_only_one/)
-- [Mindows: a minimal Operating system in browser made using React](https://www.reddit.com/r/javascript/comments/p8qb55/mindows_a_minimal_operating_system_in_browser/)
-- [EfficientNet - image recognition and object detection model written in node and typescript](https://www.reddit.com/r/javascript/comments/p8oxsb/efficientnet_image_recognition_and_object/)
-- [Open Source eMarket Online Store (PHP + JS). I ask you to evaluate the project and give constructive criticism on the JS code. )](https://www.reddit.com/r/javascript/comments/p8owqj/open_source_emarket_online_store_php_js_i_ask_you/)
-- [Microsoft and Google have collaborated to bring native support for CSS modules to Chromium, available in Edge and Chrome 93.](https://www.reddit.com/r/javascript/comments/p8oujq/microsoft_and_google_have_collaborated_to_bring/)
-- [Showoff Saturday (August 21, 2021)](https://www.reddit.com/r/javascript/comments/p8mvml/showoff_saturday_august_21_2021/)
-- [[AskJS] Did you know Array.prototype.fill(<object>) fills with *references*?](https://www.reddit.com/r/javascript/comments/p8czv6/askjs_did_you_know_arrayprototypefillobject_fills/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
