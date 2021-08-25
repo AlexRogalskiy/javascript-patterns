@@ -274,16 +274,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The npm registry is deprecating TLS 1.0 and TLS 1.1 | The GitHub Blog](https://www.reddit.com/r/javascript/comments/paty3w/the_npm_registry_is_deprecating_tls_10_and_tls_11/)
+- [Power of console.table() in JavaScript](https://www.reddit.com/r/javascript/comments/paq79j/power_of_consoletable_in_javascript/)
+- [What's New In DevTools (Chrome 94) - Chrome Developers](https://www.reddit.com/r/javascript/comments/paoj1a/whats_new_in_devtools_chrome_94_chrome_developers/)
+- [[AskJS] API design from a client perspective, which do you prefer? A property which may be null or a string, or a potentially undefined property which will never be null?](https://www.reddit.com/r/javascript/comments/paobin/askjs_api_design_from_a_client_perspective_which/)
+- [Design Patterns in JavaScript](https://www.reddit.com/r/javascript/comments/paiwz2/design_patterns_in_javascript/)
+- [Speeding up IndexedDB reads and writes](https://www.reddit.com/r/javascript/comments/pah6c4/speeding_up_indexeddb_reads_and_writes/)
 - [I implemented a Windows like GUI in JavaScript on CANVAS. It allows to create, move, resize windows as well as interact with the content. Probably can be extended to simulate a real OS. Press "Play" button in the editor to run.](https://www.reddit.com/r/javascript/comments/pad43v/i_implemented_a_windows_like_gui_in_javascript_on/)
 - [You Don’t Need Npm Scripts](https://www.reddit.com/r/javascript/comments/pac1a3/you_dont_need_npm_scripts/)
 - [I implemented raycasting algorithm in React that renders scene using only HTML divs (no canvas), renders as text in textarea or browser console (works nice in Chrome). In div mode it has textures, sprites and primitive lighting system](https://www.reddit.com/r/javascript/comments/pa9jtf/i_implemented_raycasting_algorithm_in_react_that/)
 - [Getting started with React Cosmos](https://www.reddit.com/r/javascript/comments/pa7a9e/getting_started_with_react_cosmos/)
-- [[AskJS] What is going on with all websites in JS this decade and being so complicated (compared to 1990s)?](https://www.reddit.com/r/javascript/comments/pa73t6/askjs_what_is_going_on_with_all_websites_in_js/)
-- [[AskJS] how can i generate random symmetrical shapes on a canvas or svg?](https://www.reddit.com/r/javascript/comments/p9wial/askjs_how_can_i_generate_random_symmetrical/)
-- [Hello World! today I published v5 of tiny-schema-validator, I would love to hear your feedback.](https://www.reddit.com/r/javascript/comments/p9vgha/hello_world_today_i_published_v5_of/)
-- [[AskJS] Where are simple 2D/3D non-Geo, non-fancy libraries to be found ?!](https://www.reddit.com/r/javascript/comments/p9vfry/askjs_where_are_simple_2d3d_nongeo_nonfancy/)
-- [GSlides Maker: Generate Google Presentations from Wikipedia articles](https://www.reddit.com/r/javascript/comments/p9nkd6/gslides_maker_generate_google_presentations_from/)
-- [Modern web apps without JavaScript bundling or transpiling](https://www.reddit.com/r/javascript/comments/p9iwac/modern_web_apps_without_javascript_bundling_or/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
