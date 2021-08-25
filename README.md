@@ -297,7 +297,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [How to use FilePond with Node.js](https://www.infoworld.com/article/3627248/how-to-use-filepond-with-nodejs.html#tk.rss_javascript)
 - [GraalVM adds Native Image, compiler enhancements](https://www.infoworld.com/article/3626402/graalvm-adds-native-image-compiler-enhancements.html#tk.rss_javascript)
 - [SolidJS creator: JavaScript innovation isn’t slowing down](https://www.infoworld.com/article/3626348/solidjs-creator-javascript-innovation-isnt-slowing-down.html#tk.rss_javascript)
-- [Shouldn’t you be using CodeSandbox?](https://www.infoworld.com/article/3624630/shouldnt-you-be-using-codesandbox.html#tk.rss_javascript)
+- [Get started with CodeSandbox](https://www.infoworld.com/article/3624630/get-started-with-codesandbox.html#tk.rss_javascript)
 - [What’s new in Angular 12](https://www.infoworld.com/article/3607428/whats-new-in-angular-12.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
