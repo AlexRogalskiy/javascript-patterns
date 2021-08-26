@@ -274,16 +274,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kyle Simpson just launched a Kickstarter for "You Don't Know JS Yet" 2nd edition books](https://www.reddit.com/r/javascript/comments/pbg4h3/kyle_simpson_just_launched_a_kickstarter_for_you/)
+- [I made a website that shows you what traces your browser leaves behind while surfing the web. This was my first react project so I'd appreciate any feedback on the code. (GitHub in comments)](https://www.reddit.com/r/javascript/comments/pbenma/i_made_a_website_that_shows_you_what_traces_your/)
+- [Developing OO a webpage rendering lib (just for fun)](https://www.reddit.com/r/javascript/comments/pbch52/developing_oo_a_webpage_rendering_lib_just_for_fun/)
+- [JS Tech Stack to build a SaaS in 2021 as a team of one-man with Next JS, TypeScript and Serverless](https://www.reddit.com/r/javascript/comments/pbc1bl/js_tech_stack_to_build_a_saas_in_2021_as_a_team/)
+- [can a virtualdom beat solid js? introducing blockdom, a fast virtualdom library](https://www.reddit.com/r/javascript/comments/pb83do/can_a_virtualdom_beat_solid_js_introducing/)
+- [I created a simple package to send browser console log to terminal](https://www.reddit.com/r/javascript/comments/pb6jur/i_created_a_simple_package_to_send_browser/)
+- [Define a web 4.0 app to be multi threaded](https://www.reddit.com/r/javascript/comments/pb6i4d/define_a_web_40_app_to_be_multi_threaded/)
+- [WTF Wednesday (August 25, 2021)](https://www.reddit.com/r/javascript/comments/pb5z5q/wtf_wednesday_august_25_2021/)
 - [The npm registry is deprecating TLS 1.0 and TLS 1.1 | The GitHub Blog](https://www.reddit.com/r/javascript/comments/paty3w/the_npm_registry_is_deprecating_tls_10_and_tls_11/)
 - [Power of console.table() in JavaScript](https://www.reddit.com/r/javascript/comments/paq79j/power_of_consoletable_in_javascript/)
-- [What's New In DevTools (Chrome 94) - Chrome Developers](https://www.reddit.com/r/javascript/comments/paoj1a/whats_new_in_devtools_chrome_94_chrome_developers/)
-- [[AskJS] API design from a client perspective, which do you prefer? A property which may be null or a string, or a potentially undefined property which will never be null?](https://www.reddit.com/r/javascript/comments/paobin/askjs_api_design_from_a_client_perspective_which/)
-- [Design Patterns in JavaScript](https://www.reddit.com/r/javascript/comments/paiwz2/design_patterns_in_javascript/)
-- [Speeding up IndexedDB reads and writes](https://www.reddit.com/r/javascript/comments/pah6c4/speeding_up_indexeddb_reads_and_writes/)
-- [I implemented a Windows like GUI in JavaScript on CANVAS. It allows to create, move, resize windows as well as interact with the content. Probably can be extended to simulate a real OS. Press "Play" button in the editor to run.](https://www.reddit.com/r/javascript/comments/pad43v/i_implemented_a_windows_like_gui_in_javascript_on/)
-- [You Don’t Need Npm Scripts](https://www.reddit.com/r/javascript/comments/pac1a3/you_dont_need_npm_scripts/)
-- [I implemented raycasting algorithm in React that renders scene using only HTML divs (no canvas), renders as text in textarea or browser console (works nice in Chrome). In div mode it has textures, sprites and primitive lighting system](https://www.reddit.com/r/javascript/comments/pa9jtf/i_implemented_raycasting_algorithm_in_react_that/)
-- [Getting started with React Cosmos](https://www.reddit.com/r/javascript/comments/pa7a9e/getting_started_with_react_cosmos/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
