@@ -274,16 +274,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Kyle Simpson just launched a Kickstarter for "You Don't Know JS Yet" 2nd edition books](https://www.reddit.com/r/javascript/comments/pbg4h3/kyle_simpson_just_launched_a_kickstarter_for_you/)
-- [I made a website that shows you what traces your browser leaves behind while surfing the web. This was my first react project so I'd appreciate any feedback on the code. (GitHub in comments)](https://www.reddit.com/r/javascript/comments/pbenma/i_made_a_website_that_shows_you_what_traces_your/)
-- [Developing OO a webpage rendering lib (just for fun)](https://www.reddit.com/r/javascript/comments/pbch52/developing_oo_a_webpage_rendering_lib_just_for_fun/)
-- [JS Tech Stack to build a SaaS in 2021 as a team of one-man with Next JS, TypeScript and Serverless](https://www.reddit.com/r/javascript/comments/pbc1bl/js_tech_stack_to_build_a_saas_in_2021_as_a_team/)
-- [can a virtualdom beat solid js? introducing blockdom, a fast virtualdom library](https://www.reddit.com/r/javascript/comments/pb83do/can_a_virtualdom_beat_solid_js_introducing/)
-- [I created a simple package to send browser console log to terminal](https://www.reddit.com/r/javascript/comments/pb6jur/i_created_a_simple_package_to_send_browser/)
-- [Define a web 4.0 app to be multi threaded](https://www.reddit.com/r/javascript/comments/pb6i4d/define_a_web_40_app_to_be_multi_threaded/)
-- [WTF Wednesday (August 25, 2021)](https://www.reddit.com/r/javascript/comments/pb5z5q/wtf_wednesday_august_25_2021/)
-- [The npm registry is deprecating TLS 1.0 and TLS 1.1 | The GitHub Blog](https://www.reddit.com/r/javascript/comments/paty3w/the_npm_registry_is_deprecating_tls_10_and_tls_11/)
-- [Power of console.table() in JavaScript](https://www.reddit.com/r/javascript/comments/paq79j/power_of_consoletable_in_javascript/)
+- [NetworkCluster: Create Multi-Machine Network Clusters With A Simple-To-Use API](https://www.reddit.com/r/javascript/comments/pcange/networkcluster_create_multimachine_network/)
+- [GitHub - xieyuheng/ty: Here is a schema checker which can return well typed results. Tell your friends!](https://www.reddit.com/r/javascript/comments/pcajc9/github_xieyuhengty_here_is_a_schema_checker_which/)
+- [I built an extension to manage my inspiration from Dribbble, Behance, and Uplabs. (React + TailwindCss)](https://www.reddit.com/r/javascript/comments/pc9axf/i_built_an_extension_to_manage_my_inspiration/)
+- [Announcing TypeScript 4.4](https://www.reddit.com/r/javascript/comments/pc8zt5/announcing_typescript_44/)
+- [Configurable Matrix Rain Effect as NPM package](https://www.reddit.com/r/javascript/comments/pc7xdt/configurable_matrix_rain_effect_as_npm_package/)
+- [I made a tool to sync your Accepted Leetcode submission with github repository.](https://www.reddit.com/r/javascript/comments/pc6ohm/i_made_a_tool_to_sync_your_accepted_leetcode/)
+- [[AskJS] Why does spacebar scroll down in multiple little jumps?](https://www.reddit.com/r/javascript/comments/pc497v/askjs_why_does_spacebar_scroll_down_in_multiple/)
+- [Narrat - The interactive game engine](https://www.reddit.com/r/javascript/comments/pc3u5j/narrat_the_interactive_game_engine/)
+- [Decide between TS and JS by comparing runtime monitoring to type systems](https://www.reddit.com/r/javascript/comments/pc2duf/decide_between_ts_and_js_by_comparing_runtime/)
+- [EsNext features in TypeScript with Babel](https://www.reddit.com/r/javascript/comments/pc1ppf/esnext_features_in_typescript_with_babel/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
