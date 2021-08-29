@@ -274,16 +274,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I Built A $300K/Year Vue.js Component Library](https://www.reddit.com/r/javascript/comments/pcw4uc/i_built_a_300kyear_vuejs_component_library/)
-- [A JavaScript and MongoDB toolkit to analyze the HHS VAERS dataset](https://www.reddit.com/r/javascript/comments/pcvkfy/a_javascript_and_mongodb_toolkit_to_analyze_the/)
-- [Multistep Forms in React with Awesome UX, Part Two: Accessibility](https://www.reddit.com/r/javascript/comments/pcszkz/multistep_forms_in_react_with_awesome_ux_part_two/)
-- [[AskJS] Do you ever needed child_process with inherited stdin, while processing(piped) stdout?](https://www.reddit.com/r/javascript/comments/pcoam7/askjs_do_you_ever_needed_child_process_with/)
-- [Tree data structure in JS: recursive and iterative traversal](https://www.reddit.com/r/javascript/comments/pcnkf4/tree_data_structure_in_js_recursive_and_iterative/)
-- [NetworkCluster: Create Multi-Machine Network Clusters With A Simple-To-Use API](https://www.reddit.com/r/javascript/comments/pcange/networkcluster_create_multimachine_network/)
-- [GitHub - xieyuheng/ty: Here is a schema checker which can return well typed results. Tell your friends!](https://www.reddit.com/r/javascript/comments/pcajc9/github_xieyuhengty_here_is_a_schema_checker_which/)
-- [I built an extension to manage my inspiration from Dribbble, Behance, and Uplabs. (React + TailwindCss)](https://www.reddit.com/r/javascript/comments/pc9axf/i_built_an_extension_to_manage_my_inspiration/)
-- [Announcing TypeScript 4.4](https://www.reddit.com/r/javascript/comments/pc8zt5/announcing_typescript_44/)
-- [Configurable Matrix Rain Effect as NPM package](https://www.reddit.com/r/javascript/comments/pc7xdt/configurable_matrix_rain_effect_as_npm_package/)
+- [[AskJS] Why is scrolltop sometimes smaller or bigger than scrollhight?](https://www.reddit.com/r/javascript/comments/pdl2sq/askjs_why_is_scrolltop_sometimes_smaller_or/)
+- [AxleJS - Fetch, supercharged.](https://www.reddit.com/r/javascript/comments/pdkcn7/axlejs_fetch_supercharged/)
+- [[AskJS] What is the best canvas library to make an app like figma or integromat?](https://www.reddit.com/r/javascript/comments/pdib99/askjs_what_is_the_best_canvas_library_to_make_an/)
+- [Just published my first npm package! KWIC, or Keywords In Contexts. It's also my first serious Typescript package. It was a nice journey over the past few months.](https://www.reddit.com/r/javascript/comments/pdhk92/just_published_my_first_npm_package_kwic_or/)
+- [I created a "JS Defense" coding challenge game](https://www.reddit.com/r/javascript/comments/pdhaar/i_created_a_js_defense_coding_challenge_game/)
+- [Run Transformers models directly in JavaScript with ONNX](https://www.reddit.com/r/javascript/comments/pd7y0a/run_transformers_models_directly_in_javascript/)
+- [[AskJS] Optional maximum evaluation time for RegExp](https://www.reddit.com/r/javascript/comments/pd7pft/askjs_optional_maximum_evaluation_time_for_regexp/)
+- [Naming Variables, Functions and Classes in JavaScript](https://www.reddit.com/r/javascript/comments/pd7i8d/naming_variables_functions_and_classes_in/)
+- [Showoff Saturday (August 28, 2021)](https://www.reddit.com/r/javascript/comments/pd53t6/showoff_saturday_august_28_2021/)
+- [Tree data structure in JS (Part 2): efficient traversal using parent pointer](https://www.reddit.com/r/javascript/comments/pd4oks/tree_data_structure_in_js_part_2_efficient/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
