@@ -289,8 +289,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
-- [12 hot language projects riding WebAssembly](https://www.infoworld.com/article/3619608/12-hot-language-projects-riding-webassembly.html#tk.rss_javascript)
 - [An early look at SvelteKit](https://www.infoworld.com/article/3630395/an-early-look-at-sveltekit.html#tk.rss_javascript)
+- [12 hot language projects riding WebAssembly](https://www.infoworld.com/article/3619608/12-hot-language-projects-riding-webassembly.html#tk.rss_javascript)
 - [How to use Auth0 with Node.js and Express](https://www.infoworld.com/article/3629129/how-to-use-auth0-with-nodejs-and-express.html#tk.rss_javascript)
 - [TypeScript 4.4 brings performance boosts](https://www.infoworld.com/article/3626459/typescript-44-brings-performance-boosts.html#tk.rss_javascript)
 - [Angular 13 begins to take shape](https://www.infoworld.com/article/3629473/angular-13-begins-to-take-shape.html#tk.rss_javascript)
