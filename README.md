@@ -274,16 +274,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Functional Programming Using JavaScript](https://www.reddit.com/r/javascript/comments/pdyzyw/functional_programming_using_javascript/)
+- [I have created a robot that generates Google presentations from Wikipedia article](https://www.reddit.com/r/javascript/comments/pdyo4v/i_have_created_a_robot_that_generates_google/)
+- [How to set up ES module library for the frontend JavaScript](https://www.reddit.com/r/javascript/comments/pdyga5/how_to_set_up_es_module_library_for_the_frontend/)
+- [Web game controller demo](https://www.reddit.com/r/javascript/comments/pdwxz6/web_game_controller_demo/)
+- [If you want to get inspiration from real world](https://www.reddit.com/r/javascript/comments/pdrliz/if_you_want_to_get_inspiration_from_real_world/)
+- [Memoizing async functions in JavaScript](https://www.reddit.com/r/javascript/comments/pdraib/memoizing_async_functions_in_javascript/)
 - [[AskJS] Why is scrolltop sometimes smaller or bigger than scrollhight?](https://www.reddit.com/r/javascript/comments/pdl2sq/askjs_why_is_scrolltop_sometimes_smaller_or/)
 - [AxleJS - Fetch, supercharged.](https://www.reddit.com/r/javascript/comments/pdkcn7/axlejs_fetch_supercharged/)
 - [[AskJS] What is the best canvas library to make an app like figma or integromat?](https://www.reddit.com/r/javascript/comments/pdib99/askjs_what_is_the_best_canvas_library_to_make_an/)
-- [Just published my first npm package! KWIC, or Keywords In Contexts. It's also my first serious Typescript package. It was a nice journey over the past few months.](https://www.reddit.com/r/javascript/comments/pdhk92/just_published_my_first_npm_package_kwic_or/)
 - [I created a "JS Defense" coding challenge game](https://www.reddit.com/r/javascript/comments/pdhaar/i_created_a_js_defense_coding_challenge_game/)
-- [Run Transformers models directly in JavaScript with ONNX](https://www.reddit.com/r/javascript/comments/pd7y0a/run_transformers_models_directly_in_javascript/)
-- [[AskJS] Optional maximum evaluation time for RegExp](https://www.reddit.com/r/javascript/comments/pd7pft/askjs_optional_maximum_evaluation_time_for_regexp/)
-- [Naming Variables, Functions and Classes in JavaScript](https://www.reddit.com/r/javascript/comments/pd7i8d/naming_variables_functions_and_classes_in/)
-- [Showoff Saturday (August 28, 2021)](https://www.reddit.com/r/javascript/comments/pd53t6/showoff_saturday_august_28_2021/)
-- [Tree data structure in JS (Part 2): efficient traversal using parent pointer](https://www.reddit.com/r/javascript/comments/pd4oks/tree_data_structure_in_js_part_2_efficient/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
