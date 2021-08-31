@@ -274,16 +274,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Functional Programming Using JavaScript](https://www.reddit.com/r/javascript/comments/pdyzyw/functional_programming_using_javascript/)
-- [I have created a robot that generates Google presentations from Wikipedia article](https://www.reddit.com/r/javascript/comments/pdyo4v/i_have_created_a_robot_that_generates_google/)
-- [How to set up ES module library for the frontend JavaScript](https://www.reddit.com/r/javascript/comments/pdyga5/how_to_set_up_es_module_library_for_the_frontend/)
-- [Web game controller demo](https://www.reddit.com/r/javascript/comments/pdwxz6/web_game_controller_demo/)
-- [If you want to get inspiration from real world](https://www.reddit.com/r/javascript/comments/pdrliz/if_you_want_to_get_inspiration_from_real_world/)
-- [Memoizing async functions in JavaScript](https://www.reddit.com/r/javascript/comments/pdraib/memoizing_async_functions_in_javascript/)
-- [[AskJS] Why is scrolltop sometimes smaller or bigger than scrollhight?](https://www.reddit.com/r/javascript/comments/pdl2sq/askjs_why_is_scrolltop_sometimes_smaller_or/)
-- [AxleJS - Fetch, supercharged.](https://www.reddit.com/r/javascript/comments/pdkcn7/axlejs_fetch_supercharged/)
-- [[AskJS] What is the best canvas library to make an app like figma or integromat?](https://www.reddit.com/r/javascript/comments/pdib99/askjs_what_is_the_best_canvas_library_to_make_an/)
-- [I created a "JS Defense" coding challenge game](https://www.reddit.com/r/javascript/comments/pdhaar/i_created_a_js_defense_coding_challenge_game/)
+- [Multistep Forms in React with Awesome UX – Part Three: Animations](https://www.reddit.com/r/javascript/comments/petb0b/multistep_forms_in_react_with_awesome_ux_part/)
+- [What Are Proper Use Cases For Snapshot Testing React Components?](https://www.reddit.com/r/javascript/comments/pesgq0/what_are_proper_use_cases_for_snapshot_testing/)
+- [[AskJS] js excerises resources](https://www.reddit.com/r/javascript/comments/pernp3/askjs_js_excerises_resources/)
+- [Hi. I have created open source login app using angular and firebase. You can use all of the codes from the github. If you like, do not forget to give a star :)](https://www.reddit.com/r/javascript/comments/per79q/hi_i_have_created_open_source_login_app_using/)
+- [Building a real-time Todo app with Drayman, MongoDB and Tailwind CSS](https://www.reddit.com/r/javascript/comments/peprmd/building_a_realtime_todo_app_with_drayman_mongodb/)
+- [Uppy File Uploader 2.0: smaller and faster, modular plugins, Preact X, stricter TypeScript types, batch pre-signing URLs for AWS S3 Multipart, and much more](https://www.reddit.com/r/javascript/comments/penbr7/uppy_file_uploader_20_smaller_and_faster_modular/)
+- [How I create in-memory DOM in JS?](https://www.reddit.com/r/javascript/comments/pejrv3/how_i_create_inmemory_dom_in_js/)
+- [New V8 non-optimising compiler and a story behind it: meet the Sparkplug. That would be interesting to all JS devs.](https://www.reddit.com/r/javascript/comments/peivdo/new_v8_nonoptimising_compiler_and_a_story_behind/)
+- [TSConfig Paths Babel Plugin: Use tsconfig-paths in any bundler that supports a custom babel config.](https://www.reddit.com/r/javascript/comments/pei9jj/tsconfig_paths_babel_plugin_use_tsconfigpaths_in/)
+- [exatorrent - Self-hostable , easy-to-use , lightweight and feature-rich torrent client written using SvelteJS (+Typescript)](https://www.reddit.com/r/javascript/comments/peh2cx/exatorrent_selfhostable_easytouse_lightweight_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
