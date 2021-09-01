@@ -274,16 +274,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Multistep Forms in React with Awesome UX – Part Three: Animations](https://www.reddit.com/r/javascript/comments/petb0b/multistep_forms_in_react_with_awesome_ux_part/)
-- [What Are Proper Use Cases For Snapshot Testing React Components?](https://www.reddit.com/r/javascript/comments/pesgq0/what_are_proper_use_cases_for_snapshot_testing/)
-- [[AskJS] js excerises resources](https://www.reddit.com/r/javascript/comments/pernp3/askjs_js_excerises_resources/)
-- [Hi. I have created open source login app using angular and firebase. You can use all of the codes from the github. If you like, do not forget to give a star :)](https://www.reddit.com/r/javascript/comments/per79q/hi_i_have_created_open_source_login_app_using/)
-- [Building a real-time Todo app with Drayman, MongoDB and Tailwind CSS](https://www.reddit.com/r/javascript/comments/peprmd/building_a_realtime_todo_app_with_drayman_mongodb/)
-- [Uppy File Uploader 2.0: smaller and faster, modular plugins, Preact X, stricter TypeScript types, batch pre-signing URLs for AWS S3 Multipart, and much more](https://www.reddit.com/r/javascript/comments/penbr7/uppy_file_uploader_20_smaller_and_faster_modular/)
-- [How I create in-memory DOM in JS?](https://www.reddit.com/r/javascript/comments/pejrv3/how_i_create_inmemory_dom_in_js/)
-- [New V8 non-optimising compiler and a story behind it: meet the Sparkplug. That would be interesting to all JS devs.](https://www.reddit.com/r/javascript/comments/peivdo/new_v8_nonoptimising_compiler_and_a_story_behind/)
-- [TSConfig Paths Babel Plugin: Use tsconfig-paths in any bundler that supports a custom babel config.](https://www.reddit.com/r/javascript/comments/pei9jj/tsconfig_paths_babel_plugin_use_tsconfigpaths_in/)
-- [exatorrent - Self-hostable , easy-to-use , lightweight and feature-rich torrent client written using SvelteJS (+Typescript)](https://www.reddit.com/r/javascript/comments/peh2cx/exatorrent_selfhostable_easytouse_lightweight_and/)
+- [[AskJS] Is there an easy way to get an input to float above the virtual keyboard on mobile?](https://www.reddit.com/r/javascript/comments/pfdrpy/askjs_is_there_an_easy_way_to_get_an_input_to/)
+- [Taking Marko's Tags API for a Test Drive](https://www.reddit.com/r/javascript/comments/pfddwd/taking_markos_tags_api_for_a_test_drive/)
+- [[AskJS] Experiences with Nx for Javascript monorepo](https://www.reddit.com/r/javascript/comments/pfb6x2/askjs_experiences_with_nx_for_javascript_monorepo/)
+- [Open source, fully client side JSFiddle alternative designed for mobile with offline support](https://www.reddit.com/r/javascript/comments/pfat5r/open_source_fully_client_side_jsfiddle/)
+- [Can you guys rate my GitHub profile? I've just started to look for first junior job and I'm wondering how can I improve my profile to make it look better for employers. Mostly JS/React](https://www.reddit.com/r/javascript/comments/pfa75y/can_you_guys_rate_my_github_profile_ive_just/)
+- [5 Cool Modern JavaScript Features Most Developers Don’t Know](https://www.reddit.com/r/javascript/comments/pf9nmf/5_cool_modern_javascript_features_most_developers/)
+- [[AskJS] How do you feel about working on HTML/CSS tasks?](https://www.reddit.com/r/javascript/comments/pf8lo4/askjs_how_do_you_feel_about_working_on_htmlcss/)
+- [[AskJS] Are npm and npx the same?](https://www.reddit.com/r/javascript/comments/pf7d7i/askjs_are_npm_and_npx_the_same/)
+- [[AskJS] share one simple javascript tip you use as an alternative to a longer solution](https://www.reddit.com/r/javascript/comments/pf5m13/askjs_share_one_simple_javascript_tip_you_use_as/)
+- [The google/zx now supports both CJS and ESM](https://www.reddit.com/r/javascript/comments/pf3ar3/the_googlezx_now_supports_both_cjs_and_esm/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
