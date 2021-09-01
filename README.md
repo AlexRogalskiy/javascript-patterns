@@ -289,8 +289,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
-- [12 hot language projects riding WebAssembly](https://www.infoworld.com/article/3619608/12-hot-language-projects-riding-webassembly.html#tk.rss_javascript)
+- [Deno 1.13 emphasizes HTTP server API stability](https://www.infoworld.com/article/3631536/deno-113-emphasizes-http-server-api-stability.html#tk.rss_javascript)
 - [An early look at SvelteKit](https://www.infoworld.com/article/3630395/an-early-look-at-sveltekit.html#tk.rss_javascript)
+- [12 hot language projects riding WebAssembly](https://www.infoworld.com/article/3619608/12-hot-language-projects-riding-webassembly.html#tk.rss_javascript)
 - [How to use Auth0 with Node.js and Express](https://www.infoworld.com/article/3629129/how-to-use-auth0-with-nodejs-and-express.html#tk.rss_javascript)
 - [TypeScript 4.4 brings performance boosts](https://www.infoworld.com/article/3626459/typescript-44-brings-performance-boosts.html#tk.rss_javascript)
 - [Angular 13 begins to take shape](https://www.infoworld.com/article/3629473/angular-13-begins-to-take-shape.html#tk.rss_javascript)
@@ -298,7 +299,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Vue 3.2 promises a speed boost](https://www.infoworld.com/article/3629089/vue-32-promises-speed-boost.html#tk.rss_javascript)
 - [How to use FilePond with Node.js](https://www.infoworld.com/article/3627248/how-to-use-filepond-with-nodejs.html#tk.rss_javascript)
 - [GraalVM adds Native Image, compiler enhancements](https://www.infoworld.com/article/3626402/graalvm-adds-native-image-compiler-enhancements.html#tk.rss_javascript)
-- [SolidJS creator: JavaScript innovation isn’t slowing down](https://www.infoworld.com/article/3626348/solidjs-creator-javascript-innovation-isnt-slowing-down.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
