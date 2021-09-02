@@ -349,6 +349,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *javascript programmer posts*
 
 <!-- METEOR-POST-LIST:START -->
+- [How ALLOHOUSTON Makes Organizations Smarter with Meteor](https://blog.meteor.com/how-allohouston-makes-organizations-smarter-with-meteor-7b1ff2058f53?source=rss----a9bcaf865278---4)
 - [Testing a Meteor app with Cypress](https://blog.meteor.com/testing-a-meteor-app-with-cypress-bfb3d3c6ed6f?source=rss----a9bcaf865278---4)
 - [How real-time data works on Meteor — Know your pub/subs](https://blog.meteor.com/how-real-time-data-works-on-meteor-know-your-pub-subs-86620c7dccfa?source=rss----a9bcaf865278---4)
 - [How ConvertCalculator Uses Meteor (+ Math) To Sell More](https://blog.meteor.com/how-convertcalculator-uses-meteor-math-to-sell-more-ba777b707eea?source=rss----a9bcaf865278---4)
@@ -358,7 +359,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [First load optimization with Meteor](https://blog.meteor.com/first-load-optimization-with-meteor-7cd896fa217d?source=rss----a9bcaf865278---4)
 - [Scale your app with multi-core](https://blog.meteor.com/scale-your-app-with-multi-core-7fba03192ea2?source=rss----a9bcaf865278---4)
 - [Updating Meteor Packages for HMR](https://blog.meteor.com/updating-meteor-packages-for-hmr-7d514271bbd4?source=rss----a9bcaf865278---4)
-- [Meteor 2.0 is here!](https://blog.meteor.com/meteor-2-0-is-here-867b0ab4f8df?source=rss----a9bcaf865278---4)
 <!-- METEOR-POST-LIST:END -->
 
 ### *Dreamix posts*
