@@ -289,6 +289,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Use the Visual Studio Code editor in your own projects](https://www.infoworld.com/article/3631383/use-the-visual-studio-code-editor-in-your-own-projects.html#tk.rss_javascript)
 - [Deno 1.13 emphasizes HTTP server API stability](https://www.infoworld.com/article/3631536/deno-113-emphasizes-http-server-api-stability.html#tk.rss_javascript)
 - [An early look at SvelteKit](https://www.infoworld.com/article/3630395/an-early-look-at-sveltekit.html#tk.rss_javascript)
 - [12 hot language projects riding WebAssembly](https://www.infoworld.com/article/3619608/12-hot-language-projects-riding-webassembly.html#tk.rss_javascript)
@@ -298,7 +299,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Visual Studio 2022 Preview 3 shines on JavaScript, TypeScript, Git](https://www.infoworld.com/article/3629393/visual-studio-2022-preview-3-shines-on-javascript-typescript-github.html#tk.rss_javascript)
 - [Vue 3.2 promises a speed boost](https://www.infoworld.com/article/3629089/vue-32-promises-speed-boost.html#tk.rss_javascript)
 - [How to use FilePond with Node.js](https://www.infoworld.com/article/3627248/how-to-use-filepond-with-nodejs.html#tk.rss_javascript)
-- [GraalVM adds Native Image, compiler enhancements](https://www.infoworld.com/article/3626402/graalvm-adds-native-image-compiler-enhancements.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
