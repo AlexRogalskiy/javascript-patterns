@@ -274,16 +274,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Is there an easy way to get an input to float above the virtual keyboard on mobile?](https://www.reddit.com/r/javascript/comments/pfdrpy/askjs_is_there_an_easy_way_to_get_an_input_to/)
-- [Taking Marko's Tags API for a Test Drive](https://www.reddit.com/r/javascript/comments/pfddwd/taking_markos_tags_api_for_a_test_drive/)
-- [[AskJS] Experiences with Nx for Javascript monorepo](https://www.reddit.com/r/javascript/comments/pfb6x2/askjs_experiences_with_nx_for_javascript_monorepo/)
-- [Open source, fully client side JSFiddle alternative designed for mobile with offline support](https://www.reddit.com/r/javascript/comments/pfat5r/open_source_fully_client_side_jsfiddle/)
-- [Can you guys rate my GitHub profile? I've just started to look for first junior job and I'm wondering how can I improve my profile to make it look better for employers. Mostly JS/React](https://www.reddit.com/r/javascript/comments/pfa75y/can_you_guys_rate_my_github_profile_ive_just/)
-- [5 Cool Modern JavaScript Features Most Developers Don’t Know](https://www.reddit.com/r/javascript/comments/pf9nmf/5_cool_modern_javascript_features_most_developers/)
-- [[AskJS] How do you feel about working on HTML/CSS tasks?](https://www.reddit.com/r/javascript/comments/pf8lo4/askjs_how_do_you_feel_about_working_on_htmlcss/)
-- [[AskJS] Are npm and npx the same?](https://www.reddit.com/r/javascript/comments/pf7d7i/askjs_are_npm_and_npx_the_same/)
-- [[AskJS] share one simple javascript tip you use as an alternative to a longer solution](https://www.reddit.com/r/javascript/comments/pf5m13/askjs_share_one_simple_javascript_tip_you_use_as/)
-- [The google/zx now supports both CJS and ESM](https://www.reddit.com/r/javascript/comments/pf3ar3/the_googlezx_now_supports_both_cjs_and_esm/)
+- [Updates from the 85th meeting of TC39](https://www.reddit.com/r/javascript/comments/pg164o/updates_from_the_85th_meeting_of_tc39/)
+- [[AskJS] Are there any framework agnostic routing libraries that are well supported?](https://www.reddit.com/r/javascript/comments/pg08xh/askjs_are_there_any_framework_agnostic_routing/)
+- [Nanny-State: simple state management](https://www.reddit.com/r/javascript/comments/pg04vo/nannystate_simple_state_management/)
+- [The Many Interfaces of JavaScript and React](https://www.reddit.com/r/javascript/comments/pg00bn/the_many_interfaces_of_javascript_and_react/)
+- [Sharing my Open Source Serverless Starter Template with Serverless Framework + Live Reload + Offline Support + ExpressJS + TypeScript + ESLint + Prettier + Husky + Lint-Staged + Dotenv + VSCode](https://www.reddit.com/r/javascript/comments/pfyhq2/sharing_my_open_source_serverless_starter/)
+- [GitHub - voidptr9/clone-dom: Lazily cache-and-clone DOM elements with similar serializable attributes](https://www.reddit.com/r/javascript/comments/pfwgok/github_voidptr9clonedom_lazily_cacheandclone_dom/)
+- [Web Scraping with Javascript and Node.js - ZenRows](https://www.reddit.com/r/javascript/comments/pfvbd0/web_scraping_with_javascript_and_nodejs_zenrows/)
+- [Create a blockchain with JavaScript](https://www.reddit.com/r/javascript/comments/pfsznl/create_a_blockchain_with_javascript/)
+- [ES2022 feature: class static initialization blocks](https://www.reddit.com/r/javascript/comments/pfs73y/es2022_feature_class_static_initialization_blocks/)
+- [Why Electron apps are fine](https://www.reddit.com/r/javascript/comments/pfr0x0/why_electron_apps_are_fine/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
