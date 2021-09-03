@@ -274,16 +274,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Using react-window to virtualize large dataset on the browser.](https://www.reddit.com/r/javascript/comments/pgrhgw/using_reactwindow_to_virtualize_large_dataset_on/)
+- [Visual Studio Code August 2021](https://www.reddit.com/r/javascript/comments/pgm06h/visual_studio_code_august_2021/)
+- [CacheLib, Facebook’s open source caching engine for web-scale services](https://www.reddit.com/r/javascript/comments/pgkx1m/cachelib_facebooks_open_source_caching_engine_for/)
+- [Some Use-Cases for JS Generator Functions](https://www.reddit.com/r/javascript/comments/pgkj9d/some_usecases_for_js_generator_functions/)
+- [Appwrite introduces Realtime API to its Open Source Firebase Alternative](https://www.reddit.com/r/javascript/comments/pgkivf/appwrite_introduces_realtime_api_to_its_open/)
+- [GitHub - voidptr9/rust-ipc: Duplex IPC communications with Rust executables via strongly-typed JSON](https://www.reddit.com/r/javascript/comments/pgivjg/github_voidptr9rustipc_duplex_ipc_communications/)
+- [Javascript functions and why do we need them?](https://www.reddit.com/r/javascript/comments/pgh502/javascript_functions_and_why_do_we_need_them/)
 - [Updates from the 85th meeting of TC39](https://www.reddit.com/r/javascript/comments/pg164o/updates_from_the_85th_meeting_of_tc39/)
 - [[AskJS] Are there any framework agnostic routing libraries that are well supported?](https://www.reddit.com/r/javascript/comments/pg08xh/askjs_are_there_any_framework_agnostic_routing/)
 - [Nanny-State: simple state management](https://www.reddit.com/r/javascript/comments/pg04vo/nannystate_simple_state_management/)
-- [The Many Interfaces of JavaScript and React](https://www.reddit.com/r/javascript/comments/pg00bn/the_many_interfaces_of_javascript_and_react/)
-- [Sharing my Open Source Serverless Starter Template with Serverless Framework + Live Reload + Offline Support + ExpressJS + TypeScript + ESLint + Prettier + Husky + Lint-Staged + Dotenv + VSCode](https://www.reddit.com/r/javascript/comments/pfyhq2/sharing_my_open_source_serverless_starter/)
-- [GitHub - voidptr9/clone-dom: Lazily cache-and-clone DOM elements with similar serializable attributes](https://www.reddit.com/r/javascript/comments/pfwgok/github_voidptr9clonedom_lazily_cacheandclone_dom/)
-- [Web Scraping with Javascript and Node.js - ZenRows](https://www.reddit.com/r/javascript/comments/pfvbd0/web_scraping_with_javascript_and_nodejs_zenrows/)
-- [Create a blockchain with JavaScript](https://www.reddit.com/r/javascript/comments/pfsznl/create_a_blockchain_with_javascript/)
-- [ES2022 feature: class static initialization blocks](https://www.reddit.com/r/javascript/comments/pfs73y/es2022_feature_class_static_initialization_blocks/)
-- [Why Electron apps are fine](https://www.reddit.com/r/javascript/comments/pfr0x0/why_electron_apps_are_fine/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
