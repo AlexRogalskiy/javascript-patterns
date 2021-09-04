@@ -274,16 +274,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Is there a way for me to use a sort of online back end server for a demo I'm making?](https://www.reddit.com/r/javascript/comments/phfjwe/askjs_is_there_a_way_for_me_to_use_a_sort_of/)
+- [[AskJS] Where can I learn more about JS modules?](https://www.reddit.com/r/javascript/comments/phdkpt/askjs_where_can_i_learn_more_about_js_modules/)
+- [A professional network for software engineers built in Next.js, Node & Tailwind](https://www.reddit.com/r/javascript/comments/phcvjy/a_professional_network_for_software_engineers/)
+- [[AskJS] What is your preferred tool for transforming and minifying JavaScript?](https://www.reddit.com/r/javascript/comments/ph92i4/askjs_what_is_your_preferred_tool_for/)
+- [Deno + React: No build, no bundle, all streaming](https://www.reddit.com/r/javascript/comments/ph59nb/deno_react_no_build_no_bundle_all_streaming/)
+- [Simple Steps to Validate Data in a JavaScript Spreadsheet](https://www.reddit.com/r/javascript/comments/ph3hnm/simple_steps_to_validate_data_in_a_javascript/)
+- [Records and Tuples: Tips to Improve React Code, from Facebook Associate, Sebastien Lorber](https://www.reddit.com/r/javascript/comments/ph1lxf/records_and_tuples_tips_to_improve_react_code/)
 - [Using react-window to virtualize large dataset on the browser.](https://www.reddit.com/r/javascript/comments/pgrhgw/using_reactwindow_to_virtualize_large_dataset_on/)
 - [Visual Studio Code August 2021](https://www.reddit.com/r/javascript/comments/pgm06h/visual_studio_code_august_2021/)
 - [CacheLib, Facebook’s open source caching engine for web-scale services](https://www.reddit.com/r/javascript/comments/pgkx1m/cachelib_facebooks_open_source_caching_engine_for/)
-- [Some Use-Cases for JS Generator Functions](https://www.reddit.com/r/javascript/comments/pgkj9d/some_usecases_for_js_generator_functions/)
-- [Appwrite introduces Realtime API to its Open Source Firebase Alternative](https://www.reddit.com/r/javascript/comments/pgkivf/appwrite_introduces_realtime_api_to_its_open/)
-- [GitHub - voidptr9/rust-ipc: Duplex IPC communications with Rust executables via strongly-typed JSON](https://www.reddit.com/r/javascript/comments/pgivjg/github_voidptr9rustipc_duplex_ipc_communications/)
-- [Javascript functions and why do we need them?](https://www.reddit.com/r/javascript/comments/pgh502/javascript_functions_and_why_do_we_need_them/)
-- [Updates from the 85th meeting of TC39](https://www.reddit.com/r/javascript/comments/pg164o/updates_from_the_85th_meeting_of_tc39/)
-- [[AskJS] Are there any framework agnostic routing libraries that are well supported?](https://www.reddit.com/r/javascript/comments/pg08xh/askjs_are_there_any_framework_agnostic_routing/)
-- [Nanny-State: simple state management](https://www.reddit.com/r/javascript/comments/pg04vo/nannystate_simple_state_management/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
