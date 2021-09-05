@@ -274,16 +274,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Just published my first package on NPM: A webpack loader for TeX and MathML files](https://www.reddit.com/r/javascript/comments/pi1uak/just_published_my_first_package_on_npm_a_webpack/)
+- [I Ching and Javascript. A mystical approach to front-end development.](https://www.reddit.com/r/javascript/comments/phycj6/i_ching_and_javascript_a_mystical_approach_to/)
+- [A Better Way to Manage Z-Indexes](https://www.reddit.com/r/javascript/comments/phvxky/a_better_way_to_manage_zindexes/)
+- [Dannjs - Neural Network library for Javascript](https://www.reddit.com/r/javascript/comments/phv3be/dannjs_neural_network_library_for_javascript/)
+- [[AskJS] Finished my JS course - Now what?](https://www.reddit.com/r/javascript/comments/phsgg4/askjs_finished_my_js_course_now_what/)
+- [Showoff Saturday (September 04, 2021)](https://www.reddit.com/r/javascript/comments/phmqk1/showoff_saturday_september_04_2021/)
+- [[AskJS] How do I open an "Launch Application" (xdg-open) dialog with javascript for users of my (client's) web application?](https://www.reddit.com/r/javascript/comments/phivj3/askjs_how_do_i_open_an_launch_application_xdgopen/)
 - [[AskJS] Is there a way for me to use a sort of online back end server for a demo I'm making?](https://www.reddit.com/r/javascript/comments/phfjwe/askjs_is_there_a_way_for_me_to_use_a_sort_of/)
-- [[AskJS] Where can I learn more about JS modules?](https://www.reddit.com/r/javascript/comments/phdkpt/askjs_where_can_i_learn_more_about_js_modules/)
 - [A professional network for software engineers built in Next.js, Node & Tailwind](https://www.reddit.com/r/javascript/comments/phcvjy/a_professional_network_for_software_engineers/)
 - [[AskJS] What is your preferred tool for transforming and minifying JavaScript?](https://www.reddit.com/r/javascript/comments/ph92i4/askjs_what_is_your_preferred_tool_for/)
-- [Deno + React: No build, no bundle, all streaming](https://www.reddit.com/r/javascript/comments/ph59nb/deno_react_no_build_no_bundle_all_streaming/)
-- [Simple Steps to Validate Data in a JavaScript Spreadsheet](https://www.reddit.com/r/javascript/comments/ph3hnm/simple_steps_to_validate_data_in_a_javascript/)
-- [Records and Tuples: Tips to Improve React Code, from Facebook Associate, Sebastien Lorber](https://www.reddit.com/r/javascript/comments/ph1lxf/records_and_tuples_tips_to_improve_react_code/)
-- [Using react-window to virtualize large dataset on the browser.](https://www.reddit.com/r/javascript/comments/pgrhgw/using_reactwindow_to_virtualize_large_dataset_on/)
-- [Visual Studio Code August 2021](https://www.reddit.com/r/javascript/comments/pgm06h/visual_studio_code_august_2021/)
-- [CacheLib, Facebook’s open source caching engine for web-scale services](https://www.reddit.com/r/javascript/comments/pgkx1m/cachelib_facebooks_open_source_caching_engine_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
