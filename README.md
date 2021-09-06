@@ -274,16 +274,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [JSXGraph Dynamic Mathematics with JavaScript](https://www.reddit.com/r/javascript/comments/pidng1/jsxgraph_dynamic_mathematics_with_javascript/)
+- [[AskJS] How big is AssemblyScript 3rd party libraries ecosystem?](https://www.reddit.com/r/javascript/comments/piaylf/askjs_how_big_is_assemblyscript_3rd_party/)
+- [Send Email Directly From JavaScript](https://www.reddit.com/r/javascript/comments/piabzb/send_email_directly_from_javascript/)
+- [Linux-like environment simulated in a browser](https://www.reddit.com/r/javascript/comments/pi984c/linuxlike_environment_simulated_in_a_browser/)
+- [Enigma Reloaded - Free tool built with react to encrypt SMS, email, iMessage, cross platform DMs, etc](https://www.reddit.com/r/javascript/comments/pi861u/enigma_reloaded_free_tool_built_with_react_to/)
 - [Just published my first package on NPM: A webpack loader for TeX and MathML files](https://www.reddit.com/r/javascript/comments/pi1uak/just_published_my_first_package_on_npm_a_webpack/)
 - [I Ching and Javascript. A mystical approach to front-end development.](https://www.reddit.com/r/javascript/comments/phycj6/i_ching_and_javascript_a_mystical_approach_to/)
 - [A Better Way to Manage Z-Indexes](https://www.reddit.com/r/javascript/comments/phvxky/a_better_way_to_manage_zindexes/)
 - [Dannjs - Neural Network library for Javascript](https://www.reddit.com/r/javascript/comments/phv3be/dannjs_neural_network_library_for_javascript/)
 - [[AskJS] Finished my JS course - Now what?](https://www.reddit.com/r/javascript/comments/phsgg4/askjs_finished_my_js_course_now_what/)
-- [Showoff Saturday (September 04, 2021)](https://www.reddit.com/r/javascript/comments/phmqk1/showoff_saturday_september_04_2021/)
-- [[AskJS] How do I open an "Launch Application" (xdg-open) dialog with javascript for users of my (client's) web application?](https://www.reddit.com/r/javascript/comments/phivj3/askjs_how_do_i_open_an_launch_application_xdgopen/)
-- [[AskJS] Is there a way for me to use a sort of online back end server for a demo I'm making?](https://www.reddit.com/r/javascript/comments/phfjwe/askjs_is_there_a_way_for_me_to_use_a_sort_of/)
-- [A professional network for software engineers built in Next.js, Node & Tailwind](https://www.reddit.com/r/javascript/comments/phcvjy/a_professional_network_for_software_engineers/)
-- [[AskJS] What is your preferred tool for transforming and minifying JavaScript?](https://www.reddit.com/r/javascript/comments/ph92i4/askjs_what_is_your_preferred_tool_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
