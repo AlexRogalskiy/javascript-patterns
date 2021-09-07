@@ -275,16 +275,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [JSXGraph Dynamic Mathematics with JavaScript](https://www.reddit.com/r/javascript/comments/pidng1/jsxgraph_dynamic_mathematics_with_javascript/)
-- [[AskJS] How big is AssemblyScript 3rd party libraries ecosystem?](https://www.reddit.com/r/javascript/comments/piaylf/askjs_how_big_is_assemblyscript_3rd_party/)
-- [Send Email Directly From JavaScript](https://www.reddit.com/r/javascript/comments/piabzb/send_email_directly_from_javascript/)
-- [Linux-like environment simulated in a browser](https://www.reddit.com/r/javascript/comments/pi984c/linuxlike_environment_simulated_in_a_browser/)
-- [Enigma Reloaded - Free tool built with react to encrypt SMS, email, iMessage, cross platform DMs, etc](https://www.reddit.com/r/javascript/comments/pi861u/enigma_reloaded_free_tool_built_with_react_to/)
-- [Just published my first package on NPM: A webpack loader for TeX and MathML files](https://www.reddit.com/r/javascript/comments/pi1uak/just_published_my_first_package_on_npm_a_webpack/)
-- [I Ching and Javascript. A mystical approach to front-end development.](https://www.reddit.com/r/javascript/comments/phycj6/i_ching_and_javascript_a_mystical_approach_to/)
-- [A Better Way to Manage Z-Indexes](https://www.reddit.com/r/javascript/comments/phvxky/a_better_way_to_manage_zindexes/)
-- [Dannjs - Neural Network library for Javascript](https://www.reddit.com/r/javascript/comments/phv3be/dannjs_neural_network_library_for_javascript/)
-- [[AskJS] Finished my JS course - Now what?](https://www.reddit.com/r/javascript/comments/phsgg4/askjs_finished_my_js_course_now_what/)
+- [Optimizing Netlify](https://www.reddit.com/r/javascript/comments/pj7jus/optimizing_netlify/)
+- [V8 release v9.4](https://www.reddit.com/r/javascript/comments/pj4gfw/v8_release_v94/)
+- [[AskJS] How to publish js + assets files to npm](https://www.reddit.com/r/javascript/comments/pj45m3/askjs_how_to_publish_js_assets_files_to_npm/)
+- [I've forked Square's Intro to D3.js tutorial and updated it for D3 v5-v7](https://www.reddit.com/r/javascript/comments/pj1zo4/ive_forked_squares_intro_to_d3js_tutorial_and/)
+- [Hugodep is to see how each dependency is used, and which dependencies are useless. Hugodep has the same goals as depcheck, but this library works 100% guaranteed without false alarms.](https://www.reddit.com/r/javascript/comments/pj1j2b/hugodep_is_to_see_how_each_dependency_is_used_and/)
+- [I made a Dual N-Back website (Front-End: Vanilla JS) (My first Open-Source Project), I used to practice this memory game with old websites, software, or some mobile apps, however I decided to create a newer and cleaner interface (Mobile Responsive).](https://www.reddit.com/r/javascript/comments/pj0xv2/i_made_a_dual_nback_website_frontend_vanilla_js/)
+- [Automatically find jQuery methods from existing projects and generate vanilla js alternatives.](https://www.reddit.com/r/javascript/comments/piyt7x/automatically_find_jquery_methods_from_existing/)
+- [Data Structures: Bidirectional Map](https://www.reddit.com/r/javascript/comments/piyf7w/data_structures_bidirectional_map/)
+- [Loading web workers using Webpack 5](https://www.reddit.com/r/javascript/comments/piy2pw/loading_web_workers_using_webpack_5/)
+- [Dev tool: A project built to boost your Skills and Productivity](https://www.reddit.com/r/javascript/comments/piuwq8/dev_tool_a_project_built_to_boost_your_skills_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
