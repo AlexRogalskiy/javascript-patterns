@@ -75,7 +75,7 @@ extra:
   generator: false
   social:
     - icon: fontawesome/brands/github-alt
-      link: 'https://github.com/AlexRogalskiy/java-patterns'
+      link: 'https://github.com/AlexRogalskiy/javascript-patterns'
   version:
     provider: mike
 
