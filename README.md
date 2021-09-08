@@ -275,16 +275,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Optimizing Netlify](https://www.reddit.com/r/javascript/comments/pj7jus/optimizing_netlify/)
-- [V8 release v9.4](https://www.reddit.com/r/javascript/comments/pj4gfw/v8_release_v94/)
-- [[AskJS] How to publish js + assets files to npm](https://www.reddit.com/r/javascript/comments/pj45m3/askjs_how_to_publish_js_assets_files_to_npm/)
-- [I've forked Square's Intro to D3.js tutorial and updated it for D3 v5-v7](https://www.reddit.com/r/javascript/comments/pj1zo4/ive_forked_squares_intro_to_d3js_tutorial_and/)
-- [Hugodep is to see how each dependency is used, and which dependencies are useless. Hugodep has the same goals as depcheck, but this library works 100% guaranteed without false alarms.](https://www.reddit.com/r/javascript/comments/pj1j2b/hugodep_is_to_see_how_each_dependency_is_used_and/)
-- [I made a Dual N-Back website (Front-End: Vanilla JS) (My first Open-Source Project), I used to practice this memory game with old websites, software, or some mobile apps, however I decided to create a newer and cleaner interface (Mobile Responsive).](https://www.reddit.com/r/javascript/comments/pj0xv2/i_made_a_dual_nback_website_frontend_vanilla_js/)
-- [Automatically find jQuery methods from existing projects and generate vanilla js alternatives.](https://www.reddit.com/r/javascript/comments/piyt7x/automatically_find_jquery_methods_from_existing/)
-- [Data Structures: Bidirectional Map](https://www.reddit.com/r/javascript/comments/piyf7w/data_structures_bidirectional_map/)
-- [Loading web workers using Webpack 5](https://www.reddit.com/r/javascript/comments/piy2pw/loading_web_workers_using_webpack_5/)
-- [Dev tool: A project built to boost your Skills and Productivity](https://www.reddit.com/r/javascript/comments/piuwq8/dev_tool_a_project_built_to_boost_your_skills_and/)
+- [Taming the beast that is CSS-in-JS](https://www.reddit.com/r/javascript/comments/pjz1za/taming_the_beast_that_is_cssinjs/)
+- [GitHub - devhsoj/keeper: A simple, secure web based password manager that uses key derivation. (Built with Node.js)](https://www.reddit.com/r/javascript/comments/pjv4ql/github_devhsojkeeper_a_simple_secure_web_based/)
+- [I wrote an article with some tips that helped me when I first started programming. Let me know what you think.](https://www.reddit.com/r/javascript/comments/pju1gv/i_wrote_an_article_with_some_tips_that_helped_me/)
+- [We abandoned npm install, maybe you should too](https://www.reddit.com/r/javascript/comments/pjtu30/we_abandoned_npm_install_maybe_you_should_too/)
+- [[AskJS] Has anyone ever created their own version of Javascript, which does not strictly follow ecmascript spec?](https://www.reddit.com/r/javascript/comments/pjsd30/askjs_has_anyone_ever_created_their_own_version/)
+- [Make color selection easy, create a native eye dropper with the new EyeDropper API (Canary)](https://www.reddit.com/r/javascript/comments/pjq2ux/make_color_selection_easy_create_a_native_eye/)
+- [TypeScript runtime type-checking - designed for simple use, through to enforcing API payload schema](https://www.reddit.com/r/javascript/comments/pjp4ip/typescript_runtime_typechecking_designed_for/)
+- [Just reached 500+ stars on GitHub for my React Boilerplate Starter Template with NextJS 11 + Tailwind CSS 2 + React + TypeScript 4.4 + ESLint + Prettier + Husky + Lint-Staged + PostCSS + VSCode + One-click deploy. All dependencies updated to the latest version.](https://www.reddit.com/r/javascript/comments/pjo44g/just_reached_500_stars_on_github_for_my_react/)
+- [File Uploads with GraphQL, Google Cloud Storage and NodeJS](https://www.reddit.com/r/javascript/comments/pjn2g9/file_uploads_with_graphql_google_cloud_storage/)
+- [Corepack - experimental new Node.js feature to automatically manage package managers](https://www.reddit.com/r/javascript/comments/pjkdms/corepack_experimental_new_nodejs_feature_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
