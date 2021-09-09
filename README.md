@@ -275,16 +275,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Time for a review of Firefox 92](https://www.reddit.com/r/javascript/comments/pkeuyt/time_for_a_review_of_firefox_92/)
+- [TypeScript Monorepos with Yarn](https://www.reddit.com/r/javascript/comments/pkdvth/typescript_monorepos_with_yarn/)
+- [[AskJS] Do you use code generators in your IDEs or some external ones? If so, which ones?](https://www.reddit.com/r/javascript/comments/pk8dt3/askjs_do_you_use_code_generators_in_your_ides_or/)
+- [How to improve your website's loading speed](https://www.reddit.com/r/javascript/comments/pk6cb7/how_to_improve_your_websites_loading_speed/)
+- [WTF Wednesday (September 08, 2021)](https://www.reddit.com/r/javascript/comments/pk5fz6/wtf_wednesday_september_08_2021/)
+- [[AskJS] Delegation (OOP version in JS) is the most powerful and flexible approach to code reuse](https://www.reddit.com/r/javascript/comments/pk55ey/askjs_delegation_oop_version_in_js_is_the_most/)
+- [Released a new version of my coloring book self contained web component. Demo and code](https://www.reddit.com/r/javascript/comments/pk3rww/released_a_new_version_of_my_coloring_book_self/)
+- [Appwrite adds Magic URL login to its open-source Firebase alternative](https://www.reddit.com/r/javascript/comments/pk3cw2/appwrite_adds_magic_url_login_to_its_opensource/)
+- [A Complete MIDI Sequencer built with HTML5 & Javascript](https://www.reddit.com/r/javascript/comments/pk1r9t/a_complete_midi_sequencer_built_with_html5/)
 - [Taming the beast that is CSS-in-JS](https://www.reddit.com/r/javascript/comments/pjz1za/taming_the_beast_that_is_cssinjs/)
-- [GitHub - devhsoj/keeper: A simple, secure web based password manager that uses key derivation. (Built with Node.js)](https://www.reddit.com/r/javascript/comments/pjv4ql/github_devhsojkeeper_a_simple_secure_web_based/)
-- [I wrote an article with some tips that helped me when I first started programming. Let me know what you think.](https://www.reddit.com/r/javascript/comments/pju1gv/i_wrote_an_article_with_some_tips_that_helped_me/)
-- [We abandoned npm install, maybe you should too](https://www.reddit.com/r/javascript/comments/pjtu30/we_abandoned_npm_install_maybe_you_should_too/)
-- [[AskJS] Has anyone ever created their own version of Javascript, which does not strictly follow ecmascript spec?](https://www.reddit.com/r/javascript/comments/pjsd30/askjs_has_anyone_ever_created_their_own_version/)
-- [Make color selection easy, create a native eye dropper with the new EyeDropper API (Canary)](https://www.reddit.com/r/javascript/comments/pjq2ux/make_color_selection_easy_create_a_native_eye/)
-- [TypeScript runtime type-checking - designed for simple use, through to enforcing API payload schema](https://www.reddit.com/r/javascript/comments/pjp4ip/typescript_runtime_typechecking_designed_for/)
-- [Just reached 500+ stars on GitHub for my React Boilerplate Starter Template with NextJS 11 + Tailwind CSS 2 + React + TypeScript 4.4 + ESLint + Prettier + Husky + Lint-Staged + PostCSS + VSCode + One-click deploy. All dependencies updated to the latest version.](https://www.reddit.com/r/javascript/comments/pjo44g/just_reached_500_stars_on_github_for_my_react/)
-- [File Uploads with GraphQL, Google Cloud Storage and NodeJS](https://www.reddit.com/r/javascript/comments/pjn2g9/file_uploads_with_graphql_google_cloud_storage/)
-- [Corepack - experimental new Node.js feature to automatically manage package managers](https://www.reddit.com/r/javascript/comments/pjkdms/corepack_experimental_new_nodejs_feature_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
