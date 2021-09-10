@@ -275,16 +275,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [0.1 + 0.2 is not 0.3 in JavaScript.](https://www.reddit.com/r/javascript/comments/pl2y34/01_02_is_not_03_in_javascript/)
+- [タスク (tasuku) — The minimal task runner for Node.js](https://www.reddit.com/r/javascript/comments/pl1cy8/タスク_tasuku_the_minimal_task_runner_for_nodejs/)
+- [Tabby.js - Easily add a cheeky cat-themed easter egg to a webpage](https://www.reddit.com/r/javascript/comments/pkzmgf/tabbyjs_easily_add_a_cheeky_catthemed_easter_egg/)
+- [[AskJS] I recently launched a side project that I built with Gatsby! It's an app that creates dynamic packing lists for outdoor adventures based on what activities you do on each trip. Looking for feedback and others that may be interested in joining the team!](https://www.reddit.com/r/javascript/comments/pkzbm0/askjs_i_recently_launched_a_side_project_that_i/)
+- [[AskJS] web dev as a side hustle?](https://www.reddit.com/r/javascript/comments/pkys5t/askjs_web_dev_as_a_side_hustle/)
+- [Tips to Write Code Faster In Any Programming Language](https://www.reddit.com/r/javascript/comments/pky5ko/tips_to_write_code_faster_in_any_programming/)
+- [[AskJS] Why is the standard replacing mutation events with MutationObserver?](https://www.reddit.com/r/javascript/comments/pkw861/askjs_why_is_the_standard_replacing_mutation/)
+- [Why Developers Wouldn't Like To Stay Longer In One Office](https://www.reddit.com/r/javascript/comments/pku4kt/why_developers_wouldnt_like_to_stay_longer_in_one/)
+- [Keep the React app responsive even during large screen updates with startTransition API introduced in React 18](https://www.reddit.com/r/javascript/comments/pksd22/keep_the_react_app_responsive_even_during_large/)
 - [Time for a review of Firefox 92](https://www.reddit.com/r/javascript/comments/pkeuyt/time_for_a_review_of_firefox_92/)
-- [TypeScript Monorepos with Yarn](https://www.reddit.com/r/javascript/comments/pkdvth/typescript_monorepos_with_yarn/)
-- [[AskJS] Do you use code generators in your IDEs or some external ones? If so, which ones?](https://www.reddit.com/r/javascript/comments/pk8dt3/askjs_do_you_use_code_generators_in_your_ides_or/)
-- [How to improve your website's loading speed](https://www.reddit.com/r/javascript/comments/pk6cb7/how_to_improve_your_websites_loading_speed/)
-- [WTF Wednesday (September 08, 2021)](https://www.reddit.com/r/javascript/comments/pk5fz6/wtf_wednesday_september_08_2021/)
-- [[AskJS] Delegation (OOP version in JS) is the most powerful and flexible approach to code reuse](https://www.reddit.com/r/javascript/comments/pk55ey/askjs_delegation_oop_version_in_js_is_the_most/)
-- [Released a new version of my coloring book self contained web component. Demo and code](https://www.reddit.com/r/javascript/comments/pk3rww/released_a_new_version_of_my_coloring_book_self/)
-- [Appwrite adds Magic URL login to its open-source Firebase alternative](https://www.reddit.com/r/javascript/comments/pk3cw2/appwrite_adds_magic_url_login_to_its_opensource/)
-- [A Complete MIDI Sequencer built with HTML5 & Javascript](https://www.reddit.com/r/javascript/comments/pk1r9t/a_complete_midi_sequencer_built_with_html5/)
-- [Taming the beast that is CSS-in-JS](https://www.reddit.com/r/javascript/comments/pjz1za/taming_the_beast_that_is_cssinjs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
