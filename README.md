@@ -275,16 +275,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [0.1 + 0.2 is not 0.3 in JavaScript.](https://www.reddit.com/r/javascript/comments/pl2y34/01_02_is_not_03_in_javascript/)
-- [タスク (tasuku) — The minimal task runner for Node.js](https://www.reddit.com/r/javascript/comments/pl1cy8/タスク_tasuku_the_minimal_task_runner_for_nodejs/)
-- [Tabby.js - Easily add a cheeky cat-themed easter egg to a webpage](https://www.reddit.com/r/javascript/comments/pkzmgf/tabbyjs_easily_add_a_cheeky_catthemed_easter_egg/)
-- [[AskJS] I recently launched a side project that I built with Gatsby! It's an app that creates dynamic packing lists for outdoor adventures based on what activities you do on each trip. Looking for feedback and others that may be interested in joining the team!](https://www.reddit.com/r/javascript/comments/pkzbm0/askjs_i_recently_launched_a_side_project_that_i/)
-- [[AskJS] web dev as a side hustle?](https://www.reddit.com/r/javascript/comments/pkys5t/askjs_web_dev_as_a_side_hustle/)
-- [Tips to Write Code Faster In Any Programming Language](https://www.reddit.com/r/javascript/comments/pky5ko/tips_to_write_code_faster_in_any_programming/)
-- [[AskJS] Why is the standard replacing mutation events with MutationObserver?](https://www.reddit.com/r/javascript/comments/pkw861/askjs_why_is_the_standard_replacing_mutation/)
-- [Why Developers Wouldn't Like To Stay Longer In One Office](https://www.reddit.com/r/javascript/comments/pku4kt/why_developers_wouldnt_like_to_stay_longer_in_one/)
-- [Keep the React app responsive even during large screen updates with startTransition API introduced in React 18](https://www.reddit.com/r/javascript/comments/pksd22/keep_the_react_app_responsive_even_during_large/)
-- [Time for a review of Firefox 92](https://www.reddit.com/r/javascript/comments/pkeuyt/time_for_a_review_of_firefox_92/)
+- [I made a Hotline Miami inspired homepage for my website with pure js using the canvas api!](https://www.reddit.com/r/javascript/comments/plwefv/i_made_a_hotline_miami_inspired_homepage_for_my/)
+- [In-browser media compositing via WebRTC Insertable Streams API](https://www.reddit.com/r/javascript/comments/pltckc/inbrowser_media_compositing_via_webrtc_insertable/)
+- [How Every Web Developer Can Become FullStack With Node.js](https://www.reddit.com/r/javascript/comments/plr3fr/how_every_web_developer_can_become_fullstack_with/)
+- [Open-Sourced Stark Orchestrator - JS Kubernetes Replacement](https://www.reddit.com/r/javascript/comments/plov6v/opensourced_stark_orchestrator_js_kubernetes/)
+- [Generative art in a spatial live JavaScript environment](https://www.reddit.com/r/javascript/comments/plos5c/generative_art_in_a_spatial_live_javascript/)
+- [[AskJS] Potential memory leak in .splice](https://www.reddit.com/r/javascript/comments/plnvz0/askjs_potential_memory_leak_in_splice/)
+- [Angular: The Single Rule To Get Better At RxJS](https://www.reddit.com/r/javascript/comments/pljv0i/angular_the_single_rule_to_get_better_at_rxjs/)
+- [[AskJS] multiple arrays pointing to main array of objects. How to remove all pointers whenever an element in the main array is removed? Best practices](https://www.reddit.com/r/javascript/comments/plip05/askjs_multiple_arrays_pointing_to_main_array_of/)
+- [Primordials in Node.js](https://www.reddit.com/r/javascript/comments/pletyz/primordials_in_nodejs/)
+- [I made a top-down game using Canvas and Javascript](https://www.reddit.com/r/javascript/comments/ple94x/i_made_a_topdown_game_using_canvas_and_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
