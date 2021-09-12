@@ -275,16 +275,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I made a Hotline Miami inspired homepage for my website with pure js using the canvas api!](https://www.reddit.com/r/javascript/comments/plwefv/i_made_a_hotline_miami_inspired_homepage_for_my/)
-- [In-browser media compositing via WebRTC Insertable Streams API](https://www.reddit.com/r/javascript/comments/pltckc/inbrowser_media_compositing_via_webrtc_insertable/)
-- [How Every Web Developer Can Become FullStack With Node.js](https://www.reddit.com/r/javascript/comments/plr3fr/how_every_web_developer_can_become_fullstack_with/)
-- [Open-Sourced Stark Orchestrator - JS Kubernetes Replacement](https://www.reddit.com/r/javascript/comments/plov6v/opensourced_stark_orchestrator_js_kubernetes/)
-- [Generative art in a spatial live JavaScript environment](https://www.reddit.com/r/javascript/comments/plos5c/generative_art_in_a_spatial_live_javascript/)
-- [[AskJS] Potential memory leak in .splice](https://www.reddit.com/r/javascript/comments/plnvz0/askjs_potential_memory_leak_in_splice/)
-- [Angular: The Single Rule To Get Better At RxJS](https://www.reddit.com/r/javascript/comments/pljv0i/angular_the_single_rule_to_get_better_at_rxjs/)
-- [[AskJS] multiple arrays pointing to main array of objects. How to remove all pointers whenever an element in the main array is removed? Best practices](https://www.reddit.com/r/javascript/comments/plip05/askjs_multiple_arrays_pointing_to_main_array_of/)
-- [Primordials in Node.js](https://www.reddit.com/r/javascript/comments/pletyz/primordials_in_nodejs/)
-- [I made a top-down game using Canvas and Javascript](https://www.reddit.com/r/javascript/comments/ple94x/i_made_a_topdown_game_using_canvas_and_javascript/)
+- [Benchmarking JavaScript Memory Usage](https://www.reddit.com/r/javascript/comments/pmcdv8/benchmarking_javascript_memory_usage/)
+- [[AskJS] Building a rich text editor. How do I wrap each word in a div when user presses space?](https://www.reddit.com/r/javascript/comments/pmcbi7/askjs_building_a_rich_text_editor_how_do_i_wrap/)
+- [PolyFull - enhance js functionalities](https://www.reddit.com/r/javascript/comments/pma9k6/polyfull_enhance_js_functionalities/)
+- [Frontend Learning Kit](https://www.reddit.com/r/javascript/comments/pma6v0/frontend_learning_kit/)
+- [[AskJS] Unable to addEventListener() when trying to integrate external javascript code in rasa-webchat](https://www.reddit.com/r/javascript/comments/pm9pm2/askjs_unable_to_addeventlistener_when_trying_to/)
+- [Build book store with next.js + tailwind CSS](https://www.reddit.com/r/javascript/comments/pm9n20/build_book_store_with_nextjs_tailwind_css/)
+- [How To Choose The Right Frontend Framework](https://www.reddit.com/r/javascript/comments/pm9ep2/how_to_choose_the_right_frontend_framework/)
+- [[AskJS] Javascript certification programs?](https://www.reddit.com/r/javascript/comments/pm9645/askjs_javascript_certification_programs/)
+- [Showoff Saturday (September 11, 2021)](https://www.reddit.com/r/javascript/comments/pm2lek/showoff_saturday_september_11_2021/)
+- [GitHub - tc39/proposal-pipeline-operator: A proposal for adding the simple-but-useful pipeline operator to JavaScript.](https://www.reddit.com/r/javascript/comments/pm2bv8/github_tc39proposalpipelineoperator_a_proposal/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
