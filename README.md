@@ -275,16 +275,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Integrating OpenReplay with Slack in a Web Application](https://www.reddit.com/r/javascript/comments/pn3c28/integrating_openreplay_with_slack_in_a_web/)
+- [Integrating OpenRIntegrating OpenReplay with Sentryeplay with Sentry](https://www.reddit.com/r/javascript/comments/pn3b5q/integrating_openrintegrating_openreplay_with/)
+- [canistilluse.com - track deprecated features](https://www.reddit.com/r/javascript/comments/pmri1w/canistillusecom_track_deprecated_features/)
+- [What is the difference between extends and plugins in ESLint config?](https://www.reddit.com/r/javascript/comments/pmr44o/what_is_the_difference_between_extends_and/)
+- [I wrote an ultra-minimal, ~600 byte GraphQL client for Node + the browser.](https://www.reddit.com/r/javascript/comments/pmkmt4/i_wrote_an_ultraminimal_600_byte_graphql_client/)
+- [[AskJS] Where can I learn more about alignment in TypedArrays?](https://www.reddit.com/r/javascript/comments/pmk93u/askjs_where_can_i_learn_more_about_alignment_in/)
 - [Benchmarking JavaScript Memory Usage](https://www.reddit.com/r/javascript/comments/pmcdv8/benchmarking_javascript_memory_usage/)
-- [[AskJS] Building a rich text editor. How do I wrap each word in a div when user presses space?](https://www.reddit.com/r/javascript/comments/pmcbi7/askjs_building_a_rich_text_editor_how_do_i_wrap/)
 - [PolyFull - enhance js functionalities](https://www.reddit.com/r/javascript/comments/pma9k6/polyfull_enhance_js_functionalities/)
 - [Frontend Learning Kit](https://www.reddit.com/r/javascript/comments/pma6v0/frontend_learning_kit/)
-- [[AskJS] Unable to addEventListener() when trying to integrate external javascript code in rasa-webchat](https://www.reddit.com/r/javascript/comments/pm9pm2/askjs_unable_to_addeventlistener_when_trying_to/)
 - [Build book store with next.js + tailwind CSS](https://www.reddit.com/r/javascript/comments/pm9n20/build_book_store_with_nextjs_tailwind_css/)
-- [How To Choose The Right Frontend Framework](https://www.reddit.com/r/javascript/comments/pm9ep2/how_to_choose_the_right_frontend_framework/)
-- [[AskJS] Javascript certification programs?](https://www.reddit.com/r/javascript/comments/pm9645/askjs_javascript_certification_programs/)
-- [Showoff Saturday (September 11, 2021)](https://www.reddit.com/r/javascript/comments/pm2lek/showoff_saturday_september_11_2021/)
-- [GitHub - tc39/proposal-pipeline-operator: A proposal for adding the simple-but-useful pipeline operator to JavaScript.](https://www.reddit.com/r/javascript/comments/pm2bv8/github_tc39proposalpipelineoperator_a_proposal/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
