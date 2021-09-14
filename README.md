@@ -275,16 +275,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Integrating OpenReplay with Slack in a Web Application](https://www.reddit.com/r/javascript/comments/pn3c28/integrating_openreplay_with_slack_in_a_web/)
-- [Integrating OpenRIntegrating OpenReplay with Sentryeplay with Sentry](https://www.reddit.com/r/javascript/comments/pn3b5q/integrating_openrintegrating_openreplay_with/)
-- [canistilluse.com - track deprecated features](https://www.reddit.com/r/javascript/comments/pmri1w/canistillusecom_track_deprecated_features/)
-- [What is the difference between extends and plugins in ESLint config?](https://www.reddit.com/r/javascript/comments/pmr44o/what_is_the_difference_between_extends_and/)
-- [I wrote an ultra-minimal, ~600 byte GraphQL client for Node + the browser.](https://www.reddit.com/r/javascript/comments/pmkmt4/i_wrote_an_ultraminimal_600_byte_graphql_client/)
-- [[AskJS] Where can I learn more about alignment in TypedArrays?](https://www.reddit.com/r/javascript/comments/pmk93u/askjs_where_can_i_learn_more_about_alignment_in/)
-- [Benchmarking JavaScript Memory Usage](https://www.reddit.com/r/javascript/comments/pmcdv8/benchmarking_javascript_memory_usage/)
-- [PolyFull - enhance js functionalities](https://www.reddit.com/r/javascript/comments/pma9k6/polyfull_enhance_js_functionalities/)
-- [Frontend Learning Kit](https://www.reddit.com/r/javascript/comments/pma6v0/frontend_learning_kit/)
-- [Build book store with next.js + tailwind CSS](https://www.reddit.com/r/javascript/comments/pm9n20/build_book_store_with_nextjs_tailwind_css/)
+- [SSR support for Web Components](https://www.reddit.com/r/javascript/comments/pnt8ug/ssr_support_for_web_components/)
+- [React Readability Analysis Of Implementing Custom Hooks](https://www.reddit.com/r/javascript/comments/pnq0vs/react_readability_analysis_of_implementing_custom/)
+- [[AskJS] A vanilla-js alternative to select2?](https://www.reddit.com/r/javascript/comments/pnp7h9/askjs_a_vanillajs_alternative_to_select2/)
+- [Tutorial "Make your own framework": 250 loc, with components, reactivity, effects, scheduling, ...](https://www.reddit.com/r/javascript/comments/pnnh78/tutorial_make_your_own_framework_250_loc_with/)
+- [TypeScript Enums vs. Flow Enums](https://www.reddit.com/r/javascript/comments/pnkpd2/typescript_enums_vs_flow_enums/)
+- [OpenAI Codex, Rust, TypeScript, Google Cloud, automatic code translation](https://www.reddit.com/r/javascript/comments/pnjsf7/openai_codex_rust_typescript_google_cloud/)
+- [Hack Pipe for Functional Programmers: How I learned to stop worrying and love the placeholder](https://www.reddit.com/r/javascript/comments/pnipvf/hack_pipe_for_functional_programmers_how_i/)
+- [Advanced Scheduler, an Heroku Add-on I built, got featured by Heroku!](https://www.reddit.com/r/javascript/comments/pnhnxc/advanced_scheduler_an_heroku_addon_i_built_got/)
+- [Converse.js XMPP webchat client version 8 has been released](https://www.reddit.com/r/javascript/comments/pnh2kp/conversejs_xmpp_webchat_client_version_8_has_been/)
+- [Currying versus partial application (with JavaScript code)](https://www.reddit.com/r/javascript/comments/pnfv75/currying_versus_partial_application_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
