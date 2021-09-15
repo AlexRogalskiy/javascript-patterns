@@ -275,16 +275,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [SSR support for Web Components](https://www.reddit.com/r/javascript/comments/pnt8ug/ssr_support_for_web_components/)
-- [React Readability Analysis Of Implementing Custom Hooks](https://www.reddit.com/r/javascript/comments/pnq0vs/react_readability_analysis_of_implementing_custom/)
-- [[AskJS] A vanilla-js alternative to select2?](https://www.reddit.com/r/javascript/comments/pnp7h9/askjs_a_vanillajs_alternative_to_select2/)
-- [Tutorial "Make your own framework": 250 loc, with components, reactivity, effects, scheduling, ...](https://www.reddit.com/r/javascript/comments/pnnh78/tutorial_make_your_own_framework_250_loc_with/)
-- [TypeScript Enums vs. Flow Enums](https://www.reddit.com/r/javascript/comments/pnkpd2/typescript_enums_vs_flow_enums/)
-- [OpenAI Codex, Rust, TypeScript, Google Cloud, automatic code translation](https://www.reddit.com/r/javascript/comments/pnjsf7/openai_codex_rust_typescript_google_cloud/)
-- [Hack Pipe for Functional Programmers: How I learned to stop worrying and love the placeholder](https://www.reddit.com/r/javascript/comments/pnipvf/hack_pipe_for_functional_programmers_how_i/)
-- [Advanced Scheduler, an Heroku Add-on I built, got featured by Heroku!](https://www.reddit.com/r/javascript/comments/pnhnxc/advanced_scheduler_an_heroku_addon_i_built_got/)
-- [Converse.js XMPP webchat client version 8 has been released](https://www.reddit.com/r/javascript/comments/pnh2kp/conversejs_xmpp_webchat_client_version_8_has_been/)
-- [Currying versus partial application (with JavaScript code)](https://www.reddit.com/r/javascript/comments/pnfv75/currying_versus_partial_application_with/)
+- [React vs. Vue: A Modern Comparison](https://www.reddit.com/r/javascript/comments/poagqv/react_vs_vue_a_modern_comparison/)
+- [Fully featured authorization for your Prisma app with Cerbos](https://www.reddit.com/r/javascript/comments/po4fhl/fully_featured_authorization_for_your_prisma_app/)
+- [Modernising CSS infrastructure in DevTools - Chrome Developers](https://www.reddit.com/r/javascript/comments/po3k95/modernising_css_infrastructure_in_devtools_chrome/)
+- [Running JavaScript in WebAssembly and using Rust API](https://www.reddit.com/r/javascript/comments/po1n5m/running_javascript_in_webassembly_and_using_rust/)
+- [[AskJS] Google's political stance with TypeScript](https://www.reddit.com/r/javascript/comments/pnzvud/askjs_googles_political_stance_with_typescript/)
+- [24 HTML Tags you may not know.](https://www.reddit.com/r/javascript/comments/pnwkkc/24_html_tags_you_may_not_know/)
+- [[AskJS] what are the rules for bracket notation?](https://www.reddit.com/r/javascript/comments/pnwgqi/askjs_what_are_the_rules_for_bracket_notation/)
+- [High Performance 3D Animation with react-three-fiber + rxjs](https://www.reddit.com/r/javascript/comments/pnvzym/high_performance_3d_animation_with/)
+- [[AskJS] Do you need to know algorithms in order to build websites?](https://www.reddit.com/r/javascript/comments/pnvdhj/askjs_do_you_need_to_know_algorithms_in_order_to/)
+- [Understanding PubSub design pattern in JavaScript](https://www.reddit.com/r/javascript/comments/pnui3h/understanding_pubsub_design_pattern_in_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
