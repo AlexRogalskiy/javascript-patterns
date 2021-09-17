@@ -275,16 +275,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Announcing the Flow FLIP Fest](https://www.reddit.com/r/javascript/comments/pp3ti9/announcing_the_flow_flip_fest/)
-- [[AskJS] Any npm packages that implement glob matching of URLs?](https://www.reddit.com/r/javascript/comments/pp17ae/askjs_any_npm_packages_that_implement_glob/)
-- [The difference between enum, const enum and declare enum in Typescript](https://www.reddit.com/r/javascript/comments/pp08u5/the_difference_between_enum_const_enum_and/)
-- [[AskJS] New to React - Portfolio feedback](https://www.reddit.com/r/javascript/comments/poyui3/askjs_new_to_react_portfolio_feedback/)
-- [How we manage state using Apollo Client and React](https://www.reddit.com/r/javascript/comments/powlpv/how_we_manage_state_using_apollo_client_and_react/)
-- [Todos: The Hard Parts](https://www.reddit.com/r/javascript/comments/posrnc/todos_the_hard_parts/)
-- [Synchronous and asynchronous function composition](https://www.reddit.com/r/javascript/comments/pos273/synchronous_and_asynchronous_function_composition/)
-- [State of the Software supply report finds npmjs on track for 1.5T downloads in 2021 and over 12,000 dependency confusion copycats in 2021](https://www.reddit.com/r/javascript/comments/porwa8/state_of_the_software_supply_report_finds_npmjs/)
-- [[AskJS] pop up input](https://www.reddit.com/r/javascript/comments/poq5wt/askjs_pop_up_input/)
-- [A simple SASS compiler with zero dependency](https://www.reddit.com/r/javascript/comments/poo8n5/a_simple_sass_compiler_with_zero_dependency/)
+- [Learning the new `at()` function, at #jslang](https://www.reddit.com/r/javascript/comments/ppmt0o/learning_the_new_at_function_at_jslang/)
+- [[AskJS] Would you be comfortable using the Web Animations API in production today (for modern browsers)?](https://www.reddit.com/r/javascript/comments/ppkxtk/askjs_would_you_be_comfortable_using_the_web/)
+- [Using Recoil instead of Redux for state management in React applications](https://www.reddit.com/r/javascript/comments/ppkeco/using_recoil_instead_of_redux_for_state/)
+- [[AskJS] How would you go about recording and replaying data with accurate timing for manual testing?](https://www.reddit.com/r/javascript/comments/ppjtin/askjs_how_would_you_go_about_recording_and/)
+- [How to upload files from your HTML form using Base64 encoding](https://www.reddit.com/r/javascript/comments/ppj9vw/how_to_upload_files_from_your_html_form_using/)
+- [Nullish coalescing operator '??' in JavaScript](https://www.reddit.com/r/javascript/comments/ppgeyo/nullish_coalescing_operator_in_javascript/)
+- [How to automate UI tests with Github Actions](https://www.reddit.com/r/javascript/comments/ppehcw/how_to_automate_ui_tests_with_github_actions/)
+- [ECMAScript 2021(ES12) introduces Promise.any() and AggregateError](https://www.reddit.com/r/javascript/comments/ppbbhf/ecmascript_2021es12_introduces_promiseany_and/)
+- [Ten Essential Foundations of Javascript Game Development](https://www.reddit.com/r/javascript/comments/pp7s01/ten_essential_foundations_of_javascript_game/)
+- [A compiler for javascript targeting LLVM IR, x86 assembly, self interpreting](https://www.reddit.com/r/javascript/comments/pp5kxj/a_compiler_for_javascript_targeting_llvm_ir_x86/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
