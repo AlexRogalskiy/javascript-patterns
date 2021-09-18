@@ -275,16 +275,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Learning the new `at()` function, at #jslang](https://www.reddit.com/r/javascript/comments/ppmt0o/learning_the_new_at_function_at_jslang/)
-- [[AskJS] Would you be comfortable using the Web Animations API in production today (for modern browsers)?](https://www.reddit.com/r/javascript/comments/ppkxtk/askjs_would_you_be_comfortable_using_the_web/)
-- [Using Recoil instead of Redux for state management in React applications](https://www.reddit.com/r/javascript/comments/ppkeco/using_recoil_instead_of_redux_for_state/)
-- [[AskJS] How would you go about recording and replaying data with accurate timing for manual testing?](https://www.reddit.com/r/javascript/comments/ppjtin/askjs_how_would_you_go_about_recording_and/)
-- [How to upload files from your HTML form using Base64 encoding](https://www.reddit.com/r/javascript/comments/ppj9vw/how_to_upload_files_from_your_html_form_using/)
-- [Nullish coalescing operator '??' in JavaScript](https://www.reddit.com/r/javascript/comments/ppgeyo/nullish_coalescing_operator_in_javascript/)
-- [How to automate UI tests with Github Actions](https://www.reddit.com/r/javascript/comments/ppehcw/how_to_automate_ui_tests_with_github_actions/)
-- [ECMAScript 2021(ES12) introduces Promise.any() and AggregateError](https://www.reddit.com/r/javascript/comments/ppbbhf/ecmascript_2021es12_introduces_promiseany_and/)
-- [Ten Essential Foundations of Javascript Game Development](https://www.reddit.com/r/javascript/comments/pp7s01/ten_essential_foundations_of_javascript_game/)
-- [A compiler for javascript targeting LLVM IR, x86 assembly, self interpreting](https://www.reddit.com/r/javascript/comments/pp5kxj/a_compiler_for_javascript_targeting_llvm_ir_x86/)
+- [[AskJS] Tony Alicea under the hood JS course and ES6 questions](https://www.reddit.com/r/javascript/comments/pqa7dk/askjs_tony_alicea_under_the_hood_js_course_and/)
+- [Execution context and call stack in JavaScript](https://www.reddit.com/r/javascript/comments/pq9r45/execution_context_and_call_stack_in_javascript/)
+- [Alert: Coding Platform GitLab Files For US IPO](https://www.reddit.com/r/javascript/comments/pq7i6f/alert_coding_platform_gitlab_files_for_us_ipo/)
+- [Easily Create your own NPM Card!](https://www.reddit.com/r/javascript/comments/pq7ewk/easily_create_your_own_npm_card/)
+- [Linkify: JS plugin to find links in plain-text and convert them to HTML <a> tags](https://www.reddit.com/r/javascript/comments/pq3qxf/linkify_js_plugin_to_find_links_in_plaintext_and/)
+- [Monitoring and automation for Open Source email servers, starting with Postfix (VueJs).](https://www.reddit.com/r/javascript/comments/pq329t/monitoring_and_automation_for_open_source_email/)
+- [JavaScript vs JavaScript: Round 2. Fight!](https://www.reddit.com/r/javascript/comments/pq1463/javascript_vs_javascript_round_2_fight/)
+- [[AskJS] Difference between an event emitter and a regular observer pattern?](https://www.reddit.com/r/javascript/comments/ppzko2/askjs_difference_between_an_event_emitter_and_a/)
+- [Why should you learn JavaScript -](https://www.reddit.com/r/javascript/comments/ppvsnd/why_should_you_learn_javascript/)
+- [Small Bundles, Fast Pages: What To Do With Too Much JavaScript | Calibre](https://www.reddit.com/r/javascript/comments/ppvl6o/small_bundles_fast_pages_what_to_do_with_too_much/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
