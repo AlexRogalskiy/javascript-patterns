@@ -275,16 +275,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Easily share fast changing server data with Jsynchronous.js - for games and real time apps.](https://www.reddit.com/r/javascript/comments/pqumd7/easily_share_fast_changing_server_data_with/)
+- [[AskJS] How to you structure your projects to avoid confusion?](https://www.reddit.com/r/javascript/comments/pqr8ox/askjs_how_to_you_structure_your_projects_to_avoid/)
+- [Inklog.js - Chalk based nodejs logger](https://www.reddit.com/r/javascript/comments/pqk84s/inklogjs_chalk_based_nodejs_logger/)
+- [Proposal for Pipeline Operator got a massive update. Check it out, if you missed it!](https://www.reddit.com/r/javascript/comments/pqji0e/proposal_for_pipeline_operator_got_a_massive/)
+- [Q1K3-Quake in Javascript](https://www.reddit.com/r/javascript/comments/pqj689/q1k3quake_in_javascript/)
+- [If you want to hear a rap about the history of JavaScript, look no further…](https://www.reddit.com/r/javascript/comments/pqj4oa/if_you_want_to_hear_a_rap_about_the_history_of/)
+- [Neutralinojs v2.8.0 released!](https://www.reddit.com/r/javascript/comments/pqiu43/neutralinojs_v280_released/)
+- [Showoff Saturday (September 18, 2021)](https://www.reddit.com/r/javascript/comments/pqhmmn/showoff_saturday_september_18_2021/)
 - [[AskJS] Tony Alicea under the hood JS course and ES6 questions](https://www.reddit.com/r/javascript/comments/pqa7dk/askjs_tony_alicea_under_the_hood_js_course_and/)
-- [Execution context and call stack in JavaScript](https://www.reddit.com/r/javascript/comments/pq9r45/execution_context_and_call_stack_in_javascript/)
-- [Alert: Coding Platform GitLab Files For US IPO](https://www.reddit.com/r/javascript/comments/pq7i6f/alert_coding_platform_gitlab_files_for_us_ipo/)
 - [Easily Create your own NPM Card!](https://www.reddit.com/r/javascript/comments/pq7ewk/easily_create_your_own_npm_card/)
-- [Linkify: JS plugin to find links in plain-text and convert them to HTML <a> tags](https://www.reddit.com/r/javascript/comments/pq3qxf/linkify_js_plugin_to_find_links_in_plaintext_and/)
-- [Monitoring and automation for Open Source email servers, starting with Postfix (VueJs).](https://www.reddit.com/r/javascript/comments/pq329t/monitoring_and_automation_for_open_source_email/)
-- [JavaScript vs JavaScript: Round 2. Fight!](https://www.reddit.com/r/javascript/comments/pq1463/javascript_vs_javascript_round_2_fight/)
-- [[AskJS] Difference between an event emitter and a regular observer pattern?](https://www.reddit.com/r/javascript/comments/ppzko2/askjs_difference_between_an_event_emitter_and_a/)
-- [Why should you learn JavaScript -](https://www.reddit.com/r/javascript/comments/ppvsnd/why_should_you_learn_javascript/)
-- [Small Bundles, Fast Pages: What To Do With Too Much JavaScript | Calibre](https://www.reddit.com/r/javascript/comments/ppvl6o/small_bundles_fast_pages_what_to_do_with_too_much/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
