@@ -275,16 +275,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Easily share fast changing server data with Jsynchronous.js - for games and real time apps.](https://www.reddit.com/r/javascript/comments/pqumd7/easily_share_fast_changing_server_data_with/)
-- [[AskJS] How to you structure your projects to avoid confusion?](https://www.reddit.com/r/javascript/comments/pqr8ox/askjs_how_to_you_structure_your_projects_to_avoid/)
-- [Inklog.js - Chalk based nodejs logger](https://www.reddit.com/r/javascript/comments/pqk84s/inklogjs_chalk_based_nodejs_logger/)
-- [Proposal for Pipeline Operator got a massive update. Check it out, if you missed it!](https://www.reddit.com/r/javascript/comments/pqji0e/proposal_for_pipeline_operator_got_a_massive/)
-- [Q1K3-Quake in Javascript](https://www.reddit.com/r/javascript/comments/pqj689/q1k3quake_in_javascript/)
-- [If you want to hear a rap about the history of JavaScript, look no further…](https://www.reddit.com/r/javascript/comments/pqj4oa/if_you_want_to_hear_a_rap_about_the_history_of/)
-- [Neutralinojs v2.8.0 released!](https://www.reddit.com/r/javascript/comments/pqiu43/neutralinojs_v280_released/)
-- [Showoff Saturday (September 18, 2021)](https://www.reddit.com/r/javascript/comments/pqhmmn/showoff_saturday_september_18_2021/)
-- [[AskJS] Tony Alicea under the hood JS course and ES6 questions](https://www.reddit.com/r/javascript/comments/pqa7dk/askjs_tony_alicea_under_the_hood_js_course_and/)
-- [Easily Create your own NPM Card!](https://www.reddit.com/r/javascript/comments/pq7ewk/easily_create_your_own_npm_card/)
+- [JavaScript Pipe Operator Proposal: A Battle of Perspectives](https://www.reddit.com/r/javascript/comments/prebgh/javascript_pipe_operator_proposal_a_battle_of/)
+- [When should you apply for a Software Engineer job?](https://www.reddit.com/r/javascript/comments/prdqsf/when_should_you_apply_for_a_software_engineer_job/)
+- [@jy95/i18n-tools - CLI to make common operations around i18n files simpler](https://www.reddit.com/r/javascript/comments/prbw0t/jy95i18ntools_cli_to_make_common_operations/)
+- [[AskJS] Is Javascript the best language to write asynchronous caching algorithms in least lines of code?](https://www.reddit.com/r/javascript/comments/prawth/askjs_is_javascript_the_best_language_to_write/)
+- [JavaScript Currying](https://www.reddit.com/r/javascript/comments/pr74f0/javascript_currying/)
+- [Next.js, NestJS, MobX and how I structured my open-source project](https://www.reddit.com/r/javascript/comments/pr5cef/nextjs_nestjs_mobx_and_how_i_structured_my/)
+- [A ToDo app with pure JavaScript, hosted on Google Firebase](https://www.reddit.com/r/javascript/comments/pr581b/a_todo_app_with_pure_javascript_hosted_on_google/)
+- [GitHub - i5ik/jspaint.exe: JS Paint ~~ as a cross-platform native desktop app. In other words, the "Classic MS Paint, ＲＥＶＩＶＥＤ "](https://www.reddit.com/r/javascript/comments/pr3f9n/github_i5ikjspaintexe_js_paint_as_a_crossplatform/)
+- [[AskJS] How many of you programming Javascript with VSCodium on Linux without any telemetry ? What's your advices / thought on telemetry with VSCode / Win10 ? So what your dev env look like software / extensions you use etc ?](https://www.reddit.com/r/javascript/comments/pr2jqa/askjs_how_many_of_you_programming_javascript_with/)
+- [The Magic of Serializing Functions](https://www.reddit.com/r/javascript/comments/pqzlxt/the_magic_of_serializing_functions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
