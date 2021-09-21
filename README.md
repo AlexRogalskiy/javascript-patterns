@@ -275,16 +275,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [JavaScript Pipe Operator Proposal: A Battle of Perspectives](https://www.reddit.com/r/javascript/comments/prebgh/javascript_pipe_operator_proposal_a_battle_of/)
-- [When should you apply for a Software Engineer job?](https://www.reddit.com/r/javascript/comments/prdqsf/when_should_you_apply_for_a_software_engineer_job/)
-- [@jy95/i18n-tools - CLI to make common operations around i18n files simpler](https://www.reddit.com/r/javascript/comments/prbw0t/jy95i18ntools_cli_to_make_common_operations/)
-- [[AskJS] Is Javascript the best language to write asynchronous caching algorithms in least lines of code?](https://www.reddit.com/r/javascript/comments/prawth/askjs_is_javascript_the_best_language_to_write/)
-- [JavaScript Currying](https://www.reddit.com/r/javascript/comments/pr74f0/javascript_currying/)
-- [Next.js, NestJS, MobX and how I structured my open-source project](https://www.reddit.com/r/javascript/comments/pr5cef/nextjs_nestjs_mobx_and_how_i_structured_my/)
-- [A ToDo app with pure JavaScript, hosted on Google Firebase](https://www.reddit.com/r/javascript/comments/pr581b/a_todo_app_with_pure_javascript_hosted_on_google/)
-- [GitHub - i5ik/jspaint.exe: JS Paint ~~ as a cross-platform native desktop app. In other words, the "Classic MS Paint, ＲＥＶＩＶＥＤ "](https://www.reddit.com/r/javascript/comments/pr3f9n/github_i5ikjspaintexe_js_paint_as_a_crossplatform/)
-- [[AskJS] How many of you programming Javascript with VSCodium on Linux without any telemetry ? What's your advices / thought on telemetry with VSCode / Win10 ? So what your dev env look like software / extensions you use etc ?](https://www.reddit.com/r/javascript/comments/pr2jqa/askjs_how_many_of_you_programming_javascript_with/)
-- [The Magic of Serializing Functions](https://www.reddit.com/r/javascript/comments/pqzlxt/the_magic_of_serializing_functions/)
+- [[AskJS] Finding Framework Engineers?](https://www.reddit.com/r/javascript/comments/ps8xwa/askjs_finding_framework_engineers/)
+- [What's New In DevTools (Chrome 95) - Chrome Developers](https://www.reddit.com/r/javascript/comments/ps79t9/whats_new_in_devtools_chrome_95_chrome_developers/)
+- [How to make a wormhole like Stargate SG-1 in JavaScript?](https://www.reddit.com/r/javascript/comments/ps6abv/how_to_make_a_wormhole_like_stargate_sg1_in/)
+- [[AskJS] Do you know any free open source JS/Node CRM lib?](https://www.reddit.com/r/javascript/comments/ps3glu/askjs_do_you_know_any_free_open_source_jsnode_crm/)
+- [How to implement over the air updates with expo-updates in React Native](https://www.reddit.com/r/javascript/comments/ps25e7/how_to_implement_over_the_air_updates_with/)
+- [[AskJS] ORMs provide convenient functions to access/search/filter/sort/etc items in the database. Is there something like that, but for the files in the file system? (I'm building a static blog generated from markdown files, and I want to conveniently query them with javascript).](https://www.reddit.com/r/javascript/comments/ps036x/askjs_orms_provide_convenient_functions_to/)
+- [What's new in React 18?](https://www.reddit.com/r/javascript/comments/przm6b/whats_new_in_react_18/)
+- [[AskJS] Prototype Inheritance and CustomComponents](https://www.reddit.com/r/javascript/comments/prycd9/askjs_prototype_inheritance_and_customcomponents/)
+- [How I Made My Life Easier by Letting QA Write E2E Tests?](https://www.reddit.com/r/javascript/comments/prw4ar/how_i_made_my_life_easier_by_letting_qa_write_e2e/)
+- [[AskJS] I created a library for web scanning using chrome devtools API](https://www.reddit.com/r/javascript/comments/pru6pl/askjs_i_created_a_library_for_web_scanning_using/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
