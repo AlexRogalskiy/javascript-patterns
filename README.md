@@ -275,16 +275,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Twester - Twitch channel points without watching Twitch!](https://www.reddit.com/r/javascript/comments/psu73t/twester_twitch_channel_points_without_watching/)
-- [Stop using "npm publish"](https://www.reddit.com/r/javascript/comments/psrfp5/stop_using_npm_publish/)
-- [ESLint rules that help migrating projects from CommonJS to ESM](https://www.reddit.com/r/javascript/comments/psrfgi/eslint_rules_that_help_migrating_projects_from/)
-- [V8 release v9.5](https://www.reddit.com/r/javascript/comments/psnbnh/v8_release_v95/)
-- [Writing a Visual Studio Code Completion Provider](https://www.reddit.com/r/javascript/comments/psn0rh/writing_a_visual_studio_code_completion_provider/)
-- [Gatsby: The Definitive Guide ebook](https://www.reddit.com/r/javascript/comments/psmpce/gatsby_the_definitive_guide_ebook/)
-- [Motion One: The Web Animations API for everyone](https://www.reddit.com/r/javascript/comments/pslk89/motion_one_the_web_animations_api_for_everyone/)
-- [Nano Colors: 2x times faster than chalk and use 5x less space in node_modules](https://www.reddit.com/r/javascript/comments/psikux/nano_colors_2x_times_faster_than_chalk_and_use_5x/)
-- [[AskJS] Finding Framework Engineers?](https://www.reddit.com/r/javascript/comments/ps8xwa/askjs_finding_framework_engineers/)
-- [What's New In DevTools (Chrome 95) - Chrome Developers](https://www.reddit.com/r/javascript/comments/ps79t9/whats_new_in_devtools_chrome_95_chrome_developers/)
+- [My Portfolio give me input or advice](https://www.reddit.com/r/javascript/comments/ptkse1/my_portfolio_give_me_input_or_advice/)
+- [Introduction to isolated-vm in Node.js | Temporal documentation](https://www.reddit.com/r/javascript/comments/ptijxs/introduction_to_isolatedvm_in_nodejs_temporal/)
+- [NFT that was purchased for $2,794,381.65 USD](https://www.reddit.com/r/javascript/comments/ptde7n/nft_that_was_purchased_for_279438165_usd/)
+- [Build better libraries — use dev warnings](https://www.reddit.com/r/javascript/comments/ptc3i5/build_better_libraries_use_dev_warnings/)
+- [I created a site to check if your location is actually hidden (even with a VPN).](https://www.reddit.com/r/javascript/comments/ptbl4x/i_created_a_site_to_check_if_your_location_is/)
+- [Gatsby 4 beta released](https://www.reddit.com/r/javascript/comments/ptaa78/gatsby_4_beta_released/)
+- [Write Readable End-to-end Tests with Cypress And Cucumber in Under 10 minutes](https://www.reddit.com/r/javascript/comments/pt81tn/write_readable_endtoend_tests_with_cypress_and/)
+- [Fifty Solitaires - starting game development with React](https://www.reddit.com/r/javascript/comments/pt7wzl/fifty_solitaires_starting_game_development_with/)
+- [Checkerboard Programming - write javascript to match checkerboard patterns](https://www.reddit.com/r/javascript/comments/pt6xvn/checkerboard_programming_write_javascript_to/)
+- [Composing Studio: An online, real-time collaborative music editor built with Rust, WebAssembly, and TypeScript, allowing anyone to create simple musical compositions](https://www.reddit.com/r/javascript/comments/pt6wso/composing_studio_an_online_realtime_collaborative/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
