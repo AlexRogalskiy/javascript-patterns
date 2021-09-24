@@ -275,16 +275,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [My Portfolio give me input or advice](https://www.reddit.com/r/javascript/comments/ptkse1/my_portfolio_give_me_input_or_advice/)
-- [Introduction to isolated-vm in Node.js | Temporal documentation](https://www.reddit.com/r/javascript/comments/ptijxs/introduction_to_isolatedvm_in_nodejs_temporal/)
-- [NFT that was purchased for $2,794,381.65 USD](https://www.reddit.com/r/javascript/comments/ptde7n/nft_that_was_purchased_for_279438165_usd/)
-- [Build better libraries — use dev warnings](https://www.reddit.com/r/javascript/comments/ptc3i5/build_better_libraries_use_dev_warnings/)
-- [I created a site to check if your location is actually hidden (even with a VPN).](https://www.reddit.com/r/javascript/comments/ptbl4x/i_created_a_site_to_check_if_your_location_is/)
-- [Gatsby 4 beta released](https://www.reddit.com/r/javascript/comments/ptaa78/gatsby_4_beta_released/)
-- [Write Readable End-to-end Tests with Cypress And Cucumber in Under 10 minutes](https://www.reddit.com/r/javascript/comments/pt81tn/write_readable_endtoend_tests_with_cypress_and/)
-- [Fifty Solitaires - starting game development with React](https://www.reddit.com/r/javascript/comments/pt7wzl/fifty_solitaires_starting_game_development_with/)
-- [Checkerboard Programming - write javascript to match checkerboard patterns](https://www.reddit.com/r/javascript/comments/pt6xvn/checkerboard_programming_write_javascript_to/)
-- [Composing Studio: An online, real-time collaborative music editor built with Rust, WebAssembly, and TypeScript, allowing anyone to create simple musical compositions](https://www.reddit.com/r/javascript/comments/pt6wso/composing_studio_an_online_realtime_collaborative/)
+- [[AskJS] How can I set the value of a custom input element?](https://www.reddit.com/r/javascript/comments/pu9iqo/askjs_how_can_i_set_the_value_of_a_custom_input/)
+- [Introducing Partytown: Run Third-Party Scripts From a Web Worker](https://www.reddit.com/r/javascript/comments/pu1otu/introducing_partytown_run_thirdparty_scripts_from/)
+- [Tips to Improve The Quality of Any Software Project](https://www.reddit.com/r/javascript/comments/ptzluw/tips_to_improve_the_quality_of_any_software/)
+- [I built a CRUD recipe app without using a framework. Your recipes are saved in local storage to avoid user auth and database maintenance. Typescript helped a ton.](https://www.reddit.com/r/javascript/comments/ptzl8y/i_built_a_crud_recipe_app_without_using_a/)
+- [Hegel: a type checker for JavaScript with optional type annotations for preventing runtime type errors](https://www.reddit.com/r/javascript/comments/ptxecw/hegel_a_type_checker_for_javascript_with_optional/)
+- [I created small library for searching object in a tree-like structure.](https://www.reddit.com/r/javascript/comments/ptv5yg/i_created_small_library_for_searching_object_in_a/)
+- [Creating semantic and validated types in Typescript 4](https://www.reddit.com/r/javascript/comments/ptthui/creating_semantic_and_validated_types_in/)
+- [Evolution of web performance culture](https://www.reddit.com/r/javascript/comments/ptta1u/evolution_of_web_performance_culture/)
+- [[AskJS] Library to visualize forecasting](https://www.reddit.com/r/javascript/comments/ptsj10/askjs_library_to_visualize_forecasting/)
+- [GitHub - cesanta/elk: A low footprint JavaScript engine for embedded systems](https://www.reddit.com/r/javascript/comments/ptqdfc/github_cesantaelk_a_low_footprint_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
