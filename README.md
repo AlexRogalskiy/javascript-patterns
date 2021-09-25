@@ -275,16 +275,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] How can I set the value of a custom input element?](https://www.reddit.com/r/javascript/comments/pu9iqo/askjs_how_can_i_set_the_value_of_a_custom_input/)
-- [Introducing Partytown: Run Third-Party Scripts From a Web Worker](https://www.reddit.com/r/javascript/comments/pu1otu/introducing_partytown_run_thirdparty_scripts_from/)
-- [Tips to Improve The Quality of Any Software Project](https://www.reddit.com/r/javascript/comments/ptzluw/tips_to_improve_the_quality_of_any_software/)
-- [I built a CRUD recipe app without using a framework. Your recipes are saved in local storage to avoid user auth and database maintenance. Typescript helped a ton.](https://www.reddit.com/r/javascript/comments/ptzl8y/i_built_a_crud_recipe_app_without_using_a/)
-- [Hegel: a type checker for JavaScript with optional type annotations for preventing runtime type errors](https://www.reddit.com/r/javascript/comments/ptxecw/hegel_a_type_checker_for_javascript_with_optional/)
-- [I created small library for searching object in a tree-like structure.](https://www.reddit.com/r/javascript/comments/ptv5yg/i_created_small_library_for_searching_object_in_a/)
-- [Creating semantic and validated types in Typescript 4](https://www.reddit.com/r/javascript/comments/ptthui/creating_semantic_and_validated_types_in/)
-- [Evolution of web performance culture](https://www.reddit.com/r/javascript/comments/ptta1u/evolution_of_web_performance_culture/)
-- [[AskJS] Library to visualize forecasting](https://www.reddit.com/r/javascript/comments/ptsj10/askjs_library_to_visualize_forecasting/)
-- [GitHub - cesanta/elk: A low footprint JavaScript engine for embedded systems](https://www.reddit.com/r/javascript/comments/ptqdfc/github_cesantaelk_a_low_footprint_javascript/)
+- [[AskJS] While loop question](https://www.reddit.com/r/javascript/comments/puvgo9/askjs_while_loop_question/)
+- [Spect Runner - A tiny test tool](https://www.reddit.com/r/javascript/comments/pus3ne/spect_runner_a_tiny_test_tool/)
+- [[AskJS] Best practices for polyfills in libraries?](https://www.reddit.com/r/javascript/comments/purc3r/askjs_best_practices_for_polyfills_in_libraries/)
+- [Article - Frontend request tracing instrumentation and exporting data to backend opentelemetry collector](https://www.reddit.com/r/javascript/comments/puqf32/article_frontend_request_tracing_instrumentation/)
+- [Integrating OpenReplay with Jira](https://www.reddit.com/r/javascript/comments/puopqs/integrating_openreplay_with_jira/)
+- [refine is a React-based framework for building data-intensive applications in no time. It ships with Ant Design System, an enterprise-level UI toolkit.](https://www.reddit.com/r/javascript/comments/punlz1/refine_is_a_reactbased_framework_for_building/)
+- [[AskJS] Challenge: Make up a cool name for your tech stack!!](https://www.reddit.com/r/javascript/comments/punkdd/askjs_challenge_make_up_a_cool_name_for_your_tech/)
+- [[AskJS] Set value on custom input field?](https://www.reddit.com/r/javascript/comments/pukvnk/askjs_set_value_on_custom_input_field/)
+- [JavaScript vs JavaScript. Fight!](https://www.reddit.com/r/javascript/comments/pui0qh/javascript_vs_javascript_fight/)
+- [Unquoted property names / object keys in JavaScript · Mathias Bynens](https://www.reddit.com/r/javascript/comments/pudozf/unquoted_property_names_object_keys_in_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
