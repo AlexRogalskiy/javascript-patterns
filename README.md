@@ -275,16 +275,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] While loop question](https://www.reddit.com/r/javascript/comments/puvgo9/askjs_while_loop_question/)
+- [Domain-Driven Hexagon - DDD, architecture, best practices (Full project using NestJS)](https://www.reddit.com/r/javascript/comments/pvem7p/domaindriven_hexagon_ddd_architecture_best/)
+- [[AskJS] Can we make good project wihout Framwork?](https://www.reddit.com/r/javascript/comments/pvdvbd/askjs_can_we_make_good_project_wihout_framwork/)
+- [JS++: JavaScript Classes, Modules, Type Checking & More](https://www.reddit.com/r/javascript/comments/pvb6p4/js_javascript_classes_modules_type_checking_more/)
+- [Showoff Saturday (September 25, 2021)](https://www.reddit.com/r/javascript/comments/pv1n4b/showoff_saturday_september_25_2021/)
+- [How to setup your react applications - Opinionated Guide](https://www.reddit.com/r/javascript/comments/pv10dp/how_to_setup_your_react_applications_opinionated/)
+- [[AskJS] What are the most difficult concepts to grasp in JavaScript for a beginner ? Which frameworks you prefer today React ? Angular ? Vue ?](https://www.reddit.com/r/javascript/comments/pv0qg2/askjs_what_are_the_most_difficult_concepts_to/)
 - [Spect Runner - A tiny test tool](https://www.reddit.com/r/javascript/comments/pus3ne/spect_runner_a_tiny_test_tool/)
 - [[AskJS] Best practices for polyfills in libraries?](https://www.reddit.com/r/javascript/comments/purc3r/askjs_best_practices_for_polyfills_in_libraries/)
-- [Article - Frontend request tracing instrumentation and exporting data to backend opentelemetry collector](https://www.reddit.com/r/javascript/comments/puqf32/article_frontend_request_tracing_instrumentation/)
 - [Integrating OpenReplay with Jira](https://www.reddit.com/r/javascript/comments/puopqs/integrating_openreplay_with_jira/)
 - [refine is a React-based framework for building data-intensive applications in no time. It ships with Ant Design System, an enterprise-level UI toolkit.](https://www.reddit.com/r/javascript/comments/punlz1/refine_is_a_reactbased_framework_for_building/)
-- [[AskJS] Challenge: Make up a cool name for your tech stack!!](https://www.reddit.com/r/javascript/comments/punkdd/askjs_challenge_make_up_a_cool_name_for_your_tech/)
-- [[AskJS] Set value on custom input field?](https://www.reddit.com/r/javascript/comments/pukvnk/askjs_set_value_on_custom_input_field/)
-- [JavaScript vs JavaScript. Fight!](https://www.reddit.com/r/javascript/comments/pui0qh/javascript_vs_javascript_fight/)
-- [Unquoted property names / object keys in JavaScript · Mathias Bynens](https://www.reddit.com/r/javascript/comments/pudozf/unquoted_property_names_object_keys_in_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
