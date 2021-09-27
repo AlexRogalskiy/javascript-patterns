@@ -275,16 +275,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Using Composite Actions with GitHub Actions](https://www.reddit.com/r/javascript/comments/pw3dju/using_composite_actions_with_github_actions/)
+- [How to use serverless functions as image/caching proxy](https://www.reddit.com/r/javascript/comments/pw382e/how_to_use_serverless_functions_as_imagecaching/)
+- [I made this BRAINFUCK interpreter in Nodejs, rate it?](https://www.reddit.com/r/javascript/comments/pvrrkn/i_made_this_brainfuck_interpreter_in_nodejs_rate/)
+- [How to ensure the highest quality of software code](https://www.reddit.com/r/javascript/comments/pvqzpc/how_to_ensure_the_highest_quality_of_software_code/)
+- [A JavaScript developer’s guide to browser cookies](https://www.reddit.com/r/javascript/comments/pvq8ad/a_javascript_developers_guide_to_browser_cookies/)
+- [Create Your First Chrome Extension in JavaScript to Hide Your API Keys](https://www.reddit.com/r/javascript/comments/pvq7iu/create_your_first_chrome_extension_in_javascript/)
+- [Machine Learning for JavaScript Developers - TensorFlow.js](https://www.reddit.com/r/javascript/comments/pvoehg/machine_learning_for_javascript_developers/)
 - [Domain-Driven Hexagon - DDD, architecture, best practices (Full project using NestJS)](https://www.reddit.com/r/javascript/comments/pvem7p/domaindriven_hexagon_ddd_architecture_best/)
 - [[AskJS] Can we make good project wihout Framwork?](https://www.reddit.com/r/javascript/comments/pvdvbd/askjs_can_we_make_good_project_wihout_framwork/)
 - [JS++: JavaScript Classes, Modules, Type Checking & More](https://www.reddit.com/r/javascript/comments/pvb6p4/js_javascript_classes_modules_type_checking_more/)
-- [Showoff Saturday (September 25, 2021)](https://www.reddit.com/r/javascript/comments/pv1n4b/showoff_saturday_september_25_2021/)
-- [How to setup your react applications - Opinionated Guide](https://www.reddit.com/r/javascript/comments/pv10dp/how_to_setup_your_react_applications_opinionated/)
-- [[AskJS] What are the most difficult concepts to grasp in JavaScript for a beginner ? Which frameworks you prefer today React ? Angular ? Vue ?](https://www.reddit.com/r/javascript/comments/pv0qg2/askjs_what_are_the_most_difficult_concepts_to/)
-- [Spect Runner - A tiny test tool](https://www.reddit.com/r/javascript/comments/pus3ne/spect_runner_a_tiny_test_tool/)
-- [[AskJS] Best practices for polyfills in libraries?](https://www.reddit.com/r/javascript/comments/purc3r/askjs_best_practices_for_polyfills_in_libraries/)
-- [Integrating OpenReplay with Jira](https://www.reddit.com/r/javascript/comments/puopqs/integrating_openreplay_with_jira/)
-- [refine is a React-based framework for building data-intensive applications in no time. It ships with Ant Design System, an enterprise-level UI toolkit.](https://www.reddit.com/r/javascript/comments/punlz1/refine_is_a_reactbased_framework_for_building/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
