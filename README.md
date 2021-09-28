@@ -275,16 +275,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Using Composite Actions with GitHub Actions](https://www.reddit.com/r/javascript/comments/pw3dju/using_composite_actions_with_github_actions/)
+- [Dynamically Import ES Modules From A CDN](https://www.reddit.com/r/javascript/comments/pwnxpw/dynamically_import_es_modules_from_a_cdn/)
+- [[AskJS] Object Oriented or Functional?](https://www.reddit.com/r/javascript/comments/pwn6tp/askjs_object_oriented_or_functional/)
+- [Javascript vs Javascript](https://www.reddit.com/r/javascript/comments/pwk4yk/javascript_vs_javascript/)
+- [Next.js vs. Gatsby](https://www.reddit.com/r/javascript/comments/pwj1ik/nextjs_vs_gatsby/)
+- [CxJS framework went open-ource](https://www.reddit.com/r/javascript/comments/pwgs67/cxjs_framework_went_openource/)
+- [How to geocode a list of addresses - Tutorial](https://www.reddit.com/r/javascript/comments/pwfzn3/how_to_geocode_a_list_of_addresses_tutorial/)
 - [How to use serverless functions as image/caching proxy](https://www.reddit.com/r/javascript/comments/pw382e/how_to_use_serverless_functions_as_imagecaching/)
 - [I made this BRAINFUCK interpreter in Nodejs, rate it?](https://www.reddit.com/r/javascript/comments/pvrrkn/i_made_this_brainfuck_interpreter_in_nodejs_rate/)
 - [How to ensure the highest quality of software code](https://www.reddit.com/r/javascript/comments/pvqzpc/how_to_ensure_the_highest_quality_of_software_code/)
 - [A JavaScript developer’s guide to browser cookies](https://www.reddit.com/r/javascript/comments/pvq8ad/a_javascript_developers_guide_to_browser_cookies/)
-- [Create Your First Chrome Extension in JavaScript to Hide Your API Keys](https://www.reddit.com/r/javascript/comments/pvq7iu/create_your_first_chrome_extension_in_javascript/)
-- [Machine Learning for JavaScript Developers - TensorFlow.js](https://www.reddit.com/r/javascript/comments/pvoehg/machine_learning_for_javascript_developers/)
-- [Domain-Driven Hexagon - DDD, architecture, best practices (Full project using NestJS)](https://www.reddit.com/r/javascript/comments/pvem7p/domaindriven_hexagon_ddd_architecture_best/)
-- [[AskJS] Can we make good project wihout Framwork?](https://www.reddit.com/r/javascript/comments/pvdvbd/askjs_can_we_make_good_project_wihout_framwork/)
-- [JS++: JavaScript Classes, Modules, Type Checking & More](https://www.reddit.com/r/javascript/comments/pvb6p4/js_javascript_classes_modules_type_checking_more/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
