@@ -275,16 +275,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Dynamically Import ES Modules From A CDN](https://www.reddit.com/r/javascript/comments/pwnxpw/dynamically_import_es_modules_from_a_cdn/)
-- [[AskJS] Object Oriented or Functional?](https://www.reddit.com/r/javascript/comments/pwn6tp/askjs_object_oriented_or_functional/)
-- [Javascript vs Javascript](https://www.reddit.com/r/javascript/comments/pwk4yk/javascript_vs_javascript/)
-- [Next.js vs. Gatsby](https://www.reddit.com/r/javascript/comments/pwj1ik/nextjs_vs_gatsby/)
-- [CxJS framework went open-ource](https://www.reddit.com/r/javascript/comments/pwgs67/cxjs_framework_went_openource/)
-- [How to geocode a list of addresses - Tutorial](https://www.reddit.com/r/javascript/comments/pwfzn3/how_to_geocode_a_list_of_addresses_tutorial/)
-- [How to use serverless functions as image/caching proxy](https://www.reddit.com/r/javascript/comments/pw382e/how_to_use_serverless_functions_as_imagecaching/)
-- [I made this BRAINFUCK interpreter in Nodejs, rate it?](https://www.reddit.com/r/javascript/comments/pvrrkn/i_made_this_brainfuck_interpreter_in_nodejs_rate/)
-- [How to ensure the highest quality of software code](https://www.reddit.com/r/javascript/comments/pvqzpc/how_to_ensure_the_highest_quality_of_software_code/)
-- [A JavaScript developer’s guide to browser cookies](https://www.reddit.com/r/javascript/comments/pvq8ad/a_javascript_developers_guide_to_browser_cookies/)
+- [Rock out with your blocks out! An application starter focused on documentation-driven development. Manage your apps, documentation, blog, components, and content in the same monorepo. Generate a block and add it to your custom page builder powered by TinaCMS in just a few minutes.](https://www.reddit.com/r/javascript/comments/pxjm9c/rock_out_with_your_blocks_out_an_application/)
+- [My Simple Checklist For Well Tested React Components](https://www.reddit.com/r/javascript/comments/pxea6t/my_simple_checklist_for_well_tested_react/)
+- [Faster React Apps With Memoization](https://www.reddit.com/r/javascript/comments/pxc7xi/faster_react_apps_with_memoization/)
+- [wasup: A library for emitting WebAssembly in JavaScript](https://www.reddit.com/r/javascript/comments/pxc3zm/wasup_a_library_for_emitting_webassembly_in/)
+- [Self-Parking Car in <500 Lines of Code | Trekhleb](https://www.reddit.com/r/javascript/comments/px71z7/selfparking_car_in_500_lines_of_code_trekhleb/)
+- [PopUpAnywhere - A Library For Creating Popups Anywhere On The Webpage](https://www.reddit.com/r/javascript/comments/px69dw/popupanywhere_a_library_for_creating_popups/)
+- [[AskJS] Looking for some feedback on a weekly jobs list (via email)](https://www.reddit.com/r/javascript/comments/px488u/askjs_looking_for_some_feedback_on_a_weekly_jobs/)
+- [construct-js: A library for creating byte level data structures](https://www.reddit.com/r/javascript/comments/px41bc/constructjs_a_library_for_creating_byte_level/)
+- [Intro to Doppler: Building Express Application With Doppler And FaunaDB](https://www.reddit.com/r/javascript/comments/pwxd5f/intro_to_doppler_building_express_application/)
+- [[AskJS] Why so little support for TCO (tail call optimization)?](https://www.reddit.com/r/javascript/comments/pwwbky/askjs_why_so_little_support_for_tco_tail_call/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
