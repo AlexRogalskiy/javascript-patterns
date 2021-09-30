@@ -275,16 +275,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Rock out with your blocks out! An application starter focused on documentation-driven development. Manage your apps, documentation, blog, components, and content in the same monorepo. Generate a block and add it to your custom page builder powered by TinaCMS in just a few minutes.](https://www.reddit.com/r/javascript/comments/pxjm9c/rock_out_with_your_blocks_out_an_application/)
-- [My Simple Checklist For Well Tested React Components](https://www.reddit.com/r/javascript/comments/pxea6t/my_simple_checklist_for_well_tested_react/)
-- [Faster React Apps With Memoization](https://www.reddit.com/r/javascript/comments/pxc7xi/faster_react_apps_with_memoization/)
-- [wasup: A library for emitting WebAssembly in JavaScript](https://www.reddit.com/r/javascript/comments/pxc3zm/wasup_a_library_for_emitting_webassembly_in/)
-- [Self-Parking Car in <500 Lines of Code | Trekhleb](https://www.reddit.com/r/javascript/comments/px71z7/selfparking_car_in_500_lines_of_code_trekhleb/)
-- [PopUpAnywhere - A Library For Creating Popups Anywhere On The Webpage](https://www.reddit.com/r/javascript/comments/px69dw/popupanywhere_a_library_for_creating_popups/)
-- [[AskJS] Looking for some feedback on a weekly jobs list (via email)](https://www.reddit.com/r/javascript/comments/px488u/askjs_looking_for_some_feedback_on_a_weekly_jobs/)
-- [construct-js: A library for creating byte level data structures](https://www.reddit.com/r/javascript/comments/px41bc/constructjs_a_library_for_creating_byte_level/)
-- [Intro to Doppler: Building Express Application With Doppler And FaunaDB](https://www.reddit.com/r/javascript/comments/pwxd5f/intro_to_doppler_building_express_application/)
-- [[AskJS] Why so little support for TCO (tail call optimization)?](https://www.reddit.com/r/javascript/comments/pwwbky/askjs_why_so_little_support_for_tco_tail_call/)
+- [[AskJS] How to determine the hash of a future event from a website?](https://www.reddit.com/r/javascript/comments/py3x89/askjs_how_to_determine_the_hash_of_a_future_event/)
+- [[AskJS] What is the best online video subscription platform to improve your developer skills?](https://www.reddit.com/r/javascript/comments/py049x/askjs_what_is_the_best_online_video_subscription/)
+- [[AskJS] As a JS OSS maintainer, what are some complicated topics/concepts in JS/Web are you doing on the daily that you think is interesting to share?](https://www.reddit.com/r/javascript/comments/pxyy8h/askjs_as_a_js_oss_maintainer_what_are_some/)
+- [HyperExpress: High Performance Node.js Webserver, Now With ExpressJS Middlewares Compatibility](https://www.reddit.com/r/javascript/comments/pxyrh7/hyperexpress_high_performance_nodejs_webserver/)
+- [tsafe: A powerful TypeScript assertion function](https://www.reddit.com/r/javascript/comments/pxxtzf/tsafe_a_powerful_typescript_assertion_function/)
+- [My SaaS business template](https://www.reddit.com/r/javascript/comments/pxvus3/my_saas_business_template/)
+- [UI Testing Playbook](https://www.reddit.com/r/javascript/comments/pxvn5d/ui_testing_playbook/)
+- [A black hole animation that can absorb a whole website (Code in the article)](https://www.reddit.com/r/javascript/comments/pxucc5/a_black_hole_animation_that_can_absorb_a_whole/)
+- [[AskJS] I have Deployer & zx. Should I create a JavaScript version of Deployer?](https://www.reddit.com/r/javascript/comments/pxu03k/askjs_i_have_deployer_zx_should_i_create_a/)
+- [An in-depth perspective on webpack's bundling process](https://www.reddit.com/r/javascript/comments/pxtr38/an_indepth_perspective_on_webpacks_bundling/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
