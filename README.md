@@ -275,16 +275,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I wrote a guide on how you can mint an NFT with JavaScript if anyone is curious!](https://www.reddit.com/r/javascript/comments/pysruf/i_wrote_a_guide_on_how_you_can_mint_an_nft_with/)
+- [Bracket pair colorization 10,000x faster(Extension Now Implemented in the core of VS Code )](https://www.reddit.com/r/javascript/comments/pyqomt/bracket_pair_colorization_10000x_fasterextension/)
+- [Single Page Application vs Multi Page Application with Rich Harris](https://www.reddit.com/r/javascript/comments/pyo866/single_page_application_vs_multi_page_application/)
+- [The new, improved, version of Node API boilerplate was just released. Now with better organization and built with TypeScript](https://www.reddit.com/r/javascript/comments/pynh9i/the_new_improved_version_of_node_api_boilerplate/)
+- [How to Use Vanilla JS Routers with React](https://www.reddit.com/r/javascript/comments/pymqu9/how_to_use_vanilla_js_routers_with_react/)
+- [GitHub - smallcase/smalllinks: Simple URL shortener built with Fastify. Uses PostgreSQL, Redis, and Kafka.](https://www.reddit.com/r/javascript/comments/pyg7fx/github_smallcasesmalllinks_simple_url_shortener/)
+- [Dynamic Mathematics with JavaScript](https://www.reddit.com/r/javascript/comments/pyg5i7/dynamic_mathematics_with_javascript/)
+- [On throw in React](https://www.reddit.com/r/javascript/comments/pyeibm/on_throw_in_react/)
+- [A note-taking chrome extension built by Vue3 & Vite2.](https://www.reddit.com/r/javascript/comments/pyb3di/a_notetaking_chrome_extension_built_by_vue3_vite2/)
 - [[AskJS] How to determine the hash of a future event from a website?](https://www.reddit.com/r/javascript/comments/py3x89/askjs_how_to_determine_the_hash_of_a_future_event/)
-- [[AskJS] What is the best online video subscription platform to improve your developer skills?](https://www.reddit.com/r/javascript/comments/py049x/askjs_what_is_the_best_online_video_subscription/)
-- [[AskJS] As a JS OSS maintainer, what are some complicated topics/concepts in JS/Web are you doing on the daily that you think is interesting to share?](https://www.reddit.com/r/javascript/comments/pxyy8h/askjs_as_a_js_oss_maintainer_what_are_some/)
-- [HyperExpress: High Performance Node.js Webserver, Now With ExpressJS Middlewares Compatibility](https://www.reddit.com/r/javascript/comments/pxyrh7/hyperexpress_high_performance_nodejs_webserver/)
-- [tsafe: A powerful TypeScript assertion function](https://www.reddit.com/r/javascript/comments/pxxtzf/tsafe_a_powerful_typescript_assertion_function/)
-- [My SaaS business template](https://www.reddit.com/r/javascript/comments/pxvus3/my_saas_business_template/)
-- [UI Testing Playbook](https://www.reddit.com/r/javascript/comments/pxvn5d/ui_testing_playbook/)
-- [A black hole animation that can absorb a whole website (Code in the article)](https://www.reddit.com/r/javascript/comments/pxucc5/a_black_hole_animation_that_can_absorb_a_whole/)
-- [[AskJS] I have Deployer & zx. Should I create a JavaScript version of Deployer?](https://www.reddit.com/r/javascript/comments/pxu03k/askjs_i_have_deployer_zx_should_i_create_a/)
-- [An in-depth perspective on webpack's bundling process](https://www.reddit.com/r/javascript/comments/pxtr38/an_indepth_perspective_on_webpacks_bundling/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
