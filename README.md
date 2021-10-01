@@ -290,16 +290,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Get started with SvelteKit](https://www.infoworld.com/article/3634771/get-started-with-sveltekit.html#tk.rss_javascript)
 - [Electron framework adds encryption API](https://www.infoworld.com/article/3634383/electron-framework-adds-encryption-api.html#tk.rss_javascript)
 - [What’s new in Angular 13](https://www.infoworld.com/article/3629473/whats-new-in-angular-13.html#tk.rss_javascript)
 - [Ruby on Rails 7 overhauls JavaScript support](https://www.infoworld.com/article/3633904/ruby-on-rails-7-overhauls-javascript-support.html#tk.rss_javascript)
 - [Deno 1.14 extends Web Crypto API](https://www.infoworld.com/article/3633615/deno-114-extends-web-crypto-api.html#tk.rss_javascript)
 - [Use the Visual Studio Code editor in your own projects](https://www.infoworld.com/article/3631383/use-the-visual-studio-code-editor-in-your-own-projects.html#tk.rss_javascript)
 - [Deno 1.13 emphasizes HTTP server API stability](https://www.infoworld.com/article/3631536/deno-113-emphasizes-http-server-api-stability.html#tk.rss_javascript)
-- [12 hot language projects riding WebAssembly](https://www.infoworld.com/article/3619608/12-hot-language-projects-riding-webassembly.html#tk.rss_javascript)
 - [An early look at SvelteKit](https://www.infoworld.com/article/3630395/an-early-look-at-sveltekit.html#tk.rss_javascript)
+- [12 hot language projects riding WebAssembly](https://www.infoworld.com/article/3619608/12-hot-language-projects-riding-webassembly.html#tk.rss_javascript)
 - [How to use Auth0 with Node.js and Express](https://www.infoworld.com/article/3629129/how-to-use-auth0-with-nodejs-and-express.html#tk.rss_javascript)
-- [TypeScript 4.4 brings performance boosts](https://www.infoworld.com/article/3626459/typescript-44-brings-performance-boosts.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
