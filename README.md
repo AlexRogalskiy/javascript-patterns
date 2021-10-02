@@ -275,16 +275,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I wrote a guide on how you can mint an NFT with JavaScript if anyone is curious!](https://www.reddit.com/r/javascript/comments/pysruf/i_wrote_a_guide_on_how_you_can_mint_an_nft_with/)
-- [Bracket pair colorization 10,000x faster(Extension Now Implemented in the core of VS Code )](https://www.reddit.com/r/javascript/comments/pyqomt/bracket_pair_colorization_10000x_fasterextension/)
-- [Single Page Application vs Multi Page Application with Rich Harris](https://www.reddit.com/r/javascript/comments/pyo866/single_page_application_vs_multi_page_application/)
-- [The new, improved, version of Node API boilerplate was just released. Now with better organization and built with TypeScript](https://www.reddit.com/r/javascript/comments/pynh9i/the_new_improved_version_of_node_api_boilerplate/)
-- [How to Use Vanilla JS Routers with React](https://www.reddit.com/r/javascript/comments/pymqu9/how_to_use_vanilla_js_routers_with_react/)
-- [GitHub - smallcase/smalllinks: Simple URL shortener built with Fastify. Uses PostgreSQL, Redis, and Kafka.](https://www.reddit.com/r/javascript/comments/pyg7fx/github_smallcasesmalllinks_simple_url_shortener/)
-- [Dynamic Mathematics with JavaScript](https://www.reddit.com/r/javascript/comments/pyg5i7/dynamic_mathematics_with_javascript/)
-- [On throw in React](https://www.reddit.com/r/javascript/comments/pyeibm/on_throw_in_react/)
-- [A note-taking chrome extension built by Vue3 & Vite2.](https://www.reddit.com/r/javascript/comments/pyb3di/a_notetaking_chrome_extension_built_by_vue3_vite2/)
-- [[AskJS] How to determine the hash of a future event from a website?](https://www.reddit.com/r/javascript/comments/py3x89/askjs_how_to_determine_the_hash_of_a_future_event/)
+- [How to read last N bytes of file using NodeJs](https://www.reddit.com/r/javascript/comments/pzgcir/how_to_read_last_n_bytes_of_file_using_nodejs/)
+- [js-ratio - Small script that count size of js resources on links and size of web page, then print sum & ratio](https://www.reddit.com/r/javascript/comments/pzdmjo/jsratio_small_script_that_count_size_of_js/)
+- [Prototype pollution vulnerabilities rife among high-traffic websites, study finds](https://www.reddit.com/r/javascript/comments/pzdgrp/prototype_pollution_vulnerabilities_rife_among/)
+- [This is amazing read - Self-Parking Car in 500 Lines of Code](https://www.reddit.com/r/javascript/comments/pzcxz2/this_is_amazing_read_selfparking_car_in_500_lines/)
+- [MDN Web Docs at Write the Docs Prague 2021](https://www.reddit.com/r/javascript/comments/pzcle8/mdn_web_docs_at_write_the_docs_prague_2021/)
+- [The smallest and fastest command-line coloring package on the internet](https://www.reddit.com/r/javascript/comments/pzb70o/the_smallest_and_fastest_commandline_coloring/)
+- [Trailblazr - a full-stack, sample and feature rich project boilerplate](https://www.reddit.com/r/javascript/comments/pz9eux/trailblazr_a_fullstack_sample_and_feature_rich/)
+- [Open-Source JavaScript projects to celebrate Hacktobefest!](https://www.reddit.com/r/javascript/comments/pz6mq5/opensource_javascript_projects_to_celebrate/)
+- [Bash vs. Python vs. JavaScript: Which Is Better for Automation?](https://www.reddit.com/r/javascript/comments/pz6m47/bash_vs_python_vs_javascript_which_is_better_for/)
+- [In Interviews, Solving Coding Challenges May Not Matter as Much as You Think](https://www.reddit.com/r/javascript/comments/pz28k5/in_interviews_solving_coding_challenges_may_not/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
