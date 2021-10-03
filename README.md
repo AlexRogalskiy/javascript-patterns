@@ -275,16 +275,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to read last N bytes of file using NodeJs](https://www.reddit.com/r/javascript/comments/pzgcir/how_to_read_last_n_bytes_of_file_using_nodejs/)
-- [js-ratio - Small script that count size of js resources on links and size of web page, then print sum & ratio](https://www.reddit.com/r/javascript/comments/pzdmjo/jsratio_small_script_that_count_size_of_js/)
-- [Prototype pollution vulnerabilities rife among high-traffic websites, study finds](https://www.reddit.com/r/javascript/comments/pzdgrp/prototype_pollution_vulnerabilities_rife_among/)
-- [This is amazing read - Self-Parking Car in 500 Lines of Code](https://www.reddit.com/r/javascript/comments/pzcxz2/this_is_amazing_read_selfparking_car_in_500_lines/)
-- [MDN Web Docs at Write the Docs Prague 2021](https://www.reddit.com/r/javascript/comments/pzcle8/mdn_web_docs_at_write_the_docs_prague_2021/)
-- [The smallest and fastest command-line coloring package on the internet](https://www.reddit.com/r/javascript/comments/pzb70o/the_smallest_and_fastest_commandline_coloring/)
-- [Trailblazr - a full-stack, sample and feature rich project boilerplate](https://www.reddit.com/r/javascript/comments/pz9eux/trailblazr_a_fullstack_sample_and_feature_rich/)
-- [Open-Source JavaScript projects to celebrate Hacktobefest!](https://www.reddit.com/r/javascript/comments/pz6mq5/opensource_javascript_projects_to_celebrate/)
-- [Bash vs. Python vs. JavaScript: Which Is Better for Automation?](https://www.reddit.com/r/javascript/comments/pz6m47/bash_vs_python_vs_javascript_which_is_better_for/)
-- [In Interviews, Solving Coding Challenges May Not Matter as Much as You Think](https://www.reddit.com/r/javascript/comments/pz28k5/in_interviews_solving_coding_challenges_may_not/)
+- [Spect runner - update to v0.1.0](https://www.reddit.com/r/javascript/comments/q067w7/spect_runner_update_to_v010/)
+- [[AskJS] For freelancers, which is better: Python or Javascript?](https://www.reddit.com/r/javascript/comments/q05ixg/askjs_for_freelancers_which_is_better_python_or/)
+- [Javascript Developer Jobs](https://www.reddit.com/r/javascript/comments/q01hag/javascript_developer_jobs/)
+- [[AskJS] Shopping Cart Exercise](https://www.reddit.com/r/javascript/comments/pzyj4l/askjs_shopping_cart_exercise/)
+- [[AskJS] Free API for zip code?](https://www.reddit.com/r/javascript/comments/pzwadq/askjs_free_api_for_zip_code/)
+- [[AskJS] Why are all npm packages it seems renaming from `the-package-name` format to `@package-name/core` or similar?](https://www.reddit.com/r/javascript/comments/pzvfzx/askjs_why_are_all_npm_packages_it_seems_renaming/)
+- [[AskJS] Is anyone interested to contribute to this project? A social networking app](https://www.reddit.com/r/javascript/comments/pzt2hv/askjs_is_anyone_interested_to_contribute_to_this/)
+- [File-tree, a Web Component that gives access to the file system of the user’s device](https://www.reddit.com/r/javascript/comments/pzshu0/filetree_a_web_component_that_gives_access_to_the/)
+- [How to Create a Resumable MultiFile Uploader with NodeJs](https://www.reddit.com/r/javascript/comments/pzqmpz/how_to_create_a_resumable_multifile_uploader_with/)
+- [Showoff Saturday (October 02, 2021)](https://www.reddit.com/r/javascript/comments/pzq8u9/showoff_saturday_october_02_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
