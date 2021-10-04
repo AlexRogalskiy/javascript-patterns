@@ -275,16 +275,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Custom 'App' component in Next.Js](https://www.reddit.com/r/javascript/comments/q0v9fy/custom_app_component_in_nextjs/)
+- [[AskJS] Is anyone else fed up with "The purpose of Reflect is to contain, 1:1, a method for each Proxy trap" being used to shoot down any actual REFLECTion methods?](https://www.reddit.com/r/javascript/comments/q0mjw1/askjs_is_anyone_else_fed_up_with_the_purpose_of/)
+- [Join Hacktoberfest 2021 with your squad and contribute as a team to win swag](https://www.reddit.com/r/javascript/comments/q0gyeb/join_hacktoberfest_2021_with_your_squad_and/)
 - [Spect runner - update to v0.1.0](https://www.reddit.com/r/javascript/comments/q067w7/spect_runner_update_to_v010/)
 - [[AskJS] For freelancers, which is better: Python or Javascript?](https://www.reddit.com/r/javascript/comments/q05ixg/askjs_for_freelancers_which_is_better_python_or/)
-- [Javascript Developer Jobs](https://www.reddit.com/r/javascript/comments/q01hag/javascript_developer_jobs/)
 - [[AskJS] Shopping Cart Exercise](https://www.reddit.com/r/javascript/comments/pzyj4l/askjs_shopping_cart_exercise/)
 - [[AskJS] Free API for zip code?](https://www.reddit.com/r/javascript/comments/pzwadq/askjs_free_api_for_zip_code/)
 - [[AskJS] Why are all npm packages it seems renaming from `the-package-name` format to `@package-name/core` or similar?](https://www.reddit.com/r/javascript/comments/pzvfzx/askjs_why_are_all_npm_packages_it_seems_renaming/)
 - [[AskJS] Is anyone interested to contribute to this project? A social networking app](https://www.reddit.com/r/javascript/comments/pzt2hv/askjs_is_anyone_interested_to_contribute_to_this/)
 - [File-tree, a Web Component that gives access to the file system of the user’s device](https://www.reddit.com/r/javascript/comments/pzshu0/filetree_a_web_component_that_gives_access_to_the/)
-- [How to Create a Resumable MultiFile Uploader with NodeJs](https://www.reddit.com/r/javascript/comments/pzqmpz/how_to_create_a_resumable_multifile_uploader_with/)
-- [Showoff Saturday (October 02, 2021)](https://www.reddit.com/r/javascript/comments/pzq8u9/showoff_saturday_october_02_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
