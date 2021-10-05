@@ -275,16 +275,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Custom 'App' component in Next.Js](https://www.reddit.com/r/javascript/comments/q0v9fy/custom_app_component_in_nextjs/)
-- [[AskJS] Is anyone else fed up with "The purpose of Reflect is to contain, 1:1, a method for each Proxy trap" being used to shoot down any actual REFLECTion methods?](https://www.reddit.com/r/javascript/comments/q0mjw1/askjs_is_anyone_else_fed_up_with_the_purpose_of/)
-- [Join Hacktoberfest 2021 with your squad and contribute as a team to win swag](https://www.reddit.com/r/javascript/comments/q0gyeb/join_hacktoberfest_2021_with_your_squad_and/)
-- [Spect runner - update to v0.1.0](https://www.reddit.com/r/javascript/comments/q067w7/spect_runner_update_to_v010/)
-- [[AskJS] For freelancers, which is better: Python or Javascript?](https://www.reddit.com/r/javascript/comments/q05ixg/askjs_for_freelancers_which_is_better_python_or/)
-- [[AskJS] Shopping Cart Exercise](https://www.reddit.com/r/javascript/comments/pzyj4l/askjs_shopping_cart_exercise/)
-- [[AskJS] Free API for zip code?](https://www.reddit.com/r/javascript/comments/pzwadq/askjs_free_api_for_zip_code/)
-- [[AskJS] Why are all npm packages it seems renaming from `the-package-name` format to `@package-name/core` or similar?](https://www.reddit.com/r/javascript/comments/pzvfzx/askjs_why_are_all_npm_packages_it_seems_renaming/)
-- [[AskJS] Is anyone interested to contribute to this project? A social networking app](https://www.reddit.com/r/javascript/comments/pzt2hv/askjs_is_anyone_interested_to_contribute_to_this/)
-- [File-tree, a Web Component that gives access to the file system of the user’s device](https://www.reddit.com/r/javascript/comments/pzshu0/filetree_a_web_component_that_gives_access_to_the/)
+- [Fastify plugin for Vite integration](https://www.reddit.com/r/javascript/comments/q1gdch/fastify_plugin_for_vite_integration/)
+- [[AskJS] How to gauge device performance during runtime?](https://www.reddit.com/r/javascript/comments/q1fkik/askjs_how_to_gauge_device_performance_during/)
+- [I created a state management library that can handle and clean up complex async effects like event listeners in a simple way. The examples are in React but it can be used with any framework or vanilla js. Feedback is much appreciated.](https://www.reddit.com/r/javascript/comments/q1f3fv/i_created_a_state_management_library_that_can/)
+- [What Is TypeScript and Why Should You Care?](https://www.reddit.com/r/javascript/comments/q1ab41/what_is_typescript_and_why_should_you_care/)
+- [Create a feedback admin panel in 15 minutes with refine and Strapi](https://www.reddit.com/r/javascript/comments/q18lem/create_a_feedback_admin_panel_in_15_minutes_with/)
+- [Defining Basic JavaScript Terms: map, filter, and reduce](https://www.reddit.com/r/javascript/comments/q1840d/defining_basic_javascript_terms_map_filter_and/)
+- [[AskJS] Help for a beginner ?](https://www.reddit.com/r/javascript/comments/q181fy/askjs_help_for_a_beginner/)
+- [[AskJS] what is the best game engine for js, that’s free?](https://www.reddit.com/r/javascript/comments/q17pvc/askjs_what_is_the_best_game_engine_for_js_thats/)
+- [Stark Orchestrator for JavaScript Cloud Deployments in Early Beta](https://www.reddit.com/r/javascript/comments/q16vy0/stark_orchestrator_for_javascript_cloud/)
+- [JavaScript Quiz](https://www.reddit.com/r/javascript/comments/q16o23/javascript_quiz/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
