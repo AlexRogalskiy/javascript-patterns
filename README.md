@@ -275,16 +275,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Fastify plugin for Vite integration](https://www.reddit.com/r/javascript/comments/q1gdch/fastify_plugin_for_vite_integration/)
-- [[AskJS] How to gauge device performance during runtime?](https://www.reddit.com/r/javascript/comments/q1fkik/askjs_how_to_gauge_device_performance_during/)
-- [I created a state management library that can handle and clean up complex async effects like event listeners in a simple way. The examples are in React but it can be used with any framework or vanilla js. Feedback is much appreciated.](https://www.reddit.com/r/javascript/comments/q1f3fv/i_created_a_state_management_library_that_can/)
-- [What Is TypeScript and Why Should You Care?](https://www.reddit.com/r/javascript/comments/q1ab41/what_is_typescript_and_why_should_you_care/)
-- [Create a feedback admin panel in 15 minutes with refine and Strapi](https://www.reddit.com/r/javascript/comments/q18lem/create_a_feedback_admin_panel_in_15_minutes_with/)
-- [Defining Basic JavaScript Terms: map, filter, and reduce](https://www.reddit.com/r/javascript/comments/q1840d/defining_basic_javascript_terms_map_filter_and/)
-- [[AskJS] Help for a beginner ?](https://www.reddit.com/r/javascript/comments/q181fy/askjs_help_for_a_beginner/)
-- [[AskJS] what is the best game engine for js, that’s free?](https://www.reddit.com/r/javascript/comments/q17pvc/askjs_what_is_the_best_game_engine_for_js_thats/)
-- [Stark Orchestrator for JavaScript Cloud Deployments in Early Beta](https://www.reddit.com/r/javascript/comments/q16vy0/stark_orchestrator_for_javascript_cloud/)
-- [JavaScript Quiz](https://www.reddit.com/r/javascript/comments/q16o23/javascript_quiz/)
+- [[AskJS] Is there a reason why there isn't a CSS Preprocessor like LESS or SASS that writes Javascript?](https://www.reddit.com/r/javascript/comments/q29yg2/askjs_is_there_a_reason_why_there_isnt_a_css/)
+- [A conventional router for React](https://www.reddit.com/r/javascript/comments/q27v05/a_conventional_router_for_react/)
+- [New free daily/weekly JavaScript newsletter](https://www.reddit.com/r/javascript/comments/q24yil/new_free_dailyweekly_javascript_newsletter/)
+- [13 great games + source code from the JS13K competition | GitHub Blog](https://www.reddit.com/r/javascript/comments/q2452g/13_great_games_source_code_from_the_js13k/)
+- [Why I enjoy Next.js and Vercel](https://www.reddit.com/r/javascript/comments/q236t1/why_i_enjoy_nextjs_and_vercel/)
+- [The First Vue Build Tool For Deno](https://www.reddit.com/r/javascript/comments/q22hkg/the_first_vue_build_tool_for_deno/)
+- [A state management library with inherent support for effect creation and cleanup. Any alpha usage, testing, or feedback would be greatly appreciated!](https://www.reddit.com/r/javascript/comments/q21j6l/a_state_management_library_with_inherent_support/)
+- [Tab Unloading in Firefox 93](https://www.reddit.com/r/javascript/comments/q20q3c/tab_unloading_in_firefox_93/)
+- [[AskJS] What's so fundamentally complex regarding decorators and TC39?](https://www.reddit.com/r/javascript/comments/q1yr1c/askjs_whats_so_fundamentally_complex_regarding/)
+- [[AskJS] New to asynchronous returns and Promises; is it possible to send a Promise from a server to a client app?](https://www.reddit.com/r/javascript/comments/q1wnaw/askjs_new_to_asynchronous_returns_and_promises_is/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
