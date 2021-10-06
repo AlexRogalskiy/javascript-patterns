@@ -264,6 +264,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 
 [![Stargazers over time](https://starchart.cc/AlexRogalskiy/javascript-patterns.svg)][stars_chart]
 
+[![Statistics report](https://cauldron.io/project/5122/stats.svg)][stats_chart]
+
 ## 📎 *OpenGraph Card*
 
 <p align="center" style="text-align:center;">
@@ -483,6 +485,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 
 [stars_chart]: https://starchart.cc/AlexRogalskiy/javascript-patterns
 
+[stats_chart]: https://cauldron.io/project/5122
+
 [contributors]: https://github.com/AlexRogalskiy/javascript-patterns/graphs/contributors
 
-[docs]: https://alexander-rogalsky.gitbook.io/javascript-patterns/
+[docs]: https://alexander-rogalsky.gitbook.io/javascript-patterns
