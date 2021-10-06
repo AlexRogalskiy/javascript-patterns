@@ -365,6 +365,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Dreamix posts*
 
 <!-- DREAMIX-POST-LIST:START -->
+- [First Steps in React: Learn, Build, Enjoy](https://dreamix.eu/blog/frontpage/first-steps-in-react-learn-build-enjoy)
 - [Top 10 Trending JavaScript Frameworks](https://dreamix.eu/blog/frontpage/top-10-trending-javascript-frameworks)
 - [Java vs JavaScript: How to Choose the Right Backend Technology?](https://dreamix.eu/blog/java/java-vs-javascript-how-to-choose-the-right-backend-technology)
 - [Hunting memory leaks in JavaScript using Chrome DevTools](https://dreamix.eu/blog/frontpage/hunting-memory-leaks-in-javascript-using-chrome-devtools)
