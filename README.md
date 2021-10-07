@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Is there a reason why there isn't a CSS Preprocessor like LESS or SASS that writes Javascript?](https://www.reddit.com/r/javascript/comments/q29yg2/askjs_is_there_a_reason_why_there_isnt_a_css/)
-- [A conventional router for React](https://www.reddit.com/r/javascript/comments/q27v05/a_conventional_router_for_react/)
-- [New free daily/weekly JavaScript newsletter](https://www.reddit.com/r/javascript/comments/q24yil/new_free_dailyweekly_javascript_newsletter/)
-- [13 great games + source code from the JS13K competition | GitHub Blog](https://www.reddit.com/r/javascript/comments/q2452g/13_great_games_source_code_from_the_js13k/)
-- [Why I enjoy Next.js and Vercel](https://www.reddit.com/r/javascript/comments/q236t1/why_i_enjoy_nextjs_and_vercel/)
-- [The First Vue Build Tool For Deno](https://www.reddit.com/r/javascript/comments/q22hkg/the_first_vue_build_tool_for_deno/)
-- [A state management library with inherent support for effect creation and cleanup. Any alpha usage, testing, or feedback would be greatly appreciated!](https://www.reddit.com/r/javascript/comments/q21j6l/a_state_management_library_with_inherent_support/)
-- [Tab Unloading in Firefox 93](https://www.reddit.com/r/javascript/comments/q20q3c/tab_unloading_in_firefox_93/)
-- [[AskJS] What's so fundamentally complex regarding decorators and TC39?](https://www.reddit.com/r/javascript/comments/q1yr1c/askjs_whats_so_fundamentally_complex_regarding/)
-- [[AskJS] New to asynchronous returns and Promises; is it possible to send a Promise from a server to a client app?](https://www.reddit.com/r/javascript/comments/q1wnaw/askjs_new_to_asynchronous_returns_and_promises_is/)
+- [A Chrome extension that lets change and customizes the default GitHub code viewer font.](https://www.reddit.com/r/javascript/comments/q2vudn/a_chrome_extension_that_lets_change_and/)
+- [5 Great SEO Ideas To Improve Angular Website Ranking](https://www.reddit.com/r/javascript/comments/q2v7da/5_great_seo_ideas_to_improve_angular_website/)
+- [Summon The JSON: JavaScript 5.0 released](https://www.reddit.com/r/javascript/comments/q2t2o5/summon_the_json_javascript_50_released/)
+- [js13kGames 2021 winners, top in criteria, and expert picks](https://www.reddit.com/r/javascript/comments/q2sfnm/js13kgames_2021_winners_top_in_criteria_and/)
+- [WASM-4 is a virtual game console for building retro games directly in WebAssembly](https://www.reddit.com/r/javascript/comments/q2ro2t/wasm4_is_a_virtual_game_console_for_building/)
+- [Made a Typing Survival game in 4KB of javascript. Quite challenging, known highscore yet is 111 while my own high score is 92.](https://www.reddit.com/r/javascript/comments/q2qf5g/made_a_typing_survival_game_in_4kb_of_javascript/)
+- [Control your data for good with Rally](https://www.reddit.com/r/javascript/comments/q2odbc/control_your_data_for_good_with_rally/)
+- [Is your babel's transform-runtime getting lazy? You better check.](https://www.reddit.com/r/javascript/comments/q2ngpe/is_your_babels_transformruntime_getting_lazy_you/)
+- [Vizzu: Open-source library for animated data visualizations and data stories](https://www.reddit.com/r/javascript/comments/q2m6kr/vizzu_opensource_library_for_animated_data/)
+- [What unit test tool should I bring to my JavaScript team?](https://www.reddit.com/r/javascript/comments/q2l7l0/what_unit_test_tool_should_i_bring_to_my/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
