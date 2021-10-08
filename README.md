@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [A Chrome extension that lets change and customizes the default GitHub code viewer font.](https://www.reddit.com/r/javascript/comments/q2vudn/a_chrome_extension_that_lets_change_and/)
-- [5 Great SEO Ideas To Improve Angular Website Ranking](https://www.reddit.com/r/javascript/comments/q2v7da/5_great_seo_ideas_to_improve_angular_website/)
-- [Summon The JSON: JavaScript 5.0 released](https://www.reddit.com/r/javascript/comments/q2t2o5/summon_the_json_javascript_50_released/)
-- [js13kGames 2021 winners, top in criteria, and expert picks](https://www.reddit.com/r/javascript/comments/q2sfnm/js13kgames_2021_winners_top_in_criteria_and/)
-- [WASM-4 is a virtual game console for building retro games directly in WebAssembly](https://www.reddit.com/r/javascript/comments/q2ro2t/wasm4_is_a_virtual_game_console_for_building/)
-- [Made a Typing Survival game in 4KB of javascript. Quite challenging, known highscore yet is 111 while my own high score is 92.](https://www.reddit.com/r/javascript/comments/q2qf5g/made_a_typing_survival_game_in_4kb_of_javascript/)
-- [Control your data for good with Rally](https://www.reddit.com/r/javascript/comments/q2odbc/control_your_data_for_good_with_rally/)
-- [Is your babel's transform-runtime getting lazy? You better check.](https://www.reddit.com/r/javascript/comments/q2ngpe/is_your_babels_transformruntime_getting_lazy_you/)
-- [Vizzu: Open-source library for animated data visualizations and data stories](https://www.reddit.com/r/javascript/comments/q2m6kr/vizzu_opensource_library_for_animated_data/)
-- [What unit test tool should I bring to my JavaScript team?](https://www.reddit.com/r/javascript/comments/q2l7l0/what_unit_test_tool_should_i_bring_to_my/)
+- [Bundle: calculates real library bundle size based on custom-specified exports](https://www.reddit.com/r/javascript/comments/q3mg2s/bundle_calculates_real_library_bundle_size_based/)
+- [State of CSS survey: help us find out which CSS-in-JS libraries are gaining traction, and much more](https://www.reddit.com/r/javascript/comments/q3l6nc/state_of_css_survey_help_us_find_out_which/)
+- [Visual Studio Code September 2021](https://www.reddit.com/r/javascript/comments/q3ilvb/visual_studio_code_september_2021/)
+- [This package will simplify the process of encrypting and decrypting data for your application based on the aes-256-gcm algorithm.](https://www.reddit.com/r/javascript/comments/q3i7sz/this_package_will_simplify_the_process_of/)
+- [Major NPM outage](https://www.reddit.com/r/javascript/comments/q3dk0p/major_npm_outage/)
+- [I built an open-source GraphQL powered search engine for your AWS infrastructure using TypeScript](https://www.reddit.com/r/javascript/comments/q3dfsj/i_built_an_opensource_graphql_powered_search/)
+- [Implementing form filling and accessibility in the Firefox PDF viewer](https://www.reddit.com/r/javascript/comments/q3cvor/implementing_form_filling_and_accessibility_in/)
+- [ECMAScript2021 adds new features WeakRef and FinalizationRegistry](https://www.reddit.com/r/javascript/comments/q3b5id/ecmascript2021_adds_new_features_weakref_and/)
+- [Presetter - Reuse your config files and build scripts over JS projects](https://www.reddit.com/r/javascript/comments/q3azhp/presetter_reuse_your_config_files_and_build/)
+- [[AskJS] What useful dev tools do you wish more people knew about?](https://www.reddit.com/r/javascript/comments/q396fn/askjs_what_useful_dev_tools_do_you_wish_more/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
