@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Replicating the basic functionality of an Instagram bot with JavaScript](https://www.reddit.com/r/javascript/comments/q47uwl/replicating_the_basic_functionality_of_an/)
-- [Lots to see in Firefox 93!](https://www.reddit.com/r/javascript/comments/q43tc6/lots_to_see_in_firefox_93/)
-- [GitHub - gluecodes/storecle: A neat uni-directional app state management for React and Solid.](https://www.reddit.com/r/javascript/comments/q40l5n/github_gluecodesstorecle_a_neat_unidirectional/)
-- [xterm.js - Build terminals in the browser](https://www.reddit.com/r/javascript/comments/q3yume/xtermjs_build_terminals_in_the_browser/)
-- [JavaScript & Web Dev Bundle from Zenva](https://www.reddit.com/r/javascript/comments/q3twtb/javascript_web_dev_bundle_from_zenva/)
-- [Bundle: calculates real library bundle size based on custom-specified exports](https://www.reddit.com/r/javascript/comments/q3mg2s/bundle_calculates_real_library_bundle_size_based/)
-- [State of CSS survey: help us find out which CSS-in-JS libraries are gaining traction, and much more](https://www.reddit.com/r/javascript/comments/q3l6nc/state_of_css_survey_help_us_find_out_which/)
-- [Visual Studio Code September 2021](https://www.reddit.com/r/javascript/comments/q3ilvb/visual_studio_code_september_2021/)
-- [This package will simplify the process of encrypting and decrypting data for your application based on the aes-256-gcm algorithm.](https://www.reddit.com/r/javascript/comments/q3i7sz/this_package_will_simplify_the_process_of/)
-- [Major NPM outage](https://www.reddit.com/r/javascript/comments/q3dk0p/major_npm_outage/)
+- [GitHub - ddla12/ChatBot A lightweight library to make simple chatbots to your projects](https://www.reddit.com/r/javascript/comments/q4xjrk/github_ddla12chatbot_a_lightweight_library_to/)
+- [[AskJS] How can I use JS to simulate a spinning rod with LEDs?](https://www.reddit.com/r/javascript/comments/q4vuyi/askjs_how_can_i_use_js_to_simulate_a_spinning_rod/)
+- [What is API-Gateway and when is it needed?](https://www.reddit.com/r/javascript/comments/q4uwlc/what_is_apigateway_and_when_is_it_needed/)
+- [GitHub - yewang/besogo: Embeddable SGF editor/viewer for the game of Go (aka Weiqi, Baduk)](https://www.reddit.com/r/javascript/comments/q4nt4t/github_yewangbesogo_embeddable_sgf_editorviewer/)
+- [txtai 3.4 released - Build AI-powered semantic search applications in JavaScript](https://www.reddit.com/r/javascript/comments/q4k0no/txtai_34_released_build_aipowered_semantic_search/)
+- [I just created a new project called Kotaplate, an admin template alternatif for AdminLTE hoping your feedback thank you](https://www.reddit.com/r/javascript/comments/q4jtz0/i_just_created_a_new_project_called_kotaplate_an/)
+- [Handling global state in React without Providers and boilerplate](https://www.reddit.com/r/javascript/comments/q4im6t/handling_global_state_in_react_without_providers/)
+- [JavaScript & Web Dev eBook Bundle from Zenva](https://www.reddit.com/r/javascript/comments/q4hk48/javascript_web_dev_ebook_bundle_from_zenva/)
+- [Showoff Saturday (October 09, 2021)](https://www.reddit.com/r/javascript/comments/q4g1yz/showoff_saturday_october_09_2021/)
+- [[AskJS] Do you use Object.seal()/freeze() often?](https://www.reddit.com/r/javascript/comments/q4eblp/askjs_do_you_use_objectsealfreeze_often/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
