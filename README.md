@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [GitHub - ddla12/ChatBot A lightweight library to make simple chatbots to your projects](https://www.reddit.com/r/javascript/comments/q4xjrk/github_ddla12chatbot_a_lightweight_library_to/)
-- [[AskJS] How can I use JS to simulate a spinning rod with LEDs?](https://www.reddit.com/r/javascript/comments/q4vuyi/askjs_how_can_i_use_js_to_simulate_a_spinning_rod/)
-- [What is API-Gateway and when is it needed?](https://www.reddit.com/r/javascript/comments/q4uwlc/what_is_apigateway_and_when_is_it_needed/)
-- [GitHub - yewang/besogo: Embeddable SGF editor/viewer for the game of Go (aka Weiqi, Baduk)](https://www.reddit.com/r/javascript/comments/q4nt4t/github_yewangbesogo_embeddable_sgf_editorviewer/)
-- [txtai 3.4 released - Build AI-powered semantic search applications in JavaScript](https://www.reddit.com/r/javascript/comments/q4k0no/txtai_34_released_build_aipowered_semantic_search/)
-- [I just created a new project called Kotaplate, an admin template alternatif for AdminLTE hoping your feedback thank you](https://www.reddit.com/r/javascript/comments/q4jtz0/i_just_created_a_new_project_called_kotaplate_an/)
-- [Handling global state in React without Providers and boilerplate](https://www.reddit.com/r/javascript/comments/q4im6t/handling_global_state_in_react_without_providers/)
-- [JavaScript & Web Dev eBook Bundle from Zenva](https://www.reddit.com/r/javascript/comments/q4hk48/javascript_web_dev_ebook_bundle_from_zenva/)
-- [Showoff Saturday (October 09, 2021)](https://www.reddit.com/r/javascript/comments/q4g1yz/showoff_saturday_october_09_2021/)
-- [[AskJS] Do you use Object.seal()/freeze() often?](https://www.reddit.com/r/javascript/comments/q4eblp/askjs_do_you_use_objectsealfreeze_often/)
+- [TinyJson - State database without dependencies.](https://www.reddit.com/r/javascript/comments/q5f9ax/tinyjson_state_database_without_dependencies/)
+- [What is Immutability and why I love it](https://www.reddit.com/r/javascript/comments/q5f4j4/what_is_immutability_and_why_i_love_it/)
+- [[AskJS] Confusions about different ways of displaying images from an external url using JavaScript](https://www.reddit.com/r/javascript/comments/q5enwh/askjs_confusions_about_different_ways_of/)
+- [[AskJS] Confusion on memory leaks caused by not clearing the timeout in the fetch handlers](https://www.reddit.com/r/javascript/comments/q5di46/askjs_confusion_on_memory_leaks_caused_by_not/)
+- [[AskJS] Program that takes online content and downloads or screen record it.](https://www.reddit.com/r/javascript/comments/q5ddtz/askjs_program_that_takes_online_content_and/)
+- [Gramma: command-line grammar checker with markdown support and Git integration](https://www.reddit.com/r/javascript/comments/q5ci2p/gramma_commandline_grammar_checker_with_markdown/)
+- [I have created a robot that generates Google presentations from Wikipedia article](https://www.reddit.com/r/javascript/comments/q58637/i_have_created_a_robot_that_generates_google/)
+- [Javascript stays most popular programming tech - Times of India](https://www.reddit.com/r/javascript/comments/q5771a/javascript_stays_most_popular_programming_tech/)
+- [A simple boilerplate generator for your node express backend project](https://www.reddit.com/r/javascript/comments/q55pz1/a_simple_boilerplate_generator_for_your_node/)
+- [The Shocking Immaturity of JavaScript. "I'm on a team that is in a constant mode of struggle and churn due to dealing with largely obvious issues related to the most popular tools for backend & frontend JavaScript (at least according to their massive star counts on GitHub)."](https://www.reddit.com/r/javascript/comments/q54dpy/the_shocking_immaturity_of_javascript_im_on_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
