@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [TinyJson - State database without dependencies.](https://www.reddit.com/r/javascript/comments/q5f9ax/tinyjson_state_database_without_dependencies/)
-- [What is Immutability and why I love it](https://www.reddit.com/r/javascript/comments/q5f4j4/what_is_immutability_and_why_i_love_it/)
-- [[AskJS] Confusions about different ways of displaying images from an external url using JavaScript](https://www.reddit.com/r/javascript/comments/q5enwh/askjs_confusions_about_different_ways_of/)
-- [[AskJS] Confusion on memory leaks caused by not clearing the timeout in the fetch handlers](https://www.reddit.com/r/javascript/comments/q5di46/askjs_confusion_on_memory_leaks_caused_by_not/)
-- [[AskJS] Program that takes online content and downloads or screen record it.](https://www.reddit.com/r/javascript/comments/q5ddtz/askjs_program_that_takes_online_content_and/)
-- [Gramma: command-line grammar checker with markdown support and Git integration](https://www.reddit.com/r/javascript/comments/q5ci2p/gramma_commandline_grammar_checker_with_markdown/)
-- [I have created a robot that generates Google presentations from Wikipedia article](https://www.reddit.com/r/javascript/comments/q58637/i_have_created_a_robot_that_generates_google/)
-- [Javascript stays most popular programming tech - Times of India](https://www.reddit.com/r/javascript/comments/q5771a/javascript_stays_most_popular_programming_tech/)
-- [A simple boilerplate generator for your node express backend project](https://www.reddit.com/r/javascript/comments/q55pz1/a_simple_boilerplate_generator_for_your_node/)
-- [The Shocking Immaturity of JavaScript. "I'm on a team that is in a constant mode of struggle and churn due to dealing with largely obvious issues related to the most popular tools for backend & frontend JavaScript (at least according to their massive star counts on GitHub)."](https://www.reddit.com/r/javascript/comments/q54dpy/the_shocking_immaturity_of_javascript_im_on_a/)
+- [Remix.run is going free and open source!](https://www.reddit.com/r/javascript/comments/q6b5lh/remixrun_is_going_free_and_open_source/)
+- [[AskJS] How to hot reload an iframe when the source is updated?](https://www.reddit.com/r/javascript/comments/q683rw/askjs_how_to_hot_reload_an_iframe_when_the_source/)
+- [[AskJS] having trouble to implement my own Promise.all with iterable](https://www.reddit.com/r/javascript/comments/q66a3z/askjs_having_trouble_to_implement_my_own/)
+- [GitHub - wwwtyro/sdf-csg: Generate meshes from signed distance functions and constructive solid geometry operations.](https://www.reddit.com/r/javascript/comments/q65ts8/github_wwwtyrosdfcsg_generate_meshes_from_signed/)
+- [PoC: a free open-source tool for practicing JavaScript (other technologies coming soon)](https://www.reddit.com/r/javascript/comments/q61zay/poc_a_free_opensource_tool_for_practicing/)
+- [Webview UI Toolkit for Visual Studio Code](https://www.reddit.com/r/javascript/comments/q616ld/webview_ui_toolkit_for_visual_studio_code/)
+- [CELO's Make Crypto Mobile Hackathon just launched with $2.5M Prize](https://www.reddit.com/r/javascript/comments/q5wjyd/celos_make_crypto_mobile_hackathon_just_launched/)
+- [Webinar on integrating Next.js Commerce frontend with open-source Spree Commerce backend](https://www.reddit.com/r/javascript/comments/q5uuht/webinar_on_integrating_nextjs_commerce_frontend/)
+- [10 Javascript Design Patterns To Improve Your Code With](https://www.reddit.com/r/javascript/comments/q5u3yv/10_javascript_design_patterns_to_improve_your/)
+- [Write better JavaScript, function composition with pipe and compose](https://www.reddit.com/r/javascript/comments/q5t5y0/write_better_javascript_function_composition_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
