@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Remix.run is going free and open source!](https://www.reddit.com/r/javascript/comments/q6b5lh/remixrun_is_going_free_and_open_source/)
-- [[AskJS] How to hot reload an iframe when the source is updated?](https://www.reddit.com/r/javascript/comments/q683rw/askjs_how_to_hot_reload_an_iframe_when_the_source/)
-- [[AskJS] having trouble to implement my own Promise.all with iterable](https://www.reddit.com/r/javascript/comments/q66a3z/askjs_having_trouble_to_implement_my_own/)
-- [GitHub - wwwtyro/sdf-csg: Generate meshes from signed distance functions and constructive solid geometry operations.](https://www.reddit.com/r/javascript/comments/q65ts8/github_wwwtyrosdfcsg_generate_meshes_from_signed/)
-- [PoC: a free open-source tool for practicing JavaScript (other technologies coming soon)](https://www.reddit.com/r/javascript/comments/q61zay/poc_a_free_opensource_tool_for_practicing/)
-- [Webview UI Toolkit for Visual Studio Code](https://www.reddit.com/r/javascript/comments/q616ld/webview_ui_toolkit_for_visual_studio_code/)
-- [CELO's Make Crypto Mobile Hackathon just launched with $2.5M Prize](https://www.reddit.com/r/javascript/comments/q5wjyd/celos_make_crypto_mobile_hackathon_just_launched/)
-- [Webinar on integrating Next.js Commerce frontend with open-source Spree Commerce backend](https://www.reddit.com/r/javascript/comments/q5uuht/webinar_on_integrating_nextjs_commerce_frontend/)
-- [10 Javascript Design Patterns To Improve Your Code With](https://www.reddit.com/r/javascript/comments/q5u3yv/10_javascript_design_patterns_to_improve_your/)
-- [Write better JavaScript, function composition with pipe and compose](https://www.reddit.com/r/javascript/comments/q5t5y0/write_better_javascript_function_composition_with/)
+- [6 Concrete Tips That Will Make Your React Pull Requests Easier To Review](https://www.reddit.com/r/javascript/comments/q6vi4t/6_concrete_tips_that_will_make_your_react_pull/)
+- [[AskJS] Are there any JS libraries that will parse a date string and return a format string?](https://www.reddit.com/r/javascript/comments/q6uwsl/askjs_are_there_any_js_libraries_that_will_parse/)
+- [Add Images to Gatsby Blog](https://www.reddit.com/r/javascript/comments/q6uq0y/add_images_to_gatsby_blog/)
+- [Most popular mistake to ruin Webpack bundle optimization](https://www.reddit.com/r/javascript/comments/q6pc8j/most_popular_mistake_to_ruin_webpack_bundle/)
+- [Hundreds of Retro Games from 80s and 90s Running Smoothly* In Any Web Browser (JavaScript Embedded)](https://www.reddit.com/r/javascript/comments/q6paon/hundreds_of_retro_games_from_80s_and_90s_running/)
+- [Talkr v3 is out: the tiniest React i18n library (<1kb) now provides autocompletion for your translations!](https://www.reddit.com/r/javascript/comments/q6ozdd/talkr_v3_is_out_the_tiniest_react_i18n_library/)
+- [[AskJS] teaching opportunities- fundamentals](https://www.reddit.com/r/javascript/comments/q6ofa4/askjs_teaching_opportunities_fundamentals/)
+- [The DERN stack, the perfect alternative to MERN stack for Serverless](https://www.reddit.com/r/javascript/comments/q6o1fq/the_dern_stack_the_perfect_alternative_to_mern/)
+- [Why I built my own static site generator](https://www.reddit.com/r/javascript/comments/q6mh4f/why_i_built_my_own_static_site_generator/)
+- [We've been lied to: JavaScript is very fast](https://www.reddit.com/r/javascript/comments/q6lv9t/weve_been_lied_to_javascript_is_very_fast/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
