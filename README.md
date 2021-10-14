@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [6 Concrete Tips That Will Make Your React Pull Requests Easier To Review](https://www.reddit.com/r/javascript/comments/q6vi4t/6_concrete_tips_that_will_make_your_react_pull/)
-- [[AskJS] Are there any JS libraries that will parse a date string and return a format string?](https://www.reddit.com/r/javascript/comments/q6uwsl/askjs_are_there_any_js_libraries_that_will_parse/)
-- [Add Images to Gatsby Blog](https://www.reddit.com/r/javascript/comments/q6uq0y/add_images_to_gatsby_blog/)
-- [Most popular mistake to ruin Webpack bundle optimization](https://www.reddit.com/r/javascript/comments/q6pc8j/most_popular_mistake_to_ruin_webpack_bundle/)
-- [Hundreds of Retro Games from 80s and 90s Running Smoothly* In Any Web Browser (JavaScript Embedded)](https://www.reddit.com/r/javascript/comments/q6paon/hundreds_of_retro_games_from_80s_and_90s_running/)
-- [Talkr v3 is out: the tiniest React i18n library (<1kb) now provides autocompletion for your translations!](https://www.reddit.com/r/javascript/comments/q6ozdd/talkr_v3_is_out_the_tiniest_react_i18n_library/)
-- [[AskJS] teaching opportunities- fundamentals](https://www.reddit.com/r/javascript/comments/q6ofa4/askjs_teaching_opportunities_fundamentals/)
-- [The DERN stack, the perfect alternative to MERN stack for Serverless](https://www.reddit.com/r/javascript/comments/q6o1fq/the_dern_stack_the_perfect_alternative_to_mern/)
-- [Why I built my own static site generator](https://www.reddit.com/r/javascript/comments/q6mh4f/why_i_built_my_own_static_site_generator/)
-- [We've been lied to: JavaScript is very fast](https://www.reddit.com/r/javascript/comments/q6lv9t/weve_been_lied_to_javascript_is_very_fast/)
+- [[AskJS] How Write Clean Code?](https://www.reddit.com/r/javascript/comments/q7pd9r/askjs_how_write_clean_code/)
+- [Announcing Parcel v2](https://www.reddit.com/r/javascript/comments/q7n0fo/announcing_parcel_v2/)
+- [Building a complex Chrome Extension with Webpack and Vue.js: source code of Willpower](https://www.reddit.com/r/javascript/comments/q7j4ru/building_a_complex_chrome_extension_with_webpack/)
+- [V8 release v9.6](https://www.reddit.com/r/javascript/comments/q7iftp/v8_release_v96/)
+- [Learn TypeScript in 5 minutes](https://www.reddit.com/r/javascript/comments/q7g8ni/learn_typescript_in_5_minutes/)
+- [Perf improvements coming to Storybook 6.4](https://www.reddit.com/r/javascript/comments/q7ertu/perf_improvements_coming_to_storybook_64/)
+- [GitHub - A lexical analyzer based on DFA that is built using JS and supports multi-language extensions](https://www.reddit.com/r/javascript/comments/q7el7o/github_a_lexical_analyzer_based_on_dfa_that_is/)
+- [[AskJS] OOP or Functional programming in projects?](https://www.reddit.com/r/javascript/comments/q7dhys/askjs_oop_or_functional_programming_in_projects/)
+- [Generating a multi-language blog based in Markdown](https://www.reddit.com/r/javascript/comments/q7ajud/generating_a_multilanguage_blog_based_in_markdown/)
+- [WTF Wednesday (October 13, 2021)](https://www.reddit.com/r/javascript/comments/q75mdz/wtf_wednesday_october_13_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
