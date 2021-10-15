@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [HyperExpress v5: Now With Modular Routers, Event Based Websocket Flow, Reduced Package Size And More](https://www.reddit.com/r/javascript/comments/q8a4u3/hyperexpress_v5_now_with_modular_routers_event/)
+- [A simple guide to Web Scraping with NodeJS](https://www.reddit.com/r/javascript/comments/q852q1/a_simple_guide_to_web_scraping_with_nodejs/)
+- [TypeScript is the Only Programming Language you Need: TypeScript Everywhere. One language to rule them all! I'm just TypeScript developer but totally work for JavaScript.](https://www.reddit.com/r/javascript/comments/q82pg6/typescript_is_the_only_programming_language_you/)
+- [JavaScript Framework TodoMVC Size Comparison](https://www.reddit.com/r/javascript/comments/q80uzk/javascript_framework_todomvc_size_comparison/)
+- [god-tier-serializer: Convert any value to and from a serialized string with no headache.](https://www.reddit.com/r/javascript/comments/q80ry4/godtierserializer_convert_any_value_to_and_from_a/)
+- [[AskJS] Is React complex to learn?](https://www.reddit.com/r/javascript/comments/q7zmgq/askjs_is_react_complex_to_learn/)
+- [Read This If You're Struggling To Find Your First Dev Job](https://www.reddit.com/r/javascript/comments/q7zbv3/read_this_if_youre_struggling_to_find_your_first/)
+- [Private fields, methods and, accessors in JavaScript](https://www.reddit.com/r/javascript/comments/q7tbd6/private_fields_methods_and_accessors_in_javascript/)
+- [New Docs - Islands of Interactivity with Vue 3 in Vite.js](https://www.reddit.com/r/javascript/comments/q7pzxj/new_docs_islands_of_interactivity_with_vue_3_in/)
 - [[AskJS] How Write Clean Code?](https://www.reddit.com/r/javascript/comments/q7pd9r/askjs_how_write_clean_code/)
-- [Announcing Parcel v2](https://www.reddit.com/r/javascript/comments/q7n0fo/announcing_parcel_v2/)
-- [Building a complex Chrome Extension with Webpack and Vue.js: source code of Willpower](https://www.reddit.com/r/javascript/comments/q7j4ru/building_a_complex_chrome_extension_with_webpack/)
-- [V8 release v9.6](https://www.reddit.com/r/javascript/comments/q7iftp/v8_release_v96/)
-- [Learn TypeScript in 5 minutes](https://www.reddit.com/r/javascript/comments/q7g8ni/learn_typescript_in_5_minutes/)
-- [Perf improvements coming to Storybook 6.4](https://www.reddit.com/r/javascript/comments/q7ertu/perf_improvements_coming_to_storybook_64/)
-- [GitHub - A lexical analyzer based on DFA that is built using JS and supports multi-language extensions](https://www.reddit.com/r/javascript/comments/q7el7o/github_a_lexical_analyzer_based_on_dfa_that_is/)
-- [[AskJS] OOP or Functional programming in projects?](https://www.reddit.com/r/javascript/comments/q7dhys/askjs_oop_or_functional_programming_in_projects/)
-- [Generating a multi-language blog based in Markdown](https://www.reddit.com/r/javascript/comments/q7ajud/generating_a_multilanguage_blog_based_in_markdown/)
-- [WTF Wednesday (October 13, 2021)](https://www.reddit.com/r/javascript/comments/q75mdz/wtf_wednesday_october_13_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
