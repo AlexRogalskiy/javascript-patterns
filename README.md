@@ -300,8 +300,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Deno 1.14 extends Web Crypto API](https://www.infoworld.com/article/3633615/deno-114-extends-web-crypto-api.html#tk.rss_javascript)
 - [Use the Visual Studio Code editor in your own projects](https://www.infoworld.com/article/3631383/use-the-visual-studio-code-editor-in-your-own-projects.html#tk.rss_javascript)
 - [Deno 1.13 emphasizes HTTP server API stability](https://www.infoworld.com/article/3631536/deno-113-emphasizes-http-server-api-stability.html#tk.rss_javascript)
-- [An early look at SvelteKit](https://www.infoworld.com/article/3630395/an-early-look-at-sveltekit.html#tk.rss_javascript)
 - [12 hot language projects riding WebAssembly](https://www.infoworld.com/article/3619608/12-hot-language-projects-riding-webassembly.html#tk.rss_javascript)
+- [An early look at SvelteKit](https://www.infoworld.com/article/3630395/an-early-look-at-sveltekit.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
