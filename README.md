@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [HyperExpress v5: Now With Modular Routers, Event Based Websocket Flow, Reduced Package Size And More](https://www.reddit.com/r/javascript/comments/q8a4u3/hyperexpress_v5_now_with_modular_routers_event/)
-- [A simple guide to Web Scraping with NodeJS](https://www.reddit.com/r/javascript/comments/q852q1/a_simple_guide_to_web_scraping_with_nodejs/)
-- [TypeScript is the Only Programming Language you Need: TypeScript Everywhere. One language to rule them all! I'm just TypeScript developer but totally work for JavaScript.](https://www.reddit.com/r/javascript/comments/q82pg6/typescript_is_the_only_programming_language_you/)
-- [JavaScript Framework TodoMVC Size Comparison](https://www.reddit.com/r/javascript/comments/q80uzk/javascript_framework_todomvc_size_comparison/)
-- [god-tier-serializer: Convert any value to and from a serialized string with no headache.](https://www.reddit.com/r/javascript/comments/q80ry4/godtierserializer_convert_any_value_to_and_from_a/)
-- [[AskJS] Is React complex to learn?](https://www.reddit.com/r/javascript/comments/q7zmgq/askjs_is_react_complex_to_learn/)
-- [Read This If You're Struggling To Find Your First Dev Job](https://www.reddit.com/r/javascript/comments/q7zbv3/read_this_if_youre_struggling_to_find_your_first/)
-- [Private fields, methods and, accessors in JavaScript](https://www.reddit.com/r/javascript/comments/q7tbd6/private_fields_methods_and_accessors_in_javascript/)
-- [New Docs - Islands of Interactivity with Vue 3 in Vite.js](https://www.reddit.com/r/javascript/comments/q7pzxj/new_docs_islands_of_interactivity_with_vue_3_in/)
-- [[AskJS] How Write Clean Code?](https://www.reddit.com/r/javascript/comments/q7pd9r/askjs_how_write_clean_code/)
+- [[AskJS] Why are these Promises resolving in such an order](https://www.reddit.com/r/javascript/comments/q92333/askjs_why_are_these_promises_resolving_in_such_an/)
+- [[AskJS] Do you know any library that can handle time with custom measures?](https://www.reddit.com/r/javascript/comments/q902id/askjs_do_you_know_any_library_that_can_handle/)
+- [[AskJS] Does anyone know how to find an endpoint in an API given a JSON file?](https://www.reddit.com/r/javascript/comments/q8ztgq/askjs_does_anyone_know_how_to_find_an_endpoint_in/)
+- [jQuery maintainers continue modernization initiative with deprecation of jQuery Mobile](https://www.reddit.com/r/javascript/comments/q8wnb3/jquery_maintainers_continue_modernization/)
+- [TwirpScript - A simple RPC framework for JavaScript and TypeScript](https://www.reddit.com/r/javascript/comments/q8v5w8/twirpscript_a_simple_rpc_framework_for_javascript/)
+- [[AskJS] Does anyone know what API powers the "Your Carts" card on the New Tab page?](https://www.reddit.com/r/javascript/comments/q8uwkw/askjs_does_anyone_know_what_api_powers_the_your/)
+- [GitHub : A lexical analyzer based on DFA that is built using JS and supports multi-language extensions](https://www.reddit.com/r/javascript/comments/q8ssps/github_a_lexical_analyzer_based_on_dfa_that_is/)
+- [Theatre.js - Motion Design, for the web. Theatre.js is a JavaScript animation library with a GUI. It animates the DOM, WebGL, and any other JavaScript variable](https://www.reddit.com/r/javascript/comments/q8p1bf/theatrejs_motion_design_for_the_web_theatrejs_is/)
+- [The Single-Page-App Morality Play](https://www.reddit.com/r/javascript/comments/q8orgz/the_singlepageapp_morality_play/)
+- [NFT Marketplace on Ethereum with Polygon and Next.js](https://www.reddit.com/r/javascript/comments/q8fxcy/nft_marketplace_on_ethereum_with_polygon_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
