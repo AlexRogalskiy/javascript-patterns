@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Why are these Promises resolving in such an order](https://www.reddit.com/r/javascript/comments/q92333/askjs_why_are_these_promises_resolving_in_such_an/)
-- [[AskJS] Do you know any library that can handle time with custom measures?](https://www.reddit.com/r/javascript/comments/q902id/askjs_do_you_know_any_library_that_can_handle/)
-- [[AskJS] Does anyone know how to find an endpoint in an API given a JSON file?](https://www.reddit.com/r/javascript/comments/q8ztgq/askjs_does_anyone_know_how_to_find_an_endpoint_in/)
-- [jQuery maintainers continue modernization initiative with deprecation of jQuery Mobile](https://www.reddit.com/r/javascript/comments/q8wnb3/jquery_maintainers_continue_modernization/)
-- [TwirpScript - A simple RPC framework for JavaScript and TypeScript](https://www.reddit.com/r/javascript/comments/q8v5w8/twirpscript_a_simple_rpc_framework_for_javascript/)
-- [[AskJS] Does anyone know what API powers the "Your Carts" card on the New Tab page?](https://www.reddit.com/r/javascript/comments/q8uwkw/askjs_does_anyone_know_what_api_powers_the_your/)
-- [GitHub : A lexical analyzer based on DFA that is built using JS and supports multi-language extensions](https://www.reddit.com/r/javascript/comments/q8ssps/github_a_lexical_analyzer_based_on_dfa_that_is/)
-- [Theatre.js - Motion Design, for the web. Theatre.js is a JavaScript animation library with a GUI. It animates the DOM, WebGL, and any other JavaScript variable](https://www.reddit.com/r/javascript/comments/q8p1bf/theatrejs_motion_design_for_the_web_theatrejs_is/)
-- [The Single-Page-App Morality Play](https://www.reddit.com/r/javascript/comments/q8orgz/the_singlepageapp_morality_play/)
-- [NFT Marketplace on Ethereum with Polygon and Next.js](https://www.reddit.com/r/javascript/comments/q8fxcy/nft_marketplace_on_ethereum_with_polygon_and/)
+- [I launched Autobundle project which automatic bundle your dependency, ideally from Bundlephobia, powered by esbuild](https://www.reddit.com/r/javascript/comments/q9nr1d/i_launched_autobundle_project_which_automatic/)
+- [Message queues — what are they and why are they used?](https://www.reddit.com/r/javascript/comments/q9lsn5/message_queues_what_are_they_and_why_are_they_used/)
+- [[AskJS] doubt regarding global object](https://www.reddit.com/r/javascript/comments/q9l79a/askjs_doubt_regarding_global_object/)
+- [Gramma - interactive, multilingual command-line grammar checker for JS/TS projects - free and open-source (with optional Git integration)](https://www.reddit.com/r/javascript/comments/q9eykv/gramma_interactive_multilingual_commandline/)
+- [Const vs. Let vs. Var in Javascript. Which one should you use?](https://www.reddit.com/r/javascript/comments/q9cl4x/const_vs_let_vs_var_in_javascript_which_one/)
+- [Understanding the role of linters & ESLint in your stack](https://www.reddit.com/r/javascript/comments/q9bvvw/understanding_the_role_of_linters_eslint_in_your/)
+- [N64 Wasm: A modern web based N64 emulator](https://www.reddit.com/r/javascript/comments/q99n7y/n64_wasm_a_modern_web_based_n64_emulator/)
+- [Cacheables - A simple, powerful and typesafe caching library written in TypeScript](https://www.reddit.com/r/javascript/comments/q97ccv/cacheables_a_simple_powerful_and_typesafe_caching/)
+- [Showoff Saturday (October 16, 2021)](https://www.reddit.com/r/javascript/comments/q96ukn/showoff_saturday_october_16_2021/)
+- [AES-256 encryption with Node.js [crypto]](https://www.reddit.com/r/javascript/comments/q96oxo/aes256_encryption_with_nodejs_crypto/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
