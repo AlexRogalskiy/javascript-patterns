@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [New JWT authentication library for Express](https://www.reddit.com/r/javascript/comments/qa4hdq/new_jwt_authentication_library_for_express/)
+- [Continuation-local Storage](https://www.reddit.com/r/javascript/comments/qa3hl6/continuationlocal_storage/)
+- [[AskJS] Looking To Get Feedback On My Open Source Feature Rich React Calendar Component](https://www.reddit.com/r/javascript/comments/qa38gb/askjs_looking_to_get_feedback_on_my_open_source/)
+- [interact.js - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)](https://www.reddit.com/r/javascript/comments/q9xzka/interactjs_javascript_drag_and_drop_resizing_and/)
+- [WinBox - a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source](https://www.reddit.com/r/javascript/comments/q9xugs/winbox_a_professional_html5_window_manager_for/)
+- [String Template, a powerful and intuitive library to process and add data in a string easily.](https://www.reddit.com/r/javascript/comments/q9x1e2/string_template_a_powerful_and_intuitive_library/)
+- [Cli which helps your codebase write itself](https://www.reddit.com/r/javascript/comments/q9wya3/cli_which_helps_your_codebase_write_itself/)
+- [I started writing about the human aspects of software development](https://www.reddit.com/r/javascript/comments/q9przk/i_started_writing_about_the_human_aspects_of/)
+- [MySejahtera is a Perfectly Good App With No Exploits](https://www.reddit.com/r/javascript/comments/q9pn12/mysejahtera_is_a_perfectly_good_app_with_no/)
 - [I launched Autobundle project which automatic bundle your dependency, ideally from Bundlephobia, powered by esbuild](https://www.reddit.com/r/javascript/comments/q9nr1d/i_launched_autobundle_project_which_automatic/)
-- [Message queues — what are they and why are they used?](https://www.reddit.com/r/javascript/comments/q9lsn5/message_queues_what_are_they_and_why_are_they_used/)
-- [[AskJS] doubt regarding global object](https://www.reddit.com/r/javascript/comments/q9l79a/askjs_doubt_regarding_global_object/)
-- [Gramma - interactive, multilingual command-line grammar checker for JS/TS projects - free and open-source (with optional Git integration)](https://www.reddit.com/r/javascript/comments/q9eykv/gramma_interactive_multilingual_commandline/)
-- [Const vs. Let vs. Var in Javascript. Which one should you use?](https://www.reddit.com/r/javascript/comments/q9cl4x/const_vs_let_vs_var_in_javascript_which_one/)
-- [Understanding the role of linters & ESLint in your stack](https://www.reddit.com/r/javascript/comments/q9bvvw/understanding_the_role_of_linters_eslint_in_your/)
-- [N64 Wasm: A modern web based N64 emulator](https://www.reddit.com/r/javascript/comments/q99n7y/n64_wasm_a_modern_web_based_n64_emulator/)
-- [Cacheables - A simple, powerful and typesafe caching library written in TypeScript](https://www.reddit.com/r/javascript/comments/q97ccv/cacheables_a_simple_powerful_and_typesafe_caching/)
-- [Showoff Saturday (October 16, 2021)](https://www.reddit.com/r/javascript/comments/q96ukn/showoff_saturday_october_16_2021/)
-- [AES-256 encryption with Node.js [crypto]](https://www.reddit.com/r/javascript/comments/q96oxo/aes256_encryption_with_nodejs_crypto/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
