@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Coding & Hardware eBooks Bundle by Make](https://www.reddit.com/r/javascript/comments/qb10kl/coding_hardware_ebooks_bundle_by_make/)
-- [ES6 Modules based front-end library](https://www.reddit.com/r/javascript/comments/qb04qq/es6_modules_based_frontend_library/)
-- [Chaotic JavaScript Patterns](https://www.reddit.com/r/javascript/comments/qavmug/chaotic_javascript_patterns/)
-- [Wanted to make a codepen that previewed what numbers you get when using Math.random()](https://www.reddit.com/r/javascript/comments/qav8h0/wanted_to_make_a_codepen_that_previewed_what/)
-- [Use makePdf and Lowdefy to generate PDFs linked to data](https://www.reddit.com/r/javascript/comments/qaufnr/use_makepdf_and_lowdefy_to_generate_pdfs_linked/)
-- [Bouncy Ball, A very silly, ball bouncing "animation" I created couple days ago. Thought I share it with you.](https://www.reddit.com/r/javascript/comments/qar4zf/bouncy_ball_a_very_silly_ball_bouncing_animation/)
-- [[AskJS] how to scrap an entire website automatically](https://www.reddit.com/r/javascript/comments/qaqu3n/askjs_how_to_scrap_an_entire_website_automatically/)
-- [The Open-source platform for building modern community apps with Javascript.](https://www.reddit.com/r/javascript/comments/qaoaa4/the_opensource_platform_for_building_modern/)
-- [Introducing Nuxt 3 Beta](https://www.reddit.com/r/javascript/comments/qan81f/introducing_nuxt_3_beta/)
-- [Facebook CSS-in-JS Solution Stylex Introduced at React Finland 2021](https://www.reddit.com/r/javascript/comments/qan6oo/facebook_cssinjs_solution_stylex_introduced_at/)
+- [[AskJS] What are the pros and cons of using in-memory cache vs. browser cache](https://www.reddit.com/r/javascript/comments/qbnyi8/askjs_what_are_the_pros_and_cons_of_using/)
+- [About 26% of all malicious JavaScript threats are obfuscated](https://www.reddit.com/r/javascript/comments/qbk1d2/about_26_of_all_malicious_javascript_threats_are/)
+- [Multistep Forms in React with Awesome UX – Persistent State](https://www.reddit.com/r/javascript/comments/qbjzrz/multistep_forms_in_react_with_awesome_ux/)
+- [[AskJS] Is there a difference between redux global state and rxjs observables?](https://www.reddit.com/r/javascript/comments/qbhrr3/askjs_is_there_a_difference_between_redux_global/)
+- [My covid project: Create PDF templates with a GUI and render via an API](https://www.reddit.com/r/javascript/comments/qbgnfr/my_covid_project_create_pdf_templates_with_a_gui/)
+- [Node v17.0.0 (Current)](https://www.reddit.com/r/javascript/comments/qbgj3w/node_v1700_current/)
+- [Guide on how to bundle a React library with Parcel v2](https://www.reddit.com/r/javascript/comments/qbd9lk/guide_on_how_to_bundle_a_react_library_with/)
+- [Angular 12 and RxJS: Infinite Scroll With API](https://www.reddit.com/r/javascript/comments/qbd6lo/angular_12_and_rxjs_infinite_scroll_with_api/)
+- [Sendight - An open source webRTC based peer to peer file sharing web app](https://www.reddit.com/r/javascript/comments/qbacwa/sendight_an_open_source_webrtc_based_peer_to_peer/)
+- [Here's a config file for SWC in typescript nodejs projects](https://www.reddit.com/r/javascript/comments/qba7i4/heres_a_config_file_for_swc_in_typescript_nodejs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
