@@ -292,6 +292,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Deno 1.15 improves Node.js compatibility](https://www.infoworld.com/article/3637044/deno-115-improves-nodejs-compatibility.html#tk.rss_javascript)
+- [Node.js 17 arrives with more promise-based APIs](https://www.infoworld.com/article/3637061/nodejs-17-arrives-with-more-promise-based-apis.html#tk.rss_javascript)
 - [What’s new in Angular 13](https://www.infoworld.com/article/3629473/whats-new-in-angular-13.html#tk.rss_javascript)
 - [TypeScript adds ESM support for Node.js](https://www.infoworld.com/article/3637149/typescript-adds-esm-support-for-nodejs.html#tk.rss_javascript)
 - [Get started with SvelteKit](https://www.infoworld.com/article/3634771/get-started-with-sveltekit.html#tk.rss_javascript)
@@ -300,8 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Deno 1.14 extends Web Crypto API](https://www.infoworld.com/article/3633615/deno-114-extends-web-crypto-api.html#tk.rss_javascript)
 - [Use the Visual Studio Code editor in your own projects](https://www.infoworld.com/article/3631383/use-the-visual-studio-code-editor-in-your-own-projects.html#tk.rss_javascript)
 - [Deno 1.13 emphasizes HTTP server API stability](https://www.infoworld.com/article/3631536/deno-113-emphasizes-http-server-api-stability.html#tk.rss_javascript)
-- [12 hot language projects riding WebAssembly](https://www.infoworld.com/article/3619608/12-hot-language-projects-riding-webassembly.html#tk.rss_javascript)
-- [An early look at SvelteKit](https://www.infoworld.com/article/3630395/an-early-look-at-sveltekit.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
