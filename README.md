@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] What are the pros and cons of using in-memory cache vs. browser cache](https://www.reddit.com/r/javascript/comments/qbnyi8/askjs_what_are_the_pros_and_cons_of_using/)
-- [About 26% of all malicious JavaScript threats are obfuscated](https://www.reddit.com/r/javascript/comments/qbk1d2/about_26_of_all_malicious_javascript_threats_are/)
-- [Multistep Forms in React with Awesome UX – Persistent State](https://www.reddit.com/r/javascript/comments/qbjzrz/multistep_forms_in_react_with_awesome_ux/)
-- [[AskJS] Is there a difference between redux global state and rxjs observables?](https://www.reddit.com/r/javascript/comments/qbhrr3/askjs_is_there_a_difference_between_redux_global/)
-- [My covid project: Create PDF templates with a GUI and render via an API](https://www.reddit.com/r/javascript/comments/qbgnfr/my_covid_project_create_pdf_templates_with_a_gui/)
-- [Node v17.0.0 (Current)](https://www.reddit.com/r/javascript/comments/qbgj3w/node_v1700_current/)
-- [Guide on how to bundle a React library with Parcel v2](https://www.reddit.com/r/javascript/comments/qbd9lk/guide_on_how_to_bundle_a_react_library_with/)
-- [Angular 12 and RxJS: Infinite Scroll With API](https://www.reddit.com/r/javascript/comments/qbd6lo/angular_12_and_rxjs_infinite_scroll_with_api/)
-- [Sendight - An open source webRTC based peer to peer file sharing web app](https://www.reddit.com/r/javascript/comments/qbacwa/sendight_an_open_source_webrtc_based_peer_to_peer/)
-- [Here's a config file for SWC in typescript nodejs projects](https://www.reddit.com/r/javascript/comments/qba7i4/heres_a_config_file_for_swc_in_typescript_nodejs/)
+- [Let's build a simple REST API with node js.](https://www.reddit.com/r/javascript/comments/qcfmd7/lets_build_a_simple_rest_api_with_node_js/)
+- [Haskell Quicksort in JavaScript](https://www.reddit.com/r/javascript/comments/qcecu7/haskell_quicksort_in_javascript/)
+- [[AskJS] where should I store user preferences or uers settings - localStorage or cookies?](https://www.reddit.com/r/javascript/comments/qcdkck/askjs_where_should_i_store_user_preferences_or/)
+- [[AskJS] Best way to prepare for Amazon L4 Front-End Interview?](https://www.reddit.com/r/javascript/comments/qcc600/askjs_best_way_to_prepare_for_amazon_l4_frontend/)
+- [Visual Studio Code for the Web](https://www.reddit.com/r/javascript/comments/qc9uzw/visual_studio_code_for_the_web/)
+- [Stop sending uncompressed images to servers for resizing (slow!)](https://www.reddit.com/r/javascript/comments/qc5qm4/stop_sending_uncompressed_images_to_servers_for/)
+- [Denigma is an AI that explains code in conversational English and documents codebases! Test your javascript on it and tell me what you think!](https://www.reddit.com/r/javascript/comments/qc5dt6/denigma_is_an_ai_that_explains_code_in/)
+- [GitHub - WGrape/lexer: A lexical analyzer based on DFA that is built using JS and supports multi-language extensions](https://www.reddit.com/r/javascript/comments/qc4goo/github_wgrapelexer_a_lexical_analyzer_based_on/)
+- [vscode.dev Visual Studio Code for the Web](https://www.reddit.com/r/javascript/comments/qc43mu/vscodedev_visual_studio_code_for_the_web/)
+- [Hacks Decoded: Thomas Park, Founder of Codepip](https://www.reddit.com/r/javascript/comments/qc2j10/hacks_decoded_thomas_park_founder_of_codepip/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
