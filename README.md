@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Let's build a simple REST API with node js.](https://www.reddit.com/r/javascript/comments/qcfmd7/lets_build_a_simple_rest_api_with_node_js/)
+- [[AskJS] What feedback do you have for Make.cm ?](https://www.reddit.com/r/javascript/comments/qd6o1e/askjs_what_feedback_do_you_have_for_makecm/)
+- [New React Docs beta is live! Covers function components, hooks, rendering, state updates, and other key concepts](https://www.reddit.com/r/javascript/comments/qd5lba/new_react_docs_beta_is_live_covers_function/)
+- [Manage any mutable state with reducers](https://www.reddit.com/r/javascript/comments/qd27iu/manage_any_mutable_state_with_reducers/)
+- [Web scraping by watching requests](https://www.reddit.com/r/javascript/comments/qd0aje/web_scraping_by_watching_requests/)
+- [Znote: A markdown and JavaScript Lab inspired by Jupyter Notebook](https://www.reddit.com/r/javascript/comments/qcwpad/znote_a_markdown_and_javascript_lab_inspired_by/)
+- [[AskJS] question about your monorepo workflow](https://www.reddit.com/r/javascript/comments/qcvmy0/askjs_question_about_your_monorepo_workflow/)
+- [Interactive Double Pendulum Playground Using SVG](https://www.reddit.com/r/javascript/comments/qcr401/interactive_double_pendulum_playground_using_svg/)
+- [Deep dive into public and private instance fields in JavaScript (ECMAScript 2022)](https://www.reddit.com/r/javascript/comments/qcll7n/deep_dive_into_public_and_private_instance_fields/)
 - [Haskell Quicksort in JavaScript](https://www.reddit.com/r/javascript/comments/qcecu7/haskell_quicksort_in_javascript/)
 - [[AskJS] where should I store user preferences or uers settings - localStorage or cookies?](https://www.reddit.com/r/javascript/comments/qcdkck/askjs_where_should_i_store_user_preferences_or/)
-- [[AskJS] Best way to prepare for Amazon L4 Front-End Interview?](https://www.reddit.com/r/javascript/comments/qcc600/askjs_best_way_to_prepare_for_amazon_l4_frontend/)
-- [Visual Studio Code for the Web](https://www.reddit.com/r/javascript/comments/qc9uzw/visual_studio_code_for_the_web/)
-- [Stop sending uncompressed images to servers for resizing (slow!)](https://www.reddit.com/r/javascript/comments/qc5qm4/stop_sending_uncompressed_images_to_servers_for/)
-- [Denigma is an AI that explains code in conversational English and documents codebases! Test your javascript on it and tell me what you think!](https://www.reddit.com/r/javascript/comments/qc5dt6/denigma_is_an_ai_that_explains_code_in/)
-- [GitHub - WGrape/lexer: A lexical analyzer based on DFA that is built using JS and supports multi-language extensions](https://www.reddit.com/r/javascript/comments/qc4goo/github_wgrapelexer_a_lexical_analyzer_based_on/)
-- [vscode.dev Visual Studio Code for the Web](https://www.reddit.com/r/javascript/comments/qc43mu/vscodedev_visual_studio_code_for_the_web/)
-- [Hacks Decoded: Thomas Park, Founder of Codepip](https://www.reddit.com/r/javascript/comments/qc2j10/hacks_decoded_thomas_park_founder_of_codepip/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
