@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Introducing MistQL: A miniature embeddable language for performing computations on JSON-like structures](https://www.reddit.com/r/javascript/comments/qdp5vr/introducing_mistql_a_miniature_embeddable/)
+- [Warning bitcoin mining infection: ua-parser-js library](https://www.reddit.com/r/javascript/comments/qdp3s8/warning_bitcoin_mining_infection_uaparserjs/)
+- [Tutorial on how to use Appwrite's User Services](https://www.reddit.com/r/javascript/comments/qdle72/tutorial_on_how_to_use_appwrites_user_services/)
+- [Stick Champ game in 90 lines of pure JS](https://www.reddit.com/r/javascript/comments/qdhrn1/stick_champ_game_in_90_lines_of_pure_js/)
+- [5 Tips for Reducing Bugs in Software Development Projects](https://www.reddit.com/r/javascript/comments/qdgsux/5_tips_for_reducing_bugs_in_software_development/)
+- [Temporal: New Data Type which is currently in stage 3 can completely change how dates are used in JavaScript environments.](https://www.reddit.com/r/javascript/comments/qdagjy/temporal_new_data_type_which_is_currently_in/)
 - [[AskJS] What feedback do you have for Make.cm ?](https://www.reddit.com/r/javascript/comments/qd6o1e/askjs_what_feedback_do_you_have_for_makecm/)
 - [New React Docs beta is live! Covers function components, hooks, rendering, state updates, and other key concepts](https://www.reddit.com/r/javascript/comments/qd5lba/new_react_docs_beta_is_live_covers_function/)
 - [Manage any mutable state with reducers](https://www.reddit.com/r/javascript/comments/qd27iu/manage_any_mutable_state_with_reducers/)
 - [Web scraping by watching requests](https://www.reddit.com/r/javascript/comments/qd0aje/web_scraping_by_watching_requests/)
-- [Znote: A markdown and JavaScript Lab inspired by Jupyter Notebook](https://www.reddit.com/r/javascript/comments/qcwpad/znote_a_markdown_and_javascript_lab_inspired_by/)
-- [[AskJS] question about your monorepo workflow](https://www.reddit.com/r/javascript/comments/qcvmy0/askjs_question_about_your_monorepo_workflow/)
-- [Interactive Double Pendulum Playground Using SVG](https://www.reddit.com/r/javascript/comments/qcr401/interactive_double_pendulum_playground_using_svg/)
-- [Deep dive into public and private instance fields in JavaScript (ECMAScript 2022)](https://www.reddit.com/r/javascript/comments/qcll7n/deep_dive_into_public_and_private_instance_fields/)
-- [Haskell Quicksort in JavaScript](https://www.reddit.com/r/javascript/comments/qcecu7/haskell_quicksort_in_javascript/)
-- [[AskJS] where should I store user preferences or uers settings - localStorage or cookies?](https://www.reddit.com/r/javascript/comments/qcdkck/askjs_where_should_i_store_user_preferences_or/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
