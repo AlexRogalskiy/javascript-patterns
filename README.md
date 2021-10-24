@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] weird bug when using Promises to load images in order](https://www.reddit.com/r/javascript/comments/qei3ak/askjs_weird_bug_when_using_promises_to_load/)
+- [What every JavaScript developer should know about Unicode](https://www.reddit.com/r/javascript/comments/qe7o8z/what_every_javascript_developer_should_know_about/)
+- [[AskJS] How often do you use the ES6+(ES7, ES8, ES9 and ES10) syntax? Do you like it? Does it help?](https://www.reddit.com/r/javascript/comments/qe4a6l/askjs_how_often_do_you_use_the_es6es7_es8_es9_and/)
+- [[AskJS] Please How can I delete a task entirely from local storage when clicking the delete icon?](https://www.reddit.com/r/javascript/comments/qe0dwz/askjs_please_how_can_i_delete_a_task_entirely/)
+- [Showoff Saturday (October 23, 2021)](https://www.reddit.com/r/javascript/comments/qdztw1/showoff_saturday_october_23_2021/)
 - [Introducing MistQL: A miniature embeddable language for performing computations on JSON-like structures](https://www.reddit.com/r/javascript/comments/qdp5vr/introducing_mistql_a_miniature_embeddable/)
 - [Warning bitcoin mining infection: ua-parser-js library](https://www.reddit.com/r/javascript/comments/qdp3s8/warning_bitcoin_mining_infection_uaparserjs/)
 - [Tutorial on how to use Appwrite's User Services](https://www.reddit.com/r/javascript/comments/qdle72/tutorial_on_how_to_use_appwrites_user_services/)
-- [Stick Champ game in 90 lines of pure JS](https://www.reddit.com/r/javascript/comments/qdhrn1/stick_champ_game_in_90_lines_of_pure_js/)
 - [5 Tips for Reducing Bugs in Software Development Projects](https://www.reddit.com/r/javascript/comments/qdgsux/5_tips_for_reducing_bugs_in_software_development/)
 - [Temporal: New Data Type which is currently in stage 3 can completely change how dates are used in JavaScript environments.](https://www.reddit.com/r/javascript/comments/qdagjy/temporal_new_data_type_which_is_currently_in/)
-- [[AskJS] What feedback do you have for Make.cm ?](https://www.reddit.com/r/javascript/comments/qd6o1e/askjs_what_feedback_do_you_have_for_makecm/)
-- [New React Docs beta is live! Covers function components, hooks, rendering, state updates, and other key concepts](https://www.reddit.com/r/javascript/comments/qd5lba/new_react_docs_beta_is_live_covers_function/)
-- [Manage any mutable state with reducers](https://www.reddit.com/r/javascript/comments/qd27iu/manage_any_mutable_state_with_reducers/)
-- [Web scraping by watching requests](https://www.reddit.com/r/javascript/comments/qd0aje/web_scraping_by_watching_requests/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
