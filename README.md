@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] weird bug when using Promises to load images in order](https://www.reddit.com/r/javascript/comments/qei3ak/askjs_weird_bug_when_using_promises_to_load/)
-- [What every JavaScript developer should know about Unicode](https://www.reddit.com/r/javascript/comments/qe7o8z/what_every_javascript_developer_should_know_about/)
-- [[AskJS] How often do you use the ES6+(ES7, ES8, ES9 and ES10) syntax? Do you like it? Does it help?](https://www.reddit.com/r/javascript/comments/qe4a6l/askjs_how_often_do_you_use_the_es6es7_es8_es9_and/)
-- [[AskJS] Please How can I delete a task entirely from local storage when clicking the delete icon?](https://www.reddit.com/r/javascript/comments/qe0dwz/askjs_please_how_can_i_delete_a_task_entirely/)
-- [Showoff Saturday (October 23, 2021)](https://www.reddit.com/r/javascript/comments/qdztw1/showoff_saturday_october_23_2021/)
-- [Introducing MistQL: A miniature embeddable language for performing computations on JSON-like structures](https://www.reddit.com/r/javascript/comments/qdp5vr/introducing_mistql_a_miniature_embeddable/)
-- [Warning bitcoin mining infection: ua-parser-js library](https://www.reddit.com/r/javascript/comments/qdp3s8/warning_bitcoin_mining_infection_uaparserjs/)
-- [Tutorial on how to use Appwrite's User Services](https://www.reddit.com/r/javascript/comments/qdle72/tutorial_on_how_to_use_appwrites_user_services/)
-- [5 Tips for Reducing Bugs in Software Development Projects](https://www.reddit.com/r/javascript/comments/qdgsux/5_tips_for_reducing_bugs_in_software_development/)
-- [Temporal: New Data Type which is currently in stage 3 can completely change how dates are used in JavaScript environments.](https://www.reddit.com/r/javascript/comments/qdagjy/temporal_new_data_type_which_is_currently_in/)
+- [[AskJS] How to parse HTML text with placeholder for CTAs in React?](https://www.reddit.com/r/javascript/comments/qf2t77/askjs_how_to_parse_html_text_with_placeholder_for/)
+- [[Part 1] How to deploy a scalable web application](https://www.reddit.com/r/javascript/comments/qeyw89/part_1_how_to_deploy_a_scalable_web_application/)
+- [Can You Refactor JavaScript Safely Without Test Coverage?](https://www.reddit.com/r/javascript/comments/qey2xv/can_you_refactor_javascript_safely_without_test/)
+- [[AskJS] ERROR Error: The package "esbuild-linux-64" could not be found, and is needed by esbuild](https://www.reddit.com/r/javascript/comments/qeww78/askjs_error_error_the_package_esbuildlinux64/)
+- [[AskJS] Can I call my software a CMS? What would you call it?](https://www.reddit.com/r/javascript/comments/qevkin/askjs_can_i_call_my_software_a_cms_what_would_you/)
+- [Trie Data Structure in JavaScript: the Data Structure behind Autocomplete](https://www.reddit.com/r/javascript/comments/qev279/trie_data_structure_in_javascript_the_data/)
+- [I made an online esbuild playground](https://www.reddit.com/r/javascript/comments/qetw9w/i_made_an_online_esbuild_playground/)
+- [[AskJS] KwesForms - Kinda like AlpineJS, but for forms. Any thoughts?](https://www.reddit.com/r/javascript/comments/qet2bh/askjs_kwesforms_kinda_like_alpinejs_but_for_forms/)
+- [An original strategy game similar to Chess built with modern JS libraries.](https://www.reddit.com/r/javascript/comments/qeqkpk/an_original_strategy_game_similar_to_chess_built/)
+- [Configure aliases once and for all with Yarn's link protocol](https://www.reddit.com/r/javascript/comments/qeopb2/configure_aliases_once_and_for_all_with_yarns/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
