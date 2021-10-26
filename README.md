@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Unstoppable Jamstack and the Gatsby opportunity](https://www.infoworld.com/article/3638054/unstoppable-jamstack-and-the-gatsby-opportunity.html#tk.rss_javascript)
 - [Deno 1.15 improves Node.js compatibility](https://www.infoworld.com/article/3637044/deno-115-improves-nodejs-compatibility.html#tk.rss_javascript)
 - [Node.js 17 arrives with more promise-based APIs](https://www.infoworld.com/article/3637061/nodejs-17-arrives-with-more-promise-based-apis.html#tk.rss_javascript)
 - [What’s new in Angular 13](https://www.infoworld.com/article/3629473/whats-new-in-angular-13.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Ruby on Rails 7 overhauls JavaScript support](https://www.infoworld.com/article/3633904/ruby-on-rails-7-overhauls-javascript-support.html#tk.rss_javascript)
 - [Deno 1.14 extends Web Crypto API](https://www.infoworld.com/article/3633615/deno-114-extends-web-crypto-api.html#tk.rss_javascript)
 - [Use the Visual Studio Code editor in your own projects](https://www.infoworld.com/article/3631383/use-the-visual-studio-code-editor-in-your-own-projects.html#tk.rss_javascript)
-- [Deno 1.13 emphasizes HTTP server API stability](https://www.infoworld.com/article/3631536/deno-113-emphasizes-http-server-api-stability.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
