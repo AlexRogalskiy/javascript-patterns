@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Unicode Segmentation in JavaScript](https://www.reddit.com/r/javascript/comments/qftsuw/unicode_segmentation_in_javascript/)
+- [10 tips to build a Content Security Policy (CSP) without breaking your site! Top lessons I've learned from years of deploying CSP at scale.](https://www.reddit.com/r/javascript/comments/qfl2c9/10_tips_to_build_a_content_security_policy_csp/)
+- [Yarn 3.1 - Corepack, ESM, pnpm mode, Optional Packages ...](https://www.reddit.com/r/javascript/comments/qfknkk/yarn_31_corepack_esm_pnpm_mode_optional_packages/)
+- [What's New In DevTools (Chrome 96) - Chrome Developers](https://www.reddit.com/r/javascript/comments/qfj6ph/whats_new_in_devtools_chrome_96_chrome_developers/)
+- [Tool for finding, analyzing and removing unused and missed i18n translations in your JavaScript project](https://www.reddit.com/r/javascript/comments/qfhgmh/tool_for_finding_analyzing_and_removing_unused/)
+- [Create a Slack Bot with NodeJS](https://www.reddit.com/r/javascript/comments/qffq08/create_a_slack_bot_with_nodejs/)
+- [Apps with Docusaurus 2.0 and React](https://www.reddit.com/r/javascript/comments/qfexr1/apps_with_docusaurus_20_and_react/)
 - [[AskJS] How to parse HTML text with placeholder for CTAs in React?](https://www.reddit.com/r/javascript/comments/qf2t77/askjs_how_to_parse_html_text_with_placeholder_for/)
 - [[Part 1] How to deploy a scalable web application](https://www.reddit.com/r/javascript/comments/qeyw89/part_1_how_to_deploy_a_scalable_web_application/)
 - [Can You Refactor JavaScript Safely Without Test Coverage?](https://www.reddit.com/r/javascript/comments/qey2xv/can_you_refactor_javascript_safely_without_test/)
-- [[AskJS] ERROR Error: The package "esbuild-linux-64" could not be found, and is needed by esbuild](https://www.reddit.com/r/javascript/comments/qeww78/askjs_error_error_the_package_esbuildlinux64/)
-- [[AskJS] Can I call my software a CMS? What would you call it?](https://www.reddit.com/r/javascript/comments/qevkin/askjs_can_i_call_my_software_a_cms_what_would_you/)
-- [Trie Data Structure in JavaScript: the Data Structure behind Autocomplete](https://www.reddit.com/r/javascript/comments/qev279/trie_data_structure_in_javascript_the_data/)
-- [I made an online esbuild playground](https://www.reddit.com/r/javascript/comments/qetw9w/i_made_an_online_esbuild_playground/)
-- [[AskJS] KwesForms - Kinda like AlpineJS, but for forms. Any thoughts?](https://www.reddit.com/r/javascript/comments/qet2bh/askjs_kwesforms_kinda_like_alpinejs_but_for_forms/)
-- [An original strategy game similar to Chess built with modern JS libraries.](https://www.reddit.com/r/javascript/comments/qeqkpk/an_original_strategy_game_similar_to_chess_built/)
-- [Configure aliases once and for all with Yarn's link protocol](https://www.reddit.com/r/javascript/comments/qeopb2/configure_aliases_once_and_for_all_with_yarns/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
