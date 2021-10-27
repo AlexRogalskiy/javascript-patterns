@@ -352,6 +352,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *javascript programmer posts*
 
 <!-- METEOR-POST-LIST:START -->
+- [Announcing Meteor 2.5 with Cordova 10, accounts-passwordless, and much more!](https://blog.meteor.com/announcing-meteor-2-5-with-cordova-10-accounts-passwordless-and-much-more-1848fa61e313?source=rss----a9bcaf865278---4)
 - [Announcing Meteor 2.4 And The New Installer](https://blog.meteor.com/announcing-meteor-2-4-and-the-new-installer-254c5f8f39f?source=rss----a9bcaf865278---4)
 - [How ALLOHOUSTON Makes Organizations Smarter with Meteor](https://blog.meteor.com/how-allohouston-makes-organizations-smarter-with-meteor-7b1ff2058f53?source=rss----a9bcaf865278---4)
 - [Testing a Meteor app with Cypress](https://blog.meteor.com/testing-a-meteor-app-with-cypress-bfb3d3c6ed6f?source=rss----a9bcaf865278---4)
@@ -361,7 +362,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [How Avion Brings User Story Mapping To Product Teams using Meteor](https://blog.meteor.com/how-avion-brings-user-story-mapping-to-product-teams-using-meteor-51f92bb0928a?source=rss----a9bcaf865278---4)
 - [New Meteor Meetups](https://blog.meteor.com/new-meteor-meetups-b1fca07b49c3?source=rss----a9bcaf865278---4)
 - [First load optimization with Meteor](https://blog.meteor.com/first-load-optimization-with-meteor-7cd896fa217d?source=rss----a9bcaf865278---4)
-- [Scale your app with multi-core](https://blog.meteor.com/scale-your-app-with-multi-core-7fba03192ea2?source=rss----a9bcaf865278---4)
 <!-- METEOR-POST-LIST:END -->
 
 ### *Dreamix posts*
