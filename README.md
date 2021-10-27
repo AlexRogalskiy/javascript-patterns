@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Bruh - A minimalist functional-reactive web library](https://www.reddit.com/r/javascript/comments/qghy24/bruh_a_minimalist_functionalreactive_web_library/)
+- [i have create a cli parser with advanced features, command,arguments, usage, errors, very fast](https://www.reddit.com/r/javascript/comments/qgfcjn/i_have_create_a_cli_parser_with_advanced_features/)
+- [[AskJS] What headless CMS would you recommend for my use case?](https://www.reddit.com/r/javascript/comments/qgeslu/askjs_what_headless_cms_would_you_recommend_for/)
+- [Next.js 12 - Rust Compiler, React 18 and Native ES Modules Support, React Server Components](https://www.reddit.com/r/javascript/comments/qgeoba/nextjs_12_rust_compiler_react_18_and_native_es/)
+- [[AskJS] Can you help me remember the name of the website where users submit mathematical javascript code then the website creates the visualization?](https://www.reddit.com/r/javascript/comments/qgd4iq/askjs_can_you_help_me_remember_the_name_of_the/)
+- [Reflection at Reflect: The Reflect and Proxy APIs](https://www.reddit.com/r/javascript/comments/qga3vv/reflection_at_reflect_the_reflect_and_proxy_apis/)
+- [Practical frontend philosophy](https://www.reddit.com/r/javascript/comments/qg2pfb/practical_frontend_philosophy/)
 - [Unicode Segmentation in JavaScript](https://www.reddit.com/r/javascript/comments/qftsuw/unicode_segmentation_in_javascript/)
 - [10 tips to build a Content Security Policy (CSP) without breaking your site! Top lessons I've learned from years of deploying CSP at scale.](https://www.reddit.com/r/javascript/comments/qfl2c9/10_tips_to_build_a_content_security_policy_csp/)
 - [Yarn 3.1 - Corepack, ESM, pnpm mode, Optional Packages ...](https://www.reddit.com/r/javascript/comments/qfknkk/yarn_31_corepack_esm_pnpm_mode_optional_packages/)
-- [What's New In DevTools (Chrome 96) - Chrome Developers](https://www.reddit.com/r/javascript/comments/qfj6ph/whats_new_in_devtools_chrome_96_chrome_developers/)
-- [Tool for finding, analyzing and removing unused and missed i18n translations in your JavaScript project](https://www.reddit.com/r/javascript/comments/qfhgmh/tool_for_finding_analyzing_and_removing_unused/)
-- [Create a Slack Bot with NodeJS](https://www.reddit.com/r/javascript/comments/qffq08/create_a_slack_bot_with_nodejs/)
-- [Apps with Docusaurus 2.0 and React](https://www.reddit.com/r/javascript/comments/qfexr1/apps_with_docusaurus_20_and_react/)
-- [[AskJS] How to parse HTML text with placeholder for CTAs in React?](https://www.reddit.com/r/javascript/comments/qf2t77/askjs_how_to_parse_html_text_with_placeholder_for/)
-- [[Part 1] How to deploy a scalable web application](https://www.reddit.com/r/javascript/comments/qeyw89/part_1_how_to_deploy_a_scalable_web_application/)
-- [Can You Refactor JavaScript Safely Without Test Coverage?](https://www.reddit.com/r/javascript/comments/qey2xv/can_you_refactor_javascript_safely_without_test/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
