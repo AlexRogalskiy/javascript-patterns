@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Bruh - A minimalist functional-reactive web library](https://www.reddit.com/r/javascript/comments/qghy24/bruh_a_minimalist_functionalreactive_web_library/)
-- [i have create a cli parser with advanced features, command,arguments, usage, errors, very fast](https://www.reddit.com/r/javascript/comments/qgfcjn/i_have_create_a_cli_parser_with_advanced_features/)
-- [[AskJS] What headless CMS would you recommend for my use case?](https://www.reddit.com/r/javascript/comments/qgeslu/askjs_what_headless_cms_would_you_recommend_for/)
-- [Next.js 12 - Rust Compiler, React 18 and Native ES Modules Support, React Server Components](https://www.reddit.com/r/javascript/comments/qgeoba/nextjs_12_rust_compiler_react_18_and_native_es/)
-- [[AskJS] Can you help me remember the name of the website where users submit mathematical javascript code then the website creates the visualization?](https://www.reddit.com/r/javascript/comments/qgd4iq/askjs_can_you_help_me_remember_the_name_of_the/)
-- [Reflection at Reflect: The Reflect and Proxy APIs](https://www.reddit.com/r/javascript/comments/qga3vv/reflection_at_reflect_the_reflect_and_proxy_apis/)
-- [Practical frontend philosophy](https://www.reddit.com/r/javascript/comments/qg2pfb/practical_frontend_philosophy/)
-- [Unicode Segmentation in JavaScript](https://www.reddit.com/r/javascript/comments/qftsuw/unicode_segmentation_in_javascript/)
-- [10 tips to build a Content Security Policy (CSP) without breaking your site! Top lessons I've learned from years of deploying CSP at scale.](https://www.reddit.com/r/javascript/comments/qfl2c9/10_tips_to_build_a_content_security_policy_csp/)
-- [Yarn 3.1 - Corepack, ESM, pnpm mode, Optional Packages ...](https://www.reddit.com/r/javascript/comments/qfknkk/yarn_31_corepack_esm_pnpm_mode_optional_packages/)
+- [InfiniteGrid 4 release !!](https://www.reddit.com/r/javascript/comments/qhbzcb/infinitegrid_4_release/)
+- [[AskJS] How would you identify color theme from a screenshot?](https://www.reddit.com/r/javascript/comments/qh8bmk/askjs_how_would_you_identify_color_theme_from_a/)
+- [Finding elements in `Array`s and TypedArrays](https://www.reddit.com/r/javascript/comments/qh3lsf/finding_elements_in_arrays_and_typedarrays/)
+- [free-exchange-rates-api](https://www.reddit.com/r/javascript/comments/qh3iza/freeexchangeratesapi/)
+- [[AskJS] How to use callback with API call wrapper function?](https://www.reddit.com/r/javascript/comments/qh2i95/askjs_how_to_use_callback_with_api_call_wrapper/)
+- [[AskJS] code diff on web](https://www.reddit.com/r/javascript/comments/qh1tfr/askjs_code_diff_on_web/)
+- [Yet Another Voice Activity Detection Engine](https://www.reddit.com/r/javascript/comments/qh04ew/yet_another_voice_activity_detection_engine/)
+- [Train Invaders | Jupyter Notebook + Space Invaders!? | WEBASSEMBLY inside jupyter notebook](https://www.reddit.com/r/javascript/comments/qgx0kn/train_invaders_jupyter_notebook_space_invaders/)
+- [[AskJS] filter an array that contains functions](https://www.reddit.com/r/javascript/comments/qgv0a1/askjs_filter_an_array_that_contains_functions/)
+- [WTF Wednesday (October 27, 2021)](https://www.reddit.com/r/javascript/comments/qgqodq/wtf_wednesday_october_27_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
