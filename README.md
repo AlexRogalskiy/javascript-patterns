@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [InfiniteGrid 4 release !!](https://www.reddit.com/r/javascript/comments/qhbzcb/infinitegrid_4_release/)
-- [[AskJS] How would you identify color theme from a screenshot?](https://www.reddit.com/r/javascript/comments/qh8bmk/askjs_how_would_you_identify_color_theme_from_a/)
-- [Finding elements in `Array`s and TypedArrays](https://www.reddit.com/r/javascript/comments/qh3lsf/finding_elements_in_arrays_and_typedarrays/)
-- [free-exchange-rates-api](https://www.reddit.com/r/javascript/comments/qh3iza/freeexchangeratesapi/)
-- [[AskJS] How to use callback with API call wrapper function?](https://www.reddit.com/r/javascript/comments/qh2i95/askjs_how_to_use_callback_with_api_call_wrapper/)
-- [[AskJS] code diff on web](https://www.reddit.com/r/javascript/comments/qh1tfr/askjs_code_diff_on_web/)
-- [Yet Another Voice Activity Detection Engine](https://www.reddit.com/r/javascript/comments/qh04ew/yet_another_voice_activity_detection_engine/)
-- [Train Invaders | Jupyter Notebook + Space Invaders!? | WEBASSEMBLY inside jupyter notebook](https://www.reddit.com/r/javascript/comments/qgx0kn/train_invaders_jupyter_notebook_space_invaders/)
-- [[AskJS] filter an array that contains functions](https://www.reddit.com/r/javascript/comments/qgv0a1/askjs_filter_an_array_that_contains_functions/)
-- [WTF Wednesday (October 27, 2021)](https://www.reddit.com/r/javascript/comments/qgqodq/wtf_wednesday_october_27_2021/)
+- [Fontfacer: micro web app where you drag 'n' drop font files and it spits out the CSS font rules for you](https://www.reddit.com/r/javascript/comments/qhz9lc/fontfacer_micro_web_app_where_you_drag_n_drop/)
+- [[AskJS] Completely overwhelmed, need help :(](https://www.reddit.com/r/javascript/comments/qhwtys/askjs_completely_overwhelmed_need_help/)
+- [[AskJS] Why does " for (let i = 1000; i >= 0; i /= 10) { console.log(i); } " freezes my browser and how do I fix it so I can use division in a for loop?](https://www.reddit.com/r/javascript/comments/qhu57m/askjs_why_does_for_let_i_1000_i_0_i_10/)
+- [How I Fixed the CLS issue on my blog (case study)](https://www.reddit.com/r/javascript/comments/qhsni1/how_i_fixed_the_cls_issue_on_my_blog_case_study/)
+- [My covid project: a site to use if you want to promote your project and other things](https://www.reddit.com/r/javascript/comments/qhrnoz/my_covid_project_a_site_to_use_if_you_want_to/)
+- [Angular Component Library Best Practices](https://www.reddit.com/r/javascript/comments/qhrflq/angular_component_library_best_practices/)
+- [4 Essential Tips for Better Asynchronous Code in JavaScript](https://www.reddit.com/r/javascript/comments/qhqeey/4_essential_tips_for_better_asynchronous_code_in/)
+- [[AskJS] Any javascript developer who also learnt java?](https://www.reddit.com/r/javascript/comments/qhp7bl/askjs_any_javascript_developer_who_also_learnt/)
+- [[AskJS] How I got from 0 to 223 stargazer and 6 contributors, in 3 weeks](https://www.reddit.com/r/javascript/comments/qhle7o/askjs_how_i_got_from_0_to_223_stargazer_and_6/)
+- [How to Use Eyedropper API](https://www.reddit.com/r/javascript/comments/qhkuh1/how_to_use_eyedropper_api/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
