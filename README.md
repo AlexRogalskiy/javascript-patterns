@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Fontfacer: micro web app where you drag 'n' drop font files and it spits out the CSS font rules for you](https://www.reddit.com/r/javascript/comments/qhz9lc/fontfacer_micro_web_app_where_you_drag_n_drop/)
-- [[AskJS] Completely overwhelmed, need help :(](https://www.reddit.com/r/javascript/comments/qhwtys/askjs_completely_overwhelmed_need_help/)
-- [[AskJS] Why does " for (let i = 1000; i >= 0; i /= 10) { console.log(i); } " freezes my browser and how do I fix it so I can use division in a for loop?](https://www.reddit.com/r/javascript/comments/qhu57m/askjs_why_does_for_let_i_1000_i_0_i_10/)
-- [How I Fixed the CLS issue on my blog (case study)](https://www.reddit.com/r/javascript/comments/qhsni1/how_i_fixed_the_cls_issue_on_my_blog_case_study/)
-- [My covid project: a site to use if you want to promote your project and other things](https://www.reddit.com/r/javascript/comments/qhrnoz/my_covid_project_a_site_to_use_if_you_want_to/)
-- [Angular Component Library Best Practices](https://www.reddit.com/r/javascript/comments/qhrflq/angular_component_library_best_practices/)
-- [4 Essential Tips for Better Asynchronous Code in JavaScript](https://www.reddit.com/r/javascript/comments/qhqeey/4_essential_tips_for_better_asynchronous_code_in/)
-- [[AskJS] Any javascript developer who also learnt java?](https://www.reddit.com/r/javascript/comments/qhp7bl/askjs_any_javascript_developer_who_also_learnt/)
-- [[AskJS] How I got from 0 to 223 stargazer and 6 contributors, in 3 weeks](https://www.reddit.com/r/javascript/comments/qhle7o/askjs_how_i_got_from_0_to_223_stargazer_and_6/)
-- [How to Use Eyedropper API](https://www.reddit.com/r/javascript/comments/qhkuh1/how_to_use_eyedropper_api/)
+- [I created a draggable carousel with momentum scrolling and mobile support using Vanilla JavaScript](https://www.reddit.com/r/javascript/comments/qipwm1/i_created_a_draggable_carousel_with_momentum/)
+- [Popular NPM package UA-Parser-JS poisoned with cryptomining, password-stealing malware](https://www.reddit.com/r/javascript/comments/qinygg/popular_npm_package_uaparserjs_poisoned_with/)
+- [Simple Clicker Game using React](https://www.reddit.com/r/javascript/comments/qijkck/simple_clicker_game_using_react/)
+- [WebAssembly Dynamic Tiering ready to try in Chrome 96](https://www.reddit.com/r/javascript/comments/qijk90/webassembly_dynamic_tiering_ready_to_try_in/)
+- [TC39er podcast: J. S. Choi, MD](https://www.reddit.com/r/javascript/comments/qiixq4/tc39er_podcast_j_s_choi_md/)
+- [Building the first open-source notification infrastructure](https://www.reddit.com/r/javascript/comments/qigd25/building_the_first_opensource_notification/)
+- [GitHub : A lexical analyzer based on DFA that is built using JS and supports multi-language extensions](https://www.reddit.com/r/javascript/comments/qig002/github_a_lexical_analyzer_based_on_dfa_that_is/)
+- [SqueakJS A Squeak VM in JavaScript](https://www.reddit.com/r/javascript/comments/qiexo2/squeakjs_a_squeak_vm_in_javascript/)
+- [[AskJS] Standard Build-in objects constructors, how often do you use them?](https://www.reddit.com/r/javascript/comments/qidvlr/askjs_standard_buildin_objects_constructors_how/)
+- [On multisynchronicity](https://www.reddit.com/r/javascript/comments/qi8clm/on_multisynchronicity/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
