@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I created an e-commerce site from scratch and kept a development diary over the cource of 5 months](https://www.reddit.com/r/javascript/comments/qjf411/i_created_an_ecommerce_site_from_scratch_and_kept/)
+- [How to do a Singleton in JavaScript](https://www.reddit.com/r/javascript/comments/qjdzr5/how_to_do_a_singleton_in_javascript/)
+- [A spooky error when you have a string bigger than 512MB in Chrome](https://www.reddit.com/r/javascript/comments/qjcp2s/a_spooky_error_when_you_have_a_string_bigger_than/)
+- [PRcop – open-source Pull Request linter for Github Actions built with JS](https://www.reddit.com/r/javascript/comments/qj7ydz/prcop_opensource_pull_request_linter_for_github/)
+- [[AskJS] Looking for someone to learn JS with](https://www.reddit.com/r/javascript/comments/qiwkx5/askjs_looking_for_someone_to_learn_js_with/)
+- [Showoff Saturday (October 30, 2021)](https://www.reddit.com/r/javascript/comments/qiw0t9/showoff_saturday_october_30_2021/)
 - [I created a draggable carousel with momentum scrolling and mobile support using Vanilla JavaScript](https://www.reddit.com/r/javascript/comments/qipwm1/i_created_a_draggable_carousel_with_momentum/)
 - [Popular NPM package UA-Parser-JS poisoned with cryptomining, password-stealing malware](https://www.reddit.com/r/javascript/comments/qinygg/popular_npm_package_uaparserjs_poisoned_with/)
 - [Simple Clicker Game using React](https://www.reddit.com/r/javascript/comments/qijkck/simple_clicker_game_using_react/)
 - [WebAssembly Dynamic Tiering ready to try in Chrome 96](https://www.reddit.com/r/javascript/comments/qijk90/webassembly_dynamic_tiering_ready_to_try_in/)
-- [TC39er podcast: J. S. Choi, MD](https://www.reddit.com/r/javascript/comments/qiixq4/tc39er_podcast_j_s_choi_md/)
-- [Building the first open-source notification infrastructure](https://www.reddit.com/r/javascript/comments/qigd25/building_the_first_opensource_notification/)
-- [GitHub : A lexical analyzer based on DFA that is built using JS and supports multi-language extensions](https://www.reddit.com/r/javascript/comments/qig002/github_a_lexical_analyzer_based_on_dfa_that_is/)
-- [SqueakJS A Squeak VM in JavaScript](https://www.reddit.com/r/javascript/comments/qiexo2/squeakjs_a_squeak_vm_in_javascript/)
-- [[AskJS] Standard Build-in objects constructors, how often do you use them?](https://www.reddit.com/r/javascript/comments/qidvlr/askjs_standard_buildin_objects_constructors_how/)
-- [On multisynchronicity](https://www.reddit.com/r/javascript/comments/qi8clm/on_multisynchronicity/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
