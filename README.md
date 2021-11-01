@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to setup husky, eslint and prettier within minutes](https://www.reddit.com/r/javascript/comments/qjzr1u/how_to_setup_husky_eslint_and_prettier_within/)
+- [Building a performant SCSS-like rule expander for CSS using fuzzy parsing in under 300 LoC](https://www.reddit.com/r/javascript/comments/qjvqio/building_a_performant_scsslike_rule_expander_for/)
+- [Complete Guide to Test Chrome Extensions with Puppeteer](https://www.reddit.com/r/javascript/comments/qjpy5m/complete_guide_to_test_chrome_extensions_with/)
+- [[AskJS] Finding an error in google app script that runs a FIFO/LIFO calculation on a transactional history of an investment tracker spreadsheet](https://www.reddit.com/r/javascript/comments/qjpjqo/askjs_finding_an_error_in_google_app_script_that/)
+- [[AskJS] Javascript Astrological Birth Chart](https://www.reddit.com/r/javascript/comments/qjol5x/askjs_javascript_astrological_birth_chart/)
+- [React Forms Made Easy with react-binden](https://www.reddit.com/r/javascript/comments/qjmp5d/react_forms_made_easy_with_reactbinden/)
+- [I’ve created a Vanilla JS lib that generates animated waves](https://www.reddit.com/r/javascript/comments/qjl9lb/ive_created_a_vanilla_js_lib_that_generates/)
+- [[AskJS] Is there a jquery OSS that does DB explorer UI?](https://www.reddit.com/r/javascript/comments/qjgk95/askjs_is_there_a_jquery_oss_that_does_db_explorer/)
 - [I created an e-commerce site from scratch and kept a development diary over the cource of 5 months](https://www.reddit.com/r/javascript/comments/qjf411/i_created_an_ecommerce_site_from_scratch_and_kept/)
 - [How to do a Singleton in JavaScript](https://www.reddit.com/r/javascript/comments/qjdzr5/how_to_do_a_singleton_in_javascript/)
-- [A spooky error when you have a string bigger than 512MB in Chrome](https://www.reddit.com/r/javascript/comments/qjcp2s/a_spooky_error_when_you_have_a_string_bigger_than/)
-- [PRcop – open-source Pull Request linter for Github Actions built with JS](https://www.reddit.com/r/javascript/comments/qj7ydz/prcop_opensource_pull_request_linter_for_github/)
-- [[AskJS] Looking for someone to learn JS with](https://www.reddit.com/r/javascript/comments/qiwkx5/askjs_looking_for_someone_to_learn_js_with/)
-- [Showoff Saturday (October 30, 2021)](https://www.reddit.com/r/javascript/comments/qiw0t9/showoff_saturday_october_30_2021/)
-- [I created a draggable carousel with momentum scrolling and mobile support using Vanilla JavaScript](https://www.reddit.com/r/javascript/comments/qipwm1/i_created_a_draggable_carousel_with_momentum/)
-- [Popular NPM package UA-Parser-JS poisoned with cryptomining, password-stealing malware](https://www.reddit.com/r/javascript/comments/qinygg/popular_npm_package_uaparserjs_poisoned_with/)
-- [Simple Clicker Game using React](https://www.reddit.com/r/javascript/comments/qijkck/simple_clicker_game_using_react/)
-- [WebAssembly Dynamic Tiering ready to try in Chrome 96](https://www.reddit.com/r/javascript/comments/qijk90/webassembly_dynamic_tiering_ready_to_try_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
