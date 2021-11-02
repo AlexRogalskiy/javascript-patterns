@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to setup husky, eslint and prettier within minutes](https://www.reddit.com/r/javascript/comments/qjzr1u/how_to_setup_husky_eslint_and_prettier_within/)
-- [Building a performant SCSS-like rule expander for CSS using fuzzy parsing in under 300 LoC](https://www.reddit.com/r/javascript/comments/qjvqio/building_a_performant_scsslike_rule_expander_for/)
-- [Complete Guide to Test Chrome Extensions with Puppeteer](https://www.reddit.com/r/javascript/comments/qjpy5m/complete_guide_to_test_chrome_extensions_with/)
-- [[AskJS] Finding an error in google app script that runs a FIFO/LIFO calculation on a transactional history of an investment tracker spreadsheet](https://www.reddit.com/r/javascript/comments/qjpjqo/askjs_finding_an_error_in_google_app_script_that/)
-- [[AskJS] Javascript Astrological Birth Chart](https://www.reddit.com/r/javascript/comments/qjol5x/askjs_javascript_astrological_birth_chart/)
-- [React Forms Made Easy with react-binden](https://www.reddit.com/r/javascript/comments/qjmp5d/react_forms_made_easy_with_reactbinden/)
-- [I’ve created a Vanilla JS lib that generates animated waves](https://www.reddit.com/r/javascript/comments/qjl9lb/ive_created_a_vanilla_js_lib_that_generates/)
-- [[AskJS] Is there a jquery OSS that does DB explorer UI?](https://www.reddit.com/r/javascript/comments/qjgk95/askjs_is_there_a_jquery_oss_that_does_db_explorer/)
-- [I created an e-commerce site from scratch and kept a development diary over the cource of 5 months](https://www.reddit.com/r/javascript/comments/qjf411/i_created_an_ecommerce_site_from_scratch_and_kept/)
-- [How to do a Singleton in JavaScript](https://www.reddit.com/r/javascript/comments/qjdzr5/how_to_do_a_singleton_in_javascript/)
+- [Help? Object-Oriented Code Explanation](https://www.reddit.com/r/javascript/comments/qktfme/help_objectoriented_code_explanation/)
+- [Developer Tools secrets that shouldn’t be secrets](https://www.reddit.com/r/javascript/comments/qkrqc8/developer_tools_secrets_that_shouldnt_be_secrets/)
+- [Build a JS game this November for GitHub's Game Off](https://www.reddit.com/r/javascript/comments/qkq652/build_a_js_game_this_november_for_githubs_game_off/)
+- [[AskJS] Which nodejs modules are the best to read, study, and imitate in 2021?](https://www.reddit.com/r/javascript/comments/qkpm5l/askjs_which_nodejs_modules_are_the_best_to_read/)
+- [[AskJS] How do you look for data collection or server communication code in a repository?](https://www.reddit.com/r/javascript/comments/qkp708/askjs_how_do_you_look_for_data_collection_or/)
+- [How to Create a Price Range Slider Using Vanilla JavaScript](https://www.reddit.com/r/javascript/comments/qko7tj/how_to_create_a_price_range_slider_using_vanilla/)
+- [3 Vanilla JavaScript Drag & Drop Solutions](https://www.reddit.com/r/javascript/comments/qko7h0/3_vanilla_javascript_drag_drop_solutions/)
+- [Harmonicon - an experimental tool for composing music as code. Use JavaScript to compose tracks, effects and instruments all in your browser](https://www.reddit.com/r/javascript/comments/qkmlgv/harmonicon_an_experimental_tool_for_composing/)
+- [Updates from the 86th (October 2021) meeting of TC39](https://www.reddit.com/r/javascript/comments/qklx4f/updates_from_the_86th_october_2021_meeting_of_tc39/)
+- [Random Quote Generator using JavaScript and API](https://www.reddit.com/r/javascript/comments/qkix0z/random_quote_generator_using_javascript_and_api/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
