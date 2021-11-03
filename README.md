@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Help? Object-Oriented Code Explanation](https://www.reddit.com/r/javascript/comments/qktfme/help_objectoriented_code_explanation/)
-- [Developer Tools secrets that shouldn’t be secrets](https://www.reddit.com/r/javascript/comments/qkrqc8/developer_tools_secrets_that_shouldnt_be_secrets/)
-- [Build a JS game this November for GitHub's Game Off](https://www.reddit.com/r/javascript/comments/qkq652/build_a_js_game_this_november_for_githubs_game_off/)
-- [[AskJS] Which nodejs modules are the best to read, study, and imitate in 2021?](https://www.reddit.com/r/javascript/comments/qkpm5l/askjs_which_nodejs_modules_are_the_best_to_read/)
-- [[AskJS] How do you look for data collection or server communication code in a repository?](https://www.reddit.com/r/javascript/comments/qkp708/askjs_how_do_you_look_for_data_collection_or/)
-- [How to Create a Price Range Slider Using Vanilla JavaScript](https://www.reddit.com/r/javascript/comments/qko7tj/how_to_create_a_price_range_slider_using_vanilla/)
-- [3 Vanilla JavaScript Drag & Drop Solutions](https://www.reddit.com/r/javascript/comments/qko7h0/3_vanilla_javascript_drag_drop_solutions/)
-- [Harmonicon - an experimental tool for composing music as code. Use JavaScript to compose tracks, effects and instruments all in your browser](https://www.reddit.com/r/javascript/comments/qkmlgv/harmonicon_an_experimental_tool_for_composing/)
-- [Updates from the 86th (October 2021) meeting of TC39](https://www.reddit.com/r/javascript/comments/qklx4f/updates_from_the_86th_october_2021_meeting_of_tc39/)
-- [Random Quote Generator using JavaScript and API](https://www.reddit.com/r/javascript/comments/qkix0z/random_quote_generator_using_javascript_and_api/)
+- [TC39er.us podcast: Nicolò Ribaudo [One of core maintainers of Babel]](https://www.reddit.com/r/javascript/comments/qlbbsj/tc39erus_podcast_nicolò_ribaudo_one_of_core/)
+- [[AskJS] What framework and technologies would be best for a project like this?](https://www.reddit.com/r/javascript/comments/qlb02t/askjs_what_framework_and_technologies_would_be/)
+- [Get started with Medusa: the open-source alternative to Shopify built in Node.js](https://www.reddit.com/r/javascript/comments/ql7xuv/get_started_with_medusa_the_opensource/)
+- [NodeJS app from code to Kubernetes - without the complexity](https://www.reddit.com/r/javascript/comments/ql4y8t/nodejs_app_from_code_to_kubernetes_without_the/)
+- [A fast unused and duplicate dependency checker](https://www.reddit.com/r/javascript/comments/ql4vkm/a_fast_unused_and_duplicate_dependency_checker/)
+- [Coin Flip Game using JavaScript & CSS](https://www.reddit.com/r/javascript/comments/ql44ru/coin_flip_game_using_javascript_css/)
+- [Coding Resources - Vol. 5](https://www.reddit.com/r/javascript/comments/ql3tyz/coding_resources_vol_5/)
+- [A simple and fun JavaScript Game](https://www.reddit.com/r/javascript/comments/qkyu28/a_simple_and_fun_javascript_game/)
+- [Creating a blockchain in 60 lines of Javascript](https://www.reddit.com/r/javascript/comments/qkxqb8/creating_a_blockchain_in_60_lines_of_javascript/)
+- [I just released a lightweight CSS preprocessor, easy to use, completely modular and fast, what do you think?](https://www.reddit.com/r/javascript/comments/qkw4c1/i_just_released_a_lightweight_css_preprocessor/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
