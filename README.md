@@ -377,6 +377,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *NodeSource posts*
 
 <!-- NODESOURCE-POST-LIST:START -->
+- [Releasing LTS Gallium support in N|Solid V.4.6.2](https://nodesource.com/blog/Releasing-LTS-Gallium-Support-in-N|Solid-V.4.6.2)
 - [Announcing N|Solid 4.6.1](https://nodesource.com/blog/Announcing-NSolid-version-4.6.1)
 - [Node.js Binary Distributions SSL Certificate Status](https://nodesource.com/blog/Nodejs-Binary-Distributions-SSL-Certificate-Status)
 - [Amazing new features in N|Solid V4.6.0.](https://nodesource.com/blog/Amazing-new-features-in-NSolid-V4.6.0.)
@@ -386,7 +387,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Announcing N|Solid v4.5.8](https://nodesource.com/blog/announcing-NSolid-v4.5.8)
 - [CPU Profiles as a Diagnostics tool in Node.js](https://nodesource.com/blog/CPU-Profiles-as-a-Diagnostics-tool-in-Node.js)
 - [SaaS Release Experience](https://nodesource.com/blog/SaaS-Release-Experience)
-- [Differences between N|Solid SaaS and On-Prem](https://nodesource.com/blog/differences-between-NSolid-SaaS-and-On-Prem)
 <!-- NODESOURCE-POST-LIST:END -->
 
 ### *React Native posts*
