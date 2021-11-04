@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [TC39er.us podcast: Nicolò Ribaudo [One of core maintainers of Babel]](https://www.reddit.com/r/javascript/comments/qlbbsj/tc39erus_podcast_nicolò_ribaudo_one_of_core/)
-- [[AskJS] What framework and technologies would be best for a project like this?](https://www.reddit.com/r/javascript/comments/qlb02t/askjs_what_framework_and_technologies_would_be/)
-- [Get started with Medusa: the open-source alternative to Shopify built in Node.js](https://www.reddit.com/r/javascript/comments/ql7xuv/get_started_with_medusa_the_opensource/)
-- [NodeJS app from code to Kubernetes - without the complexity](https://www.reddit.com/r/javascript/comments/ql4y8t/nodejs_app_from_code_to_kubernetes_without_the/)
-- [A fast unused and duplicate dependency checker](https://www.reddit.com/r/javascript/comments/ql4vkm/a_fast_unused_and_duplicate_dependency_checker/)
-- [Coin Flip Game using JavaScript & CSS](https://www.reddit.com/r/javascript/comments/ql44ru/coin_flip_game_using_javascript_css/)
-- [Coding Resources - Vol. 5](https://www.reddit.com/r/javascript/comments/ql3tyz/coding_resources_vol_5/)
-- [A simple and fun JavaScript Game](https://www.reddit.com/r/javascript/comments/qkyu28/a_simple_and_fun_javascript_game/)
-- [Creating a blockchain in 60 lines of Javascript](https://www.reddit.com/r/javascript/comments/qkxqb8/creating_a_blockchain_in_60_lines_of_javascript/)
-- [I just released a lightweight CSS preprocessor, easy to use, completely modular and fast, what do you think?](https://www.reddit.com/r/javascript/comments/qkw4c1/i_just_released_a_lightweight_css_preprocessor/)
+- [[AskJS] How do I open a live server for my index.js on VS code?](https://www.reddit.com/r/javascript/comments/qm9qf3/askjs_how_do_i_open_a_live_server_for_my_indexjs/)
+- [[AskJS] Suggestions for SVG drawing libs](https://www.reddit.com/r/javascript/comments/qm82qj/askjs_suggestions_for_svg_drawing_libs/)
+- [Record, replay and measure user flows - Chrome Developers](https://www.reddit.com/r/javascript/comments/qm75x7/record_replay_and_measure_user_flows_chrome/)
+- [[AskJS] How does this code crash my computer?](https://www.reddit.com/r/javascript/comments/qm5qim/askjs_how_does_this_code_crash_my_computer/)
+- [Image Upload With Preview Using Javascript](https://www.reddit.com/r/javascript/comments/qm5p0r/image_upload_with_preview_using_javascript/)
+- [VESlocker: Hardware-grade PIN security API](https://www.reddit.com/r/javascript/comments/qm5h9x/veslocker_hardwaregrade_pin_security_api/)
+- [This Is My 10 Questions React Code Reviewing Routine](https://www.reddit.com/r/javascript/comments/qm47ce/this_is_my_10_questions_react_code_reviewing/)
+- [Angular 13 is out!](https://www.reddit.com/r/javascript/comments/qm3wno/angular_13_is_out/)
+- [Getting Started with react query](https://www.reddit.com/r/javascript/comments/qm0cs7/getting_started_with_react_query/)
+- [[AskJS] what do you listen to while coding?](https://www.reddit.com/r/javascript/comments/qm0bjj/askjs_what_do_you_listen_to_while_coding/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
