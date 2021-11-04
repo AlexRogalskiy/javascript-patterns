@@ -292,16 +292,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [What’s new in Angular 13](https://www.infoworld.com/article/3629473/whats-new-in-angular-13.html#tk.rss_javascript)
+- [TypeScript delays ESM support for Node.js](https://www.infoworld.com/article/3637149/typescript-delays-esm-support-for-nodejs.html#tk.rss_javascript)
+- [Angular proposal would make NgModules optional](https://www.infoworld.com/article/3638851/angular-proposal-would-make-ngmodules-optional.html#tk.rss_javascript)
+- [Big Next.js upgrade has new Rust compiler, ES Modules support](https://www.infoworld.com/article/3638690/big-nextjs-upgrade-has-new-rust-compiler-es-modules-support.html#tk.rss_javascript)
 - [Unstoppable Jamstack and the Gatsby opportunity](https://www.infoworld.com/article/3638054/unstoppable-jamstack-and-the-gatsby-opportunity.html#tk.rss_javascript)
 - [Deno 1.15 improves Node.js compatibility](https://www.infoworld.com/article/3637044/deno-115-improves-nodejs-compatibility.html#tk.rss_javascript)
 - [Node.js 17 arrives with more promise-based APIs](https://www.infoworld.com/article/3637061/nodejs-17-arrives-with-more-promise-based-apis.html#tk.rss_javascript)
-- [What’s new in Angular 13](https://www.infoworld.com/article/3629473/whats-new-in-angular-13.html#tk.rss_javascript)
-- [TypeScript adds ESM support for Node.js](https://www.infoworld.com/article/3637149/typescript-adds-esm-support-for-nodejs.html#tk.rss_javascript)
 - [Get started with SvelteKit](https://www.infoworld.com/article/3634771/get-started-with-sveltekit.html#tk.rss_javascript)
 - [Electron framework adds encryption API](https://www.infoworld.com/article/3634383/electron-framework-adds-encryption-api.html#tk.rss_javascript)
 - [Ruby on Rails 7 overhauls JavaScript support](https://www.infoworld.com/article/3633904/ruby-on-rails-7-overhauls-javascript-support.html#tk.rss_javascript)
-- [Deno 1.14 extends Web Crypto API](https://www.infoworld.com/article/3633615/deno-114-extends-web-crypto-api.html#tk.rss_javascript)
-- [Use the Visual Studio Code editor in your own projects](https://www.infoworld.com/article/3631383/use-the-visual-studio-code-editor-in-your-own-projects.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
