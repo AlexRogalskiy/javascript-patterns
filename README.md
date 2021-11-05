@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] How do I open a live server for my index.js on VS code?](https://www.reddit.com/r/javascript/comments/qm9qf3/askjs_how_do_i_open_a_live_server_for_my_indexjs/)
-- [[AskJS] Suggestions for SVG drawing libs](https://www.reddit.com/r/javascript/comments/qm82qj/askjs_suggestions_for_svg_drawing_libs/)
-- [Record, replay and measure user flows - Chrome Developers](https://www.reddit.com/r/javascript/comments/qm75x7/record_replay_and_measure_user_flows_chrome/)
-- [[AskJS] How does this code crash my computer?](https://www.reddit.com/r/javascript/comments/qm5qim/askjs_how_does_this_code_crash_my_computer/)
-- [Image Upload With Preview Using Javascript](https://www.reddit.com/r/javascript/comments/qm5p0r/image_upload_with_preview_using_javascript/)
-- [VESlocker: Hardware-grade PIN security API](https://www.reddit.com/r/javascript/comments/qm5h9x/veslocker_hardwaregrade_pin_security_api/)
-- [This Is My 10 Questions React Code Reviewing Routine](https://www.reddit.com/r/javascript/comments/qm47ce/this_is_my_10_questions_react_code_reviewing/)
-- [Angular 13 is out!](https://www.reddit.com/r/javascript/comments/qm3wno/angular_13_is_out/)
-- [Getting Started with react query](https://www.reddit.com/r/javascript/comments/qm0cs7/getting_started_with_react_query/)
-- [[AskJS] what do you listen to while coding?](https://www.reddit.com/r/javascript/comments/qm0bjj/askjs_what_do_you_listen_to_while_coding/)
+- [[AskJS] Is anyone familiar with Webgazer.js?](https://www.reddit.com/r/javascript/comments/qn07e6/askjs_is_anyone_familiar_with_webgazerjs/)
+- [[AskJS] a new way to create and maintain documentation](https://www.reddit.com/r/javascript/comments/qmt577/askjs_a_new_way_to_create_and_maintain/)
+- [Visual Studio Code October 2021](https://www.reddit.com/r/javascript/comments/qmp4c2/visual_studio_code_october_2021/)
+- [Interactive stories (beta)—simulate user behaviour using Testing Library](https://www.reddit.com/r/javascript/comments/qmmayi/interactive_stories_betasimulate_user_behaviour/)
+- [GitHub - mxxii/peberminta: Simple, transparent parser combinators toolkit that supports any tokens](https://www.reddit.com/r/javascript/comments/qmlbz9/github_mxxiipeberminta_simple_transparent_parser/)
+- [Why Outdated jQuery Is Still the Dominant JavaScript Library](https://www.reddit.com/r/javascript/comments/qmlag5/why_outdated_jquery_is_still_the_dominant/)
+- [Angular v13 is now Available](https://www.reddit.com/r/javascript/comments/qml8ix/angular_v13_is_now_available/)
+- [5 Unix Terminal Tips To Boost Your Coding Speed](https://www.reddit.com/r/javascript/comments/qml7mn/5_unix_terminal_tips_to_boost_your_coding_speed/)
+- [webinar on how to build storefronts with Vue Storefront and Spree Commerce](https://www.reddit.com/r/javascript/comments/qml2ei/webinar_on_how_to_build_storefronts_with_vue/)
+- [Glassmorphism Analog Clock using JavaScript](https://www.reddit.com/r/javascript/comments/qmjs7d/glassmorphism_analog_clock_using_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
