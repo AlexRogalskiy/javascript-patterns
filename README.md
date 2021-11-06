@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Is anyone familiar with Webgazer.js?](https://www.reddit.com/r/javascript/comments/qn07e6/askjs_is_anyone_familiar_with_webgazerjs/)
+- [Retry, Timeout and Cancel with fetch()](https://www.reddit.com/r/javascript/comments/qnkn9k/retry_timeout_and_cancel_with_fetch/)
+- [V8 release v9.7](https://www.reddit.com/r/javascript/comments/qnelh8/v8_release_v97/)
+- [I made an Open Source Next JS Starter Template with NextJS 12 + Tailwind CSS 2 with JIT + React 17 + TypeScript + ESLint (Next and Airbnb) + Prettier + Husky + Lint-Staged + PostCSS + VSCode with Debugging + Strict Mode + SEO + Default Theme + Bundler Analyzer + One-click deploy to Vercel/Netlify](https://www.reddit.com/r/javascript/comments/qnchul/i_made_an_open_source_next_js_starter_template/)
+- [JavaScript Project: Skeleton Screen Loading](https://www.reddit.com/r/javascript/comments/qnanad/javascript_project_skeleton_screen_loading/)
+- [Popular 'coa' NPM library hijacked to steal user passwords](https://www.reddit.com/r/javascript/comments/qn8alx/popular_coa_npm_library_hijacked_to_steal_user/)
+- [Creating a React component with TDD](https://www.reddit.com/r/javascript/comments/qn7kjb/creating_a_react_component_with_tdd/)
+- [Nice usage of impress.js and rss feeds](https://www.reddit.com/r/javascript/comments/qn6vcx/nice_usage_of_impressjs_and_rss_feeds/)
+- [[AskJS] What react UI framework would you use to make a Reddit clone as close as possible?](https://www.reddit.com/r/javascript/comments/qn14k4/askjs_what_react_ui_framework_would_you_use_to/)
 - [[AskJS] a new way to create and maintain documentation](https://www.reddit.com/r/javascript/comments/qmt577/askjs_a_new_way_to_create_and_maintain/)
 - [Visual Studio Code October 2021](https://www.reddit.com/r/javascript/comments/qmp4c2/visual_studio_code_october_2021/)
-- [Interactive stories (beta)—simulate user behaviour using Testing Library](https://www.reddit.com/r/javascript/comments/qmmayi/interactive_stories_betasimulate_user_behaviour/)
-- [GitHub - mxxii/peberminta: Simple, transparent parser combinators toolkit that supports any tokens](https://www.reddit.com/r/javascript/comments/qmlbz9/github_mxxiipeberminta_simple_transparent_parser/)
-- [Why Outdated jQuery Is Still the Dominant JavaScript Library](https://www.reddit.com/r/javascript/comments/qmlag5/why_outdated_jquery_is_still_the_dominant/)
-- [Angular v13 is now Available](https://www.reddit.com/r/javascript/comments/qml8ix/angular_v13_is_now_available/)
-- [5 Unix Terminal Tips To Boost Your Coding Speed](https://www.reddit.com/r/javascript/comments/qml7mn/5_unix_terminal_tips_to_boost_your_coding_speed/)
-- [webinar on how to build storefronts with Vue Storefront and Spree Commerce](https://www.reddit.com/r/javascript/comments/qml2ei/webinar_on_how_to_build_storefronts_with_vue/)
-- [Glassmorphism Analog Clock using JavaScript](https://www.reddit.com/r/javascript/comments/qmjs7d/glassmorphism_analog_clock_using_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
