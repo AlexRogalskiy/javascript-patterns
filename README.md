@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [qb.js: An implementation of QBASIC in Javascript](https://www.reddit.com/r/javascript/comments/qoe854/qbjs_an_implementation_of_qbasic_in_javascript/)
+- [[AskJS] Is JavaScript good enough for coding interviews?](https://www.reddit.com/r/javascript/comments/qobgde/askjs_is_javascript_good_enough_for_coding/)
+- [[AskJS] Need some help understand this blog post about `Function.prototype.call`](https://www.reddit.com/r/javascript/comments/qo5c63/askjs_need_some_help_understand_this_blog_post/)
+- [[AskJS] Anyone else find Firefox devtools subpar?](https://www.reddit.com/r/javascript/comments/qnxj9y/askjs_anyone_else_find_firefox_devtools_subpar/)
+- [Nimiq: the Blockchain for JS Devs!](https://www.reddit.com/r/javascript/comments/qnw4jg/nimiq_the_blockchain_for_js_devs/)
+- [Showoff Saturday (November 06, 2021)](https://www.reddit.com/r/javascript/comments/qnuwe4/showoff_saturday_november_06_2021/)
 - [Retry, Timeout and Cancel with fetch()](https://www.reddit.com/r/javascript/comments/qnkn9k/retry_timeout_and_cancel_with_fetch/)
 - [V8 release v9.7](https://www.reddit.com/r/javascript/comments/qnelh8/v8_release_v97/)
 - [I made an Open Source Next JS Starter Template with NextJS 12 + Tailwind CSS 2 with JIT + React 17 + TypeScript + ESLint (Next and Airbnb) + Prettier + Husky + Lint-Staged + PostCSS + VSCode with Debugging + Strict Mode + SEO + Default Theme + Bundler Analyzer + One-click deploy to Vercel/Netlify](https://www.reddit.com/r/javascript/comments/qnchul/i_made_an_open_source_next_js_starter_template/)
 - [JavaScript Project: Skeleton Screen Loading](https://www.reddit.com/r/javascript/comments/qnanad/javascript_project_skeleton_screen_loading/)
-- [Popular 'coa' NPM library hijacked to steal user passwords](https://www.reddit.com/r/javascript/comments/qn8alx/popular_coa_npm_library_hijacked_to_steal_user/)
-- [Creating a React component with TDD](https://www.reddit.com/r/javascript/comments/qn7kjb/creating_a_react_component_with_tdd/)
-- [Nice usage of impress.js and rss feeds](https://www.reddit.com/r/javascript/comments/qn6vcx/nice_usage_of_impressjs_and_rss_feeds/)
-- [[AskJS] What react UI framework would you use to make a Reddit clone as close as possible?](https://www.reddit.com/r/javascript/comments/qn14k4/askjs_what_react_ui_framework_would_you_use_to/)
-- [[AskJS] a new way to create and maintain documentation](https://www.reddit.com/r/javascript/comments/qmt577/askjs_a_new_way_to_create_and_maintain/)
-- [Visual Studio Code October 2021](https://www.reddit.com/r/javascript/comments/qmp4c2/visual_studio_code_october_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
