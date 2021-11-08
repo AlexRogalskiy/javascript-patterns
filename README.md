@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Does a very large array cause performance issues?](https://www.reddit.com/r/javascript/comments/qozwde/askjs_does_a_very_large_array_cause_performance/)
+- [Liqe: Lightweight and performant Lucene-like parser and search engine](https://www.reddit.com/r/javascript/comments/qowmxq/liqe_lightweight_and_performant_lucenelike_parser/)
+- [CleanUp.pictures, a free web application that lets you quickly cleanup or remove objects in any image.](https://www.reddit.com/r/javascript/comments/qovy1h/cleanuppictures_a_free_web_application_that_lets/)
+- [particule, a fine-grained atomic React state management library](https://www.reddit.com/r/javascript/comments/qott1l/particule_a_finegrained_atomic_react_state/)
+- [[AskJS] Code to stealth print in js and save to local drive](https://www.reddit.com/r/javascript/comments/qotimw/askjs_code_to_stealth_print_in_js_and_save_to/)
+- [Why Outdated jQuery Is Still the Dominant JavaScript Library](https://www.reddit.com/r/javascript/comments/qoqpa5/why_outdated_jquery_is_still_the_dominant/)
+- [[AskJS] did I choose the right language ?](https://www.reddit.com/r/javascript/comments/qokx9i/askjs_did_i_choose_the_right_language/)
+- [Cypress Component Testing vs Storybook Interaction Testing](https://www.reddit.com/r/javascript/comments/qogtar/cypress_component_testing_vs_storybook/)
 - [qb.js: An implementation of QBASIC in Javascript](https://www.reddit.com/r/javascript/comments/qoe854/qbjs_an_implementation_of_qbasic_in_javascript/)
 - [[AskJS] Is JavaScript good enough for coding interviews?](https://www.reddit.com/r/javascript/comments/qobgde/askjs_is_javascript_good_enough_for_coding/)
-- [[AskJS] Need some help understand this blog post about `Function.prototype.call`](https://www.reddit.com/r/javascript/comments/qo5c63/askjs_need_some_help_understand_this_blog_post/)
-- [[AskJS] Anyone else find Firefox devtools subpar?](https://www.reddit.com/r/javascript/comments/qnxj9y/askjs_anyone_else_find_firefox_devtools_subpar/)
-- [Nimiq: the Blockchain for JS Devs!](https://www.reddit.com/r/javascript/comments/qnw4jg/nimiq_the_blockchain_for_js_devs/)
-- [Showoff Saturday (November 06, 2021)](https://www.reddit.com/r/javascript/comments/qnuwe4/showoff_saturday_november_06_2021/)
-- [Retry, Timeout and Cancel with fetch()](https://www.reddit.com/r/javascript/comments/qnkn9k/retry_timeout_and_cancel_with_fetch/)
-- [V8 release v9.7](https://www.reddit.com/r/javascript/comments/qnelh8/v8_release_v97/)
-- [I made an Open Source Next JS Starter Template with NextJS 12 + Tailwind CSS 2 with JIT + React 17 + TypeScript + ESLint (Next and Airbnb) + Prettier + Husky + Lint-Staged + PostCSS + VSCode with Debugging + Strict Mode + SEO + Default Theme + Bundler Analyzer + One-click deploy to Vercel/Netlify](https://www.reddit.com/r/javascript/comments/qnchul/i_made_an_open_source_next_js_starter_template/)
-- [JavaScript Project: Skeleton Screen Loading](https://www.reddit.com/r/javascript/comments/qnanad/javascript_project_skeleton_screen_loading/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
