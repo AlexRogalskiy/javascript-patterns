@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Does a very large array cause performance issues?](https://www.reddit.com/r/javascript/comments/qozwde/askjs_does_a_very_large_array_cause_performance/)
-- [Liqe: Lightweight and performant Lucene-like parser and search engine](https://www.reddit.com/r/javascript/comments/qowmxq/liqe_lightweight_and_performant_lucenelike_parser/)
-- [CleanUp.pictures, a free web application that lets you quickly cleanup or remove objects in any image.](https://www.reddit.com/r/javascript/comments/qovy1h/cleanuppictures_a_free_web_application_that_lets/)
-- [particule, a fine-grained atomic React state management library](https://www.reddit.com/r/javascript/comments/qott1l/particule_a_finegrained_atomic_react_state/)
-- [[AskJS] Code to stealth print in js and save to local drive](https://www.reddit.com/r/javascript/comments/qotimw/askjs_code_to_stealth_print_in_js_and_save_to/)
-- [Why Outdated jQuery Is Still the Dominant JavaScript Library](https://www.reddit.com/r/javascript/comments/qoqpa5/why_outdated_jquery_is_still_the_dominant/)
-- [[AskJS] did I choose the right language ?](https://www.reddit.com/r/javascript/comments/qokx9i/askjs_did_i_choose_the_right_language/)
-- [Cypress Component Testing vs Storybook Interaction Testing](https://www.reddit.com/r/javascript/comments/qogtar/cypress_component_testing_vs_storybook/)
-- [qb.js: An implementation of QBASIC in Javascript](https://www.reddit.com/r/javascript/comments/qoe854/qbjs_an_implementation_of_qbasic_in_javascript/)
-- [[AskJS] Is JavaScript good enough for coding interviews?](https://www.reddit.com/r/javascript/comments/qobgde/askjs_is_javascript_good_enough_for_coding/)
+- [[AskJS] confusion about various ways to apply CSS to webpages](https://www.reddit.com/r/javascript/comments/qpsad7/askjs_confusion_about_various_ways_to_apply_css/)
+- [Notebooks, Visual Studio Code style](https://www.reddit.com/r/javascript/comments/qpqohn/notebooks_visual_studio_code_style/)
+- [The Layout Team](https://www.reddit.com/r/javascript/comments/qpoqum/the_layout_team/)
+- [Learn javascript while browsing the internet](https://www.reddit.com/r/javascript/comments/qpo86v/learn_javascript_while_browsing_the_internet/)
+- [Hydrogen - React-based framework for building custom storefronts on Shopify gives you everything you need to start fast, build fast, and deliver the best personalized shopping experiences](https://www.reddit.com/r/javascript/comments/qpl3ya/hydrogen_reactbased_framework_for_building_custom/)
+- [[AskJS] Is a stand-alone application possible with JavaScript?](https://www.reddit.com/r/javascript/comments/qpjc6c/askjs_is_a_standalone_application_possible_with/)
+- [Speed up your TypeScript monorepo with esbuild](https://www.reddit.com/r/javascript/comments/qpgw5t/speed_up_your_typescript_monorepo_with_esbuild/)
+- [Follow-up article on Medusa, the OS alternative to Shopify: How to set up and customize your Medusa server](https://www.reddit.com/r/javascript/comments/qpgmda/followup_article_on_medusa_the_os_alternative_to/)
+- [SemVer challenges](https://www.reddit.com/r/javascript/comments/qpegev/semver_challenges/)
+- [Integrating OpenReplay with GitHub](https://www.reddit.com/r/javascript/comments/qpdh6q/integrating_openreplay_with_github/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
