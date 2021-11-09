@@ -352,13 +352,13 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *javascript programmer posts*
 
 <!-- METEOR-POST-LIST:START -->
-- [Why Pathable Uses Meteor To Power Virtual & Hybrid Events](https://blog.meteor.com/why-pathable-uses-meteor-to-power-virtual-hybrid-events-61747542c1b7?source=rss----a9bcaf865278---4)
+- [Why Pathable Uses Meteor To Power Virtual &amp; Hybrid Events](https://blog.meteor.com/why-pathable-uses-meteor-to-power-virtual-hybrid-events-61747542c1b7?source=rss----a9bcaf865278---4)
 - [Announcing Meteor 2.5 with Cordova 10, accounts-passwordless, and much more!](https://blog.meteor.com/announcing-meteor-2-5-with-cordova-10-accounts-passwordless-and-much-more-1848fa61e313?source=rss----a9bcaf865278---4)
 - [Announcing Meteor 2.4 And The New Installer](https://blog.meteor.com/announcing-meteor-2-4-and-the-new-installer-254c5f8f39f?source=rss----a9bcaf865278---4)
 - [How ALLOHOUSTON Makes Organizations Smarter with Meteor](https://blog.meteor.com/how-allohouston-makes-organizations-smarter-with-meteor-7b1ff2058f53?source=rss----a9bcaf865278---4)
 - [Testing a Meteor app with Cypress](https://blog.meteor.com/testing-a-meteor-app-with-cypress-bfb3d3c6ed6f?source=rss----a9bcaf865278---4)
 - [How real-time data works on Meteor — Know your pub/subs](https://blog.meteor.com/how-real-time-data-works-on-meteor-know-your-pub-subs-86620c7dccfa?source=rss----a9bcaf865278---4)
-- [How ConvertCalculator Uses Meteor (+ Math) To Sell More](https://blog.meteor.com/how-convertcalculator-uses-meteor-math-to-sell-more-ba777b707eea?source=rss----a9bcaf865278---4)
+- [How ConvertCalculator Uses Meteor &lpar;+ Math&rpar; To Sell More](https://blog.meteor.com/how-convertcalculator-uses-meteor-math-to-sell-more-ba777b707eea?source=rss----a9bcaf865278---4)
 - [Meteor 2.3 has been released!](https://blog.meteor.com/meteor-2-3-has-been-released-f9971464ed1e?source=rss----a9bcaf865278---4)
 - [How Avion Brings User Story Mapping To Product Teams using Meteor](https://blog.meteor.com/how-avion-brings-user-story-mapping-to-product-teams-using-meteor-51f92bb0928a?source=rss----a9bcaf865278---4)
 - [New Meteor Meetups](https://blog.meteor.com/new-meteor-meetups-b1fca07b49c3?source=rss----a9bcaf865278---4)
