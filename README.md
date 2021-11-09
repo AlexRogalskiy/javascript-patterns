@@ -323,10 +323,10 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 
 <!-- YOUTUBE-POST-LIST:START -->
 - [Jsconf India Online 2021](https://www.youtube.com/watch?v=j6S3IRXQyqw)
-- [From JavaScript to React - Leonidas Esteban (Spanish language)](https://www.youtube.com/watch?v=T-lRHCPfQ1o)
+- [From JavaScript to React - Leonidas Esteban &lpar;Spanish language&rpar;](https://www.youtube.com/watch?v=T-lRHCPfQ1o)
 - [From beginner to expert in web performance  - Tracy Lee](https://www.youtube.com/watch?v=l1A1ImFkNvA)
-- [Accessibility, what do you eat that with? - Marjorie Figueroa (Spanish language)](https://www.youtube.com/watch?v=nOTw35C5ba4)
-- [Micro Frontends, or how to evolve to an extensible frontend - Benjamín Martínez (Spanish langauaje)](https://www.youtube.com/watch?v=qAzL3QmmtVg)
+- [Accessibility, what do you eat that with? - Marjorie Figueroa &lpar;Spanish language&rpar;](https://www.youtube.com/watch?v=nOTw35C5ba4)
+- [Micro Frontends, or how to evolve to an extensible frontend - Benjamín Martínez &lpar;Spanish langauaje&rpar;](https://www.youtube.com/watch?v=qAzL3QmmtVg)
 - [React is hard but not why you may think  - Sara Vieira](https://www.youtube.com/watch?v=MmQvVkYMi8g)
 - [Starting a thread: pin the right questions - Dora Makszy](https://www.youtube.com/watch?v=gmjIcE97JC8)
 - [Why WebAssembly - Miguel Useche  [Spanish language]](https://www.youtube.com/watch?v=BoV0o_aTBCA)
