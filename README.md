@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] confusion about various ways to apply CSS to webpages](https://www.reddit.com/r/javascript/comments/qpsad7/askjs_confusion_about_various_ways_to_apply_css/)
-- [Notebooks, Visual Studio Code style](https://www.reddit.com/r/javascript/comments/qpqohn/notebooks_visual_studio_code_style/)
-- [The Layout Team](https://www.reddit.com/r/javascript/comments/qpoqum/the_layout_team/)
-- [Learn javascript while browsing the internet](https://www.reddit.com/r/javascript/comments/qpo86v/learn_javascript_while_browsing_the_internet/)
-- [Hydrogen - React-based framework for building custom storefronts on Shopify gives you everything you need to start fast, build fast, and deliver the best personalized shopping experiences](https://www.reddit.com/r/javascript/comments/qpl3ya/hydrogen_reactbased_framework_for_building_custom/)
-- [[AskJS] Is a stand-alone application possible with JavaScript?](https://www.reddit.com/r/javascript/comments/qpjc6c/askjs_is_a_standalone_application_possible_with/)
-- [Speed up your TypeScript monorepo with esbuild](https://www.reddit.com/r/javascript/comments/qpgw5t/speed_up_your_typescript_monorepo_with_esbuild/)
-- [Follow-up article on Medusa, the OS alternative to Shopify: How to set up and customize your Medusa server](https://www.reddit.com/r/javascript/comments/qpgmda/followup_article_on_medusa_the_os_alternative_to/)
-- [SemVer challenges](https://www.reddit.com/r/javascript/comments/qpegev/semver_challenges/)
-- [Integrating OpenReplay with GitHub](https://www.reddit.com/r/javascript/comments/qpdh6q/integrating_openreplay_with_github/)
+- [Effection: for when async/await is not enough](https://www.reddit.com/r/javascript/comments/qqdiur/effection_for_when_asyncawait_is_not_enough/)
+- [[AskJS] Best Examples of Enterprise-level Architecture?](https://www.reddit.com/r/javascript/comments/qqb292/askjs_best_examples_of_enterpriselevel/)
+- [Convert an Angular project to a React project automatically](https://www.reddit.com/r/javascript/comments/qq4h5s/convert_an_angular_project_to_a_react_project/)
+- [Scheduling One-Off Cron Jobs With AWS EventBridge And AWS Lambda](https://www.reddit.com/r/javascript/comments/qq2oom/scheduling_oneoff_cron_jobs_with_aws_eventbridge/)
+- [Backdoors can be hidden in JS code using &quot;invisible&quot; variables. Code looks completely harmless.](https://www.reddit.com/r/javascript/comments/qq2f51/backdoors_can_be_hidden_in_js_code_using/)
+- [Blink detection with Tensorflow.js](https://www.reddit.com/r/javascript/comments/qq2epi/blink_detection_with_tensorflowjs/)
+- [Siesta 6.0.0-alpha-4 released, with user actions simulation and dashboard UI](https://www.reddit.com/r/javascript/comments/qq1lbk/siesta_600alpha4_released_with_user_actions/)
+- [Improving developer experience with Typescript [gists included]](https://www.reddit.com/r/javascript/comments/qq0yhy/improving_developer_experience_with_typescript/)
+- [[better-logging] My library better-logging have achived 100&#39;000 total downloads! I posted about better-logging 9 months ago when it reached 1k weekly download for the first time, and i wanted to thank all of you who gave my library a chance 9 months ago!](https://www.reddit.com/r/javascript/comments/qpzl29/betterlogging_my_library_betterlogging_have/)
+- [Do it my friends! Codeit](https://www.reddit.com/r/javascript/comments/qpz35n/do_it_my_friends_codeit/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
