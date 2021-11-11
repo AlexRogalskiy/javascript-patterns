@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Effection: for when async/await is not enough](https://www.reddit.com/r/javascript/comments/qqdiur/effection_for_when_asyncawait_is_not_enough/)
-- [[AskJS] Best Examples of Enterprise-level Architecture?](https://www.reddit.com/r/javascript/comments/qqb292/askjs_best_examples_of_enterpriselevel/)
-- [Convert an Angular project to a React project automatically](https://www.reddit.com/r/javascript/comments/qq4h5s/convert_an_angular_project_to_a_react_project/)
-- [Scheduling One-Off Cron Jobs With AWS EventBridge And AWS Lambda](https://www.reddit.com/r/javascript/comments/qq2oom/scheduling_oneoff_cron_jobs_with_aws_eventbridge/)
-- [Backdoors can be hidden in JS code using &quot;invisible&quot; variables. Code looks completely harmless.](https://www.reddit.com/r/javascript/comments/qq2f51/backdoors_can_be_hidden_in_js_code_using/)
-- [Blink detection with Tensorflow.js](https://www.reddit.com/r/javascript/comments/qq2epi/blink_detection_with_tensorflowjs/)
-- [Siesta 6.0.0-alpha-4 released, with user actions simulation and dashboard UI](https://www.reddit.com/r/javascript/comments/qq1lbk/siesta_600alpha4_released_with_user_actions/)
-- [Improving developer experience with Typescript [gists included]](https://www.reddit.com/r/javascript/comments/qq0yhy/improving_developer_experience_with_typescript/)
-- [[better-logging] My library better-logging have achived 100&#39;000 total downloads! I posted about better-logging 9 months ago when it reached 1k weekly download for the first time, and i wanted to thank all of you who gave my library a chance 9 months ago!](https://www.reddit.com/r/javascript/comments/qpzl29/betterlogging_my_library_betterlogging_have/)
-- [Do it my friends! Codeit](https://www.reddit.com/r/javascript/comments/qpz35n/do_it_my_friends_codeit/)
+- [I am looking for contributors for my open-source javascript project Kapseli!](https://www.reddit.com/r/javascript/comments/qr64lw/i_am_looking_for_contributors_for_my_opensource/)
+- [Get Started With Playwright For Web Scraping](https://www.reddit.com/r/javascript/comments/qr3uye/get_started_with_playwright_for_web_scraping/)
+- [Why GitHub Actions is so slow](https://www.reddit.com/r/javascript/comments/qr1qfe/why_github_actions_is_so_slow/)
+- [Smuggling hidden backdoors into JavaScript with homoglyphs and invisible Unicode characters](https://www.reddit.com/r/javascript/comments/qr0f9z/smuggling_hidden_backdoors_into_javascript_with/)
+- [Get started with Storybook and Next.js](https://www.reddit.com/r/javascript/comments/qr0546/get_started_with_storybook_and_nextjs/)
+- [Synthetic Testing and Real User Monitoring](https://www.reddit.com/r/javascript/comments/qqypq5/synthetic_testing_and_real_user_monitoring/)
+- [The Open Source alternative to Twilio &lpar;Fonoster&rpar; is the second most popular repo in GitHub today for the Javascript category](https://www.reddit.com/r/javascript/comments/qqy0bi/the_open_source_alternative_to_twilio_fonoster_is/)
+- [These invisible characters could be hidden backdoors in your JS code](https://www.reddit.com/r/javascript/comments/qqxrer/these_invisible_characters_could_be_hidden/)
+- [Bundle Scanner - a tool I built that identifies which NPM libraries are used on any website](https://www.reddit.com/r/javascript/comments/qqw337/bundle_scanner_a_tool_i_built_that_identifies/)
+- [[AskJS] Library recommendation for 3D Point Cloud rendering](https://www.reddit.com/r/javascript/comments/qqvmfq/askjs_library_recommendation_for_3d_point_cloud/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
