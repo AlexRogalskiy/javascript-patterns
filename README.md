@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I am looking for contributors for my open-source javascript project Kapseli!](https://www.reddit.com/r/javascript/comments/qr64lw/i_am_looking_for_contributors_for_my_opensource/)
-- [Get Started With Playwright For Web Scraping](https://www.reddit.com/r/javascript/comments/qr3uye/get_started_with_playwright_for_web_scraping/)
-- [Why GitHub Actions is so slow](https://www.reddit.com/r/javascript/comments/qr1qfe/why_github_actions_is_so_slow/)
-- [Smuggling hidden backdoors into JavaScript with homoglyphs and invisible Unicode characters](https://www.reddit.com/r/javascript/comments/qr0f9z/smuggling_hidden_backdoors_into_javascript_with/)
-- [Get started with Storybook and Next.js](https://www.reddit.com/r/javascript/comments/qr0546/get_started_with_storybook_and_nextjs/)
-- [Synthetic Testing and Real User Monitoring](https://www.reddit.com/r/javascript/comments/qqypq5/synthetic_testing_and_real_user_monitoring/)
-- [The Open Source alternative to Twilio &lpar;Fonoster&rpar; is the second most popular repo in GitHub today for the Javascript category](https://www.reddit.com/r/javascript/comments/qqy0bi/the_open_source_alternative_to_twilio_fonoster_is/)
-- [These invisible characters could be hidden backdoors in your JS code](https://www.reddit.com/r/javascript/comments/qqxrer/these_invisible_characters_could_be_hidden/)
-- [Bundle Scanner - a tool I built that identifies which NPM libraries are used on any website](https://www.reddit.com/r/javascript/comments/qqw337/bundle_scanner_a_tool_i_built_that_identifies/)
-- [[AskJS] Library recommendation for 3D Point Cloud rendering](https://www.reddit.com/r/javascript/comments/qqvmfq/askjs_library_recommendation_for_3d_point_cloud/)
+- [[AskJS] Is there a “Violent JavaScript” like there’s a “Violent Python”?](https://www.reddit.com/r/javascript/comments/qrwrgh/askjs_is_there_a_violent_javascript_like_theres_a/)
+- [[AskJS] problem solving/logical thinking books](https://www.reddit.com/r/javascript/comments/qrvoho/askjs_problem_solvinglogical_thinking_books/)
+- [React stepper which can be used also on mobile devices](https://www.reddit.com/r/javascript/comments/qrupyd/react_stepper_which_can_be_used_also_on_mobile/)
+- [Made an app to monitor Vercel &amp; Netlify deploys right from your menubar &lpar;mac/win&rpar;](https://www.reddit.com/r/javascript/comments/qrt2t8/made_an_app_to_monitor_vercel_netlify_deploys/)
+- [Rust Is The Future of JavaScript Infrastructure](https://www.reddit.com/r/javascript/comments/qrt0rs/rust_is_the_future_of_javascript_infrastructure/)
+- [I published my first article on dev.to today](https://www.reddit.com/r/javascript/comments/qrqzqf/i_published_my_first_article_on_devto_today/)
+- [[AskJS] Thoughts on using Redux actions as an event bus/pubsub, when the actions _don&#39;t_ result in a state change?](https://www.reddit.com/r/javascript/comments/qrpvsq/askjs_thoughts_on_using_redux_actions_as_an_event/)
+- [Main aspects of reactivity](https://www.reddit.com/r/javascript/comments/qrmctd/main_aspects_of_reactivity/)
+- [fastify-vite: Fastify plugin for Vite integration](https://www.reddit.com/r/javascript/comments/qrm7tr/fastifyvite_fastify_plugin_for_vite_integration/)
+- [State Management: Separation of Concerns](https://www.reddit.com/r/javascript/comments/qrl0ha/state_management_separation_of_concerns/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
