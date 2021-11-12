@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Svelte creator: Web development should be more fun](https://www.infoworld.com/article/3639521/svelte-creator-web-development-should-be-more-fun.html#tk.rss_javascript)
 - [What’s new in Angular 13](https://www.infoworld.com/article/3629473/whats-new-in-angular-13.html#tk.rss_javascript)
 - [TypeScript delays ESM support for Node.js](https://www.infoworld.com/article/3637149/typescript-delays-esm-support-for-nodejs.html#tk.rss_javascript)
 - [Angular proposal would make NgModules optional](https://www.infoworld.com/article/3638851/angular-proposal-would-make-ngmodules-optional.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Node.js 17 arrives with more promise-based APIs](https://www.infoworld.com/article/3637061/nodejs-17-arrives-with-more-promise-based-apis.html#tk.rss_javascript)
 - [Get started with SvelteKit](https://www.infoworld.com/article/3634771/get-started-with-sveltekit.html#tk.rss_javascript)
 - [Electron framework adds encryption API](https://www.infoworld.com/article/3634383/electron-framework-adds-encryption-api.html#tk.rss_javascript)
-- [Ruby on Rails 7 overhauls JavaScript support](https://www.infoworld.com/article/3633904/ruby-on-rails-7-overhauls-javascript-support.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
