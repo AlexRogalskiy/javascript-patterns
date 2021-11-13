@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Is there a “Violent JavaScript” like there’s a “Violent Python”?](https://www.reddit.com/r/javascript/comments/qrwrgh/askjs_is_there_a_violent_javascript_like_theres_a/)
-- [[AskJS] problem solving/logical thinking books](https://www.reddit.com/r/javascript/comments/qrvoho/askjs_problem_solvinglogical_thinking_books/)
-- [React stepper which can be used also on mobile devices](https://www.reddit.com/r/javascript/comments/qrupyd/react_stepper_which_can_be_used_also_on_mobile/)
-- [Made an app to monitor Vercel &amp; Netlify deploys right from your menubar &lpar;mac/win&rpar;](https://www.reddit.com/r/javascript/comments/qrt2t8/made_an_app_to_monitor_vercel_netlify_deploys/)
-- [Rust Is The Future of JavaScript Infrastructure](https://www.reddit.com/r/javascript/comments/qrt0rs/rust_is_the_future_of_javascript_infrastructure/)
-- [I published my first article on dev.to today](https://www.reddit.com/r/javascript/comments/qrqzqf/i_published_my_first_article_on_devto_today/)
-- [[AskJS] Thoughts on using Redux actions as an event bus/pubsub, when the actions _don&#39;t_ result in a state change?](https://www.reddit.com/r/javascript/comments/qrpvsq/askjs_thoughts_on_using_redux_actions_as_an_event/)
-- [Main aspects of reactivity](https://www.reddit.com/r/javascript/comments/qrmctd/main_aspects_of_reactivity/)
-- [fastify-vite: Fastify plugin for Vite integration](https://www.reddit.com/r/javascript/comments/qrm7tr/fastifyvite_fastify_plugin_for_vite_integration/)
-- [State Management: Separation of Concerns](https://www.reddit.com/r/javascript/comments/qrl0ha/state_management_separation_of_concerns/)
+- [Batched watermarking with line breaks in Acrobat](https://www.reddit.com/r/javascript/comments/qspvf4/batched_watermarking_with_line_breaks_in_acrobat/)
+- [Exploring a pattern that&#39;s growing in popularity: WTF is array.filter&lpar;Boolean&rpar; doing?](https://www.reddit.com/r/javascript/comments/qspeg3/exploring_a_pattern_thats_growing_in_popularity/)
+- [[AskJS] Redact part of a string, and replace the redacted characters with asterisks &lpar;*&rpar;](https://www.reddit.com/r/javascript/comments/qsozht/askjs_redact_part_of_a_string_and_replace_the/)
+- [Excellent use of JavaScript &quot;googly eyes&quot; which follow cursor](https://www.reddit.com/r/javascript/comments/qsoy0w/excellent_use_of_javascript_googly_eyes_which/)
+- [How do JavaScript arrays work?](https://www.reddit.com/r/javascript/comments/qsly6m/how_do_javascript_arrays_work/)
+- [How I took down my site and fixed it with MemoLock.](https://www.reddit.com/r/javascript/comments/qsjp66/how_i_took_down_my_site_and_fixed_it_with_memolock/)
+- [The #1 Best Design Pattern for Managing Forms in React](https://www.reddit.com/r/javascript/comments/qsj8w1/the_1_best_design_pattern_for_managing_forms_in/)
+- [Im trying to add the local storage into the javascript code, but i met into troubles that do not consist with the code, any help](https://www.reddit.com/r/javascript/comments/qsiyam/im_trying_to_add_the_local_storage_into_the/)
+- [[AskJS] Why are classes so rare in modern JS development?](https://www.reddit.com/r/javascript/comments/qsfc94/askjs_why_are_classes_so_rare_in_modern_js/)
+- [Understanding Transitional JavaScript Apps](https://www.reddit.com/r/javascript/comments/qsepqq/understanding_transitional_javascript_apps/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
