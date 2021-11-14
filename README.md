@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Batched watermarking with line breaks in Acrobat](https://www.reddit.com/r/javascript/comments/qspvf4/batched_watermarking_with_line_breaks_in_acrobat/)
-- [Exploring a pattern that&#39;s growing in popularity: WTF is array.filter&lpar;Boolean&rpar; doing?](https://www.reddit.com/r/javascript/comments/qspeg3/exploring_a_pattern_thats_growing_in_popularity/)
-- [[AskJS] Redact part of a string, and replace the redacted characters with asterisks &lpar;*&rpar;](https://www.reddit.com/r/javascript/comments/qsozht/askjs_redact_part_of_a_string_and_replace_the/)
-- [Excellent use of JavaScript &quot;googly eyes&quot; which follow cursor](https://www.reddit.com/r/javascript/comments/qsoy0w/excellent_use_of_javascript_googly_eyes_which/)
-- [How do JavaScript arrays work?](https://www.reddit.com/r/javascript/comments/qsly6m/how_do_javascript_arrays_work/)
-- [How I took down my site and fixed it with MemoLock.](https://www.reddit.com/r/javascript/comments/qsjp66/how_i_took_down_my_site_and_fixed_it_with_memolock/)
-- [The #1 Best Design Pattern for Managing Forms in React](https://www.reddit.com/r/javascript/comments/qsj8w1/the_1_best_design_pattern_for_managing_forms_in/)
-- [Im trying to add the local storage into the javascript code, but i met into troubles that do not consist with the code, any help](https://www.reddit.com/r/javascript/comments/qsiyam/im_trying_to_add_the_local_storage_into_the/)
-- [[AskJS] Why are classes so rare in modern JS development?](https://www.reddit.com/r/javascript/comments/qsfc94/askjs_why_are_classes_so_rare_in_modern_js/)
-- [Understanding Transitional JavaScript Apps](https://www.reddit.com/r/javascript/comments/qsepqq/understanding_transitional_javascript_apps/)
+- [[AskJS] Why there is so much hatred toward using Javascript on the Backend for C#/Java and others tech stack programmer ? Is it performance alone ? Do you consider yourself a full stack senior JS dev ?](https://www.reddit.com/r/javascript/comments/qtf2q8/askjs_why_there_is_so_much_hatred_toward_using/)
+- [Benchmarking esbuild, swc, tsc, and babel for React/JSX projects](https://www.reddit.com/r/javascript/comments/qt71hy/benchmarking_esbuild_swc_tsc_and_babel_for/)
+- [[AskJS] Does anyone know about a CIE-XYZ compliant color-picker library?](https://www.reddit.com/r/javascript/comments/qt3vnl/askjs_does_anyone_know_about_a_ciexyz_compliant/)
+- [[AskJS] What are the go-to books for understanding JS fundamentals?](https://www.reddit.com/r/javascript/comments/qt38io/askjs_what_are_the_goto_books_for_understanding/)
+- [A new, fast solution to solving bugs or earning by solving them.](https://www.reddit.com/r/javascript/comments/qt2i8z/a_new_fast_solution_to_solving_bugs_or_earning_by/)
+- [JavaScript: Four Differences between var and let](https://www.reddit.com/r/javascript/comments/qt1hpn/javascript_four_differences_between_var_and_let/)
+- [[AskJS] - Youtube tutorials recommendations for advanced?](https://www.reddit.com/r/javascript/comments/qt1418/askjs_youtube_tutorials_recommendations_for/)
+- [Open source component library built with Tailwind CSS and JavaScript [MIT License]](https://www.reddit.com/r/javascript/comments/qsyyk5/open_source_component_library_built_with_tailwind/)
+- [12 Must Have Browser Extensions for Developers](https://www.reddit.com/r/javascript/comments/qsyt02/12_must_have_browser_extensions_for_developers/)
+- [Showoff Saturday &lpar;November 13, 2021&rpar;](https://www.reddit.com/r/javascript/comments/qswibf/showoff_saturday_november_13_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
