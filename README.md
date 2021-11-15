@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Template engine for serving dynamic HTML locally?](https://www.reddit.com/r/javascript/comments/qu51dx/askjs_template_engine_for_serving_dynamic_html/)
+- [I developed an app where you Message Yourself Notes - Luckynote &lpar;Web, iOS, Android&rpar;. With Browser Extension you can Bookmark as well as Save Text and Images from any website. I find it useful for saving code Snippets and useful Repos.](https://www.reddit.com/r/javascript/comments/qtxyh3/i_developed_an_app_where_you_message_yourself/)
+- [Monster 1.24.0 released!](https://www.reddit.com/r/javascript/comments/qtwrp8/monster_1240_released/)
+- [GitHub - achingbrain/it: A collection of utilities for making working with iterables more bearable](https://www.reddit.com/r/javascript/comments/qtwmp0/github_achingbrainit_a_collection_of_utilities/)
+- [E2E Testing of emails in Mailhog using Cypress](https://www.reddit.com/r/javascript/comments/qtphn7/e2e_testing_of_emails_in_mailhog_using_cypress/)
+- [Javascript Terminal-Like User Interface](https://www.reddit.com/r/javascript/comments/qtmi27/javascript_terminallike_user_interface/)
+- [Understand OOPS using Squid Game | Understand object-oriented programming](https://www.reddit.com/r/javascript/comments/qtloe8/understand_oops_using_squid_game_understand/)
+- [Memoirs of a lone JavaScript developer PART 1 : JavaScript can be statically typed without the need to compile.](https://www.reddit.com/r/javascript/comments/qtk0di/memoirs_of_a_lone_javascript_developer_part_1/)
+- [Here&#39;s my ~700 byte library for sliding elements open + closed &lpar;now supports animating padding too&rpar;.](https://www.reddit.com/r/javascript/comments/qtj846/heres_my_700_byte_library_for_sliding_elements/)
 - [[AskJS] Why there is so much hatred toward using Javascript on the Backend for C#/Java and others tech stack programmer ? Is it performance alone ? Do you consider yourself a full stack senior JS dev ?](https://www.reddit.com/r/javascript/comments/qtf2q8/askjs_why_there_is_so_much_hatred_toward_using/)
-- [Benchmarking esbuild, swc, tsc, and babel for React/JSX projects](https://www.reddit.com/r/javascript/comments/qt71hy/benchmarking_esbuild_swc_tsc_and_babel_for/)
-- [[AskJS] Does anyone know about a CIE-XYZ compliant color-picker library?](https://www.reddit.com/r/javascript/comments/qt3vnl/askjs_does_anyone_know_about_a_ciexyz_compliant/)
-- [[AskJS] What are the go-to books for understanding JS fundamentals?](https://www.reddit.com/r/javascript/comments/qt38io/askjs_what_are_the_goto_books_for_understanding/)
-- [A new, fast solution to solving bugs or earning by solving them.](https://www.reddit.com/r/javascript/comments/qt2i8z/a_new_fast_solution_to_solving_bugs_or_earning_by/)
-- [JavaScript: Four Differences between var and let](https://www.reddit.com/r/javascript/comments/qt1hpn/javascript_four_differences_between_var_and_let/)
-- [[AskJS] - Youtube tutorials recommendations for advanced?](https://www.reddit.com/r/javascript/comments/qt1418/askjs_youtube_tutorials_recommendations_for/)
-- [Open source component library built with Tailwind CSS and JavaScript [MIT License]](https://www.reddit.com/r/javascript/comments/qsyyk5/open_source_component_library_built_with_tailwind/)
-- [12 Must Have Browser Extensions for Developers](https://www.reddit.com/r/javascript/comments/qsyt02/12_must_have_browser_extensions_for_developers/)
-- [Showoff Saturday &lpar;November 13, 2021&rpar;](https://www.reddit.com/r/javascript/comments/qswibf/showoff_saturday_november_13_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
