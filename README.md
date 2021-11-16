@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Template engine for serving dynamic HTML locally?](https://www.reddit.com/r/javascript/comments/qu51dx/askjs_template_engine_for_serving_dynamic_html/)
-- [I developed an app where you Message Yourself Notes - Luckynote &lpar;Web, iOS, Android&rpar;. With Browser Extension you can Bookmark as well as Save Text and Images from any website. I find it useful for saving code Snippets and useful Repos.](https://www.reddit.com/r/javascript/comments/qtxyh3/i_developed_an_app_where_you_message_yourself/)
-- [Monster 1.24.0 released!](https://www.reddit.com/r/javascript/comments/qtwrp8/monster_1240_released/)
-- [GitHub - achingbrain/it: A collection of utilities for making working with iterables more bearable](https://www.reddit.com/r/javascript/comments/qtwmp0/github_achingbrainit_a_collection_of_utilities/)
-- [E2E Testing of emails in Mailhog using Cypress](https://www.reddit.com/r/javascript/comments/qtphn7/e2e_testing_of_emails_in_mailhog_using_cypress/)
-- [Javascript Terminal-Like User Interface](https://www.reddit.com/r/javascript/comments/qtmi27/javascript_terminallike_user_interface/)
-- [Understand OOPS using Squid Game | Understand object-oriented programming](https://www.reddit.com/r/javascript/comments/qtloe8/understand_oops_using_squid_game_understand/)
-- [Memoirs of a lone JavaScript developer PART 1 : JavaScript can be statically typed without the need to compile.](https://www.reddit.com/r/javascript/comments/qtk0di/memoirs_of_a_lone_javascript_developer_part_1/)
-- [Here&#39;s my ~700 byte library for sliding elements open + closed &lpar;now supports animating padding too&rpar;.](https://www.reddit.com/r/javascript/comments/qtj846/heres_my_700_byte_library_for_sliding_elements/)
-- [[AskJS] Why there is so much hatred toward using Javascript on the Backend for C#/Java and others tech stack programmer ? Is it performance alone ? Do you consider yourself a full stack senior JS dev ?](https://www.reddit.com/r/javascript/comments/qtf2q8/askjs_why_there_is_so_much_hatred_toward_using/)
+- [[AskJS] why is storing tokens in memory considered safer than storing in localStorage](https://www.reddit.com/r/javascript/comments/quuzzb/askjs_why_is_storing_tokens_in_memory_considered/)
+- [I created a niche-desktop-app called Twitchifier](https://www.reddit.com/r/javascript/comments/qurrra/i_created_a_nichedesktopapp_called_twitchifier/)
+- [React 18 is now in beta!](https://www.reddit.com/r/javascript/comments/quqjxx/react_18_is_now_in_beta/)
+- [Performance testing on a slow network and weak CPU using Puppeteer and React - part 2](https://www.reddit.com/r/javascript/comments/qupxg3/performance_testing_on_a_slow_network_and_weak/)
+- [new javascript array method - at&lpar;&rpar;](https://www.reddit.com/r/javascript/comments/qup59t/new_javascript_array_method_at/)
+- [Open-source Node.js commerce engine for Strapi](https://www.reddit.com/r/javascript/comments/quobtk/opensource_nodejs_commerce_engine_for_strapi/)
+- [/r/javascript enters TOP 300 subreddits](https://www.reddit.com/r/javascript/comments/qum0bi/rjavascript_enters_top_300_subreddits/)
+- [Future Javascript: Pipeline Operators](https://www.reddit.com/r/javascript/comments/qulvxb/future_javascript_pipeline_operators/)
+- [Microsoft brings new JavaScript APIs to Excel](https://www.reddit.com/r/javascript/comments/qukvbs/microsoft_brings_new_javascript_apis_to_excel/)
+- [7 Reasons why NextJS could really be a next big JavaScript framework](https://www.reddit.com/r/javascript/comments/quj84k/7_reasons_why_nextjs_could_really_be_a_next_big/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
