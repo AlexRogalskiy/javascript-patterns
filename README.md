@@ -323,7 +323,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 
 <!-- YOUTUBE-POST-LIST:START -->
 - [JS Conf India Online 2021 | Track 2](https://www.youtube.com/watch?v=_xwoZfnqojo)
-- [JS Conf India Online 2021 | Track 1](https://www.youtube.com/watch?v=pQtM3ap7loA)
+- [JS Conf India Online 2021 | Track 1](https://www.youtube.com/watch?v=Off4L7NJgA0)
 - [Jsconf India Online 2021](https://www.youtube.com/watch?v=j6S3IRXQyqw)
 - [From JavaScript to React - Leonidas Esteban &lpar;Spanish language&rpar;](https://www.youtube.com/watch?v=T-lRHCPfQ1o)
 - [From beginner to expert in web performance  - Tracy Lee](https://www.youtube.com/watch?v=l1A1ImFkNvA)
