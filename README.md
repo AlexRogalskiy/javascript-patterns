@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] why is storing tokens in memory considered safer than storing in localStorage](https://www.reddit.com/r/javascript/comments/quuzzb/askjs_why_is_storing_tokens_in_memory_considered/)
-- [I created a niche-desktop-app called Twitchifier](https://www.reddit.com/r/javascript/comments/qurrra/i_created_a_nichedesktopapp_called_twitchifier/)
-- [React 18 is now in beta!](https://www.reddit.com/r/javascript/comments/quqjxx/react_18_is_now_in_beta/)
-- [Performance testing on a slow network and weak CPU using Puppeteer and React - part 2](https://www.reddit.com/r/javascript/comments/qupxg3/performance_testing_on_a_slow_network_and_weak/)
-- [new javascript array method - at&lpar;&rpar;](https://www.reddit.com/r/javascript/comments/qup59t/new_javascript_array_method_at/)
-- [Open-source Node.js commerce engine for Strapi](https://www.reddit.com/r/javascript/comments/quobtk/opensource_nodejs_commerce_engine_for_strapi/)
-- [/r/javascript enters TOP 300 subreddits](https://www.reddit.com/r/javascript/comments/qum0bi/rjavascript_enters_top_300_subreddits/)
-- [Future Javascript: Pipeline Operators](https://www.reddit.com/r/javascript/comments/qulvxb/future_javascript_pipeline_operators/)
-- [Microsoft brings new JavaScript APIs to Excel](https://www.reddit.com/r/javascript/comments/qukvbs/microsoft_brings_new_javascript_apis_to_excel/)
-- [7 Reasons why NextJS could really be a next big JavaScript framework](https://www.reddit.com/r/javascript/comments/quj84k/7_reasons_why_nextjs_could_really_be_a_next_big/)
+- [[AskJS] Why is there nothing equivalent to wordpress in javascript ecosystem?](https://www.reddit.com/r/javascript/comments/qvhg7c/askjs_why_is_there_nothing_equivalent_to/)
+- [Detect Objects in a Serverless Twilio Video App with TensorFlow.js](https://www.reddit.com/r/javascript/comments/qvha4s/detect_objects_in_a_serverless_twilio_video_app/)
+- [npm patched a bug that would allow anyone to push a new version of any package without authorization](https://www.reddit.com/r/javascript/comments/qvh0zi/npm_patched_a_bug_that_would_allow_anyone_to_push/)
+- [[AskJS] are HTTP2 push and server-sent events the same thing?](https://www.reddit.com/r/javascript/comments/qvgovo/askjs_are_http2_push_and_serversent_events_the/)
+- [Cypress 9.0.0 is released](https://www.reddit.com/r/javascript/comments/qvfkj9/cypress_900_is_released/)
+- [15 JavaScript Code Snippets and Their Dart Counterparts](https://www.reddit.com/r/javascript/comments/qvedon/15_javascript_code_snippets_and_their_dart/)
+- [I created a component library for displaying headers with different neon based effects. Built with React, TypeScript and styled-components.](https://www.reddit.com/r/javascript/comments/qve1sg/i_created_a_component_library_for_displaying/)
+- [Migrating from Puppeteer to Playwright &lpar;why and how&rpar;](https://www.reddit.com/r/javascript/comments/qvak6q/migrating_from_puppeteer_to_playwright_why_and_how/)
+- [How to draw smooth mouse track](https://www.reddit.com/r/javascript/comments/qv82qa/how_to_draw_smooth_mouse_track/)
+- [Form Lib 1.7.0 released](https://www.reddit.com/r/javascript/comments/qv646d/form_lib_170_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
