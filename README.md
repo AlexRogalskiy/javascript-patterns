@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Why is there nothing equivalent to wordpress in javascript ecosystem?](https://www.reddit.com/r/javascript/comments/qvhg7c/askjs_why_is_there_nothing_equivalent_to/)
-- [Detect Objects in a Serverless Twilio Video App with TensorFlow.js](https://www.reddit.com/r/javascript/comments/qvha4s/detect_objects_in_a_serverless_twilio_video_app/)
-- [npm patched a bug that would allow anyone to push a new version of any package without authorization](https://www.reddit.com/r/javascript/comments/qvh0zi/npm_patched_a_bug_that_would_allow_anyone_to_push/)
-- [[AskJS] are HTTP2 push and server-sent events the same thing?](https://www.reddit.com/r/javascript/comments/qvgovo/askjs_are_http2_push_and_serversent_events_the/)
-- [Cypress 9.0.0 is released](https://www.reddit.com/r/javascript/comments/qvfkj9/cypress_900_is_released/)
-- [15 JavaScript Code Snippets and Their Dart Counterparts](https://www.reddit.com/r/javascript/comments/qvedon/15_javascript_code_snippets_and_their_dart/)
-- [I created a component library for displaying headers with different neon based effects. Built with React, TypeScript and styled-components.](https://www.reddit.com/r/javascript/comments/qve1sg/i_created_a_component_library_for_displaying/)
-- [Migrating from Puppeteer to Playwright &lpar;why and how&rpar;](https://www.reddit.com/r/javascript/comments/qvak6q/migrating_from_puppeteer_to_playwright_why_and_how/)
-- [How to draw smooth mouse track](https://www.reddit.com/r/javascript/comments/qv82qa/how_to_draw_smooth_mouse_track/)
-- [Form Lib 1.7.0 released](https://www.reddit.com/r/javascript/comments/qv646d/form_lib_170_released/)
+- [How To Prevent Unnecessary React State Update Re-renders](https://www.reddit.com/r/javascript/comments/qwas7i/how_to_prevent_unnecessary_react_state_update/)
+- [Announcing TypeScript 4.5](https://www.reddit.com/r/javascript/comments/qw7l6j/announcing_typescript_45/)
+- [Integrations platforms using JavaScript](https://www.reddit.com/r/javascript/comments/qw6ryt/integrations_platforms_using_javascript/)
+- [Interesting way to manager users in memory with React hooks](https://www.reddit.com/r/javascript/comments/qw3v3n/interesting_way_to_manager_users_in_memory_with/)
+- [[AskJS] Are all transformations that Prettier does possible to enforce using ESLint?](https://www.reddit.com/r/javascript/comments/qw3746/askjs_are_all_transformations_that_prettier_does/)
+- [4 ways to document your design system with Storybook](https://www.reddit.com/r/javascript/comments/qw1lzy/4_ways_to_document_your_design_system_with/)
+- [How to: Create a web component in ReactJS](https://www.reddit.com/r/javascript/comments/qw1g67/how_to_create_a_web_component_in_reactjs/)
+- [Can AI-based test generation help you test JS &lpar;Legacy&rpar; code?](https://www.reddit.com/r/javascript/comments/qw155o/can_aibased_test_generation_help_you_test_js/)
+- [[AskJS] Drawing / Shape library options](https://www.reddit.com/r/javascript/comments/qw0uay/askjs_drawing_shape_library_options/)
+- [How to Create and Publish a React Component Library](https://www.reddit.com/r/javascript/comments/qw0kn3/how_to_create_and_publish_a_react_component/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
