@@ -292,11 +292,11 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [TypeScript 4.5 arrives with Promise improvements](https://www.infoworld.com/article/3637149/typescript-delays-esm-support-for-nodejs.html#tk.rss_javascript)
 - [GitHub: Dev productivity is back to pre-pandemic levels](https://www.infoworld.com/article/3640930/github-dev-productivity-is-back-to-pre-pandemic-levels.html#tk.rss_javascript)
 - [Deno improves JSX transform, WebAssembly support](https://www.infoworld.com/article/3640539/deno-improves-jsx-transform-webassembly-support.html#tk.rss_javascript)
 - [Svelte creator: Web development should be more fun](https://www.infoworld.com/article/3639521/svelte-creator-web-development-should-be-more-fun.html#tk.rss_javascript)
 - [What’s new in Angular 13](https://www.infoworld.com/article/3629473/whats-new-in-angular-13.html#tk.rss_javascript)
-- [TypeScript delays ESM support for Node.js](https://www.infoworld.com/article/3637149/typescript-delays-esm-support-for-nodejs.html#tk.rss_javascript)
 - [Angular proposal would make NgModules optional](https://www.infoworld.com/article/3638851/angular-proposal-would-make-ngmodules-optional.html#tk.rss_javascript)
 - [Big Next.js upgrade has new Rust compiler, ES Modules support](https://www.infoworld.com/article/3638690/big-nextjs-upgrade-has-new-rust-compiler-es-modules-support.html#tk.rss_javascript)
 - [Unstoppable Jamstack and the Gatsby opportunity](https://www.infoworld.com/article/3638054/unstoppable-jamstack-and-the-gatsby-opportunity.html#tk.rss_javascript)
