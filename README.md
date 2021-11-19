@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How To Prevent Unnecessary React State Update Re-renders](https://www.reddit.com/r/javascript/comments/qwas7i/how_to_prevent_unnecessary_react_state_update/)
-- [Announcing TypeScript 4.5](https://www.reddit.com/r/javascript/comments/qw7l6j/announcing_typescript_45/)
-- [Integrations platforms using JavaScript](https://www.reddit.com/r/javascript/comments/qw6ryt/integrations_platforms_using_javascript/)
-- [Interesting way to manager users in memory with React hooks](https://www.reddit.com/r/javascript/comments/qw3v3n/interesting_way_to_manager_users_in_memory_with/)
-- [[AskJS] Are all transformations that Prettier does possible to enforce using ESLint?](https://www.reddit.com/r/javascript/comments/qw3746/askjs_are_all_transformations_that_prettier_does/)
-- [4 ways to document your design system with Storybook](https://www.reddit.com/r/javascript/comments/qw1lzy/4_ways_to_document_your_design_system_with/)
-- [How to: Create a web component in ReactJS](https://www.reddit.com/r/javascript/comments/qw1g67/how_to_create_a_web_component_in_reactjs/)
-- [Can AI-based test generation help you test JS &lpar;Legacy&rpar; code?](https://www.reddit.com/r/javascript/comments/qw155o/can_aibased_test_generation_help_you_test_js/)
-- [[AskJS] Drawing / Shape library options](https://www.reddit.com/r/javascript/comments/qw0uay/askjs_drawing_shape_library_options/)
-- [How to Create and Publish a React Component Library](https://www.reddit.com/r/javascript/comments/qw0kn3/how_to_create_and_publish_a_react_component/)
+- [A Web-based Operating System Built With JQuery](https://www.reddit.com/r/javascript/comments/qx3vil/a_webbased_operating_system_built_with_jquery/)
+- [[AskJS] Connecting xterm.js to shellinabox?](https://www.reddit.com/r/javascript/comments/qx0cqe/askjs_connecting_xtermjs_to_shellinabox/)
+- [[AskJS] Best practices for bundling project for Node and Browser](https://www.reddit.com/r/javascript/comments/qx00er/askjs_best_practices_for_bundling_project_for/)
+- [Venny: Components to draw Venn/Euler Diagrams on a web page](https://www.reddit.com/r/javascript/comments/qwyotg/venny_components_to_draw_venneuler_diagrams_on_a/)
+- [I built an open source Chrome Extension that auto generates Playwright/Puppeteer scripts from your browser actions](https://www.reddit.com/r/javascript/comments/qwumbr/i_built_an_open_source_chrome_extension_that_auto/)
+- [Understanding static class features in JavaScript &lpar;ECMAScript 2022&rpar;](https://www.reddit.com/r/javascript/comments/qwspu4/understanding_static_class_features_in_javascript/)
+- [How to build stunning 3D scenes with React Three Fiber](https://www.reddit.com/r/javascript/comments/qwrhf0/how_to_build_stunning_3d_scenes_with_react_three/)
+- [Svelte Summit is on Saturday, tune in to see what&#39;s new in the webs most developer friendly framework](https://www.reddit.com/r/javascript/comments/qwq8ju/svelte_summit_is_on_saturday_tune_in_to_see_whats/)
+- [Deploy An Angular App To Firebase Via GitHub Actions](https://www.reddit.com/r/javascript/comments/qwpz2p/deploy_an_angular_app_to_firebase_via_github/)
+- [Understanding why our build got 15x slower with Webpack 5 - Tines Engineering](https://www.reddit.com/r/javascript/comments/qwo2th/understanding_why_our_build_got_15x_slower_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
