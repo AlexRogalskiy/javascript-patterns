@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [A Web-based Operating System Built With JQuery](https://www.reddit.com/r/javascript/comments/qx3vil/a_webbased_operating_system_built_with_jquery/)
-- [[AskJS] Connecting xterm.js to shellinabox?](https://www.reddit.com/r/javascript/comments/qx0cqe/askjs_connecting_xtermjs_to_shellinabox/)
-- [[AskJS] Best practices for bundling project for Node and Browser](https://www.reddit.com/r/javascript/comments/qx00er/askjs_best_practices_for_bundling_project_for/)
-- [Venny: Components to draw Venn/Euler Diagrams on a web page](https://www.reddit.com/r/javascript/comments/qwyotg/venny_components_to_draw_venneuler_diagrams_on_a/)
-- [I built an open source Chrome Extension that auto generates Playwright/Puppeteer scripts from your browser actions](https://www.reddit.com/r/javascript/comments/qwumbr/i_built_an_open_source_chrome_extension_that_auto/)
-- [Understanding static class features in JavaScript &lpar;ECMAScript 2022&rpar;](https://www.reddit.com/r/javascript/comments/qwspu4/understanding_static_class_features_in_javascript/)
-- [How to build stunning 3D scenes with React Three Fiber](https://www.reddit.com/r/javascript/comments/qwrhf0/how_to_build_stunning_3d_scenes_with_react_three/)
-- [Svelte Summit is on Saturday, tune in to see what&#39;s new in the webs most developer friendly framework](https://www.reddit.com/r/javascript/comments/qwq8ju/svelte_summit_is_on_saturday_tune_in_to_see_whats/)
-- [Deploy An Angular App To Firebase Via GitHub Actions](https://www.reddit.com/r/javascript/comments/qwpz2p/deploy_an_angular_app_to_firebase_via_github/)
-- [Understanding why our build got 15x slower with Webpack 5 - Tines Engineering](https://www.reddit.com/r/javascript/comments/qwo2th/understanding_why_our_build_got_15x_slower_with/)
+- [[AskJS] Website Layout Engine/Language](https://www.reddit.com/r/javascript/comments/qxrpiw/askjs_website_layout_enginelanguage/)
+- [How to Make API Calls in JavaScript](https://www.reddit.com/r/javascript/comments/qxo4l3/how_to_make_api_calls_in_javascript/)
+- [AutoComplete with JS](https://www.reddit.com/r/javascript/comments/qxo3tf/autocomplete_with_js/)
+- [JavaScript Project: Aspect Ratio Calculator](https://www.reddit.com/r/javascript/comments/qxkvwm/javascript_project_aspect_ratio_calculator/)
+- [[AskJS] How to know if I´m ready for the next step?](https://www.reddit.com/r/javascript/comments/qxkf3v/askjs_how_to_know_if_im_ready_for_the_next_step/)
+- [TC39er.us podcast: Jack Works](https://www.reddit.com/r/javascript/comments/qxkbds/tc39erus_podcast_jack_works/)
+- [[JS Discussions] Is there any improvement in tracking time-on-site metric real-time with sendBeacon/Fetch API?](https://www.reddit.com/r/javascript/comments/qxikvu/js_discussions_is_there_any_improvement_in/)
+- [[AskJS] How often per project do you discover you made an error in the code logic?](https://www.reddit.com/r/javascript/comments/qxfpwf/askjs_how_often_per_project_do_you_discover_you/)
+- [Why we migrated to TypeScript after all](https://www.reddit.com/r/javascript/comments/qxeqlx/why_we_migrated_to_typescript_after_all/)
+- [Use react-query hooks in class based components &lpar;React.js&rpar;](https://www.reddit.com/r/javascript/comments/qxd0fm/use_reactquery_hooks_in_class_based_components/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
