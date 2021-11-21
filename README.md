@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Website Layout Engine/Language](https://www.reddit.com/r/javascript/comments/qxrpiw/askjs_website_layout_enginelanguage/)
-- [How to Make API Calls in JavaScript](https://www.reddit.com/r/javascript/comments/qxo4l3/how_to_make_api_calls_in_javascript/)
-- [AutoComplete with JS](https://www.reddit.com/r/javascript/comments/qxo3tf/autocomplete_with_js/)
-- [JavaScript Project: Aspect Ratio Calculator](https://www.reddit.com/r/javascript/comments/qxkvwm/javascript_project_aspect_ratio_calculator/)
-- [[AskJS] How to know if I´m ready for the next step?](https://www.reddit.com/r/javascript/comments/qxkf3v/askjs_how_to_know_if_im_ready_for_the_next_step/)
-- [TC39er.us podcast: Jack Works](https://www.reddit.com/r/javascript/comments/qxkbds/tc39erus_podcast_jack_works/)
-- [[JS Discussions] Is there any improvement in tracking time-on-site metric real-time with sendBeacon/Fetch API?](https://www.reddit.com/r/javascript/comments/qxikvu/js_discussions_is_there_any_improvement_in/)
-- [[AskJS] How often per project do you discover you made an error in the code logic?](https://www.reddit.com/r/javascript/comments/qxfpwf/askjs_how_often_per_project_do_you_discover_you/)
-- [Why we migrated to TypeScript after all](https://www.reddit.com/r/javascript/comments/qxeqlx/why_we_migrated_to_typescript_after_all/)
-- [Use react-query hooks in class based components &lpar;React.js&rpar;](https://www.reddit.com/r/javascript/comments/qxd0fm/use_reactquery_hooks_in_class_based_components/)
+- [Just wanted to share a quick article I&#39;ve just posted hope you guys enjoy it](https://www.reddit.com/r/javascript/comments/qybkn6/just_wanted_to_share_a_quick_article_ive_just/)
+- [JavaScript Range Slider with min and max](https://www.reddit.com/r/javascript/comments/qybjpl/javascript_range_slider_with_min_and_max/)
+- [Running tests at blazing fast speeds with mocha and esbuild](https://www.reddit.com/r/javascript/comments/qy9k5o/running_tests_at_blazing_fast_speeds_with_mocha/)
+- [Automatic popup window using JavaScript](https://www.reddit.com/r/javascript/comments/qy82g2/automatic_popup_window_using_javascript/)
+- [Pablo is a small, open-source JavaScript library for SVG, the web standard for vector graphics](https://www.reddit.com/r/javascript/comments/qy4usf/pablo_is_a_small_opensource_javascript_library/)
+- [I made a Web Workers library and I think it has the most friendly interface](https://www.reddit.com/r/javascript/comments/qy3wun/i_made_a_web_workers_library_and_i_think_it_has/)
+- [Donkey is a configuration based API Gateway written in TypeScript](https://www.reddit.com/r/javascript/comments/qy37t4/donkey_is_a_configuration_based_api_gateway/)
+- [Dum! An npm scripts runner written in Rust](https://www.reddit.com/r/javascript/comments/qy2kb6/dum_an_npm_scripts_runner_written_in_rust/)
+- [[AskJS] Do you program often in others tech stack like C# for backend while using JS for everything else or vice versa ? What&#39;s your opinion about Svelte and why it&#39;s getting so popular ?](https://www.reddit.com/r/javascript/comments/qy1m9g/askjs_do_you_program_often_in_others_tech_stack/)
+- [Showoff Saturday &lpar;November 20, 2021&rpar;](https://www.reddit.com/r/javascript/comments/qy0wgb/showoff_saturday_november_20_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
