@@ -277,8 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Just wanted to share a quick article I&#39;ve just posted hope you guys enjoy it](https://www.reddit.com/r/javascript/comments/qybkn6/just_wanted_to_share_a_quick_article_ive_just/)
-- [JavaScript Range Slider with min and max](https://www.reddit.com/r/javascript/comments/qybjpl/javascript_range_slider_with_min_and_max/)
+- [Building Super Powered HTML Forms with JavaScript](https://www.reddit.com/r/javascript/comments/qz4nuw/building_super_powered_html_forms_with_javascript/)
+- [[AskJS] NPM package for regional date format?](https://www.reddit.com/r/javascript/comments/qyqrub/askjs_npm_package_for_regional_date_format/)
 - [Running tests at blazing fast speeds with mocha and esbuild](https://www.reddit.com/r/javascript/comments/qy9k5o/running_tests_at_blazing_fast_speeds_with_mocha/)
 - [Automatic popup window using JavaScript](https://www.reddit.com/r/javascript/comments/qy82g2/automatic_popup_window_using_javascript/)
 - [Pablo is a small, open-source JavaScript library for SVG, the web standard for vector graphics](https://www.reddit.com/r/javascript/comments/qy4usf/pablo_is_a_small_opensource_javascript_library/)
