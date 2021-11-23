@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Building Super Powered HTML Forms with JavaScript](https://www.reddit.com/r/javascript/comments/qz4nuw/building_super_powered_html_forms_with_javascript/)
-- [[AskJS] NPM package for regional date format?](https://www.reddit.com/r/javascript/comments/qyqrub/askjs_npm_package_for_regional_date_format/)
-- [Running tests at blazing fast speeds with mocha and esbuild](https://www.reddit.com/r/javascript/comments/qy9k5o/running_tests_at_blazing_fast_speeds_with_mocha/)
-- [Automatic popup window using JavaScript](https://www.reddit.com/r/javascript/comments/qy82g2/automatic_popup_window_using_javascript/)
-- [Pablo is a small, open-source JavaScript library for SVG, the web standard for vector graphics](https://www.reddit.com/r/javascript/comments/qy4usf/pablo_is_a_small_opensource_javascript_library/)
-- [I made a Web Workers library and I think it has the most friendly interface](https://www.reddit.com/r/javascript/comments/qy3wun/i_made_a_web_workers_library_and_i_think_it_has/)
-- [Donkey is a configuration based API Gateway written in TypeScript](https://www.reddit.com/r/javascript/comments/qy37t4/donkey_is_a_configuration_based_api_gateway/)
-- [Dum! An npm scripts runner written in Rust](https://www.reddit.com/r/javascript/comments/qy2kb6/dum_an_npm_scripts_runner_written_in_rust/)
-- [[AskJS] Do you program often in others tech stack like C# for backend while using JS for everything else or vice versa ? What&#39;s your opinion about Svelte and why it&#39;s getting so popular ?](https://www.reddit.com/r/javascript/comments/qy1m9g/askjs_do_you_program_often_in_others_tech_stack/)
-- [Showoff Saturday &lpar;November 20, 2021&rpar;](https://www.reddit.com/r/javascript/comments/qy0wgb/showoff_saturday_november_20_2021/)
+- [type-safe and clean DI, without the bloat](https://www.reddit.com/r/javascript/comments/qzzw5m/typesafe_and_clean_di_without_the_bloat/)
+- [[AskJS] How to spoof Intl.DateTimeFormat&lpar;&rpar;.resolvedOptions&lpar;&rpar;.locale?](https://www.reddit.com/r/javascript/comments/qzxb33/askjs_how_to_spoof/)
+- [Monster 1.25.0 released](https://www.reddit.com/r/javascript/comments/qzstz7/monster_1250_released/)
+- [JavaScript Project: Random Joke Generator](https://www.reddit.com/r/javascript/comments/qzop4w/javascript_project_random_joke_generator/)
+- [Check for children of an element while ignoring comments and whitespaces](https://www.reddit.com/r/javascript/comments/qzo65j/check_for_children_of_an_element_while_ignoring/)
+- [Use the package, build the command line prompt in React style](https://www.reddit.com/r/javascript/comments/qznvng/use_the_package_build_the_command_line_prompt_in/)
+- [Learn: Hamming Distance in Javascript](https://www.reddit.com/r/javascript/comments/qznega/learn_hamming_distance_in_javascript/)
+- [Open source starter pack for JS devs](https://www.reddit.com/r/javascript/comments/qzj8le/open_source_starter_pack_for_js_devs/)
+- [[AskJS] Has anyone worked on implementing micro-frontends? if yes, at what scale?](https://www.reddit.com/r/javascript/comments/qzhdrz/askjs_has_anyone_worked_on_implementing/)
+- [How not to write property tests in JavaScript](https://www.reddit.com/r/javascript/comments/qzfv73/how_not_to_write_property_tests_in_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
