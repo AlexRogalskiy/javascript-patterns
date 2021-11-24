@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Get started with java &lpar;PDF&rpar;](https://www.reddit.com/r/javascript/comments/r0r9iu/get_started_with_java_pdf/)
+- [Library Genesis batch uploader](https://www.reddit.com/r/javascript/comments/r0r98j/library_genesis_batch_uploader/)
+- [Nice little table module in plain vanilla javascript. i wrote this back in 2017 and just uploaded to github](https://www.reddit.com/r/javascript/comments/r0qcyq/nice_little_table_module_in_plain_vanilla/)
+- [The Quest for ReactiveScript](https://www.reddit.com/r/javascript/comments/r0no6u/the_quest_for_reactivescript/)
+- [ElectroDB - A simple type safe library for writing advanced DynamoDB queries](https://www.reddit.com/r/javascript/comments/r0ma1c/electrodb_a_simple_type_safe_library_for_writing/)
+- [Elementary Grid: A tonegrid synth made with Elementary Audio and React](https://www.reddit.com/r/javascript/comments/r0kpx9/elementary_grid_a_tonegrid_synth_made_with/)
+- [v1 of Remix is officially out](https://www.reddit.com/r/javascript/comments/r0ea51/v1_of_remix_is_officially_out/)
+- [Why IndexedDB is slow and what to use instead](https://www.reddit.com/r/javascript/comments/r0axv1/why_indexeddb_is_slow_and_what_to_use_instead/)
+- [Volta vs. nvm for JavaScript tooling](https://www.reddit.com/r/javascript/comments/r07yd5/volta_vs_nvm_for_javascript_tooling/)
 - [type-safe and clean DI, without the bloat](https://www.reddit.com/r/javascript/comments/qzzw5m/typesafe_and_clean_di_without_the_bloat/)
-- [[AskJS] How to spoof Intl.DateTimeFormat&lpar;&rpar;.resolvedOptions&lpar;&rpar;.locale?](https://www.reddit.com/r/javascript/comments/qzxb33/askjs_how_to_spoof/)
-- [Monster 1.25.0 released](https://www.reddit.com/r/javascript/comments/qzstz7/monster_1250_released/)
-- [JavaScript Project: Random Joke Generator](https://www.reddit.com/r/javascript/comments/qzop4w/javascript_project_random_joke_generator/)
-- [Check for children of an element while ignoring comments and whitespaces](https://www.reddit.com/r/javascript/comments/qzo65j/check_for_children_of_an_element_while_ignoring/)
-- [Use the package, build the command line prompt in React style](https://www.reddit.com/r/javascript/comments/qznvng/use_the_package_build_the_command_line_prompt_in/)
-- [Learn: Hamming Distance in Javascript](https://www.reddit.com/r/javascript/comments/qznega/learn_hamming_distance_in_javascript/)
-- [Open source starter pack for JS devs](https://www.reddit.com/r/javascript/comments/qzj8le/open_source_starter_pack_for_js_devs/)
-- [[AskJS] Has anyone worked on implementing micro-frontends? if yes, at what scale?](https://www.reddit.com/r/javascript/comments/qzhdrz/askjs_has_anyone_worked_on_implementing/)
-- [How not to write property tests in JavaScript](https://www.reddit.com/r/javascript/comments/qzfv73/how_not_to_write_property_tests_in_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
