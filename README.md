@@ -367,7 +367,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Dreamix posts*
 
 <!-- DREAMIX-POST-LIST:START -->
-- [Why Choose React for Your Software Product Development?](https://dreamix.eu/blog/frontpage/why-choose-react-for-your-software-product-development)
+- [Why Choose React for Your Software Product Development?](https://dreamix.eu/blog/frontpage/react-software-development)
 - [First Steps in React: Learn, Build, Enjoy](https://dreamix.eu/blog/frontpage/first-steps-in-react-learn-build-enjoy)
 - [Top 10 Trending JavaScript Frameworks](https://dreamix.eu/blog/frontpage/top-10-trending-javascript-frameworks)
 - [Java vs JavaScript: How to Choose the Right Backend Technology?](https://dreamix.eu/blog/java/java-vs-javascript-how-to-choose-the-right-backend-technology)
