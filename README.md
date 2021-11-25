@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Get started with java &lpar;PDF&rpar;](https://www.reddit.com/r/javascript/comments/r0r9iu/get_started_with_java_pdf/)
-- [Library Genesis batch uploader](https://www.reddit.com/r/javascript/comments/r0r98j/library_genesis_batch_uploader/)
-- [Nice little table module in plain vanilla javascript. i wrote this back in 2017 and just uploaded to github](https://www.reddit.com/r/javascript/comments/r0qcyq/nice_little_table_module_in_plain_vanilla/)
-- [The Quest for ReactiveScript](https://www.reddit.com/r/javascript/comments/r0no6u/the_quest_for_reactivescript/)
-- [ElectroDB - A simple type safe library for writing advanced DynamoDB queries](https://www.reddit.com/r/javascript/comments/r0ma1c/electrodb_a_simple_type_safe_library_for_writing/)
-- [Elementary Grid: A tonegrid synth made with Elementary Audio and React](https://www.reddit.com/r/javascript/comments/r0kpx9/elementary_grid_a_tonegrid_synth_made_with/)
-- [v1 of Remix is officially out](https://www.reddit.com/r/javascript/comments/r0ea51/v1_of_remix_is_officially_out/)
-- [Why IndexedDB is slow and what to use instead](https://www.reddit.com/r/javascript/comments/r0axv1/why_indexeddb_is_slow_and_what_to_use_instead/)
-- [Volta vs. nvm for JavaScript tooling](https://www.reddit.com/r/javascript/comments/r07yd5/volta_vs_nvm_for_javascript_tooling/)
-- [type-safe and clean DI, without the bloat](https://www.reddit.com/r/javascript/comments/qzzw5m/typesafe_and_clean_di_without_the_bloat/)
+- [JSConf Mexico 2021](https://www.reddit.com/r/javascript/comments/r1ir92/jsconf_mexico_2021/)
+- [[AskJS] I need help please](https://www.reddit.com/r/javascript/comments/r1iixg/askjs_i_need_help_please/)
+- [Using WebAssembly &lpar;created in Rust&rpar; for Fast React Components](https://www.reddit.com/r/javascript/comments/r1ftzf/using_webassembly_created_in_rust_for_fast_react/)
+- [Storybook + Netlify CMS—wysiwyg editing for your design system docs](https://www.reddit.com/r/javascript/comments/r18adx/storybook_netlify_cmswysiwyg_editing_for_your/)
+- [Maximize Component Reusability with Bit](https://www.reddit.com/r/javascript/comments/r17ldu/maximize_component_reusability_with_bit/)
+- [How to: Create a web component in Svelte](https://www.reddit.com/r/javascript/comments/r17fgo/how_to_create_a_web_component_in_svelte/)
+- [Documenting a gRPC API - tools comparison](https://www.reddit.com/r/javascript/comments/r166ws/documenting_a_grpc_api_tools_comparison/)
+- [Random Joke Generator using JavaScript](https://www.reddit.com/r/javascript/comments/r10wxo/random_joke_generator_using_javascript/)
+- [React - useEffect hook - A Quick Guide](https://www.reddit.com/r/javascript/comments/r1040i/react_useeffect_hook_a_quick_guide/)
+- [WTF Wednesday &lpar;November 24, 2021&rpar;](https://www.reddit.com/r/javascript/comments/r0zyf2/wtf_wednesday_november_24_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
