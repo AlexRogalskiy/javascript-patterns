@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [JSConf Mexico 2021](https://www.reddit.com/r/javascript/comments/r1ir92/jsconf_mexico_2021/)
-- [[AskJS] I need help please](https://www.reddit.com/r/javascript/comments/r1iixg/askjs_i_need_help_please/)
-- [Using WebAssembly &lpar;created in Rust&rpar; for Fast React Components](https://www.reddit.com/r/javascript/comments/r1ftzf/using_webassembly_created_in_rust_for_fast_react/)
-- [Storybook + Netlify CMS—wysiwyg editing for your design system docs](https://www.reddit.com/r/javascript/comments/r18adx/storybook_netlify_cmswysiwyg_editing_for_your/)
-- [Maximize Component Reusability with Bit](https://www.reddit.com/r/javascript/comments/r17ldu/maximize_component_reusability_with_bit/)
-- [How to: Create a web component in Svelte](https://www.reddit.com/r/javascript/comments/r17fgo/how_to_create_a_web_component_in_svelte/)
-- [Documenting a gRPC API - tools comparison](https://www.reddit.com/r/javascript/comments/r166ws/documenting_a_grpc_api_tools_comparison/)
-- [Random Joke Generator using JavaScript](https://www.reddit.com/r/javascript/comments/r10wxo/random_joke_generator_using_javascript/)
-- [React - useEffect hook - A Quick Guide](https://www.reddit.com/r/javascript/comments/r1040i/react_useeffect_hook_a_quick_guide/)
-- [WTF Wednesday &lpar;November 24, 2021&rpar;](https://www.reddit.com/r/javascript/comments/r0zyf2/wtf_wednesday_november_24_2021/)
+- [[AskJS] which study to get advanced knowledge about javascript?](https://www.reddit.com/r/javascript/comments/r29g69/askjs_which_study_to_get_advanced_knowledge_about/)
+- [[AskJS] Handling fetching images that may not exist yet?](https://www.reddit.com/r/javascript/comments/r29an8/askjs_handling_fetching_images_that_may_not_exist/)
+- [Accent - A Modular Web Framework](https://www.reddit.com/r/javascript/comments/r2651l/accent_a_modular_web_framework/)
+- [[AskJS] Looking for a js library or resources to get XPath of XML on click](https://www.reddit.com/r/javascript/comments/r249h4/askjs_looking_for_a_js_library_or_resources_to/)
+- [Some fun with Javascript and an HTML canvas. Sometimes it&#39;s the simple things, you know? :^&rpar;](https://www.reddit.com/r/javascript/comments/r23zp9/some_fun_with_javascript_and_an_html_canvas/)
+- [We are seeking testers for a new one-click check-out flow for our open-source project: Let your customers instantly purchase your products in one click via a URL. Are you interested?](https://www.reddit.com/r/javascript/comments/r21k18/we_are_seeking_testers_for_a_new_oneclick/)
+- [Day and Night Mode Toggle using JavaScript](https://www.reddit.com/r/javascript/comments/r1yqch/day_and_night_mode_toggle_using_javascript/)
+- [TeamFinder - engineering showcase platform](https://www.reddit.com/r/javascript/comments/r1x9os/teamfinder_engineering_showcase_platform/)
+- [Volta vs. nvm for JavaScript tooling](https://www.reddit.com/r/javascript/comments/r1tvwi/volta_vs_nvm_for_javascript_tooling/)
+- [Supercharge Your Node Productivity With Debugging](https://www.reddit.com/r/javascript/comments/r1t8l3/supercharge_your_node_productivity_with_debugging/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
