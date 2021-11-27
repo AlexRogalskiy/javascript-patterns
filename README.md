@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] which study to get advanced knowledge about javascript?](https://www.reddit.com/r/javascript/comments/r29g69/askjs_which_study_to_get_advanced_knowledge_about/)
-- [[AskJS] Handling fetching images that may not exist yet?](https://www.reddit.com/r/javascript/comments/r29an8/askjs_handling_fetching_images_that_may_not_exist/)
-- [Accent - A Modular Web Framework](https://www.reddit.com/r/javascript/comments/r2651l/accent_a_modular_web_framework/)
-- [[AskJS] Looking for a js library or resources to get XPath of XML on click](https://www.reddit.com/r/javascript/comments/r249h4/askjs_looking_for_a_js_library_or_resources_to/)
-- [Some fun with Javascript and an HTML canvas. Sometimes it&#39;s the simple things, you know? :^&rpar;](https://www.reddit.com/r/javascript/comments/r23zp9/some_fun_with_javascript_and_an_html_canvas/)
-- [We are seeking testers for a new one-click check-out flow for our open-source project: Let your customers instantly purchase your products in one click via a URL. Are you interested?](https://www.reddit.com/r/javascript/comments/r21k18/we_are_seeking_testers_for_a_new_oneclick/)
-- [Day and Night Mode Toggle using JavaScript](https://www.reddit.com/r/javascript/comments/r1yqch/day_and_night_mode_toggle_using_javascript/)
-- [TeamFinder - engineering showcase platform](https://www.reddit.com/r/javascript/comments/r1x9os/teamfinder_engineering_showcase_platform/)
-- [Volta vs. nvm for JavaScript tooling](https://www.reddit.com/r/javascript/comments/r1tvwi/volta_vs_nvm_for_javascript_tooling/)
-- [Supercharge Your Node Productivity With Debugging](https://www.reddit.com/r/javascript/comments/r1t8l3/supercharge_your_node_productivity_with_debugging/)
+- [BlockLike: Bridging the gap between block programming and JavaScript.](https://www.reddit.com/r/javascript/comments/r2upn0/blocklike_bridging_the_gap_between_block/)
+- [A Collections of some cool dynamic badges for github](https://www.reddit.com/r/javascript/comments/r2ug81/a_collections_of_some_cool_dynamic_badges_for/)
+- [How to easily get started with ThreeJS - Part 2](https://www.reddit.com/r/javascript/comments/r2sa7w/how_to_easily_get_started_with_threejs_part_2/)
+- [Library Genesis Batch uploader](https://www.reddit.com/r/javascript/comments/r2rmmr/library_genesis_batch_uploader/)
+- [[AskJS] Does &quot;with&quot; statement block hoisting?](https://www.reddit.com/r/javascript/comments/r2q8hd/askjs_does_with_statement_block_hoisting/)
+- [[AskJS] Difference between For Loops](https://www.reddit.com/r/javascript/comments/r2ob3j/askjs_difference_between_for_loops/)
+- [[AskJS] Best way to load up C#?](https://www.reddit.com/r/javascript/comments/r2o1mp/askjs_best_way_to_load_up_c/)
+- [[AskJS] how to make this js faster](https://www.reddit.com/r/javascript/comments/r2o0uw/askjs_how_to_make_this_js_faster/)
+- [cy.pause&lpar;&rpar; now pauses test while running cypress run --headed --no-exit](https://www.reddit.com/r/javascript/comments/r2mtsv/cypause_now_pauses_test_while_running_cypress_run/)
+- [TDD with MSW for a custom Fetch React hook](https://www.reddit.com/r/javascript/comments/r2m4sv/tdd_with_msw_for_a_custom_fetch_react_hook/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
