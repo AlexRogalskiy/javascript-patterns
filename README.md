@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] why does Date&lpar;&rpar; show a day but getDay&lpar;&rpar; returns an array number](https://www.reddit.com/r/javascript/comments/r3rq0o/askjs_why_does_date_show_a_day_but_getday_returns/)
+- [[AskJS] Ask for help with the project map Todo, currently writing in native java script.](https://www.reddit.com/r/javascript/comments/r3es2w/askjs_ask_for_help_with_the_project_map_todo/)
+- [Designing a feedback form with state machines](https://www.reddit.com/r/javascript/comments/r3b5u8/designing_a_feedback_form_with_state_machines/)
+- [Async JavaScript: From Callbacks, to Promises, to Async/Await](https://www.reddit.com/r/javascript/comments/r3b2fs/async_javascript_from_callbacks_to_promises_to/)
+- [Showoff Saturday &lpar;November 27, 2021&rpar;](https://www.reddit.com/r/javascript/comments/r38r3s/showoff_saturday_november_27_2021/)
+- [Have a look at my node.js code using the most super-duper-secure practices!](https://www.reddit.com/r/javascript/comments/r38l5w/have_a_look_at_my_nodejs_code_using_the_most/)
+- [[AskJS] Why Javascript is your favorite language compared to C# Php Ruby C++ Python Java etc ?](https://www.reddit.com/r/javascript/comments/r339o5/askjs_why_javascript_is_your_favorite_language/)
+- [[AskJS] What are the one-liners you shouldn&#39;t ever use?](https://www.reddit.com/r/javascript/comments/r32g7x/askjs_what_are_the_oneliners_you_shouldnt_ever_use/)
 - [BlockLike: Bridging the gap between block programming and JavaScript.](https://www.reddit.com/r/javascript/comments/r2upn0/blocklike_bridging_the_gap_between_block/)
 - [A Collections of some cool dynamic badges for github](https://www.reddit.com/r/javascript/comments/r2ug81/a_collections_of_some_cool_dynamic_badges_for/)
-- [How to easily get started with ThreeJS - Part 2](https://www.reddit.com/r/javascript/comments/r2sa7w/how_to_easily_get_started_with_threejs_part_2/)
-- [Library Genesis Batch uploader](https://www.reddit.com/r/javascript/comments/r2rmmr/library_genesis_batch_uploader/)
-- [[AskJS] Does &quot;with&quot; statement block hoisting?](https://www.reddit.com/r/javascript/comments/r2q8hd/askjs_does_with_statement_block_hoisting/)
-- [[AskJS] Difference between For Loops](https://www.reddit.com/r/javascript/comments/r2ob3j/askjs_difference_between_for_loops/)
-- [[AskJS] Best way to load up C#?](https://www.reddit.com/r/javascript/comments/r2o1mp/askjs_best_way_to_load_up_c/)
-- [[AskJS] how to make this js faster](https://www.reddit.com/r/javascript/comments/r2o0uw/askjs_how_to_make_this_js_faster/)
-- [cy.pause&lpar;&rpar; now pauses test while running cypress run --headed --no-exit](https://www.reddit.com/r/javascript/comments/r2mtsv/cypause_now_pauses_test_while_running_cypress_run/)
-- [TDD with MSW for a custom Fetch React hook](https://www.reddit.com/r/javascript/comments/r2m4sv/tdd_with_msw_for_a_custom_fetch_react_hook/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
