@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Technologies to use for build and test web app / projects idea](https://www.reddit.com/r/javascript/comments/r4jdbk/askjs_technologies_to_use_for_build_and_test_web/)
+- [Million.js 1.0.0 Release! &lt;1kb compiler-augmented virtual DOM. It&#39;s fast!](https://www.reddit.com/r/javascript/comments/r4ff4k/millionjs_100_release_1kb_compileraugmented/)
+- [I&#39;m too lazy to learn Canvas API, so I build a library to manipulate the Html div element, to simulate some of Canvas drawing capabilities](https://www.reddit.com/r/javascript/comments/r4b9ep/im_too_lazy_to_learn_canvas_api_so_i_build_a/)
+- [[AskJS] How to automatically download images from a URL to your phone with JavaScript/nodejs?](https://www.reddit.com/r/javascript/comments/r495vb/askjs_how_to_automatically_download_images_from_a/)
+- [Gradient Color Generator using JavaScript](https://www.reddit.com/r/javascript/comments/r48f2c/gradient_color_generator_using_javascript/)
+- [Learn to Integrate Firebase Authentication With your Nuxt JS project](https://www.reddit.com/r/javascript/comments/r42odu/learn_to_integrate_firebase_authentication_with/)
+- [A VS Code extension that generates common JavaScript utilities in one line of code!](https://www.reddit.com/r/javascript/comments/r3zwjv/a_vs_code_extension_that_generates_common/)
+- [I&#39;ve made a 3D shooter in HTML without canvas. Eveything you see is just a lot of &lt;div&gt;&#39;s. Started to work with this 4 years ago...I would be happy if someone check it :&rpar;](https://www.reddit.com/r/javascript/comments/r3waql/ive_made_a_3d_shooter_in_html_without_canvas/)
 - [[AskJS] why does Date&lpar;&rpar; show a day but getDay&lpar;&rpar; returns an array number](https://www.reddit.com/r/javascript/comments/r3rq0o/askjs_why_does_date_show_a_day_but_getday_returns/)
 - [[AskJS] Ask for help with the project map Todo, currently writing in native java script.](https://www.reddit.com/r/javascript/comments/r3es2w/askjs_ask_for_help_with_the_project_map_todo/)
-- [Designing a feedback form with state machines](https://www.reddit.com/r/javascript/comments/r3b5u8/designing_a_feedback_form_with_state_machines/)
-- [Async JavaScript: From Callbacks, to Promises, to Async/Await](https://www.reddit.com/r/javascript/comments/r3b2fs/async_javascript_from_callbacks_to_promises_to/)
-- [Showoff Saturday &lpar;November 27, 2021&rpar;](https://www.reddit.com/r/javascript/comments/r38r3s/showoff_saturday_november_27_2021/)
-- [Have a look at my node.js code using the most super-duper-secure practices!](https://www.reddit.com/r/javascript/comments/r38l5w/have_a_look_at_my_nodejs_code_using_the_most/)
-- [[AskJS] Why Javascript is your favorite language compared to C# Php Ruby C++ Python Java etc ?](https://www.reddit.com/r/javascript/comments/r339o5/askjs_why_javascript_is_your_favorite_language/)
-- [[AskJS] What are the one-liners you shouldn&#39;t ever use?](https://www.reddit.com/r/javascript/comments/r32g7x/askjs_what_are_the_oneliners_you_shouldnt_ever_use/)
-- [BlockLike: Bridging the gap between block programming and JavaScript.](https://www.reddit.com/r/javascript/comments/r2upn0/blocklike_bridging_the_gap_between_block/)
-- [A Collections of some cool dynamic badges for github](https://www.reddit.com/r/javascript/comments/r2ug81/a_collections_of_some_cool_dynamic_badges_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
