@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I made a library that can handle lazy evaluation/concurrency.](https://www.reddit.com/r/javascript/comments/r6232y/i_made_a_library_that_can_handle_lazy/)
-- [[AskJS] What issues do you have with Firestore &amp; Redux at scale?](https://www.reddit.com/r/javascript/comments/r5tzks/askjs_what_issues_do_you_have_with_firestore/)
-- [Announcing the Improved Next.js Discord Community](https://www.reddit.com/r/javascript/comments/r5tk3h/announcing_the_improved_nextjs_discord_community/)
-- [Hacks Decoded: Seyi Akiwowo, Founder of Glitch](https://www.reddit.com/r/javascript/comments/r5t7oa/hacks_decoded_seyi_akiwowo_founder_of_glitch/)
-- [[AskJS] Any dev here with chronic dry eye?...](https://www.reddit.com/r/javascript/comments/r5shms/askjs_any_dev_here_with_chronic_dry_eye/)
-- [[AskJS] Does anybody out there still use the Prototype javascript library?](https://www.reddit.com/r/javascript/comments/r5rxw0/askjs_does_anybody_out_there_still_use_the/)
-- [The Vite Ecosystem | The teams collaborating to improve the DX of our build tools](https://www.reddit.com/r/javascript/comments/r5rhyg/the_vite_ecosystem_the_teams_collaborating_to/)
-- [[AskJS] Tell me about a WTF moment you encountered in JavaScript](https://www.reddit.com/r/javascript/comments/r5o7f9/askjs_tell_me_about_a_wtf_moment_you_encountered/)
-- [Namespacing for GraphQL: Conflict-Free merging of any number of APIs](https://www.reddit.com/r/javascript/comments/r5j7iy/namespacing_for_graphql_conflictfree_merging_of/)
-- [[AskJS] What is your opinion on generated interfaces?](https://www.reddit.com/r/javascript/comments/r5ii5r/askjs_what_is_your_opinion_on_generated_interfaces/)
+- [A JavaScript engine for the JVM, built from the ground up with Kotlin](https://www.reddit.com/r/javascript/comments/r6odjt/a_javascript_engine_for_the_jvm_built_from_the/)
+- [[AskJS] Are there any javascript interpreters in JavaScript or WebAssembly?](https://www.reddit.com/r/javascript/comments/r6n6pl/askjs_are_there_any_javascript_interpreters_in/)
+- [Floating UI — a new, low-level positioning library for tooltips, popovers, dropdowns and more with React and React Native support](https://www.reddit.com/r/javascript/comments/r6l074/floating_ui_a_new_lowlevel_positioning_library/)
+- [How can I embed a video like this web? &lpar;Autoplay + Awesome controlers + 1x&rpar;](https://www.reddit.com/r/javascript/comments/r6kqet/how_can_i_embed_a_video_like_this_web_autoplay/)
+- [Storybook 6.4—new features, perf gains and improved ergonomics](https://www.reddit.com/r/javascript/comments/r6j1ad/storybook_64new_features_perf_gains_and_improved/)
+- [I just released my first NPM package - MobX Easy Form - simple and performant form library built with MobX](https://www.reddit.com/r/javascript/comments/r6iwjv/i_just_released_my_first_npm_package_mobx_easy/)
+- [Organizing CSS Properties with JavaScript](https://www.reddit.com/r/javascript/comments/r6i3l9/organizing_css_properties_with_javascript/)
+- [Advent of Rust: a 24-part series mapping node, JS, and TS concepts to Rust. Day 1 is Rust&#39;s nvm, rustup.](https://www.reddit.com/r/javascript/comments/r6gvo2/advent_of_rust_a_24part_series_mapping_node_js/)
+- [[AskJS] Why dont we have a templating standard and surrounding tooling?](https://www.reddit.com/r/javascript/comments/r6cd6b/askjs_why_dont_we_have_a_templating_standard_and/)
+- [Build Responsive Web Pages With React-responsive and TypeScript](https://www.reddit.com/r/javascript/comments/r6cajr/build_responsive_web_pages_with_reactresponsive/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
