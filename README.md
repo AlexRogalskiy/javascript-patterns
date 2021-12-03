@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What are the differences between var, let, and const](https://www.reddit.com/r/javascript/comments/r7gqjy/what_are_the_differences_between_var_let_and_const/)
+- [Imaginary is a free and open source theme / template for Blogger / Blogspot](https://www.reddit.com/r/javascript/comments/r7gdzc/imaginary_is_a_free_and_open_source_theme/)
+- [Instagram HashTag Generator | HashTago &lpar;Next.js + RapidAPI + Tailwindcss&rpar;](https://www.reddit.com/r/javascript/comments/r786ob/instagram_hashtag_generator_hashtago_nextjs/)
+- [How to create a simple node server to enrich your GitHub profile with dynamic images](https://www.reddit.com/r/javascript/comments/r72j1k/how_to_create_a_simple_node_server_to_enrich_your/)
 - [A JavaScript engine for the JVM, built from the ground up with Kotlin](https://www.reddit.com/r/javascript/comments/r6odjt/a_javascript_engine_for_the_jvm_built_from_the/)
 - [[AskJS] Are there any javascript interpreters in JavaScript or WebAssembly?](https://www.reddit.com/r/javascript/comments/r6n6pl/askjs_are_there_any_javascript_interpreters_in/)
 - [Floating UI — a new, low-level positioning library for tooltips, popovers, dropdowns and more with React and React Native support](https://www.reddit.com/r/javascript/comments/r6l074/floating_ui_a_new_lowlevel_positioning_library/)
-- [How can I embed a video like this web? &lpar;Autoplay + Awesome controlers + 1x&rpar;](https://www.reddit.com/r/javascript/comments/r6kqet/how_can_i_embed_a_video_like_this_web_autoplay/)
 - [Storybook 6.4—new features, perf gains and improved ergonomics](https://www.reddit.com/r/javascript/comments/r6j1ad/storybook_64new_features_perf_gains_and_improved/)
-- [I just released my first NPM package - MobX Easy Form - simple and performant form library built with MobX](https://www.reddit.com/r/javascript/comments/r6iwjv/i_just_released_my_first_npm_package_mobx_easy/)
-- [Organizing CSS Properties with JavaScript](https://www.reddit.com/r/javascript/comments/r6i3l9/organizing_css_properties_with_javascript/)
 - [Advent of Rust: a 24-part series mapping node, JS, and TS concepts to Rust. Day 1 is Rust&#39;s nvm, rustup.](https://www.reddit.com/r/javascript/comments/r6gvo2/advent_of_rust_a_24part_series_mapping_node_js/)
 - [[AskJS] Why dont we have a templating standard and surrounding tooling?](https://www.reddit.com/r/javascript/comments/r6cd6b/askjs_why_dont_we_have_a_templating_standard_and/)
-- [Build Responsive Web Pages With React-responsive and TypeScript](https://www.reddit.com/r/javascript/comments/r6cajr/build_responsive_web_pages_with_reactresponsive/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
