@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Sorting imports on save in React projects with ESLint.](https://www.reddit.com/r/javascript/comments/r86u7r/sorting_imports_on_save_in_react_projects_with/)
+- [Simple Weather App using JavaScript](https://www.reddit.com/r/javascript/comments/r849ux/simple_weather_app_using_javascript/)
+- [React state management in 2022 — Return of the Redux](https://www.reddit.com/r/javascript/comments/r81zdg/react_state_management_in_2022_return_of_the_redux/)
+- [From object-oriented JS to functional ReScript](https://www.reddit.com/r/javascript/comments/r81tsv/from_objectoriented_js_to_functional_rescript/)
+- [Faster DevTools navigation with shortcuts and settings - DevTools Tips](https://www.reddit.com/r/javascript/comments/r7w6j7/faster_devtools_navigation_with_shortcuts_and/)
+- [Creating a Custom ESLint Rule with TDD](https://www.reddit.com/r/javascript/comments/r7v483/creating_a_custom_eslint_rule_with_tdd/)
+- [Immutable.js is not dead!](https://www.reddit.com/r/javascript/comments/r7o0ha/immutablejs_is_not_dead/)
 - [What are the differences between var, let, and const](https://www.reddit.com/r/javascript/comments/r7gqjy/what_are_the_differences_between_var_let_and_const/)
-- [Imaginary is a free and open source theme / template for Blogger / Blogspot](https://www.reddit.com/r/javascript/comments/r7gdzc/imaginary_is_a_free_and_open_source_theme/)
 - [Instagram HashTag Generator | HashTago &lpar;Next.js + RapidAPI + Tailwindcss&rpar;](https://www.reddit.com/r/javascript/comments/r786ob/instagram_hashtag_generator_hashtago_nextjs/)
 - [How to create a simple node server to enrich your GitHub profile with dynamic images](https://www.reddit.com/r/javascript/comments/r72j1k/how_to_create_a_simple_node_server_to_enrich_your/)
-- [A JavaScript engine for the JVM, built from the ground up with Kotlin](https://www.reddit.com/r/javascript/comments/r6odjt/a_javascript_engine_for_the_jvm_built_from_the/)
-- [[AskJS] Are there any javascript interpreters in JavaScript or WebAssembly?](https://www.reddit.com/r/javascript/comments/r6n6pl/askjs_are_there_any_javascript_interpreters_in/)
-- [Floating UI — a new, low-level positioning library for tooltips, popovers, dropdowns and more with React and React Native support](https://www.reddit.com/r/javascript/comments/r6l074/floating_ui_a_new_lowlevel_positioning_library/)
-- [Storybook 6.4—new features, perf gains and improved ergonomics](https://www.reddit.com/r/javascript/comments/r6j1ad/storybook_64new_features_perf_gains_and_improved/)
-- [Advent of Rust: a 24-part series mapping node, JS, and TS concepts to Rust. Day 1 is Rust&#39;s nvm, rustup.](https://www.reddit.com/r/javascript/comments/r6gvo2/advent_of_rust_a_24part_series_mapping_node_js/)
-- [[AskJS] Why dont we have a templating standard and surrounding tooling?](https://www.reddit.com/r/javascript/comments/r6cd6b/askjs_why_dont_we_have_a_templating_standard_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
