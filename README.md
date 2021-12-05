@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Slice vs Splice with JavaScript Arrays](https://www.reddit.com/r/javascript/comments/r94hyd/slice_vs_splice_with_javascript_arrays/)
+- [[AskJS] is there a site or someone here I can pay to teach me?](https://www.reddit.com/r/javascript/comments/r8zcp1/askjs_is_there_a_site_or_someone_here_i_can_pay/)
+- [Really Async JSON Interface: a non-blocking alternative to JSON.parse to keep web UIs responsive](https://www.reddit.com/r/javascript/comments/r8pwoz/really_async_json_interface_a_nonblocking/)
+- [Lightest weight javascript charting library](https://www.reddit.com/r/javascript/comments/r8o93u/lightest_weight_javascript_charting_library/)
+- [Scroll animation in Javascript using IntersectionObserver](https://www.reddit.com/r/javascript/comments/r8mkts/scroll_animation_in_javascript_using/)
+- [Showoff Saturday &lpar;December 04, 2021&rpar;](https://www.reddit.com/r/javascript/comments/r8ktql/showoff_saturday_december_04_2021/)
 - [Sorting imports on save in React projects with ESLint.](https://www.reddit.com/r/javascript/comments/r86u7r/sorting_imports_on_save_in_react_projects_with/)
 - [Simple Weather App using JavaScript](https://www.reddit.com/r/javascript/comments/r849ux/simple_weather_app_using_javascript/)
 - [React state management in 2022 — Return of the Redux](https://www.reddit.com/r/javascript/comments/r81zdg/react_state_management_in_2022_return_of_the_redux/)
 - [From object-oriented JS to functional ReScript](https://www.reddit.com/r/javascript/comments/r81tsv/from_objectoriented_js_to_functional_rescript/)
-- [Faster DevTools navigation with shortcuts and settings - DevTools Tips](https://www.reddit.com/r/javascript/comments/r7w6j7/faster_devtools_navigation_with_shortcuts_and/)
-- [Creating a Custom ESLint Rule with TDD](https://www.reddit.com/r/javascript/comments/r7v483/creating_a_custom_eslint_rule_with_tdd/)
-- [Immutable.js is not dead!](https://www.reddit.com/r/javascript/comments/r7o0ha/immutablejs_is_not_dead/)
-- [What are the differences between var, let, and const](https://www.reddit.com/r/javascript/comments/r7gqjy/what_are_the_differences_between_var_let_and_const/)
-- [Instagram HashTag Generator | HashTago &lpar;Next.js + RapidAPI + Tailwindcss&rpar;](https://www.reddit.com/r/javascript/comments/r786ob/instagram_hashtag_generator_hashtago_nextjs/)
-- [How to create a simple node server to enrich your GitHub profile with dynamic images](https://www.reddit.com/r/javascript/comments/r72j1k/how_to_create_a_simple_node_server_to_enrich_your/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
