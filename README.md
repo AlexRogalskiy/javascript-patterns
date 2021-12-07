@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Why isn&#39;t the ID being accepted by getElementById all of a sudden?](https://www.reddit.com/r/javascript/comments/r9u3xf/askjs_why_isnt_the_id_being_accepted_by/)
-- [Faster synchronous iteration](https://www.reddit.com/r/javascript/comments/r9qisw/faster_synchronous_iteration/)
-- [Making Your HTML Inputs Reactive, Because We Can](https://www.reddit.com/r/javascript/comments/r9p01n/making_your_html_inputs_reactive_because_we_can/)
-- [[AskJS] Confused about sending requests in HTTP1 and HTTP2](https://www.reddit.com/r/javascript/comments/r9ojjt/askjs_confused_about_sending_requests_in_http1/)
-- [Really Async JSON Interface: a non-blocking alternative to JSON.parse to keep web UIs responsive](https://www.reddit.com/r/javascript/comments/r8pwoz/really_async_json_interface_a_nonblocking/)
-- [Lightest weight javascript charting library](https://www.reddit.com/r/javascript/comments/r8o93u/lightest_weight_javascript_charting_library/)
-- [Scroll animation in Javascript using IntersectionObserver](https://www.reddit.com/r/javascript/comments/r8mkts/scroll_animation_in_javascript_using/)
-- [Showoff Saturday &lpar;December 04, 2021&rpar;](https://www.reddit.com/r/javascript/comments/r8ktql/showoff_saturday_december_04_2021/)
-- [Sorting imports on save in React projects with ESLint.](https://www.reddit.com/r/javascript/comments/r86u7r/sorting_imports_on_save_in_react_projects_with/)
-- [React state management in 2022 — Return of the Redux](https://www.reddit.com/r/javascript/comments/r81zdg/react_state_management_in_2022_return_of_the_redux/)
+- [[AskJS] Input values are returned as empty even after being triggered by a new function](https://www.reddit.com/r/javascript/comments/rag06m/askjs_input_values_are_returned_as_empty_even/)
+- [Post.js - Modern progress bar for form completion.](https://www.reddit.com/r/javascript/comments/rac6ba/postjs_modern_progress_bar_for_form_completion/)
+- [I struggled to understand re-rendering and memoization in React for a long time. Today I wrote the article I wish I had read many years ago. The information is concise and to the point. I hope it helps someone.](https://www.reddit.com/r/javascript/comments/raanic/i_struggled_to_understand_rerendering_and/)
+- [[AskJS] How do you think the NPM security issue should be fixed?](https://www.reddit.com/r/javascript/comments/ra8a9m/askjs_how_do_you_think_the_npm_security_issue/)
+- [quill-delta with delta embed support](https://www.reddit.com/r/javascript/comments/ra7ltz/quilldelta_with_delta_embed_support/)
+- [WebAssembly and Back Again: Fine-Grained Sandboxing in Firefox 95](https://www.reddit.com/r/javascript/comments/ra7cnf/webassembly_and_back_again_finegrained_sandboxing/)
+- [GitHub - vizzuhq/vizzu-lib: Library for animated data visualizations and data stories.](https://www.reddit.com/r/javascript/comments/ra4q3k/github_vizzuhqvizzulib_library_for_animated_data/)
+- [[AskJS] Translate geo-coodinates into a graph / route](https://www.reddit.com/r/javascript/comments/ra4klx/askjs_translate_geocoodinates_into_a_graph_route/)
+- [TypeScript Essentials: Conditionally filter types](https://www.reddit.com/r/javascript/comments/ra4f2h/typescript_essentials_conditionally_filter_types/)
+- [Infinite scrolling and lazy-loading images using the native Intersection Observer API and React hooks](https://www.reddit.com/r/javascript/comments/ra3xwi/infinite_scrolling_and_lazyloading_images_using/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
