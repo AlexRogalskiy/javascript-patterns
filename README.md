@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Age Gate / Age Verification](https://www.reddit.com/r/javascript/comments/rbe9x0/askjs_age_gate_age_verification/)
+- [Build a SaaS product with Next.js, Supabase and Stripe &lpar;free egghead course&rpar;](https://www.reddit.com/r/javascript/comments/rbd77z/build_a_saas_product_with_nextjs_supabase_and/)
+- [What people in tech had to say about JavaScript when it debuted in 1995](https://www.reddit.com/r/javascript/comments/rb9g4j/what_people_in_tech_had_to_say_about_javascript/)
+- [Why you should check-in your node dependencies](https://www.reddit.com/r/javascript/comments/rb6cyv/why_you_should_checkin_your_node_dependencies/)
+- [[AskJS] When to set up a separate API for my application?](https://www.reddit.com/r/javascript/comments/rb4e9t/askjs_when_to_set_up_a_separate_api_for_my/)
+- [Guide: How to install a specific Node.js version in an alpine Docker image](https://www.reddit.com/r/javascript/comments/rb3spc/guide_how_to_install_a_specific_nodejs_version_in/)
+- [Fighting TLS fingerprinting with Node.js](https://www.reddit.com/r/javascript/comments/rb02fs/fighting_tls_fingerprinting_with_nodejs/)
+- [An Introduction to OpenAPI](https://www.reddit.com/r/javascript/comments/ravdxf/an_introduction_to_openapi/)
+- [ts-belt → fast, modern, and practical utility library for FP in TypeScript/Flow/JavaScript](https://www.reddit.com/r/javascript/comments/rav7fc/tsbelt_fast_modern_and_practical_utility_library/)
 - [[AskJS] Input values are returned as empty even after being triggered by a new function](https://www.reddit.com/r/javascript/comments/rag06m/askjs_input_values_are_returned_as_empty_even/)
-- [Post.js - Modern progress bar for form completion.](https://www.reddit.com/r/javascript/comments/rac6ba/postjs_modern_progress_bar_for_form_completion/)
-- [I struggled to understand re-rendering and memoization in React for a long time. Today I wrote the article I wish I had read many years ago. The information is concise and to the point. I hope it helps someone.](https://www.reddit.com/r/javascript/comments/raanic/i_struggled_to_understand_rerendering_and/)
-- [[AskJS] How do you think the NPM security issue should be fixed?](https://www.reddit.com/r/javascript/comments/ra8a9m/askjs_how_do_you_think_the_npm_security_issue/)
-- [quill-delta with delta embed support](https://www.reddit.com/r/javascript/comments/ra7ltz/quilldelta_with_delta_embed_support/)
-- [WebAssembly and Back Again: Fine-Grained Sandboxing in Firefox 95](https://www.reddit.com/r/javascript/comments/ra7cnf/webassembly_and_back_again_finegrained_sandboxing/)
-- [GitHub - vizzuhq/vizzu-lib: Library for animated data visualizations and data stories.](https://www.reddit.com/r/javascript/comments/ra4q3k/github_vizzuhqvizzulib_library_for_animated_data/)
-- [[AskJS] Translate geo-coodinates into a graph / route](https://www.reddit.com/r/javascript/comments/ra4klx/askjs_translate_geocoodinates_into_a_graph_route/)
-- [TypeScript Essentials: Conditionally filter types](https://www.reddit.com/r/javascript/comments/ra4f2h/typescript_essentials_conditionally_filter_types/)
-- [Infinite scrolling and lazy-loading images using the native Intersection Observer API and React hooks](https://www.reddit.com/r/javascript/comments/ra3xwi/infinite_scrolling_and_lazyloading_images_using/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
