@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Age Gate / Age Verification](https://www.reddit.com/r/javascript/comments/rbe9x0/askjs_age_gate_age_verification/)
-- [Build a SaaS product with Next.js, Supabase and Stripe &lpar;free egghead course&rpar;](https://www.reddit.com/r/javascript/comments/rbd77z/build_a_saas_product_with_nextjs_supabase_and/)
-- [What people in tech had to say about JavaScript when it debuted in 1995](https://www.reddit.com/r/javascript/comments/rb9g4j/what_people_in_tech_had_to_say_about_javascript/)
-- [Why you should check-in your node dependencies](https://www.reddit.com/r/javascript/comments/rb6cyv/why_you_should_checkin_your_node_dependencies/)
-- [[AskJS] When to set up a separate API for my application?](https://www.reddit.com/r/javascript/comments/rb4e9t/askjs_when_to_set_up_a_separate_api_for_my/)
-- [Guide: How to install a specific Node.js version in an alpine Docker image](https://www.reddit.com/r/javascript/comments/rb3spc/guide_how_to_install_a_specific_nodejs_version_in/)
-- [Fighting TLS fingerprinting with Node.js](https://www.reddit.com/r/javascript/comments/rb02fs/fighting_tls_fingerprinting_with_nodejs/)
-- [An Introduction to OpenAPI](https://www.reddit.com/r/javascript/comments/ravdxf/an_introduction_to_openapi/)
-- [ts-belt → fast, modern, and practical utility library for FP in TypeScript/Flow/JavaScript](https://www.reddit.com/r/javascript/comments/rav7fc/tsbelt_fast_modern_and_practical_utility_library/)
-- [[AskJS] Input values are returned as empty even after being triggered by a new function](https://www.reddit.com/r/javascript/comments/rag06m/askjs_input_values_are_returned_as_empty_even/)
+- [How to do Syntax Highlighting On Your Site with Highlight.js and Next.js](https://www.reddit.com/r/javascript/comments/rc1u8x/how_to_do_syntax_highlighting_on_your_site_with/)
+- [Visual Studio Code November 2021](https://www.reddit.com/r/javascript/comments/rc1onj/visual_studio_code_november_2021/)
+- [Identify NPM libraries included in a website](https://www.reddit.com/r/javascript/comments/rc0z71/identify_npm_libraries_included_in_a_website/)
+- [Fifty Solitaires – Using Storybook to create Playing Cards in React](https://www.reddit.com/r/javascript/comments/rc0h4c/fifty_solitaires_using_storybook_to_create/)
+- [What is the best alternative to Chart.js based on your experience?](https://www.reddit.com/r/javascript/comments/rc0ct8/what_is_the_best_alternative_to_chartjs_based_on/)
+- [SyncedStore - build multiplayer CRDT-powered collaborative apps for the web](https://www.reddit.com/r/javascript/comments/rbyq5e/syncedstore_build_multiplayer_crdtpowered/)
+- [Migration guide from Webpack 4 to Webpack 5](https://www.reddit.com/r/javascript/comments/rby6kw/migration_guide_from_webpack_4_to_webpack_5/)
+- [React has shipped experimental support for custom elements and they are looking for feedback](https://www.reddit.com/r/javascript/comments/rbv9pe/react_has_shipped_experimental_support_for_custom/)
+- [UI Component Encyclopedia sneak peek from Storybook](https://www.reddit.com/r/javascript/comments/rbtzpp/ui_component_encyclopedia_sneak_peek_from/)
+- [Configurable API App Example. And some words why API user still need to know some coding.](https://www.reddit.com/r/javascript/comments/rbtjnj/configurable_api_app_example_and_some_words_why/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
