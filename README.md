@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Tailwind CSS v3.0 is here — bringing incredible performance gains, huge workflow improvements, and a seriously ridiculous number of new features.](https://www.reddit.com/r/javascript/comments/rcrkr0/tailwind_css_v30_is_here_bringing_incredible/)
+- [Dynamic Link Previews in React &lpar;Without SSR&rpar;](https://www.reddit.com/r/javascript/comments/rcq38t/dynamic_link_previews_in_react_without_ssr/)
+- [A Beginners Guide To Behaviour Testing In React](https://www.reddit.com/r/javascript/comments/rcpkcx/a_beginners_guide_to_behaviour_testing_in_react/)
+- [React 18 provides useId API for generating unique IDs on both the client and server](https://www.reddit.com/r/javascript/comments/rcp5ph/react_18_provides_useid_api_for_generating_unique/)
+- [TIL nearly 1 in 5 pageloads in Chrome contain web components](https://www.reddit.com/r/javascript/comments/rck2ot/til_nearly_1_in_5_pageloads_in_chrome_contain_web/)
+- [[AskJS] PWA or React Native?](https://www.reddit.com/r/javascript/comments/rcizs3/askjs_pwa_or_react_native/)
+- [Payload launches new feature to auto-generate TypeScript interfaces](https://www.reddit.com/r/javascript/comments/rci1vf/payload_launches_new_feature_to_autogenerate/)
 - [How to do Syntax Highlighting On Your Site with Highlight.js and Next.js](https://www.reddit.com/r/javascript/comments/rc1u8x/how_to_do_syntax_highlighting_on_your_site_with/)
 - [Visual Studio Code November 2021](https://www.reddit.com/r/javascript/comments/rc1onj/visual_studio_code_november_2021/)
 - [Identify NPM libraries included in a website](https://www.reddit.com/r/javascript/comments/rc0z71/identify_npm_libraries_included_in_a_website/)
-- [Fifty Solitaires – Using Storybook to create Playing Cards in React](https://www.reddit.com/r/javascript/comments/rc0h4c/fifty_solitaires_using_storybook_to_create/)
-- [What is the best alternative to Chart.js based on your experience?](https://www.reddit.com/r/javascript/comments/rc0ct8/what_is_the_best_alternative_to_chartjs_based_on/)
-- [SyncedStore - build multiplayer CRDT-powered collaborative apps for the web](https://www.reddit.com/r/javascript/comments/rbyq5e/syncedstore_build_multiplayer_crdtpowered/)
-- [Migration guide from Webpack 4 to Webpack 5](https://www.reddit.com/r/javascript/comments/rby6kw/migration_guide_from_webpack_4_to_webpack_5/)
-- [React has shipped experimental support for custom elements and they are looking for feedback](https://www.reddit.com/r/javascript/comments/rbv9pe/react_has_shipped_experimental_support_for_custom/)
-- [UI Component Encyclopedia sneak peek from Storybook](https://www.reddit.com/r/javascript/comments/rbtzpp/ui_component_encyclopedia_sneak_peek_from/)
-- [Configurable API App Example. And some words why API user still need to know some coding.](https://www.reddit.com/r/javascript/comments/rbtjnj/configurable_api_app_example_and_some_words_why/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
