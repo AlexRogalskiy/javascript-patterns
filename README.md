@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Tailwind CSS v3.0 is here — bringing incredible performance gains, huge workflow improvements, and a seriously ridiculous number of new features.](https://www.reddit.com/r/javascript/comments/rcrkr0/tailwind_css_v30_is_here_bringing_incredible/)
-- [Dynamic Link Previews in React &lpar;Without SSR&rpar;](https://www.reddit.com/r/javascript/comments/rcq38t/dynamic_link_previews_in_react_without_ssr/)
-- [A Beginners Guide To Behaviour Testing In React](https://www.reddit.com/r/javascript/comments/rcpkcx/a_beginners_guide_to_behaviour_testing_in_react/)
-- [React 18 provides useId API for generating unique IDs on both the client and server](https://www.reddit.com/r/javascript/comments/rcp5ph/react_18_provides_useid_api_for_generating_unique/)
-- [TIL nearly 1 in 5 pageloads in Chrome contain web components](https://www.reddit.com/r/javascript/comments/rck2ot/til_nearly_1_in_5_pageloads_in_chrome_contain_web/)
-- [[AskJS] PWA or React Native?](https://www.reddit.com/r/javascript/comments/rcizs3/askjs_pwa_or_react_native/)
-- [Payload launches new feature to auto-generate TypeScript interfaces](https://www.reddit.com/r/javascript/comments/rci1vf/payload_launches_new_feature_to_autogenerate/)
-- [How to do Syntax Highlighting On Your Site with Highlight.js and Next.js](https://www.reddit.com/r/javascript/comments/rc1u8x/how_to_do_syntax_highlighting_on_your_site_with/)
-- [Visual Studio Code November 2021](https://www.reddit.com/r/javascript/comments/rc1onj/visual_studio_code_november_2021/)
-- [Identify NPM libraries included in a website](https://www.reddit.com/r/javascript/comments/rc0z71/identify_npm_libraries_included_in_a_website/)
+- [How to earn $1.5M in revenue from a JavaScript component](https://www.reddit.com/r/javascript/comments/rdimna/how_to_earn_15m_in_revenue_from_a_javascript/)
+- [Redux Toolkit 1.7.0: RTK Query SSR support, circular import fixes, and _many_ more API improvements!](https://www.reddit.com/r/javascript/comments/rdguz4/redux_toolkit_170_rtk_query_ssr_support_circular/)
+- [CachedLookup 3.0.0: A Simple Package To Cache And Save On Expensive Lookups &amp; Operations. Now With TypeScript Support.](https://www.reddit.com/r/javascript/comments/rdekoj/cachedlookup_300_a_simple_package_to_cache_and/)
+- [Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://www.reddit.com/r/javascript/comments/rde18s/algorithms_and_data_structures_implemented_in/)
+- [Minify JavaScript Online](https://www.reddit.com/r/javascript/comments/rde0c1/minify_javascript_online/)
+- [[AskJS] is stimulus js worth learning?](https://www.reddit.com/r/javascript/comments/rdckiu/askjs_is_stimulus_js_worth_learning/)
+- [GitHub - xieyuheng/postmark: A framework for building markdown extensions.](https://www.reddit.com/r/javascript/comments/rd7fjz/github_xieyuhengpostmark_a_framework_for_building/)
+- [No BS monorepo - Part 1](https://www.reddit.com/r/javascript/comments/rd6k7y/no_bs_monorepo_part_1/)
+- [[AskJS] React Native vs Ionic Capacitor for a small project? Which one would you recommend?](https://www.reddit.com/r/javascript/comments/rd5n3x/askjs_react_native_vs_ionic_capacitor_for_a_small/)
+- [Been working on a tailwind css visual builder that now helps you create beautiful HTML, React, Vuejs websites, prototypes and webpages visually. So you can ship projects to production faster. Appreciate any feedback, ideas or thoughts on this.](https://www.reddit.com/r/javascript/comments/rd4y1x/been_working_on_a_tailwind_css_visual_builder/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
