@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to earn $1.5M in revenue from a JavaScript component](https://www.reddit.com/r/javascript/comments/rdimna/how_to_earn_15m_in_revenue_from_a_javascript/)
-- [Redux Toolkit 1.7.0: RTK Query SSR support, circular import fixes, and _many_ more API improvements!](https://www.reddit.com/r/javascript/comments/rdguz4/redux_toolkit_170_rtk_query_ssr_support_circular/)
-- [CachedLookup 3.0.0: A Simple Package To Cache And Save On Expensive Lookups &amp; Operations. Now With TypeScript Support.](https://www.reddit.com/r/javascript/comments/rdekoj/cachedlookup_300_a_simple_package_to_cache_and/)
-- [Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://www.reddit.com/r/javascript/comments/rde18s/algorithms_and_data_structures_implemented_in/)
-- [Minify JavaScript Online](https://www.reddit.com/r/javascript/comments/rde0c1/minify_javascript_online/)
-- [[AskJS] is stimulus js worth learning?](https://www.reddit.com/r/javascript/comments/rdckiu/askjs_is_stimulus_js_worth_learning/)
-- [GitHub - xieyuheng/postmark: A framework for building markdown extensions.](https://www.reddit.com/r/javascript/comments/rd7fjz/github_xieyuhengpostmark_a_framework_for_building/)
-- [No BS monorepo - Part 1](https://www.reddit.com/r/javascript/comments/rd6k7y/no_bs_monorepo_part_1/)
-- [[AskJS] React Native vs Ionic Capacitor for a small project? Which one would you recommend?](https://www.reddit.com/r/javascript/comments/rd5n3x/askjs_react_native_vs_ionic_capacitor_for_a_small/)
-- [Been working on a tailwind css visual builder that now helps you create beautiful HTML, React, Vuejs websites, prototypes and webpages visually. So you can ship projects to production faster. Appreciate any feedback, ideas or thoughts on this.](https://www.reddit.com/r/javascript/comments/rd4y1x/been_working_on_a_tailwind_css_visual_builder/)
+- [LIGHTNING SHARE: open-source file sharing service built with Firebase, React, and chakra-ui](https://www.reddit.com/r/javascript/comments/red25o/lightning_share_opensource_file_sharing_service/)
+- [Post.js: Modern progress bar for form completion.](https://www.reddit.com/r/javascript/comments/re8wtd/postjs_modern_progress_bar_for_form_completion/)
+- [Why You Should Stop Using UI Frameworks](https://www.reddit.com/r/javascript/comments/re1vv5/why_you_should_stop_using_ui_frameworks/)
+- [Analog Clock in JavaScript](https://www.reddit.com/r/javascript/comments/re0s7j/analog_clock_in_javascript/)
+- [Neutralinojs v4 released!](https://www.reddit.com/r/javascript/comments/re0mml/neutralinojs_v4_released/)
+- [Did React Win the 201* Framework Wars?](https://www.reddit.com/r/javascript/comments/rdvjk1/did_react_win_the_201_framework_wars/)
+- [Showoff Saturday &lpar;December 11, 2021&rpar;](https://www.reddit.com/r/javascript/comments/rduxy4/showoff_saturday_december_11_2021/)
+- [Workbox - library that makes writing service workers easy and efficient](https://www.reddit.com/r/javascript/comments/rdsne5/workbox_library_that_makes_writing_service/)
+- [Hey everyone I wrote my first dev.to article about Five free resources to learn blockchain in 2022. Please give it a read....](https://www.reddit.com/r/javascript/comments/rdsfbi/hey_everyone_i_wrote_my_first_devto_article_about/)
+- [Python vs JavaScript](https://www.reddit.com/r/javascript/comments/rds2yj/python_vs_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
