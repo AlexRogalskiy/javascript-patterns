@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [LIGHTNING SHARE: open-source file sharing service built with Firebase, React, and chakra-ui](https://www.reddit.com/r/javascript/comments/red25o/lightning_share_opensource_file_sharing_service/)
-- [Post.js: Modern progress bar for form completion.](https://www.reddit.com/r/javascript/comments/re8wtd/postjs_modern_progress_bar_for_form_completion/)
+- [When stringify doesn&#39;t return a string](https://www.reddit.com/r/javascript/comments/rezyv6/when_stringify_doesnt_return_a_string/)
+- [[AskJS] How heavy do you lean into TypeScript?](https://www.reddit.com/r/javascript/comments/rey2pu/askjs_how_heavy_do_you_lean_into_typescript/)
+- [[AskJS] Giving a Talk with Live Javascript Coding](https://www.reddit.com/r/javascript/comments/rev50q/askjs_giving_a_talk_with_live_javascript_coding/)
+- [[AskJS] Looking to start making a Pokemon game in JS](https://www.reddit.com/r/javascript/comments/reshld/askjs_looking_to_start_making_a_pokemon_game_in_js/)
+- [How to test HTML5 canvas with jest?](https://www.reddit.com/r/javascript/comments/rek869/how_to_test_html5_canvas_with_jest/)
+- [[AskJS] Making motion graphic animations with javascript?](https://www.reddit.com/r/javascript/comments/reh7rl/askjs_making_motion_graphic_animations_with/)
+- [JavaScript syntax errors compared](https://www.reddit.com/r/javascript/comments/reg4i9/javascript_syntax_errors_compared/)
 - [Why You Should Stop Using UI Frameworks](https://www.reddit.com/r/javascript/comments/re1vv5/why_you_should_stop_using_ui_frameworks/)
-- [Analog Clock in JavaScript](https://www.reddit.com/r/javascript/comments/re0s7j/analog_clock_in_javascript/)
 - [Neutralinojs v4 released!](https://www.reddit.com/r/javascript/comments/re0mml/neutralinojs_v4_released/)
 - [Did React Win the 201* Framework Wars?](https://www.reddit.com/r/javascript/comments/rdvjk1/did_react_win_the_201_framework_wars/)
-- [Showoff Saturday &lpar;December 11, 2021&rpar;](https://www.reddit.com/r/javascript/comments/rduxy4/showoff_saturday_december_11_2021/)
-- [Workbox - library that makes writing service workers easy and efficient](https://www.reddit.com/r/javascript/comments/rdsne5/workbox_library_that_makes_writing_service/)
-- [Hey everyone I wrote my first dev.to article about Five free resources to learn blockchain in 2022. Please give it a read....](https://www.reddit.com/r/javascript/comments/rdsfbi/hey_everyone_i_wrote_my_first_devto_article_about/)
-- [Python vs JavaScript](https://www.reddit.com/r/javascript/comments/rds2yj/python_vs_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
