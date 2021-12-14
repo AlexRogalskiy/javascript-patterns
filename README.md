@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [When stringify doesn&#39;t return a string](https://www.reddit.com/r/javascript/comments/rezyv6/when_stringify_doesnt_return_a_string/)
-- [[AskJS] How heavy do you lean into TypeScript?](https://www.reddit.com/r/javascript/comments/rey2pu/askjs_how_heavy_do_you_lean_into_typescript/)
-- [[AskJS] Giving a Talk with Live Javascript Coding](https://www.reddit.com/r/javascript/comments/rev50q/askjs_giving_a_talk_with_live_javascript_coding/)
-- [[AskJS] Looking to start making a Pokemon game in JS](https://www.reddit.com/r/javascript/comments/reshld/askjs_looking_to_start_making_a_pokemon_game_in_js/)
-- [How to test HTML5 canvas with jest?](https://www.reddit.com/r/javascript/comments/rek869/how_to_test_html5_canvas_with_jest/)
-- [[AskJS] Making motion graphic animations with javascript?](https://www.reddit.com/r/javascript/comments/reh7rl/askjs_making_motion_graphic_animations_with/)
-- [JavaScript syntax errors compared](https://www.reddit.com/r/javascript/comments/reg4i9/javascript_syntax_errors_compared/)
-- [Why You Should Stop Using UI Frameworks](https://www.reddit.com/r/javascript/comments/re1vv5/why_you_should_stop_using_ui_frameworks/)
-- [Neutralinojs v4 released!](https://www.reddit.com/r/javascript/comments/re0mml/neutralinojs_v4_released/)
-- [Did React Win the 201* Framework Wars?](https://www.reddit.com/r/javascript/comments/rdvjk1/did_react_win_the_201_framework_wars/)
+- [Lesser Known Features of the Browser Console](https://www.reddit.com/r/javascript/comments/rftuxu/lesser_known_features_of_the_browser_console/)
+- [Automate Text Message Reminders with Airtable, Twilio Studio, and JavaScript](https://www.reddit.com/r/javascript/comments/rft2gt/automate_text_message_reminders_with_airtable/)
+- [A few weeks maintaining React components, using various approaches](https://www.reddit.com/r/javascript/comments/rfsapp/a_few_weeks_maintaining_react_components_using/)
+- [Writing Better Tests with AI and GitHub Copilot](https://www.reddit.com/r/javascript/comments/rfrzyr/writing_better_tests_with_ai_and_github_copilot/)
+- [[AskJS] What am I not getting about Workspace &lpar;NPM, Yarn, PNPM&rpar; and tools like Turbo?](https://www.reddit.com/r/javascript/comments/rfrmlw/askjs_what_am_i_not_getting_about_workspace_npm/)
+- [JavaScript Tagged Templates](https://www.reddit.com/r/javascript/comments/rfqs3j/javascript_tagged_templates/)
+- [Web Performance Wins Are Deceptively Hard](https://www.reddit.com/r/javascript/comments/rfozap/web_performance_wins_are_deceptively_hard/)
+- [Password Generator using JavaScript](https://www.reddit.com/r/javascript/comments/rflrrg/password_generator_using_javascript/)
+- [Why you should be doing schema validation in React projects](https://www.reddit.com/r/javascript/comments/rfijze/why_you_should_be_doing_schema_validation_in/)
+- [Framer Motion 3D](https://www.reddit.com/r/javascript/comments/rfidhe/framer_motion_3d/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
