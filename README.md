@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Lesser Known Features of the Browser Console](https://www.reddit.com/r/javascript/comments/rftuxu/lesser_known_features_of_the_browser_console/)
-- [Automate Text Message Reminders with Airtable, Twilio Studio, and JavaScript](https://www.reddit.com/r/javascript/comments/rft2gt/automate_text_message_reminders_with_airtable/)
-- [A few weeks maintaining React components, using various approaches](https://www.reddit.com/r/javascript/comments/rfsapp/a_few_weeks_maintaining_react_components_using/)
-- [Writing Better Tests with AI and GitHub Copilot](https://www.reddit.com/r/javascript/comments/rfrzyr/writing_better_tests_with_ai_and_github_copilot/)
-- [[AskJS] What am I not getting about Workspace &lpar;NPM, Yarn, PNPM&rpar; and tools like Turbo?](https://www.reddit.com/r/javascript/comments/rfrmlw/askjs_what_am_i_not_getting_about_workspace_npm/)
-- [JavaScript Tagged Templates](https://www.reddit.com/r/javascript/comments/rfqs3j/javascript_tagged_templates/)
-- [Web Performance Wins Are Deceptively Hard](https://www.reddit.com/r/javascript/comments/rfozap/web_performance_wins_are_deceptively_hard/)
-- [Password Generator using JavaScript](https://www.reddit.com/r/javascript/comments/rflrrg/password_generator_using_javascript/)
-- [Why you should be doing schema validation in React projects](https://www.reddit.com/r/javascript/comments/rfijze/why_you_should_be_doing_schema_validation_in/)
-- [Framer Motion 3D](https://www.reddit.com/r/javascript/comments/rfidhe/framer_motion_3d/)
+- [Slack duty bot via Google Sheets at zero cost](https://www.reddit.com/r/javascript/comments/rgk1j7/slack_duty_bot_via_google_sheets_at_zero_cost/)
+- [Create React App v5 has been released](https://www.reddit.com/r/javascript/comments/rghdcg/create_react_app_v5_has_been_released/)
+- [Why all the Suspense? Understanding Async Consistency in JavaScript Frameworks](https://www.reddit.com/r/javascript/comments/rgfxpf/why_all_the_suspense_understanding_async/)
+- [Create Vue widget and inject it in any javaScript application like Angular React and Vue itself](https://www.reddit.com/r/javascript/comments/rgegvn/create_vue_widget_and_inject_it_in_any_javascript/)
+- [How to create a Node TypeScript based Scheduled job using node corn](https://www.reddit.com/r/javascript/comments/rgega2/how_to_create_a_node_typescript_based_scheduled/)
+- [What&#39;s New in JavaScript Charting 3.2: numeric and value string animation](https://www.reddit.com/r/javascript/comments/rgdx7f/whats_new_in_javascript_charting_32_numeric_and/)
+- [[AskJS] - Deep differences between AMD and CJS?](https://www.reddit.com/r/javascript/comments/rgbwyw/askjs_deep_differences_between_amd_and_cjs/)
+- [New in trend #no-menu website](https://www.reddit.com/r/javascript/comments/rgb4he/new_in_trend_nomenu_website/)
+- [Learn: Fisher–Yates shuffle in Javascript](https://www.reddit.com/r/javascript/comments/rg9jvm/learn_fisheryates_shuffle_in_javascript/)
+- [eslint-config-canonical: 1,000+ rules ESLint rules](https://www.reddit.com/r/javascript/comments/rg9i6y/eslintconfigcanonical_1000_rules_eslint_rules/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
