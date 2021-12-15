@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Deno joins JavaScript standards effort](https://www.infoworld.com/article/3644460/deno-joins-javascript-standards-effort.html#tk.rss_javascript)
 - [Misko Hevery explains blazing fast Qwik JS](https://www.infoworld.com/article/3643469/misko-hevery-explains-blazing-fast-qwik-js.html#tk.rss_javascript)
 - [Hands-on with SolidJS](https://www.infoworld.com/article/3643331/hands-on-with-solidjs.html#tk.rss_javascript)
 - [GitHub will require 2FA for some NPM registry users](https://www.infoworld.com/article/3641237/github-will-require-2fa-for-some-npm-registry-users.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Svelte creator: Web development should be more fun](https://www.infoworld.com/article/3639521/svelte-creator-web-development-should-be-more-fun.html#tk.rss_javascript)
 - [What’s new in Angular 13](https://www.infoworld.com/article/3629473/whats-new-in-angular-13.html#tk.rss_javascript)
 - [Angular proposal would make NgModules optional](https://www.infoworld.com/article/3638851/angular-proposal-would-make-ngmodules-optional.html#tk.rss_javascript)
-- [Big Next.js upgrade has new Rust compiler, ES Modules support](https://www.infoworld.com/article/3638690/big-nextjs-upgrade-has-new-rust-compiler-es-modules-support.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
