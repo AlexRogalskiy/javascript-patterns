@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Slack duty bot via Google Sheets at zero cost](https://www.reddit.com/r/javascript/comments/rgk1j7/slack_duty_bot_via_google_sheets_at_zero_cost/)
-- [Create React App v5 has been released](https://www.reddit.com/r/javascript/comments/rghdcg/create_react_app_v5_has_been_released/)
-- [Why all the Suspense? Understanding Async Consistency in JavaScript Frameworks](https://www.reddit.com/r/javascript/comments/rgfxpf/why_all_the_suspense_understanding_async/)
-- [Create Vue widget and inject it in any javaScript application like Angular React and Vue itself](https://www.reddit.com/r/javascript/comments/rgegvn/create_vue_widget_and_inject_it_in_any_javascript/)
-- [How to create a Node TypeScript based Scheduled job using node corn](https://www.reddit.com/r/javascript/comments/rgega2/how_to_create_a_node_typescript_based_scheduled/)
-- [What&#39;s New in JavaScript Charting 3.2: numeric and value string animation](https://www.reddit.com/r/javascript/comments/rgdx7f/whats_new_in_javascript_charting_32_numeric_and/)
-- [[AskJS] - Deep differences between AMD and CJS?](https://www.reddit.com/r/javascript/comments/rgbwyw/askjs_deep_differences_between_amd_and_cjs/)
-- [New in trend #no-menu website](https://www.reddit.com/r/javascript/comments/rgb4he/new_in_trend_nomenu_website/)
-- [Learn: Fisher–Yates shuffle in Javascript](https://www.reddit.com/r/javascript/comments/rg9jvm/learn_fisheryates_shuffle_in_javascript/)
-- [eslint-config-canonical: 1,000+ rules ESLint rules](https://www.reddit.com/r/javascript/comments/rg9i6y/eslintconfigcanonical_1000_rules_eslint_rules/)
+- [Made something fun with JS!](https://www.reddit.com/r/javascript/comments/rhc6m3/made_something_fun_with_js/)
+- [Updates from the 87th meeting of TC39](https://www.reddit.com/r/javascript/comments/rhc62h/updates_from_the_87th_meeting_of_tc39/)
+- [A guide to using client-side storage in a React app](https://www.reddit.com/r/javascript/comments/rha5xp/a_guide_to_using_clientside_storage_in_a_react_app/)
+- [Refactor de la declaración If... Else en Javascript](https://www.reddit.com/r/javascript/comments/rh9hbk/refactor_de_la_declaración_if_else_en_javascript/)
+- [35.6% of mobile pages set async/defer on the same script. Read The Web Almanac 2021 - JavaScript](https://www.reddit.com/r/javascript/comments/rh96e5/356_of_mobile_pages_set_asyncdefer_on_the_same/)
+- [Command line app to improve commands workflow in command line](https://www.reddit.com/r/javascript/comments/rh8xyr/command_line_app_to_improve_commands_workflow_in/)
+- [Faster, easier, friendlier: how quick-lint-js will take over ESLint](https://www.reddit.com/r/javascript/comments/rh587x/faster_easier_friendlier_how_quicklintjs_will/)
+- [NPM Release Security](https://www.reddit.com/r/javascript/comments/rh0m06/npm_release_security/)
+- [[AskJS] Looking for a plug and play auth API that matches these conditions.](https://www.reddit.com/r/javascript/comments/rh0l2d/askjs_looking_for_a_plug_and_play_auth_api_that/)
+- [Array.prototype.groupBy to the rescue!](https://www.reddit.com/r/javascript/comments/rh0e8i/arrayprototypegroupby_to_the_rescue/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
