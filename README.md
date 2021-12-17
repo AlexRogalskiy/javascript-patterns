@@ -292,6 +292,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Ruby on Rails 7 rejiggers JavaScript support](https://www.infoworld.com/article/3645356/ruby-on-rails-7-rejiggers-javascript-support.html#tk.rss_javascript)
+- [Hands-on with the Marko JavaScript framework](https://www.infoworld.com/article/3643329/hands-on-with-the-marko-javascript-framework.html#tk.rss_javascript)
 - [Deno joins JavaScript standards effort](https://www.infoworld.com/article/3644460/deno-joins-javascript-standards-effort.html#tk.rss_javascript)
 - [Misko Hevery explains blazing fast Qwik JS](https://www.infoworld.com/article/3643469/misko-hevery-explains-blazing-fast-qwik-js.html#tk.rss_javascript)
 - [Hands-on with SolidJS](https://www.infoworld.com/article/3643331/hands-on-with-solidjs.html#tk.rss_javascript)
@@ -300,8 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [GitHub: Dev productivity is back to pre-pandemic levels](https://www.infoworld.com/article/3640930/github-dev-productivity-is-back-to-pre-pandemic-levels.html#tk.rss_javascript)
 - [Deno improves JSX transform, WebAssembly support](https://www.infoworld.com/article/3640539/deno-improves-jsx-transform-webassembly-support.html#tk.rss_javascript)
 - [Svelte creator: Web development should be more fun](https://www.infoworld.com/article/3639521/svelte-creator-web-development-should-be-more-fun.html#tk.rss_javascript)
-- [What’s new in Angular 13](https://www.infoworld.com/article/3629473/whats-new-in-angular-13.html#tk.rss_javascript)
-- [Angular proposal would make NgModules optional](https://www.infoworld.com/article/3638851/angular-proposal-would-make-ngmodules-optional.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
