@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Made something fun with JS!](https://www.reddit.com/r/javascript/comments/rhc6m3/made_something_fun_with_js/)
+- [The quickest way to test changes in your forked React library](https://www.reddit.com/r/javascript/comments/ri42sm/the_quickest_way_to_test_changes_in_your_forked/)
+- [GSAP 3.9 Released](https://www.reddit.com/r/javascript/comments/ri1cv3/gsap_39_released/)
+- [Understanding Hydration in React applications&lpar;SSR&rpar;](https://www.reddit.com/r/javascript/comments/rhzig0/understanding_hydration_in_react_applicationsssr/)
+- [I created a web tool to create blob animation completely with vanilla js](https://www.reddit.com/r/javascript/comments/rhyjgu/i_created_a_web_tool_to_create_blob_animation/)
+- [Exploring Web Serial](https://www.reddit.com/r/javascript/comments/rhyfvw/exploring_web_serial/)
+- [[AskJS] Arrow functions damn you](https://www.reddit.com/r/javascript/comments/rhvq4v/askjs_arrow_functions_damn_you/)
+- [With Cube GraphQL API, you can query data warehouses like BigQuery and dozens of SQL-enabled databases like Postgres using GraphQL](https://www.reddit.com/r/javascript/comments/rhuqjm/with_cube_graphql_api_you_can_query_data/)
+- [GitHub - spencertipping/caterwaul: A Javascript-to-Javascript compiler](https://www.reddit.com/r/javascript/comments/rhn4je/github_spencertippingcaterwaul_a/)
+- [React vs Vue - Which is a better framework for your project in 2022?](https://www.reddit.com/r/javascript/comments/rhkwmv/react_vs_vue_which_is_a_better_framework_for_your/)
 - [Updates from the 87th meeting of TC39](https://www.reddit.com/r/javascript/comments/rhc62h/updates_from_the_87th_meeting_of_tc39/)
-- [A guide to using client-side storage in a React app](https://www.reddit.com/r/javascript/comments/rha5xp/a_guide_to_using_clientside_storage_in_a_react_app/)
-- [Refactor de la declaración If... Else en Javascript](https://www.reddit.com/r/javascript/comments/rh9hbk/refactor_de_la_declaración_if_else_en_javascript/)
-- [35.6% of mobile pages set async/defer on the same script. Read The Web Almanac 2021 - JavaScript](https://www.reddit.com/r/javascript/comments/rh96e5/356_of_mobile_pages_set_asyncdefer_on_the_same/)
-- [Command line app to improve commands workflow in command line](https://www.reddit.com/r/javascript/comments/rh8xyr/command_line_app_to_improve_commands_workflow_in/)
-- [Faster, easier, friendlier: how quick-lint-js will take over ESLint](https://www.reddit.com/r/javascript/comments/rh587x/faster_easier_friendlier_how_quicklintjs_will/)
-- [NPM Release Security](https://www.reddit.com/r/javascript/comments/rh0m06/npm_release_security/)
-- [[AskJS] Looking for a plug and play auth API that matches these conditions.](https://www.reddit.com/r/javascript/comments/rh0l2d/askjs_looking_for_a_plug_and_play_auth_api_that/)
-- [Array.prototype.groupBy to the rescue!](https://www.reddit.com/r/javascript/comments/rh0e8i/arrayprototypegroupby_to_the_rescue/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
