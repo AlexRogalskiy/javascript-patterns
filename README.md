@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [The quickest way to test changes in your forked React library](https://www.reddit.com/r/javascript/comments/ri42sm/the_quickest_way_to_test_changes_in_your_forked/)
-- [GSAP 3.9 Released](https://www.reddit.com/r/javascript/comments/ri1cv3/gsap_39_released/)
-- [Understanding Hydration in React applications&lpar;SSR&rpar;](https://www.reddit.com/r/javascript/comments/rhzig0/understanding_hydration_in_react_applicationsssr/)
-- [I created a web tool to create blob animation completely with vanilla js](https://www.reddit.com/r/javascript/comments/rhyjgu/i_created_a_web_tool_to_create_blob_animation/)
-- [Exploring Web Serial](https://www.reddit.com/r/javascript/comments/rhyfvw/exploring_web_serial/)
-- [[AskJS] Arrow functions damn you](https://www.reddit.com/r/javascript/comments/rhvq4v/askjs_arrow_functions_damn_you/)
-- [With Cube GraphQL API, you can query data warehouses like BigQuery and dozens of SQL-enabled databases like Postgres using GraphQL](https://www.reddit.com/r/javascript/comments/rhuqjm/with_cube_graphql_api_you_can_query_data/)
-- [GitHub - spencertipping/caterwaul: A Javascript-to-Javascript compiler](https://www.reddit.com/r/javascript/comments/rhn4je/github_spencertippingcaterwaul_a/)
-- [React vs Vue - Which is a better framework for your project in 2022?](https://www.reddit.com/r/javascript/comments/rhkwmv/react_vs_vue_which_is_a_better_framework_for_your/)
-- [Updates from the 87th meeting of TC39](https://www.reddit.com/r/javascript/comments/rhc62h/updates_from_the_87th_meeting_of_tc39/)
+- [AWS Tutorial: Making a Serverless API with DynamoDB &amp; Lambda in NodeJS](https://www.reddit.com/r/javascript/comments/riqwkk/aws_tutorial_making_a_serverless_api_with/)
+- [Send HubSpot Companies to Slack using JavaScript!](https://www.reddit.com/r/javascript/comments/rioxbm/send_hubspot_companies_to_slack_using_javascript/)
+- [[AskJS] AI with javascript](https://www.reddit.com/r/javascript/comments/rint8o/askjs_ai_with_javascript/)
+- [Trying my hand at writing some articles and trying to give back to the community. Would really appreciate any feedback](https://www.reddit.com/r/javascript/comments/rinsnl/trying_my_hand_at_writing_some_articles_and/)
+- [Introducing fuite: a tool for finding memory leaks in web apps](https://www.reddit.com/r/javascript/comments/rin4z6/introducing_fuite_a_tool_for_finding_memory_leaks/)
+- [spicy_object library](https://www.reddit.com/r/javascript/comments/rimxtg/spicy_object_library/)
+- [Customize Linear and Slack Notifications using JavaScript](https://www.reddit.com/r/javascript/comments/rikzcg/customize_linear_and_slack_notifications_using/)
+- [[AskJS] Which javascript framework is similar to ruby on rails or django?](https://www.reddit.com/r/javascript/comments/rikwgb/askjs_which_javascript_framework_is_similar_to/)
+- [JS monthly brief, the highest quality JS content on the whole fu***** internet](https://www.reddit.com/r/javascript/comments/riknjw/js_monthly_brief_the_highest_quality_js_content/)
+- [Here’s how I built analytics dashboards with GraphQL, Chart.js, and PostgreSQL. Spoiler alert, I used Cube.js to generate all the GraphQL analytic queries!](https://www.reddit.com/r/javascript/comments/rijex5/heres_how_i_built_analytics_dashboards_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
