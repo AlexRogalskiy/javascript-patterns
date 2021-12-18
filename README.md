@@ -337,6 +337,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *ReactJS posts*
 
 <!-- REACTJS-POST-LIST:START -->
+- [React Conf 2021 Recap](https://reactjs.org/blog/2021/12/17/react-conf-2021-recap.html)
 - [The Plan for React 18](https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html)
 - [Introducing Zero-Bundle-Size React Server Components](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html)
 - [React v17.0](https://reactjs.org/blog/2020/10/20/react-v17.html)
@@ -346,7 +347,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Building Great User Experiences with Concurrent Mode and Suspense](https://reactjs.org/blog/2019/11/06/building-great-user-experiences-with-concurrent-mode-and-suspense.html)
 - [Preparing for the Future with React Prereleases](https://reactjs.org/blog/2019/10/22/react-release-channels.html)
 - [Introducing the New React DevTools](https://reactjs.org/blog/2019/08/15/new-react-devtools.html)
-- [React v16.9.0 and the Roadmap Update](https://reactjs.org/blog/2019/08/08/react-v16.9.0.html)
 <!-- REACTJS-POST-LIST:END -->
 
 ### *javascript programmer posts*
