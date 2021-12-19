@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I made a program to generate Piano Music &lpar;Node.JS -&gt; Midi, open source&rpar;](https://www.reddit.com/r/javascript/comments/rjhzji/i_made_a_program_to_generate_piano_music_nodejs/)
+- [I launched a comment service for JavaScript-based static site generators &lpar;Next, Gatsby, &amp; Eleventy, to start&rpar;.](https://www.reddit.com/r/javascript/comments/rjdk6k/i_launched_a_comment_service_for_javascriptbased/)
+- [How to use built-in Proxy object in javascript](https://www.reddit.com/r/javascript/comments/rjaj3u/how_to_use_builtin_proxy_object_in_javascript/)
+- [I created a tool for exploring all Intl formatters &lpar;Internationalization API&rpar;](https://www.reddit.com/r/javascript/comments/rj4u81/i_created_a_tool_for_exploring_all_intl/)
+- [Showoff Saturday &lpar;December 18, 2021&rpar;](https://www.reddit.com/r/javascript/comments/rj2oow/showoff_saturday_december_18_2021/)
+- [Blitz is pivoting - What do you think?](https://www.reddit.com/r/javascript/comments/rixypj/blitz_is_pivoting_what_do_you_think/)
 - [AWS Tutorial: Making a Serverless API with DynamoDB &amp; Lambda in NodeJS](https://www.reddit.com/r/javascript/comments/riqwkk/aws_tutorial_making_a_serverless_api_with/)
 - [Send HubSpot Companies to Slack using JavaScript!](https://www.reddit.com/r/javascript/comments/rioxbm/send_hubspot_companies_to_slack_using_javascript/)
 - [[AskJS] AI with javascript](https://www.reddit.com/r/javascript/comments/rint8o/askjs_ai_with_javascript/)
 - [Trying my hand at writing some articles and trying to give back to the community. Would really appreciate any feedback](https://www.reddit.com/r/javascript/comments/rinsnl/trying_my_hand_at_writing_some_articles_and/)
-- [Introducing fuite: a tool for finding memory leaks in web apps](https://www.reddit.com/r/javascript/comments/rin4z6/introducing_fuite_a_tool_for_finding_memory_leaks/)
-- [spicy_object library](https://www.reddit.com/r/javascript/comments/rimxtg/spicy_object_library/)
-- [Customize Linear and Slack Notifications using JavaScript](https://www.reddit.com/r/javascript/comments/rikzcg/customize_linear_and_slack_notifications_using/)
-- [[AskJS] Which javascript framework is similar to ruby on rails or django?](https://www.reddit.com/r/javascript/comments/rikwgb/askjs_which_javascript_framework_is_similar_to/)
-- [JS monthly brief, the highest quality JS content on the whole fu***** internet](https://www.reddit.com/r/javascript/comments/riknjw/js_monthly_brief_the_highest_quality_js_content/)
-- [Here’s how I built analytics dashboards with GraphQL, Chart.js, and PostgreSQL. Spoiler alert, I used Cube.js to generate all the GraphQL analytic queries!](https://www.reddit.com/r/javascript/comments/rijex5/heres_how_i_built_analytics_dashboards_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
