@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I made a program to generate Piano Music &lpar;Node.JS -&gt; Midi, open source&rpar;](https://www.reddit.com/r/javascript/comments/rjhzji/i_made_a_program_to_generate_piano_music_nodejs/)
-- [I launched a comment service for JavaScript-based static site generators &lpar;Next, Gatsby, &amp; Eleventy, to start&rpar;.](https://www.reddit.com/r/javascript/comments/rjdk6k/i_launched_a_comment_service_for_javascriptbased/)
-- [How to use built-in Proxy object in javascript](https://www.reddit.com/r/javascript/comments/rjaj3u/how_to_use_builtin_proxy_object_in_javascript/)
+- [[AskJS] Created a plugin to support micro frontend using Create react app and Craco](https://www.reddit.com/r/javascript/comments/rkbe9i/askjs_created_a_plugin_to_support_micro_frontend/)
+- [[AskJS] Ways of async error handling with async/await and then/catch](https://www.reddit.com/r/javascript/comments/rk7132/askjs_ways_of_async_error_handling_with/)
+- [GitHub - donalffons/opencascade.js: Port of the OpenCascade library to JavaScript / WebAssembly using Emscripten](https://www.reddit.com/r/javascript/comments/rk03dd/github_donalffonsopencascadejs_port_of_the/)
 - [I created a tool for exploring all Intl formatters &lpar;Internationalization API&rpar;](https://www.reddit.com/r/javascript/comments/rj4u81/i_created_a_tool_for_exploring_all_intl/)
 - [Showoff Saturday &lpar;December 18, 2021&rpar;](https://www.reddit.com/r/javascript/comments/rj2oow/showoff_saturday_december_18_2021/)
 - [Blitz is pivoting - What do you think?](https://www.reddit.com/r/javascript/comments/rixypj/blitz_is_pivoting_what_do_you_think/)
-- [AWS Tutorial: Making a Serverless API with DynamoDB &amp; Lambda in NodeJS](https://www.reddit.com/r/javascript/comments/riqwkk/aws_tutorial_making_a_serverless_api_with/)
-- [Send HubSpot Companies to Slack using JavaScript!](https://www.reddit.com/r/javascript/comments/rioxbm/send_hubspot_companies_to_slack_using_javascript/)
-- [[AskJS] AI with javascript](https://www.reddit.com/r/javascript/comments/rint8o/askjs_ai_with_javascript/)
 - [Trying my hand at writing some articles and trying to give back to the community. Would really appreciate any feedback](https://www.reddit.com/r/javascript/comments/rinsnl/trying_my_hand_at_writing_some_articles_and/)
+- [Introducing fuite: a tool for finding memory leaks in web apps](https://www.reddit.com/r/javascript/comments/rin4z6/introducing_fuite_a_tool_for_finding_memory_leaks/)
+- [[AskJS] Which javascript framework is similar to ruby on rails or django?](https://www.reddit.com/r/javascript/comments/rikwgb/askjs_which_javascript_framework_is_similar_to/)
+- [[AskJS] Looking for &quot;forgotten&quot; framework/MVC](https://www.reddit.com/r/javascript/comments/rigqdp/askjs_looking_for_forgotten_frameworkmvc/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
