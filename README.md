@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Created a plugin to support micro frontend using Create react app and Craco](https://www.reddit.com/r/javascript/comments/rkbe9i/askjs_created_a_plugin_to_support_micro_frontend/)
-- [[AskJS] Ways of async error handling with async/await and then/catch](https://www.reddit.com/r/javascript/comments/rk7132/askjs_ways_of_async_error_handling_with/)
-- [GitHub - donalffons/opencascade.js: Port of the OpenCascade library to JavaScript / WebAssembly using Emscripten](https://www.reddit.com/r/javascript/comments/rk03dd/github_donalffonsopencascadejs_port_of_the/)
-- [I created a tool for exploring all Intl formatters &lpar;Internationalization API&rpar;](https://www.reddit.com/r/javascript/comments/rj4u81/i_created_a_tool_for_exploring_all_intl/)
-- [Showoff Saturday &lpar;December 18, 2021&rpar;](https://www.reddit.com/r/javascript/comments/rj2oow/showoff_saturday_december_18_2021/)
-- [Blitz is pivoting - What do you think?](https://www.reddit.com/r/javascript/comments/rixypj/blitz_is_pivoting_what_do_you_think/)
-- [Trying my hand at writing some articles and trying to give back to the community. Would really appreciate any feedback](https://www.reddit.com/r/javascript/comments/rinsnl/trying_my_hand_at_writing_some_articles_and/)
-- [Introducing fuite: a tool for finding memory leaks in web apps](https://www.reddit.com/r/javascript/comments/rin4z6/introducing_fuite_a_tool_for_finding_memory_leaks/)
-- [[AskJS] Which javascript framework is similar to ruby on rails or django?](https://www.reddit.com/r/javascript/comments/rikwgb/askjs_which_javascript_framework_is_similar_to/)
-- [[AskJS] Looking for &quot;forgotten&quot; framework/MVC](https://www.reddit.com/r/javascript/comments/rigqdp/askjs_looking_for_forgotten_frameworkmvc/)
+- [[AskJS] unpopular opinion: promises suck](https://www.reddit.com/r/javascript/comments/rl2xr0/askjs_unpopular_opinion_promises_suck/)
+- [NPM had an obfuscated birthday-like easter egg that can be mistaken as a malware. What do you think about that?](https://www.reddit.com/r/javascript/comments/rl26c2/npm_had_an_obfuscated_birthdaylike_easter_egg/)
+- [Media Chrome - Fully customizable media player controls using web components &lpar;native custom elements&rpar;. Compatible with any javascript framework &lpar;React, Angular, Svelte, etc.&rpar;](https://www.reddit.com/r/javascript/comments/rkyj15/media_chrome_fully_customizable_media_player/)
+- [Announcing $4.5M Seed for Theatre.js &lpar;Theatre.js is a JavaScript animation library with a GUI. It animates the DOM, WebGL, and any other JavaScript variable&rpar;](https://www.reddit.com/r/javascript/comments/rkycba/announcing_45m_seed_for_theatrejs_theatrejs_is_a/)
+- [You&#39;ve been doing Tech Twitter all wrong, do this instead...For any developer looking to build a network that leads to clients and Jobs](https://www.reddit.com/r/javascript/comments/rkv5y5/youve_been_doing_tech_twitter_all_wrong_do_this/)
+- [First ever Hackathon](https://www.reddit.com/r/javascript/comments/rkuqkf/first_ever_hackathon/)
+- [Make a Quote Generator in JavaScript](https://www.reddit.com/r/javascript/comments/rkujtm/make_a_quote_generator_in_javascript/)
+- [Code demo: LocalStorage + Phoenix Live View = 100% private chat app](https://www.reddit.com/r/javascript/comments/rksglj/code_demo_localstorage_phoenix_live_view_100/)
+- [Entwined Web - JS port of the Java/Processing framework behind the art installation in SF Golden Gate Park](https://www.reddit.com/r/javascript/comments/rkr88m/entwined_web_js_port_of_the_javaprocessing/)
+- [GitHub - DLzer/Zork: ZORK! Javascript style.](https://www.reddit.com/r/javascript/comments/rkr3wn/github_dlzerzork_zork_javascript_style/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
