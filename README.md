@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Using the DOM for tile-based games, instead of rendering on a canvas](https://www.reddit.com/r/javascript/comments/rlpowm/askjs_using_the_dom_for_tilebased_games_instead/)
+- [Consistently responsive apps while staying on the main thread](https://www.reddit.com/r/javascript/comments/rlh2e9/consistently_responsive_apps_while_staying_on_the/)
+- [JS Brief &lt;&gt; Monthly newsletter for the best content in Javascript](https://www.reddit.com/r/javascript/comments/rlc08t/js_brief_monthly_newsletter_for_the_best_content/)
+- [PoW Shield provides DDoS protection on OSI application layer by acting as a proxy that utilizes proof of work between the backend service and the end user.](https://www.reddit.com/r/javascript/comments/rl9u8a/pow_shield_provides_ddos_protection_on_osi/)
+- [[AskJS] Have I found new JavaScript browser bugs?](https://www.reddit.com/r/javascript/comments/rl9b21/askjs_have_i_found_new_javascript_browser_bugs/)
+- [Ember 4.0 released](https://www.reddit.com/r/javascript/comments/rl7hxx/ember_40_released/)
+- [Difference between Java and JavaScript](https://www.reddit.com/r/javascript/comments/rl6kqi/difference_between_java_and_javascript/)
+- [Starting a Prisma TypeScript Project](https://www.reddit.com/r/javascript/comments/rl5n3j/starting_a_prisma_typescript_project/)
 - [[AskJS] unpopular opinion: promises suck](https://www.reddit.com/r/javascript/comments/rl2xr0/askjs_unpopular_opinion_promises_suck/)
 - [NPM had an obfuscated birthday-like easter egg that can be mistaken as a malware. What do you think about that?](https://www.reddit.com/r/javascript/comments/rl26c2/npm_had_an_obfuscated_birthdaylike_easter_egg/)
-- [Media Chrome - Fully customizable media player controls using web components &lpar;native custom elements&rpar;. Compatible with any javascript framework &lpar;React, Angular, Svelte, etc.&rpar;](https://www.reddit.com/r/javascript/comments/rkyj15/media_chrome_fully_customizable_media_player/)
-- [Announcing $4.5M Seed for Theatre.js &lpar;Theatre.js is a JavaScript animation library with a GUI. It animates the DOM, WebGL, and any other JavaScript variable&rpar;](https://www.reddit.com/r/javascript/comments/rkycba/announcing_45m_seed_for_theatrejs_theatrejs_is_a/)
-- [You&#39;ve been doing Tech Twitter all wrong, do this instead...For any developer looking to build a network that leads to clients and Jobs](https://www.reddit.com/r/javascript/comments/rkv5y5/youve_been_doing_tech_twitter_all_wrong_do_this/)
-- [First ever Hackathon](https://www.reddit.com/r/javascript/comments/rkuqkf/first_ever_hackathon/)
-- [Make a Quote Generator in JavaScript](https://www.reddit.com/r/javascript/comments/rkujtm/make_a_quote_generator_in_javascript/)
-- [Code demo: LocalStorage + Phoenix Live View = 100% private chat app](https://www.reddit.com/r/javascript/comments/rksglj/code_demo_localstorage_phoenix_live_view_100/)
-- [Entwined Web - JS port of the Java/Processing framework behind the art installation in SF Golden Gate Park](https://www.reddit.com/r/javascript/comments/rkr88m/entwined_web_js_port_of_the_javaprocessing/)
-- [GitHub - DLzer/Zork: ZORK! Javascript style.](https://www.reddit.com/r/javascript/comments/rkr3wn/github_dlzerzork_zork_javascript_style/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
