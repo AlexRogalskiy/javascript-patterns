@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Using the DOM for tile-based games, instead of rendering on a canvas](https://www.reddit.com/r/javascript/comments/rlpowm/askjs_using_the_dom_for_tilebased_games_instead/)
-- [Consistently responsive apps while staying on the main thread](https://www.reddit.com/r/javascript/comments/rlh2e9/consistently_responsive_apps_while_staying_on_the/)
-- [JS Brief &lt;&gt; Monthly newsletter for the best content in Javascript](https://www.reddit.com/r/javascript/comments/rlc08t/js_brief_monthly_newsletter_for_the_best_content/)
-- [PoW Shield provides DDoS protection on OSI application layer by acting as a proxy that utilizes proof of work between the backend service and the end user.](https://www.reddit.com/r/javascript/comments/rl9u8a/pow_shield_provides_ddos_protection_on_osi/)
-- [[AskJS] Have I found new JavaScript browser bugs?](https://www.reddit.com/r/javascript/comments/rl9b21/askjs_have_i_found_new_javascript_browser_bugs/)
-- [Ember 4.0 released](https://www.reddit.com/r/javascript/comments/rl7hxx/ember_40_released/)
-- [Difference between Java and JavaScript](https://www.reddit.com/r/javascript/comments/rl6kqi/difference_between_java_and_javascript/)
-- [Starting a Prisma TypeScript Project](https://www.reddit.com/r/javascript/comments/rl5n3j/starting_a_prisma_typescript_project/)
-- [[AskJS] unpopular opinion: promises suck](https://www.reddit.com/r/javascript/comments/rl2xr0/askjs_unpopular_opinion_promises_suck/)
-- [NPM had an obfuscated birthday-like easter egg that can be mistaken as a malware. What do you think about that?](https://www.reddit.com/r/javascript/comments/rl26c2/npm_had_an_obfuscated_birthdaylike_easter_egg/)
+- [GitHub: Tools to facilitate frontend development experience.](https://www.reddit.com/r/javascript/comments/rmiv29/github_tools_to_facilitate_frontend_development/)
+- [Introduction to Docker for Javascript Developers &lpar;feat Node.js and PostgreSQL&rpar;](https://www.reddit.com/r/javascript/comments/rmia9m/introduction_to_docker_for_javascript_developers/)
+- [Advanced Promises in Javascript &lpar;Dataloader Pattern&rpar; - Mike Alche](https://www.reddit.com/r/javascript/comments/rmd6ee/advanced_promises_in_javascript_dataloader/)
+- [GitHub - matiasvlevi/Dann: Deep Neural Network Library for JavaScript.](https://www.reddit.com/r/javascript/comments/rmc8td/github_matiasvlevidann_deep_neural_network/)
+- [ESLint plugin for Storybook](https://www.reddit.com/r/javascript/comments/rmbon4/eslint_plugin_for_storybook/)
+- [A lightweight Web IDE UI framework built with React.js](https://www.reddit.com/r/javascript/comments/rm3y12/a_lightweight_web_ide_ui_framework_built_with/)
+- [[AskJS] Paid open-source JS solutions?](https://www.reddit.com/r/javascript/comments/rm2no8/askjs_paid_opensource_js_solutions/)
+- [MySQL with TypeScript](https://www.reddit.com/r/javascript/comments/rm2aa4/mysql_with_typescript/)
+- [[AskJS] Javascript methodology/library/pattern for plain HTML Design System components](https://www.reddit.com/r/javascript/comments/rm29z2/askjs_javascript_methodologylibrarypattern_for/)
+- [WTF Wednesday &lpar;December 22, 2021&rpar;](https://www.reddit.com/r/javascript/comments/rm0cq6/wtf_wednesday_december_22_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
