@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [GitHub: Tools to facilitate frontend development experience.](https://www.reddit.com/r/javascript/comments/rmiv29/github_tools_to_facilitate_frontend_development/)
-- [Introduction to Docker for Javascript Developers &lpar;feat Node.js and PostgreSQL&rpar;](https://www.reddit.com/r/javascript/comments/rmia9m/introduction_to_docker_for_javascript_developers/)
-- [Advanced Promises in Javascript &lpar;Dataloader Pattern&rpar; - Mike Alche](https://www.reddit.com/r/javascript/comments/rmd6ee/advanced_promises_in_javascript_dataloader/)
-- [GitHub - matiasvlevi/Dann: Deep Neural Network Library for JavaScript.](https://www.reddit.com/r/javascript/comments/rmc8td/github_matiasvlevidann_deep_neural_network/)
-- [ESLint plugin for Storybook](https://www.reddit.com/r/javascript/comments/rmbon4/eslint_plugin_for_storybook/)
-- [A lightweight Web IDE UI framework built with React.js](https://www.reddit.com/r/javascript/comments/rm3y12/a_lightweight_web_ide_ui_framework_built_with/)
-- [[AskJS] Paid open-source JS solutions?](https://www.reddit.com/r/javascript/comments/rm2no8/askjs_paid_opensource_js_solutions/)
-- [MySQL with TypeScript](https://www.reddit.com/r/javascript/comments/rm2aa4/mysql_with_typescript/)
-- [[AskJS] Javascript methodology/library/pattern for plain HTML Design System components](https://www.reddit.com/r/javascript/comments/rm29z2/askjs_javascript_methodologylibrarypattern_for/)
-- [WTF Wednesday &lpar;December 22, 2021&rpar;](https://www.reddit.com/r/javascript/comments/rm0cq6/wtf_wednesday_december_22_2021/)
+- [[AskJS] Suggestion needed for interview](https://www.reddit.com/r/javascript/comments/rn5cyb/askjs_suggestion_needed_for_interview/)
+- [[AskJS] Is There Some Way to Lazy Evaluate Arrays in JavaScript?](https://www.reddit.com/r/javascript/comments/rmzg5x/askjs_is_there_some_way_to_lazy_evaluate_arrays/)
+- [WebPack in a Post-it](https://www.reddit.com/r/javascript/comments/rmzc9x/webpack_in_a_postit/)
+- [Share files peer to peer with webRTC and socket.io](https://www.reddit.com/r/javascript/comments/rmyd7f/share_files_peer_to_peer_with_webrtc_and_socketio/)
+- [What&#39;s new in ES2021 or ES12?](https://www.reddit.com/r/javascript/comments/rmw933/whats_new_in_es2021_or_es12/)
+- [[AskJS] Getting info from Leaflet JS popup?](https://www.reddit.com/r/javascript/comments/rmvxhc/askjs_getting_info_from_leaflet_js_popup/)
+- [Explanation on Shallow copy, Deep copy in JavaScript or TypeScript using structuredClone](https://www.reddit.com/r/javascript/comments/rmut4f/explanation_on_shallow_copy_deep_copy_in/)
+- [Is there any website for JS like Automate Boring Stuff with Python?](https://www.reddit.com/r/javascript/comments/rmt1n4/is_there_any_website_for_js_like_automate_boring/)
+- [The Browser Rendering Cycle, Hardware Acceleration &amp; Compositor Layers](https://www.reddit.com/r/javascript/comments/rmqq1f/the_browser_rendering_cycle_hardware_acceleration/)
+- [Master Classes In Typescript](https://www.reddit.com/r/javascript/comments/rmqh5f/master_classes_in_typescript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
