@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Suggestion needed for interview](https://www.reddit.com/r/javascript/comments/rn5cyb/askjs_suggestion_needed_for_interview/)
+- [[AskJS] Do you wish JavaScript would gain some aspects of TypeScript?](https://www.reddit.com/r/javascript/comments/rnyi5c/askjs_do_you_wish_javascript_would_gain_some/)
+- [[AskJS] How did you learn Javascript?](https://www.reddit.com/r/javascript/comments/rntudt/askjs_how_did_you_learn_javascript/)
+- [[AskJS] Some advice on web scraping with Javascript.](https://www.reddit.com/r/javascript/comments/rntu5c/askjs_some_advice_on_web_scraping_with_javascript/)
+- [Adding a React Components Package to a Monorepo](https://www.reddit.com/r/javascript/comments/rnkgez/adding_a_react_components_package_to_a_monorepo/)
+- [[AskJS] Best open source JavaScript WebRTC SFU I have found, what do you think ?](https://www.reddit.com/r/javascript/comments/rnjkrj/askjs_best_open_source_javascript_webrtc_sfu_i/)
+- [Navigation in React Router 6](https://www.reddit.com/r/javascript/comments/rneysb/navigation_in_react_router_6/)
 - [[AskJS] Is There Some Way to Lazy Evaluate Arrays in JavaScript?](https://www.reddit.com/r/javascript/comments/rmzg5x/askjs_is_there_some_way_to_lazy_evaluate_arrays/)
 - [WebPack in a Post-it](https://www.reddit.com/r/javascript/comments/rmzc9x/webpack_in_a_postit/)
-- [Share files peer to peer with webRTC and socket.io](https://www.reddit.com/r/javascript/comments/rmyd7f/share_files_peer_to_peer_with_webrtc_and_socketio/)
 - [What&#39;s new in ES2021 or ES12?](https://www.reddit.com/r/javascript/comments/rmw933/whats_new_in_es2021_or_es12/)
 - [[AskJS] Getting info from Leaflet JS popup?](https://www.reddit.com/r/javascript/comments/rmvxhc/askjs_getting_info_from_leaflet_js_popup/)
-- [Explanation on Shallow copy, Deep copy in JavaScript or TypeScript using structuredClone](https://www.reddit.com/r/javascript/comments/rmut4f/explanation_on_shallow_copy_deep_copy_in/)
-- [Is there any website for JS like Automate Boring Stuff with Python?](https://www.reddit.com/r/javascript/comments/rmt1n4/is_there_any_website_for_js_like_automate_boring/)
-- [The Browser Rendering Cycle, Hardware Acceleration &amp; Compositor Layers](https://www.reddit.com/r/javascript/comments/rmqq1f/the_browser_rendering_cycle_hardware_acceleration/)
-- [Master Classes In Typescript](https://www.reddit.com/r/javascript/comments/rmqh5f/master_classes_in_typescript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
