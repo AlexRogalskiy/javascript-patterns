@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [GitHub is finally improving its search experience](https://www.reddit.com/r/javascript/comments/roj9cz/github_is_finally_improving_its_search_experience/)
+- [[AskJS] Legacy JS question with Interner Explorer](https://www.reddit.com/r/javascript/comments/rof806/askjs_legacy_js_question_with_interner_explorer/)
+- [Shifty The fastest JavaScript animation engine on the web](https://www.reddit.com/r/javascript/comments/ro6cjf/shifty_the_fastest_javascript_animation_engine_on/)
+- [Showoff Saturday &lpar;December 25, 2021&rpar;](https://www.reddit.com/r/javascript/comments/ro5g6e/showoff_saturday_december_25_2021/)
 - [[AskJS] Do you wish JavaScript would gain some aspects of TypeScript?](https://www.reddit.com/r/javascript/comments/rnyi5c/askjs_do_you_wish_javascript_would_gain_some/)
 - [[AskJS] How did you learn Javascript?](https://www.reddit.com/r/javascript/comments/rntudt/askjs_how_did_you_learn_javascript/)
 - [[AskJS] Some advice on web scraping with Javascript.](https://www.reddit.com/r/javascript/comments/rntu5c/askjs_some_advice_on_web_scraping_with_javascript/)
 - [Adding a React Components Package to a Monorepo](https://www.reddit.com/r/javascript/comments/rnkgez/adding_a_react_components_package_to_a_monorepo/)
 - [[AskJS] Best open source JavaScript WebRTC SFU I have found, what do you think ?](https://www.reddit.com/r/javascript/comments/rnjkrj/askjs_best_open_source_javascript_webrtc_sfu_i/)
 - [Navigation in React Router 6](https://www.reddit.com/r/javascript/comments/rneysb/navigation_in_react_router_6/)
-- [[AskJS] Is There Some Way to Lazy Evaluate Arrays in JavaScript?](https://www.reddit.com/r/javascript/comments/rmzg5x/askjs_is_there_some_way_to_lazy_evaluate_arrays/)
-- [WebPack in a Post-it](https://www.reddit.com/r/javascript/comments/rmzc9x/webpack_in_a_postit/)
-- [What&#39;s new in ES2021 or ES12?](https://www.reddit.com/r/javascript/comments/rmw933/whats_new_in_es2021_or_es12/)
-- [[AskJS] Getting info from Leaflet JS popup?](https://www.reddit.com/r/javascript/comments/rmvxhc/askjs_getting_info_from_leaflet_js_popup/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
