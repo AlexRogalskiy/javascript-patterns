@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [GitHub is finally improving its search experience](https://www.reddit.com/r/javascript/comments/roj9cz/github_is_finally_improving_its_search_experience/)
+- [9 Projects you can do to become a Frontend Master](https://www.reddit.com/r/javascript/comments/rp84v3/9_projects_you_can_do_to_become_a_frontend_master/)
+- [I published my first NPM module today! Chia-javascript is a module for interacting with the Chia coin RPC interface!](https://www.reddit.com/r/javascript/comments/rp7nn8/i_published_my_first_npm_module_today/)
+- [Lessons Learned Achieving 100% Test Coverage](https://www.reddit.com/r/javascript/comments/rp1713/lessons_learned_achieving_100_test_coverage/)
+- [New in Node.js: &quot;node:&quot; protocol imports](https://www.reddit.com/r/javascript/comments/rozsxh/new_in_nodejs_node_protocol_imports/)
+- [[AskJS] I just used @solana/web3.js, and it can make a call to api.devnet.solana.com from Chrome. But how?](https://www.reddit.com/r/javascript/comments/roz91c/askjs_i_just_used_solanaweb3js_and_it_can_make_a/)
 - [[AskJS] Legacy JS question with Interner Explorer](https://www.reddit.com/r/javascript/comments/rof806/askjs_legacy_js_question_with_interner_explorer/)
 - [Shifty The fastest JavaScript animation engine on the web](https://www.reddit.com/r/javascript/comments/ro6cjf/shifty_the_fastest_javascript_animation_engine_on/)
 - [Showoff Saturday &lpar;December 25, 2021&rpar;](https://www.reddit.com/r/javascript/comments/ro5g6e/showoff_saturday_december_25_2021/)
 - [[AskJS] Do you wish JavaScript would gain some aspects of TypeScript?](https://www.reddit.com/r/javascript/comments/rnyi5c/askjs_do_you_wish_javascript_would_gain_some/)
 - [[AskJS] How did you learn Javascript?](https://www.reddit.com/r/javascript/comments/rntudt/askjs_how_did_you_learn_javascript/)
-- [[AskJS] Some advice on web scraping with Javascript.](https://www.reddit.com/r/javascript/comments/rntu5c/askjs_some_advice_on_web_scraping_with_javascript/)
-- [Adding a React Components Package to a Monorepo](https://www.reddit.com/r/javascript/comments/rnkgez/adding_a_react_components_package_to_a_monorepo/)
-- [[AskJS] Best open source JavaScript WebRTC SFU I have found, what do you think ?](https://www.reddit.com/r/javascript/comments/rnjkrj/askjs_best_open_source_javascript_webrtc_sfu_i/)
-- [Navigation in React Router 6](https://www.reddit.com/r/javascript/comments/rneysb/navigation_in_react_router_6/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
