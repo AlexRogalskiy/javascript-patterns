@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[OC] Covid-19 Globe built with React/Node](https://www.reddit.com/r/javascript/comments/rq16go/oc_covid19_globe_built_with_reactnode/)
+- [Cheat sheet arrays](https://www.reddit.com/r/javascript/comments/rpxn50/cheat_sheet_arrays/)
+- [Building a Trivia Quiz App in React](https://www.reddit.com/r/javascript/comments/rpxbmv/building_a_trivia_quiz_app_in_react/)
+- [Best Scripting Language for DevOps](https://www.reddit.com/r/javascript/comments/rpvtnn/best_scripting_language_for_devops/)
+- [An Adobe Scan Clone with Zero Dependencies, 5kB](https://www.reddit.com/r/javascript/comments/rpu8rs/an_adobe_scan_clone_with_zero_dependencies_5kb/)
+- [GitHub - webeetle/react-headless-hooks: Build and design powerful components while retaining 100% control over markup and styles](https://www.reddit.com/r/javascript/comments/rptuao/github_webeetlereactheadlesshooks_build_and/)
+- [Migrating a MEAN AngularJS app to React, Next.js, and TypeScript](https://www.reddit.com/r/javascript/comments/rpsyed/migrating_a_mean_angularjs_app_to_react_nextjs/)
+- [I used my coding skills to help TeamSeas! The game is called &quot;Obliterate Ocean Trash For 2 Minutes&quot;](https://www.reddit.com/r/javascript/comments/rpe4sl/i_used_my_coding_skills_to_help_teamseas_the_game/)
 - [9 Projects you can do to become a Frontend Master](https://www.reddit.com/r/javascript/comments/rp84v3/9_projects_you_can_do_to_become_a_frontend_master/)
 - [I published my first NPM module today! Chia-javascript is a module for interacting with the Chia coin RPC interface!](https://www.reddit.com/r/javascript/comments/rp7nn8/i_published_my_first_npm_module_today/)
-- [Lessons Learned Achieving 100% Test Coverage](https://www.reddit.com/r/javascript/comments/rp1713/lessons_learned_achieving_100_test_coverage/)
-- [New in Node.js: &quot;node:&quot; protocol imports](https://www.reddit.com/r/javascript/comments/rozsxh/new_in_nodejs_node_protocol_imports/)
-- [[AskJS] I just used @solana/web3.js, and it can make a call to api.devnet.solana.com from Chrome. But how?](https://www.reddit.com/r/javascript/comments/roz91c/askjs_i_just_used_solanaweb3js_and_it_can_make_a/)
-- [[AskJS] Legacy JS question with Interner Explorer](https://www.reddit.com/r/javascript/comments/rof806/askjs_legacy_js_question_with_interner_explorer/)
-- [Shifty The fastest JavaScript animation engine on the web](https://www.reddit.com/r/javascript/comments/ro6cjf/shifty_the_fastest_javascript_animation_engine_on/)
-- [Showoff Saturday &lpar;December 25, 2021&rpar;](https://www.reddit.com/r/javascript/comments/ro5g6e/showoff_saturday_december_25_2021/)
-- [[AskJS] Do you wish JavaScript would gain some aspects of TypeScript?](https://www.reddit.com/r/javascript/comments/rnyi5c/askjs_do_you_wish_javascript_would_gain_some/)
-- [[AskJS] How did you learn Javascript?](https://www.reddit.com/r/javascript/comments/rntudt/askjs_how_did_you_learn_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
