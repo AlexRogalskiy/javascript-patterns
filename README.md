@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[OC] Covid-19 Globe built with React/Node](https://www.reddit.com/r/javascript/comments/rq16go/oc_covid19_globe_built_with_reactnode/)
-- [Cheat sheet arrays](https://www.reddit.com/r/javascript/comments/rpxn50/cheat_sheet_arrays/)
-- [Building a Trivia Quiz App in React](https://www.reddit.com/r/javascript/comments/rpxbmv/building_a_trivia_quiz_app_in_react/)
-- [Best Scripting Language for DevOps](https://www.reddit.com/r/javascript/comments/rpvtnn/best_scripting_language_for_devops/)
-- [An Adobe Scan Clone with Zero Dependencies, 5kB](https://www.reddit.com/r/javascript/comments/rpu8rs/an_adobe_scan_clone_with_zero_dependencies_5kb/)
-- [GitHub - webeetle/react-headless-hooks: Build and design powerful components while retaining 100% control over markup and styles](https://www.reddit.com/r/javascript/comments/rptuao/github_webeetlereactheadlesshooks_build_and/)
-- [Migrating a MEAN AngularJS app to React, Next.js, and TypeScript](https://www.reddit.com/r/javascript/comments/rpsyed/migrating_a_mean_angularjs_app_to_react_nextjs/)
-- [I used my coding skills to help TeamSeas! The game is called &quot;Obliterate Ocean Trash For 2 Minutes&quot;](https://www.reddit.com/r/javascript/comments/rpe4sl/i_used_my_coding_skills_to_help_teamseas_the_game/)
-- [9 Projects you can do to become a Frontend Master](https://www.reddit.com/r/javascript/comments/rp84v3/9_projects_you_can_do_to_become_a_frontend_master/)
-- [I published my first NPM module today! Chia-javascript is a module for interacting with the Chia coin RPC interface!](https://www.reddit.com/r/javascript/comments/rp7nn8/i_published_my_first_npm_module_today/)
+- [[AskJS] Is anyone using Monads &lpar;or other advanced functional programming techniques&rpar; in production code? If so, what are you using them for?](https://www.reddit.com/r/javascript/comments/rqv0zu/askjs_is_anyone_using_monads_or_other_advanced/)
+- [Concave: Lens-like state management for React](https://www.reddit.com/r/javascript/comments/rqt42e/concave_lenslike_state_management_for_react/)
+- [[AskJS] Is there a way to block just SOME javascript on a website?](https://www.reddit.com/r/javascript/comments/rqnbsq/askjs_is_there_a_way_to_block_just_some/)
+- [Beyond JSON Performance](https://www.reddit.com/r/javascript/comments/rqlfnn/beyond_json_performance/)
+- [Vitest - Jest Alternative powered by Vite](https://www.reddit.com/r/javascript/comments/rqk9m4/vitest_jest_alternative_powered_by_vite/)
+- [JavaScript Course for Absolute Beginners](https://www.reddit.com/r/javascript/comments/rqk94n/javascript_course_for_absolute_beginners/)
+- [[AskJS] How can I create a new image &lpar;image c&rpar; that is image a overrated on image b?](https://www.reddit.com/r/javascript/comments/rqiq7e/askjs_how_can_i_create_a_new_image_image_c_that/)
+- [10 Important Array Methods In JavaScript Explained](https://www.reddit.com/r/javascript/comments/rqdhkh/10_important_array_methods_in_javascript_explained/)
+- [Is It Time for the JavaScript Temporal API?](https://www.reddit.com/r/javascript/comments/rqckhu/is_it_time_for_the_javascript_temporal_api/)
+- [text-clipper gains ability to strip tags in 2.2.0 release](https://www.reddit.com/r/javascript/comments/rqbfwt/textclipper_gains_ability_to_strip_tags_in_220/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
