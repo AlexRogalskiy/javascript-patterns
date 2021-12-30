@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Is anyone using Monads &lpar;or other advanced functional programming techniques&rpar; in production code? If so, what are you using them for?](https://www.reddit.com/r/javascript/comments/rqv0zu/askjs_is_anyone_using_monads_or_other_advanced/)
-- [Concave: Lens-like state management for React](https://www.reddit.com/r/javascript/comments/rqt42e/concave_lenslike_state_management_for_react/)
-- [[AskJS] Is there a way to block just SOME javascript on a website?](https://www.reddit.com/r/javascript/comments/rqnbsq/askjs_is_there_a_way_to_block_just_some/)
-- [Beyond JSON Performance](https://www.reddit.com/r/javascript/comments/rqlfnn/beyond_json_performance/)
-- [Vitest - Jest Alternative powered by Vite](https://www.reddit.com/r/javascript/comments/rqk9m4/vitest_jest_alternative_powered_by_vite/)
-- [JavaScript Course for Absolute Beginners](https://www.reddit.com/r/javascript/comments/rqk94n/javascript_course_for_absolute_beginners/)
-- [[AskJS] How can I create a new image &lpar;image c&rpar; that is image a overrated on image b?](https://www.reddit.com/r/javascript/comments/rqiq7e/askjs_how_can_i_create_a_new_image_image_c_that/)
-- [10 Important Array Methods In JavaScript Explained](https://www.reddit.com/r/javascript/comments/rqdhkh/10_important_array_methods_in_javascript_explained/)
-- [Is It Time for the JavaScript Temporal API?](https://www.reddit.com/r/javascript/comments/rqckhu/is_it_time_for_the_javascript_temporal_api/)
-- [text-clipper gains ability to strip tags in 2.2.0 release](https://www.reddit.com/r/javascript/comments/rqbfwt/textclipper_gains_ability_to_strip_tags_in_220/)
+- [[AskJS] live server problem overwriting css](https://www.reddit.com/r/javascript/comments/rrog3j/askjs_live_server_problem_overwriting_css/)
+- [[AskJS] Building a Javascript shopping cart project using another codebase as reference. Could someone please check if the reference I am using follows good coding standards?](https://www.reddit.com/r/javascript/comments/rriwoe/askjs_building_a_javascript_shopping_cart_project/)
+- [State of Storybook 2021](https://www.reddit.com/r/javascript/comments/rrgkfe/state_of_storybook_2021/)
+- [Auto-Currying In TypeScript](https://www.reddit.com/r/javascript/comments/rrepdt/autocurrying_in_typescript/)
+- [40 Hour FREE course on Web Development](https://www.reddit.com/r/javascript/comments/rrcp9p/40_hour_free_course_on_web_development/)
+- [Kafka Test Helper 1.0.0 is out. This library will help you writing integration tests that involves Apache Kafka.](https://www.reddit.com/r/javascript/comments/rrb9uh/kafka_test_helper_100_is_out_this_library_will/)
+- [[AskJS] Is there a keyboard handling JS library that can handle both &quot;f&quot; and &quot;f a&quot;?](https://www.reddit.com/r/javascript/comments/rra0am/askjs_is_there_a_keyboard_handling_js_library/)
+- [Indexing Strings in Rust and TypeScript: A Case Study of String](https://www.reddit.com/r/javascript/comments/rr8q8n/indexing_strings_in_rust_and_typescript_a_case/)
+- [[AskJS] How to easily setup a fullstack react and react-native project in 8 minutes?](https://www.reddit.com/r/javascript/comments/rr64ly/askjs_how_to_easily_setup_a_fullstack_react_and/)
+- [Algorithm Visualization: Maze Generation and Solution](https://www.reddit.com/r/javascript/comments/rr3vpt/algorithm_visualization_maze_generation_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
