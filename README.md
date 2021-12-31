@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] live server problem overwriting css](https://www.reddit.com/r/javascript/comments/rrog3j/askjs_live_server_problem_overwriting_css/)
-- [[AskJS] Building a Javascript shopping cart project using another codebase as reference. Could someone please check if the reference I am using follows good coding standards?](https://www.reddit.com/r/javascript/comments/rriwoe/askjs_building_a_javascript_shopping_cart_project/)
+- [Getting started with gatsby cloud](https://www.reddit.com/r/javascript/comments/rsf03j/getting_started_with_gatsby_cloud/)
+- [ES2022 Preview: 10 Exciting JavaScript Language Features From 2021](https://www.reddit.com/r/javascript/comments/rscdgu/es2022_preview_10_exciting_javascript_language/)
+- [Meet the new hook useSyncExternalStore, introduced in React 18 for external stores](https://www.reddit.com/r/javascript/comments/rs7ono/meet_the_new_hook_usesyncexternalstore_introduced/)
+- [Import Contacts from HubSpot to Salesforce with JavaScript](https://www.reddit.com/r/javascript/comments/rs6iz5/import_contacts_from_hubspot_to_salesforce_with/)
+- [Hacks Decoded: Sara Soueidan, Award-Winning UI Design Engineer and Author](https://www.reddit.com/r/javascript/comments/rs65jx/hacks_decoded_sara_soueidan_awardwinning_ui/)
+- [How to decide among advanced React patterns?](https://www.reddit.com/r/javascript/comments/rs5oef/how_to_decide_among_advanced_react_patterns/)
+- [[AskJS] Recommendations for batteries included frameworks, where things &quot;just work&quot;?](https://www.reddit.com/r/javascript/comments/rs3tgc/askjs_recommendations_for_batteries_included/)
+- [Build a fantasy CPU emulator in JavaScript](https://www.reddit.com/r/javascript/comments/rrt7l0/build_a_fantasy_cpu_emulator_in_javascript/)
 - [State of Storybook 2021](https://www.reddit.com/r/javascript/comments/rrgkfe/state_of_storybook_2021/)
 - [Auto-Currying In TypeScript](https://www.reddit.com/r/javascript/comments/rrepdt/autocurrying_in_typescript/)
-- [40 Hour FREE course on Web Development](https://www.reddit.com/r/javascript/comments/rrcp9p/40_hour_free_course_on_web_development/)
-- [Kafka Test Helper 1.0.0 is out. This library will help you writing integration tests that involves Apache Kafka.](https://www.reddit.com/r/javascript/comments/rrb9uh/kafka_test_helper_100_is_out_this_library_will/)
-- [[AskJS] Is there a keyboard handling JS library that can handle both &quot;f&quot; and &quot;f a&quot;?](https://www.reddit.com/r/javascript/comments/rra0am/askjs_is_there_a_keyboard_handling_js_library/)
-- [Indexing Strings in Rust and TypeScript: A Case Study of String](https://www.reddit.com/r/javascript/comments/rr8q8n/indexing_strings_in_rust_and_typescript_a_case/)
-- [[AskJS] How to easily setup a fullstack react and react-native project in 8 minutes?](https://www.reddit.com/r/javascript/comments/rr64ly/askjs_how_to_easily_setup_a_fullstack_react_and/)
-- [Algorithm Visualization: Maze Generation and Solution](https://www.reddit.com/r/javascript/comments/rr3vpt/algorithm_visualization_maze_generation_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
