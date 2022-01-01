@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Getting started with gatsby cloud](https://www.reddit.com/r/javascript/comments/rsf03j/getting_started_with_gatsby_cloud/)
-- [ES2022 Preview: 10 Exciting JavaScript Language Features From 2021](https://www.reddit.com/r/javascript/comments/rscdgu/es2022_preview_10_exciting_javascript_language/)
-- [Meet the new hook useSyncExternalStore, introduced in React 18 for external stores](https://www.reddit.com/r/javascript/comments/rs7ono/meet_the_new_hook_usesyncexternalstore_introduced/)
-- [Import Contacts from HubSpot to Salesforce with JavaScript](https://www.reddit.com/r/javascript/comments/rs6iz5/import_contacts_from_hubspot_to_salesforce_with/)
-- [Hacks Decoded: Sara Soueidan, Award-Winning UI Design Engineer and Author](https://www.reddit.com/r/javascript/comments/rs65jx/hacks_decoded_sara_soueidan_awardwinning_ui/)
-- [How to decide among advanced React patterns?](https://www.reddit.com/r/javascript/comments/rs5oef/how_to_decide_among_advanced_react_patterns/)
-- [[AskJS] Recommendations for batteries included frameworks, where things &quot;just work&quot;?](https://www.reddit.com/r/javascript/comments/rs3tgc/askjs_recommendations_for_batteries_included/)
-- [Build a fantasy CPU emulator in JavaScript](https://www.reddit.com/r/javascript/comments/rrt7l0/build_a_fantasy_cpu_emulator_in_javascript/)
-- [State of Storybook 2021](https://www.reddit.com/r/javascript/comments/rrgkfe/state_of_storybook_2021/)
-- [Auto-Currying In TypeScript](https://www.reddit.com/r/javascript/comments/rrepdt/autocurrying_in_typescript/)
+- [Fellow humans, it is 2022-01-01T00:00:00+00:00.](https://www.reddit.com/r/javascript/comments/rt6opf/fellow_humans_it_is_20220101t0000000000/)
+- [[AskJS] A javascript poem. Happy New Year 2022!](https://www.reddit.com/r/javascript/comments/rt1sep/askjs_a_javascript_poem_happy_new_year_2022/)
+- [[AskJS] What do JAM-Stack type people do for scheduled jobs?](https://www.reddit.com/r/javascript/comments/rt0ksg/askjs_what_do_jamstack_type_people_do_for/)
+- [Finally a State Management &lpar;in React&rpar; for Dummies](https://www.reddit.com/r/javascript/comments/rt08sa/finally_a_state_management_in_react_for_dummies/)
+- [[AskJS] Open source express app to go through code for learning.](https://www.reddit.com/r/javascript/comments/rsxhbr/askjs_open_source_express_app_to_go_through_code/)
+- [[AskJS] How many of you like JavaScript and TypeScript?](https://www.reddit.com/r/javascript/comments/rsvcev/askjs_how_many_of_you_like_javascript_and/)
+- [Any good advice about deployment good practices?](https://www.reddit.com/r/javascript/comments/rsto9c/any_good_advice_about_deployment_good_practices/)
+- [Aggregating Unit Test Coverage for All Monorepo’s Packages](https://www.reddit.com/r/javascript/comments/rst30y/aggregating_unit_test_coverage_for_all_monorepos/)
+- [On Developer Experience](https://www.reddit.com/r/javascript/comments/rss38z/on_developer_experience/)
+- [Sciter uses JavaScript from now and on](https://www.reddit.com/r/javascript/comments/rsro8j/sciter_uses_javascript_from_now_and_on/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
