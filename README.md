@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [GitHub - tecoholic/TreebankTokenizer: JavaScript Port of the Python NLTK Treebank Tokenizer](https://www.reddit.com/r/javascript/comments/rtt806/github_tecoholictreebanktokenizer_javascript_port/)
+- [AgnosticUI a React, Vue 3, Svelte, and Angular UI Library](https://www.reddit.com/r/javascript/comments/rts5gk/agnosticui_a_react_vue_3_svelte_and_angular_ui/)
+- [[AskJS] Queue as a synchronization primitive in javascript?](https://www.reddit.com/r/javascript/comments/rtp8qx/askjs_queue_as_a_synchronization_primitive_in/)
+- [[AskJS] How to develop android apps with javascript?](https://www.reddit.com/r/javascript/comments/rtmf3b/askjs_how_to_develop_android_apps_with_javascript/)
+- [chrome-extension which provides information about node packages, whenever you select the package name using mouse](https://www.reddit.com/r/javascript/comments/rtlvb7/chromeextension_which_provides_information_about/)
+- [[AskJS] do you think JS can hurt you &lpar;emotionally&rpar;](https://www.reddit.com/r/javascript/comments/rtl9sg/askjs_do_you_think_js_can_hurt_you_emotionally/)
+- [New year&#39;s release: neo.mjs v3.0.1 =&gt; application worker based multithreading frontends](https://www.reddit.com/r/javascript/comments/rtj2pk/new_years_release_neomjs_v301_application_worker/)
+- [Showoff Saturday &lpar;January 01, 2022&rpar;](https://www.reddit.com/r/javascript/comments/rtepty/showoff_saturday_january_01_2022/)
 - [Fellow humans, it is 2022-01-01T00:00:00+00:00.](https://www.reddit.com/r/javascript/comments/rt6opf/fellow_humans_it_is_20220101t0000000000/)
 - [[AskJS] A javascript poem. Happy New Year 2022!](https://www.reddit.com/r/javascript/comments/rt1sep/askjs_a_javascript_poem_happy_new_year_2022/)
-- [[AskJS] What do JAM-Stack type people do for scheduled jobs?](https://www.reddit.com/r/javascript/comments/rt0ksg/askjs_what_do_jamstack_type_people_do_for/)
-- [Finally a State Management &lpar;in React&rpar; for Dummies](https://www.reddit.com/r/javascript/comments/rt08sa/finally_a_state_management_in_react_for_dummies/)
-- [[AskJS] Open source express app to go through code for learning.](https://www.reddit.com/r/javascript/comments/rsxhbr/askjs_open_source_express_app_to_go_through_code/)
-- [[AskJS] How many of you like JavaScript and TypeScript?](https://www.reddit.com/r/javascript/comments/rsvcev/askjs_how_many_of_you_like_javascript_and/)
-- [Any good advice about deployment good practices?](https://www.reddit.com/r/javascript/comments/rsto9c/any_good_advice_about_deployment_good_practices/)
-- [Aggregating Unit Test Coverage for All Monorepo’s Packages](https://www.reddit.com/r/javascript/comments/rst30y/aggregating_unit_test_coverage_for_all_monorepos/)
-- [On Developer Experience](https://www.reddit.com/r/javascript/comments/rss38z/on_developer_experience/)
-- [Sciter uses JavaScript from now and on](https://www.reddit.com/r/javascript/comments/rsro8j/sciter_uses_javascript_from_now_and_on/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
