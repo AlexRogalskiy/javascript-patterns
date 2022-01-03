@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [GitHub - tecoholic/TreebankTokenizer: JavaScript Port of the Python NLTK Treebank Tokenizer](https://www.reddit.com/r/javascript/comments/rtt806/github_tecoholictreebanktokenizer_javascript_port/)
-- [AgnosticUI a React, Vue 3, Svelte, and Angular UI Library](https://www.reddit.com/r/javascript/comments/rts5gk/agnosticui_a_react_vue_3_svelte_and_angular_ui/)
-- [[AskJS] Queue as a synchronization primitive in javascript?](https://www.reddit.com/r/javascript/comments/rtp8qx/askjs_queue_as_a_synchronization_primitive_in/)
-- [[AskJS] How to develop android apps with javascript?](https://www.reddit.com/r/javascript/comments/rtmf3b/askjs_how_to_develop_android_apps_with_javascript/)
-- [chrome-extension which provides information about node packages, whenever you select the package name using mouse](https://www.reddit.com/r/javascript/comments/rtlvb7/chromeextension_which_provides_information_about/)
-- [[AskJS] do you think JS can hurt you &lpar;emotionally&rpar;](https://www.reddit.com/r/javascript/comments/rtl9sg/askjs_do_you_think_js_can_hurt_you_emotionally/)
-- [New year&#39;s release: neo.mjs v3.0.1 =&gt; application worker based multithreading frontends](https://www.reddit.com/r/javascript/comments/rtj2pk/new_years_release_neomjs_v301_application_worker/)
-- [Showoff Saturday &lpar;January 01, 2022&rpar;](https://www.reddit.com/r/javascript/comments/rtepty/showoff_saturday_january_01_2022/)
-- [Fellow humans, it is 2022-01-01T00:00:00+00:00.](https://www.reddit.com/r/javascript/comments/rt6opf/fellow_humans_it_is_20220101t0000000000/)
-- [[AskJS] A javascript poem. Happy New Year 2022!](https://www.reddit.com/r/javascript/comments/rt1sep/askjs_a_javascript_poem_happy_new_year_2022/)
+- [Streaming files from AWS S3 using NodeJS Stream API with Typescript](https://www.reddit.com/r/javascript/comments/rupw7b/streaming_files_from_aws_s3_using_nodejs_stream/)
+- [Vecti, a tiny library for 2D vector math](https://www.reddit.com/r/javascript/comments/rumcxx/vecti_a_tiny_library_for_2d_vector_math/)
+- [[AskJS] What JavaScript newsletters can you recommend?](https://www.reddit.com/r/javascript/comments/ruigm9/askjs_what_javascript_newsletters_can_you/)
+- [[AskJS] Is it possible to have contextual data for a async/promise chain &lpar;aka: fiber or “thread”&rpar;?](https://www.reddit.com/r/javascript/comments/rui48b/askjs_is_it_possible_to_have_contextual_data_for/)
+- [[AskJS] Change a JPanel to an other one inside a JFrame](https://www.reddit.com/r/javascript/comments/ruhdjn/askjs_change_a_jpanel_to_an_other_one_inside_a/)
+- [A real-world React app for creating custom meal plans and exporting them to PDFs](https://www.reddit.com/r/javascript/comments/rue8h8/a_realworld_react_app_for_creating_custom_meal/)
+- [String Art Studio done with VanillaJS](https://www.reddit.com/r/javascript/comments/rubx3j/string_art_studio_done_with_vanillajs/)
+- [[AskJS] What is the difference between Lerna, Nx, Changesets?](https://www.reddit.com/r/javascript/comments/ruad3r/askjs_what_is_the_difference_between_lerna_nx/)
+- [GitHub-Contribution-Graph: an awesome tool for dynamically generated contribution graphs that show your GitHub contributions for the last n days.](https://www.reddit.com/r/javascript/comments/ru5k71/githubcontributiongraph_an_awesome_tool_for/)
+- [[AskJS] Is it faster to pass an object with possibly unused keys to a function in V8 due to shape caching?](https://www.reddit.com/r/javascript/comments/ru4b4u/askjs_is_it_faster_to_pass_an_object_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
