@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Streaming files from AWS S3 using NodeJS Stream API with Typescript](https://www.reddit.com/r/javascript/comments/rupw7b/streaming_files_from_aws_s3_using_nodejs_stream/)
-- [Vecti, a tiny library for 2D vector math](https://www.reddit.com/r/javascript/comments/rumcxx/vecti_a_tiny_library_for_2d_vector_math/)
-- [[AskJS] What JavaScript newsletters can you recommend?](https://www.reddit.com/r/javascript/comments/ruigm9/askjs_what_javascript_newsletters_can_you/)
-- [[AskJS] Is it possible to have contextual data for a async/promise chain &lpar;aka: fiber or “thread”&rpar;?](https://www.reddit.com/r/javascript/comments/rui48b/askjs_is_it_possible_to_have_contextual_data_for/)
-- [[AskJS] Change a JPanel to an other one inside a JFrame](https://www.reddit.com/r/javascript/comments/ruhdjn/askjs_change_a_jpanel_to_an_other_one_inside_a/)
-- [A real-world React app for creating custom meal plans and exporting them to PDFs](https://www.reddit.com/r/javascript/comments/rue8h8/a_realworld_react_app_for_creating_custom_meal/)
-- [String Art Studio done with VanillaJS](https://www.reddit.com/r/javascript/comments/rubx3j/string_art_studio_done_with_vanillajs/)
-- [[AskJS] What is the difference between Lerna, Nx, Changesets?](https://www.reddit.com/r/javascript/comments/ruad3r/askjs_what_is_the_difference_between_lerna_nx/)
-- [GitHub-Contribution-Graph: an awesome tool for dynamically generated contribution graphs that show your GitHub contributions for the last n days.](https://www.reddit.com/r/javascript/comments/ru5k71/githubcontributiongraph_an_awesome_tool_for/)
-- [[AskJS] Is it faster to pass an object with possibly unused keys to a function in V8 due to shape caching?](https://www.reddit.com/r/javascript/comments/ru4b4u/askjs_is_it_faster_to_pass_an_object_with/)
+- [Frank Force - Generative Art - My new portfolio site is a JavaScript faux operating system](https://www.reddit.com/r/javascript/comments/rvf5d4/frank_force_generative_art_my_new_portfolio_site/)
+- [Solaire - A lightweight framework with a simple interface for creating Discord bots](https://www.reddit.com/r/javascript/comments/rvek8b/solaire_a_lightweight_framework_with_a_simple/)
+- [The Fallacy of Async/Await](https://www.reddit.com/r/javascript/comments/rvdkfd/the_fallacy_of_asyncawait/)
+- [OS.js - an open-source JavaScript web desktop platform with a window manager, application APIs, GUI toolkit, filesystem abstractions and much more](https://www.reddit.com/r/javascript/comments/rvcuui/osjs_an_opensource_javascript_web_desktop/)
+- [Mutation-like immutability in JavaScript using immer.js](https://www.reddit.com/r/javascript/comments/rvcon4/mutationlike_immutability_in_javascript_using/)
+- [[AskJS] Can i read an object&#39;s value expression without evaluating it?](https://www.reddit.com/r/javascript/comments/rvaeam/askjs_can_i_read_an_objects_value_expression/)
+- [[AskJS] Do you also spend more time configuring tooling and resolving package problems than actually working?](https://www.reddit.com/r/javascript/comments/rv8wks/askjs_do_you_also_spend_more_time_configuring/)
+- [[AskJS] Need some advice on rewriting complex application with microservice architecture into a single application](https://www.reddit.com/r/javascript/comments/rv66mc/askjs_need_some_advice_on_rewriting_complex/)
+- [Library for visualization of interactive, directed graphs](https://www.reddit.com/r/javascript/comments/rv56ac/library_for_visualization_of_interactive_directed/)
+- [[AskJS] Microfrontend with React using single-spa](https://www.reddit.com/r/javascript/comments/rv52tz/askjs_microfrontend_with_react_using_singlespa/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
