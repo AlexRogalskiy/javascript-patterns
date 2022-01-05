@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The Hough Transform: Building a 5kB, Zero-Dependency Document Scanner](https://www.reddit.com/r/javascript/comments/rw84na/the_hough_transform_building_a_5kb_zerodependency/)
+- [JavaScript Rising Stars in 2021](https://www.reddit.com/r/javascript/comments/rw71ie/javascript_rising_stars_in_2021/)
+- [TC39er podcast: Justin Ridgwell](https://www.reddit.com/r/javascript/comments/rw0o3r/tc39er_podcast_justin_ridgwell/)
+- [How can I open this exe file and make changes and save it? I came here because this file was written in javascript. I don&#39;t know anything about programming, but I can apply what you say.](https://www.reddit.com/r/javascript/comments/rvyftx/how_can_i_open_this_exe_file_and_make_changes_and/)
+- [[AskJS] Count specific input value in Acrobat form](https://www.reddit.com/r/javascript/comments/rvr0ne/askjs_count_specific_input_value_in_acrobat_form/)
+- [Ruby vs JavaScript](https://www.reddit.com/r/javascript/comments/rvk3q0/ruby_vs_javascript/)
 - [Frank Force - Generative Art - My new portfolio site is a JavaScript faux operating system](https://www.reddit.com/r/javascript/comments/rvf5d4/frank_force_generative_art_my_new_portfolio_site/)
 - [Solaire - A lightweight framework with a simple interface for creating Discord bots](https://www.reddit.com/r/javascript/comments/rvek8b/solaire_a_lightweight_framework_with_a_simple/)
-- [The Fallacy of Async/Await](https://www.reddit.com/r/javascript/comments/rvdkfd/the_fallacy_of_asyncawait/)
 - [OS.js - an open-source JavaScript web desktop platform with a window manager, application APIs, GUI toolkit, filesystem abstractions and much more](https://www.reddit.com/r/javascript/comments/rvcuui/osjs_an_opensource_javascript_web_desktop/)
 - [Mutation-like immutability in JavaScript using immer.js](https://www.reddit.com/r/javascript/comments/rvcon4/mutationlike_immutability_in_javascript_using/)
-- [[AskJS] Can i read an object&#39;s value expression without evaluating it?](https://www.reddit.com/r/javascript/comments/rvaeam/askjs_can_i_read_an_objects_value_expression/)
-- [[AskJS] Do you also spend more time configuring tooling and resolving package problems than actually working?](https://www.reddit.com/r/javascript/comments/rv8wks/askjs_do_you_also_spend_more_time_configuring/)
-- [[AskJS] Need some advice on rewriting complex application with microservice architecture into a single application](https://www.reddit.com/r/javascript/comments/rv66mc/askjs_need_some_advice_on_rewriting_complex/)
-- [Library for visualization of interactive, directed graphs](https://www.reddit.com/r/javascript/comments/rv56ac/library_for_visualization_of_interactive_directed/)
-- [[AskJS] Microfrontend with React using single-spa](https://www.reddit.com/r/javascript/comments/rv52tz/askjs_microfrontend_with_react_using_singlespa/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
