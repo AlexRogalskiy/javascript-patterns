@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [The Hough Transform: Building a 5kB, Zero-Dependency Document Scanner](https://www.reddit.com/r/javascript/comments/rw84na/the_hough_transform_building_a_5kb_zerodependency/)
-- [JavaScript Rising Stars in 2021](https://www.reddit.com/r/javascript/comments/rw71ie/javascript_rising_stars_in_2021/)
-- [TC39er podcast: Justin Ridgwell](https://www.reddit.com/r/javascript/comments/rw0o3r/tc39er_podcast_justin_ridgwell/)
-- [How can I open this exe file and make changes and save it? I came here because this file was written in javascript. I don&#39;t know anything about programming, but I can apply what you say.](https://www.reddit.com/r/javascript/comments/rvyftx/how_can_i_open_this_exe_file_and_make_changes_and/)
-- [[AskJS] Count specific input value in Acrobat form](https://www.reddit.com/r/javascript/comments/rvr0ne/askjs_count_specific_input_value_in_acrobat_form/)
-- [Ruby vs JavaScript](https://www.reddit.com/r/javascript/comments/rvk3q0/ruby_vs_javascript/)
-- [Frank Force - Generative Art - My new portfolio site is a JavaScript faux operating system](https://www.reddit.com/r/javascript/comments/rvf5d4/frank_force_generative_art_my_new_portfolio_site/)
-- [Solaire - A lightweight framework with a simple interface for creating Discord bots](https://www.reddit.com/r/javascript/comments/rvek8b/solaire_a_lightweight_framework_with_a_simple/)
-- [OS.js - an open-source JavaScript web desktop platform with a window manager, application APIs, GUI toolkit, filesystem abstractions and much more](https://www.reddit.com/r/javascript/comments/rvcuui/osjs_an_opensource_javascript_web_desktop/)
-- [Mutation-like immutability in JavaScript using immer.js](https://www.reddit.com/r/javascript/comments/rvcon4/mutationlike_immutability_in_javascript_using/)
+- [tsParticles 1.38.0 Released](https://www.reddit.com/r/javascript/comments/rwyz3s/tsparticles_1380_released/)
+- [Design integrations for Storybook](https://www.reddit.com/r/javascript/comments/rwv16v/design_integrations_for_storybook/)
+- [How to Generate PDFs with NodeJS and React PDF](https://www.reddit.com/r/javascript/comments/rws832/how_to_generate_pdfs_with_nodejs_and_react_pdf/)
+- [After 1 YEAR of hard work my NEW Ultimate Web Desktop Environment is ready for launch!!!!!](https://www.reddit.com/r/javascript/comments/rws27k/after_1_year_of_hard_work_my_new_ultimate_web/)
+- [Copy-Paste hack using plain JS. Pay attention if you are a developer!](https://www.reddit.com/r/javascript/comments/rwr3ht/copypaste_hack_using_plain_js_pay_attention_if/)
+- [5 cross-browser testing tools to try today](https://www.reddit.com/r/javascript/comments/rwqacm/5_crossbrowser_testing_tools_to_try_today/)
+- [Building a decoder for the QOI lossless image compression format](https://www.reddit.com/r/javascript/comments/rwp7or/building_a_decoder_for_the_qoi_lossless_image/)
+- [StructuredClone&lpar;&rpar; - new javascript method to clone objects](https://www.reddit.com/r/javascript/comments/rwp3mi/structuredclone_new_javascript_method_to_clone/)
+- [Santa&#39;s Letters: A fun Christmas 2D game written in typescript](https://www.reddit.com/r/javascript/comments/rwomzb/santas_letters_a_fun_christmas_2d_game_written_in/)
+- [Free online: ES2022 edition of “JS for impatient programmers” [show reddit]](https://www.reddit.com/r/javascript/comments/rwnmci/free_online_es2022_edition_of_js_for_impatient/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
