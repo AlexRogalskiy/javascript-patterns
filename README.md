@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Faker.JS is dead. I created &quot;BluffMaster&quot;](https://www.reddit.com/r/javascript/comments/rxlue8/fakerjs_is_dead_i_created_bluffmaster/)
+- [Analyzing large JSON files via partial JSON parsing](https://www.reddit.com/r/javascript/comments/rxjco3/analyzing_large_json_files_via_partial_json/)
+- [Somebody wrote a question on HN: Why is Node.js hated so much? Interesting answers, what do you think?](https://www.reddit.com/r/javascript/comments/rxi2vy/somebody_wrote_a_question_on_hn_why_is_nodejs/)
+- [[AskJS] Would anyone help revive faker.js?](https://www.reddit.com/r/javascript/comments/rxh9wq/askjs_would_anyone_help_revive_fakerjs/)
+- [Creating an equalizer plugin using Elementary and ReactJS](https://www.reddit.com/r/javascript/comments/rxgtkw/creating_an_equalizer_plugin_using_elementary_and/)
+- [[AskJS] Help - Data Labels with Polar Area Charts.](https://www.reddit.com/r/javascript/comments/rxek7m/askjs_help_data_labels_with_polar_area_charts/)
+- [How I write backends as a frontend](https://www.reddit.com/r/javascript/comments/rxbv41/how_i_write_backends_as_a_frontend/)
+- [An observable Database for the Web](https://www.reddit.com/r/javascript/comments/rx9fpl/an_observable_database_for_the_web/)
+- [Introducing Metho: Safely adding superpowers to JS](https://www.reddit.com/r/javascript/comments/rx7byh/introducing_metho_safely_adding_superpowers_to_js/)
 - [tsParticles 1.38.0 Released](https://www.reddit.com/r/javascript/comments/rwyz3s/tsparticles_1380_released/)
-- [Design integrations for Storybook](https://www.reddit.com/r/javascript/comments/rwv16v/design_integrations_for_storybook/)
-- [How to Generate PDFs with NodeJS and React PDF](https://www.reddit.com/r/javascript/comments/rws832/how_to_generate_pdfs_with_nodejs_and_react_pdf/)
-- [After 1 YEAR of hard work my NEW Ultimate Web Desktop Environment is ready for launch!!!!!](https://www.reddit.com/r/javascript/comments/rws27k/after_1_year_of_hard_work_my_new_ultimate_web/)
-- [Copy-Paste hack using plain JS. Pay attention if you are a developer!](https://www.reddit.com/r/javascript/comments/rwr3ht/copypaste_hack_using_plain_js_pay_attention_if/)
-- [5 cross-browser testing tools to try today](https://www.reddit.com/r/javascript/comments/rwqacm/5_crossbrowser_testing_tools_to_try_today/)
-- [Building a decoder for the QOI lossless image compression format](https://www.reddit.com/r/javascript/comments/rwp7or/building_a_decoder_for_the_qoi_lossless_image/)
-- [StructuredClone&lpar;&rpar; - new javascript method to clone objects](https://www.reddit.com/r/javascript/comments/rwp3mi/structuredclone_new_javascript_method_to_clone/)
-- [Santa&#39;s Letters: A fun Christmas 2D game written in typescript](https://www.reddit.com/r/javascript/comments/rwomzb/santas_letters_a_fun_christmas_2d_game_written_in/)
-- [Free online: ES2022 edition of “JS for impatient programmers” [show reddit]](https://www.reddit.com/r/javascript/comments/rwnmci/free_online_es2022_edition_of_js_for_impatient/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
