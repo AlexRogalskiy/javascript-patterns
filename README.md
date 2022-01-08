@@ -293,10 +293,10 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 
 <!-- INFOWORLD-POST-LIST:START -->
 - [Ruby on Rails 7 rejiggers JavaScript support](https://www.infoworld.com/article/3645356/ruby-on-rails-7-rejiggers-javascript-support.html#tk.rss_javascript)
-- [Hands-on with the Marko JavaScript framework](https://www.infoworld.com/article/3643329/hands-on-with-the-marko-javascript-framework.html#tk.rss_javascript)
+- [Hands-on with MarkoJS](https://www.infoworld.com/article/3643329/hands-on-with-the-marko-javascript-framework.html#tk.rss_javascript)
 - [Deno joins JavaScript standards effort](https://www.infoworld.com/article/3644460/deno-joins-javascript-standards-effort.html#tk.rss_javascript)
 - [Misko Hevery explains blazing fast Qwik JS](https://www.infoworld.com/article/3643469/misko-hevery-explains-blazing-fast-qwik-js.html#tk.rss_javascript)
-- [Hands-on with SolidJS](https://www.infoworld.com/article/3643331/hands-on-with-solidjs.html#tk.rss_javascript)
+- [Hands-on with SolidJS](https://www.infoworld.com/article/3643331/hands-on-with-the-solid-javascript-framework.html#tk.rss_javascript)
 - [GitHub will require 2FA for some NPM registry users](https://www.infoworld.com/article/3641237/github-will-require-2fa-for-some-npm-registry-users.html#tk.rss_javascript)
 - [TypeScript 4.5 arrives with Promise improvements](https://www.infoworld.com/article/3637149/typescript-delays-esm-support-for-nodejs.html#tk.rss_javascript)
 - [GitHub: Dev productivity is back to pre-pandemic levels](https://www.infoworld.com/article/3640930/github-dev-productivity-is-back-to-pre-pandemic-levels.html#tk.rss_javascript)
