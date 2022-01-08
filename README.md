@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Faker.JS is dead. I created &quot;BluffMaster&quot;](https://www.reddit.com/r/javascript/comments/rxlue8/fakerjs_is_dead_i_created_bluffmaster/)
-- [Analyzing large JSON files via partial JSON parsing](https://www.reddit.com/r/javascript/comments/rxjco3/analyzing_large_json_files_via_partial_json/)
-- [Somebody wrote a question on HN: Why is Node.js hated so much? Interesting answers, what do you think?](https://www.reddit.com/r/javascript/comments/rxi2vy/somebody_wrote_a_question_on_hn_why_is_nodejs/)
-- [[AskJS] Would anyone help revive faker.js?](https://www.reddit.com/r/javascript/comments/rxh9wq/askjs_would_anyone_help_revive_fakerjs/)
-- [Creating an equalizer plugin using Elementary and ReactJS](https://www.reddit.com/r/javascript/comments/rxgtkw/creating_an_equalizer_plugin_using_elementary_and/)
-- [[AskJS] Help - Data Labels with Polar Area Charts.](https://www.reddit.com/r/javascript/comments/rxek7m/askjs_help_data_labels_with_polar_area_charts/)
-- [How I write backends as a frontend](https://www.reddit.com/r/javascript/comments/rxbv41/how_i_write_backends_as_a_frontend/)
-- [An observable Database for the Web](https://www.reddit.com/r/javascript/comments/rx9fpl/an_observable_database_for_the_web/)
-- [Introducing Metho: Safely adding superpowers to JS](https://www.reddit.com/r/javascript/comments/rx7byh/introducing_metho_safely_adding_superpowers_to_js/)
-- [tsParticles 1.38.0 Released](https://www.reddit.com/r/javascript/comments/rwyz3s/tsparticles_1380_released/)
+- [[AskJS] Longshot Question: Parsing YAML or JSON with parse-time value substitutions?](https://www.reddit.com/r/javascript/comments/ryo5cj/askjs_longshot_question_parsing_yaml_or_json_with/)
+- [Writing clean JavaScript tests with the BASIC principles](https://www.reddit.com/r/javascript/comments/ryhwy6/writing_clean_javascript_tests_with_the_basic/)
+- [Introducing Axios Cache Interceptor: A small and efficient cache interceptor for axios.](https://www.reddit.com/r/javascript/comments/ryf94f/introducing_axios_cache_interceptor_a_small_and/)
+- [Angular ng template ng content and Content Projection: How to create Content Projection with real time example](https://www.reddit.com/r/javascript/comments/ryf6c5/angular_ng_template_ng_content_and_content/)
+- [Hosting Next.js at the edge with Cloudflare Pages](https://www.reddit.com/r/javascript/comments/ryermj/hosting_nextjs_at_the_edge_with_cloudflare_pages/)
+- [BattleScripts BETA: Write js code to play games. May the best algorithm win.](https://www.reddit.com/r/javascript/comments/ryb6ou/battlescripts_beta_write_js_code_to_play_games/)
+- [Plugin to make micro frontend using CRA](https://www.reddit.com/r/javascript/comments/ry8uoo/plugin_to_make_micro_frontend_using_cra/)
+- [Queues in Node js](https://www.reddit.com/r/javascript/comments/ry7d1a/queues_in_node_js/)
+- [[AskJS] What is the purpose of the empty brackets here?](https://www.reddit.com/r/javascript/comments/ry69jr/askjs_what_is_the_purpose_of_the_empty_brackets/)
+- [My latest hobby project: TinyCompTS - A tiny ts/js compiler](https://www.reddit.com/r/javascript/comments/ry3z21/my_latest_hobby_project_tinycompts_a_tiny_tsjs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
