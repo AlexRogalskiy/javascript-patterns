@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Longshot Question: Parsing YAML or JSON with parse-time value substitutions?](https://www.reddit.com/r/javascript/comments/ryo5cj/askjs_longshot_question_parsing_yaml_or_json_with/)
-- [Writing clean JavaScript tests with the BASIC principles](https://www.reddit.com/r/javascript/comments/ryhwy6/writing_clean_javascript_tests_with_the_basic/)
-- [Introducing Axios Cache Interceptor: A small and efficient cache interceptor for axios.](https://www.reddit.com/r/javascript/comments/ryf94f/introducing_axios_cache_interceptor_a_small_and/)
-- [Angular ng template ng content and Content Projection: How to create Content Projection with real time example](https://www.reddit.com/r/javascript/comments/ryf6c5/angular_ng_template_ng_content_and_content/)
-- [Hosting Next.js at the edge with Cloudflare Pages](https://www.reddit.com/r/javascript/comments/ryermj/hosting_nextjs_at_the_edge_with_cloudflare_pages/)
-- [BattleScripts BETA: Write js code to play games. May the best algorithm win.](https://www.reddit.com/r/javascript/comments/ryb6ou/battlescripts_beta_write_js_code_to_play_games/)
-- [Plugin to make micro frontend using CRA](https://www.reddit.com/r/javascript/comments/ry8uoo/plugin_to_make_micro_frontend_using_cra/)
-- [Queues in Node js](https://www.reddit.com/r/javascript/comments/ry7d1a/queues_in_node_js/)
-- [[AskJS] What is the purpose of the empty brackets here?](https://www.reddit.com/r/javascript/comments/ry69jr/askjs_what_is_the_purpose_of_the_empty_brackets/)
-- [My latest hobby project: TinyCompTS - A tiny ts/js compiler](https://www.reddit.com/r/javascript/comments/ry3z21/my_latest_hobby_project_tinycompts_a_tiny_tsjs/)
+- [The Faker.js Saga Continues](https://www.reddit.com/r/javascript/comments/rzggqb/the_fakerjs_saga_continues/)
+- [[AskJS] Best WebRTC - JavaScript - alternative to Zoom / Google meet / Teams ?](https://www.reddit.com/r/javascript/comments/rzcaw7/askjs_best_webrtc_javascript_alternative_to_zoom/)
+- [[AskJS] Is it worth going from a Vanilla JS front end to a React front end?](https://www.reddit.com/r/javascript/comments/rz8q0c/askjs_is_it_worth_going_from_a_vanilla_js_front/)
+- [Dangerous default behavior of setInterval&lpar;&rpar;](https://www.reddit.com/r/javascript/comments/rz6hax/dangerous_default_behavior_of_setinterval/)
+- [Marak adds infinite loop to colors.js.](https://www.reddit.com/r/javascript/comments/rz56qu/marak_adds_infinite_loop_to_colorsjs/)
+- [How To Use HarperDB Custom Functions With Your React app.](https://www.reddit.com/r/javascript/comments/ryxwwy/how_to_use_harperdb_custom_functions_with_your/)
+- [Subreddit-Wiki-Scrapper: download any subreddit&#39;s wiki and archive it.](https://www.reddit.com/r/javascript/comments/ryxvxk/subredditwikiscrapper_download_any_subreddits/)
+- [Builder Pattern 2: A Lightweight Implementation For Both Javascript/Typescript Compatible With ES5/ES6 Classes](https://www.reddit.com/r/javascript/comments/ryxoxx/builder_pattern_2_a_lightweight_implementation/)
+- [Showoff Saturday &lpar;January 08, 2022&rpar;](https://www.reddit.com/r/javascript/comments/ryusrx/showoff_saturday_january_08_2022/)
+- [Animation on scroll using HTML, CSS and JavaScript without any pre-build libraries](https://www.reddit.com/r/javascript/comments/rytrlt/animation_on_scroll_using_html_css_and_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
