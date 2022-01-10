@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why you should pin your npm/yarn dependencies](https://www.reddit.com/r/javascript/comments/s06loj/why_you_should_pin_your_npmyarn_dependencies/)
+- [[AskJS] How do we address the disappearance or corruption of major dependencies](https://www.reddit.com/r/javascript/comments/s041v6/askjs_how_do_we_address_the_disappearance_or/)
+- [[AskJS] is there a way to quantitatively check if a number value is copied or only the pointer to that number is copied?](https://www.reddit.com/r/javascript/comments/s00zar/askjs_is_there_a_way_to_quantitatively_check_if_a/)
+- [GitHub - js-cookie/js-cookie: A simple, lightweight JavaScript API for handling browser cookies](https://www.reddit.com/r/javascript/comments/rzwxt4/github_jscookiejscookie_a_simple_lightweight/)
+- [An omniscient debugger for JS with visual runtime analysis tools, and real-world bugs to test it on](https://www.reddit.com/r/javascript/comments/rztgmg/an_omniscient_debugger_for_js_with_visual_runtime/)
+- [Fast lz4 compression algorithm for Node.js written in Rust](https://www.reddit.com/r/javascript/comments/rzn4na/fast_lz4_compression_algorithm_for_nodejs_written/)
 - [The Faker.js Saga Continues](https://www.reddit.com/r/javascript/comments/rzggqb/the_fakerjs_saga_continues/)
 - [[AskJS] Best WebRTC - JavaScript - alternative to Zoom / Google meet / Teams ?](https://www.reddit.com/r/javascript/comments/rzcaw7/askjs_best_webrtc_javascript_alternative_to_zoom/)
 - [[AskJS] Is it worth going from a Vanilla JS front end to a React front end?](https://www.reddit.com/r/javascript/comments/rz8q0c/askjs_is_it_worth_going_from_a_vanilla_js_front/)
 - [Dangerous default behavior of setInterval&lpar;&rpar;](https://www.reddit.com/r/javascript/comments/rz6hax/dangerous_default_behavior_of_setinterval/)
-- [Marak adds infinite loop to colors.js.](https://www.reddit.com/r/javascript/comments/rz56qu/marak_adds_infinite_loop_to_colorsjs/)
-- [How To Use HarperDB Custom Functions With Your React app.](https://www.reddit.com/r/javascript/comments/ryxwwy/how_to_use_harperdb_custom_functions_with_your/)
-- [Subreddit-Wiki-Scrapper: download any subreddit&#39;s wiki and archive it.](https://www.reddit.com/r/javascript/comments/ryxvxk/subredditwikiscrapper_download_any_subreddits/)
-- [Builder Pattern 2: A Lightweight Implementation For Both Javascript/Typescript Compatible With ES5/ES6 Classes](https://www.reddit.com/r/javascript/comments/ryxoxx/builder_pattern_2_a_lightweight_implementation/)
-- [Showoff Saturday &lpar;January 08, 2022&rpar;](https://www.reddit.com/r/javascript/comments/ryusrx/showoff_saturday_january_08_2022/)
-- [Animation on scroll using HTML, CSS and JavaScript without any pre-build libraries](https://www.reddit.com/r/javascript/comments/rytrlt/animation_on_scroll_using_html_css_and_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
