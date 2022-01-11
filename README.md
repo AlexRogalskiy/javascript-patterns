@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Why you should pin your npm/yarn dependencies](https://www.reddit.com/r/javascript/comments/s06loj/why_you_should_pin_your_npmyarn_dependencies/)
-- [[AskJS] How do we address the disappearance or corruption of major dependencies](https://www.reddit.com/r/javascript/comments/s041v6/askjs_how_do_we_address_the_disappearance_or/)
-- [[AskJS] is there a way to quantitatively check if a number value is copied or only the pointer to that number is copied?](https://www.reddit.com/r/javascript/comments/s00zar/askjs_is_there_a_way_to_quantitatively_check_if_a/)
-- [GitHub - js-cookie/js-cookie: A simple, lightweight JavaScript API for handling browser cookies](https://www.reddit.com/r/javascript/comments/rzwxt4/github_jscookiejscookie_a_simple_lightweight/)
-- [An omniscient debugger for JS with visual runtime analysis tools, and real-world bugs to test it on](https://www.reddit.com/r/javascript/comments/rztgmg/an_omniscient_debugger_for_js_with_visual_runtime/)
-- [Fast lz4 compression algorithm for Node.js written in Rust](https://www.reddit.com/r/javascript/comments/rzn4na/fast_lz4_compression_algorithm_for_nodejs_written/)
-- [The Faker.js Saga Continues](https://www.reddit.com/r/javascript/comments/rzggqb/the_fakerjs_saga_continues/)
-- [[AskJS] Best WebRTC - JavaScript - alternative to Zoom / Google meet / Teams ?](https://www.reddit.com/r/javascript/comments/rzcaw7/askjs_best_webrtc_javascript_alternative_to_zoom/)
-- [[AskJS] Is it worth going from a Vanilla JS front end to a React front end?](https://www.reddit.com/r/javascript/comments/rz8q0c/askjs_is_it_worth_going_from_a_vanilla_js_front/)
-- [Dangerous default behavior of setInterval&lpar;&rpar;](https://www.reddit.com/r/javascript/comments/rz6hax/dangerous_default_behavior_of_setinterval/)
+- [Made a colde golf website with short js and py challenges. Need feedback](https://www.reddit.com/r/javascript/comments/s0ynz2/made_a_colde_golf_website_with_short_js_and_py/)
+- [Meet TruffleHog - a browser extension for finding secret keys in JavaScript code](https://www.reddit.com/r/javascript/comments/s0usjd/meet_trufflehog_a_browser_extension_for_finding/)
+- [[AskJS] Book recommendations to understand async JavaScript](https://www.reddit.com/r/javascript/comments/s0osy9/askjs_book_recommendations_to_understand_async/)
+- [Asynchronous loops in Javascript](https://www.reddit.com/r/javascript/comments/s0nr3v/asynchronous_loops_in_javascript/)
+- [How we reduced our nodejs monorepo build time by 70%](https://www.reddit.com/r/javascript/comments/s0nq74/how_we_reduced_our_nodejs_monorepo_build_time_by/)
+- [hello reddit ... so I&#39;ve been learning JS for like two months and I thought why not try and make a website to save my passwords since I&#39;m lazy and I forget them all the Time. My question is : is it actually safe to keep my passwords and accounts in the local Storage ?](https://www.reddit.com/r/javascript/comments/s0mx7g/hello_reddit_so_ive_been_learning_js_for_like_two/)
+- [Three ways to create 3D particle effects](https://www.reddit.com/r/javascript/comments/s0mu87/three_ways_to_create_3d_particle_effects/)
+- [ez-mapper.js a simple object mapper for javascript and typescript](https://www.reddit.com/r/javascript/comments/s0mq80/ezmapperjs_a_simple_object_mapper_for_javascript/)
+- [We tried Codeless Automated Testing](https://www.reddit.com/r/javascript/comments/s0jks4/we_tried_codeless_automated_testing/)
+- [Simple NPM package that makes it easy to work with OpenWeather API](https://www.reddit.com/r/javascript/comments/s0j6jg/simple_npm_package_that_makes_it_easy_to_work/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
