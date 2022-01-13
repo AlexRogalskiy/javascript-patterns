@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Made a colde golf website with short js and py challenges. Need feedback](https://www.reddit.com/r/javascript/comments/s0ynz2/made_a_colde_golf_website_with_short_js_and_py/)
-- [Meet TruffleHog - a browser extension for finding secret keys in JavaScript code](https://www.reddit.com/r/javascript/comments/s0usjd/meet_trufflehog_a_browser_extension_for_finding/)
-- [[AskJS] Book recommendations to understand async JavaScript](https://www.reddit.com/r/javascript/comments/s0osy9/askjs_book_recommendations_to_understand_async/)
-- [Asynchronous loops in Javascript](https://www.reddit.com/r/javascript/comments/s0nr3v/asynchronous_loops_in_javascript/)
-- [How we reduced our nodejs monorepo build time by 70%](https://www.reddit.com/r/javascript/comments/s0nq74/how_we_reduced_our_nodejs_monorepo_build_time_by/)
-- [hello reddit ... so I&#39;ve been learning JS for like two months and I thought why not try and make a website to save my passwords since I&#39;m lazy and I forget them all the Time. My question is : is it actually safe to keep my passwords and accounts in the local Storage ?](https://www.reddit.com/r/javascript/comments/s0mx7g/hello_reddit_so_ive_been_learning_js_for_like_two/)
-- [Three ways to create 3D particle effects](https://www.reddit.com/r/javascript/comments/s0mu87/three_ways_to_create_3d_particle_effects/)
-- [ez-mapper.js a simple object mapper for javascript and typescript](https://www.reddit.com/r/javascript/comments/s0mq80/ezmapperjs_a_simple_object_mapper_for_javascript/)
-- [We tried Codeless Automated Testing](https://www.reddit.com/r/javascript/comments/s0jks4/we_tried_codeless_automated_testing/)
-- [Simple NPM package that makes it easy to work with OpenWeather API](https://www.reddit.com/r/javascript/comments/s0j6jg/simple_npm_package_that_makes_it_easy_to_work/)
+- [Table of Contents Generation Using Recursion Trees and Markdown](https://www.reddit.com/r/javascript/comments/s2kgqk/table_of_contents_generation_using_recursion/)
+- [I created a small package in Node to interactively select git branches to check out sorted by most recent](https://www.reddit.com/r/javascript/comments/s2j1gi/i_created_a_small_package_in_node_to/)
+- [Discord Bot &lpar;comment your opinion&rpar;](https://www.reddit.com/r/javascript/comments/s2h03g/discord_bot_comment_your_opinion/)
+- [SINGLE APP FOR WEB, IOS, AND ANDROID USING REACT-NATIVE &lpar; Components &rpar; – PART 2](https://www.reddit.com/r/javascript/comments/s2g0u1/single_app_for_web_ios_and_android_using/)
+- [[AskJS] A way to rewrite variable names during build?](https://www.reddit.com/r/javascript/comments/s2dhp4/askjs_a_way_to_rewrite_variable_names_during_build/)
+- [[AskJS] Emulating qualified imports in JS with tree-shaking.](https://www.reddit.com/r/javascript/comments/s2dayw/askjs_emulating_qualified_imports_in_js_with/)
+- [Partial hydration for Preact using custom elements](https://www.reddit.com/r/javascript/comments/s2afl5/partial_hydration_for_preact_using_custom_elements/)
+- [JavaScript Breakout Game](https://www.reddit.com/r/javascript/comments/s29ep3/javascript_breakout_game/)
+- [Core Concepts of React](https://www.reddit.com/r/javascript/comments/s28l4u/core_concepts_of_react/)
+- [[AskJS] For JS Devs - What&#39;s holding you back from Blockchain Development?](https://www.reddit.com/r/javascript/comments/s288rf/askjs_for_js_devs_whats_holding_you_back_from/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
