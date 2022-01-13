@@ -367,6 +367,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Dreamix posts*
 
 <!-- DREAMIX-POST-LIST:START -->
+- [React Synchronising Side-Effect With App State](https://dreamix.eu/blog/javascript/react-synchronising-side-effect-with-app-state)
 - [Why Choose React for Your Software Product Development?](https://dreamix.eu/blog/frontpage/react-software-development)
 - [First Steps in React: Learn, Build, Enjoy](https://dreamix.eu/blog/frontpage/first-steps-in-react-learn-build-enjoy)
 - [Top 10 Trending JavaScript Frameworks](https://dreamix.eu/blog/frontpage/top-10-trending-javascript-frameworks)
