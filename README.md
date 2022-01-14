@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Table of Contents Generation Using Recursion Trees and Markdown](https://www.reddit.com/r/javascript/comments/s2kgqk/table_of_contents_generation_using_recursion/)
-- [I created a small package in Node to interactively select git branches to check out sorted by most recent](https://www.reddit.com/r/javascript/comments/s2j1gi/i_created_a_small_package_in_node_to/)
-- [Discord Bot &lpar;comment your opinion&rpar;](https://www.reddit.com/r/javascript/comments/s2h03g/discord_bot_comment_your_opinion/)
-- [SINGLE APP FOR WEB, IOS, AND ANDROID USING REACT-NATIVE &lpar; Components &rpar; – PART 2](https://www.reddit.com/r/javascript/comments/s2g0u1/single_app_for_web_ios_and_android_using/)
-- [[AskJS] A way to rewrite variable names during build?](https://www.reddit.com/r/javascript/comments/s2dhp4/askjs_a_way_to_rewrite_variable_names_during_build/)
-- [[AskJS] Emulating qualified imports in JS with tree-shaking.](https://www.reddit.com/r/javascript/comments/s2dayw/askjs_emulating_qualified_imports_in_js_with/)
-- [Partial hydration for Preact using custom elements](https://www.reddit.com/r/javascript/comments/s2afl5/partial_hydration_for_preact_using_custom_elements/)
-- [JavaScript Breakout Game](https://www.reddit.com/r/javascript/comments/s29ep3/javascript_breakout_game/)
-- [Core Concepts of React](https://www.reddit.com/r/javascript/comments/s28l4u/core_concepts_of_react/)
-- [[AskJS] For JS Devs - What&#39;s holding you back from Blockchain Development?](https://www.reddit.com/r/javascript/comments/s288rf/askjs_for_js_devs_whats_holding_you_back_from/)
+- [Greetings Internet, I am Sir Dez, a marshal knight for your binary data.](https://www.reddit.com/r/javascript/comments/s3evo5/greetings_internet_i_am_sir_dez_a_marshal_knight/)
+- [2022 State of JS Survey!](https://www.reddit.com/r/javascript/comments/s3cn9g/2022_state_of_js_survey/)
+- [Angular Typed Forms: The RFC Is Here. This is the first big step toward adding this long-sought feature to Angular](https://www.reddit.com/r/javascript/comments/s3cba8/angular_typed_forms_the_rfc_is_here_this_is_the/)
+- [I built an open-source GraphQL API for AWS, Azure, GCP, and Kubernetes in TypeScript](https://www.reddit.com/r/javascript/comments/s3ae8a/i_built_an_opensource_graphql_api_for_aws_azure/)
+- [Full explanation of prototypes in JavaScript](https://www.reddit.com/r/javascript/comments/s373pw/full_explanation_of_prototypes_in_javascript/)
+- [How to extract secrets from Electron app](https://www.reddit.com/r/javascript/comments/s36ndp/how_to_extract_secrets_from_electron_app/)
+- [[AskJS] Why does the Sort method function the way it does?](https://www.reddit.com/r/javascript/comments/s369ul/askjs_why_does_the_sort_method_function_the_way/)
+- [How we migrated 541 components from Styled Components to Emotion with zero bugs](https://www.reddit.com/r/javascript/comments/s35z35/how_we_migrated_541_components_from_styled/)
+- [[AskJS] is this a promise situation ?](https://www.reddit.com/r/javascript/comments/s34vqw/askjs_is_this_a_promise_situation/)
+- [What React global state management libraries should you use?](https://www.reddit.com/r/javascript/comments/s33l2u/what_react_global_state_management_libraries/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
