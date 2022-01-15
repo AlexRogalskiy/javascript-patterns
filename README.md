@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Greetings Internet, I am Sir Dez, a marshal knight for your binary data.](https://www.reddit.com/r/javascript/comments/s3evo5/greetings_internet_i_am_sir_dez_a_marshal_knight/)
-- [2022 State of JS Survey!](https://www.reddit.com/r/javascript/comments/s3cn9g/2022_state_of_js_survey/)
-- [Angular Typed Forms: The RFC Is Here. This is the first big step toward adding this long-sought feature to Angular](https://www.reddit.com/r/javascript/comments/s3cba8/angular_typed_forms_the_rfc_is_here_this_is_the/)
-- [I built an open-source GraphQL API for AWS, Azure, GCP, and Kubernetes in TypeScript](https://www.reddit.com/r/javascript/comments/s3ae8a/i_built_an_opensource_graphql_api_for_aws_azure/)
-- [Full explanation of prototypes in JavaScript](https://www.reddit.com/r/javascript/comments/s373pw/full_explanation_of_prototypes_in_javascript/)
-- [How to extract secrets from Electron app](https://www.reddit.com/r/javascript/comments/s36ndp/how_to_extract_secrets_from_electron_app/)
-- [[AskJS] Why does the Sort method function the way it does?](https://www.reddit.com/r/javascript/comments/s369ul/askjs_why_does_the_sort_method_function_the_way/)
-- [How we migrated 541 components from Styled Components to Emotion with zero bugs](https://www.reddit.com/r/javascript/comments/s35z35/how_we_migrated_541_components_from_styled/)
-- [[AskJS] is this a promise situation ?](https://www.reddit.com/r/javascript/comments/s34vqw/askjs_is_this_a_promise_situation/)
-- [What React global state management libraries should you use?](https://www.reddit.com/r/javascript/comments/s33l2u/what_react_global_state_management_libraries/)
+- [TinyBase - Using plain old JavaScript objects to manage data gets old very quickly. It&#39;s error-prone, tricky to track changes efficiently, and easy to mistakenly incur performance costs. TinyBase is a smarter way to structure your application state](https://www.reddit.com/r/javascript/comments/s46uz6/tinybase_using_plain_old_javascript_objects_to/)
+- [cat-filter - cat GAN faces in javascript](https://www.reddit.com/r/javascript/comments/s46n61/catfilter_cat_gan_faces_in_javascript/)
+- [I published my first JavaScript mobile app, Topic, on the App Store and Play Store!! The app is a news media platform where users suggest daily news headlines and record mini podcasts with their opinions about them!](https://www.reddit.com/r/javascript/comments/s445iq/i_published_my_first_javascript_mobile_app_topic/)
+- [I built a 3D ping-pong with JS and AI](https://www.reddit.com/r/javascript/comments/s43gxu/i_built_a_3d_pingpong_with_js_and_ai/)
+- [[AskJS] How does a Key Value stored in javascript?](https://www.reddit.com/r/javascript/comments/s403xl/askjs_how_does_a_key_value_stored_in_javascript/)
+- [How to Secure Your HTTP APIs](https://www.reddit.com/r/javascript/comments/s3z5ir/how_to_secure_your_http_apis/)
+- [SolidHack - a public hackathon presented by the SolidJS Team, corporate sponsors and individuals. We&#39;ve got USD$12,000 to give away to the best projects across three categories](https://www.reddit.com/r/javascript/comments/s3yt7y/solidhack_a_public_hackathon_presented_by_the/)
+- [[AskJS] Do you use Import-Map for your client-side ESM?](https://www.reddit.com/r/javascript/comments/s3xi20/askjs_do_you_use_importmap_for_your_clientside_esm/)
+- [Yoga Hero page using HTML and CSS](https://www.reddit.com/r/javascript/comments/s3x5jv/yoga_hero_page_using_html_and_css/)
+- [Ben 10 cards using HTML and CSS](https://www.reddit.com/r/javascript/comments/s3x0qg/ben_10_cards_using_html_and_css/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
