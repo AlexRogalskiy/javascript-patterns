@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [TinyBase - Using plain old JavaScript objects to manage data gets old very quickly. It&#39;s error-prone, tricky to track changes efficiently, and easy to mistakenly incur performance costs. TinyBase is a smarter way to structure your application state](https://www.reddit.com/r/javascript/comments/s46uz6/tinybase_using_plain_old_javascript_objects_to/)
-- [cat-filter - cat GAN faces in javascript](https://www.reddit.com/r/javascript/comments/s46n61/catfilter_cat_gan_faces_in_javascript/)
-- [I published my first JavaScript mobile app, Topic, on the App Store and Play Store!! The app is a news media platform where users suggest daily news headlines and record mini podcasts with their opinions about them!](https://www.reddit.com/r/javascript/comments/s445iq/i_published_my_first_javascript_mobile_app_topic/)
-- [I built a 3D ping-pong with JS and AI](https://www.reddit.com/r/javascript/comments/s43gxu/i_built_a_3d_pingpong_with_js_and_ai/)
-- [[AskJS] How does a Key Value stored in javascript?](https://www.reddit.com/r/javascript/comments/s403xl/askjs_how_does_a_key_value_stored_in_javascript/)
-- [How to Secure Your HTTP APIs](https://www.reddit.com/r/javascript/comments/s3z5ir/how_to_secure_your_http_apis/)
-- [SolidHack - a public hackathon presented by the SolidJS Team, corporate sponsors and individuals. We&#39;ve got USD$12,000 to give away to the best projects across three categories](https://www.reddit.com/r/javascript/comments/s3yt7y/solidhack_a_public_hackathon_presented_by_the/)
-- [[AskJS] Do you use Import-Map for your client-side ESM?](https://www.reddit.com/r/javascript/comments/s3xi20/askjs_do_you_use_importmap_for_your_clientside_esm/)
-- [Yoga Hero page using HTML and CSS](https://www.reddit.com/r/javascript/comments/s3x5jv/yoga_hero_page_using_html_and_css/)
-- [Ben 10 cards using HTML and CSS](https://www.reddit.com/r/javascript/comments/s3x0qg/ben_10_cards_using_html_and_css/)
+- [GitHub - arnemorken/anypaginator: An easy to use, yet advanced and fully customizable javascript/jQuery paginator plugin](https://www.reddit.com/r/javascript/comments/s4ridi/github_arnemorkenanypaginator_an_easy_to_use_yet/)
+- [Apple watch home page and navbar using HTML, CSS and JavaScript](https://www.reddit.com/r/javascript/comments/s4l4sj/apple_watch_home_page_and_navbar_using_html_css/)
+- [Portfolio hero page using HTML and CSS](https://www.reddit.com/r/javascript/comments/s4klc1/portfolio_hero_page_using_html_and_css/)
+- [[AskJS] Recommendation for a lightweight pure JS touch enabled carousel/slider plugin to make a text-only slider](https://www.reddit.com/r/javascript/comments/s4k9aw/askjs_recommendation_for_a_lightweight_pure_js/)
+- [Easily create your own NGRX | Redux store](https://www.reddit.com/r/javascript/comments/s4iyx9/easily_create_your_own_ngrx_redux_store/)
+- [Dependency inversion principle in Typescript](https://www.reddit.com/r/javascript/comments/s4ixxp/dependency_inversion_principle_in_typescript/)
+- [txtai 4.0 - semantic search with SQL, content storage, object storage and reindexing in JavaScript](https://www.reddit.com/r/javascript/comments/s4iwkn/txtai_40_semantic_search_with_sql_content_storage/)
+- [[AskJS] Modern devops - learning](https://www.reddit.com/r/javascript/comments/s4iv5s/askjs_modern_devops_learning/)
+- [Build a Wordle-like SMS game with Twilio Serverless](https://www.reddit.com/r/javascript/comments/s4hk2l/build_a_wordlelike_sms_game_with_twilio_serverless/)
+- [Showoff Saturday &lpar;January 15, 2022&rpar;](https://www.reddit.com/r/javascript/comments/s4fce5/showoff_saturday_january_15_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
