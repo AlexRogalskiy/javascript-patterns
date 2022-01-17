@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [GitHub - arnemorken/anypaginator: An easy to use, yet advanced and fully customizable javascript/jQuery paginator plugin](https://www.reddit.com/r/javascript/comments/s4ridi/github_arnemorkenanypaginator_an_easy_to_use_yet/)
-- [Apple watch home page and navbar using HTML, CSS and JavaScript](https://www.reddit.com/r/javascript/comments/s4l4sj/apple_watch_home_page_and_navbar_using_html_css/)
-- [Portfolio hero page using HTML and CSS](https://www.reddit.com/r/javascript/comments/s4klc1/portfolio_hero_page_using_html_and_css/)
-- [[AskJS] Recommendation for a lightweight pure JS touch enabled carousel/slider plugin to make a text-only slider](https://www.reddit.com/r/javascript/comments/s4k9aw/askjs_recommendation_for_a_lightweight_pure_js/)
-- [Easily create your own NGRX | Redux store](https://www.reddit.com/r/javascript/comments/s4iyx9/easily_create_your_own_ngrx_redux_store/)
-- [Dependency inversion principle in Typescript](https://www.reddit.com/r/javascript/comments/s4ixxp/dependency_inversion_principle_in_typescript/)
-- [txtai 4.0 - semantic search with SQL, content storage, object storage and reindexing in JavaScript](https://www.reddit.com/r/javascript/comments/s4iwkn/txtai_40_semantic_search_with_sql_content_storage/)
-- [[AskJS] Modern devops - learning](https://www.reddit.com/r/javascript/comments/s4iv5s/askjs_modern_devops_learning/)
-- [Build a Wordle-like SMS game with Twilio Serverless](https://www.reddit.com/r/javascript/comments/s4hk2l/build_a_wordlelike_sms_game_with_twilio_serverless/)
-- [Showoff Saturday &lpar;January 15, 2022&rpar;](https://www.reddit.com/r/javascript/comments/s4fce5/showoff_saturday_january_15_2022/)
+- [[AskJS] v8 question: are small integers pooled?](https://www.reddit.com/r/javascript/comments/s5n78u/askjs_v8_question_are_small_integers_pooled/)
+- [Google/zx 4.3.0 release](https://www.reddit.com/r/javascript/comments/s5lgsp/googlezx_430_release/)
+- [Version 12 of Jailer, the real relational database client, is out now.](https://www.reddit.com/r/javascript/comments/s5jxem/version_12_of_jailer_the_real_relational_database/)
+- [A Guide to Publishing a JavaScript Library](https://www.reddit.com/r/javascript/comments/s5fdr3/a_guide_to_publishing_a_javascript_library/)
+- [Join us for tips and tricks related to web development and programming](https://www.reddit.com/r/javascript/comments/s5cxz3/join_us_for_tips_and_tricks_related_to_web/)
+- [How to remove element from array in JavaScript?](https://www.reddit.com/r/javascript/comments/s5bpzg/how_to_remove_element_from_array_in_javascript/)
+- [Responsive navbar like a app drawer using HTML,css and JavaScript](https://www.reddit.com/r/javascript/comments/s59w0e/responsive_navbar_like_a_app_drawer_using_htmlcss/)
+- [How to Create a Hybrid NPM Module for ESM and CommonJS. | SenseDeep](https://www.reddit.com/r/javascript/comments/s59g1d/how_to_create_a_hybrid_npm_module_for_esm_and/)
+- [TinyBase A JavaScript library for structured state](https://www.reddit.com/r/javascript/comments/s58eb6/tinybase_a_javascript_library_for_structured_state/)
+- [New Chrome DevTools feature: record, replay, and measure user interactions](https://www.reddit.com/r/javascript/comments/s5826l/new_chrome_devtools_feature_record_replay_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
