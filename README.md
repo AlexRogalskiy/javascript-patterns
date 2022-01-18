@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] v8 question: are small integers pooled?](https://www.reddit.com/r/javascript/comments/s5n78u/askjs_v8_question_are_small_integers_pooled/)
-- [Google/zx 4.3.0 release](https://www.reddit.com/r/javascript/comments/s5lgsp/googlezx_430_release/)
-- [Version 12 of Jailer, the real relational database client, is out now.](https://www.reddit.com/r/javascript/comments/s5jxem/version_12_of_jailer_the_real_relational_database/)
-- [A Guide to Publishing a JavaScript Library](https://www.reddit.com/r/javascript/comments/s5fdr3/a_guide_to_publishing_a_javascript_library/)
-- [Join us for tips and tricks related to web development and programming](https://www.reddit.com/r/javascript/comments/s5cxz3/join_us_for_tips_and_tricks_related_to_web/)
-- [How to remove element from array in JavaScript?](https://www.reddit.com/r/javascript/comments/s5bpzg/how_to_remove_element_from_array_in_javascript/)
-- [Responsive navbar like a app drawer using HTML,css and JavaScript](https://www.reddit.com/r/javascript/comments/s59w0e/responsive_navbar_like_a_app_drawer_using_htmlcss/)
-- [How to Create a Hybrid NPM Module for ESM and CommonJS. | SenseDeep](https://www.reddit.com/r/javascript/comments/s59g1d/how_to_create_a_hybrid_npm_module_for_esm_and/)
-- [TinyBase A JavaScript library for structured state](https://www.reddit.com/r/javascript/comments/s58eb6/tinybase_a_javascript_library_for_structured_state/)
-- [New Chrome DevTools feature: record, replay, and measure user interactions](https://www.reddit.com/r/javascript/comments/s5826l/new_chrome_devtools_feature_record_replay_and/)
+- [Create resilient Playwright e2e tests with locators](https://www.reddit.com/r/javascript/comments/s6g16s/create_resilient_playwright_e2e_tests_with/)
+- [hiccupFX.js - Do you ever open a website and watch in amazement as the page elements haphazardly shift around? Don&#39;t you wish your webpage could do something like that?](https://www.reddit.com/r/javascript/comments/s6b4gz/hiccupfxjs_do_you_ever_open_a_website_and_watch/)
+- [Replacing jQuery &lpar;110kb&rpar; With Umbrella JS &lpar;8kb&rpar;](https://www.reddit.com/r/javascript/comments/s6ac94/replacing_jquery_110kb_with_umbrella_js_8kb/)
+- [Cypress is superior to React Testing Library — here’s why](https://www.reddit.com/r/javascript/comments/s6a42j/cypress_is_superior_to_react_testing_library/)
+- [Turn a Shopify backend open-source and headless in minutes &lpar;in JS&rpar;](https://www.reddit.com/r/javascript/comments/s68cp0/turn_a_shopify_backend_opensource_and_headless_in/)
+- [[AskJS] Low-Code Customer-Facing Dashboards?](https://www.reddit.com/r/javascript/comments/s67z8f/askjs_lowcode_customerfacing_dashboards/)
+- [Build a telegram bot with NodeJS in 4 minutes](https://www.reddit.com/r/javascript/comments/s63gc5/build_a_telegram_bot_with_nodejs_in_4_minutes/)
+- [Immediately Executing setInterval with JavaScript](https://www.reddit.com/r/javascript/comments/s62g0c/immediately_executing_setinterval_with_javascript/)
+- [Sneak peek into React 18 useDeferredValue hook](https://www.reddit.com/r/javascript/comments/s60ay3/sneak_peek_into_react_18_usedeferredvalue_hook/)
+- [Zero dependencies javascript declarative markdown generator](https://www.reddit.com/r/javascript/comments/s5zc5h/zero_dependencies_javascript_declarative_markdown/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
