@@ -352,6 +352,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *javascript programmer posts*
 
 <!-- METEOR-POST-LIST:START -->
+- [2021 Meteor Hackathon: How Team Suaveware Scored 2nd Place](https://blog.meteor.com/2021-meteor-hackathon-how-team-suaveware-scored-2nd-place-971fdaa55c86?source=rss----a9bcaf865278---4)
 - [Meet Team HACCamino: The 2021 Meteor Hackathon Winner!](https://blog.meteor.com/meet-team-haccamino-the-2021-meteor-hackathon-winner-acb74136e986?source=rss----a9bcaf865278---4)
 - [Introducing Push to Deploy](https://blog.meteor.com/introducing-push-to-deploy-6ea464ee5f33?source=rss----a9bcaf865278---4)
 - [Meteor 2.5.1 with Native Mac M1 support](https://blog.meteor.com/meteor-2-5-1-with-native-mac-m1-support-fb1c4b6990b5?source=rss----a9bcaf865278---4)
@@ -361,7 +362,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [How ALLOHOUSTON Makes Organizations Smarter with Meteor](https://blog.meteor.com/how-allohouston-makes-organizations-smarter-with-meteor-7b1ff2058f53?source=rss----a9bcaf865278---4)
 - [Testing a Meteor app with Cypress](https://blog.meteor.com/testing-a-meteor-app-with-cypress-bfb3d3c6ed6f?source=rss----a9bcaf865278---4)
 - [How real-time data works on Meteor — Know your pub/subs](https://blog.meteor.com/how-real-time-data-works-on-meteor-know-your-pub-subs-86620c7dccfa?source=rss----a9bcaf865278---4)
-- [How ConvertCalculator Uses Meteor &lpar;+ Math&rpar; To Sell More](https://blog.meteor.com/how-convertcalculator-uses-meteor-math-to-sell-more-ba777b707eea?source=rss----a9bcaf865278---4)
 <!-- METEOR-POST-LIST:END -->
 
 ### *Dreamix posts*
