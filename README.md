@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Create resilient Playwright e2e tests with locators](https://www.reddit.com/r/javascript/comments/s6g16s/create_resilient_playwright_e2e_tests_with/)
-- [hiccupFX.js - Do you ever open a website and watch in amazement as the page elements haphazardly shift around? Don&#39;t you wish your webpage could do something like that?](https://www.reddit.com/r/javascript/comments/s6b4gz/hiccupfxjs_do_you_ever_open_a_website_and_watch/)
-- [Replacing jQuery &lpar;110kb&rpar; With Umbrella JS &lpar;8kb&rpar;](https://www.reddit.com/r/javascript/comments/s6ac94/replacing_jquery_110kb_with_umbrella_js_8kb/)
-- [Cypress is superior to React Testing Library — here’s why](https://www.reddit.com/r/javascript/comments/s6a42j/cypress_is_superior_to_react_testing_library/)
-- [Turn a Shopify backend open-source and headless in minutes &lpar;in JS&rpar;](https://www.reddit.com/r/javascript/comments/s68cp0/turn_a_shopify_backend_opensource_and_headless_in/)
-- [[AskJS] Low-Code Customer-Facing Dashboards?](https://www.reddit.com/r/javascript/comments/s67z8f/askjs_lowcode_customerfacing_dashboards/)
-- [Build a telegram bot with NodeJS in 4 minutes](https://www.reddit.com/r/javascript/comments/s63gc5/build_a_telegram_bot_with_nodejs_in_4_minutes/)
-- [Immediately Executing setInterval with JavaScript](https://www.reddit.com/r/javascript/comments/s62g0c/immediately_executing_setinterval_with_javascript/)
-- [Sneak peek into React 18 useDeferredValue hook](https://www.reddit.com/r/javascript/comments/s60ay3/sneak_peek_into_react_18_usedeferredvalue_hook/)
-- [Zero dependencies javascript declarative markdown generator](https://www.reddit.com/r/javascript/comments/s5zc5h/zero_dependencies_javascript_declarative_markdown/)
+- [TypeScript Features to Avoid](https://www.reddit.com/r/javascript/comments/s76t1l/typescript_features_to_avoid/)
+- [Do You Need To Master JavaScript Before Learning React?](https://www.reddit.com/r/javascript/comments/s76kd5/do_you_need_to_master_javascript_before_learning/)
+- [I made a javascript synthesizer that uses real-world asteroid data!](https://www.reddit.com/r/javascript/comments/s763ak/i_made_a_javascript_synthesizer_that_uses/)
+- [Contributing to MDN: Meet the Contributors](https://www.reddit.com/r/javascript/comments/s75bty/contributing_to_mdn_meet_the_contributors/)
+- [Graceful shutdown Node.js application: handle process exit signals and close pending connections/jobs](https://www.reddit.com/r/javascript/comments/s750ks/graceful_shutdown_nodejs_application_handle/)
+- [[AskJS] What will happen if I await a function which is not async?](https://www.reddit.com/r/javascript/comments/s73mkn/askjs_what_will_happen_if_i_await_a_function/)
+- [Mastering the art of forms in React](https://www.reddit.com/r/javascript/comments/s72dir/mastering_the_art_of_forms_in_react/)
+- [How to take number input from user in JavaScript?](https://www.reddit.com/r/javascript/comments/s6vqlj/how_to_take_number_input_from_user_in_javascript/)
+- [Courier: An Anime, Manga, and Light Novel Tracking Application for Windows](https://www.reddit.com/r/javascript/comments/s6vbih/courier_an_anime_manga_and_light_novel_tracking/)
+- [How to deploy safely with open-source JavaScript feature flags [React.js example, but you can use with any languages]](https://www.reddit.com/r/javascript/comments/s6tyb0/how_to_deploy_safely_with_opensource_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
