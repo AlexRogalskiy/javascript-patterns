@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [TypeScript Features to Avoid](https://www.reddit.com/r/javascript/comments/s76t1l/typescript_features_to_avoid/)
-- [Do You Need To Master JavaScript Before Learning React?](https://www.reddit.com/r/javascript/comments/s76kd5/do_you_need_to_master_javascript_before_learning/)
-- [I made a javascript synthesizer that uses real-world asteroid data!](https://www.reddit.com/r/javascript/comments/s763ak/i_made_a_javascript_synthesizer_that_uses/)
-- [Contributing to MDN: Meet the Contributors](https://www.reddit.com/r/javascript/comments/s75bty/contributing_to_mdn_meet_the_contributors/)
-- [Graceful shutdown Node.js application: handle process exit signals and close pending connections/jobs](https://www.reddit.com/r/javascript/comments/s750ks/graceful_shutdown_nodejs_application_handle/)
-- [[AskJS] What will happen if I await a function which is not async?](https://www.reddit.com/r/javascript/comments/s73mkn/askjs_what_will_happen_if_i_await_a_function/)
-- [Mastering the art of forms in React](https://www.reddit.com/r/javascript/comments/s72dir/mastering_the_art_of_forms_in_react/)
-- [How to take number input from user in JavaScript?](https://www.reddit.com/r/javascript/comments/s6vqlj/how_to_take_number_input_from_user_in_javascript/)
-- [Courier: An Anime, Manga, and Light Novel Tracking Application for Windows](https://www.reddit.com/r/javascript/comments/s6vbih/courier_an_anime_manga_and_light_novel_tracking/)
-- [How to deploy safely with open-source JavaScript feature flags [React.js example, but you can use with any languages]](https://www.reddit.com/r/javascript/comments/s6tyb0/how_to_deploy_safely_with_opensource_javascript/)
+- [[AskJS] Project generator](https://www.reddit.com/r/javascript/comments/s852kw/askjs_project_generator/)
+- [[AskJS] Am I dumb af, or JavaScript is hard to understand ?](https://www.reddit.com/r/javascript/comments/s84pi1/askjs_am_i_dumb_af_or_javascript_is_hard_to/)
+- [Shaku.js: web games framework for people who love to code &lpar;I&#39;m the author&rpar;](https://www.reddit.com/r/javascript/comments/s839in/shakujs_web_games_framework_for_people_who_love/)
+- [I created LogLayer, a library to standardize how logs are written in code and wraps around the popular logging libraries out there, allowing you to swap out logging libraries seamlessly](https://www.reddit.com/r/javascript/comments/s82501/i_created_loglayer_a_library_to_standardize_how/)
+- [How not to learn TypeScript](https://www.reddit.com/r/javascript/comments/s80itn/how_not_to_learn_typescript/)
+- [[AskJS] JavaScript usage in Analytics Implementation Engineer role?](https://www.reddit.com/r/javascript/comments/s7xao2/askjs_javascript_usage_in_analytics/)
+- [[AskJS] easy way to position image to coordiantes](https://www.reddit.com/r/javascript/comments/s7wob2/askjs_easy_way_to_position_image_to_coordiantes/)
+- [Sync App State across JS Sandboxes without Stumbling over postMessage &amp; onMessage Playing “Telephone”](https://www.reddit.com/r/javascript/comments/s7u2w1/sync_app_state_across_js_sandboxes_without/)
+- [Physarum Polycephalum in WebGL](https://www.reddit.com/r/javascript/comments/s7sj38/physarum_polycephalum_in_webgl/)
+- [Don&#39;t fully trust AI in dev work! /yet](https://www.reddit.com/r/javascript/comments/s7mues/dont_fully_trust_ai_in_dev_work_yet/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
