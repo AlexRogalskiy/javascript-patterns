@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Faker NPM package back on track after malicious coding incident](https://www.infoworld.com/article/3647750/faker-npm-package-back-on-track-after-malicious-coding-incident.html#tk.rss_javascript)
 - [Hands-on with GatsbyJS](https://www.infoworld.com/article/3646408/hands-on-with-the-gatsby-javascript-framework.html#tk.rss_javascript)
 - [AngularJS reaches end of life](https://www.infoworld.com/article/3646609/angularjs-reaches-end-of-life.html#tk.rss_javascript)
 - [Ruby on Rails 7 rejiggers JavaScript support](https://www.infoworld.com/article/3645356/ruby-on-rails-7-rejiggers-javascript-support.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Hands-on with SolidJS](https://www.infoworld.com/article/3643331/hands-on-with-the-solid-javascript-framework.html#tk.rss_javascript)
 - [GitHub will require 2FA for some NPM registry users](https://www.infoworld.com/article/3641237/github-will-require-2fa-for-some-npm-registry-users.html#tk.rss_javascript)
 - [TypeScript 4.5 arrives with Promise improvements](https://www.infoworld.com/article/3637149/typescript-delays-esm-support-for-nodejs.html#tk.rss_javascript)
-- [GitHub: Dev productivity is back to pre-pandemic levels](https://www.infoworld.com/article/3640930/github-dev-productivity-is-back-to-pre-pandemic-levels.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
