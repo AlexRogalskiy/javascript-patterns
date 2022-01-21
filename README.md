@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Project generator](https://www.reddit.com/r/javascript/comments/s852kw/askjs_project_generator/)
-- [[AskJS] Am I dumb af, or JavaScript is hard to understand ?](https://www.reddit.com/r/javascript/comments/s84pi1/askjs_am_i_dumb_af_or_javascript_is_hard_to/)
-- [Shaku.js: web games framework for people who love to code &lpar;I&#39;m the author&rpar;](https://www.reddit.com/r/javascript/comments/s839in/shakujs_web_games_framework_for_people_who_love/)
-- [I created LogLayer, a library to standardize how logs are written in code and wraps around the popular logging libraries out there, allowing you to swap out logging libraries seamlessly](https://www.reddit.com/r/javascript/comments/s82501/i_created_loglayer_a_library_to_standardize_how/)
-- [How not to learn TypeScript](https://www.reddit.com/r/javascript/comments/s80itn/how_not_to_learn_typescript/)
-- [[AskJS] JavaScript usage in Analytics Implementation Engineer role?](https://www.reddit.com/r/javascript/comments/s7xao2/askjs_javascript_usage_in_analytics/)
-- [[AskJS] easy way to position image to coordiantes](https://www.reddit.com/r/javascript/comments/s7wob2/askjs_easy_way_to_position_image_to_coordiantes/)
-- [Sync App State across JS Sandboxes without Stumbling over postMessage &amp; onMessage Playing “Telephone”](https://www.reddit.com/r/javascript/comments/s7u2w1/sync_app_state_across_js_sandboxes_without/)
-- [Physarum Polycephalum in WebGL](https://www.reddit.com/r/javascript/comments/s7sj38/physarum_polycephalum_in_webgl/)
-- [Don&#39;t fully trust AI in dev work! /yet](https://www.reddit.com/r/javascript/comments/s7mues/dont_fully_trust_ai_in_dev_work_yet/)
+- [[AskJS] What are the most common interview questions for frontend?](https://www.reddit.com/r/javascript/comments/s8xqcv/askjs_what_are_the_most_common_interview/)
+- [A Detailed Intro To Monads](https://www.reddit.com/r/javascript/comments/s8xept/a_detailed_intro_to_monads/)
+- [A tool that makes it easy to setup discord bots](https://www.reddit.com/r/javascript/comments/s8s5t1/a_tool_that_makes_it_easy_to_setup_discord_bots/)
+- [Type Wars: The TypeScript Saga](https://www.reddit.com/r/javascript/comments/s8qkyg/type_wars_the_typescript_saga/)
+- [My First Thoughts on SvelteKit &lpar;Client-side JavaScript Framework&rpar;](https://www.reddit.com/r/javascript/comments/s8nn39/my_first_thoughts_on_sveltekit_clientside/)
+- [Deep dive into the new Suspense Server-side Rendering &lpar; SSR &rpar; architecture in React 18](https://www.reddit.com/r/javascript/comments/s8nca7/deep_dive_into_the_new_suspense_serverside/)
+- [We created an open source to view API traffic for Kubernetes enabling you to view all API communication between microservices. Mizu open source Monitoring network traffic in real-time. Supported protocols: HTTP/1.1 &lpar;REST, etc.&rpar; HTTP/2 &lpar;gRPC&rpar; AMQP &lpar;RabbitMQ, Apache Qpid, etc.&rpar;](https://www.reddit.com/r/javascript/comments/s8izul/we_created_an_open_source_to_view_api_traffic_for/)
+- [I created a chrome extension to easily manage all of your google meet conferences from an extension where you can perform all actions like unmute/mute mic, camera from the click of a button in ANY tab or window.](https://www.reddit.com/r/javascript/comments/s8ehgo/i_created_a_chrome_extension_to_easily_manage_all/)
+- [My review and comparison between the Bangle.js 1 and Bangle.js 2 hackable JavaScript Smartwatches!](https://www.reddit.com/r/javascript/comments/s89yy0/my_review_and_comparison_between_the_banglejs_1/)
+- [[AskJS] Where in the ECMAScript specification can I find the reason about why {} !== {}?](https://www.reddit.com/r/javascript/comments/s89gru/askjs_where_in_the_ecmascript_specification_can_i/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
