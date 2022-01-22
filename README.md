@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The Optional Chaining Operator, “Modern” Browsers, and My Mom](https://www.reddit.com/r/javascript/comments/s9q6ni/the_optional_chaining_operator_modern_browsers/)
+- [[AskJS] I am in need of some guidance](https://www.reddit.com/r/javascript/comments/s9p17g/askjs_i_am_in_need_of_some_guidance/)
+- [Announcing TypeScript 4.6 Beta](https://www.reddit.com/r/javascript/comments/s9npi0/announcing_typescript_46_beta/)
+- [I created a small randomised Pokémon Park!](https://www.reddit.com/r/javascript/comments/s9h9n9/i_created_a_small_randomised_pokémon_park/)
+- [[AskJS] Best way to host a JS code that performs API calls](https://www.reddit.com/r/javascript/comments/s9eque/askjs_best_way_to_host_a_js_code_that_performs/)
+- [From Jest to Vitest - Migration and Benchmark](https://www.reddit.com/r/javascript/comments/s995kf/from_jest_to_vitest_migration_and_benchmark/)
+- [[AskJS] How To Transition From Code.org To Real Programming?](https://www.reddit.com/r/javascript/comments/s913rm/askjs_how_to_transition_from_codeorg_to_real/)
 - [[AskJS] What are the most common interview questions for frontend?](https://www.reddit.com/r/javascript/comments/s8xqcv/askjs_what_are_the_most_common_interview/)
 - [A Detailed Intro To Monads](https://www.reddit.com/r/javascript/comments/s8xept/a_detailed_intro_to_monads/)
-- [A tool that makes it easy to setup discord bots](https://www.reddit.com/r/javascript/comments/s8s5t1/a_tool_that_makes_it_easy_to_setup_discord_bots/)
-- [Type Wars: The TypeScript Saga](https://www.reddit.com/r/javascript/comments/s8qkyg/type_wars_the_typescript_saga/)
-- [My First Thoughts on SvelteKit &lpar;Client-side JavaScript Framework&rpar;](https://www.reddit.com/r/javascript/comments/s8nn39/my_first_thoughts_on_sveltekit_clientside/)
-- [Deep dive into the new Suspense Server-side Rendering &lpar; SSR &rpar; architecture in React 18](https://www.reddit.com/r/javascript/comments/s8nca7/deep_dive_into_the_new_suspense_serverside/)
 - [We created an open source to view API traffic for Kubernetes enabling you to view all API communication between microservices. Mizu open source Monitoring network traffic in real-time. Supported protocols: HTTP/1.1 &lpar;REST, etc.&rpar; HTTP/2 &lpar;gRPC&rpar; AMQP &lpar;RabbitMQ, Apache Qpid, etc.&rpar;](https://www.reddit.com/r/javascript/comments/s8izul/we_created_an_open_source_to_view_api_traffic_for/)
-- [I created a chrome extension to easily manage all of your google meet conferences from an extension where you can perform all actions like unmute/mute mic, camera from the click of a button in ANY tab or window.](https://www.reddit.com/r/javascript/comments/s8ehgo/i_created_a_chrome_extension_to_easily_manage_all/)
-- [My review and comparison between the Bangle.js 1 and Bangle.js 2 hackable JavaScript Smartwatches!](https://www.reddit.com/r/javascript/comments/s89yy0/my_review_and_comparison_between_the_banglejs_1/)
-- [[AskJS] Where in the ECMAScript specification can I find the reason about why {} !== {}?](https://www.reddit.com/r/javascript/comments/s89gru/askjs_where_in_the_ecmascript_specification_can_i/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
