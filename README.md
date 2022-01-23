@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [The Optional Chaining Operator, “Modern” Browsers, and My Mom](https://www.reddit.com/r/javascript/comments/s9q6ni/the_optional_chaining_operator_modern_browsers/)
+- [Plock is a responsive masonry layout implementation for React.](https://www.reddit.com/r/javascript/comments/sahw8c/plock_is_a_responsive_masonry_layout/)
+- [Bundling strategies for Webpack 101](https://www.reddit.com/r/javascript/comments/saewzv/bundling_strategies_for_webpack_101/)
+- [&lpar;1&rpar; New Message: Playing with your attention in JavaScript](https://www.reddit.com/r/javascript/comments/sac7lq/1_new_message_playing_with_your_attention_in/)
+- [geofind.io - Multiplayer Geographical Guessing Game using Nuxt, Colyseus and PostGIS.](https://www.reddit.com/r/javascript/comments/saalei/geofindio_multiplayer_geographical_guessing_game/)
+- [A webapp that uses AI to test your face for RBF](https://www.reddit.com/r/javascript/comments/sa82st/a_webapp_that_uses_ai_to_test_your_face_for_rbf/)
+- [Glassmorphism effects using HTML and Css](https://www.reddit.com/r/javascript/comments/sa2mra/glassmorphism_effects_using_html_and_css/)
+- [[AskJS] Why does our community hate Operator Overloading?](https://www.reddit.com/r/javascript/comments/sa1o8u/askjs_why_does_our_community_hate_operator/)
+- [Showoff Saturday &lpar;January 22, 2022&rpar;](https://www.reddit.com/r/javascript/comments/s9xi8s/showoff_saturday_january_22_2022/)
+- [[AskJS] Your opinion about TypeScript love or hate it, not necessary in all projects ? sometimes it&#39;s better to use vanilla JS ?](https://www.reddit.com/r/javascript/comments/s9x0k7/askjs_your_opinion_about_typescript_love_or_hate/)
 - [[AskJS] I am in need of some guidance](https://www.reddit.com/r/javascript/comments/s9p17g/askjs_i_am_in_need_of_some_guidance/)
-- [Announcing TypeScript 4.6 Beta](https://www.reddit.com/r/javascript/comments/s9npi0/announcing_typescript_46_beta/)
-- [I created a small randomised Pokémon Park!](https://www.reddit.com/r/javascript/comments/s9h9n9/i_created_a_small_randomised_pokémon_park/)
-- [[AskJS] Best way to host a JS code that performs API calls](https://www.reddit.com/r/javascript/comments/s9eque/askjs_best_way_to_host_a_js_code_that_performs/)
-- [From Jest to Vitest - Migration and Benchmark](https://www.reddit.com/r/javascript/comments/s995kf/from_jest_to_vitest_migration_and_benchmark/)
-- [[AskJS] How To Transition From Code.org To Real Programming?](https://www.reddit.com/r/javascript/comments/s913rm/askjs_how_to_transition_from_codeorg_to_real/)
-- [[AskJS] What are the most common interview questions for frontend?](https://www.reddit.com/r/javascript/comments/s8xqcv/askjs_what_are_the_most_common_interview/)
-- [A Detailed Intro To Monads](https://www.reddit.com/r/javascript/comments/s8xept/a_detailed_intro_to_monads/)
-- [We created an open source to view API traffic for Kubernetes enabling you to view all API communication between microservices. Mizu open source Monitoring network traffic in real-time. Supported protocols: HTTP/1.1 &lpar;REST, etc.&rpar; HTTP/2 &lpar;gRPC&rpar; AMQP &lpar;RabbitMQ, Apache Qpid, etc.&rpar;](https://www.reddit.com/r/javascript/comments/s8izul/we_created_an_open_source_to_view_api_traffic_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
