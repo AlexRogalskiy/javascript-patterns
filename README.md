@@ -322,6 +322,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *YouTube code posts*
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [Enseñando para empoderar: Como a apoyar a software engineers - Rizel Scarlett](https://www.youtube.com/watch?v=zw_J91BdDBQ)
+- [Teaching to Empower: How to Support Junior Engineers - Rizel Scarlett](https://www.youtube.com/watch?v=T3PRPLJAgIY)
 - [Un proyecto desde cero ¿Lo mismo una y otra vez? - Fransico Sevilla](https://www.youtube.com/watch?v=X-GpEWis9RU)
 - [A project from scratch. The same thing over and over? - Fransico Sevilla](https://www.youtube.com/watch?v=8nxTjv55DFE)
 - [Pasado, Presente, y Futuro del Frontend Routing - Eduardo San Martin Morote](https://www.youtube.com/watch?v=ZJQ9JUKp774)
@@ -330,8 +332,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [JS Conf India Online 2021 | Track 1](https://www.youtube.com/watch?v=Off4L7NJgA0)
 - [Jsconf India Online 2021](https://www.youtube.com/watch?v=j6S3IRXQyqw)
 - [From JavaScript to React - Leonidas Esteban &lpar;Spanish language&rpar;](https://www.youtube.com/watch?v=T-lRHCPfQ1o)
-- [From beginner to expert in web performance  - Tracy Lee](https://www.youtube.com/watch?v=l1A1ImFkNvA)
-- [Accessibility, what do you eat that with? - Marjorie Figueroa &lpar;Spanish language&rpar;](https://www.youtube.com/watch?v=nOTw35C5ba4)
 <!-- YOUTUBE-POST-LIST:END -->
 
 ### *ReactJS posts*
