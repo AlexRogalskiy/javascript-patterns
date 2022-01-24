@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Plock is a responsive masonry layout implementation for React.](https://www.reddit.com/r/javascript/comments/sahw8c/plock_is_a_responsive_masonry_layout/)
+- [I made a project management system for developers with JS. Just JS.](https://www.reddit.com/r/javascript/comments/sb9ggk/i_made_a_project_management_system_for_developers/)
+- [I made a library that allows for easily creating on-click togglable/expandable content.](https://www.reddit.com/r/javascript/comments/sb801t/i_made_a_library_that_allows_for_easily_creating/)
+- [[AskJS] Add random css to head on refresh](https://www.reddit.com/r/javascript/comments/sb6e9u/askjs_add_random_css_to_head_on_refresh/)
+- [A simple, small tag function to help with defining regexes, particularly regexes for URLs](https://www.reddit.com/r/javascript/comments/sb4g71/a_simple_small_tag_function_to_help_with_defining/)
+- [Finished a project, some feedback would be nice](https://www.reddit.com/r/javascript/comments/sb2x1v/finished_a_project_some_feedback_would_be_nice/)
+- [Create Mock API responses with ease](https://www.reddit.com/r/javascript/comments/sb0tyg/create_mock_api_responses_with_ease/)
+- [[AskJS] is it possible as a noncoder with many different usecases to make applications?](https://www.reddit.com/r/javascript/comments/sauq1c/askjs_is_it_possible_as_a_noncoder_with_many/)
+- [LeetCode — Spiral Matrix II](https://www.reddit.com/r/javascript/comments/saq20w/leetcode_spiral_matrix_ii/)
+- [[AskJS] Need Feedback:: Tabular Data Representation and Manipulation Library for NodeJS](https://www.reddit.com/r/javascript/comments/sajp1i/askjs_need_feedback_tabular_data_representation/)
 - [Bundling strategies for Webpack 101](https://www.reddit.com/r/javascript/comments/saewzv/bundling_strategies_for_webpack_101/)
-- [&lpar;1&rpar; New Message: Playing with your attention in JavaScript](https://www.reddit.com/r/javascript/comments/sac7lq/1_new_message_playing_with_your_attention_in/)
-- [geofind.io - Multiplayer Geographical Guessing Game using Nuxt, Colyseus and PostGIS.](https://www.reddit.com/r/javascript/comments/saalei/geofindio_multiplayer_geographical_guessing_game/)
-- [A webapp that uses AI to test your face for RBF](https://www.reddit.com/r/javascript/comments/sa82st/a_webapp_that_uses_ai_to_test_your_face_for_rbf/)
-- [Glassmorphism effects using HTML and Css](https://www.reddit.com/r/javascript/comments/sa2mra/glassmorphism_effects_using_html_and_css/)
-- [[AskJS] Why does our community hate Operator Overloading?](https://www.reddit.com/r/javascript/comments/sa1o8u/askjs_why_does_our_community_hate_operator/)
-- [Showoff Saturday &lpar;January 22, 2022&rpar;](https://www.reddit.com/r/javascript/comments/s9xi8s/showoff_saturday_january_22_2022/)
-- [[AskJS] Your opinion about TypeScript love or hate it, not necessary in all projects ? sometimes it&#39;s better to use vanilla JS ?](https://www.reddit.com/r/javascript/comments/s9x0k7/askjs_your_opinion_about_typescript_love_or_hate/)
-- [[AskJS] I am in need of some guidance](https://www.reddit.com/r/javascript/comments/s9p17g/askjs_i_am_in_need_of_some_guidance/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
