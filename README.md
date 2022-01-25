@@ -322,16 +322,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *YouTube code posts*
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [Automatiza tu CMS sin interfaz visual con GraphQL - Nidhi Kumari](https://www.youtube.com/watch?v=e3-xsuo53Oo)
+- [Automate your headless CMS with GraphQL - Nidhi Kumari](https://www.youtube.com/watch?v=mXTRjDAMaVw)
+- [Offline IoT - Building Resilient Connected Devices without the Internet - Nicholas Hehr](https://www.youtube.com/watch?v=0JROQGWCmds)
+- [IoT fuera de línea - Construyendo dispositivo conectados sin internet - Nicholas Hehr](https://www.youtube.com/watch?v=kn8WhpkTFwM)
 - [Enseñando para empoderar: Como a apoyar a software engineers - Rizel Scarlett](https://www.youtube.com/watch?v=zw_J91BdDBQ)
 - [Teaching to Empower: How to Support Junior Engineers - Rizel Scarlett](https://www.youtube.com/watch?v=T3PRPLJAgIY)
 - [Un proyecto desde cero ¿Lo mismo una y otra vez? - Fransico Sevilla](https://www.youtube.com/watch?v=X-GpEWis9RU)
 - [A project from scratch. The same thing over and over? - Fransico Sevilla](https://www.youtube.com/watch?v=8nxTjv55DFE)
 - [Pasado, Presente, y Futuro del Frontend Routing - Eduardo San Martin Morote](https://www.youtube.com/watch?v=ZJQ9JUKp774)
 - [Past, Present and Future of frontend routing  - Eduardo San Martin Morote](https://www.youtube.com/watch?v=u2RgGv8WPN0)
-- [JS Conf India Online 2021 | Track 2](https://www.youtube.com/watch?v=_xwoZfnqojo)
-- [JS Conf India Online 2021 | Track 1](https://www.youtube.com/watch?v=Off4L7NJgA0)
-- [Jsconf India Online 2021](https://www.youtube.com/watch?v=j6S3IRXQyqw)
-- [From JavaScript to React - Leonidas Esteban &lpar;Spanish language&rpar;](https://www.youtube.com/watch?v=T-lRHCPfQ1o)
 <!-- YOUTUBE-POST-LIST:END -->
 
 ### *ReactJS posts*
