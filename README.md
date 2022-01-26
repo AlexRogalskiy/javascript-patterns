@@ -322,6 +322,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *YouTube code posts*
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [Máquinas de estado finitas con XState - Carlos Martínez Avendaño](https://www.youtube.com/watch?v=dYpX3_wAIbo)
+- [JavaScript DevOps or WebOps: Construir o no construir? - Alejandro Mercado Peña](https://www.youtube.com/watch?v=bB13xZb-xlI)
+- [JavaScript DevOps or WebOps: Should I build or should I not? - Alejandro Mercado Peña](https://www.youtube.com/watch?v=Nb07xl-wj2M)
 - [Automatiza tu CMS sin interfaz visual con GraphQL - Nidhi Kumari](https://www.youtube.com/watch?v=e3-xsuo53Oo)
 - [Automate your headless CMS with GraphQL - Nidhi Kumari](https://www.youtube.com/watch?v=mXTRjDAMaVw)
 - [Offline IoT - Building Resilient Connected Devices without the Internet - Nicholas Hehr](https://www.youtube.com/watch?v=0JROQGWCmds)
@@ -329,9 +332,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Enseñando para empoderar: Como a apoyar a software engineers - Rizel Scarlett](https://www.youtube.com/watch?v=zw_J91BdDBQ)
 - [Teaching to Empower: How to Support Junior Engineers - Rizel Scarlett](https://www.youtube.com/watch?v=T3PRPLJAgIY)
 - [Un proyecto desde cero ¿Lo mismo una y otra vez? - Fransico Sevilla](https://www.youtube.com/watch?v=X-GpEWis9RU)
-- [A project from scratch. The same thing over and over? - Fransico Sevilla](https://www.youtube.com/watch?v=8nxTjv55DFE)
-- [Pasado, Presente, y Futuro del Frontend Routing - Eduardo San Martin Morote](https://www.youtube.com/watch?v=ZJQ9JUKp774)
-- [Past, Present and Future of frontend routing  - Eduardo San Martin Morote](https://www.youtube.com/watch?v=u2RgGv8WPN0)
 <!-- YOUTUBE-POST-LIST:END -->
 
 ### *ReactJS posts*
