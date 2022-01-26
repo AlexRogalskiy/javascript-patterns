@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [&lpar;Looking For Feedback&rpar; - Created a quick web game during MongoDB Atlas Hackathon 2021-2022](https://www.reddit.com/r/javascript/comments/sc04z8/looking_for_feedback_created_a_quick_web_game/)
-- [Choosing the right component library for your design system: MUI vs Chakra](https://www.reddit.com/r/javascript/comments/sbrkqs/choosing_the_right_component_library_for_your/)
-- [Wordle - done in Tailwind, TypeScript, EmberJS](https://www.reddit.com/r/javascript/comments/sbp041/wordle_done_in_tailwind_typescript_emberjs/)
+- [The Return of Server Side Routing](https://www.reddit.com/r/javascript/comments/scsoo5/the_return_of_server_side_routing/)
+- [[AskJS] :: Is unicodes in JS following standard unicode](https://www.reddit.com/r/javascript/comments/scslt1/askjs_is_unicodes_in_js_following_standard_unicode/)
+- [Building a Vaporwave scene with Three.js](https://www.reddit.com/r/javascript/comments/scpvc2/building_a_vaporwave_scene_with_threejs/)
+- [ANSIS - yet one library for color styling in ANSI terminals](https://www.reddit.com/r/javascript/comments/scopot/ansis_yet_one_library_for_color_styling_in_ansi/)
+- [Another buzz word around Web3 So what is Web3](https://www.reddit.com/r/javascript/comments/scn03x/another_buzz_word_around_web3_so_what_is_web3/)
+- [[AskJS] Would a Javascript to Typescript Converter Be Useful?](https://www.reddit.com/r/javascript/comments/scmkpi/askjs_would_a_javascript_to_typescript_converter/)
+- [Cypress and GraphQL](https://www.reddit.com/r/javascript/comments/sck57r/cypress_and_graphql/)
+- [In-depth of tnpm rapid mode - how we managed to be 10 second faster than pnpm](https://www.reddit.com/r/javascript/comments/scdueu/indepth_of_tnpm_rapid_mode_how_we_managed_to_be/)
 - [Neutralinojs v4.2.0 released!](https://www.reddit.com/r/javascript/comments/sbmw7l/neutralinojs_v420_released/)
-- [[AskJS] Can someone explain to me which function will be prioritized by the event loop](https://www.reddit.com/r/javascript/comments/sblst6/askjs_can_someone_explain_to_me_which_function/)
 - [Open sourcing Chirpy: A privacy-friendly and customizable Disqus alternate.](https://www.reddit.com/r/javascript/comments/sblil2/open_sourcing_chirpy_a_privacyfriendly_and/)
-- [Your /r/javascript recap for the week of January 17 - January 23](https://www.reddit.com/r/javascript/comments/sbisxr/your_rjavascript_recap_for_the_week_of_january_17/)
-- [Click and Swap, our alternative to Drag and Drop](https://www.reddit.com/r/javascript/comments/sbf2vr/click_and_swap_our_alternative_to_drag_and_drop/)
-- [A simple, small tag function to help with defining regexes, particularly regexes for URLs](https://www.reddit.com/r/javascript/comments/sb4g71/a_simple_small_tag_function_to_help_with_defining/)
-- [[AskJS] Why does our community hate Operator Overloading?](https://www.reddit.com/r/javascript/comments/sa1o8u/askjs_why_does_our_community_hate_operator/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
