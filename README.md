@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [The Return of Server Side Routing](https://www.reddit.com/r/javascript/comments/scsoo5/the_return_of_server_side_routing/)
-- [[AskJS] :: Is unicodes in JS following standard unicode](https://www.reddit.com/r/javascript/comments/scslt1/askjs_is_unicodes_in_js_following_standard_unicode/)
-- [Building a Vaporwave scene with Three.js](https://www.reddit.com/r/javascript/comments/scpvc2/building_a_vaporwave_scene_with_threejs/)
-- [ANSIS - yet one library for color styling in ANSI terminals](https://www.reddit.com/r/javascript/comments/scopot/ansis_yet_one_library_for_color_styling_in_ansi/)
-- [Another buzz word around Web3 So what is Web3](https://www.reddit.com/r/javascript/comments/scn03x/another_buzz_word_around_web3_so_what_is_web3/)
-- [[AskJS] Would a Javascript to Typescript Converter Be Useful?](https://www.reddit.com/r/javascript/comments/scmkpi/askjs_would_a_javascript_to_typescript_converter/)
-- [Cypress and GraphQL](https://www.reddit.com/r/javascript/comments/sck57r/cypress_and_graphql/)
-- [In-depth of tnpm rapid mode - how we managed to be 10 second faster than pnpm](https://www.reddit.com/r/javascript/comments/scdueu/indepth_of_tnpm_rapid_mode_how_we_managed_to_be/)
-- [Neutralinojs v4.2.0 released!](https://www.reddit.com/r/javascript/comments/sbmw7l/neutralinojs_v420_released/)
-- [Open sourcing Chirpy: A privacy-friendly and customizable Disqus alternate.](https://www.reddit.com/r/javascript/comments/sblil2/open_sourcing_chirpy_a_privacyfriendly_and/)
+- [The baseline for web development in 2022](https://www.reddit.com/r/javascript/comments/sdj5gc/the_baseline_for_web_development_in_2022/)
+- [What You Should Definitely Look Out For In React In 2022](https://www.reddit.com/r/javascript/comments/sdhs4a/what_you_should_definitely_look_out_for_in_react/)
+- [Run Node.js from Google Sheets](https://www.reddit.com/r/javascript/comments/sdhi2b/run_nodejs_from_google_sheets/)
+- [How to Decide When It’s Time to Stop Designing and Start Coding](https://www.reddit.com/r/javascript/comments/sdb1h0/how_to_decide_when_its_time_to_stop_designing_and/)
+- [Monorepos Explained](https://www.reddit.com/r/javascript/comments/sdb025/monorepos_explained/)
+- [Simplified local development and testing with Auth0 simulation &lpar;in Node.js&rpar;](https://www.reddit.com/r/javascript/comments/sd9mbn/simplified_local_development_and_testing_with/)
+- [[AskJS] Do you prefer do or while loops?](https://www.reddit.com/r/javascript/comments/sd9cnd/askjs_do_you_prefer_do_or_while_loops/)
+- [Vuetensils 0.10: Vue 3, Vite, Better Forms, And More](https://www.reddit.com/r/javascript/comments/sd9c3i/vuetensils_010_vue_3_vite_better_forms_and_more/)
+- [I built a site to search xkcd comics by topic &lpar;open source - JS + Typesense + InstantSearch.js&rpar;](https://www.reddit.com/r/javascript/comments/sd8mcw/i_built_a_site_to_search_xkcd_comics_by_topic/)
+- [WTF Wednesday &lpar;January 26, 2022&rpar;](https://www.reddit.com/r/javascript/comments/sd0s9h/wtf_wednesday_january_26_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
