@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Storybook Figma connect sneak peek](https://www.reddit.com/r/javascript/comments/se4wyg/storybook_figma_connect_sneak_peek/)
+- [[AskJS] Loading images without Promises or async/await](https://www.reddit.com/r/javascript/comments/se4l7g/askjs_loading_images_without_promises_or/)
+- [Speeding up VSCode &lpar;extensions&rpar; in 2022](https://www.reddit.com/r/javascript/comments/se49pe/speeding_up_vscode_extensions_in_2022/)
+- [GitHub - smeijer/unimported: Find and fix dangling files and unused dependencies in your JavaScript projects.](https://www.reddit.com/r/javascript/comments/se38ka/github_smeijerunimported_find_and_fix_dangling/)
+- [Make your DevOps Team Happy with this PagerDuty + Discord Integration](https://www.reddit.com/r/javascript/comments/se1v5z/make_your_devops_team_happy_with_this_pagerduty/)
+- [[AskJS] Chrome extensions](https://www.reddit.com/r/javascript/comments/sdyb99/askjs_chrome_extensions/)
+- [Finally, we made it! Introducing Lightence: Opensource Admin for building rich user interfaces significantly faster](https://www.reddit.com/r/javascript/comments/sdw8oe/finally_we_made_it_introducing_lightence/)
 - [The baseline for web development in 2022](https://www.reddit.com/r/javascript/comments/sdj5gc/the_baseline_for_web_development_in_2022/)
-- [What You Should Definitely Look Out For In React In 2022](https://www.reddit.com/r/javascript/comments/sdhs4a/what_you_should_definitely_look_out_for_in_react/)
-- [Run Node.js from Google Sheets](https://www.reddit.com/r/javascript/comments/sdhi2b/run_nodejs_from_google_sheets/)
-- [How to Decide When It’s Time to Stop Designing and Start Coding](https://www.reddit.com/r/javascript/comments/sdb1h0/how_to_decide_when_its_time_to_stop_designing_and/)
-- [Monorepos Explained](https://www.reddit.com/r/javascript/comments/sdb025/monorepos_explained/)
 - [Simplified local development and testing with Auth0 simulation &lpar;in Node.js&rpar;](https://www.reddit.com/r/javascript/comments/sd9mbn/simplified_local_development_and_testing_with/)
 - [[AskJS] Do you prefer do or while loops?](https://www.reddit.com/r/javascript/comments/sd9cnd/askjs_do_you_prefer_do_or_while_loops/)
-- [Vuetensils 0.10: Vue 3, Vite, Better Forms, And More](https://www.reddit.com/r/javascript/comments/sd9c3i/vuetensils_010_vue_3_vite_better_forms_and_more/)
-- [I built a site to search xkcd comics by topic &lpar;open source - JS + Typesense + InstantSearch.js&rpar;](https://www.reddit.com/r/javascript/comments/sd8mcw/i_built_a_site_to_search_xkcd_comics_by_topic/)
-- [WTF Wednesday &lpar;January 26, 2022&rpar;](https://www.reddit.com/r/javascript/comments/sd0s9h/wtf_wednesday_january_26_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
