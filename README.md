@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Storybook Figma connect sneak peek](https://www.reddit.com/r/javascript/comments/se4wyg/storybook_figma_connect_sneak_peek/)
-- [[AskJS] Loading images without Promises or async/await](https://www.reddit.com/r/javascript/comments/se4l7g/askjs_loading_images_without_promises_or/)
-- [Speeding up VSCode &lpar;extensions&rpar; in 2022](https://www.reddit.com/r/javascript/comments/se49pe/speeding_up_vscode_extensions_in_2022/)
-- [GitHub - smeijer/unimported: Find and fix dangling files and unused dependencies in your JavaScript projects.](https://www.reddit.com/r/javascript/comments/se38ka/github_smeijerunimported_find_and_fix_dangling/)
-- [Make your DevOps Team Happy with this PagerDuty + Discord Integration](https://www.reddit.com/r/javascript/comments/se1v5z/make_your_devops_team_happy_with_this_pagerduty/)
-- [[AskJS] Chrome extensions](https://www.reddit.com/r/javascript/comments/sdyb99/askjs_chrome_extensions/)
-- [Finally, we made it! Introducing Lightence: Opensource Admin for building rich user interfaces significantly faster](https://www.reddit.com/r/javascript/comments/sdw8oe/finally_we_made_it_introducing_lightence/)
-- [The baseline for web development in 2022](https://www.reddit.com/r/javascript/comments/sdj5gc/the_baseline_for_web_development_in_2022/)
-- [Simplified local development and testing with Auth0 simulation &lpar;in Node.js&rpar;](https://www.reddit.com/r/javascript/comments/sd9mbn/simplified_local_development_and_testing_with/)
-- [[AskJS] Do you prefer do or while loops?](https://www.reddit.com/r/javascript/comments/sd9cnd/askjs_do_you_prefer_do_or_while_loops/)
+- [Updates from the 88th TC39 meeting](https://www.reddit.com/r/javascript/comments/sf60e2/updates_from_the_88th_tc39_meeting/)
+- [We meme, but these kinds of job postings do exist. 7+ years experience with Vue even though it hasn’t even existed for that long?!](https://www.reddit.com/r/javascript/comments/sf5lzz/we_meme_but_these_kinds_of_job_postings_do_exist/)
+- [[AskJS] How to access global variables when splitting code across multiple js files?](https://www.reddit.com/r/javascript/comments/sf5ep6/askjs_how_to_access_global_variables_when/)
+- [Knocked together a portfolio + demo app while on a break. Feedback?](https://www.reddit.com/r/javascript/comments/sf3qm8/knocked_together_a_portfolio_demo_app_while_on_a/)
+- [[AskJS] importing/exporting not working](https://www.reddit.com/r/javascript/comments/sf30i9/askjs_importingexporting_not_working/)
+- [A truly unrestricted Q&amp;A forum.](https://www.reddit.com/r/javascript/comments/sf08wd/a_truly_unrestricted_qa_forum/)
+- [Under-the-hood of Docker - a mini-working version of a Docker ecosystem, including build and run commands](https://www.reddit.com/r/javascript/comments/sew620/underthehood_of_docker_a_miniworking_version_of_a/)
+- [Minimal TypeScript](https://www.reddit.com/r/javascript/comments/sew2ua/minimal_typescript/)
+- [Chrome 99 will ship with the HTMLInputElement showPicker&lpar;&rpar; method - show a browser picker for &lt;input&gt; elements with these types: &quot;date&quot;, &quot;month&quot;, &quot;week&quot;, &quot;time&quot;, &quot;datetime-local&quot;, &quot;color&quot;, and &quot;file&quot;](https://www.reddit.com/r/javascript/comments/seuvzr/chrome_99_will_ship_with_the_htmlinputelement/)
+- [[AskJS] Can someone explain what is going on with var vs let here?](https://www.reddit.com/r/javascript/comments/set0vo/askjs_can_someone_explain_what_is_going_on_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
