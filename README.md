@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How you can create a sidebar like the daily.dev extension fron scratch using React and Tailwindcss in 4 steps](https://www.reddit.com/r/javascript/comments/sfw167/how_you_can_create_a_sidebar_like_the_dailydev/)
+- [[AskJS] ELI5: Can someone give me idiot-proof instructions on how to download, install, and test the tone.js library?](https://www.reddit.com/r/javascript/comments/sfpld7/askjs_eli5_can_someone_give_me_idiotproof/)
+- [[AskJS] What&#39;s your opinions on userscripts and do you guys create personal ones?](https://www.reddit.com/r/javascript/comments/sfoiz8/askjs_whats_your_opinions_on_userscripts_and_do/)
+- [Node.js will include support for `fetch` in their next release](https://www.reddit.com/r/javascript/comments/sfoai3/nodejs_will_include_support_for_fetch_in_their/)
+- [Badge on NPM packages to show support for ES modules](https://www.reddit.com/r/javascript/comments/sfm5ha/badge_on_npm_packages_to_show_support_for_es/)
+- [Locks in JS, because why not?](https://www.reddit.com/r/javascript/comments/sfjge1/locks_in_js_because_why_not/)
+- [Showoff Saturday &lpar;January 29, 2022&rpar;](https://www.reddit.com/r/javascript/comments/sfdbl7/showoff_saturday_january_29_2022/)
 - [Updates from the 88th TC39 meeting](https://www.reddit.com/r/javascript/comments/sf60e2/updates_from_the_88th_tc39_meeting/)
 - [We meme, but these kinds of job postings do exist. 7+ years experience with Vue even though it hasn’t even existed for that long?!](https://www.reddit.com/r/javascript/comments/sf5lzz/we_meme_but_these_kinds_of_job_postings_do_exist/)
-- [[AskJS] How to access global variables when splitting code across multiple js files?](https://www.reddit.com/r/javascript/comments/sf5ep6/askjs_how_to_access_global_variables_when/)
-- [Knocked together a portfolio + demo app while on a break. Feedback?](https://www.reddit.com/r/javascript/comments/sf3qm8/knocked_together_a_portfolio_demo_app_while_on_a/)
-- [[AskJS] importing/exporting not working](https://www.reddit.com/r/javascript/comments/sf30i9/askjs_importingexporting_not_working/)
-- [A truly unrestricted Q&amp;A forum.](https://www.reddit.com/r/javascript/comments/sf08wd/a_truly_unrestricted_qa_forum/)
 - [Under-the-hood of Docker - a mini-working version of a Docker ecosystem, including build and run commands](https://www.reddit.com/r/javascript/comments/sew620/underthehood_of_docker_a_miniworking_version_of_a/)
-- [Minimal TypeScript](https://www.reddit.com/r/javascript/comments/sew2ua/minimal_typescript/)
-- [Chrome 99 will ship with the HTMLInputElement showPicker&lpar;&rpar; method - show a browser picker for &lt;input&gt; elements with these types: &quot;date&quot;, &quot;month&quot;, &quot;week&quot;, &quot;time&quot;, &quot;datetime-local&quot;, &quot;color&quot;, and &quot;file&quot;](https://www.reddit.com/r/javascript/comments/seuvzr/chrome_99_will_ship_with_the_htmlinputelement/)
-- [[AskJS] Can someone explain what is going on with var vs let here?](https://www.reddit.com/r/javascript/comments/set0vo/askjs_can_someone_explain_what_is_going_on_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
