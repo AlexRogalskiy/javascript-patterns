@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A library that brings high-level asynchronous gesture events to the web by extending the standard addEventListener interface.](https://www.reddit.com/r/javascript/comments/sghnmx/a_library_that_brings_highlevel_asynchronous/)
+- [Angular extended diagnostics](https://www.reddit.com/r/javascript/comments/sghg66/angular_extended_diagnostics/)
+- [Comment Spam](https://www.reddit.com/r/javascript/comments/sg94pm/comment_spam/)
 - [How you can create a sidebar like the daily.dev extension fron scratch using React and Tailwindcss in 4 steps](https://www.reddit.com/r/javascript/comments/sfw167/how_you_can_create_a_sidebar_like_the_dailydev/)
-- [[AskJS] ELI5: Can someone give me idiot-proof instructions on how to download, install, and test the tone.js library?](https://www.reddit.com/r/javascript/comments/sfpld7/askjs_eli5_can_someone_give_me_idiotproof/)
 - [[AskJS] What&#39;s your opinions on userscripts and do you guys create personal ones?](https://www.reddit.com/r/javascript/comments/sfoiz8/askjs_whats_your_opinions_on_userscripts_and_do/)
 - [Node.js will include support for `fetch` in their next release](https://www.reddit.com/r/javascript/comments/sfoai3/nodejs_will_include_support_for_fetch_in_their/)
 - [Badge on NPM packages to show support for ES modules](https://www.reddit.com/r/javascript/comments/sfm5ha/badge_on_npm_packages_to_show_support_for_es/)
 - [Locks in JS, because why not?](https://www.reddit.com/r/javascript/comments/sfjge1/locks_in_js_because_why_not/)
 - [Showoff Saturday &lpar;January 29, 2022&rpar;](https://www.reddit.com/r/javascript/comments/sfdbl7/showoff_saturday_january_29_2022/)
 - [Updates from the 88th TC39 meeting](https://www.reddit.com/r/javascript/comments/sf60e2/updates_from_the_88th_tc39_meeting/)
-- [We meme, but these kinds of job postings do exist. 7+ years experience with Vue even though it hasn’t even existed for that long?!](https://www.reddit.com/r/javascript/comments/sf5lzz/we_meme_but_these_kinds_of_job_postings_do_exist/)
-- [Under-the-hood of Docker - a mini-working version of a Docker ecosystem, including build and run commands](https://www.reddit.com/r/javascript/comments/sew620/underthehood_of_docker_a_miniworking_version_of_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
