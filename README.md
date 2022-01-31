@@ -292,8 +292,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
-- [GraalVM 22.0 promises a better developer experience](https://www.infoworld.com/article/3648448/graalvm-220-promises-a-better-developer-experience.html#tk.rss_javascript)
 - [Hands-on with React Server Components](https://www.infoworld.com/article/3648191/hands-on-with-react-server-components.html#tk.rss_javascript)
+- [GraalVM 22.0 promises a better developer experience](https://www.infoworld.com/article/3648448/graalvm-220-promises-a-better-developer-experience.html#tk.rss_javascript)
 - [TypeScript 4.6 loosens up](https://www.infoworld.com/article/3647880/microsoft-s-typescript-4-6-offers-enhancements-for-coders-control-flow-analysis.html#tk.rss_javascript)
 - [Faker NPM package back on track after malicious coding incident](https://www.infoworld.com/article/3647750/faker-npm-package-back-on-track-after-malicious-coding-incident.html#tk.rss_javascript)
 - [Hands-on with GatsbyJS](https://www.infoworld.com/article/3646408/hands-on-with-the-gatsby-javascript-framework.html#tk.rss_javascript)
