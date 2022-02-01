@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [A library that brings high-level asynchronous gesture events to the web by extending the standard addEventListener interface.](https://www.reddit.com/r/javascript/comments/sghnmx/a_library_that_brings_highlevel_asynchronous/)
-- [Angular extended diagnostics](https://www.reddit.com/r/javascript/comments/sghg66/angular_extended_diagnostics/)
-- [Comment Spam](https://www.reddit.com/r/javascript/comments/sg94pm/comment_spam/)
-- [How you can create a sidebar like the daily.dev extension fron scratch using React and Tailwindcss in 4 steps](https://www.reddit.com/r/javascript/comments/sfw167/how_you_can_create_a_sidebar_like_the_dailydev/)
-- [[AskJS] What&#39;s your opinions on userscripts and do you guys create personal ones?](https://www.reddit.com/r/javascript/comments/sfoiz8/askjs_whats_your_opinions_on_userscripts_and_do/)
-- [Node.js will include support for `fetch` in their next release](https://www.reddit.com/r/javascript/comments/sfoai3/nodejs_will_include_support_for_fetch_in_their/)
-- [Badge on NPM packages to show support for ES modules](https://www.reddit.com/r/javascript/comments/sfm5ha/badge_on_npm_packages_to_show_support_for_es/)
-- [Locks in JS, because why not?](https://www.reddit.com/r/javascript/comments/sfjge1/locks_in_js_because_why_not/)
-- [Showoff Saturday &lpar;January 29, 2022&rpar;](https://www.reddit.com/r/javascript/comments/sfdbl7/showoff_saturday_january_29_2022/)
-- [Updates from the 88th TC39 meeting](https://www.reddit.com/r/javascript/comments/sf60e2/updates_from_the_88th_tc39_meeting/)
+- [State of the Web: Static Site Generators](https://www.reddit.com/r/javascript/comments/shgbdf/state_of_the_web_static_site_generators/)
+- [[AskJS] High-quality TypeScript/JavaScript data structures/utilities with complexity analysis docs](https://www.reddit.com/r/javascript/comments/sh9m1v/askjs_highquality_typescriptjavascript_data/)
+- [For Amazon, I Made A Web-based, Interactive/Visual Explainer of Decision Trees in Machine Learning](https://www.reddit.com/r/javascript/comments/sh8ylm/for_amazon_i_made_a_webbased_interactivevisual/)
+- [[AskJS] How to generate Salted SHA256 password in Rhino JS](https://www.reddit.com/r/javascript/comments/sh7rxe/askjs_how_to_generate_salted_sha256_password_in/)
+- [Hacks Decoded: Adewale Adetona](https://www.reddit.com/r/javascript/comments/sh78iw/hacks_decoded_adewale_adetona/)
+- [What type of programmer are you?](https://www.reddit.com/r/javascript/comments/sh6107/what_type_of_programmer_are_you/)
+- [V8 release v9.9](https://www.reddit.com/r/javascript/comments/sh5oyb/v8_release_v99/)
+- [Learn: Bubble Sort in Javascript](https://www.reddit.com/r/javascript/comments/sh5ab0/learn_bubble_sort_in_javascript/)
+- [GitHub - Reiryoku-Technologies/Mida: A JavaScript framework to easily operate in global financial markets.](https://www.reddit.com/r/javascript/comments/sh4wkm/github_reiryokutechnologiesmida_a_javascript/)
+- [[AskJS] What is the difference between yarn and lerna?](https://www.reddit.com/r/javascript/comments/sh4lep/askjs_what_is_the_difference_between_yarn_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
