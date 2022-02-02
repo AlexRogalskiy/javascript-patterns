@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [State of the Web: Static Site Generators](https://www.reddit.com/r/javascript/comments/shgbdf/state_of_the_web_static_site_generators/)
-- [[AskJS] High-quality TypeScript/JavaScript data structures/utilities with complexity analysis docs](https://www.reddit.com/r/javascript/comments/sh9m1v/askjs_highquality_typescriptjavascript_data/)
-- [For Amazon, I Made A Web-based, Interactive/Visual Explainer of Decision Trees in Machine Learning](https://www.reddit.com/r/javascript/comments/sh8ylm/for_amazon_i_made_a_webbased_interactivevisual/)
-- [[AskJS] How to generate Salted SHA256 password in Rhino JS](https://www.reddit.com/r/javascript/comments/sh7rxe/askjs_how_to_generate_salted_sha256_password_in/)
-- [Hacks Decoded: Adewale Adetona](https://www.reddit.com/r/javascript/comments/sh78iw/hacks_decoded_adewale_adetona/)
-- [What type of programmer are you?](https://www.reddit.com/r/javascript/comments/sh6107/what_type_of_programmer_are_you/)
-- [V8 release v9.9](https://www.reddit.com/r/javascript/comments/sh5oyb/v8_release_v99/)
-- [Learn: Bubble Sort in Javascript](https://www.reddit.com/r/javascript/comments/sh5ab0/learn_bubble_sort_in_javascript/)
-- [GitHub - Reiryoku-Technologies/Mida: A JavaScript framework to easily operate in global financial markets.](https://www.reddit.com/r/javascript/comments/sh4wkm/github_reiryokutechnologiesmida_a_javascript/)
-- [[AskJS] What is the difference between yarn and lerna?](https://www.reddit.com/r/javascript/comments/sh4lep/askjs_what_is_the_difference_between_yarn_and/)
+- [[AskJS] How could I go about capturing/processing frames from an embedded youtube stream?](https://www.reddit.com/r/javascript/comments/sic86e/askjs_how_could_i_go_about_capturingprocessing/)
+- [[AskJS] Type hints in JavaScript?](https://www.reddit.com/r/javascript/comments/sibnho/askjs_type_hints_in_javascript/)
+- [[AskJS] How were asynchronous functions written before Promises?](https://www.reddit.com/r/javascript/comments/sibio4/askjs_how_were_asynchronous_functions_written/)
+- [An Introduction To Type Programming In TypeScript](https://www.reddit.com/r/javascript/comments/si8vab/an_introduction_to_type_programming_in_typescript/)
+- [Angular Debugging Guides](https://www.reddit.com/r/javascript/comments/si775v/angular_debugging_guides/)
+- [Announcing PWA Studio, the VS Code extension for building Progressive Web Apps!](https://www.reddit.com/r/javascript/comments/si2xu4/announcing_pwa_studio_the_vs_code_extension_for/)
+- [[AskJS] Thoughts on using the WebCrypto API to protect a static site?](https://www.reddit.com/r/javascript/comments/si20aa/askjs_thoughts_on_using_the_webcrypto_api_to/)
+- [GitHub - lisupeng/tsailun: Open source selfhosted web-based wiki/doc/knowledge management and collaboration](https://www.reddit.com/r/javascript/comments/si1xym/github_lisupengtsailun_open_source_selfhosted/)
+- [Instantly Comment + Improve Your Code](https://www.reddit.com/r/javascript/comments/si1a41/instantly_comment_improve_your_code/)
+- [GitHub - AyushShahh/web-speech-synthesis-and-recognition: Speech to Text and Text to Speech on a web browser](https://www.reddit.com/r/javascript/comments/si043b/github_ayushshahhwebspeechsynthesisandrecognition/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
