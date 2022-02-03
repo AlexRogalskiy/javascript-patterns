@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] How could I go about capturing/processing frames from an embedded youtube stream?](https://www.reddit.com/r/javascript/comments/sic86e/askjs_how_could_i_go_about_capturingprocessing/)
-- [[AskJS] Type hints in JavaScript?](https://www.reddit.com/r/javascript/comments/sibnho/askjs_type_hints_in_javascript/)
-- [[AskJS] How were asynchronous functions written before Promises?](https://www.reddit.com/r/javascript/comments/sibio4/askjs_how_were_asynchronous_functions_written/)
-- [An Introduction To Type Programming In TypeScript](https://www.reddit.com/r/javascript/comments/si8vab/an_introduction_to_type_programming_in_typescript/)
-- [Angular Debugging Guides](https://www.reddit.com/r/javascript/comments/si775v/angular_debugging_guides/)
-- [Announcing PWA Studio, the VS Code extension for building Progressive Web Apps!](https://www.reddit.com/r/javascript/comments/si2xu4/announcing_pwa_studio_the_vs_code_extension_for/)
-- [[AskJS] Thoughts on using the WebCrypto API to protect a static site?](https://www.reddit.com/r/javascript/comments/si20aa/askjs_thoughts_on_using_the_webcrypto_api_to/)
-- [GitHub - lisupeng/tsailun: Open source selfhosted web-based wiki/doc/knowledge management and collaboration](https://www.reddit.com/r/javascript/comments/si1xym/github_lisupengtsailun_open_source_selfhosted/)
-- [Instantly Comment + Improve Your Code](https://www.reddit.com/r/javascript/comments/si1a41/instantly_comment_improve_your_code/)
-- [GitHub - AyushShahh/web-speech-synthesis-and-recognition: Speech to Text and Text to Speech on a web browser](https://www.reddit.com/r/javascript/comments/si043b/github_ayushshahhwebspeechsynthesisandrecognition/)
+- [12 Tips on Becoming a Senior Frontend Engineer](https://www.reddit.com/r/javascript/comments/sizvke/12_tips_on_becoming_a_senior_frontend_engineer/)
+- [[AskJS] Is it possible to add dynamic metadata with create-react-app?](https://www.reddit.com/r/javascript/comments/sixbgr/askjs_is_it_possible_to_add_dynamic_metadata_with/)
+- [ReScript - a robustly typed language that compiles to efficient and human-readable JavaScript. It comes with a lightning fast compiler toolchain that scales to any codebase size](https://www.reddit.com/r/javascript/comments/sivvr7/rescript_a_robustly_typed_language_that_compiles/)
+- [Github - Concise.mjs is an all-purpose es6 snippet library. Smallest release is 8KB!](https://www.reddit.com/r/javascript/comments/siu05j/github_concisemjs_is_an_allpurpose_es6_snippet/)
+- [Structuring your Storybook](https://www.reddit.com/r/javascript/comments/sitskm/structuring_your_storybook/)
+- [Nobody at Facebook has worked on Jest for years](https://www.reddit.com/r/javascript/comments/sitf3e/nobody_at_facebook_has_worked_on_jest_for_years/)
+- [[AskJS] I started making a Discord bot not too long ago](https://www.reddit.com/r/javascript/comments/siskbb/askjs_i_started_making_a_discord_bot_not_too_long/)
+- [Social chat history visualizer](https://www.reddit.com/r/javascript/comments/sis4ak/social_chat_history_visualizer/)
+- [Circular array in JavaScript](https://www.reddit.com/r/javascript/comments/sirphj/circular_array_in_javascript/)
+- [Retrospective and Technical Details on the recent Firefox Outage](https://www.reddit.com/r/javascript/comments/sik31x/retrospective_and_technical_details_on_the_recent/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
