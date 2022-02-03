@@ -292,16 +292,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Getting started with the Teams JavaScript SDK v2.0](https://www.infoworld.com/article/3648355/getting-started-with-the-teams-javascript-sdk-v20.html#tk.rss_javascript)
 - [Deno 1.18 completes Web Crypto API](https://www.infoworld.com/article/3648354/deno-118-completes-web-crypto-api.html#tk.rss_javascript)
-- [GraalVM 22.0 promises a better developer experience](https://www.infoworld.com/article/3648448/graalvm-220-promises-a-better-developer-experience.html#tk.rss_javascript)
 - [Hands-on with React Server Components](https://www.infoworld.com/article/3648191/hands-on-with-react-server-components.html#tk.rss_javascript)
+- [GraalVM 22.0 promises a better developer experience](https://www.infoworld.com/article/3648448/graalvm-220-promises-a-better-developer-experience.html#tk.rss_javascript)
 - [TypeScript 4.6 loosens up](https://www.infoworld.com/article/3647880/microsoft-s-typescript-4-6-offers-enhancements-for-coders-control-flow-analysis.html#tk.rss_javascript)
 - [Faker NPM package back on track after malicious coding incident](https://www.infoworld.com/article/3647750/faker-npm-package-back-on-track-after-malicious-coding-incident.html#tk.rss_javascript)
 - [Hands-on with GatsbyJS](https://www.infoworld.com/article/3646408/hands-on-with-the-gatsby-javascript-framework.html#tk.rss_javascript)
 - [AngularJS reaches end of life](https://www.infoworld.com/article/3646609/angularjs-reaches-end-of-life.html#tk.rss_javascript)
 - [Ruby on Rails 7 rejiggers JavaScript support](https://www.infoworld.com/article/3645356/ruby-on-rails-7-rejiggers-javascript-support.html#tk.rss_javascript)
 - [Hands-on with MarkoJS](https://www.infoworld.com/article/3643329/hands-on-with-the-marko-javascript-framework.html#tk.rss_javascript)
-- [Deno joins JavaScript standards effort](https://www.infoworld.com/article/3644460/deno-joins-javascript-standards-effort.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
