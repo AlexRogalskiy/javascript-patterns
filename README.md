@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [12 Tips on Becoming a Senior Frontend Engineer](https://www.reddit.com/r/javascript/comments/sizvke/12_tips_on_becoming_a_senior_frontend_engineer/)
-- [[AskJS] Is it possible to add dynamic metadata with create-react-app?](https://www.reddit.com/r/javascript/comments/sixbgr/askjs_is_it_possible_to_add_dynamic_metadata_with/)
-- [ReScript - a robustly typed language that compiles to efficient and human-readable JavaScript. It comes with a lightning fast compiler toolchain that scales to any codebase size](https://www.reddit.com/r/javascript/comments/sivvr7/rescript_a_robustly_typed_language_that_compiles/)
-- [Github - Concise.mjs is an all-purpose es6 snippet library. Smallest release is 8KB!](https://www.reddit.com/r/javascript/comments/siu05j/github_concisemjs_is_an_allpurpose_es6_snippet/)
-- [Structuring your Storybook](https://www.reddit.com/r/javascript/comments/sitskm/structuring_your_storybook/)
-- [Nobody at Facebook has worked on Jest for years](https://www.reddit.com/r/javascript/comments/sitf3e/nobody_at_facebook_has_worked_on_jest_for_years/)
-- [[AskJS] I started making a Discord bot not too long ago](https://www.reddit.com/r/javascript/comments/siskbb/askjs_i_started_making_a_discord_bot_not_too_long/)
-- [Social chat history visualizer](https://www.reddit.com/r/javascript/comments/sis4ak/social_chat_history_visualizer/)
-- [Circular array in JavaScript](https://www.reddit.com/r/javascript/comments/sirphj/circular_array_in_javascript/)
-- [Retrospective and Technical Details on the recent Firefox Outage](https://www.reddit.com/r/javascript/comments/sik31x/retrospective_and_technical_details_on_the_recent/)
+- [[AskJS] How can I avoid global variable in the following code?](https://www.reddit.com/r/javascript/comments/sjt5so/askjs_how_can_i_avoid_global_variable_in_the/)
+- [[AskJS] How to manipulate dates in UTC?](https://www.reddit.com/r/javascript/comments/sjs2sx/askjs_how_to_manipulate_dates_in_utc/)
+- [Visual Studio Code January 2022](https://www.reddit.com/r/javascript/comments/sjrnm2/visual_studio_code_january_2022/)
+- [[AskJS] Microsoft graph sdk](https://www.reddit.com/r/javascript/comments/sjr9xb/askjs_microsoft_graph_sdk/)
+- [Why Efficient Hydration in JavaScript Frameworks is so Challenging](https://www.reddit.com/r/javascript/comments/sjp2t1/why_efficient_hydration_in_javascript_frameworks/)
+- [Codemod to migrate scripts from Puppeteer to Playwright](https://www.reddit.com/r/javascript/comments/sjn2qb/codemod_to_migrate_scripts_from_puppeteer_to/)
+- [Optimizing Content Migrations With Edge Compute](https://www.reddit.com/r/javascript/comments/sjlmaa/optimizing_content_migrations_with_edge_compute/)
+- [[AskJS] Does order matter in nested for loops?](https://www.reddit.com/r/javascript/comments/sjkwip/askjs_does_order_matter_in_nested_for_loops/)
+- [[AskJS] which is better and why? array.push vs [...array, item]](https://www.reddit.com/r/javascript/comments/sjcbzf/askjs_which_is_better_and_why_arraypush_vs_array/)
+- [[AskJS] What is the recommended way of organizing big projects?](https://www.reddit.com/r/javascript/comments/sj7z1u/askjs_what_is_the_recommended_way_of_organizing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
