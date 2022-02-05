@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] How can I avoid global variable in the following code?](https://www.reddit.com/r/javascript/comments/sjt5so/askjs_how_can_i_avoid_global_variable_in_the/)
-- [[AskJS] How to manipulate dates in UTC?](https://www.reddit.com/r/javascript/comments/sjs2sx/askjs_how_to_manipulate_dates_in_utc/)
-- [Visual Studio Code January 2022](https://www.reddit.com/r/javascript/comments/sjrnm2/visual_studio_code_january_2022/)
-- [[AskJS] Microsoft graph sdk](https://www.reddit.com/r/javascript/comments/sjr9xb/askjs_microsoft_graph_sdk/)
-- [Why Efficient Hydration in JavaScript Frameworks is so Challenging](https://www.reddit.com/r/javascript/comments/sjp2t1/why_efficient_hydration_in_javascript_frameworks/)
-- [Codemod to migrate scripts from Puppeteer to Playwright](https://www.reddit.com/r/javascript/comments/sjn2qb/codemod_to_migrate_scripts_from_puppeteer_to/)
-- [Optimizing Content Migrations With Edge Compute](https://www.reddit.com/r/javascript/comments/sjlmaa/optimizing_content_migrations_with_edge_compute/)
-- [[AskJS] Does order matter in nested for loops?](https://www.reddit.com/r/javascript/comments/sjkwip/askjs_does_order_matter_in_nested_for_loops/)
-- [[AskJS] which is better and why? array.push vs [...array, item]](https://www.reddit.com/r/javascript/comments/sjcbzf/askjs_which_is_better_and_why_arraypush_vs_array/)
-- [[AskJS] What is the recommended way of organizing big projects?](https://www.reddit.com/r/javascript/comments/sj7z1u/askjs_what_is_the_recommended_way_of_organizing/)
+- [I made a React, Vite, Tailwind boilerplate with Filesystem-based-routing for both components and markdown files](https://www.reddit.com/r/javascript/comments/skiahj/i_made_a_react_vite_tailwind_boilerplate_with/)
+- [ECMAScript proposal: grouping Arrays via .groupBy&lpar;&rpar; and .groupByToMap&lpar;&rpar;](https://www.reddit.com/r/javascript/comments/skgxgo/ecmascript_proposal_grouping_arrays_via_groupby/)
+- [Don&#39;t make me think, or why I switched to Rails from JavaScript SPAs](https://www.reddit.com/r/javascript/comments/skeyhn/dont_make_me_think_or_why_i_switched_to_rails/)
+- [[AskJS] Beginner to javascript, I&#39;m currently working through Grasshopper. I don&#39;t feel like I am learning the theory of it though, just rote exercises.](https://www.reddit.com/r/javascript/comments/skegp6/askjs_beginner_to_javascript_im_currently_working/)
+- [tnode: simple Node.js-compatible scripting with Typescript](https://www.reddit.com/r/javascript/comments/ske369/tnode_simple_nodejscompatible_scripting_with/)
+- [CodeceptJS 3.3 released with API testing support](https://www.reddit.com/r/javascript/comments/skctbk/codeceptjs_33_released_with_api_testing_support/)
+- [Integrating Storybook with Cypress and HMR](https://www.reddit.com/r/javascript/comments/skbde2/integrating_storybook_with_cypress_and_hmr/)
+- [Yes, I can connect to a DB in CSS](https://www.reddit.com/r/javascript/comments/skb7hu/yes_i_can_connect_to_a_db_in_css/)
+- [monio: The most powerful IO monad implementation in JS](https://www.reddit.com/r/javascript/comments/skanpg/monio_the_most_powerful_io_monad_implementation/)
+- [[AskJS] Glossia - styling solution](https://www.reddit.com/r/javascript/comments/sk7vmd/askjs_glossia_styling_solution/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
