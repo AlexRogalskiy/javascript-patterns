@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] How to transform Intersection to Union in ts?](https://www.reddit.com/r/javascript/comments/sln0ju/askjs_how_to_transform_intersection_to_union_in_ts/)
-- [I created a resource to help explain what a exactly a design system is, the features that can compose one, and tools to help build one.](https://www.reddit.com/r/javascript/comments/sld760/i_created_a_resource_to_help_explain_what_a/)
-- [[AskJS] Help! I am a single developer of a jquery-only pwa website. The spaghetti code is now becoming too hard to maintain. Where should I migrate to? My js skills are basic, so react seems too difficult for me.](https://www.reddit.com/r/javascript/comments/sl6l4f/askjs_help_i_am_a_single_developer_of_a/)
-- [Showoff Saturday &lpar;February 05, 2022&rpar;](https://www.reddit.com/r/javascript/comments/sl1pvw/showoff_saturday_february_05_2022/)
-- [[AskJS] Best utility functions for Javascript?](https://www.reddit.com/r/javascript/comments/sky7z8/askjs_best_utility_functions_for_javascript/)
-- [I made a React, Vite, Tailwind boilerplate with Filesystem-based-routing for both components and markdown files](https://www.reddit.com/r/javascript/comments/skiahj/i_made_a_react_vite_tailwind_boilerplate_with/)
-- [ECMAScript proposal: grouping Arrays via .groupBy&lpar;&rpar; and .groupByToMap&lpar;&rpar;](https://www.reddit.com/r/javascript/comments/skgxgo/ecmascript_proposal_grouping_arrays_via_groupby/)
-- [Don&#39;t make me think, or why I switched to Rails from JavaScript SPAs](https://www.reddit.com/r/javascript/comments/skeyhn/dont_make_me_think_or_why_i_switched_to_rails/)
-- [[AskJS] Beginner to javascript, I&#39;m currently working through Grasshopper. I don&#39;t feel like I am learning the theory of it though, just rote exercises.](https://www.reddit.com/r/javascript/comments/skegp6/askjs_beginner_to_javascript_im_currently_working/)
-- [tnode: simple Node.js-compatible scripting with Typescript](https://www.reddit.com/r/javascript/comments/ske369/tnode_simple_nodejscompatible_scripting_with/)
+- [MikroORM 5: Stricter, Safer, Smarter](https://www.reddit.com/r/javascript/comments/sm8fee/mikroorm_5_stricter_safer_smarter/)
+- [I created a framework for trading &lpar;crypto, forex, commodities...&rpar; AMA](https://www.reddit.com/r/javascript/comments/sm88f9/i_created_a_framework_for_trading_crypto_forex/)
+- [Relesed v1.0.0 of my pet javasscript project yesterday after hitting 100% coverage- a gesture detection library](https://www.reddit.com/r/javascript/comments/sm70xk/relesed_v100_of_my_pet_javasscript_project/)
+- [Why is dynamically adding properties slow in JavaScript?](https://www.reddit.com/r/javascript/comments/sm6u3j/why_is_dynamically_adding_properties_slow_in/)
+- [[AskJS] What is the library that javascript uses underneath for async/await?](https://www.reddit.com/r/javascript/comments/sm0nai/askjs_what_is_the_library_that_javascript_uses/)
+- [Fancy Events: A small and fast event emitter for node.js and browser with wildcards and regular expressions](https://www.reddit.com/r/javascript/comments/slykom/fancy_events_a_small_and_fast_event_emitter_for/)
+- [Learn to manage AWS Lambda artifact size when using Prisma in your serverless functions](https://www.reddit.com/r/javascript/comments/slrnce/learn_to_manage_aws_lambda_artifact_size_when/)
+- [[AskJS] textfill and submit from another webpage](https://www.reddit.com/r/javascript/comments/slrn4f/askjs_textfill_and_submit_from_another_webpage/)
+- [I created a NextJS app that helps visualize your GitHub repositories in a timeline you can easily share. The link to the web app is in the repo description.](https://www.reddit.com/r/javascript/comments/slqpmq/i_created_a_nextjs_app_that_helps_visualize_your/)
+- [[AskJS] Trying to Access Local Files with JS for my Chrome Extension. Any Help is Appreciated.](https://www.reddit.com/r/javascript/comments/slpzef/askjs_trying_to_access_local_files_with_js_for_my/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
