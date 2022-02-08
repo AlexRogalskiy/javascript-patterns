@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Do you use Yarn v2?](https://www.reddit.com/r/javascript/comments/sn21n4/askjs_do_you_use_yarn_v2/)
+- [What&#39;s in your package.json?](https://www.reddit.com/r/javascript/comments/smv2ga/whats_in_your_packagejson/)
+- [Your /r/javascript recap for the week of January 31 - February 06](https://www.reddit.com/r/javascript/comments/smmoyv/your_rjavascript_recap_for_the_week_of_january_31/)
+- [No-JavaScript Fingerprinting](https://www.reddit.com/r/javascript/comments/smmo0a/nojavascript_fingerprinting/)
+- [Vue has switched default version to v3](https://www.reddit.com/r/javascript/comments/smlbl0/vue_has_switched_default_version_to_v3/)
 - [MikroORM 5: Stricter, Safer, Smarter](https://www.reddit.com/r/javascript/comments/sm8fee/mikroorm_5_stricter_safer_smarter/)
-- [I created a framework for trading &lpar;crypto, forex, commodities...&rpar; AMA](https://www.reddit.com/r/javascript/comments/sm88f9/i_created_a_framework_for_trading_crypto_forex/)
 - [Relesed v1.0.0 of my pet javasscript project yesterday after hitting 100% coverage- a gesture detection library](https://www.reddit.com/r/javascript/comments/sm70xk/relesed_v100_of_my_pet_javasscript_project/)
-- [Why is dynamically adding properties slow in JavaScript?](https://www.reddit.com/r/javascript/comments/sm6u3j/why_is_dynamically_adding_properties_slow_in/)
 - [[AskJS] What is the library that javascript uses underneath for async/await?](https://www.reddit.com/r/javascript/comments/sm0nai/askjs_what_is_the_library_that_javascript_uses/)
-- [Fancy Events: A small and fast event emitter for node.js and browser with wildcards and regular expressions](https://www.reddit.com/r/javascript/comments/slykom/fancy_events_a_small_and_fast_event_emitter_for/)
 - [Learn to manage AWS Lambda artifact size when using Prisma in your serverless functions](https://www.reddit.com/r/javascript/comments/slrnce/learn_to_manage_aws_lambda_artifact_size_when/)
-- [[AskJS] textfill and submit from another webpage](https://www.reddit.com/r/javascript/comments/slrn4f/askjs_textfill_and_submit_from_another_webpage/)
-- [I created a NextJS app that helps visualize your GitHub repositories in a timeline you can easily share. The link to the web app is in the repo description.](https://www.reddit.com/r/javascript/comments/slqpmq/i_created_a_nextjs_app_that_helps_visualize_your/)
-- [[AskJS] Trying to Access Local Files with JS for my Chrome Extension. Any Help is Appreciated.](https://www.reddit.com/r/javascript/comments/slpzef/askjs_trying_to_access_local_files_with_js_for_my/)
+- [I created a resource to help explain what a exactly a design system is, the features that can compose one, and tools to help build one.](https://www.reddit.com/r/javascript/comments/sld760/i_created_a_resource_to_help_explain_what_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
