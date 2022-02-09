@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Do you use Yarn v2?](https://www.reddit.com/r/javascript/comments/sn21n4/askjs_do_you_use_yarn_v2/)
-- [What&#39;s in your package.json?](https://www.reddit.com/r/javascript/comments/smv2ga/whats_in_your_packagejson/)
-- [Your /r/javascript recap for the week of January 31 - February 06](https://www.reddit.com/r/javascript/comments/smmoyv/your_rjavascript_recap_for_the_week_of_january_31/)
-- [No-JavaScript Fingerprinting](https://www.reddit.com/r/javascript/comments/smmo0a/nojavascript_fingerprinting/)
-- [Vue has switched default version to v3](https://www.reddit.com/r/javascript/comments/smlbl0/vue_has_switched_default_version_to_v3/)
-- [MikroORM 5: Stricter, Safer, Smarter](https://www.reddit.com/r/javascript/comments/sm8fee/mikroorm_5_stricter_safer_smarter/)
-- [Relesed v1.0.0 of my pet javasscript project yesterday after hitting 100% coverage- a gesture detection library](https://www.reddit.com/r/javascript/comments/sm70xk/relesed_v100_of_my_pet_javasscript_project/)
-- [[AskJS] What is the library that javascript uses underneath for async/await?](https://www.reddit.com/r/javascript/comments/sm0nai/askjs_what_is_the_library_that_javascript_uses/)
-- [Learn to manage AWS Lambda artifact size when using Prisma in your serverless functions](https://www.reddit.com/r/javascript/comments/slrnce/learn_to_manage_aws_lambda_artifact_size_when/)
-- [I created a resource to help explain what a exactly a design system is, the features that can compose one, and tools to help build one.](https://www.reddit.com/r/javascript/comments/sld760/i_created_a_resource_to_help_explain_what_a/)
+- [[AskJS] What are some physical tools/toys that you can program using javascript?](https://www.reddit.com/r/javascript/comments/snzgzd/askjs_what_are_some_physical_toolstoys_that_you/)
+- [New state management and architecture library](https://www.reddit.com/r/javascript/comments/sny40s/new_state_management_and_architecture_library/)
+- [[AskJS] Client-side decryption of large file with Javascript](https://www.reddit.com/r/javascript/comments/sntaw4/askjs_clientside_decryption_of_large_file_with/)
+- [New in JavaScript: reportError – a method to report to global event handlers](https://www.reddit.com/r/javascript/comments/snsb6v/new_in_javascript_reporterror_a_method_to_report/)
+- [Improving the Storage Access API in Firefox](https://www.reddit.com/r/javascript/comments/snrl12/improving_the_storage_access_api_in_firefox/)
+- [How to Create a Notes App with Strapi v4 and React Native](https://www.reddit.com/r/javascript/comments/snrayo/how_to_create_a_notes_app_with_strapi_v4_and/)
+- [GitHub - Reiryoku-Technologies/Mida: A JavaScript framework to easily operate in global financial markets](https://www.reddit.com/r/javascript/comments/snp37d/github_reiryokutechnologiesmida_a_javascript/)
+- [Let your users write tests for you](https://www.reddit.com/r/javascript/comments/snnyow/let_your_users_write_tests_for_you/)
+- [[AskJS] What is the proper way to fetch and display data from a JSON API eg. 200 products?](https://www.reddit.com/r/javascript/comments/snlyo2/askjs_what_is_the_proper_way_to_fetch_and_display/)
+- [Since my driver video was well received last time, here is another: Building an SD Card driver from scratch](https://www.reddit.com/r/javascript/comments/snlxsa/since_my_driver_video_was_well_received_last_time/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
