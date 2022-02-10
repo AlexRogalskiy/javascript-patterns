@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] What are some physical tools/toys that you can program using javascript?](https://www.reddit.com/r/javascript/comments/snzgzd/askjs_what_are_some_physical_toolstoys_that_you/)
-- [New state management and architecture library](https://www.reddit.com/r/javascript/comments/sny40s/new_state_management_and_architecture_library/)
-- [[AskJS] Client-side decryption of large file with Javascript](https://www.reddit.com/r/javascript/comments/sntaw4/askjs_clientside_decryption_of_large_file_with/)
-- [New in JavaScript: reportError – a method to report to global event handlers](https://www.reddit.com/r/javascript/comments/snsb6v/new_in_javascript_reporterror_a_method_to_report/)
-- [Improving the Storage Access API in Firefox](https://www.reddit.com/r/javascript/comments/snrl12/improving_the_storage_access_api_in_firefox/)
-- [How to Create a Notes App with Strapi v4 and React Native](https://www.reddit.com/r/javascript/comments/snrayo/how_to_create_a_notes_app_with_strapi_v4_and/)
-- [GitHub - Reiryoku-Technologies/Mida: A JavaScript framework to easily operate in global financial markets](https://www.reddit.com/r/javascript/comments/snp37d/github_reiryokutechnologiesmida_a_javascript/)
-- [Let your users write tests for you](https://www.reddit.com/r/javascript/comments/snnyow/let_your_users_write_tests_for_you/)
-- [[AskJS] What is the proper way to fetch and display data from a JSON API eg. 200 products?](https://www.reddit.com/r/javascript/comments/snlyo2/askjs_what_is_the_proper_way_to_fetch_and_display/)
-- [Since my driver video was well received last time, here is another: Building an SD Card driver from scratch](https://www.reddit.com/r/javascript/comments/snlxsa/since_my_driver_video_was_well_received_last_time/)
+- [ToolJet - Extensible open-source &lpar;5k+ stars on gitHub&rpar; low-code framework. Completely built using React and NestJS. Connect to databases, cloud storages, GraphQL, API endpoints Airtable, etc and build apps using drag and drop editor. Alternative to PowerApps and Retool.](https://www.reddit.com/r/javascript/comments/sotwla/tooljet_extensible_opensource_5k_stars_on_github/)
+- [Medusa-extender new release](https://www.reddit.com/r/javascript/comments/soqopw/medusaextender_new_release/)
+- [Release of google/zx 5.0.0](https://www.reddit.com/r/javascript/comments/sonf1u/release_of_googlezx_500/)
+- [Going further with TypeScript - Part 1: Mapped Types](https://www.reddit.com/r/javascript/comments/son01n/going_further_with_typescript_part_1_mapped_types/)
+- [GitHub - hikerpig/pintora: An extensible text-to-diagrams library that works in both browser and node.js](https://www.reddit.com/r/javascript/comments/somyt1/github_hikerpigpintora_an_extensible/)
+- [JavaScript unshift: A complete guide](https://www.reddit.com/r/javascript/comments/solod8/javascript_unshift_a_complete_guide/)
+- [[AskJS] What conditional statement do you guys prefer?](https://www.reddit.com/r/javascript/comments/sokynb/askjs_what_conditional_statement_do_you_guys/)
+- [[AskJS] Are there any outdated concepts in the first Ed of You Don&#39;t Know Javascript?](https://www.reddit.com/r/javascript/comments/soktdc/askjs_are_there_any_outdated_concepts_in_the/)
+- [TIL about the &quot;Intent-Perception Gap&quot; in programming. Best exemplified when a CTO or manager casually suggests something to their employees and the developers take it as a new work commandment or direction for their team.](https://www.reddit.com/r/javascript/comments/soi1pe/til_about_the_intentperception_gap_in_programming/)
+- [Share Code Snippets Like A Pro Without Using GitHub](https://www.reddit.com/r/javascript/comments/sofzeh/share_code_snippets_like_a_pro_without_using/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
