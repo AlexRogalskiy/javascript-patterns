@@ -292,6 +292,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [WhiteSource report warns of NPM registry risks](https://www.infoworld.com/article/3650028/whitesource-report-warns-of-npm-registry-risks.html#tk.rss_javascript)
+- [8 new JavaScript features you might have missed](https://www.infoworld.com/article/3649200/8-new-javascript-features-you-might-have-missed.html#tk.rss_javascript)
 - [Angular 14 to add strictly typed reactive forms](https://www.infoworld.com/article/3649095/angular-frame-set-to-add-typed-forms.html#tk.rss_javascript)
 - [Builder CEO: Where JavaScript is headed is super interesting](https://www.infoworld.com/article/3648012/builder-ceo-where-javascript-is-headed-is-super-interesting.html#tk.rss_javascript)
 - [Getting started with the Teams JavaScript SDK v2.0](https://www.infoworld.com/article/3648355/getting-started-with-the-teams-javascript-sdk-v20.html#tk.rss_javascript)
@@ -300,8 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Hands-on with React Server Components](https://www.infoworld.com/article/3648191/hands-on-with-react-server-components.html#tk.rss_javascript)
 - [TypeScript 4.6 loosens up](https://www.infoworld.com/article/3647880/microsoft-s-typescript-4-6-offers-enhancements-for-coders-control-flow-analysis.html#tk.rss_javascript)
 - [Faker NPM package back on track after malicious coding incident](https://www.infoworld.com/article/3647750/faker-npm-package-back-on-track-after-malicious-coding-incident.html#tk.rss_javascript)
-- [Hands-on with GatsbyJS](https://www.infoworld.com/article/3646408/hands-on-with-the-gatsby-javascript-framework.html#tk.rss_javascript)
-- [AngularJS reaches end of life](https://www.infoworld.com/article/3646609/angularjs-reaches-end-of-life.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
