@@ -322,16 +322,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *YouTube code posts*
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [Mamá! mi Tío me dijo que hiciera un Monorepo - Jesus Emmanuel Gonzalez Vega](https://www.youtube.com/watch?v=gBCVrIsvRxw)
+- [Mom, they told me to make a Monorepo - Jesus Emmanuel Gonzalez Vega](https://www.youtube.com/watch?v=UGs_sVDSrxo)
+- [How would Typescript make your life easier? - Nacho Sainz y Fabián Flores](https://www.youtube.com/watch?v=nwDvGipW-JI)
+- [¿Cómo typescript hace tu vida más fácil? - Español  - Nacho Sainz y Fabián Flores](https://www.youtube.com/watch?v=BBJC0qX9oJo)
+- [Sistema de diseño: tokens, activos, componentes y patrones - Marian Villa](https://www.youtube.com/watch?v=h3yH0c18GZc)
+- [Design Systems: token, active, components and patterns - Marian Villa](https://www.youtube.com/watch?v=4755eI9VK7Q)
 - [Máquinas de estado finitas con XState - Carlos Martínez Avendaño](https://www.youtube.com/watch?v=dYpX3_wAIbo)
 - [JavaScript DevOps or WebOps: Construir o no construir? - Alejandro Mercado Peña](https://www.youtube.com/watch?v=bB13xZb-xlI)
 - [JavaScript DevOps or WebOps: Should I build or should I not? - Alejandro Mercado Peña](https://www.youtube.com/watch?v=Nb07xl-wj2M)
 - [Automatiza tu CMS sin interfaz visual con GraphQL - Nidhi Kumari](https://www.youtube.com/watch?v=e3-xsuo53Oo)
-- [Automate your headless CMS with GraphQL - Nidhi Kumari](https://www.youtube.com/watch?v=mXTRjDAMaVw)
-- [Offline IoT - Building Resilient Connected Devices without the Internet - Nicholas Hehr](https://www.youtube.com/watch?v=0JROQGWCmds)
-- [IoT fuera de línea - Construyendo dispositivo conectados sin internet - Nicholas Hehr](https://www.youtube.com/watch?v=kn8WhpkTFwM)
-- [Enseñando para empoderar: Como a apoyar a software engineers - Rizel Scarlett](https://www.youtube.com/watch?v=zw_J91BdDBQ)
-- [Teaching to Empower: How to Support Junior Engineers - Rizel Scarlett](https://www.youtube.com/watch?v=T3PRPLJAgIY)
-- [Un proyecto desde cero ¿Lo mismo una y otra vez? - Fransico Sevilla](https://www.youtube.com/watch?v=X-GpEWis9RU)
 <!-- YOUTUBE-POST-LIST:END -->
 
 ### *ReactJS posts*
