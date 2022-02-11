@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [ToolJet - Extensible open-source &lpar;5k+ stars on gitHub&rpar; low-code framework. Completely built using React and NestJS. Connect to databases, cloud storages, GraphQL, API endpoints Airtable, etc and build apps using drag and drop editor. Alternative to PowerApps and Retool.](https://www.reddit.com/r/javascript/comments/sotwla/tooljet_extensible_opensource_5k_stars_on_github/)
-- [Medusa-extender new release](https://www.reddit.com/r/javascript/comments/soqopw/medusaextender_new_release/)
-- [Release of google/zx 5.0.0](https://www.reddit.com/r/javascript/comments/sonf1u/release_of_googlezx_500/)
-- [Going further with TypeScript - Part 1: Mapped Types](https://www.reddit.com/r/javascript/comments/son01n/going_further_with_typescript_part_1_mapped_types/)
-- [GitHub - hikerpig/pintora: An extensible text-to-diagrams library that works in both browser and node.js](https://www.reddit.com/r/javascript/comments/somyt1/github_hikerpigpintora_an_extensible/)
-- [JavaScript unshift: A complete guide](https://www.reddit.com/r/javascript/comments/solod8/javascript_unshift_a_complete_guide/)
-- [[AskJS] What conditional statement do you guys prefer?](https://www.reddit.com/r/javascript/comments/sokynb/askjs_what_conditional_statement_do_you_guys/)
-- [[AskJS] Are there any outdated concepts in the first Ed of You Don&#39;t Know Javascript?](https://www.reddit.com/r/javascript/comments/soktdc/askjs_are_there_any_outdated_concepts_in_the/)
-- [TIL about the &quot;Intent-Perception Gap&quot; in programming. Best exemplified when a CTO or manager casually suggests something to their employees and the developers take it as a new work commandment or direction for their team.](https://www.reddit.com/r/javascript/comments/soi1pe/til_about_the_intentperception_gap_in_programming/)
-- [Share Code Snippets Like A Pro Without Using GitHub](https://www.reddit.com/r/javascript/comments/sofzeh/share_code_snippets_like_a_pro_without_using/)
+- [[AskJS] Are there numerical analysis/methods libraries in javascript?](https://www.reddit.com/r/javascript/comments/spkaoq/askjs_are_there_numerical_analysismethods/)
+- [Going further with TypeScript - Part 1: Mapped Types](https://www.reddit.com/r/javascript/comments/spgvr2/going_further_with_typescript_part_1_mapped_types/)
+- [SVGcode for Live Tracing Raster Images | CSS-Tricks](https://www.reddit.com/r/javascript/comments/spg5lp/svgcode_for_live_tracing_raster_images_csstricks/)
+- [So, I Made A Wordle Clone](https://www.reddit.com/r/javascript/comments/spfghw/so_i_made_a_wordle_clone/)
+- [[AskJS] Why does &#39;continue&#39; not work in a javascript switch?](https://www.reddit.com/r/javascript/comments/spbwwe/askjs_why_does_continue_not_work_in_a_javascript/)
+- [[AskJS] Can someone explain me how does the operation inside reduce method affect the object in outer scope?](https://www.reddit.com/r/javascript/comments/spaykr/askjs_can_someone_explain_me_how_does_the/)
+- [From beginner to JavaScripter, Part One](https://www.reddit.com/r/javascript/comments/spaxch/from_beginner_to_javascripter_part_one/)
+- [How to do a Singleton in JavaScript](https://www.reddit.com/r/javascript/comments/spailv/how_to_do_a_singleton_in_javascript/)
+- [How to chain a method to a number literal](https://www.reddit.com/r/javascript/comments/spad7z/how_to_chain_a_method_to_a_number_literal/)
+- [Component Encyclopedia beta](https://www.reddit.com/r/javascript/comments/spa9i2/component_encyclopedia_beta/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
