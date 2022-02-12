@@ -322,16 +322,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *YouTube code posts*
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [Mejores prácticas en desarrollo web en 2012: lo que nos dicen los datos - Laurie Voss](https://www.youtube.com/watch?v=R_mtnhUm50o)
+- [Web development best practices in 2021: what data tells us - Laurie Voss](https://www.youtube.com/watch?v=37GUq41zJok)
+- [Regeneración estática incremental: sitios estáticos en esteroides - Facundo Giuliani](https://www.youtube.com/watch?v=Ort2-wcOrq4)
+- [Incremental Static Regeneration: Static sites on steroids - Facundo Giuliani](https://www.youtube.com/watch?v=F7347Whnlmc)
+- [Toolbox to navigate through a new code base, with confidence - Ramón Huidobro](https://www.youtube.com/watch?v=qUqtZpiiP48)
+- [Un juego de herramientas para poder navegar una nueva base de código con confianza - Ramón Huidobro](https://www.youtube.com/watch?v=MwFvrxCJ5Lk)
 - [Mamá! mi Tío me dijo que hiciera un Monorepo - Jesus Emmanuel Gonzalez Vega](https://www.youtube.com/watch?v=gBCVrIsvRxw)
 - [Mom, they told me to make a Monorepo - Jesus Emmanuel Gonzalez Vega](https://www.youtube.com/watch?v=UGs_sVDSrxo)
 - [How would Typescript make your life easier? - Nacho Sainz y Fabián Flores](https://www.youtube.com/watch?v=nwDvGipW-JI)
 - [¿Cómo typescript hace tu vida más fácil? - Español  - Nacho Sainz y Fabián Flores](https://www.youtube.com/watch?v=BBJC0qX9oJo)
-- [Sistema de diseño: tokens, activos, componentes y patrones - Marian Villa](https://www.youtube.com/watch?v=h3yH0c18GZc)
-- [Design Systems: token, active, components and patterns - Marian Villa](https://www.youtube.com/watch?v=4755eI9VK7Q)
-- [Máquinas de estado finitas con XState - Carlos Martínez Avendaño](https://www.youtube.com/watch?v=dYpX3_wAIbo)
-- [JavaScript DevOps or WebOps: Construir o no construir? - Alejandro Mercado Peña](https://www.youtube.com/watch?v=bB13xZb-xlI)
-- [JavaScript DevOps or WebOps: Should I build or should I not? - Alejandro Mercado Peña](https://www.youtube.com/watch?v=Nb07xl-wj2M)
-- [Automatiza tu CMS sin interfaz visual con GraphQL - Nidhi Kumari](https://www.youtube.com/watch?v=e3-xsuo53Oo)
 <!-- YOUTUBE-POST-LIST:END -->
 
 ### *ReactJS posts*
