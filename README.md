@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Learning Resources for Plugin Architecture?](https://www.reddit.com/r/javascript/comments/sqfb6r/askjs_learning_resources_for_plugin_architecture/)
+- [7 Things We Can Learn Studying GitHub’s Trending Javascript Projects part. 1](https://www.reddit.com/r/javascript/comments/sqennb/7_things_we_can_learn_studying_githubs_trending/)
+- [A note about Lodash and Tree shaking](https://www.reddit.com/r/javascript/comments/sq96zs/a_note_about_lodash_and_tree_shaking/)
+- [Snap scroll and smooth scroll using HTML and CSS](https://www.reddit.com/r/javascript/comments/sq1oy1/snap_scroll_and_smooth_scroll_using_html_and_css/)
+- [TheStorage - A storage that automatically removes the least-recently-used items.](https://www.reddit.com/r/javascript/comments/spxeer/thestorage_a_storage_that_automatically_removes/)
+- [No Code WebApp Builder with code export to React + Node backend](https://www.reddit.com/r/javascript/comments/spvt9j/no_code_webapp_builder_with_code_export_to_react/)
+- [Hybrid NPM package through TypeScript Compiler &lpar;TSC&rpar;](https://www.reddit.com/r/javascript/comments/spv5p1/hybrid_npm_package_through_typescript_compiler_tsc/)
+- [[AskJS] Ideas for side project: write npm package?](https://www.reddit.com/r/javascript/comments/spss63/askjs_ideas_for_side_project_write_npm_package/)
 - [[AskJS] Are there numerical analysis/methods libraries in javascript?](https://www.reddit.com/r/javascript/comments/spkaoq/askjs_are_there_numerical_analysismethods/)
-- [Going further with TypeScript - Part 1: Mapped Types](https://www.reddit.com/r/javascript/comments/spgvr2/going_further_with_typescript_part_1_mapped_types/)
 - [SVGcode for Live Tracing Raster Images | CSS-Tricks](https://www.reddit.com/r/javascript/comments/spg5lp/svgcode_for_live_tracing_raster_images_csstricks/)
-- [So, I Made A Wordle Clone](https://www.reddit.com/r/javascript/comments/spfghw/so_i_made_a_wordle_clone/)
-- [[AskJS] Why does &#39;continue&#39; not work in a javascript switch?](https://www.reddit.com/r/javascript/comments/spbwwe/askjs_why_does_continue_not_work_in_a_javascript/)
-- [[AskJS] Can someone explain me how does the operation inside reduce method affect the object in outer scope?](https://www.reddit.com/r/javascript/comments/spaykr/askjs_can_someone_explain_me_how_does_the/)
-- [From beginner to JavaScripter, Part One](https://www.reddit.com/r/javascript/comments/spaxch/from_beginner_to_javascripter_part_one/)
-- [How to do a Singleton in JavaScript](https://www.reddit.com/r/javascript/comments/spailv/how_to_do_a_singleton_in_javascript/)
-- [How to chain a method to a number literal](https://www.reddit.com/r/javascript/comments/spad7z/how_to_chain_a_method_to_a_number_literal/)
-- [Component Encyclopedia beta](https://www.reddit.com/r/javascript/comments/spa9i2/component_encyclopedia_beta/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
