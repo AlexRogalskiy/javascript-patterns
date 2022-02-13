@@ -322,16 +322,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *YouTube code posts*
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [JavaScript Tests in Node, the Browser, and CI - Rob Richardson](https://www.youtube.com/watch?v=fJBeD95_s4A)
+- [Pruebas de test en Node, el navegador y CI - Rob Richardson](https://www.youtube.com/watch?v=Jn5Cbl3VrMk)
+- [NestJs el mejor framework para tu API - Roxana Arely Gonzalez Viana](https://www.youtube.com/watch?v=pHL5f4HQnFk)
+- [NestJS the best framework for your API - Roxana Arely Gonzalez Viana](https://www.youtube.com/watch?v=Vr-83N8J-9c)
+- [Cómo detonar tu carrera como Software Engineer - Mariel Nilo y Joaquín Bravo](https://www.youtube.com/watch?v=YVBd1BxrPTI)
+- [How to detonate your career as a Software Engineer - Mariel Nilo y Joaquín Bravo](https://www.youtube.com/watch?v=Fm67RAMdP-Y)
+- [Aqui ahi algunas de mis cosas.js favoritas - Chloe Condon](https://www.youtube.com/watch?v=tP7JNFVoEQU)
+- [These Are a Few of My Favorite Things.js - Chloe Condon](https://www.youtube.com/watch?v=j5CnqS2oGRM)
+- [Ten tu aplicación de react native productiva en 30 min - Sebastian Gomez](https://www.youtube.com/watch?v=gZRuKQ7eZYQ)
 - [Mejores prácticas en desarrollo web en 2012: lo que nos dicen los datos - Laurie Voss](https://www.youtube.com/watch?v=R_mtnhUm50o)
-- [Web development best practices in 2021: what data tells us - Laurie Voss](https://www.youtube.com/watch?v=37GUq41zJok)
-- [Regeneración estática incremental: sitios estáticos en esteroides - Facundo Giuliani](https://www.youtube.com/watch?v=Ort2-wcOrq4)
-- [Incremental Static Regeneration: Static sites on steroids - Facundo Giuliani](https://www.youtube.com/watch?v=F7347Whnlmc)
-- [Toolbox to navigate through a new code base, with confidence - Ramón Huidobro](https://www.youtube.com/watch?v=qUqtZpiiP48)
-- [Un juego de herramientas para poder navegar una nueva base de código con confianza - Ramón Huidobro](https://www.youtube.com/watch?v=MwFvrxCJ5Lk)
-- [Mamá! mi Tío me dijo que hiciera un Monorepo - Jesus Emmanuel Gonzalez Vega](https://www.youtube.com/watch?v=gBCVrIsvRxw)
-- [Mom, they told me to make a Monorepo - Jesus Emmanuel Gonzalez Vega](https://www.youtube.com/watch?v=UGs_sVDSrxo)
-- [How would Typescript make your life easier? - Nacho Sainz y Fabián Flores](https://www.youtube.com/watch?v=nwDvGipW-JI)
-- [¿Cómo typescript hace tu vida más fácil? - Español  - Nacho Sainz y Fabián Flores](https://www.youtube.com/watch?v=BBJC0qX9oJo)
 <!-- YOUTUBE-POST-LIST:END -->
 
 ### *ReactJS posts*
