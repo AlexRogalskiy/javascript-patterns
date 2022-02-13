@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Learning Resources for Plugin Architecture?](https://www.reddit.com/r/javascript/comments/sqfb6r/askjs_learning_resources_for_plugin_architecture/)
-- [7 Things We Can Learn Studying GitHub’s Trending Javascript Projects part. 1](https://www.reddit.com/r/javascript/comments/sqennb/7_things_we_can_learn_studying_githubs_trending/)
+- [A cup of skill — Build competitive web games using a state machine authority in JavaScript](https://www.reddit.com/r/javascript/comments/sr6qey/a_cup_of_skill_build_competitive_web_games_using/)
+- [I&#39;m working on a Spotify Clone using React and Stitches :&rpar; Any feedback?](https://www.reddit.com/r/javascript/comments/sr2v8i/im_working_on_a_spotify_clone_using_react_and/)
+- [Web Scraping in Node.js](https://www.reddit.com/r/javascript/comments/sqzsm3/web_scraping_in_nodejs/)
+- [Showoff Saturday &lpar;February 12, 2022&rpar;](https://www.reddit.com/r/javascript/comments/sqmems/showoff_saturday_february_12_2022/)
+- [HTTP imports in node](https://www.reddit.com/r/javascript/comments/sqhjje/http_imports_in_node/)
 - [A note about Lodash and Tree shaking](https://www.reddit.com/r/javascript/comments/sq96zs/a_note_about_lodash_and_tree_shaking/)
-- [Snap scroll and smooth scroll using HTML and CSS](https://www.reddit.com/r/javascript/comments/sq1oy1/snap_scroll_and_smooth_scroll_using_html_and_css/)
 - [TheStorage - A storage that automatically removes the least-recently-used items.](https://www.reddit.com/r/javascript/comments/spxeer/thestorage_a_storage_that_automatically_removes/)
 - [No Code WebApp Builder with code export to React + Node backend](https://www.reddit.com/r/javascript/comments/spvt9j/no_code_webapp_builder_with_code_export_to_react/)
-- [Hybrid NPM package through TypeScript Compiler &lpar;TSC&rpar;](https://www.reddit.com/r/javascript/comments/spv5p1/hybrid_npm_package_through_typescript_compiler_tsc/)
 - [[AskJS] Ideas for side project: write npm package?](https://www.reddit.com/r/javascript/comments/spss63/askjs_ideas_for_side_project_write_npm_package/)
 - [[AskJS] Are there numerical analysis/methods libraries in javascript?](https://www.reddit.com/r/javascript/comments/spkaoq/askjs_are_there_numerical_analysismethods/)
-- [SVGcode for Live Tracing Raster Images | CSS-Tricks](https://www.reddit.com/r/javascript/comments/spg5lp/svgcode_for_live_tracing_raster_images_csstricks/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
