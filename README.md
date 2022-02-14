@@ -322,16 +322,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *YouTube code posts*
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [En futuro está aquí: ¿Qué es ViteJs? - Oscar Barajas Tavares](https://www.youtube.com/watch?v=pAJLR4W0190)
+- [The future is here: What is ViteJS? - Oscar Barajas Tavares](https://www.youtube.com/watch?v=plAsq3EWi_c)
+- [Have a better developer experience using code generators - Eder Octavio Díaz Razón](https://www.youtube.com/watch?v=SPll1Rxl_Es)
+- [Mejora el Dev Experience con Code Generators - Eder Octavio Díaz Razón](https://www.youtube.com/watch?v=30I_b8tQWZ8)
 - [JavaScript Tests in Node, the Browser, and CI - Rob Richardson](https://www.youtube.com/watch?v=fJBeD95_s4A)
 - [Pruebas de test en Node, el navegador y CI - Rob Richardson](https://www.youtube.com/watch?v=Jn5Cbl3VrMk)
 - [NestJs el mejor framework para tu API - Roxana Arely Gonzalez Viana](https://www.youtube.com/watch?v=pHL5f4HQnFk)
 - [NestJS the best framework for your API - Roxana Arely Gonzalez Viana](https://www.youtube.com/watch?v=Vr-83N8J-9c)
 - [Cómo detonar tu carrera como Software Engineer - Mariel Nilo y Joaquín Bravo](https://www.youtube.com/watch?v=YVBd1BxrPTI)
 - [How to detonate your career as a Software Engineer - Mariel Nilo y Joaquín Bravo](https://www.youtube.com/watch?v=Fm67RAMdP-Y)
-- [Aqui ahi algunas de mis cosas.js favoritas - Chloe Condon](https://www.youtube.com/watch?v=tP7JNFVoEQU)
-- [These Are a Few of My Favorite Things.js - Chloe Condon](https://www.youtube.com/watch?v=j5CnqS2oGRM)
-- [Ten tu aplicación de react native productiva en 30 min - Sebastian Gomez](https://www.youtube.com/watch?v=gZRuKQ7eZYQ)
-- [Mejores prácticas en desarrollo web en 2012: lo que nos dicen los datos - Laurie Voss](https://www.youtube.com/watch?v=R_mtnhUm50o)
 <!-- YOUTUBE-POST-LIST:END -->
 
 ### *ReactJS posts*
