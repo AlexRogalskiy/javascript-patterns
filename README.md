@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [A cup of skill — Build competitive web games using a state machine authority in JavaScript](https://www.reddit.com/r/javascript/comments/sr6qey/a_cup_of_skill_build_competitive_web_games_using/)
-- [I&#39;m working on a Spotify Clone using React and Stitches :&rpar; Any feedback?](https://www.reddit.com/r/javascript/comments/sr2v8i/im_working_on_a_spotify_clone_using_react_and/)
-- [Web Scraping in Node.js](https://www.reddit.com/r/javascript/comments/sqzsm3/web_scraping_in_nodejs/)
+- [[AskJS] Using javascript to pull a number from a text file into our company intranet?](https://www.reddit.com/r/javascript/comments/sryt4m/askjs_using_javascript_to_pull_a_number_from_a/)
+- [Jazle: A wordle clone to guess myriad of JavaScript libraries](https://www.reddit.com/r/javascript/comments/srrrhw/jazle_a_wordle_clone_to_guess_myriad_of/)
+- [[AskJS] Help me choose a beginner project for Uni assignment](https://www.reddit.com/r/javascript/comments/srhezj/askjs_help_me_choose_a_beginner_project_for_uni/)
+- [Send automatic patch notes to your Discord server on new releases, using GitHub actions](https://www.reddit.com/r/javascript/comments/sr8o5g/send_automatic_patch_notes_to_your_discord_server/)
 - [Showoff Saturday &lpar;February 12, 2022&rpar;](https://www.reddit.com/r/javascript/comments/sqmems/showoff_saturday_february_12_2022/)
 - [HTTP imports in node](https://www.reddit.com/r/javascript/comments/sqhjje/http_imports_in_node/)
 - [A note about Lodash and Tree shaking](https://www.reddit.com/r/javascript/comments/sq96zs/a_note_about_lodash_and_tree_shaking/)
 - [TheStorage - A storage that automatically removes the least-recently-used items.](https://www.reddit.com/r/javascript/comments/spxeer/thestorage_a_storage_that_automatically_removes/)
 - [No Code WebApp Builder with code export to React + Node backend](https://www.reddit.com/r/javascript/comments/spvt9j/no_code_webapp_builder_with_code_export_to_react/)
 - [[AskJS] Ideas for side project: write npm package?](https://www.reddit.com/r/javascript/comments/spss63/askjs_ideas_for_side_project_write_npm_package/)
-- [[AskJS] Are there numerical analysis/methods libraries in javascript?](https://www.reddit.com/r/javascript/comments/spkaoq/askjs_are_there_numerical_analysismethods/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
