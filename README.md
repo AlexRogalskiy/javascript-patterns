@@ -378,6 +378,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *NodeSource posts*
 
 <!-- NODESOURCE-POST-LIST:START -->
+- [Interview With Adrián Estrada – Cybernews](https://nodesource.com/blog/interview-with-Adrian-Estrada–NodeSource)
 - [The Basics: Getting started with npm](https://nodesource.com/blog/the-basics-getting-started-with-npm)
 - [In-depth analysis of the APMs performance cost in Node.js](https://nodesource.com/blog/In-depth-analysis-APMs-performance-cost-Nodejs)
 - [[Node.js] Securing your applications  Part 3/3](https://nodesource.com/blog/NodeJS-securing-your-applications-3)
@@ -387,7 +388,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Happy #26 Anniversary JavaScript!](https://nodesource.com/blog/Happy-26-Anniversary-JavaScript)
 - [Securing your Applications in Node.js - Part 1/3](https://nodesource.com/blog/NodeJS-securing-your-applications-1)
 - [How to solve your Node.js problems up to 4x faster](https://nodesource.com/blog/how-to-solve-your-nodejs-problems-up-to-4x-faster)
-- [Releasing LTS Gallium support in N|Solid V.4.6.2](https://nodesource.com/blog/Releasing-LTS-Gallium-Support-in-N|Solid-V.4.6.2)
 <!-- NODESOURCE-POST-LIST:END -->
 
 ### *React Native posts*
