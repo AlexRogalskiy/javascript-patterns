@@ -292,16 +292,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Node.js trademarks move to OpenJS Foundation](https://www.infoworld.com/article/3649993/nodejs-trademarks-move-to-openjs-foundation.html#tk.rss_javascript)
 - [WhiteSource report warns of NPM registry risks](https://www.infoworld.com/article/3650028/whitesource-report-warns-of-npm-registry-risks.html#tk.rss_javascript)
 - [8 new JavaScript features you might have missed](https://www.infoworld.com/article/3649200/8-new-javascript-features-you-might-have-missed.html#tk.rss_javascript)
-- [Angular 14 to add strictly typed reactive forms](https://www.infoworld.com/article/3649095/angular-frame-set-to-add-typed-forms.html#tk.rss_javascript)
 - [Builder CEO: Where JavaScript is headed is super interesting](https://www.infoworld.com/article/3648012/builder-ceo-where-javascript-is-headed-is-super-interesting.html#tk.rss_javascript)
+- [Angular 14 to add strictly typed reactive forms](https://www.infoworld.com/article/3649095/angular-frame-set-to-add-typed-forms.html#tk.rss_javascript)
 - [Getting started with the Teams JavaScript SDK v2.0](https://www.infoworld.com/article/3648355/getting-started-with-the-teams-javascript-sdk-v20.html#tk.rss_javascript)
 - [Deno 1.18 completes Web Crypto API](https://www.infoworld.com/article/3648354/deno-118-completes-web-crypto-api.html#tk.rss_javascript)
-- [GraalVM 22.0 promises a better developer experience](https://www.infoworld.com/article/3648448/graalvm-220-promises-a-better-developer-experience.html#tk.rss_javascript)
 - [Hands-on with React Server Components](https://www.infoworld.com/article/3648191/hands-on-with-react-server-components.html#tk.rss_javascript)
+- [GraalVM 22.0 promises a better developer experience](https://www.infoworld.com/article/3648448/graalvm-220-promises-a-better-developer-experience.html#tk.rss_javascript)
 - [TypeScript 4.6 loosens up](https://www.infoworld.com/article/3647880/microsoft-s-typescript-4-6-offers-enhancements-for-coders-control-flow-analysis.html#tk.rss_javascript)
-- [Faker NPM package back on track after malicious coding incident](https://www.infoworld.com/article/3647750/faker-npm-package-back-on-track-after-malicious-coding-incident.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
