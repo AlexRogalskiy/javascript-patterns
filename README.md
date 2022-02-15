@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Using javascript to pull a number from a text file into our company intranet?](https://www.reddit.com/r/javascript/comments/sryt4m/askjs_using_javascript_to_pull_a_number_from_a/)
-- [Jazle: A wordle clone to guess myriad of JavaScript libraries](https://www.reddit.com/r/javascript/comments/srrrhw/jazle_a_wordle_clone_to_guess_myriad_of/)
-- [[AskJS] Help me choose a beginner project for Uni assignment](https://www.reddit.com/r/javascript/comments/srhezj/askjs_help_me_choose_a_beginner_project_for_uni/)
-- [Send automatic patch notes to your Discord server on new releases, using GitHub actions](https://www.reddit.com/r/javascript/comments/sr8o5g/send_automatic_patch_notes_to_your_discord_server/)
-- [Showoff Saturday &lpar;February 12, 2022&rpar;](https://www.reddit.com/r/javascript/comments/sqmems/showoff_saturday_february_12_2022/)
-- [HTTP imports in node](https://www.reddit.com/r/javascript/comments/sqhjje/http_imports_in_node/)
-- [A note about Lodash and Tree shaking](https://www.reddit.com/r/javascript/comments/sq96zs/a_note_about_lodash_and_tree_shaking/)
-- [TheStorage - A storage that automatically removes the least-recently-used items.](https://www.reddit.com/r/javascript/comments/spxeer/thestorage_a_storage_that_automatically_removes/)
-- [No Code WebApp Builder with code export to React + Node backend](https://www.reddit.com/r/javascript/comments/spvt9j/no_code_webapp_builder_with_code_export_to_react/)
-- [[AskJS] Ideas for side project: write npm package?](https://www.reddit.com/r/javascript/comments/spss63/askjs_ideas_for_side_project_write_npm_package/)
+- [[AskJS] Where do you go to discuss JS libraries and/or look for recommendations?](https://www.reddit.com/r/javascript/comments/ssox1v/askjs_where_do_you_go_to_discuss_js_libraries/)
+- [RTK Query Best Practices](https://www.reddit.com/r/javascript/comments/sslsyh/rtk_query_best_practices/)
+- [JavaScript Getting User Location](https://www.reddit.com/r/javascript/comments/ssls4g/javascript_getting_user_location/)
+- [JavaScript Getting CSS Property Value](https://www.reddit.com/r/javascript/comments/sslr3i/javascript_getting_css_property_value/)
+- [Switching from ws to socket.io to make development faster](https://www.reddit.com/r/javascript/comments/sskrf9/switching_from_ws_to_socketio_to_make_development/)
+- [Just did a version of the &quot;Asteroids&quot; game to learn TS. Would love some feedback...](https://www.reddit.com/r/javascript/comments/ssh6t9/just_did_a_version_of_the_asteroids_game_to_learn/)
+- [Backk - Node.js framework for creating security-first cloud-native microservices for Kubernetes in Typescript](https://www.reddit.com/r/javascript/comments/ssg29z/backk_nodejs_framework_for_creating_securityfirst/)
+- [[AskJS] Angular or React?](https://www.reddit.com/r/javascript/comments/ssdkqg/askjs_angular_or_react/)
+- [How long until JavaScript breaks?](https://www.reddit.com/r/javascript/comments/ssdayn/how_long_until_javascript_breaks/)
+- [Feeling proud of myself and wanted to share a simple project i recently finished](https://www.reddit.com/r/javascript/comments/ssc4ve/feeling_proud_of_myself_and_wanted_to_share_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
