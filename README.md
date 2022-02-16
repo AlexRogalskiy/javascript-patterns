@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] I made a VSCode extension that finds functional and logic bugs in JS code](https://www.reddit.com/r/javascript/comments/sthvo0/askjs_i_made_a_vscode_extension_that_finds/)
+- [Applying tree traversal algorithms to DOM](https://www.reddit.com/r/javascript/comments/stbgcs/applying_tree_traversal_algorithms_to_dom/)
+- [[AskJS] who are your favorite dev Twitter follows?](https://www.reddit.com/r/javascript/comments/st9z5z/askjs_who_are_your_favorite_dev_twitter_follows/)
+- [Version 100 in Chrome and Firefox](https://www.reddit.com/r/javascript/comments/st9ecs/version_100_in_chrome_and_firefox/)
+- [[AskJS] TIL StackOverflow monkeypatches the String prototype across its various sites.](https://www.reddit.com/r/javascript/comments/st8o5l/askjs_til_stackoverflow_monkeypatches_the_string/)
+- [Mimic Rust&#39;s Result type in 7 lines of TypeScript](https://www.reddit.com/r/javascript/comments/st8km3/mimic_rusts_result_type_in_7_lines_of_typescript/)
+- [Hey r/javascript! We have created a Saas that goes against the NoCode stream and allows to create integrations and automations using just JavaScript. Check it out if you are looking for an enterprise-ready Zapier for developers! &lpar;x-post r/node&rpar;](https://www.reddit.com/r/javascript/comments/st3pja/hey_rjavascript_we_have_created_a_saas_that_goes/)
+- [LaTeX.wasm: PdfTeX and XeTeX as libraries for browsers](https://www.reddit.com/r/javascript/comments/ssxtym/latexwasm_pdftex_and_xetex_as_libraries_for/)
+- [[AskJS] object oriented or functional , which one you guys oftenly use while writing code in vanilla JavaScript?](https://www.reddit.com/r/javascript/comments/sssf2r/askjs_object_oriented_or_functional_which_one_you/)
 - [[AskJS] Where do you go to discuss JS libraries and/or look for recommendations?](https://www.reddit.com/r/javascript/comments/ssox1v/askjs_where_do_you_go_to_discuss_js_libraries/)
-- [RTK Query Best Practices](https://www.reddit.com/r/javascript/comments/sslsyh/rtk_query_best_practices/)
-- [JavaScript Getting User Location](https://www.reddit.com/r/javascript/comments/ssls4g/javascript_getting_user_location/)
-- [JavaScript Getting CSS Property Value](https://www.reddit.com/r/javascript/comments/sslr3i/javascript_getting_css_property_value/)
-- [Switching from ws to socket.io to make development faster](https://www.reddit.com/r/javascript/comments/sskrf9/switching_from_ws_to_socketio_to_make_development/)
-- [Just did a version of the &quot;Asteroids&quot; game to learn TS. Would love some feedback...](https://www.reddit.com/r/javascript/comments/ssh6t9/just_did_a_version_of_the_asteroids_game_to_learn/)
-- [Backk - Node.js framework for creating security-first cloud-native microservices for Kubernetes in Typescript](https://www.reddit.com/r/javascript/comments/ssg29z/backk_nodejs_framework_for_creating_securityfirst/)
-- [[AskJS] Angular or React?](https://www.reddit.com/r/javascript/comments/ssdkqg/askjs_angular_or_react/)
-- [How long until JavaScript breaks?](https://www.reddit.com/r/javascript/comments/ssdayn/how_long_until_javascript_breaks/)
-- [Feeling proud of myself and wanted to share a simple project i recently finished](https://www.reddit.com/r/javascript/comments/ssc4ve/feeling_proud_of_myself_and_wanted_to_share_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
