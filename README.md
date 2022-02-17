@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] I made a VSCode extension that finds functional and logic bugs in JS code](https://www.reddit.com/r/javascript/comments/sthvo0/askjs_i_made_a_vscode_extension_that_finds/)
-- [Applying tree traversal algorithms to DOM](https://www.reddit.com/r/javascript/comments/stbgcs/applying_tree_traversal_algorithms_to_dom/)
-- [[AskJS] who are your favorite dev Twitter follows?](https://www.reddit.com/r/javascript/comments/st9z5z/askjs_who_are_your_favorite_dev_twitter_follows/)
-- [Version 100 in Chrome and Firefox](https://www.reddit.com/r/javascript/comments/st9ecs/version_100_in_chrome_and_firefox/)
-- [[AskJS] TIL StackOverflow monkeypatches the String prototype across its various sites.](https://www.reddit.com/r/javascript/comments/st8o5l/askjs_til_stackoverflow_monkeypatches_the_string/)
-- [Mimic Rust&#39;s Result type in 7 lines of TypeScript](https://www.reddit.com/r/javascript/comments/st8km3/mimic_rusts_result_type_in_7_lines_of_typescript/)
-- [Hey r/javascript! We have created a Saas that goes against the NoCode stream and allows to create integrations and automations using just JavaScript. Check it out if you are looking for an enterprise-ready Zapier for developers! &lpar;x-post r/node&rpar;](https://www.reddit.com/r/javascript/comments/st3pja/hey_rjavascript_we_have_created_a_saas_that_goes/)
-- [LaTeX.wasm: PdfTeX and XeTeX as libraries for browsers](https://www.reddit.com/r/javascript/comments/ssxtym/latexwasm_pdftex_and_xetex_as_libraries_for/)
-- [[AskJS] object oriented or functional , which one you guys oftenly use while writing code in vanilla JavaScript?](https://www.reddit.com/r/javascript/comments/sssf2r/askjs_object_oriented_or_functional_which_one_you/)
-- [[AskJS] Where do you go to discuss JS libraries and/or look for recommendations?](https://www.reddit.com/r/javascript/comments/ssox1v/askjs_where_do_you_go_to_discuss_js_libraries/)
+- [An Introductory Guide To Concurrent Rendering](https://www.reddit.com/r/javascript/comments/su7onb/an_introductory_guide_to_concurrent_rendering/)
+- [[AskJS] Who here struggles with JS live coding tests? With 2 people staring at what you are doing!](https://www.reddit.com/r/javascript/comments/su5mre/askjs_who_here_struggles_with_js_live_coding/)
+- [implenting Heap data structure in JavaScript](https://www.reddit.com/r/javascript/comments/su4ydi/implenting_heap_data_structure_in_javascript/)
+- [I built an open source Chrome &amp; Firefox extension that generates Playwright or Puppeteer scripts right from your browser interactions &lpar;updated!&rpar;](https://www.reddit.com/r/javascript/comments/su1b1r/i_built_an_open_source_chrome_firefox_extension/)
+- [Add a Machine Learning Powered Code Editor to your Javascript App](https://www.reddit.com/r/javascript/comments/stzu5x/add_a_machine_learning_powered_code_editor_to/)
+- [The second argument in JSON.stringify&lpar;&rpar;](https://www.reddit.com/r/javascript/comments/stzkjh/the_second_argument_in_jsonstringify/)
+- [More Low Level JavaScript Shenanigans: Building A FAT32 Filesystem Layer On Top Of the SD-Card Driver](https://www.reddit.com/r/javascript/comments/stwz3b/more_low_level_javascript_shenanigans_building_a/)
+- [5 Free Perfect Headless CMS for JS Developers](https://www.reddit.com/r/javascript/comments/stwo8r/5_free_perfect_headless_cms_for_js_developers/)
+- [Track down the JavaScript code responsible for polluting the global scope](https://www.reddit.com/r/javascript/comments/stvt8d/track_down_the_javascript_code_responsible_for/)
+- [Dependency Injection in JavaScript: Write Testable Code Easily](https://www.reddit.com/r/javascript/comments/stuxgu/dependency_injection_in_javascript_write_testable/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
