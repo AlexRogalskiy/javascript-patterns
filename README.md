@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [An Introductory Guide To Concurrent Rendering](https://www.reddit.com/r/javascript/comments/su7onb/an_introductory_guide_to_concurrent_rendering/)
-- [[AskJS] Who here struggles with JS live coding tests? With 2 people staring at what you are doing!](https://www.reddit.com/r/javascript/comments/su5mre/askjs_who_here_struggles_with_js_live_coding/)
-- [implenting Heap data structure in JavaScript](https://www.reddit.com/r/javascript/comments/su4ydi/implenting_heap_data_structure_in_javascript/)
-- [I built an open source Chrome &amp; Firefox extension that generates Playwright or Puppeteer scripts right from your browser interactions &lpar;updated!&rpar;](https://www.reddit.com/r/javascript/comments/su1b1r/i_built_an_open_source_chrome_firefox_extension/)
-- [Add a Machine Learning Powered Code Editor to your Javascript App](https://www.reddit.com/r/javascript/comments/stzu5x/add_a_machine_learning_powered_code_editor_to/)
-- [The second argument in JSON.stringify&lpar;&rpar;](https://www.reddit.com/r/javascript/comments/stzkjh/the_second_argument_in_jsonstringify/)
-- [More Low Level JavaScript Shenanigans: Building A FAT32 Filesystem Layer On Top Of the SD-Card Driver](https://www.reddit.com/r/javascript/comments/stwz3b/more_low_level_javascript_shenanigans_building_a/)
-- [5 Free Perfect Headless CMS for JS Developers](https://www.reddit.com/r/javascript/comments/stwo8r/5_free_perfect_headless_cms_for_js_developers/)
-- [Track down the JavaScript code responsible for polluting the global scope](https://www.reddit.com/r/javascript/comments/stvt8d/track_down_the_javascript_code_responsible_for/)
-- [Dependency Injection in JavaScript: Write Testable Code Easily](https://www.reddit.com/r/javascript/comments/stuxgu/dependency_injection_in_javascript_write_testable/)
+- [What is wrong with SOURCE MAPS and how not to mess with them?](https://www.reddit.com/r/javascript/comments/suy6v9/what_is_wrong_with_source_maps_and_how_not_to/)
+- [Why and how to transpile dependencies of your JavaScript application](https://www.reddit.com/r/javascript/comments/suxqwj/why_and_how_to_transpile_dependencies_of_your/)
+- [Resumable JavaScript with Qwik](https://www.reddit.com/r/javascript/comments/suxduo/resumable_javascript_with_qwik/)
+- [Node.js image recognition model written in JavaScript](https://www.reddit.com/r/javascript/comments/sux3jd/nodejs_image_recognition_model_written_in/)
+- [Error Handler for Express Body Parser](https://www.reddit.com/r/javascript/comments/sux1la/error_handler_for_express_body_parser/)
+- [&quot;Full-stack devs are in vogue now, but the future will see a major shift toward specialization in back end.&quot; The former CTO of GitHub predicts that with increasing product complexity, the future of programming will see the decline of full-stack engineers](https://www.reddit.com/r/javascript/comments/suwwdp/fullstack_devs_are_in_vogue_now_but_the_future/)
+- [Build and deploy JAMstack applications with Cloudflare pages](https://www.reddit.com/r/javascript/comments/susrih/build_and_deploy_jamstack_applications_with/)
+- [Understanding Destructuring assignment In Javascript.](https://www.reddit.com/r/javascript/comments/suqybt/understanding_destructuring_assignment_in/)
+- [New Tutorial: Reactivity with Stellify Posted on Dev.to](https://www.reddit.com/r/javascript/comments/suqr24/new_tutorial_reactivity_with_stellify_posted_on/)
+- [Zoom parallax effect using HTML , CSS and JS](https://www.reddit.com/r/javascript/comments/suq3xv/zoom_parallax_effect_using_html_css_and_js/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
