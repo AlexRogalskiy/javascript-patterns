@@ -300,8 +300,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Angular 14 to add strictly typed reactive forms](https://www.infoworld.com/article/3649095/angular-frame-set-to-add-typed-forms.html#tk.rss_javascript)
 - [Getting started with the Teams JavaScript SDK v2.0](https://www.infoworld.com/article/3648355/getting-started-with-the-teams-javascript-sdk-v20.html#tk.rss_javascript)
 - [Deno 1.18 completes Web Crypto API](https://www.infoworld.com/article/3648354/deno-118-completes-web-crypto-api.html#tk.rss_javascript)
-- [GraalVM 22.0 promises a better developer experience](https://www.infoworld.com/article/3648448/graalvm-220-promises-a-better-developer-experience.html#tk.rss_javascript)
 - [Hands-on with React Server Components](https://www.infoworld.com/article/3648191/hands-on-with-react-server-components.html#tk.rss_javascript)
+- [GraalVM 22.0 promises a better developer experience](https://www.infoworld.com/article/3648448/graalvm-220-promises-a-better-developer-experience.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
