@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Is there a tool that logs every line of code and the value of variables per line?](https://www.reddit.com/r/javascript/comments/svwu01/askjs_is_there_a_tool_that_logs_every_line_of/)
+- [6 Free Resources to help you become a Senior Frontend Engineer](https://www.reddit.com/r/javascript/comments/svs0ic/6_free_resources_to_help_you_become_a_senior/)
+- [[AskJS] Is pure functional programming widely used at startups nowadays?](https://www.reddit.com/r/javascript/comments/svkxwz/askjs_is_pure_functional_programming_widely_used/)
+- [The lightest i18n library for React now has a website](https://www.reddit.com/r/javascript/comments/svhl2e/the_lightest_i18n_library_for_react_now_has_a/)
+- [Client side PDF generator](https://www.reddit.com/r/javascript/comments/sva8y1/client_side_pdf_generator/)
+- [[AskJS] I&#39;ve been trying to make my element move using arrow keys but It hasn&#39;t worked does anyone have the code.](https://www.reddit.com/r/javascript/comments/sv9vdf/askjs_ive_been_trying_to_make_my_element_move/)
+- [cmru is a command runner that allows you to describe commands with javascript.](https://www.reddit.com/r/javascript/comments/sv6sgq/cmru_is_a_command_runner_that_allows_you_to/)
 - [What is wrong with SOURCE MAPS and how not to mess with them?](https://www.reddit.com/r/javascript/comments/suy6v9/what_is_wrong_with_source_maps_and_how_not_to/)
 - [Why and how to transpile dependencies of your JavaScript application](https://www.reddit.com/r/javascript/comments/suxqwj/why_and_how_to_transpile_dependencies_of_your/)
 - [Resumable JavaScript with Qwik](https://www.reddit.com/r/javascript/comments/suxduo/resumable_javascript_with_qwik/)
-- [Node.js image recognition model written in JavaScript](https://www.reddit.com/r/javascript/comments/sux3jd/nodejs_image_recognition_model_written_in/)
-- [Error Handler for Express Body Parser](https://www.reddit.com/r/javascript/comments/sux1la/error_handler_for_express_body_parser/)
-- [&quot;Full-stack devs are in vogue now, but the future will see a major shift toward specialization in back end.&quot; The former CTO of GitHub predicts that with increasing product complexity, the future of programming will see the decline of full-stack engineers](https://www.reddit.com/r/javascript/comments/suwwdp/fullstack_devs_are_in_vogue_now_but_the_future/)
-- [Build and deploy JAMstack applications with Cloudflare pages](https://www.reddit.com/r/javascript/comments/susrih/build_and_deploy_jamstack_applications_with/)
-- [Understanding Destructuring assignment In Javascript.](https://www.reddit.com/r/javascript/comments/suqybt/understanding_destructuring_assignment_in/)
-- [New Tutorial: Reactivity with Stellify Posted on Dev.to](https://www.reddit.com/r/javascript/comments/suqr24/new_tutorial_reactivity_with_stellify_posted_on/)
-- [Zoom parallax effect using HTML , CSS and JS](https://www.reddit.com/r/javascript/comments/suq3xv/zoom_parallax_effect_using_html_css_and_js/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
