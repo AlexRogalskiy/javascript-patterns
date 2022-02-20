@@ -277,13 +277,13 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [AWS Dynamodb SDK? Frontend access to DB?!](https://www.reddit.com/r/javascript/comments/swjy1d/aws_dynamodb_sdk_frontend_access_to_db/)
+- [Bundle environment variables in create-react-app at launch time &lpar;not build time&rpar;!](https://www.reddit.com/r/javascript/comments/swemua/bundle_environment_variables_in_createreactapp_at/)
+- [Understanding RPC &lpar;tour of API protocols, gRPC nodejs walkthrough, and Apache Arrow Flight&rpar;](https://www.reddit.com/r/javascript/comments/swdgmj/understanding_rpc_tour_of_api_protocols_grpc/)
+- [Showoff Saturday &lpar;February 19, 2022&rpar;](https://www.reddit.com/r/javascript/comments/sw4udx/showoff_saturday_february_19_2022/)
 - [[AskJS] Is there a tool that logs every line of code and the value of variables per line?](https://www.reddit.com/r/javascript/comments/svwu01/askjs_is_there_a_tool_that_logs_every_line_of/)
-- [6 Free Resources to help you become a Senior Frontend Engineer](https://www.reddit.com/r/javascript/comments/svs0ic/6_free_resources_to_help_you_become_a_senior/)
 - [[AskJS] Is pure functional programming widely used at startups nowadays?](https://www.reddit.com/r/javascript/comments/svkxwz/askjs_is_pure_functional_programming_widely_used/)
-- [The lightest i18n library for React now has a website](https://www.reddit.com/r/javascript/comments/svhl2e/the_lightest_i18n_library_for_react_now_has_a/)
 - [Client side PDF generator](https://www.reddit.com/r/javascript/comments/sva8y1/client_side_pdf_generator/)
-- [[AskJS] I&#39;ve been trying to make my element move using arrow keys but It hasn&#39;t worked does anyone have the code.](https://www.reddit.com/r/javascript/comments/sv9vdf/askjs_ive_been_trying_to_make_my_element_move/)
-- [cmru is a command runner that allows you to describe commands with javascript.](https://www.reddit.com/r/javascript/comments/sv6sgq/cmru_is_a_command_runner_that_allows_you_to/)
 - [What is wrong with SOURCE MAPS and how not to mess with them?](https://www.reddit.com/r/javascript/comments/suy6v9/what_is_wrong_with_source_maps_and_how_not_to/)
 - [Why and how to transpile dependencies of your JavaScript application](https://www.reddit.com/r/javascript/comments/suxqwj/why_and_how_to_transpile_dependencies_of_your/)
 - [Resumable JavaScript with Qwik](https://www.reddit.com/r/javascript/comments/suxduo/resumable_javascript_with_qwik/)
