@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Most Famous Javascript Libraries Updates](https://www.reddit.com/r/javascript/comments/sx6ex6/most_famous_javascript_libraries_updates/)
+- [4 Ways to Handle Async Operations in Javascript](https://www.reddit.com/r/javascript/comments/sx5a2p/4_ways_to_handle_async_operations_in_javascript/)
 - [AWS Dynamodb SDK? Frontend access to DB?!](https://www.reddit.com/r/javascript/comments/swjy1d/aws_dynamodb_sdk_frontend_access_to_db/)
 - [Bundle environment variables in create-react-app at launch time &lpar;not build time&rpar;!](https://www.reddit.com/r/javascript/comments/swemua/bundle_environment_variables_in_createreactapp_at/)
 - [Understanding RPC &lpar;tour of API protocols, gRPC nodejs walkthrough, and Apache Arrow Flight&rpar;](https://www.reddit.com/r/javascript/comments/swdgmj/understanding_rpc_tour_of_api_protocols_grpc/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [[AskJS] Is pure functional programming widely used at startups nowadays?](https://www.reddit.com/r/javascript/comments/svkxwz/askjs_is_pure_functional_programming_widely_used/)
 - [Client side PDF generator](https://www.reddit.com/r/javascript/comments/sva8y1/client_side_pdf_generator/)
 - [What is wrong with SOURCE MAPS and how not to mess with them?](https://www.reddit.com/r/javascript/comments/suy6v9/what_is_wrong_with_source_maps_and_how_not_to/)
-- [Why and how to transpile dependencies of your JavaScript application](https://www.reddit.com/r/javascript/comments/suxqwj/why_and_how_to_transpile_dependencies_of_your/)
-- [Resumable JavaScript with Qwik](https://www.reddit.com/r/javascript/comments/suxduo/resumable_javascript_with_qwik/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
