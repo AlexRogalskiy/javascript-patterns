@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Most Famous Javascript Libraries Updates](https://www.reddit.com/r/javascript/comments/sx6ex6/most_famous_javascript_libraries_updates/)
-- [4 Ways to Handle Async Operations in Javascript](https://www.reddit.com/r/javascript/comments/sx5a2p/4_ways_to_handle_async_operations_in_javascript/)
-- [AWS Dynamodb SDK? Frontend access to DB?!](https://www.reddit.com/r/javascript/comments/swjy1d/aws_dynamodb_sdk_frontend_access_to_db/)
-- [Bundle environment variables in create-react-app at launch time &lpar;not build time&rpar;!](https://www.reddit.com/r/javascript/comments/swemua/bundle_environment_variables_in_createreactapp_at/)
-- [Understanding RPC &lpar;tour of API protocols, gRPC nodejs walkthrough, and Apache Arrow Flight&rpar;](https://www.reddit.com/r/javascript/comments/swdgmj/understanding_rpc_tour_of_api_protocols_grpc/)
-- [Showoff Saturday &lpar;February 19, 2022&rpar;](https://www.reddit.com/r/javascript/comments/sw4udx/showoff_saturday_february_19_2022/)
-- [[AskJS] Is there a tool that logs every line of code and the value of variables per line?](https://www.reddit.com/r/javascript/comments/svwu01/askjs_is_there_a_tool_that_logs_every_line_of/)
-- [[AskJS] Is pure functional programming widely used at startups nowadays?](https://www.reddit.com/r/javascript/comments/svkxwz/askjs_is_pure_functional_programming_widely_used/)
-- [Client side PDF generator](https://www.reddit.com/r/javascript/comments/sva8y1/client_side_pdf_generator/)
-- [What is wrong with SOURCE MAPS and how not to mess with them?](https://www.reddit.com/r/javascript/comments/suy6v9/what_is_wrong_with_source_maps_and_how_not_to/)
+- [[AskJS] My first NPM package.](https://www.reddit.com/r/javascript/comments/sy291b/askjs_my_first_npm_package/)
+- [What&#39;s New In DevTools &lpar;Chrome 99&rpar; - Chrome Developers](https://www.reddit.com/r/javascript/comments/sxzlzm/whats_new_in_devtools_chrome_99_chrome_developers/)
+- [I wrote an article that explains a lot of concepts about objects that I struggled with when I was a beginner, I hope this helps someone!](https://www.reddit.com/r/javascript/comments/sxvmhz/i_wrote_an_article_that_explains_a_lot_of/)
+- [A powerful Javascript playground for Desktop](https://www.reddit.com/r/javascript/comments/sxu6sy/a_powerful_javascript_playground_for_desktop/)
+- [[AskJS] Making transaction app problem](https://www.reddit.com/r/javascript/comments/sxstb0/askjs_making_transaction_app_problem/)
+- [Using Web Components in Angular, React, Preact, Vue and Svelte](https://www.reddit.com/r/javascript/comments/sxrpsm/using_web_components_in_angular_react_preact_vue/)
+- [Future Javascript: Records and Tuples](https://www.reddit.com/r/javascript/comments/sxq55p/future_javascript_records_and_tuples/)
+- [Your /r/javascript recap for the week of February 14 - February 20](https://www.reddit.com/r/javascript/comments/sxq1ty/your_rjavascript_recap_for_the_week_of_february/)
+- [Business models of e-commerce.](https://www.reddit.com/r/javascript/comments/sxp9xx/business_models_of_ecommerce/)
+- [Source Map-Aware Code Generation](https://www.reddit.com/r/javascript/comments/sxo0fg/source_mapaware_code_generation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
