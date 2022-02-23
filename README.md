@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] My first NPM package.](https://www.reddit.com/r/javascript/comments/sy291b/askjs_my_first_npm_package/)
-- [What&#39;s New In DevTools &lpar;Chrome 99&rpar; - Chrome Developers](https://www.reddit.com/r/javascript/comments/sxzlzm/whats_new_in_devtools_chrome_99_chrome_developers/)
-- [I wrote an article that explains a lot of concepts about objects that I struggled with when I was a beginner, I hope this helps someone!](https://www.reddit.com/r/javascript/comments/sxvmhz/i_wrote_an_article_that_explains_a_lot_of/)
-- [A powerful Javascript playground for Desktop](https://www.reddit.com/r/javascript/comments/sxu6sy/a_powerful_javascript_playground_for_desktop/)
-- [[AskJS] Making transaction app problem](https://www.reddit.com/r/javascript/comments/sxstb0/askjs_making_transaction_app_problem/)
-- [Using Web Components in Angular, React, Preact, Vue and Svelte](https://www.reddit.com/r/javascript/comments/sxrpsm/using_web_components_in_angular_react_preact_vue/)
-- [Future Javascript: Records and Tuples](https://www.reddit.com/r/javascript/comments/sxq55p/future_javascript_records_and_tuples/)
-- [Your /r/javascript recap for the week of February 14 - February 20](https://www.reddit.com/r/javascript/comments/sxq1ty/your_rjavascript_recap_for_the_week_of_february/)
-- [Business models of e-commerce.](https://www.reddit.com/r/javascript/comments/sxp9xx/business_models_of_ecommerce/)
-- [Source Map-Aware Code Generation](https://www.reddit.com/r/javascript/comments/sxo0fg/source_mapaware_code_generation/)
+- [[AskJS] Finished script, but output isn&#39;t matching desires...help?](https://www.reddit.com/r/javascript/comments/sz4xkw/askjs_finished_script_but_output_isnt_matching/)
+- [Pasting screenshots takes way longer than pasting image files](https://www.reddit.com/r/javascript/comments/sz0igm/pasting_screenshots_takes_way_longer_than_pasting/)
+- [How to patch browsers to become modern OS?](https://www.reddit.com/r/javascript/comments/syysj6/how_to_patch_browsers_to_become_modern_os/)
+- [From JavaScript to Rust, an open source ebook](https://www.reddit.com/r/javascript/comments/syxq11/from_javascript_to_rust_an_open_source_ebook/)
+- [[AskJS] Why Javascript is so popular?](https://www.reddit.com/r/javascript/comments/syx530/askjs_why_javascript_is_so_popular/)
+- [[AskJS] Question regarding hashing and Webpack](https://www.reddit.com/r/javascript/comments/syv4ht/askjs_question_regarding_hashing_and_webpack/)
+- [Run Every Node.js Version in AWS Lambda](https://www.reddit.com/r/javascript/comments/syuy39/run_every_nodejs_version_in_aws_lambda/)
+- [Rust Is The Future of JavaScript Infrastructure](https://www.reddit.com/r/javascript/comments/syui1f/rust_is_the_future_of_javascript_infrastructure/)
+- [Summary on the State of JavaScript](https://www.reddit.com/r/javascript/comments/sysz47/summary_on_the_state_of_javascript/)
+- [Running a 60-minute live session on How to Avoid Common Pitfalls in OpenTelemetry and Observability](https://www.reddit.com/r/javascript/comments/sysms7/running_a_60minute_live_session_on_how_to_avoid/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
