@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Finished script, but output isn&#39;t matching desires...help?](https://www.reddit.com/r/javascript/comments/sz4xkw/askjs_finished_script_but_output_isnt_matching/)
-- [Pasting screenshots takes way longer than pasting image files](https://www.reddit.com/r/javascript/comments/sz0igm/pasting_screenshots_takes_way_longer_than_pasting/)
-- [How to patch browsers to become modern OS?](https://www.reddit.com/r/javascript/comments/syysj6/how_to_patch_browsers_to_become_modern_os/)
-- [From JavaScript to Rust, an open source ebook](https://www.reddit.com/r/javascript/comments/syxq11/from_javascript_to_rust_an_open_source_ebook/)
-- [[AskJS] Why Javascript is so popular?](https://www.reddit.com/r/javascript/comments/syx530/askjs_why_javascript_is_so_popular/)
-- [[AskJS] Question regarding hashing and Webpack](https://www.reddit.com/r/javascript/comments/syv4ht/askjs_question_regarding_hashing_and_webpack/)
-- [Run Every Node.js Version in AWS Lambda](https://www.reddit.com/r/javascript/comments/syuy39/run_every_nodejs_version_in_aws_lambda/)
-- [Rust Is The Future of JavaScript Infrastructure](https://www.reddit.com/r/javascript/comments/syui1f/rust_is_the_future_of_javascript_infrastructure/)
-- [Summary on the State of JavaScript](https://www.reddit.com/r/javascript/comments/sysz47/summary_on_the_state_of_javascript/)
-- [Running a 60-minute live session on How to Avoid Common Pitfalls in OpenTelemetry and Observability](https://www.reddit.com/r/javascript/comments/sysms7/running_a_60minute_live_session_on_how_to_avoid/)
+- [[AskJS] Javascript &lpar;Node.Js&rpar; CLI with extensible plugin system?](https://www.reddit.com/r/javascript/comments/szwe17/askjs_javascript_nodejs_cli_with_extensible/)
+- [How to Make a Wordle Solver with Twilio Serverless, Studio, and SMS](https://www.reddit.com/r/javascript/comments/szwdyr/how_to_make_a_wordle_solver_with_twilio/)
+- [How to Fix Your Security Vulnerabilities with NPM Override](https://www.reddit.com/r/javascript/comments/szuf4i/how_to_fix_your_security_vulnerabilities_with_npm/)
+- [Introducing FormKit — from the authors of Vue Formulate](https://www.reddit.com/r/javascript/comments/szu5i3/introducing_formkit_from_the_authors_of_vue/)
+- [[AskJS] Reasons for designing function](https://www.reddit.com/r/javascript/comments/szt52p/askjs_reasons_for_designing_function/)
+- [Game Im making JS](https://www.reddit.com/r/javascript/comments/szs0x4/game_im_making_js/)
+- [Blue-Green Deployments on AWS using JavaScript](https://www.reddit.com/r/javascript/comments/szq5pg/bluegreen_deployments_on_aws_using_javascript/)
+- [The Basics of Package.json](https://www.reddit.com/r/javascript/comments/szq4xf/the_basics_of_packagejson/)
+- [How to build stunning 3D scenes with React Three Fiber](https://www.reddit.com/r/javascript/comments/szpifs/how_to_build_stunning_3d_scenes_with_react_three/)
+- [Introduction to Data Structures and Algorithms With Modern JavaScript.](https://www.reddit.com/r/javascript/comments/szoyrw/introduction_to_data_structures_and_algorithms/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
