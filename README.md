@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Javascript &lpar;Node.Js&rpar; CLI with extensible plugin system?](https://www.reddit.com/r/javascript/comments/szwe17/askjs_javascript_nodejs_cli_with_extensible/)
-- [How to Make a Wordle Solver with Twilio Serverless, Studio, and SMS](https://www.reddit.com/r/javascript/comments/szwdyr/how_to_make_a_wordle_solver_with_twilio/)
-- [How to Fix Your Security Vulnerabilities with NPM Override](https://www.reddit.com/r/javascript/comments/szuf4i/how_to_fix_your_security_vulnerabilities_with_npm/)
-- [Introducing FormKit — from the authors of Vue Formulate](https://www.reddit.com/r/javascript/comments/szu5i3/introducing_formkit_from_the_authors_of_vue/)
-- [[AskJS] Reasons for designing function](https://www.reddit.com/r/javascript/comments/szt52p/askjs_reasons_for_designing_function/)
-- [Game Im making JS](https://www.reddit.com/r/javascript/comments/szs0x4/game_im_making_js/)
-- [Blue-Green Deployments on AWS using JavaScript](https://www.reddit.com/r/javascript/comments/szq5pg/bluegreen_deployments_on_aws_using_javascript/)
-- [The Basics of Package.json](https://www.reddit.com/r/javascript/comments/szq4xf/the_basics_of_packagejson/)
-- [How to build stunning 3D scenes with React Three Fiber](https://www.reddit.com/r/javascript/comments/szpifs/how_to_build_stunning_3d_scenes_with_react_three/)
-- [Introduction to Data Structures and Algorithms With Modern JavaScript.](https://www.reddit.com/r/javascript/comments/szoyrw/introduction_to_data_structures_and_algorithms/)
+- [Weak Event Listeners](https://www.reddit.com/r/javascript/comments/t0l02m/weak_event_listeners/)
+- [Interact with a quadrillion rows](https://www.reddit.com/r/javascript/comments/t0k46v/interact_with_a_quadrillion_rows/)
+- [Codiga: Grammarly for Code](https://www.reddit.com/r/javascript/comments/t0jk6g/codiga_grammarly_for_code/)
+- [Cheerp 2.7: compile C++ to JavaScript + WebAssembly, with new support for exceptions &lpar;even catching &#39;native&#39; JS ones&rpar; + unique PartialExecuter optimization](https://www.reddit.com/r/javascript/comments/t0ielc/cheerp_27_compile_c_to_javascript_webassembly/)
+- [Storybook Interaction Testing in beta](https://www.reddit.com/r/javascript/comments/t0fe19/storybook_interaction_testing_in_beta/)
+- [How to install OpenTelemetry with minimum friction? A live workshop for microservices developers](https://www.reddit.com/r/javascript/comments/t0ez1e/how_to_install_opentelemetry_with_minimum/)
+- [Building open-source metrics with React and Echarts](https://www.reddit.com/r/javascript/comments/t0djvb/building_opensource_metrics_with_react_and_echarts/)
+- [[AskJS] Fast minimal rendering library?](https://www.reddit.com/r/javascript/comments/t0dd2d/askjs_fast_minimal_rendering_library/)
+- [Ky is a tiny and elegant HTTP client based on the browser Fetch API](https://www.reddit.com/r/javascript/comments/t0d44d/ky_is_a_tiny_and_elegant_http_client_based_on_the/)
+- [Presencejs - a JavaScript library that allows you to build real-time web applications quickly, the server is built atop of YoMo, which provide secure, low-latency, and high-performance geo-distributed services](https://www.reddit.com/r/javascript/comments/t0cxw8/presencejs_a_javascript_library_that_allows_you/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
