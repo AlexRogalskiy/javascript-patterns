@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Weak Event Listeners](https://www.reddit.com/r/javascript/comments/t0l02m/weak_event_listeners/)
-- [Interact with a quadrillion rows](https://www.reddit.com/r/javascript/comments/t0k46v/interact_with_a_quadrillion_rows/)
-- [Codiga: Grammarly for Code](https://www.reddit.com/r/javascript/comments/t0jk6g/codiga_grammarly_for_code/)
-- [Cheerp 2.7: compile C++ to JavaScript + WebAssembly, with new support for exceptions &lpar;even catching &#39;native&#39; JS ones&rpar; + unique PartialExecuter optimization](https://www.reddit.com/r/javascript/comments/t0ielc/cheerp_27_compile_c_to_javascript_webassembly/)
-- [Storybook Interaction Testing in beta](https://www.reddit.com/r/javascript/comments/t0fe19/storybook_interaction_testing_in_beta/)
-- [How to install OpenTelemetry with minimum friction? A live workshop for microservices developers](https://www.reddit.com/r/javascript/comments/t0ez1e/how_to_install_opentelemetry_with_minimum/)
-- [Building open-source metrics with React and Echarts](https://www.reddit.com/r/javascript/comments/t0djvb/building_opensource_metrics_with_react_and_echarts/)
-- [[AskJS] Fast minimal rendering library?](https://www.reddit.com/r/javascript/comments/t0dd2d/askjs_fast_minimal_rendering_library/)
-- [Ky is a tiny and elegant HTTP client based on the browser Fetch API](https://www.reddit.com/r/javascript/comments/t0d44d/ky_is_a_tiny_and_elegant_http_client_based_on_the/)
-- [Presencejs - a JavaScript library that allows you to build real-time web applications quickly, the server is built atop of YoMo, which provide secure, low-latency, and high-performance geo-distributed services](https://www.reddit.com/r/javascript/comments/t0cxw8/presencejs_a_javascript_library_that_allows_you/)
+- [[AskJS] Best practice to ensure all promise chains eventually lead to a catch?](https://www.reddit.com/r/javascript/comments/t1k0pv/askjs_best_practice_to_ensure_all_promise_chains/)
+- [Exploiting JavaScript quirks for fun and profit - what do you think about this use case for &quot;with&lpar;&rpar; {}&quot;?](https://www.reddit.com/r/javascript/comments/t1jrjf/exploiting_javascript_quirks_for_fun_and_profit/)
+- [[Hiring] Senior Full Stack Engineer@Ethos Life](https://www.reddit.com/r/javascript/comments/t18goj/hiring_senior_full_stack_engineerethos_life/)
+- [Hackathon to build NFT experiences on Stellar using JavaScript!](https://www.reddit.com/r/javascript/comments/t171wo/hackathon_to_build_nft_experiences_on_stellar/)
+- [A GitHub app to report failed workflow job actions and notify pull request creator with custom report message for the failed workflow job.](https://www.reddit.com/r/javascript/comments/t170yp/a_github_app_to_report_failed_workflow_job/)
+- [Sharing My Open Source JS Project: Embed UML architecture diagrams into github markdown](https://www.reddit.com/r/javascript/comments/t16uvg/sharing_my_open_source_js_project_embed_uml/)
+- [[AskJS] ESLINT Plugin to disable implicit array to string conversion](https://www.reddit.com/r/javascript/comments/t15kry/askjs_eslint_plugin_to_disable_implicit_array_to/)
+- [[AskJS] Is it worth to learn Jquery in 2022?](https://www.reddit.com/r/javascript/comments/t120k7/askjs_is_it_worth_to_learn_jquery_in_2022/)
+- [4 Steps to be a Good Developer](https://www.reddit.com/r/javascript/comments/t113rl/4_steps_to_be_a_good_developer/)
+- [20+ JavaScript libraries to draw your own diagrams](https://www.reddit.com/r/javascript/comments/t105sm/20_javascript_libraries_to_draw_your_own_diagrams/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
