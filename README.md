@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The Lookup Types in TypeScript](https://www.reddit.com/r/javascript/comments/t275ty/the_lookup_types_in_typescript/)
+- [Doodle 0.7.0 Released](https://www.reddit.com/r/javascript/comments/t23j6c/doodle_070_released/)
+- [NodeJS: how to route HTTPS requests through an HTTP proxy without any external dependencies](https://www.reddit.com/r/javascript/comments/t20tts/nodejs_how_to_route_https_requests_through_an/)
+- [How to execute at most N concurrent tasks without external dependencies](https://www.reddit.com/r/javascript/comments/t1xzks/how_to_execute_at_most_n_concurrent_tasks_without/)
+- [Showoff Saturday &lpar;February 26, 2022&rpar;](https://www.reddit.com/r/javascript/comments/t1rpsf/showoff_saturday_february_26_2022/)
 - [[AskJS] Best practice to ensure all promise chains eventually lead to a catch?](https://www.reddit.com/r/javascript/comments/t1k0pv/askjs_best_practice_to_ensure_all_promise_chains/)
 - [Exploiting JavaScript quirks for fun and profit - what do you think about this use case for &quot;with&lpar;&rpar; {}&quot;?](https://www.reddit.com/r/javascript/comments/t1jrjf/exploiting_javascript_quirks_for_fun_and_profit/)
-- [[Hiring] Senior Full Stack Engineer@Ethos Life](https://www.reddit.com/r/javascript/comments/t18goj/hiring_senior_full_stack_engineerethos_life/)
-- [Hackathon to build NFT experiences on Stellar using JavaScript!](https://www.reddit.com/r/javascript/comments/t171wo/hackathon_to_build_nft_experiences_on_stellar/)
 - [A GitHub app to report failed workflow job actions and notify pull request creator with custom report message for the failed workflow job.](https://www.reddit.com/r/javascript/comments/t170yp/a_github_app_to_report_failed_workflow_job/)
 - [Sharing My Open Source JS Project: Embed UML architecture diagrams into github markdown](https://www.reddit.com/r/javascript/comments/t16uvg/sharing_my_open_source_js_project_embed_uml/)
-- [[AskJS] ESLINT Plugin to disable implicit array to string conversion](https://www.reddit.com/r/javascript/comments/t15kry/askjs_eslint_plugin_to_disable_implicit_array_to/)
-- [[AskJS] Is it worth to learn Jquery in 2022?](https://www.reddit.com/r/javascript/comments/t120k7/askjs_is_it_worth_to_learn_jquery_in_2022/)
 - [4 Steps to be a Good Developer](https://www.reddit.com/r/javascript/comments/t113rl/4_steps_to_be_a_good_developer/)
-- [20+ JavaScript libraries to draw your own diagrams](https://www.reddit.com/r/javascript/comments/t105sm/20_javascript_libraries_to_draw_your_own_diagrams/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
