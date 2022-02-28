@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] What is the scope of localStorage and sessionStorage?](https://www.reddit.com/r/javascript/comments/t321jp/askjs_what_is_the_scope_of_localstorage_and/)
+- [[AskJS] React child function will parameters?](https://www.reddit.com/r/javascript/comments/t2w1ka/askjs_react_child_function_will_parameters/)
+- [A live workshop on how to install OpenTelemetry tracing and avoid common mistakes](https://www.reddit.com/r/javascript/comments/t2rykb/a_live_workshop_on_how_to_install_opentelemetry/)
+- [Save money on Next.js image optimization](https://www.reddit.com/r/javascript/comments/t2qwea/save_money_on_nextjs_image_optimization/)
 - [The Lookup Types in TypeScript](https://www.reddit.com/r/javascript/comments/t275ty/the_lookup_types_in_typescript/)
+- [Talented JavaScript developers that you have probably never heard of. &lpar;Part 1&rpar;](https://www.reddit.com/r/javascript/comments/t2702n/talented_javascript_developers_that_you_have/)
 - [Doodle 0.7.0 Released](https://www.reddit.com/r/javascript/comments/t23j6c/doodle_070_released/)
 - [NodeJS: how to route HTTPS requests through an HTTP proxy without any external dependencies](https://www.reddit.com/r/javascript/comments/t20tts/nodejs_how_to_route_https_requests_through_an/)
 - [How to execute at most N concurrent tasks without external dependencies](https://www.reddit.com/r/javascript/comments/t1xzks/how_to_execute_at_most_n_concurrent_tasks_without/)
 - [Showoff Saturday &lpar;February 26, 2022&rpar;](https://www.reddit.com/r/javascript/comments/t1rpsf/showoff_saturday_february_26_2022/)
-- [[AskJS] Best practice to ensure all promise chains eventually lead to a catch?](https://www.reddit.com/r/javascript/comments/t1k0pv/askjs_best_practice_to_ensure_all_promise_chains/)
-- [Exploiting JavaScript quirks for fun and profit - what do you think about this use case for &quot;with&lpar;&rpar; {}&quot;?](https://www.reddit.com/r/javascript/comments/t1jrjf/exploiting_javascript_quirks_for_fun_and_profit/)
-- [A GitHub app to report failed workflow job actions and notify pull request creator with custom report message for the failed workflow job.](https://www.reddit.com/r/javascript/comments/t170yp/a_github_app_to_report_failed_workflow_job/)
-- [Sharing My Open Source JS Project: Embed UML architecture diagrams into github markdown](https://www.reddit.com/r/javascript/comments/t16uvg/sharing_my_open_source_js_project_embed_uml/)
-- [4 Steps to be a Good Developer](https://www.reddit.com/r/javascript/comments/t113rl/4_steps_to_be_a_good_developer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
