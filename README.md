@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] What is the scope of localStorage and sessionStorage?](https://www.reddit.com/r/javascript/comments/t321jp/askjs_what_is_the_scope_of_localstorage_and/)
-- [[AskJS] React child function will parameters?](https://www.reddit.com/r/javascript/comments/t2w1ka/askjs_react_child_function_will_parameters/)
-- [A live workshop on how to install OpenTelemetry tracing and avoid common mistakes](https://www.reddit.com/r/javascript/comments/t2rykb/a_live_workshop_on_how_to_install_opentelemetry/)
-- [Save money on Next.js image optimization](https://www.reddit.com/r/javascript/comments/t2qwea/save_money_on_nextjs_image_optimization/)
-- [The Lookup Types in TypeScript](https://www.reddit.com/r/javascript/comments/t275ty/the_lookup_types_in_typescript/)
-- [Talented JavaScript developers that you have probably never heard of. &lpar;Part 1&rpar;](https://www.reddit.com/r/javascript/comments/t2702n/talented_javascript_developers_that_you_have/)
-- [Doodle 0.7.0 Released](https://www.reddit.com/r/javascript/comments/t23j6c/doodle_070_released/)
-- [NodeJS: how to route HTTPS requests through an HTTP proxy without any external dependencies](https://www.reddit.com/r/javascript/comments/t20tts/nodejs_how_to_route_https_requests_through_an/)
-- [How to execute at most N concurrent tasks without external dependencies](https://www.reddit.com/r/javascript/comments/t1xzks/how_to_execute_at_most_n_concurrent_tasks_without/)
-- [Showoff Saturday &lpar;February 26, 2022&rpar;](https://www.reddit.com/r/javascript/comments/t1rpsf/showoff_saturday_february_26_2022/)
+- [Solid.js feels like what I always wanted React to be](https://www.reddit.com/r/javascript/comments/t3wey0/solidjs_feels_like_what_i_always_wanted_react_to/)
+- [OSS plugin to View Apollo queries in the vue-devtools timeline!](https://www.reddit.com/r/javascript/comments/t3w7fl/oss_plugin_to_view_apollo_queries_in_the/)
+- [Announcing TypeScript 4.6](https://www.reddit.com/r/javascript/comments/t3tvtk/announcing_typescript_46/)
+- [[AskJS] How do people manage complex data and server interactions without classes or ORM in an SPA? Where is my Backbone for React?](https://www.reddit.com/r/javascript/comments/t3p22u/askjs_how_do_people_manage_complex_data_and/)
+- [Tiny Libs -- A monorepo of tiny javascript libraries.](https://www.reddit.com/r/javascript/comments/t3p1yk/tiny_libs_a_monorepo_of_tiny_javascript_libraries/)
+- [In 2 days, a live workshop on how to install OpenTelemetry tracing and avoid common mistakes](https://www.reddit.com/r/javascript/comments/t3kvlp/in_2_days_a_live_workshop_on_how_to_install/)
+- [Build a JavaScript Video Chat App](https://www.reddit.com/r/javascript/comments/t3jtld/build_a_javascript_video_chat_app/)
+- [How to use machine learning in your JS applications](https://www.reddit.com/r/javascript/comments/t3idz2/how_to_use_machine_learning_in_your_js/)
+- [Hoppscotch - Open-Source Alternative to Postman](https://www.reddit.com/r/javascript/comments/t3hkho/hoppscotch_opensource_alternative_to_postman/)
+- [How to stringify dates in a node server](https://www.reddit.com/r/javascript/comments/t3dg3q/how_to_stringify_dates_in_a_node_server/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
