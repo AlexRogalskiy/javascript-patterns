@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Solid.js feels like what I always wanted React to be](https://www.reddit.com/r/javascript/comments/t3wey0/solidjs_feels_like_what_i_always_wanted_react_to/)
-- [OSS plugin to View Apollo queries in the vue-devtools timeline!](https://www.reddit.com/r/javascript/comments/t3w7fl/oss_plugin_to_view_apollo_queries_in_the/)
-- [Announcing TypeScript 4.6](https://www.reddit.com/r/javascript/comments/t3tvtk/announcing_typescript_46/)
-- [[AskJS] How do people manage complex data and server interactions without classes or ORM in an SPA? Where is my Backbone for React?](https://www.reddit.com/r/javascript/comments/t3p22u/askjs_how_do_people_manage_complex_data_and/)
-- [Tiny Libs -- A monorepo of tiny javascript libraries.](https://www.reddit.com/r/javascript/comments/t3p1yk/tiny_libs_a_monorepo_of_tiny_javascript_libraries/)
-- [In 2 days, a live workshop on how to install OpenTelemetry tracing and avoid common mistakes](https://www.reddit.com/r/javascript/comments/t3kvlp/in_2_days_a_live_workshop_on_how_to_install/)
-- [Build a JavaScript Video Chat App](https://www.reddit.com/r/javascript/comments/t3jtld/build_a_javascript_video_chat_app/)
-- [How to use machine learning in your JS applications](https://www.reddit.com/r/javascript/comments/t3idz2/how_to_use_machine_learning_in_your_js/)
-- [Hoppscotch - Open-Source Alternative to Postman](https://www.reddit.com/r/javascript/comments/t3hkho/hoppscotch_opensource_alternative_to_postman/)
-- [How to stringify dates in a node server](https://www.reddit.com/r/javascript/comments/t3dg3q/how_to_stringify_dates_in_a_node_server/)
+- [Dynamic Wojak badges based on the crypto market for your Github README.md](https://www.reddit.com/r/javascript/comments/t4lwll/dynamic_wojak_badges_based_on_the_crypto_market/)
+- [My Ebook: Boost Your Confidence in Vanilla JS](https://www.reddit.com/r/javascript/comments/t4krei/my_ebook_boost_your_confidence_in_vanilla_js/)
+- [Future Javascript: Records and Tuples](https://www.reddit.com/r/javascript/comments/t4ico3/future_javascript_records_and_tuples/)
+- [Study: Developers spend over 2 days a week just waiting for other developers to review their code](https://www.reddit.com/r/javascript/comments/t4ic51/study_developers_spend_over_2_days_a_week_just/)
+- [Socket - Find and compare millions of open source packages.](https://www.reddit.com/r/javascript/comments/t4fszu/socket_find_and_compare_millions_of_open_source/)
+- [React.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED](https://www.reddit.com/r/javascript/comments/t4c6j4/react_secret_internals_do_not_use_or_you_will_be/)
+- [[AskJS] Is there a Bootstrap of just JS components e.g. modal, accordion, off-canvas, tabs?](https://www.reddit.com/r/javascript/comments/t49s1b/askjs_is_there_a_bootstrap_of_just_js_components/)
+- [A new year, a new MDN](https://www.reddit.com/r/javascript/comments/t48wfy/a_new_year_a_new_mdn/)
+- [An open source ecommerce platform for Nuxt.js](https://www.reddit.com/r/javascript/comments/t48f2j/an_open_source_ecommerce_platform_for_nuxtjs/)
+- [5 things you don&#39;t need Javascript for](https://www.reddit.com/r/javascript/comments/t45apz/5_things_you_dont_need_javascript_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
