@@ -378,6 +378,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *NodeSource posts*
 
 <!-- NODESOURCE-POST-LIST:START -->
+- [Dive into Node.js Streams](https://nodesource.com/blog/dive-into-NodeJs-streams)
 - [Announcing N|Solid 4.7.0](https://nodesource.com/blog/announcing-NSolid-v4.7.0)
 - [Understanding dependencies inside your Package.json](https://nodesource.com/blog/understanding-dependencies-inside-your-packagejson)
 - [The Basics of Package.json](https://nodesource.com/blog/the-basics-of-package-json)
@@ -387,7 +388,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [[Node.js] Securing your applications  Part 3/3](https://nodesource.com/blog/NodeJS-securing-your-applications-3)
 - [Securing your Applications in Node.js - Part 2/3](https://nodesource.com/blog/NodeJS-securing-your-applications-2)
 - [Announcing N|Solid v4.6.3.](https://nodesource.com/blog/announcing-N|Solid-v4.6.3)
-- [What&#39;s new in npm 8?](https://nodesource.com/blog/whats-new-in-npm-8)
 <!-- NODESOURCE-POST-LIST:END -->
 
 ### *React Native posts*
