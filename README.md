@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Mermaid: Create complex diagrams using Markdown-inspired](https://www.reddit.com/r/javascript/comments/t602zn/mermaid_create_complex_diagrams_using/)
+- [A Fundamental Guide To React Suspense](https://www.reddit.com/r/javascript/comments/t5zwmn/a_fundamental_guide_to_react_suspense/)
+- [Visual Studio Code February 2022](https://www.reddit.com/r/javascript/comments/t5yr8x/visual_studio_code_february_2022/)
+- [[AskJS] No code and low code](https://www.reddit.com/r/javascript/comments/t5wv1h/askjs_no_code_and_low_code/)
+- [Announcing Interop 2022](https://www.reddit.com/r/javascript/comments/t5w60s/announcing_interop_2022/)
+- [const life = change&lpar;&rpar;;](https://www.reddit.com/r/javascript/comments/t5pujw/const_life_change/)
+- [Run React SSR Streaming in WebAssembly](https://www.reddit.com/r/javascript/comments/t5hy90/run_react_ssr_streaming_in_webassembly/)
 - [What I learned from migrating a high-traffic website from Gatsby to Next.js](https://www.reddit.com/r/javascript/comments/t58d13/what_i_learned_from_migrating_a_hightraffic/)
-- [Announcing SlideShow, a javascript driven presentation builder with Markdown](https://www.reddit.com/r/javascript/comments/t55x7m/announcing_slideshow_a_javascript_driven/)
 - [Easily improve your code with the function&#39;s return statement](https://www.reddit.com/r/javascript/comments/t54z53/easily_improve_your_code_with_the_functions/)
-- [The Headless Ecommerce and CMS Combination you have to know](https://www.reddit.com/r/javascript/comments/t519wy/the_headless_ecommerce_and_cms_combination_you/)
 - [Quadrillion Rows Example](https://www.reddit.com/r/javascript/comments/t50b8x/quadrillion_rows_example/)
-- [WTF Wednesday &lpar;March 02, 2022&rpar;](https://www.reddit.com/r/javascript/comments/t4v6yo/wtf_wednesday_march_02_2022/)
-- [Dynamic Wojak badges based on the crypto market for your Github README.md](https://www.reddit.com/r/javascript/comments/t4lwll/dynamic_wojak_badges_based_on_the_crypto_market/)
-- [Future Javascript: Records and Tuples](https://www.reddit.com/r/javascript/comments/t4ico3/future_javascript_records_and_tuples/)
-- [Socket - Find and compare millions of open source packages.](https://www.reddit.com/r/javascript/comments/t4fszu/socket_find_and_compare_millions_of_open_source/)
-- [React.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED](https://www.reddit.com/r/javascript/comments/t4c6j4/react_secret_internals_do_not_use_or_you_will_be/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
