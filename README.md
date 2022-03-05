@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Mermaid: Create complex diagrams using Markdown-inspired](https://www.reddit.com/r/javascript/comments/t602zn/mermaid_create_complex_diagrams_using/)
-- [A Fundamental Guide To React Suspense](https://www.reddit.com/r/javascript/comments/t5zwmn/a_fundamental_guide_to_react_suspense/)
-- [Visual Studio Code February 2022](https://www.reddit.com/r/javascript/comments/t5yr8x/visual_studio_code_february_2022/)
-- [[AskJS] No code and low code](https://www.reddit.com/r/javascript/comments/t5wv1h/askjs_no_code_and_low_code/)
-- [Announcing Interop 2022](https://www.reddit.com/r/javascript/comments/t5w60s/announcing_interop_2022/)
-- [const life = change&lpar;&rpar;;](https://www.reddit.com/r/javascript/comments/t5pujw/const_life_change/)
-- [Run React SSR Streaming in WebAssembly](https://www.reddit.com/r/javascript/comments/t5hy90/run_react_ssr_streaming_in_webassembly/)
-- [What I learned from migrating a high-traffic website from Gatsby to Next.js](https://www.reddit.com/r/javascript/comments/t58d13/what_i_learned_from_migrating_a_hightraffic/)
-- [Easily improve your code with the function&#39;s return statement](https://www.reddit.com/r/javascript/comments/t54z53/easily_improve_your_code_with_the_functions/)
-- [Quadrillion Rows Example](https://www.reddit.com/r/javascript/comments/t50b8x/quadrillion_rows_example/)
+- [[AskJS] How do I add javascript created div&#39;s into a function and put into text area](https://www.reddit.com/r/javascript/comments/t6wi2k/askjs_how_do_i_add_javascript_created_divs_into_a/)
+- [ng-number-input - add commas to numbers in input field](https://www.reddit.com/r/javascript/comments/t6vyns/ngnumberinput_add_commas_to_numbers_in_input_field/)
+- [Log4j, Faker and Black Swan Events](https://www.reddit.com/r/javascript/comments/t6v4h5/log4j_faker_and_black_swan_events/)
+- [[AskJS] How to check how much time passed between the previous and the current element in the array containing timestamps?](https://www.reddit.com/r/javascript/comments/t6sxuu/askjs_how_to_check_how_much_time_passed_between/)
+- [Building Pages in Storybook](https://www.reddit.com/r/javascript/comments/t6o5dw/building_pages_in_storybook/)
+- [Remotion - a suite of libraries building a foundation for creating videos programmatically using React](https://www.reddit.com/r/javascript/comments/t6nvp2/remotion_a_suite_of_libraries_building_a/)
+- [A good case for Eval in JavaScript](https://www.reddit.com/r/javascript/comments/t6lw6t/a_good_case_for_eval_in_javascript/)
+- [Reverse engineering a proprietary USB control driver for a mechanical keyboard and building an open source equivalent with node-usb](https://www.reddit.com/r/javascript/comments/t6jet0/reverse_engineering_a_proprietary_usb_control/)
+- [Thoughts on TypeScript](https://www.reddit.com/r/javascript/comments/t6gz0e/thoughts_on_typescript/)
+- [Changes in enumerable order specs](https://www.reddit.com/r/javascript/comments/t6c9ja/changes_in_enumerable_order_specs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
