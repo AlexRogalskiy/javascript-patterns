@@ -299,8 +299,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Node.js trademarks move to OpenJS Foundation](https://www.infoworld.com/article/3649993/nodejs-trademarks-move-to-openjs-foundation.html#tk.rss_javascript)
 - [WhiteSource report warns of NPM registry risks](https://www.infoworld.com/article/3650028/whitesource-report-warns-of-npm-registry-risks.html#tk.rss_javascript)
 - [8 new JavaScript features you might have missed](https://www.infoworld.com/article/3649200/8-new-javascript-features-you-might-have-missed.html#tk.rss_javascript)
-- [Builder CEO: Where JavaScript is headed is super interesting](https://www.infoworld.com/article/3648012/builder-ceo-where-javascript-is-headed-is-super-interesting.html#tk.rss_javascript)
 - [Angular 14 to add strictly typed reactive forms](https://www.infoworld.com/article/3649095/angular-frame-set-to-add-typed-forms.html#tk.rss_javascript)
+- [Builder CEO: Where JavaScript is headed is super interesting](https://www.infoworld.com/article/3648012/builder-ceo-where-javascript-is-headed-is-super-interesting.html#tk.rss_javascript)
 - [Getting started with the Teams JavaScript SDK v2.0](https://www.infoworld.com/article/3648355/getting-started-with-the-teams-javascript-sdk-v20.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
