@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] I attempted to recreate the Star Wars light speed jump in code.org for a school project. Thoughts?](https://www.reddit.com/r/javascript/comments/t7go6v/askjs_i_attempted_to_recreate_the_star_wars_light/)
-- [[AskJS] Looking for data visualisation to trace API req and response](https://www.reddit.com/r/javascript/comments/t7f57t/askjs_looking_for_data_visualisation_to_trace_api/)
+- [Lovenotwar.js a minimalist banner to stand for peace](https://www.reddit.com/r/javascript/comments/t8bir8/lovenotwarjs_a_minimalist_banner_to_stand_for/)
+- [[AskJS] How to sort list of objects by timestamp?](https://www.reddit.com/r/javascript/comments/t8795m/askjs_how_to_sort_list_of_objects_by_timestamp/)
+- [LEMONADEJS v2 new release - A JS micro reactive library &lpar;about 6Kbytes&rpar; with reducers, no transpile required.](https://www.reddit.com/r/javascript/comments/t85j0i/lemonadejs_v2_new_release_a_js_micro_reactive/)
+- [stylesheets - make small css changes straight from your javascript code](https://www.reddit.com/r/javascript/comments/t82n3z/stylesheets_make_small_css_changes_straight_from/)
+- [Scem: An object validation package &lpar;My First npm package&rpar;](https://www.reddit.com/r/javascript/comments/t809za/scem_an_object_validation_package_my_first_npm/)
+- [[AskJS] How to rotate a blob image?](https://www.reddit.com/r/javascript/comments/t805k5/askjs_how_to_rotate_a_blob_image/)
 - [ReScript on Deno: Declarative Command Line Tools](https://www.reddit.com/r/javascript/comments/t7buew/rescript_on_deno_declarative_command_line_tools/)
 - [[AskJS] modify the DOM before it&#39;s displayed?](https://www.reddit.com/r/javascript/comments/t77kmu/askjs_modify_the_dom_before_its_displayed/)
 - [How do you work with local node packages?](https://www.reddit.com/r/javascript/comments/t775ja/how_do_you_work_with_local_node_packages/)
 - [Showoff Saturday &lpar;March 05, 2022&rpar;](https://www.reddit.com/r/javascript/comments/t74ohn/showoff_saturday_march_05_2022/)
-- [Quick Tip: Importing and Exporting Components in React App](https://www.reddit.com/r/javascript/comments/t73gob/quick_tip_importing_and_exporting_components_in/)
-- [[AskJS] How do I dynamically add a space when calling items of an array inside a function?](https://www.reddit.com/r/javascript/comments/t72l5b/askjs_how_do_i_dynamically_add_a_space_when/)
-- [[AskJS] Looking for a Sr JS Dev](https://www.reddit.com/r/javascript/comments/t70jsz/askjs_looking_for_a_sr_js_dev/)
-- [ng-number-input - add commas to numbers in input field](https://www.reddit.com/r/javascript/comments/t6vyns/ngnumberinput_add_commas_to_numbers_in_input_field/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
