@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Lovenotwar.js a minimalist banner to stand for peace](https://www.reddit.com/r/javascript/comments/t8bir8/lovenotwarjs_a_minimalist_banner_to_stand_for/)
-- [[AskJS] How to sort list of objects by timestamp?](https://www.reddit.com/r/javascript/comments/t8795m/askjs_how_to_sort_list_of_objects_by_timestamp/)
-- [LEMONADEJS v2 new release - A JS micro reactive library &lpar;about 6Kbytes&rpar; with reducers, no transpile required.](https://www.reddit.com/r/javascript/comments/t85j0i/lemonadejs_v2_new_release_a_js_micro_reactive/)
-- [stylesheets - make small css changes straight from your javascript code](https://www.reddit.com/r/javascript/comments/t82n3z/stylesheets_make_small_css_changes_straight_from/)
-- [Scem: An object validation package &lpar;My First npm package&rpar;](https://www.reddit.com/r/javascript/comments/t809za/scem_an_object_validation_package_my_first_npm/)
-- [[AskJS] How to rotate a blob image?](https://www.reddit.com/r/javascript/comments/t805k5/askjs_how_to_rotate_a_blob_image/)
-- [ReScript on Deno: Declarative Command Line Tools](https://www.reddit.com/r/javascript/comments/t7buew/rescript_on_deno_declarative_command_line_tools/)
-- [[AskJS] modify the DOM before it&#39;s displayed?](https://www.reddit.com/r/javascript/comments/t77kmu/askjs_modify_the_dom_before_its_displayed/)
-- [How do you work with local node packages?](https://www.reddit.com/r/javascript/comments/t775ja/how_do_you_work_with_local_node_packages/)
-- [Showoff Saturday &lpar;March 05, 2022&rpar;](https://www.reddit.com/r/javascript/comments/t74ohn/showoff_saturday_march_05_2022/)
+- [GitHub - WebTigers/tigerDOM: An elegant animation library.](https://www.reddit.com/r/javascript/comments/t92gwd/github_webtigerstigerdom_an_elegant_animation/)
+- [Try out the sample code for the NestJS integration for New Relic One](https://www.reddit.com/r/javascript/comments/t91hh6/try_out_the_sample_code_for_the_nestjs/)
+- [Collaborate for Karma](https://www.reddit.com/r/javascript/comments/t90hdo/collaborate_for_karma/)
+- [[AskJS] Is there a way to overwrite local files in Google Chrome with service worker running?](https://www.reddit.com/r/javascript/comments/t8zb1n/askjs_is_there_a_way_to_overwrite_local_files_in/)
+- [Free Webinar: Bryntum Web Component Suite 5.0 Walkthrough](https://www.reddit.com/r/javascript/comments/t8vcfw/free_webinar_bryntum_web_component_suite_50/)
+- [Interesting conferences to attend this year](https://www.reddit.com/r/javascript/comments/t8v62d/interesting_conferences_to_attend_this_year/)
+- [Cookies At The Edge: Not A Baking Blog Post](https://www.reddit.com/r/javascript/comments/t8sq25/cookies_at_the_edge_not_a_baking_blog_post/)
+- [How to implement filter groups: The best practice of filtering just about anything](https://www.reddit.com/r/javascript/comments/t8sg1g/how_to_implement_filter_groups_the_best_practice/)
+- [Over 100 Algorithms and Data Structures Demonstrated in JS](https://www.reddit.com/r/javascript/comments/t8s2lw/over_100_algorithms_and_data_structures/)
+- [micropolisJS - a handmade Javascript port of the open-source city simulator Micropolis](https://www.reddit.com/r/javascript/comments/t8r1jq/micropolisjs_a_handmade_javascript_port_of_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
