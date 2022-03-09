@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [GitHub - WebTigers/tigerDOM: An elegant animation library.](https://www.reddit.com/r/javascript/comments/t92gwd/github_webtigerstigerdom_an_elegant_animation/)
-- [Try out the sample code for the NestJS integration for New Relic One](https://www.reddit.com/r/javascript/comments/t91hh6/try_out_the_sample_code_for_the_nestjs/)
-- [Collaborate for Karma](https://www.reddit.com/r/javascript/comments/t90hdo/collaborate_for_karma/)
-- [[AskJS] Is there a way to overwrite local files in Google Chrome with service worker running?](https://www.reddit.com/r/javascript/comments/t8zb1n/askjs_is_there_a_way_to_overwrite_local_files_in/)
-- [Free Webinar: Bryntum Web Component Suite 5.0 Walkthrough](https://www.reddit.com/r/javascript/comments/t8vcfw/free_webinar_bryntum_web_component_suite_50/)
-- [Interesting conferences to attend this year](https://www.reddit.com/r/javascript/comments/t8v62d/interesting_conferences_to_attend_this_year/)
-- [Cookies At The Edge: Not A Baking Blog Post](https://www.reddit.com/r/javascript/comments/t8sq25/cookies_at_the_edge_not_a_baking_blog_post/)
-- [How to implement filter groups: The best practice of filtering just about anything](https://www.reddit.com/r/javascript/comments/t8sg1g/how_to_implement_filter_groups_the_best_practice/)
-- [Over 100 Algorithms and Data Structures Demonstrated in JS](https://www.reddit.com/r/javascript/comments/t8s2lw/over_100_algorithms_and_data_structures/)
-- [micropolisJS - a handmade Javascript port of the open-source city simulator Micropolis](https://www.reddit.com/r/javascript/comments/t8r1jq/micropolisjs_a_handmade_javascript_port_of_the/)
+- [React 18 Release candidate released](https://www.reddit.com/r/javascript/comments/t9stmr/react_18_release_candidate_released/)
+- [[Feedback] Nodejs DDoS cluster](https://www.reddit.com/r/javascript/comments/t9qnfz/feedback_nodejs_ddos_cluster/)
+- [[AskJS] What to do immediately after the beginner Learn JavaScript course in CodeAcademy?](https://www.reddit.com/r/javascript/comments/t9ptzd/askjs_what_to_do_immediately_after_the_beginner/)
+- [Empty npm package &#39;-&#39; has over 700,000 downloads](https://www.reddit.com/r/javascript/comments/t9ny4q/empty_npm_package_has_over_700000_downloads/)
+- [Diagnosis API Documentation](https://www.reddit.com/r/javascript/comments/t9nrrf/diagnosis_api_documentation/)
+- [MVC web application to use Diagnosis API](https://www.reddit.com/r/javascript/comments/t9mki1/mvc_web_application_to_use_diagnosis_api/)
+- [[AskJS] What percent of time is OK to spend on Unit Tests?](https://www.reddit.com/r/javascript/comments/t9lpr1/askjs_what_percent_of_time_is_ok_to_spend_on_unit/)
+- [Getting Started with Web Bluetooth](https://www.reddit.com/r/javascript/comments/t9k8kg/getting_started_with_web_bluetooth/)
+- [I made a PWA, to listen to YouTube in background on smartphones using the web share target API, take a look](https://www.reddit.com/r/javascript/comments/t9k12i/i_made_a_pwa_to_listen_to_youtube_in_background/)
+- [WebGPU — All of the cores, none of the canvas](https://www.reddit.com/r/javascript/comments/t9jp5j/webgpu_all_of_the_cores_none_of_the_canvas/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
