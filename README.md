@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [From Fetch to Axios — A better way to call APIs](https://www.reddit.com/r/javascript/comments/tanatp/from_fetch_to_axios_a_better_way_to_call_apis/)
+- [[AskJS] What am I doing wrong with Promises?!](https://www.reddit.com/r/javascript/comments/taln1p/askjs_what_am_i_doing_wrong_with_promises/)
+- [How to integrate Bootstrap Popover in Angular 13 application](https://www.reddit.com/r/javascript/comments/tag85o/how_to_integrate_bootstrap_popover_in_angular_13/)
+- [A Proposal for Type Syntax in JavaScript](https://www.reddit.com/r/javascript/comments/taejmb/a_proposal_for_type_syntax_in_javascript/)
+- [[AskJS] dynamic context question](https://www.reddit.com/r/javascript/comments/tadq6u/askjs_dynamic_context_question/)
+- [A useful vscode plugin that provides you with code snippets on demand.](https://www.reddit.com/r/javascript/comments/taccek/a_useful_vscode_plugin_that_provides_you_with/)
+- [How do primitive values get their properties? [Show Reddit]](https://www.reddit.com/r/javascript/comments/ta84hm/how_do_primitive_values_get_their_properties_show/)
+- [Part 1: Build your own JS framework from scratch](https://www.reddit.com/r/javascript/comments/ta6jnb/part_1_build_your_own_js_framework_from_scratch/)
+- [WTF Wednesday &lpar;March 09, 2022&rpar;](https://www.reddit.com/r/javascript/comments/ta2xgs/wtf_wednesday_march_09_2022/)
 - [React 18 Release candidate released](https://www.reddit.com/r/javascript/comments/t9stmr/react_18_release_candidate_released/)
-- [[Feedback] Nodejs DDoS cluster](https://www.reddit.com/r/javascript/comments/t9qnfz/feedback_nodejs_ddos_cluster/)
-- [[AskJS] What to do immediately after the beginner Learn JavaScript course in CodeAcademy?](https://www.reddit.com/r/javascript/comments/t9ptzd/askjs_what_to_do_immediately_after_the_beginner/)
-- [Empty npm package &#39;-&#39; has over 700,000 downloads](https://www.reddit.com/r/javascript/comments/t9ny4q/empty_npm_package_has_over_700000_downloads/)
-- [Diagnosis API Documentation](https://www.reddit.com/r/javascript/comments/t9nrrf/diagnosis_api_documentation/)
-- [MVC web application to use Diagnosis API](https://www.reddit.com/r/javascript/comments/t9mki1/mvc_web_application_to_use_diagnosis_api/)
-- [[AskJS] What percent of time is OK to spend on Unit Tests?](https://www.reddit.com/r/javascript/comments/t9lpr1/askjs_what_percent_of_time_is_ok_to_spend_on_unit/)
-- [Getting Started with Web Bluetooth](https://www.reddit.com/r/javascript/comments/t9k8kg/getting_started_with_web_bluetooth/)
-- [I made a PWA, to listen to YouTube in background on smartphones using the web share target API, take a look](https://www.reddit.com/r/javascript/comments/t9k12i/i_made_a_pwa_to_listen_to_youtube_in_background/)
-- [WebGPU — All of the cores, none of the canvas](https://www.reddit.com/r/javascript/comments/t9jp5j/webgpu_all_of_the_cores_none_of_the_canvas/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
