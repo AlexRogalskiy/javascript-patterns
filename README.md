@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [From Fetch to Axios — A better way to call APIs](https://www.reddit.com/r/javascript/comments/tanatp/from_fetch_to_axios_a_better_way_to_call_apis/)
-- [[AskJS] What am I doing wrong with Promises?!](https://www.reddit.com/r/javascript/comments/taln1p/askjs_what_am_i_doing_wrong_with_promises/)
-- [How to integrate Bootstrap Popover in Angular 13 application](https://www.reddit.com/r/javascript/comments/tag85o/how_to_integrate_bootstrap_popover_in_angular_13/)
-- [A Proposal for Type Syntax in JavaScript](https://www.reddit.com/r/javascript/comments/taejmb/a_proposal_for_type_syntax_in_javascript/)
-- [[AskJS] dynamic context question](https://www.reddit.com/r/javascript/comments/tadq6u/askjs_dynamic_context_question/)
-- [A useful vscode plugin that provides you with code snippets on demand.](https://www.reddit.com/r/javascript/comments/taccek/a_useful_vscode_plugin_that_provides_you_with/)
-- [How do primitive values get their properties? [Show Reddit]](https://www.reddit.com/r/javascript/comments/ta84hm/how_do_primitive_values_get_their_properties_show/)
-- [Part 1: Build your own JS framework from scratch](https://www.reddit.com/r/javascript/comments/ta6jnb/part_1_build_your_own_js_framework_from_scratch/)
-- [WTF Wednesday &lpar;March 09, 2022&rpar;](https://www.reddit.com/r/javascript/comments/ta2xgs/wtf_wednesday_march_09_2022/)
-- [React 18 Release candidate released](https://www.reddit.com/r/javascript/comments/t9stmr/react_18_release_candidate_released/)
+- [Simple npm package that keeps your PC awake, that can be run by npx](https://www.reddit.com/r/javascript/comments/tb9g9x/simple_npm_package_that_keeps_your_pc_awake_that/)
+- [How Storybook helps designers &amp; developers stay in sync](https://www.reddit.com/r/javascript/comments/tb3je7/how_storybook_helps_designers_developers_stay_in/)
+- [Open-source analytics with Angular and ECharts](https://www.reddit.com/r/javascript/comments/tb0age/opensource_analytics_with_angular_and_echarts/)
+- [What&#39;s New In DevTools &lpar;Chrome 100&rpar; - Chrome Developers](https://www.reddit.com/r/javascript/comments/tazgk6/whats_new_in_devtools_chrome_100_chrome_developers/)
+- [HTTPS Module Imports for NodeJS are on the way!](https://www.reddit.com/r/javascript/comments/tawe1i/https_module_imports_for_nodejs_are_on_the_way/)
+- [Deep Dive into React Native JSI](https://www.reddit.com/r/javascript/comments/tavbwu/deep_dive_into_react_native_jsi/)
+- [[AskJS] Best JS book for a book club for JS devs?](https://www.reddit.com/r/javascript/comments/tausp3/askjs_best_js_book_for_a_book_club_for_js_devs/)
+- [First look: adding type annotations to JavaScript](https://www.reddit.com/r/javascript/comments/tatfwm/first_look_adding_type_annotations_to_javascript/)
+- [Transpile TypeScript to Javascript for ESP8266/ESP32 Devices](https://www.reddit.com/r/javascript/comments/tar1eo/transpile_typescript_to_javascript_for/)
+- [Striff: A &lt; 600 byte string diffing package.](https://www.reddit.com/r/javascript/comments/taq3km/striff_a_600_byte_string_diffing_package/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
