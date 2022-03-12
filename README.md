@@ -378,6 +378,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *NodeSource posts*
 
 <!-- NODESOURCE-POST-LIST:START -->
+- [Is the New JavaScript era coming?](https://nodesource.com/blog/new-JavaScript-era-coming)
 - [Dive into Node.js Streams](https://nodesource.com/blog/dive-into-NodeJs-streams)
 - [Announcing N|Solid 4.7.0](https://nodesource.com/blog/announcing-NSolid-v4.7.0)
 - [Understanding dependencies inside your Package.json](https://nodesource.com/blog/understanding-dependencies-inside-your-packagejson)
@@ -387,7 +388,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [In-depth analysis of the APMs performance cost in Node.js](https://nodesource.com/blog/In-depth-analysis-APMs-performance-cost-Nodejs)
 - [[Node.js] Securing your applications  Part 3/3](https://nodesource.com/blog/NodeJS-securing-your-applications-3)
 - [Securing your Applications in Node.js - Part 2/3](https://nodesource.com/blog/NodeJS-securing-your-applications-2)
-- [Announcing N|Solid v4.6.3.](https://nodesource.com/blog/announcing-N|Solid-v4.6.3)
 <!-- NODESOURCE-POST-LIST:END -->
 
 ### *React Native posts*
