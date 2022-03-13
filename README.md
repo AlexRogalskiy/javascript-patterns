@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] What&#39;s the most annoying part about writing code comments?](https://www.reddit.com/r/javascript/comments/tcu53t/askjs_whats_the_most_annoying_part_about_writing/)
+- [Showoff Saturday &lpar;March 12, 2022&rpar;](https://www.reddit.com/r/javascript/comments/tcbkvd/showoff_saturday_march_12_2022/)
+- [[AskJS] Can I get a remote job without a BSC degree](https://www.reddit.com/r/javascript/comments/tc7oe4/askjs_can_i_get_a_remote_job_without_a_bsc_degree/)
+- [How JavaScript Array Works Internally?](https://www.reddit.com/r/javascript/comments/tc7le7/how_javascript_array_works_internally/)
 - [Face filters on the web from just text descriptions - face filters for cats all running locally in javascript that only uses text descriptions &lpar;e.g. &quot;a cat with heart shaped eyes&quot;&rpar; to guide the transformation &lpar;no data gathering needed&rpar;](https://www.reddit.com/r/javascript/comments/tc3zax/face_filters_on_the_web_from_just_text/)
 - [[AskJS] Why is is prettier used if eslint can format?](https://www.reddit.com/r/javascript/comments/tc3ecw/askjs_why_is_is_prettier_used_if_eslint_can_format/)
 - [A Deep Dive Comparison Between useMemo And useCallback](https://www.reddit.com/r/javascript/comments/tc21ke/a_deep_dive_comparison_between_usememo_and/)
 - [Caolan Asyncjs vs Async/Await: Which One to Use for Async Operations in NodeJS](https://www.reddit.com/r/javascript/comments/tbvkyq/caolan_asyncjs_vs_asyncawait_which_one_to_use_for/)
-- [amelia - a generative-art / creative-coding framework I created in JavaScript &lpar;uses ESM-modules&rpar;](https://www.reddit.com/r/javascript/comments/tbuvlz/amelia_a_generativeart_creativecoding_framework_i/)
 - [Check out the new open source Chrome Extension for generating tests for Cypress.io, Playwright and Puppeteer. Contributors welcomed!](https://www.reddit.com/r/javascript/comments/tbqqbg/check_out_the_new_open_source_chrome_extension/)
 - [We created an open source to view API traffic for Kubernetes enabling you to view all API communication between microservices. Mizu open source Monitoring network traffic in real-time. Supported protocols: HTTP/1.1 &lpar;REST, etc.&rpar; HTTP/2 &lpar;gRPC&rpar; AMQP &lpar;RabbitMQ, Apache Qpid, etc.&rpar;](https://www.reddit.com/r/javascript/comments/tbqk8q/we_created_an_open_source_to_view_api_traffic_for/)
-- [How Storybook helps designers &amp; developers stay in sync](https://www.reddit.com/r/javascript/comments/tb3je7/how_storybook_helps_designers_developers_stay_in/)
-- [Open-source analytics with Angular and ECharts](https://www.reddit.com/r/javascript/comments/tb0age/opensource_analytics_with_angular_and_echarts/)
-- [What&#39;s New In DevTools &lpar;Chrome 100&rpar; - Chrome Developers](https://www.reddit.com/r/javascript/comments/tazgk6/whats_new_in_devtools_chrome_100_chrome_developers/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
