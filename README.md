@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [The Double-Assignment Pattern In JQuery&#39;s Source Code](https://www.reddit.com/r/javascript/comments/tdhelq/the_doubleassignment_pattern_in_jquerys_source/)
+- [Liqvid 2.1 released: use Web Animations API in videos](https://www.reddit.com/r/javascript/comments/tea9hb/liqvid_21_released_use_web_animations_api_in/)
+- [Microsoft proposes type syntax for JavaScript](https://www.reddit.com/r/javascript/comments/te3w6b/microsoft_proposes_type_syntax_for_javascript/)
+- [TypeScript Tips &amp; Tricks to Manage a Growing Code Base](https://www.reddit.com/r/javascript/comments/tdvkir/typescript_tips_tricks_to_manage_a_growing_code/)
 - [Shared State using MobX and Module Federation [with CodeSandbox]](https://www.reddit.com/r/javascript/comments/tdgx1c/shared_state_using_mobx_and_module_federation/)
-- [Any library recommendation for basic 3D stuff?](https://www.reddit.com/r/javascript/comments/tdezi6/any_library_recommendation_for_basic_3d_stuff/)
-- [Genghis Khan Game](https://www.reddit.com/r/javascript/comments/tdeq0m/genghis_khan_game/)
-- [Javascript mouse hover 3d card effect :D](https://www.reddit.com/r/javascript/comments/td7ow9/javascript_mouse_hover_3d_card_effect_d/)
 - [.lang - run .c .cpp .py .cljs .ts .coffee and more directly in chrome, offline](https://www.reddit.com/r/javascript/comments/tcxsmx/lang_run_c_cpp_py_cljs_ts_coffee_and_more/)
 - [[AskJS] What&#39;s the most annoying part about writing code comments?](https://www.reddit.com/r/javascript/comments/tcu53t/askjs_whats_the_most_annoying_part_about_writing/)
 - [Showoff Saturday &lpar;March 12, 2022&rpar;](https://www.reddit.com/r/javascript/comments/tcbkvd/showoff_saturday_march_12_2022/)
 - [[AskJS] Can I get a remote job without a BSC degree](https://www.reddit.com/r/javascript/comments/tc7oe4/askjs_can_i_get_a_remote_job_without_a_bsc_degree/)
 - [How JavaScript Array Works Internally?](https://www.reddit.com/r/javascript/comments/tc7le7/how_javascript_array_works_internally/)
+- [Face filters on the web from just text descriptions - face filters for cats all running locally in javascript that only uses text descriptions &lpar;e.g. &quot;a cat with heart shaped eyes&quot;&rpar; to guide the transformation &lpar;no data gathering needed&rpar;](https://www.reddit.com/r/javascript/comments/tc3zax/face_filters_on_the_web_from_just_text/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
