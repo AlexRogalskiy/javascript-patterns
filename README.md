@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Comparing two aspect ratios](https://www.reddit.com/r/javascript/comments/tf2duo/askjs_comparing_two_aspect_ratios/)
+- [Patterns for Consuming REST API&#39;s in TypeScript](https://www.reddit.com/r/javascript/comments/tesm3t/patterns_for_consuming_rest_apis_in_typescript/)
+- [JS.Sketcher - a parametric 2D and 3D CAD modeler written in pure javascript](https://www.reddit.com/r/javascript/comments/tes8oh/jssketcher_a_parametric_2d_and_3d_cad_modeler/)
+- [Introducing Ladle, a drop-in alternative to Storybook for React components. Based on Vite , instant server start, 4x faster production build, 20x smaller footprint, code-splitting, fast refresh, single dependency &amp; command and no configuration required.](https://www.reddit.com/r/javascript/comments/ter270/introducing_ladle_a_dropin_alternative_to/)
+- [React Flow 10 - New major version, website, docs, blog and pro version](https://www.reddit.com/r/javascript/comments/tenavv/react_flow_10_new_major_version_website_docs_blog/)
+- [DevOps JavaScript - Intro to Writing Scripts With zx](https://www.reddit.com/r/javascript/comments/telymk/devops_javascript_intro_to_writing_scripts_with_zx/)
+- [[AskJS] Struggling with the solution?](https://www.reddit.com/r/javascript/comments/tejcel/askjs_struggling_with_the_solution/)
 - [Liqvid 2.1 released: use Web Animations API in videos](https://www.reddit.com/r/javascript/comments/tea9hb/liqvid_21_released_use_web_animations_api_in/)
-- [Microsoft proposes type syntax for JavaScript](https://www.reddit.com/r/javascript/comments/te3w6b/microsoft_proposes_type_syntax_for_javascript/)
 - [TypeScript Tips &amp; Tricks to Manage a Growing Code Base](https://www.reddit.com/r/javascript/comments/tdvkir/typescript_tips_tricks_to_manage_a_growing_code/)
 - [Shared State using MobX and Module Federation [with CodeSandbox]](https://www.reddit.com/r/javascript/comments/tdgx1c/shared_state_using_mobx_and_module_federation/)
-- [.lang - run .c .cpp .py .cljs .ts .coffee and more directly in chrome, offline](https://www.reddit.com/r/javascript/comments/tcxsmx/lang_run_c_cpp_py_cljs_ts_coffee_and_more/)
-- [[AskJS] What&#39;s the most annoying part about writing code comments?](https://www.reddit.com/r/javascript/comments/tcu53t/askjs_whats_the_most_annoying_part_about_writing/)
-- [Showoff Saturday &lpar;March 12, 2022&rpar;](https://www.reddit.com/r/javascript/comments/tcbkvd/showoff_saturday_march_12_2022/)
-- [[AskJS] Can I get a remote job without a BSC degree](https://www.reddit.com/r/javascript/comments/tc7oe4/askjs_can_i_get_a_remote_job_without_a_bsc_degree/)
-- [How JavaScript Array Works Internally?](https://www.reddit.com/r/javascript/comments/tc7le7/how_javascript_array_works_internally/)
-- [Face filters on the web from just text descriptions - face filters for cats all running locally in javascript that only uses text descriptions &lpar;e.g. &quot;a cat with heart shaped eyes&quot;&rpar; to guide the transformation &lpar;no data gathering needed&rpar;](https://www.reddit.com/r/javascript/comments/tc3zax/face_filters_on_the_web_from_just_text/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
