@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Comparing two aspect ratios](https://www.reddit.com/r/javascript/comments/tf2duo/askjs_comparing_two_aspect_ratios/)
-- [Patterns for Consuming REST API&#39;s in TypeScript](https://www.reddit.com/r/javascript/comments/tesm3t/patterns_for_consuming_rest_apis_in_typescript/)
-- [JS.Sketcher - a parametric 2D and 3D CAD modeler written in pure javascript](https://www.reddit.com/r/javascript/comments/tes8oh/jssketcher_a_parametric_2d_and_3d_cad_modeler/)
-- [Introducing Ladle, a drop-in alternative to Storybook for React components. Based on Vite , instant server start, 4x faster production build, 20x smaller footprint, code-splitting, fast refresh, single dependency &amp; command and no configuration required.](https://www.reddit.com/r/javascript/comments/ter270/introducing_ladle_a_dropin_alternative_to/)
-- [React Flow 10 - New major version, website, docs, blog and pro version](https://www.reddit.com/r/javascript/comments/tenavv/react_flow_10_new_major_version_website_docs_blog/)
-- [DevOps JavaScript - Intro to Writing Scripts With zx](https://www.reddit.com/r/javascript/comments/telymk/devops_javascript_intro_to_writing_scripts_with_zx/)
-- [[AskJS] Struggling with the solution?](https://www.reddit.com/r/javascript/comments/tejcel/askjs_struggling_with_the_solution/)
-- [Liqvid 2.1 released: use Web Animations API in videos](https://www.reddit.com/r/javascript/comments/tea9hb/liqvid_21_released_use_web_animations_api_in/)
-- [TypeScript Tips &amp; Tricks to Manage a Growing Code Base](https://www.reddit.com/r/javascript/comments/tdvkir/typescript_tips_tricks_to_manage_a_growing_code/)
-- [Shared State using MobX and Module Federation [with CodeSandbox]](https://www.reddit.com/r/javascript/comments/tdgx1c/shared_state_using_mobx_and_module_federation/)
+- [[AskJS] Node.js Express Server: Is this a Code Smell or am I too picky?](https://www.reddit.com/r/javascript/comments/tfy5fx/askjs_nodejs_express_server_is_this_a_code_smell/)
+- [We built a fast way to test JavaScript functions as you write them. Wanna try it?](https://www.reddit.com/r/javascript/comments/tfwktx/we_built_a_fast_way_to_test_javascript_functions/)
+- [I share my page. Full of games made by me in JavaScript. Criticisms are welcome. Thanks a lot.](https://www.reddit.com/r/javascript/comments/tfvxq0/i_share_my_page_full_of_games_made_by_me_in/)
+- [Yet another covid tracker: covid-summary-cli, simple summary for your terminal](https://www.reddit.com/r/javascript/comments/tfu122/yet_another_covid_tracker_covidsummarycli_simple/)
+- [[AskJS] How to handle crashing Chrome?](https://www.reddit.com/r/javascript/comments/tft8wg/askjs_how_to_handle_crashing_chrome/)
+- [[AskJS] Where does the specification for package.json live?](https://www.reddit.com/r/javascript/comments/tfrd30/askjs_where_does_the_specification_for/)
+- [First game using Phaser 3... Platformer](https://www.reddit.com/r/javascript/comments/tfp0xm/first_game_using_phaser_3_platformer/)
+- [Vue.js developers impacted due to malicious security incident involving npm package node-ipc which alters files on their drives](https://www.reddit.com/r/javascript/comments/tfolm5/vuejs_developers_impacted_due_to_malicious/)
+- [The Elephant in The Event Loop](https://www.reddit.com/r/javascript/comments/tfobxt/the_elephant_in_the_event_loop/)
+- [Making a monoid: the art of mush-mashing](https://www.reddit.com/r/javascript/comments/tfixcy/making_a_monoid_the_art_of_mushmashing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
