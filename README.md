@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Node.js Express Server: Is this a Code Smell or am I too picky?](https://www.reddit.com/r/javascript/comments/tfy5fx/askjs_nodejs_express_server_is_this_a_code_smell/)
-- [We built a fast way to test JavaScript functions as you write them. Wanna try it?](https://www.reddit.com/r/javascript/comments/tfwktx/we_built_a_fast_way_to_test_javascript_functions/)
-- [I share my page. Full of games made by me in JavaScript. Criticisms are welcome. Thanks a lot.](https://www.reddit.com/r/javascript/comments/tfvxq0/i_share_my_page_full_of_games_made_by_me_in/)
-- [Yet another covid tracker: covid-summary-cli, simple summary for your terminal](https://www.reddit.com/r/javascript/comments/tfu122/yet_another_covid_tracker_covidsummarycli_simple/)
-- [[AskJS] How to handle crashing Chrome?](https://www.reddit.com/r/javascript/comments/tft8wg/askjs_how_to_handle_crashing_chrome/)
-- [[AskJS] Where does the specification for package.json live?](https://www.reddit.com/r/javascript/comments/tfrd30/askjs_where_does_the_specification_for/)
-- [First game using Phaser 3... Platformer](https://www.reddit.com/r/javascript/comments/tfp0xm/first_game_using_phaser_3_platformer/)
-- [Vue.js developers impacted due to malicious security incident involving npm package node-ipc which alters files on their drives](https://www.reddit.com/r/javascript/comments/tfolm5/vuejs_developers_impacted_due_to_malicious/)
-- [The Elephant in The Event Loop](https://www.reddit.com/r/javascript/comments/tfobxt/the_elephant_in_the_event_loop/)
-- [Making a monoid: the art of mush-mashing](https://www.reddit.com/r/javascript/comments/tfixcy/making_a_monoid_the_art_of_mushmashing/)
+- [Why Did And Don’t You Need To Import React](https://www.reddit.com/r/javascript/comments/tgkwg8/why_did_and_dont_you_need_to_import_react/)
+- [Directus is a free and open-source data platform built in 100% JavaScript &lpar;Vue/Node&rpar;. After years of development, we’d love your feedback!](https://www.reddit.com/r/javascript/comments/tggq8d/directus_is_a_free_and_opensource_data_platform/)
+- [&quot;I&#39;m a GitHub user Since&quot; a Card Generator for Github users](https://www.reddit.com/r/javascript/comments/tgfql9/im_a_github_user_since_a_card_generator_for/)
+- [`ctrl-keys` a library to handle keybindings efficiently](https://www.reddit.com/r/javascript/comments/tgdpqd/ctrlkeys_a_library_to_handle_keybindings/)
+- [DDxHub - Differential diagnosis Hub](https://www.reddit.com/r/javascript/comments/tgdjfl/ddxhub_differential_diagnosis_hub/)
+- [Payload, a headless TypeScript CMS, just shipped 20+ new features, including Versions, Drafts, &amp; Autosave](https://www.reddit.com/r/javascript/comments/tgcm1n/payload_a_headless_typescript_cms_just_shipped_20/)
+- [Overview of Polylith&#39;s Architecture](https://www.reddit.com/r/javascript/comments/tga3rq/overview_of_polyliths_architecture/)
+- [Mastering React was never easier - &quot;React - The Road To Enterprise&quot; has finally launched!](https://www.reddit.com/r/javascript/comments/tg4x07/mastering_react_was_never_easier_react_the_road/)
+- [ECMAScript 2022: Ergonomic brand check for private fields](https://www.reddit.com/r/javascript/comments/tg3kcg/ecmascript_2022_ergonomic_brand_check_for_private/)
+- [GitHub - cicada-lang/inet: An implementation of Interaction in JavaScript.](https://www.reddit.com/r/javascript/comments/tg3dgi/github_cicadalanginet_an_implementation_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
