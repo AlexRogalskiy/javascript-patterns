@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Why Did And Don’t You Need To Import React](https://www.reddit.com/r/javascript/comments/tgkwg8/why_did_and_dont_you_need_to_import_react/)
-- [Directus is a free and open-source data platform built in 100% JavaScript &lpar;Vue/Node&rpar;. After years of development, we’d love your feedback!](https://www.reddit.com/r/javascript/comments/tggq8d/directus_is_a_free_and_opensource_data_platform/)
-- [&quot;I&#39;m a GitHub user Since&quot; a Card Generator for Github users](https://www.reddit.com/r/javascript/comments/tgfql9/im_a_github_user_since_a_card_generator_for/)
-- [`ctrl-keys` a library to handle keybindings efficiently](https://www.reddit.com/r/javascript/comments/tgdpqd/ctrlkeys_a_library_to_handle_keybindings/)
-- [DDxHub - Differential diagnosis Hub](https://www.reddit.com/r/javascript/comments/tgdjfl/ddxhub_differential_diagnosis_hub/)
-- [Payload, a headless TypeScript CMS, just shipped 20+ new features, including Versions, Drafts, &amp; Autosave](https://www.reddit.com/r/javascript/comments/tgcm1n/payload_a_headless_typescript_cms_just_shipped_20/)
-- [Overview of Polylith&#39;s Architecture](https://www.reddit.com/r/javascript/comments/tga3rq/overview_of_polyliths_architecture/)
-- [Mastering React was never easier - &quot;React - The Road To Enterprise&quot; has finally launched!](https://www.reddit.com/r/javascript/comments/tg4x07/mastering_react_was_never_easier_react_the_road/)
-- [ECMAScript 2022: Ergonomic brand check for private fields](https://www.reddit.com/r/javascript/comments/tg3kcg/ecmascript_2022_ergonomic_brand_check_for_private/)
-- [GitHub - cicada-lang/inet: An implementation of Interaction in JavaScript.](https://www.reddit.com/r/javascript/comments/tg3dgi/github_cicadalanginet_an_implementation_of/)
+- [Helpful Javascript Array Methods](https://www.reddit.com/r/javascript/comments/thjr5m/helpful_javascript_array_methods/)
+- [HyperExpress 5.9.1: Now With Websocket Streaming, Multipart File Uploading &amp; Server-Sent Events!](https://www.reddit.com/r/javascript/comments/thj6rx/hyperexpress_591_now_with_websocket_streaming/)
+- [Mozilla and Open Web Docs working together on MDN](https://www.reddit.com/r/javascript/comments/the48q/mozilla_and_open_web_docs_working_together_on_mdn/)
+- [Computer scientist identifies JavaScript vulnerability in thousands of websites - ProbeTheProto framework developed by computer scientist Yinzhi Cao helps identify and alert websites vulnerable to a flaw that allows malicious actors to &#39;pollute&#39; important web code](https://www.reddit.com/r/javascript/comments/thbugq/computer_scientist_identifies_javascript/)
+- [[AskJS] - Best 3 WebRTC JavaScript Open Source Projects on 2022?](https://www.reddit.com/r/javascript/comments/thb1s0/askjs_best_3_webrtc_javascript_open_source/)
+- [Migrating our monorepo to Yarn 2](https://www.reddit.com/r/javascript/comments/th9bs3/migrating_our_monorepo_to_yarn_2/)
+- [npm package to upload your private ssh keys to a pastebin](https://www.reddit.com/r/javascript/comments/th5m0r/npm_package_to_upload_your_private_ssh_keys_to_a/)
+- [I made a cli that open leetcode problems by problem number](https://www.reddit.com/r/javascript/comments/th0an8/i_made_a_cli_that_open_leetcode_problems_by/)
+- [Understanding async and await - a tutorial](https://www.reddit.com/r/javascript/comments/tgycn4/understanding_async_and_await_a_tutorial/)
+- [Tao of Node - Design, Architecture &amp; Best Practices](https://www.reddit.com/r/javascript/comments/tgxkbx/tao_of_node_design_architecture_best_practices/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
