@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Helpful Javascript Array Methods](https://www.reddit.com/r/javascript/comments/thjr5m/helpful_javascript_array_methods/)
-- [HyperExpress 5.9.1: Now With Websocket Streaming, Multipart File Uploading &amp; Server-Sent Events!](https://www.reddit.com/r/javascript/comments/thj6rx/hyperexpress_591_now_with_websocket_streaming/)
-- [Mozilla and Open Web Docs working together on MDN](https://www.reddit.com/r/javascript/comments/the48q/mozilla_and_open_web_docs_working_together_on_mdn/)
-- [Computer scientist identifies JavaScript vulnerability in thousands of websites - ProbeTheProto framework developed by computer scientist Yinzhi Cao helps identify and alert websites vulnerable to a flaw that allows malicious actors to &#39;pollute&#39; important web code](https://www.reddit.com/r/javascript/comments/thbugq/computer_scientist_identifies_javascript/)
-- [[AskJS] - Best 3 WebRTC JavaScript Open Source Projects on 2022?](https://www.reddit.com/r/javascript/comments/thb1s0/askjs_best_3_webrtc_javascript_open_source/)
-- [Migrating our monorepo to Yarn 2](https://www.reddit.com/r/javascript/comments/th9bs3/migrating_our_monorepo_to_yarn_2/)
-- [npm package to upload your private ssh keys to a pastebin](https://www.reddit.com/r/javascript/comments/th5m0r/npm_package_to_upload_your_private_ssh_keys_to_a/)
-- [I made a cli that open leetcode problems by problem number](https://www.reddit.com/r/javascript/comments/th0an8/i_made_a_cli_that_open_leetcode_problems_by/)
-- [Understanding async and await - a tutorial](https://www.reddit.com/r/javascript/comments/tgycn4/understanding_async_and_await_a_tutorial/)
-- [Tao of Node - Design, Architecture &amp; Best Practices](https://www.reddit.com/r/javascript/comments/tgxkbx/tao_of_node_design_architecture_best_practices/)
+- [[AskJS] Trying to find where search and return results are written/taking place on a website](https://www.reddit.com/r/javascript/comments/ti6uno/askjs_trying_to_find_where_search_and_return/)
+- [[AskJS] Switch case worth it, for this?](https://www.reddit.com/r/javascript/comments/ti1gfd/askjs_switch_case_worth_it_for_this/)
+- [Byte City Nights – Building A Bitwise Cityscape](https://www.reddit.com/r/javascript/comments/ti14e0/byte_city_nights_building_a_bitwise_cityscape/)
+- [Glicol: A graph-oriented &lpar;music&rpar; live coding language/audio DSP lib written in Rust and used in JS](https://www.reddit.com/r/javascript/comments/thyj16/glicol_a_graphoriented_music_live_coding/)
+- [fetch&lpar;&rpar; In Node.js Core: Why You Should Care](https://www.reddit.com/r/javascript/comments/thya26/fetch_in_nodejs_core_why_you_should_care/)
+- [Share Code Snippets - Easily share code with developers](https://www.reddit.com/r/javascript/comments/thx2b4/share_code_snippets_easily_share_code_with/)
+- [[AskJS] Issues Dispatching CompositionEvents](https://www.reddit.com/r/javascript/comments/thv13e/askjs_issues_dispatching_compositionevents/)
+- [Inlined images in Next.js](https://www.reddit.com/r/javascript/comments/thuvxn/inlined_images_in_nextjs/)
+- [How to render charts into images using javascript](https://www.reddit.com/r/javascript/comments/thtkfq/how_to_render_charts_into_images_using_javascript/)
+- [[AskJS] Help needed with Service worker imports](https://www.reddit.com/r/javascript/comments/tht5n2/askjs_help_needed_with_service_worker_imports/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
