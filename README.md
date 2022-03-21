@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Trying to find where search and return results are written/taking place on a website](https://www.reddit.com/r/javascript/comments/ti6uno/askjs_trying_to_find_where_search_and_return/)
-- [[AskJS] Switch case worth it, for this?](https://www.reddit.com/r/javascript/comments/ti1gfd/askjs_switch_case_worth_it_for_this/)
-- [Byte City Nights – Building A Bitwise Cityscape](https://www.reddit.com/r/javascript/comments/ti14e0/byte_city_nights_building_a_bitwise_cityscape/)
-- [Glicol: A graph-oriented &lpar;music&rpar; live coding language/audio DSP lib written in Rust and used in JS](https://www.reddit.com/r/javascript/comments/thyj16/glicol_a_graphoriented_music_live_coding/)
-- [fetch&lpar;&rpar; In Node.js Core: Why You Should Care](https://www.reddit.com/r/javascript/comments/thya26/fetch_in_nodejs_core_why_you_should_care/)
-- [Share Code Snippets - Easily share code with developers](https://www.reddit.com/r/javascript/comments/thx2b4/share_code_snippets_easily_share_code_with/)
-- [[AskJS] Issues Dispatching CompositionEvents](https://www.reddit.com/r/javascript/comments/thv13e/askjs_issues_dispatching_compositionevents/)
-- [Inlined images in Next.js](https://www.reddit.com/r/javascript/comments/thuvxn/inlined_images_in_nextjs/)
-- [How to render charts into images using javascript](https://www.reddit.com/r/javascript/comments/thtkfq/how_to_render_charts_into_images_using_javascript/)
-- [[AskJS] Help needed with Service worker imports](https://www.reddit.com/r/javascript/comments/tht5n2/askjs_help_needed_with_service_worker_imports/)
+- [Testing SMS 2FA with Twilio and Playwright](https://www.reddit.com/r/javascript/comments/tj14nr/testing_sms_2fa_with_twilio_and_playwright/)
+- [[AskJS] Why not just add &#39;application/typescript&#39; support for browsers.](https://www.reddit.com/r/javascript/comments/tj05o1/askjs_why_not_just_add_applicationtypescript/)
+- [YaBSON: Binary-encoded serialization of JavaScript objects with generator-based parser and serializer](https://www.reddit.com/r/javascript/comments/tiyiyo/yabson_binaryencoded_serialization_of_javascript/)
+- [How We Made an Interactive Checkout Using Pure CSS without JavaScript](https://www.reddit.com/r/javascript/comments/tiycpk/how_we_made_an_interactive_checkout_using_pure/)
+- [[AskJS] How to test Prisma ORM model file without actually calling real database](https://www.reddit.com/r/javascript/comments/tixw0a/askjs_how_to_test_prisma_orm_model_file_without/)
+- [A real-world example of Improving JavaScript performance](https://www.reddit.com/r/javascript/comments/tird25/a_realworld_example_of_improving_javascript/)
+- [Need help with unit testing - Just please go through the comments](https://www.reddit.com/r/javascript/comments/tir8ow/need_help_with_unit_testing_just_please_go/)
+- [[x-post] how to avoid NPM supply chain attacks](https://www.reddit.com/r/javascript/comments/tiqywb/xpost_how_to_avoid_npm_supply_chain_attacks/)
+- [What is the difference between Strategy, State, and Template design patterns?](https://www.reddit.com/r/javascript/comments/tinsj4/what_is_the_difference_between_strategy_state_and/)
+- [[AskJS] can we use this example to differentiate between scope and context in js](https://www.reddit.com/r/javascript/comments/timkfo/askjs_can_we_use_this_example_to_differentiate/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
