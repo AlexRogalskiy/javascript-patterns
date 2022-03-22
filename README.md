@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Testing SMS 2FA with Twilio and Playwright](https://www.reddit.com/r/javascript/comments/tj14nr/testing_sms_2fa_with_twilio_and_playwright/)
-- [[AskJS] Why not just add &#39;application/typescript&#39; support for browsers.](https://www.reddit.com/r/javascript/comments/tj05o1/askjs_why_not_just_add_applicationtypescript/)
-- [YaBSON: Binary-encoded serialization of JavaScript objects with generator-based parser and serializer](https://www.reddit.com/r/javascript/comments/tiyiyo/yabson_binaryencoded_serialization_of_javascript/)
-- [How We Made an Interactive Checkout Using Pure CSS without JavaScript](https://www.reddit.com/r/javascript/comments/tiycpk/how_we_made_an_interactive_checkout_using_pure/)
-- [[AskJS] How to test Prisma ORM model file without actually calling real database](https://www.reddit.com/r/javascript/comments/tixw0a/askjs_how_to_test_prisma_orm_model_file_without/)
-- [A real-world example of Improving JavaScript performance](https://www.reddit.com/r/javascript/comments/tird25/a_realworld_example_of_improving_javascript/)
-- [Need help with unit testing - Just please go through the comments](https://www.reddit.com/r/javascript/comments/tir8ow/need_help_with_unit_testing_just_please_go/)
-- [[x-post] how to avoid NPM supply chain attacks](https://www.reddit.com/r/javascript/comments/tiqywb/xpost_how_to_avoid_npm_supply_chain_attacks/)
-- [What is the difference between Strategy, State, and Template design patterns?](https://www.reddit.com/r/javascript/comments/tinsj4/what_is_the_difference_between_strategy_state_and/)
-- [[AskJS] can we use this example to differentiate between scope and context in js](https://www.reddit.com/r/javascript/comments/timkfo/askjs_can_we_use_this_example_to_differentiate/)
+- [React Arborist - a full-featured tree component for React](https://www.reddit.com/r/javascript/comments/tjmkbz/react_arborist_a_fullfeatured_tree_component_for/)
+- [Preemptive Memoization In React Is Probably Not Evil &lpar;Yet&rpar;](https://www.reddit.com/r/javascript/comments/tjlc88/preemptive_memoization_in_react_is_probably_not/)
+- [[AskJS] Best UI framework for React in 2022?](https://www.reddit.com/r/javascript/comments/tjkjlj/askjs_best_ui_framework_for_react_in_2022/)
+- [Hooks Considered Harmful](https://www.reddit.com/r/javascript/comments/tji4vq/hooks_considered_harmful/)
+- [Full Demo: A new kind of Debugger for JavaScript &lpar;Dbux, this time w/ examples&rpar;](https://www.reddit.com/r/javascript/comments/tji0w3/full_demo_a_new_kind_of_debugger_for_javascript/)
+- [Conquering JavaScript Hydration](https://www.reddit.com/r/javascript/comments/tjgp73/conquering_javascript_hydration/)
+- [Random Color Generator](https://www.reddit.com/r/javascript/comments/tjdi41/random_color_generator/)
+- [A few misconceptions people seem to have about the Types as Comments proposal](https://www.reddit.com/r/javascript/comments/tjdgcf/a_few_misconceptions_people_seem_to_have_about/)
+- [Deploying your Node API to AWS using Elastic Beanstalk – a demo project part of the Udacity “Cloud Developer” Nanodegree.](https://www.reddit.com/r/javascript/comments/tjcnm1/deploying_your_node_api_to_aws_using_elastic/)
+- [How to simulate a laser pointer with your phone?](https://www.reddit.com/r/javascript/comments/tjbmxt/how_to_simulate_a_laser_pointer_with_your_phone/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
