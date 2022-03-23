@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [React Arborist - a full-featured tree component for React](https://www.reddit.com/r/javascript/comments/tjmkbz/react_arborist_a_fullfeatured_tree_component_for/)
-- [Preemptive Memoization In React Is Probably Not Evil &lpar;Yet&rpar;](https://www.reddit.com/r/javascript/comments/tjlc88/preemptive_memoization_in_react_is_probably_not/)
-- [[AskJS] Best UI framework for React in 2022?](https://www.reddit.com/r/javascript/comments/tjkjlj/askjs_best_ui_framework_for_react_in_2022/)
-- [Hooks Considered Harmful](https://www.reddit.com/r/javascript/comments/tji4vq/hooks_considered_harmful/)
-- [Full Demo: A new kind of Debugger for JavaScript &lpar;Dbux, this time w/ examples&rpar;](https://www.reddit.com/r/javascript/comments/tji0w3/full_demo_a_new_kind_of_debugger_for_javascript/)
-- [Conquering JavaScript Hydration](https://www.reddit.com/r/javascript/comments/tjgp73/conquering_javascript_hydration/)
-- [Random Color Generator](https://www.reddit.com/r/javascript/comments/tjdi41/random_color_generator/)
-- [A few misconceptions people seem to have about the Types as Comments proposal](https://www.reddit.com/r/javascript/comments/tjdgcf/a_few_misconceptions_people_seem_to_have_about/)
-- [Deploying your Node API to AWS using Elastic Beanstalk – a demo project part of the Udacity “Cloud Developer” Nanodegree.](https://www.reddit.com/r/javascript/comments/tjcnm1/deploying_your_node_api_to_aws_using_elastic/)
-- [How to simulate a laser pointer with your phone?](https://www.reddit.com/r/javascript/comments/tjbmxt/how_to_simulate_a_laser_pointer_with_your_phone/)
+- [[AskJS] How would you map an object of objects of objects to an array in a functional style?](https://www.reddit.com/r/javascript/comments/tkipdg/askjs_how_would_you_map_an_object_of_objects_of/)
+- [[AskJS] local .npmrc not reading the environment variable](https://www.reddit.com/r/javascript/comments/tkg87c/askjs_local_npmrc_not_reading_the_environment/)
+- [Your SSR is slow &amp; your devtools are lying to you](https://www.reddit.com/r/javascript/comments/tkflwp/your_ssr_is_slow_your_devtools_are_lying_to_you/)
+- [[AskJS] Website feature that allows users to input their vehicle, then products will say if it is compatible or not.](https://www.reddit.com/r/javascript/comments/tke9s6/askjs_website_feature_that_allows_users_to_input/)
+- [[AskJS] What settings/extensions/features are good on VSCode for quick scripting?](https://www.reddit.com/r/javascript/comments/tkdh15/askjs_what_settingsextensionsfeatures_are_good_on/)
+- [Why should we even do testing?](https://www.reddit.com/r/javascript/comments/tkbp6u/why_should_we_even_do_testing/)
+- [[AskJS] With growing complexity today inside the JS Tech stack, do you believe it&#39;s impossible to be as good in frontend compared to backend or vice versa ? What&#39;s your opinion about ECMAScript proposal of &quot;types as comments&quot; ?](https://www.reddit.com/r/javascript/comments/tk9nnp/askjs_with_growing_complexity_today_inside_the_js/)
+- [[AskJS] How should I build a REST API node.js in 2022?](https://www.reddit.com/r/javascript/comments/tk8wrc/askjs_how_should_i_build_a_rest_api_nodejs_in_2022/)
+- [[Tutorial] Building a realtime multiplayer game using React &amp; Conflict-free Replicated Data Types &lpar;CRDT&rpar; of Yjs.](https://www.reddit.com/r/javascript/comments/tk5dol/tutorial_building_a_realtime_multiplayer_game/)
+- [Javascript and Typescript – What’s The Major Difference Between Them?](https://www.reddit.com/r/javascript/comments/tk5a0b/javascript_and_typescript_whats_the_major/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
