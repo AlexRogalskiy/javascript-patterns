@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] How would you map an object of objects of objects to an array in a functional style?](https://www.reddit.com/r/javascript/comments/tkipdg/askjs_how_would_you_map_an_object_of_objects_of/)
+- [How I validate routes with TypeScript!](https://www.reddit.com/r/javascript/comments/tlvczf/how_i_validate_routes_with_typescript/)
+- [We made Wordle for the Terminal and released a package](https://www.reddit.com/r/javascript/comments/tlva0s/we_made_wordle_for_the_terminal_and_released_a/)
+- [Press Any Key to get the JavaScript Event Keycode Info](https://www.reddit.com/r/javascript/comments/tla0vj/press_any_key_to_get_the_javascript_event_keycode/)
+- [&quot;Your junior devs should never be more than 3 steps from the CTO.&quot; The lead engineer of the U.S. government&#39;s largest software contractor says the easiest way to identify failing orgs is a top-down dev structure](https://www.reddit.com/r/javascript/comments/tkzcqv/your_junior_devs_should_never_be_more_than_3/)
+- [Building Table Sorting and Pagination in JavaScript](https://www.reddit.com/r/javascript/comments/tkul3j/building_table_sorting_and_pagination_in/)
+- [Introducing LucaMail - An Awesome cross platform, simple, friendly Email Client for desktop](https://www.reddit.com/r/javascript/comments/tku8de/introducing_lucamail_an_awesome_cross_platform/)
+- [WTF Wednesday &lpar;March 23, 2022&rpar;](https://www.reddit.com/r/javascript/comments/tko4o6/wtf_wednesday_march_23_2022/)
+- [Google SoundScript: faster OOP for JavaScript [2015]](https://www.reddit.com/r/javascript/comments/tkkrqz/google_soundscript_faster_oop_for_javascript_2015/)
 - [[AskJS] local .npmrc not reading the environment variable](https://www.reddit.com/r/javascript/comments/tkg87c/askjs_local_npmrc_not_reading_the_environment/)
-- [Your SSR is slow &amp; your devtools are lying to you](https://www.reddit.com/r/javascript/comments/tkflwp/your_ssr_is_slow_your_devtools_are_lying_to_you/)
 - [[AskJS] Website feature that allows users to input their vehicle, then products will say if it is compatible or not.](https://www.reddit.com/r/javascript/comments/tke9s6/askjs_website_feature_that_allows_users_to_input/)
-- [[AskJS] What settings/extensions/features are good on VSCode for quick scripting?](https://www.reddit.com/r/javascript/comments/tkdh15/askjs_what_settingsextensionsfeatures_are_good_on/)
-- [Why should we even do testing?](https://www.reddit.com/r/javascript/comments/tkbp6u/why_should_we_even_do_testing/)
-- [[AskJS] With growing complexity today inside the JS Tech stack, do you believe it&#39;s impossible to be as good in frontend compared to backend or vice versa ? What&#39;s your opinion about ECMAScript proposal of &quot;types as comments&quot; ?](https://www.reddit.com/r/javascript/comments/tk9nnp/askjs_with_growing_complexity_today_inside_the_js/)
-- [[AskJS] How should I build a REST API node.js in 2022?](https://www.reddit.com/r/javascript/comments/tk8wrc/askjs_how_should_i_build_a_rest_api_nodejs_in_2022/)
-- [[Tutorial] Building a realtime multiplayer game using React &amp; Conflict-free Replicated Data Types &lpar;CRDT&rpar; of Yjs.](https://www.reddit.com/r/javascript/comments/tk5dol/tutorial_building_a_realtime_multiplayer_game/)
-- [Javascript and Typescript – What’s The Major Difference Between Them?](https://www.reddit.com/r/javascript/comments/tk5a0b/javascript_and_typescript_whats_the_major/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
