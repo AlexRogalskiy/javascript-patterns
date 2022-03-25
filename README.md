@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How I validate routes with TypeScript!](https://www.reddit.com/r/javascript/comments/tlvczf/how_i_validate_routes_with_typescript/)
-- [We made Wordle for the Terminal and released a package](https://www.reddit.com/r/javascript/comments/tlva0s/we_made_wordle_for_the_terminal_and_released_a/)
-- [Press Any Key to get the JavaScript Event Keycode Info](https://www.reddit.com/r/javascript/comments/tla0vj/press_any_key_to_get_the_javascript_event_keycode/)
-- [&quot;Your junior devs should never be more than 3 steps from the CTO.&quot; The lead engineer of the U.S. government&#39;s largest software contractor says the easiest way to identify failing orgs is a top-down dev structure](https://www.reddit.com/r/javascript/comments/tkzcqv/your_junior_devs_should_never_be_more_than_3/)
-- [Building Table Sorting and Pagination in JavaScript](https://www.reddit.com/r/javascript/comments/tkul3j/building_table_sorting_and_pagination_in/)
-- [Introducing LucaMail - An Awesome cross platform, simple, friendly Email Client for desktop](https://www.reddit.com/r/javascript/comments/tku8de/introducing_lucamail_an_awesome_cross_platform/)
-- [WTF Wednesday &lpar;March 23, 2022&rpar;](https://www.reddit.com/r/javascript/comments/tko4o6/wtf_wednesday_march_23_2022/)
-- [Google SoundScript: faster OOP for JavaScript [2015]](https://www.reddit.com/r/javascript/comments/tkkrqz/google_soundscript_faster_oop_for_javascript_2015/)
-- [[AskJS] local .npmrc not reading the environment variable](https://www.reddit.com/r/javascript/comments/tkg87c/askjs_local_npmrc_not_reading_the_environment/)
-- [[AskJS] Website feature that allows users to input their vehicle, then products will say if it is compatible or not.](https://www.reddit.com/r/javascript/comments/tke9s6/askjs_website_feature_that_allows_users_to_input/)
+- [Appwrite – Open-Source and Self Hosted Firebase Alternative](https://www.reddit.com/r/javascript/comments/tn7ptv/appwrite_opensource_and_self_hosted_firebase/)
+- [React VS Stencil Performance](https://www.reddit.com/r/javascript/comments/tn7h2i/react_vs_stencil_performance/)
+- [[AskJS] What is the best way to connect JS Classes and DOM elements?](https://www.reddit.com/r/javascript/comments/tn74xg/askjs_what_is_the_best_way_to_connect_js_classes/)
+- [API Metering for Express Apps Using BigQuery](https://www.reddit.com/r/javascript/comments/tn5l8q/api_metering_for_express_apps_using_bigquery/)
+- [Tao of Node - Design, Architecture &amp; Best Practices](https://www.reddit.com/r/javascript/comments/tn5bnm/tao_of_node_design_architecture_best_practices/)
+- [Google Calendar Webhooks with Node.js](https://www.reddit.com/r/javascript/comments/tn58pe/google_calendar_webhooks_with_nodejs/)
+- [Postgres.js – Fastest Full-Featured PostgreSQL Client for Node and Deno](https://www.reddit.com/r/javascript/comments/tn0sxp/postgresjs_fastest_fullfeatured_postgresql_client/)
+- [Procedural grass in the browser &lpar;WebGL&rpar; using React-Three-Fiber. Live demo + code.](https://www.reddit.com/r/javascript/comments/tmy4gx/procedural_grass_in_the_browser_webgl_using/)
+- [SeaWasp - A real-time communication layer for web-components](https://www.reddit.com/r/javascript/comments/tmq9u6/seawasp_a_realtime_communication_layer_for/)
+- [RFC: Intent to ship React 18](https://www.reddit.com/r/javascript/comments/tmnq0d/rfc_intent_to_ship_react_18/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
