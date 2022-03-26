@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Trying out Ladle - A Storybook Alternative](https://www.reddit.com/r/javascript/comments/tnlc3w/trying_out_ladle_a_storybook_alternative/)
+- [Trying out Svelte: Framework without a framework](https://www.reddit.com/r/javascript/comments/tngjsy/trying_out_svelte_framework_without_a_framework/)
+- [JavaScript diagramming library that uses SVG and HTML for rendering.](https://www.reddit.com/r/javascript/comments/tnfzfw/javascript_diagramming_library_that_uses_svg_and/)
 - [Appwrite – Open-Source and Self Hosted Firebase Alternative](https://www.reddit.com/r/javascript/comments/tn7ptv/appwrite_opensource_and_self_hosted_firebase/)
 - [React VS Stencil Performance](https://www.reddit.com/r/javascript/comments/tn7h2i/react_vs_stencil_performance/)
 - [[AskJS] What is the best way to connect JS Classes and DOM elements?](https://www.reddit.com/r/javascript/comments/tn74xg/askjs_what_is_the_best_way_to_connect_js_classes/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Tao of Node - Design, Architecture &amp; Best Practices](https://www.reddit.com/r/javascript/comments/tn5bnm/tao_of_node_design_architecture_best_practices/)
 - [Google Calendar Webhooks with Node.js](https://www.reddit.com/r/javascript/comments/tn58pe/google_calendar_webhooks_with_nodejs/)
 - [Postgres.js – Fastest Full-Featured PostgreSQL Client for Node and Deno](https://www.reddit.com/r/javascript/comments/tn0sxp/postgresjs_fastest_fullfeatured_postgresql_client/)
-- [Procedural grass in the browser &lpar;WebGL&rpar; using React-Three-Fiber. Live demo + code.](https://www.reddit.com/r/javascript/comments/tmy4gx/procedural_grass_in_the_browser_webgl_using/)
-- [SeaWasp - A real-time communication layer for web-components](https://www.reddit.com/r/javascript/comments/tmq9u6/seawasp_a_realtime_communication_layer_for/)
-- [RFC: Intent to ship React 18](https://www.reddit.com/r/javascript/comments/tmnq0d/rfc_intent_to_ship_react_18/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
