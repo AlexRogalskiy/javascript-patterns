@@ -292,8 +292,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
-- [Intro to Lit: A JavaScript framework](https://www.infoworld.com/article/3654302/intro-to-lit-a-javascript-framework.html#tk.rss_javascript)
 - [ECMAScript 2022 endorses class fields, top-level await](https://www.infoworld.com/article/3654830/ecmascript-2022-endorses-class-fields-top-level-await.html#tk.rss_javascript)
+- [Intro to Lit: A JavaScript framework](https://www.infoworld.com/article/3654302/intro-to-lit-a-javascript-framework.html#tk.rss_javascript)
 - [Deno gets faster Rust calls](https://www.infoworld.com/article/3654180/deno-gets-faster-rust-calls.html#tk.rss_javascript)
 - [Vercel CEO: Deployment should be instantaneous](https://www.infoworld.com/article/3653262/vercel-ceo-deployment-should-be-instantaneous.html#tk.rss_javascript)
 - [Microsoft pushes optional type annotations for JavaScript](https://www.infoworld.com/article/3653377/microsoft-pushes-optional-type-annotations-for-javascript.html#tk.rss_javascript)
