@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Grouping data by different attributes on a page](https://www.reddit.com/r/javascript/comments/tp4p2t/askjs_grouping_data_by_different_attributes_on_a/)
-- [I built an &lpar;in-progress&rpar; interactive code generator for demonstrating what TypeIt can do.](https://www.reddit.com/r/javascript/comments/toziod/i_built_an_inprogress_interactive_code_generator/)
+- [[Code Walkthrough] How tsserver implemented Inlay Hints](https://www.reddit.com/r/javascript/comments/tpp8kh/code_walkthrough_how_tsserver_implemented_inlay/)
+- [Chrome vulnerability reported for 3.2 billion users](https://www.reddit.com/r/javascript/comments/tpigg1/chrome_vulnerability_reported_for_32_billion_users/)
+- [unplugin-transform-imports: An imports transform unplugin.](https://www.reddit.com/r/javascript/comments/tpfhst/unplugintransformimports_an_imports_transform/)
+- [Desktop UI alternative: Avernakis, no webview, native rendering](https://www.reddit.com/r/javascript/comments/tpfbm5/desktop_ui_alternative_avernakis_no_webview/)
 - [MIDIVal 0.0.16: now with MIDI Clock support](https://www.reddit.com/r/javascript/comments/tooyk1/midival_0016_now_with_midi_clock_support/)
 - [Showoff Saturday &lpar;March 26, 2022&rpar;](https://www.reddit.com/r/javascript/comments/toizsy/showoff_saturday_march_26_2022/)
 - [Trying out Ladle - A Storybook Alternative](https://www.reddit.com/r/javascript/comments/tnlc3w/trying_out_ladle_a_storybook_alternative/)
 - [Trying out Svelte: Framework without a framework](https://www.reddit.com/r/javascript/comments/tngjsy/trying_out_svelte_framework_without_a_framework/)
 - [JavaScript diagramming library that uses SVG and HTML for rendering.](https://www.reddit.com/r/javascript/comments/tnfzfw/javascript_diagramming_library_that_uses_svg_and/)
 - [Appwrite – Open-Source and Self Hosted Firebase Alternative](https://www.reddit.com/r/javascript/comments/tn7ptv/appwrite_opensource_and_self_hosted_firebase/)
-- [React VS Stencil Performance](https://www.reddit.com/r/javascript/comments/tn7h2i/react_vs_stencil_performance/)
-- [[AskJS] What is the best way to connect JS Classes and DOM elements?](https://www.reddit.com/r/javascript/comments/tn74xg/askjs_what_is_the_best_way_to_connect_js_classes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
