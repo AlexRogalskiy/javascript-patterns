@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[Code Walkthrough] How tsserver implemented Inlay Hints](https://www.reddit.com/r/javascript/comments/tpp8kh/code_walkthrough_how_tsserver_implemented_inlay/)
-- [Chrome vulnerability reported for 3.2 billion users](https://www.reddit.com/r/javascript/comments/tpigg1/chrome_vulnerability_reported_for_32_billion_users/)
-- [unplugin-transform-imports: An imports transform unplugin.](https://www.reddit.com/r/javascript/comments/tpfhst/unplugintransformimports_an_imports_transform/)
-- [Desktop UI alternative: Avernakis, no webview, native rendering](https://www.reddit.com/r/javascript/comments/tpfbm5/desktop_ui_alternative_avernakis_no_webview/)
-- [MIDIVal 0.0.16: now with MIDI Clock support](https://www.reddit.com/r/javascript/comments/tooyk1/midival_0016_now_with_midi_clock_support/)
-- [Showoff Saturday &lpar;March 26, 2022&rpar;](https://www.reddit.com/r/javascript/comments/toizsy/showoff_saturday_march_26_2022/)
-- [Trying out Ladle - A Storybook Alternative](https://www.reddit.com/r/javascript/comments/tnlc3w/trying_out_ladle_a_storybook_alternative/)
-- [Trying out Svelte: Framework without a framework](https://www.reddit.com/r/javascript/comments/tngjsy/trying_out_svelte_framework_without_a_framework/)
-- [JavaScript diagramming library that uses SVG and HTML for rendering.](https://www.reddit.com/r/javascript/comments/tnfzfw/javascript_diagramming_library_that_uses_svg_and/)
-- [Appwrite – Open-Source and Self Hosted Firebase Alternative](https://www.reddit.com/r/javascript/comments/tn7ptv/appwrite_opensource_and_self_hosted_firebase/)
+- [I re-created Wordle using NodeJS, Express, and MongoDB! Any tips on what I can improve or do better would be appreciated, I&#39;m still fairly new to fullstack.](https://www.reddit.com/r/javascript/comments/tqp3yh/i_recreated_wordle_using_nodejs_express_and/)
+- [Decorators make it to stage 3](https://www.reddit.com/r/javascript/comments/tqmhy2/decorators_make_it_to_stage_3/)
+- [Discontinuous Semver, Versioning in the Land of Monolithics](https://www.reddit.com/r/javascript/comments/tqlnjf/discontinuous_semver_versioning_in_the_land_of/)
+- [Tao of Node - Design, Architecture &amp; Best Practices](https://www.reddit.com/r/javascript/comments/tqln7t/tao_of_node_design_architecture_best_practices/)
+- [[AskJS] Front-end codebases made using vanilla JavaScript for studying](https://www.reddit.com/r/javascript/comments/tqgkhm/askjs_frontend_codebases_made_using_vanilla/)
+- [GitLanding: Landing pages for github projects. Hosted on GitHub Pages.](https://www.reddit.com/r/javascript/comments/tqez98/gitlanding_landing_pages_for_github_projects/)
+- [dt - Build your entire project with one command](https://www.reddit.com/r/javascript/comments/tqexoo/dt_build_your_entire_project_with_one_command/)
+- [[AskJS] Need some help in my term work](https://www.reddit.com/r/javascript/comments/tqcs6v/askjs_need_some_help_in_my_term_work/)
+- [Serverless GraphQL API with AWS CDK](https://www.reddit.com/r/javascript/comments/tq8yuo/serverless_graphql_api_with_aws_cdk/)
+- [Predictive offline support for assets you have not used yet](https://www.reddit.com/r/javascript/comments/tq4xt0/predictive_offline_support_for_assets_you_have/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
