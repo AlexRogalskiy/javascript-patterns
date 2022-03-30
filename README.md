@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I re-created Wordle using NodeJS, Express, and MongoDB! Any tips on what I can improve or do better would be appreciated, I&#39;m still fairly new to fullstack.](https://www.reddit.com/r/javascript/comments/tqp3yh/i_recreated_wordle_using_nodejs_express_and/)
+- [How slow are ORMs? Top JS ORMs performance review.](https://www.reddit.com/r/javascript/comments/trjx6t/how_slow_are_orms_top_js_orms_performance_review/)
+- [A Built-in Test Runner Is Coming to Node and Why You Should Care](https://www.reddit.com/r/javascript/comments/trjfx4/a_builtin_test_runner_is_coming_to_node_and_why/)
+- [How npm Packages Were Used in a Protest Against the War in Ukraine](https://www.reddit.com/r/javascript/comments/trjfox/how_npm_packages_were_used_in_a_protest_against/)
+- [Is there a javascript equivalent to rails vcr to record http requests for your test suite?](https://www.reddit.com/r/javascript/comments/trf7bu/is_there_a_javascript_equivalent_to_rails_vcr_to/)
+- [Venode: The missing child of Node.js and Deno.](https://www.reddit.com/r/javascript/comments/tr9tyt/venode_the_missing_child_of_nodejs_and_deno/)
+- [GraphQL is now available in Supabase](https://www.reddit.com/r/javascript/comments/tr76vb/graphql_is_now_available_in_supabase/)
+- [React v18.0 released](https://www.reddit.com/r/javascript/comments/tr6oqi/react_v180_released/)
+- [Building a Video Chat APP with WebRTC and NodeJS: The Complete Guide.](https://www.reddit.com/r/javascript/comments/tr4m81/building_a_video_chat_app_with_webrtc_and_nodejs/)
+- [Future Javascript: Temporal and how it works](https://www.reddit.com/r/javascript/comments/tqzrgr/future_javascript_temporal_and_how_it_works/)
 - [Decorators make it to stage 3](https://www.reddit.com/r/javascript/comments/tqmhy2/decorators_make_it_to_stage_3/)
-- [Discontinuous Semver, Versioning in the Land of Monolithics](https://www.reddit.com/r/javascript/comments/tqlnjf/discontinuous_semver_versioning_in_the_land_of/)
-- [Tao of Node - Design, Architecture &amp; Best Practices](https://www.reddit.com/r/javascript/comments/tqln7t/tao_of_node_design_architecture_best_practices/)
-- [[AskJS] Front-end codebases made using vanilla JavaScript for studying](https://www.reddit.com/r/javascript/comments/tqgkhm/askjs_frontend_codebases_made_using_vanilla/)
-- [GitLanding: Landing pages for github projects. Hosted on GitHub Pages.](https://www.reddit.com/r/javascript/comments/tqez98/gitlanding_landing_pages_for_github_projects/)
-- [dt - Build your entire project with one command](https://www.reddit.com/r/javascript/comments/tqexoo/dt_build_your_entire_project_with_one_command/)
-- [[AskJS] Need some help in my term work](https://www.reddit.com/r/javascript/comments/tqcs6v/askjs_need_some_help_in_my_term_work/)
-- [Serverless GraphQL API with AWS CDK](https://www.reddit.com/r/javascript/comments/tq8yuo/serverless_graphql_api_with_aws_cdk/)
-- [Predictive offline support for assets you have not used yet](https://www.reddit.com/r/javascript/comments/tq4xt0/predictive_offline_support_for_assets_you_have/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
