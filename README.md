@@ -352,6 +352,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *javascript programmer posts*
 
 <!-- METEOR-POST-LIST:START -->
+- [Meteor Monthly Update — March 2022](https://blog.meteor.com/meteor-monthly-update-march-2022-b3797dfd5f3a?source=rss----a9bcaf865278---4)
 - [Meteor + Vue JS + Storybook = A Complete Guide To Scalable UI System](https://blog.meteor.com/meteor-vue-js-storybook-a-complete-guide-to-scalable-ui-system-eee99647531a?source=rss----a9bcaf865278---4)
 - [Meteor 2.6 and Mongo](https://blog.meteor.com/meteor-2-6-and-mongo-348fb2287716?source=rss----a9bcaf865278---4)
 - [2021 Meteor Hackathon: How Team Suaveware Scored 2nd Place](https://blog.meteor.com/2021-meteor-hackathon-how-team-suaveware-scored-2nd-place-971fdaa55c86?source=rss----a9bcaf865278---4)
@@ -361,7 +362,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Why Pathable Uses Meteor To Power Virtual &amp; Hybrid Events](https://blog.meteor.com/why-pathable-uses-meteor-to-power-virtual-hybrid-events-61747542c1b7?source=rss----a9bcaf865278---4)
 - [Announcing Meteor 2.5 with Cordova 10, accounts-passwordless, and much more!](https://blog.meteor.com/announcing-meteor-2-5-with-cordova-10-accounts-passwordless-and-much-more-1848fa61e313?source=rss----a9bcaf865278---4)
 - [Announcing Meteor 2.4 And The New Installer](https://blog.meteor.com/announcing-meteor-2-4-and-the-new-installer-254c5f8f39f?source=rss----a9bcaf865278---4)
-- [How ALLOHOUSTON Makes Organizations Smarter with Meteor](https://blog.meteor.com/how-allohouston-makes-organizations-smarter-with-meteor-7b1ff2058f53?source=rss----a9bcaf865278---4)
 <!-- METEOR-POST-LIST:END -->
 
 ### *Dreamix posts*
