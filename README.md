@@ -292,8 +292,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
-- [ECMAScript 2022 endorses class fields, top-level await](https://www.infoworld.com/article/3654830/ecmascript-2022-endorses-class-fields-top-level-await.html#tk.rss_javascript)
+- [Review: The 6 best JavaScript IDEs](https://www.infoworld.com/article/3192844/review-the-6-best-javascript-ides.html#tk.rss_javascript)
 - [Intro to Lit: A JavaScript framework](https://www.infoworld.com/article/3654302/intro-to-lit-a-javascript-framework.html#tk.rss_javascript)
+- [ECMAScript 2022 endorses class fields, top-level await](https://www.infoworld.com/article/3654830/ecmascript-2022-endorses-class-fields-top-level-await.html#tk.rss_javascript)
 - [Deno gets faster Rust calls](https://www.infoworld.com/article/3654180/deno-gets-faster-rust-calls.html#tk.rss_javascript)
 - [Vercel CEO: Deployment should be instantaneous](https://www.infoworld.com/article/3653262/vercel-ceo-deployment-should-be-instantaneous.html#tk.rss_javascript)
 - [Microsoft pushes optional type annotations for JavaScript](https://www.infoworld.com/article/3653377/microsoft-pushes-optional-type-annotations-for-javascript.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Harvard census identifies most commonly used open source packages](https://www.infoworld.com/article/3652268/harvard-census-identifies-most-commonly-used-open-source-packages.html#tk.rss_javascript)
 - [TypeScript 4.6 adds control flow analysis, ES2022 support](https://www.infoworld.com/article/3647880/typescript-46-adds-control-flow-analysis-es2022-support.html#tk.rss_javascript)
 - [Deno 1.19 extends web streams support](https://www.infoworld.com/article/3651188/deno-119-extends-web-streams-support.html#tk.rss_javascript)
-- [TypeScript usage growing by leaps and bounds — report](https://www.infoworld.com/article/3650513/typescript-usage-growing-by-leaps-and-bounds-report.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
