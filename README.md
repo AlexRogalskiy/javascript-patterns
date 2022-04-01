@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How Does Shallow Comparison Work In React?](https://www.reddit.com/r/javascript/comments/tsicsg/how_does_shallow_comparison_work_in_react/)
-- [Visual Studio Code March 2022](https://www.reddit.com/r/javascript/comments/tscaoe/visual_studio_code_march_2022/)
-- [I have created a lightweight javascript router library just for learning purposes](https://www.reddit.com/r/javascript/comments/ts4djd/i_have_created_a_lightweight_javascript_router/)
-- [WTF Wednesday &lpar;March 30, 2022&rpar;](https://www.reddit.com/r/javascript/comments/ts0l3h/wtf_wednesday_march_30_2022/)
-- [You Can Publish Private NPM Packages In Github Package Registry](https://www.reddit.com/r/javascript/comments/trzs4x/you_can_publish_private_npm_packages_in_github/)
-- [How slow are ORMs? Top JS ORMs performance review.](https://www.reddit.com/r/javascript/comments/trjx6t/how_slow_are_orms_top_js_orms_performance_review/)
-- [A Built-in Test Runner Is Coming to Node and Why You Should Care](https://www.reddit.com/r/javascript/comments/trjfx4/a_builtin_test_runner_is_coming_to_node_and_why/)
-- [How npm Packages Were Used in a Protest Against the War in Ukraine](https://www.reddit.com/r/javascript/comments/trjfox/how_npm_packages_were_used_in_a_protest_against/)
-- [Is there a javascript equivalent to rails vcr to record http requests for your test suite?](https://www.reddit.com/r/javascript/comments/trf7bu/is_there_a_javascript_equivalent_to_rails_vcr_to/)
-- [Venode: The missing child of Node.js and Deno.](https://www.reddit.com/r/javascript/comments/tr9tyt/venode_the_missing_child_of_nodejs_and_deno/)
+- [Tree generation with a monoidal reduction](https://www.reddit.com/r/javascript/comments/ttf945/tree_generation_with_a_monoidal_reduction/)
+- [[AskJS] Sites like Codility, but for developers to practice](https://www.reddit.com/r/javascript/comments/ttf59d/askjs_sites_like_codility_but_for_developers_to/)
+- [Supabase Functions are built on Deno](https://www.reddit.com/r/javascript/comments/tt6cr9/supabase_functions_are_built_on_deno/)
+- [Storybook launches a Figma plugin beta](https://www.reddit.com/r/javascript/comments/tt2vtz/storybook_launches_a_figma_plugin_beta/)
+- [Open-source analytics with Recharts](https://www.reddit.com/r/javascript/comments/tt02yw/opensource_analytics_with_recharts/)
+- [[AskJS] Does your company use visual regression testing either paid or free?](https://www.reddit.com/r/javascript/comments/tszxai/askjs_does_your_company_use_visual_regression/)
+- [ts-audio v0.7.0 is out!](https://www.reddit.com/r/javascript/comments/tszmtn/tsaudio_v070_is_out/)
+- [How Microsoft Wants To Destroy TypeScript To Improve JavaScript](https://www.reddit.com/r/javascript/comments/tswtsg/how_microsoft_wants_to_destroy_typescript_to/)
+- [chart library billboard.js 3.4 release: new polar chart!](https://www.reddit.com/r/javascript/comments/tswa34/chart_library_billboardjs_34_release_new_polar/)
+- [JavaScript diagramming library that uses SVG and HTML for rendering.](https://www.reddit.com/r/javascript/comments/tsvj3o/javascript_diagramming_library_that_uses_svg_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
