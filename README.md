@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Tree generation with a monoidal reduction](https://www.reddit.com/r/javascript/comments/ttf945/tree_generation_with_a_monoidal_reduction/)
-- [[AskJS] Sites like Codility, but for developers to practice](https://www.reddit.com/r/javascript/comments/ttf59d/askjs_sites_like_codility_but_for_developers_to/)
-- [Supabase Functions are built on Deno](https://www.reddit.com/r/javascript/comments/tt6cr9/supabase_functions_are_built_on_deno/)
-- [Storybook launches a Figma plugin beta](https://www.reddit.com/r/javascript/comments/tt2vtz/storybook_launches_a_figma_plugin_beta/)
-- [Open-source analytics with Recharts](https://www.reddit.com/r/javascript/comments/tt02yw/opensource_analytics_with_recharts/)
-- [[AskJS] Does your company use visual regression testing either paid or free?](https://www.reddit.com/r/javascript/comments/tszxai/askjs_does_your_company_use_visual_regression/)
-- [ts-audio v0.7.0 is out!](https://www.reddit.com/r/javascript/comments/tszmtn/tsaudio_v070_is_out/)
-- [How Microsoft Wants To Destroy TypeScript To Improve JavaScript](https://www.reddit.com/r/javascript/comments/tswtsg/how_microsoft_wants_to_destroy_typescript_to/)
-- [chart library billboard.js 3.4 release: new polar chart!](https://www.reddit.com/r/javascript/comments/tswa34/chart_library_billboardjs_34_release_new_polar/)
-- [JavaScript diagramming library that uses SVG and HTML for rendering.](https://www.reddit.com/r/javascript/comments/tsvj3o/javascript_diagramming_library_that_uses_svg_and/)
+- [[real] Big Stringus](https://www.reddit.com/r/javascript/comments/tu7w5u/real_big_stringus/)
+- [GitHub Repo that Renames Itself when you star it](https://www.reddit.com/r/javascript/comments/tu0y9u/github_repo_that_renames_itself_when_you_star_it/)
+- [100+ ESLint rules](https://www.reddit.com/r/javascript/comments/tty8e9/100_eslint_rules/)
+- [I made a VR, web-based controller for the Tello drone with ThreeJS and NodeJS](https://www.reddit.com/r/javascript/comments/ttu2ja/i_made_a_vr_webbased_controller_for_the_tello/)
+- [JavaScript Dev Tools in 2022](https://www.reddit.com/r/javascript/comments/tttizw/javascript_dev_tools_in_2022/)
+- [&lpar;For...of&rpar; or &lpar;For...in&rpar;? What&#39;s the difference? When to use them?](https://www.reddit.com/r/javascript/comments/ttplxr/forof_or_forin_whats_the_difference_when_to_use/)
+- [[AskJS] Javascript/ mern stack developer with poor css skills. Guide please!](https://www.reddit.com/r/javascript/comments/ttp8uf/askjs_javascript_mern_stack_developer_with_poor/)
+- [[AskJS] Creating a JS enabled memorandum routing sheet with Adobe, possible?](https://www.reddit.com/r/javascript/comments/ttocwq/askjs_creating_a_js_enabled_memorandum_routing/)
+- [A look at Service Worker usage data on a website over the past four years](https://www.reddit.com/r/javascript/comments/ttnsnh/a_look_at_service_worker_usage_data_on_a_website/)
+- [I gathered 5 resources which can get your Monorepo off the ground](https://www.reddit.com/r/javascript/comments/ttmnlq/i_gathered_5_resources_which_can_get_your/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
