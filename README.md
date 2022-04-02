@@ -352,6 +352,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *javascript programmer posts*
 
 <!-- METEOR-POST-LIST:START -->
+- [NoSQL Injection in the accounts-2fa package](https://blog.meteor.com/nosql-injection-in-the-accounts-2fa-package-c06fcef43708?source=rss----a9bcaf865278---4)
 - [Meteor 2.7 and the new 2FA package](https://blog.meteor.com/meteor-2-7-and-the-new-2fa-package-5fc53e5027e0?source=rss----a9bcaf865278---4)
 - [Using 2FA in your Meteor app](https://blog.meteor.com/using-2fa-in-your-meteor-app-25e1e6ecd7d4?source=rss----a9bcaf865278---4)
 - [Meteor Monthly Update — March 2022](https://blog.meteor.com/meteor-monthly-update-march-2022-b3797dfd5f3a?source=rss----a9bcaf865278---4)
@@ -361,7 +362,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Meet Team HACCamino: The 2021 Meteor Hackathon Winner!](https://blog.meteor.com/meet-team-haccamino-the-2021-meteor-hackathon-winner-acb74136e986?source=rss----a9bcaf865278---4)
 - [Introducing Push to Deploy](https://blog.meteor.com/introducing-push-to-deploy-6ea464ee5f33?source=rss----a9bcaf865278---4)
 - [Meteor 2.5.1 with Native Mac M1 support](https://blog.meteor.com/meteor-2-5-1-with-native-mac-m1-support-fb1c4b6990b5?source=rss----a9bcaf865278---4)
-- [Why Pathable Uses Meteor To Power Virtual &amp; Hybrid Events](https://blog.meteor.com/why-pathable-uses-meteor-to-power-virtual-hybrid-events-61747542c1b7?source=rss----a9bcaf865278---4)
 <!-- METEOR-POST-LIST:END -->
 
 ### *Dreamix posts*
