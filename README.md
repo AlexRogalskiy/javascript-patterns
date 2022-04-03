@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[real] Big Stringus](https://www.reddit.com/r/javascript/comments/tu7w5u/real_big_stringus/)
-- [GitHub Repo that Renames Itself when you star it](https://www.reddit.com/r/javascript/comments/tu0y9u/github_repo_that_renames_itself_when_you_star_it/)
+- [The cost of return await - How return await can slow down your code.](https://www.reddit.com/r/javascript/comments/tuwmj6/the_cost_of_return_await_how_return_await_can/)
+- [[AskJS] Prevent going back after logout](https://www.reddit.com/r/javascript/comments/tuuymz/askjs_prevent_going_back_after_logout/)
+- [ES12 Feature you should start using from now!](https://www.reddit.com/r/javascript/comments/tugdb7/es12_feature_you_should_start_using_from_now/)
+- [[AskJS] How do we get the hardware information from the Javascript website](https://www.reddit.com/r/javascript/comments/tue1q3/askjs_how_do_we_get_the_hardware_information_from/)
+- [Where to keep application secure data in Cookie or HTML5 Web storage](https://www.reddit.com/r/javascript/comments/tudjio/where_to_keep_application_secure_data_in_cookie/)
+- [Showoff Saturday &lpar;April 02, 2022&rpar;](https://www.reddit.com/r/javascript/comments/tucsjr/showoff_saturday_april_02_2022/)
+- [Revealing the Mystery Behind This](https://www.reddit.com/r/javascript/comments/tubygl/revealing_the_mystery_behind_this/)
+- [Updates from the 89th TC39 meeting](https://www.reddit.com/r/javascript/comments/tuannl/updates_from_the_89th_tc39_meeting/)
 - [100+ ESLint rules](https://www.reddit.com/r/javascript/comments/tty8e9/100_eslint_rules/)
 - [I made a VR, web-based controller for the Tello drone with ThreeJS and NodeJS](https://www.reddit.com/r/javascript/comments/ttu2ja/i_made_a_vr_webbased_controller_for_the_tello/)
-- [JavaScript Dev Tools in 2022](https://www.reddit.com/r/javascript/comments/tttizw/javascript_dev_tools_in_2022/)
-- [&lpar;For...of&rpar; or &lpar;For...in&rpar;? What&#39;s the difference? When to use them?](https://www.reddit.com/r/javascript/comments/ttplxr/forof_or_forin_whats_the_difference_when_to_use/)
-- [[AskJS] Javascript/ mern stack developer with poor css skills. Guide please!](https://www.reddit.com/r/javascript/comments/ttp8uf/askjs_javascript_mern_stack_developer_with_poor/)
-- [[AskJS] Creating a JS enabled memorandum routing sheet with Adobe, possible?](https://www.reddit.com/r/javascript/comments/ttocwq/askjs_creating_a_js_enabled_memorandum_routing/)
-- [A look at Service Worker usage data on a website over the past four years](https://www.reddit.com/r/javascript/comments/ttnsnh/a_look_at_service_worker_usage_data_on_a_website/)
-- [I gathered 5 resources which can get your Monorepo off the ground](https://www.reddit.com/r/javascript/comments/ttmnlq/i_gathered_5_resources_which_can_get_your/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
