@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Take care of internet traffic experience. Make cancelable requests with react-hooks.](https://www.reddit.com/r/javascript/comments/tv67gf/take_care_of_internet_traffic_experience_make/)
-- [Tools and frameworks needed to create a REST API](https://www.reddit.com/r/javascript/comments/tv3u4g/tools_and_frameworks_needed_to_create_a_rest_api/)
-- [Javascript Formatter - Best Javascript Beautifier](https://www.reddit.com/r/javascript/comments/tv304c/javascript_formatter_best_javascript_beautifier/)
-- [The cost of return await - How return await can slow down your code.](https://www.reddit.com/r/javascript/comments/tuwmj6/the_cost_of_return_await_how_return_await_can/)
-- [[AskJS] Prevent going back after logout](https://www.reddit.com/r/javascript/comments/tuuymz/askjs_prevent_going_back_after_logout/)
-- [ES12 Feature you should start using from now!](https://www.reddit.com/r/javascript/comments/tugdb7/es12_feature_you_should_start_using_from_now/)
-- [[AskJS] How do we get the hardware information from the Javascript website](https://www.reddit.com/r/javascript/comments/tue1q3/askjs_how_do_we_get_the_hardware_information_from/)
-- [Where to keep application secure data in Cookie or HTML5 Web storage](https://www.reddit.com/r/javascript/comments/tudjio/where_to_keep_application_secure_data_in_cookie/)
-- [Showoff Saturday &lpar;April 02, 2022&rpar;](https://www.reddit.com/r/javascript/comments/tucsjr/showoff_saturday_april_02_2022/)
-- [Revealing the Mystery Behind This](https://www.reddit.com/r/javascript/comments/tubygl/revealing_the_mystery_behind_this/)
+- [My first detailed tutorial article - Sorting Visualizer Tutorial with React, SVG, ES6 generator function](https://www.reddit.com/r/javascript/comments/twdnei/my_first_detailed_tutorial_article_sorting/)
+- [Render, Remix, and Strapi: Let&#39;s Build a Productivity Tips App](https://www.reddit.com/r/javascript/comments/twa0un/render_remix_and_strapi_lets_build_a_productivity/)
+- [Performance Tool in Firefox DevTools Reloaded](https://www.reddit.com/r/javascript/comments/tw9o0s/performance_tool_in_firefox_devtools_reloaded/)
+- [30 popular communities and influencers about Front-End Development [April 2022]](https://www.reddit.com/r/javascript/comments/tw9eds/30_popular_communities_and_influencers_about/)
+- [Using Containers to move from local to Remote Development](https://www.reddit.com/r/javascript/comments/tw9b7r/using_containers_to_move_from_local_to_remote/)
+- [How To a Text-to-Speech App with JavaScript](https://www.reddit.com/r/javascript/comments/tw87o4/how_to_a_texttospeech_app_with_javascript/)
+- [Announcing RedwoodJS 1.0 and $1M Funding](https://www.reddit.com/r/javascript/comments/tw6vxq/announcing_redwoodjs_10_and_1m_funding/)
+- [pkgroll: zero-config JS bundler for ESM, CommonJS, and .d.ts outputs](https://www.reddit.com/r/javascript/comments/tw45v7/pkgroll_zeroconfig_js_bundler_for_esm_commonjs/)
+- [[AskJS] Scan for malicious activities on Websites.](https://www.reddit.com/r/javascript/comments/tw3le1/askjs_scan_for_malicious_activities_on_websites/)
+- [Build a RESTful API with Node and Express. MERN introduction](https://www.reddit.com/r/javascript/comments/tw31r6/build_a_restful_api_with_node_and_express_mern/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
