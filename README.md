@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [My first detailed tutorial article - Sorting Visualizer Tutorial with React, SVG, ES6 generator function](https://www.reddit.com/r/javascript/comments/twdnei/my_first_detailed_tutorial_article_sorting/)
+- [Ideas on how to start this tab system? Needs to be responsive.](https://www.reddit.com/r/javascript/comments/txbbp8/ideas_on_how_to_start_this_tab_system_needs_to_be/)
+- [RME.js functional JavaScript framework &lpar;code like a boss, no configurations needed&rpar;](https://www.reddit.com/r/javascript/comments/tx4ydm/rmejs_functional_javascript_framework_code_like_a/)
+- [Fig Manual Pages: Beautiful, community-driven documentation for 300+ CLI tools](https://www.reddit.com/r/javascript/comments/tx2bb7/fig_manual_pages_beautiful_communitydriven/)
+- [[AskJS] Why are encryption and validation APIs async?](https://www.reddit.com/r/javascript/comments/twzlez/askjs_why_are_encryption_and_validation_apis_async/)
+- [Announcing Rome Formatter](https://www.reddit.com/r/javascript/comments/twyx33/announcing_rome_formatter/)
+- [@re-/model: Type-first validation from editor to runtime](https://www.reddit.com/r/javascript/comments/twyvz6/remodel_typefirst_validation_from_editor_to/)
+- [[AskJS] At your job right now, have you been asked to code or maintain devops infrastructure, IAC, CI/CD etc or you prefer to stay on the 100% dev side in React/Vue ? How good are you on the operations / infrastructure side of things ?](https://www.reddit.com/r/javascript/comments/twq7dk/askjs_at_your_job_right_now_have_you_been_asked/)
+- [Arguments in favor of abandoning/rejecting this proposal. · Issue #134 · tc39/proposal-type-annotations](https://www.reddit.com/r/javascript/comments/twlexi/arguments_in_favor_of_abandoningrejecting_this/)
 - [Render, Remix, and Strapi: Let&#39;s Build a Productivity Tips App](https://www.reddit.com/r/javascript/comments/twa0un/render_remix_and_strapi_lets_build_a_productivity/)
 - [Performance Tool in Firefox DevTools Reloaded](https://www.reddit.com/r/javascript/comments/tw9o0s/performance_tool_in_firefox_devtools_reloaded/)
-- [30 popular communities and influencers about Front-End Development [April 2022]](https://www.reddit.com/r/javascript/comments/tw9eds/30_popular_communities_and_influencers_about/)
-- [Using Containers to move from local to Remote Development](https://www.reddit.com/r/javascript/comments/tw9b7r/using_containers_to_move_from_local_to_remote/)
-- [How To a Text-to-Speech App with JavaScript](https://www.reddit.com/r/javascript/comments/tw87o4/how_to_a_texttospeech_app_with_javascript/)
-- [Announcing RedwoodJS 1.0 and $1M Funding](https://www.reddit.com/r/javascript/comments/tw6vxq/announcing_redwoodjs_10_and_1m_funding/)
-- [pkgroll: zero-config JS bundler for ESM, CommonJS, and .d.ts outputs](https://www.reddit.com/r/javascript/comments/tw45v7/pkgroll_zeroconfig_js_bundler_for_esm_commonjs/)
-- [[AskJS] Scan for malicious activities on Websites.](https://www.reddit.com/r/javascript/comments/tw3le1/askjs_scan_for_malicious_activities_on_websites/)
-- [Build a RESTful API with Node and Express. MERN introduction](https://www.reddit.com/r/javascript/comments/tw31r6/build_a_restful_api_with_node_and_express_mern/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
