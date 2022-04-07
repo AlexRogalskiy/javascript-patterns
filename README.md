@@ -352,6 +352,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *javascript programmer posts*
 
 <!-- METEOR-POST-LIST:START -->
+- [Meteor.js with React and Tailwind CSS 3](https://blog.meteor.com/meteor-js-with-react-and-tailwind-css-3-3e878645451e?source=rss----a9bcaf865278---4)
 - [NoSQL Injection in the accounts-2fa package](https://blog.meteor.com/nosql-injection-in-the-accounts-2fa-package-c06fcef43708?source=rss----a9bcaf865278---4)
 - [Meteor 2.7 and the new 2FA package](https://blog.meteor.com/meteor-2-7-and-the-new-2fa-package-5fc53e5027e0?source=rss----a9bcaf865278---4)
 - [Using 2FA in your Meteor app](https://blog.meteor.com/using-2fa-in-your-meteor-app-25e1e6ecd7d4?source=rss----a9bcaf865278---4)
@@ -361,7 +362,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [2021 Meteor Hackathon: How Team Suaveware Scored 2nd Place](https://blog.meteor.com/2021-meteor-hackathon-how-team-suaveware-scored-2nd-place-971fdaa55c86?source=rss----a9bcaf865278---4)
 - [Meet Team HACCamino: The 2021 Meteor Hackathon Winner!](https://blog.meteor.com/meet-team-haccamino-the-2021-meteor-hackathon-winner-acb74136e986?source=rss----a9bcaf865278---4)
 - [Introducing Push to Deploy](https://blog.meteor.com/introducing-push-to-deploy-6ea464ee5f33?source=rss----a9bcaf865278---4)
-- [Meteor 2.5.1 with Native Mac M1 support](https://blog.meteor.com/meteor-2-5-1-with-native-mac-m1-support-fb1c4b6990b5?source=rss----a9bcaf865278---4)
 <!-- METEOR-POST-LIST:END -->
 
 ### *Dreamix posts*
