@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Ideas on how to start this tab system? Needs to be responsive.](https://www.reddit.com/r/javascript/comments/txbbp8/ideas_on_how_to_start_this_tab_system_needs_to_be/)
-- [RME.js functional JavaScript framework &lpar;code like a boss, no configurations needed&rpar;](https://www.reddit.com/r/javascript/comments/tx4ydm/rmejs_functional_javascript_framework_code_like_a/)
-- [Fig Manual Pages: Beautiful, community-driven documentation for 300+ CLI tools](https://www.reddit.com/r/javascript/comments/tx2bb7/fig_manual_pages_beautiful_communitydriven/)
-- [[AskJS] Why are encryption and validation APIs async?](https://www.reddit.com/r/javascript/comments/twzlez/askjs_why_are_encryption_and_validation_apis_async/)
-- [Announcing Rome Formatter](https://www.reddit.com/r/javascript/comments/twyx33/announcing_rome_formatter/)
-- [@re-/model: Type-first validation from editor to runtime](https://www.reddit.com/r/javascript/comments/twyvz6/remodel_typefirst_validation_from_editor_to/)
-- [[AskJS] At your job right now, have you been asked to code or maintain devops infrastructure, IAC, CI/CD etc or you prefer to stay on the 100% dev side in React/Vue ? How good are you on the operations / infrastructure side of things ?](https://www.reddit.com/r/javascript/comments/twq7dk/askjs_at_your_job_right_now_have_you_been_asked/)
-- [Arguments in favor of abandoning/rejecting this proposal. · Issue #134 · tc39/proposal-type-annotations](https://www.reddit.com/r/javascript/comments/twlexi/arguments_in_favor_of_abandoningrejecting_this/)
-- [Render, Remix, and Strapi: Let&#39;s Build a Productivity Tips App](https://www.reddit.com/r/javascript/comments/twa0un/render_remix_and_strapi_lets_build_a_productivity/)
-- [Performance Tool in Firefox DevTools Reloaded](https://www.reddit.com/r/javascript/comments/tw9o0s/performance_tool_in_firefox_devtools_reloaded/)
+- [React 18 Quick Guide &amp; Core Concepts Explained](https://www.reddit.com/r/javascript/comments/txz16p/react_18_quick_guide_core_concepts_explained/)
+- [Template string vs string](https://www.reddit.com/r/javascript/comments/txwmmx/template_string_vs_string/)
+- [[AskJS] What is the best way to create a common npm package for building others?](https://www.reddit.com/r/javascript/comments/txwmd5/askjs_what_is_the_best_way_to_create_a_common_npm/)
+- [A Whole Website in a Single JavaScript File](https://www.reddit.com/r/javascript/comments/txvsi1/a_whole_website_in_a_single_javascript_file/)
+- [New in JSCharting 3.3: dashboard widgets, org charts, Gantt critical paths](https://www.reddit.com/r/javascript/comments/txrgs0/new_in_jscharting_33_dashboard_widgets_org_charts/)
+- [An extension which grabs data from reddit&#39;s API, from the subreddit r/Showerthoughts and displays the top posts from r/Showerthoughts with just a click of the extension.](https://www.reddit.com/r/javascript/comments/txq5zo/an_extension_which_grabs_data_from_reddits_api/)
+- [Make Beautifully Resilient Apps With Progressive Enhancement](https://www.reddit.com/r/javascript/comments/txo74j/make_beautifully_resilient_apps_with_progressive/)
+- [[AskJS] ELI5 recursion](https://www.reddit.com/r/javascript/comments/txnw8t/askjs_eli5_recursion/)
+- [Anyone can start using the Google JavaScript style guide in their code. Here is one way to do it.](https://www.reddit.com/r/javascript/comments/txnpi1/anyone_can_start_using_the_google_javascript/)
+- [[AskJS] Can not set the Orientation [AskJS]](https://www.reddit.com/r/javascript/comments/txhzjy/askjs_can_not_set_the_orientation_askjs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
