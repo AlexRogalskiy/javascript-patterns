@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Intro to Hilla: The full-stack Java framework](https://www.infoworld.com/article/3655139/intro-to-hilla-the-full-stack-java-framework.html#tk.rss_javascript)
 - [Review: The 10 best JavaScript editors](https://www.infoworld.com/article/3195951/review-the-10-best-javascript-editors.html#tk.rss_javascript)
 - [13 hot language projects riding WebAssembly](https://www.infoworld.com/article/3619608/13-hot-language-projects-riding-webassembly.html#tk.rss_javascript)
 - [React 18 arrives with concurrent renderer, automatic batching](https://www.infoworld.com/article/3653251/react-18-introduces-concurrent-renderer-automatic-batching.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Deno gets faster Rust calls](https://www.infoworld.com/article/3654180/deno-gets-faster-rust-calls.html#tk.rss_javascript)
 - [Vercel CEO: Deployment should be instantaneous](https://www.infoworld.com/article/3653262/vercel-ceo-deployment-should-be-instantaneous.html#tk.rss_javascript)
 - [Microsoft pushes optional type annotations for JavaScript](https://www.infoworld.com/article/3653377/microsoft-pushes-optional-type-annotations-for-javascript.html#tk.rss_javascript)
-- [Harvard census identifies most commonly used open source packages](https://www.infoworld.com/article/3652268/harvard-census-identifies-most-commonly-used-open-source-packages.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
