@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Migrating your React app from Webpack to Vite](https://www.reddit.com/r/javascript/comments/typ2fi/migrating_your_react_app_from_webpack_to_vite/)
+- [AbortSignal throwIfAborted](https://www.reddit.com/r/javascript/comments/tyko3l/abortsignal_throwifaborted/)
+- [Open-source analytics with visx](https://www.reddit.com/r/javascript/comments/tydwdn/opensource_analytics_with_visx/)
+- [Ramda vs Vanilla JS](https://www.reddit.com/r/javascript/comments/ty8i54/ramda_vs_vanilla_js/)
+- [[AskJS] What&#39;s your opinion about React 18 and do you feel the framework is at the forefront of innovation compared to Vue, Angular, Ember, Meteor, Mithril, Polymer and the others... is it going the right way for you or you would have changed a few things ?](https://www.reddit.com/r/javascript/comments/ty5s2x/askjs_whats_your_opinion_about_react_18_and_do/)
+- [[AskJS] Do any Python, Ruby, SQL, C, or C++ Linters Written in JavaScript Exist?](https://www.reddit.com/r/javascript/comments/ty3bo1/askjs_do_any_python_ruby_sql_c_or_c_linters/)
 - [React 18 Quick Guide &amp; Core Concepts Explained](https://www.reddit.com/r/javascript/comments/txz16p/react_18_quick_guide_core_concepts_explained/)
 - [Template string vs string](https://www.reddit.com/r/javascript/comments/txwmmx/template_string_vs_string/)
 - [[AskJS] What is the best way to create a common npm package for building others?](https://www.reddit.com/r/javascript/comments/txwmd5/askjs_what_is_the_best_way_to_create_a_common_npm/)
 - [A Whole Website in a Single JavaScript File](https://www.reddit.com/r/javascript/comments/txvsi1/a_whole_website_in_a_single_javascript_file/)
-- [New in JSCharting 3.3: dashboard widgets, org charts, Gantt critical paths](https://www.reddit.com/r/javascript/comments/txrgs0/new_in_jscharting_33_dashboard_widgets_org_charts/)
-- [An extension which grabs data from reddit&#39;s API, from the subreddit r/Showerthoughts and displays the top posts from r/Showerthoughts with just a click of the extension.](https://www.reddit.com/r/javascript/comments/txq5zo/an_extension_which_grabs_data_from_reddits_api/)
-- [Make Beautifully Resilient Apps With Progressive Enhancement](https://www.reddit.com/r/javascript/comments/txo74j/make_beautifully_resilient_apps_with_progressive/)
-- [[AskJS] ELI5 recursion](https://www.reddit.com/r/javascript/comments/txnw8t/askjs_eli5_recursion/)
-- [Anyone can start using the Google JavaScript style guide in their code. Here is one way to do it.](https://www.reddit.com/r/javascript/comments/txnpi1/anyone_can_start_using_the_google_javascript/)
-- [[AskJS] Can not set the Orientation [AskJS]](https://www.reddit.com/r/javascript/comments/txhzjy/askjs_can_not_set_the_orientation_askjs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
