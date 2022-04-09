@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Migrating your React app from Webpack to Vite](https://www.reddit.com/r/javascript/comments/typ2fi/migrating_your_react_app_from_webpack_to_vite/)
-- [AbortSignal throwIfAborted](https://www.reddit.com/r/javascript/comments/tyko3l/abortsignal_throwifaborted/)
-- [Open-source analytics with visx](https://www.reddit.com/r/javascript/comments/tydwdn/opensource_analytics_with_visx/)
-- [Ramda vs Vanilla JS](https://www.reddit.com/r/javascript/comments/ty8i54/ramda_vs_vanilla_js/)
-- [[AskJS] What&#39;s your opinion about React 18 and do you feel the framework is at the forefront of innovation compared to Vue, Angular, Ember, Meteor, Mithril, Polymer and the others... is it going the right way for you or you would have changed a few things ?](https://www.reddit.com/r/javascript/comments/ty5s2x/askjs_whats_your_opinion_about_react_18_and_do/)
-- [[AskJS] Do any Python, Ruby, SQL, C, or C++ Linters Written in JavaScript Exist?](https://www.reddit.com/r/javascript/comments/ty3bo1/askjs_do_any_python_ruby_sql_c_or_c_linters/)
-- [React 18 Quick Guide &amp; Core Concepts Explained](https://www.reddit.com/r/javascript/comments/txz16p/react_18_quick_guide_core_concepts_explained/)
-- [Template string vs string](https://www.reddit.com/r/javascript/comments/txwmmx/template_string_vs_string/)
-- [[AskJS] What is the best way to create a common npm package for building others?](https://www.reddit.com/r/javascript/comments/txwmd5/askjs_what_is_the_best_way_to_create_a_common_npm/)
-- [A Whole Website in a Single JavaScript File](https://www.reddit.com/r/javascript/comments/txvsi1/a_whole_website_in_a_single_javascript_file/)
+- [Building a Vaporwave scene with Three.js](https://www.reddit.com/r/javascript/comments/tzekat/building_a_vaporwave_scene_with_threejs/)
+- [Announcing TypeScript 4.7 Beta](https://www.reddit.com/r/javascript/comments/tzblnd/announcing_typescript_47_beta/)
+- [Announcing TypeScript 4.7](https://www.reddit.com/r/javascript/comments/tzbhv3/announcing_typescript_47/)
+- [How to Develop React Chrome Extension for Medium in 26 Steps](https://www.reddit.com/r/javascript/comments/tz7ygu/how_to_develop_react_chrome_extension_for_medium/)
+- [[AskJS] Is there a JS equivalent of the Shapely library in Python for geometric object manipulation?](https://www.reddit.com/r/javascript/comments/tz7hgh/askjs_is_there_a_js_equivalent_of_the_shapely/)
+- [Turborepo 1.2: High-performance build system for JavaScript &amp; TypeScript monorepos](https://www.reddit.com/r/javascript/comments/tz6gzq/turborepo_12_highperformance_build_system_for/)
+- [Wild Wild Path - Object property paths with wildcards and regexps](https://www.reddit.com/r/javascript/comments/tz5r75/wild_wild_path_object_property_paths_with/)
+- [[AskJS] Tracking resolve/reject in recursive Promises](https://www.reddit.com/r/javascript/comments/tz55mp/askjs_tracking_resolvereject_in_recursive_promises/)
+- [[AskJS] Anybody tested the Web NFC functionality in Chrome for Android?](https://www.reddit.com/r/javascript/comments/tz4t98/askjs_anybody_tested_the_web_nfc_functionality_in/)
+- [[AskJS] How do you approach assessing whether someone else&#39;s code is safe?](https://www.reddit.com/r/javascript/comments/tyyqup/askjs_how_do_you_approach_assessing_whether/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
