@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Redwood web framework hits 1.0 release milestone](https://www.infoworld.com/article/3657049/redwood-web-framework-hits-10-release-milestone.html#tk.rss_javascript)
 - [Intro to Hilla: The full-stack Java framework](https://www.infoworld.com/article/3655139/intro-to-hilla-the-full-stack-java-framework.html#tk.rss_javascript)
 - [Review: The 10 best JavaScript editors](https://www.infoworld.com/article/3195951/review-the-10-best-javascript-editors.html#tk.rss_javascript)
 - [13 hot language projects riding WebAssembly](https://www.infoworld.com/article/3619608/13-hot-language-projects-riding-webassembly.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [ECMAScript 2022 endorses class fields, top-level await](https://www.infoworld.com/article/3654830/ecmascript-2022-endorses-class-fields-top-level-await.html#tk.rss_javascript)
 - [Deno gets faster Rust calls](https://www.infoworld.com/article/3654180/deno-gets-faster-rust-calls.html#tk.rss_javascript)
 - [Vercel CEO: Deployment should be instantaneous](https://www.infoworld.com/article/3653262/vercel-ceo-deployment-should-be-instantaneous.html#tk.rss_javascript)
-- [Microsoft pushes optional type annotations for JavaScript](https://www.infoworld.com/article/3653377/microsoft-pushes-optional-type-annotations-for-javascript.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
