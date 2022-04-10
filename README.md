@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Building a Vaporwave scene with Three.js](https://www.reddit.com/r/javascript/comments/tzekat/building_a_vaporwave_scene_with_threejs/)
-- [Announcing TypeScript 4.7 Beta](https://www.reddit.com/r/javascript/comments/tzblnd/announcing_typescript_47_beta/)
-- [Announcing TypeScript 4.7](https://www.reddit.com/r/javascript/comments/tzbhv3/announcing_typescript_47/)
-- [How to Develop React Chrome Extension for Medium in 26 Steps](https://www.reddit.com/r/javascript/comments/tz7ygu/how_to_develop_react_chrome_extension_for_medium/)
-- [[AskJS] Is there a JS equivalent of the Shapely library in Python for geometric object manipulation?](https://www.reddit.com/r/javascript/comments/tz7hgh/askjs_is_there_a_js_equivalent_of_the_shapely/)
-- [Turborepo 1.2: High-performance build system for JavaScript &amp; TypeScript monorepos](https://www.reddit.com/r/javascript/comments/tz6gzq/turborepo_12_highperformance_build_system_for/)
-- [Wild Wild Path - Object property paths with wildcards and regexps](https://www.reddit.com/r/javascript/comments/tz5r75/wild_wild_path_object_property_paths_with/)
-- [[AskJS] Tracking resolve/reject in recursive Promises](https://www.reddit.com/r/javascript/comments/tz55mp/askjs_tracking_resolvereject_in_recursive_promises/)
-- [[AskJS] Anybody tested the Web NFC functionality in Chrome for Android?](https://www.reddit.com/r/javascript/comments/tz4t98/askjs_anybody_tested_the_web_nfc_functionality_in/)
-- [[AskJS] How do you approach assessing whether someone else&#39;s code is safe?](https://www.reddit.com/r/javascript/comments/tyyqup/askjs_how_do_you_approach_assessing_whether/)
+- [[AskJS] Curious about how React &quot;optimizes&quot; &lpar;or doesn&#39;t&rpar; some rendering...](https://www.reddit.com/r/javascript/comments/u069l6/askjs_curious_about_how_react_optimizes_or_doesnt/)
+- [Basic 2D world generation I made using Perlin noise.](https://www.reddit.com/r/javascript/comments/u063xf/basic_2d_world_generation_i_made_using_perlin/)
+- [event-source-polyfill@1.0.26 modified to alert&lpar;&rpar; users in Russian timezones when bundled in application](https://www.reddit.com/r/javascript/comments/u05j99/eventsourcepolyfill1026_modified_to_alert_users/)
+- [Rules of Hoisting mechanism in JavaScript](https://www.reddit.com/r/javascript/comments/u05ipk/rules_of_hoisting_mechanism_in_javascript/)
+- [[AskJS] A new approach to web accessibility...](https://www.reddit.com/r/javascript/comments/u05186/askjs_a_new_approach_to_web_accessibility/)
+- [Bad Habits of Mid-Level React Developers](https://www.reddit.com/r/javascript/comments/u01ww9/bad_habits_of_midlevel_react_developers/)
+- [Threads in NodeJS: Going beyond eventloop using Rust](https://www.reddit.com/r/javascript/comments/u01m9e/threads_in_nodejs_going_beyond_eventloop_using/)
+- [[AskJS] Backend Setup choices](https://www.reddit.com/r/javascript/comments/tzz2k2/askjs_backend_setup_choices/)
+- [Hey guys, here’s an article on Front-end testing: principles, levels, libraries, and automation. Please indulge yourselves.](https://www.reddit.com/r/javascript/comments/tzwrtk/hey_guys_heres_an_article_on_frontend_testing/)
+- [[AskJS] auto install missing packages](https://www.reddit.com/r/javascript/comments/tzsxj6/askjs_auto_install_missing_packages/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
