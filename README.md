@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [React components for Data Analytics](https://www.reddit.com/r/javascript/comments/u0x90q/react_components_for_data_analytics/)
+- [GitHub - voidptr9/service: Managing reactive state with controlled updates like it&#39;s 2022.](https://www.reddit.com/r/javascript/comments/u0tac3/github_voidptr9service_managing_reactive_state/)
+- [Monodeploy - a Lerna alternative that works with Yarn modern](https://www.reddit.com/r/javascript/comments/u0s4xt/monodeploy_a_lerna_alternative_that_works_with/)
+- [Constructor Functions](https://www.reddit.com/r/javascript/comments/u0idrb/constructor_functions/)
 - [[AskJS] Curious about how React &quot;optimizes&quot; &lpar;or doesn&#39;t&rpar; some rendering...](https://www.reddit.com/r/javascript/comments/u069l6/askjs_curious_about_how_react_optimizes_or_doesnt/)
 - [Basic 2D world generation I made using Perlin noise.](https://www.reddit.com/r/javascript/comments/u063xf/basic_2d_world_generation_i_made_using_perlin/)
 - [event-source-polyfill@1.0.26 modified to alert&lpar;&rpar; users in Russian timezones when bundled in application](https://www.reddit.com/r/javascript/comments/u05j99/eventsourcepolyfill1026_modified_to_alert_users/)
 - [Rules of Hoisting mechanism in JavaScript](https://www.reddit.com/r/javascript/comments/u05ipk/rules_of_hoisting_mechanism_in_javascript/)
 - [[AskJS] A new approach to web accessibility...](https://www.reddit.com/r/javascript/comments/u05186/askjs_a_new_approach_to_web_accessibility/)
 - [Bad Habits of Mid-Level React Developers](https://www.reddit.com/r/javascript/comments/u01ww9/bad_habits_of_midlevel_react_developers/)
-- [Threads in NodeJS: Going beyond eventloop using Rust](https://www.reddit.com/r/javascript/comments/u01m9e/threads_in_nodejs_going_beyond_eventloop_using/)
-- [[AskJS] Backend Setup choices](https://www.reddit.com/r/javascript/comments/tzz2k2/askjs_backend_setup_choices/)
-- [Hey guys, here’s an article on Front-end testing: principles, levels, libraries, and automation. Please indulge yourselves.](https://www.reddit.com/r/javascript/comments/tzwrtk/hey_guys_heres_an_article_on_frontend_testing/)
-- [[AskJS] auto install missing packages](https://www.reddit.com/r/javascript/comments/tzsxj6/askjs_auto_install_missing_packages/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
