@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [React components for Data Analytics](https://www.reddit.com/r/javascript/comments/u0x90q/react_components_for_data_analytics/)
-- [GitHub - voidptr9/service: Managing reactive state with controlled updates like it&#39;s 2022.](https://www.reddit.com/r/javascript/comments/u0tac3/github_voidptr9service_managing_reactive_state/)
-- [Monodeploy - a Lerna alternative that works with Yarn modern](https://www.reddit.com/r/javascript/comments/u0s4xt/monodeploy_a_lerna_alternative_that_works_with/)
-- [Constructor Functions](https://www.reddit.com/r/javascript/comments/u0idrb/constructor_functions/)
-- [[AskJS] Curious about how React &quot;optimizes&quot; &lpar;or doesn&#39;t&rpar; some rendering...](https://www.reddit.com/r/javascript/comments/u069l6/askjs_curious_about_how_react_optimizes_or_doesnt/)
-- [Basic 2D world generation I made using Perlin noise.](https://www.reddit.com/r/javascript/comments/u063xf/basic_2d_world_generation_i_made_using_perlin/)
-- [event-source-polyfill@1.0.26 modified to alert&lpar;&rpar; users in Russian timezones when bundled in application](https://www.reddit.com/r/javascript/comments/u05j99/eventsourcepolyfill1026_modified_to_alert_users/)
-- [Rules of Hoisting mechanism in JavaScript](https://www.reddit.com/r/javascript/comments/u05ipk/rules_of_hoisting_mechanism_in_javascript/)
-- [[AskJS] A new approach to web accessibility...](https://www.reddit.com/r/javascript/comments/u05186/askjs_a_new_approach_to_web_accessibility/)
-- [Bad Habits of Mid-Level React Developers](https://www.reddit.com/r/javascript/comments/u01ww9/bad_habits_of_midlevel_react_developers/)
+- [Prototype and Inheritance](https://www.reddit.com/r/javascript/comments/u1o8r2/prototype_and_inheritance/)
+- [Svelte component to visualize DOM tree like in chrome DevTools.](https://www.reddit.com/r/javascript/comments/u1m5jw/svelte_component_to_visualize_dom_tree_like_in/)
+- [Simple JS thread optimization using PartyTown &lpar;Web Workers&rpar;](https://www.reddit.com/r/javascript/comments/u1jmi8/simple_js_thread_optimization_using_partytown_web/)
+- [Chalk.ist - Create beautiful images of your source code](https://www.reddit.com/r/javascript/comments/u1hqe4/chalkist_create_beautiful_images_of_your_source/)
+- [Writing a reactive library in Javascript [from scratch]](https://www.reddit.com/r/javascript/comments/u1hl9b/writing_a_reactive_library_in_javascript_from/)
+- [Cool things you can do with D3.js](https://www.reddit.com/r/javascript/comments/u1gdng/cool_things_you_can_do_with_d3js/)
+- [[AskJS] What is the best library for plotting a binary tree?](https://www.reddit.com/r/javascript/comments/u1ewf1/askjs_what_is_the_best_library_for_plotting_a/)
+- [Elementary - a modern platform for writing high performance audio software that helps you build quickly and ship confidently &lpar;they just hit v1.0.0&rpar;](https://www.reddit.com/r/javascript/comments/u1a1w1/elementary_a_modern_platform_for_writing_high/)
+- [I created 3D Music Visualizer using Three.JS and Web Audio API.](https://www.reddit.com/r/javascript/comments/u16ite/i_created_3d_music_visualizer_using_threejs_and/)
+- [The Adoption of JavaScript Linters in Practice: A Case Study on ESLint · It Will Never Work in Theory](https://www.reddit.com/r/javascript/comments/u15fti/the_adoption_of_javascript_linters_in_practice_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
