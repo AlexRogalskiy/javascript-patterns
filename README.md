@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Prototype and Inheritance](https://www.reddit.com/r/javascript/comments/u1o8r2/prototype_and_inheritance/)
+- [[AskJS] What&#39;s a good option for building a backend with minimal glue code for the frontend?](https://www.reddit.com/r/javascript/comments/u2bqpp/askjs_whats_a_good_option_for_building_a_backend/)
+- [Surveying SQL parser libraries in a few high-level languages](https://www.reddit.com/r/javascript/comments/u29qn1/surveying_sql_parser_libraries_in_a_few_highlevel/)
+- [[AskJS] Where do you work, require you to study/learn things related to work, out of your work schedule?](https://www.reddit.com/r/javascript/comments/u288xq/askjs_where_do_you_work_require_you_to_studylearn/)
+- [[AskJS] How is it usually your working time? Do you develop 8 hours of your work?](https://www.reddit.com/r/javascript/comments/u288kn/askjs_how_is_it_usually_your_working_time_do_you/)
+- [How to Build an Audio Transcript App in 10 Minutes with JavaScript](https://www.reddit.com/r/javascript/comments/u20imr/how_to_build_an_audio_transcript_app_in_10/)
+- [[AskJS] Connecting Sanity to frontend using only Vanilla JS](https://www.reddit.com/r/javascript/comments/u1zwoi/askjs_connecting_sanity_to_frontend_using_only/)
+- [JSON to HTML Interpreter and Framework](https://www.reddit.com/r/javascript/comments/u1ybq1/json_to_html_interpreter_and_framework/)
+- [[AskJS] Is it possible to get the current URL without window object?](https://www.reddit.com/r/javascript/comments/u1xmhi/askjs_is_it_possible_to_get_the_current_url/)
+- [JavaScript Function Composition: What’s the big deal?](https://www.reddit.com/r/javascript/comments/u1t5mb/javascript_function_composition_whats_the_big_deal/)
 - [Svelte component to visualize DOM tree like in chrome DevTools.](https://www.reddit.com/r/javascript/comments/u1m5jw/svelte_component_to_visualize_dom_tree_like_in/)
-- [Simple JS thread optimization using PartyTown &lpar;Web Workers&rpar;](https://www.reddit.com/r/javascript/comments/u1jmi8/simple_js_thread_optimization_using_partytown_web/)
-- [Chalk.ist - Create beautiful images of your source code](https://www.reddit.com/r/javascript/comments/u1hqe4/chalkist_create_beautiful_images_of_your_source/)
-- [Writing a reactive library in Javascript [from scratch]](https://www.reddit.com/r/javascript/comments/u1hl9b/writing_a_reactive_library_in_javascript_from/)
-- [Cool things you can do with D3.js](https://www.reddit.com/r/javascript/comments/u1gdng/cool_things_you_can_do_with_d3js/)
-- [[AskJS] What is the best library for plotting a binary tree?](https://www.reddit.com/r/javascript/comments/u1ewf1/askjs_what_is_the_best_library_for_plotting_a/)
-- [Elementary - a modern platform for writing high performance audio software that helps you build quickly and ship confidently &lpar;they just hit v1.0.0&rpar;](https://www.reddit.com/r/javascript/comments/u1a1w1/elementary_a_modern_platform_for_writing_high/)
-- [I created 3D Music Visualizer using Three.JS and Web Audio API.](https://www.reddit.com/r/javascript/comments/u16ite/i_created_3d_music_visualizer_using_threejs_and/)
-- [The Adoption of JavaScript Linters in Practice: A Case Study on ESLint · It Will Never Work in Theory](https://www.reddit.com/r/javascript/comments/u15fti/the_adoption_of_javascript_linters_in_practice_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
