@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] What&#39;s a good option for building a backend with minimal glue code for the frontend?](https://www.reddit.com/r/javascript/comments/u2bqpp/askjs_whats_a_good_option_for_building_a_backend/)
-- [Surveying SQL parser libraries in a few high-level languages](https://www.reddit.com/r/javascript/comments/u29qn1/surveying_sql_parser_libraries_in_a_few_highlevel/)
-- [[AskJS] Where do you work, require you to study/learn things related to work, out of your work schedule?](https://www.reddit.com/r/javascript/comments/u288xq/askjs_where_do_you_work_require_you_to_studylearn/)
-- [[AskJS] How is it usually your working time? Do you develop 8 hours of your work?](https://www.reddit.com/r/javascript/comments/u288kn/askjs_how_is_it_usually_your_working_time_do_you/)
-- [How to Build an Audio Transcript App in 10 Minutes with JavaScript](https://www.reddit.com/r/javascript/comments/u20imr/how_to_build_an_audio_transcript_app_in_10/)
-- [[AskJS] Connecting Sanity to frontend using only Vanilla JS](https://www.reddit.com/r/javascript/comments/u1zwoi/askjs_connecting_sanity_to_frontend_using_only/)
-- [JSON to HTML Interpreter and Framework](https://www.reddit.com/r/javascript/comments/u1ybq1/json_to_html_interpreter_and_framework/)
-- [[AskJS] Is it possible to get the current URL without window object?](https://www.reddit.com/r/javascript/comments/u1xmhi/askjs_is_it_possible_to_get_the_current_url/)
-- [JavaScript Function Composition: What’s the big deal?](https://www.reddit.com/r/javascript/comments/u1t5mb/javascript_function_composition_whats_the_big_deal/)
-- [Svelte component to visualize DOM tree like in chrome DevTools.](https://www.reddit.com/r/javascript/comments/u1m5jw/svelte_component_to_visualize_dom_tree_like_in/)
+- [WASM-4 is a WebAssembly retro game console, that now supports online multiplayer over WebRTC](https://www.reddit.com/r/javascript/comments/u33h6g/wasm4_is_a_webassembly_retro_game_console_that/)
+- [Mozilla partners with the Center for Humane Technology](https://www.reddit.com/r/javascript/comments/u31non/mozilla_partners_with_the_center_for_humane/)
+- [Plugin Architecture Overview Between Express, Fastify and NestJS](https://www.reddit.com/r/javascript/comments/u31ciw/plugin_architecture_overview_between_express/)
+- [25 reasons to choose Playwright as your next web testing framework](https://www.reddit.com/r/javascript/comments/u2z9kq/25_reasons_to_choose_playwright_as_your_next_web/)
+- [Semantic Versioning for TypeScript Types &lpar;1.0.0-beta.1&rpar;](https://www.reddit.com/r/javascript/comments/u2xrf3/semantic_versioning_for_typescript_types_100beta1/)
+- [[AskJS] jquery bind event listener, how to pass a parameter?](https://www.reddit.com/r/javascript/comments/u2voti/askjs_jquery_bind_event_listener_how_to_pass_a/)
+- [Storybook Lazy Compilation for Webpack](https://www.reddit.com/r/javascript/comments/u2uo94/storybook_lazy_compilation_for_webpack/)
+- [Pure JS Mechanical Calculator](https://www.reddit.com/r/javascript/comments/u2u4w3/pure_js_mechanical_calculator/)
+- [[AskJS] How to measure my level of knowledge and go to the next level &lpar;Mid Level&rpar;?](https://www.reddit.com/r/javascript/comments/u2tcmq/askjs_how_to_measure_my_level_of_knowledge_and_go/)
+- [I made a tool to help beginners learn HTML code from browser](https://www.reddit.com/r/javascript/comments/u2qjwe/i_made_a_tool_to_help_beginners_learn_html_code/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
