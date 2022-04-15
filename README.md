@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [WASM-4 is a WebAssembly retro game console, that now supports online multiplayer over WebRTC](https://www.reddit.com/r/javascript/comments/u33h6g/wasm4_is_a_webassembly_retro_game_console_that/)
-- [Mozilla partners with the Center for Humane Technology](https://www.reddit.com/r/javascript/comments/u31non/mozilla_partners_with_the_center_for_humane/)
-- [Plugin Architecture Overview Between Express, Fastify and NestJS](https://www.reddit.com/r/javascript/comments/u31ciw/plugin_architecture_overview_between_express/)
-- [25 reasons to choose Playwright as your next web testing framework](https://www.reddit.com/r/javascript/comments/u2z9kq/25_reasons_to_choose_playwright_as_your_next_web/)
-- [Semantic Versioning for TypeScript Types &lpar;1.0.0-beta.1&rpar;](https://www.reddit.com/r/javascript/comments/u2xrf3/semantic_versioning_for_typescript_types_100beta1/)
-- [[AskJS] jquery bind event listener, how to pass a parameter?](https://www.reddit.com/r/javascript/comments/u2voti/askjs_jquery_bind_event_listener_how_to_pass_a/)
-- [Storybook Lazy Compilation for Webpack](https://www.reddit.com/r/javascript/comments/u2uo94/storybook_lazy_compilation_for_webpack/)
-- [Pure JS Mechanical Calculator](https://www.reddit.com/r/javascript/comments/u2u4w3/pure_js_mechanical_calculator/)
-- [[AskJS] How to measure my level of knowledge and go to the next level &lpar;Mid Level&rpar;?](https://www.reddit.com/r/javascript/comments/u2tcmq/askjs_how_to_measure_my_level_of_knowledge_and_go/)
-- [I made a tool to help beginners learn HTML code from browser](https://www.reddit.com/r/javascript/comments/u2qjwe/i_made_a_tool_to_help_beginners_learn_html_code/)
+- [[AskJS] What can i do on a android device knowing JS](https://www.reddit.com/r/javascript/comments/u3wil2/askjs_what_can_i_do_on_a_android_device_knowing_js/)
+- [How to implement request retry mechanism in JavaScript &lpar;simple &amp; reusable&rpar;](https://www.reddit.com/r/javascript/comments/u3vuyg/how_to_implement_request_retry_mechanism_in/)
+- [Interesting libraries, fonts and more](https://www.reddit.com/r/javascript/comments/u3vaep/interesting_libraries_fonts_and_more/)
+- [[AskJS] How To Generate Unique Identifiers in a Service?](https://www.reddit.com/r/javascript/comments/u3ukx0/askjs_how_to_generate_unique_identifiers_in_a/)
+- [[AskJS] how to convert array that has been written as string](https://www.reddit.com/r/javascript/comments/u3u1mo/askjs_how_to_convert_array_that_has_been_written/)
+- [[AskJS] Linting/Prettier auto-formatting chained functions](https://www.reddit.com/r/javascript/comments/u3rszb/askjs_lintingprettier_autoformatting_chained/)
+- [A solution to the SQL vs. ORMs dilemma](https://www.reddit.com/r/javascript/comments/u3qcau/a_solution_to_the_sql_vs_orms_dilemma/)
+- [[AskJS] I don&#39;t like the code i write. How can i go beyond intermediate level?](https://www.reddit.com/r/javascript/comments/u3n4vf/askjs_i_dont_like_the_code_i_write_how_can_i_go/)
+- [[AskJS] how to see the inherent properties of a promise object like value,onFulfilled and onRejected on chrome?](https://www.reddit.com/r/javascript/comments/u3jhcb/askjs_how_to_see_the_inherent_properties_of_a/)
+- [Vanilla JSX, how to create your own Pragma](https://www.reddit.com/r/javascript/comments/u3i67j/vanilla_jsx_how_to_create_your_own_pragma/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
