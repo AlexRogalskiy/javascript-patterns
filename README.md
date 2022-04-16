@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] What can i do on a android device knowing JS](https://www.reddit.com/r/javascript/comments/u3wil2/askjs_what_can_i_do_on_a_android_device_knowing_js/)
-- [How to implement request retry mechanism in JavaScript &lpar;simple &amp; reusable&rpar;](https://www.reddit.com/r/javascript/comments/u3vuyg/how_to_implement_request_retry_mechanism_in/)
-- [Interesting libraries, fonts and more](https://www.reddit.com/r/javascript/comments/u3vaep/interesting_libraries_fonts_and_more/)
-- [[AskJS] How To Generate Unique Identifiers in a Service?](https://www.reddit.com/r/javascript/comments/u3ukx0/askjs_how_to_generate_unique_identifiers_in_a/)
-- [[AskJS] how to convert array that has been written as string](https://www.reddit.com/r/javascript/comments/u3u1mo/askjs_how_to_convert_array_that_has_been_written/)
-- [[AskJS] Linting/Prettier auto-formatting chained functions](https://www.reddit.com/r/javascript/comments/u3rszb/askjs_lintingprettier_autoformatting_chained/)
-- [A solution to the SQL vs. ORMs dilemma](https://www.reddit.com/r/javascript/comments/u3qcau/a_solution_to_the_sql_vs_orms_dilemma/)
-- [[AskJS] I don&#39;t like the code i write. How can i go beyond intermediate level?](https://www.reddit.com/r/javascript/comments/u3n4vf/askjs_i_dont_like_the_code_i_write_how_can_i_go/)
-- [[AskJS] how to see the inherent properties of a promise object like value,onFulfilled and onRejected on chrome?](https://www.reddit.com/r/javascript/comments/u3jhcb/askjs_how_to_see_the_inherent_properties_of_a/)
-- [Vanilla JSX, how to create your own Pragma](https://www.reddit.com/r/javascript/comments/u3i67j/vanilla_jsx_how_to_create_your_own_pragma/)
+- [React CLI package for generating components](https://www.reddit.com/r/javascript/comments/u4l4fk/react_cli_package_for_generating_components/)
+- [[AskJS] Creating a cybersecurity JavaScript web game](https://www.reddit.com/r/javascript/comments/u4ju3m/askjs_creating_a_cybersecurity_javascript_web_game/)
+- [A full subscription management system is now available on the Skeleton boilerplate](https://www.reddit.com/r/javascript/comments/u4hsgv/a_full_subscription_management_system_is_now/)
+- [[AskJS] is this a bug or feature?](https://www.reddit.com/r/javascript/comments/u4hb1l/askjs_is_this_a_bug_or_feature/)
+- [Using Webpack module federation for our feedback product](https://www.reddit.com/r/javascript/comments/u4byck/using_webpack_module_federation_for_our_feedback/)
+- [setIntervalTimeout - copypastable utility for creating variadic timeout intervals](https://www.reddit.com/r/javascript/comments/u4b1tm/setintervaltimeout_copypastable_utility_for/)
+- [Lissajous Curve Generator in JavaScript](https://www.reddit.com/r/javascript/comments/u4arm6/lissajous_curve_generator_in_javascript/)
+- [Open-source analytics with nivo](https://www.reddit.com/r/javascript/comments/u48vka/opensource_analytics_with_nivo/)
+- [&quot;There&#39;s an epidemic of aggressive but arbitrary deadlines for dev teams. Team leads demanding a feature ship by a certain date only for some other department to shoot it down upon completion.&quot; The top developer at Amex had an interesting convo on why shy never commits to aggressive deadlines.](https://www.reddit.com/r/javascript/comments/u4783w/theres_an_epidemic_of_aggressive_but_arbitrary/)
+- [Domain-Driven Hexagon - guide on DDD, architecture, best practices &lpar;example project using Typescript + NestJS&rpar;](https://www.reddit.com/r/javascript/comments/u46nn1/domaindriven_hexagon_guide_on_ddd_architecture/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
