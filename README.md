@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [React-Redux v8.0.0: React 18 support, TS conversion, modern build output!](https://www.reddit.com/r/javascript/comments/u52xuz/reactredux_v800_react_18_support_ts_conversion/)
+- [[AskJS] Why doesn&#39;t JS deprecate undefined and replace everything with null?](https://www.reddit.com/r/javascript/comments/u51z4a/askjs_why_doesnt_js_deprecate_undefined_and/)
+- [Take care of internet traffic experience. Make cancelable requests with react-hooks.](https://www.reddit.com/r/javascript/comments/u50vd6/take_care_of_internet_traffic_experience_make/)
+- [Lexical, an extensible text editor framework](https://www.reddit.com/r/javascript/comments/u5088q/lexical_an_extensible_text_editor_framework/)
+- [[AskJS] looking for suggestions for better ways to serve up fake data for frontend tests](https://www.reddit.com/r/javascript/comments/u4zar9/askjs_looking_for_suggestions_for_better_ways_to/)
+- [it-tools.tech, useful tools for developer and people working in IT](https://www.reddit.com/r/javascript/comments/u4z84d/ittoolstech_useful_tools_for_developer_and_people/)
+- [Reducing spam from mailto email links](https://www.reddit.com/r/javascript/comments/u4sh2b/reducing_spam_from_mailto_email_links/)
+- [Showoff Saturday &lpar;April 16, 2022&rpar;](https://www.reddit.com/r/javascript/comments/u4s5lf/showoff_saturday_april_16_2022/)
 - [React CLI package for generating components](https://www.reddit.com/r/javascript/comments/u4l4fk/react_cli_package_for_generating_components/)
-- [[AskJS] Creating a cybersecurity JavaScript web game](https://www.reddit.com/r/javascript/comments/u4ju3m/askjs_creating_a_cybersecurity_javascript_web_game/)
 - [A full subscription management system is now available on the Skeleton boilerplate](https://www.reddit.com/r/javascript/comments/u4hsgv/a_full_subscription_management_system_is_now/)
-- [[AskJS] is this a bug or feature?](https://www.reddit.com/r/javascript/comments/u4hb1l/askjs_is_this_a_bug_or_feature/)
-- [Using Webpack module federation for our feedback product](https://www.reddit.com/r/javascript/comments/u4byck/using_webpack_module_federation_for_our_feedback/)
-- [setIntervalTimeout - copypastable utility for creating variadic timeout intervals](https://www.reddit.com/r/javascript/comments/u4b1tm/setintervaltimeout_copypastable_utility_for/)
-- [Lissajous Curve Generator in JavaScript](https://www.reddit.com/r/javascript/comments/u4arm6/lissajous_curve_generator_in_javascript/)
-- [Open-source analytics with nivo](https://www.reddit.com/r/javascript/comments/u48vka/opensource_analytics_with_nivo/)
-- [&quot;There&#39;s an epidemic of aggressive but arbitrary deadlines for dev teams. Team leads demanding a feature ship by a certain date only for some other department to shoot it down upon completion.&quot; The top developer at Amex had an interesting convo on why shy never commits to aggressive deadlines.](https://www.reddit.com/r/javascript/comments/u4783w/theres_an_epidemic_of_aggressive_but_arbitrary/)
-- [Domain-Driven Hexagon - guide on DDD, architecture, best practices &lpar;example project using Typescript + NestJS&rpar;](https://www.reddit.com/r/javascript/comments/u46nn1/domaindriven_hexagon_guide_on_ddd_architecture/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
