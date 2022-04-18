@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] how is hoisting significant in javascript?](https://www.reddit.com/r/javascript/comments/u5yf8m/askjs_how_is_hoisting_significant_in_javascript/)
+- [Upgraded nx-serverless template to serverless v3](https://www.reddit.com/r/javascript/comments/u5q0sb/upgraded_nxserverless_template_to_serverless_v3/)
+- [Vite Hot Module Replacement For Creative Coding - A Complete Example](https://www.reddit.com/r/javascript/comments/u5psvu/vite_hot_module_replacement_for_creative_coding_a/)
 - [React-Redux v8.0.0: React 18 support, TS conversion, modern build output!](https://www.reddit.com/r/javascript/comments/u52xuz/reactredux_v800_react_18_support_ts_conversion/)
 - [[AskJS] Why doesn&#39;t JS deprecate undefined and replace everything with null?](https://www.reddit.com/r/javascript/comments/u51z4a/askjs_why_doesnt_js_deprecate_undefined_and/)
 - [Take care of internet traffic experience. Make cancelable requests with react-hooks.](https://www.reddit.com/r/javascript/comments/u50vd6/take_care_of_internet_traffic_experience_make/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [[AskJS] looking for suggestions for better ways to serve up fake data for frontend tests](https://www.reddit.com/r/javascript/comments/u4zar9/askjs_looking_for_suggestions_for_better_ways_to/)
 - [it-tools.tech, useful tools for developer and people working in IT](https://www.reddit.com/r/javascript/comments/u4z84d/ittoolstech_useful_tools_for_developer_and_people/)
 - [Reducing spam from mailto email links](https://www.reddit.com/r/javascript/comments/u4sh2b/reducing_spam_from_mailto_email_links/)
-- [Showoff Saturday &lpar;April 16, 2022&rpar;](https://www.reddit.com/r/javascript/comments/u4s5lf/showoff_saturday_april_16_2022/)
-- [React CLI package for generating components](https://www.reddit.com/r/javascript/comments/u4l4fk/react_cli_package_for_generating_components/)
-- [A full subscription management system is now available on the Skeleton boilerplate](https://www.reddit.com/r/javascript/comments/u4hsgv/a_full_subscription_management_system_is_now/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
