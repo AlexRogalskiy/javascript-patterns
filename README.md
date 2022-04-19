@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] how is hoisting significant in javascript?](https://www.reddit.com/r/javascript/comments/u5yf8m/askjs_how_is_hoisting_significant_in_javascript/)
-- [Upgraded nx-serverless template to serverless v3](https://www.reddit.com/r/javascript/comments/u5q0sb/upgraded_nxserverless_template_to_serverless_v3/)
-- [Vite Hot Module Replacement For Creative Coding - A Complete Example](https://www.reddit.com/r/javascript/comments/u5psvu/vite_hot_module_replacement_for_creative_coding_a/)
-- [React-Redux v8.0.0: React 18 support, TS conversion, modern build output!](https://www.reddit.com/r/javascript/comments/u52xuz/reactredux_v800_react_18_support_ts_conversion/)
-- [[AskJS] Why doesn&#39;t JS deprecate undefined and replace everything with null?](https://www.reddit.com/r/javascript/comments/u51z4a/askjs_why_doesnt_js_deprecate_undefined_and/)
-- [Take care of internet traffic experience. Make cancelable requests with react-hooks.](https://www.reddit.com/r/javascript/comments/u50vd6/take_care_of_internet_traffic_experience_make/)
-- [Lexical, an extensible text editor framework](https://www.reddit.com/r/javascript/comments/u5088q/lexical_an_extensible_text_editor_framework/)
-- [[AskJS] looking for suggestions for better ways to serve up fake data for frontend tests](https://www.reddit.com/r/javascript/comments/u4zar9/askjs_looking_for_suggestions_for_better_ways_to/)
-- [it-tools.tech, useful tools for developer and people working in IT](https://www.reddit.com/r/javascript/comments/u4z84d/ittoolstech_useful_tools_for_developer_and_people/)
-- [Reducing spam from mailto email links](https://www.reddit.com/r/javascript/comments/u4sh2b/reducing_spam_from_mailto_email_links/)
+- [GitHub - qishibo/AnotherRedisDesktopManager: A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What&#39;s more, it won&#39;t crash when loading massive keys.](https://www.reddit.com/r/javascript/comments/u6qa6l/github_qishiboanotherredisdesktopmanager_a_faster/)
+- [Build a Plugin System With Node.js](https://www.reddit.com/r/javascript/comments/u6o5d6/build_a_plugin_system_with_nodejs/)
+- [3 reasons to avoid using `npm link`](https://www.reddit.com/r/javascript/comments/u6gsps/3_reasons_to_avoid_using_npm_link/)
+- [nexe - create a single executable out of your node.js apps](https://www.reddit.com/r/javascript/comments/u6giss/nexe_create_a_single_executable_out_of_your/)
+- [[AskJS] I do not like working I just came in, but I need it to get money for my bills](https://www.reddit.com/r/javascript/comments/u6gait/askjs_i_do_not_like_working_i_just_came_in_but_i/)
+- [[AskJS] [Randomize 360⁰ Images Composition]](https://www.reddit.com/r/javascript/comments/u6fklh/askjs_randomize_360⁰_images_composition/)
+- [[AskJS] Trend of using &amp;&amp; as a replacement for if statements](https://www.reddit.com/r/javascript/comments/u6f1mt/askjs_trend_of_using_as_a_replacement_for_if/)
+- [If you are the hiring manager / senior engineer, which technical assessment you are prefer to filter out the candidates?](https://www.reddit.com/r/javascript/comments/u6ed5x/if_you_are_the_hiring_manager_senior_engineer/)
+- [CSV File to Notion Database Example &lpar;Typescript + @notionhq/client&rpar;](https://www.reddit.com/r/javascript/comments/u6e5g0/csv_file_to_notion_database_example_typescript/)
+- [[AskJS] TextDecoder to decode null-terminated string?](https://www.reddit.com/r/javascript/comments/u69j46/askjs_textdecoder_to_decode_nullterminated_string/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
