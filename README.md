@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [GitHub - qishibo/AnotherRedisDesktopManager: A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What&#39;s more, it won&#39;t crash when loading massive keys.](https://www.reddit.com/r/javascript/comments/u6qa6l/github_qishiboanotherredisdesktopmanager_a_faster/)
-- [Build a Plugin System With Node.js](https://www.reddit.com/r/javascript/comments/u6o5d6/build_a_plugin_system_with_nodejs/)
-- [3 reasons to avoid using `npm link`](https://www.reddit.com/r/javascript/comments/u6gsps/3_reasons_to_avoid_using_npm_link/)
-- [nexe - create a single executable out of your node.js apps](https://www.reddit.com/r/javascript/comments/u6giss/nexe_create_a_single_executable_out_of_your/)
-- [[AskJS] I do not like working I just came in, but I need it to get money for my bills](https://www.reddit.com/r/javascript/comments/u6gait/askjs_i_do_not_like_working_i_just_came_in_but_i/)
-- [[AskJS] [Randomize 360⁰ Images Composition]](https://www.reddit.com/r/javascript/comments/u6fklh/askjs_randomize_360⁰_images_composition/)
-- [[AskJS] Trend of using &amp;&amp; as a replacement for if statements](https://www.reddit.com/r/javascript/comments/u6f1mt/askjs_trend_of_using_as_a_replacement_for_if/)
-- [If you are the hiring manager / senior engineer, which technical assessment you are prefer to filter out the candidates?](https://www.reddit.com/r/javascript/comments/u6ed5x/if_you_are_the_hiring_manager_senior_engineer/)
-- [CSV File to Notion Database Example &lpar;Typescript + @notionhq/client&rpar;](https://www.reddit.com/r/javascript/comments/u6e5g0/csv_file_to_notion_database_example_typescript/)
-- [[AskJS] TextDecoder to decode null-terminated string?](https://www.reddit.com/r/javascript/comments/u69j46/askjs_textdecoder_to_decode_nullterminated_string/)
+- [Top 6 JavaScript ES12 Features You Should Use](https://www.reddit.com/r/javascript/comments/u7mn8a/top_6_javascript_es12_features_you_should_use/)
+- [Building and deploying a backend Serverless API using Planetscale and Prisma](https://www.reddit.com/r/javascript/comments/u7m9pp/building_and_deploying_a_backend_serverless_api/)
+- [Playwright E2E testing: Tips and best practices](https://www.reddit.com/r/javascript/comments/u7m4g4/playwright_e2e_testing_tips_and_best_practices/)
+- [Node.js 18 is now available](https://www.reddit.com/r/javascript/comments/u7jy79/nodejs_18_is_now_available/)
+- [Node.js 18 Introduces Prefix-Only Core Modules](https://www.reddit.com/r/javascript/comments/u7haig/nodejs_18_introduces_prefixonly_core_modules/)
+- [Node 18 Release - Top New Features](https://www.reddit.com/r/javascript/comments/u7h8fw/node_18_release_top_new_features/)
+- [[AskJS] How would you remake javascript?](https://www.reddit.com/r/javascript/comments/u7cghr/askjs_how_would_you_remake_javascript/)
+- [Ajax Battle: XMLHttpRequest vs the Fetch API](https://www.reddit.com/r/javascript/comments/u7advs/ajax_battle_xmlhttprequest_vs_the_fetch_api/)
+- [related-documents - find related documents, posts, etc](https://www.reddit.com/r/javascript/comments/u7a4s4/relateddocuments_find_related_documents_posts_etc/)
+- [Keycloak Integration in Minutes](https://www.reddit.com/r/javascript/comments/u7a2ir/keycloak_integration_in_minutes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
