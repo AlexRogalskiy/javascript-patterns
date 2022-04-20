@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Node.js 18 updates OpenSSL support, enables fetch API](https://www.infoworld.com/article/3657636/nodejs-18-updates-openssl-support-enables-fetch-api.html#tk.rss_javascript)
 - [Clojure meets Dart in ClojureDart](https://www.infoworld.com/article/3657759/clojure-meets-dart-in-clojuredart.html#tk.rss_javascript)
 - [TypeScript 4.7 adds ESM support in Node.js](https://www.infoworld.com/article/3656801/typescript-47-adds-esm-support-in-nodejs.html#tk.rss_javascript)
 - [Redwood web framework hits 1.0 release milestone](https://www.infoworld.com/article/3657049/redwood-web-framework-hits-10-release-milestone.html#tk.rss_javascript)
@@ -300,7 +301,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [13 hot language projects riding WebAssembly](https://www.infoworld.com/article/3619608/13-hot-language-projects-riding-webassembly.html#tk.rss_javascript)
 - [React 18 arrives with concurrent renderer, automatic batching](https://www.infoworld.com/article/3653251/react-18-introduces-concurrent-renderer-automatic-batching.html#tk.rss_javascript)
 - [Review: The 6 best JavaScript IDEs](https://www.infoworld.com/article/3192844/review-the-6-best-javascript-ides.html#tk.rss_javascript)
-- [ECMAScript 2022 endorses class fields, top-level await](https://www.infoworld.com/article/3654830/ecmascript-2022-endorses-class-fields-top-level-await.html#tk.rss_javascript)
 - [Intro to Lit: A JavaScript framework](https://www.infoworld.com/article/3654302/intro-to-lit-a-javascript-framework.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
