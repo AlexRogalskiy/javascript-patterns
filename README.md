@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Top 6 JavaScript ES12 Features You Should Use](https://www.reddit.com/r/javascript/comments/u7mn8a/top_6_javascript_es12_features_you_should_use/)
-- [Building and deploying a backend Serverless API using Planetscale and Prisma](https://www.reddit.com/r/javascript/comments/u7m9pp/building_and_deploying_a_backend_serverless_api/)
-- [Playwright E2E testing: Tips and best practices](https://www.reddit.com/r/javascript/comments/u7m4g4/playwright_e2e_testing_tips_and_best_practices/)
-- [Node.js 18 is now available](https://www.reddit.com/r/javascript/comments/u7jy79/nodejs_18_is_now_available/)
-- [Node.js 18 Introduces Prefix-Only Core Modules](https://www.reddit.com/r/javascript/comments/u7haig/nodejs_18_introduces_prefixonly_core_modules/)
-- [Node 18 Release - Top New Features](https://www.reddit.com/r/javascript/comments/u7h8fw/node_18_release_top_new_features/)
-- [[AskJS] How would you remake javascript?](https://www.reddit.com/r/javascript/comments/u7cghr/askjs_how_would_you_remake_javascript/)
-- [Ajax Battle: XMLHttpRequest vs the Fetch API](https://www.reddit.com/r/javascript/comments/u7advs/ajax_battle_xmlhttprequest_vs_the_fetch_api/)
-- [related-documents - find related documents, posts, etc](https://www.reddit.com/r/javascript/comments/u7a4s4/relateddocuments_find_related_documents_posts_etc/)
-- [Keycloak Integration in Minutes](https://www.reddit.com/r/javascript/comments/u7a2ir/keycloak_integration_in_minutes/)
+- [Javascript Obfuscator - free web tools](https://www.reddit.com/r/javascript/comments/u8bx0q/javascript_obfuscator_free_web_tools/)
+- [Fx &lpar;terminal JSON viewer&rpar; was rewritten from Nodejs to Go](https://www.reddit.com/r/javascript/comments/u879n1/fx_terminal_json_viewer_was_rewritten_from_nodejs/)
+- [JavaScript function composition: What’s the big deal?](https://www.reddit.com/r/javascript/comments/u86xxm/javascript_function_composition_whats_the_big_deal/)
+- [OAuth 2.0 Refresh Token Best Practices](https://www.reddit.com/r/javascript/comments/u86xnd/oauth_20_refresh_token_best_practices/)
+- [API Design Best Practices for long-running Operations: GraphQL vs REST](https://www.reddit.com/r/javascript/comments/u85iyk/api_design_best_practices_for_longrunning/)
+- [JavaScript Basics + 10 Items Cheat Sheet &lpar;quite a long article, sorry&rpar;](https://www.reddit.com/r/javascript/comments/u80wxy/javascript_basics_10_items_cheat_sheet_quite_a/)
+- [I created a node package to audit your runtime version for CVEs or end-of-life support - designed to be ran as part of a CI/CD pipeline](https://www.reddit.com/r/javascript/comments/u7z5qo/i_created_a_node_package_to_audit_your_runtime/)
+- [JavsScript Desktop App: Color Picker](https://www.reddit.com/r/javascript/comments/u7xncc/javsscript_desktop_app_color_picker/)
+- [Programming Bootcamp: Python, Javascript &amp; More eBook Bundle](https://www.reddit.com/r/javascript/comments/u7wenw/programming_bootcamp_python_javascript_more_ebook/)
+- [Small collection of Utils you can copy-paste easily](https://www.reddit.com/r/javascript/comments/u7vdim/small_collection_of_utils_you_can_copypaste_easily/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
