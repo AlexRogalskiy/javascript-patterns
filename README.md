@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Javascript Obfuscator - free web tools](https://www.reddit.com/r/javascript/comments/u8bx0q/javascript_obfuscator_free_web_tools/)
-- [Fx &lpar;terminal JSON viewer&rpar; was rewritten from Nodejs to Go](https://www.reddit.com/r/javascript/comments/u879n1/fx_terminal_json_viewer_was_rewritten_from_nodejs/)
-- [JavaScript function composition: What’s the big deal?](https://www.reddit.com/r/javascript/comments/u86xxm/javascript_function_composition_whats_the_big_deal/)
-- [OAuth 2.0 Refresh Token Best Practices](https://www.reddit.com/r/javascript/comments/u86xnd/oauth_20_refresh_token_best_practices/)
-- [API Design Best Practices for long-running Operations: GraphQL vs REST](https://www.reddit.com/r/javascript/comments/u85iyk/api_design_best_practices_for_longrunning/)
-- [JavaScript Basics + 10 Items Cheat Sheet &lpar;quite a long article, sorry&rpar;](https://www.reddit.com/r/javascript/comments/u80wxy/javascript_basics_10_items_cheat_sheet_quite_a/)
-- [I created a node package to audit your runtime version for CVEs or end-of-life support - designed to be ran as part of a CI/CD pipeline](https://www.reddit.com/r/javascript/comments/u7z5qo/i_created_a_node_package_to_audit_your_runtime/)
-- [JavsScript Desktop App: Color Picker](https://www.reddit.com/r/javascript/comments/u7xncc/javsscript_desktop_app_color_picker/)
-- [Programming Bootcamp: Python, Javascript &amp; More eBook Bundle](https://www.reddit.com/r/javascript/comments/u7wenw/programming_bootcamp_python_javascript_more_ebook/)
-- [Small collection of Utils you can copy-paste easily](https://www.reddit.com/r/javascript/comments/u7vdim/small_collection_of_utils_you_can_copypaste_easily/)
+- [The world&#39;s easiest, smallest, and most powerful visitor identifier for browsers.](https://www.reddit.com/r/javascript/comments/u93r4k/the_worlds_easiest_smallest_and_most_powerful/)
+- [UI-Colors | Inspired by Flat UI Colors - You can copy colors, create your own palette of colors, save colors to local storage, change opacity of colors, change color format from hex to rgb to rgba.](https://www.reddit.com/r/javascript/comments/u90i2a/uicolors_inspired_by_flat_ui_colors_you_can_copy/)
+- [TalkHouse | WebRTC based peer to peer video calling and realtime messaging web app](https://www.reddit.com/r/javascript/comments/u9003v/talkhouse_webrtc_based_peer_to_peer_video_calling/)
+- [Which Node.js OAuth Library Does Your App Need?](https://www.reddit.com/r/javascript/comments/u8x1kh/which_nodejs_oauth_library_does_your_app_need/)
+- [Marko: Compiling Fine-Grained Reactivity](https://www.reddit.com/r/javascript/comments/u8ujji/marko_compiling_finegrained_reactivity/)
+- [Data Security is a Developer Service Problem](https://www.reddit.com/r/javascript/comments/u8tn2b/data_security_is_a_developer_service_problem/)
+- [Parse Airtable with SMS for Climate Non-Profits with JavaScript and Twilio Serverless](https://www.reddit.com/r/javascript/comments/u8ssu8/parse_airtable_with_sms_for_climate_nonprofits/)
+- [Introducing full-stack plugins](https://www.reddit.com/r/javascript/comments/u8rfly/introducing_fullstack_plugins/)
+- [[AskJS] Can JS delivered to the browser from a server read HTML added to a page form a client side extension?](https://www.reddit.com/r/javascript/comments/u8qyxp/askjs_can_js_delivered_to_the_browser_from_a/)
+- [[AskJS] How to test web push notifications?](https://www.reddit.com/r/javascript/comments/u8n0g4/askjs_how_to_test_web_push_notifications/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
