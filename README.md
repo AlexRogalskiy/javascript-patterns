@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [The world&#39;s easiest, smallest, and most powerful visitor identifier for browsers.](https://www.reddit.com/r/javascript/comments/u93r4k/the_worlds_easiest_smallest_and_most_powerful/)
-- [UI-Colors | Inspired by Flat UI Colors - You can copy colors, create your own palette of colors, save colors to local storage, change opacity of colors, change color format from hex to rgb to rgba.](https://www.reddit.com/r/javascript/comments/u90i2a/uicolors_inspired_by_flat_ui_colors_you_can_copy/)
-- [TalkHouse | WebRTC based peer to peer video calling and realtime messaging web app](https://www.reddit.com/r/javascript/comments/u9003v/talkhouse_webrtc_based_peer_to_peer_video_calling/)
-- [Which Node.js OAuth Library Does Your App Need?](https://www.reddit.com/r/javascript/comments/u8x1kh/which_nodejs_oauth_library_does_your_app_need/)
-- [Marko: Compiling Fine-Grained Reactivity](https://www.reddit.com/r/javascript/comments/u8ujji/marko_compiling_finegrained_reactivity/)
-- [Data Security is a Developer Service Problem](https://www.reddit.com/r/javascript/comments/u8tn2b/data_security_is_a_developer_service_problem/)
-- [Parse Airtable with SMS for Climate Non-Profits with JavaScript and Twilio Serverless](https://www.reddit.com/r/javascript/comments/u8ssu8/parse_airtable_with_sms_for_climate_nonprofits/)
-- [Introducing full-stack plugins](https://www.reddit.com/r/javascript/comments/u8rfly/introducing_fullstack_plugins/)
-- [[AskJS] Can JS delivered to the browser from a server read HTML added to a page form a client side extension?](https://www.reddit.com/r/javascript/comments/u8qyxp/askjs_can_js_delivered_to_the_browser_from_a/)
-- [[AskJS] How to test web push notifications?](https://www.reddit.com/r/javascript/comments/u8n0g4/askjs_how_to_test_web_push_notifications/)
+- [I created an easy-to-use Notion to React renderer. Let&#39;s you render Notion content as custom React components.](https://www.reddit.com/r/javascript/comments/u9rvkj/i_created_an_easytouse_notion_to_react_renderer/)
+- [ShopLinee - A fully fledged E-Commerce site build with MERN stack.](https://www.reddit.com/r/javascript/comments/u9r5zd/shoplinee_a_fully_fledged_ecommerce_site_build/)
+- [I created the game Asteroids using React! No canvas, just manipulation of components in a custom game engine! I just finished a JS boot camp and this was my final project! Credit to emdok, cangalet and katiechurchwell for building the UI and back-end!](https://www.reddit.com/r/javascript/comments/u9r13t/i_created_the_game_asteroids_using_react_no/)
+- [Whole Rust Audio Engine as one Single Web Audio Node: A 2MB, GC-Free, Memory-Safe, and Easy-to-Use Audio Library on NPM for Browsers](https://www.reddit.com/r/javascript/comments/u9jpzp/whole_rust_audio_engine_as_one_single_web_audio/)
+- [HTML &amp; JS Playground - Smart code autocomplete &amp; instant preview](https://www.reddit.com/r/javascript/comments/u9hbvz/html_js_playground_smart_code_autocomplete/)
+- [Get nearby Bluetooth Device Distance Using JavaScript - Could be helpful to develop COVID-19 distance measure app](https://www.reddit.com/r/javascript/comments/u9gukr/get_nearby_bluetooth_device_distance_using/)
+- [Nestia, automatic SDK generator for the NestJS, instead of the Swagger](https://www.reddit.com/r/javascript/comments/u9g9t2/nestia_automatic_sdk_generator_for_the_nestjs/)
+- [Promise wrapper for cleaner async syntax](https://www.reddit.com/r/javascript/comments/u9g0ay/promise_wrapper_for_cleaner_async_syntax/)
+- [Generating React object keys with WeakMap](https://www.reddit.com/r/javascript/comments/u9drft/generating_react_object_keys_with_weakmap/)
+- [MongoDB GridFS over ordinary file system](https://www.reddit.com/r/javascript/comments/u9bsgu/mongodb_gridfs_over_ordinary_file_system/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
