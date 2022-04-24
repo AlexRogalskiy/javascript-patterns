@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I created an easy-to-use Notion to React renderer. Let&#39;s you render Notion content as custom React components.](https://www.reddit.com/r/javascript/comments/u9rvkj/i_created_an_easytouse_notion_to_react_renderer/)
-- [ShopLinee - A fully fledged E-Commerce site build with MERN stack.](https://www.reddit.com/r/javascript/comments/u9r5zd/shoplinee_a_fully_fledged_ecommerce_site_build/)
-- [I created the game Asteroids using React! No canvas, just manipulation of components in a custom game engine! I just finished a JS boot camp and this was my final project! Credit to emdok, cangalet and katiechurchwell for building the UI and back-end!](https://www.reddit.com/r/javascript/comments/u9r13t/i_created_the_game_asteroids_using_react_no/)
-- [Whole Rust Audio Engine as one Single Web Audio Node: A 2MB, GC-Free, Memory-Safe, and Easy-to-Use Audio Library on NPM for Browsers](https://www.reddit.com/r/javascript/comments/u9jpzp/whole_rust_audio_engine_as_one_single_web_audio/)
-- [HTML &amp; JS Playground - Smart code autocomplete &amp; instant preview](https://www.reddit.com/r/javascript/comments/u9hbvz/html_js_playground_smart_code_autocomplete/)
-- [Get nearby Bluetooth Device Distance Using JavaScript - Could be helpful to develop COVID-19 distance measure app](https://www.reddit.com/r/javascript/comments/u9gukr/get_nearby_bluetooth_device_distance_using/)
-- [Nestia, automatic SDK generator for the NestJS, instead of the Swagger](https://www.reddit.com/r/javascript/comments/u9g9t2/nestia_automatic_sdk_generator_for_the_nestjs/)
-- [Promise wrapper for cleaner async syntax](https://www.reddit.com/r/javascript/comments/u9g0ay/promise_wrapper_for_cleaner_async_syntax/)
-- [Generating React object keys with WeakMap](https://www.reddit.com/r/javascript/comments/u9drft/generating_react_object_keys_with_weakmap/)
-- [MongoDB GridFS over ordinary file system](https://www.reddit.com/r/javascript/comments/u9bsgu/mongodb_gridfs_over_ordinary_file_system/)
+- [Simple improvements for improving your websites accessibility and performance](https://www.reddit.com/r/javascript/comments/uaj464/simple_improvements_for_improving_your_websites/)
+- [Gamified To-Do List](https://www.reddit.com/r/javascript/comments/uagtnl/gamified_todo_list/)
+- [Coygo Forge - Code Your Own Crypto Trading Bots With Javascript](https://www.reddit.com/r/javascript/comments/ua72dp/coygo_forge_code_your_own_crypto_trading_bots/)
+- [Reduced Startup Time of our backend service by 80% With Webpack](https://www.reddit.com/r/javascript/comments/ua5fhe/reduced_startup_time_of_our_backend_service_by_80/)
+- [I would like to share with you my JS trading framework](https://www.reddit.com/r/javascript/comments/ua5abw/i_would_like_to_share_with_you_my_js_trading/)
+- [I write a blogpost how we migrated from javascript and flow to typescript at Osome](https://www.reddit.com/r/javascript/comments/ua3qc8/i_write_a_blogpost_how_we_migrated_from/)
+- [Data Types in JavaScript](https://www.reddit.com/r/javascript/comments/ua2031/data_types_in_javascript/)
+- [Trendiest free open-source admin template for Chakra UI and React!](https://www.reddit.com/r/javascript/comments/ua0mjc/trendiest_free_opensource_admin_template_for/)
+- [Kaluma - A tiny JavaScript runtime for RP2040 &lpar;Raspberry Pi Pico&rpar;](https://www.reddit.com/r/javascript/comments/ua0goo/kaluma_a_tiny_javascript_runtime_for_rp2040/)
+- [Showoff Saturday &lpar;April 23, 2022&rpar;](https://www.reddit.com/r/javascript/comments/u9zklg/showoff_saturday_april_23_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
