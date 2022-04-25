@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Simple improvements for improving your websites accessibility and performance](https://www.reddit.com/r/javascript/comments/uaj464/simple_improvements_for_improving_your_websites/)
-- [Gamified To-Do List](https://www.reddit.com/r/javascript/comments/uagtnl/gamified_todo_list/)
+- [What is DocumentFragment and createDocumentFragment&lpar;&rpar; in JavaScript](https://www.reddit.com/r/javascript/comments/uazf1c/what_is_documentfragment_and/)
+- [We open-sourced our dashboarding tool for Supabase users! Built using Vue 3 and Tailwind](https://www.reddit.com/r/javascript/comments/uayfrv/we_opensourced_our_dashboarding_tool_for_supabase/)
+- [Add support to the window.open function for the Accept header. · Issue #7810 · whatwg/html](https://www.reddit.com/r/javascript/comments/uasow1/add_support_to_the_windowopen_function_for_the/)
+- [Why you can&#39;t secure a React Native &lpar;or any frontend&rpar; application](https://www.reddit.com/r/javascript/comments/uanso8/why_you_cant_secure_a_react_native_or_any/)
 - [Coygo Forge - Code Your Own Crypto Trading Bots With Javascript](https://www.reddit.com/r/javascript/comments/ua72dp/coygo_forge_code_your_own_crypto_trading_bots/)
 - [Reduced Startup Time of our backend service by 80% With Webpack](https://www.reddit.com/r/javascript/comments/ua5fhe/reduced_startup_time_of_our_backend_service_by_80/)
 - [I would like to share with you my JS trading framework](https://www.reddit.com/r/javascript/comments/ua5abw/i_would_like_to_share_with_you_my_js_trading/)
 - [I write a blogpost how we migrated from javascript and flow to typescript at Osome](https://www.reddit.com/r/javascript/comments/ua3qc8/i_write_a_blogpost_how_we_migrated_from/)
 - [Data Types in JavaScript](https://www.reddit.com/r/javascript/comments/ua2031/data_types_in_javascript/)
 - [Trendiest free open-source admin template for Chakra UI and React!](https://www.reddit.com/r/javascript/comments/ua0mjc/trendiest_free_opensource_admin_template_for/)
-- [Kaluma - A tiny JavaScript runtime for RP2040 &lpar;Raspberry Pi Pico&rpar;](https://www.reddit.com/r/javascript/comments/ua0goo/kaluma_a_tiny_javascript_runtime_for_rp2040/)
-- [Showoff Saturday &lpar;April 23, 2022&rpar;](https://www.reddit.com/r/javascript/comments/u9zklg/showoff_saturday_april_23_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
