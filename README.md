@@ -378,6 +378,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *NodeSource posts*
 
 <!-- NODESOURCE-POST-LIST:START -->
+- [Announcing Node V18 available in distributions](https://nodesource.com/blog/NodeV18-Available-in-Distributions)
 - [Let’s Celebrate Earth Day! #NodeForest 🌳](https://nodesource.com/blog/NodeForest)
 - [Announcing N|Solid v4.7.1](https://nodesource.com/blog/announcing-NSolid-v4.7.1)
 - [N|Solid SaaS is now FREE!✨](https://nodesource.com/blog/NSolid-SaaS-is-now-free)
@@ -387,7 +388,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Understanding dependencies inside your Package.json](https://nodesource.com/blog/understanding-dependencies-inside-your-packagejson)
 - [The Basics of Package.json](https://nodesource.com/blog/the-basics-of-package-json)
 - [Interview With Adrián Estrada – Cybernews](https://nodesource.com/blog/interview-with-Adrian-Estrada–NodeSource)
-- [The Basics: Getting started with npm](https://nodesource.com/blog/the-basics-getting-started-with-npm)
 <!-- NODESOURCE-POST-LIST:END -->
 
 ### *React Native posts*
