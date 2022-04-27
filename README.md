@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [HyperExpress 6.0.0: Now With Open-Ended Functions, Two-Way Content Streams, Node v18 Support &amp; More!](https://www.reddit.com/r/javascript/comments/ubxvou/hyperexpress_600_now_with_openended_functions/)
-- [Marko for Sites, Solid for Apps](https://www.reddit.com/r/javascript/comments/ubs6i9/marko_for_sites_solid_for_apps/)
-- [A roadmap from mechanic to software engineer](https://www.reddit.com/r/javascript/comments/ubs5a9/a_roadmap_from_mechanic_to_software_engineer/)
-- [[AskJS] REST query batching in js APIS. How common are they?](https://www.reddit.com/r/javascript/comments/ubmoyf/askjs_rest_query_batching_in_js_apis_how_common/)
-- [Better types for strings and numbers in TypeString using opaque types](https://www.reddit.com/r/javascript/comments/ubhesd/better_types_for_strings_and_numbers_in/)
-- [The Ultimate Guide for Contract Testing with PACT and JavaScript](https://www.reddit.com/r/javascript/comments/ubfo9z/the_ultimate_guide_for_contract_testing_with_pact/)
-- [We open-sourced our dashboarding tool for Supabase users! Built using Vue 3 and Tailwind](https://www.reddit.com/r/javascript/comments/uayfrv/we_opensourced_our_dashboarding_tool_for_supabase/)
-- [Add support to the window.open function for the Accept header. · Issue #7810 · whatwg/html](https://www.reddit.com/r/javascript/comments/uasow1/add_support_to_the_windowopen_function_for_the/)
-- [Why you can&#39;t secure a React Native &lpar;or any frontend&rpar; application](https://www.reddit.com/r/javascript/comments/uanso8/why_you_cant_secure_a_react_native_or_any/)
-- [Coygo Forge - Code Your Own Crypto Trading Bots With Javascript](https://www.reddit.com/r/javascript/comments/ua72dp/coygo_forge_code_your_own_crypto_trading_bots/)
+- [[AskJS] JavaScript themed cake ideas](https://www.reddit.com/r/javascript/comments/uctiri/askjs_javascript_themed_cake_ideas/)
+- [How to use Axios Interceptors with React](https://www.reddit.com/r/javascript/comments/uct5bs/how_to_use_axios_interceptors_with_react/)
+- [HTML event handler attributes: down the rabbit hole](https://www.reddit.com/r/javascript/comments/ucmo3b/html_event_handler_attributes_down_the_rabbit_hole/)
+- [match-iz: A tiny pattern-matching library in the style of the TC39 proposal](https://www.reddit.com/r/javascript/comments/uclofq/matchiz_a_tiny_patternmatching_library_in_the/)
+- [[AskJS] Possible to implement a script to an app?](https://www.reddit.com/r/javascript/comments/ucjqz7/askjs_possible_to_implement_a_script_to_an_app/)
+- [Node v18.0.0 &lpar;Current&rpar;](https://www.reddit.com/r/javascript/comments/ucj0ef/node_v1800_current/)
+- [Whatâs Taking So Long? Task-Based Promise Performance Analysis in Node.js](https://www.reddit.com/r/javascript/comments/uciif2/whatâs_taking_so_long_taskbased_promise/)
+- [Integrating With the GitHub API Using EveryAuth](https://www.reddit.com/r/javascript/comments/ucii9x/integrating_with_the_github_api_using_everyauth/)
+- [Integrate Google Calendar To Your Node.js Express App Quickly Using EveryAuth](https://www.reddit.com/r/javascript/comments/ucii2s/integrate_google_calendar_to_your_nodejs_express/)
+- [7 Web Component Tricks](https://www.reddit.com/r/javascript/comments/ucihf1/7_web_component_tricks/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
