@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [GraalVM speeds up native image builds](https://www.infoworld.com/article/3658988/graalvm-speeds-up-native-image-builds.html#tk.rss_javascript)
 - [Go serverless with Vercel, SvelteKit, and MongoDB](https://www.infoworld.com/article/3655952/go-serverless-with-vercel-sveltekit-and-mongodb.html#tk.rss_javascript)
 - [WebAssembly 2.0 begins to take shape](https://www.infoworld.com/article/3657593/webassembly-20-begins-to-take-shape.html#tk.rss_javascript)
 - [Node.js 18 updates OpenSSL support, enables fetch API](https://www.infoworld.com/article/3657636/nodejs-18-updates-openssl-support-enables-fetch-api.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Intro to Hilla: The full-stack Java framework](https://www.infoworld.com/article/3655139/intro-to-hilla-the-full-stack-java-framework.html#tk.rss_javascript)
 - [Review: The 10 best JavaScript editors](https://www.infoworld.com/article/3195951/review-the-10-best-javascript-editors.html#tk.rss_javascript)
 - [13 hot language projects riding WebAssembly](https://www.infoworld.com/article/3619608/13-hot-language-projects-riding-webassembly.html#tk.rss_javascript)
-- [React 18 arrives with concurrent renderer, automatic batching](https://www.infoworld.com/article/3653251/react-18-introduces-concurrent-renderer-automatic-batching.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
