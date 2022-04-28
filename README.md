@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] JavaScript themed cake ideas](https://www.reddit.com/r/javascript/comments/uctiri/askjs_javascript_themed_cake_ideas/)
-- [How to use Axios Interceptors with React](https://www.reddit.com/r/javascript/comments/uct5bs/how_to_use_axios_interceptors_with_react/)
-- [HTML event handler attributes: down the rabbit hole](https://www.reddit.com/r/javascript/comments/ucmo3b/html_event_handler_attributes_down_the_rabbit_hole/)
-- [match-iz: A tiny pattern-matching library in the style of the TC39 proposal](https://www.reddit.com/r/javascript/comments/uclofq/matchiz_a_tiny_patternmatching_library_in_the/)
-- [[AskJS] Possible to implement a script to an app?](https://www.reddit.com/r/javascript/comments/ucjqz7/askjs_possible_to_implement_a_script_to_an_app/)
-- [Node v18.0.0 &lpar;Current&rpar;](https://www.reddit.com/r/javascript/comments/ucj0ef/node_v1800_current/)
-- [Whatâs Taking So Long? Task-Based Promise Performance Analysis in Node.js](https://www.reddit.com/r/javascript/comments/uciif2/whatâs_taking_so_long_taskbased_promise/)
-- [Integrating With the GitHub API Using EveryAuth](https://www.reddit.com/r/javascript/comments/ucii9x/integrating_with_the_github_api_using_everyauth/)
-- [Integrate Google Calendar To Your Node.js Express App Quickly Using EveryAuth](https://www.reddit.com/r/javascript/comments/ucii2s/integrate_google_calendar_to_your_nodejs_express/)
-- [7 Web Component Tricks](https://www.reddit.com/r/javascript/comments/ucihf1/7_web_component_tricks/)
+- [Java to javascript converter](https://www.reddit.com/r/javascript/comments/udj7xo/java_to_javascript_converter/)
+- [[AskJS] Best way to run a program every 24 hours](https://www.reddit.com/r/javascript/comments/udfoc2/askjs_best_way_to_run_a_program_every_24_hours/)
+- [Zag.js UI components powered by Finite State Machines - A collection of framework-agnostic UI component patterns like accordion, menu, and dialog that can be used to build design systems for React, Vue and Solid.js](https://www.reddit.com/r/javascript/comments/udfcbv/zagjs_ui_components_powered_by_finite_state/)
+- [Talkhouse | WebRTC based peer to peer voice, video calling and messaging web app build with MERN stack.](https://www.reddit.com/r/javascript/comments/udcl6g/talkhouse_webrtc_based_peer_to_peer_voice_video/)
+- [[AskJS] Defensive programming for class properties](https://www.reddit.com/r/javascript/comments/udbm2n/askjs_defensive_programming_for_class_properties/)
+- [Build a Weight Converter-](https://www.reddit.com/r/javascript/comments/ud7uvv/build_a_weight_converter/)
+- [I&#39;m building a Cloud Desktop and Instant Messenger in Vanilla JS and jQuery](https://www.reddit.com/r/javascript/comments/ud6g1i/im_building_a_cloud_desktop_and_instant_messenger/)
+- [Official Storybook plugin for Figma is GA](https://www.reddit.com/r/javascript/comments/ud5whi/official_storybook_plugin_for_figma_is_ga/)
+- [GraphQL Subscriptions: Why we use SSE/Fetch over Websockets](https://www.reddit.com/r/javascript/comments/ud4qdf/graphql_subscriptions_why_we_use_ssefetch_over/)
+- [[AskJS] Code for a cake](https://www.reddit.com/r/javascript/comments/ud4hy6/askjs_code_for_a_cake/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
