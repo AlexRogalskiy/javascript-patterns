@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Java to javascript converter](https://www.reddit.com/r/javascript/comments/udj7xo/java_to_javascript_converter/)
-- [[AskJS] Best way to run a program every 24 hours](https://www.reddit.com/r/javascript/comments/udfoc2/askjs_best_way_to_run_a_program_every_24_hours/)
-- [Zag.js UI components powered by Finite State Machines - A collection of framework-agnostic UI component patterns like accordion, menu, and dialog that can be used to build design systems for React, Vue and Solid.js](https://www.reddit.com/r/javascript/comments/udfcbv/zagjs_ui_components_powered_by_finite_state/)
-- [Talkhouse | WebRTC based peer to peer voice, video calling and messaging web app build with MERN stack.](https://www.reddit.com/r/javascript/comments/udcl6g/talkhouse_webrtc_based_peer_to_peer_voice_video/)
-- [[AskJS] Defensive programming for class properties](https://www.reddit.com/r/javascript/comments/udbm2n/askjs_defensive_programming_for_class_properties/)
-- [Build a Weight Converter-](https://www.reddit.com/r/javascript/comments/ud7uvv/build_a_weight_converter/)
-- [I&#39;m building a Cloud Desktop and Instant Messenger in Vanilla JS and jQuery](https://www.reddit.com/r/javascript/comments/ud6g1i/im_building_a_cloud_desktop_and_instant_messenger/)
-- [Official Storybook plugin for Figma is GA](https://www.reddit.com/r/javascript/comments/ud5whi/official_storybook_plugin_for_figma_is_ga/)
-- [GraphQL Subscriptions: Why we use SSE/Fetch over Websockets](https://www.reddit.com/r/javascript/comments/ud4qdf/graphql_subscriptions_why_we_use_ssefetch_over/)
-- [[AskJS] Code for a cake](https://www.reddit.com/r/javascript/comments/ud4hy6/askjs_code_for_a_cake/)
+- [Socket: New tool takes a proactive approach to prevent OSS supply chain attacks](https://www.reddit.com/r/javascript/comments/ue410y/socket_new_tool_takes_a_proactive_approach_to/)
+- [Common Voice dataset tops 20,000 hours](https://www.reddit.com/r/javascript/comments/ue2u76/common_voice_dataset_tops_20000_hours/)
+- [Protect and proxy API endpoints with easy to implement auth layer for free forever using lolo](https://www.reddit.com/r/javascript/comments/ue1258/protect_and_proxy_api_endpoints_with_easy_to/)
+- [Building a Next.js Dashboard with Dynamic Charts and SSR](https://www.reddit.com/r/javascript/comments/ue0glf/building_a_nextjs_dashboard_with_dynamic_charts/)
+- [Locale Aware Sorting in JavaScript](https://www.reddit.com/r/javascript/comments/udydkj/locale_aware_sorting_in_javascript/)
+- [Hi! I made a plug-in to take full screenshot neatly in puppeteer.](https://www.reddit.com/r/javascript/comments/udusw0/hi_i_made_a_plugin_to_take_full_screenshot_neatly/)
+- [[AskJS] Need help in choosing the best tech stack to choose for the features listed in a SaaS SSG site &lpar;excluding wordpress&rpar;](https://www.reddit.com/r/javascript/comments/udr3fs/askjs_need_help_in_choosing_the_best_tech_stack/)
+- [The State of Frontend 2022](https://www.reddit.com/r/javascript/comments/udquz4/the_state_of_frontend_2022/)
+- [[AskJS] Resources to understand JS usage &lpar;import, module, etc.&rpar;](https://www.reddit.com/r/javascript/comments/udqong/askjs_resources_to_understand_js_usage_import/)
+- [6 Lessons Learned from Using Playwright for UI Tests](https://www.reddit.com/r/javascript/comments/udojrl/6_lessons_learned_from_using_playwright_for_ui/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
