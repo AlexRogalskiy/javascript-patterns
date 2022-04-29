@@ -292,6 +292,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Deno 1.21 improves REPL, error handling](https://www.infoworld.com/article/3659188/deno-121-improves-repl-error-handling.html#tk.rss_javascript)
+- [The JavaScript language features roundup](https://www.infoworld.com/article/3658393/the-javascript-language-features-roundup.html#tk.rss_javascript)
 - [GraalVM speeds up native image builds](https://www.infoworld.com/article/3658988/graalvm-speeds-up-native-image-builds.html#tk.rss_javascript)
 - [Go serverless with Vercel, SvelteKit, and MongoDB](https://www.infoworld.com/article/3655952/go-serverless-with-vercel-sveltekit-and-mongodb.html#tk.rss_javascript)
 - [WebAssembly 2.0 begins to take shape](https://www.infoworld.com/article/3657593/webassembly-20-begins-to-take-shape.html#tk.rss_javascript)
@@ -300,8 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [TypeScript 4.7 adds ESM support in Node.js](https://www.infoworld.com/article/3656801/typescript-47-adds-esm-support-in-nodejs.html#tk.rss_javascript)
 - [Redwood web framework hits 1.0 release milestone](https://www.infoworld.com/article/3657049/redwood-web-framework-hits-10-release-milestone.html#tk.rss_javascript)
 - [Intro to Hilla: The full-stack Java framework](https://www.infoworld.com/article/3655139/intro-to-hilla-the-full-stack-java-framework.html#tk.rss_javascript)
-- [Review: The 10 best JavaScript editors](https://www.infoworld.com/article/3195951/review-the-10-best-javascript-editors.html#tk.rss_javascript)
-- [13 hot language projects riding WebAssembly](https://www.infoworld.com/article/3619608/13-hot-language-projects-riding-webassembly.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
