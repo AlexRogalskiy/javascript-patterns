@@ -293,7 +293,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 
 <!-- INFOWORLD-POST-LIST:START -->
 - [Deno 1.21 improves REPL, error handling](https://www.infoworld.com/article/3659188/deno-121-improves-repl-error-handling.html#tk.rss_javascript)
-- [The JavaScript language features roundup](https://www.infoworld.com/article/3658393/the-javascript-language-features-roundup.html#tk.rss_javascript)
+- [8 great new JavaScript language features in ES12](https://www.infoworld.com/article/3658393/8-great-new-javascript-language-features-in-es12.html#tk.rss_javascript)
 - [GraalVM speeds up native image builds](https://www.infoworld.com/article/3658988/graalvm-speeds-up-native-image-builds.html#tk.rss_javascript)
 - [Go serverless with Vercel, SvelteKit, and MongoDB](https://www.infoworld.com/article/3655952/go-serverless-with-vercel-sveltekit-and-mongodb.html#tk.rss_javascript)
 - [WebAssembly 2.0 begins to take shape](https://www.infoworld.com/article/3657593/webassembly-20-begins-to-take-shape.html#tk.rss_javascript)
