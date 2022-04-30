@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I was asked to implement DOM like API in a Frontend Interview. What would be your take? Sharing my take for reference.](https://www.reddit.com/r/javascript/comments/ueutkz/i_was_asked_to_implement_dom_like_api_in_a/)
+- [Visual programming canvas with tensorflow.js tutorial](https://www.reddit.com/r/javascript/comments/uesc3u/visual_programming_canvas_with_tensorflowjs/)
+- [I made this free 2D space flight simulator, AMA!](https://www.reddit.com/r/javascript/comments/uemu2v/i_made_this_free_2d_space_flight_simulator_ama/)
+- [[AskJS] Why do you follow this nonsense rule of omitting semicolons in JavaScript?](https://www.reddit.com/r/javascript/comments/uelhre/askjs_why_do_you_follow_this_nonsense_rule_of/)
+- [The Modern Tech Stack to build a SaaS as a team of one-man with Next.js and AWS](https://www.reddit.com/r/javascript/comments/uekvub/the_modern_tech_stack_to_build_a_saas_as_a_team/)
+- [[AskJS] Can I tell Javascript my array is sorted when doing a .find&lpar;&rpar;?](https://www.reddit.com/r/javascript/comments/uejelo/askjs_can_i_tell_javascript_my_array_is_sorted/)
+- [Optimizing Deployments for Cloud Functions](https://www.reddit.com/r/javascript/comments/ueid3f/optimizing_deployments_for_cloud_functions/)
+- [[AskJS] Is there a recommended free tool to translate i18n json files?](https://www.reddit.com/r/javascript/comments/ueg0ol/askjs_is_there_a_recommended_free_tool_to/)
 - [Socket: New tool takes a proactive approach to prevent OSS supply chain attacks](https://www.reddit.com/r/javascript/comments/ue410y/socket_new_tool_takes_a_proactive_approach_to/)
 - [Common Voice dataset tops 20,000 hours](https://www.reddit.com/r/javascript/comments/ue2u76/common_voice_dataset_tops_20000_hours/)
-- [Protect and proxy API endpoints with easy to implement auth layer for free forever using lolo](https://www.reddit.com/r/javascript/comments/ue1258/protect_and_proxy_api_endpoints_with_easy_to/)
-- [Building a Next.js Dashboard with Dynamic Charts and SSR](https://www.reddit.com/r/javascript/comments/ue0glf/building_a_nextjs_dashboard_with_dynamic_charts/)
-- [Locale Aware Sorting in JavaScript](https://www.reddit.com/r/javascript/comments/udydkj/locale_aware_sorting_in_javascript/)
-- [Hi! I made a plug-in to take full screenshot neatly in puppeteer.](https://www.reddit.com/r/javascript/comments/udusw0/hi_i_made_a_plugin_to_take_full_screenshot_neatly/)
-- [[AskJS] Need help in choosing the best tech stack to choose for the features listed in a SaaS SSG site &lpar;excluding wordpress&rpar;](https://www.reddit.com/r/javascript/comments/udr3fs/askjs_need_help_in_choosing_the_best_tech_stack/)
-- [The State of Frontend 2022](https://www.reddit.com/r/javascript/comments/udquz4/the_state_of_frontend_2022/)
-- [[AskJS] Resources to understand JS usage &lpar;import, module, etc.&rpar;](https://www.reddit.com/r/javascript/comments/udqong/askjs_resources_to_understand_js_usage_import/)
-- [6 Lessons Learned from Using Playwright for UI Tests](https://www.reddit.com/r/javascript/comments/udojrl/6_lessons_learned_from_using_playwright_for_ui/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
