@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I was asked to implement DOM like API in a Frontend Interview. What would be your take? Sharing my take for reference.](https://www.reddit.com/r/javascript/comments/ueutkz/i_was_asked_to_implement_dom_like_api_in_a/)
+- [[AskJS] JavaScript doesn&#39;t have a mascot. Let&#39;s a contest organised by the global JavaScript community to choose one! Would you be interested in becoming part of the organization and volunteer your time?](https://www.reddit.com/r/javascript/comments/ufnlgr/askjs_javascript_doesnt_have_a_mascot_lets_a/)
+- [Javascript Obfuscator - free tool](https://www.reddit.com/r/javascript/comments/ufl3nc/javascript_obfuscator_free_tool/)
+- [[AskJS] Advice on code and coffee meetup](https://www.reddit.com/r/javascript/comments/ufh4ke/askjs_advice_on_code_and_coffee_meetup/)
+- [How we employed the new ECMAScript Module Support in typescript](https://www.reddit.com/r/javascript/comments/ufaoy0/how_we_employed_the_new_ecmascript_module_support/)
+- [Showoff Saturday &lpar;April 30, 2022&rpar;](https://www.reddit.com/r/javascript/comments/uf5rng/showoff_saturday_april_30_2022/)
 - [Visual programming canvas with tensorflow.js tutorial](https://www.reddit.com/r/javascript/comments/uesc3u/visual_programming_canvas_with_tensorflowjs/)
-- [I made this free 2D space flight simulator, AMA!](https://www.reddit.com/r/javascript/comments/uemu2v/i_made_this_free_2d_space_flight_simulator_ama/)
 - [[AskJS] Why do you follow this nonsense rule of omitting semicolons in JavaScript?](https://www.reddit.com/r/javascript/comments/uelhre/askjs_why_do_you_follow_this_nonsense_rule_of/)
 - [The Modern Tech Stack to build a SaaS as a team of one-man with Next.js and AWS](https://www.reddit.com/r/javascript/comments/uekvub/the_modern_tech_stack_to_build_a_saas_as_a_team/)
 - [[AskJS] Can I tell Javascript my array is sorted when doing a .find&lpar;&rpar;?](https://www.reddit.com/r/javascript/comments/uejelo/askjs_can_i_tell_javascript_my_array_is_sorted/)
 - [Optimizing Deployments for Cloud Functions](https://www.reddit.com/r/javascript/comments/ueid3f/optimizing_deployments_for_cloud_functions/)
-- [[AskJS] Is there a recommended free tool to translate i18n json files?](https://www.reddit.com/r/javascript/comments/ueg0ol/askjs_is_there_a_recommended_free_tool_to/)
-- [Socket: New tool takes a proactive approach to prevent OSS supply chain attacks](https://www.reddit.com/r/javascript/comments/ue410y/socket_new_tool_takes_a_proactive_approach_to/)
-- [Common Voice dataset tops 20,000 hours](https://www.reddit.com/r/javascript/comments/ue2u76/common_voice_dataset_tops_20000_hours/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
