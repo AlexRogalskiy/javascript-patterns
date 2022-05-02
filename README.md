@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] JavaScript doesn&#39;t have a mascot. Let&#39;s a contest organised by the global JavaScript community to choose one! Would you be interested in becoming part of the organization and volunteer your time?](https://www.reddit.com/r/javascript/comments/ufnlgr/askjs_javascript_doesnt_have_a_mascot_lets_a/)
-- [Javascript Obfuscator - free tool](https://www.reddit.com/r/javascript/comments/ufl3nc/javascript_obfuscator_free_tool/)
-- [[AskJS] Advice on code and coffee meetup](https://www.reddit.com/r/javascript/comments/ufh4ke/askjs_advice_on_code_and_coffee_meetup/)
-- [How we employed the new ECMAScript Module Support in typescript](https://www.reddit.com/r/javascript/comments/ufaoy0/how_we_employed_the_new_ecmascript_module_support/)
-- [Showoff Saturday &lpar;April 30, 2022&rpar;](https://www.reddit.com/r/javascript/comments/uf5rng/showoff_saturday_april_30_2022/)
-- [Visual programming canvas with tensorflow.js tutorial](https://www.reddit.com/r/javascript/comments/uesc3u/visual_programming_canvas_with_tensorflowjs/)
-- [[AskJS] Why do you follow this nonsense rule of omitting semicolons in JavaScript?](https://www.reddit.com/r/javascript/comments/uelhre/askjs_why_do_you_follow_this_nonsense_rule_of/)
-- [The Modern Tech Stack to build a SaaS as a team of one-man with Next.js and AWS](https://www.reddit.com/r/javascript/comments/uekvub/the_modern_tech_stack_to_build_a_saas_as_a_team/)
-- [[AskJS] Can I tell Javascript my array is sorted when doing a .find&lpar;&rpar;?](https://www.reddit.com/r/javascript/comments/uejelo/askjs_can_i_tell_javascript_my_array_is_sorted/)
-- [Optimizing Deployments for Cloud Functions](https://www.reddit.com/r/javascript/comments/ueid3f/optimizing_deployments_for_cloud_functions/)
+- [What&#39;s Really Going On Inside Your node_modules Folder?](https://www.reddit.com/r/javascript/comments/ugb5is/whats_really_going_on_inside_your_node_modules/)
+- [[AskJS] Does anyone use jQuery anymore?](https://www.reddit.com/r/javascript/comments/ug9w8o/askjs_does_anyone_use_jquery_anymore/)
+- [Software Engineering at Google &lpar;free book&rpar;](https://www.reddit.com/r/javascript/comments/ug6bte/software_engineering_at_google_free_book/)
+- [Dashibase Beta is now free &lpar;and still open-source&rpar;!](https://www.reddit.com/r/javascript/comments/ug511u/dashibase_beta_is_now_free_and_still_opensource/)
+- [[AskJS] how does this keyword work differently inside an arrow function than in a regular function and why so?](https://www.reddit.com/r/javascript/comments/ug4d0g/askjs_how_does_this_keyword_work_differently/)
+- [Javascript Open Source and free Code Security and Quality Scanning](https://www.reddit.com/r/javascript/comments/ug48u9/javascript_open_source_and_free_code_security_and/)
+- [Setting up a superfast CI with the brand new Vitest and GitHub Actions.](https://www.reddit.com/r/javascript/comments/ug1l07/setting_up_a_superfast_ci_with_the_brand_new/)
+- [[AskJS] do you still need to learn redux since React already have useContext?](https://www.reddit.com/r/javascript/comments/ug1ksg/askjs_do_you_still_need_to_learn_redux_since/)
+- [Functional Domain Driven Design: Simplified](https://www.reddit.com/r/javascript/comments/ug0mfz/functional_domain_driven_design_simplified/)
+- [[AskJS] Advanced javascript books for very deep dive and solidify understanding??](https://www.reddit.com/r/javascript/comments/ug0gjo/askjs_advanced_javascript_books_for_very_deep/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
