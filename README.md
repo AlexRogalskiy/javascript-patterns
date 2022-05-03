@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What&#39;s Really Going On Inside Your node_modules Folder?](https://www.reddit.com/r/javascript/comments/ugb5is/whats_really_going_on_inside_your_node_modules/)
+- [Starbeam – A library for building reactive data systems](https://www.reddit.com/r/javascript/comments/uguzhh/starbeam_a_library_for_building_reactive_data/)
+- [[AskJS] It&#39;s 2022. Is there really no native way to get the size of an object in bytes?](https://www.reddit.com/r/javascript/comments/uguvqt/askjs_its_2022_is_there_really_no_native_way_to/)
+- [VSCode extension that highlights HTML in your `template strings`](https://www.reddit.com/r/javascript/comments/ugpijj/vscode_extension_that_highlights_html_in_your/)
+- [Database client tool with sophisticated and animated UI](https://www.reddit.com/r/javascript/comments/ugm0el/database_client_tool_with_sophisticated_and/)
+- [[AskJS] Can anyone recommend a JS physics library for generating explosive blobs/flowing blobs?](https://www.reddit.com/r/javascript/comments/ugj0nh/askjs_can_anyone_recommend_a_js_physics_library/)
 - [[AskJS] Does anyone use jQuery anymore?](https://www.reddit.com/r/javascript/comments/ug9w8o/askjs_does_anyone_use_jquery_anymore/)
-- [Software Engineering at Google &lpar;free book&rpar;](https://www.reddit.com/r/javascript/comments/ug6bte/software_engineering_at_google_free_book/)
 - [Dashibase Beta is now free &lpar;and still open-source&rpar;!](https://www.reddit.com/r/javascript/comments/ug511u/dashibase_beta_is_now_free_and_still_opensource/)
-- [[AskJS] how does this keyword work differently inside an arrow function than in a regular function and why so?](https://www.reddit.com/r/javascript/comments/ug4d0g/askjs_how_does_this_keyword_work_differently/)
 - [Javascript Open Source and free Code Security and Quality Scanning](https://www.reddit.com/r/javascript/comments/ug48u9/javascript_open_source_and_free_code_security_and/)
 - [Setting up a superfast CI with the brand new Vitest and GitHub Actions.](https://www.reddit.com/r/javascript/comments/ug1l07/setting_up_a_superfast_ci_with_the_brand_new/)
 - [[AskJS] do you still need to learn redux since React already have useContext?](https://www.reddit.com/r/javascript/comments/ug1ksg/askjs_do_you_still_need_to_learn_redux_since/)
-- [Functional Domain Driven Design: Simplified](https://www.reddit.com/r/javascript/comments/ug0mfz/functional_domain_driven_design_simplified/)
-- [[AskJS] Advanced javascript books for very deep dive and solidify understanding??](https://www.reddit.com/r/javascript/comments/ug0gjo/askjs_advanced_javascript_books_for_very_deep/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
