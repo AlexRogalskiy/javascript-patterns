@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Current Issues with Jest Output and Workflow](https://www.reddit.com/r/javascript/comments/uhoyvq/askjs_current_issues_with_jest_output_and_workflow/)
+- [FormKit — Vue 3 Forms, Supercharged](https://www.reddit.com/r/javascript/comments/uhnhh4/formkit_vue_3_forms_supercharged/)
+- [JavaScript&#39;s Dependency Problem](https://www.reddit.com/r/javascript/comments/uhjjbg/javascripts_dependency_problem/)
+- [Squeak! - Open-source embeddable Q&amp;A for every page of your docs](https://www.reddit.com/r/javascript/comments/uhiche/squeak_opensource_embeddable_qa_for_every_page_of/)
+- [NextJS / React SSR: 21 Universal Data Fetching Patterns &amp; Best Practices](https://www.reddit.com/r/javascript/comments/uhhn1r/nextjs_react_ssr_21_universal_data_fetching/)
+- [8 JavaScript quiz that may confuse you](https://www.reddit.com/r/javascript/comments/uhgi9i/8_javascript_quiz_that_may_confuse_you/)
+- [depgrapher: Fast Dependency Analysis for Javascript using unix tools](https://www.reddit.com/r/javascript/comments/uhfvy1/depgrapher_fast_dependency_analysis_for/)
+- [[AskJS] best carousel library.](https://www.reddit.com/r/javascript/comments/uhfnkn/askjs_best_carousel_library/)
+- [Why I don&#39;t miss React: a story about using the platform](https://www.reddit.com/r/javascript/comments/uhamul/why_i_dont_miss_react_a_story_about_using_the/)
 - [Starbeam – A library for building reactive data systems](https://www.reddit.com/r/javascript/comments/uguzhh/starbeam_a_library_for_building_reactive_data/)
-- [[AskJS] It&#39;s 2022. Is there really no native way to get the size of an object in bytes?](https://www.reddit.com/r/javascript/comments/uguvqt/askjs_its_2022_is_there_really_no_native_way_to/)
-- [VSCode extension that highlights HTML in your `template strings`](https://www.reddit.com/r/javascript/comments/ugpijj/vscode_extension_that_highlights_html_in_your/)
-- [Database client tool with sophisticated and animated UI](https://www.reddit.com/r/javascript/comments/ugm0el/database_client_tool_with_sophisticated_and/)
-- [[AskJS] Can anyone recommend a JS physics library for generating explosive blobs/flowing blobs?](https://www.reddit.com/r/javascript/comments/ugj0nh/askjs_can_anyone_recommend_a_js_physics_library/)
-- [[AskJS] Does anyone use jQuery anymore?](https://www.reddit.com/r/javascript/comments/ug9w8o/askjs_does_anyone_use_jquery_anymore/)
-- [Dashibase Beta is now free &lpar;and still open-source&rpar;!](https://www.reddit.com/r/javascript/comments/ug511u/dashibase_beta_is_now_free_and_still_opensource/)
-- [Javascript Open Source and free Code Security and Quality Scanning](https://www.reddit.com/r/javascript/comments/ug48u9/javascript_open_source_and_free_code_security_and/)
-- [Setting up a superfast CI with the brand new Vitest and GitHub Actions.](https://www.reddit.com/r/javascript/comments/ug1l07/setting_up_a_superfast_ci_with_the_brand_new/)
-- [[AskJS] do you still need to learn redux since React already have useContext?](https://www.reddit.com/r/javascript/comments/ug1ksg/askjs_do_you_still_need_to_learn_redux_since/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
