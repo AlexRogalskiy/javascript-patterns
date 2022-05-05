@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Current Issues with Jest Output and Workflow](https://www.reddit.com/r/javascript/comments/uhoyvq/askjs_current_issues_with_jest_output_and_workflow/)
-- [FormKit — Vue 3 Forms, Supercharged](https://www.reddit.com/r/javascript/comments/uhnhh4/formkit_vue_3_forms_supercharged/)
-- [JavaScript&#39;s Dependency Problem](https://www.reddit.com/r/javascript/comments/uhjjbg/javascripts_dependency_problem/)
-- [Squeak! - Open-source embeddable Q&amp;A for every page of your docs](https://www.reddit.com/r/javascript/comments/uhiche/squeak_opensource_embeddable_qa_for_every_page_of/)
-- [NextJS / React SSR: 21 Universal Data Fetching Patterns &amp; Best Practices](https://www.reddit.com/r/javascript/comments/uhhn1r/nextjs_react_ssr_21_universal_data_fetching/)
-- [8 JavaScript quiz that may confuse you](https://www.reddit.com/r/javascript/comments/uhgi9i/8_javascript_quiz_that_may_confuse_you/)
-- [depgrapher: Fast Dependency Analysis for Javascript using unix tools](https://www.reddit.com/r/javascript/comments/uhfvy1/depgrapher_fast_dependency_analysis_for/)
-- [[AskJS] best carousel library.](https://www.reddit.com/r/javascript/comments/uhfnkn/askjs_best_carousel_library/)
-- [Why I don&#39;t miss React: a story about using the platform](https://www.reddit.com/r/javascript/comments/uhamul/why_i_dont_miss_react_a_story_about_using_the/)
-- [Starbeam – A library for building reactive data systems](https://www.reddit.com/r/javascript/comments/uguzhh/starbeam_a_library_for_building_reactive_data/)
+- [[AskJS] DSA and OOP in JS/TS](https://www.reddit.com/r/javascript/comments/uiffvv/askjs_dsa_and_oop_in_jsts/)
+- [Javascript Containers](https://www.reddit.com/r/javascript/comments/uidxwi/javascript_containers/)
+- [Migrating a React app to the new Google sign in library](https://www.reddit.com/r/javascript/comments/uid13v/migrating_a_react_app_to_the_new_google_sign_in/)
+- [Developing a visual form builder which spits out React&#39;s JSX + JSON schema](https://www.reddit.com/r/javascript/comments/ui9dzq/developing_a_visual_form_builder_which_spits_out/)
+- [JavaScript Refactoring Gotchas: 5 Ways Converting to Optional Chaining Can Break Your Code](https://www.reddit.com/r/javascript/comments/ui8wxw/javascript_refactoring_gotchas_5_ways_converting/)
+- [Storybook Performance: Vite vs Webpack](https://www.reddit.com/r/javascript/comments/ui8j6w/storybook_performance_vite_vs_webpack/)
+- [New Node.js 16-18 features include global tech API and test runner. New features overview with practical examples.](https://www.reddit.com/r/javascript/comments/ui7yye/new_nodejs_1618_features_include_global_tech_api/)
+- [I tried out vitest and Vitest UI, and loved it! Doing TDD with this tool really speeds up development! I created a short review of this amazing tool for you to also try it out!](https://www.reddit.com/r/javascript/comments/ui6t36/i_tried_out_vitest_and_vitest_ui_and_loved_it/)
+- [[AskJS] Isn’t spread also a form of destructuring?](https://www.reddit.com/r/javascript/comments/ui6c1k/askjs_isnt_spread_also_a_form_of_destructuring/)
+- [Vanilla JavScript TodoMVC App in 2022](https://www.reddit.com/r/javascript/comments/ui6aiq/vanilla_javscript_todomvc_app_in_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
