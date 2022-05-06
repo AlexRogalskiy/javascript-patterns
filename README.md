@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] DSA and OOP in JS/TS](https://www.reddit.com/r/javascript/comments/uiffvv/askjs_dsa_and_oop_in_jsts/)
-- [Javascript Containers](https://www.reddit.com/r/javascript/comments/uidxwi/javascript_containers/)
-- [Migrating a React app to the new Google sign in library](https://www.reddit.com/r/javascript/comments/uid13v/migrating_a_react_app_to_the_new_google_sign_in/)
-- [Developing a visual form builder which spits out React&#39;s JSX + JSON schema](https://www.reddit.com/r/javascript/comments/ui9dzq/developing_a_visual_form_builder_which_spits_out/)
-- [JavaScript Refactoring Gotchas: 5 Ways Converting to Optional Chaining Can Break Your Code](https://www.reddit.com/r/javascript/comments/ui8wxw/javascript_refactoring_gotchas_5_ways_converting/)
-- [Storybook Performance: Vite vs Webpack](https://www.reddit.com/r/javascript/comments/ui8j6w/storybook_performance_vite_vs_webpack/)
-- [New Node.js 16-18 features include global tech API and test runner. New features overview with practical examples.](https://www.reddit.com/r/javascript/comments/ui7yye/new_nodejs_1618_features_include_global_tech_api/)
-- [I tried out vitest and Vitest UI, and loved it! Doing TDD with this tool really speeds up development! I created a short review of this amazing tool for you to also try it out!](https://www.reddit.com/r/javascript/comments/ui6t36/i_tried_out_vitest_and_vitest_ui_and_loved_it/)
-- [[AskJS] Isn’t spread also a form of destructuring?](https://www.reddit.com/r/javascript/comments/ui6c1k/askjs_isnt_spread_also_a_form_of_destructuring/)
-- [Vanilla JavScript TodoMVC App in 2022](https://www.reddit.com/r/javascript/comments/ui6aiq/vanilla_javscript_todomvc_app_in_2022/)
+- [Babylon.js 5.0 - quite simply the biggest, boldest, and most ambitious update to the platform to date. From full support of WebGPU, to the ability to deploy experiences across platforms with Native Capabilities, to more tools, features, and improvements than you can count](https://www.reddit.com/r/javascript/comments/uj7liw/babylonjs_50_quite_simply_the_biggest_boldest_and/)
+- [A Scalable Integrations Story With Asana, Google Calendar, and EveryAuth](https://www.reddit.com/r/javascript/comments/uj61cf/a_scalable_integrations_story_with_asana_google/)
+- [The Thing About Fastify](https://www.reddit.com/r/javascript/comments/uj6162/the_thing_about_fastify/)
+- [Knowledge is like a house of cards, or how to become better at debugging](https://www.reddit.com/r/javascript/comments/uj4kqi/knowledge_is_like_a_house_of_cards_or_how_to/)
+- [JavaScript for R](https://www.reddit.com/r/javascript/comments/uj3enn/javascript_for_r/)
+- [Visual Studio Code April 2022](https://www.reddit.com/r/javascript/comments/uj34qb/visual_studio_code_april_2022/)
+- [Nestia, automatic SDK and swagger.json generator](https://www.reddit.com/r/javascript/comments/uj1yht/nestia_automatic_sdk_and_swaggerjson_generator/)
+- [Fuzzing Framework for Typescript](https://www.reddit.com/r/javascript/comments/uj198u/fuzzing_framework_for_typescript/)
+- [Local File Access from the Web using C# and Wisej.NET](https://www.reddit.com/r/javascript/comments/uj113a/local_file_access_from_the_web_using_c_and/)
+- [MockRTC – a mock peer and MitM proxy library for WebRTC](https://www.reddit.com/r/javascript/comments/uizkta/mockrtc_a_mock_peer_and_mitm_proxy_library_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
