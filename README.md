@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Will JavaScript containers overtake Linux containers?](https://www.infoworld.com/article/3660069/will-javascript-containers-overtake-linux-containers.html#tk.rss_javascript)
 - [PyScript brings Python into the browser, more easily than ever](https://www.infoworld.com/article/3658994/pyscript-brings-python-into-the-browser-more-easily-than-ever.html#tk.rss_javascript)
 - [Deno 1.21 improves REPL, error handling](https://www.infoworld.com/article/3659188/deno-121-improves-repl-error-handling.html#tk.rss_javascript)
 - [8 great new JavaScript language features in ES12](https://www.infoworld.com/article/3658393/8-great-new-javascript-language-features-in-es12.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Node.js 18 updates OpenSSL support, enables fetch API](https://www.infoworld.com/article/3657636/nodejs-18-updates-openssl-support-enables-fetch-api.html#tk.rss_javascript)
 - [Clojure meets Dart in ClojureDart](https://www.infoworld.com/article/3657759/clojure-meets-dart-in-clojuredart.html#tk.rss_javascript)
 - [TypeScript 4.7 adds ESM support in Node.js](https://www.infoworld.com/article/3656801/typescript-47-adds-esm-support-in-nodejs.html#tk.rss_javascript)
-- [Redwood web framework hits 1.0 release milestone](https://www.infoworld.com/article/3657049/redwood-web-framework-hits-10-release-milestone.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
