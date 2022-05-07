@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Event Listener for only left click](https://www.reddit.com/r/javascript/comments/uk15mo/askjs_event_listener_for_only_left_click/)
+- [CachedLookup 4.0.0: Now With Intermittent Caching For Multiple Sets Of Arguments!](https://www.reddit.com/r/javascript/comments/ujw6v4/cachedlookup_400_now_with_intermittent_caching/)
+- [A City in a Bottle](https://www.reddit.com/r/javascript/comments/ujt5uo/a_city_in_a_bottle/)
 - [Babylon.js 5.0 - quite simply the biggest, boldest, and most ambitious update to the platform to date. From full support of WebGPU, to the ability to deploy experiences across platforms with Native Capabilities, to more tools, features, and improvements than you can count](https://www.reddit.com/r/javascript/comments/uj7liw/babylonjs_50_quite_simply_the_biggest_boldest_and/)
 - [A Scalable Integrations Story With Asana, Google Calendar, and EveryAuth](https://www.reddit.com/r/javascript/comments/uj61cf/a_scalable_integrations_story_with_asana_google/)
 - [The Thing About Fastify](https://www.reddit.com/r/javascript/comments/uj6162/the_thing_about_fastify/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [JavaScript for R](https://www.reddit.com/r/javascript/comments/uj3enn/javascript_for_r/)
 - [Visual Studio Code April 2022](https://www.reddit.com/r/javascript/comments/uj34qb/visual_studio_code_april_2022/)
 - [Nestia, automatic SDK and swagger.json generator](https://www.reddit.com/r/javascript/comments/uj1yht/nestia_automatic_sdk_and_swaggerjson_generator/)
-- [Fuzzing Framework for Typescript](https://www.reddit.com/r/javascript/comments/uj198u/fuzzing_framework_for_typescript/)
-- [Local File Access from the Web using C# and Wisej.NET](https://www.reddit.com/r/javascript/comments/uj113a/local_file_access_from_the_web_using_c_and/)
-- [MockRTC – a mock peer and MitM proxy library for WebRTC](https://www.reddit.com/r/javascript/comments/uizkta/mockrtc_a_mock_peer_and_mitm_proxy_library_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
