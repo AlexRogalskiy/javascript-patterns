@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I made a simple typing game with NextJS](https://www.reddit.com/r/javascript/comments/ulhkkk/i_made_a_simple_typing_game_with_nextjs/)
-- [13 Best JavaScript books for beginners to advanced to read in 2022 -](https://www.reddit.com/r/javascript/comments/ulf1hv/13_best_javascript_books_for_beginners_to/)
-- [[AskJS] What is the opinion about NestJS here?](https://www.reddit.com/r/javascript/comments/ul6r0e/askjs_what_is_the_opinion_about_nestjs_here/)
-- [Platform.js - Check which browser you&#39;re using and look up information about it using](https://www.reddit.com/r/javascript/comments/ul5db3/platformjs_check_which_browser_youre_using_and/)
-- [The node.js addon of nanoid written in Rust &lpar;42.69% faster&rpar;](https://www.reddit.com/r/javascript/comments/ul3non/the_nodejs_addon_of_nanoid_written_in_rust_4269/)
-- [Cucumber-js, why are you poluting my work environment, my CI and my terminal with advertisement?](https://www.reddit.com/r/javascript/comments/ukw2c1/cucumberjs_why_are_you_poluting_my_work/)
-- [High Performance JavaScript Desktop App: Image Diff](https://www.reddit.com/r/javascript/comments/ukr71a/high_performance_javascript_desktop_app_image_diff/)
-- [A gentle introduction to js performance profiler](https://www.reddit.com/r/javascript/comments/ukmcdi/a_gentle_introduction_to_js_performance_profiler/)
-- [TinySource - Completely free TS/JS one-file source code snippets with tests, which can be copied to avoid extra dependencies &lpar;contributions welcome&rpar;.](https://www.reddit.com/r/javascript/comments/uklzrc/tinysource_completely_free_tsjs_onefile_source/)
-- [How to stop synchronous code in a web worker?](https://www.reddit.com/r/javascript/comments/ukke18/how_to_stop_synchronous_code_in_a_web_worker/)
+- [&quot;Developers do nothing good after 45 hours of work.&quot; Fun conversation with head developer of Netflix on the dumbest things engineering orgs do to kill productivity - they really take a crap on retros.](https://www.reddit.com/r/javascript/comments/um689c/developers_do_nothing_good_after_45_hours_of_work/)
+- [I made my first npm package. A super light weight DOM manipulation library.](https://www.reddit.com/r/javascript/comments/um3nef/i_made_my_first_npm_package_a_super_light_weight/)
+- [What Does Freud Think About Your JavaScript Functions?](https://www.reddit.com/r/javascript/comments/ulynmw/what_does_freud_think_about_your_javascript/)
+- [Ryan Dahl on JavaScript Containers](https://www.reddit.com/r/javascript/comments/ulyn9o/ryan_dahl_on_javascript_containers/)
+- [[AskJS] I bought an online course where the teacher promised pdf files. But files can&#39;t be download as they don&#39;t have any download option. Save as and print don&#39;t work. Webpage showing the file has url ending with pdfjs/web/viewer.php?file=test123.pptx.pdf Is there any way i could save the files?](https://www.reddit.com/r/javascript/comments/ulyfvt/askjs_i_bought_an_online_course_where_the_teacher/)
+- [Write SQL, not niche query builder APIs](https://www.reddit.com/r/javascript/comments/ulxpnu/write_sql_not_niche_query_builder_apis/)
+- [Ultimate Guide to Backend Developer Career Paths [Templates]](https://www.reddit.com/r/javascript/comments/ulwomk/ultimate_guide_to_backend_developer_career_paths/)
+- [Colors design inspiration websites.](https://www.reddit.com/r/javascript/comments/ulw9vp/colors_design_inspiration_websites/)
+- [I made a tool to generate Gradient Color Image](https://www.reddit.com/r/javascript/comments/ulup0h/i_made_a_tool_to_generate_gradient_color_image/)
+- [A Community Group for Web-interoperable JavaScript runtimes](https://www.reddit.com/r/javascript/comments/ulte2k/a_community_group_for_webinteroperable_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
