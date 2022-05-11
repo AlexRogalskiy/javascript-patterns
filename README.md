@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [&quot;Developers do nothing good after 45 hours of work.&quot; Fun conversation with head developer of Netflix on the dumbest things engineering orgs do to kill productivity - they really take a crap on retros.](https://www.reddit.com/r/javascript/comments/um689c/developers_do_nothing_good_after_45_hours_of_work/)
-- [I made my first npm package. A super light weight DOM manipulation library.](https://www.reddit.com/r/javascript/comments/um3nef/i_made_my_first_npm_package_a_super_light_weight/)
-- [What Does Freud Think About Your JavaScript Functions?](https://www.reddit.com/r/javascript/comments/ulynmw/what_does_freud_think_about_your_javascript/)
-- [Ryan Dahl on JavaScript Containers](https://www.reddit.com/r/javascript/comments/ulyn9o/ryan_dahl_on_javascript_containers/)
-- [[AskJS] I bought an online course where the teacher promised pdf files. But files can&#39;t be download as they don&#39;t have any download option. Save as and print don&#39;t work. Webpage showing the file has url ending with pdfjs/web/viewer.php?file=test123.pptx.pdf Is there any way i could save the files?](https://www.reddit.com/r/javascript/comments/ulyfvt/askjs_i_bought_an_online_course_where_the_teacher/)
-- [Write SQL, not niche query builder APIs](https://www.reddit.com/r/javascript/comments/ulxpnu/write_sql_not_niche_query_builder_apis/)
-- [Ultimate Guide to Backend Developer Career Paths [Templates]](https://www.reddit.com/r/javascript/comments/ulwomk/ultimate_guide_to_backend_developer_career_paths/)
-- [Colors design inspiration websites.](https://www.reddit.com/r/javascript/comments/ulw9vp/colors_design_inspiration_websites/)
-- [I made a tool to generate Gradient Color Image](https://www.reddit.com/r/javascript/comments/ulup0h/i_made_a_tool_to_generate_gradient_color_image/)
-- [A Community Group for Web-interoperable JavaScript runtimes](https://www.reddit.com/r/javascript/comments/ulte2k/a_community_group_for_webinteroperable_javascript/)
+- [[AskJS] Returning new Promise vs. returning Promise.resolve&lpar;&rpar;](https://www.reddit.com/r/javascript/comments/umvle3/askjs_returning_new_promise_vs_returning/)
+- [[AskJS] Is it possible to set an automatic breakpoint when a request resolves?](https://www.reddit.com/r/javascript/comments/umue9o/askjs_is_it_possible_to_set_an_automatic/)
+- [[AskJS] Picking a name for my OAuth2 library](https://www.reddit.com/r/javascript/comments/umqrkz/askjs_picking_a_name_for_my_oauth2_library/)
+- [How FedEx Influenced the React Logo](https://www.reddit.com/r/javascript/comments/umof77/how_fedex_influenced_the_react_logo/)
+- [JSON tree viewer](https://www.reddit.com/r/javascript/comments/ummya6/json_tree_viewer/)
+- [My hook-based state management library for React just got Redux DevTools support and a new DEMO page. Check it out!](https://www.reddit.com/r/javascript/comments/umj90x/my_hookbased_state_management_library_for_react/)
+- [Motion DevTools](https://www.reddit.com/r/javascript/comments/umj61h/motion_devtools/)
+- [[AskJS] Cloud Computing as JS developer](https://www.reddit.com/r/javascript/comments/umf0kc/askjs_cloud_computing_as_js_developer/)
+- [What&#39;s new with NodeJS 18 - A Deeper Look Into the Newest Version and Its Features](https://www.reddit.com/r/javascript/comments/umcf4m/whats_new_with_nodejs_18_a_deeper_look_into_the/)
+- [Why I&#39;m ditching Axios &lpar;Spoiler: I moved to Wretch!&rpar;](https://www.reddit.com/r/javascript/comments/um8ay6/why_im_ditching_axios_spoiler_i_moved_to_wretch/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
