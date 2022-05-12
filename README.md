@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Returning new Promise vs. returning Promise.resolve&lpar;&rpar;](https://www.reddit.com/r/javascript/comments/umvle3/askjs_returning_new_promise_vs_returning/)
-- [[AskJS] Is it possible to set an automatic breakpoint when a request resolves?](https://www.reddit.com/r/javascript/comments/umue9o/askjs_is_it_possible_to_set_an_automatic/)
-- [[AskJS] Picking a name for my OAuth2 library](https://www.reddit.com/r/javascript/comments/umqrkz/askjs_picking_a_name_for_my_oauth2_library/)
-- [How FedEx Influenced the React Logo](https://www.reddit.com/r/javascript/comments/umof77/how_fedex_influenced_the_react_logo/)
-- [JSON tree viewer](https://www.reddit.com/r/javascript/comments/ummya6/json_tree_viewer/)
-- [My hook-based state management library for React just got Redux DevTools support and a new DEMO page. Check it out!](https://www.reddit.com/r/javascript/comments/umj90x/my_hookbased_state_management_library_for_react/)
-- [Motion DevTools](https://www.reddit.com/r/javascript/comments/umj61h/motion_devtools/)
-- [[AskJS] Cloud Computing as JS developer](https://www.reddit.com/r/javascript/comments/umf0kc/askjs_cloud_computing_as_js_developer/)
-- [What&#39;s new with NodeJS 18 - A Deeper Look Into the Newest Version and Its Features](https://www.reddit.com/r/javascript/comments/umcf4m/whats_new_with_nodejs_18_a_deeper_look_into_the/)
-- [Why I&#39;m ditching Axios &lpar;Spoiler: I moved to Wretch!&rpar;](https://www.reddit.com/r/javascript/comments/um8ay6/why_im_ditching_axios_spoiler_i_moved_to_wretch/)
+- [Announcing TypeScript 4.7 RC](https://www.reddit.com/r/javascript/comments/unlc7m/announcing_typescript_47_rc/)
+- [[AskJS] Which is the best platform to learn JS?](https://www.reddit.com/r/javascript/comments/unjtzb/askjs_which_is_the_best_platform_to_learn_js/)
+- [Meta Open Source is transferring Jest to the OpenJS Foundation](https://www.reddit.com/r/javascript/comments/unezaf/meta_open_source_is_transferring_jest_to_the/)
+- [Markdoc: Stripe&#39;s Markdown-based authoring framework](https://www.reddit.com/r/javascript/comments/unegug/markdoc_stripes_markdownbased_authoring_framework/)
+- [Best &amp; trendiest Free Chakra UI Components! [React.js]](https://www.reddit.com/r/javascript/comments/unda6q/best_trendiest_free_chakra_ui_components_reactjs/)
+- [Why I avoid async/await in JS](https://www.reddit.com/r/javascript/comments/und6rq/why_i_avoid_asyncawait_in_js/)
+- [Cropperjs - Image Cropper Tool](https://www.reddit.com/r/javascript/comments/und164/cropperjs_image_cropper_tool/)
+- [The Web Beyond Browsers](https://www.reddit.com/r/javascript/comments/unce6h/the_web_beyond_browsers/)
+- [[AskJS] Popular CAD model interaction Frameworks?](https://www.reddit.com/r/javascript/comments/unbv09/askjs_popular_cad_model_interaction_frameworks/)
+- [[AskJS] Style question: enabling/disabling clicks](https://www.reddit.com/r/javascript/comments/un5uz7/askjs_style_question_enablingdisabling_clicks/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
