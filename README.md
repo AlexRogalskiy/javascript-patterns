@@ -352,6 +352,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *javascript programmer posts*
 
 <!-- METEOR-POST-LIST:START -->
+- [Meteor 2.7.2 and the new Tailwind skeleton](https://blog.meteor.com/meteor-2-7-2-and-the-new-tailwind-skeleton-68ccde68af42?source=rss----a9bcaf865278---4)
 - [Meteor Monthly Update — April 2022](https://blog.meteor.com/meteor-monthly-update-april-2022-89443b0078f3?source=rss----a9bcaf865278---4)
 - [How Sessionwire Uses Meteor To Connect Remote Music Makers](https://blog.meteor.com/how-sessionwire-uses-meteor-to-connect-remote-music-makers-ccb7178b0653?source=rss----a9bcaf865278---4)
 - [Meteor Social Login with GitHub](https://blog.meteor.com/meteor-social-login-with-github-1b48d04c332?source=rss----a9bcaf865278---4)
@@ -361,7 +362,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Using 2FA in your Meteor app](https://blog.meteor.com/using-2fa-in-your-meteor-app-25e1e6ecd7d4?source=rss----a9bcaf865278---4)
 - [Meteor Monthly Update — March 2022](https://blog.meteor.com/meteor-monthly-update-march-2022-b3797dfd5f3a?source=rss----a9bcaf865278---4)
 - [Meteor + Vue JS + Storybook = A Complete Guide To Scalable UI System](https://blog.meteor.com/meteor-vue-js-storybook-a-complete-guide-to-scalable-ui-system-eee99647531a?source=rss----a9bcaf865278---4)
-- [Meteor 2.6 and Mongo](https://blog.meteor.com/meteor-2-6-and-mongo-348fb2287716?source=rss----a9bcaf865278---4)
 <!-- METEOR-POST-LIST:END -->
 
 ### *Dreamix posts*
