@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Announcing TypeScript 4.7 RC](https://www.reddit.com/r/javascript/comments/unlc7m/announcing_typescript_47_rc/)
-- [[AskJS] Which is the best platform to learn JS?](https://www.reddit.com/r/javascript/comments/unjtzb/askjs_which_is_the_best_platform_to_learn_js/)
-- [Meta Open Source is transferring Jest to the OpenJS Foundation](https://www.reddit.com/r/javascript/comments/unezaf/meta_open_source_is_transferring_jest_to_the/)
-- [Markdoc: Stripe&#39;s Markdown-based authoring framework](https://www.reddit.com/r/javascript/comments/unegug/markdoc_stripes_markdownbased_authoring_framework/)
-- [Best &amp; trendiest Free Chakra UI Components! [React.js]](https://www.reddit.com/r/javascript/comments/unda6q/best_trendiest_free_chakra_ui_components_reactjs/)
-- [Why I avoid async/await in JS](https://www.reddit.com/r/javascript/comments/und6rq/why_i_avoid_asyncawait_in_js/)
-- [Cropperjs - Image Cropper Tool](https://www.reddit.com/r/javascript/comments/und164/cropperjs_image_cropper_tool/)
-- [The Web Beyond Browsers](https://www.reddit.com/r/javascript/comments/unce6h/the_web_beyond_browsers/)
-- [[AskJS] Popular CAD model interaction Frameworks?](https://www.reddit.com/r/javascript/comments/unbv09/askjs_popular_cad_model_interaction_frameworks/)
-- [[AskJS] Style question: enabling/disabling clicks](https://www.reddit.com/r/javascript/comments/un5uz7/askjs_style_question_enablingdisabling_clicks/)
+- [Word Quake - write words, avoid the shakes, powered by Tesseract.js](https://www.reddit.com/r/javascript/comments/uohqqm/word_quake_write_words_avoid_the_shakes_powered/)
+- [My first ever post as software engineer](https://www.reddit.com/r/javascript/comments/uoh7g3/my_first_ever_post_as_software_engineer/)
+- [Passion project: CSS animation editor tool. Try it out. Feedback welcome! &lpar;Work in progress, Chrome only&rpar;.](https://www.reddit.com/r/javascript/comments/uofju5/passion_project_css_animation_editor_tool_try_it/)
+- [[AskJS] HTML multistep form with automatic transition upon detecting a value](https://www.reddit.com/r/javascript/comments/uofiaq/askjs_html_multistep_form_with_automatic/)
+- [[AskJS] I am looking for a new text editor](https://www.reddit.com/r/javascript/comments/uo8oul/askjs_i_am_looking_for_a_new_text_editor/)
+- [Improved Process Isolation in Firefox 100](https://www.reddit.com/r/javascript/comments/uo73gw/improved_process_isolation_in_firefox_100/)
+- [Favorite JavaScript Utilities in single line of code! No more!](https://www.reddit.com/r/javascript/comments/uo60yj/favorite_javascript_utilities_in_single_line_of/)
+- [Don&#39;t Forget to do this if you&#39;re using MongoDB](https://www.reddit.com/r/javascript/comments/uo60tf/dont_forget_to_do_this_if_youre_using_mongodb/)
+- [The road to universal JavaScript](https://www.reddit.com/r/javascript/comments/uo50g3/the_road_to_universal_javascript/)
+- [New Typosquatting Attack on npm Package ‘colors’ Using Cross-language Technique Explained](https://www.reddit.com/r/javascript/comments/uo3eog/new_typosquatting_attack_on_npm_package_colors/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
