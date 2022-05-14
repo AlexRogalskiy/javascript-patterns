@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Word Quake - write words, avoid the shakes, powered by Tesseract.js](https://www.reddit.com/r/javascript/comments/uohqqm/word_quake_write_words_avoid_the_shakes_powered/)
-- [My first ever post as software engineer](https://www.reddit.com/r/javascript/comments/uoh7g3/my_first_ever_post_as_software_engineer/)
-- [Passion project: CSS animation editor tool. Try it out. Feedback welcome! &lpar;Work in progress, Chrome only&rpar;.](https://www.reddit.com/r/javascript/comments/uofju5/passion_project_css_animation_editor_tool_try_it/)
-- [[AskJS] HTML multistep form with automatic transition upon detecting a value](https://www.reddit.com/r/javascript/comments/uofiaq/askjs_html_multistep_form_with_automatic/)
-- [[AskJS] I am looking for a new text editor](https://www.reddit.com/r/javascript/comments/uo8oul/askjs_i_am_looking_for_a_new_text_editor/)
-- [Improved Process Isolation in Firefox 100](https://www.reddit.com/r/javascript/comments/uo73gw/improved_process_isolation_in_firefox_100/)
-- [Favorite JavaScript Utilities in single line of code! No more!](https://www.reddit.com/r/javascript/comments/uo60yj/favorite_javascript_utilities_in_single_line_of/)
-- [Don&#39;t Forget to do this if you&#39;re using MongoDB](https://www.reddit.com/r/javascript/comments/uo60tf/dont_forget_to_do_this_if_youre_using_mongodb/)
-- [The road to universal JavaScript](https://www.reddit.com/r/javascript/comments/uo50g3/the_road_to_universal_javascript/)
-- [New Typosquatting Attack on npm Package ‘colors’ Using Cross-language Technique Explained](https://www.reddit.com/r/javascript/comments/uo3eog/new_typosquatting_attack_on_npm_package_colors/)
+- [A didactic CPU built w/ JavaScript](https://www.reddit.com/r/javascript/comments/up878o/a_didactic_cpu_built_w_javascript/)
+- [CTA Modal: How To Build A Web Component](https://www.reddit.com/r/javascript/comments/up4683/cta_modal_how_to_build_a_web_component/)
+- [[AskJS] Creating a 30 second countdown timer](https://www.reddit.com/r/javascript/comments/uozt8d/askjs_creating_a_30_second_countdown_timer/)
+- [Micro KISSing PHP with Vue - Or, transitioning from PHP-rendered pages to Vue with KISS micro-frontends](https://www.reddit.com/r/javascript/comments/uoxrlc/micro_kissing_php_with_vue_or_transitioning_from/)
+- [FormKit - Build Vue 3 forms 10x faster. A Vue form building framework that simplifies form structure, generation, validation, theming, submission, error handling, and more](https://www.reddit.com/r/javascript/comments/uov756/formkit_build_vue_3_forms_10x_faster_a_vue_form/)
+- [React may be getting a new hook — useEvent](https://www.reddit.com/r/javascript/comments/uou5k5/react_may_be_getting_a_new_hook_useevent/)
+- [Building an animated piano keyboard with JavaScript and MIDI](https://www.reddit.com/r/javascript/comments/uosai1/building_an_animated_piano_keyboard_with/)
+- [Top JavaScript Frameworks to Use in 2022](https://www.reddit.com/r/javascript/comments/uos1ur/top_javascript_frameworks_to_use_in_2022/)
+- [Building a Musical Instrument with the Web Audio API](https://www.reddit.com/r/javascript/comments/uorylf/building_a_musical_instrument_with_the_web_audio/)
+- [[AskJS] override property accessor](https://www.reddit.com/r/javascript/comments/uor475/askjs_override_property_accessor/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
