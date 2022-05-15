@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Comparing Astro and Next for React apps](https://www.reddit.com/r/javascript/comments/upj6i7/comparing_astro_and_next_for_react_apps/)
+- [How to Persist Web App Data in the User File System? We are going to build a text editor to save and open text files from the file system.](https://www.reddit.com/r/javascript/comments/upix1d/how_to_persist_web_app_data_in_the_user_file/)
+- [[AskJS] Next vs Blitz vs Remix. Which fullstack JS framework to select?](https://www.reddit.com/r/javascript/comments/upgl01/askjs_next_vs_blitz_vs_remix_which_fullstack_js/)
+- [Showoff Saturday &lpar;May 14, 2022&rpar;](https://www.reddit.com/r/javascript/comments/upbn9l/showoff_saturday_may_14_2022/)
+- [Step by step guide on creating a Microfrontend in Angular using Module Federation](https://www.reddit.com/r/javascript/comments/upbg9w/step_by_step_guide_on_creating_a_microfrontend_in/)
+- [Great JavaScript bloggers to follow in 2022](https://www.reddit.com/r/javascript/comments/upb4x2/great_javascript_bloggers_to_follow_in_2022/)
 - [A didactic CPU built w/ JavaScript](https://www.reddit.com/r/javascript/comments/up878o/a_didactic_cpu_built_w_javascript/)
 - [CTA Modal: How To Build A Web Component](https://www.reddit.com/r/javascript/comments/up4683/cta_modal_how_to_build_a_web_component/)
 - [[AskJS] Creating a 30 second countdown timer](https://www.reddit.com/r/javascript/comments/uozt8d/askjs_creating_a_30_second_countdown_timer/)
 - [Micro KISSing PHP with Vue - Or, transitioning from PHP-rendered pages to Vue with KISS micro-frontends](https://www.reddit.com/r/javascript/comments/uoxrlc/micro_kissing_php_with_vue_or_transitioning_from/)
-- [FormKit - Build Vue 3 forms 10x faster. A Vue form building framework that simplifies form structure, generation, validation, theming, submission, error handling, and more](https://www.reddit.com/r/javascript/comments/uov756/formkit_build_vue_3_forms_10x_faster_a_vue_form/)
-- [React may be getting a new hook — useEvent](https://www.reddit.com/r/javascript/comments/uou5k5/react_may_be_getting_a_new_hook_useevent/)
-- [Building an animated piano keyboard with JavaScript and MIDI](https://www.reddit.com/r/javascript/comments/uosai1/building_an_animated_piano_keyboard_with/)
-- [Top JavaScript Frameworks to Use in 2022](https://www.reddit.com/r/javascript/comments/uos1ur/top_javascript_frameworks_to_use_in_2022/)
-- [Building a Musical Instrument with the Web Audio API](https://www.reddit.com/r/javascript/comments/uorylf/building_a_musical_instrument_with_the_web_audio/)
-- [[AskJS] override property accessor](https://www.reddit.com/r/javascript/comments/uor475/askjs_override_property_accessor/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
