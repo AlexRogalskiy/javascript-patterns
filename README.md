@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [The RUM principle - is a good guideline for programmers](https://www.reddit.com/r/javascript/comments/uqg7vr/the_rum_principle_is_a_good_guideline_for/)
-- [Trim the fat: tips for keeping bundle size small](https://www.reddit.com/r/javascript/comments/uqg3p5/trim_the_fat_tips_for_keeping_bundle_size_small/)
-- [Complete Guide to Multi-Provider OAuth 2 Authorization in Node.js](https://www.reddit.com/r/javascript/comments/uq6xmq/complete_guide_to_multiprovider_oauth_2/)
-- [Implementing Microservices in NodeJS](https://www.reddit.com/r/javascript/comments/uq3cre/implementing_microservices_in_nodejs/)
-- [Comparing Astro and Next for React apps](https://www.reddit.com/r/javascript/comments/upj6i7/comparing_astro_and_next_for_react_apps/)
-- [How to Persist Web App Data in the User File System? We are going to build a text editor to save and open text files from the file system.](https://www.reddit.com/r/javascript/comments/upix1d/how_to_persist_web_app_data_in_the_user_file/)
-- [[AskJS] Next vs Blitz vs Remix. Which fullstack JS framework to select?](https://www.reddit.com/r/javascript/comments/upgl01/askjs_next_vs_blitz_vs_remix_which_fullstack_js/)
-- [Showoff Saturday &lpar;May 14, 2022&rpar;](https://www.reddit.com/r/javascript/comments/upbn9l/showoff_saturday_may_14_2022/)
-- [Step by step guide on creating a Microfrontend in Angular using Module Federation](https://www.reddit.com/r/javascript/comments/upbg9w/step_by_step_guide_on_creating_a_microfrontend_in/)
-- [Great JavaScript bloggers to follow in 2022](https://www.reddit.com/r/javascript/comments/upb4x2/great_javascript_bloggers_to_follow_in_2022/)
+- [Preact Island - Sometimes you need to embed a component onto someone else&#39;s website, Preact Island helps you build these experiences by adding a lightweight layer on top of Preact. For &lt;5kB, you get a React style workflow &lpar;with hooks!&rpar;, and a framework for rendering your widget with reactive props](https://www.reddit.com/r/javascript/comments/ur5uy4/preact_island_sometimes_you_need_to_embed_a/)
+- [[AskJS] Real world physics code examples/open source projects?](https://www.reddit.com/r/javascript/comments/ur2ucf/askjs_real_world_physics_code_examplesopen_source/)
+- [I&#39;ve just published Astro Snipcart which allows for the creation of E-Commerce sites with the Astro framework and the Snipcart platform](https://www.reddit.com/r/javascript/comments/ur2rgi/ive_just_published_astro_snipcart_which_allows/)
+- [How to Create Modern Cards in Chakra UI &amp; React JS](https://www.reddit.com/r/javascript/comments/ur2h30/how_to_create_modern_cards_in_chakra_ui_react_js/)
+- [You don&#39;t need void 0 in JavaScript](https://www.reddit.com/r/javascript/comments/ur2bzd/you_dont_need_void_0_in_javascript/)
+- [[AskJS] Default-exports vs named-exports](https://www.reddit.com/r/javascript/comments/ur01fr/askjs_defaultexports_vs_namedexports/)
+- [[AskJS] A bytecode interpreter for a JavaScript-like dynamic language: Nystrom&#39;s Crafting Interpreters](https://www.reddit.com/r/javascript/comments/uqy6qp/askjs_a_bytecode_interpreter_for_a_javascriptlike/)
+- [When and How to use Async/Await?](https://www.reddit.com/r/javascript/comments/uqvbp0/when_and_how_to_use_asyncawait/)
+- [How we Build a Composable UI Component Library](https://www.reddit.com/r/javascript/comments/uquopy/how_we_build_a_composable_ui_component_library/)
+- [[AskJS] Reading from text file and storing into variable](https://www.reddit.com/r/javascript/comments/uquiiy/askjs_reading_from_text_file_and_storing_into/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
