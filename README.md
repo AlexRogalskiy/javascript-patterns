@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Creating a Aurora MySQL with CDK and TS](https://www.reddit.com/r/javascript/comments/us2edi/creating_a_aurora_mysql_with_cdk_and_ts/)
+- [Deno.js in production. Key takeaways.](https://www.reddit.com/r/javascript/comments/urxg0u/denojs_in_production_key_takeaways/)
+- [GitHub - itsrennyman/aurora: Introducing Aurora, Open Website Analytics. Collect Anonymous Data. Make your Audience Happy Now!](https://www.reddit.com/r/javascript/comments/urucuv/github_itsrennymanaurora_introducing_aurora_open/)
+- [Converting your vanilla JavaScript app to TypeScript](https://www.reddit.com/r/javascript/comments/urr4ki/converting_your_vanilla_javascript_app_to/)
+- [[AskJS] Regressiontesting NFC tags with phones?](https://www.reddit.com/r/javascript/comments/urnkmf/askjs_regressiontesting_nfc_tags_with_phones/)
+- [Mithril.js release a new version after nearly 3 years](https://www.reddit.com/r/javascript/comments/urn2yw/mithriljs_release_a_new_version_after_nearly_3/)
+- [LunchboxJS - a Vue 3 custom renderer for Three.js](https://www.reddit.com/r/javascript/comments/urmwo6/lunchboxjs_a_vue_3_custom_renderer_for_threejs/)
+- [Dark and light mode effect using HTML, CSS and JavaScript](https://www.reddit.com/r/javascript/comments/urdomq/dark_and_light_mode_effect_using_html_css_and/)
 - [Preact Island - Sometimes you need to embed a component onto someone else&#39;s website, Preact Island helps you build these experiences by adding a lightweight layer on top of Preact. For &lt;5kB, you get a React style workflow &lpar;with hooks!&rpar;, and a framework for rendering your widget with reactive props](https://www.reddit.com/r/javascript/comments/ur5uy4/preact_island_sometimes_you_need_to_embed_a/)
-- [[AskJS] Real world physics code examples/open source projects?](https://www.reddit.com/r/javascript/comments/ur2ucf/askjs_real_world_physics_code_examplesopen_source/)
 - [I&#39;ve just published Astro Snipcart which allows for the creation of E-Commerce sites with the Astro framework and the Snipcart platform](https://www.reddit.com/r/javascript/comments/ur2rgi/ive_just_published_astro_snipcart_which_allows/)
-- [How to Create Modern Cards in Chakra UI &amp; React JS](https://www.reddit.com/r/javascript/comments/ur2h30/how_to_create_modern_cards_in_chakra_ui_react_js/)
-- [You don&#39;t need void 0 in JavaScript](https://www.reddit.com/r/javascript/comments/ur2bzd/you_dont_need_void_0_in_javascript/)
-- [[AskJS] Default-exports vs named-exports](https://www.reddit.com/r/javascript/comments/ur01fr/askjs_defaultexports_vs_namedexports/)
-- [[AskJS] A bytecode interpreter for a JavaScript-like dynamic language: Nystrom&#39;s Crafting Interpreters](https://www.reddit.com/r/javascript/comments/uqy6qp/askjs_a_bytecode_interpreter_for_a_javascriptlike/)
-- [When and How to use Async/Await?](https://www.reddit.com/r/javascript/comments/uqvbp0/when_and_how_to_use_asyncawait/)
-- [How we Build a Composable UI Component Library](https://www.reddit.com/r/javascript/comments/uquopy/how_we_build_a_composable_ui_component_library/)
-- [[AskJS] Reading from text file and storing into variable](https://www.reddit.com/r/javascript/comments/uquiiy/askjs_reading_from_text_file_and_storing_into/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
