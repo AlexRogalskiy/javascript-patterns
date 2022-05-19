@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Creating a Aurora MySQL with CDK and TS](https://www.reddit.com/r/javascript/comments/us2edi/creating_a_aurora_mysql_with_cdk_and_ts/)
-- [Deno.js in production. Key takeaways.](https://www.reddit.com/r/javascript/comments/urxg0u/denojs_in_production_key_takeaways/)
-- [GitHub - itsrennyman/aurora: Introducing Aurora, Open Website Analytics. Collect Anonymous Data. Make your Audience Happy Now!](https://www.reddit.com/r/javascript/comments/urucuv/github_itsrennymanaurora_introducing_aurora_open/)
-- [Converting your vanilla JavaScript app to TypeScript](https://www.reddit.com/r/javascript/comments/urr4ki/converting_your_vanilla_javascript_app_to/)
-- [[AskJS] Regressiontesting NFC tags with phones?](https://www.reddit.com/r/javascript/comments/urnkmf/askjs_regressiontesting_nfc_tags_with_phones/)
-- [Mithril.js release a new version after nearly 3 years](https://www.reddit.com/r/javascript/comments/urn2yw/mithriljs_release_a_new_version_after_nearly_3/)
-- [LunchboxJS - a Vue 3 custom renderer for Three.js](https://www.reddit.com/r/javascript/comments/urmwo6/lunchboxjs_a_vue_3_custom_renderer_for_threejs/)
-- [Dark and light mode effect using HTML, CSS and JavaScript](https://www.reddit.com/r/javascript/comments/urdomq/dark_and_light_mode_effect_using_html_css_and/)
-- [Preact Island - Sometimes you need to embed a component onto someone else&#39;s website, Preact Island helps you build these experiences by adding a lightweight layer on top of Preact. For &lt;5kB, you get a React style workflow &lpar;with hooks!&rpar;, and a framework for rendering your widget with reactive props](https://www.reddit.com/r/javascript/comments/ur5uy4/preact_island_sometimes_you_need_to_embed_a/)
-- [I&#39;ve just published Astro Snipcart which allows for the creation of E-Commerce sites with the Astro framework and the Snipcart platform](https://www.reddit.com/r/javascript/comments/ur2rgi/ive_just_published_astro_snipcart_which_allows/)
+- [Python or JavaScript](https://www.reddit.com/r/javascript/comments/ustjxz/python_or_javascript/)
+- [My MVP of a Diary and notes app. Meet Work Diary](https://www.reddit.com/r/javascript/comments/ussqrj/my_mvp_of_a_diary_and_notes_app_meet_work_diary/)
+- [I made an interactive map showing the locations of found coins](https://www.reddit.com/r/javascript/comments/usn7pv/i_made_an_interactive_map_showing_the_locations/)
+- [Storybook 6.5 release](https://www.reddit.com/r/javascript/comments/usm57e/storybook_65_release/)
+- [TypePipe: a library for strongly typed pipelines with contexts](https://www.reddit.com/r/javascript/comments/usm293/typepipe_a_library_for_strongly_typed_pipelines/)
+- [Markdoc &lpar;Stripe&#39;s authoring framework&rpar; is now supported in Motif](https://www.reddit.com/r/javascript/comments/uskgek/markdoc_stripes_authoring_framework_is_now/)
+- [I made a &quot;Florida Man&quot; random headline generator](https://www.reddit.com/r/javascript/comments/usjeii/i_made_a_florida_man_random_headline_generator/)
+- [Vuestic UI 1.4.0, UI Framework for Vue 3, is out. Now it comes with Nuxt 3 support, carousel and counter components.](https://www.reddit.com/r/javascript/comments/usavtp/vuestic_ui_140_ui_framework_for_vue_3_is_out_now/)
+- [[AskJS] Record E2E tests in 2022. Best approaches?](https://www.reddit.com/r/javascript/comments/us9q3h/askjs_record_e2e_tests_in_2022_best_approaches/)
+- [WTF Wednesday &lpar;May 18, 2022&rpar;](https://www.reddit.com/r/javascript/comments/us6zg0/wtf_wednesday_may_18_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
