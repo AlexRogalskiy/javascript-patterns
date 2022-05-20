@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Developer survey: JavaScript and Python reign, but Rust is rising](https://www.infoworld.com/article/3661248/developer-survey-javascript-and-python-reign-but-rust-is-rising.html#tk.rss_javascript)
 - [Bootstrap 5.2.0 bolsters CSS, custom components](https://www.infoworld.com/article/3660498/bootstrap-520-bolsters-css-custom-components.html#tk.rss_javascript)
 - [TypeScript 4.7 adds ESM support in Node.js](https://www.infoworld.com/article/3656801/typescript-47-adds-esm-support-in-nodejs.html#tk.rss_javascript)
 - [Will JavaScript containers overtake Linux containers?](https://www.infoworld.com/article/3660069/will-javascript-containers-overtake-linux-containers.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [GraalVM speeds up native image builds](https://www.infoworld.com/article/3658988/graalvm-speeds-up-native-image-builds.html#tk.rss_javascript)
 - [Go serverless with Vercel, SvelteKit, and MongoDB](https://www.infoworld.com/article/3655952/go-serverless-with-vercel-sveltekit-and-mongodb.html#tk.rss_javascript)
 - [WebAssembly 2.0 begins to take shape](https://www.infoworld.com/article/3657593/webassembly-20-begins-to-take-shape.html#tk.rss_javascript)
-- [Node.js 18 updates OpenSSL support, enables fetch API](https://www.infoworld.com/article/3657636/nodejs-18-updates-openssl-support-enables-fetch-api.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
