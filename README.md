@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Analyzing The activation functions of common neural networks](https://www.reddit.com/r/javascript/comments/uth2qo/analyzing_the_activation_functions_of_common/)
+- [Croquet Woos JavaScript Devs with a Web-Based Metaverse](https://www.reddit.com/r/javascript/comments/utel5k/croquet_woos_javascript_devs_with_a_webbased/)
+- [Wave Function Collapse Wallpaper Generator, Fully Customisable, Any Resolution](https://www.reddit.com/r/javascript/comments/ut8zad/wave_function_collapse_wallpaper_generator_fully/)
+- [Automate accessibility tests with Storybook](https://www.reddit.com/r/javascript/comments/ut8dnd/automate_accessibility_tests_with_storybook/)
+- [Introducing AutoAnimate — Add motion to your apps with a single line of code](https://www.reddit.com/r/javascript/comments/ut7ier/introducing_autoanimate_add_motion_to_your_apps/)
+- [Making a Podcast Transcription Server with Express.js &lpar;source code in comments&rpar;](https://www.reddit.com/r/javascript/comments/ut48vg/making_a_podcast_transcription_server_with/)
+- [[AskJS] Vanilla Js vs React for Electron](https://www.reddit.com/r/javascript/comments/ut40ro/askjs_vanilla_js_vs_react_for_electron/)
+- [Thin Backend - Instant Postgres Backend for React/Vue/Svelte/... Apps with Realtime , Optimistic Updates &amp; Auto-generated TypeScript Bindings](https://www.reddit.com/r/javascript/comments/ut2oco/thin_backend_instant_postgres_backend_for/)
+- [Building a Mini Next.js](https://www.reddit.com/r/javascript/comments/ustw4x/building_a_mini_nextjs/)
 - [Python or JavaScript](https://www.reddit.com/r/javascript/comments/ustjxz/python_or_javascript/)
-- [My MVP of a Diary and notes app. Meet Work Diary](https://www.reddit.com/r/javascript/comments/ussqrj/my_mvp_of_a_diary_and_notes_app_meet_work_diary/)
-- [I made an interactive map showing the locations of found coins](https://www.reddit.com/r/javascript/comments/usn7pv/i_made_an_interactive_map_showing_the_locations/)
-- [Storybook 6.5 release](https://www.reddit.com/r/javascript/comments/usm57e/storybook_65_release/)
-- [TypePipe: a library for strongly typed pipelines with contexts](https://www.reddit.com/r/javascript/comments/usm293/typepipe_a_library_for_strongly_typed_pipelines/)
-- [Markdoc &lpar;Stripe&#39;s authoring framework&rpar; is now supported in Motif](https://www.reddit.com/r/javascript/comments/uskgek/markdoc_stripes_authoring_framework_is_now/)
-- [I made a &quot;Florida Man&quot; random headline generator](https://www.reddit.com/r/javascript/comments/usjeii/i_made_a_florida_man_random_headline_generator/)
-- [Vuestic UI 1.4.0, UI Framework for Vue 3, is out. Now it comes with Nuxt 3 support, carousel and counter components.](https://www.reddit.com/r/javascript/comments/usavtp/vuestic_ui_140_ui_framework_for_vue_3_is_out_now/)
-- [[AskJS] Record E2E tests in 2022. Best approaches?](https://www.reddit.com/r/javascript/comments/us9q3h/askjs_record_e2e_tests_in_2022_best_approaches/)
-- [WTF Wednesday &lpar;May 18, 2022&rpar;](https://www.reddit.com/r/javascript/comments/us6zg0/wtf_wednesday_may_18_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
