@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] What ide/ide combo should I use for js/html/css?](https://www.reddit.com/r/javascript/comments/uu8nws/askjs_what_ideide_combo_should_i_use_for_jshtmlcss/)
+- [JSON And The Stringification Oddities In JavaScript](https://www.reddit.com/r/javascript/comments/uu7u50/json_and_the_stringification_oddities_in/)
+- [Introduction To Convolutional Neural Network](https://www.reddit.com/r/javascript/comments/uu7ktj/introduction_to_convolutional_neural_network/)
+- [I spent the last month working on &quot;The Making of FlevaR: A Browser-Based JavaScript Game Engine&quot; highlighting why and how I went about developing a JavaScript game engine after the discontinuation of Flash games in web browsers at the end of 2020.](https://www.reddit.com/r/javascript/comments/uu375a/i_spent_the_last_month_working_on_the_making_of/)
+- [Aphrodite: ORM designed for Local-First applications and P2P data transfer](https://www.reddit.com/r/javascript/comments/uu1g3s/aphrodite_orm_designed_for_localfirst/)
+- [Capture the flag: A Node.js web app vulnerability practice](https://www.reddit.com/r/javascript/comments/utt5ch/capture_the_flag_a_nodejs_web_app_vulnerability/)
+- [Easily access nearby Bluetooth device using JavaScript and Web Serial API](https://www.reddit.com/r/javascript/comments/utosdj/easily_access_nearby_bluetooth_device_using/)
+- [React 18 adds onResize event to video elements](https://www.reddit.com/r/javascript/comments/utmelr/react_18_adds_onresize_event_to_video_elements/)
+- [You Can Extract Your Own Black Holes Using Old Javascript.](https://www.reddit.com/r/javascript/comments/utkesd/you_can_extract_your_own_black_holes_using_old/)
 - [Analyzing The activation functions of common neural networks](https://www.reddit.com/r/javascript/comments/uth2qo/analyzing_the_activation_functions_of_common/)
-- [Croquet Woos JavaScript Devs with a Web-Based Metaverse](https://www.reddit.com/r/javascript/comments/utel5k/croquet_woos_javascript_devs_with_a_webbased/)
-- [Wave Function Collapse Wallpaper Generator, Fully Customisable, Any Resolution](https://www.reddit.com/r/javascript/comments/ut8zad/wave_function_collapse_wallpaper_generator_fully/)
-- [Automate accessibility tests with Storybook](https://www.reddit.com/r/javascript/comments/ut8dnd/automate_accessibility_tests_with_storybook/)
-- [Introducing AutoAnimate — Add motion to your apps with a single line of code](https://www.reddit.com/r/javascript/comments/ut7ier/introducing_autoanimate_add_motion_to_your_apps/)
-- [Making a Podcast Transcription Server with Express.js &lpar;source code in comments&rpar;](https://www.reddit.com/r/javascript/comments/ut48vg/making_a_podcast_transcription_server_with/)
-- [[AskJS] Vanilla Js vs React for Electron](https://www.reddit.com/r/javascript/comments/ut40ro/askjs_vanilla_js_vs_react_for_electron/)
-- [Thin Backend - Instant Postgres Backend for React/Vue/Svelte/... Apps with Realtime , Optimistic Updates &amp; Auto-generated TypeScript Bindings](https://www.reddit.com/r/javascript/comments/ut2oco/thin_backend_instant_postgres_backend_for/)
-- [Building a Mini Next.js](https://www.reddit.com/r/javascript/comments/ustw4x/building_a_mini_nextjs/)
-- [Python or JavaScript](https://www.reddit.com/r/javascript/comments/ustjxz/python_or_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
