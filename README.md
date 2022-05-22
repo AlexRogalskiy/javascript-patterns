@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Prisma Web Client](https://www.reddit.com/r/javascript/comments/uv1w09/askjs_prisma_web_client/)
+- [Save and Load Tensorflow &amp; Keras Models](https://www.reddit.com/r/javascript/comments/uv0kkf/save_and_load_tensorflow_keras_models/)
+- [Introducing Brainchop - Adding tfjs powerful machine learning tool to create pure JS WebML application](https://www.reddit.com/r/javascript/comments/uuttni/introducing_brainchop_adding_tfjs_powerful/)
+- [[AskJS] Should I put my JS code directly inside of &lt;script&gt; or should I load JS code in a different file?](https://www.reddit.com/r/javascript/comments/uut0j1/askjs_should_i_put_my_js_code_directly_inside_of/)
+- [How to create a workspace generator as a library in Nx workspace?](https://www.reddit.com/r/javascript/comments/uunfca/how_to_create_a_workspace_generator_as_a_library/)
+- [[AskJS] Is there another way to deal with JSON objects?](https://www.reddit.com/r/javascript/comments/uun2dq/askjs_is_there_another_way_to_deal_with_json/)
+- [Showoff Saturday &lpar;May 21, 2022&rpar;](https://www.reddit.com/r/javascript/comments/uuhqq2/showoff_saturday_may_21_2022/)
 - [[AskJS] What ide/ide combo should I use for js/html/css?](https://www.reddit.com/r/javascript/comments/uu8nws/askjs_what_ideide_combo_should_i_use_for_jshtmlcss/)
 - [JSON And The Stringification Oddities In JavaScript](https://www.reddit.com/r/javascript/comments/uu7u50/json_and_the_stringification_oddities_in/)
 - [Introduction To Convolutional Neural Network](https://www.reddit.com/r/javascript/comments/uu7ktj/introduction_to_convolutional_neural_network/)
-- [I spent the last month working on &quot;The Making of FlevaR: A Browser-Based JavaScript Game Engine&quot; highlighting why and how I went about developing a JavaScript game engine after the discontinuation of Flash games in web browsers at the end of 2020.](https://www.reddit.com/r/javascript/comments/uu375a/i_spent_the_last_month_working_on_the_making_of/)
-- [Aphrodite: ORM designed for Local-First applications and P2P data transfer](https://www.reddit.com/r/javascript/comments/uu1g3s/aphrodite_orm_designed_for_localfirst/)
-- [Capture the flag: A Node.js web app vulnerability practice](https://www.reddit.com/r/javascript/comments/utt5ch/capture_the_flag_a_nodejs_web_app_vulnerability/)
-- [Easily access nearby Bluetooth device using JavaScript and Web Serial API](https://www.reddit.com/r/javascript/comments/utosdj/easily_access_nearby_bluetooth_device_using/)
-- [React 18 adds onResize event to video elements](https://www.reddit.com/r/javascript/comments/utmelr/react_18_adds_onresize_event_to_video_elements/)
-- [You Can Extract Your Own Black Holes Using Old Javascript.](https://www.reddit.com/r/javascript/comments/utkesd/you_can_extract_your_own_black_holes_using_old/)
-- [Analyzing The activation functions of common neural networks](https://www.reddit.com/r/javascript/comments/uth2qo/analyzing_the_activation_functions_of_common/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
