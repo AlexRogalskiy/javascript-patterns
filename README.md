@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Markdown Tag &lt;md&gt; : Add Markdown Support to any website with ease.](https://www.reddit.com/r/javascript/comments/uvnjmq/markdown_tag_md_add_markdown_support_to_any/)
+- [Feature flag library for react with hooks and overrides](https://www.reddit.com/r/javascript/comments/uvhad0/feature_flag_library_for_react_with_hooks_and/)
+- [[AskJS] How to sort an array by a key value but depending on another key value?](https://www.reddit.com/r/javascript/comments/uvdjrv/askjs_how_to_sort_an_array_by_a_key_value_but/)
+- [Handling user-created logic in javascript and running it safely on the client](https://www.reddit.com/r/javascript/comments/uvbz3c/handling_usercreated_logic_in_javascript_and/)
 - [[AskJS] Prisma Web Client](https://www.reddit.com/r/javascript/comments/uv1w09/askjs_prisma_web_client/)
 - [Save and Load Tensorflow &amp; Keras Models](https://www.reddit.com/r/javascript/comments/uv0kkf/save_and_load_tensorflow_keras_models/)
 - [Introducing Brainchop - Adding tfjs powerful machine learning tool to create pure JS WebML application](https://www.reddit.com/r/javascript/comments/uuttni/introducing_brainchop_adding_tfjs_powerful/)
-- [[AskJS] Should I put my JS code directly inside of &lt;script&gt; or should I load JS code in a different file?](https://www.reddit.com/r/javascript/comments/uut0j1/askjs_should_i_put_my_js_code_directly_inside_of/)
 - [How to create a workspace generator as a library in Nx workspace?](https://www.reddit.com/r/javascript/comments/uunfca/how_to_create_a_workspace_generator_as_a_library/)
 - [[AskJS] Is there another way to deal with JSON objects?](https://www.reddit.com/r/javascript/comments/uun2dq/askjs_is_there_another_way_to_deal_with_json/)
 - [Showoff Saturday &lpar;May 21, 2022&rpar;](https://www.reddit.com/r/javascript/comments/uuhqq2/showoff_saturday_may_21_2022/)
-- [[AskJS] What ide/ide combo should I use for js/html/css?](https://www.reddit.com/r/javascript/comments/uu8nws/askjs_what_ideide_combo_should_i_use_for_jshtmlcss/)
-- [JSON And The Stringification Oddities In JavaScript](https://www.reddit.com/r/javascript/comments/uu7u50/json_and_the_stringification_oddities_in/)
-- [Introduction To Convolutional Neural Network](https://www.reddit.com/r/javascript/comments/uu7ktj/introduction_to_convolutional_neural_network/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
