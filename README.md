@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Easy theming using CSS variables](https://www.reddit.com/r/javascript/comments/uw77u7/easy_theming_using_css_variables/)
+- [A Complete Guide To Check Data Types In JavaScript](https://www.reddit.com/r/javascript/comments/uw77ac/a_complete_guide_to_check_data_types_in_javascript/)
+- [Two Techniques for solving unreproducible &lpar;random&rpar; bugs](https://www.reddit.com/r/javascript/comments/uw5btm/two_techniques_for_solving_unreproducible_random/)
+- [HackerRank — Problem Solving — JavaScript — Compare the Triplets](https://www.reddit.com/r/javascript/comments/uw3dxo/hackerrank_problem_solving_javascript_compare_the/)
+- [Blueprint - a React-based UI toolkit for the web](https://www.reddit.com/r/javascript/comments/uw0n9s/blueprint_a_reactbased_ui_toolkit_for_the_web/)
+- [When and How to use Async/Await?](https://www.reddit.com/r/javascript/comments/uw00nt/when_and_how_to_use_asyncawait/)
+- [LocalStorage: A complete guide](https://www.reddit.com/r/javascript/comments/uvxxyh/localstorage_a_complete_guide/)
 - [Markdown Tag &lt;md&gt; : Add Markdown Support to any website with ease.](https://www.reddit.com/r/javascript/comments/uvnjmq/markdown_tag_md_add_markdown_support_to_any/)
 - [Feature flag library for react with hooks and overrides](https://www.reddit.com/r/javascript/comments/uvhad0/feature_flag_library_for_react_with_hooks_and/)
 - [[AskJS] How to sort an array by a key value but depending on another key value?](https://www.reddit.com/r/javascript/comments/uvdjrv/askjs_how_to_sort_an_array_by_a_key_value_but/)
-- [Handling user-created logic in javascript and running it safely on the client](https://www.reddit.com/r/javascript/comments/uvbz3c/handling_usercreated_logic_in_javascript_and/)
-- [[AskJS] Prisma Web Client](https://www.reddit.com/r/javascript/comments/uv1w09/askjs_prisma_web_client/)
-- [Save and Load Tensorflow &amp; Keras Models](https://www.reddit.com/r/javascript/comments/uv0kkf/save_and_load_tensorflow_keras_models/)
-- [Introducing Brainchop - Adding tfjs powerful machine learning tool to create pure JS WebML application](https://www.reddit.com/r/javascript/comments/uuttni/introducing_brainchop_adding_tfjs_powerful/)
-- [How to create a workspace generator as a library in Nx workspace?](https://www.reddit.com/r/javascript/comments/uunfca/how_to_create_a_workspace_generator_as_a_library/)
-- [[AskJS] Is there another way to deal with JSON objects?](https://www.reddit.com/r/javascript/comments/uun2dq/askjs_is_there_another_way_to_deal_with_json/)
-- [Showoff Saturday &lpar;May 21, 2022&rpar;](https://www.reddit.com/r/javascript/comments/uuhqq2/showoff_saturday_may_21_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
