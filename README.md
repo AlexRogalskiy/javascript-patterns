@@ -322,16 +322,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *YouTube code posts*
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [JSConf Budapest 2022 - Day Two, Afternoon](https://www.youtube.com/watch?v=Tu1iUxtmSSw)
+- [JSConf Budapest 2022 - Day Two, After Lunch](https://www.youtube.com/watch?v=Ru-vrfJC_Gg)
+- [JSConf Budapest 2022 - Day Two, Late Morning](https://www.youtube.com/watch?v=xg9mYk_RNw0)
+- [JSConf Budapest 2022 - Day Two, Morning](https://www.youtube.com/watch?v=okYa03hhI3g)
+- [JSConf Budapest 2022 - Day One, Afternoon](https://www.youtube.com/watch?v=eV40Y4nbpN8)
+- [JSConf Budapest 2022 - Day One, After Lunch](https://www.youtube.com/watch?v=uotwoqAwPtY)
+- [JSConf Budapest 2022 - Day One, Late Morning](https://www.youtube.com/watch?v=8nFX7iHtxA8)
+- [JSConf Budapest 2022 - Day One, Morning](https://www.youtube.com/watch?v=z4JnSGupxUs)
 - [Accesibilidad web, mejorando internet con pocas líneas de código - David Flores](https://www.youtube.com/watch?v=eO_B2XyVU1Y)
 - [Modular Audio Visualisation with modV - Tim Pietrusky](https://www.youtube.com/watch?v=GQHBWU-zYTA)
-- [En futuro está aquí: ¿Qué es ViteJs? - Oscar Barajas Tavares](https://www.youtube.com/watch?v=pAJLR4W0190)
-- [The future is here: What is ViteJS? - Oscar Barajas Tavares](https://www.youtube.com/watch?v=plAsq3EWi_c)
-- [Have a better developer experience using code generators - Eder Octavio Díaz Razón](https://www.youtube.com/watch?v=SPll1Rxl_Es)
-- [Mejora el Dev Experience con Code Generators - Eder Octavio Díaz Razón](https://www.youtube.com/watch?v=30I_b8tQWZ8)
-- [JavaScript Tests in Node, the Browser, and CI - Rob Richardson](https://www.youtube.com/watch?v=fJBeD95_s4A)
-- [Pruebas de test en Node, el navegador y CI - Rob Richardson](https://www.youtube.com/watch?v=Jn5Cbl3VrMk)
-- [NestJs el mejor framework para tu API - Roxana Arely Gonzalez Viana](https://www.youtube.com/watch?v=pHL5f4HQnFk)
-- [NestJS the best framework for your API - Roxana Arely Gonzalez Viana](https://www.youtube.com/watch?v=Vr-83N8J-9c)
 <!-- YOUTUBE-POST-LIST:END -->
 
 ### *ReactJS posts*
