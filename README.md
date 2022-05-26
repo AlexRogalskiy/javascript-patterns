@@ -292,9 +292,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [TypeScript 4.7 crosses the finish line](https://www.infoworld.com/article/3656801/typescript-47-crosses-the-finish-line.html#tk.rss_javascript)
 - [Developer survey: JavaScript and Python reign, but Rust is rising](https://www.infoworld.com/article/3661248/developer-survey-javascript-and-python-reign-but-rust-is-rising.html#tk.rss_javascript)
 - [Bootstrap 5.2.0 bolsters CSS, custom components](https://www.infoworld.com/article/3660498/bootstrap-520-bolsters-css-custom-components.html#tk.rss_javascript)
-- [TypeScript 4.7 adds ESM support in Node.js](https://www.infoworld.com/article/3656801/typescript-47-adds-esm-support-in-nodejs.html#tk.rss_javascript)
 - [Will JavaScript containers overtake Linux containers?](https://www.infoworld.com/article/3660069/will-javascript-containers-overtake-linux-containers.html#tk.rss_javascript)
 - [PyScript brings Python into the browser, more easily than ever](https://www.infoworld.com/article/3658994/pyscript-brings-python-into-the-browser-more-easily-than-ever.html#tk.rss_javascript)
 - [Deno 1.21 improves REPL, error handling](https://www.infoworld.com/article/3659188/deno-121-improves-repl-error-handling.html#tk.rss_javascript)
