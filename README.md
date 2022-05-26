@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How To Train Tensors Customly](https://www.reddit.com/r/javascript/comments/ux0dur/how_to_train_tensors_customly/)
-- [Announcing TypeScript 4.7](https://www.reddit.com/r/javascript/comments/uwz2bg/announcing_typescript_47/)
-- [Announcing Nuxt Content v2 &lpar;Nuxt Content is a Nuxt module that reads Markdown, YAML, CSV and JSON files in the content/ directory&rpar;](https://www.reddit.com/r/javascript/comments/uwxyyt/announcing_nuxt_content_v2_nuxt_content_is_a_nuxt/)
-- [Remult - a CRUD framework for full-stack TypeScript](https://www.reddit.com/r/javascript/comments/uww1uo/remult_a_crud_framework_for_fullstack_typescript/)
-- [Integrated-2D &lpar;i2djs&rpar; is a Javascript 2D rendering framework for SVG, Canvas, and WebGL contexts. I2Djs provides the same API for all rendering contexts.](https://www.reddit.com/r/javascript/comments/uwosgs/integrated2d_i2djs_is_a_javascript_2d_rendering/)
-- [Payload, a Dev-First TypeScript Headless CMS Announces Move to Free and Open-Source License](https://www.reddit.com/r/javascript/comments/uwo3is/payload_a_devfirst_typescript_headless_cms/)
-- [Using Javascript to Render Invalid HTML](https://www.reddit.com/r/javascript/comments/uwjtub/using_javascript_to_render_invalid_html/)
-- [Easy theming using CSS variables](https://www.reddit.com/r/javascript/comments/uw77u7/easy_theming_using_css_variables/)
-- [A Complete Guide To Check Data Types In JavaScript](https://www.reddit.com/r/javascript/comments/uw77ac/a_complete_guide_to_check_data_types_in_javascript/)
-- [Two Techniques for solving unreproducible &lpar;random&rpar; bugs](https://www.reddit.com/r/javascript/comments/uw5btm/two_techniques_for_solving_unreproducible_random/)
+- [[AskJS] JavaScript for data processing](https://www.reddit.com/r/javascript/comments/uxuswi/askjs_javascript_for_data_processing/)
+- [[AskJS] E2E Testing Frameworks: Cypress vs. Playwright vs. TestCafe](https://www.reddit.com/r/javascript/comments/uxrsgu/askjs_e2e_testing_frameworks_cypress_vs/)
+- [termi-clicker: npx-installed node terminal clicker game](https://www.reddit.com/r/javascript/comments/uxpbtr/termiclicker_npxinstalled_node_terminal_clicker/)
+- [Implementing 429 retries and throttling for API rate-limits](https://www.reddit.com/r/javascript/comments/uxmcqe/implementing_429_retries_and_throttling_for_api/)
+- [[JavaScript] Show or Hide Columns!](https://www.reddit.com/r/javascript/comments/uxm6iv/javascript_show_or_hide_columns/)
+- [[AskJS] Simple persistence UX in my text editor](https://www.reddit.com/r/javascript/comments/uxm3rs/askjs_simple_persistence_ux_in_my_text_editor/)
+- [Arcade Village Blog : The Island: Detailed view of base classes](https://www.reddit.com/r/javascript/comments/uxiaaj/arcade_village_blog_the_island_detailed_view_of/)
+- [Storybook 6.5 is out—new workflows and perf improvements](https://www.reddit.com/r/javascript/comments/uxhtjz/storybook_65_is_outnew_workflows_and_perf/)
+- [A Node.js modular configuration provider reading files, environment and arguments](https://www.reddit.com/r/javascript/comments/uxgerk/a_nodejs_modular_configuration_provider_reading/)
+- [Novu released v0.4.0 - You can now add a real-time notification center to react and angular apps](https://www.reddit.com/r/javascript/comments/uxdceo/novu_released_v040_you_can_now_add_a_realtime/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
