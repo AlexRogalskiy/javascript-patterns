@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] JavaScript for data processing](https://www.reddit.com/r/javascript/comments/uxuswi/askjs_javascript_for_data_processing/)
-- [[AskJS] E2E Testing Frameworks: Cypress vs. Playwright vs. TestCafe](https://www.reddit.com/r/javascript/comments/uxrsgu/askjs_e2e_testing_frameworks_cypress_vs/)
-- [termi-clicker: npx-installed node terminal clicker game](https://www.reddit.com/r/javascript/comments/uxpbtr/termiclicker_npxinstalled_node_terminal_clicker/)
-- [Implementing 429 retries and throttling for API rate-limits](https://www.reddit.com/r/javascript/comments/uxmcqe/implementing_429_retries_and_throttling_for_api/)
-- [[JavaScript] Show or Hide Columns!](https://www.reddit.com/r/javascript/comments/uxm6iv/javascript_show_or_hide_columns/)
-- [[AskJS] Simple persistence UX in my text editor](https://www.reddit.com/r/javascript/comments/uxm3rs/askjs_simple_persistence_ux_in_my_text_editor/)
-- [Arcade Village Blog : The Island: Detailed view of base classes](https://www.reddit.com/r/javascript/comments/uxiaaj/arcade_village_blog_the_island_detailed_view_of/)
-- [Storybook 6.5 is out—new workflows and perf improvements](https://www.reddit.com/r/javascript/comments/uxhtjz/storybook_65_is_outnew_workflows_and_perf/)
-- [A Node.js modular configuration provider reading files, environment and arguments](https://www.reddit.com/r/javascript/comments/uxgerk/a_nodejs_modular_configuration_provider_reading/)
-- [Novu released v0.4.0 - You can now add a real-time notification center to react and angular apps](https://www.reddit.com/r/javascript/comments/uxdceo/novu_released_v040_you_can_now_add_a_realtime/)
+- [GitHub - andrewhodel/node-distributed-table: an encrypted, distributed table that synchronizes JSON objects across any number of nodes in a network](https://www.reddit.com/r/javascript/comments/uymm9r/github_andrewhodelnodedistributedtable_an/)
+- [Mouse-Based Parallax Hero](https://www.reddit.com/r/javascript/comments/uyhdpy/mousebased_parallax_hero/)
+- [I&#39;m helping to build a Figma to React code tool that generates high-quality, responsive, component-based code along with a real-fidelity live prototype that runs on code!](https://www.reddit.com/r/javascript/comments/uyh6mi/im_helping_to_build_a_figma_to_react_code_tool/)
+- [How we converted our Node.js library to Deno &lpar;using Deno&rpar; | EdgeDB Blog](https://www.reddit.com/r/javascript/comments/uygfn5/how_we_converted_our_nodejs_library_to_deno_using/)
+- [Just added Deno support to my utility library: Froebel. Would appreciate any feedback you have.](https://www.reddit.com/r/javascript/comments/uyfrmg/just_added_deno_support_to_my_utility_library/)
+- [What npm Can Learn from Go](https://www.reddit.com/r/javascript/comments/uybfm9/what_npm_can_learn_from_go/)
+- [Estrela, a new reactive frontend framework. Try it now!](https://www.reddit.com/r/javascript/comments/uy5v6j/estrela_a_new_reactive_frontend_framework_try_it/)
+- [Programmer Browser | My Minimal Browser Project](https://www.reddit.com/r/javascript/comments/uy4ocs/programmer_browser_my_minimal_browser_project/)
+- [Developed a free utility that extracts text from code screenshots using Javascript](https://www.reddit.com/r/javascript/comments/uy3paw/developed_a_free_utility_that_extracts_text_from/)
+- [Turboprop: JS Arrays as Property Accessors!?!](https://www.reddit.com/r/javascript/comments/uy2m6j/turboprop_js_arrays_as_property_accessors/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
