@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [GitHub - andrewhodel/node-distributed-table: an encrypted, distributed table that synchronizes JSON objects across any number of nodes in a network](https://www.reddit.com/r/javascript/comments/uymm9r/github_andrewhodelnodedistributedtable_an/)
-- [Mouse-Based Parallax Hero](https://www.reddit.com/r/javascript/comments/uyhdpy/mousebased_parallax_hero/)
-- [I&#39;m helping to build a Figma to React code tool that generates high-quality, responsive, component-based code along with a real-fidelity live prototype that runs on code!](https://www.reddit.com/r/javascript/comments/uyh6mi/im_helping_to_build_a_figma_to_react_code_tool/)
-- [How we converted our Node.js library to Deno &lpar;using Deno&rpar; | EdgeDB Blog](https://www.reddit.com/r/javascript/comments/uygfn5/how_we_converted_our_nodejs_library_to_deno_using/)
-- [Just added Deno support to my utility library: Froebel. Would appreciate any feedback you have.](https://www.reddit.com/r/javascript/comments/uyfrmg/just_added_deno_support_to_my_utility_library/)
-- [What npm Can Learn from Go](https://www.reddit.com/r/javascript/comments/uybfm9/what_npm_can_learn_from_go/)
-- [Estrela, a new reactive frontend framework. Try it now!](https://www.reddit.com/r/javascript/comments/uy5v6j/estrela_a_new_reactive_frontend_framework_try_it/)
-- [Programmer Browser | My Minimal Browser Project](https://www.reddit.com/r/javascript/comments/uy4ocs/programmer_browser_my_minimal_browser_project/)
-- [Developed a free utility that extracts text from code screenshots using Javascript](https://www.reddit.com/r/javascript/comments/uy3paw/developed_a_free_utility_that_extracts_text_from/)
-- [Turboprop: JS Arrays as Property Accessors!?!](https://www.reddit.com/r/javascript/comments/uy2m6j/turboprop_js_arrays_as_property_accessors/)
+- [rollup-ts-boilerplate: An environment to kickstart ts library creation](https://www.reddit.com/r/javascript/comments/uzd8vv/rolluptsboilerplate_an_environment_to_kickstart/)
+- [[JavaScript] Show or Hide Columns!](https://www.reddit.com/r/javascript/comments/uz9xk5/javascript_show_or_hide_columns/)
+- [[AskJS] I&#39;m trying to create different objects and pushing them into an array. But it keeps overwriting the same object in array instead of pushing new one.](https://www.reddit.com/r/javascript/comments/uz3ier/askjs_im_trying_to_create_different_objects_and/)
+- [A simple JavaScript based tool to test webcam and mic](https://www.reddit.com/r/javascript/comments/uz3d5q/a_simple_javascript_based_tool_to_test_webcam_and/)
+- [Neutralinojs v4.6.0 released!](https://www.reddit.com/r/javascript/comments/uz12s2/neutralinojs_v460_released/)
+- [Web Audio Modem - What do you do when you cannot copy text between computers due to lack of internet connectivity? Build a modem using the Web Audio API, allowing data transfer via audio](https://www.reddit.com/r/javascript/comments/uz0q87/web_audio_modem_what_do_you_do_when_you_cannot/)
+- [Using JavaScript and Web Serial to get real-time air quality data from Bluetooth device &lpar;source code available&rpar;](https://www.reddit.com/r/javascript/comments/uyzeor/using_javascript_and_web_serial_to_get_realtime/)
+- [Today’s Javascript, from an outsider’s perspective](https://www.reddit.com/r/javascript/comments/uyz09e/todays_javascript_from_an_outsiders_perspective/)
+- [[AskJS] eslint or prettier or both with vim + ALE? Can I get rid of prettier or is it required?](https://www.reddit.com/r/javascript/comments/uyxxg5/askjs_eslint_or_prettier_or_both_with_vim_ale_can/)
+- [[AskJS] Need some beginner project suggestions](https://www.reddit.com/r/javascript/comments/uywvio/askjs_need_some_beginner_project_suggestions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
