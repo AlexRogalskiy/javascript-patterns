@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [What is WebAssembly? The next-generation web platform explained](https://www.infoworld.com/article/3291780/what-is-webassembly-the-next-generation-web-platform-explained.html#tk.rss_javascript)
 - [Reactive JavaScript: The evolution of front-end architecture](https://www.infoworld.com/article/3661810/reactive-javascript-the-evolution-of-front-end-architecture.html#tk.rss_javascript)
 - [TypeScript 4.7 crosses the finish line](https://www.infoworld.com/article/3656801/typescript-47-crosses-the-finish-line.html#tk.rss_javascript)
 - [Developer survey: JavaScript and Python reign, but Rust is rising](https://www.infoworld.com/article/3661248/developer-survey-javascript-and-python-reign-but-rust-is-rising.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Deno 1.21 improves REPL, error handling](https://www.infoworld.com/article/3659188/deno-121-improves-repl-error-handling.html#tk.rss_javascript)
 - [8 great new JavaScript language features in ES12](https://www.infoworld.com/article/3658393/8-great-new-javascript-language-features-in-es12.html#tk.rss_javascript)
 - [GraalVM speeds up native image builds](https://www.infoworld.com/article/3658988/graalvm-speeds-up-native-image-builds.html#tk.rss_javascript)
-- [Go serverless with Vercel, SvelteKit, and MongoDB](https://www.infoworld.com/article/3655952/go-serverless-with-vercel-sveltekit-and-mongodb.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
