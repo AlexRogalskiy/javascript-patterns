@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [rollup-ts-boilerplate: An environment to kickstart ts library creation](https://www.reddit.com/r/javascript/comments/uzd8vv/rolluptsboilerplate_an_environment_to_kickstart/)
+- [[AskJS] Playwright freezes when thread goes to backgroun](https://www.reddit.com/r/javascript/comments/v01o21/askjs_playwright_freezes_when_thread_goes_to/)
+- [Coding platform for recreational coding](https://www.reddit.com/r/javascript/comments/uztqlx/coding_platform_for_recreational_coding/)
+- [I posted an article where I shared how to abort API requests in axios and fetch methods](https://www.reddit.com/r/javascript/comments/uzqnhq/i_posted_an_article_where_i_shared_how_to_abort/)
+- [[AskJS] favorite JavaScript library](https://www.reddit.com/r/javascript/comments/uzoj5z/askjs_favorite_javascript_library/)
+- [[AskJS] Is there a way to do a &quot;post-install&quot; step for when my library is downloaded/installed?](https://www.reddit.com/r/javascript/comments/uznvcn/askjs_is_there_a_way_to_do_a_postinstall_step_for/)
+- [Showoff Saturday &lpar;May 28, 2022&rpar;](https://www.reddit.com/r/javascript/comments/uzhunm/showoff_saturday_may_28_2022/)
+- [winkNLP a Developer friendly Natural Language Processing in JavaScript &amp; NodeJS. Runs on browser](https://www.reddit.com/r/javascript/comments/uzhm5z/winknlp_a_developer_friendly_natural_language/)
 - [[JavaScript] Show or Hide Columns!](https://www.reddit.com/r/javascript/comments/uz9xk5/javascript_show_or_hide_columns/)
 - [[AskJS] I&#39;m trying to create different objects and pushing them into an array. But it keeps overwriting the same object in array instead of pushing new one.](https://www.reddit.com/r/javascript/comments/uz3ier/askjs_im_trying_to_create_different_objects_and/)
 - [A simple JavaScript based tool to test webcam and mic](https://www.reddit.com/r/javascript/comments/uz3d5q/a_simple_javascript_based_tool_to_test_webcam_and/)
-- [Neutralinojs v4.6.0 released!](https://www.reddit.com/r/javascript/comments/uz12s2/neutralinojs_v460_released/)
-- [Web Audio Modem - What do you do when you cannot copy text between computers due to lack of internet connectivity? Build a modem using the Web Audio API, allowing data transfer via audio](https://www.reddit.com/r/javascript/comments/uz0q87/web_audio_modem_what_do_you_do_when_you_cannot/)
-- [Using JavaScript and Web Serial to get real-time air quality data from Bluetooth device &lpar;source code available&rpar;](https://www.reddit.com/r/javascript/comments/uyzeor/using_javascript_and_web_serial_to_get_realtime/)
-- [Today’s Javascript, from an outsider’s perspective](https://www.reddit.com/r/javascript/comments/uyz09e/todays_javascript_from_an_outsiders_perspective/)
-- [[AskJS] eslint or prettier or both with vim + ALE? Can I get rid of prettier or is it required?](https://www.reddit.com/r/javascript/comments/uyxxg5/askjs_eslint_or_prettier_or_both_with_vim_ale_can/)
-- [[AskJS] Need some beginner project suggestions](https://www.reddit.com/r/javascript/comments/uywvio/askjs_need_some_beginner_project_suggestions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
