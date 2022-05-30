@@ -277,7 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Playwright freezes when thread goes to backgroun](https://www.reddit.com/r/javascript/comments/v01o21/askjs_playwright_freezes_when_thread_goes_to/)
+- [An JavaScript Implementation of Bionic-Reading &lpar;Faster, Better, and More Focused text styles&rpar;](https://www.reddit.com/r/javascript/comments/v07pwx/an_javascript_implementation_of_bionicreading/)
+- [Programmer Browser | New Update Release](https://www.reddit.com/r/javascript/comments/v05cx7/programmer_browser_new_update_release/)
+- [Web3 development for beginners](https://www.reddit.com/r/javascript/comments/v047pe/web3_development_for_beginners/)
 - [Coding platform for recreational coding](https://www.reddit.com/r/javascript/comments/uztqlx/coding_platform_for_recreational_coding/)
 - [I posted an article where I shared how to abort API requests in axios and fetch methods](https://www.reddit.com/r/javascript/comments/uzqnhq/i_posted_an_article_where_i_shared_how_to_abort/)
 - [[AskJS] favorite JavaScript library](https://www.reddit.com/r/javascript/comments/uzoj5z/askjs_favorite_javascript_library/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Showoff Saturday &lpar;May 28, 2022&rpar;](https://www.reddit.com/r/javascript/comments/uzhunm/showoff_saturday_may_28_2022/)
 - [winkNLP a Developer friendly Natural Language Processing in JavaScript &amp; NodeJS. Runs on browser](https://www.reddit.com/r/javascript/comments/uzhm5z/winknlp_a_developer_friendly_natural_language/)
 - [[JavaScript] Show or Hide Columns!](https://www.reddit.com/r/javascript/comments/uz9xk5/javascript_show_or_hide_columns/)
-- [[AskJS] I&#39;m trying to create different objects and pushing them into an array. But it keeps overwriting the same object in array instead of pushing new one.](https://www.reddit.com/r/javascript/comments/uz3ier/askjs_im_trying_to_create_different_objects_and/)
-- [A simple JavaScript based tool to test webcam and mic](https://www.reddit.com/r/javascript/comments/uz3d5q/a_simple_javascript_based_tool_to_test_webcam_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
