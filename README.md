@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [fullstack web should be easy](https://www.reddit.com/r/javascript/comments/v1cvpp/fullstack_web_should_be_easy/)
+- [Using facial recognition to detect the best faces from a Twitter bot with rustface](https://www.reddit.com/r/javascript/comments/v19sh5/using_facial_recognition_to_detect_the_best_faces/)
+- [You may not need a bundler for your NPM library](https://www.reddit.com/r/javascript/comments/v19jwa/you_may_not_need_a_bundler_for_your_npm_library/)
+- [GitHub - devx-os/react-holmes: Elementary State Orchestrator for React](https://www.reddit.com/r/javascript/comments/v19hv4/github_devxosreactholmes_elementary_state/)
+- [[AskJS] Cheating in javascript games](https://www.reddit.com/r/javascript/comments/v17mx5/askjs_cheating_in_javascript_games/)
+- [JavaScript of Halftone Printing](https://www.reddit.com/r/javascript/comments/v12fr4/javascript_of_halftone_printing/)
+- [Looking for opinions, I don&#39;t use frameworks so I created this lowTimeJS, is this a framework or boilerplate?](https://www.reddit.com/r/javascript/comments/v12ael/looking_for_opinions_i_dont_use_frameworks_so_i/)
+- [Write better React, compose multiple functional HoCs, Higher-Order Components](https://www.reddit.com/r/javascript/comments/v0yfy8/write_better_react_compose_multiple_functional/)
+- [GitHub - meyda/meyda: Audio feature extraction for JavaScript.](https://www.reddit.com/r/javascript/comments/v0vsgp/github_meydameyda_audio_feature_extraction_for/)
 - [An JavaScript Implementation of Bionic-Reading &lpar;Faster, Better, and More Focused text styles&rpar;](https://www.reddit.com/r/javascript/comments/v07pwx/an_javascript_implementation_of_bionicreading/)
-- [Programmer Browser | New Update Release](https://www.reddit.com/r/javascript/comments/v05cx7/programmer_browser_new_update_release/)
-- [Web3 development for beginners](https://www.reddit.com/r/javascript/comments/v047pe/web3_development_for_beginners/)
-- [Coding platform for recreational coding](https://www.reddit.com/r/javascript/comments/uztqlx/coding_platform_for_recreational_coding/)
-- [I posted an article where I shared how to abort API requests in axios and fetch methods](https://www.reddit.com/r/javascript/comments/uzqnhq/i_posted_an_article_where_i_shared_how_to_abort/)
-- [[AskJS] favorite JavaScript library](https://www.reddit.com/r/javascript/comments/uzoj5z/askjs_favorite_javascript_library/)
-- [[AskJS] Is there a way to do a &quot;post-install&quot; step for when my library is downloaded/installed?](https://www.reddit.com/r/javascript/comments/uznvcn/askjs_is_there_a_way_to_do_a_postinstall_step_for/)
-- [Showoff Saturday &lpar;May 28, 2022&rpar;](https://www.reddit.com/r/javascript/comments/uzhunm/showoff_saturday_may_28_2022/)
-- [winkNLP a Developer friendly Natural Language Processing in JavaScript &amp; NodeJS. Runs on browser](https://www.reddit.com/r/javascript/comments/uzhm5z/winknlp_a_developer_friendly_natural_language/)
-- [[JavaScript] Show or Hide Columns!](https://www.reddit.com/r/javascript/comments/uz9xk5/javascript_show_or_hide_columns/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
