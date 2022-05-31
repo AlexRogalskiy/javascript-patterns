@@ -353,7 +353,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 
 <!-- METEOR-POST-LIST:START -->
 - [How Fasal Helps Farmers Grow Smarter with Meteor](https://blog.meteor.com/how-fasal-helps-farmers-grow-smarter-with-meteor-3f1891707a4?source=rss----a9bcaf865278---4)
-- [Meteor 2.7.2 and the new Tailwind skeleton](https://blog.meteor.com/meteor-2-7-2-and-the-new-tailwind-skeleton-68ccde68af42?source=rss----a9bcaf865278---4)
+- [Meteor 2.7.2 and the New Tailwind Skeleton](https://blog.meteor.com/meteor-2-7-2-and-the-new-tailwind-skeleton-68ccde68af42?source=rss----a9bcaf865278---4)
 - [Meteor Monthly Update — April 2022](https://blog.meteor.com/meteor-monthly-update-april-2022-89443b0078f3?source=rss----a9bcaf865278---4)
 - [How Sessionwire Uses Meteor To Connect Remote Music Makers](https://blog.meteor.com/how-sessionwire-uses-meteor-to-connect-remote-music-makers-ccb7178b0653?source=rss----a9bcaf865278---4)
 - [Meteor Social Login with GitHub](https://blog.meteor.com/meteor-social-login-with-github-1b48d04c332?source=rss----a9bcaf865278---4)
