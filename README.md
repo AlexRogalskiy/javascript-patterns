@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [fullstack web should be easy](https://www.reddit.com/r/javascript/comments/v1cvpp/fullstack_web_should_be_easy/)
+- [Send SMS Notifications on Pageviews with Segment, Twilio Serverless, and JavaScript](https://www.reddit.com/r/javascript/comments/v2536e/send_sms_notifications_on_pageviews_with_segment/)
+- [[AskJS] what are the basic differences between hashmaps and javascript objects?](https://www.reddit.com/r/javascript/comments/v24pyd/askjs_what_are_the_basic_differences_between/)
+- [[AskJS] Best approaches to embedding binary content in webapps &lpar;using vite &amp; vue&rpar;](https://www.reddit.com/r/javascript/comments/v21ina/askjs_best_approaches_to_embedding_binary_content/)
+- [[AskJS] What&#39;s Your Current Favorite Rich Text Editing Library?](https://www.reddit.com/r/javascript/comments/v1usi9/askjs_whats_your_current_favorite_rich_text/)
+- [Top games + source code from Gamedev.js competition 2022](https://www.reddit.com/r/javascript/comments/v1unur/top_games_source_code_from_gamedevjs_competition/)
+- [heavy.js - is your site too light? Need more pizzaz? Make it heavy with a single, zero dependency script](https://www.reddit.com/r/javascript/comments/v1qvzt/heavyjs_is_your_site_too_light_need_more_pizzaz/)
+- [Programmer Browser | Support Us on Github](https://www.reddit.com/r/javascript/comments/v1okw4/programmer_browser_support_us_on_github/)
+- [Creating a Blockchain Decentralized App with Vue and Tezos](https://www.reddit.com/r/javascript/comments/v1mt22/creating_a_blockchain_decentralized_app_with_vue/)
+- [Hello , I am no experienced amateur developer .Today i completed my simple checker game project . There are some responsiveness problems . I will try to fix it in next update . What do you think about this project ?](https://www.reddit.com/r/javascript/comments/v1mbc3/hello_i_am_no_experienced_amateur_developer_today/)
 - [Using facial recognition to detect the best faces from a Twitter bot with rustface](https://www.reddit.com/r/javascript/comments/v19sh5/using_facial_recognition_to_detect_the_best_faces/)
-- [You may not need a bundler for your NPM library](https://www.reddit.com/r/javascript/comments/v19jwa/you_may_not_need_a_bundler_for_your_npm_library/)
-- [GitHub - devx-os/react-holmes: Elementary State Orchestrator for React](https://www.reddit.com/r/javascript/comments/v19hv4/github_devxosreactholmes_elementary_state/)
-- [[AskJS] Cheating in javascript games](https://www.reddit.com/r/javascript/comments/v17mx5/askjs_cheating_in_javascript_games/)
-- [JavaScript of Halftone Printing](https://www.reddit.com/r/javascript/comments/v12fr4/javascript_of_halftone_printing/)
-- [Looking for opinions, I don&#39;t use frameworks so I created this lowTimeJS, is this a framework or boilerplate?](https://www.reddit.com/r/javascript/comments/v12ael/looking_for_opinions_i_dont_use_frameworks_so_i/)
-- [Write better React, compose multiple functional HoCs, Higher-Order Components](https://www.reddit.com/r/javascript/comments/v0yfy8/write_better_react_compose_multiple_functional/)
-- [GitHub - meyda/meyda: Audio feature extraction for JavaScript.](https://www.reddit.com/r/javascript/comments/v0vsgp/github_meydameyda_audio_feature_extraction_for/)
-- [An JavaScript Implementation of Bionic-Reading &lpar;Faster, Better, and More Focused text styles&rpar;](https://www.reddit.com/r/javascript/comments/v07pwx/an_javascript_implementation_of_bionicreading/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
