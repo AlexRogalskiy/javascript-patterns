@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Send SMS Notifications on Pageviews with Segment, Twilio Serverless, and JavaScript](https://www.reddit.com/r/javascript/comments/v2536e/send_sms_notifications_on_pageviews_with_segment/)
+- [Render Markdown files &lpar;GitHub Flavoured&rpar; Quickly, Including GitHub Themes](https://www.reddit.com/r/javascript/comments/v2xzw7/render_markdown_files_github_flavoured_quickly/)
+- [New Express 5 Features to Try](https://www.reddit.com/r/javascript/comments/v2ri9s/new_express_5_features_to_try/)
+- [What is Edge Compute? It&#39;s kind of like knitting dog hats](https://www.reddit.com/r/javascript/comments/v2io5n/what_is_edge_compute_its_kind_of_like_knitting/)
+- [[AskJS] What are some advanced Javascript concepts/methods one needs to know before learning frameworks?](https://www.reddit.com/r/javascript/comments/v2h1yo/askjs_what_are_some_advanced_javascript/)
+- [Faster JavaScript Builds with Metro](https://www.reddit.com/r/javascript/comments/v2ewsx/faster_javascript_builds_with_metro/)
+- [WTF Wednesday &lpar;June 01, 2022&rpar;](https://www.reddit.com/r/javascript/comments/v2aw4t/wtf_wednesday_june_01_2022/)
+- [[AskJS] what is the simplest &lpar;but complete&rpar; way to create a blog with JavaScript? What are your insights?](https://www.reddit.com/r/javascript/comments/v29pkn/askjs_what_is_the_simplest_but_complete_way_to/)
+- [9 Reasons to choose React-Native in 2022](https://www.reddit.com/r/javascript/comments/v28zqp/9_reasons_to_choose_reactnative_in_2022/)
 - [[AskJS] what are the basic differences between hashmaps and javascript objects?](https://www.reddit.com/r/javascript/comments/v24pyd/askjs_what_are_the_basic_differences_between/)
 - [[AskJS] Best approaches to embedding binary content in webapps &lpar;using vite &amp; vue&rpar;](https://www.reddit.com/r/javascript/comments/v21ina/askjs_best_approaches_to_embedding_binary_content/)
-- [[AskJS] What&#39;s Your Current Favorite Rich Text Editing Library?](https://www.reddit.com/r/javascript/comments/v1usi9/askjs_whats_your_current_favorite_rich_text/)
-- [Top games + source code from Gamedev.js competition 2022](https://www.reddit.com/r/javascript/comments/v1unur/top_games_source_code_from_gamedevjs_competition/)
-- [heavy.js - is your site too light? Need more pizzaz? Make it heavy with a single, zero dependency script](https://www.reddit.com/r/javascript/comments/v1qvzt/heavyjs_is_your_site_too_light_need_more_pizzaz/)
-- [Programmer Browser | Support Us on Github](https://www.reddit.com/r/javascript/comments/v1okw4/programmer_browser_support_us_on_github/)
-- [Creating a Blockchain Decentralized App with Vue and Tezos](https://www.reddit.com/r/javascript/comments/v1mt22/creating_a_blockchain_decentralized_app_with_vue/)
-- [Hello , I am no experienced amateur developer .Today i completed my simple checker game project . There are some responsiveness problems . I will try to fix it in next update . What do you think about this project ?](https://www.reddit.com/r/javascript/comments/v1mbc3/hello_i_am_no_experienced_amateur_developer_today/)
-- [Using facial recognition to detect the best faces from a Twitter bot with rustface](https://www.reddit.com/r/javascript/comments/v19sh5/using_facial_recognition_to_detect_the_best_faces/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
