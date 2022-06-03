@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] With site performance in mind - how do you handle newsletter list builder interstitials/dialogs?](https://www.reddit.com/r/javascript/comments/v3jr2n/askjs_with_site_performance_in_mind_how_do_you/)
+- [Is Remix the Next-Gen React Framework You Should Use?](https://www.reddit.com/r/javascript/comments/v3irau/is_remix_the_nextgen_react_framework_you_should/)
+- [Using the GitHub API in Node.js, A Comprehensive Tutorial](https://www.reddit.com/r/javascript/comments/v3iqha/using_the_github_api_in_nodejs_a_comprehensive/)
+- [Angular v14 is now available](https://www.reddit.com/r/javascript/comments/v3i9g2/angular_v14_is_now_available/)
+- [Complete Guide to Test Chrome Extensions with Puppeteer](https://www.reddit.com/r/javascript/comments/v3hckj/complete_guide_to_test_chrome_extensions_with/)
+- [Why most design systems implode](https://www.reddit.com/r/javascript/comments/v3cz4y/why_most_design_systems_implode/)
+- [Svelvet - a lightweight Svelte component library for building interactive node-based flow diagrams](https://www.reddit.com/r/javascript/comments/v3c47b/svelvet_a_lightweight_svelte_component_library/)
 - [Render Markdown files &lpar;GitHub Flavoured&rpar; Quickly, Including GitHub Themes](https://www.reddit.com/r/javascript/comments/v2xzw7/render_markdown_files_github_flavoured_quickly/)
 - [New Express 5 Features to Try](https://www.reddit.com/r/javascript/comments/v2ri9s/new_express_5_features_to_try/)
 - [What is Edge Compute? It&#39;s kind of like knitting dog hats](https://www.reddit.com/r/javascript/comments/v2io5n/what_is_edge_compute_its_kind_of_like_knitting/)
-- [[AskJS] What are some advanced Javascript concepts/methods one needs to know before learning frameworks?](https://www.reddit.com/r/javascript/comments/v2h1yo/askjs_what_are_some_advanced_javascript/)
-- [Faster JavaScript Builds with Metro](https://www.reddit.com/r/javascript/comments/v2ewsx/faster_javascript_builds_with_metro/)
-- [WTF Wednesday &lpar;June 01, 2022&rpar;](https://www.reddit.com/r/javascript/comments/v2aw4t/wtf_wednesday_june_01_2022/)
-- [[AskJS] what is the simplest &lpar;but complete&rpar; way to create a blog with JavaScript? What are your insights?](https://www.reddit.com/r/javascript/comments/v29pkn/askjs_what_is_the_simplest_but_complete_way_to/)
-- [9 Reasons to choose React-Native in 2022](https://www.reddit.com/r/javascript/comments/v28zqp/9_reasons_to_choose_reactnative_in_2022/)
-- [[AskJS] what are the basic differences between hashmaps and javascript objects?](https://www.reddit.com/r/javascript/comments/v24pyd/askjs_what_are_the_basic_differences_between/)
-- [[AskJS] Best approaches to embedding binary content in webapps &lpar;using vite &amp; vue&rpar;](https://www.reddit.com/r/javascript/comments/v21ina/askjs_best_approaches_to_embedding_binary_content/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
