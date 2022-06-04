@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] With site performance in mind - how do you handle newsletter list builder interstitials/dialogs?](https://www.reddit.com/r/javascript/comments/v3jr2n/askjs_with_site_performance_in_mind_how_do_you/)
-- [Is Remix the Next-Gen React Framework You Should Use?](https://www.reddit.com/r/javascript/comments/v3irau/is_remix_the_nextgen_react_framework_you_should/)
-- [Using the GitHub API in Node.js, A Comprehensive Tutorial](https://www.reddit.com/r/javascript/comments/v3iqha/using_the_github_api_in_nodejs_a_comprehensive/)
-- [Angular v14 is now available](https://www.reddit.com/r/javascript/comments/v3i9g2/angular_v14_is_now_available/)
-- [Complete Guide to Test Chrome Extensions with Puppeteer](https://www.reddit.com/r/javascript/comments/v3hckj/complete_guide_to_test_chrome_extensions_with/)
-- [Why most design systems implode](https://www.reddit.com/r/javascript/comments/v3cz4y/why_most_design_systems_implode/)
-- [Svelvet - a lightweight Svelte component library for building interactive node-based flow diagrams](https://www.reddit.com/r/javascript/comments/v3c47b/svelvet_a_lightweight_svelte_component_library/)
-- [Render Markdown files &lpar;GitHub Flavoured&rpar; Quickly, Including GitHub Themes](https://www.reddit.com/r/javascript/comments/v2xzw7/render_markdown_files_github_flavoured_quickly/)
-- [New Express 5 Features to Try](https://www.reddit.com/r/javascript/comments/v2ri9s/new_express_5_features_to_try/)
-- [What is Edge Compute? It&#39;s kind of like knitting dog hats](https://www.reddit.com/r/javascript/comments/v2io5n/what_is_edge_compute_its_kind_of_like_knitting/)
+- [Plasmo – a framework for building modern Chrome extensions](https://www.reddit.com/r/javascript/comments/v4bmzq/plasmo_a_framework_for_building_modern_chrome/)
+- [Created an utility for improving logs of objects on Node.js](https://www.reddit.com/r/javascript/comments/v4bftd/created_an_utility_for_improving_logs_of_objects/)
+- [Using GraphQL Directives efficiently](https://www.reddit.com/r/javascript/comments/v4bepk/using_graphql_directives_efficiently/)
+- [[AskJS] I started JavaScript yesterday, and my code works but is absolutely horrible. Can anybody give me pointers?](https://www.reddit.com/r/javascript/comments/v49yfj/askjs_i_started_javascript_yesterday_and_my_code/)
+- [Component Party - compare common task syntax between top web component JavaScript frameworks](https://www.reddit.com/r/javascript/comments/v490g2/component_party_compare_common_task_syntax/)
+- [[AskJS] What is the access level of FileReader when reading a File?](https://www.reddit.com/r/javascript/comments/v45mnc/askjs_what_is_the_access_level_of_filereader_when/)
+- [[AskJS] What parts of your work you feel could/should be automated by now](https://www.reddit.com/r/javascript/comments/v453cz/askjs_what_parts_of_your_work_you_feel/)
+- [[AskJS] What is the best markdown lib?](https://www.reddit.com/r/javascript/comments/v44pet/askjs_what_is_the_best_markdown_lib/)
+- [[AskJS] Software/library for recognizing spoken words in video/audio](https://www.reddit.com/r/javascript/comments/v43yha/askjs_softwarelibrary_for_recognizing_spoken/)
+- [Lerna is coming back under new stewardship](https://www.reddit.com/r/javascript/comments/v43ih8/lerna_is_coming_back_under_new_stewardship/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
