@@ -322,11 +322,11 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *YouTube code posts*
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [JSConf Budapest 2022](https://www.youtube.com/watch?v=okYa03hhI3g)
 - [JSConf Budapest 2022 - Day One, Morning](https://www.youtube.com/watch?v=z4JnSGupxUs)
 - [JSConf Budapest 2022 - Day Two, Afternoon](https://www.youtube.com/watch?v=Tu1iUxtmSSw)
 - [JSConf Budapest 2022 - Day Two, After Lunch](https://www.youtube.com/watch?v=Ru-vrfJC_Gg)
 - [JSConf Budapest 2022 - Day Two, Late Morning](https://www.youtube.com/watch?v=xg9mYk_RNw0)
-- [JSConf Budapest 2022 - Day Two, Morning](https://www.youtube.com/watch?v=okYa03hhI3g)
 - [JSConf Budapest 2022 - Day One, Afternoon](https://www.youtube.com/watch?v=eV40Y4nbpN8)
 - [JSConf Budapest 2022 - Day One, After Lunch](https://www.youtube.com/watch?v=uotwoqAwPtY)
 - [JSConf Budapest 2022 - Day One, Late Morning](https://www.youtube.com/watch?v=8nFX7iHtxA8)
