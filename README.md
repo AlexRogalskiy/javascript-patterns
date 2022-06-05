@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[JavaScript] Image Slider! &lpar;Splide Slider&rpar;](https://www.reddit.com/r/javascript/comments/v4vmuk/javascript_image_slider_splide_slider/)
+- [[Nestia] Guide documents have been prepared - evolved SDK and Swagger generator for the NestJS](https://www.reddit.com/r/javascript/comments/v4r8qz/nestia_guide_documents_have_been_prepared_evolved/)
+- [[AskJS] How would you define a headless CMS ?](https://www.reddit.com/r/javascript/comments/v4qud6/askjs_how_would_you_define_a_headless_cms/)
+- [I made a Chrome Extension that displays a detailed Discord rich presence for YouTube!](https://www.reddit.com/r/javascript/comments/v4og9p/i_made_a_chrome_extension_that_displays_a/)
+- [I Made an Extension to create beautiful code snippets from your VSCode environment.](https://www.reddit.com/r/javascript/comments/v4nsc2/i_made_an_extension_to_create_beautiful_code/)
+- [Showoff Saturday &lpar;June 04, 2022&rpar;](https://www.reddit.com/r/javascript/comments/v4jcmz/showoff_saturday_june_04_2022/)
 - [Plasmo – a framework for building modern Chrome extensions](https://www.reddit.com/r/javascript/comments/v4bmzq/plasmo_a_framework_for_building_modern_chrome/)
 - [Created an utility for improving logs of objects on Node.js](https://www.reddit.com/r/javascript/comments/v4bftd/created_an_utility_for_improving_logs_of_objects/)
 - [Using GraphQL Directives efficiently](https://www.reddit.com/r/javascript/comments/v4bepk/using_graphql_directives_efficiently/)
-- [[AskJS] I started JavaScript yesterday, and my code works but is absolutely horrible. Can anybody give me pointers?](https://www.reddit.com/r/javascript/comments/v49yfj/askjs_i_started_javascript_yesterday_and_my_code/)
 - [Component Party - compare common task syntax between top web component JavaScript frameworks](https://www.reddit.com/r/javascript/comments/v490g2/component_party_compare_common_task_syntax/)
-- [[AskJS] What is the access level of FileReader when reading a File?](https://www.reddit.com/r/javascript/comments/v45mnc/askjs_what_is_the_access_level_of_filereader_when/)
-- [[AskJS] What parts of your work you feel could/should be automated by now](https://www.reddit.com/r/javascript/comments/v453cz/askjs_what_parts_of_your_work_you_feel/)
-- [[AskJS] What is the best markdown lib?](https://www.reddit.com/r/javascript/comments/v44pet/askjs_what_is_the_best_markdown_lib/)
-- [[AskJS] Software/library for recognizing spoken words in video/audio](https://www.reddit.com/r/javascript/comments/v43yha/askjs_softwarelibrary_for_recognizing_spoken/)
-- [Lerna is coming back under new stewardship](https://www.reddit.com/r/javascript/comments/v43ih8/lerna_is_coming_back_under_new_stewardship/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
