@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[JavaScript] Image Slider! &lpar;Splide Slider&rpar;](https://www.reddit.com/r/javascript/comments/v4vmuk/javascript_image_slider_splide_slider/)
+- [[AskJS] website game with multiple levels / worlds](https://www.reddit.com/r/javascript/comments/v5r3nc/askjs_website_game_with_multiple_levels_worlds/)
+- [Why You Don’t Really Need Semicolons In JavaScript &lpar;and TypeScript&rpar; Anymore](https://www.reddit.com/r/javascript/comments/v5l4u7/why_you_dont_really_need_semicolons_in_javascript/)
 - [[Nestia] Guide documents have been prepared - evolved SDK and Swagger generator for the NestJS](https://www.reddit.com/r/javascript/comments/v4r8qz/nestia_guide_documents_have_been_prepared_evolved/)
-- [[AskJS] How would you define a headless CMS ?](https://www.reddit.com/r/javascript/comments/v4qud6/askjs_how_would_you_define_a_headless_cms/)
-- [I made a Chrome Extension that displays a detailed Discord rich presence for YouTube!](https://www.reddit.com/r/javascript/comments/v4og9p/i_made_a_chrome_extension_that_displays_a/)
-- [I Made an Extension to create beautiful code snippets from your VSCode environment.](https://www.reddit.com/r/javascript/comments/v4nsc2/i_made_an_extension_to_create_beautiful_code/)
 - [Showoff Saturday &lpar;June 04, 2022&rpar;](https://www.reddit.com/r/javascript/comments/v4jcmz/showoff_saturday_june_04_2022/)
 - [Plasmo – a framework for building modern Chrome extensions](https://www.reddit.com/r/javascript/comments/v4bmzq/plasmo_a_framework_for_building_modern_chrome/)
 - [Created an utility for improving logs of objects on Node.js](https://www.reddit.com/r/javascript/comments/v4bftd/created_an_utility_for_improving_logs_of_objects/)
 - [Using GraphQL Directives efficiently](https://www.reddit.com/r/javascript/comments/v4bepk/using_graphql_directives_efficiently/)
 - [Component Party - compare common task syntax between top web component JavaScript frameworks](https://www.reddit.com/r/javascript/comments/v490g2/component_party_compare_common_task_syntax/)
+- [[AskJS] What is the access level of FileReader when reading a File?](https://www.reddit.com/r/javascript/comments/v45mnc/askjs_what_is_the_access_level_of_filereader_when/)
+- [[AskJS] What parts of your work you feel could/should be automated by now](https://www.reddit.com/r/javascript/comments/v453cz/askjs_what_parts_of_your_work_you_feel/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
