@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] website game with multiple levels / worlds](https://www.reddit.com/r/javascript/comments/v5r3nc/askjs_website_game_with_multiple_levels_worlds/)
-- [Why You Don’t Really Need Semicolons In JavaScript &lpar;and TypeScript&rpar; Anymore](https://www.reddit.com/r/javascript/comments/v5l4u7/why_you_dont_really_need_semicolons_in_javascript/)
+- [Magidoc: A GraphQL documentation generator with re-usable JavaScript plugins](https://www.reddit.com/r/javascript/comments/v6gk9z/magidoc_a_graphql_documentation_generator_with/)
+- [My story with Cubecubed, hope you like it](https://www.reddit.com/r/javascript/comments/v6516v/my_story_with_cubecubed_hope_you_like_it/)
+- [WunderGraph - The Next Generation API Developer Platform - is Open Source!](https://www.reddit.com/r/javascript/comments/v63qnn/wundergraph_the_next_generation_api_developer/)
+- [[AskJS] Isolating system from malicious npm packages](https://www.reddit.com/r/javascript/comments/v5xv63/askjs_isolating_system_from_malicious_npm_packages/)
+- [Iofod supports Flutter 3.0 project generation](https://www.reddit.com/r/javascript/comments/v5vwoj/iofod_supports_flutter_30_project_generation/)
+- [Sideproject: Turn HTML into NFT, by an NFT](https://www.reddit.com/r/javascript/comments/v5v1gy/sideproject_turn_html_into_nft_by_an_nft/)
+- [Took a stab at Svelte by building a little color previewer/sharing tool.](https://www.reddit.com/r/javascript/comments/v5upcd/took_a_stab_at_svelte_by_building_a_little_color/)
 - [[Nestia] Guide documents have been prepared - evolved SDK and Swagger generator for the NestJS](https://www.reddit.com/r/javascript/comments/v4r8qz/nestia_guide_documents_have_been_prepared_evolved/)
 - [Showoff Saturday &lpar;June 04, 2022&rpar;](https://www.reddit.com/r/javascript/comments/v4jcmz/showoff_saturday_june_04_2022/)
 - [Plasmo – a framework for building modern Chrome extensions](https://www.reddit.com/r/javascript/comments/v4bmzq/plasmo_a_framework_for_building_modern_chrome/)
-- [Created an utility for improving logs of objects on Node.js](https://www.reddit.com/r/javascript/comments/v4bftd/created_an_utility_for_improving_logs_of_objects/)
-- [Using GraphQL Directives efficiently](https://www.reddit.com/r/javascript/comments/v4bepk/using_graphql_directives_efficiently/)
-- [Component Party - compare common task syntax between top web component JavaScript frameworks](https://www.reddit.com/r/javascript/comments/v490g2/component_party_compare_common_task_syntax/)
-- [[AskJS] What is the access level of FileReader when reading a File?](https://www.reddit.com/r/javascript/comments/v45mnc/askjs_what_is_the_access_level_of_filereader_when/)
-- [[AskJS] What parts of your work you feel could/should be automated by now](https://www.reddit.com/r/javascript/comments/v453cz/askjs_what_parts_of_your_work_you_feel/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
