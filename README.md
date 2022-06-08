@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Step-by-step guide to do e-KYC in your app](https://www.reddit.com/r/javascript/comments/v7f6lw/stepbystep_guide_to_do_ekyc_in_your_app/)
+- [Don&#39;t miss out.](https://www.reddit.com/r/javascript/comments/v7f1iz/dont_miss_out/)
+- [Optimizing React render performance part 1: Where is it slow?](https://www.reddit.com/r/javascript/comments/v71df2/optimizing_react_render_performance_part_1_where/)
+- [Send automatic patch notes to your Discord server on new releases, using GitHub actions](https://www.reddit.com/r/javascript/comments/v6zycr/send_automatic_patch_notes_to_your_discord_server/)
+- [Cubecubed - A Visualization Engine for Creating Math Animations](https://www.reddit.com/r/javascript/comments/v6xio9/cubecubed_a_visualization_engine_for_creating/)
+- [[AskJS] Would Erlang work better than JS for all the uses to which JS is put?](https://www.reddit.com/r/javascript/comments/v6vtnr/askjs_would_erlang_work_better_than_js_for_all/)
+- [Envy: Synchronize environment variables across different machines](https://www.reddit.com/r/javascript/comments/v6up2r/envy_synchronize_environment_variables_across/)
+- [Fastify DX for React](https://www.reddit.com/r/javascript/comments/v6p7b0/fastify_dx_for_react/)
 - [Magidoc: A GraphQL documentation generator with re-usable JavaScript plugins](https://www.reddit.com/r/javascript/comments/v6gk9z/magidoc_a_graphql_documentation_generator_with/)
 - [My story with Cubecubed, hope you like it](https://www.reddit.com/r/javascript/comments/v6516v/my_story_with_cubecubed_hope_you_like_it/)
-- [WunderGraph - The Next Generation API Developer Platform - is Open Source!](https://www.reddit.com/r/javascript/comments/v63qnn/wundergraph_the_next_generation_api_developer/)
-- [[AskJS] Isolating system from malicious npm packages](https://www.reddit.com/r/javascript/comments/v5xv63/askjs_isolating_system_from_malicious_npm_packages/)
-- [Iofod supports Flutter 3.0 project generation](https://www.reddit.com/r/javascript/comments/v5vwoj/iofod_supports_flutter_30_project_generation/)
-- [Sideproject: Turn HTML into NFT, by an NFT](https://www.reddit.com/r/javascript/comments/v5v1gy/sideproject_turn_html_into_nft_by_an_nft/)
-- [Took a stab at Svelte by building a little color previewer/sharing tool.](https://www.reddit.com/r/javascript/comments/v5upcd/took_a_stab_at_svelte_by_building_a_little_color/)
-- [[Nestia] Guide documents have been prepared - evolved SDK and Swagger generator for the NestJS](https://www.reddit.com/r/javascript/comments/v4r8qz/nestia_guide_documents_have_been_prepared_evolved/)
-- [Showoff Saturday &lpar;June 04, 2022&rpar;](https://www.reddit.com/r/javascript/comments/v4jcmz/showoff_saturday_june_04_2022/)
-- [Plasmo – a framework for building modern Chrome extensions](https://www.reddit.com/r/javascript/comments/v4bmzq/plasmo_a_framework_for_building_modern_chrome/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
