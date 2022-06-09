@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Adding images to our Gatsby blog for social media sharing](https://www.reddit.com/r/javascript/comments/v7zaps/adding_images_to_our_gatsby_blog_for_social_media/)
+- [[AskJS] How do I filter an array of objects based on falsy values?](https://www.reddit.com/r/javascript/comments/v7tq7u/askjs_how_do_i_filter_an_array_of_objects_based/)
+- [Patterns for Building JavaScript Websites in 2022](https://www.reddit.com/r/javascript/comments/v7thko/patterns_for_building_javascript_websites_in_2022/)
+- [Modern Orange - A modern Hacker News client with dark mode optimized for larger screens](https://www.reddit.com/r/javascript/comments/v7ofef/modern_orange_a_modern_hacker_news_client_with/)
+- [Query a PostgreSQL database with a GraphQL feeling.](https://www.reddit.com/r/javascript/comments/v7no5d/query_a_postgresql_database_with_a_graphql_feeling/)
+- [Create a neat PDF resume from JSON data.](https://www.reddit.com/r/javascript/comments/v7ni6c/create_a_neat_pdf_resume_from_json_data/)
+- [TIL that we can send data via sound with javascript](https://www.reddit.com/r/javascript/comments/v7mssx/til_that_we_can_send_data_via_sound_with/)
+- [Behaviour of requestAnimationFrame in hidden iframes](https://www.reddit.com/r/javascript/comments/v7jp5j/behaviour_of_requestanimationframe_in_hidden/)
+- [WTF Wednesday &lpar;June 08, 2022&rpar;](https://www.reddit.com/r/javascript/comments/v7j9rb/wtf_wednesday_june_08_2022/)
 - [Step-by-step guide to do e-KYC in your app](https://www.reddit.com/r/javascript/comments/v7f6lw/stepbystep_guide_to_do_ekyc_in_your_app/)
-- [Don&#39;t miss out.](https://www.reddit.com/r/javascript/comments/v7f1iz/dont_miss_out/)
-- [Optimizing React render performance part 1: Where is it slow?](https://www.reddit.com/r/javascript/comments/v71df2/optimizing_react_render_performance_part_1_where/)
-- [Send automatic patch notes to your Discord server on new releases, using GitHub actions](https://www.reddit.com/r/javascript/comments/v6zycr/send_automatic_patch_notes_to_your_discord_server/)
-- [Cubecubed - A Visualization Engine for Creating Math Animations](https://www.reddit.com/r/javascript/comments/v6xio9/cubecubed_a_visualization_engine_for_creating/)
-- [[AskJS] Would Erlang work better than JS for all the uses to which JS is put?](https://www.reddit.com/r/javascript/comments/v6vtnr/askjs_would_erlang_work_better_than_js_for_all/)
-- [Envy: Synchronize environment variables across different machines](https://www.reddit.com/r/javascript/comments/v6up2r/envy_synchronize_environment_variables_across/)
-- [Fastify DX for React](https://www.reddit.com/r/javascript/comments/v6p7b0/fastify_dx_for_react/)
-- [Magidoc: A GraphQL documentation generator with re-usable JavaScript plugins](https://www.reddit.com/r/javascript/comments/v6gk9z/magidoc_a_graphql_documentation_generator_with/)
-- [My story with Cubecubed, hope you like it](https://www.reddit.com/r/javascript/comments/v6516v/my_story_with_cubecubed_hope_you_like_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
