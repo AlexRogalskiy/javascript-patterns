@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Intro to JHipster: A full-stack framework for Java and JavaScript](https://www.infoworld.com/article/3661308/intro-to-jhipster-a-full-stack-framework-for-java-and-javascript.html#tk.rss_javascript)
 - [Angular 14 arrives with typed forms, standalone components](https://www.infoworld.com/article/3663151/angular-14-arrives-with-typed-forms-standalone-components.html#tk.rss_javascript)
 - [Deno Deploy moves toward GA, adds paid plan](https://www.infoworld.com/article/3663129/deno-deploy-moves-toward-ga-adds-paid-plan.html#tk.rss_javascript)
 - [What is WebAssembly? The next-generation web platform explained](https://www.infoworld.com/article/3291780/what-is-webassembly-the-next-generation-web-platform-explained.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Bootstrap 5.2.0 bolsters CSS, custom components](https://www.infoworld.com/article/3660498/bootstrap-520-bolsters-css-custom-components.html#tk.rss_javascript)
 - [Will JavaScript containers overtake Linux containers?](https://www.infoworld.com/article/3660069/will-javascript-containers-overtake-linux-containers.html#tk.rss_javascript)
 - [PyScript brings Python into the browser, more easily than ever](https://www.infoworld.com/article/3658994/pyscript-brings-python-into-the-browser-more-easily-than-ever.html#tk.rss_javascript)
-- [Deno 1.21 improves REPL, error handling](https://www.infoworld.com/article/3659188/deno-121-improves-repl-error-handling.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
