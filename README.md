@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Adding images to our Gatsby blog for social media sharing](https://www.reddit.com/r/javascript/comments/v7zaps/adding_images_to_our_gatsby_blog_for_social_media/)
-- [[AskJS] How do I filter an array of objects based on falsy values?](https://www.reddit.com/r/javascript/comments/v7tq7u/askjs_how_do_i_filter_an_array_of_objects_based/)
-- [Patterns for Building JavaScript Websites in 2022](https://www.reddit.com/r/javascript/comments/v7thko/patterns_for_building_javascript_websites_in_2022/)
-- [Modern Orange - A modern Hacker News client with dark mode optimized for larger screens](https://www.reddit.com/r/javascript/comments/v7ofef/modern_orange_a_modern_hacker_news_client_with/)
-- [Query a PostgreSQL database with a GraphQL feeling.](https://www.reddit.com/r/javascript/comments/v7no5d/query_a_postgresql_database_with_a_graphql_feeling/)
-- [Create a neat PDF resume from JSON data.](https://www.reddit.com/r/javascript/comments/v7ni6c/create_a_neat_pdf_resume_from_json_data/)
-- [TIL that we can send data via sound with javascript](https://www.reddit.com/r/javascript/comments/v7mssx/til_that_we_can_send_data_via_sound_with/)
-- [Behaviour of requestAnimationFrame in hidden iframes](https://www.reddit.com/r/javascript/comments/v7jp5j/behaviour_of_requestanimationframe_in_hidden/)
-- [WTF Wednesday &lpar;June 08, 2022&rpar;](https://www.reddit.com/r/javascript/comments/v7j9rb/wtf_wednesday_june_08_2022/)
-- [Step-by-step guide to do e-KYC in your app](https://www.reddit.com/r/javascript/comments/v7f6lw/stepbystep_guide_to_do_ekyc_in_your_app/)
+- [Everyone has JavaScript, right?](https://www.reddit.com/r/javascript/comments/v8ve27/everyone_has_javascript_right/)
+- [The Future Of Frontend Build Tools](https://www.reddit.com/r/javascript/comments/v8v8jw/the_future_of_frontend_build_tools/)
+- [[AskJS] How do I practice JavaScript?](https://www.reddit.com/r/javascript/comments/v8ubi5/askjs_how_do_i_practice_javascript/)
+- [Updates from the 90th TC39 meeting!](https://www.reddit.com/r/javascript/comments/v8ub4o/updates_from_the_90th_tc39_meeting/)
+- [Unscript: Run npm scripts using automatically shortened script names](https://www.reddit.com/r/javascript/comments/v8sio2/unscript_run_npm_scripts_using_automatically/)
+- [[AskJS] Implementing a map visualization with &lpar;temporal&rpar; slider?](https://www.reddit.com/r/javascript/comments/v8ne8h/askjs_implementing_a_map_visualization_with/)
+- [Visual Studio Code May 2022](https://www.reddit.com/r/javascript/comments/v8miic/visual_studio_code_may_2022/)
+- [Component Encyclopedia is live!](https://www.reddit.com/r/javascript/comments/v8jo87/component_encyclopedia_is_live/)
+- [FIDO biometric authentication openSaaS packages on NPMJs](https://www.reddit.com/r/javascript/comments/v8jjaz/fido_biometric_authentication_opensaas_packages/)
+- [PNPM: Because to work more flexible we start from the bottom](https://www.reddit.com/r/javascript/comments/v8dyd9/pnpm_because_to_work_more_flexible_we_start_from/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
