@@ -292,6 +292,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Wasmer WebAssembly runtime adds native compilation](https://www.infoworld.com/article/3663675/wasmer-webassembly-runtime-emphasizes-native-compilation.html#tk.rss_javascript)
+- [What is Jamstack? The static website revolution upending web development](https://www.infoworld.com/article/3563829/jamstack-the-static-website-revolution-upending-web-development.html#tk.rss_javascript)
 - [Intro to JHipster: A full-stack framework for Java and JavaScript](https://www.infoworld.com/article/3661308/intro-to-jhipster-a-full-stack-framework-for-java-and-javascript.html#tk.rss_javascript)
 - [Angular 14 arrives with typed forms, standalone components](https://www.infoworld.com/article/3663151/angular-14-arrives-with-typed-forms-standalone-components.html#tk.rss_javascript)
 - [Deno Deploy moves toward GA, adds paid plan](https://www.infoworld.com/article/3663129/deno-deploy-moves-toward-ga-adds-paid-plan.html#tk.rss_javascript)
@@ -300,8 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [TypeScript 4.7 crosses the finish line](https://www.infoworld.com/article/3656801/typescript-47-crosses-the-finish-line.html#tk.rss_javascript)
 - [Developer survey: JavaScript and Python reign, but Rust is rising](https://www.infoworld.com/article/3661248/developer-survey-javascript-and-python-reign-but-rust-is-rising.html#tk.rss_javascript)
 - [Bootstrap 5.2.0 bolsters CSS, custom components](https://www.infoworld.com/article/3660498/bootstrap-520-bolsters-css-custom-components.html#tk.rss_javascript)
-- [Will JavaScript containers overtake Linux containers?](https://www.infoworld.com/article/3660069/will-javascript-containers-overtake-linux-containers.html#tk.rss_javascript)
-- [PyScript brings Python into the browser, more easily than ever](https://www.infoworld.com/article/3658994/pyscript-brings-python-into-the-browser-more-easily-than-ever.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
