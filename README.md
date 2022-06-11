@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Everyone has JavaScript, right?](https://www.reddit.com/r/javascript/comments/v8ve27/everyone_has_javascript_right/)
+- [PeerLite – WebRTC library with perfect negotiation using TypeScript](https://www.reddit.com/r/javascript/comments/v9nn8o/peerlite_webrtc_library_with_perfect_negotiation/)
+- [Virtual Modules for Fun and Profit](https://www.reddit.com/r/javascript/comments/v9m4kg/virtual_modules_for_fun_and_profit/)
+- [10 Things I Wish I’d Known Before I Started Coding](https://www.reddit.com/r/javascript/comments/v9kj8e/10_things_i_wish_id_known_before_i_started_coding/)
+- [[AskJS] Why is one-way binding better than two-way?](https://www.reddit.com/r/javascript/comments/v993r4/askjs_why_is_oneway_binding_better_than_twoway/)
+- [WebKit: Meet Web Push](https://www.reddit.com/r/javascript/comments/v97vmq/webkit_meet_web_push/)
+- [A new library creating object 1.5 ~ 2x faster through JSON.parse&lpar;&rpar;](https://www.reddit.com/r/javascript/comments/v97geo/a_new_library_creating_object_15_2x_faster/)
 - [The Future Of Frontend Build Tools](https://www.reddit.com/r/javascript/comments/v8v8jw/the_future_of_frontend_build_tools/)
 - [[AskJS] How do I practice JavaScript?](https://www.reddit.com/r/javascript/comments/v8ubi5/askjs_how_do_i_practice_javascript/)
 - [Updates from the 90th TC39 meeting!](https://www.reddit.com/r/javascript/comments/v8ub4o/updates_from_the_90th_tc39_meeting/)
-- [Unscript: Run npm scripts using automatically shortened script names](https://www.reddit.com/r/javascript/comments/v8sio2/unscript_run_npm_scripts_using_automatically/)
-- [[AskJS] Implementing a map visualization with &lpar;temporal&rpar; slider?](https://www.reddit.com/r/javascript/comments/v8ne8h/askjs_implementing_a_map_visualization_with/)
 - [Visual Studio Code May 2022](https://www.reddit.com/r/javascript/comments/v8miic/visual_studio_code_may_2022/)
-- [Component Encyclopedia is live!](https://www.reddit.com/r/javascript/comments/v8jo87/component_encyclopedia_is_live/)
-- [FIDO biometric authentication openSaaS packages on NPMJs](https://www.reddit.com/r/javascript/comments/v8jjaz/fido_biometric_authentication_opensaas_packages/)
-- [PNPM: Because to work more flexible we start from the bottom](https://www.reddit.com/r/javascript/comments/v8dyd9/pnpm_because_to_work_more_flexible_we_start_from/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
