@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [My 10 Years Experience as a Javascript Software Engineer](https://www.reddit.com/r/javascript/comments/va0uyz/my_10_years_experience_as_a_javascript_software/)
+- [SolidJS State Management](https://www.reddit.com/r/javascript/comments/v9xlo2/solidjs_state_management/)
+- [[AskJS] technology stack for PWA, ServiceWorker and offline first web app?](https://www.reddit.com/r/javascript/comments/v9v65d/askjs_technology_stack_for_pwa_serviceworker_and/)
+- [[AskJS] How many of you are already using vitest in production, and what are your experiences?](https://www.reddit.com/r/javascript/comments/v9umo3/askjs_how_many_of_you_are_already_using_vitest_in/)
+- [Showoff Saturday &lpar;June 11, 2022&rpar;](https://www.reddit.com/r/javascript/comments/v9ry29/showoff_saturday_june_11_2022/)
+- [Boa release v0.15](https://www.reddit.com/r/javascript/comments/v9qzd5/boa_release_v015/)
 - [PeerLite – WebRTC library with perfect negotiation using TypeScript](https://www.reddit.com/r/javascript/comments/v9nn8o/peerlite_webrtc_library_with_perfect_negotiation/)
 - [Virtual Modules for Fun and Profit](https://www.reddit.com/r/javascript/comments/v9m4kg/virtual_modules_for_fun_and_profit/)
-- [10 Things I Wish I’d Known Before I Started Coding](https://www.reddit.com/r/javascript/comments/v9kj8e/10_things_i_wish_id_known_before_i_started_coding/)
 - [[AskJS] Why is one-way binding better than two-way?](https://www.reddit.com/r/javascript/comments/v993r4/askjs_why_is_oneway_binding_better_than_twoway/)
 - [WebKit: Meet Web Push](https://www.reddit.com/r/javascript/comments/v97vmq/webkit_meet_web_push/)
-- [A new library creating object 1.5 ~ 2x faster through JSON.parse&lpar;&rpar;](https://www.reddit.com/r/javascript/comments/v97geo/a_new_library_creating_object_15_2x_faster/)
-- [The Future Of Frontend Build Tools](https://www.reddit.com/r/javascript/comments/v8v8jw/the_future_of_frontend_build_tools/)
-- [[AskJS] How do I practice JavaScript?](https://www.reddit.com/r/javascript/comments/v8ubi5/askjs_how_do_i_practice_javascript/)
-- [Updates from the 90th TC39 meeting!](https://www.reddit.com/r/javascript/comments/v8ub4o/updates_from_the_90th_tc39_meeting/)
-- [Visual Studio Code May 2022](https://www.reddit.com/r/javascript/comments/v8miic/visual_studio_code_may_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
