@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [BlockLike: Bridging the gap between block programming and JavaScript.](https://www.reddit.com/r/javascript/comments/vawxra/blocklike_bridging_the_gap_between_block/)
+- [How to use bootstrap in React](https://www.reddit.com/r/javascript/comments/vaw55z/how_to_use_bootstrap_in_react/)
 - [My 10 Years Experience as a Javascript Software Engineer](https://www.reddit.com/r/javascript/comments/va0uyz/my_10_years_experience_as_a_javascript_software/)
 - [SolidJS State Management](https://www.reddit.com/r/javascript/comments/v9xlo2/solidjs_state_management/)
 - [[AskJS] technology stack for PWA, ServiceWorker and offline first web app?](https://www.reddit.com/r/javascript/comments/v9v65d/askjs_technology_stack_for_pwa_serviceworker_and/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Boa release v0.15](https://www.reddit.com/r/javascript/comments/v9qzd5/boa_release_v015/)
 - [PeerLite – WebRTC library with perfect negotiation using TypeScript](https://www.reddit.com/r/javascript/comments/v9nn8o/peerlite_webrtc_library_with_perfect_negotiation/)
 - [Virtual Modules for Fun and Profit](https://www.reddit.com/r/javascript/comments/v9m4kg/virtual_modules_for_fun_and_profit/)
-- [[AskJS] Why is one-way binding better than two-way?](https://www.reddit.com/r/javascript/comments/v993r4/askjs_why_is_oneway_binding_better_than_twoway/)
-- [WebKit: Meet Web Push](https://www.reddit.com/r/javascript/comments/v97vmq/webkit_meet_web_push/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
