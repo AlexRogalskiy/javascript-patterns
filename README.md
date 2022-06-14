@@ -322,6 +322,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *YouTube code posts*
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [Typed JavaScript? For real? The “type annotations” proposal and what it’s all about by Gil Tayar](https://www.youtube.com/watch?v=SdV9Xy0E4CM)
+- [History of Art vs. Web Design vs. Frontend Development by Nils Binder](https://www.youtube.com/watch?v=SvD85zmWO0A)
 - [JSConf Budapest 2022](https://www.youtube.com/watch?v=okYa03hhI3g)
 - [JSConf Budapest 2022 - Day One, Morning](https://www.youtube.com/watch?v=z4JnSGupxUs)
 - [JSConf Budapest 2022 - Day Two, Afternoon](https://www.youtube.com/watch?v=Tu1iUxtmSSw)
@@ -330,8 +332,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [JSConf Budapest 2022 - Day One, Afternoon](https://www.youtube.com/watch?v=eV40Y4nbpN8)
 - [JSConf Budapest 2022 - Day One, After Lunch](https://www.youtube.com/watch?v=uotwoqAwPtY)
 - [JSConf Budapest 2022 - Day One, Late Morning](https://www.youtube.com/watch?v=8nFX7iHtxA8)
-- [Accesibilidad web, mejorando internet con pocas líneas de código - David Flores](https://www.youtube.com/watch?v=eO_B2XyVU1Y)
-- [Modular Audio Visualisation with modV - Tim Pietrusky](https://www.youtube.com/watch?v=GQHBWU-zYTA)
 <!-- YOUTUBE-POST-LIST:END -->
 
 ### *ReactJS posts*
