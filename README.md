@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A Visual Introduction To Machine Learning &lpar;With Live In-Browser Model&rpar;](https://www.reddit.com/r/javascript/comments/vbin1p/a_visual_introduction_to_machine_learning_with/)
+- [Angular 14 comes with many features and improvements to help developers build powerful applications. Here we have covered all the major features of Angular 14.](https://www.reddit.com/r/javascript/comments/vbc9wy/angular_14_comes_with_many_features_and/)
+- [[AskJS] What do you name your &lpar;fractional&rpar; monetary variables?](https://www.reddit.com/r/javascript/comments/vb9iye/askjs_what_do_you_name_your_fractional_monetary/)
 - [BlockLike: Bridging the gap between block programming and JavaScript.](https://www.reddit.com/r/javascript/comments/vawxra/blocklike_bridging_the_gap_between_block/)
 - [How to use bootstrap in React](https://www.reddit.com/r/javascript/comments/vaw55z/how_to_use_bootstrap_in_react/)
 - [My 10 Years Experience as a Javascript Software Engineer](https://www.reddit.com/r/javascript/comments/va0uyz/my_10_years_experience_as_a_javascript_software/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [[AskJS] technology stack for PWA, ServiceWorker and offline first web app?](https://www.reddit.com/r/javascript/comments/v9v65d/askjs_technology_stack_for_pwa_serviceworker_and/)
 - [[AskJS] How many of you are already using vitest in production, and what are your experiences?](https://www.reddit.com/r/javascript/comments/v9umo3/askjs_how_many_of_you_are_already_using_vitest_in/)
 - [Showoff Saturday &lpar;June 11, 2022&rpar;](https://www.reddit.com/r/javascript/comments/v9ry29/showoff_saturday_june_11_2022/)
-- [Boa release v0.15](https://www.reddit.com/r/javascript/comments/v9qzd5/boa_release_v015/)
-- [PeerLite – WebRTC library with perfect negotiation using TypeScript](https://www.reddit.com/r/javascript/comments/v9nn8o/peerlite_webrtc_library_with_perfect_negotiation/)
-- [Virtual Modules for Fun and Profit](https://www.reddit.com/r/javascript/comments/v9m4kg/virtual_modules_for_fun_and_profit/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
