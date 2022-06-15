@@ -322,6 +322,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *YouTube code posts*
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [The ins and outs of Core Web Vitals by Dan Shappir](https://www.youtube.com/watch?v=5Ox0nqa_pPc)
+- [What I&#39;ve learned on Being a better Engineer from being a Product Manager by Noa Katsovich](https://www.youtube.com/watch?v=iKtc0BbqLCs)
 - [Typed JavaScript? For real? The “type annotations” proposal and what it’s all about by Gil Tayar](https://www.youtube.com/watch?v=SdV9Xy0E4CM)
 - [History of Art vs. Web Design vs. Frontend Development by Nils Binder](https://www.youtube.com/watch?v=SvD85zmWO0A)
 - [JSConf Budapest 2022](https://www.youtube.com/watch?v=okYa03hhI3g)
@@ -330,8 +332,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [JSConf Budapest 2022 - Day Two, After Lunch](https://www.youtube.com/watch?v=Ru-vrfJC_Gg)
 - [JSConf Budapest 2022 - Day Two, Late Morning](https://www.youtube.com/watch?v=xg9mYk_RNw0)
 - [JSConf Budapest 2022 - Day One, Afternoon](https://www.youtube.com/watch?v=eV40Y4nbpN8)
-- [JSConf Budapest 2022 - Day One, After Lunch](https://www.youtube.com/watch?v=uotwoqAwPtY)
-- [JSConf Budapest 2022 - Day One, Late Morning](https://www.youtube.com/watch?v=8nFX7iHtxA8)
 <!-- YOUTUBE-POST-LIST:END -->
 
 ### *ReactJS posts*
