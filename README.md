@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Web App Authentication Workflow with Vue and Firebase](https://www.reddit.com/r/javascript/comments/vcebpp/web_app_authentication_workflow_with_vue_and/)
+- [Most Used Individual JavaScript Libraries - jQuery still leads](https://www.reddit.com/r/javascript/comments/vccw2f/most_used_individual_javascript_libraries_jquery/)
+- [Modern, functional JavaScript lessons](https://www.reddit.com/r/javascript/comments/vcc99d/modern_functional_javascript_lessons/)
+- [zx 7.0.0 release](https://www.reddit.com/r/javascript/comments/vc7r4p/zx_700_release/)
+- [Everything Is Broken: Shipping rust-minidump at Mozilla – Part 1](https://www.reddit.com/r/javascript/comments/vc7hsc/everything_is_broken_shipping_rustminidump_at/)
+- [Push API: Web Push Notifications are coming to iOS and Safari &lpar;confirmed by Apple&rpar;](https://www.reddit.com/r/javascript/comments/vbyuaw/push_api_web_push_notifications_are_coming_to_ios/)
+- [Create a Truly Immersive Metaverse Experience Through Web3 Sound Effects](https://www.reddit.com/r/javascript/comments/vbyjlq/create_a_truly_immersive_metaverse_experience/)
+- [Node.js is performant, mostly.](https://www.reddit.com/r/javascript/comments/vbwb3j/nodejs_is_performant_mostly/)
+- [Fully Functional Youtube Clone Using Firebase, FFmpeg, And React](https://www.reddit.com/r/javascript/comments/vbvxsf/fully_functional_youtube_clone_using_firebase/)
 - [A Visual Introduction To Machine Learning &lpar;With Live In-Browser Model&rpar;](https://www.reddit.com/r/javascript/comments/vbin1p/a_visual_introduction_to_machine_learning_with/)
-- [Angular 14 comes with many features and improvements to help developers build powerful applications. Here we have covered all the major features of Angular 14.](https://www.reddit.com/r/javascript/comments/vbc9wy/angular_14_comes_with_many_features_and/)
-- [[AskJS] What do you name your &lpar;fractional&rpar; monetary variables?](https://www.reddit.com/r/javascript/comments/vb9iye/askjs_what_do_you_name_your_fractional_monetary/)
-- [BlockLike: Bridging the gap between block programming and JavaScript.](https://www.reddit.com/r/javascript/comments/vawxra/blocklike_bridging_the_gap_between_block/)
-- [How to use bootstrap in React](https://www.reddit.com/r/javascript/comments/vaw55z/how_to_use_bootstrap_in_react/)
-- [My 10 Years Experience as a Javascript Software Engineer](https://www.reddit.com/r/javascript/comments/va0uyz/my_10_years_experience_as_a_javascript_software/)
-- [SolidJS State Management](https://www.reddit.com/r/javascript/comments/v9xlo2/solidjs_state_management/)
-- [[AskJS] technology stack for PWA, ServiceWorker and offline first web app?](https://www.reddit.com/r/javascript/comments/v9v65d/askjs_technology_stack_for_pwa_serviceworker_and/)
-- [[AskJS] How many of you are already using vitest in production, and what are your experiences?](https://www.reddit.com/r/javascript/comments/v9umo3/askjs_how_many_of_you_are_already_using_vitest_in/)
-- [Showoff Saturday &lpar;June 11, 2022&rpar;](https://www.reddit.com/r/javascript/comments/v9ry29/showoff_saturday_june_11_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
