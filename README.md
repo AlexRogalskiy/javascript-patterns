@@ -322,6 +322,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *YouTube code posts*
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [Cool things to do with Voice Interfaces &lpar;and lots of things you shouldn&#39;t&rpar; by Sarah Saunders](https://www.youtube.com/watch?v=l9pUqN39VIo)
+- [Is there #Stress in the world of #Tech? by Crux Conception](https://www.youtube.com/watch?v=50MVwFWe0hA)
 - [The ins and outs of Core Web Vitals by Dan Shappir](https://www.youtube.com/watch?v=5Ox0nqa_pPc)
 - [What I&#39;ve learned on Being a better Engineer from being a Product Manager by Noa Katsovich](https://www.youtube.com/watch?v=iKtc0BbqLCs)
 - [Typed JavaScript? For real? The “type annotations” proposal and what it’s all about by Gil Tayar](https://www.youtube.com/watch?v=SdV9Xy0E4CM)
@@ -330,8 +332,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [JSConf Budapest 2022 - Day One, Morning](https://www.youtube.com/watch?v=z4JnSGupxUs)
 - [JSConf Budapest 2022 - Day Two, Afternoon](https://www.youtube.com/watch?v=Tu1iUxtmSSw)
 - [JSConf Budapest 2022 - Day Two, After Lunch](https://www.youtube.com/watch?v=Ru-vrfJC_Gg)
-- [JSConf Budapest 2022 - Day Two, Late Morning](https://www.youtube.com/watch?v=xg9mYk_RNw0)
-- [JSConf Budapest 2022 - Day One, Afternoon](https://www.youtube.com/watch?v=eV40Y4nbpN8)
 <!-- YOUTUBE-POST-LIST:END -->
 
 ### *ReactJS posts*
