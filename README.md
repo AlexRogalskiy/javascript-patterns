@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Web App Authentication Workflow with Vue and Firebase](https://www.reddit.com/r/javascript/comments/vcebpp/web_app_authentication_workflow_with_vue_and/)
+- [Fusion of Bitcoin &lpar;integrity&rpar; and Nano &lpar;speed&rpar; Proof of Concept with JavaScript.](https://www.reddit.com/r/javascript/comments/vd9h6z/fusion_of_bitcoin_integrity_and_nano_speed_proof/)
+- [Announcing Socket for GitHub 1.0](https://www.reddit.com/r/javascript/comments/vd7fea/announcing_socket_for_github_10/)
+- [Verify If A Url Links To An Image &lpar;Without Relying On Regex&rpar;](https://www.reddit.com/r/javascript/comments/vd0xg1/verify_if_a_url_links_to_an_image_without_relying/)
+- [Ditch your database... for a compiler? arrow functions as a query language](https://www.reddit.com/r/javascript/comments/vczofy/ditch_your_database_for_a_compiler_arrow/)
+- [[AskJS] Need help decoding for the right approach/solution](https://www.reddit.com/r/javascript/comments/vcyb6c/askjs_need_help_decoding_for_the_right/)
+- [Deepkit - High-Performance TypeScript Framework](https://www.reddit.com/r/javascript/comments/vcw53d/deepkit_highperformance_typescript_framework/)
+- [Create a lyrics search engine using RediSearch](https://www.reddit.com/r/javascript/comments/vcvio7/create_a_lyrics_search_engine_using_redisearch/)
+- [Microvium is very small -The Microvium JavaScript engine for microcontrollers takes about 8.5 kB of ROM and 34 bytes of RAM per VM while idle](https://www.reddit.com/r/javascript/comments/vcrqpo/microvium_is_very_small_the_microvium_javascript/)
+- [WTF Wednesday &lpar;June 15, 2022&rpar;](https://www.reddit.com/r/javascript/comments/vcohzh/wtf_wednesday_june_15_2022/)
 - [Most Used Individual JavaScript Libraries - jQuery still leads](https://www.reddit.com/r/javascript/comments/vccw2f/most_used_individual_javascript_libraries_jquery/)
-- [Modern, functional JavaScript lessons](https://www.reddit.com/r/javascript/comments/vcc99d/modern_functional_javascript_lessons/)
-- [zx 7.0.0 release](https://www.reddit.com/r/javascript/comments/vc7r4p/zx_700_release/)
-- [Everything Is Broken: Shipping rust-minidump at Mozilla – Part 1](https://www.reddit.com/r/javascript/comments/vc7hsc/everything_is_broken_shipping_rustminidump_at/)
-- [Push API: Web Push Notifications are coming to iOS and Safari &lpar;confirmed by Apple&rpar;](https://www.reddit.com/r/javascript/comments/vbyuaw/push_api_web_push_notifications_are_coming_to_ios/)
-- [Create a Truly Immersive Metaverse Experience Through Web3 Sound Effects](https://www.reddit.com/r/javascript/comments/vbyjlq/create_a_truly_immersive_metaverse_experience/)
-- [Node.js is performant, mostly.](https://www.reddit.com/r/javascript/comments/vbwb3j/nodejs_is_performant_mostly/)
-- [Fully Functional Youtube Clone Using Firebase, FFmpeg, And React](https://www.reddit.com/r/javascript/comments/vbvxsf/fully_functional_youtube_clone_using_firebase/)
-- [A Visual Introduction To Machine Learning &lpar;With Live In-Browser Model&rpar;](https://www.reddit.com/r/javascript/comments/vbin1p/a_visual_introduction_to_machine_learning_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
