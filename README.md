@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Fusion of Bitcoin &lpar;integrity&rpar; and Nano &lpar;speed&rpar; Proof of Concept with JavaScript.](https://www.reddit.com/r/javascript/comments/vd9h6z/fusion_of_bitcoin_integrity_and_nano_speed_proof/)
-- [Announcing Socket for GitHub 1.0](https://www.reddit.com/r/javascript/comments/vd7fea/announcing_socket_for_github_10/)
-- [Verify If A Url Links To An Image &lpar;Without Relying On Regex&rpar;](https://www.reddit.com/r/javascript/comments/vd0xg1/verify_if_a_url_links_to_an_image_without_relying/)
-- [Ditch your database... for a compiler? arrow functions as a query language](https://www.reddit.com/r/javascript/comments/vczofy/ditch_your_database_for_a_compiler_arrow/)
-- [[AskJS] Need help decoding for the right approach/solution](https://www.reddit.com/r/javascript/comments/vcyb6c/askjs_need_help_decoding_for_the_right/)
-- [Deepkit - High-Performance TypeScript Framework](https://www.reddit.com/r/javascript/comments/vcw53d/deepkit_highperformance_typescript_framework/)
-- [Create a lyrics search engine using RediSearch](https://www.reddit.com/r/javascript/comments/vcvio7/create_a_lyrics_search_engine_using_redisearch/)
-- [Microvium is very small -The Microvium JavaScript engine for microcontrollers takes about 8.5 kB of ROM and 34 bytes of RAM per VM while idle](https://www.reddit.com/r/javascript/comments/vcrqpo/microvium_is_very_small_the_microvium_javascript/)
-- [WTF Wednesday &lpar;June 15, 2022&rpar;](https://www.reddit.com/r/javascript/comments/vcohzh/wtf_wednesday_june_15_2022/)
-- [Most Used Individual JavaScript Libraries - jQuery still leads](https://www.reddit.com/r/javascript/comments/vccw2f/most_used_individual_javascript_libraries_jquery/)
+- [Phaze - A maze with extra things to do](https://www.reddit.com/r/javascript/comments/vdwm5n/phaze_a_maze_with_extra_things_to_do/)
+- [Bringing forward the End-of-Life Date for Node.js 16](https://www.reddit.com/r/javascript/comments/vdwg0j/bringing_forward_the_endoflife_date_for_nodejs_16/)
+- [There is a high throughput Fizz Buzz in almost every language now, except JavaScript - would be cool if someone would write one in JS.](https://www.reddit.com/r/javascript/comments/vdsf4q/there_is_a_high_throughput_fizz_buzz_in_almost/)
+- [[AskJS] Does your company enforce Prettier for the whole team?](https://www.reddit.com/r/javascript/comments/vdq9vz/askjs_does_your_company_enforce_prettier_for_the/)
+- [A type-safe i18n React library](https://www.reddit.com/r/javascript/comments/vdpxj4/a_typesafe_i18n_react_library/)
+- [The Reason Why Order in React Hooks Matters](https://www.reddit.com/r/javascript/comments/vdojls/the_reason_why_order_in_react_hooks_matters/)
+- [Hacks Decoded: Bikes and Boomboxes with Samuel Aboagye](https://www.reddit.com/r/javascript/comments/vdobtt/hacks_decoded_bikes_and_boomboxes_with_samuel/)
+- [Notes on maintaining an internal React component library](https://www.reddit.com/r/javascript/comments/vdn8oe/notes_on_maintaining_an_internal_react_component/)
+- [It’s a Happy Birthday: Postman WebSocket Support Turns 1](https://www.reddit.com/r/javascript/comments/vdkb99/its_a_happy_birthday_postman_websocket_support/)
+- [Revenge of the JavaScript: Moving from Hugo to Next.js](https://www.reddit.com/r/javascript/comments/vdk0vh/revenge_of_the_javascript_moving_from_hugo_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
