@@ -292,16 +292,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Okta’s Matt Raible: How I became a Java hipster](https://www.infoworld.com/article/3663677/oktas-matt-raible-how-i-became-a-java-hipster.html#tk.rss_javascript)
 - [Kotlin unveils K2 compiler](https://www.infoworld.com/article/3663519/kotlin-unveils-k2-compiler.html#tk.rss_javascript)
-- [What is Jamstack? The static website revolution upending web development](https://www.infoworld.com/article/3563829/jamstack-the-static-website-revolution-upending-web-development.html#tk.rss_javascript)
 - [Wasmer WebAssembly runtime adds native compilation](https://www.infoworld.com/article/3663675/wasmer-webassembly-runtime-emphasizes-native-compilation.html#tk.rss_javascript)
+- [What is Jamstack? The static website revolution upending web development](https://www.infoworld.com/article/3563829/jamstack-the-static-website-revolution-upending-web-development.html#tk.rss_javascript)
 - [Intro to JHipster: A full-stack framework for Java and JavaScript](https://www.infoworld.com/article/3661308/intro-to-jhipster-a-full-stack-framework-for-java-and-javascript.html#tk.rss_javascript)
 - [Angular 14 arrives with typed forms, standalone components](https://www.infoworld.com/article/3663151/angular-14-arrives-with-typed-forms-standalone-components.html#tk.rss_javascript)
 - [Deno Deploy moves toward GA, adds paid plan](https://www.infoworld.com/article/3663129/deno-deploy-moves-toward-ga-adds-paid-plan.html#tk.rss_javascript)
 - [What is WebAssembly? The next-generation web platform explained](https://www.infoworld.com/article/3291780/what-is-webassembly-the-next-generation-web-platform-explained.html#tk.rss_javascript)
 - [Reactive JavaScript: The evolution of front-end architecture](https://www.infoworld.com/article/3661810/reactive-javascript-the-evolution-of-front-end-architecture.html#tk.rss_javascript)
 - [TypeScript 4.7 crosses the finish line](https://www.infoworld.com/article/3656801/typescript-47-crosses-the-finish-line.html#tk.rss_javascript)
-- [Developer survey: JavaScript and Python reign, but Rust is rising](https://www.infoworld.com/article/3661248/developer-survey-javascript-and-python-reign-but-rust-is-rising.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
