@@ -322,6 +322,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *YouTube code posts*
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [7±2 Reasons Psychology Will Help You Write Better Code by Moran Weber](https://www.youtube.com/watch?v=jAUcbFM0nXE)
+- [The Doctor Will See You Now: Machine Learning for Telehealth by Mark Brouch](https://www.youtube.com/watch?v=09C_smbaqAo)
 - [Testing Web Accessibility by Adrián Bolonio](https://www.youtube.com/watch?v=eZnTIPQ4UuA)
 - [No way, JOSE! by Sam Bellen](https://www.youtube.com/watch?v=_WsIjIQKn7M)
 - [Cool things to do with Voice Interfaces &lpar;and lots of things you shouldn&#39;t&rpar; by Sarah Saunders](https://www.youtube.com/watch?v=l9pUqN39VIo)
@@ -330,8 +332,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [What I&#39;ve learned on Being a better Engineer from being a Product Manager by Noa Katsovich](https://www.youtube.com/watch?v=iKtc0BbqLCs)
 - [Typed JavaScript? For real? The “type annotations” proposal and what it’s all about by Gil Tayar](https://www.youtube.com/watch?v=SdV9Xy0E4CM)
 - [History of Art vs. Web Design vs. Frontend Development by Nils Binder](https://www.youtube.com/watch?v=SvD85zmWO0A)
-- [JSConf Budapest 2022](https://www.youtube.com/watch?v=okYa03hhI3g)
-- [JSConf Budapest 2022 - Day One, Morning](https://www.youtube.com/watch?v=z4JnSGupxUs)
 <!-- YOUTUBE-POST-LIST:END -->
 
 ### *ReactJS posts*
