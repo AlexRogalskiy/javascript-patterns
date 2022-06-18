@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Phaze - A maze with extra things to do](https://www.reddit.com/r/javascript/comments/vdwm5n/phaze_a_maze_with_extra_things_to_do/)
-- [Bringing forward the End-of-Life Date for Node.js 16](https://www.reddit.com/r/javascript/comments/vdwg0j/bringing_forward_the_endoflife_date_for_nodejs_16/)
-- [There is a high throughput Fizz Buzz in almost every language now, except JavaScript - would be cool if someone would write one in JS.](https://www.reddit.com/r/javascript/comments/vdsf4q/there_is_a_high_throughput_fizz_buzz_in_almost/)
-- [[AskJS] Does your company enforce Prettier for the whole team?](https://www.reddit.com/r/javascript/comments/vdq9vz/askjs_does_your_company_enforce_prettier_for_the/)
-- [A type-safe i18n React library](https://www.reddit.com/r/javascript/comments/vdpxj4/a_typesafe_i18n_react_library/)
-- [The Reason Why Order in React Hooks Matters](https://www.reddit.com/r/javascript/comments/vdojls/the_reason_why_order_in_react_hooks_matters/)
-- [Hacks Decoded: Bikes and Boomboxes with Samuel Aboagye](https://www.reddit.com/r/javascript/comments/vdobtt/hacks_decoded_bikes_and_boomboxes_with_samuel/)
-- [Notes on maintaining an internal React component library](https://www.reddit.com/r/javascript/comments/vdn8oe/notes_on_maintaining_an_internal_react_component/)
-- [It’s a Happy Birthday: Postman WebSocket Support Turns 1](https://www.reddit.com/r/javascript/comments/vdkb99/its_a_happy_birthday_postman_websocket_support/)
-- [Revenge of the JavaScript: Moving from Hugo to Next.js](https://www.reddit.com/r/javascript/comments/vdk0vh/revenge_of_the_javascript_moving_from_hugo_to/)
+- [[AskJS] Confused and Struggling](https://www.reddit.com/r/javascript/comments/vers2r/askjs_confused_and_struggling/)
+- [I created the S3 store manage panel. Check comments.](https://www.reddit.com/r/javascript/comments/veqiqf/i_created_the_s3_store_manage_panel_check_comments/)
+- [[AskJS] JS headless CMS dilema](https://www.reddit.com/r/javascript/comments/veobpe/askjs_js_headless_cms_dilema/)
+- [Troubleshooting a JavaScript memory leak](https://www.reddit.com/r/javascript/comments/vemhqb/troubleshooting_a_javascript_memory_leak/)
+- [Discontinuing release blog posts](https://www.reddit.com/r/javascript/comments/vemga4/discontinuing_release_blog_posts/)
+- [Why does Nx require to list monorepo packages in the package.json ?](https://www.reddit.com/r/javascript/comments/vejon0/why_does_nx_require_to_list_monorepo_packages_in/)
+- [Overture.js - a powerful basis for building really slick web applications, with performance at, or surpassing, native apps. It&#39;s a library of most of the general-purpose frontend code that powers FastMail](https://www.reddit.com/r/javascript/comments/vehe35/overturejs_a_powerful_basis_for_building_really/)
+- [A Weaponized npm Package &#39;@core-pas/cyb-core&#39; Proclaimed Pentesting Related](https://www.reddit.com/r/javascript/comments/vecvkl/a_weaponized_npm_package_corepascybcore/)
+- [AbortController is your friend](https://www.reddit.com/r/javascript/comments/ve96pn/abortcontroller_is_your_friend/)
+- [React Component Testing with Cypress 10](https://www.reddit.com/r/javascript/comments/ve8uhk/react_component_testing_with_cypress_10/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
