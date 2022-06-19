@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Showoff Saturday &lpar;June 18, 2022&rpar;](https://www.reddit.com/r/javascript/comments/vf0j3j/showoff_saturday_june_18_2022/)
 - [[AskJS] Confused and Struggling](https://www.reddit.com/r/javascript/comments/vers2r/askjs_confused_and_struggling/)
-- [I created the S3 store manage panel. Check comments.](https://www.reddit.com/r/javascript/comments/veqiqf/i_created_the_s3_store_manage_panel_check_comments/)
 - [[AskJS] JS headless CMS dilema](https://www.reddit.com/r/javascript/comments/veobpe/askjs_js_headless_cms_dilema/)
 - [Troubleshooting a JavaScript memory leak](https://www.reddit.com/r/javascript/comments/vemhqb/troubleshooting_a_javascript_memory_leak/)
 - [Discontinuing release blog posts](https://www.reddit.com/r/javascript/comments/vemga4/discontinuing_release_blog_posts/)
-- [Why does Nx require to list monorepo packages in the package.json ?](https://www.reddit.com/r/javascript/comments/vejon0/why_does_nx_require_to_list_monorepo_packages_in/)
 - [Overture.js - a powerful basis for building really slick web applications, with performance at, or surpassing, native apps. It&#39;s a library of most of the general-purpose frontend code that powers FastMail](https://www.reddit.com/r/javascript/comments/vehe35/overturejs_a_powerful_basis_for_building_really/)
 - [A Weaponized npm Package &#39;@core-pas/cyb-core&#39; Proclaimed Pentesting Related](https://www.reddit.com/r/javascript/comments/vecvkl/a_weaponized_npm_package_corepascybcore/)
 - [AbortController is your friend](https://www.reddit.com/r/javascript/comments/ve96pn/abortcontroller_is_your_friend/)
 - [React Component Testing with Cypress 10](https://www.reddit.com/r/javascript/comments/ve8uhk/react_component_testing_with_cypress_10/)
+- [[AskJS] IF you were hiring a MERN/js/react dev, what are the must-haves/skills/little-things you’d look for? What interview questions would you ask?](https://www.reddit.com/r/javascript/comments/ve8mab/askjs_if_you_were_hiring_a_mernjsreact_dev_what/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
