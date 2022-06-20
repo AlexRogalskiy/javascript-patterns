@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [writing unit test in javascript using jest](https://www.reddit.com/r/javascript/comments/vgb0yw/writing_unit_test_in_javascript_using_jest/)
+- [Modal Components in React](https://www.reddit.com/r/javascript/comments/vg76n6/modal_components_in_react/)
+- [You don&#39;t need void 0 in JavaScript](https://www.reddit.com/r/javascript/comments/vg22sm/you_dont_need_void_0_in_javascript/)
+- [LINQ, Java Stream API like library for Javascript / Typescript](https://www.reddit.com/r/javascript/comments/vfzxc6/linq_java_stream_api_like_library_for_javascript/)
+- [The JavaScript block statement](https://www.reddit.com/r/javascript/comments/vfyaxh/the_javascript_block_statement/)
+- [Web Accessibility in React](https://www.reddit.com/r/javascript/comments/vfqmpn/web_accessibility_in_react/)
+- [How to Use Webpack Module Federation in React](https://www.reddit.com/r/javascript/comments/vfn8mi/how_to_use_webpack_module_federation_in_react/)
+- [[AskJS] Question about caching JWT in SPA](https://www.reddit.com/r/javascript/comments/vfmdws/askjs_question_about_caching_jwt_in_spa/)
 - [Showoff Saturday &lpar;June 18, 2022&rpar;](https://www.reddit.com/r/javascript/comments/vf0j3j/showoff_saturday_june_18_2022/)
 - [[AskJS] Confused and Struggling](https://www.reddit.com/r/javascript/comments/vers2r/askjs_confused_and_struggling/)
-- [[AskJS] JS headless CMS dilema](https://www.reddit.com/r/javascript/comments/veobpe/askjs_js_headless_cms_dilema/)
-- [Troubleshooting a JavaScript memory leak](https://www.reddit.com/r/javascript/comments/vemhqb/troubleshooting_a_javascript_memory_leak/)
-- [Discontinuing release blog posts](https://www.reddit.com/r/javascript/comments/vemga4/discontinuing_release_blog_posts/)
-- [Overture.js - a powerful basis for building really slick web applications, with performance at, or surpassing, native apps. It&#39;s a library of most of the general-purpose frontend code that powers FastMail](https://www.reddit.com/r/javascript/comments/vehe35/overturejs_a_powerful_basis_for_building_really/)
-- [A Weaponized npm Package &#39;@core-pas/cyb-core&#39; Proclaimed Pentesting Related](https://www.reddit.com/r/javascript/comments/vecvkl/a_weaponized_npm_package_corepascybcore/)
-- [AbortController is your friend](https://www.reddit.com/r/javascript/comments/ve96pn/abortcontroller_is_your_friend/)
-- [React Component Testing with Cypress 10](https://www.reddit.com/r/javascript/comments/ve8uhk/react_component_testing_with_cypress_10/)
-- [[AskJS] IF you were hiring a MERN/js/react dev, what are the must-haves/skills/little-things you’d look for? What interview questions would you ask?](https://www.reddit.com/r/javascript/comments/ve8mab/askjs_if_you_were_hiring_a_mernjsreact_dev_what/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
