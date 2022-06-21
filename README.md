@@ -322,6 +322,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *YouTube code posts*
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [Two years of pandemic for our mental health: and now what? by Antonio Cobo](https://www.youtube.com/watch?v=0KK_3vvvaaI)
+- [To kill a working drone: flying a drone with twitter, bananas &amp; Web APIs by Nhlanhla Lucky Nkosi](https://www.youtube.com/watch?v=2vg1tlvETt0)
 - [7±2 Reasons Psychology Will Help You Write Better Code by Moran Weber](https://www.youtube.com/watch?v=jAUcbFM0nXE)
 - [The Doctor Will See You Now: Machine Learning for Telehealth by Mark Brouch](https://www.youtube.com/watch?v=09C_smbaqAo)
 - [Testing Web Accessibility by Adrián Bolonio](https://www.youtube.com/watch?v=eZnTIPQ4UuA)
@@ -330,8 +332,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Is there #Stress in the world of #Tech? by Crux Conception](https://www.youtube.com/watch?v=50MVwFWe0hA)
 - [The ins and outs of Core Web Vitals by Dan Shappir](https://www.youtube.com/watch?v=5Ox0nqa_pPc)
 - [What I&#39;ve learned on Being a better Engineer from being a Product Manager by Noa Katsovich](https://www.youtube.com/watch?v=iKtc0BbqLCs)
-- [Typed JavaScript? For real? The “type annotations” proposal and what it’s all about by Gil Tayar](https://www.youtube.com/watch?v=SdV9Xy0E4CM)
-- [History of Art vs. Web Design vs. Frontend Development by Nils Binder](https://www.youtube.com/watch?v=SvD85zmWO0A)
 <!-- YOUTUBE-POST-LIST:END -->
 
 ### *ReactJS posts*
