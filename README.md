@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [writing unit test in javascript using jest](https://www.reddit.com/r/javascript/comments/vgb0yw/writing_unit_test_in_javascript_using_jest/)
-- [Modal Components in React](https://www.reddit.com/r/javascript/comments/vg76n6/modal_components_in_react/)
-- [You don&#39;t need void 0 in JavaScript](https://www.reddit.com/r/javascript/comments/vg22sm/you_dont_need_void_0_in_javascript/)
-- [LINQ, Java Stream API like library for Javascript / Typescript](https://www.reddit.com/r/javascript/comments/vfzxc6/linq_java_stream_api_like_library_for_javascript/)
-- [The JavaScript block statement](https://www.reddit.com/r/javascript/comments/vfyaxh/the_javascript_block_statement/)
-- [Web Accessibility in React](https://www.reddit.com/r/javascript/comments/vfqmpn/web_accessibility_in_react/)
-- [How to Use Webpack Module Federation in React](https://www.reddit.com/r/javascript/comments/vfn8mi/how_to_use_webpack_module_federation_in_react/)
-- [[AskJS] Question about caching JWT in SPA](https://www.reddit.com/r/javascript/comments/vfmdws/askjs_question_about_caching_jwt_in_spa/)
-- [Showoff Saturday &lpar;June 18, 2022&rpar;](https://www.reddit.com/r/javascript/comments/vf0j3j/showoff_saturday_june_18_2022/)
-- [[AskJS] Confused and Struggling](https://www.reddit.com/r/javascript/comments/vers2r/askjs_confused_and_struggling/)
+- [Create, test, and deploy a serverless Node.js REST API with Mocha on GCP](https://www.reddit.com/r/javascript/comments/vh2lqt/create_test_and_deploy_a_serverless_nodejs_rest/)
+- [[AskJS] Programming Concepts](https://www.reddit.com/r/javascript/comments/vgz74w/askjs_programming_concepts/)
+- [Library for procedurally generating 2D space scenes](https://www.reddit.com/r/javascript/comments/vgy5ec/library_for_procedurally_generating_2d_space/)
+- [I ran a performance test on the impact of using Google Analytics on your website](https://www.reddit.com/r/javascript/comments/vgw43o/i_ran_a_performance_test_on_the_impact_of_using/)
+- [Date Picker Calendars CSS JavaScript Code](https://www.reddit.com/r/javascript/comments/vguhrj/date_picker_calendars_css_javascript_code/)
+- [I wrote a new tiny OAuth2 library for Javascript](https://www.reddit.com/r/javascript/comments/vgu1qp/i_wrote_a_new_tiny_oauth2_library_for_javascript/)
+- [Automation platform with advanced monitoring and tracing for developers](https://www.reddit.com/r/javascript/comments/vgu14j/automation_platform_with_advanced_monitoring_and/)
+- [Gaiman: Programming language which compiles into JavaScript for text-based games in browser](https://www.reddit.com/r/javascript/comments/vgtp70/gaiman_programming_language_which_compiles_into/)
+- [Why You Should Prefer Map Over Object In JavaScript](https://www.reddit.com/r/javascript/comments/vgs7y1/why_you_should_prefer_map_over_object_in/)
+- [A Poor Man’s Web Worker](https://www.reddit.com/r/javascript/comments/vgrbe1/a_poor_mans_web_worker/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
