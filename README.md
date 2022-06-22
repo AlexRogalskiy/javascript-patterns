@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Create, test, and deploy a serverless Node.js REST API with Mocha on GCP](https://www.reddit.com/r/javascript/comments/vh2lqt/create_test_and_deploy_a_serverless_nodejs_rest/)
-- [[AskJS] Programming Concepts](https://www.reddit.com/r/javascript/comments/vgz74w/askjs_programming_concepts/)
-- [Library for procedurally generating 2D space scenes](https://www.reddit.com/r/javascript/comments/vgy5ec/library_for_procedurally_generating_2d_space/)
-- [I ran a performance test on the impact of using Google Analytics on your website](https://www.reddit.com/r/javascript/comments/vgw43o/i_ran_a_performance_test_on_the_impact_of_using/)
-- [Date Picker Calendars CSS JavaScript Code](https://www.reddit.com/r/javascript/comments/vguhrj/date_picker_calendars_css_javascript_code/)
-- [I wrote a new tiny OAuth2 library for Javascript](https://www.reddit.com/r/javascript/comments/vgu1qp/i_wrote_a_new_tiny_oauth2_library_for_javascript/)
-- [Automation platform with advanced monitoring and tracing for developers](https://www.reddit.com/r/javascript/comments/vgu14j/automation_platform_with_advanced_monitoring_and/)
-- [Gaiman: Programming language which compiles into JavaScript for text-based games in browser](https://www.reddit.com/r/javascript/comments/vgtp70/gaiman_programming_language_which_compiles_into/)
-- [Why You Should Prefer Map Over Object In JavaScript](https://www.reddit.com/r/javascript/comments/vgs7y1/why_you_should_prefer_map_over_object_in/)
-- [A Poor Man’s Web Worker](https://www.reddit.com/r/javascript/comments/vgrbe1/a_poor_mans_web_worker/)
+- [Announcing TypeScript 4.8 Beta](https://www.reddit.com/r/javascript/comments/vhpxnh/announcing_typescript_48_beta/)
+- [[AskJS] jQuery template clone issue?](https://www.reddit.com/r/javascript/comments/vhp39b/askjs_jquery_template_clone_issue/)
+- [[AskJS] &quot;What is your go to Textbook resource before Javascript interview?&quot;](https://www.reddit.com/r/javascript/comments/vhmycy/askjs_what_is_your_go_to_textbook_resource_before/)
+- [Deno raises $21M](https://www.reddit.com/r/javascript/comments/vhllsw/deno_raises_21m/)
+- [Parsing step in JS Engines](https://www.reddit.com/r/javascript/comments/vhiwxe/parsing_step_in_js_engines/)
+- [How to use data-driven &lpar;parameterized&rpar; tests in Vitest with a real world example](https://www.reddit.com/r/javascript/comments/vhh33w/how_to_use_datadriven_parameterized_tests_in/)
+- [Random notes around service workers development and testing](https://www.reddit.com/r/javascript/comments/vhguz0/random_notes_around_service_workers_development/)
+- [Node.js logging guide – tools, configuration, best practices](https://www.reddit.com/r/javascript/comments/vhffux/nodejs_logging_guide_tools_configuration_best/)
+- [All you need to know about the state of Vue.js in 2022](https://www.reddit.com/r/javascript/comments/vhdte1/all_you_need_to_know_about_the_state_of_vuejs_in/)
+- [[AskJS] a unique To do list app that your friends can react to your tasks](https://www.reddit.com/r/javascript/comments/vhd0w7/askjs_a_unique_to_do_list_app_that_your_friends/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
