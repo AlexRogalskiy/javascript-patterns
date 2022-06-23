@@ -322,6 +322,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *YouTube code posts*
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [The emotional chaos of deploying code by Alexandra Sunderland](https://www.youtube.com/watch?v=1sGvEnnRkvs)
+- [Building interactive wall decor from junk phones by Tiger Oakes](https://www.youtube.com/watch?v=IYWOBzLjsgU)
 - [The Power of JS Generators by Anjana Vakil](https://www.youtube.com/watch?v=gu3FfmgkwUc)
 - [A/B testing and canary releases - why, what and how? by Rafal Rumanek](https://www.youtube.com/watch?v=I4F6nM9SgBk)
 - [Two years of pandemic for our mental health: and now what? by Antonio Cobo](https://www.youtube.com/watch?v=0KK_3vvvaaI)
@@ -330,8 +332,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [The Doctor Will See You Now: Machine Learning for Telehealth by Mark Brouch](https://www.youtube.com/watch?v=09C_smbaqAo)
 - [Testing Web Accessibility by Adrián Bolonio](https://www.youtube.com/watch?v=eZnTIPQ4UuA)
 - [No way, JOSE! by Sam Bellen](https://www.youtube.com/watch?v=_WsIjIQKn7M)
-- [Cool things to do with Voice Interfaces &lpar;and lots of things you shouldn&#39;t&rpar; by Sarah Saunders](https://www.youtube.com/watch?v=l9pUqN39VIo)
-- [Is there #Stress in the world of #Tech? by Crux Conception](https://www.youtube.com/watch?v=50MVwFWe0hA)
 <!-- YOUTUBE-POST-LIST:END -->
 
 ### *ReactJS posts*
