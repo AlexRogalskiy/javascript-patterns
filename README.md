@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Announcing TypeScript 4.8 Beta](https://www.reddit.com/r/javascript/comments/vhpxnh/announcing_typescript_48_beta/)
-- [[AskJS] jQuery template clone issue?](https://www.reddit.com/r/javascript/comments/vhp39b/askjs_jquery_template_clone_issue/)
-- [[AskJS] &quot;What is your go to Textbook resource before Javascript interview?&quot;](https://www.reddit.com/r/javascript/comments/vhmycy/askjs_what_is_your_go_to_textbook_resource_before/)
-- [Deno raises $21M](https://www.reddit.com/r/javascript/comments/vhllsw/deno_raises_21m/)
-- [Parsing step in JS Engines](https://www.reddit.com/r/javascript/comments/vhiwxe/parsing_step_in_js_engines/)
-- [How to use data-driven &lpar;parameterized&rpar; tests in Vitest with a real world example](https://www.reddit.com/r/javascript/comments/vhh33w/how_to_use_datadriven_parameterized_tests_in/)
-- [Random notes around service workers development and testing](https://www.reddit.com/r/javascript/comments/vhguz0/random_notes_around_service_workers_development/)
-- [Node.js logging guide – tools, configuration, best practices](https://www.reddit.com/r/javascript/comments/vhffux/nodejs_logging_guide_tools_configuration_best/)
-- [All you need to know about the state of Vue.js in 2022](https://www.reddit.com/r/javascript/comments/vhdte1/all_you_need_to_know_about_the_state_of_vuejs_in/)
-- [[AskJS] a unique To do list app that your friends can react to your tasks](https://www.reddit.com/r/javascript/comments/vhd0w7/askjs_a_unique_to_do_list_app_that_your_friends/)
+- [Jquery datatable](https://www.reddit.com/r/javascript/comments/vilxgi/jquery_datatable/)
+- [Coda is hosting a Packathon - a six-week, virtual hackathon to build innovative Packs &lpar;plugins&rpar; for the Coda platform, and we&#39;re giving away $20K in prizes to the best projects.](https://www.reddit.com/r/javascript/comments/vijlpw/coda_is_hosting_a_packathon_a_sixweek_virtual/)
+- [Ecma International approves ECMAScript 2022: What’s new?](https://www.reddit.com/r/javascript/comments/viddns/ecma_international_approves_ecmascript_2022_whats/)
+- [Current stats show that React is still by far the most popular and beloved front-end framework](https://www.reddit.com/r/javascript/comments/vicljz/current_stats_show_that_react_is_still_by_far_the/)
+- [ES2022 as approved by the Ecma General Assembly](https://www.reddit.com/r/javascript/comments/vib3pf/es2022_as_approved_by_the_ecma_general_assembly/)
+- [Content Security Policy Demystified](https://www.reddit.com/r/javascript/comments/viaqc6/content_security_policy_demystified/)
+- [Some more takes on block scopes. Thanks to u/getify](https://www.reddit.com/r/javascript/comments/vi9rh0/some_more_takes_on_block_scopes_thanks_to_ugetify/)
+- [Isolating and fixing a memory leak in a production Node.js web app](https://www.reddit.com/r/javascript/comments/vi9or6/isolating_and_fixing_a_memory_leak_in_a/)
+- [How to add a theme switcher in Storybook [tutorial]](https://www.reddit.com/r/javascript/comments/vi7h4e/how_to_add_a_theme_switcher_in_storybook_tutorial/)
+- [5 ways to prevent code injection in JavaScript and Node.js, an article I wrote on the Snyk blog](https://www.reddit.com/r/javascript/comments/vi6vr6/5_ways_to_prevent_code_injection_in_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
