@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Jquery datatable](https://www.reddit.com/r/javascript/comments/vilxgi/jquery_datatable/)
-- [Coda is hosting a Packathon - a six-week, virtual hackathon to build innovative Packs &lpar;plugins&rpar; for the Coda platform, and we&#39;re giving away $20K in prizes to the best projects.](https://www.reddit.com/r/javascript/comments/vijlpw/coda_is_hosting_a_packathon_a_sixweek_virtual/)
+- [You can vote for your favorite OSS devs so they can win a paid vacation](https://www.reddit.com/r/javascript/comments/vjddoi/you_can_vote_for_your_favorite_oss_devs_so_they/)
+- [What every new software developer should know](https://www.reddit.com/r/javascript/comments/vj7sb2/what_every_new_software_developer_should_know/)
+- [Apps with Docusaurus 2.0 and React](https://www.reddit.com/r/javascript/comments/vj7ojx/apps_with_docusaurus_20_and_react/)
+- [Using the AWS SDK in the Browser](https://www.reddit.com/r/javascript/comments/vj2x3k/using_the_aws_sdk_in_the_browser/)
+- [Fuzzing rust-minidump for Embarrassment and Crashes – Part 2](https://www.reddit.com/r/javascript/comments/vj2cth/fuzzing_rustminidump_for_embarrassment_and/)
+- [[AskJS] Am i too late to have a career in this field?](https://www.reddit.com/r/javascript/comments/vivl0m/askjs_am_i_too_late_to_have_a_career_in_this_field/)
+- [GitHub - larswaechter/voici.js: A Node.js library for printing your data on the terminal](https://www.reddit.com/r/javascript/comments/vitv64/github_larswaechtervoicijs_a_nodejs_library_for/)
+- [Profile card using HTML and CSS](https://www.reddit.com/r/javascript/comments/vio260/profile_card_using_html_and_css/)
 - [Ecma International approves ECMAScript 2022: What’s new?](https://www.reddit.com/r/javascript/comments/viddns/ecma_international_approves_ecmascript_2022_whats/)
 - [Current stats show that React is still by far the most popular and beloved front-end framework](https://www.reddit.com/r/javascript/comments/vicljz/current_stats_show_that_react_is_still_by_far_the/)
-- [ES2022 as approved by the Ecma General Assembly](https://www.reddit.com/r/javascript/comments/vib3pf/es2022_as_approved_by_the_ecma_general_assembly/)
-- [Content Security Policy Demystified](https://www.reddit.com/r/javascript/comments/viaqc6/content_security_policy_demystified/)
-- [Some more takes on block scopes. Thanks to u/getify](https://www.reddit.com/r/javascript/comments/vi9rh0/some_more_takes_on_block_scopes_thanks_to_ugetify/)
-- [Isolating and fixing a memory leak in a production Node.js web app](https://www.reddit.com/r/javascript/comments/vi9or6/isolating_and_fixing_a_memory_leak_in_a/)
-- [How to add a theme switcher in Storybook [tutorial]](https://www.reddit.com/r/javascript/comments/vi7h4e/how_to_add_a_theme_switcher_in_storybook_tutorial/)
-- [5 ways to prevent code injection in JavaScript and Node.js, an article I wrote on the Snyk blog](https://www.reddit.com/r/javascript/comments/vi6vr6/5_ways_to_prevent_code_injection_in_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
