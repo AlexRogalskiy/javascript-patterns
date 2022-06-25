@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [You can vote for your favorite OSS devs so they can win a paid vacation](https://www.reddit.com/r/javascript/comments/vjddoi/you_can_vote_for_your_favorite_oss_devs_so_they/)
-- [What every new software developer should know](https://www.reddit.com/r/javascript/comments/vj7sb2/what_every_new_software_developer_should_know/)
-- [Apps with Docusaurus 2.0 and React](https://www.reddit.com/r/javascript/comments/vj7ojx/apps_with_docusaurus_20_and_react/)
-- [Using the AWS SDK in the Browser](https://www.reddit.com/r/javascript/comments/vj2x3k/using_the_aws_sdk_in_the_browser/)
-- [Fuzzing rust-minidump for Embarrassment and Crashes – Part 2](https://www.reddit.com/r/javascript/comments/vj2cth/fuzzing_rustminidump_for_embarrassment_and/)
-- [[AskJS] Am i too late to have a career in this field?](https://www.reddit.com/r/javascript/comments/vivl0m/askjs_am_i_too_late_to_have_a_career_in_this_field/)
-- [GitHub - larswaechter/voici.js: A Node.js library for printing your data on the terminal](https://www.reddit.com/r/javascript/comments/vitv64/github_larswaechtervoicijs_a_nodejs_library_for/)
-- [Profile card using HTML and CSS](https://www.reddit.com/r/javascript/comments/vio260/profile_card_using_html_and_css/)
-- [Ecma International approves ECMAScript 2022: What’s new?](https://www.reddit.com/r/javascript/comments/viddns/ecma_international_approves_ecmascript_2022_whats/)
-- [Current stats show that React is still by far the most popular and beloved front-end framework](https://www.reddit.com/r/javascript/comments/vicljz/current_stats_show_that_react_is_still_by_far_the/)
+- [Fractals &lpar;to learn about canvas&rpar;](https://www.reddit.com/r/javascript/comments/vjy72y/fractals_to_learn_about_canvas/)
+- [[AskJS] how to build cms for freelance work](https://www.reddit.com/r/javascript/comments/vjx6uj/askjs_how_to_build_cms_for_freelance_work/)
+- [Build marketplaces with an open source composable commerce engine](https://www.reddit.com/r/javascript/comments/vjvz0v/build_marketplaces_with_an_open_source_composable/)
+- [Secure Frontend Authorization with the Token Handler Pattern for SPAs](https://www.reddit.com/r/javascript/comments/vjrtr6/secure_frontend_authorization_with_the_token/)
+- [V8 Isolates are taking over the world](https://www.reddit.com/r/javascript/comments/vjqnmt/v8_isolates_are_taking_over_the_world/)
+- [Upcoming ECMAScript features I&#39;m excited about](https://www.reddit.com/r/javascript/comments/vjpg12/upcoming_ecmascript_features_im_excited_about/)
+- [Improving load times on angular applications](https://www.reddit.com/r/javascript/comments/vjolvb/improving_load_times_on_angular_applications/)
+- [I created a ISS-Tracker using JavaScript, Leaflet JavaScript library and WTIA REST API](https://www.reddit.com/r/javascript/comments/vjojjn/i_created_a_isstracker_using_javascript_leaflet/)
+- [Stop The Screen Going To Sleep With JavaScript](https://www.reddit.com/r/javascript/comments/vjn1d0/stop_the_screen_going_to_sleep_with_javascript/)
+- [[AskJS] After setting the strict configuration, what are the drawbacks of using MobX with React?](https://www.reddit.com/r/javascript/comments/vjmzav/askjs_after_setting_the_strict_configuration_what/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
