@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Fractals &lpar;to learn about canvas&rpar;](https://www.reddit.com/r/javascript/comments/vjy72y/fractals_to_learn_about_canvas/)
-- [[AskJS] how to build cms for freelance work](https://www.reddit.com/r/javascript/comments/vjx6uj/askjs_how_to_build_cms_for_freelance_work/)
-- [Build marketplaces with an open source composable commerce engine](https://www.reddit.com/r/javascript/comments/vjvz0v/build_marketplaces_with_an_open_source_composable/)
-- [Secure Frontend Authorization with the Token Handler Pattern for SPAs](https://www.reddit.com/r/javascript/comments/vjrtr6/secure_frontend_authorization_with_the_token/)
-- [V8 Isolates are taking over the world](https://www.reddit.com/r/javascript/comments/vjqnmt/v8_isolates_are_taking_over_the_world/)
-- [Upcoming ECMAScript features I&#39;m excited about](https://www.reddit.com/r/javascript/comments/vjpg12/upcoming_ecmascript_features_im_excited_about/)
-- [Improving load times on angular applications](https://www.reddit.com/r/javascript/comments/vjolvb/improving_load_times_on_angular_applications/)
-- [I created a ISS-Tracker using JavaScript, Leaflet JavaScript library and WTIA REST API](https://www.reddit.com/r/javascript/comments/vjojjn/i_created_a_isstracker_using_javascript_leaflet/)
-- [Stop The Screen Going To Sleep With JavaScript](https://www.reddit.com/r/javascript/comments/vjn1d0/stop_the_screen_going_to_sleep_with_javascript/)
-- [[AskJS] After setting the strict configuration, what are the drawbacks of using MobX with React?](https://www.reddit.com/r/javascript/comments/vjmzav/askjs_after_setting_the_strict_configuration_what/)
+- [Question about ECMAscript tc39 proposals](https://www.reddit.com/r/javascript/comments/vksi4l/question_about_ecmascript_tc39_proposals/)
+- [Study: Elite dev teams &lpar;ones considered to be in the top 10%&rpar; average cycle times under 48 hours, PR sizes under 225 code changes and a rework rate under 8%. There&#39;s a bunch of other metrics in the study but being on a team that runs on Javascript, those ones resonated.](https://www.reddit.com/r/javascript/comments/vkr2po/study_elite_dev_teams_ones_considered_to_be_in/)
+- [I want to share a project I was working for fun, DALL-E Mini CLI](https://www.reddit.com/r/javascript/comments/vkqfis/i_want_to_share_a_project_i_was_working_for_fun/)
+- [I made a game based on mazes](https://www.reddit.com/r/javascript/comments/vknykh/i_made_a_game_based_on_mazes/)
+- [[AskJS] Why I cant add anything in buildSchema? Using TypeGraphql and MikroORM](https://www.reddit.com/r/javascript/comments/vkm5es/askjs_why_i_cant_add_anything_in_buildschema/)
+- [10x faster JSON.stringify&lpar;&rpar; and runtime type checkers](https://www.reddit.com/r/javascript/comments/vklzs5/10x_faster_jsonstringify_and_runtime_type_checkers/)
+- [Your objective is to go back into time in the 1700s and blow the minds of everyone there. What do you bring?](https://www.reddit.com/r/javascript/comments/vkc0r9/your_objective_is_to_go_back_into_time_in_the/)
+- [A new OAuth2 client for Javascript](https://www.reddit.com/r/javascript/comments/vk9yos/a_new_oauth2_client_for_javascript/)
+- [Fully Functional Youtube Clone Using Firebase, FFmpeg, And React *[Part-3]*](https://www.reddit.com/r/javascript/comments/vk9n2m/fully_functional_youtube_clone_using_firebase/)
+- [Showoff Saturday &lpar;June 25, 2022&rpar;](https://www.reddit.com/r/javascript/comments/vk978d/showoff_saturday_june_25_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
