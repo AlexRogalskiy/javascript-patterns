@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Never change arrays and objects directly in JavaScript.](https://www.reddit.com/r/javascript/comments/vligyh/never_change_arrays_and_objects_directly_in/)
+- [[AskJS] What do you think about this quote on the history of Javascript?](https://www.reddit.com/r/javascript/comments/vlhpbs/askjs_what_do_you_think_about_this_quote_on_the/)
+- [JavaScript objects in depth.](https://www.reddit.com/r/javascript/comments/vlghbg/javascript_objects_in_depth/)
+- [MapLibre V2: Add 3D terrain to your map | MapTiler](https://www.reddit.com/r/javascript/comments/vlctum/maplibre_v2_add_3d_terrain_to_your_map_maptiler/)
+- [New blog-post =&gt; Organise imports with Prettier and friends](https://www.reddit.com/r/javascript/comments/vlb6og/new_blogpost_organise_imports_with_prettier_and/)
+- [Online Python Compiler made with Skulpt JS and ACE Editor](https://www.reddit.com/r/javascript/comments/vl5oja/online_python_compiler_made_with_skulpt_js_and/)
+- [Web Accessibility in React - JS Now](https://www.reddit.com/r/javascript/comments/vl44b3/web_accessibility_in_react_js_now/)
+- [Persisting Data in React useState - JS Now](https://www.reddit.com/r/javascript/comments/vl35hw/persisting_data_in_react_usestate_js_now/)
 - [Question about ECMAscript tc39 proposals](https://www.reddit.com/r/javascript/comments/vksi4l/question_about_ecmascript_tc39_proposals/)
-- [Study: Elite dev teams &lpar;ones considered to be in the top 10%&rpar; average cycle times under 48 hours, PR sizes under 225 code changes and a rework rate under 8%. There&#39;s a bunch of other metrics in the study but being on a team that runs on Javascript, those ones resonated.](https://www.reddit.com/r/javascript/comments/vkr2po/study_elite_dev_teams_ones_considered_to_be_in/)
-- [I want to share a project I was working for fun, DALL-E Mini CLI](https://www.reddit.com/r/javascript/comments/vkqfis/i_want_to_share_a_project_i_was_working_for_fun/)
-- [I made a game based on mazes](https://www.reddit.com/r/javascript/comments/vknykh/i_made_a_game_based_on_mazes/)
-- [[AskJS] Why I cant add anything in buildSchema? Using TypeGraphql and MikroORM](https://www.reddit.com/r/javascript/comments/vkm5es/askjs_why_i_cant_add_anything_in_buildschema/)
 - [10x faster JSON.stringify&lpar;&rpar; and runtime type checkers](https://www.reddit.com/r/javascript/comments/vklzs5/10x_faster_jsonstringify_and_runtime_type_checkers/)
-- [Your objective is to go back into time in the 1700s and blow the minds of everyone there. What do you bring?](https://www.reddit.com/r/javascript/comments/vkc0r9/your_objective_is_to_go_back_into_time_in_the/)
-- [A new OAuth2 client for Javascript](https://www.reddit.com/r/javascript/comments/vk9yos/a_new_oauth2_client_for_javascript/)
-- [Fully Functional Youtube Clone Using Firebase, FFmpeg, And React *[Part-3]*](https://www.reddit.com/r/javascript/comments/vk9n2m/fully_functional_youtube_clone_using_firebase/)
-- [Showoff Saturday &lpar;June 25, 2022&rpar;](https://www.reddit.com/r/javascript/comments/vk978d/showoff_saturday_june_25_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
