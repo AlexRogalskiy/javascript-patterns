@@ -322,6 +322,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *YouTube code posts*
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [DX is UX by Mathieu Anderson](https://www.youtube.com/watch?v=s_9MnfNxqQs)
+- [Offline IoT - Building Resilient Connected Devices without the Internet by Nick Hehr](https://www.youtube.com/watch?v=fHhaoyPaTWw)
 - [The emotional chaos of deploying code by Alexandra Sunderland](https://www.youtube.com/watch?v=1sGvEnnRkvs)
 - [Building interactive wall decor from junk phones by Tiger Oakes](https://www.youtube.com/watch?v=IYWOBzLjsgU)
 - [The Power of JS Generators by Anjana Vakil](https://www.youtube.com/watch?v=gu3FfmgkwUc)
@@ -330,8 +332,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [To kill a working drone: flying a drone with twitter, bananas &amp; Web APIs by Nhlanhla Lucky Nkosi](https://www.youtube.com/watch?v=2vg1tlvETt0)
 - [7±2 Reasons Psychology Will Help You Write Better Code by Moran Weber](https://www.youtube.com/watch?v=jAUcbFM0nXE)
 - [The Doctor Will See You Now: Machine Learning for Telehealth by Mark Brouch](https://www.youtube.com/watch?v=09C_smbaqAo)
-- [Testing Web Accessibility by Adrián Bolonio](https://www.youtube.com/watch?v=eZnTIPQ4UuA)
-- [No way, JOSE! by Sam Bellen](https://www.youtube.com/watch?v=_WsIjIQKn7M)
 <!-- YOUTUBE-POST-LIST:END -->
 
 ### *ReactJS posts*
