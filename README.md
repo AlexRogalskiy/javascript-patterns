@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Never change arrays and objects directly in JavaScript.](https://www.reddit.com/r/javascript/comments/vligyh/never_change_arrays_and_objects_directly_in/)
-- [[AskJS] What do you think about this quote on the history of Javascript?](https://www.reddit.com/r/javascript/comments/vlhpbs/askjs_what_do_you_think_about_this_quote_on_the/)
-- [JavaScript objects in depth.](https://www.reddit.com/r/javascript/comments/vlghbg/javascript_objects_in_depth/)
-- [MapLibre V2: Add 3D terrain to your map | MapTiler](https://www.reddit.com/r/javascript/comments/vlctum/maplibre_v2_add_3d_terrain_to_your_map_maptiler/)
-- [New blog-post =&gt; Organise imports with Prettier and friends](https://www.reddit.com/r/javascript/comments/vlb6og/new_blogpost_organise_imports_with_prettier_and/)
-- [Online Python Compiler made with Skulpt JS and ACE Editor](https://www.reddit.com/r/javascript/comments/vl5oja/online_python_compiler_made_with_skulpt_js_and/)
-- [Web Accessibility in React - JS Now](https://www.reddit.com/r/javascript/comments/vl44b3/web_accessibility_in_react_js_now/)
-- [Persisting Data in React useState - JS Now](https://www.reddit.com/r/javascript/comments/vl35hw/persisting_data_in_react_usestate_js_now/)
-- [Question about ECMAscript tc39 proposals](https://www.reddit.com/r/javascript/comments/vksi4l/question_about_ecmascript_tc39_proposals/)
-- [10x faster JSON.stringify&lpar;&rpar; and runtime type checkers](https://www.reddit.com/r/javascript/comments/vklzs5/10x_faster_jsonstringify_and_runtime_type_checkers/)
+- [RegExp `v` flag with set notation and properties of strings](https://www.reddit.com/r/javascript/comments/vm21on/regexp_v_flag_with_set_notation_and_properties_of/)
+- [SPAs: theory versus practice](https://www.reddit.com/r/javascript/comments/vm11h2/spas_theory_versus_practice/)
+- [[AskJS] What would be a good way to remove bullet points entered in blocks of text manually &lpar;not li elements&rpar;?](https://www.reddit.com/r/javascript/comments/vm1089/askjs_what_would_be_a_good_way_to_remove_bullet/)
+- [The JavaScript Specification has a New License](https://www.reddit.com/r/javascript/comments/vm0ni7/the_javascript_specification_has_a_new_license/)
+- [Angular without SSR is faster than Next.js with SSR. I have the data](https://www.reddit.com/r/javascript/comments/vlz7qc/angular_without_ssr_is_faster_than_nextjs_with/)
+- [tsx: Node.js enhanced with esbuild to run TypeScript &amp; ESM](https://www.reddit.com/r/javascript/comments/vlyplh/tsx_nodejs_enhanced_with_esbuild_to_run/)
+- [Open Source GraphQL CDN / Edge Cache with Cloudflare, Fastly, and Fly.io](https://www.reddit.com/r/javascript/comments/vlxx86/open_source_graphql_cdn_edge_cache_with/)
+- [[AskJS] using corporate learning budget](https://www.reddit.com/r/javascript/comments/vlv0ht/askjs_using_corporate_learning_budget/)
+- [On the road to Fibers-free Meteor](https://www.reddit.com/r/javascript/comments/vlucp8/on_the_road_to_fibersfree_meteor/)
+- [[AskJS] Why are many Angular developers seemingly afraid of creating new components?](https://www.reddit.com/r/javascript/comments/vlrsdx/askjs_why_are_many_angular_developers_seemingly/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
