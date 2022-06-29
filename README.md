@@ -380,6 +380,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *NodeSource posts*
 
 <!-- NODESOURCE-POST-LIST:START -->
+- [Highlights of OpenJS World 2022 - What&#39;s next in the OS ecosystem](https://nodesource.com/blog/takeaways-OpenJSWorld22)
 - [Using N|Solid runtime from npm](https://nodesource.com/blog/nsolid-runtime-from-npm)
 - [How to run `shell` and more using Node.js](https://nodesource.com/blog/how-to-run-shell-and-more-using-Nodejs)
 - [Greenheart Adventure with NodeSource!](https://nodesource.com/blog/Nodeforest-experience)
@@ -389,7 +390,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [N|Solid SaaS is now FREE!✨](https://nodesource.com/blog/NSolid-SaaS-is-now-free)
 - [Is the New JavaScript era coming?](https://nodesource.com/blog/new-JavaScript-era-coming)
 - [Dive into Node.js Streams](https://nodesource.com/blog/dive-into-NodeJs-streams)
-- [Announcing N|Solid 4.7.0](https://nodesource.com/blog/announcing-NSolid-v4.7.0)
 <!-- NODESOURCE-POST-LIST:END -->
 
 ### *React Native posts*
