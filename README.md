@@ -322,6 +322,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *YouTube code posts*
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [Documentation: The Missing Pieces by Adrienne Tacke](https://www.youtube.com/watch?v=wBGOswx6MSw)
+- [Communicating Intention with Functional TypeScript by Thiago Temple](https://www.youtube.com/watch?v=fhyHgkH0ZEg)
 - [DX is UX by Mathieu Anderson](https://www.youtube.com/watch?v=s_9MnfNxqQs)
 - [Offline IoT - Building Resilient Connected Devices without the Internet by Nick Hehr](https://www.youtube.com/watch?v=fHhaoyPaTWw)
 - [The emotional chaos of deploying code by Alexandra Sunderland](https://www.youtube.com/watch?v=1sGvEnnRkvs)
@@ -330,8 +332,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [A/B testing and canary releases - why, what and how? by Rafal Rumanek](https://www.youtube.com/watch?v=I4F6nM9SgBk)
 - [Two years of pandemic for our mental health: and now what? by Antonio Cobo](https://www.youtube.com/watch?v=0KK_3vvvaaI)
 - [To kill a working drone: flying a drone with twitter, bananas &amp; Web APIs by Nhlanhla Lucky Nkosi](https://www.youtube.com/watch?v=2vg1tlvETt0)
-- [7±2 Reasons Psychology Will Help You Write Better Code by Moran Weber](https://www.youtube.com/watch?v=jAUcbFM0nXE)
-- [The Doctor Will See You Now: Machine Learning for Telehealth by Mark Brouch](https://www.youtube.com/watch?v=09C_smbaqAo)
 <!-- YOUTUBE-POST-LIST:END -->
 
 ### *ReactJS posts*
