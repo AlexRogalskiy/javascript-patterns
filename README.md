@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [RegExp `v` flag with set notation and properties of strings](https://www.reddit.com/r/javascript/comments/vm21on/regexp_v_flag_with_set_notation_and_properties_of/)
-- [SPAs: theory versus practice](https://www.reddit.com/r/javascript/comments/vm11h2/spas_theory_versus_practice/)
-- [[AskJS] What would be a good way to remove bullet points entered in blocks of text manually &lpar;not li elements&rpar;?](https://www.reddit.com/r/javascript/comments/vm1089/askjs_what_would_be_a_good_way_to_remove_bullet/)
-- [The JavaScript Specification has a New License](https://www.reddit.com/r/javascript/comments/vm0ni7/the_javascript_specification_has_a_new_license/)
-- [Angular without SSR is faster than Next.js with SSR. I have the data](https://www.reddit.com/r/javascript/comments/vlz7qc/angular_without_ssr_is_faster_than_nextjs_with/)
-- [tsx: Node.js enhanced with esbuild to run TypeScript &amp; ESM](https://www.reddit.com/r/javascript/comments/vlyplh/tsx_nodejs_enhanced_with_esbuild_to_run/)
-- [Open Source GraphQL CDN / Edge Cache with Cloudflare, Fastly, and Fly.io](https://www.reddit.com/r/javascript/comments/vlxx86/open_source_graphql_cdn_edge_cache_with/)
-- [[AskJS] using corporate learning budget](https://www.reddit.com/r/javascript/comments/vlv0ht/askjs_using_corporate_learning_budget/)
-- [On the road to Fibers-free Meteor](https://www.reddit.com/r/javascript/comments/vlucp8/on_the_road_to_fibersfree_meteor/)
-- [[AskJS] Why are many Angular developers seemingly afraid of creating new components?](https://www.reddit.com/r/javascript/comments/vlrsdx/askjs_why_are_many_angular_developers_seemingly/)
+- [How to Use the Google Calendar API With JavaScript](https://www.reddit.com/r/javascript/comments/vmx69j/how_to_use_the_google_calendar_api_with_javascript/)
+- [Creating a Gantt Chart with Vanilla JavaScript](https://www.reddit.com/r/javascript/comments/vmurzz/creating_a_gantt_chart_with_vanilla_javascript/)
+- [[AskJS] Why do we use React Native if...](https://www.reddit.com/r/javascript/comments/vmum7b/askjs_why_do_we_use_react_native_if/)
+- [[AskJS] What do you think about es modules support today?](https://www.reddit.com/r/javascript/comments/vmtkgy/askjs_what_do_you_think_about_es_modules_support/)
+- [What is ReactJS? Why are the majority of the developers using it? 4 reasons React is the most popular library!](https://www.reddit.com/r/javascript/comments/vmss98/what_is_reactjs_why_are_the_majority_of_the/)
+- [Next.js 12.2 - Stable Middleware, stable ISR, edge runtime](https://www.reddit.com/r/javascript/comments/vmresd/nextjs_122_stable_middleware_stable_isr_edge/)
+- [[AskJS] Could a single person replicate React from scratch?](https://www.reddit.com/r/javascript/comments/vmr5d3/askjs_could_a_single_person_replicate_react_from/)
+- [inView: A tiny function for scroll-triggered animations](https://www.reddit.com/r/javascript/comments/vmqccx/inview_a_tiny_function_for_scrolltriggered/)
+- [Fresh 1.0 stable release](https://www.reddit.com/r/javascript/comments/vmq057/fresh_10_stable_release/)
+- [&quot;Dev burnout drastically decreases when you actually ship things regularly. Burnout is caused by crap like toil, rework and spending too much mental energy on bottlenecks.&quot; Cool conversation with the head engineer of Slack on how burnout is caused by all the things that keep devs from coding.](https://www.reddit.com/r/javascript/comments/vmpni7/dev_burnout_drastically_decreases_when_you/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
