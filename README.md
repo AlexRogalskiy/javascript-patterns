@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to Use the Google Calendar API With JavaScript](https://www.reddit.com/r/javascript/comments/vmx69j/how_to_use_the_google_calendar_api_with_javascript/)
-- [Creating a Gantt Chart with Vanilla JavaScript](https://www.reddit.com/r/javascript/comments/vmurzz/creating_a_gantt_chart_with_vanilla_javascript/)
-- [[AskJS] Why do we use React Native if...](https://www.reddit.com/r/javascript/comments/vmum7b/askjs_why_do_we_use_react_native_if/)
-- [[AskJS] What do you think about es modules support today?](https://www.reddit.com/r/javascript/comments/vmtkgy/askjs_what_do_you_think_about_es_modules_support/)
-- [What is ReactJS? Why are the majority of the developers using it? 4 reasons React is the most popular library!](https://www.reddit.com/r/javascript/comments/vmss98/what_is_reactjs_why_are_the_majority_of_the/)
-- [Next.js 12.2 - Stable Middleware, stable ISR, edge runtime](https://www.reddit.com/r/javascript/comments/vmresd/nextjs_122_stable_middleware_stable_isr_edge/)
-- [[AskJS] Could a single person replicate React from scratch?](https://www.reddit.com/r/javascript/comments/vmr5d3/askjs_could_a_single_person_replicate_react_from/)
-- [inView: A tiny function for scroll-triggered animations](https://www.reddit.com/r/javascript/comments/vmqccx/inview_a_tiny_function_for_scrolltriggered/)
-- [Fresh 1.0 stable release](https://www.reddit.com/r/javascript/comments/vmq057/fresh_10_stable_release/)
-- [&quot;Dev burnout drastically decreases when you actually ship things regularly. Burnout is caused by crap like toil, rework and spending too much mental energy on bottlenecks.&quot; Cool conversation with the head engineer of Slack on how burnout is caused by all the things that keep devs from coding.](https://www.reddit.com/r/javascript/comments/vmpni7/dev_burnout_drastically_decreases_when_you/)
+- [How I Created A Secure, Self-Hosted Survey In Minutes With React + SurveyJS](https://www.reddit.com/r/javascript/comments/vnvtif/how_i_created_a_secure_selfhosted_survey_in/)
+- [How to keep a history of MQTT messages in Reduct Storage with Node.js](https://www.reddit.com/r/javascript/comments/vnufac/how_to_keep_a_history_of_mqtt_messages_in_reduct/)
+- [[AskJS] Is pursuing a machine learning career using Javascript &lpar;using tensorflow.js, for example&rpar; a viable path?](https://www.reddit.com/r/javascript/comments/vnswz0/askjs_is_pursuing_a_machine_learning_career_using/)
+- [[AskJS] Frontend tool to interactively filter a JSON](https://www.reddit.com/r/javascript/comments/vnslh9/askjs_frontend_tool_to_interactively_filter_a_json/)
+- [How to use Reduct Storage with TypeScript](https://www.reddit.com/r/javascript/comments/vnqi9g/how_to_use_reduct_storage_with_typescript/)
+- [Nx - The fastest growing monorepo solution in the JS ecosystem](https://www.reddit.com/r/javascript/comments/vnm6jf/nx_the_fastest_growing_monorepo_solution_in_the/)
+- [Using JavaScript to fill localStorage to its maximum capacity](https://www.reddit.com/r/javascript/comments/vnk81w/using_javascript_to_fill_localstorage_to_its/)
+- [Snippets.style | Turn your code into something beautiful!](https://www.reddit.com/r/javascript/comments/vnjvzt/snippetsstyle_turn_your_code_into_something/)
+- [Neural Machine Translation Engine for Firefox Translations add-on](https://www.reddit.com/r/javascript/comments/vnivop/neural_machine_translation_engine_for_firefox/)
+- [Middleware enterprise functionality comes to JavaScript, thanks to Vercel](https://www.reddit.com/r/javascript/comments/vnipju/middleware_enterprise_functionality_comes_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
