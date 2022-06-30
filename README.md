@@ -352,6 +352,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *javascript programmer posts*
 
 <!-- METEOR-POST-LIST:START -->
+- [Meteor + Web3: Building an NFT Marketplace](https://blog.meteor.com/meteor-web3-building-an-nft-marketplace-9484b321e426?source=rss----a9bcaf865278---4)
 - [How to Use Meteor With React Hooks](https://blog.meteor.com/how-to-use-meteor-with-react-hooks-7e1791daabab?source=rss----a9bcaf865278---4)
 - [Meteor Monthly Update — May 2022](https://blog.meteor.com/meteor-monthly-update-may-2022-f9394ec4eb2d?source=rss----a9bcaf865278---4)
 - [New Meteor 2.7.3 and a new patch release for 2.5](https://blog.meteor.com/new-meteor-2-7-3-and-a-new-patch-release-for-2-5-1af19913847a?source=rss----a9bcaf865278---4)
@@ -361,7 +362,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Meteor Monthly Update — April 2022](https://blog.meteor.com/meteor-monthly-update-april-2022-89443b0078f3?source=rss----a9bcaf865278---4)
 - [How Sessionwire Uses Meteor To Connect Remote Music Makers](https://blog.meteor.com/how-sessionwire-uses-meteor-to-connect-remote-music-makers-ccb7178b0653?source=rss----a9bcaf865278---4)
 - [Meteor Social Login with GitHub](https://blog.meteor.com/meteor-social-login-with-github-1b48d04c332?source=rss----a9bcaf865278---4)
-- [Meteor.js with React and Tailwind CSS 3](https://blog.meteor.com/meteor-js-with-react-and-tailwind-css-3-3e878645451e?source=rss----a9bcaf865278---4)
 <!-- METEOR-POST-LIST:END -->
 
 ### *Dreamix posts*
