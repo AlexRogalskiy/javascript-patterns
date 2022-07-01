@@ -322,6 +322,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *YouTube code posts*
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [It&#39;s the markup that matters by Hidde de Vries](https://www.youtube.com/watch?v=MDywgeCW5jk)
+- [How Your Bundle Size Affects The Climate by Roy Derks](https://www.youtube.com/watch?v=_LEzWJOrle0)
 - [Documentation: The Missing Pieces by Adrienne Tacke](https://www.youtube.com/watch?v=wBGOswx6MSw)
 - [Communicating Intention with Functional TypeScript by Thiago Temple](https://www.youtube.com/watch?v=fhyHgkH0ZEg)
 - [DX is UX by Mathieu Anderson](https://www.youtube.com/watch?v=s_9MnfNxqQs)
@@ -330,8 +332,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Building interactive wall decor from junk phones by Tiger Oakes](https://www.youtube.com/watch?v=IYWOBzLjsgU)
 - [The Power of JS Generators by Anjana Vakil](https://www.youtube.com/watch?v=gu3FfmgkwUc)
 - [A/B testing and canary releases - why, what and how? by Rafal Rumanek](https://www.youtube.com/watch?v=I4F6nM9SgBk)
-- [Two years of pandemic for our mental health: and now what? by Antonio Cobo](https://www.youtube.com/watch?v=0KK_3vvvaaI)
-- [To kill a working drone: flying a drone with twitter, bananas &amp; Web APIs by Nhlanhla Lucky Nkosi](https://www.youtube.com/watch?v=2vg1tlvETt0)
 <!-- YOUTUBE-POST-LIST:END -->
 
 ### *ReactJS posts*
