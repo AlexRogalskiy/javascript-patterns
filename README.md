@@ -292,7 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
-- [Deploy with Vercel and MongoDB Atlas without even trying](https://www.infoworld.com/article/3664936/deploy-with-vercel-and-mongodb-atlas-without-even-trying.html#tk.rss_javascript)
+- [How to deploy with Vercel and MongoDB Atlas without even trying](https://www.infoworld.com/article/3664936/how-to-deploy-with-vercel-and-mongodb-atlas-without-even-trying.html#tk.rss_javascript)
 - [Ecma unveils more permissive JavaScript license](https://www.infoworld.com/article/3664940/ecma-unveils-more-permissive-javascript-license.html#tk.rss_javascript)
 - [9 Deno runtime projects to watch](https://www.infoworld.com/article/3664344/9-deno-runtime-projects-to-watch.html#tk.rss_javascript)
 - [ECMAScript 2022 blesses class elements, top-level await](https://www.infoworld.com/article/3654830/ecmascript-2022-blesses-class-elements-top-level-await.html#tk.rss_javascript)
