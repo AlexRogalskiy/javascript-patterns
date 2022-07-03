@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [6 Reasons to learn Javascript In 2022 and beyond](https://www.reddit.com/r/javascript/comments/vq6e0w/6_reasons_to_learn_javascript_in_2022_and_beyond/)
+- [[AskJS] Are there any portfolio or projects list generators?](https://www.reddit.com/r/javascript/comments/vq3uh3/askjs_are_there_any_portfolio_or_projects_list/)
+- [The new wave of React state management](https://www.reddit.com/r/javascript/comments/vpsuzt/the_new_wave_of_react_state_management/)
+- [Deprank: Find the most important files in your codebase using PageRank](https://www.reddit.com/r/javascript/comments/vppoh2/deprank_find_the_most_important_files_in_your/)
+- [We just open-sourced Insert - a Notion-like form builder that integrates with Supabase, made with Vue and Tailwind](https://www.reddit.com/r/javascript/comments/vpodkm/we_just_opensourced_insert_a_notionlike_form/)
+- [Showoff Saturday &lpar;July 02, 2022&rpar;](https://www.reddit.com/r/javascript/comments/vpltta/showoff_saturday_july_02_2022/)
 - [How to Sequentially Resolve an Array of Promises in JavaScript](https://www.reddit.com/r/javascript/comments/vpab2s/how_to_sequentially_resolve_an_array_of_promises/)
 - [QR code project](https://www.reddit.com/r/javascript/comments/vpa318/qr_code_project/)
 - [Programmer Browser | Open Source Browser for Developers](https://www.reddit.com/r/javascript/comments/vp7nic/programmer_browser_open_source_browser_for/)
 - [[AskJS] Does anyone use generated JSDoc pages?](https://www.reddit.com/r/javascript/comments/vp7in8/askjs_does_anyone_use_generated_jsdoc_pages/)
-- [Passwordless login SDKs and guide in javascript and nodejs](https://www.reddit.com/r/javascript/comments/vp77lh/passwordless_login_sdks_and_guide_in_javascript/)
-- [ZipUtils: Easily Work With Large Amounts Of Zip Codes In Node.js](https://www.reddit.com/r/javascript/comments/vp65wn/ziputils_easily_work_with_large_amounts_of_zip/)
-- [Vue 2.7 &quot;Naruto&quot; Released - Despite Vue 3 now being the default version, we understand that there are still many users who have to stay on Vue 2. In Vue 2.7, we have backported some of the most important features from Vue 3 so that Vue 2 users can benefit from them as well](https://www.reddit.com/r/javascript/comments/vp4ifr/vue_27_naruto_released_despite_vue_3_now_being/)
-- [[AskJS] Any tools to generate documentation for shared functions? Like StorybookUI for a library of util functions?](https://www.reddit.com/r/javascript/comments/vp153g/askjs_any_tools_to_generate_documentation_for/)
-- [Complete Roadmap to become a full-stack developer](https://www.reddit.com/r/javascript/comments/vp087n/complete_roadmap_to_become_a_fullstack_developer/)
-- [Keeping audio and visuals in sync with the Web Audio API](https://www.reddit.com/r/javascript/comments/voypr2/keeping_audio_and_visuals_in_sync_with_the_web/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
