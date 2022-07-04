@@ -300,8 +300,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [The best new CSS features for 2022](https://www.infoworld.com/article/3663513/the-best-new-css-features-for-2022.html#tk.rss_javascript)
 - [Okta’s Matt Raible: How I became a Java hipster](https://www.infoworld.com/article/3663677/oktas-matt-raible-how-i-became-a-java-hipster.html#tk.rss_javascript)
 - [Kotlin unveils K2 compiler](https://www.infoworld.com/article/3663519/kotlin-unveils-k2-compiler.html#tk.rss_javascript)
-- [Wasmer WebAssembly runtime adds native compilation](https://www.infoworld.com/article/3663675/wasmer-webassembly-runtime-emphasizes-native-compilation.html#tk.rss_javascript)
 - [What is Jamstack? The static website revolution upending web development](https://www.infoworld.com/article/3563829/jamstack-the-static-website-revolution-upending-web-development.html#tk.rss_javascript)
+- [Wasmer WebAssembly runtime adds native compilation](https://www.infoworld.com/article/3663675/wasmer-webassembly-runtime-emphasizes-native-compilation.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
