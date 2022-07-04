@@ -277,7 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [6 Reasons to learn Javascript In 2022 and beyond](https://www.reddit.com/r/javascript/comments/vq6e0w/6_reasons_to_learn_javascript_in_2022_and_beyond/)
+- [How To NOT Block The Browser — The Event Loop, Asynchronous Scheduling, Web Workers &amp; Examples](https://www.reddit.com/r/javascript/comments/vqifao/how_to_not_block_the_browser_the_event_loop/)
+- [GitHub - bugra9/gdal3.js: Convert raster and vector geospatial data to various formats and coordinate systems entirely in the browser.](https://www.reddit.com/r/javascript/comments/vqdm9s/github_bugra9gdal3js_convert_raster_and_vector/)
 - [[AskJS] Are there any portfolio or projects list generators?](https://www.reddit.com/r/javascript/comments/vq3uh3/askjs_are_there_any_portfolio_or_projects_list/)
 - [The new wave of React state management](https://www.reddit.com/r/javascript/comments/vpsuzt/the_new_wave_of_react_state_management/)
 - [Deprank: Find the most important files in your codebase using PageRank](https://www.reddit.com/r/javascript/comments/vppoh2/deprank_find_the_most_important_files_in_your/)
@@ -286,7 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [How to Sequentially Resolve an Array of Promises in JavaScript](https://www.reddit.com/r/javascript/comments/vpab2s/how_to_sequentially_resolve_an_array_of_promises/)
 - [QR code project](https://www.reddit.com/r/javascript/comments/vpa318/qr_code_project/)
 - [Programmer Browser | Open Source Browser for Developers](https://www.reddit.com/r/javascript/comments/vp7nic/programmer_browser_open_source_browser_for/)
-- [[AskJS] Does anyone use generated JSDoc pages?](https://www.reddit.com/r/javascript/comments/vp7in8/askjs_does_anyone_use_generated_jsdoc_pages/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
