@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why Your Cached JavaScript Is Still Slow and Incurs Performance Overhead](https://www.reddit.com/r/javascript/comments/vrgyyy/why_your_cached_javascript_is_still_slow_and/)
+- [A brief history of data fetching](https://www.reddit.com/r/javascript/comments/vrbdac/a_brief_history_of_data_fetching/)
+- [I&#39;m trying to make a hub of tools for web developers.](https://www.reddit.com/r/javascript/comments/vrax3n/im_trying_to_make_a_hub_of_tools_for_web/)
+- [How to use GraphQL Code Generator with React and Apollo for end-to-end type-safety](https://www.reddit.com/r/javascript/comments/vr94hi/how_to_use_graphql_code_generator_with_react_and/)
+- [dynoexpr: expression builder for AWS.DynamoDB.DocumentClient](https://www.reddit.com/r/javascript/comments/vr7zv9/dynoexpr_expression_builder_for/)
+- [[AskJS] Which Languages Compile To Clean, Modular JS?](https://www.reddit.com/r/javascript/comments/vr21n3/askjs_which_languages_compile_to_clean_modular_js/)
 - [How To NOT Block The Browser — The Event Loop, Asynchronous Scheduling, Web Workers &amp; Examples](https://www.reddit.com/r/javascript/comments/vqifao/how_to_not_block_the_browser_the_event_loop/)
 - [GitHub - bugra9/gdal3.js: Convert raster and vector geospatial data to various formats and coordinate systems entirely in the browser.](https://www.reddit.com/r/javascript/comments/vqdm9s/github_bugra9gdal3js_convert_raster_and_vector/)
 - [[AskJS] Are there any portfolio or projects list generators?](https://www.reddit.com/r/javascript/comments/vq3uh3/askjs_are_there_any_portfolio_or_projects_list/)
 - [The new wave of React state management](https://www.reddit.com/r/javascript/comments/vpsuzt/the_new_wave_of_react_state_management/)
-- [Deprank: Find the most important files in your codebase using PageRank](https://www.reddit.com/r/javascript/comments/vppoh2/deprank_find_the_most_important_files_in_your/)
-- [We just open-sourced Insert - a Notion-like form builder that integrates with Supabase, made with Vue and Tailwind](https://www.reddit.com/r/javascript/comments/vpodkm/we_just_opensourced_insert_a_notionlike_form/)
-- [Showoff Saturday &lpar;July 02, 2022&rpar;](https://www.reddit.com/r/javascript/comments/vpltta/showoff_saturday_july_02_2022/)
-- [How to Sequentially Resolve an Array of Promises in JavaScript](https://www.reddit.com/r/javascript/comments/vpab2s/how_to_sequentially_resolve_an_array_of_promises/)
-- [QR code project](https://www.reddit.com/r/javascript/comments/vpa318/qr_code_project/)
-- [Programmer Browser | Open Source Browser for Developers](https://www.reddit.com/r/javascript/comments/vp7nic/programmer_browser_open_source_browser_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
