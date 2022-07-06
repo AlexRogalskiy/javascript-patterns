@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Why Your Cached JavaScript Is Still Slow and Incurs Performance Overhead](https://www.reddit.com/r/javascript/comments/vrgyyy/why_your_cached_javascript_is_still_slow_and/)
-- [A brief history of data fetching](https://www.reddit.com/r/javascript/comments/vrbdac/a_brief_history_of_data_fetching/)
-- [I&#39;m trying to make a hub of tools for web developers.](https://www.reddit.com/r/javascript/comments/vrax3n/im_trying_to_make_a_hub_of_tools_for_web/)
-- [How to use GraphQL Code Generator with React and Apollo for end-to-end type-safety](https://www.reddit.com/r/javascript/comments/vr94hi/how_to_use_graphql_code_generator_with_react_and/)
-- [dynoexpr: expression builder for AWS.DynamoDB.DocumentClient](https://www.reddit.com/r/javascript/comments/vr7zv9/dynoexpr_expression_builder_for/)
-- [[AskJS] Which Languages Compile To Clean, Modular JS?](https://www.reddit.com/r/javascript/comments/vr21n3/askjs_which_languages_compile_to_clean_modular_js/)
-- [How To NOT Block The Browser — The Event Loop, Asynchronous Scheduling, Web Workers &amp; Examples](https://www.reddit.com/r/javascript/comments/vqifao/how_to_not_block_the_browser_the_event_loop/)
-- [GitHub - bugra9/gdal3.js: Convert raster and vector geospatial data to various formats and coordinate systems entirely in the browser.](https://www.reddit.com/r/javascript/comments/vqdm9s/github_bugra9gdal3js_convert_raster_and_vector/)
-- [[AskJS] Are there any portfolio or projects list generators?](https://www.reddit.com/r/javascript/comments/vq3uh3/askjs_are_there_any_portfolio_or_projects_list/)
-- [The new wave of React state management](https://www.reddit.com/r/javascript/comments/vpsuzt/the_new_wave_of_react_state_management/)
+- [VanillaJS, the Reactive Web Framework](https://www.reddit.com/r/javascript/comments/vscf78/vanillajs_the_reactive_web_framework/)
+- [Bun: Fast JavaScript runtime, transpiler, and npm client written in Zig](https://www.reddit.com/r/javascript/comments/vs9fnw/bun_fast_javascript_runtime_transpiler_and_npm/)
+- [How to Add a Website as a Segment Source](https://www.reddit.com/r/javascript/comments/vs9ef9/how_to_add_a_website_as_a_segment_source/)
+- [Converting and Formatting Dates and Time Zones with JavaScript](https://www.reddit.com/r/javascript/comments/vs90s6/converting_and_formatting_dates_and_time_zones/)
+- [I made a Web Puzzle Game in vanilla JS &lpar;with mobile &amp; local 2-player support&rpar;](https://www.reddit.com/r/javascript/comments/vs8n9m/i_made_a_web_puzzle_game_in_vanilla_js_with/)
+- [How I Revamped And Officially Launched My First Chrome Extension](https://www.reddit.com/r/javascript/comments/vs47tx/how_i_revamped_and_officially_launched_my_first/)
+- [How to animate multiplayer cursors - Interactive article + React examples - CSS transitions VS Spring VS Spline](https://www.reddit.com/r/javascript/comments/vs2ebq/how_to_animate_multiplayer_cursors_interactive/)
+- [Getting Started with IndexedDB](https://www.reddit.com/r/javascript/comments/vs2b5f/getting_started_with_indexeddb/)
+- [Implementing User Authentication in NodeJS using Passport.js &lpar;local strategy&rpar;](https://www.reddit.com/r/javascript/comments/vs1xhq/implementing_user_authentication_in_nodejs_using/)
+- [[AskJS] Is there any good script for string extration into locales in the js ecosystem?](https://www.reddit.com/r/javascript/comments/vs1hnt/askjs_is_there_any_good_script_for_string/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
