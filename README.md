@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [protoscript: a protocol buffers runtime and code generation tool for JavaScript and TypeScript](https://www.reddit.com/r/javascript/comments/vt0fn3/protoscript_a_protocol_buffers_runtime_and_code/)
+- [Simplify your full-stack applications with XState](https://www.reddit.com/r/javascript/comments/vsy4i8/simplify_your_fullstack_applications_with_xstate/)
+- [How to Share API Changes with Your Team](https://www.reddit.com/r/javascript/comments/vsv7b9/how_to_share_api_changes_with_your_team/)
+- [Web App Authentication with Email Magical Links, SMS Security Codes, and Google Accounts Using FirebaseUI and Svelte](https://www.reddit.com/r/javascript/comments/vsr57c/web_app_authentication_with_email_magical_links/)
+- [WTF Wednesday &lpar;July 06, 2022&rpar;](https://www.reddit.com/r/javascript/comments/vsjrci/wtf_wednesday_july_06_2022/)
+- [No really, why can&#39;t we have raw UDP in JavaScript?](https://www.reddit.com/r/javascript/comments/vsjczc/no_really_why_cant_we_have_raw_udp_in_javascript/)
+- [Javascript -- Most Used Programming Language - Stackflow Survey 2022 - Must Read Article](https://www.reddit.com/r/javascript/comments/vshh5v/javascript_most_used_programming_language/)
 - [VanillaJS, the Reactive Web Framework](https://www.reddit.com/r/javascript/comments/vscf78/vanillajs_the_reactive_web_framework/)
 - [Bun: Fast JavaScript runtime, transpiler, and npm client written in Zig](https://www.reddit.com/r/javascript/comments/vs9fnw/bun_fast_javascript_runtime_transpiler_and_npm/)
 - [How to Add a Website as a Segment Source](https://www.reddit.com/r/javascript/comments/vs9ef9/how_to_add_a_website_as_a_segment_source/)
-- [Converting and Formatting Dates and Time Zones with JavaScript](https://www.reddit.com/r/javascript/comments/vs90s6/converting_and_formatting_dates_and_time_zones/)
-- [I made a Web Puzzle Game in vanilla JS &lpar;with mobile &amp; local 2-player support&rpar;](https://www.reddit.com/r/javascript/comments/vs8n9m/i_made_a_web_puzzle_game_in_vanilla_js_with/)
-- [How I Revamped And Officially Launched My First Chrome Extension](https://www.reddit.com/r/javascript/comments/vs47tx/how_i_revamped_and_officially_launched_my_first/)
-- [How to animate multiplayer cursors - Interactive article + React examples - CSS transitions VS Spring VS Spline](https://www.reddit.com/r/javascript/comments/vs2ebq/how_to_animate_multiplayer_cursors_interactive/)
-- [Getting Started with IndexedDB](https://www.reddit.com/r/javascript/comments/vs2b5f/getting_started_with_indexeddb/)
-- [Implementing User Authentication in NodeJS using Passport.js &lpar;local strategy&rpar;](https://www.reddit.com/r/javascript/comments/vs1xhq/implementing_user_authentication_in_nodejs_using/)
-- [[AskJS] Is there any good script for string extration into locales in the js ecosystem?](https://www.reddit.com/r/javascript/comments/vs1hnt/askjs_is_there_any_good_script_for_string/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
