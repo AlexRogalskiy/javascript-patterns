@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [protoscript: a protocol buffers runtime and code generation tool for JavaScript and TypeScript](https://www.reddit.com/r/javascript/comments/vt0fn3/protoscript_a_protocol_buffers_runtime_and_code/)
-- [Simplify your full-stack applications with XState](https://www.reddit.com/r/javascript/comments/vsy4i8/simplify_your_fullstack_applications_with_xstate/)
-- [How to Share API Changes with Your Team](https://www.reddit.com/r/javascript/comments/vsv7b9/how_to_share_api_changes_with_your_team/)
-- [Web App Authentication with Email Magical Links, SMS Security Codes, and Google Accounts Using FirebaseUI and Svelte](https://www.reddit.com/r/javascript/comments/vsr57c/web_app_authentication_with_email_magical_links/)
-- [WTF Wednesday &lpar;July 06, 2022&rpar;](https://www.reddit.com/r/javascript/comments/vsjrci/wtf_wednesday_july_06_2022/)
-- [No really, why can&#39;t we have raw UDP in JavaScript?](https://www.reddit.com/r/javascript/comments/vsjczc/no_really_why_cant_we_have_raw_udp_in_javascript/)
-- [Javascript -- Most Used Programming Language - Stackflow Survey 2022 - Must Read Article](https://www.reddit.com/r/javascript/comments/vshh5v/javascript_most_used_programming_language/)
-- [VanillaJS, the Reactive Web Framework](https://www.reddit.com/r/javascript/comments/vscf78/vanillajs_the_reactive_web_framework/)
-- [Bun: Fast JavaScript runtime, transpiler, and npm client written in Zig](https://www.reddit.com/r/javascript/comments/vs9fnw/bun_fast_javascript_runtime_transpiler_and_npm/)
-- [How to Add a Website as a Segment Source](https://www.reddit.com/r/javascript/comments/vs9ef9/how_to_add_a_website_as_a_segment_source/)
+- [Data Fetching in Svelte](https://www.reddit.com/r/javascript/comments/vu099y/data_fetching_in_svelte/)
+- [Is Bun the Next Big Thing After Webpack?](https://www.reddit.com/r/javascript/comments/vtzglb/is_bun_the_next_big_thing_after_webpack/)
+- [Introduction to ESLint rules](https://www.reddit.com/r/javascript/comments/vtu430/introduction_to_eslint_rules/)
+- [How to Find Infinite Loop in Javascript using DevTools](https://www.reddit.com/r/javascript/comments/vtsssa/how_to_find_infinite_loop_in_javascript_using/)
+- [How to scrape Google Search Organic Results with Node JS?](https://www.reddit.com/r/javascript/comments/vtpzup/how_to_scrape_google_search_organic_results_with/)
+- [The concept of Triple CCC: Currying, Closure, Callback in JavaScript](https://www.reddit.com/r/javascript/comments/vtpfqe/the_concept_of_triple_ccc_currying_closure/)
+- [The VS Code Server](https://www.reddit.com/r/javascript/comments/vtop2d/the_vs_code_server/)
+- [Visual Studio Code June 2022](https://www.reddit.com/r/javascript/comments/vtoonm/visual_studio_code_june_2022/)
+- [Brain.js: GPU accelerated Neural networks in JavaScript &lpar;for Browsers and Node.js&rpar;](https://www.reddit.com/r/javascript/comments/vtm5pa/brainjs_gpu_accelerated_neural_networks_in/)
+- [[AskJS] What would you like to see in a dependency injection library?](https://www.reddit.com/r/javascript/comments/vtkscx/askjs_what_would_you_like_to_see_in_a_dependency/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
