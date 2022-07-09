@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Iofod supports Flutter 3.0 project generation](https://www.reddit.com/r/javascript/comments/vuqx80/iofod_supports_flutter_30_project_generation/)
+- [[AskJS] what do you think of this website I built for my sisters business?](https://www.reddit.com/r/javascript/comments/vuqfrr/askjs_what_do_you_think_of_this_website_i_built/)
+- [[AskJS] What so you think about my portfolio site?](https://www.reddit.com/r/javascript/comments/vugzql/askjs_what_so_you_think_about_my_portfolio_site/)
+- [ironmanjs Bringing Ironman mode to JavaScript - JavaScript without bloat](https://www.reddit.com/r/javascript/comments/vud7ov/ironmanjs_bringing_ironman_mode_to_javascript/)
+- [Mind Elixir, a mind map core, is updated to 1.0.1.](https://www.reddit.com/r/javascript/comments/vuc0jh/mind_elixir_a_mind_map_core_is_updated_to_101/)
+- [React New York Conference: September 9th, 2022. Submit your talk.](https://www.reddit.com/r/javascript/comments/vu9fy5/react_new_york_conference_september_9th_2022/)
+- [Wayne: Like express.js but for Service Worker](https://www.reddit.com/r/javascript/comments/vu6tty/wayne_like_expressjs_but_for_service_worker/)
 - [Data Fetching in Svelte](https://www.reddit.com/r/javascript/comments/vu099y/data_fetching_in_svelte/)
 - [Is Bun the Next Big Thing After Webpack?](https://www.reddit.com/r/javascript/comments/vtzglb/is_bun_the_next_big_thing_after_webpack/)
-- [Introduction to ESLint rules](https://www.reddit.com/r/javascript/comments/vtu430/introduction_to_eslint_rules/)
 - [How to Find Infinite Loop in Javascript using DevTools](https://www.reddit.com/r/javascript/comments/vtsssa/how_to_find_infinite_loop_in_javascript_using/)
-- [How to scrape Google Search Organic Results with Node JS?](https://www.reddit.com/r/javascript/comments/vtpzup/how_to_scrape_google_search_organic_results_with/)
-- [The concept of Triple CCC: Currying, Closure, Callback in JavaScript](https://www.reddit.com/r/javascript/comments/vtpfqe/the_concept_of_triple_ccc_currying_closure/)
-- [The VS Code Server](https://www.reddit.com/r/javascript/comments/vtop2d/the_vs_code_server/)
-- [Visual Studio Code June 2022](https://www.reddit.com/r/javascript/comments/vtoonm/visual_studio_code_june_2022/)
-- [Brain.js: GPU accelerated Neural networks in JavaScript &lpar;for Browsers and Node.js&rpar;](https://www.reddit.com/r/javascript/comments/vtm5pa/brainjs_gpu_accelerated_neural_networks_in/)
-- [[AskJS] What would you like to see in a dependency injection library?](https://www.reddit.com/r/javascript/comments/vtkscx/askjs_what_would_you_like_to_see_in_a_dependency/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
