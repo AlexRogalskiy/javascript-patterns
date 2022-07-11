@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Timelines Game - made with React/css](https://www.reddit.com/r/javascript/comments/vvff2n/timelines_game_made_with_reactcss/)
-- [A user federated Cloud to host js website and program](https://www.reddit.com/r/javascript/comments/vvcis6/a_user_federated_cloud_to_host_js_website_and/)
+- [just code a simple html application to document oracle tables](https://www.reddit.com/r/javascript/comments/vw7y1y/just_code_a_simple_html_application_to_document/)
+- [Shotstack: AWS Mediaconvert alternative for Node.js](https://www.reddit.com/r/javascript/comments/vw3fdq/shotstack_aws_mediaconvert_alternative_for_nodejs/)
+- [Code Generation and optimizations in JavaScript engines](https://www.reddit.com/r/javascript/comments/vvz5tv/code_generation_and_optimizations_in_javascript/)
+- [MDN Web Docs-Modernization of &lpar;static&rpar; code examples · Discussion #143 · mdn](https://www.reddit.com/r/javascript/comments/vvm5y6/mdn_web_docsmodernization_of_static_code_examples/)
+- [Doodle 0.8.0 Supports 3D](https://www.reddit.com/r/javascript/comments/vvkndl/doodle_080_supports_3d/)
 - [Vote For Bun JS Runtime &lpar;Default Windows&rpar;](https://www.reddit.com/r/javascript/comments/vuyk91/vote_for_bun_js_runtime_default_windows/)
-- [JavaScript just became light speed faster!!!](https://www.reddit.com/r/javascript/comments/vuxvlx/javascript_just_became_light_speed_faster/)
 - [Showoff Saturday &lpar;July 09, 2022&rpar;](https://www.reddit.com/r/javascript/comments/vuvy1e/showoff_saturday_july_09_2022/)
 - [ironmanjs Bringing Ironman mode to JavaScript - JavaScript without bloat](https://www.reddit.com/r/javascript/comments/vud7ov/ironmanjs_bringing_ironman_mode_to_javascript/)
 - [Mind Elixir, a mind map core, is updated to 1.0.1.](https://www.reddit.com/r/javascript/comments/vuc0jh/mind_elixir_a_mind_map_core_is_updated_to_101/)
 - [React New York Conference: September 9th, 2022. Submit your talk.](https://www.reddit.com/r/javascript/comments/vu9fy5/react_new_york_conference_september_9th_2022/)
-- [Wayne: Like express.js but for Service Worker](https://www.reddit.com/r/javascript/comments/vu6tty/wayne_like_expressjs_but_for_service_worker/)
-- [Data Fetching in Svelte](https://www.reddit.com/r/javascript/comments/vu099y/data_fetching_in_svelte/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
