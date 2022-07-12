@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [just code a simple html application to document oracle tables](https://www.reddit.com/r/javascript/comments/vw7y1y/just_code_a_simple_html_application_to_document/)
-- [Shotstack: AWS Mediaconvert alternative for Node.js](https://www.reddit.com/r/javascript/comments/vw3fdq/shotstack_aws_mediaconvert_alternative_for_nodejs/)
-- [Code Generation and optimizations in JavaScript engines](https://www.reddit.com/r/javascript/comments/vvz5tv/code_generation_and_optimizations_in_javascript/)
-- [MDN Web Docs-Modernization of &lpar;static&rpar; code examples · Discussion #143 · mdn](https://www.reddit.com/r/javascript/comments/vvm5y6/mdn_web_docsmodernization_of_static_code_examples/)
-- [Doodle 0.8.0 Supports 3D](https://www.reddit.com/r/javascript/comments/vvkndl/doodle_080_supports_3d/)
-- [Vote For Bun JS Runtime &lpar;Default Windows&rpar;](https://www.reddit.com/r/javascript/comments/vuyk91/vote_for_bun_js_runtime_default_windows/)
-- [Showoff Saturday &lpar;July 09, 2022&rpar;](https://www.reddit.com/r/javascript/comments/vuvy1e/showoff_saturday_july_09_2022/)
-- [ironmanjs Bringing Ironman mode to JavaScript - JavaScript without bloat](https://www.reddit.com/r/javascript/comments/vud7ov/ironmanjs_bringing_ironman_mode_to_javascript/)
-- [Mind Elixir, a mind map core, is updated to 1.0.1.](https://www.reddit.com/r/javascript/comments/vuc0jh/mind_elixir_a_mind_map_core_is_updated_to_101/)
-- [React New York Conference: September 9th, 2022. Submit your talk.](https://www.reddit.com/r/javascript/comments/vu9fy5/react_new_york_conference_september_9th_2022/)
+- [Running Typescript scripts in node using esbuild](https://www.reddit.com/r/javascript/comments/vwz3r1/running_typescript_scripts_in_node_using_esbuild/)
+- [[AskJS] I&#39;m trying to hire senior level software engineers with javascript xp. Any ideas on how to find and reach out to these people?](https://www.reddit.com/r/javascript/comments/vwtfn5/askjs_im_trying_to_hire_senior_level_software/)
+- [How to scrape Google Maps Reviews with Node JS?](https://www.reddit.com/r/javascript/comments/vwqh13/how_to_scrape_google_maps_reviews_with_node_js/)
+- [Supporting Web Workers API in Node.js vs Just Using Deno](https://www.reddit.com/r/javascript/comments/vwq9z3/supporting_web_workers_api_in_nodejs_vs_just/)
+- [Bun: An Exciting, Speedy New JavaScript Runtime](https://www.reddit.com/r/javascript/comments/vwq3u2/bun_an_exciting_speedy_new_javascript_runtime/)
+- [A Guide To Events In The Google Calendar API](https://www.reddit.com/r/javascript/comments/vwq2s0/a_guide_to_events_in_the_google_calendar_api/)
+- [[AskJS] Why Would A Web App Care About Keyboard Layout?](https://www.reddit.com/r/javascript/comments/vwo5fl/askjs_why_would_a_web_app_care_about_keyboard/)
+- [Toolspace - A library of open-source developer tools, reviews, and alternatives. &lpar;Built on Next.js&rpar;](https://www.reddit.com/r/javascript/comments/vwmnuk/toolspace_a_library_of_opensource_developer_tools/)
+- [I made Neofetch in Discord using JS!](https://www.reddit.com/r/javascript/comments/vwlye0/i_made_neofetch_in_discord_using_js/)
+- [Your /r/javascript recap for the week of July 04 - July 10](https://www.reddit.com/r/javascript/comments/vwdy50/your_rjavascript_recap_for_the_week_of_july_04/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
