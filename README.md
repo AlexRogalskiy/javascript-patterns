@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Tutorial : How to host my website with ssl behind a nat?](https://www.reddit.com/r/javascript/comments/vxrfda/tutorial_how_to_host_my_website_with_ssl_behind_a/)
+- [Create decentralized applications? Right Now!](https://www.reddit.com/r/javascript/comments/vxj490/create_decentralized_applications_right_now/)
+- [[AskJS] Does JavaScript do any optimization at all?](https://www.reddit.com/r/javascript/comments/vxhvaw/askjs_does_javascript_do_any_optimization_at_all/)
+- [[AskJS] Suggest me some online Code execution engine](https://www.reddit.com/r/javascript/comments/vxhu8d/askjs_suggest_me_some_online_code_execution_engine/)
+- [The Cost of Consistency in UI Frameworks](https://www.reddit.com/r/javascript/comments/vxgfzf/the_cost_of_consistency_in_ui_frameworks/)
+- [Scroll-linked animations with Motion One](https://www.reddit.com/r/javascript/comments/vxck8b/scrolllinked_animations_with_motion_one/)
+- [Optional Chaining In JavaScript](https://www.reddit.com/r/javascript/comments/vx9mvy/optional_chaining_in_javascript/)
+- [Runtime Structural Type System for JavaScript](https://www.reddit.com/r/javascript/comments/vx64l4/runtime_structural_type_system_for_javascript/)
 - [Running Typescript scripts in node using esbuild](https://www.reddit.com/r/javascript/comments/vwz3r1/running_typescript_scripts_in_node_using_esbuild/)
-- [[AskJS] I&#39;m trying to hire senior level software engineers with javascript xp. Any ideas on how to find and reach out to these people?](https://www.reddit.com/r/javascript/comments/vwtfn5/askjs_im_trying_to_hire_senior_level_software/)
 - [How to scrape Google Maps Reviews with Node JS?](https://www.reddit.com/r/javascript/comments/vwqh13/how_to_scrape_google_maps_reviews_with_node_js/)
-- [Supporting Web Workers API in Node.js vs Just Using Deno](https://www.reddit.com/r/javascript/comments/vwq9z3/supporting_web_workers_api_in_nodejs_vs_just/)
-- [Bun: An Exciting, Speedy New JavaScript Runtime](https://www.reddit.com/r/javascript/comments/vwq3u2/bun_an_exciting_speedy_new_javascript_runtime/)
-- [A Guide To Events In The Google Calendar API](https://www.reddit.com/r/javascript/comments/vwq2s0/a_guide_to_events_in_the_google_calendar_api/)
-- [[AskJS] Why Would A Web App Care About Keyboard Layout?](https://www.reddit.com/r/javascript/comments/vwo5fl/askjs_why_would_a_web_app_care_about_keyboard/)
-- [Toolspace - A library of open-source developer tools, reviews, and alternatives. &lpar;Built on Next.js&rpar;](https://www.reddit.com/r/javascript/comments/vwmnuk/toolspace_a_library_of_opensource_developer_tools/)
-- [I made Neofetch in Discord using JS!](https://www.reddit.com/r/javascript/comments/vwlye0/i_made_neofetch_in_discord_using_js/)
-- [Your /r/javascript recap for the week of July 04 - July 10](https://www.reddit.com/r/javascript/comments/vwdy50/your_rjavascript_recap_for_the_week_of_july_04/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
