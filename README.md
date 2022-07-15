@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What&#39;s New In DevTools &lpar;Chrome 104&rpar; - Chrome Developers](https://www.reddit.com/r/javascript/comments/vze17q/whats_new_in_devtools_chrome_104_chrome_developers/)
+- [Designing the ultimate typesafe query builder for TypeScript](https://www.reddit.com/r/javascript/comments/vz55sx/designing_the_ultimate_typesafe_query_builder_for/)
+- [Next.Js Adventures: How a Couple Of Embedded YouTube Videos Screwed My Performance Scores](https://www.reddit.com/r/javascript/comments/vz4wnd/nextjs_adventures_how_a_couple_of_embedded/)
+- [Adding interactive api documentation to an existing mock express app with &gt;700 endpoints](https://www.reddit.com/r/javascript/comments/vz340w/adding_interactive_api_documentation_to_an/)
+- [Setup a Monorepo with PNPM workspaces and speed it up with Nx!](https://www.reddit.com/r/javascript/comments/vyzivb/setup_a_monorepo_with_pnpm_workspaces_and_speed/)
+- [Supabase Auth Helpers with support for SvelteKit](https://www.reddit.com/r/javascript/comments/vyw15d/supabase_auth_helpers_with_support_for_sveltekit/)
+- [The cost of convenience](https://www.reddit.com/r/javascript/comments/vyvtv6/the_cost_of_convenience/)
+- [Talkr now supports React Native](https://www.reddit.com/r/javascript/comments/vyv0l7/talkr_now_supports_react_native/)
 - [Semver: The unknown buildMetadata](https://www.reddit.com/r/javascript/comments/vyk3oi/semver_the_unknown_buildmetadata/)
-- [GitHub - tuplo/numberfmt: Native number formatting using a text pattern](https://www.reddit.com/r/javascript/comments/vye2rp/github_tuplonumberfmt_native_number_formatting/)
 - [Techniques to optimize React render performance](https://www.reddit.com/r/javascript/comments/vya0fk/techniques_to_optimize_react_render_performance/)
-- [[AskJS] What are the best practices when creating a login flow?](https://www.reddit.com/r/javascript/comments/vy91ra/askjs_what_are_the_best_practices_when_creating_a/)
-- [Building attractive CLIs in JavaScript/TypeScript](https://www.reddit.com/r/javascript/comments/vy5356/building_attractive_clis_in_javascripttypescript/)
-- [[AskJS] What is your favorite conference talk? &lpar;i.e. JSConf, OpenJS World, etc.&rpar;](https://www.reddit.com/r/javascript/comments/vy449a/askjs_what_is_your_favorite_conference_talk_ie/)
-- [Vite 3.0 is out!](https://www.reddit.com/r/javascript/comments/vy3dkp/vite_30_is_out/)
-- [Polyfills and Transpilers in JavaScript.](https://www.reddit.com/r/javascript/comments/vy2rom/polyfills_and_transpilers_in_javascript/)
-- [First Look at the Temporal API in JavaScript](https://www.reddit.com/r/javascript/comments/vy2ikx/first_look_at_the_temporal_api_in_javascript/)
-- [TypeScript continues to change the way JavaScript does things. An overview of the latest TypeScript features with examples](https://www.reddit.com/r/javascript/comments/vy26dn/typescript_continues_to_change_the_way_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
