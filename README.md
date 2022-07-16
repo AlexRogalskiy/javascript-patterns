@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Moduliths in Angular with Nx and DDD](https://www.reddit.com/r/javascript/comments/vzz39g/moduliths_in_angular_with_nx_and_ddd/)
+- [[AskJS] JS Practice](https://www.reddit.com/r/javascript/comments/vzydad/askjs_js_practice/)
+- [Using Swagger to Autogenerate OpenAPI Specifications for REST APIs](https://www.reddit.com/r/javascript/comments/vzwwc9/using_swagger_to_autogenerate_openapi/)
+- [Javascript readability vs performance: a false tradeoff](https://www.reddit.com/r/javascript/comments/vzr2z6/javascript_readability_vs_performance_a_false/)
+- [supabase-js now on v1.35.4](https://www.reddit.com/r/javascript/comments/vzq0yq/supabasejs_now_on_v1354/)
 - [What&#39;s New In DevTools &lpar;Chrome 104&rpar; - Chrome Developers](https://www.reddit.com/r/javascript/comments/vze17q/whats_new_in_devtools_chrome_104_chrome_developers/)
 - [Designing the ultimate typesafe query builder for TypeScript](https://www.reddit.com/r/javascript/comments/vz55sx/designing_the_ultimate_typesafe_query_builder_for/)
 - [Next.Js Adventures: How a Couple Of Embedded YouTube Videos Screwed My Performance Scores](https://www.reddit.com/r/javascript/comments/vz4wnd/nextjs_adventures_how_a_couple_of_embedded/)
 - [Adding interactive api documentation to an existing mock express app with &gt;700 endpoints](https://www.reddit.com/r/javascript/comments/vz340w/adding_interactive_api_documentation_to_an/)
 - [Setup a Monorepo with PNPM workspaces and speed it up with Nx!](https://www.reddit.com/r/javascript/comments/vyzivb/setup_a_monorepo_with_pnpm_workspaces_and_speed/)
-- [Supabase Auth Helpers with support for SvelteKit](https://www.reddit.com/r/javascript/comments/vyw15d/supabase_auth_helpers_with_support_for_sveltekit/)
-- [The cost of convenience](https://www.reddit.com/r/javascript/comments/vyvtv6/the_cost_of_convenience/)
-- [Talkr now supports React Native](https://www.reddit.com/r/javascript/comments/vyv0l7/talkr_now_supports_react_native/)
-- [Semver: The unknown buildMetadata](https://www.reddit.com/r/javascript/comments/vyk3oi/semver_the_unknown_buildmetadata/)
-- [Techniques to optimize React render performance](https://www.reddit.com/r/javascript/comments/vya0fk/techniques_to_optimize_react_render_performance/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
