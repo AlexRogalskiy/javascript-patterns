@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Vanilla Views](https://www.reddit.com/r/javascript/comments/w0wlun/askjs_vanilla_views/)
+- [Integer math in JavaScript](https://www.reddit.com/r/javascript/comments/w0l0eq/integer_math_in_javascript/)
+- [Slice&lpar;&rpar; VS Splice&lpar;&rpar; -- The most asked difference in JavaScript interviews](https://www.reddit.com/r/javascript/comments/w0iw3g/slice_vs_splice_the_most_asked_difference_in/)
+- [Inside JavaScript Engines, Part 1: Parsing](https://www.reddit.com/r/javascript/comments/w0ezu2/inside_javascript_engines_part_1_parsing/)
+- [I Scrapped 30,000 Stocks From eToro — Here’s How I Did It](https://www.reddit.com/r/javascript/comments/w0dfv6/i_scrapped_30000_stocks_from_etoro_heres_how_i/)
+- [[AskJS] JS Practice](https://www.reddit.com/r/javascript/comments/w0bda8/askjs_js_practice/)
+- [Showoff Saturday &lpar;July 16, 2022&rpar;](https://www.reddit.com/r/javascript/comments/w0aiep/showoff_saturday_july_16_2022/)
+- [[typescript-json] help me benchmark on your device please](https://www.reddit.com/r/javascript/comments/w0a2xy/typescriptjson_help_me_benchmark_on_your_device/)
+- [Releasing Color.js: A library that takes color seriously](https://www.reddit.com/r/javascript/comments/w07o5a/releasing_colorjs_a_library_that_takes_color/)
 - [Moduliths in Angular with Nx and DDD](https://www.reddit.com/r/javascript/comments/vzz39g/moduliths_in_angular_with_nx_and_ddd/)
-- [[AskJS] JS Practice](https://www.reddit.com/r/javascript/comments/vzydad/askjs_js_practice/)
-- [Using Swagger to Autogenerate OpenAPI Specifications for REST APIs](https://www.reddit.com/r/javascript/comments/vzwwc9/using_swagger_to_autogenerate_openapi/)
-- [Javascript readability vs performance: a false tradeoff](https://www.reddit.com/r/javascript/comments/vzr2z6/javascript_readability_vs_performance_a_false/)
-- [supabase-js now on v1.35.4](https://www.reddit.com/r/javascript/comments/vzq0yq/supabasejs_now_on_v1354/)
-- [What&#39;s New In DevTools &lpar;Chrome 104&rpar; - Chrome Developers](https://www.reddit.com/r/javascript/comments/vze17q/whats_new_in_devtools_chrome_104_chrome_developers/)
-- [Designing the ultimate typesafe query builder for TypeScript](https://www.reddit.com/r/javascript/comments/vz55sx/designing_the_ultimate_typesafe_query_builder_for/)
-- [Next.Js Adventures: How a Couple Of Embedded YouTube Videos Screwed My Performance Scores](https://www.reddit.com/r/javascript/comments/vz4wnd/nextjs_adventures_how_a_couple_of_embedded/)
-- [Adding interactive api documentation to an existing mock express app with &gt;700 endpoints](https://www.reddit.com/r/javascript/comments/vz340w/adding_interactive_api_documentation_to_an/)
-- [Setup a Monorepo with PNPM workspaces and speed it up with Nx!](https://www.reddit.com/r/javascript/comments/vyzivb/setup_a_monorepo_with_pnpm_workspaces_and_speed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
