@@ -277,9 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A guide to frontend migrations](https://www.reddit.com/r/javascript/comments/w16chd/a_guide_to_frontend_migrations/)
 - [[AskJS] Vanilla Views](https://www.reddit.com/r/javascript/comments/w0wlun/askjs_vanilla_views/)
 - [Integer math in JavaScript](https://www.reddit.com/r/javascript/comments/w0l0eq/integer_math_in_javascript/)
-- [Slice&lpar;&rpar; VS Splice&lpar;&rpar; -- The most asked difference in JavaScript interviews](https://www.reddit.com/r/javascript/comments/w0iw3g/slice_vs_splice_the_most_asked_difference_in/)
 - [Inside JavaScript Engines, Part 1: Parsing](https://www.reddit.com/r/javascript/comments/w0ezu2/inside_javascript_engines_part_1_parsing/)
 - [I Scrapped 30,000 Stocks From eToro — Here’s How I Did It](https://www.reddit.com/r/javascript/comments/w0dfv6/i_scrapped_30000_stocks_from_etoro_heres_how_i/)
 - [[AskJS] JS Practice](https://www.reddit.com/r/javascript/comments/w0bda8/askjs_js_practice/)
