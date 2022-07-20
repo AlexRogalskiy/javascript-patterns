@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Create app for QuickBooks online &lpar;integrate Spreadsheets functions&rpar;](https://www.reddit.com/r/javascript/comments/w314vd/askjs_create_app_for_quickbooks_online_integrate/)
+- [spell.js: A simple “keypress” event handler that silently listens to what is typed outside of form fields](https://www.reddit.com/r/javascript/comments/w2wda7/spelljs_a_simple_keypress_event_handler_that/)
+- [FoldersLint - Directory structure linter for Front-End projects](https://www.reddit.com/r/javascript/comments/w2v5q4/folderslint_directory_structure_linter_for/)
+- [React debug.keystore key was trusted by Meta&lpar;Facebook&rpar; which caused to Instagram account takeover by malicious apps](https://www.reddit.com/r/javascript/comments/w2up0h/react_debugkeystore_key_was_trusted_by/)
+- [Payload CMS just launched its first major version and is now out of public beta](https://www.reddit.com/r/javascript/comments/w2skm7/payload_cms_just_launched_its_first_major_version/)
+- [[AskJS] List of platforms for building Full-Stack Apps](https://www.reddit.com/r/javascript/comments/w2rn66/askjs_list_of_platforms_for_building_fullstack/)
+- [[AskJS] What&#39;s your experience with monorepos?](https://www.reddit.com/r/javascript/comments/w2qtzb/askjs_whats_your_experience_with_monorepos/)
+- [Neutralinojs v4.7.0 released!](https://www.reddit.com/r/javascript/comments/w2qsrw/neutralinojs_v470_released/)
+- [Saving cost with timeout latches in JavaScript](https://www.reddit.com/r/javascript/comments/w2j0ng/saving_cost_with_timeout_latches_in_javascript/)
 - [Detect JavaScript Memory Leaks With QueryObjects](https://www.reddit.com/r/javascript/comments/w26ayw/detect_javascript_memory_leaks_with_queryobjects/)
-- [GitHub - tc39/proposal-decimal: Built-in decimal datatype in JavaScript](https://www.reddit.com/r/javascript/comments/w25133/github_tc39proposaldecimal_builtin_decimal/)
-- [JavaScript regressions and how to prevent them](https://www.reddit.com/r/javascript/comments/w1ynln/javascript_regressions_and_how_to_prevent_them/)
-- [Taking a Look at the New Pipe Operator in JavaScript](https://www.reddit.com/r/javascript/comments/w1w8oc/taking_a_look_at_the_new_pipe_operator_in/)
-- [Stripe - Migrating millions of lines of code to TypeScript](https://www.reddit.com/r/javascript/comments/w1qi0h/stripe_migrating_millions_of_lines_of_code_to/)
-- [A guide to frontend migrations](https://www.reddit.com/r/javascript/comments/w16chd/a_guide_to_frontend_migrations/)
-- [[AskJS] Vanilla Views](https://www.reddit.com/r/javascript/comments/w0wlun/askjs_vanilla_views/)
-- [Integer math in JavaScript](https://www.reddit.com/r/javascript/comments/w0l0eq/integer_math_in_javascript/)
-- [Inside JavaScript Engines, Part 1: Parsing](https://www.reddit.com/r/javascript/comments/w0ezu2/inside_javascript_engines_part_1_parsing/)
-- [I Scrapped 30,000 Stocks From eToro — Here’s How I Did It](https://www.reddit.com/r/javascript/comments/w0dfv6/i_scrapped_30000_stocks_from_etoro_heres_how_i/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
