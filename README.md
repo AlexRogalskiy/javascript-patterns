@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Create app for QuickBooks online &lpar;integrate Spreadsheets functions&rpar;](https://www.reddit.com/r/javascript/comments/w314vd/askjs_create_app_for_quickbooks_online_integrate/)
-- [spell.js: A simple “keypress” event handler that silently listens to what is typed outside of form fields](https://www.reddit.com/r/javascript/comments/w2wda7/spelljs_a_simple_keypress_event_handler_that/)
-- [FoldersLint - Directory structure linter for Front-End projects](https://www.reddit.com/r/javascript/comments/w2v5q4/folderslint_directory_structure_linter_for/)
-- [React debug.keystore key was trusted by Meta&lpar;Facebook&rpar; which caused to Instagram account takeover by malicious apps](https://www.reddit.com/r/javascript/comments/w2up0h/react_debugkeystore_key_was_trusted_by/)
-- [Payload CMS just launched its first major version and is now out of public beta](https://www.reddit.com/r/javascript/comments/w2skm7/payload_cms_just_launched_its_first_major_version/)
-- [[AskJS] List of platforms for building Full-Stack Apps](https://www.reddit.com/r/javascript/comments/w2rn66/askjs_list_of_platforms_for_building_fullstack/)
-- [[AskJS] What&#39;s your experience with monorepos?](https://www.reddit.com/r/javascript/comments/w2qtzb/askjs_whats_your_experience_with_monorepos/)
-- [Neutralinojs v4.7.0 released!](https://www.reddit.com/r/javascript/comments/w2qsrw/neutralinojs_v470_released/)
-- [Saving cost with timeout latches in JavaScript](https://www.reddit.com/r/javascript/comments/w2j0ng/saving_cost_with_timeout_latches_in_javascript/)
-- [Detect JavaScript Memory Leaks With QueryObjects](https://www.reddit.com/r/javascript/comments/w26ayw/detect_javascript_memory_leaks_with_queryobjects/)
+- [I made a music player and visualizer for Nintendo DS games](https://www.reddit.com/r/javascript/comments/w44h6x/i_made_a_music_player_and_visualizer_for_nintendo/)
+- [Sunmao: A framework for developing low-code tools](https://www.reddit.com/r/javascript/comments/w444p7/sunmao_a_framework_for_developing_lowcode_tools/)
+- [We built an automatic video generator with Node.JS, Pexels image API &amp; Shotstack video editing API [With source code]](https://www.reddit.com/r/javascript/comments/w435n4/we_built_an_automatic_video_generator_with_nodejs/)
+- [Moving gulpfile from CommonJS &lpar;CJS&rpar; to ECMAScript Modules &lpar;ESM&rpar;](https://www.reddit.com/r/javascript/comments/w40ty4/moving_gulpfile_from_commonjs_cjs_to_ecmascript/)
+- [Bun is a near-total rewrite of the Node ecosystem.It looks really, really good.](https://www.reddit.com/r/javascript/comments/w40df6/bun_is_a_neartotal_rewrite_of_the_node/)
+- [Glitch effect on images using CSS animations](https://www.reddit.com/r/javascript/comments/w3zyy9/glitch_effect_on_images_using_css_animations/)
+- [Role-Based Authorization with JWT Using NestJS](https://www.reddit.com/r/javascript/comments/w3t931/rolebased_authorization_with_jwt_using_nestjs/)
+- [Detect JavaScript Memory Leaks With QueryObjects](https://www.reddit.com/r/javascript/comments/w3sqri/detect_javascript_memory_leaks_with_queryobjects/)
+- [[AskJS] Power your blog with Nuxt Content](https://www.reddit.com/r/javascript/comments/w3qjs2/askjs_power_your_blog_with_nuxt_content/)
+- [I tried nuxt3 with vuetify3, here is how to set it up and do some basic configs.](https://www.reddit.com/r/javascript/comments/w3pyva/i_tried_nuxt3_with_vuetify3_here_is_how_to_set_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
