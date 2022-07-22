@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I made a music player and visualizer for Nintendo DS games](https://www.reddit.com/r/javascript/comments/w44h6x/i_made_a_music_player_and_visualizer_for_nintendo/)
-- [Sunmao: A framework for developing low-code tools](https://www.reddit.com/r/javascript/comments/w444p7/sunmao_a_framework_for_developing_lowcode_tools/)
-- [We built an automatic video generator with Node.JS, Pexels image API &amp; Shotstack video editing API [With source code]](https://www.reddit.com/r/javascript/comments/w435n4/we_built_an_automatic_video_generator_with_nodejs/)
-- [Moving gulpfile from CommonJS &lpar;CJS&rpar; to ECMAScript Modules &lpar;ESM&rpar;](https://www.reddit.com/r/javascript/comments/w40ty4/moving_gulpfile_from_commonjs_cjs_to_ecmascript/)
-- [Bun is a near-total rewrite of the Node ecosystem.It looks really, really good.](https://www.reddit.com/r/javascript/comments/w40df6/bun_is_a_neartotal_rewrite_of_the_node/)
-- [Glitch effect on images using CSS animations](https://www.reddit.com/r/javascript/comments/w3zyy9/glitch_effect_on_images_using_css_animations/)
-- [Role-Based Authorization with JWT Using NestJS](https://www.reddit.com/r/javascript/comments/w3t931/rolebased_authorization_with_jwt_using_nestjs/)
-- [Detect JavaScript Memory Leaks With QueryObjects](https://www.reddit.com/r/javascript/comments/w3sqri/detect_javascript_memory_leaks_with_queryobjects/)
-- [[AskJS] Power your blog with Nuxt Content](https://www.reddit.com/r/javascript/comments/w3qjs2/askjs_power_your_blog_with_nuxt_content/)
-- [I tried nuxt3 with vuetify3, here is how to set it up and do some basic configs.](https://www.reddit.com/r/javascript/comments/w3pyva/i_tried_nuxt3_with_vuetify3_here_is_how_to_set_it/)
+- [Updates from the 91st TC39 meeting](https://www.reddit.com/r/javascript/comments/w4zvt6/updates_from_the_91st_tc39_meeting/)
+- [Good morning, my fellow underpaid developers, creators, innovators, designers and enthusiasts.](https://www.reddit.com/r/javascript/comments/w4whk1/good_morning_my_fellow_underpaid_developers/)
+- [[AskJS] practices](https://www.reddit.com/r/javascript/comments/w4w60l/askjs_practices/)
+- [Top 5 VSCode Extensions that make you Code Faster - MyCodeBlock.com](https://www.reddit.com/r/javascript/comments/w4ummm/top_5_vscode_extensions_that_make_you_code_faster/)
+- [Made a search engine with React that uses generative AI to answer your questions instantly. It&#39;s free, anonymous, and live at beta.sayhello.so](https://www.reddit.com/r/javascript/comments/w4n1po/made_a_search_engine_with_react_that_uses/)
+- [JavaScript SDK “Package Size is Massive” - So we reduced it by 29%](https://www.reddit.com/r/javascript/comments/w4knmn/javascript_sdk_package_size_is_massive_so_we/)
+- [Storybook 7.0 design sneak peek](https://www.reddit.com/r/javascript/comments/w4iw37/storybook_70_design_sneak_peek/)
+- [Testing pyramid for the frontend](https://www.reddit.com/r/javascript/comments/w4gytc/testing_pyramid_for_the_frontend/)
+- [Is Selenium worth it?](https://www.reddit.com/r/javascript/comments/w4gyl4/is_selenium_worth_it/)
+- [[AskJS] Why does Oracle own the name &quot;JavaScript&quot;?](https://www.reddit.com/r/javascript/comments/w4edz9/askjs_why_does_oracle_own_the_name_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
