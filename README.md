@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Updates from the 91st TC39 meeting](https://www.reddit.com/r/javascript/comments/w4zvt6/updates_from_the_91st_tc39_meeting/)
-- [Good morning, my fellow underpaid developers, creators, innovators, designers and enthusiasts.](https://www.reddit.com/r/javascript/comments/w4whk1/good_morning_my_fellow_underpaid_developers/)
-- [[AskJS] practices](https://www.reddit.com/r/javascript/comments/w4w60l/askjs_practices/)
-- [Top 5 VSCode Extensions that make you Code Faster - MyCodeBlock.com](https://www.reddit.com/r/javascript/comments/w4ummm/top_5_vscode_extensions_that_make_you_code_faster/)
-- [Made a search engine with React that uses generative AI to answer your questions instantly. It&#39;s free, anonymous, and live at beta.sayhello.so](https://www.reddit.com/r/javascript/comments/w4n1po/made_a_search_engine_with_react_that_uses/)
-- [JavaScript SDK “Package Size is Massive” - So we reduced it by 29%](https://www.reddit.com/r/javascript/comments/w4knmn/javascript_sdk_package_size_is_massive_so_we/)
-- [Storybook 7.0 design sneak peek](https://www.reddit.com/r/javascript/comments/w4iw37/storybook_70_design_sneak_peek/)
-- [Testing pyramid for the frontend](https://www.reddit.com/r/javascript/comments/w4gytc/testing_pyramid_for_the_frontend/)
-- [Is Selenium worth it?](https://www.reddit.com/r/javascript/comments/w4gyl4/is_selenium_worth_it/)
-- [[AskJS] Why does Oracle own the name &quot;JavaScript&quot;?](https://www.reddit.com/r/javascript/comments/w4edz9/askjs_why_does_oracle_own_the_name_javascript/)
+- [[AskJS] Publishing web and node libraries to NPM from single module](https://www.reddit.com/r/javascript/comments/w5qefy/askjs_publishing_web_and_node_libraries_to_npm/)
+- [[AskJS] Library that gives you a UI like the editor of premier pro/final cut](https://www.reddit.com/r/javascript/comments/w5nhv8/askjs_library_that_gives_you_a_ui_like_the_editor/)
+- [[AskJS] How exactly does the cors policy enforce security?](https://www.reddit.com/r/javascript/comments/w5mrjg/askjs_how_exactly_does_the_cors_policy_enforce/)
+- [Misko Hevery on Why Qwik Will Improve JavaScript Frameworks](https://www.reddit.com/r/javascript/comments/w5eo0c/misko_hevery_on_why_qwik_will_improve_javascript/)
+- [Token Validation: What It Is and How to Set It Up](https://www.reddit.com/r/javascript/comments/w5du35/token_validation_what_it_is_and_how_to_set_it_up/)
+- [What Are Refresh Tokens and How Can They Boost Your Security?](https://www.reddit.com/r/javascript/comments/w5ds8t/what_are_refresh_tokens_and_how_can_they_boost/)
+- [Defeating Javascript Obfuscation](https://www.reddit.com/r/javascript/comments/w5dg25/defeating_javascript_obfuscation/)
+- [[AskJS] in the new &#39;class&#39; syntax, how to access class methods many levels up ?](https://www.reddit.com/r/javascript/comments/w5c1k5/askjs_in_the_new_class_syntax_how_to_access_class/)
+- [[AskJS] Get Form Input](https://www.reddit.com/r/javascript/comments/w5bs99/askjs_get_form_input/)
+- [[AskJS] How can I create a VR/AR webapp with Javascript.](https://www.reddit.com/r/javascript/comments/w5az0a/askjs_how_can_i_create_a_vrar_webapp_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
