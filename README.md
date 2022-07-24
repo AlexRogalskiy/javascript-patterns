@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Publishing web and node libraries to NPM from single module](https://www.reddit.com/r/javascript/comments/w5qefy/askjs_publishing_web_and_node_libraries_to_npm/)
-- [[AskJS] Library that gives you a UI like the editor of premier pro/final cut](https://www.reddit.com/r/javascript/comments/w5nhv8/askjs_library_that_gives_you_a_ui_like_the_editor/)
-- [[AskJS] How exactly does the cors policy enforce security?](https://www.reddit.com/r/javascript/comments/w5mrjg/askjs_how_exactly_does_the_cors_policy_enforce/)
-- [Misko Hevery on Why Qwik Will Improve JavaScript Frameworks](https://www.reddit.com/r/javascript/comments/w5eo0c/misko_hevery_on_why_qwik_will_improve_javascript/)
-- [Token Validation: What It Is and How to Set It Up](https://www.reddit.com/r/javascript/comments/w5du35/token_validation_what_it_is_and_how_to_set_it_up/)
-- [What Are Refresh Tokens and How Can They Boost Your Security?](https://www.reddit.com/r/javascript/comments/w5ds8t/what_are_refresh_tokens_and_how_can_they_boost/)
-- [Defeating Javascript Obfuscation](https://www.reddit.com/r/javascript/comments/w5dg25/defeating_javascript_obfuscation/)
-- [[AskJS] in the new &#39;class&#39; syntax, how to access class methods many levels up ?](https://www.reddit.com/r/javascript/comments/w5c1k5/askjs_in_the_new_class_syntax_how_to_access_class/)
-- [[AskJS] Get Form Input](https://www.reddit.com/r/javascript/comments/w5bs99/askjs_get_form_input/)
-- [[AskJS] How can I create a VR/AR webapp with Javascript.](https://www.reddit.com/r/javascript/comments/w5az0a/askjs_how_can_i_create_a_vrar_webapp_with/)
+- [[AskJS] Hiring Junior Devs?](https://www.reddit.com/r/javascript/comments/w6ijeu/askjs_hiring_junior_devs/)
+- [Why Are We So Afraid of Being Unproductive?](https://www.reddit.com/r/javascript/comments/w6gyw8/why_are_we_so_afraid_of_being_unproductive/)
+- [denosay: my first javascript cli app, like cowsay but its deno](https://www.reddit.com/r/javascript/comments/w6gkmz/denosay_my_first_javascript_cli_app_like_cowsay/)
+- [Can you play the snake game in favicon?](https://www.reddit.com/r/javascript/comments/w6dta1/can_you_play_the_snake_game_in_favicon/)
+- [Using Hermes’s Quicksort to run Doom: A tale of JavaScript exploitation](https://www.reddit.com/r/javascript/comments/w6b62v/using_hermess_quicksort_to_run_doom_a_tale_of/)
+- [Using Docker to Containerize NodeJS and MongoDB Application](https://www.reddit.com/r/javascript/comments/w67o9u/using_docker_to_containerize_nodejs_and_mongodb/)
+- [Showoff Saturday &lpar;July 23, 2022&rpar;](https://www.reddit.com/r/javascript/comments/w5ximl/showoff_saturday_july_23_2022/)
+- [Media-Element.js: Show off details from your favorite movies, shows &amp; songs using a &lt;media-element&gt; tag](https://www.reddit.com/r/javascript/comments/w5wdw3/mediaelementjs_show_off_details_from_your/)
+- [GitHub - migliori/universal-icon-picker: Vanilla JS Icon Picker for any Icon Library](https://www.reddit.com/r/javascript/comments/w5wb4b/github_miglioriuniversaliconpicker_vanilla_js/)
+- [Emoji Parser: Easily add emoji support to your website!](https://www.reddit.com/r/javascript/comments/w5w8ex/emoji_parser_easily_add_emoji_support_to_your/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
