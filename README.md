@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Hiring Junior Devs?](https://www.reddit.com/r/javascript/comments/w6ijeu/askjs_hiring_junior_devs/)
-- [Why Are We So Afraid of Being Unproductive?](https://www.reddit.com/r/javascript/comments/w6gyw8/why_are_we_so_afraid_of_being_unproductive/)
-- [denosay: my first javascript cli app, like cowsay but its deno](https://www.reddit.com/r/javascript/comments/w6gkmz/denosay_my_first_javascript_cli_app_like_cowsay/)
-- [Can you play the snake game in favicon?](https://www.reddit.com/r/javascript/comments/w6dta1/can_you_play_the_snake_game_in_favicon/)
-- [Using Hermes’s Quicksort to run Doom: A tale of JavaScript exploitation](https://www.reddit.com/r/javascript/comments/w6b62v/using_hermess_quicksort_to_run_doom_a_tale_of/)
-- [Using Docker to Containerize NodeJS and MongoDB Application](https://www.reddit.com/r/javascript/comments/w67o9u/using_docker_to_containerize_nodejs_and_mongodb/)
-- [Showoff Saturday &lpar;July 23, 2022&rpar;](https://www.reddit.com/r/javascript/comments/w5ximl/showoff_saturday_july_23_2022/)
-- [Media-Element.js: Show off details from your favorite movies, shows &amp; songs using a &lt;media-element&gt; tag](https://www.reddit.com/r/javascript/comments/w5wdw3/mediaelementjs_show_off_details_from_your/)
-- [GitHub - migliori/universal-icon-picker: Vanilla JS Icon Picker for any Icon Library](https://www.reddit.com/r/javascript/comments/w5wb4b/github_miglioriuniversaliconpicker_vanilla_js/)
-- [Emoji Parser: Easily add emoji support to your website!](https://www.reddit.com/r/javascript/comments/w5w8ex/emoji_parser_easily_add_emoji_support_to_your/)
+- [fnm: Fast and simple Node.js version manager, built in Rust](https://www.reddit.com/r/javascript/comments/w7c4gk/fnm_fast_and_simple_nodejs_version_manager_built/)
+- [High fidelity event sampling and playback with Vanilla JavaScript](https://www.reddit.com/r/javascript/comments/w73hf2/high_fidelity_event_sampling_and_playback_with/)
+- [[AskJS] stuck for days, need an expert on javascript concepts. From a mother tab containing a table. I&#39;m trying to open tabs &lpar;in a loop&rpar; and running scripts on it. Then onto the next link in the list. All same domain.](https://www.reddit.com/r/javascript/comments/w6yquy/askjs_stuck_for_days_need_an_expert_on_javascript/)
+- [Architecting React Apps Like it&#39;s 2030](https://www.reddit.com/r/javascript/comments/w6y86g/architecting_react_apps_like_its_2030/)
+- [Highlighted Dummy Code Editor With HTML, CSS and JavaScript](https://www.reddit.com/r/javascript/comments/w6xsmk/highlighted_dummy_code_editor_with_html_css_and/)
+- [[AskJS] Can you use Vite for non-frontend applications?](https://www.reddit.com/r/javascript/comments/w6x5z1/askjs_can_you_use_vite_for_nonfrontend/)
+- [State Management in React with Redux: An Introduction](https://www.reddit.com/r/javascript/comments/w6uh8v/state_management_in_react_with_redux_an/)
+- [[AskJS] What is a good free API to use which allows &gt;1000 requests?](https://www.reddit.com/r/javascript/comments/w6rp74/askjs_what_is_a_good_free_api_to_use_which_allows/)
+- [Make your JavaScript Typed Safe](https://www.reddit.com/r/javascript/comments/w6qnt9/make_your_javascript_typed_safe/)
+- [[OC] - Mastermind [React/JS]](https://www.reddit.com/r/javascript/comments/w6lpw3/oc_mastermind_reactjs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
