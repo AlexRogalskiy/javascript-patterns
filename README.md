@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [fnm: Fast and simple Node.js version manager, built in Rust](https://www.reddit.com/r/javascript/comments/w7c4gk/fnm_fast_and_simple_nodejs_version_manager_built/)
-- [High fidelity event sampling and playback with Vanilla JavaScript](https://www.reddit.com/r/javascript/comments/w73hf2/high_fidelity_event_sampling_and_playback_with/)
-- [[AskJS] stuck for days, need an expert on javascript concepts. From a mother tab containing a table. I&#39;m trying to open tabs &lpar;in a loop&rpar; and running scripts on it. Then onto the next link in the list. All same domain.](https://www.reddit.com/r/javascript/comments/w6yquy/askjs_stuck_for_days_need_an_expert_on_javascript/)
-- [Architecting React Apps Like it&#39;s 2030](https://www.reddit.com/r/javascript/comments/w6y86g/architecting_react_apps_like_its_2030/)
-- [Highlighted Dummy Code Editor With HTML, CSS and JavaScript](https://www.reddit.com/r/javascript/comments/w6xsmk/highlighted_dummy_code_editor_with_html_css_and/)
-- [[AskJS] Can you use Vite for non-frontend applications?](https://www.reddit.com/r/javascript/comments/w6x5z1/askjs_can_you_use_vite_for_nonfrontend/)
-- [State Management in React with Redux: An Introduction](https://www.reddit.com/r/javascript/comments/w6uh8v/state_management_in_react_with_redux_an/)
-- [[AskJS] What is a good free API to use which allows &gt;1000 requests?](https://www.reddit.com/r/javascript/comments/w6rp74/askjs_what_is_a_good_free_api_to_use_which_allows/)
-- [Make your JavaScript Typed Safe](https://www.reddit.com/r/javascript/comments/w6qnt9/make_your_javascript_typed_safe/)
-- [[OC] - Mastermind [React/JS]](https://www.reddit.com/r/javascript/comments/w6lpw3/oc_mastermind_reactjs/)
+- [[AskJS] Which data structures and algorithms are related to Frontend Engineering?](https://www.reddit.com/r/javascript/comments/w88aus/askjs_which_data_structures_and_algorithms_are/)
+- [[AskJS] Where do I start with Js?](https://www.reddit.com/r/javascript/comments/w84lms/askjs_where_do_i_start_with_js/)
+- [Yet another fetch wrapper, this time as simple as possible, but still useful](https://www.reddit.com/r/javascript/comments/w82zue/yet_another_fetch_wrapper_this_time_as_simple_as/)
+- [[AskJS] Most Commonly asked Front End Developer Interview Questions &lpar;Solutions Available too&rpar;](https://www.reddit.com/r/javascript/comments/w7wdvg/askjs_most_commonly_asked_front_end_developer/)
+- [[AskJS] How much javascript is enough to call my self a decent js programmer.](https://www.reddit.com/r/javascript/comments/w7wbs4/askjs_how_much_javascript_is_enough_to_call_my/)
+- [Profile Avatar for Vue 3. My first Vue component. Feedback and Github stars are appreciated!](https://www.reddit.com/r/javascript/comments/w7vdcw/profile_avatar_for_vue_3_my_first_vue_component/)
+- [Blueboat – All-in-one, multi-tenant serverless JavaScript runtime](https://www.reddit.com/r/javascript/comments/w7t5vv/blueboat_allinone_multitenant_serverless/)
+- [[AskJS] What is an issue you struggle with your current tech stack?](https://www.reddit.com/r/javascript/comments/w7rqkb/askjs_what_is_an_issue_you_struggle_with_your/)
+- [What happens if you mix React, Mobx and generators*? Ok, let&#39;s do it!](https://www.reddit.com/r/javascript/comments/w7qgob/what_happens_if_you_mix_react_mobx_and_generators/)
+- [casdoor-js-sdk: Javascript client SDK for Casdoor IAM platform](https://www.reddit.com/r/javascript/comments/w7nzqn/casdoorjssdk_javascript_client_sdk_for_casdoor/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
