@@ -380,6 +380,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *NodeSource posts*
 
 <!-- NODESOURCE-POST-LIST:START -->
+- [Worker Threads Monitoring in N|Solid [5/10] The best APM for Node, layer by layer.](https://nodesource.com/blog/NSolid-Worker-Threads-Monitoring)
 - [Memory Anomaly Detection in N|Solid [5/10] The best APM for Node, layer by layer](https://nodesource.com/blog/NSolid-Memory-Anomaly-Detection)
 - [HTTP Tracing in N|Solid [4/10] The best APM for Node, layer by layer](https://nodesource.com/blog/NSolid-Distributed-HTTP-Tracing)
 - [CPU Profiling in N|Solid [3/10] The best APM for Node, layer by layer](https://nodesource.com/blog/NSolid-CPU-Profiling)
@@ -389,7 +390,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [NodeSource featured as one of the top Cybersecurity Awareness Training Solutions by Cybernews](https://nodesource.com/blog/NodeSource-Cybernews-Cybersecurity)
 - [Highlights of OpenJS World 2022 - What&#39;s next in the OS ecosystem](https://nodesource.com/blog/takeaways-OpenJSWorld22)
 - [Using N|Solid runtime from npm](https://nodesource.com/blog/nsolid-runtime-from-npm)
-- [How to run `shell` and more using Node.js](https://nodesource.com/blog/how-to-run-shell-and-more-using-Nodejs)
 <!-- NODESOURCE-POST-LIST:END -->
 
 ### *React Native posts*
