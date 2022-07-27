@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Which data structures and algorithms are related to Frontend Engineering?](https://www.reddit.com/r/javascript/comments/w88aus/askjs_which_data_structures_and_algorithms_are/)
-- [[AskJS] Where do I start with Js?](https://www.reddit.com/r/javascript/comments/w84lms/askjs_where_do_i_start_with_js/)
-- [Yet another fetch wrapper, this time as simple as possible, but still useful](https://www.reddit.com/r/javascript/comments/w82zue/yet_another_fetch_wrapper_this_time_as_simple_as/)
-- [[AskJS] Most Commonly asked Front End Developer Interview Questions &lpar;Solutions Available too&rpar;](https://www.reddit.com/r/javascript/comments/w7wdvg/askjs_most_commonly_asked_front_end_developer/)
-- [[AskJS] How much javascript is enough to call my self a decent js programmer.](https://www.reddit.com/r/javascript/comments/w7wbs4/askjs_how_much_javascript_is_enough_to_call_my/)
-- [Profile Avatar for Vue 3. My first Vue component. Feedback and Github stars are appreciated!](https://www.reddit.com/r/javascript/comments/w7vdcw/profile_avatar_for_vue_3_my_first_vue_component/)
-- [Blueboat – All-in-one, multi-tenant serverless JavaScript runtime](https://www.reddit.com/r/javascript/comments/w7t5vv/blueboat_allinone_multitenant_serverless/)
-- [[AskJS] What is an issue you struggle with your current tech stack?](https://www.reddit.com/r/javascript/comments/w7rqkb/askjs_what_is_an_issue_you_struggle_with_your/)
-- [What happens if you mix React, Mobx and generators*? Ok, let&#39;s do it!](https://www.reddit.com/r/javascript/comments/w7qgob/what_happens_if_you_mix_react_mobx_and_generators/)
-- [casdoor-js-sdk: Javascript client SDK for Casdoor IAM platform](https://www.reddit.com/r/javascript/comments/w7nzqn/casdoorjssdk_javascript_client_sdk_for_casdoor/)
+- [I built a social website for sharing and discovering web code snippets.](https://www.reddit.com/r/javascript/comments/w8vtbs/i_built_a_social_website_for_sharing_and/)
+- [[AskJS] Senior engineers! What is a common pain point you struggle with relational databases that can be improved with an open source product?](https://www.reddit.com/r/javascript/comments/w8u8kh/askjs_senior_engineers_what_is_a_common_pain/)
+- [TC39er.us podcast: Luca Casonato from The Deno Land!](https://www.reddit.com/r/javascript/comments/w8tk7k/tc39erus_podcast_luca_casonato_from_the_deno_land/)
+- [Learning app built with Nuxt3, Prisma and TRPC](https://www.reddit.com/r/javascript/comments/w8qu0p/learning_app_built_with_nuxt3_prisma_and_trpc/)
+- [GitHub - gunvantsr/expressgen: A simple boilerplate generator for your node express backend project!](https://www.reddit.com/r/javascript/comments/w8qfyd/github_gunvantsrexpressgen_a_simple_boilerplate/)
+- [How to use Node.js modules in Deno](https://www.reddit.com/r/javascript/comments/w8oup2/how_to_use_nodejs_modules_in_deno/)
+- [I built a Cypress Studio alternative &lpar;since it&#39;s deprecated&rpar; - generate Cypress scripts from your browser interactions right inside of Cypress](https://www.reddit.com/r/javascript/comments/w8nwjk/i_built_a_cypress_studio_alternative_since_its/)
+- [Critique of Pure Hooks](https://www.reddit.com/r/javascript/comments/w8n7hj/critique_of_pure_hooks/)
+- [The Suspense is Killing Me: Part 2](https://www.reddit.com/r/javascript/comments/w8ly40/the_suspense_is_killing_me_part_2/)
+- [`bsimp` - a boolean expression simplifier](https://www.reddit.com/r/javascript/comments/w8l9su/bsimp_a_boolean_expression_simplifier/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
