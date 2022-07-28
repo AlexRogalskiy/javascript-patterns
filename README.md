@@ -381,7 +381,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *NodeSource posts*
 
 <!-- NODESOURCE-POST-LIST:START -->
-- [Worker Threads Monitoring in N|Solid [5/10] The best APM for Node, layer by layer.](https://nodesource.com/blog/NSolid-Worker-Threads-Monitoring)
+- [Worker Threads Monitoring in N|Solid [6/10] The best APM for Node, layer by layer.](https://nodesource.com/blog/NSolid-Worker-Threads-Monitoring)
 - [Memory Anomaly Detection in N|Solid [5/10] The best APM for Node, layer by layer](https://nodesource.com/blog/NSolid-Memory-Anomaly-Detection)
 - [HTTP Tracing in N|Solid [4/10] The best APM for Node, layer by layer](https://nodesource.com/blog/NSolid-Distributed-HTTP-Tracing)
 - [CPU Profiling in N|Solid [3/10] The best APM for Node, layer by layer](https://nodesource.com/blog/NSolid-CPU-Profiling)
