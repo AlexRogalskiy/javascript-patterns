@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Grafbase: Instant serverless GraphQL backends](https://www.reddit.com/r/javascript/comments/w9c0ah/grafbase_instant_serverless_graphql_backends/)
+- [JavaScript Event.defaultPrevented](https://www.reddit.com/r/javascript/comments/w99l4j/javascript_eventdefaultprevented/)
+- [Introducing even more security enhancements to npm](https://www.reddit.com/r/javascript/comments/w99h0x/introducing_even_more_security_enhancements_to_npm/)
+- [I built an npm package to make initializing git repos easier](https://www.reddit.com/r/javascript/comments/w97zjv/i_built_an_npm_package_to_make_initializing_git/)
+- [WTF Wednesday &lpar;July 27, 2022&rpar;](https://www.reddit.com/r/javascript/comments/w97r0o/wtf_wednesday_july_27_2022/)
 - [I built a social website for sharing and discovering web code snippets.](https://www.reddit.com/r/javascript/comments/w8vtbs/i_built_a_social_website_for_sharing_and/)
 - [[AskJS] Senior engineers! What is a common pain point you struggle with relational databases that can be improved with an open source product?](https://www.reddit.com/r/javascript/comments/w8u8kh/askjs_senior_engineers_what_is_a_common_pain/)
 - [TC39er.us podcast: Luca Casonato from The Deno Land!](https://www.reddit.com/r/javascript/comments/w8tk7k/tc39erus_podcast_luca_casonato_from_the_deno_land/)
 - [Learning app built with Nuxt3, Prisma and TRPC](https://www.reddit.com/r/javascript/comments/w8qu0p/learning_app_built_with_nuxt3_prisma_and_trpc/)
 - [GitHub - gunvantsr/expressgen: A simple boilerplate generator for your node express backend project!](https://www.reddit.com/r/javascript/comments/w8qfyd/github_gunvantsrexpressgen_a_simple_boilerplate/)
-- [How to use Node.js modules in Deno](https://www.reddit.com/r/javascript/comments/w8oup2/how_to_use_nodejs_modules_in_deno/)
-- [I built a Cypress Studio alternative &lpar;since it&#39;s deprecated&rpar; - generate Cypress scripts from your browser interactions right inside of Cypress](https://www.reddit.com/r/javascript/comments/w8nwjk/i_built_a_cypress_studio_alternative_since_its/)
-- [Critique of Pure Hooks](https://www.reddit.com/r/javascript/comments/w8n7hj/critique_of_pure_hooks/)
-- [The Suspense is Killing Me: Part 2](https://www.reddit.com/r/javascript/comments/w8ly40/the_suspense_is_killing_me_part_2/)
-- [`bsimp` - a boolean expression simplifier](https://www.reddit.com/r/javascript/comments/w8l9su/bsimp_a_boolean_expression_simplifier/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
