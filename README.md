@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Grafbase: Instant serverless GraphQL backends](https://www.reddit.com/r/javascript/comments/w9c0ah/grafbase_instant_serverless_graphql_backends/)
-- [JavaScript Event.defaultPrevented](https://www.reddit.com/r/javascript/comments/w99l4j/javascript_eventdefaultprevented/)
-- [Introducing even more security enhancements to npm](https://www.reddit.com/r/javascript/comments/w99h0x/introducing_even_more_security_enhancements_to_npm/)
-- [I built an npm package to make initializing git repos easier](https://www.reddit.com/r/javascript/comments/w97zjv/i_built_an_npm_package_to_make_initializing_git/)
-- [WTF Wednesday &lpar;July 27, 2022&rpar;](https://www.reddit.com/r/javascript/comments/w97r0o/wtf_wednesday_july_27_2022/)
-- [I built a social website for sharing and discovering web code snippets.](https://www.reddit.com/r/javascript/comments/w8vtbs/i_built_a_social_website_for_sharing_and/)
-- [[AskJS] Senior engineers! What is a common pain point you struggle with relational databases that can be improved with an open source product?](https://www.reddit.com/r/javascript/comments/w8u8kh/askjs_senior_engineers_what_is_a_common_pain/)
-- [TC39er.us podcast: Luca Casonato from The Deno Land!](https://www.reddit.com/r/javascript/comments/w8tk7k/tc39erus_podcast_luca_casonato_from_the_deno_land/)
-- [Learning app built with Nuxt3, Prisma and TRPC](https://www.reddit.com/r/javascript/comments/w8qu0p/learning_app_built_with_nuxt3_prisma_and_trpc/)
-- [GitHub - gunvantsr/expressgen: A simple boilerplate generator for your node express backend project!](https://www.reddit.com/r/javascript/comments/w8qfyd/github_gunvantsrexpressgen_a_simple_boilerplate/)
+- [[AskJS] ETL Pipeline Experience with JS?](https://www.reddit.com/r/javascript/comments/wao88i/askjs_etl_pipeline_experience_with_js/)
+- [[AskJS] Don’t know if I’m learning right?](https://www.reddit.com/r/javascript/comments/wamyxt/askjs_dont_know_if_im_learning_right/)
+- [Here’s a playlist of 7 hours of music I use to focus when I’m coding/developing](https://www.reddit.com/r/javascript/comments/wamgjr/heres_a_playlist_of_7_hours_of_music_i_use_to/)
+- [[AskJS] Is there any javascript library that can perform boolean operations on svg paths &lpar;union, subtract, intersect, difference&rpar;?](https://www.reddit.com/r/javascript/comments/walbhf/askjs_is_there_any_javascript_library_that_can/)
+- [[AskJS] best language to start with?](https://www.reddit.com/r/javascript/comments/wahp7p/askjs_best_language_to_start_with/)
+- [Prototyping and data modeling in the browser using TypeScript](https://www.reddit.com/r/javascript/comments/wadgzg/prototyping_and_data_modeling_in_the_browser/)
+- [Building Webhooks that scale - What I wish I knew earlier in my career](https://www.reddit.com/r/javascript/comments/wacy86/building_webhooks_that_scale_what_i_wish_i_knew/)
+- [How I write React after 8 years](https://www.reddit.com/r/javascript/comments/waaw7g/how_i_write_react_after_8_years/)
+- [WunderGraph - The best Developer Experience to compose &amp; integrate APIs](https://www.reddit.com/r/javascript/comments/wa9wb4/wundergraph_the_best_developer_experience_to/)
+- [[AskJS] Jest Test Result Aggregation Tools?](https://www.reddit.com/r/javascript/comments/wa8wyc/askjs_jest_test_result_aggregation_tools/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
