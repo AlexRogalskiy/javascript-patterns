@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] ETL Pipeline Experience with JS?](https://www.reddit.com/r/javascript/comments/wao88i/askjs_etl_pipeline_experience_with_js/)
-- [[AskJS] Don’t know if I’m learning right?](https://www.reddit.com/r/javascript/comments/wamyxt/askjs_dont_know_if_im_learning_right/)
-- [Here’s a playlist of 7 hours of music I use to focus when I’m coding/developing](https://www.reddit.com/r/javascript/comments/wamgjr/heres_a_playlist_of_7_hours_of_music_i_use_to/)
-- [[AskJS] Is there any javascript library that can perform boolean operations on svg paths &lpar;union, subtract, intersect, difference&rpar;?](https://www.reddit.com/r/javascript/comments/walbhf/askjs_is_there_any_javascript_library_that_can/)
-- [[AskJS] best language to start with?](https://www.reddit.com/r/javascript/comments/wahp7p/askjs_best_language_to_start_with/)
-- [Prototyping and data modeling in the browser using TypeScript](https://www.reddit.com/r/javascript/comments/wadgzg/prototyping_and_data_modeling_in_the_browser/)
-- [Building Webhooks that scale - What I wish I knew earlier in my career](https://www.reddit.com/r/javascript/comments/wacy86/building_webhooks_that_scale_what_i_wish_i_knew/)
-- [How I write React after 8 years](https://www.reddit.com/r/javascript/comments/waaw7g/how_i_write_react_after_8_years/)
-- [WunderGraph - The best Developer Experience to compose &amp; integrate APIs](https://www.reddit.com/r/javascript/comments/wa9wb4/wundergraph_the_best_developer_experience_to/)
-- [[AskJS] Jest Test Result Aggregation Tools?](https://www.reddit.com/r/javascript/comments/wa8wyc/askjs_jest_test_result_aggregation_tools/)
+- [[AskJS] why no other javascript framework has implemented this feature &lpar;yet&rpar; ?](https://www.reddit.com/r/javascript/comments/wbn7k2/askjs_why_no_other_javascript_framework_has/)
+- [.finally understanding the promise chain](https://www.reddit.com/r/javascript/comments/wbip3j/finally_understanding_the_promise_chain/)
+- [[AskJS] How do you all manage feature flags?](https://www.reddit.com/r/javascript/comments/wbil3u/askjs_how_do_you_all_manage_feature_flags/)
+- [[AskJS] Creating a React App with Bun for me was faster 2.5x than doing it with Node.js &lpar;Vite.js&rpar;](https://www.reddit.com/r/javascript/comments/wbhwzp/askjs_creating_a_react_app_with_bun_for_me_was/)
+- [Javascript&#39;s Rest Parameters](https://www.reddit.com/r/javascript/comments/wbfs2p/javascripts_rest_parameters/)
+- [Javascript&#39;s Spread Syntax](https://www.reddit.com/r/javascript/comments/wbfh9g/javascripts_spread_syntax/)
+- [How to check whether an element is in the viewport or not?](https://www.reddit.com/r/javascript/comments/wbdtvu/how_to_check_whether_an_element_is_in_the/)
+- [[AskJS] Ndarray.js: Python to JS, slicing assignment](https://www.reddit.com/r/javascript/comments/wbdmys/askjs_ndarrayjs_python_to_js_slicing_assignment/)
+- [Error Handling Methods for Asynchronous Code in Express.js](https://www.reddit.com/r/javascript/comments/wbcrx7/error_handling_methods_for_asynchronous_code_in/)
+- [Why your side projects suck.](https://www.reddit.com/r/javascript/comments/wbbhdg/why_your_side_projects_suck/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
