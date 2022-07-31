@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] why no other javascript framework has implemented this feature &lpar;yet&rpar; ?](https://www.reddit.com/r/javascript/comments/wbn7k2/askjs_why_no_other_javascript_framework_has/)
-- [.finally understanding the promise chain](https://www.reddit.com/r/javascript/comments/wbip3j/finally_understanding_the_promise_chain/)
+- [A tool that lets you discover and explore all the colors in a 3D space](https://www.reddit.com/r/javascript/comments/wcakr0/a_tool_that_lets_you_discover_and_explore_all_the/)
+- [Parse natural language to date schedules.](https://www.reddit.com/r/javascript/comments/wc93ya/parse_natural_language_to_date_schedules/)
+- [The Node ecosystem &lpar;still&rpar; has tooling problems](https://www.reddit.com/r/javascript/comments/wc6e4p/the_node_ecosystem_still_has_tooling_problems/)
+- [Using TypeScript to build NodeJS and Express Application](https://www.reddit.com/r/javascript/comments/wc3c8u/using_typescript_to_build_nodejs_and_express/)
+- [Natural Language Processing &amp; Text Visualization on web browsers](https://www.reddit.com/r/javascript/comments/wc3b2n/natural_language_processing_text_visualization_on/)
+- [Remesh: A DDD framework for large and complex TypeScript/JavaScript applications](https://www.reddit.com/r/javascript/comments/wc1xnd/remesh_a_ddd_framework_for_large_and_complex/)
+- [[AskJS] Why are there $ and $$ functions ? &lpar;no, it&#39;s probably not jQuery&rpar;](https://www.reddit.com/r/javascript/comments/wbvefx/askjs_why_are_there_and_functions_no_its_probably/)
+- [Showoff Saturday &lpar;July 30, 2022&rpar;](https://www.reddit.com/r/javascript/comments/wbrbxe/showoff_saturday_july_30_2022/)
 - [[AskJS] How do you all manage feature flags?](https://www.reddit.com/r/javascript/comments/wbil3u/askjs_how_do_you_all_manage_feature_flags/)
-- [[AskJS] Creating a React App with Bun for me was faster 2.5x than doing it with Node.js &lpar;Vite.js&rpar;](https://www.reddit.com/r/javascript/comments/wbhwzp/askjs_creating_a_react_app_with_bun_for_me_was/)
-- [Javascript&#39;s Rest Parameters](https://www.reddit.com/r/javascript/comments/wbfs2p/javascripts_rest_parameters/)
-- [Javascript&#39;s Spread Syntax](https://www.reddit.com/r/javascript/comments/wbfh9g/javascripts_spread_syntax/)
 - [How to check whether an element is in the viewport or not?](https://www.reddit.com/r/javascript/comments/wbdtvu/how_to_check_whether_an_element_is_in_the/)
-- [[AskJS] Ndarray.js: Python to JS, slicing assignment](https://www.reddit.com/r/javascript/comments/wbdmys/askjs_ndarrayjs_python_to_js_slicing_assignment/)
-- [Error Handling Methods for Asynchronous Code in Express.js](https://www.reddit.com/r/javascript/comments/wbcrx7/error_handling_methods_for_asynchronous_code_in/)
-- [Why your side projects suck.](https://www.reddit.com/r/javascript/comments/wbbhdg/why_your_side_projects_suck/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
