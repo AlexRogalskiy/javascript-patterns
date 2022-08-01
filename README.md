@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Play with Collatz and Fibonacci sequences in this webapp [Open Source | NextJS]](https://www.reddit.com/r/javascript/comments/wcxdbz/play_with_collatz_and_fibonacci_sequences_in_this/)
+- [Tokenizing TypeScript for use with Natural Language Processing.](https://www.reddit.com/r/javascript/comments/wcw44g/tokenizing_typescript_for_use_with_natural/)
+- [[AskJS] where can I learn the best!](https://www.reddit.com/r/javascript/comments/wcvxku/askjs_where_can_i_learn_the_best/)
+- [High-performance Javascript color gradient library powered by Rust + WebAssembly](https://www.reddit.com/r/javascript/comments/wcu53p/highperformance_javascript_color_gradient_library/)
+- [What is the Coupling Pitfall and how to Avoid it?](https://www.reddit.com/r/javascript/comments/wcs6rz/what_is_the_coupling_pitfall_and_how_to_avoid_it/)
+- [[AskJS] How do I get frontend developers to provide meaningful feedback?](https://www.reddit.com/r/javascript/comments/wcqjy4/askjs_how_do_i_get_frontend_developers_to_provide/)
+- [kurwov: a really fast markov chain text generator.](https://www.reddit.com/r/javascript/comments/wcoigt/kurwov_a_really_fast_markov_chain_text_generator/)
+- [[AskJS] How to build a music sequencer in Javascript](https://www.reddit.com/r/javascript/comments/wcj1y1/askjs_how_to_build_a_music_sequencer_in_javascript/)
 - [A tool that lets you discover and explore all the colors in a 3D space](https://www.reddit.com/r/javascript/comments/wcakr0/a_tool_that_lets_you_discover_and_explore_all_the/)
 - [Parse natural language to date schedules.](https://www.reddit.com/r/javascript/comments/wc93ya/parse_natural_language_to_date_schedules/)
-- [The Node ecosystem &lpar;still&rpar; has tooling problems](https://www.reddit.com/r/javascript/comments/wc6e4p/the_node_ecosystem_still_has_tooling_problems/)
-- [Using TypeScript to build NodeJS and Express Application](https://www.reddit.com/r/javascript/comments/wc3c8u/using_typescript_to_build_nodejs_and_express/)
-- [Natural Language Processing &amp; Text Visualization on web browsers](https://www.reddit.com/r/javascript/comments/wc3b2n/natural_language_processing_text_visualization_on/)
-- [Remesh: A DDD framework for large and complex TypeScript/JavaScript applications](https://www.reddit.com/r/javascript/comments/wc1xnd/remesh_a_ddd_framework_for_large_and_complex/)
-- [[AskJS] Why are there $ and $$ functions ? &lpar;no, it&#39;s probably not jQuery&rpar;](https://www.reddit.com/r/javascript/comments/wbvefx/askjs_why_are_there_and_functions_no_its_probably/)
-- [Showoff Saturday &lpar;July 30, 2022&rpar;](https://www.reddit.com/r/javascript/comments/wbrbxe/showoff_saturday_july_30_2022/)
-- [[AskJS] How do you all manage feature flags?](https://www.reddit.com/r/javascript/comments/wbil3u/askjs_how_do_you_all_manage_feature_flags/)
-- [How to check whether an element is in the viewport or not?](https://www.reddit.com/r/javascript/comments/wbdtvu/how_to_check_whether_an_element_is_in_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
