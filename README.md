@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Play with Collatz and Fibonacci sequences in this webapp [Open Source | NextJS]](https://www.reddit.com/r/javascript/comments/wcxdbz/play_with_collatz_and_fibonacci_sequences_in_this/)
-- [Tokenizing TypeScript for use with Natural Language Processing.](https://www.reddit.com/r/javascript/comments/wcw44g/tokenizing_typescript_for_use_with_natural/)
-- [[AskJS] where can I learn the best!](https://www.reddit.com/r/javascript/comments/wcvxku/askjs_where_can_i_learn_the_best/)
-- [High-performance Javascript color gradient library powered by Rust + WebAssembly](https://www.reddit.com/r/javascript/comments/wcu53p/highperformance_javascript_color_gradient_library/)
-- [What is the Coupling Pitfall and how to Avoid it?](https://www.reddit.com/r/javascript/comments/wcs6rz/what_is_the_coupling_pitfall_and_how_to_avoid_it/)
-- [[AskJS] How do I get frontend developers to provide meaningful feedback?](https://www.reddit.com/r/javascript/comments/wcqjy4/askjs_how_do_i_get_frontend_developers_to_provide/)
-- [kurwov: a really fast markov chain text generator.](https://www.reddit.com/r/javascript/comments/wcoigt/kurwov_a_really_fast_markov_chain_text_generator/)
-- [[AskJS] How to build a music sequencer in Javascript](https://www.reddit.com/r/javascript/comments/wcj1y1/askjs_how_to_build_a_music_sequencer_in_javascript/)
-- [A tool that lets you discover and explore all the colors in a 3D space](https://www.reddit.com/r/javascript/comments/wcakr0/a_tool_that_lets_you_discover_and_explore_all_the/)
-- [Parse natural language to date schedules.](https://www.reddit.com/r/javascript/comments/wc93ya/parse_natural_language_to_date_schedules/)
+- [I made an app that crowdsources internet &#39;s best side project ideas](https://www.reddit.com/r/javascript/comments/we01nh/i_made_an_app_that_crowdsources_internet_s_best/)
+- [MULTIPLAYER PARKOUR in your BROWSER &lpar;not minecraft!&rpar;](https://www.reddit.com/r/javascript/comments/wdv78g/multiplayer_parkour_in_your_browser_not_minecraft/)
+- [[AskJS] How to close navigation bar by clicking away?](https://www.reddit.com/r/javascript/comments/wdscgz/askjs_how_to_close_navigation_bar_by_clicking_away/)
+- [[AskJS] Are there any sites do better NPM package search/discovery?](https://www.reddit.com/r/javascript/comments/wdqkr2/askjs_are_there_any_sites_do_better_npm_package/)
+- [JSON serialization should never fail](https://www.reddit.com/r/javascript/comments/wdoab1/json_serialization_should_never_fail/)
+- [Million is a lightweight &lt;1kb Virtual DOM. It&#39;s really fast](https://www.reddit.com/r/javascript/comments/wdigzn/million_is_a_lightweight_1kb_virtual_dom_its/)
+- [Adding a permission system to Node.js](https://www.reddit.com/r/javascript/comments/wdh1e1/adding_a_permission_system_to_nodejs/)
+- [I tried Turborepo and I liked it](https://www.reddit.com/r/javascript/comments/wdfzgg/i_tried_turborepo_and_i_liked_it/)
+- [[AskJS] Autogenerate lock files? How? Is it recommended?](https://www.reddit.com/r/javascript/comments/wdef8z/askjs_autogenerate_lock_files_how_is_it/)
+- [Announcing Docusaurus 2.0: Meta&#39;s static site generator to build docs sites, finally released as stable](https://www.reddit.com/r/javascript/comments/wddhte/announcing_docusaurus_20_metas_static_site/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
