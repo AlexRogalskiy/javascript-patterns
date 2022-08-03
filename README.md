@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [JS1024 JavaScript Golfing Competition 2022 Winners](https://www.reddit.com/r/javascript/comments/wennkj/js1024_javascript_golfing_competition_2022_winners/)
+- [How to find the exact line infinite loop bugs are happening in the code](https://www.reddit.com/r/javascript/comments/welsuw/how_to_find_the_exact_line_infinite_loop_bugs_are/)
+- [Mailing: build + send + test emails with React](https://www.reddit.com/r/javascript/comments/wek913/mailing_build_send_test_emails_with_react/)
+- [Graphton v1 released - The fully typed SDK generator for any GraphQL API](https://www.reddit.com/r/javascript/comments/weech8/graphton_v1_released_the_fully_typed_sdk/)
+- [Event Bus for React](https://www.reddit.com/r/javascript/comments/wed4qc/event_bus_for_react/)
+- [Jest Spyon guide](https://www.reddit.com/r/javascript/comments/weafd6/jest_spyon_guide/)
+- [Checking if a JavaScript native function is monkey patched](https://www.reddit.com/r/javascript/comments/we4v4v/checking_if_a_javascript_native_function_is/)
 - [I made an app that crowdsources internet &#39;s best side project ideas](https://www.reddit.com/r/javascript/comments/we01nh/i_made_an_app_that_crowdsources_internet_s_best/)
-- [MULTIPLAYER PARKOUR in your BROWSER &lpar;not minecraft!&rpar;](https://www.reddit.com/r/javascript/comments/wdv78g/multiplayer_parkour_in_your_browser_not_minecraft/)
-- [[AskJS] How to close navigation bar by clicking away?](https://www.reddit.com/r/javascript/comments/wdscgz/askjs_how_to_close_navigation_bar_by_clicking_away/)
 - [[AskJS] Are there any sites do better NPM package search/discovery?](https://www.reddit.com/r/javascript/comments/wdqkr2/askjs_are_there_any_sites_do_better_npm_package/)
 - [JSON serialization should never fail](https://www.reddit.com/r/javascript/comments/wdoab1/json_serialization_should_never_fail/)
-- [Million is a lightweight &lt;1kb Virtual DOM. It&#39;s really fast](https://www.reddit.com/r/javascript/comments/wdigzn/million_is_a_lightweight_1kb_virtual_dom_its/)
-- [Adding a permission system to Node.js](https://www.reddit.com/r/javascript/comments/wdh1e1/adding_a_permission_system_to_nodejs/)
-- [I tried Turborepo and I liked it](https://www.reddit.com/r/javascript/comments/wdfzgg/i_tried_turborepo_and_i_liked_it/)
-- [[AskJS] Autogenerate lock files? How? Is it recommended?](https://www.reddit.com/r/javascript/comments/wdef8z/askjs_autogenerate_lock_files_how_is_it/)
-- [Announcing Docusaurus 2.0: Meta&#39;s static site generator to build docs sites, finally released as stable](https://www.reddit.com/r/javascript/comments/wddhte/announcing_docusaurus_20_metas_static_site/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
