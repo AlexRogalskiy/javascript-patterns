@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [JS1024 JavaScript Golfing Competition 2022 Winners](https://www.reddit.com/r/javascript/comments/wennkj/js1024_javascript_golfing_competition_2022_winners/)
-- [How to find the exact line infinite loop bugs are happening in the code](https://www.reddit.com/r/javascript/comments/welsuw/how_to_find_the_exact_line_infinite_loop_bugs_are/)
-- [Mailing: build + send + test emails with React](https://www.reddit.com/r/javascript/comments/wek913/mailing_build_send_test_emails_with_react/)
-- [Graphton v1 released - The fully typed SDK generator for any GraphQL API](https://www.reddit.com/r/javascript/comments/weech8/graphton_v1_released_the_fully_typed_sdk/)
-- [Event Bus for React](https://www.reddit.com/r/javascript/comments/wed4qc/event_bus_for_react/)
-- [Jest Spyon guide](https://www.reddit.com/r/javascript/comments/weafd6/jest_spyon_guide/)
-- [Checking if a JavaScript native function is monkey patched](https://www.reddit.com/r/javascript/comments/we4v4v/checking_if_a_javascript_native_function_is/)
-- [I made an app that crowdsources internet &#39;s best side project ideas](https://www.reddit.com/r/javascript/comments/we01nh/i_made_an_app_that_crowdsources_internet_s_best/)
-- [[AskJS] Are there any sites do better NPM package search/discovery?](https://www.reddit.com/r/javascript/comments/wdqkr2/askjs_are_there_any_sites_do_better_npm_package/)
-- [JSON serialization should never fail](https://www.reddit.com/r/javascript/comments/wdoab1/json_serialization_should_never_fail/)
+- [[AskJS] Experienced Devs, what&#39;s something that frustrates you about working with React that&#39;s not a simple &quot;you&#39;ll know how to do it better once you&#39;ve enough experience&quot;?](https://www.reddit.com/r/javascript/comments/wfpbh2/askjs_experienced_devs_whats_something_that/)
+- [Create SQS + DLQ with AWS CDK + TS](https://www.reddit.com/r/javascript/comments/wfk5bh/create_sqs_dlq_with_aws_cdk_ts/)
+- [[AskJS] Libraries to detect song key of audio file](https://www.reddit.com/r/javascript/comments/wfjtwz/askjs_libraries_to_detect_song_key_of_audio_file/)
+- [[AskJS] How to achieve JIRA style multi-tenancy](https://www.reddit.com/r/javascript/comments/wfht8r/askjs_how_to_achieve_jira_style_multitenancy/)
+- [Simple JS game programming through a comic](https://www.reddit.com/r/javascript/comments/wfghqe/simple_js_game_programming_through_a_comic/)
+- [[AskJS] How should I design my database and nestjs app for this exact solution?](https://www.reddit.com/r/javascript/comments/wfe6ng/askjs_how_should_i_design_my_database_and_nestjs/)
+- [How to upload files with Playwright](https://www.reddit.com/r/javascript/comments/wfc8yb/how_to_upload_files_with_playwright/)
+- [Migrating from Styleguidist to Storybook](https://www.reddit.com/r/javascript/comments/wfarcd/migrating_from_styleguidist_to_storybook/)
+- [An Exercise in Shortening Ids](https://www.reddit.com/r/javascript/comments/wf9fgb/an_exercise_in_shortening_ids/)
+- [GitHub - centrifugal/centrifuge-js: JavaScript client SDK to communicate with Centrifugo real-time messaging server from browser, NodeJS and React Native. Supports WebSocket, HTTP-streaming, EventSource, WebTransport and SockJS transports](https://www.reddit.com/r/javascript/comments/wf97p6/github_centrifugalcentrifugejs_javascript_client/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
