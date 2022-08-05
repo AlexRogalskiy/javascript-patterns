@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Javascript Optional Chaining Operator &lpar;?.&rpar;](https://www.reddit.com/r/javascript/comments/wgfrz3/javascript_optional_chaining_operator/)
+- [Bitcoin trading bot written in ~100 lines of JS code](https://www.reddit.com/r/javascript/comments/wgfm47/bitcoin_trading_bot_written_in_100_lines_of_js/)
+- [Checkout Solid Structure, a frontend developer tool designed to live render dependency and structural graphs along with a log monitor that tracks updates from Signals to display all the reactivity in a SolidJS application.](https://www.reddit.com/r/javascript/comments/wgamyk/checkout_solid_structure_a_frontend_developer/)
+- [Website to generate Code Snippets, Regexes, Linux &amp; Git &amp; SQL Commands, HTML and CSS from a written description. Furthermore translate code snippets to many languages and get a regex explained in plain english. Moreover you can fix broken code snippets. All with the help of AI](https://www.reddit.com/r/javascript/comments/wg8t9f/website_to_generate_code_snippets_regexes_linux/)
+- [[AskJS] I love for loops, do you?](https://www.reddit.com/r/javascript/comments/wg81yz/askjs_i_love_for_loops_do_you/)
+- [Visual Studio Code July 2022](https://www.reddit.com/r/javascript/comments/wg7kyd/visual_studio_code_july_2022/)
+- [I made a web game using emojis and no JS framework](https://www.reddit.com/r/javascript/comments/wfuf7b/i_made_a_web_game_using_emojis_and_no_js_framework/)
 - [[AskJS] Experienced Devs, what&#39;s something that frustrates you about working with React that&#39;s not a simple &quot;you&#39;ll know how to do it better once you&#39;ve enough experience&quot;?](https://www.reddit.com/r/javascript/comments/wfpbh2/askjs_experienced_devs_whats_something_that/)
 - [Create SQS + DLQ with AWS CDK + TS](https://www.reddit.com/r/javascript/comments/wfk5bh/create_sqs_dlq_with_aws_cdk_ts/)
-- [[AskJS] Libraries to detect song key of audio file](https://www.reddit.com/r/javascript/comments/wfjtwz/askjs_libraries_to_detect_song_key_of_audio_file/)
-- [[AskJS] How to achieve JIRA style multi-tenancy](https://www.reddit.com/r/javascript/comments/wfht8r/askjs_how_to_achieve_jira_style_multitenancy/)
 - [Simple JS game programming through a comic](https://www.reddit.com/r/javascript/comments/wfghqe/simple_js_game_programming_through_a_comic/)
-- [[AskJS] How should I design my database and nestjs app for this exact solution?](https://www.reddit.com/r/javascript/comments/wfe6ng/askjs_how_should_i_design_my_database_and_nestjs/)
-- [How to upload files with Playwright](https://www.reddit.com/r/javascript/comments/wfc8yb/how_to_upload_files_with_playwright/)
-- [Migrating from Styleguidist to Storybook](https://www.reddit.com/r/javascript/comments/wfarcd/migrating_from_styleguidist_to_storybook/)
-- [An Exercise in Shortening Ids](https://www.reddit.com/r/javascript/comments/wf9fgb/an_exercise_in_shortening_ids/)
-- [GitHub - centrifugal/centrifuge-js: JavaScript client SDK to communicate with Centrifugo real-time messaging server from browser, NodeJS and React Native. Supports WebSocket, HTTP-streaming, EventSource, WebTransport and SockJS transports](https://www.reddit.com/r/javascript/comments/wf97p6/github_centrifugalcentrifugejs_javascript_client/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
