@@ -296,11 +296,11 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Better type checking and more in Deno 1.24](https://www.infoworld.com/article/3668198/better-type-checking-and-more-in-deno-124.html#tk.rss_javascript)
 - [8 new JavaScript features to start using today](https://www.infoworld.com/article/3665748/8-new-javascript-features-to-start-using-today.html#tk.rss_javascript)
 - [How to deploy with Vercel and MongoDB Atlas without even trying](https://www.infoworld.com/article/3664936/how-to-deploy-with-vercel-and-mongodb-atlas-without-even-trying.html#tk.rss_javascript)
-- [Ecma unveils more permissive JavaScript license](https://www.infoworld.com/article/3664940/ecma-unveils-more-permissive-javascript-license.html#tk.rss_javascript)
 - [9 Deno runtime projects to watch](https://www.infoworld.com/article/3664344/9-deno-runtime-projects-to-watch.html#tk.rss_javascript)
+- [Ecma unveils more permissive JavaScript license](https://www.infoworld.com/article/3664940/ecma-unveils-more-permissive-javascript-license.html#tk.rss_javascript)
 - [ECMAScript 2022 blesses class elements, top-level await](https://www.infoworld.com/article/3654830/ecmascript-2022-blesses-class-elements-top-level-await.html#tk.rss_javascript)
-- [TypeScript 4.8 fixes file watching on Linux, macOS](https://www.infoworld.com/article/3664928/typescript-48-fixes-file-watching-on-linux-macos.html#tk.rss_javascript)
 - [The best new CSS features for 2022](https://www.infoworld.com/article/3663513/the-best-new-css-features-for-2022.html#tk.rss_javascript)
+- [TypeScript 4.8 fixes file watching on Linux, macOS](https://www.infoworld.com/article/3664928/typescript-48-fixes-file-watching-on-linux-macos.html#tk.rss_javascript)
 - [Okta’s Matt Raible: How I became a Java hipster](https://www.infoworld.com/article/3663677/oktas-matt-raible-how-i-became-a-java-hipster.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
