@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Javascript Optional Chaining Operator &lpar;?.&rpar;](https://www.reddit.com/r/javascript/comments/wgfrz3/javascript_optional_chaining_operator/)
-- [Bitcoin trading bot written in ~100 lines of JS code](https://www.reddit.com/r/javascript/comments/wgfm47/bitcoin_trading_bot_written_in_100_lines_of_js/)
+- [StemRoller - the first free app which enables you to separate vocal and instrumental stems from any song with a single click! StemRoller uses Facebook&#39;s state-of-the-art Demucs algorithm for demixing songs and integrates search results from YouTube](https://www.reddit.com/r/javascript/comments/wh77ny/stemroller_the_first_free_app_which_enables_you/)
+- [Reduct Storage Client SDK for JavaScript 0.6.0 was released](https://www.reddit.com/r/javascript/comments/wh59x4/reduct_storage_client_sdk_for_javascript_060_was/)
+- [Made javascript draw what feels like grandma&#39;s crochet squares](https://www.reddit.com/r/javascript/comments/wh1dhh/made_javascript_draw_what_feels_like_grandmas/)
+- [Stable Fluids with three.js](https://www.reddit.com/r/javascript/comments/wgywqs/stable_fluids_with_threejs/)
+- [&#39;The best thing we can do today to JavaScript is to retire it,&#39; says JSON creator Douglas Crockford](https://www.reddit.com/r/javascript/comments/wgx63z/the_best_thing_we_can_do_today_to_javascript_is/)
+- [deep clone with structuredClone&lpar;&rpar; - Web APIs | MDN](https://www.reddit.com/r/javascript/comments/wgvrm2/deep_clone_with_structuredclone_web_apis_mdn/)
+- [A few must-learn JavaScript hacks](https://www.reddit.com/r/javascript/comments/wguwmr/a_few_mustlearn_javascript_hacks/)
+- [JavaScript AST manipulation with Babel: extracting hardcoded data](https://www.reddit.com/r/javascript/comments/wgrncl/javascript_ast_manipulation_with_babel_extracting/)
+- [How to improve your markdown-based docs with automatic tagging](https://www.reddit.com/r/javascript/comments/wgqbfq/how_to_improve_your_markdownbased_docs_with/)
 - [Checkout Solid Structure, a frontend developer tool designed to live render dependency and structural graphs along with a log monitor that tracks updates from Signals to display all the reactivity in a SolidJS application.](https://www.reddit.com/r/javascript/comments/wgamyk/checkout_solid_structure_a_frontend_developer/)
-- [Website to generate Code Snippets, Regexes, Linux &amp; Git &amp; SQL Commands, HTML and CSS from a written description. Furthermore translate code snippets to many languages and get a regex explained in plain english. Moreover you can fix broken code snippets. All with the help of AI](https://www.reddit.com/r/javascript/comments/wg8t9f/website_to_generate_code_snippets_regexes_linux/)
-- [[AskJS] I love for loops, do you?](https://www.reddit.com/r/javascript/comments/wg81yz/askjs_i_love_for_loops_do_you/)
-- [Visual Studio Code July 2022](https://www.reddit.com/r/javascript/comments/wg7kyd/visual_studio_code_july_2022/)
-- [I made a web game using emojis and no JS framework](https://www.reddit.com/r/javascript/comments/wfuf7b/i_made_a_web_game_using_emojis_and_no_js_framework/)
-- [[AskJS] Experienced Devs, what&#39;s something that frustrates you about working with React that&#39;s not a simple &quot;you&#39;ll know how to do it better once you&#39;ve enough experience&quot;?](https://www.reddit.com/r/javascript/comments/wfpbh2/askjs_experienced_devs_whats_something_that/)
-- [Create SQS + DLQ with AWS CDK + TS](https://www.reddit.com/r/javascript/comments/wfk5bh/create_sqs_dlq_with_aws_cdk_ts/)
-- [Simple JS game programming through a comic](https://www.reddit.com/r/javascript/comments/wfghqe/simple_js_game_programming_through_a_comic/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
