@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I was inspired by Ronen Amiel’s HypeScript so I made a SQL parser / type extractor using only TypeScript’s type system.](https://www.reddit.com/r/javascript/comments/whyxxa/i_was_inspired_by_ronen_amiels_hypescript_so_i/)
+- [[AskJS] Is there a website out there for learning functional programming in javascript?](https://www.reddit.com/r/javascript/comments/whxmzt/askjs_is_there_a_website_out_there_for_learning/)
+- [[AskJS] Svelte Devtools](https://www.reddit.com/r/javascript/comments/whto6x/askjs_svelte_devtools/)
+- [I&#39;ve been making JavaScript sandbox alone for 6 years](https://www.reddit.com/r/javascript/comments/whrbue/ive_been_making_javascript_sandbox_alone_for_6/)
+- [JavaScript Cheat Sheet that you should bookmark](https://www.reddit.com/r/javascript/comments/whi80p/javascript_cheat_sheet_that_you_should_bookmark/)
+- [Showoff Saturday &lpar;August 06, 2022&rpar;](https://www.reddit.com/r/javascript/comments/whhz4o/showoff_saturday_august_06_2022/)
 - [StemRoller - the first free app which enables you to separate vocal and instrumental stems from any song with a single click! StemRoller uses Facebook&#39;s state-of-the-art Demucs algorithm for demixing songs and integrates search results from YouTube](https://www.reddit.com/r/javascript/comments/wh77ny/stemroller_the_first_free_app_which_enables_you/)
 - [Reduct Storage Client SDK for JavaScript 0.6.0 was released](https://www.reddit.com/r/javascript/comments/wh59x4/reduct_storage_client_sdk_for_javascript_060_was/)
-- [Made javascript draw what feels like grandma&#39;s crochet squares](https://www.reddit.com/r/javascript/comments/wh1dhh/made_javascript_draw_what_feels_like_grandmas/)
 - [Stable Fluids with three.js](https://www.reddit.com/r/javascript/comments/wgywqs/stable_fluids_with_threejs/)
 - [&#39;The best thing we can do today to JavaScript is to retire it,&#39; says JSON creator Douglas Crockford](https://www.reddit.com/r/javascript/comments/wgx63z/the_best_thing_we_can_do_today_to_javascript_is/)
-- [deep clone with structuredClone&lpar;&rpar; - Web APIs | MDN](https://www.reddit.com/r/javascript/comments/wgvrm2/deep_clone_with_structuredclone_web_apis_mdn/)
-- [A few must-learn JavaScript hacks](https://www.reddit.com/r/javascript/comments/wguwmr/a_few_mustlearn_javascript_hacks/)
-- [JavaScript AST manipulation with Babel: extracting hardcoded data](https://www.reddit.com/r/javascript/comments/wgrncl/javascript_ast_manipulation_with_babel_extracting/)
-- [How to improve your markdown-based docs with automatic tagging](https://www.reddit.com/r/javascript/comments/wgqbfq/how_to_improve_your_markdownbased_docs_with/)
-- [Checkout Solid Structure, a frontend developer tool designed to live render dependency and structural graphs along with a log monitor that tracks updates from Signals to display all the reactivity in a SolidJS application.](https://www.reddit.com/r/javascript/comments/wgamyk/checkout_solid_structure_a_frontend_developer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
