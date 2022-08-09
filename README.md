@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Express like api for bunjs &lpar; Just for fun&rpar;](https://www.reddit.com/r/javascript/comments/wib2ra/express_like_api_for_bunjs_just_for_fun/)
-- [I was inspired by Ronen Amiel’s HypeScript so I made a SQL parser / type extractor using only TypeScript’s type system.](https://www.reddit.com/r/javascript/comments/whyxxa/i_was_inspired_by_ronen_amiels_hypescript_so_i/)
-- [[AskJS] Is there a website out there for learning functional programming in javascript?](https://www.reddit.com/r/javascript/comments/whxmzt/askjs_is_there_a_website_out_there_for_learning/)
-- [[AskJS] Svelte Devtools](https://www.reddit.com/r/javascript/comments/whto6x/askjs_svelte_devtools/)
-- [I&#39;ve been making JavaScript sandbox alone for 6 years](https://www.reddit.com/r/javascript/comments/whrbue/ive_been_making_javascript_sandbox_alone_for_6/)
-- [JavaScript Cheat Sheet that you should bookmark](https://www.reddit.com/r/javascript/comments/whi80p/javascript_cheat_sheet_that_you_should_bookmark/)
-- [Showoff Saturday &lpar;August 06, 2022&rpar;](https://www.reddit.com/r/javascript/comments/whhz4o/showoff_saturday_august_06_2022/)
-- [StemRoller - the first free app which enables you to separate vocal and instrumental stems from any song with a single click! StemRoller uses Facebook&#39;s state-of-the-art Demucs algorithm for demixing songs and integrates search results from YouTube](https://www.reddit.com/r/javascript/comments/wh77ny/stemroller_the_first_free_app_which_enables_you/)
-- [Reduct Storage Client SDK for JavaScript 0.6.0 was released](https://www.reddit.com/r/javascript/comments/wh59x4/reduct_storage_client_sdk_for_javascript_060_was/)
-- [Stable Fluids with three.js](https://www.reddit.com/r/javascript/comments/wgywqs/stable_fluids_with_threejs/)
+- [[AskJS] OOP linked lists - why does this method work?](https://www.reddit.com/r/javascript/comments/wjrpdl/askjs_oop_linked_lists_why_does_this_method_work/)
+- [nadder - NumPy in 8kB of JS, powered by ES6 black magic](https://www.reddit.com/r/javascript/comments/wjrniy/nadder_numpy_in_8kb_of_js_powered_by_es6_black/)
+- [[AskJS] How many eslint warnings do you have in your project?](https://www.reddit.com/r/javascript/comments/wjq7vb/askjs_how_many_eslint_warnings_do_you_have_in/)
+- [[AskJS] How to reduce Compile Module and Evaluate Module times?](https://www.reddit.com/r/javascript/comments/wjp04l/askjs_how_to_reduce_compile_module_and_evaluate/)
+- [Bun - What can I use it for?](https://www.reddit.com/r/javascript/comments/wjmoxa/bun_what_can_i_use_it_for/)
+- [Emoji-Parser.js: Easily add emoji support to your website! Replace keywords with emoji&#39;s](https://www.reddit.com/r/javascript/comments/wjdghp/emojiparserjs_easily_add_emoji_support_to_your/)
+- [The JavaScript Paradox](https://www.reddit.com/r/javascript/comments/wjc24c/the_javascript_paradox/)
+- [Using WebSockets in NodeJS and Building a Chat App](https://www.reddit.com/r/javascript/comments/wjb7kb/using_websockets_in_nodejs_and_building_a_chat_app/)
+- [Eartho? Someone familiar with?](https://www.reddit.com/r/javascript/comments/wj9x5m/eartho_someone_familiar_with/)
+- [Authoring npm Packages with Monorepos](https://www.reddit.com/r/javascript/comments/wj9hud/authoring_npm_packages_with_monorepos/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
