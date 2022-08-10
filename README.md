@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] OOP linked lists - why does this method work?](https://www.reddit.com/r/javascript/comments/wjrpdl/askjs_oop_linked_lists_why_does_this_method_work/)
-- [nadder - NumPy in 8kB of JS, powered by ES6 black magic](https://www.reddit.com/r/javascript/comments/wjrniy/nadder_numpy_in_8kb_of_js_powered_by_es6_black/)
-- [[AskJS] How many eslint warnings do you have in your project?](https://www.reddit.com/r/javascript/comments/wjq7vb/askjs_how_many_eslint_warnings_do_you_have_in/)
-- [[AskJS] How to reduce Compile Module and Evaluate Module times?](https://www.reddit.com/r/javascript/comments/wjp04l/askjs_how_to_reduce_compile_module_and_evaluate/)
-- [Bun - What can I use it for?](https://www.reddit.com/r/javascript/comments/wjmoxa/bun_what_can_i_use_it_for/)
-- [Emoji-Parser.js: Easily add emoji support to your website! Replace keywords with emoji&#39;s](https://www.reddit.com/r/javascript/comments/wjdghp/emojiparserjs_easily_add_emoji_support_to_your/)
-- [The JavaScript Paradox](https://www.reddit.com/r/javascript/comments/wjc24c/the_javascript_paradox/)
-- [Using WebSockets in NodeJS and Building a Chat App](https://www.reddit.com/r/javascript/comments/wjb7kb/using_websockets_in_nodejs_and_building_a_chat_app/)
-- [Eartho? Someone familiar with?](https://www.reddit.com/r/javascript/comments/wj9x5m/eartho_someone_familiar_with/)
-- [Authoring npm Packages with Monorepos](https://www.reddit.com/r/javascript/comments/wj9hud/authoring_npm_packages_with_monorepos/)
+- [[AskJS] Application optimization techniques](https://www.reddit.com/r/javascript/comments/wkhi0r/askjs_application_optimization_techniques/)
+- [Astro 1.0 – a web framework for building fast, content-focused websites](https://www.reddit.com/r/javascript/comments/wkgmvw/astro_10_a_web_framework_for_building_fast/)
+- [[AskJS] Its about time javascript should get a &quot;integer&quot; and &quot;float&quot; data type.](https://www.reddit.com/r/javascript/comments/wkg1jx/askjs_its_about_time_javascript_should_get_a/)
+- [US data transfer unlawful according to German procurement authority](https://www.reddit.com/r/javascript/comments/wkdks4/us_data_transfer_unlawful_according_to_german/)
+- [useMemo in React.js](https://www.reddit.com/r/javascript/comments/wkd2qg/usememo_in_reactjs/)
+- [Build a Discord Bot Using Node.js, Discord.js, and OpenAI GPT-3](https://www.reddit.com/r/javascript/comments/wkcph3/build_a_discord_bot_using_nodejs_discordjs_and/)
+- [[AskJS] Is there any difference between these two functions?](https://www.reddit.com/r/javascript/comments/wkcb68/askjs_is_there_any_difference_between_these_two/)
+- [[AskJS] What is an challenging but also relatively doable timeline for learning JavaScript to Junior Dev level?](https://www.reddit.com/r/javascript/comments/wkc743/askjs_what_is_an_challenging_but_also_relatively/)
+- [simple-data-analysis.js: Easy-to-use JavaScript library for most common data analysis tasks.](https://www.reddit.com/r/javascript/comments/wk9xef/simpledataanalysisjs_easytouse_javascript_library/)
+- [Understanding the Performance Impact of Generated JavaScript](https://www.reddit.com/r/javascript/comments/wk9npb/understanding_the_performance_impact_of_generated/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
