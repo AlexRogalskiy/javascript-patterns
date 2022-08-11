@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A web component that lets you comfortably create Steam Game, Gameserver &amp; Player Widgets for any website. Fully customizable, responsive &amp; controllable. Useful for indie game devs/publishers, server hosters and gaming clans.](https://www.reddit.com/r/javascript/comments/wl80vf/a_web_component_that_lets_you_comfortably_create/)
+- [[AskJS] What are some real world applications of JS Proxy objects?](https://www.reddit.com/r/javascript/comments/wl7lpo/askjs_what_are_some_real_world_applications_of_js/)
+- [I created a little puzzle game to learn JS-based visual scripting for my no-code platform](https://www.reddit.com/r/javascript/comments/wl45jk/i_created_a_little_puzzle_game_to_learn_jsbased/)
+- [Joycon.js - Add controller functionality to your JavaScript game.](https://www.reddit.com/r/javascript/comments/wkqnqf/joyconjs_add_controller_functionality_to_your/)
+- [WTF Wednesday &lpar;August 10, 2022&rpar;](https://www.reddit.com/r/javascript/comments/wkqnmp/wtf_wednesday_august_10_2022/)
+- [Working With Dates Using Regex Named Capture Groups](https://www.reddit.com/r/javascript/comments/wko4li/working_with_dates_using_regex_named_capture/)
 - [[AskJS] Application optimization techniques](https://www.reddit.com/r/javascript/comments/wkhi0r/askjs_application_optimization_techniques/)
 - [Astro 1.0 – a web framework for building fast, content-focused websites](https://www.reddit.com/r/javascript/comments/wkgmvw/astro_10_a_web_framework_for_building_fast/)
-- [[AskJS] Its about time javascript should get a &quot;integer&quot; and &quot;float&quot; data type.](https://www.reddit.com/r/javascript/comments/wkg1jx/askjs_its_about_time_javascript_should_get_a/)
-- [US data transfer unlawful according to German procurement authority](https://www.reddit.com/r/javascript/comments/wkdks4/us_data_transfer_unlawful_according_to_german/)
 - [useMemo in React.js](https://www.reddit.com/r/javascript/comments/wkd2qg/usememo_in_reactjs/)
 - [Build a Discord Bot Using Node.js, Discord.js, and OpenAI GPT-3](https://www.reddit.com/r/javascript/comments/wkcph3/build_a_discord_bot_using_nodejs_discordjs_and/)
-- [[AskJS] Is there any difference between these two functions?](https://www.reddit.com/r/javascript/comments/wkcb68/askjs_is_there_any_difference_between_these_two/)
-- [[AskJS] What is an challenging but also relatively doable timeline for learning JavaScript to Junior Dev level?](https://www.reddit.com/r/javascript/comments/wkc743/askjs_what_is_an_challenging_but_also_relatively/)
-- [simple-data-analysis.js: Easy-to-use JavaScript library for most common data analysis tasks.](https://www.reddit.com/r/javascript/comments/wk9xef/simpledataanalysisjs_easytouse_javascript_library/)
-- [Understanding the Performance Impact of Generated JavaScript](https://www.reddit.com/r/javascript/comments/wk9npb/understanding_the_performance_impact_of_generated/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
