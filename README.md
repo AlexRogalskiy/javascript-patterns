@@ -352,6 +352,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *javascript programmer posts*
 
 <!-- METEOR-POST-LIST:START -->
+- [Meteor Monthly Update — July 2022](https://blog.meteor.com/meteor-monthly-update-july-2022-b486e6dd8ccc?source=rss----a9bcaf865278---4)
 - [Roti.express Slays Unproductive Meetings with Meteor](https://blog.meteor.com/roti-express-slays-unproductive-meetings-with-meteor-c35925c8bf48?source=rss----a9bcaf865278---4)
 - [Meteor Monthly Update — June 2022](https://blog.meteor.com/meteor-monthly-update-june-2022-58223c219ab5?source=rss----a9bcaf865278---4)
 - [Meteor + Web3: Building an NFT Marketplace](https://blog.meteor.com/meteor-web3-building-an-nft-marketplace-9484b321e426?source=rss----a9bcaf865278---4)
@@ -361,7 +362,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [How to Prevent Clickjacking Attacks in Your Meteor App](https://blog.meteor.com/how-to-prevent-clickjacking-attacks-in-your-meteor-app-c62bb9e192e1?source=rss----a9bcaf865278---4)
 - [How Fasal Helps Farmers Grow Smarter with Meteor](https://blog.meteor.com/how-fasal-helps-farmers-grow-smarter-with-meteor-3f1891707a4?source=rss----a9bcaf865278---4)
 - [Meteor 2.7.2 and the New Tailwind Skeleton](https://blog.meteor.com/meteor-2-7-2-and-the-new-tailwind-skeleton-68ccde68af42?source=rss----a9bcaf865278---4)
-- [Meteor Monthly Update — April 2022](https://blog.meteor.com/meteor-monthly-update-april-2022-89443b0078f3?source=rss----a9bcaf865278---4)
 <!-- METEOR-POST-LIST:END -->
 
 ### *Dreamix posts*
