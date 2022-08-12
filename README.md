@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [A web component that lets you comfortably create Steam Game, Gameserver &amp; Player Widgets for any website. Fully customizable, responsive &amp; controllable. Useful for indie game devs/publishers, server hosters and gaming clans.](https://www.reddit.com/r/javascript/comments/wl80vf/a_web_component_that_lets_you_comfortably_create/)
-- [[AskJS] What are some real world applications of JS Proxy objects?](https://www.reddit.com/r/javascript/comments/wl7lpo/askjs_what_are_some_real_world_applications_of_js/)
-- [I created a little puzzle game to learn JS-based visual scripting for my no-code platform](https://www.reddit.com/r/javascript/comments/wl45jk/i_created_a_little_puzzle_game_to_learn_jsbased/)
-- [Joycon.js - Add controller functionality to your JavaScript game.](https://www.reddit.com/r/javascript/comments/wkqnqf/joyconjs_add_controller_functionality_to_your/)
-- [WTF Wednesday &lpar;August 10, 2022&rpar;](https://www.reddit.com/r/javascript/comments/wkqnmp/wtf_wednesday_august_10_2022/)
-- [Working With Dates Using Regex Named Capture Groups](https://www.reddit.com/r/javascript/comments/wko4li/working_with_dates_using_regex_named_capture/)
-- [[AskJS] Application optimization techniques](https://www.reddit.com/r/javascript/comments/wkhi0r/askjs_application_optimization_techniques/)
-- [Astro 1.0 – a web framework for building fast, content-focused websites](https://www.reddit.com/r/javascript/comments/wkgmvw/astro_10_a_web_framework_for_building_fast/)
-- [useMemo in React.js](https://www.reddit.com/r/javascript/comments/wkd2qg/usememo_in_reactjs/)
-- [Build a Discord Bot Using Node.js, Discord.js, and OpenAI GPT-3](https://www.reddit.com/r/javascript/comments/wkcph3/build_a_discord_bot_using_nodejs_discordjs_and/)
+- [5 Ways for Sorting Full-Text Search Results in MongoDB](https://www.reddit.com/r/javascript/comments/wm2dm8/5_ways_for_sorting_fulltext_search_results_in/)
+- [What a Google Search Can&#39;t Tell You About These JS Testing Frameworks](https://www.reddit.com/r/javascript/comments/wm08cl/what_a_google_search_cant_tell_you_about_these_js/)
+- [is it hard to write a userscript for memrise.com ?](https://www.reddit.com/r/javascript/comments/wlzwzn/is_it_hard_to_write_a_userscript_for_memrisecom/)
+- [Announcing TypeScript 4.8 RC](https://www.reddit.com/r/javascript/comments/wlzf96/announcing_typescript_48_rc/)
+- [Handle Javascript errors like in Go](https://www.reddit.com/r/javascript/comments/wlyead/handle_javascript_errors_like_in_go/)
+- [A simple Chrome Extension that you can use to show your friends what you&#39;re watching on Discord!](https://www.reddit.com/r/javascript/comments/wlwhm4/a_simple_chrome_extension_that_you_can_use_to/)
+- [Framework-agnostic Vercel-Designed TOAST widget for any website!](https://www.reddit.com/r/javascript/comments/wlw8s4/frameworkagnostic_verceldesigned_toast_widget_for/)
+- [Planet Defense Typing Game](https://www.reddit.com/r/javascript/comments/wlv9ks/planet_defense_typing_game/)
+- [Logto - a Node.js+React solution to build auth with passwordless &lpar;sms/email&rpar; and social sign-in, shipped with comprehensive UIs](https://www.reddit.com/r/javascript/comments/wluro4/logto_a_nodejsreact_solution_to_build_auth_with/)
+- [Trending on GitHub: The open-source notifications infrastructure. A fully-featured node.js microservice for SMS, E-mail, Slack, Push, Embeddable notification center for React with real-time updates &amp; content management.](https://www.reddit.com/r/javascript/comments/wlsk3e/trending_on_github_the_opensource_notifications/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
