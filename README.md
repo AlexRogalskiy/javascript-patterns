@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [5 Ways for Sorting Full-Text Search Results in MongoDB](https://www.reddit.com/r/javascript/comments/wm2dm8/5_ways_for_sorting_fulltext_search_results_in/)
-- [What a Google Search Can&#39;t Tell You About These JS Testing Frameworks](https://www.reddit.com/r/javascript/comments/wm08cl/what_a_google_search_cant_tell_you_about_these_js/)
-- [is it hard to write a userscript for memrise.com ?](https://www.reddit.com/r/javascript/comments/wlzwzn/is_it_hard_to_write_a_userscript_for_memrisecom/)
-- [Announcing TypeScript 4.8 RC](https://www.reddit.com/r/javascript/comments/wlzf96/announcing_typescript_48_rc/)
-- [Handle Javascript errors like in Go](https://www.reddit.com/r/javascript/comments/wlyead/handle_javascript_errors_like_in_go/)
-- [A simple Chrome Extension that you can use to show your friends what you&#39;re watching on Discord!](https://www.reddit.com/r/javascript/comments/wlwhm4/a_simple_chrome_extension_that_you_can_use_to/)
-- [Framework-agnostic Vercel-Designed TOAST widget for any website!](https://www.reddit.com/r/javascript/comments/wlw8s4/frameworkagnostic_verceldesigned_toast_widget_for/)
-- [Planet Defense Typing Game](https://www.reddit.com/r/javascript/comments/wlv9ks/planet_defense_typing_game/)
-- [Logto - a Node.js+React solution to build auth with passwordless &lpar;sms/email&rpar; and social sign-in, shipped with comprehensive UIs](https://www.reddit.com/r/javascript/comments/wluro4/logto_a_nodejsreact_solution_to_build_auth_with/)
-- [Trending on GitHub: The open-source notifications infrastructure. A fully-featured node.js microservice for SMS, E-mail, Slack, Push, Embeddable notification center for React with real-time updates &amp; content management.](https://www.reddit.com/r/javascript/comments/wlsk3e/trending_on_github_the_opensource_notifications/)
+- [I Made a Web App to Showcase all your Profile links](https://www.reddit.com/r/javascript/comments/wn0t9k/i_made_a_web_app_to_showcase_all_your_profile/)
+- [I built a To-do List web app](https://www.reddit.com/r/javascript/comments/wmzymn/i_built_a_todo_list_web_app/)
+- [Range slider library written in typescript and using web component technologies.](https://www.reddit.com/r/javascript/comments/wmxi4x/range_slider_library_written_in_typescript_and/)
+- [Best way to handle Tailwind CSS preset configuration for responsive UI](https://www.reddit.com/r/javascript/comments/wmtb6y/best_way_to_handle_tailwind_css_preset/)
+- [Why Async/Await Is More Than Just Syntactic Sugar](https://www.reddit.com/r/javascript/comments/wmpdsu/why_asyncawait_is_more_than_just_syntactic_sugar/)
+- [How I create the Express like API for Bunjs](https://www.reddit.com/r/javascript/comments/wmmkca/how_i_create_the_express_like_api_for_bunjs/)
+- [Jsonmap - library for executing transferable logic inside JSON &lpar;could be good for lowcode things&rpar;](https://www.reddit.com/r/javascript/comments/wmltvx/jsonmap_library_for_executing_transferable_logic/)
+- [JavaScript UI testing best practices](https://www.reddit.com/r/javascript/comments/wmlt7n/javascript_ui_testing_best_practices/)
+- [I like Angular, but I created leanweb](https://www.reddit.com/r/javascript/comments/wmeoeh/i_like_angular_but_i_created_leanweb/)
+- [What&#39;s New In DevTools &lpar;Chrome 105&rpar; - Chrome Developers](https://www.reddit.com/r/javascript/comments/wmekt8/whats_new_in_devtools_chrome_105_chrome_developers/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
