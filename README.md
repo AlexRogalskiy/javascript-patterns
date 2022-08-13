@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [TypeScript 4.8 shines on intersection and union types](https://www.infoworld.com/article/3664928/typescript-48-fixes-file-watching-on-linux-macos.html#tk.rss_javascript)
 - [Angular 15 promises to simplify development](https://www.infoworld.com/article/3669889/angular-15-promises-to-simplify-development.html#tk.rss_javascript)
 - [Deno vs. Node.js: Which is better?](https://www.infoworld.com/article/3668660/deno-vs-nodejs-which-is-better.html#tk.rss_javascript)
 - [Microsoft Azure Fluid Relay turns GA](https://www.infoworld.com/article/3668598/microsoft-azure-fluid-relay-turns-ga.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Ecma unveils more permissive JavaScript license](https://www.infoworld.com/article/3664940/ecma-unveils-more-permissive-javascript-license.html#tk.rss_javascript)
 - [9 Deno runtime projects to watch](https://www.infoworld.com/article/3664344/9-deno-runtime-projects-to-watch.html#tk.rss_javascript)
 - [ECMAScript 2022 blesses class elements, top-level await](https://www.infoworld.com/article/3654830/ecmascript-2022-blesses-class-elements-top-level-await.html#tk.rss_javascript)
-- [TypeScript 4.8 fixes file watching on Linux, macOS](https://www.infoworld.com/article/3664928/typescript-48-fixes-file-watching-on-linux-macos.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
