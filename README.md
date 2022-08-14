@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I Made a Web App to Showcase all your Profile links](https://www.reddit.com/r/javascript/comments/wn0t9k/i_made_a_web_app_to_showcase_all_your_profile/)
-- [I built a To-do List web app](https://www.reddit.com/r/javascript/comments/wmzymn/i_built_a_todo_list_web_app/)
-- [Range slider library written in typescript and using web component technologies.](https://www.reddit.com/r/javascript/comments/wmxi4x/range_slider_library_written_in_typescript_and/)
-- [Best way to handle Tailwind CSS preset configuration for responsive UI](https://www.reddit.com/r/javascript/comments/wmtb6y/best_way_to_handle_tailwind_css_preset/)
-- [Why Async/Await Is More Than Just Syntactic Sugar](https://www.reddit.com/r/javascript/comments/wmpdsu/why_asyncawait_is_more_than_just_syntactic_sugar/)
-- [How I create the Express like API for Bunjs](https://www.reddit.com/r/javascript/comments/wmmkca/how_i_create_the_express_like_api_for_bunjs/)
-- [Jsonmap - library for executing transferable logic inside JSON &lpar;could be good for lowcode things&rpar;](https://www.reddit.com/r/javascript/comments/wmltvx/jsonmap_library_for_executing_transferable_logic/)
-- [JavaScript UI testing best practices](https://www.reddit.com/r/javascript/comments/wmlt7n/javascript_ui_testing_best_practices/)
-- [I like Angular, but I created leanweb](https://www.reddit.com/r/javascript/comments/wmeoeh/i_like_angular_but_i_created_leanweb/)
-- [What&#39;s New In DevTools &lpar;Chrome 105&rpar; - Chrome Developers](https://www.reddit.com/r/javascript/comments/wmekt8/whats_new_in_devtools_chrome_105_chrome_developers/)
+- [What&#39;s with All the Runtimes for JavaScript?](https://www.reddit.com/r/javascript/comments/wnsy8f/whats_with_all_the_runtimes_for_javascript/)
+- [On syntactic sugar](https://www.reddit.com/r/javascript/comments/wnli3o/on_syntactic_sugar/)
+- [[AskJS] Best way to send JSON from users to myself](https://www.reddit.com/r/javascript/comments/wnlha6/askjs_best_way_to_send_json_from_users_to_myself/)
+- [SaaS Starter Kit using Nuxt3 Vue3 Firebase and Stripe](https://www.reddit.com/r/javascript/comments/wnjote/saas_starter_kit_using_nuxt3_vue3_firebase_and/)
+- [[AskJS] How do you deal with floats in production apps?](https://www.reddit.com/r/javascript/comments/wniqmw/askjs_how_do_you_deal_with_floats_in_production/)
+- [Introducing challenges on my social platform for web snippets](https://www.reddit.com/r/javascript/comments/wng6hl/introducing_challenges_on_my_social_platform_for/)
+- [How to Expose your Local Development Server to the Internet using Dynamic DNS](https://www.reddit.com/r/javascript/comments/wncu2q/how_to_expose_your_local_development_server_to/)
+- [JSON query assist](https://www.reddit.com/r/javascript/comments/wn96bk/json_query_assist/)
+- [Test your TypeScript type with Vitest](https://www.reddit.com/r/javascript/comments/wn92qn/test_your_typescript_type_with_vitest/)
+- [Deep Inside the NBA’s Rosters Using as Graph Database RedisGraph](https://www.reddit.com/r/javascript/comments/wn89o8/deep_inside_the_nbas_rosters_using_as_graph/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
