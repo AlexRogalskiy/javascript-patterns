@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What&#39;s with All the Runtimes for JavaScript?](https://www.reddit.com/r/javascript/comments/wnsy8f/whats_with_all_the_runtimes_for_javascript/)
-- [On syntactic sugar](https://www.reddit.com/r/javascript/comments/wnli3o/on_syntactic_sugar/)
-- [[AskJS] Best way to send JSON from users to myself](https://www.reddit.com/r/javascript/comments/wnlha6/askjs_best_way_to_send_json_from_users_to_myself/)
-- [SaaS Starter Kit using Nuxt3 Vue3 Firebase and Stripe](https://www.reddit.com/r/javascript/comments/wnjote/saas_starter_kit_using_nuxt3_vue3_firebase_and/)
-- [[AskJS] How do you deal with floats in production apps?](https://www.reddit.com/r/javascript/comments/wniqmw/askjs_how_do_you_deal_with_floats_in_production/)
-- [Introducing challenges on my social platform for web snippets](https://www.reddit.com/r/javascript/comments/wng6hl/introducing_challenges_on_my_social_platform_for/)
-- [How to Expose your Local Development Server to the Internet using Dynamic DNS](https://www.reddit.com/r/javascript/comments/wncu2q/how_to_expose_your_local_development_server_to/)
-- [JSON query assist](https://www.reddit.com/r/javascript/comments/wn96bk/json_query_assist/)
-- [Test your TypeScript type with Vitest](https://www.reddit.com/r/javascript/comments/wn92qn/test_your_typescript_type_with_vitest/)
-- [Deep Inside the NBA’s Rosters Using as Graph Database RedisGraph](https://www.reddit.com/r/javascript/comments/wn89o8/deep_inside_the_nbas_rosters_using_as_graph/)
+- [&quot;If a dev&#39;s manager checks in with &#39;Are you happy?&#39; and not questions like &#39;What was a work hurdle you faced this week&#39;&quot; or &#39;Did you get to ship anything you&#39;re proud of?&#39; they shouldn&#39;t be surprised when that dev leaves in a few months.&quot; AMEN to this.](https://www.reddit.com/r/javascript/comments/won6xx/if_a_devs_manager_checks_in_with_are_you_happy/)
+- [JavaScript: Remove Specific Items from Array](https://www.reddit.com/r/javascript/comments/wokkq6/javascript_remove_specific_items_from_array/)
+- [[AskJS] How to return different calculations based on parameter value without conditions?](https://www.reddit.com/r/javascript/comments/wojpsj/askjs_how_to_return_different_calculations_based/)
+- [Here&#39;s a small Javascript Icon picker on Github](https://www.reddit.com/r/javascript/comments/wo97yz/heres_a_small_javascript_icon_picker_on_github/)
+- [Validating input field when it losses focus](https://www.reddit.com/r/javascript/comments/wo5emo/validating_input_field_when_it_losses_focus/)
+- [[AskJS] End-to-end testing for drag&amp;drop without manual event dispatching?](https://www.reddit.com/r/javascript/comments/wo3ryo/askjs_endtoend_testing_for_dragdrop_without/)
+- [[AskJS] A hybrid between &quot;npm install&quot; and &quot;npm ci&quot;?](https://www.reddit.com/r/javascript/comments/wo3e64/askjs_a_hybrid_between_npm_install_and_npm_ci/)
+- [[AskJS] What if node_modules contained JavaScript bytecode instead of source code?](https://www.reddit.com/r/javascript/comments/wo38pa/askjs_what_if_node_modules_contained_javascript/)
+- [Angular 15: Simplifies Development Promises](https://www.reddit.com/r/javascript/comments/wnzzpm/angular_15_simplifies_development_promises/)
+- [Phonk-A Javascript coding playground for new and old Android devices.](https://www.reddit.com/r/javascript/comments/wnzxgz/phonka_javascript_coding_playground_for_new_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
