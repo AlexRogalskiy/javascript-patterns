@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [&quot;If a dev&#39;s manager checks in with &#39;Are you happy?&#39; and not questions like &#39;What was a work hurdle you faced this week&#39;&quot; or &#39;Did you get to ship anything you&#39;re proud of?&#39; they shouldn&#39;t be surprised when that dev leaves in a few months.&quot; AMEN to this.](https://www.reddit.com/r/javascript/comments/won6xx/if_a_devs_manager_checks_in_with_are_you_happy/)
-- [JavaScript: Remove Specific Items from Array](https://www.reddit.com/r/javascript/comments/wokkq6/javascript_remove_specific_items_from_array/)
-- [[AskJS] How to return different calculations based on parameter value without conditions?](https://www.reddit.com/r/javascript/comments/wojpsj/askjs_how_to_return_different_calculations_based/)
-- [Here&#39;s a small Javascript Icon picker on Github](https://www.reddit.com/r/javascript/comments/wo97yz/heres_a_small_javascript_icon_picker_on_github/)
-- [Validating input field when it losses focus](https://www.reddit.com/r/javascript/comments/wo5emo/validating_input_field_when_it_losses_focus/)
-- [[AskJS] End-to-end testing for drag&amp;drop without manual event dispatching?](https://www.reddit.com/r/javascript/comments/wo3ryo/askjs_endtoend_testing_for_dragdrop_without/)
-- [[AskJS] A hybrid between &quot;npm install&quot; and &quot;npm ci&quot;?](https://www.reddit.com/r/javascript/comments/wo3e64/askjs_a_hybrid_between_npm_install_and_npm_ci/)
-- [[AskJS] What if node_modules contained JavaScript bytecode instead of source code?](https://www.reddit.com/r/javascript/comments/wo38pa/askjs_what_if_node_modules_contained_javascript/)
-- [Angular 15: Simplifies Development Promises](https://www.reddit.com/r/javascript/comments/wnzzpm/angular_15_simplifies_development_promises/)
-- [Phonk-A Javascript coding playground for new and old Android devices.](https://www.reddit.com/r/javascript/comments/wnzxgz/phonka_javascript_coding_playground_for_new_and/)
+- [Access the Filesystem with Javascript](https://www.reddit.com/r/javascript/comments/wphqk7/access_the_filesystem_with_javascript/)
+- [Decentralized web apps over web2.](https://www.reddit.com/r/javascript/comments/wphnzr/decentralized_web_apps_over_web2/)
+- [The impact of removing jQuery on our web performance](https://www.reddit.com/r/javascript/comments/wpcl28/the_impact_of_removing_jquery_on_our_web/)
+- [Implement Google OAuth in NestJS using Passport](https://www.reddit.com/r/javascript/comments/wpbkez/implement_google_oauth_in_nestjs_using_passport/)
+- [A JavaScript V8 engine walkthrough](https://www.reddit.com/r/javascript/comments/wpaxw5/a_javascript_v8_engine_walkthrough/)
+- [TypeScript 4.8: Better Intersections Union Types](https://www.reddit.com/r/javascript/comments/wp6m22/typescript_48_better_intersections_union_types/)
+- [Building accessible Select component in React](https://www.reddit.com/r/javascript/comments/wp23b4/building_accessible_select_component_in_react/)
+- [Astrodon - Desktop App Framework &lpar;not there yet!&rpar; for Deno, based on Tauri &lpar;there&#39;s a lot missing but might be one to watch&rpar;](https://www.reddit.com/r/javascript/comments/wp11uc/astrodon_desktop_app_framework_not_there_yet_for/)
+- [Lux 0.7 is out! Lisp for JavaScript with static types](https://www.reddit.com/r/javascript/comments/woyoc1/lux_07_is_out_lisp_for_javascript_with_static/)
+- [Optimizing for JavaScript is hard](https://www.reddit.com/r/javascript/comments/woyk67/optimizing_for_javascript_is_hard/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
