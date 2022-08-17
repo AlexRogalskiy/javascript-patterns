@@ -381,6 +381,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *NodeSource posts*
 
 <!-- NODESOURCE-POST-LIST:START -->
+- [Distributed Tracing Support in N|Solid [10/10] The best APM for Node, layer by layer.](https://nodesource.com/blog/NSolid-Distributed-Tracing)
 - [Announcing N|Solid 4.8.0](https://nodesource.com/blog/announcing-NSolid-version-4.8.0)
 - [Global Alerts &amp; Integrations in N|Solid [9/10] The best APM for Node, layer by layer.](https://nodesource.com/blog/NSolid-Global-Alerts-&-Integrations)
 - [Vulnerability Scanning &amp; 3rd-Party Modules Certification in N|Solid [8/10] The best APM for Node, layer by layer.](https://nodesource.com/blog/NSolid-Vulnerability-Scanning-3rdPartyModules-Certification)
@@ -390,7 +391,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [HTTP Tracing in N|Solid [4/10] The best APM for Node, layer by layer](https://nodesource.com/blog/NSolid-Distributed-HTTP-Tracing)
 - [CPU Profiling in N|Solid [3/10] The best APM for Node, layer by layer](https://nodesource.com/blog/NSolid-CPU-Profiling)
 - [Process Monitoring in N|Solid [2/10] The best APM for Node, layer by layer.](https://nodesource.com/blog/NSolid-Process-Monitoring)
-- [Project &amp; Applications Monitoring in N|Solid [1/10] The best APM for Node, layer by layer.](https://nodesource.com/blog/NSolid-Project-Applications-Monitoring)
 <!-- NODESOURCE-POST-LIST:END -->
 
 ### *React Native posts*
