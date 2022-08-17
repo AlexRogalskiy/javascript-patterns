@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Introducing the Markdown Language Server](https://www.reddit.com/r/javascript/comments/wq3wvh/introducing_the_markdown_language_server/)
+- [[AskJS] Sails.js v1.x books or tutorials](https://www.reddit.com/r/javascript/comments/wq0ebk/askjs_sailsjs_v1x_books_or_tutorials/)
+- [Vanilla JS Icon Picker for any Icon Library on GitHub](https://www.reddit.com/r/javascript/comments/wpxf18/vanilla_js_icon_picker_for_any_icon_library_on/)
+- [supabase-js v2 release candidate](https://www.reddit.com/r/javascript/comments/wpxefb/supabasejs_v2_release_candidate/)
+- [Why You Need an API Layer and How To Built It in React](https://www.reddit.com/r/javascript/comments/wpuglu/why_you_need_an_api_layer_and_how_to_built_it_in/)
+- [I created a Javascript library to create product walkthroughs for web-apps / websites](https://www.reddit.com/r/javascript/comments/wpua5u/i_created_a_javascript_library_to_create_product/)
+- [Let&#39;s build a modern time-on-site counter for your website with Timeonsite.js and SendBeacon JS API](https://www.reddit.com/r/javascript/comments/wpqjex/lets_build_a_modern_timeonsite_counter_for_your/)
+- [Using a mock server with Cypress](https://www.reddit.com/r/javascript/comments/wpo3dn/using_a_mock_server_with_cypress/)
+- [GitHub - peggyjs/peggy: Peggy: Parser generator for JavaScript](https://www.reddit.com/r/javascript/comments/wpmulp/github_peggyjspeggy_peggy_parser_generator_for/)
 - [Access the Filesystem with Javascript](https://www.reddit.com/r/javascript/comments/wphqk7/access_the_filesystem_with_javascript/)
-- [Decentralized web apps over web2.](https://www.reddit.com/r/javascript/comments/wphnzr/decentralized_web_apps_over_web2/)
-- [The impact of removing jQuery on our web performance](https://www.reddit.com/r/javascript/comments/wpcl28/the_impact_of_removing_jquery_on_our_web/)
-- [Implement Google OAuth in NestJS using Passport](https://www.reddit.com/r/javascript/comments/wpbkez/implement_google_oauth_in_nestjs_using_passport/)
-- [A JavaScript V8 engine walkthrough](https://www.reddit.com/r/javascript/comments/wpaxw5/a_javascript_v8_engine_walkthrough/)
-- [TypeScript 4.8: Better Intersections Union Types](https://www.reddit.com/r/javascript/comments/wp6m22/typescript_48_better_intersections_union_types/)
-- [Building accessible Select component in React](https://www.reddit.com/r/javascript/comments/wp23b4/building_accessible_select_component_in_react/)
-- [Astrodon - Desktop App Framework &lpar;not there yet!&rpar; for Deno, based on Tauri &lpar;there&#39;s a lot missing but might be one to watch&rpar;](https://www.reddit.com/r/javascript/comments/wp11uc/astrodon_desktop_app_framework_not_there_yet_for/)
-- [Lux 0.7 is out! Lisp for JavaScript with static types](https://www.reddit.com/r/javascript/comments/woyoc1/lux_07_is_out_lisp_for_javascript_with_static/)
-- [Optimizing for JavaScript is hard](https://www.reddit.com/r/javascript/comments/woyk67/optimizing_for_javascript_is_hard/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
