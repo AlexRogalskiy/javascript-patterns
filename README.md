@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Introducing the Markdown Language Server](https://www.reddit.com/r/javascript/comments/wq3wvh/introducing_the_markdown_language_server/)
-- [[AskJS] Sails.js v1.x books or tutorials](https://www.reddit.com/r/javascript/comments/wq0ebk/askjs_sailsjs_v1x_books_or_tutorials/)
-- [Vanilla JS Icon Picker for any Icon Library on GitHub](https://www.reddit.com/r/javascript/comments/wpxf18/vanilla_js_icon_picker_for_any_icon_library_on/)
-- [supabase-js v2 release candidate](https://www.reddit.com/r/javascript/comments/wpxefb/supabasejs_v2_release_candidate/)
-- [Why You Need an API Layer and How To Built It in React](https://www.reddit.com/r/javascript/comments/wpuglu/why_you_need_an_api_layer_and_how_to_built_it_in/)
-- [I created a Javascript library to create product walkthroughs for web-apps / websites](https://www.reddit.com/r/javascript/comments/wpua5u/i_created_a_javascript_library_to_create_product/)
-- [Let&#39;s build a modern time-on-site counter for your website with Timeonsite.js and SendBeacon JS API](https://www.reddit.com/r/javascript/comments/wpqjex/lets_build_a_modern_timeonsite_counter_for_your/)
-- [Using a mock server with Cypress](https://www.reddit.com/r/javascript/comments/wpo3dn/using_a_mock_server_with_cypress/)
-- [GitHub - peggyjs/peggy: Peggy: Parser generator for JavaScript](https://www.reddit.com/r/javascript/comments/wpmulp/github_peggyjspeggy_peggy_parser_generator_for/)
-- [Access the Filesystem with Javascript](https://www.reddit.com/r/javascript/comments/wphqk7/access_the_filesystem_with_javascript/)
+- [Proposal withdrawn for Function.pipe / flow](https://www.reddit.com/r/javascript/comments/wr4tdf/proposal_withdrawn_for_functionpipe_flow/)
+- [How to test Infinite Query With Jest And React-testing-library](https://www.reddit.com/r/javascript/comments/wr1qck/how_to_test_infinite_query_with_jest_and/)
+- [[AskJS] Need advice to pick the right course on web development.](https://www.reddit.com/r/javascript/comments/wqvgfz/askjs_need_advice_to_pick_the_right_course_on_web/)
+- [[AskJS] How to decode and understand JavaScript obfuscation correctly?](https://www.reddit.com/r/javascript/comments/wqs8r4/askjs_how_to_decode_and_understand_javascript/)
+- [Lit - a simple library for building fast, lightweight web components. At Lit&#39;s core is a boilerplate-killing component base class that provides reactive state, scoped styles, and a declarative template system that&#39;s tiny, fast and expressive](https://www.reddit.com/r/javascript/comments/wqqhuv/lit_a_simple_library_for_building_fast/)
+- [Nextjs image optimization with examples](https://www.reddit.com/r/javascript/comments/wqpz0b/nextjs_image_optimization_with_examples/)
+- [I created a starter project for using Teachable Machine with Node.JS](https://www.reddit.com/r/javascript/comments/wqlph6/i_created_a_starter_project_for_using_teachable/)
+- [[AskJS] What do you use for monorepo in fullstack applications?](https://www.reddit.com/r/javascript/comments/wqksao/askjs_what_do_you_use_for_monorepo_in_fullstack/)
+- [And a new JavaScript library is born...](https://www.reddit.com/r/javascript/comments/wqicab/and_a_new_javascript_library_is_born/)
+- [[AskJS] Resources to have a quick look at before interviews](https://www.reddit.com/r/javascript/comments/wqibxg/askjs_resources_to_have_a_quick_look_at_before/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
