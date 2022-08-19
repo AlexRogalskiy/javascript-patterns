@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Proposal withdrawn for Function.pipe / flow](https://www.reddit.com/r/javascript/comments/wr4tdf/proposal_withdrawn_for_functionpipe_flow/)
-- [How to test Infinite Query With Jest And React-testing-library](https://www.reddit.com/r/javascript/comments/wr1qck/how_to_test_infinite_query_with_jest_and/)
-- [[AskJS] Need advice to pick the right course on web development.](https://www.reddit.com/r/javascript/comments/wqvgfz/askjs_need_advice_to_pick_the_right_course_on_web/)
-- [[AskJS] How to decode and understand JavaScript obfuscation correctly?](https://www.reddit.com/r/javascript/comments/wqs8r4/askjs_how_to_decode_and_understand_javascript/)
-- [Lit - a simple library for building fast, lightweight web components. At Lit&#39;s core is a boilerplate-killing component base class that provides reactive state, scoped styles, and a declarative template system that&#39;s tiny, fast and expressive](https://www.reddit.com/r/javascript/comments/wqqhuv/lit_a_simple_library_for_building_fast/)
-- [Nextjs image optimization with examples](https://www.reddit.com/r/javascript/comments/wqpz0b/nextjs_image_optimization_with_examples/)
-- [I created a starter project for using Teachable Machine with Node.JS](https://www.reddit.com/r/javascript/comments/wqlph6/i_created_a_starter_project_for_using_teachable/)
-- [[AskJS] What do you use for monorepo in fullstack applications?](https://www.reddit.com/r/javascript/comments/wqksao/askjs_what_do_you_use_for_monorepo_in_fullstack/)
-- [And a new JavaScript library is born...](https://www.reddit.com/r/javascript/comments/wqicab/and_a_new_javascript_library_is_born/)
-- [[AskJS] Resources to have a quick look at before interviews](https://www.reddit.com/r/javascript/comments/wqibxg/askjs_resources_to_have_a_quick_look_at_before/)
+- [How Javascript TransformStream transform strings](https://www.reddit.com/r/javascript/comments/wrvr6l/how_javascript_transformstream_transform_strings/)
+- [Testing a thing](https://www.reddit.com/r/javascript/comments/wrvoud/testing_a_thing/)
+- [The James Webb Space Telescope runs JavaScript, apparently](https://www.reddit.com/r/javascript/comments/wrtny3/the_james_webb_space_telescope_runs_javascript/)
+- [Built One-Page Swag Store Using JS-based OS Platform](https://www.reddit.com/r/javascript/comments/wrqtam/built_onepage_swag_store_using_jsbased_os_platform/)
+- [NoiseBox - a guitar amp emulator to enjoy playing your guitar and getting real amp sounds](https://www.reddit.com/r/javascript/comments/wrp5nl/noisebox_a_guitar_amp_emulator_to_enjoy_playing/)
+- [Introducing the PlanetScale serverless driver for JavaScript](https://www.reddit.com/r/javascript/comments/wro0uc/introducing_the_planetscale_serverless_driver_for/)
+- [Awesome-anti-SPA: a list of single-page app critiques](https://www.reddit.com/r/javascript/comments/wrnlx1/awesomeantispa_a_list_of_singlepage_app_critiques/)
+- [Introducing classix, a faster and smaller alternative to clsx and classnames for conditionally joining classes](https://www.reddit.com/r/javascript/comments/wrmg0x/introducing_classix_a_faster_and_smaller/)
+- [Storybook 7.0 UI now in alpha](https://www.reddit.com/r/javascript/comments/wrlh0t/storybook_70_ui_now_in_alpha/)
+- [Tired of your favorite packages being ESM-only? I created a Github Org with packages automatically transformed to ESM/CommonJS hybrids](https://www.reddit.com/r/javascript/comments/wrl0n6/tired_of_your_favorite_packages_being_esmonly_i/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
