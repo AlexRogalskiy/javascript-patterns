@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Format Dates without Timezone using JavaScript](https://www.reddit.com/r/javascript/comments/wssaqc/format_dates_without_timezone_using_javascript/)
+- [Deno Promises the Fastest Web Server and and NPM Imports](https://www.reddit.com/r/javascript/comments/wsrjoe/deno_promises_the_fastest_web_server_and_and_npm/)
+- [ProjectZero – Find collaborators for your next side project](https://www.reddit.com/r/javascript/comments/wsqkwi/projectzero_find_collaborators_for_your_next_side/)
+- [[AskJS] How do you create monorepo for fullstack Typescript application?](https://www.reddit.com/r/javascript/comments/wsiq0e/askjs_how_do_you_create_monorepo_for_fullstack/)
+- [iOS Privacy: Announcing InAppBrowser.com - see what JavaScript commands get injected through an in-app browser](https://www.reddit.com/r/javascript/comments/wsgtw1/ios_privacy_announcing_inappbrowsercom_see_what/)
+- [`markdown-to-api` A package that generates a GraphQL API from Markdown files. Use your Git repo a simple headless CMS powered by .md files. Integrates with NextJS for building static content.](https://www.reddit.com/r/javascript/comments/wsday7/markdowntoapi_a_package_that_generates_a_graphql/)
+- [Vue for interactive command-line apps](https://www.reddit.com/r/javascript/comments/ws86wo/vue_for_interactive_commandline_apps/)
+- [[AskJS] Considerations in handling errors which may be thrown from another call stack?](https://www.reddit.com/r/javascript/comments/ws3thv/askjs_considerations_in_handling_errors_which_may/)
+- [javascript ball](https://www.reddit.com/r/javascript/comments/ws3amw/javascript_ball/)
 - [How Javascript TransformStream transform strings](https://www.reddit.com/r/javascript/comments/wrvr6l/how_javascript_transformstream_transform_strings/)
-- [Testing a thing](https://www.reddit.com/r/javascript/comments/wrvoud/testing_a_thing/)
-- [The James Webb Space Telescope runs JavaScript, apparently](https://www.reddit.com/r/javascript/comments/wrtny3/the_james_webb_space_telescope_runs_javascript/)
-- [Built One-Page Swag Store Using JS-based OS Platform](https://www.reddit.com/r/javascript/comments/wrqtam/built_onepage_swag_store_using_jsbased_os_platform/)
-- [NoiseBox - a guitar amp emulator to enjoy playing your guitar and getting real amp sounds](https://www.reddit.com/r/javascript/comments/wrp5nl/noisebox_a_guitar_amp_emulator_to_enjoy_playing/)
-- [Introducing the PlanetScale serverless driver for JavaScript](https://www.reddit.com/r/javascript/comments/wro0uc/introducing_the_planetscale_serverless_driver_for/)
-- [Awesome-anti-SPA: a list of single-page app critiques](https://www.reddit.com/r/javascript/comments/wrnlx1/awesomeantispa_a_list_of_singlepage_app_critiques/)
-- [Introducing classix, a faster and smaller alternative to clsx and classnames for conditionally joining classes](https://www.reddit.com/r/javascript/comments/wrmg0x/introducing_classix_a_faster_and_smaller/)
-- [Storybook 7.0 UI now in alpha](https://www.reddit.com/r/javascript/comments/wrlh0t/storybook_70_ui_now_in_alpha/)
-- [Tired of your favorite packages being ESM-only? I created a Github Org with packages automatically transformed to ESM/CommonJS hybrids](https://www.reddit.com/r/javascript/comments/wrl0n6/tired_of_your_favorite_packages_being_esmonly_i/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
