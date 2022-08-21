@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Slonik is the best minimal Postgres driver I&#39;ve used so far](https://www.reddit.com/r/javascript/comments/wtlnj7/slonik_is_the_best_minimal_postgres_driver_ive/)
+- [Testing React-Query with Mock Service Worker](https://www.reddit.com/r/javascript/comments/wtk2qv/testing_reactquery_with_mock_service_worker/)
+- [Reduct Storage Web Console v0.4.0 has been released](https://www.reddit.com/r/javascript/comments/wtjywy/reduct_storage_web_console_v040_has_been_released/)
+- [Building a JavaScript Bundler](https://www.reddit.com/r/javascript/comments/wt9g8p/building_a_javascript_bundler/)
+- [How To Camelize Object Typing in TypeScript Without Any Library &lpar;sharing my journey&rpar;](https://www.reddit.com/r/javascript/comments/wt873y/how_to_camelize_object_typing_in_typescript/)
+- [Advanced React component composition](https://www.reddit.com/r/javascript/comments/wt686g/advanced_react_component_composition/)
+- [Showoff Saturday &lpar;August 20, 2022&rpar;](https://www.reddit.com/r/javascript/comments/wt0pjz/showoff_saturday_august_20_2022/)
 - [Format Dates without Timezone using JavaScript](https://www.reddit.com/r/javascript/comments/wssaqc/format_dates_without_timezone_using_javascript/)
 - [Deno Promises the Fastest Web Server and and NPM Imports](https://www.reddit.com/r/javascript/comments/wsrjoe/deno_promises_the_fastest_web_server_and_and_npm/)
 - [ProjectZero – Find collaborators for your next side project](https://www.reddit.com/r/javascript/comments/wsqkwi/projectzero_find_collaborators_for_your_next_side/)
-- [[AskJS] How do you create monorepo for fullstack Typescript application?](https://www.reddit.com/r/javascript/comments/wsiq0e/askjs_how_do_you_create_monorepo_for_fullstack/)
-- [iOS Privacy: Announcing InAppBrowser.com - see what JavaScript commands get injected through an in-app browser](https://www.reddit.com/r/javascript/comments/wsgtw1/ios_privacy_announcing_inappbrowsercom_see_what/)
-- [`markdown-to-api` A package that generates a GraphQL API from Markdown files. Use your Git repo a simple headless CMS powered by .md files. Integrates with NextJS for building static content.](https://www.reddit.com/r/javascript/comments/wsday7/markdowntoapi_a_package_that_generates_a_graphql/)
-- [Vue for interactive command-line apps](https://www.reddit.com/r/javascript/comments/ws86wo/vue_for_interactive_commandline_apps/)
-- [[AskJS] Considerations in handling errors which may be thrown from another call stack?](https://www.reddit.com/r/javascript/comments/ws3thv/askjs_considerations_in_handling_errors_which_may/)
-- [javascript ball](https://www.reddit.com/r/javascript/comments/ws3amw/javascript_ball/)
-- [How Javascript TransformStream transform strings](https://www.reddit.com/r/javascript/comments/wrvr6l/how_javascript_transformstream_transform_strings/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
