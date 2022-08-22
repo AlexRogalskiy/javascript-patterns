@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Slonik is the best minimal Postgres driver I&#39;ve used so far](https://www.reddit.com/r/javascript/comments/wtlnj7/slonik_is_the_best_minimal_postgres_driver_ive/)
-- [Testing React-Query with Mock Service Worker](https://www.reddit.com/r/javascript/comments/wtk2qv/testing_reactquery_with_mock_service_worker/)
-- [Reduct Storage Web Console v0.4.0 has been released](https://www.reddit.com/r/javascript/comments/wtjywy/reduct_storage_web_console_v040_has_been_released/)
-- [Building a JavaScript Bundler](https://www.reddit.com/r/javascript/comments/wt9g8p/building_a_javascript_bundler/)
-- [How To Camelize Object Typing in TypeScript Without Any Library &lpar;sharing my journey&rpar;](https://www.reddit.com/r/javascript/comments/wt873y/how_to_camelize_object_typing_in_typescript/)
-- [Advanced React component composition](https://www.reddit.com/r/javascript/comments/wt686g/advanced_react_component_composition/)
-- [Showoff Saturday &lpar;August 20, 2022&rpar;](https://www.reddit.com/r/javascript/comments/wt0pjz/showoff_saturday_august_20_2022/)
-- [Format Dates without Timezone using JavaScript](https://www.reddit.com/r/javascript/comments/wssaqc/format_dates_without_timezone_using_javascript/)
-- [Deno Promises the Fastest Web Server and and NPM Imports](https://www.reddit.com/r/javascript/comments/wsrjoe/deno_promises_the_fastest_web_server_and_and_npm/)
-- [ProjectZero – Find collaborators for your next side project](https://www.reddit.com/r/javascript/comments/wsqkwi/projectzero_find_collaborators_for_your_next_side/)
+- [[AskJS] web component frameworks](https://www.reddit.com/r/javascript/comments/wu95rd/askjs_web_component_frameworks/)
+- [Return true to win](https://www.reddit.com/r/javascript/comments/wu8vop/return_true_to_win/)
+- [ES1995: Javascript that could have been](https://www.reddit.com/r/javascript/comments/wu8int/es1995_javascript_that_could_have_been/)
+- [Top 3 USELESS JavaScript interview questions](https://www.reddit.com/r/javascript/comments/wu7xuv/top_3_useless_javascript_interview_questions/)
+- [Do you really know, what is Single Responsibility?](https://www.reddit.com/r/javascript/comments/wu7uk8/do_you_really_know_what_is_single_responsibility/)
+- [[AskJS] Any ideas for a new npm package?](https://www.reddit.com/r/javascript/comments/wu7e5p/askjs_any_ideas_for_a_new_npm_package/)
+- [Blocky editor: An editor built with blocks.](https://www.reddit.com/r/javascript/comments/wu16mf/blocky_editor_an_editor_built_with_blocks/)
+- [Testing Library Recorder is now available for Chrome! Export tests from the DevTools Recorder panel to Testing Library test scripts using Jest.](https://www.reddit.com/r/javascript/comments/wtx9pg/testing_library_recorder_is_now_available_for/)
+- [An Astro component to add tags that are relevant for search engine optimization &lpar;SEO&rpar; to your pages.](https://www.reddit.com/r/javascript/comments/wtx6tv/an_astro_component_to_add_tags_that_are_relevant/)
+- [[AskJS] need advice - 10yrs of qe to JS dev](https://www.reddit.com/r/javascript/comments/wtx1bi/askjs_need_advice_10yrs_of_qe_to_js_dev/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
