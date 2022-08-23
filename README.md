@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] web component frameworks](https://www.reddit.com/r/javascript/comments/wu95rd/askjs_web_component_frameworks/)
-- [Return true to win](https://www.reddit.com/r/javascript/comments/wu8vop/return_true_to_win/)
-- [ES1995: Javascript that could have been](https://www.reddit.com/r/javascript/comments/wu8int/es1995_javascript_that_could_have_been/)
-- [Top 3 USELESS JavaScript interview questions](https://www.reddit.com/r/javascript/comments/wu7xuv/top_3_useless_javascript_interview_questions/)
-- [Do you really know, what is Single Responsibility?](https://www.reddit.com/r/javascript/comments/wu7uk8/do_you_really_know_what_is_single_responsibility/)
-- [[AskJS] Any ideas for a new npm package?](https://www.reddit.com/r/javascript/comments/wu7e5p/askjs_any_ideas_for_a_new_npm_package/)
-- [Blocky editor: An editor built with blocks.](https://www.reddit.com/r/javascript/comments/wu16mf/blocky_editor_an_editor_built_with_blocks/)
-- [Testing Library Recorder is now available for Chrome! Export tests from the DevTools Recorder panel to Testing Library test scripts using Jest.](https://www.reddit.com/r/javascript/comments/wtx9pg/testing_library_recorder_is_now_available_for/)
-- [An Astro component to add tags that are relevant for search engine optimization &lpar;SEO&rpar; to your pages.](https://www.reddit.com/r/javascript/comments/wtx6tv/an_astro_component_to_add_tags_that_are_relevant/)
-- [[AskJS] need advice - 10yrs of qe to JS dev](https://www.reddit.com/r/javascript/comments/wtx1bi/askjs_need_advice_10yrs_of_qe_to_js_dev/)
+- [Deploying Remix apps to Kubernetes?](https://www.reddit.com/r/javascript/comments/wvatq1/deploying_remix_apps_to_kubernetes/)
+- [[AskJS] How to make storybook-static private?](https://www.reddit.com/r/javascript/comments/wv7noh/askjs_how_to_make_storybookstatic_private/)
+- [GitHub - Awesome list of web development resources As you learn, keep this list handy.](https://www.reddit.com/r/javascript/comments/wv6p2x/github_awesome_list_of_web_development_resources/)
+- [Advanced TypeScript Patterns: API Contracts](https://www.reddit.com/r/javascript/comments/wv5e0n/advanced_typescript_patterns_api_contracts/)
+- [[AskJS] JS Script for Detecting DOM Changes Between Visitors](https://www.reddit.com/r/javascript/comments/wv4wad/askjs_js_script_for_detecting_dom_changes_between/)
+- [A complete guide to react error boundaries and third-party tools for sophisticated error recovery](https://www.reddit.com/r/javascript/comments/wv100j/a_complete_guide_to_react_error_boundaries_and/)
+- [Wrote a library to run slightly advanced switch-case conditions &lpar;eg, you want to run a function in the `case` expression and run another function in the return value&rpar;](https://www.reddit.com/r/javascript/comments/wuxsud/wrote_a_library_to_run_slightly_advanced/)
+- [[AskJS] Are there any alternatives to using PHP to get and use data from a MySQL database?](https://www.reddit.com/r/javascript/comments/wuw7yy/askjs_are_there_any_alternatives_to_using_php_to/)
+- [[AskJS] What&#39;s wrong with object property access?](https://www.reddit.com/r/javascript/comments/wuw4c3/askjs_whats_wrong_with_object_property_access/)
+- [How we build Homechart&#39;s JavaScript frontend using Mithril](https://www.reddit.com/r/javascript/comments/wuvwa9/how_we_build_homecharts_javascript_frontend_using/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
