@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Deploying Remix apps to Kubernetes?](https://www.reddit.com/r/javascript/comments/wvatq1/deploying_remix_apps_to_kubernetes/)
-- [[AskJS] How to make storybook-static private?](https://www.reddit.com/r/javascript/comments/wv7noh/askjs_how_to_make_storybookstatic_private/)
-- [GitHub - Awesome list of web development resources As you learn, keep this list handy.](https://www.reddit.com/r/javascript/comments/wv6p2x/github_awesome_list_of_web_development_resources/)
-- [Advanced TypeScript Patterns: API Contracts](https://www.reddit.com/r/javascript/comments/wv5e0n/advanced_typescript_patterns_api_contracts/)
-- [[AskJS] JS Script for Detecting DOM Changes Between Visitors](https://www.reddit.com/r/javascript/comments/wv4wad/askjs_js_script_for_detecting_dom_changes_between/)
-- [A complete guide to react error boundaries and third-party tools for sophisticated error recovery](https://www.reddit.com/r/javascript/comments/wv100j/a_complete_guide_to_react_error_boundaries_and/)
-- [Wrote a library to run slightly advanced switch-case conditions &lpar;eg, you want to run a function in the `case` expression and run another function in the return value&rpar;](https://www.reddit.com/r/javascript/comments/wuxsud/wrote_a_library_to_run_slightly_advanced/)
-- [[AskJS] Are there any alternatives to using PHP to get and use data from a MySQL database?](https://www.reddit.com/r/javascript/comments/wuw7yy/askjs_are_there_any_alternatives_to_using_php_to/)
-- [[AskJS] What&#39;s wrong with object property access?](https://www.reddit.com/r/javascript/comments/wuw4c3/askjs_whats_wrong_with_object_property_access/)
-- [How we build Homechart&#39;s JavaScript frontend using Mithril](https://www.reddit.com/r/javascript/comments/wuvwa9/how_we_build_homecharts_javascript_frontend_using/)
+- [[AskJS] Is there a JavaScript library that will test all ES features on your browser and tell you which it supports and which it doesn&#39;t?](https://www.reddit.com/r/javascript/comments/ww50ny/askjs_is_there_a_javascript_library_that_will/)
+- [[AskJS] What are some of your favorite dev tools/libraries for React?](https://www.reddit.com/r/javascript/comments/ww3y5n/askjs_what_are_some_of_your_favorite_dev/)
+- [Resumability, WTF?](https://www.reddit.com/r/javascript/comments/wvz9q4/resumability_wtf/)
+- [[AskJS] Could not establish connection &lpar;Chrome Extension&rpar;](https://www.reddit.com/r/javascript/comments/wvyuin/askjs_could_not_establish_connection_chrome/)
+- [rollertoaster - a gamified discord bot for advanced task management; made using discordjs](https://www.reddit.com/r/javascript/comments/wvwlj1/rollertoaster_a_gamified_discord_bot_for_advanced/)
+- [All-in-one API documentation browser with offline mode and instant search](https://www.reddit.com/r/javascript/comments/wvu2hy/allinone_api_documentation_browser_with_offline/)
+- [[AskJS] Am I the only one that just cannot grasp how to mock in tests?](https://www.reddit.com/r/javascript/comments/wvtue4/askjs_am_i_the_only_one_that_just_cannot_grasp/)
+- [A guide to handling authentication in NextJS on Payload CMS—source code provided](https://www.reddit.com/r/javascript/comments/wvoo82/a_guide_to_handling_authentication_in_nextjs_on/)
+- [Building A Custom Google Maps Marker React Component Like Airbnb in Next.js](https://www.reddit.com/r/javascript/comments/wvnx8q/building_a_custom_google_maps_marker_react/)
+- [[AskJS] Have you ever had to use synchronous XMLHttpRequest?](https://www.reddit.com/r/javascript/comments/wvl5h7/askjs_have_you_ever_had_to_use_synchronous/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
