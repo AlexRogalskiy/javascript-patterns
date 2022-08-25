@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [doku.js: A text and document viewer with custom documentation language](https://www.reddit.com/r/javascript/comments/wwx1xt/dokujs_a_text_and_document_viewer_with_custom/)
+- [Introducing v-memo a new directive to improve your Vue 3 app performance](https://www.reddit.com/r/javascript/comments/wwwbt1/introducing_vmemo_a_new_directive_to_improve_your/)
+- [Migrating from Create React App &lpar;CRA&rpar; to Vite](https://www.reddit.com/r/javascript/comments/wwt6lp/migrating_from_create_react_app_cra_to_vite/)
+- [Realistic engineering hiring assessments - We&#39;ve looked carefully through hundreds of public repositories and ranked each of them using a 5 star scale to help you find an effective take-home assessment](https://www.reddit.com/r/javascript/comments/wwr20q/realistic_engineering_hiring_assessments_weve/)
+- [Format Dates without Timezone using JavaScript](https://www.reddit.com/r/javascript/comments/wwhvsh/format_dates_without_timezone_using_javascript/)
+- [Add controller functionality to your JavaScript game](https://www.reddit.com/r/javascript/comments/wwekqu/add_controller_functionality_to_your_javascript/)
+- [Oven: The company behind Bun gets $7m](https://www.reddit.com/r/javascript/comments/wwd11n/oven_the_company_behind_bun_gets_7m/)
+- [WTF Wednesday &lpar;August 24, 2022&rpar;](https://www.reddit.com/r/javascript/comments/wwchpn/wtf_wednesday_august_24_2022/)
+- [GitHub - mfcc64/showcqt-js: ShowCQT &lpar;Constant Q Transform&rpar; audio visualization](https://www.reddit.com/r/javascript/comments/wwbo89/github_mfcc64showcqtjs_showcqt_constant_q/)
 - [[AskJS] Is there a JavaScript library that will test all ES features on your browser and tell you which it supports and which it doesn&#39;t?](https://www.reddit.com/r/javascript/comments/ww50ny/askjs_is_there_a_javascript_library_that_will/)
-- [[AskJS] What are some of your favorite dev tools/libraries for React?](https://www.reddit.com/r/javascript/comments/ww3y5n/askjs_what_are_some_of_your_favorite_dev/)
-- [Resumability, WTF?](https://www.reddit.com/r/javascript/comments/wvz9q4/resumability_wtf/)
-- [[AskJS] Could not establish connection &lpar;Chrome Extension&rpar;](https://www.reddit.com/r/javascript/comments/wvyuin/askjs_could_not_establish_connection_chrome/)
-- [rollertoaster - a gamified discord bot for advanced task management; made using discordjs](https://www.reddit.com/r/javascript/comments/wvwlj1/rollertoaster_a_gamified_discord_bot_for_advanced/)
-- [All-in-one API documentation browser with offline mode and instant search](https://www.reddit.com/r/javascript/comments/wvu2hy/allinone_api_documentation_browser_with_offline/)
-- [[AskJS] Am I the only one that just cannot grasp how to mock in tests?](https://www.reddit.com/r/javascript/comments/wvtue4/askjs_am_i_the_only_one_that_just_cannot_grasp/)
-- [A guide to handling authentication in NextJS on Payload CMS—source code provided](https://www.reddit.com/r/javascript/comments/wvoo82/a_guide_to_handling_authentication_in_nextjs_on/)
-- [Building A Custom Google Maps Marker React Component Like Airbnb in Next.js](https://www.reddit.com/r/javascript/comments/wvnx8q/building_a_custom_google_maps_marker_react/)
-- [[AskJS] Have you ever had to use synchronous XMLHttpRequest?](https://www.reddit.com/r/javascript/comments/wvl5h7/askjs_have_you_ever_had_to_use_synchronous/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
