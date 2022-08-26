@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [doku.js: A text and document viewer with custom documentation language](https://www.reddit.com/r/javascript/comments/wwx1xt/dokujs_a_text_and_document_viewer_with_custom/)
-- [Introducing v-memo a new directive to improve your Vue 3 app performance](https://www.reddit.com/r/javascript/comments/wwwbt1/introducing_vmemo_a_new_directive_to_improve_your/)
-- [Migrating from Create React App &lpar;CRA&rpar; to Vite](https://www.reddit.com/r/javascript/comments/wwt6lp/migrating_from_create_react_app_cra_to_vite/)
-- [Realistic engineering hiring assessments - We&#39;ve looked carefully through hundreds of public repositories and ranked each of them using a 5 star scale to help you find an effective take-home assessment](https://www.reddit.com/r/javascript/comments/wwr20q/realistic_engineering_hiring_assessments_weve/)
-- [Format Dates without Timezone using JavaScript](https://www.reddit.com/r/javascript/comments/wwhvsh/format_dates_without_timezone_using_javascript/)
-- [Add controller functionality to your JavaScript game](https://www.reddit.com/r/javascript/comments/wwekqu/add_controller_functionality_to_your_javascript/)
-- [Oven: The company behind Bun gets $7m](https://www.reddit.com/r/javascript/comments/wwd11n/oven_the_company_behind_bun_gets_7m/)
-- [WTF Wednesday &lpar;August 24, 2022&rpar;](https://www.reddit.com/r/javascript/comments/wwchpn/wtf_wednesday_august_24_2022/)
-- [GitHub - mfcc64/showcqt-js: ShowCQT &lpar;Constant Q Transform&rpar; audio visualization](https://www.reddit.com/r/javascript/comments/wwbo89/github_mfcc64showcqtjs_showcqt_constant_q/)
-- [[AskJS] Is there a JavaScript library that will test all ES features on your browser and tell you which it supports and which it doesn&#39;t?](https://www.reddit.com/r/javascript/comments/ww50ny/askjs_is_there_a_javascript_library_that_will/)
+- [Deno 1.25 Release Notes | deno init, experimental npm support, new builtin HTTP server](https://www.reddit.com/r/javascript/comments/wxu63e/deno_125_release_notes_deno_init_experimental_npm/)
+- [Announcing TypeScript 4.8](https://www.reddit.com/r/javascript/comments/wxsoiz/announcing_typescript_48/)
+- [Choosing a JavaScript UI framework in Oak&#39;s lab, because it&#39;s basically the same as choosing a Pokemon starter](https://www.reddit.com/r/javascript/comments/wxrm7m/choosing_a_javascript_ui_framework_in_oaks_lab/)
+- [[AskJS] When it&#39;s time to migrate away from CommonJS](https://www.reddit.com/r/javascript/comments/wxq4lz/askjs_when_its_time_to_migrate_away_from_commonjs/)
+- [Implementing setTimeout, but with Promises](https://www.reddit.com/r/javascript/comments/wxmadj/implementing_settimeout_but_with_promises/)
+- [pico.js, a face-detection library in 200 lines of JavaScript](https://www.reddit.com/r/javascript/comments/wxj2b3/picojs_a_facedetection_library_in_200_lines_of/)
+- [Talk: Future Features of JS?!](https://www.reddit.com/r/javascript/comments/wxiunj/talk_future_features_of_js/)
+- [The implementation of the Picture-in-Picture api using vanilla JS](https://www.reddit.com/r/javascript/comments/wxhrk0/the_implementation_of_the_pictureinpicture_api/)
+- [Lovindevs is a website that allows JavaScript or FrontEnd developers to find their next gig easily](https://www.reddit.com/r/javascript/comments/wxhnl3/lovindevs_is_a_website_that_allows_javascript_or/)
+- [[AskJS] Is there any JS library to run tests directly in the browser&#39;s console ?](https://www.reddit.com/r/javascript/comments/wxhgas/askjs_is_there_any_js_library_to_run_tests/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
