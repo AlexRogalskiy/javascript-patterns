@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [What is JSON? The universal data format](https://www.infoworld.com/article/3222851/what-is-json-a-better-format-for-data-exchange.html#tk.rss_javascript)
 - [Intro to Astro: Clever lazy loading for JavaScript](https://www.infoworld.com/article/3669877/intro-to-astro-clever-lazy-loading-for-javascript.html#tk.rss_javascript)
 - [Deno tees up easy NPM imports, speed boosts](https://www.infoworld.com/article/3670634/deno-tees-up-easy-npm-imports-speed-boosts.html#tk.rss_javascript)
 - [TypeScript 4.8 shines on intersection and union types](https://www.infoworld.com/article/3664928/typescript-48-fixes-file-watching-on-linux-macos.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Better type checking and more in Deno 1.24](https://www.infoworld.com/article/3668198/better-type-checking-and-more-in-deno-124.html#tk.rss_javascript)
 - [8 new JavaScript features to start using today](https://www.infoworld.com/article/3665748/8-new-javascript-features-to-start-using-today.html#tk.rss_javascript)
 - [How to deploy with Vercel and MongoDB Atlas without even trying](https://www.infoworld.com/article/3664936/how-to-deploy-with-vercel-and-mongodb-atlas-without-even-trying.html#tk.rss_javascript)
-- [Ecma unveils more permissive JavaScript license](https://www.infoworld.com/article/3664940/ecma-unveils-more-permissive-javascript-license.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
