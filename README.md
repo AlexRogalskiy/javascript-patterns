@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Deno 1.25 Release Notes | deno init, experimental npm support, new builtin HTTP server](https://www.reddit.com/r/javascript/comments/wxu63e/deno_125_release_notes_deno_init_experimental_npm/)
-- [Announcing TypeScript 4.8](https://www.reddit.com/r/javascript/comments/wxsoiz/announcing_typescript_48/)
-- [Choosing a JavaScript UI framework in Oak&#39;s lab, because it&#39;s basically the same as choosing a Pokemon starter](https://www.reddit.com/r/javascript/comments/wxrm7m/choosing_a_javascript_ui_framework_in_oaks_lab/)
-- [[AskJS] When it&#39;s time to migrate away from CommonJS](https://www.reddit.com/r/javascript/comments/wxq4lz/askjs_when_its_time_to_migrate_away_from_commonjs/)
-- [Implementing setTimeout, but with Promises](https://www.reddit.com/r/javascript/comments/wxmadj/implementing_settimeout_but_with_promises/)
-- [pico.js, a face-detection library in 200 lines of JavaScript](https://www.reddit.com/r/javascript/comments/wxj2b3/picojs_a_facedetection_library_in_200_lines_of/)
-- [Talk: Future Features of JS?!](https://www.reddit.com/r/javascript/comments/wxiunj/talk_future_features_of_js/)
-- [The implementation of the Picture-in-Picture api using vanilla JS](https://www.reddit.com/r/javascript/comments/wxhrk0/the_implementation_of_the_pictureinpicture_api/)
-- [Lovindevs is a website that allows JavaScript or FrontEnd developers to find their next gig easily](https://www.reddit.com/r/javascript/comments/wxhnl3/lovindevs_is_a_website_that_allows_javascript_or/)
-- [[AskJS] Is there any JS library to run tests directly in the browser&#39;s console ?](https://www.reddit.com/r/javascript/comments/wxhgas/askjs_is_there_any_js_library_to_run_tests/)
+- [Hello, I would like to get feedback from developers about my nodejs micro framework for creating WhatsApp chatbots. They can open issues or send PR. For those who are interested, here is the repository. I await your reactions!](https://www.reddit.com/r/javascript/comments/wyljno/hello_i_would_like_to_get_feedback_from/)
+- [Still doing ‘npm init’? You’re missing out on Brazilian waifus](https://www.reddit.com/r/javascript/comments/wyiqss/still_doing_npm_init_youre_missing_out_on/)
+- [Github Timeline Generator](https://www.reddit.com/r/javascript/comments/wyhn7r/github_timeline_generator/)
+- [Optimizing Images with the Angular Image Directive - The directive was recently released for developer preview as part of Angular v14.2. This post talks about how the new image directive, NgOptimizedImage, supports image optimization in Angular](https://www.reddit.com/r/javascript/comments/wygjh6/optimizing_images_with_the_angular_image/)
+- [Fine-tune transformers models and run in JavaScript with ONNX](https://www.reddit.com/r/javascript/comments/wyaodl/finetune_transformers_models_and_run_in/)
+- [MDN dropped IE compatibility data from their site](https://www.reddit.com/r/javascript/comments/wy8k84/mdn_dropped_ie_compatibility_data_from_their_site/)
+- [[AskJS] How to get production experience as a full stack JS developer?](https://www.reddit.com/r/javascript/comments/wy8dtr/askjs_how_to_get_production_experience_as_a_full/)
+- [GitHub - second-state/wasmedge-quickjs: A high-performance, secure, extensible, and OCI-complaint JavaScript runtime for WasmEdge.](https://www.reddit.com/r/javascript/comments/wy5ytz/github_secondstatewasmedgequickjs_a/)
+- [Improving performance using WebAssembly SIMD Intrinsics](https://www.reddit.com/r/javascript/comments/wy5e83/improving_performance_using_webassembly_simd/)
+- [Should You Use A ClassName Prop?](https://www.reddit.com/r/javascript/comments/wy46cd/should_you_use_a_classname_prop/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
