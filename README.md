@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What are Arrays? - Part II](https://www.reddit.com/r/javascript/comments/wzktqa/what_are_arrays_part_ii/)
+- [A site I made about my complaints with the Deno runtime. Would love some constructive criticism or additional points.](https://www.reddit.com/r/javascript/comments/wzkoye/a_site_i_made_about_my_complaints_with_the_deno/)
+- [Understanding Dependency Injection](https://www.reddit.com/r/javascript/comments/wzey80/understanding_dependency_injection/)
+- [Deploying NodeJS and MongoDb application on AWS EC2](https://www.reddit.com/r/javascript/comments/wz8ok2/deploying_nodejs_and_mongodb_application_on_aws/)
+- [I implemented the DOOM Fire in 3D/Voxels with JavaScript](https://www.reddit.com/r/javascript/comments/wz4rww/i_implemented_the_doom_fire_in_3dvoxels_with/)
+- [Understand the underlying Javascript - event loop](https://www.reddit.com/r/javascript/comments/wz3fg3/understand_the_underlying_javascript_event_loop/)
+- [Why you need documentation for your GraphQL API &lpar;more than you think&rpar;](https://www.reddit.com/r/javascript/comments/wyyjql/why_you_need_documentation_for_your_graphql_api/)
+- [Showoff Saturday &lpar;August 27, 2022&rpar;](https://www.reddit.com/r/javascript/comments/wyw3u3/showoff_saturday_august_27_2022/)
+- [[AskJS] TOP CrossPlatform Framework](https://www.reddit.com/r/javascript/comments/wyw12h/askjs_top_crossplatform_framework/)
 - [Hello, I would like to get feedback from developers about my nodejs micro framework for creating WhatsApp chatbots. They can open issues or send PR. For those who are interested, here is the repository. I await your reactions!](https://www.reddit.com/r/javascript/comments/wyljno/hello_i_would_like_to_get_feedback_from/)
-- [Still doing ‘npm init’? You’re missing out on Brazilian waifus](https://www.reddit.com/r/javascript/comments/wyiqss/still_doing_npm_init_youre_missing_out_on/)
-- [Github Timeline Generator](https://www.reddit.com/r/javascript/comments/wyhn7r/github_timeline_generator/)
-- [Optimizing Images with the Angular Image Directive - The directive was recently released for developer preview as part of Angular v14.2. This post talks about how the new image directive, NgOptimizedImage, supports image optimization in Angular](https://www.reddit.com/r/javascript/comments/wygjh6/optimizing_images_with_the_angular_image/)
-- [Fine-tune transformers models and run in JavaScript with ONNX](https://www.reddit.com/r/javascript/comments/wyaodl/finetune_transformers_models_and_run_in/)
-- [MDN dropped IE compatibility data from their site](https://www.reddit.com/r/javascript/comments/wy8k84/mdn_dropped_ie_compatibility_data_from_their_site/)
-- [[AskJS] How to get production experience as a full stack JS developer?](https://www.reddit.com/r/javascript/comments/wy8dtr/askjs_how_to_get_production_experience_as_a_full/)
-- [GitHub - second-state/wasmedge-quickjs: A high-performance, secure, extensible, and OCI-complaint JavaScript runtime for WasmEdge.](https://www.reddit.com/r/javascript/comments/wy5ytz/github_secondstatewasmedgequickjs_a/)
-- [Improving performance using WebAssembly SIMD Intrinsics](https://www.reddit.com/r/javascript/comments/wy5e83/improving_performance_using_webassembly_simd/)
-- [Should You Use A ClassName Prop?](https://www.reddit.com/r/javascript/comments/wy46cd/should_you_use_a_classname_prop/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
