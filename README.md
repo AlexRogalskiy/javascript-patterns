@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What are Arrays? - Part II](https://www.reddit.com/r/javascript/comments/wzktqa/what_are_arrays_part_ii/)
-- [A site I made about my complaints with the Deno runtime. Would love some constructive criticism or additional points.](https://www.reddit.com/r/javascript/comments/wzkoye/a_site_i_made_about_my_complaints_with_the_deno/)
-- [Understanding Dependency Injection](https://www.reddit.com/r/javascript/comments/wzey80/understanding_dependency_injection/)
-- [Deploying NodeJS and MongoDb application on AWS EC2](https://www.reddit.com/r/javascript/comments/wz8ok2/deploying_nodejs_and_mongodb_application_on_aws/)
-- [I implemented the DOOM Fire in 3D/Voxels with JavaScript](https://www.reddit.com/r/javascript/comments/wz4rww/i_implemented_the_doom_fire_in_3dvoxels_with/)
-- [Understand the underlying Javascript - event loop](https://www.reddit.com/r/javascript/comments/wz3fg3/understand_the_underlying_javascript_event_loop/)
-- [Why you need documentation for your GraphQL API &lpar;more than you think&rpar;](https://www.reddit.com/r/javascript/comments/wyyjql/why_you_need_documentation_for_your_graphql_api/)
-- [Showoff Saturday &lpar;August 27, 2022&rpar;](https://www.reddit.com/r/javascript/comments/wyw3u3/showoff_saturday_august_27_2022/)
-- [[AskJS] TOP CrossPlatform Framework](https://www.reddit.com/r/javascript/comments/wyw12h/askjs_top_crossplatform_framework/)
-- [Hello, I would like to get feedback from developers about my nodejs micro framework for creating WhatsApp chatbots. They can open issues or send PR. For those who are interested, here is the repository. I await your reactions!](https://www.reddit.com/r/javascript/comments/wyljno/hello_i_would_like_to_get_feedback_from/)
+- [[AskJS] Convert all existing string quote concatenation to Template Literal?](https://www.reddit.com/r/javascript/comments/x0aan9/askjs_convert_all_existing_string_quote/)
+- [[AskJS] Twitter themed Medium like blog Publishing website. Does it look good or too over the top?](https://www.reddit.com/r/javascript/comments/x09xgf/askjs_twitter_themed_medium_like_blog_publishing/)
+- [I made this &quot;To Do&quot; App - what&#39;s your thoughts on this ?](https://www.reddit.com/r/javascript/comments/x05jdq/i_made_this_to_do_app_whats_your_thoughts_on_this/)
+- [An Intuition for Lisp Syntax &lpar;in Javascript&rpar;](https://www.reddit.com/r/javascript/comments/x027oy/an_intuition_for_lisp_syntax_in_javascript/)
+- [[AskJS] What architectural patterns do you use most often in frontend development?](https://www.reddit.com/r/javascript/comments/x01stg/askjs_what_architectural_patterns_do_you_use_most/)
+- [Derive-Type: Automatically Generate TypeScript Definitions](https://www.reddit.com/r/javascript/comments/wzx52i/derivetype_automatically_generate_typescript/)
+- [I created a platform where users can share code examples and receive feedback in form of refactored versions of it.](https://www.reddit.com/r/javascript/comments/wzx2et/i_created_a_platform_where_users_can_share_code/)
+- [I&#39;m building a Javascript confetti generator](https://www.reddit.com/r/javascript/comments/wzuu2l/im_building_a_javascript_confetti_generator/)
+- [Record interactive coding tutorials in GSAP, Liqvid, and Remotion](https://www.reddit.com/r/javascript/comments/wzryx1/record_interactive_coding_tutorials_in_gsap/)
+- [MessagePipe - light &amp; fast message formatter](https://www.reddit.com/r/javascript/comments/wzqrfz/messagepipe_light_fast_message_formatter/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
