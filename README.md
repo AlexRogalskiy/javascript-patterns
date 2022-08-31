@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Sandbox for markov text generator](https://www.reddit.com/r/javascript/comments/x1857u/sandbox_for_markov_text_generator/)
+- [React-Query useMutation with Jest Testing](https://www.reddit.com/r/javascript/comments/x1y0xz/reactquery_usemutation_with_jest_testing/)
+- [Linked list in Javascript](https://www.reddit.com/r/javascript/comments/x1xj23/linked_list_in_javascript/)
+- [GitHub-Workflow-Runner: Trigger / run GitHub Actions from a self-hosted web page with pure JavaScript.](https://www.reddit.com/r/javascript/comments/x1wp1k/githubworkflowrunner_trigger_run_github_actions/)
+- [ES2022 Features!](https://www.reddit.com/r/javascript/comments/x1rfg8/es2022_features/)
+- [[AskJS] Did anyone here took a Coursera course and survive to share feedback?](https://www.reddit.com/r/javascript/comments/x1r83x/askjs_did_anyone_here_took_a_coursera_course_and/)
+- [[AskJS] Any head start to make a Geo Map that shows a population of a country when the mouse is hovered over it.](https://www.reddit.com/r/javascript/comments/x1pcfy/askjs_any_head_start_to_make_a_geo_map_that_shows/)
+- [On uniforms v4.0](https://www.reddit.com/r/javascript/comments/x1hfiw/on_uniforms_v40/)
+- [Multi dispatch Set operations by `key` or `&lpar;key, value&rpar;` over `Set`, `Arr`, `PairArr`, `Map`, `Obj` and more](https://www.reddit.com/r/javascript/comments/x1cmfz/multi_dispatch_set_operations_by_key_or_key_value/)
 - [Building an aircraft radar system in JavaScript](https://www.reddit.com/r/javascript/comments/x12b27/building_an_aircraft_radar_system_in_javascript/)
-- [Merging two GitHub repositories without losing commit history](https://www.reddit.com/r/javascript/comments/x0zehz/merging_two_github_repositories_without_losing/)
 - [I made a CLI tool to verify the presence of env vars before running a process &lpar;uses .env.example&rpar;](https://www.reddit.com/r/javascript/comments/x0upxu/i_made_a_cli_tool_to_verify_the_presence_of_env/)
-- [GridSound - a work-in-progress open-source digital audio workstation developed with HTML5 and more precisely with the new Web Audio API](https://www.reddit.com/r/javascript/comments/x0ubsd/gridsound_a_workinprogress_opensource_digital/)
-- [[AskJS] Why are we preaching entrypoint files?](https://www.reddit.com/r/javascript/comments/x0u7da/askjs_why_are_we_preaching_entrypoint_files/)
-- [Web pages can overwrite your system clipboard without your knowledge](https://www.reddit.com/r/javascript/comments/x0tt40/web_pages_can_overwrite_your_system_clipboard/)
-- [GitHub - DgrmJS is a JavaScript library for creating SVG flow diagrams. The main goal of the library is to set up workflows in BPM &lpar;Business Process Management&rpar; systems. Works on desktop and mobile, has no dependency, 3.5 KB gzipped.](https://www.reddit.com/r/javascript/comments/x0lizg/github_dgrmjs_is_a_javascript_library_for/)
-- [Your /r/javascript recap for the week of August 22 - August 28](https://www.reddit.com/r/javascript/comments/x0k02j/your_rjavascript_recap_for_the_week_of_august_22/)
-- [[AskJS] Looking for UI visual editor?](https://www.reddit.com/r/javascript/comments/x0hk0g/askjs_looking_for_ui_visual_editor/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
