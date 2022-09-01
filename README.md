@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [React-Query useMutation with Jest Testing](https://www.reddit.com/r/javascript/comments/x1y0xz/reactquery_usemutation_with_jest_testing/)
-- [Linked list in Javascript](https://www.reddit.com/r/javascript/comments/x1xj23/linked_list_in_javascript/)
-- [GitHub-Workflow-Runner: Trigger / run GitHub Actions from a self-hosted web page with pure JavaScript.](https://www.reddit.com/r/javascript/comments/x1wp1k/githubworkflowrunner_trigger_run_github_actions/)
-- [ES2022 Features!](https://www.reddit.com/r/javascript/comments/x1rfg8/es2022_features/)
-- [[AskJS] Did anyone here took a Coursera course and survive to share feedback?](https://www.reddit.com/r/javascript/comments/x1r83x/askjs_did_anyone_here_took_a_coursera_course_and/)
-- [[AskJS] Any head start to make a Geo Map that shows a population of a country when the mouse is hovered over it.](https://www.reddit.com/r/javascript/comments/x1pcfy/askjs_any_head_start_to_make_a_geo_map_that_shows/)
-- [On uniforms v4.0](https://www.reddit.com/r/javascript/comments/x1hfiw/on_uniforms_v40/)
-- [Multi dispatch Set operations by `key` or `&lpar;key, value&rpar;` over `Set`, `Arr`, `PairArr`, `Map`, `Obj` and more](https://www.reddit.com/r/javascript/comments/x1cmfz/multi_dispatch_set_operations_by_key_or_key_value/)
-- [Building an aircraft radar system in JavaScript](https://www.reddit.com/r/javascript/comments/x12b27/building_an_aircraft_radar_system_in_javascript/)
-- [I made a CLI tool to verify the presence of env vars before running a process &lpar;uses .env.example&rpar;](https://www.reddit.com/r/javascript/comments/x0upxu/i_made_a_cli_tool_to_verify_the_presence_of_env/)
+- [Stacks in Javascript](https://www.reddit.com/r/javascript/comments/x2u9a3/stacks_in_javascript/)
+- [Deprecating and removing Web SQL](https://www.reddit.com/r/javascript/comments/x2nbh3/deprecating_and_removing_web_sql/)
+- [[Tutorial]: How to build a chrome extension using TDD?](https://www.reddit.com/r/javascript/comments/x2lzuw/tutorial_how_to_build_a_chrome_extension_using_tdd/)
+- [[AskJS] Millionjs claim of 11x performance increase may not be valid after all. Looking for verification](https://www.reddit.com/r/javascript/comments/x2iwim/askjs_millionjs_claim_of_11x_performance_increase/)
+- [I&#39;ve made an UDP packet analysis tool](https://www.reddit.com/r/javascript/comments/x2gowc/ive_made_an_udp_packet_analysis_tool/)
+- [[AskJS] When did W3Schools&#39; reputation change?](https://www.reddit.com/r/javascript/comments/x2g6ky/askjs_when_did_w3schools_reputation_change/)
+- [Data Structure Sketches &lpar;with the links to JS code examples&rpar;](https://www.reddit.com/r/javascript/comments/x2f99p/data_structure_sketches_with_the_links_to_js_code/)
+- [I Made An Open Source Blockchain Automation Platform &lpar;99.6% Typescript&rpar;](https://www.reddit.com/r/javascript/comments/x2emrv/i_made_an_open_source_blockchain_automation/)
+- [Ree.js - A &quot;no build required&quot; framework!](https://www.reddit.com/r/javascript/comments/x2c62y/reejs_a_no_build_required_framework/)
+- [Uncino: Fast, tiny and solid hooks system for Javascript and NodeJS](https://www.reddit.com/r/javascript/comments/x2absj/uncino_fast_tiny_and_solid_hooks_system_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
