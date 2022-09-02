@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Stacks in Javascript](https://www.reddit.com/r/javascript/comments/x2u9a3/stacks_in_javascript/)
-- [Deprecating and removing Web SQL](https://www.reddit.com/r/javascript/comments/x2nbh3/deprecating_and_removing_web_sql/)
-- [[Tutorial]: How to build a chrome extension using TDD?](https://www.reddit.com/r/javascript/comments/x2lzuw/tutorial_how_to_build_a_chrome_extension_using_tdd/)
-- [[AskJS] Millionjs claim of 11x performance increase may not be valid after all. Looking for verification](https://www.reddit.com/r/javascript/comments/x2iwim/askjs_millionjs_claim_of_11x_performance_increase/)
-- [I&#39;ve made an UDP packet analysis tool](https://www.reddit.com/r/javascript/comments/x2gowc/ive_made_an_udp_packet_analysis_tool/)
-- [[AskJS] When did W3Schools&#39; reputation change?](https://www.reddit.com/r/javascript/comments/x2g6ky/askjs_when_did_w3schools_reputation_change/)
-- [Data Structure Sketches &lpar;with the links to JS code examples&rpar;](https://www.reddit.com/r/javascript/comments/x2f99p/data_structure_sketches_with_the_links_to_js_code/)
-- [I Made An Open Source Blockchain Automation Platform &lpar;99.6% Typescript&rpar;](https://www.reddit.com/r/javascript/comments/x2emrv/i_made_an_open_source_blockchain_automation/)
-- [Ree.js - A &quot;no build required&quot; framework!](https://www.reddit.com/r/javascript/comments/x2c62y/reejs_a_no_build_required_framework/)
-- [Uncino: Fast, tiny and solid hooks system for Javascript and NodeJS](https://www.reddit.com/r/javascript/comments/x2absj/uncino_fast_tiny_and_solid_hooks_system_for/)
+- [El.js — Tiny alternative to React / Vue / lit-element](https://www.reddit.com/r/javascript/comments/x3q1vc/eljs_tiny_alternative_to_react_vue_litelement/)
+- [Scriptor.js: A JavaScript Library for building custom text editors with ease](https://www.reddit.com/r/javascript/comments/x3phar/scriptorjs_a_javascript_library_for_building/)
+- [GitHub - inovartecontato/Natural-Language-Interpreter: Simple implementation of natural language interpreter in Javascript.](https://www.reddit.com/r/javascript/comments/x3mjmd/github_inovartecontatonaturallanguageinterpreter/)
+- [[AskJS] Why are there so many jQuery haters out there?](https://www.reddit.com/r/javascript/comments/x3lwkx/askjs_why_are_there_so_many_jquery_haters_out/)
+- [Enhance, a new web standards based framework](https://www.reddit.com/r/javascript/comments/x3j8b5/enhance_a_new_web_standards_based_framework/)
+- [Framer Motion examples for React animations](https://www.reddit.com/r/javascript/comments/x3itqq/framer_motion_examples_for_react_animations/)
+- [Default Exports in JavaScript Modules Are Terrible](https://www.reddit.com/r/javascript/comments/x3hsov/default_exports_in_javascript_modules_are_terrible/)
+- [Hyper Fetch - opinionated fetching framework, async storage with persistance possibilities for both - requests and cache.](https://www.reddit.com/r/javascript/comments/x3he8r/hyper_fetch_opinionated_fetching_framework_async/)
+- [Visual Studio Code August 2022](https://www.reddit.com/r/javascript/comments/x3e1n9/visual_studio_code_august_2022/)
+- [Why Storybook in 2022?](https://www.reddit.com/r/javascript/comments/x3dshr/why_storybook_in_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
