@@ -381,6 +381,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *NodeSource posts*
 
 <!-- NODESOURCE-POST-LIST:START -->
+- [Low cost IoT device monitoring with Node.js](https://nodesource.com/blog/Low-cost-IoT-device-monitoring-with-Nodejs)
+- [Announcing N|Solid v4.8.1](https://nodesource.com/blog/announcing-NSolid-version-4.8.1)
 - [Distributed Tracing Support in N|Solid [10/10] The best APM for Node, layer by layer.](https://nodesource.com/blog/NSolid-Distributed-Tracing)
 - [Announcing N|Solid 4.8.0](https://nodesource.com/blog/announcing-NSolid-version-4.8.0)
 - [Global Alerts &amp; Integrations in N|Solid [9/10] The best APM for Node, layer by layer.](https://nodesource.com/blog/NSolid-Global-Alerts-&-Integrations)
@@ -389,8 +391,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Worker Threads Monitoring in N|Solid [6/10] The best APM for Node, layer by layer.](https://nodesource.com/blog/NSolid-Worker-Threads-Monitoring)
 - [Memory Anomaly Detection in N|Solid [5/10] The best APM for Node, layer by layer](https://nodesource.com/blog/NSolid-Memory-Anomaly-Detection)
 - [HTTP Tracing in N|Solid [4/10] The best APM for Node, layer by layer](https://nodesource.com/blog/NSolid-Distributed-HTTP-Tracing)
-- [CPU Profiling in N|Solid [3/10] The best APM for Node, layer by layer](https://nodesource.com/blog/NSolid-CPU-Profiling)
-- [Process Monitoring in N|Solid [2/10] The best APM for Node, layer by layer.](https://nodesource.com/blog/NSolid-Process-Monitoring)
 <!-- NODESOURCE-POST-LIST:END -->
 
 ### *React Native posts*
