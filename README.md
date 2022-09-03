@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Node-Flyway: Apply version control to databases from within a Node.js application](https://www.reddit.com/r/javascript/comments/x499mn/nodeflyway_apply_version_control_to_databases/)
+- [Lightweight Availability/Bookings Calendar Built with React &amp; TypeScript](https://www.reddit.com/r/javascript/comments/x48g91/lightweight_availabilitybookings_calendar_built/)
+- [whyframe - a simple primitive to develop components in isolation](https://www.reddit.com/r/javascript/comments/x46u73/whyframe_a_simple_primitive_to_develop_components/)
+- [Announcing Next.js Conf on October 25](https://www.reddit.com/r/javascript/comments/x45xdk/announcing_nextjs_conf_on_october_25/)
+- [Queues in Javascript](https://www.reddit.com/r/javascript/comments/x45gza/queues_in_javascript/)
+- [Visualize active fires around the world with Javascript](https://www.reddit.com/r/javascript/comments/x3zsrc/visualize_active_fires_around_the_world_with/)
+- [Astro, React and SolidJS Dancing Together](https://www.reddit.com/r/javascript/comments/x3xrvb/astro_react_and_solidjs_dancing_together/)
+- [A tool that identifies NPM libraries inside production Webpack bundle by entering a website URL](https://www.reddit.com/r/javascript/comments/x3vrfl/a_tool_that_identifies_npm_libraries_inside/)
+- [[AskJS] How do you guys make money with JavaScript projects &lpar;except being an employee or freelancer&rpar;?](https://www.reddit.com/r/javascript/comments/x3rr0f/askjs_how_do_you_guys_make_money_with_javascript/)
 - [El.js — Tiny alternative to React / Vue / lit-element](https://www.reddit.com/r/javascript/comments/x3q1vc/eljs_tiny_alternative_to_react_vue_litelement/)
-- [Scriptor.js: A JavaScript Library for building custom text editors with ease](https://www.reddit.com/r/javascript/comments/x3phar/scriptorjs_a_javascript_library_for_building/)
-- [GitHub - inovartecontato/Natural-Language-Interpreter: Simple implementation of natural language interpreter in Javascript.](https://www.reddit.com/r/javascript/comments/x3mjmd/github_inovartecontatonaturallanguageinterpreter/)
-- [[AskJS] Why are there so many jQuery haters out there?](https://www.reddit.com/r/javascript/comments/x3lwkx/askjs_why_are_there_so_many_jquery_haters_out/)
-- [Enhance, a new web standards based framework](https://www.reddit.com/r/javascript/comments/x3j8b5/enhance_a_new_web_standards_based_framework/)
-- [Framer Motion examples for React animations](https://www.reddit.com/r/javascript/comments/x3itqq/framer_motion_examples_for_react_animations/)
-- [Default Exports in JavaScript Modules Are Terrible](https://www.reddit.com/r/javascript/comments/x3hsov/default_exports_in_javascript_modules_are_terrible/)
-- [Hyper Fetch - opinionated fetching framework, async storage with persistance possibilities for both - requests and cache.](https://www.reddit.com/r/javascript/comments/x3he8r/hyper_fetch_opinionated_fetching_framework_async/)
-- [Visual Studio Code August 2022](https://www.reddit.com/r/javascript/comments/x3e1n9/visual_studio_code_august_2022/)
-- [Why Storybook in 2022?](https://www.reddit.com/r/javascript/comments/x3dshr/why_storybook_in_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
