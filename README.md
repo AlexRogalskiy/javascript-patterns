@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Node-Flyway: Apply version control to databases from within a Node.js application](https://www.reddit.com/r/javascript/comments/x499mn/nodeflyway_apply_version_control_to_databases/)
-- [Lightweight Availability/Bookings Calendar Built with React &amp; TypeScript](https://www.reddit.com/r/javascript/comments/x48g91/lightweight_availabilitybookings_calendar_built/)
-- [whyframe - a simple primitive to develop components in isolation](https://www.reddit.com/r/javascript/comments/x46u73/whyframe_a_simple_primitive_to_develop_components/)
-- [Announcing Next.js Conf on October 25](https://www.reddit.com/r/javascript/comments/x45xdk/announcing_nextjs_conf_on_october_25/)
-- [Queues in Javascript](https://www.reddit.com/r/javascript/comments/x45gza/queues_in_javascript/)
-- [Visualize active fires around the world with Javascript](https://www.reddit.com/r/javascript/comments/x3zsrc/visualize_active_fires_around_the_world_with/)
-- [Astro, React and SolidJS Dancing Together](https://www.reddit.com/r/javascript/comments/x3xrvb/astro_react_and_solidjs_dancing_together/)
-- [A tool that identifies NPM libraries inside production Webpack bundle by entering a website URL](https://www.reddit.com/r/javascript/comments/x3vrfl/a_tool_that_identifies_npm_libraries_inside/)
-- [[AskJS] How do you guys make money with JavaScript projects &lpar;except being an employee or freelancer&rpar;?](https://www.reddit.com/r/javascript/comments/x3rr0f/askjs_how_do_you_guys_make_money_with_javascript/)
-- [El.js — Tiny alternative to React / Vue / lit-element](https://www.reddit.com/r/javascript/comments/x3q1vc/eljs_tiny_alternative_to_react_vue_litelement/)
+- [[AskJS] Is there an npm audit command that will only show vulnerabilities for *invoked functions* in your code?](https://www.reddit.com/r/javascript/comments/x5asv6/askjs_is_there_an_npm_audit_command_that_will/)
+- [[AskJS] Why does this not work as a &quot;async/await&quot; alternative?](https://www.reddit.com/r/javascript/comments/x5a0f7/askjs_why_does_this_not_work_as_a_asyncawait/)
+- [An Insanely small plugin extendable, reactive element template library with optional component based syntax that can also double as JQuery Alternative.](https://www.reddit.com/r/javascript/comments/x54k56/an_insanely_small_plugin_extendable_reactive/)
+- [[AskJS] Any alternatives to toast.log for observing console errors and logs?](https://www.reddit.com/r/javascript/comments/x540dn/askjs_any_alternatives_to_toastlog_for_observing/)
+- [[AskJS] Difference between Strapi and sanity.io](https://www.reddit.com/r/javascript/comments/x50yim/askjs_difference_between_strapi_and_sanityio/)
+- [[AskJS] Which newer/better alternative to Grunt?](https://www.reddit.com/r/javascript/comments/x4uuj5/askjs_which_newerbetter_alternative_to_grunt/)
+- [Performance tips for nextjs app](https://www.reddit.com/r/javascript/comments/x4tms3/performance_tips_for_nextjs_app/)
+- [[AskJS] How do you handle i18n in your applications? [survey]](https://www.reddit.com/r/javascript/comments/x4pc0k/askjs_how_do_you_handle_i18n_in_your_applications/)
+- [Showoff Saturday &lpar;September 03, 2022&rpar;](https://www.reddit.com/r/javascript/comments/x4o0po/showoff_saturday_september_03_2022/)
+- [A webpack loader for Storybook.js mono-repos to automatically include current package information](https://www.reddit.com/r/javascript/comments/x4mjtr/a_webpack_loader_for_storybookjs_monorepos_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
