@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Is there an npm audit command that will only show vulnerabilities for *invoked functions* in your code?](https://www.reddit.com/r/javascript/comments/x5asv6/askjs_is_there_an_npm_audit_command_that_will/)
-- [[AskJS] Why does this not work as a &quot;async/await&quot; alternative?](https://www.reddit.com/r/javascript/comments/x5a0f7/askjs_why_does_this_not_work_as_a_asyncawait/)
+- [Make Testing Easier with Test Fixture Generators](https://www.reddit.com/r/javascript/comments/x62vje/make_testing_easier_with_test_fixture_generators/)
+- [typescript-json &lpar;runtime validator&rpar; started supporting comment tags](https://www.reddit.com/r/javascript/comments/x5qdgg/typescriptjson_runtime_validator_started/)
+- [How to Implement the Picture-in-Picture Feature on Any Website](https://www.reddit.com/r/javascript/comments/x5pasy/how_to_implement_the_pictureinpicture_feature_on/)
+- [PipyJS — A functional style JavaScript engine for programming Pipy](https://www.reddit.com/r/javascript/comments/x5orzx/pipyjs_a_functional_style_javascript_engine_for/)
+- [URL Imports in Nodejs v16 without experimental hacks!](https://www.reddit.com/r/javascript/comments/x5m43q/url_imports_in_nodejs_v16_without_experimental/)
+- [Demo of Micro Frontends with Astro](https://www.reddit.com/r/javascript/comments/x5hnju/demo_of_micro_frontends_with_astro/)
+- [I created a webpage to better understand the event loop](https://www.reddit.com/r/javascript/comments/x5fa2d/i_created_a_webpage_to_better_understand_the/)
+- [CSR vs SSR case study](https://www.reddit.com/r/javascript/comments/x5e83p/csr_vs_ssr_case_study/)
 - [An Insanely small plugin extendable, reactive element template library with optional component based syntax that can also double as JQuery Alternative.](https://www.reddit.com/r/javascript/comments/x54k56/an_insanely_small_plugin_extendable_reactive/)
 - [[AskJS] Any alternatives to toast.log for observing console errors and logs?](https://www.reddit.com/r/javascript/comments/x540dn/askjs_any_alternatives_to_toastlog_for_observing/)
-- [[AskJS] Difference between Strapi and sanity.io](https://www.reddit.com/r/javascript/comments/x50yim/askjs_difference_between_strapi_and_sanityio/)
-- [[AskJS] Which newer/better alternative to Grunt?](https://www.reddit.com/r/javascript/comments/x4uuj5/askjs_which_newerbetter_alternative_to_grunt/)
-- [Performance tips for nextjs app](https://www.reddit.com/r/javascript/comments/x4tms3/performance_tips_for_nextjs_app/)
-- [[AskJS] How do you handle i18n in your applications? [survey]](https://www.reddit.com/r/javascript/comments/x4pc0k/askjs_how_do_you_handle_i18n_in_your_applications/)
-- [Showoff Saturday &lpar;September 03, 2022&rpar;](https://www.reddit.com/r/javascript/comments/x4o0po/showoff_saturday_september_03_2022/)
-- [A webpack loader for Storybook.js mono-repos to automatically include current package information](https://www.reddit.com/r/javascript/comments/x4mjtr/a_webpack_loader_for_storybookjs_monorepos_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
