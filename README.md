@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Make Testing Easier with Test Fixture Generators](https://www.reddit.com/r/javascript/comments/x62vje/make_testing_easier_with_test_fixture_generators/)
-- [typescript-json &lpar;runtime validator&rpar; started supporting comment tags](https://www.reddit.com/r/javascript/comments/x5qdgg/typescriptjson_runtime_validator_started/)
-- [How to Implement the Picture-in-Picture Feature on Any Website](https://www.reddit.com/r/javascript/comments/x5pasy/how_to_implement_the_pictureinpicture_feature_on/)
-- [PipyJS — A functional style JavaScript engine for programming Pipy](https://www.reddit.com/r/javascript/comments/x5orzx/pipyjs_a_functional_style_javascript_engine_for/)
-- [URL Imports in Nodejs v16 without experimental hacks!](https://www.reddit.com/r/javascript/comments/x5m43q/url_imports_in_nodejs_v16_without_experimental/)
-- [Demo of Micro Frontends with Astro](https://www.reddit.com/r/javascript/comments/x5hnju/demo_of_micro_frontends_with_astro/)
-- [I created a webpage to better understand the event loop](https://www.reddit.com/r/javascript/comments/x5fa2d/i_created_a_webpage_to_better_understand_the/)
-- [CSR vs SSR case study](https://www.reddit.com/r/javascript/comments/x5e83p/csr_vs_ssr_case_study/)
-- [An Insanely small plugin extendable, reactive element template library with optional component based syntax that can also double as JQuery Alternative.](https://www.reddit.com/r/javascript/comments/x54k56/an_insanely_small_plugin_extendable_reactive/)
-- [[AskJS] Any alternatives to toast.log for observing console errors and logs?](https://www.reddit.com/r/javascript/comments/x540dn/askjs_any_alternatives_to_toastlog_for_observing/)
+- [[AskJS] How to prevent copy paste from my website?](https://www.reddit.com/r/javascript/comments/x6zrxb/askjs_how_to_prevent_copy_paste_from_my_website/)
+- [[AskJS] Best way to get a list of URLs into a Javascript array?](https://www.reddit.com/r/javascript/comments/x6zqv7/askjs_best_way_to_get_a_list_of_urls_into_a/)
+- [Efate Test Generator Series: Extending the library](https://www.reddit.com/r/javascript/comments/x6zo3q/efate_test_generator_series_extending_the_library/)
+- [Promises in Javascript](https://www.reddit.com/r/javascript/comments/x6x01q/promises_in_javascript/)
+- [A Practical Overview of Things Your Team Should Consider Before Adopting Storybook](https://www.reddit.com/r/javascript/comments/x6ovrz/a_practical_overview_of_things_your_team_should/)
+- [TypeScript: Typing form events in React](https://www.reddit.com/r/javascript/comments/x6n334/typescript_typing_form_events_in_react/)
+- [Visualize active fires around the world with Javascript](https://www.reddit.com/r/javascript/comments/x6i3s3/visualize_active_fires_around_the_world_with/)
+- [aggregate-fn a new library is born. It provides savings when you deal with some API economy service. Additional details in the comments](https://www.reddit.com/r/javascript/comments/x6g100/aggregatefn_a_new_library_is_born_it_provides/)
+- [Apple&#39;s WebKit comes to GitHub](https://www.reddit.com/r/javascript/comments/x6cy7l/apples_webkit_comes_to_github/)
+- [[AskJS] What is the cost of calling WASM module?](https://www.reddit.com/r/javascript/comments/x6bwva/askjs_what_is_the_cost_of_calling_wasm_module/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
