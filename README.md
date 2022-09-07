@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] How to prevent copy paste from my website?](https://www.reddit.com/r/javascript/comments/x6zrxb/askjs_how_to_prevent_copy_paste_from_my_website/)
-- [[AskJS] Best way to get a list of URLs into a Javascript array?](https://www.reddit.com/r/javascript/comments/x6zqv7/askjs_best_way_to_get_a_list_of_urls_into_a/)
+- [What are JSON Web Tokens and how to use with Javascript?](https://www.reddit.com/r/javascript/comments/x7r9wy/what_are_json_web_tokens_and_how_to_use_with/)
+- [Javascript and the event loop](https://www.reddit.com/r/javascript/comments/x7qphm/javascript_and_the_event_loop/)
+- [[AskJS] Safe SQL and SQL best practices](https://www.reddit.com/r/javascript/comments/x7ksve/askjs_safe_sql_and_sql_best_practices/)
+- [Node.js creator Ryan Dahl urges Oracle to release JavaScript trademark: “The trademark is a dark cloud looming over the world’s most popular programming language,” he wrote. “Careful law abiding engineers bend over backwards to avoid its use – leading to confusing terms like ECMAScript.&quot;](https://www.reddit.com/r/javascript/comments/x7cpsm/nodejs_creator_ryan_dahl_urges_oracle_to_release/)
+- [[AskJS] - How long to wait before updating npm package versions?](https://www.reddit.com/r/javascript/comments/x79etr/askjs_how_long_to_wait_before_updating_npm/)
+- [Temporal API - Are we saying goodbye to the JavaScript Date object?](https://www.reddit.com/r/javascript/comments/x72t3r/temporal_api_are_we_saying_goodbye_to_the/)
 - [Efate Test Generator Series: Extending the library](https://www.reddit.com/r/javascript/comments/x6zo3q/efate_test_generator_series_extending_the_library/)
-- [Promises in Javascript](https://www.reddit.com/r/javascript/comments/x6x01q/promises_in_javascript/)
 - [A Practical Overview of Things Your Team Should Consider Before Adopting Storybook](https://www.reddit.com/r/javascript/comments/x6ovrz/a_practical_overview_of_things_your_team_should/)
 - [TypeScript: Typing form events in React](https://www.reddit.com/r/javascript/comments/x6n334/typescript_typing_form_events_in_react/)
 - [Visualize active fires around the world with Javascript](https://www.reddit.com/r/javascript/comments/x6i3s3/visualize_active_fires_around_the_world_with/)
-- [aggregate-fn a new library is born. It provides savings when you deal with some API economy service. Additional details in the comments](https://www.reddit.com/r/javascript/comments/x6g100/aggregatefn_a_new_library_is_born_it_provides/)
-- [Apple&#39;s WebKit comes to GitHub](https://www.reddit.com/r/javascript/comments/x6cy7l/apples_webkit_comes_to_github/)
-- [[AskJS] What is the cost of calling WASM module?](https://www.reddit.com/r/javascript/comments/x6bwva/askjs_what_is_the_cost_of_calling_wasm_module/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
