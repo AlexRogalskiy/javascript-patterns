@@ -322,6 +322,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *YouTube code posts*
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [Impressions of JSConf Budapest 2022](https://www.youtube.com/watch?v=WPj0fDUqt1M)
 - [It&#39;s the markup that matters by Hidde de Vries](https://www.youtube.com/watch?v=MDywgeCW5jk)
 - [How Your Bundle Size Affects The Climate by Roy Derks](https://www.youtube.com/watch?v=_LEzWJOrle0)
 - [Documentation: The Missing Pieces by Adrienne Tacke](https://www.youtube.com/watch?v=wBGOswx6MSw)
@@ -331,7 +332,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [The emotional chaos of deploying code by Alexandra Sunderland](https://www.youtube.com/watch?v=1sGvEnnRkvs)
 - [Building interactive wall decor from junk phones by Tiger Oakes](https://www.youtube.com/watch?v=IYWOBzLjsgU)
 - [The Power of JS Generators by Anjana Vakil](https://www.youtube.com/watch?v=gu3FfmgkwUc)
-- [A/B testing and canary releases - why, what and how? by Rafal Rumanek](https://www.youtube.com/watch?v=I4F6nM9SgBk)
 <!-- YOUTUBE-POST-LIST:END -->
 
 ### *ReactJS posts*
