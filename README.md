@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What are JSON Web Tokens and how to use with Javascript?](https://www.reddit.com/r/javascript/comments/x7r9wy/what_are_json_web_tokens_and_how_to_use_with/)
-- [Javascript and the event loop](https://www.reddit.com/r/javascript/comments/x7qphm/javascript_and_the_event_loop/)
-- [[AskJS] Safe SQL and SQL best practices](https://www.reddit.com/r/javascript/comments/x7ksve/askjs_safe_sql_and_sql_best_practices/)
-- [Node.js creator Ryan Dahl urges Oracle to release JavaScript trademark: “The trademark is a dark cloud looming over the world’s most popular programming language,” he wrote. “Careful law abiding engineers bend over backwards to avoid its use – leading to confusing terms like ECMAScript.&quot;](https://www.reddit.com/r/javascript/comments/x7cpsm/nodejs_creator_ryan_dahl_urges_oracle_to_release/)
-- [[AskJS] - How long to wait before updating npm package versions?](https://www.reddit.com/r/javascript/comments/x79etr/askjs_how_long_to_wait_before_updating_npm/)
-- [Temporal API - Are we saying goodbye to the JavaScript Date object?](https://www.reddit.com/r/javascript/comments/x72t3r/temporal_api_are_we_saying_goodbye_to_the/)
-- [Efate Test Generator Series: Extending the library](https://www.reddit.com/r/javascript/comments/x6zo3q/efate_test_generator_series_extending_the_library/)
-- [A Practical Overview of Things Your Team Should Consider Before Adopting Storybook](https://www.reddit.com/r/javascript/comments/x6ovrz/a_practical_overview_of_things_your_team_should/)
-- [TypeScript: Typing form events in React](https://www.reddit.com/r/javascript/comments/x6n334/typescript_typing_form_events_in_react/)
-- [Visualize active fires around the world with Javascript](https://www.reddit.com/r/javascript/comments/x6i3s3/visualize_active_fires_around_the_world_with/)
+- [[AskJS] Starting JS as a noob](https://www.reddit.com/r/javascript/comments/x8iz0e/askjs_starting_js_as_a_noob/)
+- [VSCode 1.71: Merge Editor Improvements](https://www.reddit.com/r/javascript/comments/x8goi5/vscode_171_merge_editor_improvements/)
+- [I made an open source app to time block in your browser](https://www.reddit.com/r/javascript/comments/x8gglg/i_made_an_open_source_app_to_time_block_in_your/)
+- [[AskJS] Requesting feedback from community for research on general state of web dev and the Internet](https://www.reddit.com/r/javascript/comments/x8g31h/askjs_requesting_feedback_from_community_for/)
+- [Using Vite to Develop an SPA in the Context of a Production Page](https://www.reddit.com/r/javascript/comments/x8cbed/using_vite_to_develop_an_spa_in_the_context_of_a/)
+- [Shumai - a modern machine learning framework for JavaScript/TypeScript](https://www.reddit.com/r/javascript/comments/x8b4jm/shumai_a_modern_machine_learning_framework_for/)
+- [JS Module Blocks Proposal](https://www.reddit.com/r/javascript/comments/x88vjz/js_module_blocks_proposal/)
+- [Let this script type instead of you when you record a video of your browser](https://www.reddit.com/r/javascript/comments/x85cpc/let_this_script_type_instead_of_you_when_you/)
+- [How To Avoid SSR Load Issues in Node.js](https://www.reddit.com/r/javascript/comments/x859hw/how_to_avoid_ssr_load_issues_in_nodejs/)
+- [Dune: A new JavaScript and TypeScript runtime](https://www.reddit.com/r/javascript/comments/x84uro/dune_a_new_javascript_and_typescript_runtime/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
