@@ -277,7 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Starting JS as a noob](https://www.reddit.com/r/javascript/comments/x8iz0e/askjs_starting_js_as_a_noob/)
+- [Interview with Laurent Cozic, creator of Joplin, the free and open source JS note-taking app](https://www.reddit.com/r/javascript/comments/x90fem/interview_with_laurent_cozic_creator_of_joplin/)
+- [[AskJS] Are open source projects still the best way to market your JS skills to prospective employers?](https://www.reddit.com/r/javascript/comments/x8x7gy/askjs_are_open_source_projects_still_the_best_way/)
 - [VSCode 1.71: Merge Editor Improvements](https://www.reddit.com/r/javascript/comments/x8goi5/vscode_171_merge_editor_improvements/)
 - [I made an open source app to time block in your browser](https://www.reddit.com/r/javascript/comments/x8gglg/i_made_an_open_source_app_to_time_block_in_your/)
 - [[AskJS] Requesting feedback from community for research on general state of web dev and the Internet](https://www.reddit.com/r/javascript/comments/x8g31h/askjs_requesting_feedback_from_community_for/)
@@ -286,7 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [JS Module Blocks Proposal](https://www.reddit.com/r/javascript/comments/x88vjz/js_module_blocks_proposal/)
 - [Let this script type instead of you when you record a video of your browser](https://www.reddit.com/r/javascript/comments/x85cpc/let_this_script_type_instead_of_you_when_you/)
 - [How To Avoid SSR Load Issues in Node.js](https://www.reddit.com/r/javascript/comments/x859hw/how_to_avoid_ssr_load_issues_in_nodejs/)
-- [Dune: A new JavaScript and TypeScript runtime](https://www.reddit.com/r/javascript/comments/x84uro/dune_a_new_javascript_and_typescript_runtime/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
