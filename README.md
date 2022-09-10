@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Interview with Laurent Cozic, creator of Joplin, the free and open source JS note-taking app](https://www.reddit.com/r/javascript/comments/x90fem/interview_with_laurent_cozic_creator_of_joplin/)
-- [[AskJS] Are open source projects still the best way to market your JS skills to prospective employers?](https://www.reddit.com/r/javascript/comments/x8x7gy/askjs_are_open_source_projects_still_the_best_way/)
-- [VSCode 1.71: Merge Editor Improvements](https://www.reddit.com/r/javascript/comments/x8goi5/vscode_171_merge_editor_improvements/)
-- [I made an open source app to time block in your browser](https://www.reddit.com/r/javascript/comments/x8gglg/i_made_an_open_source_app_to_time_block_in_your/)
-- [[AskJS] Requesting feedback from community for research on general state of web dev and the Internet](https://www.reddit.com/r/javascript/comments/x8g31h/askjs_requesting_feedback_from_community_for/)
-- [Using Vite to Develop an SPA in the Context of a Production Page](https://www.reddit.com/r/javascript/comments/x8cbed/using_vite_to_develop_an_spa_in_the_context_of_a/)
-- [Shumai - a modern machine learning framework for JavaScript/TypeScript](https://www.reddit.com/r/javascript/comments/x8b4jm/shumai_a_modern_machine_learning_framework_for/)
-- [JS Module Blocks Proposal](https://www.reddit.com/r/javascript/comments/x88vjz/js_module_blocks_proposal/)
-- [Let this script type instead of you when you record a video of your browser](https://www.reddit.com/r/javascript/comments/x85cpc/let_this_script_type_instead_of_you_when_you/)
-- [How To Avoid SSR Load Issues in Node.js](https://www.reddit.com/r/javascript/comments/x859hw/how_to_avoid_ssr_load_issues_in_nodejs/)
+- [CO2.js - a JavaScript library that allows developers to estimate the emissions associated with their apps, websites and software](https://www.reddit.com/r/javascript/comments/xa8lz2/co2js_a_javascript_library_that_allows_developers/)
+- [Remembering jQuery](https://www.reddit.com/r/javascript/comments/xa7uzm/remembering_jquery/)
+- [Create an Array of Months with JavaScript](https://www.reddit.com/r/javascript/comments/xa53lf/create_an_array_of_months_with_javascript/)
+- [CTSP - A CLI tool to create a NodeJS project with TypeScript](https://www.reddit.com/r/javascript/comments/xa4e8e/ctsp_a_cli_tool_to_create_a_nodejs_project_with/)
+- [Early stage simpler alternative to Vue, React &amp; Angular created by me](https://www.reddit.com/r/javascript/comments/xa0de3/early_stage_simpler_alternative_to_vue_react/)
+- [[AskJS] Plotting in js: I don&#39;t want to get my hands dirty with d3 - what is the next best alternative](https://www.reddit.com/r/javascript/comments/x9tyse/askjs_plotting_in_js_i_dont_want_to_get_my_hands/)
+- [Are desktop apps dead?](https://www.reddit.com/r/javascript/comments/x9s0xn/are_desktop_apps_dead/)
+- [Rewriting tests from Cypress to Playwright using GPT3 by Gajus Kuizinas](https://www.reddit.com/r/javascript/comments/x9rq2l/rewriting_tests_from_cypress_to_playwright_using/)
+- [Introducing Svelte, and Comparing Svelte with React and Vue](https://www.reddit.com/r/javascript/comments/x9pxxh/introducing_svelte_and_comparing_svelte_with/)
+- [The self-fulfilling prophecy of React](https://www.reddit.com/r/javascript/comments/x9plfu/the_selffulfilling_prophecy_of_react/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
