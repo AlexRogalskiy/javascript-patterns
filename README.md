@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Should you develop your own frontend library? DCL is my attempt at creating a JavaScript SPA framework:](https://www.reddit.com/r/javascript/comments/xbuqvb/should_you_develop_your_own_frontend_library_dcl/)
+- [7 Concepts from 6 Frontend Frameworks](https://www.reddit.com/r/javascript/comments/xbnjz5/7_concepts_from_6_frontend_frameworks/)
+- [[AskJS] How do you manage state in your app?](https://www.reddit.com/r/javascript/comments/xbndr9/askjs_how_do_you_manage_state_in_your_app/)
+- [[JavaScript] Drag-Move and Resize any element with jQuery!](https://www.reddit.com/r/javascript/comments/xblkit/javascript_dragmove_and_resize_any_element_with/)
+- [Write SQL Queries With Confidence &lpar;TypeScript + Postgres&rpar;](https://www.reddit.com/r/javascript/comments/xbb4ge/write_sql_queries_with_confidence_typescript/)
+- [A novice peek into the world of JS Proxy](https://www.reddit.com/r/javascript/comments/xb96jx/a_novice_peek_into_the_world_of_js_proxy/)
 - [remember-promise - a simple batteries-included promise memoization utility](https://www.reddit.com/r/javascript/comments/xb4g0c/rememberpromise_a_simple_batteriesincluded/)
 - [Make it Short - Make it Better | A short tips guide on how to write some better JS codes!](https://www.reddit.com/r/javascript/comments/xawr79/make_it_short_make_it_better_a_short_tips_guide/)
 - [preact-signal-store - A state management library for Preact apps that only adds 0.4KB to your bundle](https://www.reddit.com/r/javascript/comments/xawo28/preactsignalstore_a_state_management_library_for/)
 - [Temporal API - A new approach to managing Date and Time in JS | refine](https://www.reddit.com/r/javascript/comments/xajfjw/temporal_api_a_new_approach_to_managing_date_and/)
-- [Showoff Saturday &lpar;September 10, 2022&rpar;](https://www.reddit.com/r/javascript/comments/xaikqq/showoff_saturday_september_10_2022/)
-- [A free tool I wrote in JS -dc.js to visualize user engagement data for web applications with a new feat for modern web - user engagement for bounce-rated web pages.](https://www.reddit.com/r/javascript/comments/xaftye/a_free_tool_i_wrote_in_js_dcjs_to_visualize_user/)
-- [The fastest form library for React is in beta, give it a try!](https://www.reddit.com/r/javascript/comments/xaffpt/the_fastest_form_library_for_react_is_in_beta/)
-- [CO2.js - a JavaScript library that allows developers to estimate the emissions associated with their apps, websites and software](https://www.reddit.com/r/javascript/comments/xa8lz2/co2js_a_javascript_library_that_allows_developers/)
-- [Remembering jQuery](https://www.reddit.com/r/javascript/comments/xa7uzm/remembering_jquery/)
-- [Create an Array of Months with JavaScript](https://www.reddit.com/r/javascript/comments/xa53lf/create_an_array_of_months_with_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
