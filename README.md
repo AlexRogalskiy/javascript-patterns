@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Should you develop your own frontend library? DCL is my attempt at creating a JavaScript SPA framework:](https://www.reddit.com/r/javascript/comments/xbuqvb/should_you_develop_your_own_frontend_library_dcl/)
-- [7 Concepts from 6 Frontend Frameworks](https://www.reddit.com/r/javascript/comments/xbnjz5/7_concepts_from_6_frontend_frameworks/)
-- [[AskJS] How do you manage state in your app?](https://www.reddit.com/r/javascript/comments/xbndr9/askjs_how_do_you_manage_state_in_your_app/)
-- [[JavaScript] Drag-Move and Resize any element with jQuery!](https://www.reddit.com/r/javascript/comments/xblkit/javascript_dragmove_and_resize_any_element_with/)
-- [Write SQL Queries With Confidence &lpar;TypeScript + Postgres&rpar;](https://www.reddit.com/r/javascript/comments/xbb4ge/write_sql_queries_with_confidence_typescript/)
-- [A novice peek into the world of JS Proxy](https://www.reddit.com/r/javascript/comments/xb96jx/a_novice_peek_into_the_world_of_js_proxy/)
-- [remember-promise - a simple batteries-included promise memoization utility](https://www.reddit.com/r/javascript/comments/xb4g0c/rememberpromise_a_simple_batteriesincluded/)
-- [Make it Short - Make it Better | A short tips guide on how to write some better JS codes!](https://www.reddit.com/r/javascript/comments/xawr79/make_it_short_make_it_better_a_short_tips_guide/)
-- [preact-signal-store - A state management library for Preact apps that only adds 0.4KB to your bundle](https://www.reddit.com/r/javascript/comments/xawo28/preactsignalstore_a_state_management_library_for/)
-- [Temporal API - A new approach to managing Date and Time in JS | refine](https://www.reddit.com/r/javascript/comments/xajfjw/temporal_api_a_new_approach_to_managing_date_and/)
+- [vite-plugin-proxy-page: A Vite plugin for projecting your application onto a remote production page during development.](https://www.reddit.com/r/javascript/comments/xcvyzd/vitepluginproxypage_a_vite_plugin_for_projecting/)
+- [Understand Javascript Generators](https://www.reddit.com/r/javascript/comments/xcs8pm/understand_javascript_generators/)
+- [Microsoft Almost Killed JavaScript](https://www.reddit.com/r/javascript/comments/xcs74o/microsoft_almost_killed_javascript/)
+- [React-Query: How to fetch queries conditionally](https://www.reddit.com/r/javascript/comments/xcs3aa/reactquery_how_to_fetch_queries_conditionally/)
+- [100% JavaScript End-to-end Cryption &lpar;E2EC&rpar; a.k.a End-to-end Encryption &lpar;E2EE&rpar;!](https://www.reddit.com/r/javascript/comments/xcpq7d/100_javascript_endtoend_cryption_e2ec_aka/)
+- [[AskJS] Looking for career advice](https://www.reddit.com/r/javascript/comments/xcocn1/askjs_looking_for_career_advice/)
+- [Facebook Open Sources MemLab: A framework for finding JavaScript memory leaks](https://www.reddit.com/r/javascript/comments/xco5oi/facebook_open_sources_memlab_a_framework_for/)
+- [Notes on Modern UI Development](https://www.reddit.com/r/javascript/comments/xcnj79/notes_on_modern_ui_development/)
+- [memlab - Analyzes JavaScript heap and finds memory leaks in browser and node.js](https://www.reddit.com/r/javascript/comments/xcn46f/memlab_analyzes_javascript_heap_and_finds_memory/)
+- [Tutorial: Building an interactive screen-sharing app with Puppeteer and React](https://www.reddit.com/r/javascript/comments/xcmiik/tutorial_building_an_interactive_screensharing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
