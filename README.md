@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [vite-plugin-proxy-page: A Vite plugin for projecting your application onto a remote production page during development.](https://www.reddit.com/r/javascript/comments/xcvyzd/vitepluginproxypage_a_vite_plugin_for_projecting/)
-- [Understand Javascript Generators](https://www.reddit.com/r/javascript/comments/xcs8pm/understand_javascript_generators/)
-- [Microsoft Almost Killed JavaScript](https://www.reddit.com/r/javascript/comments/xcs74o/microsoft_almost_killed_javascript/)
-- [React-Query: How to fetch queries conditionally](https://www.reddit.com/r/javascript/comments/xcs3aa/reactquery_how_to_fetch_queries_conditionally/)
-- [100% JavaScript End-to-end Cryption &lpar;E2EC&rpar; a.k.a End-to-end Encryption &lpar;E2EE&rpar;!](https://www.reddit.com/r/javascript/comments/xcpq7d/100_javascript_endtoend_cryption_e2ec_aka/)
-- [[AskJS] Looking for career advice](https://www.reddit.com/r/javascript/comments/xcocn1/askjs_looking_for_career_advice/)
-- [Facebook Open Sources MemLab: A framework for finding JavaScript memory leaks](https://www.reddit.com/r/javascript/comments/xco5oi/facebook_open_sources_memlab_a_framework_for/)
-- [Notes on Modern UI Development](https://www.reddit.com/r/javascript/comments/xcnj79/notes_on_modern_ui_development/)
-- [memlab - Analyzes JavaScript heap and finds memory leaks in browser and node.js](https://www.reddit.com/r/javascript/comments/xcn46f/memlab_analyzes_javascript_heap_and_finds_memory/)
-- [Tutorial: Building an interactive screen-sharing app with Puppeteer and React](https://www.reddit.com/r/javascript/comments/xcmiik/tutorial_building_an_interactive_screensharing/)
+- [Unit tests in Javascript with Jest](https://www.reddit.com/r/javascript/comments/xdoc2x/unit_tests_in_javascript_with_jest/)
+- [Building a JavaScript Bundler](https://www.reddit.com/r/javascript/comments/xdjq6y/building_a_javascript_bundler/)
+- [Creating Modern npm Packages](https://www.reddit.com/r/javascript/comments/xde4os/creating_modern_npm_packages/)
+- [Porting Curveball to Bun](https://www.reddit.com/r/javascript/comments/xddi3g/porting_curveball_to_bun/)
+- [[AskJS] Hacktoberfest 2022 - What will you contribute to?](https://www.reddit.com/r/javascript/comments/xd8xfi/askjs_hacktoberfest_2022_what_will_you_contribute/)
+- [Introduction to Data Fetching with Hooks in React](https://www.reddit.com/r/javascript/comments/xd8tru/introduction_to_data_fetching_with_hooks_in_react/)
+- [The Easiest Way to Detect Device Orientation in JavaScript](https://www.reddit.com/r/javascript/comments/xd8lr7/the_easiest_way_to_detect_device_orientation_in/)
+- [Here&#39;re what I&#39;ve learned after 5 weeks of Leetcode study plan](https://www.reddit.com/r/javascript/comments/xd7nya/herere_what_ive_learned_after_5_weeks_of_leetcode/)
+- [Is auth easy? Here&#39;s how I created a custom mini authentication library in NodeJS and Fastify &lpar;Under 100 LoC&rpar;](https://www.reddit.com/r/javascript/comments/xd7ndy/is_auth_easy_heres_how_i_created_a_custom_mini/)
+- [Automating visual UI tests with Playwright and GitHub Actions](https://www.reddit.com/r/javascript/comments/xd7md8/automating_visual_ui_tests_with_playwright_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
