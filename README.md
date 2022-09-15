@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Unit tests in Javascript with Jest](https://www.reddit.com/r/javascript/comments/xdoc2x/unit_tests_in_javascript_with_jest/)
-- [Building a JavaScript Bundler](https://www.reddit.com/r/javascript/comments/xdjq6y/building_a_javascript_bundler/)
-- [Creating Modern npm Packages](https://www.reddit.com/r/javascript/comments/xde4os/creating_modern_npm_packages/)
-- [Porting Curveball to Bun](https://www.reddit.com/r/javascript/comments/xddi3g/porting_curveball_to_bun/)
-- [[AskJS] Hacktoberfest 2022 - What will you contribute to?](https://www.reddit.com/r/javascript/comments/xd8xfi/askjs_hacktoberfest_2022_what_will_you_contribute/)
-- [Introduction to Data Fetching with Hooks in React](https://www.reddit.com/r/javascript/comments/xd8tru/introduction_to_data_fetching_with_hooks_in_react/)
-- [The Easiest Way to Detect Device Orientation in JavaScript](https://www.reddit.com/r/javascript/comments/xd8lr7/the_easiest_way_to_detect_device_orientation_in/)
-- [Here&#39;re what I&#39;ve learned after 5 weeks of Leetcode study plan](https://www.reddit.com/r/javascript/comments/xd7nya/herere_what_ive_learned_after_5_weeks_of_leetcode/)
-- [Is auth easy? Here&#39;s how I created a custom mini authentication library in NodeJS and Fastify &lpar;Under 100 LoC&rpar;](https://www.reddit.com/r/javascript/comments/xd7ndy/is_auth_easy_heres_how_i_created_a_custom_mini/)
-- [Automating visual UI tests with Playwright and GitHub Actions](https://www.reddit.com/r/javascript/comments/xd7md8/automating_visual_ui_tests_with_playwright_and/)
+- [How to Format Date in JavaScript?](https://www.reddit.com/r/javascript/comments/xeiwws/how_to_format_date_in_javascript/)
+- [Made a dev tool to help sync + manage environment variables for Node.js!](https://www.reddit.com/r/javascript/comments/xehw7u/made_a_dev_tool_to_help_sync_manage_environment/)
+- [How to build tree-shakeable JavaScript libraries](https://www.reddit.com/r/javascript/comments/xe86be/how_to_build_treeshakeable_javascript_libraries/)
+- [Algorithm and its properties](https://www.reddit.com/r/javascript/comments/xe7ky0/algorithm_and_its_properties/)
+- [GitHub Svelte Tel Input](https://www.reddit.com/r/javascript/comments/xe6ajl/github_svelte_tel_input/)
+- [What is a JavaScript console? Explained](https://www.reddit.com/r/javascript/comments/xe56oa/what_is_a_javascript_console_explained/)
+- [Uppy 3.0: Future-proof, conveniently easy, stable as ever](https://www.reddit.com/r/javascript/comments/xe32og/uppy_30_futureproof_conveniently_easy_stable_as/)
+- [[AskJS] Searching for a concept related to serializing Objects into arrays to save on storage space](https://www.reddit.com/r/javascript/comments/xe2zp8/askjs_searching_for_a_concept_related_to/)
+- [Dune v0.2.0 has been released.](https://www.reddit.com/r/javascript/comments/xe2c3a/dune_v020_has_been_released/)
+- [A Whole Website in a Single JavaScript File, cont&#39;d](https://www.reddit.com/r/javascript/comments/xdzmj5/a_whole_website_in_a_single_javascript_file_contd/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
