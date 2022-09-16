@@ -352,6 +352,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *javascript programmer posts*
 
 <!-- METEOR-POST-LIST:START -->
+- [How to update your app that uses an old version of Meteor?](https://blog.meteor.com/how-to-update-your-app-that-uses-an-old-version-of-meteor-15c3239b46ce?source=rss----a9bcaf865278---4)
 - [Meteor Monthly Update — August 2022](https://blog.meteor.com/meteor-monthly-update-august-2022-479cbdbfd9c4?source=rss----a9bcaf865278---4)
 - [How to get started with Meteor and ask for help if you are stuck](https://blog.meteor.com/how-to-get-started-with-meteor-and-ask-for-help-if-you-are-stuck-fd5c9a20ed99?source=rss----a9bcaf865278---4)
 - [Meteor Helps Azumuta Digitize Shop Floor Activities Across the Manufacturing Industry](https://blog.meteor.com/meteor-helps-azumuta-digitize-shop-floor-activities-across-the-manufacturing-industry-a43af7ae750d?source=rss----a9bcaf865278---4)
@@ -361,7 +362,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Meteor + Web3: Building an NFT Marketplace](https://blog.meteor.com/meteor-web3-building-an-nft-marketplace-9484b321e426?source=rss----a9bcaf865278---4)
 - [How to Use Meteor With React Hooks](https://blog.meteor.com/how-to-use-meteor-with-react-hooks-7e1791daabab?source=rss----a9bcaf865278---4)
 - [Meteor Monthly Update — May 2022](https://blog.meteor.com/meteor-monthly-update-may-2022-f9394ec4eb2d?source=rss----a9bcaf865278---4)
-- [New Meteor 2.7.3 and a new patch release for 2.5](https://blog.meteor.com/new-meteor-2-7-3-and-a-new-patch-release-for-2-5-1af19913847a?source=rss----a9bcaf865278---4)
 <!-- METEOR-POST-LIST:END -->
 
 ### *Dreamix posts*
