@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Intro to Blitz.js: A full-stack framework for Next.js](https://www.infoworld.com/article/3673088/intro-to-blitzjs-a-full-stack-framework-for-nextjs.html#tk.rss_javascript)
 - [Error tracking with JavaScript, React, and Sentry](https://www.infoworld.com/article/3671874/error-tracking-with-javascript-react-and-sentry.html#tk.rss_javascript)
 - [CodeSee launches enterprise plan with service maps](https://www.infoworld.com/article/3671988/codesee-launches-enterprise-plan-with-service-maps.html#tk.rss_javascript)
 - [TypeScript 4.8 shines on intersection and union types](https://www.infoworld.com/article/3664928/typescript-48-fixes-file-watching-on-linux-macos.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Angular 15 promises to simplify development](https://www.infoworld.com/article/3669889/angular-15-promises-to-simplify-development.html#tk.rss_javascript)
 - [Deno vs. Node.js: Which is better?](https://www.infoworld.com/article/3668660/deno-vs-nodejs-which-is-better.html#tk.rss_javascript)
 - [Microsoft Azure Fluid Relay turns GA](https://www.infoworld.com/article/3668598/microsoft-azure-fluid-relay-turns-ga.html#tk.rss_javascript)
-- [Better type checking and more in Deno 1.24](https://www.infoworld.com/article/3668198/better-type-checking-and-more-in-deno-124.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
