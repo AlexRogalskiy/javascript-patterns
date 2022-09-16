@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to Format Date in JavaScript?](https://www.reddit.com/r/javascript/comments/xeiwws/how_to_format_date_in_javascript/)
-- [Made a dev tool to help sync + manage environment variables for Node.js!](https://www.reddit.com/r/javascript/comments/xehw7u/made_a_dev_tool_to_help_sync_manage_environment/)
-- [How to build tree-shakeable JavaScript libraries](https://www.reddit.com/r/javascript/comments/xe86be/how_to_build_treeshakeable_javascript_libraries/)
-- [Algorithm and its properties](https://www.reddit.com/r/javascript/comments/xe7ky0/algorithm_and_its_properties/)
-- [GitHub Svelte Tel Input](https://www.reddit.com/r/javascript/comments/xe6ajl/github_svelte_tel_input/)
-- [What is a JavaScript console? Explained](https://www.reddit.com/r/javascript/comments/xe56oa/what_is_a_javascript_console_explained/)
-- [Uppy 3.0: Future-proof, conveniently easy, stable as ever](https://www.reddit.com/r/javascript/comments/xe32og/uppy_30_futureproof_conveniently_easy_stable_as/)
-- [[AskJS] Searching for a concept related to serializing Objects into arrays to save on storage space](https://www.reddit.com/r/javascript/comments/xe2zp8/askjs_searching_for_a_concept_related_to/)
-- [Dune v0.2.0 has been released.](https://www.reddit.com/r/javascript/comments/xe2c3a/dune_v020_has_been_released/)
-- [A Whole Website in a Single JavaScript File, cont&#39;d](https://www.reddit.com/r/javascript/comments/xdzmj5/a_whole_website_in_a_single_javascript_file_contd/)
+- [Dev Container Features](https://www.reddit.com/r/javascript/comments/xfau4v/dev_container_features/)
+- [The new fully-featured gRPC/gRPC-Web client is out](https://www.reddit.com/r/javascript/comments/xf4vza/the_new_fullyfeatured_grpcgrpcweb_client_is_out/)
+- [GitHub - thesephist/libsearch: Simple, index-free full-text search for JavaScript](https://www.reddit.com/r/javascript/comments/xf37bh/github_thesephistlibsearch_simple_indexfree/)
+- [Theatre.js v0.5 is out - Theatre.js is a javascript animation library with a professional motion design toolset. It helps you create any animation, from cinematic scenes in THREE.js](https://www.reddit.com/r/javascript/comments/xf0clc/theatrejs_v05_is_out_theatrejs_is_a_javascript/)
+- [Error: Multipart: Boundary not found ReactJs &amp; Axios - Developer Diary](https://www.reddit.com/r/javascript/comments/xez7qb/error_multipart_boundary_not_found_reactjs_axios/)
+- [Why the number input is the worst input](https://www.reddit.com/r/javascript/comments/xeywrq/why_the_number_input_is_the_worst_input/)
+- [5 JavaScript Events You NEED To Know](https://www.reddit.com/r/javascript/comments/xevast/5_javascript_events_you_need_to_know/)
+- [bigdash: re-implement lodash math functions with big.js.](https://www.reddit.com/r/javascript/comments/xeua8z/bigdash_reimplement_lodash_math_functions_with/)
+- [[AskJS] What are still present issues in contemporary &lpar;2022&rpar; JavaScript?](https://www.reddit.com/r/javascript/comments/xet6ik/askjs_what_are_still_present_issues_in/)
+- [Building an app to find an excuse for our sloppy work](https://www.reddit.com/r/javascript/comments/xer7y6/building_an_app_to_find_an_excuse_for_our_sloppy/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
