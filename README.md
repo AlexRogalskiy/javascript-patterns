@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Dev Container Features](https://www.reddit.com/r/javascript/comments/xfau4v/dev_container_features/)
-- [The new fully-featured gRPC/gRPC-Web client is out](https://www.reddit.com/r/javascript/comments/xf4vza/the_new_fullyfeatured_grpcgrpcweb_client_is_out/)
-- [GitHub - thesephist/libsearch: Simple, index-free full-text search for JavaScript](https://www.reddit.com/r/javascript/comments/xf37bh/github_thesephistlibsearch_simple_indexfree/)
-- [Theatre.js v0.5 is out - Theatre.js is a javascript animation library with a professional motion design toolset. It helps you create any animation, from cinematic scenes in THREE.js](https://www.reddit.com/r/javascript/comments/xf0clc/theatrejs_v05_is_out_theatrejs_is_a_javascript/)
-- [Error: Multipart: Boundary not found ReactJs &amp; Axios - Developer Diary](https://www.reddit.com/r/javascript/comments/xez7qb/error_multipart_boundary_not_found_reactjs_axios/)
-- [Why the number input is the worst input](https://www.reddit.com/r/javascript/comments/xeywrq/why_the_number_input_is_the_worst_input/)
-- [5 JavaScript Events You NEED To Know](https://www.reddit.com/r/javascript/comments/xevast/5_javascript_events_you_need_to_know/)
-- [bigdash: re-implement lodash math functions with big.js.](https://www.reddit.com/r/javascript/comments/xeua8z/bigdash_reimplement_lodash_math_functions_with/)
-- [[AskJS] What are still present issues in contemporary &lpar;2022&rpar; JavaScript?](https://www.reddit.com/r/javascript/comments/xet6ik/askjs_what_are_still_present_issues_in/)
-- [Building an app to find an excuse for our sloppy work](https://www.reddit.com/r/javascript/comments/xer7y6/building_an_app_to_find_an_excuse_for_our_sloppy/)
+- [[AskJS] How can we improve the MongoDB driver?](https://www.reddit.com/r/javascript/comments/xg6i1f/askjs_how_can_we_improve_the_mongodb_driver/)
+- [[AskJS] How has JavaScript&#39;s reputation evolved over the years?](https://www.reddit.com/r/javascript/comments/xg5c19/askjs_how_has_javascripts_reputation_evolved_over/)
+- [React-Query useMutation with Jest Testing and React-Testing-Library](https://www.reddit.com/r/javascript/comments/xg3y3c/reactquery_usemutation_with_jest_testing_and/)
+- [barba.js - Create badass fluid and smooth transitions between your website’s pages](https://www.reddit.com/r/javascript/comments/xg3ra4/barbajs_create_badass_fluid_and_smooth/)
+- [Module system in Node.js &lpar;CommonJS&rpar;](https://www.reddit.com/r/javascript/comments/xg1aer/module_system_in_nodejs_commonjs/)
+- [What&#39;s New In DevTools &lpar;Chrome 106&rpar; - Chrome Developers](https://www.reddit.com/r/javascript/comments/xg0y8x/whats_new_in_devtools_chrome_106_chrome_developers/)
+- [Updates from the 92nd TC39 meeting](https://www.reddit.com/r/javascript/comments/xfz3ku/updates_from_the_92nd_tc39_meeting/)
+- [Javascript Component Patterns to Scale up your Web Application](https://www.reddit.com/r/javascript/comments/xftxhp/javascript_component_patterns_to_scale_up_your/)
+- [ECMAScript modules. Going beyond the ordinary](https://www.reddit.com/r/javascript/comments/xfrkou/ecmascript_modules_going_beyond_the_ordinary/)
+- [clumsy-graphics: a tool for rapidly developing animations where frames are described using svg elements à la react](https://www.reddit.com/r/javascript/comments/xfrhco/clumsygraphics_a_tool_for_rapidly_developing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
