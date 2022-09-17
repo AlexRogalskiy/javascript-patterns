@@ -307,6 +307,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *EmberJS posts*
 
 <!-- EMBERJS-POST-LIST:START -->
+- [Announcing the Official TypeScript Types Public Preview](https://blog.emberjs.com/announcing-official-typescript-types-public-preview)
 - [Ember 4.7 Released](https://blog.emberjs.com/ember-released-4-7)
 - [The Ember Times - Issue No. 203](https://blog.emberjs.com/the-ember-times-issue-203)
 - [Plain Old Functions as Helpers](https://blog.emberjs.com/plain-old-functions-as-helpers)
@@ -316,7 +317,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [The Ember Times - Issue No. 201](https://blog.emberjs.com/the-ember-times-issue-201)
 - [The Ember Times - Issue No. 200](https://blog.emberjs.com/the-ember-times-issue-200)
 - [Ember 4.4 Released](https://blog.emberjs.com/ember-released-4-4)
-- [Celebrating Accessibility in Ember](https://blog.emberjs.com/gaad-2022)
 <!-- EMBERJS-POST-LIST:END -->
 
 ### *YouTube code posts*
