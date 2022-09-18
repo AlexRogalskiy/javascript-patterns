@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] How can we improve the MongoDB driver?](https://www.reddit.com/r/javascript/comments/xg6i1f/askjs_how_can_we_improve_the_mongodb_driver/)
-- [[AskJS] How has JavaScript&#39;s reputation evolved over the years?](https://www.reddit.com/r/javascript/comments/xg5c19/askjs_how_has_javascripts_reputation_evolved_over/)
-- [React-Query useMutation with Jest Testing and React-Testing-Library](https://www.reddit.com/r/javascript/comments/xg3y3c/reactquery_usemutation_with_jest_testing_and/)
-- [barba.js - Create badass fluid and smooth transitions between your website’s pages](https://www.reddit.com/r/javascript/comments/xg3ra4/barbajs_create_badass_fluid_and_smooth/)
-- [Module system in Node.js &lpar;CommonJS&rpar;](https://www.reddit.com/r/javascript/comments/xg1aer/module_system_in_nodejs_commonjs/)
-- [What&#39;s New In DevTools &lpar;Chrome 106&rpar; - Chrome Developers](https://www.reddit.com/r/javascript/comments/xg0y8x/whats_new_in_devtools_chrome_106_chrome_developers/)
-- [Updates from the 92nd TC39 meeting](https://www.reddit.com/r/javascript/comments/xfz3ku/updates_from_the_92nd_tc39_meeting/)
-- [Javascript Component Patterns to Scale up your Web Application](https://www.reddit.com/r/javascript/comments/xftxhp/javascript_component_patterns_to_scale_up_your/)
-- [ECMAScript modules. Going beyond the ordinary](https://www.reddit.com/r/javascript/comments/xfrkou/ecmascript_modules_going_beyond_the_ordinary/)
-- [clumsy-graphics: a tool for rapidly developing animations where frames are described using svg elements à la react](https://www.reddit.com/r/javascript/comments/xfrhco/clumsygraphics_a_tool_for_rapidly_developing/)
+- [Features In Nodejs that you might have missed!](https://www.reddit.com/r/javascript/comments/xh46xe/features_in_nodejs_that_you_might_have_missed/)
+- [npm: What you are doing wrong when installing js packages](https://www.reddit.com/r/javascript/comments/xh0551/npm_what_you_are_doing_wrong_when_installing_js/)
+- [New features in JavaScript 2022](https://www.reddit.com/r/javascript/comments/xgy8ng/new_features_in_javascript_2022/)
+- [Functional Programming and Naturality in Javascript: Conjunctions](https://www.reddit.com/r/javascript/comments/xgv8op/functional_programming_and_naturality_in/)
+- [Javascript obfuscation techniques by example](https://www.reddit.com/r/javascript/comments/xguq4s/javascript_obfuscation_techniques_by_example/)
+- [Youtube Like Skeleton Loading Animation HTML + CSS](https://www.reddit.com/r/javascript/comments/xgr7cw/youtube_like_skeleton_loading_animation_html_css/)
+- [[JavaScript] Random Codes Generator! &lpar;Function&rpar;](https://www.reddit.com/r/javascript/comments/xgqeby/javascript_random_codes_generator_function/)
+- [[AskJS] Where will I need to write generator functions?](https://www.reddit.com/r/javascript/comments/xglffa/askjs_where_will_i_need_to_write_generator/)
+- [What is useState&lpar;&rpar; Hook in React with Example](https://www.reddit.com/r/javascript/comments/xgk0cm/what_is_usestate_hook_in_react_with_example/)
+- [[AskJS] Newbie Question](https://www.reddit.com/r/javascript/comments/xgiaf8/askjs_newbie_question/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
