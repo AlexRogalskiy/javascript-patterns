@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Features In Nodejs that you might have missed!](https://www.reddit.com/r/javascript/comments/xh46xe/features_in_nodejs_that_you_might_have_missed/)
-- [npm: What you are doing wrong when installing js packages](https://www.reddit.com/r/javascript/comments/xh0551/npm_what_you_are_doing_wrong_when_installing_js/)
-- [New features in JavaScript 2022](https://www.reddit.com/r/javascript/comments/xgy8ng/new_features_in_javascript_2022/)
-- [Functional Programming and Naturality in Javascript: Conjunctions](https://www.reddit.com/r/javascript/comments/xgv8op/functional_programming_and_naturality_in/)
-- [Javascript obfuscation techniques by example](https://www.reddit.com/r/javascript/comments/xguq4s/javascript_obfuscation_techniques_by_example/)
-- [Youtube Like Skeleton Loading Animation HTML + CSS](https://www.reddit.com/r/javascript/comments/xgr7cw/youtube_like_skeleton_loading_animation_html_css/)
-- [[JavaScript] Random Codes Generator! &lpar;Function&rpar;](https://www.reddit.com/r/javascript/comments/xgqeby/javascript_random_codes_generator_function/)
-- [[AskJS] Where will I need to write generator functions?](https://www.reddit.com/r/javascript/comments/xglffa/askjs_where_will_i_need_to_write_generator/)
-- [What is useState&lpar;&rpar; Hook in React with Example](https://www.reddit.com/r/javascript/comments/xgk0cm/what_is_usestate_hook_in_react_with_example/)
-- [[AskJS] Newbie Question](https://www.reddit.com/r/javascript/comments/xgiaf8/askjs_newbie_question/)
+- [THIS keyword in javascript](https://www.reddit.com/r/javascript/comments/xi0fjp/this_keyword_in_javascript/)
+- [p8g 0.7.0 - 2D graphics library for C, C++, Java and JavaScript](https://www.reddit.com/r/javascript/comments/xhrkd4/p8g_070_2d_graphics_library_for_c_c_java_and/)
+- [TSON started supporting equivalent validators](https://www.reddit.com/r/javascript/comments/xhnq2e/tson_started_supporting_equivalent_validators/)
+- [Toggling state of the checkbox based on the viewport width in JavaScript](https://www.reddit.com/r/javascript/comments/xhivb0/toggling_state_of_the_checkbox_based_on_the/)
+- [[AskJS] Who first used the term &quot;spread operator&quot; re spread syntax ...?](https://www.reddit.com/r/javascript/comments/xhhqsz/askjs_who_first_used_the_term_spread_operator_re/)
+- [[AskJS] Non-jQueryDatatables alternative?](https://www.reddit.com/r/javascript/comments/xhfd0i/askjs_nonjquerydatatables_alternative/)
+- [New Strings Method in ES6 JavaScript](https://www.reddit.com/r/javascript/comments/xhdyoe/new_strings_method_in_es6_javascript/)
+- [I ported a large C++ library to the browser!](https://www.reddit.com/r/javascript/comments/xhd5u0/i_ported_a_large_c_library_to_the_browser/)
+- [Writing a TodoMVC App With Vanilla JS in 2022](https://www.reddit.com/r/javascript/comments/xhc8v1/writing_a_todomvc_app_with_vanilla_js_in_2022/)
+- [Callback Function in Javascript](https://www.reddit.com/r/javascript/comments/xhc1zw/callback_function_in_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
