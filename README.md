@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [THIS keyword in javascript](https://www.reddit.com/r/javascript/comments/xi0fjp/this_keyword_in_javascript/)
-- [p8g 0.7.0 - 2D graphics library for C, C++, Java and JavaScript](https://www.reddit.com/r/javascript/comments/xhrkd4/p8g_070_2d_graphics_library_for_c_c_java_and/)
-- [TSON started supporting equivalent validators](https://www.reddit.com/r/javascript/comments/xhnq2e/tson_started_supporting_equivalent_validators/)
-- [Toggling state of the checkbox based on the viewport width in JavaScript](https://www.reddit.com/r/javascript/comments/xhivb0/toggling_state_of_the_checkbox_based_on_the/)
-- [[AskJS] Who first used the term &quot;spread operator&quot; re spread syntax ...?](https://www.reddit.com/r/javascript/comments/xhhqsz/askjs_who_first_used_the_term_spread_operator_re/)
-- [[AskJS] Non-jQueryDatatables alternative?](https://www.reddit.com/r/javascript/comments/xhfd0i/askjs_nonjquerydatatables_alternative/)
-- [New Strings Method in ES6 JavaScript](https://www.reddit.com/r/javascript/comments/xhdyoe/new_strings_method_in_es6_javascript/)
-- [I ported a large C++ library to the browser!](https://www.reddit.com/r/javascript/comments/xhd5u0/i_ported_a_large_c_library_to_the_browser/)
-- [Writing a TodoMVC App With Vanilla JS in 2022](https://www.reddit.com/r/javascript/comments/xhc8v1/writing_a_todomvc_app_with_vanilla_js_in_2022/)
-- [Callback Function in Javascript](https://www.reddit.com/r/javascript/comments/xhc1zw/callback_function_in_javascript/)
+- [A new VSCode extension that makes legacy code readable without touching the code, just using .yaml](https://www.reddit.com/r/javascript/comments/xixlp3/a_new_vscode_extension_that_makes_legacy_code/)
+- [Open sourced the React/XState UI framework I&#39;ve created at work over the past few years](https://www.reddit.com/r/javascript/comments/xispbx/open_sourced_the_reactxstate_ui_framework_ive/)
+- [Front-of-the-front-end and back-of-the-front-end web development](https://www.reddit.com/r/javascript/comments/ximwrl/frontofthefrontend_and_backofthefrontend_web/)
+- [I made a game development animation example using CSS + Javascript](https://www.reddit.com/r/javascript/comments/ximuww/i_made_a_game_development_animation_example_using/)
+- [Avoid the pain of mocking modules with dependency injection](https://www.reddit.com/r/javascript/comments/xik6mu/avoid_the_pain_of_mocking_modules_with_dependency/)
+- [Conditionally spreading objects in JavaScript](https://www.reddit.com/r/javascript/comments/xijwcg/conditionally_spreading_objects_in_javascript/)
+- [Build flexible GraphQL APIs by treating the Schema like a Database](https://www.reddit.com/r/javascript/comments/xidsfo/build_flexible_graphql_apis_by_treating_the/)
+- [Publish your newsletter to your Remix site with the ConvertKit API](https://www.reddit.com/r/javascript/comments/xidoot/publish_your_newsletter_to_your_remix_site_with/)
+- [Iterating over the other 80%](https://www.reddit.com/r/javascript/comments/xiazzk/iterating_over_the_other_80/)
+- [Centralized navigation in Angular with a SiteNavigation Service](https://www.reddit.com/r/javascript/comments/xi9mqe/centralized_navigation_in_angular_with_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
