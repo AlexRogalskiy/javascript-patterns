@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [A new VSCode extension that makes legacy code readable without touching the code, just using .yaml](https://www.reddit.com/r/javascript/comments/xixlp3/a_new_vscode_extension_that_makes_legacy_code/)
-- [Open sourced the React/XState UI framework I&#39;ve created at work over the past few years](https://www.reddit.com/r/javascript/comments/xispbx/open_sourced_the_reactxstate_ui_framework_ive/)
-- [Front-of-the-front-end and back-of-the-front-end web development](https://www.reddit.com/r/javascript/comments/ximwrl/frontofthefrontend_and_backofthefrontend_web/)
-- [I made a game development animation example using CSS + Javascript](https://www.reddit.com/r/javascript/comments/ximuww/i_made_a_game_development_animation_example_using/)
-- [Avoid the pain of mocking modules with dependency injection](https://www.reddit.com/r/javascript/comments/xik6mu/avoid_the_pain_of_mocking_modules_with_dependency/)
-- [Conditionally spreading objects in JavaScript](https://www.reddit.com/r/javascript/comments/xijwcg/conditionally_spreading_objects_in_javascript/)
-- [Build flexible GraphQL APIs by treating the Schema like a Database](https://www.reddit.com/r/javascript/comments/xidsfo/build_flexible_graphql_apis_by_treating_the/)
-- [Publish your newsletter to your Remix site with the ConvertKit API](https://www.reddit.com/r/javascript/comments/xidoot/publish_your_newsletter_to_your_remix_site_with/)
-- [Iterating over the other 80%](https://www.reddit.com/r/javascript/comments/xiazzk/iterating_over_the_other_80/)
-- [Centralized navigation in Angular with a SiteNavigation Service](https://www.reddit.com/r/javascript/comments/xi9mqe/centralized_navigation_in_angular_with_a/)
+- [Qwik - a new kind of web framework that can deliver instant loading web applications at any size or complexity. Your sites and apps can boot with about 1kb of JS &lpar;regardless of application complexity&rpar;, and achieve consistent performance at scale](https://www.reddit.com/r/javascript/comments/xjm3zj/qwik_a_new_kind_of_web_framework_that_can_deliver/)
+- [[AskJS] Entire app must compile to single HTML file, no dynamic local asset files. Need a suggestion on frameworks/build tools.](https://www.reddit.com/r/javascript/comments/xjk9e4/askjs_entire_app_must_compile_to_single_html_file/)
+- [`no-pipe` ESLint plugin](https://www.reddit.com/r/javascript/comments/xjgflc/nopipe_eslint_plugin/)
+- [Creating a Gantt Chart with React and NextJS](https://www.reddit.com/r/javascript/comments/xjeqnt/creating_a_gantt_chart_with_react_and_nextjs/)
+- [Amplication – Rapidly build production-ready Node.js backend without wasting time on repetitive coding](https://www.reddit.com/r/javascript/comments/xjd95z/amplication_rapidly_build_productionready_nodejs/)
+- [Event: HackSquad 2022](https://www.reddit.com/r/javascript/comments/xjcqoe/event_hacksquad_2022/)
+- [React I Love You, But You&#39;re Bringing Me Down](https://www.reddit.com/r/javascript/comments/xja3ky/react_i_love_you_but_youre_bringing_me_down/)
+- [Stop Using .env files now!](https://www.reddit.com/r/javascript/comments/xj9odz/stop_using_env_files_now/)
+- [Vue 3 Reactivity Breakdown](https://www.reddit.com/r/javascript/comments/xj9awg/vue_3_reactivity_breakdown/)
+- [Understand async JS by implementing custom Promises from scratch](https://www.reddit.com/r/javascript/comments/xj88n8/understand_async_js_by_implementing_custom/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
