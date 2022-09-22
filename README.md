@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Qwik - a new kind of web framework that can deliver instant loading web applications at any size or complexity. Your sites and apps can boot with about 1kb of JS &lpar;regardless of application complexity&rpar;, and achieve consistent performance at scale](https://www.reddit.com/r/javascript/comments/xjm3zj/qwik_a_new_kind_of_web_framework_that_can_deliver/)
-- [[AskJS] Entire app must compile to single HTML file, no dynamic local asset files. Need a suggestion on frameworks/build tools.](https://www.reddit.com/r/javascript/comments/xjk9e4/askjs_entire_app_must_compile_to_single_html_file/)
-- [`no-pipe` ESLint plugin](https://www.reddit.com/r/javascript/comments/xjgflc/nopipe_eslint_plugin/)
-- [Creating a Gantt Chart with React and NextJS](https://www.reddit.com/r/javascript/comments/xjeqnt/creating_a_gantt_chart_with_react_and_nextjs/)
-- [Amplication – Rapidly build production-ready Node.js backend without wasting time on repetitive coding](https://www.reddit.com/r/javascript/comments/xjd95z/amplication_rapidly_build_productionready_nodejs/)
-- [Event: HackSquad 2022](https://www.reddit.com/r/javascript/comments/xjcqoe/event_hacksquad_2022/)
-- [React I Love You, But You&#39;re Bringing Me Down](https://www.reddit.com/r/javascript/comments/xja3ky/react_i_love_you_but_youre_bringing_me_down/)
-- [Stop Using .env files now!](https://www.reddit.com/r/javascript/comments/xj9odz/stop_using_env_files_now/)
-- [Vue 3 Reactivity Breakdown](https://www.reddit.com/r/javascript/comments/xj9awg/vue_3_reactivity_breakdown/)
-- [Understand async JS by implementing custom Promises from scratch](https://www.reddit.com/r/javascript/comments/xj88n8/understand_async_js_by_implementing_custom/)
+- [Render live webpages in a Miro-like canvas, and present like Prezi, using NodeJS, and Electron.](https://www.reddit.com/r/javascript/comments/xkq3dt/render_live_webpages_in_a_mirolike_canvas_and/)
+- [elegant solution to the building a z-index layout for an entire application, and avoid using &quot;magic&quot; values like 9999, 10001, etc.](https://www.reddit.com/r/javascript/comments/xklp2d/elegant_solution_to_the_building_a_zindex_layout/)
+- [GitHub - Vue+Vite with FastAPI backend to perform stable diffusion image generation](https://www.reddit.com/r/javascript/comments/xkj23q/github_vuevite_with_fastapi_backend_to_perform/)
+- [JavaScript APIs You Don’t Know About &lpar;Page Visibility, Web Share, Broadcast Channel, Internationalization&rpar;](https://www.reddit.com/r/javascript/comments/xkivxm/javascript_apis_you_dont_know_about_page/)
+- [Cross-site request forgery vulnerability in popular npm package csurf](https://www.reddit.com/r/javascript/comments/xkgdmz/crosssite_request_forgery_vulnerability_in/)
+- [ESLint plugin: disallow the ?.&lpar; optional-call operator](https://www.reddit.com/r/javascript/comments/xkgc7q/eslint_plugin_disallow_the_optionalcall_operator/)
+- [Create an emoji ball-drop game with Matter.js](https://www.reddit.com/r/javascript/comments/xkfbz9/create_an_emoji_balldrop_game_with_matterjs/)
+- [Mapping out concepts within JS - input appreciated](https://www.reddit.com/r/javascript/comments/xk8y2k/mapping_out_concepts_within_js_input_appreciated/)
+- [How to dynamically inject JS/CSS into a webpage](https://www.reddit.com/r/javascript/comments/xk6jo1/how_to_dynamically_inject_jscss_into_a_webpage/)
+- [GitHub - Lucifier129/functional-di: Dependency injection in functional style](https://www.reddit.com/r/javascript/comments/xk4unm/github_lucifier129functionaldi_dependency/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
