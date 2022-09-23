@@ -352,6 +352,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *javascript programmer posts*
 
 <!-- METEOR-POST-LIST:START -->
+- [Insane productivity with the CHARM stack](https://blog.meteor.com/insane-productivity-with-the-charm-stack-e819c693c0de?source=rss----a9bcaf865278---4)
 - [Apify + Meteor: Making the Web More Programmable Together](https://blog.meteor.com/apify-meteor-making-the-web-more-programmable-together-adfbf907e376?source=rss----a9bcaf865278---4)
 - [How to update your app that uses an old version of Meteor?](https://blog.meteor.com/how-to-update-your-app-that-uses-an-old-version-of-meteor-15c3239b46ce?source=rss----a9bcaf865278---4)
 - [Meteor Monthly Update — August 2022](https://blog.meteor.com/meteor-monthly-update-august-2022-479cbdbfd9c4?source=rss----a9bcaf865278---4)
@@ -361,7 +362,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Roti.express Slays Unproductive Meetings with Meteor](https://blog.meteor.com/roti-express-slays-unproductive-meetings-with-meteor-c35925c8bf48?source=rss----a9bcaf865278---4)
 - [Meteor Monthly Update — June 2022](https://blog.meteor.com/meteor-monthly-update-june-2022-58223c219ab5?source=rss----a9bcaf865278---4)
 - [Meteor + Web3: Building an NFT Marketplace](https://blog.meteor.com/meteor-web3-building-an-nft-marketplace-9484b321e426?source=rss----a9bcaf865278---4)
-- [How to Use Meteor With React Hooks](https://blog.meteor.com/how-to-use-meteor-with-react-hooks-7e1791daabab?source=rss----a9bcaf865278---4)
 <!-- METEOR-POST-LIST:END -->
 
 ### *Dreamix posts*
