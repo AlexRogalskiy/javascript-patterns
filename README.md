@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Render live webpages in a Miro-like canvas, and present like Prezi, using NodeJS, and Electron.](https://www.reddit.com/r/javascript/comments/xkq3dt/render_live_webpages_in_a_mirolike_canvas_and/)
-- [elegant solution to the building a z-index layout for an entire application, and avoid using &quot;magic&quot; values like 9999, 10001, etc.](https://www.reddit.com/r/javascript/comments/xklp2d/elegant_solution_to_the_building_a_zindex_layout/)
-- [GitHub - Vue+Vite with FastAPI backend to perform stable diffusion image generation](https://www.reddit.com/r/javascript/comments/xkj23q/github_vuevite_with_fastapi_backend_to_perform/)
-- [JavaScript APIs You Don’t Know About &lpar;Page Visibility, Web Share, Broadcast Channel, Internationalization&rpar;](https://www.reddit.com/r/javascript/comments/xkivxm/javascript_apis_you_dont_know_about_page/)
-- [Cross-site request forgery vulnerability in popular npm package csurf](https://www.reddit.com/r/javascript/comments/xkgdmz/crosssite_request_forgery_vulnerability_in/)
-- [ESLint plugin: disallow the ?.&lpar; optional-call operator](https://www.reddit.com/r/javascript/comments/xkgc7q/eslint_plugin_disallow_the_optionalcall_operator/)
-- [Create an emoji ball-drop game with Matter.js](https://www.reddit.com/r/javascript/comments/xkfbz9/create_an_emoji_balldrop_game_with_matterjs/)
-- [Mapping out concepts within JS - input appreciated](https://www.reddit.com/r/javascript/comments/xk8y2k/mapping_out_concepts_within_js_input_appreciated/)
-- [How to dynamically inject JS/CSS into a webpage](https://www.reddit.com/r/javascript/comments/xk6jo1/how_to_dynamically_inject_jscss_into_a_webpage/)
-- [GitHub - Lucifier129/functional-di: Dependency injection in functional style](https://www.reddit.com/r/javascript/comments/xk4unm/github_lucifier129functionaldi_dependency/)
+- [[AskJS] How to get better at Logic Building Javascript!](https://www.reddit.com/r/javascript/comments/xlca3z/askjs_how_to_get_better_at_logic_building/)
+- [JavaScript landscape is exciting again](https://www.reddit.com/r/javascript/comments/xlbvtx/javascript_landscape_is_exciting_again/)
+- [[AskJS] Thoughts on the existing Vue devtool ecosystem?](https://www.reddit.com/r/javascript/comments/xlaavy/askjs_thoughts_on_the_existing_vue_devtool/)
+- [Fixing Obscure Bugs: Apache, GZip, ETags, &amp; Edge Compute](https://www.reddit.com/r/javascript/comments/xl5a8k/fixing_obscure_bugs_apache_gzip_etags_edge_compute/)
+- [ducktyper: A tool for quick input validation](https://www.reddit.com/r/javascript/comments/xl4ff9/ducktyper_a_tool_for_quick_input_validation/)
+- [Custom boilerplate generator for Node.JS AP | Codetruck - I invite you to try and give us feedback about it](https://www.reddit.com/r/javascript/comments/xkyt5a/custom_boilerplate_generator_for_nodejs_ap/)
+- [Database GUIs in JavaScript](https://www.reddit.com/r/javascript/comments/xkyo5i/database_guis_in_javascript/)
+- [Everything You Need to Know About JavaScript Import Maps](https://www.reddit.com/r/javascript/comments/xkyj4y/everything_you_need_to_know_about_javascript/)
+- [Render live webpages in a Miro-like canvas, and present like Prezi, using NodeJS, and Electron.](https://www.reddit.com/r/javascript/comments/xkty69/render_live_webpages_in_a_mirolike_canvas_and/)
+- [I am tired of seeing remote jobs but only within certain countries. So, I made a site to curate completely location independent jobs from various sources. It now has around 500 work from anywhere job opportunities.](https://www.reddit.com/r/javascript/comments/xktpn8/i_am_tired_of_seeing_remote_jobs_but_only_within/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
