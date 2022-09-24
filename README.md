@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] How to get better at Logic Building Javascript!](https://www.reddit.com/r/javascript/comments/xlca3z/askjs_how_to_get_better_at_logic_building/)
-- [JavaScript landscape is exciting again](https://www.reddit.com/r/javascript/comments/xlbvtx/javascript_landscape_is_exciting_again/)
-- [[AskJS] Thoughts on the existing Vue devtool ecosystem?](https://www.reddit.com/r/javascript/comments/xlaavy/askjs_thoughts_on_the_existing_vue_devtool/)
-- [Fixing Obscure Bugs: Apache, GZip, ETags, &amp; Edge Compute](https://www.reddit.com/r/javascript/comments/xl5a8k/fixing_obscure_bugs_apache_gzip_etags_edge_compute/)
-- [ducktyper: A tool for quick input validation](https://www.reddit.com/r/javascript/comments/xl4ff9/ducktyper_a_tool_for_quick_input_validation/)
-- [Custom boilerplate generator for Node.JS AP | Codetruck - I invite you to try and give us feedback about it](https://www.reddit.com/r/javascript/comments/xkyt5a/custom_boilerplate_generator_for_nodejs_ap/)
-- [Database GUIs in JavaScript](https://www.reddit.com/r/javascript/comments/xkyo5i/database_guis_in_javascript/)
-- [Everything You Need to Know About JavaScript Import Maps](https://www.reddit.com/r/javascript/comments/xkyj4y/everything_you_need_to_know_about_javascript/)
-- [Render live webpages in a Miro-like canvas, and present like Prezi, using NodeJS, and Electron.](https://www.reddit.com/r/javascript/comments/xkty69/render_live_webpages_in_a_mirolike_canvas_and/)
-- [I am tired of seeing remote jobs but only within certain countries. So, I made a site to curate completely location independent jobs from various sources. It now has around 500 work from anywhere job opportunities.](https://www.reddit.com/r/javascript/comments/xktpn8/i_am_tired_of_seeing_remote_jobs_but_only_within/)
+- [Introduction to ReactJS](https://www.reddit.com/r/javascript/comments/xm8n7w/introduction_to_reactjs/)
+- [Announcing TypeScript 4.9 Beta](https://www.reddit.com/r/javascript/comments/xm7oo0/announcing_typescript_49_beta/)
+- [Writing composable SQL using JavaScript](https://www.reddit.com/r/javascript/comments/xm79c2/writing_composable_sql_using_javascript/)
+- [matrix &lpar;web-based green code rain&rpar;](https://www.reddit.com/r/javascript/comments/xm4uqq/matrix_webbased_green_code_rain/)
+- [I made this Bezier Curve Generator with JavaScript!](https://www.reddit.com/r/javascript/comments/xm2ddq/i_made_this_bezier_curve_generator_with_javascript/)
+- [Smarketman - Add react components to any static page](https://www.reddit.com/r/javascript/comments/xlz4ip/smarketman_add_react_components_to_any_static_page/)
+- [[AskJS] How do I find skilled people to collab with?](https://www.reddit.com/r/javascript/comments/xlyxvo/askjs_how_do_i_find_skilled_people_to_collab_with/)
+- [Highlight Key Sentences in a Document on Browser](https://www.reddit.com/r/javascript/comments/xlyb7o/highlight_key_sentences_in_a_document_on_browser/)
+- [Debugging tests with react testing library](https://www.reddit.com/r/javascript/comments/xlu4qk/debugging_tests_with_react_testing_library/)
+- [Code-Runner-Web-Component: A web component that allows you to run high level programming languages on your websites &lpar;static websites included!&rpar;](https://www.reddit.com/r/javascript/comments/xlt2cn/coderunnerwebcomponent_a_web_component_that/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
