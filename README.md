@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Introduction to ReactJS](https://www.reddit.com/r/javascript/comments/xm8n7w/introduction_to_reactjs/)
+- [Video Game Loading Animation with HTML + CSS](https://www.reddit.com/r/javascript/comments/xn94ms/video_game_loading_animation_with_html_css/)
+- [Learn Which Common Patterns Were Replaced by Custom Hooks](https://www.reddit.com/r/javascript/comments/xn0a1d/learn_which_common_patterns_were_replaced_by/)
+- [A free tool to translate your i18next resources... Respects also interpolated values and plurals.](https://www.reddit.com/r/javascript/comments/xmxa8g/a_free_tool_to_translate_your_i18next_resources/)
+- [Made query language for your cache for NodeJS, thoughts?](https://www.reddit.com/r/javascript/comments/xmx4d5/made_query_language_for_your_cache_for_nodejs/)
+- [What is TypeScript &amp; why should I use it? - Written for JavaScript-only holdouts](https://www.reddit.com/r/javascript/comments/xmwdij/what_is_typescript_why_should_i_use_it_written/)
+- [Read Visual Foxpro tables &lpar;dbfs&rpar; using this JS library](https://www.reddit.com/r/javascript/comments/xmss1b/read_visual_foxpro_tables_dbfs_using_this_js/)
+- [The new wave of Javascript web frameworks](https://www.reddit.com/r/javascript/comments/xmmtac/the_new_wave_of_javascript_web_frameworks/)
+- [Showoff Saturday &lpar;September 24, 2022&rpar;](https://www.reddit.com/r/javascript/comments/xmlopb/showoff_saturday_september_24_2022/)
 - [Announcing TypeScript 4.9 Beta](https://www.reddit.com/r/javascript/comments/xm7oo0/announcing_typescript_49_beta/)
 - [Writing composable SQL using JavaScript](https://www.reddit.com/r/javascript/comments/xm79c2/writing_composable_sql_using_javascript/)
-- [matrix &lpar;web-based green code rain&rpar;](https://www.reddit.com/r/javascript/comments/xm4uqq/matrix_webbased_green_code_rain/)
-- [I made this Bezier Curve Generator with JavaScript!](https://www.reddit.com/r/javascript/comments/xm2ddq/i_made_this_bezier_curve_generator_with_javascript/)
-- [Smarketman - Add react components to any static page](https://www.reddit.com/r/javascript/comments/xlz4ip/smarketman_add_react_components_to_any_static_page/)
-- [[AskJS] How do I find skilled people to collab with?](https://www.reddit.com/r/javascript/comments/xlyxvo/askjs_how_do_i_find_skilled_people_to_collab_with/)
-- [Highlight Key Sentences in a Document on Browser](https://www.reddit.com/r/javascript/comments/xlyb7o/highlight_key_sentences_in_a_document_on_browser/)
-- [Debugging tests with react testing library](https://www.reddit.com/r/javascript/comments/xlu4qk/debugging_tests_with_react_testing_library/)
-- [Code-Runner-Web-Component: A web component that allows you to run high level programming languages on your websites &lpar;static websites included!&rpar;](https://www.reddit.com/r/javascript/comments/xlt2cn/coderunnerwebcomponent_a_web_component_that/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
