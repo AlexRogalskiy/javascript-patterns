@@ -381,6 +381,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *NodeSource posts*
 
 <!-- NODESOURCE-POST-LIST:START -->
+- [Announcing N|Solid v4.8.2](https://nodesource.com/blog/announcing-NSolid-version-482)
 - [How To Avoid SSR Load Issues in Node.js](https://nodesource.com/blog/ssr-load-issues-in-n)
 - [Low cost IoT device monitoring with Node.js](https://nodesource.com/blog/Low-cost-IoT-device-monitoring-with-Nodejs)
 - [Announcing N|Solid v4.8.1](https://nodesource.com/blog/announcing-NSolid-version-4.8.1)
@@ -390,7 +391,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Vulnerability Scanning &amp; 3rd-Party Modules Certification in N|Solid [8/10] The best APM for Node, layer by layer.](https://nodesource.com/blog/NSolid-Vulnerability-Scanning-3rdPartyModules-Certification)
 - [Capture Heap Snapshots in N|Solid [7/10] The best APM for Node, layer by layer.](https://nodesource.com/blog/NSolid-Capture-Heap-Snapshots)
 - [Worker Threads Monitoring in N|Solid [6/10] The best APM for Node, layer by layer.](https://nodesource.com/blog/NSolid-Worker-Threads-Monitoring)
-- [Memory Anomaly Detection in N|Solid [5/10] The best APM for Node, layer by layer](https://nodesource.com/blog/NSolid-Memory-Anomaly-Detection)
 <!-- NODESOURCE-POST-LIST:END -->
 
 ### *React Native posts*
