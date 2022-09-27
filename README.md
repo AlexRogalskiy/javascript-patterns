@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Introduction to Typescript](https://www.reddit.com/r/javascript/comments/xo6m5t/introduction_to_typescript/)
-- [How to keep front-end project and design system in sync](https://www.reddit.com/r/javascript/comments/xns59m/how_to_keep_frontend_project_and_design_system_in/)
-- [TSON validators started supporting Template Literal Types](https://www.reddit.com/r/javascript/comments/xnqv36/tson_validators_started_supporting_template/)
-- [Get in Zoomer, We&#39;re Saving React](https://www.reddit.com/r/javascript/comments/xnnv0s/get_in_zoomer_were_saving_react/)
-- [Web Scraping Google With Node JS - A Complete Guide](https://www.reddit.com/r/javascript/comments/xnm38e/web_scraping_google_with_node_js_a_complete_guide/)
-- [Logic programming with JSON.](https://www.reddit.com/r/javascript/comments/xnfs9m/logic_programming_with_json/)
-- [Learn Which Common Patterns Were Replaced by Custom Hooks](https://www.reddit.com/r/javascript/comments/xn0a1d/learn_which_common_patterns_were_replaced_by/)
-- [Made query language for your cache for NodeJS, thoughts?](https://www.reddit.com/r/javascript/comments/xmx4d5/made_query_language_for_your_cache_for_nodejs/)
-- [What is TypeScript &amp; why should I use it? - Written for JavaScript-only holdouts](https://www.reddit.com/r/javascript/comments/xmwdij/what_is_typescript_why_should_i_use_it_written/)
-- [Read Visual Foxpro tables &lpar;dbfs&rpar; using this JS library](https://www.reddit.com/r/javascript/comments/xmss1b/read_visual_foxpro_tables_dbfs_using_this_js/)
+- [Learn Complete JavaScript From Scratch](https://www.reddit.com/r/javascript/comments/xoyay6/learn_complete_javascript_from_scratch/)
+- [Free Comprehensive Webinar: Ways on How to Optimize JavaScript Apps](https://www.reddit.com/r/javascript/comments/xowq8d/free_comprehensive_webinar_ways_on_how_to/)
+- [How to mock API request directly in google chrome](https://www.reddit.com/r/javascript/comments/xowiv9/how_to_mock_api_request_directly_in_google_chrome/)
+- [Easily upload, create and modify &lpar;multiple&rpar; local files, on the fly, in the browser and jump between them without losing changes. With WebAssembly and JS](https://www.reddit.com/r/javascript/comments/xowd1e/easily_upload_create_and_modify_multiple_local/)
+- [Adding IPFS to my JavaScript OS](https://www.reddit.com/r/javascript/comments/xov1nh/adding_ipfs_to_my_javascript_os/)
+- [A quick guide to cell phone vibration with JavaScript](https://www.reddit.com/r/javascript/comments/xome6z/a_quick_guide_to_cell_phone_vibration_with/)
+- [Voby: Simplifications Over Solid - No Babel, No Compiler](https://www.reddit.com/r/javascript/comments/xolghx/voby_simplifications_over_solid_no_babel_no/)
+- [Conditionally add a new property to JS objects](https://www.reddit.com/r/javascript/comments/xof8yd/conditionally_add_a_new_property_to_js_objects/)
+- [Implement Heatmaps using HightCharts in ReactJS](https://www.reddit.com/r/javascript/comments/xof75o/implement_heatmaps_using_hightcharts_in_reactjs/)
+- [Subsecond: jQuery is the best way to transform a node tree. Why not use it for Codemod?](https://www.reddit.com/r/javascript/comments/xob7n9/subsecond_jquery_is_the_best_way_to_transform_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
