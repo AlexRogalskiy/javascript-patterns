@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Learn Complete JavaScript From Scratch](https://www.reddit.com/r/javascript/comments/xoyay6/learn_complete_javascript_from_scratch/)
-- [Free Comprehensive Webinar: Ways on How to Optimize JavaScript Apps](https://www.reddit.com/r/javascript/comments/xowq8d/free_comprehensive_webinar_ways_on_how_to/)
-- [How to mock API request directly in google chrome](https://www.reddit.com/r/javascript/comments/xowiv9/how_to_mock_api_request_directly_in_google_chrome/)
-- [Easily upload, create and modify &lpar;multiple&rpar; local files, on the fly, in the browser and jump between them without losing changes. With WebAssembly and JS](https://www.reddit.com/r/javascript/comments/xowd1e/easily_upload_create_and_modify_multiple_local/)
-- [Adding IPFS to my JavaScript OS](https://www.reddit.com/r/javascript/comments/xov1nh/adding_ipfs_to_my_javascript_os/)
-- [A quick guide to cell phone vibration with JavaScript](https://www.reddit.com/r/javascript/comments/xome6z/a_quick_guide_to_cell_phone_vibration_with/)
-- [Voby: Simplifications Over Solid - No Babel, No Compiler](https://www.reddit.com/r/javascript/comments/xolghx/voby_simplifications_over_solid_no_babel_no/)
-- [Conditionally add a new property to JS objects](https://www.reddit.com/r/javascript/comments/xof8yd/conditionally_add_a_new_property_to_js_objects/)
-- [Implement Heatmaps using HightCharts in ReactJS](https://www.reddit.com/r/javascript/comments/xof75o/implement_heatmaps_using_hightcharts_in_reactjs/)
-- [Subsecond: jQuery is the best way to transform a node tree. Why not use it for Codemod?](https://www.reddit.com/r/javascript/comments/xob7n9/subsecond_jquery_is_the_best_way_to_transform_a/)
+- [[AskJS] How do you build email automations for events?](https://www.reddit.com/r/javascript/comments/xpw1b5/askjs_how_do_you_build_email_automations_for/)
+- [[AskJS] Has anyone had experience with greatfrontend?](https://www.reddit.com/r/javascript/comments/xpssu0/askjs_has_anyone_had_experience_with_greatfrontend/)
+- [What is System Design? Types of IP Addresses, OSI models, and TCP/UDP Protocols.](https://www.reddit.com/r/javascript/comments/xpspbm/what_is_system_design_types_of_ip_addresses_osi/)
+- [How we built a Postgres Database UI using Next.js on top of Hasura’s GraphQL Engine](https://www.reddit.com/r/javascript/comments/xpmha2/how_we_built_a_postgres_database_ui_using_nextjs/)
+- [immediate results playground](https://www.reddit.com/r/javascript/comments/xpko4d/immediate_results_playground/)
+- [The unique 4-colors-ID string generator in JavaScript](https://www.reddit.com/r/javascript/comments/xpjqen/the_unique_4colorsid_string_generator_in/)
+- [[AskJS] Do you consider ESM to have more benefits than drawbacks in node?](https://www.reddit.com/r/javascript/comments/xpiwpw/askjs_do_you_consider_esm_to_have_more_benefits/)
+- [Track Node.js traffic, errors &amp; analytics directly into your db](https://www.reddit.com/r/javascript/comments/xpijy7/track_nodejs_traffic_errors_analytics_directly/)
+- [How I generate my UI tests](https://www.reddit.com/r/javascript/comments/xpiiof/how_i_generate_my_ui_tests/)
+- [React Native Vs Flutter - Which One Should You Choose?](https://www.reddit.com/r/javascript/comments/xphm4j/react_native_vs_flutter_which_one_should_you/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
