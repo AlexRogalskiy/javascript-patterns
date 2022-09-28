@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [New TypeScript operator finds coding mistakes](https://www.infoworld.com/article/3674814/new-typescript-operator-finds-coding-mistakes.html#tk.rss_javascript)
 - [Intro to Redwood.js: Rapid application development with React](https://www.infoworld.com/article/3673314/intro-to-redwoodjs-rapid-application-development-with-react.html#tk.rss_javascript)
 - [Brendan Eich: Don’t blame cookies and JavaScript](https://www.infoworld.com/article/3673292/brendan-eich-dont-blame-cookies-and-javascript.html#tk.rss_javascript)
 - [Intro to Blitz.js: A full-stack framework for Next.js](https://www.infoworld.com/article/3673088/intro-to-blitzjs-a-full-stack-framework-for-nextjs.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [What is JSON? The universal data format](https://www.infoworld.com/article/3222851/what-is-json-a-better-format-for-data-exchange.html#tk.rss_javascript)
 - [Intro to Astro: Clever lazy loading for JavaScript](https://www.infoworld.com/article/3669877/intro-to-astro-clever-lazy-loading-for-javascript.html#tk.rss_javascript)
 - [Deno tees up easy NPM imports, speed boosts](https://www.infoworld.com/article/3670634/deno-tees-up-easy-npm-imports-speed-boosts.html#tk.rss_javascript)
-- [Angular 15 promises to simplify development](https://www.infoworld.com/article/3669889/angular-15-promises-to-simplify-development.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
