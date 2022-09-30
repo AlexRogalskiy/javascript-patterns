@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] How can I load only some data at a time in a d3 force-directed graph?](https://www.reddit.com/r/javascript/comments/xqoa6n/askjs_how_can_i_load_only_some_data_at_a_time_in/)
-- [Scalable WebSocket Architecture for Multiplayer Games](https://www.reddit.com/r/javascript/comments/xqi7r4/scalable_websocket_architecture_for_multiplayer/)
-- [Building educational TypeScript tooling](https://www.reddit.com/r/javascript/comments/xqh4ti/building_educational_typescript_tooling/)
-- [Controllers and Middleware in Express App](https://www.reddit.com/r/javascript/comments/xqgz90/controllers_and_middleware_in_express_app/)
-- [[Tutorial]: 2 Ways to Use Your Own Docker Image in Github Actions](https://www.reddit.com/r/javascript/comments/xqess3/tutorial_2_ways_to_use_your_own_docker_image_in/)
-- [Found this github repo.](https://www.reddit.com/r/javascript/comments/xqeeb7/found_this_github_repo/)
-- [Dev without Ops - Why we are building Vercel for Backend, the Infraless Cloud](https://www.reddit.com/r/javascript/comments/xqcwbo/dev_without_ops_why_we_are_building_vercel_for/)
-- [Headless CMS Performance Test - Payload vs. Directus vs. Strapi](https://www.reddit.com/r/javascript/comments/xqc0iv/headless_cms_performance_test_payload_vs_directus/)
-- [GitHub - cloudflare/workerd - Cloudflare&#39;s JavaScript/Wasm Runtime](https://www.reddit.com/r/javascript/comments/xqbksp/github_cloudflareworkerd_cloudflares/)
-- [Impulse – Impossible Dev Tools for React and Tailwind](https://www.reddit.com/r/javascript/comments/xqbif1/impulse_impossible_dev_tools_for_react_and/)
+- [TypeScript 4.9: &quot;Satisfies&quot; Operator Finds Coding Mistakes](https://www.reddit.com/r/javascript/comments/xrmxng/typescript_49_satisfies_operator_finds_coding/)
+- [Javascript Fetch Wrapper](https://www.reddit.com/r/javascript/comments/xrjpob/javascript_fetch_wrapper/)
+- [[Academic] Research on confusing code patterns in JavaScript](https://www.reddit.com/r/javascript/comments/xrgpju/academic_research_on_confusing_code_patterns_in/)
+- [VS Code Timeline Restores Lost Work That Git Can&#39;t](https://www.reddit.com/r/javascript/comments/xrec7k/vs_code_timeline_restores_lost_work_that_git_cant/)
+- [Free online book: “Shell scripting with Node.js” [show reddit]](https://www.reddit.com/r/javascript/comments/xrcs3j/free_online_book_shell_scripting_with_nodejs_show/)
+- [Authenticate users with Face ID is easier than you think with WebAuthn](https://www.reddit.com/r/javascript/comments/xrcd5x/authenticate_users_with_face_id_is_easier_than/)
+- [Liqe – lightweight Lucene-like parser and serializer for JavaScript](https://www.reddit.com/r/javascript/comments/xr8t64/liqe_lightweight_lucenelike_parser_and_serializer/)
+- [[AskJS] Is there any convention on naming &quot;Crockford object&quot; constructors?](https://www.reddit.com/r/javascript/comments/xr71nh/askjs_is_there_any_convention_on_naming_crockford/)
+- [Jsx Mail - A framework for creating email templates](https://www.reddit.com/r/javascript/comments/xr6nf3/jsx_mail_a_framework_for_creating_email_templates/)
+- [Design: #noFramework. Is it as hard as you think? | by Jérôme Beau | Medium](https://www.reddit.com/r/javascript/comments/xr4ztr/design_noframework_is_it_as_hard_as_you_think_by/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
