@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [TypeScript 4.9: &quot;Satisfies&quot; Operator Finds Coding Mistakes](https://www.reddit.com/r/javascript/comments/xrmxng/typescript_49_satisfies_operator_finds_coding/)
-- [Javascript Fetch Wrapper](https://www.reddit.com/r/javascript/comments/xrjpob/javascript_fetch_wrapper/)
-- [[Academic] Research on confusing code patterns in JavaScript](https://www.reddit.com/r/javascript/comments/xrgpju/academic_research_on_confusing_code_patterns_in/)
-- [VS Code Timeline Restores Lost Work That Git Can&#39;t](https://www.reddit.com/r/javascript/comments/xrec7k/vs_code_timeline_restores_lost_work_that_git_cant/)
-- [Free online book: “Shell scripting with Node.js” [show reddit]](https://www.reddit.com/r/javascript/comments/xrcs3j/free_online_book_shell_scripting_with_nodejs_show/)
-- [Authenticate users with Face ID is easier than you think with WebAuthn](https://www.reddit.com/r/javascript/comments/xrcd5x/authenticate_users_with_face_id_is_easier_than/)
-- [Liqe – lightweight Lucene-like parser and serializer for JavaScript](https://www.reddit.com/r/javascript/comments/xr8t64/liqe_lightweight_lucenelike_parser_and_serializer/)
-- [[AskJS] Is there any convention on naming &quot;Crockford object&quot; constructors?](https://www.reddit.com/r/javascript/comments/xr71nh/askjs_is_there_any_convention_on_naming_crockford/)
-- [Jsx Mail - A framework for creating email templates](https://www.reddit.com/r/javascript/comments/xr6nf3/jsx_mail_a_framework_for_creating_email_templates/)
-- [Design: #noFramework. Is it as hard as you think? | by Jérôme Beau | Medium](https://www.reddit.com/r/javascript/comments/xr4ztr/design_noframework_is_it_as_hard_as_you_think_by/)
+- [69 Lessons from the New React Docs](https://www.reddit.com/r/javascript/comments/xsegsv/69_lessons_from_the_new_react_docs/)
+- [node_modules: How one character saved 50 GB of disk space](https://www.reddit.com/r/javascript/comments/xse3o7/node_modules_how_one_character_saved_50_gb_of/)
+- [Collection of some useful integrations &amp; components for the Astro ecosystem.](https://www.reddit.com/r/javascript/comments/xsbhkz/collection_of_some_useful_integrations_components/)
+- [video-gif-converter is an NPM package that can be used to convert videos to GIFs and vice-versa using ffmpeg and gifski. They are both installed automatically as dependencies by this package.](https://www.reddit.com/r/javascript/comments/xs87rd/videogifconverter_is_an_npm_package_that_can_be/)
+- [gifski-command is an open-source Node.js module wrapper for the gifski GIF encoder CLI available on NPM. Convert video frames into high-quality GIFs.](https://www.reddit.com/r/javascript/comments/xs87cl/gifskicommand_is_an_opensource_nodejs_module/)
+- [math.gl - a collection of math modules for Geospatial and 3D/WebGL visualization use cases](https://www.reddit.com/r/javascript/comments/xs7omj/mathgl_a_collection_of_math_modules_for/)
+- [Building advanced SQL search from a user text input](https://www.reddit.com/r/javascript/comments/xs6p1c/building_advanced_sql_search_from_a_user_text/)
+- [Wren: A small, but powerful HTTP library for Deno, built for convenience and simplicity](https://www.reddit.com/r/javascript/comments/xs69rm/wren_a_small_but_powerful_http_library_for_deno/)
+- [Beware The Function With The Boolean Arg](https://www.reddit.com/r/javascript/comments/xs5ujt/beware_the_function_with_the_boolean_arg/)
+- [Green API Hackathon: $40k top prize, $100k pool. Microsoft, Intel, Goldman Sachs](https://www.reddit.com/r/javascript/comments/xs3044/green_api_hackathon_40k_top_prize_100k_pool/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
