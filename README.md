@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Deno 1.26 improves Node.js compatibility, npm support](https://www.infoworld.com/article/3675537/deno-126-improves-nodejs-compatibility-npm-support.html#tk.rss_javascript)
 - [Where JavaScript is headed in 2022](https://www.infoworld.com/article/3674859/where-javascript-is-headed-in-2022.html#tk.rss_javascript)
 - [New TypeScript operator finds coding mistakes](https://www.infoworld.com/article/3674814/new-typescript-operator-finds-coding-mistakes.html#tk.rss_javascript)
 - [Intro to Redwood.js: Rapid application development with React](https://www.infoworld.com/article/3673314/intro-to-redwoodjs-rapid-application-development-with-react.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [CodeSee launches enterprise plan with service maps](https://www.infoworld.com/article/3671988/codesee-launches-enterprise-plan-with-service-maps.html#tk.rss_javascript)
 - [TypeScript 4.8 shines on intersection and union types](https://www.infoworld.com/article/3664928/typescript-48-fixes-file-watching-on-linux-macos.html#tk.rss_javascript)
 - [What is JSON? The universal data format](https://www.infoworld.com/article/3222851/what-is-json-a-better-format-for-data-exchange.html#tk.rss_javascript)
-- [Intro to Astro: Clever lazy loading for JavaScript](https://www.infoworld.com/article/3669877/intro-to-astro-clever-lazy-loading-for-javascript.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
