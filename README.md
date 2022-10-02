@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] How can I use the &quot;store&quot; keyword out of js context?](https://www.reddit.com/r/javascript/comments/xtbzeq/askjs_how_can_i_use_the_store_keyword_out_of_js/)
+- [Making React fast by default and truly reactive](https://www.reddit.com/r/javascript/comments/xt6d3r/making_react_fast_by_default_and_truly_reactive/)
+- [Fire Range Slider](https://www.reddit.com/r/javascript/comments/xt3oe2/fire_range_slider/)
+- [Ten Years of TypeScript](https://www.reddit.com/r/javascript/comments/xt2tk2/ten_years_of_typescript/)
+- [Logto - Open-source alternative to Auth0, with cross-platform UI and dark mode out-of-the-box](https://www.reddit.com/r/javascript/comments/xszgoq/logto_opensource_alternative_to_auth0_with/)
+- [I have made Draggable nav bar with solid vue](https://www.reddit.com/r/javascript/comments/xsqd92/i_have_made_draggable_nav_bar_with_solid_vue/)
+- [Showoff Saturday &lpar;October 01, 2022&rpar;](https://www.reddit.com/r/javascript/comments/xsolxp/showoff_saturday_october_01_2022/)
+- [Advanced JavaScript Tetris](https://www.reddit.com/r/javascript/comments/xso38t/advanced_javascript_tetris/)
 - [69 Lessons from the New React Docs](https://www.reddit.com/r/javascript/comments/xsegsv/69_lessons_from_the_new_react_docs/)
 - [node_modules: How one character saved 50 GB of disk space](https://www.reddit.com/r/javascript/comments/xse3o7/node_modules_how_one_character_saved_50_gb_of/)
-- [Collection of some useful integrations &amp; components for the Astro ecosystem.](https://www.reddit.com/r/javascript/comments/xsbhkz/collection_of_some_useful_integrations_components/)
-- [video-gif-converter is an NPM package that can be used to convert videos to GIFs and vice-versa using ffmpeg and gifski. They are both installed automatically as dependencies by this package.](https://www.reddit.com/r/javascript/comments/xs87rd/videogifconverter_is_an_npm_package_that_can_be/)
-- [gifski-command is an open-source Node.js module wrapper for the gifski GIF encoder CLI available on NPM. Convert video frames into high-quality GIFs.](https://www.reddit.com/r/javascript/comments/xs87cl/gifskicommand_is_an_opensource_nodejs_module/)
-- [math.gl - a collection of math modules for Geospatial and 3D/WebGL visualization use cases](https://www.reddit.com/r/javascript/comments/xs7omj/mathgl_a_collection_of_math_modules_for/)
-- [Building advanced SQL search from a user text input](https://www.reddit.com/r/javascript/comments/xs6p1c/building_advanced_sql_search_from_a_user_text/)
-- [Wren: A small, but powerful HTTP library for Deno, built for convenience and simplicity](https://www.reddit.com/r/javascript/comments/xs69rm/wren_a_small_but_powerful_http_library_for_deno/)
-- [Beware The Function With The Boolean Arg](https://www.reddit.com/r/javascript/comments/xs5ujt/beware_the_function_with_the_boolean_arg/)
-- [Green API Hackathon: $40k top prize, $100k pool. Microsoft, Intel, Goldman Sachs](https://www.reddit.com/r/javascript/comments/xs3044/green_api_hackathon_40k_top_prize_100k_pool/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
