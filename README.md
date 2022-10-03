@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] How can I use the &quot;store&quot; keyword out of js context?](https://www.reddit.com/r/javascript/comments/xtbzeq/askjs_how_can_i_use_the_store_keyword_out_of_js/)
+- [Must know Javascript Array Methods](https://www.reddit.com/r/javascript/comments/xtzson/must_know_javascript_array_methods/)
+- [Foiled npm typosquatting attack targeted packages with cumulative 1.5bn weekly downloads](https://www.reddit.com/r/javascript/comments/xtwkzh/foiled_npm_typosquatting_attack_targeted_packages/)
+- [uFuzzy.js – A tiny, efficient fuzzy search that doesn&#39;t suck](https://www.reddit.com/r/javascript/comments/xtrszc/ufuzzyjs_a_tiny_efficient_fuzzy_search_that/)
+- [OpenJS Foundation Cross Project Council, 13 Sep 2022 open meeting](https://www.reddit.com/r/javascript/comments/xtrss1/openjs_foundation_cross_project_council_13_sep/)
+- [Working with database in Express App](https://www.reddit.com/r/javascript/comments/xtr7jx/working_with_database_in_express_app/)
+- [How to write your own state management library](https://www.reddit.com/r/javascript/comments/xtps0z/how_to_write_your_own_state_management_library/)
 - [Making React fast by default and truly reactive](https://www.reddit.com/r/javascript/comments/xt6d3r/making_react_fast_by_default_and_truly_reactive/)
 - [Fire Range Slider](https://www.reddit.com/r/javascript/comments/xt3oe2/fire_range_slider/)
 - [Ten Years of TypeScript](https://www.reddit.com/r/javascript/comments/xt2tk2/ten_years_of_typescript/)
 - [Logto - Open-source alternative to Auth0, with cross-platform UI and dark mode out-of-the-box](https://www.reddit.com/r/javascript/comments/xszgoq/logto_opensource_alternative_to_auth0_with/)
-- [I have made Draggable nav bar with solid vue](https://www.reddit.com/r/javascript/comments/xsqd92/i_have_made_draggable_nav_bar_with_solid_vue/)
-- [Showoff Saturday &lpar;October 01, 2022&rpar;](https://www.reddit.com/r/javascript/comments/xsolxp/showoff_saturday_october_01_2022/)
-- [Advanced JavaScript Tetris](https://www.reddit.com/r/javascript/comments/xso38t/advanced_javascript_tetris/)
-- [69 Lessons from the New React Docs](https://www.reddit.com/r/javascript/comments/xsegsv/69_lessons_from_the_new_react_docs/)
-- [node_modules: How one character saved 50 GB of disk space](https://www.reddit.com/r/javascript/comments/xse3o7/node_modules_how_one_character_saved_50_gb_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
