@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Must know Javascript Array Methods](https://www.reddit.com/r/javascript/comments/xtzson/must_know_javascript_array_methods/)
-- [Foiled npm typosquatting attack targeted packages with cumulative 1.5bn weekly downloads](https://www.reddit.com/r/javascript/comments/xtwkzh/foiled_npm_typosquatting_attack_targeted_packages/)
-- [uFuzzy.js – A tiny, efficient fuzzy search that doesn&#39;t suck](https://www.reddit.com/r/javascript/comments/xtrszc/ufuzzyjs_a_tiny_efficient_fuzzy_search_that/)
-- [OpenJS Foundation Cross Project Council, 13 Sep 2022 open meeting](https://www.reddit.com/r/javascript/comments/xtrss1/openjs_foundation_cross_project_council_13_sep/)
-- [Working with database in Express App](https://www.reddit.com/r/javascript/comments/xtr7jx/working_with_database_in_express_app/)
-- [How to write your own state management library](https://www.reddit.com/r/javascript/comments/xtps0z/how_to_write_your_own_state_management_library/)
-- [Making React fast by default and truly reactive](https://www.reddit.com/r/javascript/comments/xt6d3r/making_react_fast_by_default_and_truly_reactive/)
-- [Fire Range Slider](https://www.reddit.com/r/javascript/comments/xt3oe2/fire_range_slider/)
-- [Ten Years of TypeScript](https://www.reddit.com/r/javascript/comments/xt2tk2/ten_years_of_typescript/)
-- [Logto - Open-source alternative to Auth0, with cross-platform UI and dark mode out-of-the-box](https://www.reddit.com/r/javascript/comments/xszgoq/logto_opensource_alternative_to_auth0_with/)
+- [tiny-csrf: dead simple cross-site request forgery &lpar;csrf&rpar; library for ExpressJS](https://www.reddit.com/r/javascript/comments/xv09ip/tinycsrf_dead_simple_crosssite_request_forgery/)
+- [Side Projects | Portfolio &amp; Blog website with Notion API](https://www.reddit.com/r/javascript/comments/xux5uf/side_projects_portfolio_blog_website_with_notion/)
+- [Fastest Frontend Tooling in 2022](https://www.reddit.com/r/javascript/comments/xuoidl/fastest_frontend_tooling_in_2022/)
+- [Visual regression testing of PDF documents](https://www.reddit.com/r/javascript/comments/xunjwd/visual_regression_testing_of_pdf_documents/)
+- [Introduction to Higher-Order Components in React](https://www.reddit.com/r/javascript/comments/xul7c9/introduction_to_higherorder_components_in_react/)
+- [Full-Stack Web Authentication - Part 1](https://www.reddit.com/r/javascript/comments/xujbs4/fullstack_web_authentication_part_1/)
+- [The difference between “undefined” and “not defined” in JavaScript](https://www.reddit.com/r/javascript/comments/xuhy3d/the_difference_between_undefined_and_not_defined/)
+- [How to handle multiple queries with React-Query](https://www.reddit.com/r/javascript/comments/xufm30/how_to_handle_multiple_queries_with_reactquery/)
+- [Creating perfect TabContainers - the neo.mjs v4.3 release](https://www.reddit.com/r/javascript/comments/xucgdj/creating_perfect_tabcontainers_the_neomjs_v43/)
+- [Import maps land in webkit](https://www.reddit.com/r/javascript/comments/xub6ek/import_maps_land_in_webkit/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
