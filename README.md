@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Bun JavaScript runtime is in the oven](https://www.infoworld.com/article/3675351/bun-javascript-runtime-is-in-the-oven.html#tk.rss_javascript)
 - [What is Node.js? The JavaScript runtime explained](https://www.infoworld.com/article/3210589/what-is-nodejs-javascript-runtime-explained.html#tk.rss_javascript)
 - [Deno 1.26 improves Node.js compatibility, npm support](https://www.infoworld.com/article/3675537/deno-126-improves-nodejs-compatibility-npm-support.html#tk.rss_javascript)
 - [Where JavaScript is headed in 2022](https://www.infoworld.com/article/3674859/where-javascript-is-headed-in-2022.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Intro to Blitz.js: A full-stack framework for Next.js](https://www.infoworld.com/article/3673088/intro-to-blitzjs-a-full-stack-framework-for-nextjs.html#tk.rss_javascript)
 - [Error tracking with JavaScript, React, and Sentry](https://www.infoworld.com/article/3671874/error-tracking-with-javascript-react-and-sentry.html#tk.rss_javascript)
 - [CodeSee launches enterprise plan with service maps](https://www.infoworld.com/article/3671988/codesee-launches-enterprise-plan-with-service-maps.html#tk.rss_javascript)
-- [TypeScript 4.8 shines on intersection and union types](https://www.infoworld.com/article/3664928/typescript-48-fixes-file-watching-on-linux-macos.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
