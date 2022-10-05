@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Simple javascript database that can replace local storage?](https://www.reddit.com/r/javascript/comments/xvxiv1/askjs_simple_javascript_database_that_can_replace/)
+- [Axios reaches 1.0.0](https://www.reddit.com/r/javascript/comments/xvsb0e/axios_reaches_100/)
+- [VS Code Community Discussions for Extension Authors](https://www.reddit.com/r/javascript/comments/xvp71c/vs_code_community_discussions_for_extension/)
+- [[AskJS] Would a language-agnostic framework make your life easier?](https://www.reddit.com/r/javascript/comments/xvocds/askjs_would_a_languageagnostic_framework_make/)
+- [TSON runtime validators support every TypeScript types](https://www.reddit.com/r/javascript/comments/xvnjli/tson_runtime_validators_support_every_typescript/)
+- [[AskJS] Do you have a favorite framework you default to and why?](https://www.reddit.com/r/javascript/comments/xvjenj/askjs_do_you_have_a_favorite_framework_you/)
+- [[AskJS] Are build and deploy times such a big deal?](https://www.reddit.com/r/javascript/comments/xviw8s/askjs_are_build_and_deploy_times_such_a_big_deal/)
+- [SOM JS - A Kohenen Self Organizing Feature Map is an algorithmic tool for grouping likes together in a two dimensional space.](https://www.reddit.com/r/javascript/comments/xv874q/som_js_a_kohenen_self_organizing_feature_map_is/)
 - [tiny-csrf: dead simple cross-site request forgery &lpar;csrf&rpar; library for ExpressJS](https://www.reddit.com/r/javascript/comments/xv09ip/tinycsrf_dead_simple_crosssite_request_forgery/)
 - [Side Projects | Portfolio &amp; Blog website with Notion API](https://www.reddit.com/r/javascript/comments/xux5uf/side_projects_portfolio_blog_website_with_notion/)
-- [Fastest Frontend Tooling in 2022](https://www.reddit.com/r/javascript/comments/xuoidl/fastest_frontend_tooling_in_2022/)
-- [Visual regression testing of PDF documents](https://www.reddit.com/r/javascript/comments/xunjwd/visual_regression_testing_of_pdf_documents/)
-- [Introduction to Higher-Order Components in React](https://www.reddit.com/r/javascript/comments/xul7c9/introduction_to_higherorder_components_in_react/)
-- [Full-Stack Web Authentication - Part 1](https://www.reddit.com/r/javascript/comments/xujbs4/fullstack_web_authentication_part_1/)
-- [The difference between “undefined” and “not defined” in JavaScript](https://www.reddit.com/r/javascript/comments/xuhy3d/the_difference_between_undefined_and_not_defined/)
-- [How to handle multiple queries with React-Query](https://www.reddit.com/r/javascript/comments/xufm30/how_to_handle_multiple_queries_with_reactquery/)
-- [Creating perfect TabContainers - the neo.mjs v4.3 release](https://www.reddit.com/r/javascript/comments/xucgdj/creating_perfect_tabcontainers_the_neomjs_v43/)
-- [Import maps land in webkit](https://www.reddit.com/r/javascript/comments/xub6ek/import_maps_land_in_webkit/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
