@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Simple javascript database that can replace local storage?](https://www.reddit.com/r/javascript/comments/xvxiv1/askjs_simple_javascript_database_that_can_replace/)
-- [Axios reaches 1.0.0](https://www.reddit.com/r/javascript/comments/xvsb0e/axios_reaches_100/)
-- [VS Code Community Discussions for Extension Authors](https://www.reddit.com/r/javascript/comments/xvp71c/vs_code_community_discussions_for_extension/)
-- [[AskJS] Would a language-agnostic framework make your life easier?](https://www.reddit.com/r/javascript/comments/xvocds/askjs_would_a_languageagnostic_framework_make/)
-- [TSON runtime validators support every TypeScript types](https://www.reddit.com/r/javascript/comments/xvnjli/tson_runtime_validators_support_every_typescript/)
-- [[AskJS] Do you have a favorite framework you default to and why?](https://www.reddit.com/r/javascript/comments/xvjenj/askjs_do_you_have_a_favorite_framework_you/)
-- [[AskJS] Are build and deploy times such a big deal?](https://www.reddit.com/r/javascript/comments/xviw8s/askjs_are_build_and_deploy_times_such_a_big_deal/)
-- [SOM JS - A Kohenen Self Organizing Feature Map is an algorithmic tool for grouping likes together in a two dimensional space.](https://www.reddit.com/r/javascript/comments/xv874q/som_js_a_kohenen_self_organizing_feature_map_is/)
-- [tiny-csrf: dead simple cross-site request forgery &lpar;csrf&rpar; library for ExpressJS](https://www.reddit.com/r/javascript/comments/xv09ip/tinycsrf_dead_simple_crosssite_request_forgery/)
-- [Side Projects | Portfolio &amp; Blog website with Notion API](https://www.reddit.com/r/javascript/comments/xux5uf/side_projects_portfolio_blog_website_with_notion/)
+- [Popular Node.js patterns and tools to re-consider](https://www.reddit.com/r/javascript/comments/xwslln/popular_nodejs_patterns_and_tools_to_reconsider/)
+- [[AskJS] React libs with charts](https://www.reddit.com/r/javascript/comments/xwp19n/askjs_react_libs_with_charts/)
+- [SurveyJS form builder libraries with integration for React, Angular, Vuejs, and jQuery](https://www.reddit.com/r/javascript/comments/xwn6ty/surveyjs_form_builder_libraries_with_integration/)
+- [Zx 7.1.0 release](https://www.reddit.com/r/javascript/comments/xwlqug/zx_710_release/)
+- [StackAid - Fund all your JS dependencies with a single subscription](https://www.reddit.com/r/javascript/comments/xwgt09/stackaid_fund_all_your_js_dependencies_with_a/)
+- [Megalo: A Deno HTTP server framework inspired by Fastify. Focused on being fast and easy to use. Just got support for generating OpenAPI specifications &amp; Swagger UI.](https://www.reddit.com/r/javascript/comments/xwgcc5/megalo_a_deno_http_server_framework_inspired_by/)
+- [Subsecond Playground: Simple Structured Code Modification](https://www.reddit.com/r/javascript/comments/xwfqvx/subsecond_playground_simple_structured_code/)
+- [Start Reinventing the Wheel, Maybe Your Wheel will be better than a Rocket!](https://www.reddit.com/r/javascript/comments/xwdxf4/start_reinventing_the_wheel_maybe_your_wheel_will/)
+- [SvelteUI is an all inclusive Svelte library - Components, Actions, Utilities, Animations](https://www.reddit.com/r/javascript/comments/xwbgay/svelteui_is_an_all_inclusive_svelte_library/)
+- [I built an open-source Spotify Wrapped for Text Messages](https://www.reddit.com/r/javascript/comments/xwb4mi/i_built_an_opensource_spotify_wrapped_for_text/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
