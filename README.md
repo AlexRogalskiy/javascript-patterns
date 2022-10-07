@@ -292,6 +292,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [A beginner&#39;s guide to using Observable JavaScript, R, and Python with Quarto](https://www.infoworld.com/article/3674789/a-beginners-guide-to-using-observable-javascript-r-and-python-with-quarto.html#tk.rss_javascript)
+- [Data visualization with Observable JavaScript](https://www.infoworld.com/article/3674852/data-visualization-with-observable-javascript.html#tk.rss_javascript)
+- [Learn Observable JavaScript with Observable notebooks](https://www.infoworld.com/article/3674809/learn-observable-javascript-with-observable-notebooks.html#tk.rss_javascript)
 - [TypeScript turns 10 years old](https://www.infoworld.com/article/3675546/typescript-turns-10-years-old.html#tk.rss_javascript)
 - [Bun JavaScript runtime is in the oven](https://www.infoworld.com/article/3675351/bun-javascript-runtime-is-in-the-oven.html#tk.rss_javascript)
 - [What is Node.js? The JavaScript runtime explained](https://www.infoworld.com/article/3210589/what-is-nodejs-javascript-runtime-explained.html#tk.rss_javascript)
@@ -299,9 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Where JavaScript is headed in 2022](https://www.infoworld.com/article/3674859/where-javascript-is-headed-in-2022.html#tk.rss_javascript)
 - [New TypeScript operator finds coding mistakes](https://www.infoworld.com/article/3674814/new-typescript-operator-finds-coding-mistakes.html#tk.rss_javascript)
 - [Intro to Redwood.js: Rapid application development with React](https://www.infoworld.com/article/3673314/intro-to-redwoodjs-rapid-application-development-with-react.html#tk.rss_javascript)
-- [Brendan Eich: Don’t blame cookies and JavaScript](https://www.infoworld.com/article/3673292/brendan-eich-dont-blame-cookies-and-javascript.html#tk.rss_javascript)
-- [Intro to Blitz.js: A full-stack framework for Next.js](https://www.infoworld.com/article/3673088/intro-to-blitzjs-a-full-stack-framework-for-nextjs.html#tk.rss_javascript)
-- [Error tracking with JavaScript, React, and Sentry](https://www.infoworld.com/article/3671874/error-tracking-with-javascript-react-and-sentry.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
