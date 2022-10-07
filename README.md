@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Canvas-Based Pumpkin Carver](https://www.reddit.com/r/javascript/comments/xxmv7z/canvasbased_pumpkin_carver/)
+- [What is the diffence between var, let and const?](https://www.reddit.com/r/javascript/comments/xxj7rg/what_is_the_diffence_between_var_let_and_const/)
+- [You may not need an SQL query builder or ORM](https://www.reddit.com/r/javascript/comments/xxeqgj/you_may_not_need_an_sql_query_builder_or_orm/)
+- [Visual Studio Code September 2022](https://www.reddit.com/r/javascript/comments/xxblhr/visual_studio_code_september_2022/)
+- [13 top games + source code from JS13K competition](https://www.reddit.com/r/javascript/comments/xxaq9p/13_top_games_source_code_from_js13k_competition/)
+- [A NodeJS serverless function that can run logic programming code :&rpar;](https://www.reddit.com/r/javascript/comments/xxapwe/a_nodejs_serverless_function_that_can_run_logic/)
+- [If you want to set up a form with a group of fields that repeat and you want to enable respondents to add a fresh copy of the same fields on the fly, for example to list education or places of work, SurveyJS libraries is the way to go. I prepared this demo of duplicate group option implementation.](https://www.reddit.com/r/javascript/comments/xxaktr/if_you_want_to_set_up_a_form_with_a_group_of/)
+- [Contrast adds SAST support for client-side JavaScript including Angular, React, and JQuery](https://www.reddit.com/r/javascript/comments/xwydz8/contrast_adds_sast_support_for_clientside/)
+- [Let&#39;s Code Mubasic-like Piano Keys](https://www.reddit.com/r/javascript/comments/xwxayk/lets_code_mubasiclike_piano_keys/)
 - [Popular Node.js patterns and tools to re-consider](https://www.reddit.com/r/javascript/comments/xwslln/popular_nodejs_patterns_and_tools_to_reconsider/)
-- [[AskJS] React libs with charts](https://www.reddit.com/r/javascript/comments/xwp19n/askjs_react_libs_with_charts/)
-- [SurveyJS form builder libraries with integration for React, Angular, Vuejs, and jQuery](https://www.reddit.com/r/javascript/comments/xwn6ty/surveyjs_form_builder_libraries_with_integration/)
-- [Zx 7.1.0 release](https://www.reddit.com/r/javascript/comments/xwlqug/zx_710_release/)
-- [StackAid - Fund all your JS dependencies with a single subscription](https://www.reddit.com/r/javascript/comments/xwgt09/stackaid_fund_all_your_js_dependencies_with_a/)
-- [Megalo: A Deno HTTP server framework inspired by Fastify. Focused on being fast and easy to use. Just got support for generating OpenAPI specifications &amp; Swagger UI.](https://www.reddit.com/r/javascript/comments/xwgcc5/megalo_a_deno_http_server_framework_inspired_by/)
-- [Subsecond Playground: Simple Structured Code Modification](https://www.reddit.com/r/javascript/comments/xwfqvx/subsecond_playground_simple_structured_code/)
-- [Start Reinventing the Wheel, Maybe Your Wheel will be better than a Rocket!](https://www.reddit.com/r/javascript/comments/xwdxf4/start_reinventing_the_wheel_maybe_your_wheel_will/)
-- [SvelteUI is an all inclusive Svelte library - Components, Actions, Utilities, Animations](https://www.reddit.com/r/javascript/comments/xwbgay/svelteui_is_an_all_inclusive_svelte_library/)
-- [I built an open-source Spotify Wrapped for Text Messages](https://www.reddit.com/r/javascript/comments/xwb4mi/i_built_an_opensource_spotify_wrapped_for_text/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
