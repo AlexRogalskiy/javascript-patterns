@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Canvas-Based Pumpkin Carver](https://www.reddit.com/r/javascript/comments/xxmv7z/canvasbased_pumpkin_carver/)
-- [What is the diffence between var, let and const?](https://www.reddit.com/r/javascript/comments/xxj7rg/what_is_the_diffence_between_var_let_and_const/)
-- [You may not need an SQL query builder or ORM](https://www.reddit.com/r/javascript/comments/xxeqgj/you_may_not_need_an_sql_query_builder_or_orm/)
-- [Visual Studio Code September 2022](https://www.reddit.com/r/javascript/comments/xxblhr/visual_studio_code_september_2022/)
-- [13 top games + source code from JS13K competition](https://www.reddit.com/r/javascript/comments/xxaq9p/13_top_games_source_code_from_js13k_competition/)
-- [A NodeJS serverless function that can run logic programming code :&rpar;](https://www.reddit.com/r/javascript/comments/xxapwe/a_nodejs_serverless_function_that_can_run_logic/)
-- [If you want to set up a form with a group of fields that repeat and you want to enable respondents to add a fresh copy of the same fields on the fly, for example to list education or places of work, SurveyJS libraries is the way to go. I prepared this demo of duplicate group option implementation.](https://www.reddit.com/r/javascript/comments/xxaktr/if_you_want_to_set_up_a_form_with_a_group_of/)
-- [Contrast adds SAST support for client-side JavaScript including Angular, React, and JQuery](https://www.reddit.com/r/javascript/comments/xwydz8/contrast_adds_sast_support_for_clientside/)
-- [Let&#39;s Code Mubasic-like Piano Keys](https://www.reddit.com/r/javascript/comments/xwxayk/lets_code_mubasiclike_piano_keys/)
-- [Popular Node.js patterns and tools to re-consider](https://www.reddit.com/r/javascript/comments/xwslln/popular_nodejs_patterns_and_tools_to_reconsider/)
+- [Installing and running Node.js bin scripts](https://www.reddit.com/r/javascript/comments/xyg2bj/installing_and_running_nodejs_bin_scripts/)
+- [[AskJS] Are Templating Engines Used In Enterprise Development?](https://www.reddit.com/r/javascript/comments/xydj3h/askjs_are_templating_engines_used_in_enterprise/)
+- [Implications of choosing State instead of Cache: The guide towards the implications of choosing to use State to handle remote data.](https://www.reddit.com/r/javascript/comments/xybyvk/implications_of_choosing_state_instead_of_cache/)
+- [Why We Use Babylon.js Instead Of Three.js in 2022](https://www.reddit.com/r/javascript/comments/xya6ku/why_we_use_babylonjs_instead_of_threejs_in_2022/)
+- [React Native App Performance Research &lpar;see how fetching 10k+ objects perform on Android/iOS using JavaScript-based Mobile Development&rpar;](https://www.reddit.com/r/javascript/comments/xy8mpe/react_native_app_performance_research_see_how/)
+- [[AskJS] Support science and help your favorite non-profit organization by participating in a short online experiment.](https://www.reddit.com/r/javascript/comments/xy5st4/askjs_support_science_and_help_your_favorite/)
+- [Debugging semantic release not detecting older tags](https://www.reddit.com/r/javascript/comments/xy4ex6/debugging_semantic_release_not_detecting_older/)
+- [I Turned My Linkedin Automation Startup Into An Open-Source](https://www.reddit.com/r/javascript/comments/xy3s55/i_turned_my_linkedin_automation_startup_into_an/)
+- [[AskJS] Is there any alternative to the strong migrations gem?](https://www.reddit.com/r/javascript/comments/xy3pxu/askjs_is_there_any_alternative_to_the_strong/)
+- [Axios shipped a buggy version and it broke many productions apps. Let this be a lesson to pin your dependencies!](https://www.reddit.com/r/javascript/comments/xy166e/axios_shipped_a_buggy_version_and_it_broke_many/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
