@@ -352,6 +352,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *javascript programmer posts*
 
 <!-- METEOR-POST-LIST:START -->
+- [Meteor Monthly Update — September 2022](https://blog.meteor.com/meteor-monthly-update-september-2022-f527948e22c8?source=rss----a9bcaf865278---4)
 - [Insane productivity with the CHARM stack](https://blog.meteor.com/insane-productivity-with-the-charm-stack-e819c693c0de?source=rss----a9bcaf865278---4)
 - [Apify + Meteor: Making the Web More Programmable Together](https://blog.meteor.com/apify-meteor-making-the-web-more-programmable-together-adfbf907e376?source=rss----a9bcaf865278---4)
 - [How to update your app that uses an old version of Meteor?](https://blog.meteor.com/how-to-update-your-app-that-uses-an-old-version-of-meteor-15c3239b46ce?source=rss----a9bcaf865278---4)
@@ -361,7 +362,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Meteor Monthly Update — July 2022](https://blog.meteor.com/meteor-monthly-update-july-2022-b486e6dd8ccc?source=rss----a9bcaf865278---4)
 - [Roti.express Slays Unproductive Meetings with Meteor](https://blog.meteor.com/roti-express-slays-unproductive-meetings-with-meteor-c35925c8bf48?source=rss----a9bcaf865278---4)
 - [Meteor Monthly Update — June 2022](https://blog.meteor.com/meteor-monthly-update-june-2022-58223c219ab5?source=rss----a9bcaf865278---4)
-- [Meteor + Web3: Building an NFT Marketplace](https://blog.meteor.com/meteor-web3-building-an-nft-marketplace-9484b321e426?source=rss----a9bcaf865278---4)
 <!-- METEOR-POST-LIST:END -->
 
 ### *Dreamix posts*
