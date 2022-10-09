@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [TypeScript is now officially 10 years old!](https://www.reddit.com/r/javascript/comments/xz5yo1/typescript_is_now_officially_10_years_old/)
+- [I made 1,000x faster TypeScript Validator Lbirary &lpar;benchmark of typescript-json vs ajv vs io-ts vs zod&rpar;](https://www.reddit.com/r/javascript/comments/xyxn39/i_made_1000x_faster_typescript_validator_lbirary/)
+- [Intl Explorer &lpar;v2&rpar; - A playground for JavaScript internationalization APIs](https://www.reddit.com/r/javascript/comments/xyn27b/intl_explorer_v2_a_playground_for_javascript/)
+- [Showoff Saturday &lpar;October 08, 2022&rpar;](https://www.reddit.com/r/javascript/comments/xylzb7/showoff_saturday_october_08_2022/)
 - [Installing and running Node.js bin scripts](https://www.reddit.com/r/javascript/comments/xyg2bj/installing_and_running_nodejs_bin_scripts/)
 - [[AskJS] Are Templating Engines Used In Enterprise Development?](https://www.reddit.com/r/javascript/comments/xydj3h/askjs_are_templating_engines_used_in_enterprise/)
 - [Implications of choosing State instead of Cache: The guide towards the implications of choosing to use State to handle remote data.](https://www.reddit.com/r/javascript/comments/xybyvk/implications_of_choosing_state_instead_of_cache/)
 - [Why We Use Babylon.js Instead Of Three.js in 2022](https://www.reddit.com/r/javascript/comments/xya6ku/why_we_use_babylonjs_instead_of_threejs_in_2022/)
 - [React Native App Performance Research &lpar;see how fetching 10k+ objects perform on Android/iOS using JavaScript-based Mobile Development&rpar;](https://www.reddit.com/r/javascript/comments/xy8mpe/react_native_app_performance_research_see_how/)
 - [[AskJS] Support science and help your favorite non-profit organization by participating in a short online experiment.](https://www.reddit.com/r/javascript/comments/xy5st4/askjs_support_science_and_help_your_favorite/)
-- [Debugging semantic release not detecting older tags](https://www.reddit.com/r/javascript/comments/xy4ex6/debugging_semantic_release_not_detecting_older/)
-- [I Turned My Linkedin Automation Startup Into An Open-Source](https://www.reddit.com/r/javascript/comments/xy3s55/i_turned_my_linkedin_automation_startup_into_an/)
-- [[AskJS] Is there any alternative to the strong migrations gem?](https://www.reddit.com/r/javascript/comments/xy3pxu/askjs_is_there_any_alternative_to_the_strong/)
-- [Axios shipped a buggy version and it broke many productions apps. Let this be a lesson to pin your dependencies!](https://www.reddit.com/r/javascript/comments/xy166e/axios_shipped_a_buggy_version_and_it_broke_many/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
