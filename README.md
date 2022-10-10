@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] How do people do animated scrolls?](https://www.reddit.com/r/javascript/comments/y01rte/askjs_how_do_people_do_animated_scrolls/)
+- [p8g 0.8.0 - 2D graphics library for C, C++, Java and JavaScript](https://www.reddit.com/r/javascript/comments/xzv1qz/p8g_080_2d_graphics_library_for_c_c_java_and/)
+- [[AskJS] What treats make you a good programmer?](https://www.reddit.com/r/javascript/comments/xzucct/askjs_what_treats_make_you_a_good_programmer/)
+- [What&#39;s new in Angular 15](https://www.reddit.com/r/javascript/comments/xzrgqs/whats_new_in_angular_15/)
+- [MediaElement proposal for animation &amp; interactive video](https://www.reddit.com/r/javascript/comments/xzl5pk/mediaelement_proposal_for_animation_interactive/)
+- [Js Charts - Bar &#39;Rewind&#39; Feature ..... Any JS Charts Library with Bar Rewind Feature . Trading view has a similar Bar Replay Feature.](https://www.reddit.com/r/javascript/comments/xzjn2t/js_charts_bar_rewind_feature_any_js_charts/)
 - [TypeScript is now officially 10 years old!](https://www.reddit.com/r/javascript/comments/xz5yo1/typescript_is_now_officially_10_years_old/)
 - [I made 1,000x faster TypeScript Validator Lbirary &lpar;benchmark of typescript-json vs ajv vs io-ts vs zod&rpar;](https://www.reddit.com/r/javascript/comments/xyxn39/i_made_1000x_faster_typescript_validator_lbirary/)
 - [Intl Explorer &lpar;v2&rpar; - A playground for JavaScript internationalization APIs](https://www.reddit.com/r/javascript/comments/xyn27b/intl_explorer_v2_a_playground_for_javascript/)
 - [Showoff Saturday &lpar;October 08, 2022&rpar;](https://www.reddit.com/r/javascript/comments/xylzb7/showoff_saturday_october_08_2022/)
-- [Installing and running Node.js bin scripts](https://www.reddit.com/r/javascript/comments/xyg2bj/installing_and_running_nodejs_bin_scripts/)
-- [[AskJS] Are Templating Engines Used In Enterprise Development?](https://www.reddit.com/r/javascript/comments/xydj3h/askjs_are_templating_engines_used_in_enterprise/)
-- [Implications of choosing State instead of Cache: The guide towards the implications of choosing to use State to handle remote data.](https://www.reddit.com/r/javascript/comments/xybyvk/implications_of_choosing_state_instead_of_cache/)
-- [Why We Use Babylon.js Instead Of Three.js in 2022](https://www.reddit.com/r/javascript/comments/xya6ku/why_we_use_babylonjs_instead_of_threejs_in_2022/)
-- [React Native App Performance Research &lpar;see how fetching 10k+ objects perform on Android/iOS using JavaScript-based Mobile Development&rpar;](https://www.reddit.com/r/javascript/comments/xy8mpe/react_native_app_performance_research_see_how/)
-- [[AskJS] Support science and help your favorite non-profit organization by participating in a short online experiment.](https://www.reddit.com/r/javascript/comments/xy5st4/askjs_support_science_and_help_your_favorite/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
