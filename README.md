@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] How do people do animated scrolls?](https://www.reddit.com/r/javascript/comments/y01rte/askjs_how_do_people_do_animated_scrolls/)
+- [Implementing HTTP over UDP in Node.js — An introduction to TCP and UDP in Node.js, and a Quic mention of HTTP/3](https://www.reddit.com/r/javascript/comments/y0osmb/implementing_http_over_udp_in_nodejs_an/)
+- [Improving Firefox responsiveness on macOS](https://www.reddit.com/r/javascript/comments/y0nf3c/improving_firefox_responsiveness_on_macos/)
+- [Server-Side Rendering in React 18](https://www.reddit.com/r/javascript/comments/y0m2c2/serverside_rendering_in_react_18/)
+- [Day.js - Fast 2kB alternative to Moment.js with the same modern API](https://www.reddit.com/r/javascript/comments/y0fwaq/dayjs_fast_2kb_alternative_to_momentjs_with_the/)
+- [Choosing the best Node.js Docker image](https://www.reddit.com/r/javascript/comments/y0dw4i/choosing_the_best_nodejs_docker_image/)
+- [How I created a GameBoy-like game in 13kb](https://www.reddit.com/r/javascript/comments/y0a50z/how_i_created_a_gameboylike_game_in_13kb/)
+- [Data visualization with Observable JavaScript](https://www.reddit.com/r/javascript/comments/y09htd/data_visualization_with_observable_javascript/)
+- [Write code in Indian Languages and get it transpile to javascript. Added multiple Indian languages support.](https://www.reddit.com/r/javascript/comments/y082qu/write_code_in_indian_languages_and_get_it/)
 - [p8g 0.8.0 - 2D graphics library for C, C++, Java and JavaScript](https://www.reddit.com/r/javascript/comments/xzv1qz/p8g_080_2d_graphics_library_for_c_c_java_and/)
 - [[AskJS] What treats make you a good programmer?](https://www.reddit.com/r/javascript/comments/xzucct/askjs_what_treats_make_you_a_good_programmer/)
-- [What&#39;s new in Angular 15](https://www.reddit.com/r/javascript/comments/xzrgqs/whats_new_in_angular_15/)
-- [MediaElement proposal for animation &amp; interactive video](https://www.reddit.com/r/javascript/comments/xzl5pk/mediaelement_proposal_for_animation_interactive/)
-- [Js Charts - Bar &#39;Rewind&#39; Feature ..... Any JS Charts Library with Bar Rewind Feature . Trading view has a similar Bar Replay Feature.](https://www.reddit.com/r/javascript/comments/xzjn2t/js_charts_bar_rewind_feature_any_js_charts/)
-- [TypeScript is now officially 10 years old!](https://www.reddit.com/r/javascript/comments/xz5yo1/typescript_is_now_officially_10_years_old/)
-- [I made 1,000x faster TypeScript Validator Lbirary &lpar;benchmark of typescript-json vs ajv vs io-ts vs zod&rpar;](https://www.reddit.com/r/javascript/comments/xyxn39/i_made_1000x_faster_typescript_validator_lbirary/)
-- [Intl Explorer &lpar;v2&rpar; - A playground for JavaScript internationalization APIs](https://www.reddit.com/r/javascript/comments/xyn27b/intl_explorer_v2_a_playground_for_javascript/)
-- [Showoff Saturday &lpar;October 08, 2022&rpar;](https://www.reddit.com/r/javascript/comments/xylzb7/showoff_saturday_october_08_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
