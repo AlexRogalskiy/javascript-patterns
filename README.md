@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Implementing HTTP over UDP in Node.js — An introduction to TCP and UDP in Node.js, and a Quic mention of HTTP/3](https://www.reddit.com/r/javascript/comments/y0osmb/implementing_http_over_udp_in_nodejs_an/)
-- [Improving Firefox responsiveness on macOS](https://www.reddit.com/r/javascript/comments/y0nf3c/improving_firefox_responsiveness_on_macos/)
-- [Server-Side Rendering in React 18](https://www.reddit.com/r/javascript/comments/y0m2c2/serverside_rendering_in_react_18/)
-- [Day.js - Fast 2kB alternative to Moment.js with the same modern API](https://www.reddit.com/r/javascript/comments/y0fwaq/dayjs_fast_2kb_alternative_to_momentjs_with_the/)
-- [Choosing the best Node.js Docker image](https://www.reddit.com/r/javascript/comments/y0dw4i/choosing_the_best_nodejs_docker_image/)
-- [How I created a GameBoy-like game in 13kb](https://www.reddit.com/r/javascript/comments/y0a50z/how_i_created_a_gameboylike_game_in_13kb/)
-- [Data visualization with Observable JavaScript](https://www.reddit.com/r/javascript/comments/y09htd/data_visualization_with_observable_javascript/)
-- [Write code in Indian Languages and get it transpile to javascript. Added multiple Indian languages support.](https://www.reddit.com/r/javascript/comments/y082qu/write_code_in_indian_languages_and_get_it/)
-- [p8g 0.8.0 - 2D graphics library for C, C++, Java and JavaScript](https://www.reddit.com/r/javascript/comments/xzv1qz/p8g_080_2d_graphics_library_for_c_c_java_and/)
-- [[AskJS] What treats make you a good programmer?](https://www.reddit.com/r/javascript/comments/xzucct/askjs_what_treats_make_you_a_good_programmer/)
+- [PowerShell, NPM Scripts, and Silently Dropped Arguments](https://www.reddit.com/r/javascript/comments/y1syms/powershell_npm_scripts_and_silently_dropped/)
+- [I made a tiny website on top of OpenAI Codex for finding and sharing code snippets.](https://www.reddit.com/r/javascript/comments/y1lsiy/i_made_a_tiny_website_on_top_of_openai_codex_for/)
+- [CesiumJS - a JavaScript library for creating 3D globes and 2D maps in a web browser without a plugin. It uses WebGL for hardware-accelerated graphics, and is cross-platform, cross-browser, and tuned for dynamic-data visualization](https://www.reddit.com/r/javascript/comments/y19u2v/cesiumjs_a_javascript_library_for_creating_3d/)
+- [Betafish - a chess engine and AI move finder written in Javascript, based on the Negamax algorithm](https://www.reddit.com/r/javascript/comments/y19qi1/betafish_a_chess_engine_and_ai_move_finder/)
+- [[AskJS] What YouTube channels you watching to stay updated on JS world?](https://www.reddit.com/r/javascript/comments/y19dsb/askjs_what_youtube_channels_you_watching_to_stay/)
+- [Vercel library to convert HTML and CSS to SVG &lpar;good for OG images&rpar;](https://www.reddit.com/r/javascript/comments/y15tjl/vercel_library_to_convert_html_and_css_to_svg/)
+- [Easy auditing &amp; sandboxing for your JavaScript dependencies](https://www.reddit.com/r/javascript/comments/y15jty/easy_auditing_sandboxing_for_your_javascript/)
+- [Building THE MOST practical Todolist with React and Websockets](https://www.reddit.com/r/javascript/comments/y15bs8/building_the_most_practical_todolist_with_react/)
+- [[AskJS] Most efficient way to re-render element&#39;s children array](https://www.reddit.com/r/javascript/comments/y14rog/askjs_most_efficient_way_to_rerender_elements/)
+- [GraphQL for small indie/side-projects : Productive on front-end, slows down the backend development ? is it true ?](https://www.reddit.com/r/javascript/comments/y11xsq/graphql_for_small_indiesideprojects_productive_on/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
