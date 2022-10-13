@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [PowerShell, NPM Scripts, and Silently Dropped Arguments](https://www.reddit.com/r/javascript/comments/y1syms/powershell_npm_scripts_and_silently_dropped/)
-- [I made a tiny website on top of OpenAI Codex for finding and sharing code snippets.](https://www.reddit.com/r/javascript/comments/y1lsiy/i_made_a_tiny_website_on_top_of_openai_codex_for/)
-- [CesiumJS - a JavaScript library for creating 3D globes and 2D maps in a web browser without a plugin. It uses WebGL for hardware-accelerated graphics, and is cross-platform, cross-browser, and tuned for dynamic-data visualization](https://www.reddit.com/r/javascript/comments/y19u2v/cesiumjs_a_javascript_library_for_creating_3d/)
-- [Betafish - a chess engine and AI move finder written in Javascript, based on the Negamax algorithm](https://www.reddit.com/r/javascript/comments/y19qi1/betafish_a_chess_engine_and_ai_move_finder/)
-- [[AskJS] What YouTube channels you watching to stay updated on JS world?](https://www.reddit.com/r/javascript/comments/y19dsb/askjs_what_youtube_channels_you_watching_to_stay/)
-- [Vercel library to convert HTML and CSS to SVG &lpar;good for OG images&rpar;](https://www.reddit.com/r/javascript/comments/y15tjl/vercel_library_to_convert_html_and_css_to_svg/)
-- [Easy auditing &amp; sandboxing for your JavaScript dependencies](https://www.reddit.com/r/javascript/comments/y15jty/easy_auditing_sandboxing_for_your_javascript/)
-- [Building THE MOST practical Todolist with React and Websockets](https://www.reddit.com/r/javascript/comments/y15bs8/building_the_most_practical_todolist_with_react/)
-- [[AskJS] Most efficient way to re-render element&#39;s children array](https://www.reddit.com/r/javascript/comments/y14rog/askjs_most_efficient_way_to_rerender_elements/)
-- [GraphQL for small indie/side-projects : Productive on front-end, slows down the backend development ? is it true ?](https://www.reddit.com/r/javascript/comments/y11xsq/graphql_for_small_indiesideprojects_productive_on/)
+- [[AskJS] Flappy bird game release. please help me with my coding journey](https://www.reddit.com/r/javascript/comments/y2h2g5/askjs_flappy_bird_game_release_please_help_me/)
+- [Ardi: Welcome to the weightless web](https://www.reddit.com/r/javascript/comments/y2dwq4/ardi_welcome_to_the_weightless_web/)
+- [Lerna reborn - What&#39;s new in v6?](https://www.reddit.com/r/javascript/comments/y2ceph/lerna_reborn_whats_new_in_v6/)
+- [A highly customizable date formatter &lpar;use the built-in presets or create your own formatter&rpar;](https://www.reddit.com/r/javascript/comments/y25u2o/a_highly_customizable_date_formatter_use_the/)
+- [Using default exports makes JavaScript harder to read!](https://www.reddit.com/r/javascript/comments/y25gpl/using_default_exports_makes_javascript_harder_to/)
+- [The Full Guide to Web Scraping &amp; Automation with JavaScript and NodeJS](https://www.reddit.com/r/javascript/comments/y22viz/the_full_guide_to_web_scraping_automation_with/)
+- [The best way to run multiple npm scripts in parallel](https://www.reddit.com/r/javascript/comments/y21z2o/the_best_way_to_run_multiple_npm_scripts_in/)
+- [Contribute to a public good in Hacktoberfest: DHIS2](https://www.reddit.com/r/javascript/comments/y20tkr/contribute_to_a_public_good_in_hacktoberfest_dhis2/)
+- [hi! I created a Discord bot for fun and learning purposes, that simulates animal crossing new horizon villager gameplay through discord commands. User can fish, catch bugs, meeting villagers, check inventory and so on. , if you wanna contribute to the next update text me!](https://www.reddit.com/r/javascript/comments/y1zdg4/hi_i_created_a_discord_bot_for_fun_and_learning/)
+- [WTF Wednesday &lpar;October 12, 2022&rpar;](https://www.reddit.com/r/javascript/comments/y1wsab/wtf_wednesday_october_12_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
