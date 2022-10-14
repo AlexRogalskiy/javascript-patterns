@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Flappy bird game release. please help me with my coding journey](https://www.reddit.com/r/javascript/comments/y2h2g5/askjs_flappy_bird_game_release_please_help_me/)
-- [Ardi: Welcome to the weightless web](https://www.reddit.com/r/javascript/comments/y2dwq4/ardi_welcome_to_the_weightless_web/)
-- [Lerna reborn - What&#39;s new in v6?](https://www.reddit.com/r/javascript/comments/y2ceph/lerna_reborn_whats_new_in_v6/)
-- [A highly customizable date formatter &lpar;use the built-in presets or create your own formatter&rpar;](https://www.reddit.com/r/javascript/comments/y25u2o/a_highly_customizable_date_formatter_use_the/)
-- [Using default exports makes JavaScript harder to read!](https://www.reddit.com/r/javascript/comments/y25gpl/using_default_exports_makes_javascript_harder_to/)
-- [The Full Guide to Web Scraping &amp; Automation with JavaScript and NodeJS](https://www.reddit.com/r/javascript/comments/y22viz/the_full_guide_to_web_scraping_automation_with/)
-- [The best way to run multiple npm scripts in parallel](https://www.reddit.com/r/javascript/comments/y21z2o/the_best_way_to_run_multiple_npm_scripts_in/)
-- [Contribute to a public good in Hacktoberfest: DHIS2](https://www.reddit.com/r/javascript/comments/y20tkr/contribute_to_a_public_good_in_hacktoberfest_dhis2/)
-- [hi! I created a Discord bot for fun and learning purposes, that simulates animal crossing new horizon villager gameplay through discord commands. User can fish, catch bugs, meeting villagers, check inventory and so on. , if you wanna contribute to the next update text me!](https://www.reddit.com/r/javascript/comments/y1zdg4/hi_i_created_a_discord_bot_for_fun_and_learning/)
-- [WTF Wednesday &lpar;October 12, 2022&rpar;](https://www.reddit.com/r/javascript/comments/y1wsab/wtf_wednesday_october_12_2022/)
+- [TheMovieDB-API-Wrapper.js: A JavaScript library for EASILY fetching info from TheMovieDB API.](https://www.reddit.com/r/javascript/comments/y3hijx/themoviedbapiwrapperjs_a_javascript_library_for/)
+- [[AskJS] Best library for a drag and drop based game? &lpar;Logic games/circuit simulator&rpar;](https://www.reddit.com/r/javascript/comments/y3fzp9/askjs_best_library_for_a_drag_and_drop_based_game/)
+- [How to Run Cypress E2E tests using Heroku Review Apps and Github Actions](https://www.reddit.com/r/javascript/comments/y38fgo/how_to_run_cypress_e2e_tests_using_heroku_review/)
+- [InboxSDK - a JavaScript library for building apps inside of Gmail with browser extensions](https://www.reddit.com/r/javascript/comments/y349s6/inboxsdk_a_javascript_library_for_building_apps/)
+- [A brief overview of NextJS](https://www.reddit.com/r/javascript/comments/y34019/a_brief_overview_of_nextjs/)
+- [First-class Vite support in Storybook 7.0](https://www.reddit.com/r/javascript/comments/y31t1k/firstclass_vite_support_in_storybook_70/)
+- [Book Review: 95 JavaScript Theses](https://www.reddit.com/r/javascript/comments/y30jsl/book_review_95_javascript_theses/)
+- [How to intercept, observe &amp; mock WebRTC traffic](https://www.reddit.com/r/javascript/comments/y2vbvp/how_to_intercept_observe_mock_webrtc_traffic/)
+- [5 Testing Practices you should have in your CI / CD Pipeline](https://www.reddit.com/r/javascript/comments/y2t7i8/5_testing_practices_you_should_have_in_your_ci_cd/)
+- [Creating Your Own Datepicker in RemixJS](https://www.reddit.com/r/javascript/comments/y2rjjp/creating_your_own_datepicker_in_remixjs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
