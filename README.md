@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Interpreters and WTFs - Create a programming language - Part 1](https://www.reddit.com/r/javascript/comments/y4ddh6/interpreters_and_wtfs_create_a_programming/)
+- [How To Dynamically load a JavaScript file in React](https://www.reddit.com/r/javascript/comments/y49iu2/how_to_dynamically_load_a_javascript_file_in_react/)
+- [Lessons learned from moving to Recoil.js &lpar;state management library for React&rpar;](https://www.reddit.com/r/javascript/comments/y3uvaw/lessons_learned_from_moving_to_recoiljs_state/)
+- [The second article about fast and pragmatic development. How to make the frontend part with plain JavaScript and GoogleMaps.](https://www.reddit.com/r/javascript/comments/y3rp8g/the_second_article_about_fast_and_pragmatic/)
+- [Get better search results for your JavaScript queries](https://www.reddit.com/r/javascript/comments/y3re6k/get_better_search_results_for_your_javascript/)
+- [PowerShell, NPM Scripts, and Silently Dropped Arguments](https://www.reddit.com/r/javascript/comments/y3o7ug/powershell_npm_scripts_and_silently_dropped/)
 - [TheMovieDB-API-Wrapper.js: A JavaScript library for EASILY fetching info from TheMovieDB API.](https://www.reddit.com/r/javascript/comments/y3hijx/themoviedbapiwrapperjs_a_javascript_library_for/)
 - [[AskJS] Best library for a drag and drop based game? &lpar;Logic games/circuit simulator&rpar;](https://www.reddit.com/r/javascript/comments/y3fzp9/askjs_best_library_for_a_drag_and_drop_based_game/)
 - [How to Run Cypress E2E tests using Heroku Review Apps and Github Actions](https://www.reddit.com/r/javascript/comments/y38fgo/how_to_run_cypress_e2e_tests_using_heroku_review/)
 - [InboxSDK - a JavaScript library for building apps inside of Gmail with browser extensions](https://www.reddit.com/r/javascript/comments/y349s6/inboxsdk_a_javascript_library_for_building_apps/)
-- [A brief overview of NextJS](https://www.reddit.com/r/javascript/comments/y34019/a_brief_overview_of_nextjs/)
-- [First-class Vite support in Storybook 7.0](https://www.reddit.com/r/javascript/comments/y31t1k/firstclass_vite_support_in_storybook_70/)
-- [Book Review: 95 JavaScript Theses](https://www.reddit.com/r/javascript/comments/y30jsl/book_review_95_javascript_theses/)
-- [How to intercept, observe &amp; mock WebRTC traffic](https://www.reddit.com/r/javascript/comments/y2vbvp/how_to_intercept_observe_mock_webrtc_traffic/)
-- [5 Testing Practices you should have in your CI / CD Pipeline](https://www.reddit.com/r/javascript/comments/y2t7i8/5_testing_practices_you_should_have_in_your_ci_cd/)
-- [Creating Your Own Datepicker in RemixJS](https://www.reddit.com/r/javascript/comments/y2rjjp/creating_your_own_datepicker_in_remixjs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
