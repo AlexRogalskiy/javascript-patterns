@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Would there be any interest in a tutorial on creating a VSCode extension?](https://www.reddit.com/r/javascript/comments/y53ol3/askjs_would_there_be_any_interest_in_a_tutorial/)
+- [[AskJS] Manipulate the real DOM with virtual like elements](https://www.reddit.com/r/javascript/comments/y4uhus/askjs_manipulate_the_real_dom_with_virtual_like/)
+- [Hey Guys I made two functions for defining keyboard shortcuts and it would make me happy if you read my article about it and maybe give me some feedback! :&rpar;](https://www.reddit.com/r/javascript/comments/y4u23r/hey_guys_i_made_two_functions_for_defining/)
+- [Your Monorepo Dependencies Are Asking for Trouble](https://www.reddit.com/r/javascript/comments/y4s3qn/your_monorepo_dependencies_are_asking_for_trouble/)
+- [Hey my fellow javascript enthusiasts, I made this resizeable split container component and I would be happy if you read about it on my Blog! :D](https://www.reddit.com/r/javascript/comments/y4jz5q/hey_my_fellow_javascript_enthusiasts_i_made_this/)
+- [Showoff Saturday &lpar;October 15, 2022&rpar;](https://www.reddit.com/r/javascript/comments/y4h1gs/showoff_saturday_october_15_2022/)
 - [Interpreters and WTFs - Create a programming language - Part 1](https://www.reddit.com/r/javascript/comments/y4ddh6/interpreters_and_wtfs_create_a_programming/)
 - [How To Dynamically load a JavaScript file in React](https://www.reddit.com/r/javascript/comments/y49iu2/how_to_dynamically_load_a_javascript_file_in_react/)
 - [Lessons learned from moving to Recoil.js &lpar;state management library for React&rpar;](https://www.reddit.com/r/javascript/comments/y3uvaw/lessons_learned_from_moving_to_recoiljs_state/)
 - [The second article about fast and pragmatic development. How to make the frontend part with plain JavaScript and GoogleMaps.](https://www.reddit.com/r/javascript/comments/y3rp8g/the_second_article_about_fast_and_pragmatic/)
-- [Get better search results for your JavaScript queries](https://www.reddit.com/r/javascript/comments/y3re6k/get_better_search_results_for_your_javascript/)
-- [PowerShell, NPM Scripts, and Silently Dropped Arguments](https://www.reddit.com/r/javascript/comments/y3o7ug/powershell_npm_scripts_and_silently_dropped/)
-- [TheMovieDB-API-Wrapper.js: A JavaScript library for EASILY fetching info from TheMovieDB API.](https://www.reddit.com/r/javascript/comments/y3hijx/themoviedbapiwrapperjs_a_javascript_library_for/)
-- [[AskJS] Best library for a drag and drop based game? &lpar;Logic games/circuit simulator&rpar;](https://www.reddit.com/r/javascript/comments/y3fzp9/askjs_best_library_for_a_drag_and_drop_based_game/)
-- [How to Run Cypress E2E tests using Heroku Review Apps and Github Actions](https://www.reddit.com/r/javascript/comments/y38fgo/how_to_run_cypress_e2e_tests_using_heroku_review/)
-- [InboxSDK - a JavaScript library for building apps inside of Gmail with browser extensions](https://www.reddit.com/r/javascript/comments/y349s6/inboxsdk_a_javascript_library_for_building_apps/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
