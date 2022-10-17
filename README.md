@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] window.open vs &lt;a href&gt;](https://www.reddit.com/r/javascript/comments/y5y3cw/askjs_windowopen_vs_a_href/)
+- [[AskJS] How to use DevTools to find the Queries being Run by JavaScript on a Website?](https://www.reddit.com/r/javascript/comments/y5sux7/askjs_how_to_use_devtools_to_find_the_queries/)
+- [JavaScript Calculator example](https://www.reddit.com/r/javascript/comments/y5rrra/javascript_calculator_example/)
+- [Why We&#39;re Breaking Up with CSS-in-JS](https://www.reddit.com/r/javascript/comments/y5q4e0/why_were_breaking_up_with_cssinjs/)
+- [Intensive 4 weeks Introduction to Programming Bootcamp! &lpar;100% free&rpar;](https://www.reddit.com/r/javascript/comments/y5p6pj/intensive_4_weeks_introduction_to_programming/)
+- [[AskJS] How should I approach testing? The theoretical complexity of testing feels absurd and I don&#39;t know where to start.](https://www.reddit.com/r/javascript/comments/y5k5ys/askjs_how_should_i_approach_testing_the/)
+- [[AskJS] Best books to learn advanced javascript?](https://www.reddit.com/r/javascript/comments/y5igf5/askjs_best_books_to_learn_advanced_javascript/)
+- [Hey y&#39;all, because Spotify has a presence but YouTube didn&#39;t, I made a Chrome Extension that displays a detailed Discord rich presence for YouTube!](https://www.reddit.com/r/javascript/comments/y5gtv1/hey_yall_because_spotify_has_a_presence_but/)
+- [[Nestia] Do not use Swagger but build SDK instead for frontend developers](https://www.reddit.com/r/javascript/comments/y5etmd/nestia_do_not_use_swagger_but_build_sdk_instead/)
 - [[AskJS] Would there be any interest in a tutorial on creating a VSCode extension?](https://www.reddit.com/r/javascript/comments/y53ol3/askjs_would_there_be_any_interest_in_a_tutorial/)
-- [[AskJS] Manipulate the real DOM with virtual like elements](https://www.reddit.com/r/javascript/comments/y4uhus/askjs_manipulate_the_real_dom_with_virtual_like/)
-- [Hey Guys I made two functions for defining keyboard shortcuts and it would make me happy if you read my article about it and maybe give me some feedback! :&rpar;](https://www.reddit.com/r/javascript/comments/y4u23r/hey_guys_i_made_two_functions_for_defining/)
-- [Your Monorepo Dependencies Are Asking for Trouble](https://www.reddit.com/r/javascript/comments/y4s3qn/your_monorepo_dependencies_are_asking_for_trouble/)
-- [Hey my fellow javascript enthusiasts, I made this resizeable split container component and I would be happy if you read about it on my Blog! :D](https://www.reddit.com/r/javascript/comments/y4jz5q/hey_my_fellow_javascript_enthusiasts_i_made_this/)
-- [Showoff Saturday &lpar;October 15, 2022&rpar;](https://www.reddit.com/r/javascript/comments/y4h1gs/showoff_saturday_october_15_2022/)
-- [Interpreters and WTFs - Create a programming language - Part 1](https://www.reddit.com/r/javascript/comments/y4ddh6/interpreters_and_wtfs_create_a_programming/)
-- [How To Dynamically load a JavaScript file in React](https://www.reddit.com/r/javascript/comments/y49iu2/how_to_dynamically_load_a_javascript_file_in_react/)
-- [Lessons learned from moving to Recoil.js &lpar;state management library for React&rpar;](https://www.reddit.com/r/javascript/comments/y3uvaw/lessons_learned_from_moving_to_recoiljs_state/)
-- [The second article about fast and pragmatic development. How to make the frontend part with plain JavaScript and GoogleMaps.](https://www.reddit.com/r/javascript/comments/y3rp8g/the_second_article_about_fast_and_pragmatic/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
