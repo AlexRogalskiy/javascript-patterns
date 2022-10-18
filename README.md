@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] window.open vs &lt;a href&gt;](https://www.reddit.com/r/javascript/comments/y5y3cw/askjs_windowopen_vs_a_href/)
+- [[AskJS] Suggestions for Console emulation libraries?](https://www.reddit.com/r/javascript/comments/y6d7eo/askjs_suggestions_for_console_emulation_libraries/)
+- [JavaScript Linked Lists](https://www.reddit.com/r/javascript/comments/y6axna/javascript_linked_lists/)
+- [Building a chat app with Socket.io and React Native](https://www.reddit.com/r/javascript/comments/y6898f/building_a_chat_app_with_socketio_and_react_native/)
+- [How to add Playwright tests to your pull request CI with GitHub Actions](https://www.reddit.com/r/javascript/comments/y6716v/how_to_add_playwright_tests_to_your_pull_request/)
+- [ts-dynamodb-attributes-transformer: A code transformer of TypeScript object to DynamoDB attributes](https://www.reddit.com/r/javascript/comments/y63mpn/tsdynamodbattributestransformer_a_code/)
 - [[AskJS] How to use DevTools to find the Queries being Run by JavaScript on a Website?](https://www.reddit.com/r/javascript/comments/y5sux7/askjs_how_to_use_devtools_to_find_the_queries/)
-- [JavaScript Calculator example](https://www.reddit.com/r/javascript/comments/y5rrra/javascript_calculator_example/)
 - [Why We&#39;re Breaking Up with CSS-in-JS](https://www.reddit.com/r/javascript/comments/y5q4e0/why_were_breaking_up_with_cssinjs/)
-- [Intensive 4 weeks Introduction to Programming Bootcamp! &lpar;100% free&rpar;](https://www.reddit.com/r/javascript/comments/y5p6pj/intensive_4_weeks_introduction_to_programming/)
 - [[AskJS] How should I approach testing? The theoretical complexity of testing feels absurd and I don&#39;t know where to start.](https://www.reddit.com/r/javascript/comments/y5k5ys/askjs_how_should_i_approach_testing_the/)
-- [[AskJS] Best books to learn advanced javascript?](https://www.reddit.com/r/javascript/comments/y5igf5/askjs_best_books_to_learn_advanced_javascript/)
 - [Hey y&#39;all, because Spotify has a presence but YouTube didn&#39;t, I made a Chrome Extension that displays a detailed Discord rich presence for YouTube!](https://www.reddit.com/r/javascript/comments/y5gtv1/hey_yall_because_spotify_has_a_presence_but/)
 - [[Nestia] Do not use Swagger but build SDK instead for frontend developers](https://www.reddit.com/r/javascript/comments/y5etmd/nestia_do_not_use_swagger_but_build_sdk_instead/)
-- [[AskJS] Would there be any interest in a tutorial on creating a VSCode extension?](https://www.reddit.com/r/javascript/comments/y53ol3/askjs_would_there_be_any_interest_in_a_tutorial/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
