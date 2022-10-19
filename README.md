@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is JS going to be the secret sause for the blockchain world?](https://www.reddit.com/r/javascript/comments/y7ezwu/is_js_going_to_be_the_secret_sause_for_the/)
+- [Loopback framework based on Node JS and typescript | An award winning due to its reliability and rapid API creation.](https://www.reddit.com/r/javascript/comments/y7disp/loopback_framework_based_on_node_js_and/)
+- [How to Build a Video Player in Vanilla Javascript And HTML5](https://www.reddit.com/r/javascript/comments/y7bjcf/how_to_build_a_video_player_in_vanilla_javascript/)
+- [Node v19.0.0 &lpar;Current&rpar;](https://www.reddit.com/r/javascript/comments/y7azmt/node_v1900_current/)
+- [Less than 1% of JavaScript programmers can spot this bug...](https://www.reddit.com/r/javascript/comments/y77apc/less_than_1_of_javascript_programmers_can_spot/)
+- [Angular Router Standalone APIs](https://www.reddit.com/r/javascript/comments/y76smc/angular_router_standalone_apis/)
+- [FFI with no glue code!](https://www.reddit.com/r/javascript/comments/y71nj3/ffi_with_no_glue_code/)
+- [What if the team hates my functional code?](https://www.reddit.com/r/javascript/comments/y7114a/what_if_the_team_hates_my_functional_code/)
+- [The Web’s Next Transition](https://www.reddit.com/r/javascript/comments/y70vd1/the_webs_next_transition/)
 - [[AskJS] Suggestions for Console emulation libraries?](https://www.reddit.com/r/javascript/comments/y6d7eo/askjs_suggestions_for_console_emulation_libraries/)
-- [JavaScript Linked Lists](https://www.reddit.com/r/javascript/comments/y6axna/javascript_linked_lists/)
-- [Building a chat app with Socket.io and React Native](https://www.reddit.com/r/javascript/comments/y6898f/building_a_chat_app_with_socketio_and_react_native/)
-- [How to add Playwright tests to your pull request CI with GitHub Actions](https://www.reddit.com/r/javascript/comments/y6716v/how_to_add_playwright_tests_to_your_pull_request/)
-- [ts-dynamodb-attributes-transformer: A code transformer of TypeScript object to DynamoDB attributes](https://www.reddit.com/r/javascript/comments/y63mpn/tsdynamodbattributestransformer_a_code/)
-- [[AskJS] How to use DevTools to find the Queries being Run by JavaScript on a Website?](https://www.reddit.com/r/javascript/comments/y5sux7/askjs_how_to_use_devtools_to_find_the_queries/)
-- [Why We&#39;re Breaking Up with CSS-in-JS](https://www.reddit.com/r/javascript/comments/y5q4e0/why_were_breaking_up_with_cssinjs/)
-- [[AskJS] How should I approach testing? The theoretical complexity of testing feels absurd and I don&#39;t know where to start.](https://www.reddit.com/r/javascript/comments/y5k5ys/askjs_how_should_i_approach_testing_the/)
-- [Hey y&#39;all, because Spotify has a presence but YouTube didn&#39;t, I made a Chrome Extension that displays a detailed Discord rich presence for YouTube!](https://www.reddit.com/r/javascript/comments/y5gtv1/hey_yall_because_spotify_has_a_presence_but/)
-- [[Nestia] Do not use Swagger but build SDK instead for frontend developers](https://www.reddit.com/r/javascript/comments/y5etmd/nestia_do_not_use_swagger_but_build_sdk_instead/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
