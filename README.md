@@ -292,16 +292,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Node.js 19 boosts HTTP throughput](https://www.infoworld.com/article/3677189/nodejs-19-boosts-http-throughput.html#tk.rss_javascript)
+- [Intro to Qwik: A superfast JavaScript framework](https://www.infoworld.com/article/3676577/intro-to-qwik-a-superfast-javascript-framework.html#tk.rss_javascript)
 - [What is Kotlin? The Java alternative explained](https://www.infoworld.com/article/3224868/what-is-kotlin-the-java-alternative-explained.html#tk.rss_javascript)
-- [Data visualization with Observable JavaScript](https://www.infoworld.com/article/3674852/data-visualization-with-observable-javascript.html#tk.rss_javascript)
 - [Learn Observable JavaScript with Observable notebooks](https://www.infoworld.com/article/3674809/learn-observable-javascript-with-observable-notebooks.html#tk.rss_javascript)
+- [Data visualization with Observable JavaScript](https://www.infoworld.com/article/3674852/data-visualization-with-observable-javascript.html#tk.rss_javascript)
 - [A beginner&#39;s guide to using Observable JavaScript, R, and Python with Quarto](https://www.infoworld.com/article/3674789/a-beginners-guide-to-using-observable-javascript-r-and-python-with-quarto.html#tk.rss_javascript)
 - [TypeScript turns 10 years old](https://www.infoworld.com/article/3675546/typescript-turns-10-years-old.html#tk.rss_javascript)
 - [Bun JavaScript runtime is in the oven](https://www.infoworld.com/article/3675351/bun-javascript-runtime-is-in-the-oven.html#tk.rss_javascript)
 - [What is Node.js? The JavaScript runtime explained](https://www.infoworld.com/article/3210589/what-is-nodejs-javascript-runtime-explained.html#tk.rss_javascript)
 - [Deno 1.26 improves Node.js compatibility, npm support](https://www.infoworld.com/article/3675537/deno-126-improves-nodejs-compatibility-npm-support.html#tk.rss_javascript)
-- [Where JavaScript is headed in 2022](https://www.infoworld.com/article/3674859/where-javascript-is-headed-in-2022.html#tk.rss_javascript)
-- [New TypeScript operator finds coding mistakes](https://www.infoworld.com/article/3674814/new-typescript-operator-finds-coding-mistakes.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
