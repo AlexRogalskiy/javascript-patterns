@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] How can I refactor combineReducers out of a redux root reducer](https://www.reddit.com/r/javascript/comments/y8la37/askjs_how_can_i_refactor_combinereducers_out_of_a/)
+- [Inline Math - VS Code Extension - Instantly see the result of any calculation as you type in vs code](https://www.reddit.com/r/javascript/comments/y8e2u8/inline_math_vs_code_extension_instantly_see_the/)
+- [[AskJS] Should I use Vitest or Playwright](https://www.reddit.com/r/javascript/comments/y896eo/askjs_should_i_use_vitest_or_playwright/)
+- [Stedux - Redux for Stencil components](https://www.reddit.com/r/javascript/comments/y85jd4/stedux_redux_for_stencil_components/)
+- [Syncing a Transcript with Audio in React](https://www.reddit.com/r/javascript/comments/y84pmf/syncing_a_transcript_with_audio_in_react/)
+- [JavaScript metaprogramming with the 2022-03 decorators API](https://www.reddit.com/r/javascript/comments/y83axs/javascript_metaprogramming_with_the_202203/)
+- [Isomorphism in Practice](https://www.reddit.com/r/javascript/comments/y802li/isomorphism_in_practice/)
+- [WTF Wednesday &lpar;October 19, 2022&rpar;](https://www.reddit.com/r/javascript/comments/y7visg/wtf_wednesday_october_19_2022/)
 - [Is JS going to be the secret sause for the blockchain world?](https://www.reddit.com/r/javascript/comments/y7ezwu/is_js_going_to_be_the_secret_sause_for_the/)
 - [Loopback framework based on Node JS and typescript | An award winning due to its reliability and rapid API creation.](https://www.reddit.com/r/javascript/comments/y7disp/loopback_framework_based_on_node_js_and/)
-- [How to Build a Video Player in Vanilla Javascript And HTML5](https://www.reddit.com/r/javascript/comments/y7bjcf/how_to_build_a_video_player_in_vanilla_javascript/)
-- [Node v19.0.0 &lpar;Current&rpar;](https://www.reddit.com/r/javascript/comments/y7azmt/node_v1900_current/)
-- [Less than 1% of JavaScript programmers can spot this bug...](https://www.reddit.com/r/javascript/comments/y77apc/less_than_1_of_javascript_programmers_can_spot/)
-- [Angular Router Standalone APIs](https://www.reddit.com/r/javascript/comments/y76smc/angular_router_standalone_apis/)
-- [FFI with no glue code!](https://www.reddit.com/r/javascript/comments/y71nj3/ffi_with_no_glue_code/)
-- [What if the team hates my functional code?](https://www.reddit.com/r/javascript/comments/y7114a/what_if_the_team_hates_my_functional_code/)
-- [The Web’s Next Transition](https://www.reddit.com/r/javascript/comments/y70vd1/the_webs_next_transition/)
-- [[AskJS] Suggestions for Console emulation libraries?](https://www.reddit.com/r/javascript/comments/y6d7eo/askjs_suggestions_for_console_emulation_libraries/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
