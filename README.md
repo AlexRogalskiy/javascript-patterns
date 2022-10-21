@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] How can I refactor combineReducers out of a redux root reducer](https://www.reddit.com/r/javascript/comments/y8la37/askjs_how_can_i_refactor_combinereducers_out_of_a/)
+- [NodeJS 19: Boosted HTTP Throughput &amp; Node --Watch](https://www.reddit.com/r/javascript/comments/y9gkxq/nodejs_19_boosted_http_throughput_node_watch/)
+- [[AskJS] My approach to Application Config, what does the JS community think of this?](https://www.reddit.com/r/javascript/comments/y9ek93/askjs_my_approach_to_application_config_what_does/)
+- [New website for Storybook](https://www.reddit.com/r/javascript/comments/y97a0s/new_website_for_storybook/)
+- [Make use of `use` in React - everything you need to know about newly proposed hook](https://www.reddit.com/r/javascript/comments/y96c4f/make_use_of_use_in_react_everything_you_need_to/)
+- [Security Snapshot Testing Inside Your Jest Test Suite](https://www.reddit.com/r/javascript/comments/y90ave/security_snapshot_testing_inside_your_jest_test/)
+- [A short how-to on Secure JavaScript URL validation](https://www.reddit.com/r/javascript/comments/y8xaj6/a_short_howto_on_secure_javascript_url_validation/)
+- [All talks from ViteConf 2022 are now available | Nuxt, SvelteKit, SolidStart, Storybook, StackBlitz, Deno, Bun, and more!](https://www.reddit.com/r/javascript/comments/y8wd4n/all_talks_from_viteconf_2022_are_now_available/)
+- [I changed my mind about writing new JavaScript frameworks](https://www.reddit.com/r/javascript/comments/y8r7t9/i_changed_my_mind_about_writing_new_javascript/)
 - [Inline Math - VS Code Extension - Instantly see the result of any calculation as you type in vs code](https://www.reddit.com/r/javascript/comments/y8e2u8/inline_math_vs_code_extension_instantly_see_the/)
 - [[AskJS] Should I use Vitest or Playwright](https://www.reddit.com/r/javascript/comments/y896eo/askjs_should_i_use_vitest_or_playwright/)
-- [Stedux - Redux for Stencil components](https://www.reddit.com/r/javascript/comments/y85jd4/stedux_redux_for_stencil_components/)
-- [Syncing a Transcript with Audio in React](https://www.reddit.com/r/javascript/comments/y84pmf/syncing_a_transcript_with_audio_in_react/)
-- [JavaScript metaprogramming with the 2022-03 decorators API](https://www.reddit.com/r/javascript/comments/y83axs/javascript_metaprogramming_with_the_202203/)
-- [Isomorphism in Practice](https://www.reddit.com/r/javascript/comments/y802li/isomorphism_in_practice/)
-- [WTF Wednesday &lpar;October 19, 2022&rpar;](https://www.reddit.com/r/javascript/comments/y7visg/wtf_wednesday_october_19_2022/)
-- [Is JS going to be the secret sause for the blockchain world?](https://www.reddit.com/r/javascript/comments/y7ezwu/is_js_going_to_be_the_secret_sause_for_the/)
-- [Loopback framework based on Node JS and typescript | An award winning due to its reliability and rapid API creation.](https://www.reddit.com/r/javascript/comments/y7disp/loopback_framework_based_on_node_js_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
