@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [npm bin script confusion: Abusing ‘bin’ to hijack ‘node’ command - Socket](https://www.reddit.com/r/javascript/comments/ya4iot/npm_bin_script_confusion_abusing_bin_to_hijack/)
+- [Cample.js - functional typed javascript web framework for creating site UI. Documentation.](https://www.reddit.com/r/javascript/comments/ya3n6l/camplejs_functional_typed_javascript_web/)
+- [Parameter Page — A web app to create a simple webpage where the content is contained entirely in the URL](https://www.reddit.com/r/javascript/comments/y9zb0t/parameter_page_a_web_app_to_create_a_simple/)
+- [Cample.js - functional typed javascript web framework for creating site UI.](https://www.reddit.com/r/javascript/comments/y9xosg/camplejs_functional_typed_javascript_web/)
+- [How to mock API servers in JavaScript](https://www.reddit.com/r/javascript/comments/y9whqr/how_to_mock_api_servers_in_javascript/)
+- [SocketIO with Angular but without a wrapper package](https://www.reddit.com/r/javascript/comments/y9rg0p/socketio_with_angular_but_without_a_wrapper/)
+- [route-list: Beautifully shows Express/Koa/Hapi/Fastify routes in CLI.](https://www.reddit.com/r/javascript/comments/y9q12y/routelist_beautifully_shows_expresskoahapifastify/)
+- [Why I never understood CSS-in-JS](https://www.reddit.com/r/javascript/comments/y9pnll/why_i_never_understood_cssinjs/)
 - [NodeJS 19: Boosted HTTP Throughput &amp; Node --Watch](https://www.reddit.com/r/javascript/comments/y9gkxq/nodejs_19_boosted_http_throughput_node_watch/)
 - [[AskJS] My approach to Application Config, what does the JS community think of this?](https://www.reddit.com/r/javascript/comments/y9ek93/askjs_my_approach_to_application_config_what_does/)
-- [New website for Storybook](https://www.reddit.com/r/javascript/comments/y97a0s/new_website_for_storybook/)
-- [Make use of `use` in React - everything you need to know about newly proposed hook](https://www.reddit.com/r/javascript/comments/y96c4f/make_use_of_use_in_react_everything_you_need_to/)
-- [Security Snapshot Testing Inside Your Jest Test Suite](https://www.reddit.com/r/javascript/comments/y90ave/security_snapshot_testing_inside_your_jest_test/)
-- [A short how-to on Secure JavaScript URL validation](https://www.reddit.com/r/javascript/comments/y8xaj6/a_short_howto_on_secure_javascript_url_validation/)
-- [All talks from ViteConf 2022 are now available | Nuxt, SvelteKit, SolidStart, Storybook, StackBlitz, Deno, Bun, and more!](https://www.reddit.com/r/javascript/comments/y8wd4n/all_talks_from_viteconf_2022_are_now_available/)
-- [I changed my mind about writing new JavaScript frameworks](https://www.reddit.com/r/javascript/comments/y8r7t9/i_changed_my_mind_about_writing_new_javascript/)
-- [Inline Math - VS Code Extension - Instantly see the result of any calculation as you type in vs code](https://www.reddit.com/r/javascript/comments/y8e2u8/inline_math_vs_code_extension_instantly_see_the/)
-- [[AskJS] Should I use Vitest or Playwright](https://www.reddit.com/r/javascript/comments/y896eo/askjs_should_i_use_vitest_or_playwright/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
