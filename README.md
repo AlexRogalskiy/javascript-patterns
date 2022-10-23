@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Component approach in javascript on the example of a framework &lpar;cample.js&rpar;.](https://www.reddit.com/r/javascript/comments/yauiac/component_approach_in_javascript_on_the_example/)
+- [Mitosis, an interesting tool to write universal components for all frameworks](https://www.reddit.com/r/javascript/comments/yat5mk/mitosis_an_interesting_tool_to_write_universal/)
+- [All About React’s Proposed New use&lpar;&rpar; Hook](https://www.reddit.com/r/javascript/comments/yas65j/all_about_reacts_proposed_new_use_hook/)
+- [Completely free TypeScript one-file source code snippets with tests.](https://www.reddit.com/r/javascript/comments/yaqbtd/completely_free_typescript_onefile_source_code/)
+- [Blaze Slider - The FASTEST Slider library for high-performance websites](https://www.reddit.com/r/javascript/comments/yapmld/blaze_slider_the_fastest_slider_library_for/)
+- [Showoff Saturday &lpar;October 22, 2022&rpar;](https://www.reddit.com/r/javascript/comments/yagnkt/showoff_saturday_october_22_2022/)
+- [Pitfalls of debounced functions](https://www.reddit.com/r/javascript/comments/yad96x/pitfalls_of_debounced_functions/)
 - [npm bin script confusion: Abusing ‘bin’ to hijack ‘node’ command - Socket](https://www.reddit.com/r/javascript/comments/ya4iot/npm_bin_script_confusion_abusing_bin_to_hijack/)
 - [Cample.js - functional typed javascript web framework for creating site UI. Documentation.](https://www.reddit.com/r/javascript/comments/ya3n6l/camplejs_functional_typed_javascript_web/)
 - [Parameter Page — A web app to create a simple webpage where the content is contained entirely in the URL](https://www.reddit.com/r/javascript/comments/y9zb0t/parameter_page_a_web_app_to_create_a_simple/)
-- [Cample.js - functional typed javascript web framework for creating site UI.](https://www.reddit.com/r/javascript/comments/y9xosg/camplejs_functional_typed_javascript_web/)
-- [How to mock API servers in JavaScript](https://www.reddit.com/r/javascript/comments/y9whqr/how_to_mock_api_servers_in_javascript/)
-- [SocketIO with Angular but without a wrapper package](https://www.reddit.com/r/javascript/comments/y9rg0p/socketio_with_angular_but_without_a_wrapper/)
-- [route-list: Beautifully shows Express/Koa/Hapi/Fastify routes in CLI.](https://www.reddit.com/r/javascript/comments/y9q12y/routelist_beautifully_shows_expresskoahapifastify/)
-- [Why I never understood CSS-in-JS](https://www.reddit.com/r/javascript/comments/y9pnll/why_i_never_understood_cssinjs/)
-- [NodeJS 19: Boosted HTTP Throughput &amp; Node --Watch](https://www.reddit.com/r/javascript/comments/y9gkxq/nodejs_19_boosted_http_throughput_node_watch/)
-- [[AskJS] My approach to Application Config, what does the JS community think of this?](https://www.reddit.com/r/javascript/comments/y9ek93/askjs_my_approach_to_application_config_what_does/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
