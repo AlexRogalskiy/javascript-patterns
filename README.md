@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Repo of LeetCode Solutions in JS](https://www.reddit.com/r/javascript/comments/ybx9on/repo_of_leetcode_solutions_in_js/)
+- [VDD or The solution of Logic Errors in Software Development?](https://www.reddit.com/r/javascript/comments/ybsvbx/vdd_or_the_solution_of_logic_errors_in_software/)
+- [JavaScript&#39;s Promised convenience](https://www.reddit.com/r/javascript/comments/yboy5v/javascripts_promised_convenience/)
+- [[AskJS] Continuous Playback Across Audio Buffer](https://www.reddit.com/r/javascript/comments/ybnk3p/askjs_continuous_playback_across_audio_buffer/)
+- [jQuery Terminal: JavaScript Web Based Terminal Emulator](https://www.reddit.com/r/javascript/comments/ybl546/jquery_terminal_javascript_web_based_terminal/)
 - [Component approach in javascript on the example of a framework &lpar;cample.js&rpar;.](https://www.reddit.com/r/javascript/comments/yauiac/component_approach_in_javascript_on_the_example/)
 - [Mitosis, an interesting tool to write universal components for all frameworks](https://www.reddit.com/r/javascript/comments/yat5mk/mitosis_an_interesting_tool_to_write_universal/)
 - [All About React’s Proposed New use&lpar;&rpar; Hook](https://www.reddit.com/r/javascript/comments/yas65j/all_about_reacts_proposed_new_use_hook/)
 - [Completely free TypeScript one-file source code snippets with tests.](https://www.reddit.com/r/javascript/comments/yaqbtd/completely_free_typescript_onefile_source_code/)
 - [Blaze Slider - The FASTEST Slider library for high-performance websites](https://www.reddit.com/r/javascript/comments/yapmld/blaze_slider_the_fastest_slider_library_for/)
-- [Showoff Saturday &lpar;October 22, 2022&rpar;](https://www.reddit.com/r/javascript/comments/yagnkt/showoff_saturday_october_22_2022/)
-- [Pitfalls of debounced functions](https://www.reddit.com/r/javascript/comments/yad96x/pitfalls_of_debounced_functions/)
-- [npm bin script confusion: Abusing ‘bin’ to hijack ‘node’ command - Socket](https://www.reddit.com/r/javascript/comments/ya4iot/npm_bin_script_confusion_abusing_bin_to_hijack/)
-- [Cample.js - functional typed javascript web framework for creating site UI. Documentation.](https://www.reddit.com/r/javascript/comments/ya3n6l/camplejs_functional_typed_javascript_web/)
-- [Parameter Page — A web app to create a simple webpage where the content is contained entirely in the URL](https://www.reddit.com/r/javascript/comments/y9zb0t/parameter_page_a_web_app_to_create_a_simple/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
