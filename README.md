@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Repo of LeetCode Solutions in JS](https://www.reddit.com/r/javascript/comments/ybx9on/repo_of_leetcode_solutions_in_js/)
-- [VDD or The solution of Logic Errors in Software Development?](https://www.reddit.com/r/javascript/comments/ybsvbx/vdd_or_the_solution_of_logic_errors_in_software/)
-- [JavaScript&#39;s Promised convenience](https://www.reddit.com/r/javascript/comments/yboy5v/javascripts_promised_convenience/)
-- [[AskJS] Continuous Playback Across Audio Buffer](https://www.reddit.com/r/javascript/comments/ybnk3p/askjs_continuous_playback_across_audio_buffer/)
-- [jQuery Terminal: JavaScript Web Based Terminal Emulator](https://www.reddit.com/r/javascript/comments/ybl546/jquery_terminal_javascript_web_based_terminal/)
-- [Component approach in javascript on the example of a framework &lpar;cample.js&rpar;.](https://www.reddit.com/r/javascript/comments/yauiac/component_approach_in_javascript_on_the_example/)
-- [Mitosis, an interesting tool to write universal components for all frameworks](https://www.reddit.com/r/javascript/comments/yat5mk/mitosis_an_interesting_tool_to_write_universal/)
-- [All About React’s Proposed New use&lpar;&rpar; Hook](https://www.reddit.com/r/javascript/comments/yas65j/all_about_reacts_proposed_new_use_hook/)
-- [Completely free TypeScript one-file source code snippets with tests.](https://www.reddit.com/r/javascript/comments/yaqbtd/completely_free_typescript_onefile_source_code/)
-- [Blaze Slider - The FASTEST Slider library for high-performance websites](https://www.reddit.com/r/javascript/comments/yapmld/blaze_slider_the_fastest_slider_library_for/)
+- [What do you guys think about my &#39;Submit feedback&#39; library? It&#39;s inspired by Google&#39;s &#39;Report an issue&#39; feature](https://www.reddit.com/r/javascript/comments/ycrmy1/what_do_you_guys_think_about_my_submit_feedback/)
+- [Awaiting problems in JavaScript](https://www.reddit.com/r/javascript/comments/ycloug/awaiting_problems_in_javascript/)
+- [Npm v9.0.0 released](https://www.reddit.com/r/javascript/comments/ychskj/npm_v900_released/)
+- [Svelte 3.52.0 Improves Dev Experience](https://www.reddit.com/r/javascript/comments/ychp6y/svelte_3520_improves_dev_experience/)
+- [Detecting system theme preference changes using JavaScript](https://www.reddit.com/r/javascript/comments/ychdwt/detecting_system_theme_preference_changes_using/)
+- [Automate sending job applications with 2captcha and JavaScript.](https://www.reddit.com/r/javascript/comments/ycesey/automate_sending_job_applications_with_2captcha/)
+- [Why Javascript Developers are Poor Communicators](https://www.reddit.com/r/javascript/comments/ycdkn2/why_javascript_developers_are_poor_communicators/)
+- [Payload, an open-source headless CMS and app framework, is rebuilding its site in public over the next 20 days](https://www.reddit.com/r/javascript/comments/ycd94m/payload_an_opensource_headless_cms_and_app/)
+- [BackstopJS automates visual regression testing of your responsive web UI by comparing DOM screenshots over time](https://www.reddit.com/r/javascript/comments/ycc5de/backstopjs_automates_visual_regression_testing_of/)
+- [FracturedJson v3 for JavaScript](https://www.reddit.com/r/javascript/comments/ycaecx/fracturedjson_v3_for_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
