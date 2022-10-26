@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What do you guys think about my &#39;Submit feedback&#39; library? It&#39;s inspired by Google&#39;s &#39;Report an issue&#39; feature](https://www.reddit.com/r/javascript/comments/ycrmy1/what_do_you_guys_think_about_my_submit_feedback/)
-- [Awaiting problems in JavaScript](https://www.reddit.com/r/javascript/comments/ycloug/awaiting_problems_in_javascript/)
-- [Npm v9.0.0 released](https://www.reddit.com/r/javascript/comments/ychskj/npm_v900_released/)
-- [Svelte 3.52.0 Improves Dev Experience](https://www.reddit.com/r/javascript/comments/ychp6y/svelte_3520_improves_dev_experience/)
-- [Detecting system theme preference changes using JavaScript](https://www.reddit.com/r/javascript/comments/ychdwt/detecting_system_theme_preference_changes_using/)
-- [Automate sending job applications with 2captcha and JavaScript.](https://www.reddit.com/r/javascript/comments/ycesey/automate_sending_job_applications_with_2captcha/)
-- [Why Javascript Developers are Poor Communicators](https://www.reddit.com/r/javascript/comments/ycdkn2/why_javascript_developers_are_poor_communicators/)
-- [Payload, an open-source headless CMS and app framework, is rebuilding its site in public over the next 20 days](https://www.reddit.com/r/javascript/comments/ycd94m/payload_an_opensource_headless_cms_and_app/)
-- [BackstopJS automates visual regression testing of your responsive web UI by comparing DOM screenshots over time](https://www.reddit.com/r/javascript/comments/ycc5de/backstopjs_automates_visual_regression_testing_of/)
-- [FracturedJson v3 for JavaScript](https://www.reddit.com/r/javascript/comments/ycaecx/fracturedjson_v3_for_javascript/)
+- [[AskJS] Is the average JS dev level really that low? Or is it my job that sucks?](https://www.reddit.com/r/javascript/comments/ydlj9g/askjs_is_the_average_js_dev_level_really_that_low/)
+- [Quick method I wrote to make digging into nested ShadowRoots suck less. Feedback welcome; hope it helps someone!](https://www.reddit.com/r/javascript/comments/ydi2kg/quick_method_i_wrote_to_make_digging_into_nested/)
+- [Preview.js - Preview UI components in your IDE instantly. Compatible with React 16+, SolidJS, Svelte, Vue 2 and Vue 3](https://www.reddit.com/r/javascript/comments/ydcbwv/previewjs_preview_ui_components_in_your_ide/)
+- [Next.js 13 is out](https://www.reddit.com/r/javascript/comments/ydb1pw/nextjs_13_is_out/)
+- [Turbopack – The Successor to Webpack](https://www.reddit.com/r/javascript/comments/ydb02r/turbopack_the_successor_to_webpack/)
+- [You Don’t Need Webpack — 3 Better Alternatives for Building Your JavaScript](https://www.reddit.com/r/javascript/comments/yda4ih/you_dont_need_webpack_3_better_alternatives_for/)
+- [Creepyface - The JavaScript library that makes your face look at the mouse pointer](https://www.reddit.com/r/javascript/comments/yd9xjt/creepyface_the_javascript_library_that_makes_your/)
+- [Implementing Twitter oauth2 using nodejs and nextJs](https://www.reddit.com/r/javascript/comments/yd69ui/implementing_twitter_oauth2_using_nodejs_and/)
+- [I made 10x faster JSON.stringify&lpar;&rpar; functions, even type safe &lpar;validators are 2,000x faster&rpar;](https://www.reddit.com/r/javascript/comments/yd3f04/i_made_10x_faster_jsonstringify_functions_even/)
+- [On Migrating from Cypress to Playwright](https://www.reddit.com/r/javascript/comments/yd3dr8/on_migrating_from_cypress_to_playwright/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
