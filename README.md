@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Video/audio timeline JS package](https://www.reddit.com/r/javascript/comments/yf07q2/askjs_videoaudio_timeline_js_package/)
+- [What Is Deno and Why You Should Try It](https://www.reddit.com/r/javascript/comments/yex4c7/what_is_deno_and_why_you_should_try_it/)
+- [So, apparently there&#39;s now code in React to monkeypatch fetch&lpar;&rpar; for some reason?](https://www.reddit.com/r/javascript/comments/yex2oj/so_apparently_theres_now_code_in_react_to/)
+- [Safari 16 adds support for web push notifications &lpar;Push API&rpar;](https://www.reddit.com/r/javascript/comments/yewwoh/safari_16_adds_support_for_web_push_notifications/)
+- [Code coverage with Storybook test runner](https://www.reddit.com/r/javascript/comments/yeuwa8/code_coverage_with_storybook_test_runner/)
+- [OverVue - a prototyping tool that allows developers to dynamically create and visualize a Vue application, implementing a real-time intuitive tree display of component hierarchy and a live-generated code preview. The resulting boilerplate can be exported as a template for further development](https://www.reddit.com/r/javascript/comments/yetx0r/overvue_a_prototyping_tool_that_allows_developers/)
+- [Conveyor MQ - A fast, robust and extensible distributed task/job queue for Node.js](https://www.reddit.com/r/javascript/comments/yeny2c/conveyor_mq_a_fast_robust_and_extensible/)
+- [A Better Way to useMemo and useCallback](https://www.reddit.com/r/javascript/comments/yel7x7/a_better_way_to_usememo_and_usecallback/)
+- [[AskJS] Do you prefer to use decorators in your TypeScript projects?](https://www.reddit.com/r/javascript/comments/yejt7q/askjs_do_you_prefer_to_use_decorators_in_your/)
 - [Designing Squrl, an End-to-End Encrypted URL Shortening SaaS](https://www.reddit.com/r/javascript/comments/ye5kt8/designing_squrl_an_endtoend_encrypted_url/)
-- [Node JS 18.12.0 goes LTS](https://www.reddit.com/r/javascript/comments/ye4pb3/node_js_18120_goes_lts/)
-- [How to Prevent a Duplicated Canvas When Using P5 and React Strict Mode](https://www.reddit.com/r/javascript/comments/ye4bxi/how_to_prevent_a_duplicated_canvas_when_using_p5/)
-- [A Pinch of Typescript in Javascript](https://www.reddit.com/r/javascript/comments/ye23wb/a_pinch_of_typescript_in_javascript/)
-- [[AskJS] File and Directory Entries vs. IndexedDB API?](https://www.reddit.com/r/javascript/comments/ye152d/askjs_file_and_directory_entries_vs_indexeddb_api/)
-- [Ember 4.8 Released](https://www.reddit.com/r/javascript/comments/ydyx3f/ember_48_released/)
-- [What if the team assumes my functional JavaScript is slow?](https://www.reddit.com/r/javascript/comments/ydum96/what_if_the_team_assumes_my_functional_javascript/)
-- [Introducing Ezno](https://www.reddit.com/r/javascript/comments/ydulku/introducing_ezno/)
-- [A final Class with JavaScript / TypeScript?](https://www.reddit.com/r/javascript/comments/ydt87z/a_final_class_with_javascript_typescript/)
-- [GitHub - fingerprintjs/BotD: Bot detection library that runs in the browser. Detect automation tools. No server required, runs 100% on the client.](https://www.reddit.com/r/javascript/comments/yds7lz/github_fingerprintjsbotd_bot_detection_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
