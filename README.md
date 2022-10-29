@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Need Help - Finding a GitLab versioning solution for Monorepos](https://www.reddit.com/r/javascript/comments/yg3bln/askjs_need_help_finding_a_gitlab_versioning/)
+- [Uppy - Sleek, modular open source JavaScript file uploader. Uppy fetches files locally and from remote places like Dropbox or Instagram. With its seamless integration, reliability and ease of use, Uppy is truly your best friend in file uploading](https://www.reddit.com/r/javascript/comments/yfzklk/uppy_sleek_modular_open_source_javascript_file/)
+- [Dynamic Angular Microfrontends](https://www.reddit.com/r/javascript/comments/yfyxep/dynamic_angular_microfrontends/)
+- [Upgrade your Lerna Workspace - Make it Fast and Modern!](https://www.reddit.com/r/javascript/comments/yfqu6p/upgrade_your_lerna_workspace_make_it_fast_and/)
+- [jsgrids - Spreadsheet and data grid libraries for JavaScript](https://www.reddit.com/r/javascript/comments/yfiv4a/jsgrids_spreadsheet_and_data_grid_libraries_for/)
+- [tsafe enables to unit test your types.](https://www.reddit.com/r/javascript/comments/yfftah/tsafe_enables_to_unit_test_your_types/)
 - [[AskJS] Video/audio timeline JS package](https://www.reddit.com/r/javascript/comments/yf07q2/askjs_videoaudio_timeline_js_package/)
 - [What Is Deno and Why You Should Try It](https://www.reddit.com/r/javascript/comments/yex4c7/what_is_deno_and_why_you_should_try_it/)
 - [So, apparently there&#39;s now code in React to monkeypatch fetch&lpar;&rpar; for some reason?](https://www.reddit.com/r/javascript/comments/yex2oj/so_apparently_theres_now_code_in_react_to/)
 - [Safari 16 adds support for web push notifications &lpar;Push API&rpar;](https://www.reddit.com/r/javascript/comments/yewwoh/safari_16_adds_support_for_web_push_notifications/)
-- [Code coverage with Storybook test runner](https://www.reddit.com/r/javascript/comments/yeuwa8/code_coverage_with_storybook_test_runner/)
-- [OverVue - a prototyping tool that allows developers to dynamically create and visualize a Vue application, implementing a real-time intuitive tree display of component hierarchy and a live-generated code preview. The resulting boilerplate can be exported as a template for further development](https://www.reddit.com/r/javascript/comments/yetx0r/overvue_a_prototyping_tool_that_allows_developers/)
-- [Conveyor MQ - A fast, robust and extensible distributed task/job queue for Node.js](https://www.reddit.com/r/javascript/comments/yeny2c/conveyor_mq_a_fast_robust_and_extensible/)
-- [A Better Way to useMemo and useCallback](https://www.reddit.com/r/javascript/comments/yel7x7/a_better_way_to_usememo_and_usecallback/)
-- [[AskJS] Do you prefer to use decorators in your TypeScript projects?](https://www.reddit.com/r/javascript/comments/yejt7q/askjs_do_you_prefer_to_use_decorators_in_your/)
-- [Designing Squrl, an End-to-End Encrypted URL Shortening SaaS](https://www.reddit.com/r/javascript/comments/ye5kt8/designing_squrl_an_endtoend_encrypted_url/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
