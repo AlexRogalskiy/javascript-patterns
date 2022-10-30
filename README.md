@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Emoji Reaction Slider with HTML + Javascript](https://www.reddit.com/r/javascript/comments/ygtldl/emoji_reaction_slider_with_html_javascript/)
+- [Performance monitoring on medusajs](https://www.reddit.com/r/javascript/comments/ygrjng/performance_monitoring_on_medusajs/)
+- [How to build, test, and publish a TypeScript npm package in 2022](https://www.reddit.com/r/javascript/comments/yglby0/how_to_build_test_and_publish_a_typescript_npm/)
+- [Your Next.js Bundle Will Thank You](https://www.reddit.com/r/javascript/comments/yggzld/your_nextjs_bundle_will_thank_you/)
+- [Lucia - a simple yet flexible authentication library for Node](https://www.reddit.com/r/javascript/comments/ygglap/lucia_a_simple_yet_flexible_authentication/)
+- [Web Scraping Google Images](https://www.reddit.com/r/javascript/comments/ygfmld/web_scraping_google_images/)
+- [Showoff Saturday &lpar;October 29, 2022&rpar;](https://www.reddit.com/r/javascript/comments/ygcnpk/showoff_saturday_october_29_2022/)
+- [[AskJS] Any JavaScript framework offering a RAD / WinForms like experience?](https://www.reddit.com/r/javascript/comments/yg9dwu/askjs_any_javascript_framework_offering_a_rad/)
 - [[AskJS] Need Help - Finding a GitLab versioning solution for Monorepos](https://www.reddit.com/r/javascript/comments/yg3bln/askjs_need_help_finding_a_gitlab_versioning/)
 - [Uppy - Sleek, modular open source JavaScript file uploader. Uppy fetches files locally and from remote places like Dropbox or Instagram. With its seamless integration, reliability and ease of use, Uppy is truly your best friend in file uploading](https://www.reddit.com/r/javascript/comments/yfzklk/uppy_sleek_modular_open_source_javascript_file/)
-- [Dynamic Angular Microfrontends](https://www.reddit.com/r/javascript/comments/yfyxep/dynamic_angular_microfrontends/)
-- [Upgrade your Lerna Workspace - Make it Fast and Modern!](https://www.reddit.com/r/javascript/comments/yfqu6p/upgrade_your_lerna_workspace_make_it_fast_and/)
-- [jsgrids - Spreadsheet and data grid libraries for JavaScript](https://www.reddit.com/r/javascript/comments/yfiv4a/jsgrids_spreadsheet_and_data_grid_libraries_for/)
-- [tsafe enables to unit test your types.](https://www.reddit.com/r/javascript/comments/yfftah/tsafe_enables_to_unit_test_your_types/)
-- [[AskJS] Video/audio timeline JS package](https://www.reddit.com/r/javascript/comments/yf07q2/askjs_videoaudio_timeline_js_package/)
-- [What Is Deno and Why You Should Try It](https://www.reddit.com/r/javascript/comments/yex4c7/what_is_deno_and_why_you_should_try_it/)
-- [So, apparently there&#39;s now code in React to monkeypatch fetch&lpar;&rpar; for some reason?](https://www.reddit.com/r/javascript/comments/yex2oj/so_apparently_theres_now_code_in_react_to/)
-- [Safari 16 adds support for web push notifications &lpar;Push API&rpar;](https://www.reddit.com/r/javascript/comments/yewwoh/safari_16_adds_support_for_web_push_notifications/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
