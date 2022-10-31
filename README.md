@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [dtable: Spreadsheets for Devs](https://www.reddit.com/r/javascript/comments/yhvgq2/dtable_spreadsheets_for_devs/)
+- [Versatile metallic finish for CSS &lpar;MetalliCSS&rpar;](https://www.reddit.com/r/javascript/comments/yhtdnc/versatile_metallic_finish_for_css_metallicss/)
+- [TrueShuffle: An open-source music shuffling web application &amp; player for Spotify](https://www.reddit.com/r/javascript/comments/yhp4p6/trueshuffle_an_opensource_music_shuffling_web/)
+- [new post; how to build an advanced backend RESTFUL API using Nodejs and express](https://www.reddit.com/r/javascript/comments/yhmyfg/new_post_how_to_build_an_advanced_backend_restful/)
+- [I re-created the 1979 Atari game, Asteroids, with JavaScript](https://www.reddit.com/r/javascript/comments/yhit1e/i_recreated_the_1979_atari_game_asteroids_with/)
+- [Streams for fp-ts](https://www.reddit.com/r/javascript/comments/yhihks/streams_for_fpts/)
+- [neon-env: a type-safe env parser](https://www.reddit.com/r/javascript/comments/yhauku/neonenv_a_typesafe_env_parser/)
+- [Protobuf-ES: The Protocol Buffers TypeScript/JavaScript runtime we all deserve](https://www.reddit.com/r/javascript/comments/yh9s19/protobufes_the_protocol_buffers/)
 - [Emoji Reaction Slider with HTML + Javascript](https://www.reddit.com/r/javascript/comments/ygtldl/emoji_reaction_slider_with_html_javascript/)
 - [Performance monitoring on medusajs](https://www.reddit.com/r/javascript/comments/ygrjng/performance_monitoring_on_medusajs/)
-- [How to build, test, and publish a TypeScript npm package in 2022](https://www.reddit.com/r/javascript/comments/yglby0/how_to_build_test_and_publish_a_typescript_npm/)
-- [Your Next.js Bundle Will Thank You](https://www.reddit.com/r/javascript/comments/yggzld/your_nextjs_bundle_will_thank_you/)
-- [Lucia - a simple yet flexible authentication library for Node](https://www.reddit.com/r/javascript/comments/ygglap/lucia_a_simple_yet_flexible_authentication/)
-- [Web Scraping Google Images](https://www.reddit.com/r/javascript/comments/ygfmld/web_scraping_google_images/)
-- [Showoff Saturday &lpar;October 29, 2022&rpar;](https://www.reddit.com/r/javascript/comments/ygcnpk/showoff_saturday_october_29_2022/)
-- [[AskJS] Any JavaScript framework offering a RAD / WinForms like experience?](https://www.reddit.com/r/javascript/comments/yg9dwu/askjs_any_javascript_framework_offering_a_rad/)
-- [[AskJS] Need Help - Finding a GitLab versioning solution for Monorepos](https://www.reddit.com/r/javascript/comments/yg3bln/askjs_need_help_finding_a_gitlab_versioning/)
-- [Uppy - Sleek, modular open source JavaScript file uploader. Uppy fetches files locally and from remote places like Dropbox or Instagram. With its seamless integration, reliability and ease of use, Uppy is truly your best friend in file uploading](https://www.reddit.com/r/javascript/comments/yfzklk/uppy_sleek_modular_open_source_javascript_file/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
