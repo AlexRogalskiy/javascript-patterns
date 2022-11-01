@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [dtable: Spreadsheets for Devs](https://www.reddit.com/r/javascript/comments/yhvgq2/dtable_spreadsheets_for_devs/)
-- [Versatile metallic finish for CSS &lpar;MetalliCSS&rpar;](https://www.reddit.com/r/javascript/comments/yhtdnc/versatile_metallic_finish_for_css_metallicss/)
-- [TrueShuffle: An open-source music shuffling web application &amp; player for Spotify](https://www.reddit.com/r/javascript/comments/yhp4p6/trueshuffle_an_opensource_music_shuffling_web/)
-- [new post; how to build an advanced backend RESTFUL API using Nodejs and express](https://www.reddit.com/r/javascript/comments/yhmyfg/new_post_how_to_build_an_advanced_backend_restful/)
-- [I re-created the 1979 Atari game, Asteroids, with JavaScript](https://www.reddit.com/r/javascript/comments/yhit1e/i_recreated_the_1979_atari_game_asteroids_with/)
-- [Streams for fp-ts](https://www.reddit.com/r/javascript/comments/yhihks/streams_for_fpts/)
-- [neon-env: a type-safe env parser](https://www.reddit.com/r/javascript/comments/yhauku/neonenv_a_typesafe_env_parser/)
-- [Protobuf-ES: The Protocol Buffers TypeScript/JavaScript runtime we all deserve](https://www.reddit.com/r/javascript/comments/yh9s19/protobufes_the_protocol_buffers/)
-- [Emoji Reaction Slider with HTML + Javascript](https://www.reddit.com/r/javascript/comments/ygtldl/emoji_reaction_slider_with_html_javascript/)
-- [Performance monitoring on medusajs](https://www.reddit.com/r/javascript/comments/ygrjng/performance_monitoring_on_medusajs/)
+- [My new side project - sliderm.js](https://www.reddit.com/r/javascript/comments/yiwrfz/my_new_side_project_slidermjs/)
+- [Introducing DiffLens: Language aware diffs in VS Code](https://www.reddit.com/r/javascript/comments/yise1d/introducing_difflens_language_aware_diffs_in_vs/)
+- [Pull Congressional Data via SMS with the Congress API and JavaScript](https://www.reddit.com/r/javascript/comments/yisdti/pull_congressional_data_via_sms_with_the_congress/)
+- [Hey I built a serverside only SPA web framework. I would really like critical opinions on the idea.](https://www.reddit.com/r/javascript/comments/yirkxz/hey_i_built_a_serverside_only_spa_web_framework_i/)
+- [How to write your first unit test in JavaScript](https://www.reddit.com/r/javascript/comments/yipecq/how_to_write_your_first_unit_test_in_javascript/)
+- [[AskJS] Does Module Federation dependency sharing play nice with tree shaking?](https://www.reddit.com/r/javascript/comments/yink0c/askjs_does_module_federation_dependency_sharing/)
+- [Beautiful Visualizations For Your App&#39;s Dependencies](https://www.reddit.com/r/javascript/comments/yimyik/beautiful_visualizations_for_your_apps/)
+- [Remix is joining Shopify](https://www.reddit.com/r/javascript/comments/yikh3g/remix_is_joining_shopify/)
+- [How to detect location hash changes in Javascript](https://www.reddit.com/r/javascript/comments/yiib27/how_to_detect_location_hash_changes_in_javascript/)
+- [Mixing It Up: Remix Joins Shopify to Push the Web Forward](https://www.reddit.com/r/javascript/comments/yiht1p/mixing_it_up_remix_joins_shopify_to_push_the_web/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
