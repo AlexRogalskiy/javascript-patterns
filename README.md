@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [My new side project - sliderm.js](https://www.reddit.com/r/javascript/comments/yiwrfz/my_new_side_project_slidermjs/)
-- [Introducing DiffLens: Language aware diffs in VS Code](https://www.reddit.com/r/javascript/comments/yise1d/introducing_difflens_language_aware_diffs_in_vs/)
-- [Pull Congressional Data via SMS with the Congress API and JavaScript](https://www.reddit.com/r/javascript/comments/yisdti/pull_congressional_data_via_sms_with_the_congress/)
-- [Hey I built a serverside only SPA web framework. I would really like critical opinions on the idea.](https://www.reddit.com/r/javascript/comments/yirkxz/hey_i_built_a_serverside_only_spa_web_framework_i/)
-- [How to write your first unit test in JavaScript](https://www.reddit.com/r/javascript/comments/yipecq/how_to_write_your_first_unit_test_in_javascript/)
-- [[AskJS] Does Module Federation dependency sharing play nice with tree shaking?](https://www.reddit.com/r/javascript/comments/yink0c/askjs_does_module_federation_dependency_sharing/)
-- [Beautiful Visualizations For Your App&#39;s Dependencies](https://www.reddit.com/r/javascript/comments/yimyik/beautiful_visualizations_for_your_apps/)
-- [Remix is joining Shopify](https://www.reddit.com/r/javascript/comments/yikh3g/remix_is_joining_shopify/)
-- [How to detect location hash changes in Javascript](https://www.reddit.com/r/javascript/comments/yiib27/how_to_detect_location_hash_changes_in_javascript/)
-- [Mixing It Up: Remix Joins Shopify to Push the Web Forward](https://www.reddit.com/r/javascript/comments/yiht1p/mixing_it_up_remix_joins_shopify_to_push_the_web/)
+- [[AskJS] Dealing with multiple promises, results in failure to get the value in the final stage](https://www.reddit.com/r/javascript/comments/yju0pr/askjs_dealing_with_multiple_promises_results_in/)
+- [Iterable collections of weak references. Built this for myself and found it hard to get it working right. Sharing in case anyone else finds it helpful.](https://www.reddit.com/r/javascript/comments/yjown8/iterable_collections_of_weak_references_built/)
+- [Tools to Use When Setting up a JavaScript Repo](https://www.reddit.com/r/javascript/comments/yjor2y/tools_to_use_when_setting_up_a_javascript_repo/)
+- [Announcing TypeScript 4.9 RC](https://www.reddit.com/r/javascript/comments/yjlrw7/announcing_typescript_49_rc/)
+- [Revamp of MDN Web Docs Contribution Docs](https://www.reddit.com/r/javascript/comments/yjhct4/revamp_of_mdn_web_docs_contribution_docs/)
+- [[AskJS] How is PReact 3kB?](https://www.reddit.com/r/javascript/comments/yjh7ea/askjs_how_is_preact_3kb/)
+- [[AskJS] Are classes still OK when trying to make a codebase mostly functional?](https://www.reddit.com/r/javascript/comments/yjgr2m/askjs_are_classes_still_ok_when_trying_to_make_a/)
+- [[AskJS] Is there a good table js library?](https://www.reddit.com/r/javascript/comments/yjfrzz/askjs_is_there_a_good_table_js_library/)
+- [Advent Of Vue - 24 Challenges in 24 days](https://www.reddit.com/r/javascript/comments/yjdnw2/advent_of_vue_24_challenges_in_24_days/)
+- [How to write a simple JSON visualizer using JointJS+](https://www.reddit.com/r/javascript/comments/yj7wt9/how_to_write_a_simple_json_visualizer_using/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
