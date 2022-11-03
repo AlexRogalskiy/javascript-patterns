@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Dealing with multiple promises, results in failure to get the value in the final stage](https://www.reddit.com/r/javascript/comments/yju0pr/askjs_dealing_with_multiple_promises_results_in/)
-- [Iterable collections of weak references. Built this for myself and found it hard to get it working right. Sharing in case anyone else finds it helpful.](https://www.reddit.com/r/javascript/comments/yjown8/iterable_collections_of_weak_references_built/)
-- [Tools to Use When Setting up a JavaScript Repo](https://www.reddit.com/r/javascript/comments/yjor2y/tools_to_use_when_setting_up_a_javascript_repo/)
-- [Announcing TypeScript 4.9 RC](https://www.reddit.com/r/javascript/comments/yjlrw7/announcing_typescript_49_rc/)
-- [Revamp of MDN Web Docs Contribution Docs](https://www.reddit.com/r/javascript/comments/yjhct4/revamp_of_mdn_web_docs_contribution_docs/)
-- [[AskJS] How is PReact 3kB?](https://www.reddit.com/r/javascript/comments/yjh7ea/askjs_how_is_preact_3kb/)
-- [[AskJS] Are classes still OK when trying to make a codebase mostly functional?](https://www.reddit.com/r/javascript/comments/yjgr2m/askjs_are_classes_still_ok_when_trying_to_make_a/)
-- [[AskJS] Is there a good table js library?](https://www.reddit.com/r/javascript/comments/yjfrzz/askjs_is_there_a_good_table_js_library/)
-- [Advent Of Vue - 24 Challenges in 24 days](https://www.reddit.com/r/javascript/comments/yjdnw2/advent_of_vue_24_challenges_in_24_days/)
-- [How to write a simple JSON visualizer using JointJS+](https://www.reddit.com/r/javascript/comments/yj7wt9/how_to_write_a_simple_json_visualizer_using/)
+- [[AskJS] Any favorite alternatives to Sentry?](https://www.reddit.com/r/javascript/comments/ykfwpb/askjs_any_favorite_alternatives_to_sentry/)
+- [[AskJS] Authentication in React](https://www.reddit.com/r/javascript/comments/yke6st/askjs_authentication_in_react/)
+- [Visual Studio Code October 2022](https://www.reddit.com/r/javascript/comments/ykbzuk/visual_studio_code_october_2022/)
+- [Bringing lazy loading and blurhash to the video party](https://www.reddit.com/r/javascript/comments/ykbjyc/bringing_lazy_loading_and_blurhash_to_the_video/)
+- [Javascript is still the most used programming language in newly created repositories on GitHub](https://www.reddit.com/r/javascript/comments/yk8nzp/javascript_is_still_the_most_used_programming/)
+- [[AskJS] How to spend my personal budget at work?](https://www.reddit.com/r/javascript/comments/yk744b/askjs_how_to_spend_my_personal_budget_at_work/)
+- [What&#39;s New in Next.js 13](https://www.reddit.com/r/javascript/comments/yk3dlr/whats_new_in_nextjs_13/)
+- [Vuestic UI 1.5.0, UI Framework for Vue 3, is out. Now with huge A11y improvements and dark theme support](https://www.reddit.com/r/javascript/comments/yk3c3p/vuestic_ui_150_ui_framework_for_vue_3_is_out_now/)
+- [Creating a registration and a login with two-factor authentication on React](https://www.reddit.com/r/javascript/comments/yk1h27/creating_a_registration_and_a_login_with/)
+- [Join the Hackathon to build with Stable Diffusion!](https://www.reddit.com/r/javascript/comments/yk169k/join_the_hackathon_to_build_with_stable_diffusion/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
