@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Experts](https://www.reddit.com/r/javascript/comments/ylibzq/askjs_experts/)
+- [Be Careful With JavaScript Default Parameters!](https://www.reddit.com/r/javascript/comments/yl499s/be_careful_with_javascript_default_parameters/)
+- [Comparison of Blazor Vs JavaScript Frameworks](https://www.reddit.com/r/javascript/comments/yl1maz/comparison_of_blazor_vs_javascript_frameworks/)
+- [GitHub - MaskingTechnology/jitar: Distributed runtime for JavaScript and TypeScript](https://www.reddit.com/r/javascript/comments/yl19am/github_maskingtechnologyjitar_distributed_runtime/)
+- [Running JavaScript in WebAssembly with WasmEdge](https://www.reddit.com/r/javascript/comments/ykveof/running_javascript_in_webassembly_with_wasmedge/)
+- [[AskJS] Using Github for a Gatsby Project storage and version control](https://www.reddit.com/r/javascript/comments/ykun8v/askjs_using_github_for_a_gatsby_project_storage/)
+- [Add controller functionality to your JavaScript game.](https://www.reddit.com/r/javascript/comments/yktnys/add_controller_functionality_to_your_javascript/)
 - [[AskJS] Any favorite alternatives to Sentry?](https://www.reddit.com/r/javascript/comments/ykfwpb/askjs_any_favorite_alternatives_to_sentry/)
 - [[AskJS] Authentication in React](https://www.reddit.com/r/javascript/comments/yke6st/askjs_authentication_in_react/)
 - [Visual Studio Code October 2022](https://www.reddit.com/r/javascript/comments/ykbzuk/visual_studio_code_october_2022/)
-- [Bringing lazy loading and blurhash to the video party](https://www.reddit.com/r/javascript/comments/ykbjyc/bringing_lazy_loading_and_blurhash_to_the_video/)
-- [Javascript is still the most used programming language in newly created repositories on GitHub](https://www.reddit.com/r/javascript/comments/yk8nzp/javascript_is_still_the_most_used_programming/)
-- [[AskJS] How to spend my personal budget at work?](https://www.reddit.com/r/javascript/comments/yk744b/askjs_how_to_spend_my_personal_budget_at_work/)
-- [What&#39;s New in Next.js 13](https://www.reddit.com/r/javascript/comments/yk3dlr/whats_new_in_nextjs_13/)
-- [Vuestic UI 1.5.0, UI Framework for Vue 3, is out. Now with huge A11y improvements and dark theme support](https://www.reddit.com/r/javascript/comments/yk3c3p/vuestic_ui_150_ui_framework_for_vue_3_is_out_now/)
-- [Creating a registration and a login with two-factor authentication on React](https://www.reddit.com/r/javascript/comments/yk1h27/creating_a_registration_and_a_login_with/)
-- [Join the Hackathon to build with Stable Diffusion!](https://www.reddit.com/r/javascript/comments/yk169k/join_the_hackathon_to_build_with_stable_diffusion/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
