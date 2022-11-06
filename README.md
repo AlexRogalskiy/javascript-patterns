@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Experts](https://www.reddit.com/r/javascript/comments/ylibzq/askjs_experts/)
-- [Be Careful With JavaScript Default Parameters!](https://www.reddit.com/r/javascript/comments/yl499s/be_careful_with_javascript_default_parameters/)
-- [Comparison of Blazor Vs JavaScript Frameworks](https://www.reddit.com/r/javascript/comments/yl1maz/comparison_of_blazor_vs_javascript_frameworks/)
-- [GitHub - MaskingTechnology/jitar: Distributed runtime for JavaScript and TypeScript](https://www.reddit.com/r/javascript/comments/yl19am/github_maskingtechnologyjitar_distributed_runtime/)
-- [Running JavaScript in WebAssembly with WasmEdge](https://www.reddit.com/r/javascript/comments/ykveof/running_javascript_in_webassembly_with_wasmedge/)
-- [[AskJS] Using Github for a Gatsby Project storage and version control](https://www.reddit.com/r/javascript/comments/ykun8v/askjs_using_github_for_a_gatsby_project_storage/)
-- [Add controller functionality to your JavaScript game.](https://www.reddit.com/r/javascript/comments/yktnys/add_controller_functionality_to_your_javascript/)
-- [[AskJS] Any favorite alternatives to Sentry?](https://www.reddit.com/r/javascript/comments/ykfwpb/askjs_any_favorite_alternatives_to_sentry/)
-- [[AskJS] Authentication in React](https://www.reddit.com/r/javascript/comments/yke6st/askjs_authentication_in_react/)
-- [Visual Studio Code October 2022](https://www.reddit.com/r/javascript/comments/ykbzuk/visual_studio_code_october_2022/)
+- [[AskJS] How and what tools are you using to performance test backend Javascript applications?](https://www.reddit.com/r/javascript/comments/ynag0a/askjs_how_and_what_tools_are_you_using_to/)
+- [Animated Node.js event loop](https://www.reddit.com/r/javascript/comments/yn4ltm/animated_nodejs_event_loop/)
+- [Working on a new app for 3D printing and large cloud file storage.](https://www.reddit.com/r/javascript/comments/yn41nk/working_on_a_new_app_for_3d_printing_and_large/)
+- [[AskJS] is this knowledge worth something](https://www.reddit.com/r/javascript/comments/yn2idj/askjs_is_this_knowledge_worth_something/)
+- [Next.js 13 HMR Is 700 Times Faster](https://www.reddit.com/r/javascript/comments/yn144g/nextjs_13_hmr_is_700_times_faster/)
+- [Supersonic plugin for scroll based animation: 3kb, animates 1000 elements without lags, customizable as hell](https://www.reddit.com/r/javascript/comments/ymw61v/supersonic_plugin_for_scroll_based_animation_3kb/)
+- [Moving Letters text animation](https://www.reddit.com/r/javascript/comments/ymt3y2/moving_letters_text_animation/)
+- [Showoff Saturday &lpar;November 05, 2022&rpar;](https://www.reddit.com/r/javascript/comments/ymmqc7/showoff_saturday_november_05_2022/)
+- [[AskJS] What are the post-Twitter JavaScript micro-blogging options?](https://www.reddit.com/r/javascript/comments/ymlimq/askjs_what_are_the_posttwitter_javascript/)
+- [Shopify went shopping. The story of Remix and Hydrogen.](https://www.reddit.com/r/javascript/comments/ymbbd8/shopify_went_shopping_the_story_of_remix_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
