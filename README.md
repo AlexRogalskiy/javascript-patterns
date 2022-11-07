@@ -322,6 +322,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *YouTube code posts*
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [The Journey About How I Fixed a Bug in the Node.js Core That Affected Thousands of Packages](https://www.youtube.com/watch?v=cxUWZoirTZk)
 - [Accessibility with Svelte - Beyond Compiler Warnings by Anuradha Kumari | JSConf Korea 2022](https://www.youtube.com/watch?v=LhYkzhAC7PU)
 - [The Next Exciting JavaScript Feature: Records &amp; Tuples by Nicolò Ribaudo | JSConf Korea 2022](https://www.youtube.com/watch?v=DQTmEhBI41o)
 - [How to Fail Successfully by Eleanor Rumsey | JSConf Korea 2022](https://www.youtube.com/watch?v=ybbw71aWu4o)
@@ -331,7 +332,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [How Your Bundle Size Affects The Climate by Roy Derks](https://www.youtube.com/watch?v=_LEzWJOrle0)
 - [Documentation: The Missing Pieces by Adrienne Tacke](https://www.youtube.com/watch?v=wBGOswx6MSw)
 - [Communicating Intention with Functional TypeScript by Thiago Temple](https://www.youtube.com/watch?v=fhyHgkH0ZEg)
-- [DX is UX by Mathieu Anderson](https://www.youtube.com/watch?v=s_9MnfNxqQs)
 <!-- YOUTUBE-POST-LIST:END -->
 
 ### *ReactJS posts*
