@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Is there a more idiomatic way to format datetime in Vanilla JS?](https://www.reddit.com/r/javascript/comments/yo7ff7/askjs_is_there_a_more_idiomatic_way_to_format/)
+- [AI Code Debugger](https://www.reddit.com/r/javascript/comments/yo6gzx/ai_code_debugger/)
+- [Cample.js - typed javascript web framework for creating site UI. New version 1.0.2 ! Supporting Routing for creating SPA. Routes. RouteLink. Watch mode. Updated website and documentation!](https://www.reddit.com/r/javascript/comments/yo2qwu/camplejs_typed_javascript_web_framework_for/)
+- [Nice cyber punk open source library with +90 HUD elements. would be nice to find collaborators to have +1000 elements. &lpar;L&rpar;](https://www.reddit.com/r/javascript/comments/ynzwak/nice_cyber_punk_open_source_library_with_90_hud/)
+- [[AskJS] Date / Daylight Savings Time Madness.](https://www.reddit.com/r/javascript/comments/ynx6wm/askjs_date_daylight_savings_time_madness/)
+- [IMDb Table: View IMDb rating heatmap tables for TV shows](https://www.reddit.com/r/javascript/comments/ynw7zg/imdb_table_view_imdb_rating_heatmap_tables_for_tv/)
+- [Vite Just Got A Worthy Competitor](https://www.reddit.com/r/javascript/comments/ynsy5m/vite_just_got_a_worthy_competitor/)
+- [4 Ways to Minimize your Dependencies in Node.js](https://www.reddit.com/r/javascript/comments/ynrktz/4_ways_to_minimize_your_dependencies_in_nodejs/)
+- [Wargame/Capture the flag](https://www.reddit.com/r/javascript/comments/ynihlb/wargamecapture_the_flag/)
 - [[AskJS] How and what tools are you using to performance test backend Javascript applications?](https://www.reddit.com/r/javascript/comments/ynag0a/askjs_how_and_what_tools_are_you_using_to/)
-- [Animated Node.js event loop](https://www.reddit.com/r/javascript/comments/yn4ltm/animated_nodejs_event_loop/)
-- [Working on a new app for 3D printing and large cloud file storage.](https://www.reddit.com/r/javascript/comments/yn41nk/working_on_a_new_app_for_3d_printing_and_large/)
-- [[AskJS] is this knowledge worth something](https://www.reddit.com/r/javascript/comments/yn2idj/askjs_is_this_knowledge_worth_something/)
-- [Next.js 13 HMR Is 700 Times Faster](https://www.reddit.com/r/javascript/comments/yn144g/nextjs_13_hmr_is_700_times_faster/)
-- [Supersonic plugin for scroll based animation: 3kb, animates 1000 elements without lags, customizable as hell](https://www.reddit.com/r/javascript/comments/ymw61v/supersonic_plugin_for_scroll_based_animation_3kb/)
-- [Moving Letters text animation](https://www.reddit.com/r/javascript/comments/ymt3y2/moving_letters_text_animation/)
-- [Showoff Saturday &lpar;November 05, 2022&rpar;](https://www.reddit.com/r/javascript/comments/ymmqc7/showoff_saturday_november_05_2022/)
-- [[AskJS] What are the post-Twitter JavaScript micro-blogging options?](https://www.reddit.com/r/javascript/comments/ymlimq/askjs_what_are_the_posttwitter_javascript/)
-- [Shopify went shopping. The story of Remix and Hydrogen.](https://www.reddit.com/r/javascript/comments/ymbbd8/shopify_went_shopping_the_story_of_remix_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
