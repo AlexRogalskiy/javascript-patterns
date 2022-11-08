@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Is there a more idiomatic way to format datetime in Vanilla JS?](https://www.reddit.com/r/javascript/comments/yo7ff7/askjs_is_there_a_more_idiomatic_way_to_format/)
-- [AI Code Debugger](https://www.reddit.com/r/javascript/comments/yo6gzx/ai_code_debugger/)
-- [Cample.js - typed javascript web framework for creating site UI. New version 1.0.2 ! Supporting Routing for creating SPA. Routes. RouteLink. Watch mode. Updated website and documentation!](https://www.reddit.com/r/javascript/comments/yo2qwu/camplejs_typed_javascript_web_framework_for/)
-- [Nice cyber punk open source library with +90 HUD elements. would be nice to find collaborators to have +1000 elements. &lpar;L&rpar;](https://www.reddit.com/r/javascript/comments/ynzwak/nice_cyber_punk_open_source_library_with_90_hud/)
-- [[AskJS] Date / Daylight Savings Time Madness.](https://www.reddit.com/r/javascript/comments/ynx6wm/askjs_date_daylight_savings_time_madness/)
-- [IMDb Table: View IMDb rating heatmap tables for TV shows](https://www.reddit.com/r/javascript/comments/ynw7zg/imdb_table_view_imdb_rating_heatmap_tables_for_tv/)
-- [Vite Just Got A Worthy Competitor](https://www.reddit.com/r/javascript/comments/ynsy5m/vite_just_got_a_worthy_competitor/)
-- [4 Ways to Minimize your Dependencies in Node.js](https://www.reddit.com/r/javascript/comments/ynrktz/4_ways_to_minimize_your_dependencies_in_nodejs/)
-- [Wargame/Capture the flag](https://www.reddit.com/r/javascript/comments/ynihlb/wargamecapture_the_flag/)
-- [[AskJS] How and what tools are you using to performance test backend Javascript applications?](https://www.reddit.com/r/javascript/comments/ynag0a/askjs_how_and_what_tools_are_you_using_to/)
+- [JSON Translator - A CLI app to translate any JSON file to a different language automatically or prepare it for human translation by creating a spreadsheet that can be reverted to JSON format once translated.](https://www.reddit.com/r/javascript/comments/yp9085/json_translator_a_cli_app_to_translate_any_json/)
+- [Rate my portfolio? Haven’t configured any of the sites for mobile devices, only pc/laptop. Trying to get my first job as a web dev. I prefer backend. Comments for login info…](https://www.reddit.com/r/javascript/comments/yp8dfo/rate_my_portfolio_havent_configured_any_of_the/)
+- [Javascript Worker Threads Example to Implement Concurrency &amp; Parallelism Using PostMessage API in Browser - WebNinjaDeveloper.com](https://www.reddit.com/r/javascript/comments/yp6z31/javascript_worker_threads_example_to_implement/)
+- [[AskJS] Is there ever a good use for loose blocks in JS?](https://www.reddit.com/r/javascript/comments/yp4phx/askjs_is_there_ever_a_good_use_for_loose_blocks/)
+- [Made with love, and #javascrpt](https://www.reddit.com/r/javascript/comments/yosx79/made_with_love_and_javascrpt/)
+- [Client-side Routing without the JavaScript](https://www.reddit.com/r/javascript/comments/yos8os/clientside_routing_without_the_javascript/)
+- [JS IMAGE CARVER - Content-aware image resizer](https://www.reddit.com/r/javascript/comments/yoqr2k/js_image_carver_contentaware_image_resizer/)
+- [Watching-you - a javascript library for building animations that watch anything on DOM](https://www.reddit.com/r/javascript/comments/yoqgmy/watchingyou_a_javascript_library_for_building/)
+- [RxJS Insights - a toolset that helps you debug and visualize the observables in your app](https://www.reddit.com/r/javascript/comments/yopvd3/rxjs_insights_a_toolset_that_helps_you_debug_and/)
+- [Monorepo Advantages](https://www.reddit.com/r/javascript/comments/yomb9h/monorepo_advantages/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
