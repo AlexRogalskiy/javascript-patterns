@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I have created Routinejs, an Express inspired super fast Nodejs router](https://www.reddit.com/r/javascript/comments/ypy2y2/i_have_created_routinejs_an_express_inspired/)
+- [I love the Web platform &lpar;game for web devs&rpar;](https://www.reddit.com/r/javascript/comments/yptcxa/i_love_the_web_platform_game_for_web_devs/)
+- [Protobuf-ES: The Protocol Buffers TypeScript/JavaScript runtime we all deserve](https://www.reddit.com/r/javascript/comments/yprrla/protobufes_the_protocol_buffers/)
+- [Announcing Gatsby 5 - Slice API, Partial Hydration &lpar;w/ Server Components&rpar;, GraphiQL v2 &amp; more](https://www.reddit.com/r/javascript/comments/ypovh0/announcing_gatsby_5_slice_api_partial_hydration_w/)
+- [Inferno - an insanely fast, React-like library for building high-performance user interfaces on both the client and server](https://www.reddit.com/r/javascript/comments/ypoihp/inferno_an_insanely_fast_reactlike_library_for/)
+- [Announcing Rome v10 — first stable release of our fast linter and formatter for JavaScript and TypeScript](https://www.reddit.com/r/javascript/comments/ypnwwn/announcing_rome_v10_first_stable_release_of_our/)
+- [Medusajs external authentication providers &lpar;Google, Facebook, ...&rpar;](https://www.reddit.com/r/javascript/comments/ypkj6h/medusajs_external_authentication_providers_google/)
+- [A storybook.js shopping cart addon for distributing your mono-repo packages](https://www.reddit.com/r/javascript/comments/yp9fb2/a_storybookjs_shopping_cart_addon_for/)
 - [JSON Translator - A CLI app to translate any JSON file to a different language automatically or prepare it for human translation by creating a spreadsheet that can be reverted to JSON format once translated.](https://www.reddit.com/r/javascript/comments/yp9085/json_translator_a_cli_app_to_translate_any_json/)
-- [Rate my portfolio? Haven’t configured any of the sites for mobile devices, only pc/laptop. Trying to get my first job as a web dev. I prefer backend. Comments for login info…](https://www.reddit.com/r/javascript/comments/yp8dfo/rate_my_portfolio_havent_configured_any_of_the/)
 - [Javascript Worker Threads Example to Implement Concurrency &amp; Parallelism Using PostMessage API in Browser - WebNinjaDeveloper.com](https://www.reddit.com/r/javascript/comments/yp6z31/javascript_worker_threads_example_to_implement/)
-- [[AskJS] Is there ever a good use for loose blocks in JS?](https://www.reddit.com/r/javascript/comments/yp4phx/askjs_is_there_ever_a_good_use_for_loose_blocks/)
-- [Made with love, and #javascrpt](https://www.reddit.com/r/javascript/comments/yosx79/made_with_love_and_javascrpt/)
-- [Client-side Routing without the JavaScript](https://www.reddit.com/r/javascript/comments/yos8os/clientside_routing_without_the_javascript/)
-- [JS IMAGE CARVER - Content-aware image resizer](https://www.reddit.com/r/javascript/comments/yoqr2k/js_image_carver_contentaware_image_resizer/)
-- [Watching-you - a javascript library for building animations that watch anything on DOM](https://www.reddit.com/r/javascript/comments/yoqgmy/watchingyou_a_javascript_library_for_building/)
-- [RxJS Insights - a toolset that helps you debug and visualize the observables in your app](https://www.reddit.com/r/javascript/comments/yopvd3/rxjs_insights_a_toolset_that_helps_you_debug_and/)
-- [Monorepo Advantages](https://www.reddit.com/r/javascript/comments/yomb9h/monorepo_advantages/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
