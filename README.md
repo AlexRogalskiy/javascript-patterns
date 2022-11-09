@@ -352,6 +352,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *javascript programmer posts*
 
 <!-- METEOR-POST-LIST:START -->
+- [Introducing the grubba-rpc package](https://blog.meteor.com/introducing-the-grubba-rpc-package-80b1e1958dc3?source=rss----a9bcaf865278---4)
 - [New Meteor 2.8 and the new MongoDB Async AP](https://blog.meteor.com/new-meteor-2-8-and-the-new-mongodb-async-ap-edbcb853869a?source=rss----a9bcaf865278---4)
 - [Meteor Cloud Lets Coygo Focus On Crypto Trading Tools, Not DevOps](https://blog.meteor.com/meteor-cloud-lets-coygo-focus-on-crypto-trading-tools-not-devops-97f8e5e993bd?source=rss----a9bcaf865278---4)
 - [Google OAuth using Meteor JS — Implementation Guide with Working Code [ 2022 ]](https://blog.meteor.com/google-oauth-using-meteor-js-implementation-guide-with-working-code-2022-455a981c8a7c?source=rss----a9bcaf865278---4)
@@ -361,7 +362,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [How to update your app that uses an old version of Meteor?](https://blog.meteor.com/how-to-update-your-app-that-uses-an-old-version-of-meteor-15c3239b46ce?source=rss----a9bcaf865278---4)
 - [Meteor Monthly Update — August 2022](https://blog.meteor.com/meteor-monthly-update-august-2022-479cbdbfd9c4?source=rss----a9bcaf865278---4)
 - [How to get started with Meteor and ask for help if you are stuck](https://blog.meteor.com/how-to-get-started-with-meteor-and-ask-for-help-if-you-are-stuck-fd5c9a20ed99?source=rss----a9bcaf865278---4)
-- [Meteor Helps Azumuta Digitize Shop Floor Activities Across the Manufacturing Industry](https://blog.meteor.com/meteor-helps-azumuta-digitize-shop-floor-activities-across-the-manufacturing-industry-a43af7ae750d?source=rss----a9bcaf865278---4)
 <!-- METEOR-POST-LIST:END -->
 
 ### *Dreamix posts*
