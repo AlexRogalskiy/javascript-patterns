@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I have created Routinejs, an Express inspired super fast Nodejs router](https://www.reddit.com/r/javascript/comments/ypy2y2/i_have_created_routinejs_an_express_inspired/)
-- [I love the Web platform &lpar;game for web devs&rpar;](https://www.reddit.com/r/javascript/comments/yptcxa/i_love_the_web_platform_game_for_web_devs/)
-- [Protobuf-ES: The Protocol Buffers TypeScript/JavaScript runtime we all deserve](https://www.reddit.com/r/javascript/comments/yprrla/protobufes_the_protocol_buffers/)
-- [Announcing Gatsby 5 - Slice API, Partial Hydration &lpar;w/ Server Components&rpar;, GraphiQL v2 &amp; more](https://www.reddit.com/r/javascript/comments/ypovh0/announcing_gatsby_5_slice_api_partial_hydration_w/)
-- [Inferno - an insanely fast, React-like library for building high-performance user interfaces on both the client and server](https://www.reddit.com/r/javascript/comments/ypoihp/inferno_an_insanely_fast_reactlike_library_for/)
-- [Announcing Rome v10 — first stable release of our fast linter and formatter for JavaScript and TypeScript](https://www.reddit.com/r/javascript/comments/ypnwwn/announcing_rome_v10_first_stable_release_of_our/)
-- [Medusajs external authentication providers &lpar;Google, Facebook, ...&rpar;](https://www.reddit.com/r/javascript/comments/ypkj6h/medusajs_external_authentication_providers_google/)
-- [A storybook.js shopping cart addon for distributing your mono-repo packages](https://www.reddit.com/r/javascript/comments/yp9fb2/a_storybookjs_shopping_cart_addon_for/)
-- [JSON Translator - A CLI app to translate any JSON file to a different language automatically or prepare it for human translation by creating a spreadsheet that can be reverted to JSON format once translated.](https://www.reddit.com/r/javascript/comments/yp9085/json_translator_a_cli_app_to_translate_any_json/)
-- [Javascript Worker Threads Example to Implement Concurrency &amp; Parallelism Using PostMessage API in Browser - WebNinjaDeveloper.com](https://www.reddit.com/r/javascript/comments/yp6z31/javascript_worker_threads_example_to_implement/)
+- [[AskJS] Is there any reason to use a class over a factory function?](https://www.reddit.com/r/javascript/comments/yr34u8/askjs_is_there_any_reason_to_use_a_class_over_a/)
+- [[AskJS] yarn over npm/pnpm?](https://www.reddit.com/r/javascript/comments/yr1rbn/askjs_yarn_over_npmpnpm/)
+- [react-factor: A really easy way to hoist any React Hook up to a React Context to create a shared dynamic state.](https://www.reddit.com/r/javascript/comments/yr0li8/reactfactor_a_really_easy_way_to_hoist_any_react/)
+- [Create a TypeScript project](https://www.reddit.com/r/javascript/comments/yqxzbd/create_a_typescript_project/)
+- [How to deploy a Fullstack REACT Application on the AWS EC2 instance](https://www.reddit.com/r/javascript/comments/yqxrvo/how_to_deploy_a_fullstack_react_application_on/)
+- [Tips and tricks for building zoom calls in web](https://www.reddit.com/r/javascript/comments/yquvoc/tips_and_tricks_for_building_zoom_calls_in_web/)
+- [Overview of the current and next-gen frontend development tools: Webpack, Rollup, Parcel, Vite, TypeScript, SWC, ESBuild, Babel, Terser, Uglify, ESLint, prettier, Rome tools...](https://www.reddit.com/r/javascript/comments/yqukak/overview_of_the_current_and_nextgen_frontend/)
+- [Deploying a simple Node.js app with HTTPS on cloud providers in 2022: Heroku, Render, Fly.io, AWS, Hetzner, Google Cloud Run](https://www.reddit.com/r/javascript/comments/yqltr1/deploying_a_simple_nodejs_app_with_https_on_cloud/)
+- [How to build forms using the schema-first approach in React](https://www.reddit.com/r/javascript/comments/yqhn5z/how_to_build_forms_using_the_schemafirst_approach/)
+- [Jamstack Community Survey Results 2022](https://www.reddit.com/r/javascript/comments/yqe6lj/jamstack_community_survey_results_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
