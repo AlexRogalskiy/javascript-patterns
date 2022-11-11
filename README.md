@@ -322,6 +322,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *YouTube code posts*
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [[EN/KO]Connecting WebViews and Native Properly - Webview Request Protocol by JongChan | JSConf Korea](https://www.youtube.com/watch?v=FazNzl6Ei3A)
+- [[EN/KO] Printing Receipts with React: How to Create POS with JavaScript by Seokju |JSConf Korea 2022](https://www.youtube.com/watch?v=FFolxFrUgoQ)
+- [The Secret Web Performance Metric No One Is Talking About by Anna Migas | JSConf Korea 2022](https://www.youtube.com/watch?v=NCV0xsMp4Jw)
 - [The Journey About How I Fixed a Bug in the Node.js Core That Affected Thousands of Packages](https://www.youtube.com/watch?v=cxUWZoirTZk)
 - [Accessibility with Svelte - Beyond Compiler Warnings by Anuradha Kumari | JSConf Korea 2022](https://www.youtube.com/watch?v=LhYkzhAC7PU)
 - [The Next Exciting JavaScript Feature: Records &amp; Tuples by Nicolò Ribaudo | JSConf Korea 2022](https://www.youtube.com/watch?v=DQTmEhBI41o)
@@ -329,9 +332,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Understanding and Optimizing Interaction to Next Paint &lpar;INP&rpar; by Jeremy Wagner | JSConf Korea 2022](https://www.youtube.com/watch?v=BoaORHnJYAE)
 - [Impressions of JSConf Budapest 2022](https://www.youtube.com/watch?v=WPj0fDUqt1M)
 - [It&#39;s the markup that matters by Hidde de Vries](https://www.youtube.com/watch?v=MDywgeCW5jk)
-- [How Your Bundle Size Affects The Climate by Roy Derks](https://www.youtube.com/watch?v=_LEzWJOrle0)
-- [Documentation: The Missing Pieces by Adrienne Tacke](https://www.youtube.com/watch?v=wBGOswx6MSw)
-- [Communicating Intention with Functional TypeScript by Thiago Temple](https://www.youtube.com/watch?v=fhyHgkH0ZEg)
 <!-- YOUTUBE-POST-LIST:END -->
 
 ### *ReactJS posts*
