@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Intro to CSS-in-JS: Generating CSS from JavaScript](https://www.infoworld.com/article/3678950/intro-to-css-in-js-generating-css-from-javascript.html#tk.rss_javascript)
 - [New TypeScript operator finds coding mistakes](https://www.infoworld.com/article/3674814/new-typescript-operator-finds-coding-mistakes.html#tk.rss_javascript)
 - [Deno runtime backs inlay hints for coding](https://www.infoworld.com/article/3678428/deno-runtime-backs-inlay-hints-for-coding.html#tk.rss_javascript)
 - [Next.js 13 hones routing, layouts, rendering](https://www.infoworld.com/article/3678149/nextjs-13-hones-routing-layouts-rendering.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Data visualization with Observable JavaScript](https://www.infoworld.com/article/3674852/data-visualization-with-observable-javascript.html#tk.rss_javascript)
 - [Learn Observable JavaScript with Observable notebooks](https://www.infoworld.com/article/3674809/learn-observable-javascript-with-observable-notebooks.html#tk.rss_javascript)
 - [A beginner&#39;s guide to using Observable JavaScript, R, and Python with Quarto](https://www.infoworld.com/article/3674789/a-beginners-guide-to-using-observable-javascript-r-and-python-with-quarto.html#tk.rss_javascript)
-- [TypeScript turns 10 years old](https://www.infoworld.com/article/3675546/typescript-turns-10-years-old.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
