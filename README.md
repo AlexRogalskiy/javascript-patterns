@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Creating fluffy trees with ThreeJS &lpar;part 1&rpar;](https://www.reddit.com/r/javascript/comments/yrvsbu/creating_fluffy_trees_with_threejs_part_1/)
+- [Create OG images for your blog with Next.js](https://www.reddit.com/r/javascript/comments/yrig8i/create_og_images_for_your_blog_with_nextjs/)
+- [JSON-Tag: Render JSON data on any website &amp; LOTS more using a json tag](https://www.reddit.com/r/javascript/comments/yr99nr/jsontag_render_json_data_on_any_website_lots_more/)
+- [Socket.io | Show Number of visitor](https://www.reddit.com/r/javascript/comments/yr7fg9/socketio_show_number_of_visitor/)
+- [[AskJS] Anyone used Svelte on an enterprise-level or very complex app? What were your experiences?](https://www.reddit.com/r/javascript/comments/yr6psn/askjs_anyone_used_svelte_on_an_enterpriselevel_or/)
+- [Javascript Framework - Ranking](https://www.reddit.com/r/javascript/comments/yr4lye/javascript_framework_ranking/)
 - [[AskJS] Is there any reason to use a class over a factory function?](https://www.reddit.com/r/javascript/comments/yr34u8/askjs_is_there_any_reason_to_use_a_class_over_a/)
 - [[AskJS] yarn over npm/pnpm?](https://www.reddit.com/r/javascript/comments/yr1rbn/askjs_yarn_over_npmpnpm/)
 - [react-factor: A really easy way to hoist any React Hook up to a React Context to create a shared dynamic state.](https://www.reddit.com/r/javascript/comments/yr0li8/reactfactor_a_really_easy_way_to_hoist_any_react/)
 - [Create a TypeScript project](https://www.reddit.com/r/javascript/comments/yqxzbd/create_a_typescript_project/)
-- [How to deploy a Fullstack REACT Application on the AWS EC2 instance](https://www.reddit.com/r/javascript/comments/yqxrvo/how_to_deploy_a_fullstack_react_application_on/)
-- [Tips and tricks for building zoom calls in web](https://www.reddit.com/r/javascript/comments/yquvoc/tips_and_tricks_for_building_zoom_calls_in_web/)
-- [Overview of the current and next-gen frontend development tools: Webpack, Rollup, Parcel, Vite, TypeScript, SWC, ESBuild, Babel, Terser, Uglify, ESLint, prettier, Rome tools...](https://www.reddit.com/r/javascript/comments/yqukak/overview_of_the_current_and_nextgen_frontend/)
-- [Deploying a simple Node.js app with HTTPS on cloud providers in 2022: Heroku, Render, Fly.io, AWS, Hetzner, Google Cloud Run](https://www.reddit.com/r/javascript/comments/yqltr1/deploying_a_simple_nodejs_app_with_https_on_cloud/)
-- [How to build forms using the schema-first approach in React](https://www.reddit.com/r/javascript/comments/yqhn5z/how_to_build_forms_using_the_schemafirst_approach/)
-- [Jamstack Community Survey Results 2022](https://www.reddit.com/r/javascript/comments/yqe6lj/jamstack_community_survey_results_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
