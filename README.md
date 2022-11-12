@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [PaperHouses: Airbnb like webapp Build with Fullstack GraphQL](https://www.reddit.com/r/javascript/comments/ysgqs2/paperhouses_airbnb_like_webapp_build_with/)
+- [Sessions vs Tokens: How to authenticate in Node.js](https://www.reddit.com/r/javascript/comments/ysgmpr/sessions_vs_tokens_how_to_authenticate_in_nodejs/)
+- [Introducing SolidStart: The SolidJS Framework](https://www.reddit.com/r/javascript/comments/ysgd9v/introducing_solidstart_the_solidjs_framework/)
+- [f-of-xstate - utility library for querying and transforming your XState statecharts - would love feedback!](https://www.reddit.com/r/javascript/comments/ysesd5/fofxstate_utility_library_for_querying_and/)
+- [How to find/exploit Client-side prototype pollution with labs!](https://www.reddit.com/r/javascript/comments/ys8fe1/how_to_findexploit_clientside_prototype_pollution/)
+- [JavaScript Debugging with VS Code and Chrome](https://www.reddit.com/r/javascript/comments/ys7qlb/javascript_debugging_with_vs_code_and_chrome/)
 - [Creating fluffy trees with ThreeJS &lpar;part 1&rpar;](https://www.reddit.com/r/javascript/comments/yrvsbu/creating_fluffy_trees_with_threejs_part_1/)
 - [Create OG images for your blog with Next.js](https://www.reddit.com/r/javascript/comments/yrig8i/create_og_images_for_your_blog_with_nextjs/)
-- [JSON-Tag: Render JSON data on any website &amp; LOTS more using a json tag](https://www.reddit.com/r/javascript/comments/yr99nr/jsontag_render_json_data_on_any_website_lots_more/)
 - [Socket.io | Show Number of visitor](https://www.reddit.com/r/javascript/comments/yr7fg9/socketio_show_number_of_visitor/)
 - [[AskJS] Anyone used Svelte on an enterprise-level or very complex app? What were your experiences?](https://www.reddit.com/r/javascript/comments/yr6psn/askjs_anyone_used_svelte_on_an_enterpriselevel_or/)
-- [Javascript Framework - Ranking](https://www.reddit.com/r/javascript/comments/yr4lye/javascript_framework_ranking/)
-- [[AskJS] Is there any reason to use a class over a factory function?](https://www.reddit.com/r/javascript/comments/yr34u8/askjs_is_there_any_reason_to_use_a_class_over_a/)
-- [[AskJS] yarn over npm/pnpm?](https://www.reddit.com/r/javascript/comments/yr1rbn/askjs_yarn_over_npmpnpm/)
-- [react-factor: A really easy way to hoist any React Hook up to a React Context to create a shared dynamic state.](https://www.reddit.com/r/javascript/comments/yr0li8/reactfactor_a_really_easy_way_to_hoist_any_react/)
-- [Create a TypeScript project](https://www.reddit.com/r/javascript/comments/yqxzbd/create_a_typescript_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
