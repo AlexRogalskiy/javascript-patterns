@@ -322,16 +322,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *YouTube code posts*
 
 <!-- YOUTUBE-POST-LIST:START -->
-- [[EN/KO]Connecting WebViews and Native Properly - Webview Request Protocol by JongChan | JSConf Korea](https://www.youtube.com/watch?v=FazNzl6Ei3A)
-- [[EN/KO] Printing Receipts with React: How to Create POS with JavaScript by Seokju |JSConf Korea 2022](https://www.youtube.com/watch?v=FFolxFrUgoQ)
+- [How I Got 1600 Stars on GitHub in 2 months of Open Source Work by Hung Viet Nguyen|JSConf Korea 2022](https://www.youtube.com/watch?v=1CZjE3cDLbY)
+- [[Eng Sub]Is it Okay to Pursue Functional Programming on Frontend? by Minsu and Changhui|JSConf Korea](https://www.youtube.com/watch?v=IqdvgzV_nms)
+- [[Eng Sub]if &lpar;extensible design&rpar;  return &quot;work life balance&quot; by Jeong Eun Lee | JSConf Korea 2022](https://www.youtube.com/watch?v=eewc_hCvCsg)
+- [React x Web Components : How It Is and How It Could Be by Dwane Hemmings | JSConf Korea 2022](https://www.youtube.com/watch?v=JFotV9Fb6cI)
+- [Many Flavours of Enterprise CSS Grid by Chen Hui Jing | JSConf Korea 2022](https://www.youtube.com/watch?v=r3O3Fj1H2yw)
+- [[Eng Sub]Connecting WebViews and Native Properly - Webview Request Protocol by JongChan|JSConf Korea](https://www.youtube.com/watch?v=FazNzl6Ei3A)
+- [[Eng Sub]Printing Receipts with React: How to Create POS with JavaScript by Seokju|JSConf Korea 2022](https://www.youtube.com/watch?v=FFolxFrUgoQ)
 - [The Secret Web Performance Metric No One Is Talking About by Anna Migas | JSConf Korea 2022](https://www.youtube.com/watch?v=NCV0xsMp4Jw)
 - [The Journey About How I Fixed a Bug in the Node.js Core That Affected Thousands of Packages](https://www.youtube.com/watch?v=cxUWZoirTZk)
 - [Accessibility with Svelte - Beyond Compiler Warnings by Anuradha Kumari | JSConf Korea 2022](https://www.youtube.com/watch?v=LhYkzhAC7PU)
-- [The Next Exciting JavaScript Feature: Records &amp; Tuples by Nicolò Ribaudo | JSConf Korea 2022](https://www.youtube.com/watch?v=DQTmEhBI41o)
-- [How to Fail Successfully by Eleanor Rumsey | JSConf Korea 2022](https://www.youtube.com/watch?v=ybbw71aWu4o)
-- [Understanding and Optimizing Interaction to Next Paint &lpar;INP&rpar; by Jeremy Wagner | JSConf Korea 2022](https://www.youtube.com/watch?v=BoaORHnJYAE)
-- [Impressions of JSConf Budapest 2022](https://www.youtube.com/watch?v=WPj0fDUqt1M)
-- [It&#39;s the markup that matters by Hidde de Vries](https://www.youtube.com/watch?v=MDywgeCW5jk)
 <!-- YOUTUBE-POST-LIST:END -->
 
 ### *ReactJS posts*
