@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I made a site that lets you copy Tailwind CSS site templates. 100% free.](https://www.reddit.com/r/javascript/comments/ytgrwc/i_made_a_site_that_lets_you_copy_tailwind_css/)
+- [[AskJS] Is this password idea insane?](https://www.reddit.com/r/javascript/comments/yt6xyx/askjs_is_this_password_idea_insane/)
+- [Hey I created a small repository for people looking to get the active developer badge on discord if a person notice different problem](https://www.reddit.com/r/javascript/comments/yt3k47/hey_i_created_a_small_repository_for_people/)
+- [What is a realm in JavaScript?](https://www.reddit.com/r/javascript/comments/yt3ipu/what_is_a_realm_in_javascript/)
+- [TypeScript `satisfies` operator–new keyword coming to TypeScript 4.9](https://www.reddit.com/r/javascript/comments/yt2gfo/typescript_satisfies_operatornew_keyword_coming/)
+- [Lightweight decorative charts library for React](https://www.reddit.com/r/javascript/comments/yt2g1t/lightweight_decorative_charts_library_for_react/)
+- [Showoff Saturday &lpar;November 12, 2022&rpar;](https://www.reddit.com/r/javascript/comments/yt0coe/showoff_saturday_november_12_2022/)
+- [vite-plugin-proxy-page: A Vite plugin for projecting your application onto a remote page during development.](https://www.reddit.com/r/javascript/comments/ysv7iu/vitepluginproxypage_a_vite_plugin_for_projecting/)
 - [PaperHouses: Airbnb like webapp Build with Fullstack GraphQL](https://www.reddit.com/r/javascript/comments/ysgqs2/paperhouses_airbnb_like_webapp_build_with/)
 - [Sessions vs Tokens: How to authenticate in Node.js](https://www.reddit.com/r/javascript/comments/ysgmpr/sessions_vs_tokens_how_to_authenticate_in_nodejs/)
-- [Introducing SolidStart: The SolidJS Framework](https://www.reddit.com/r/javascript/comments/ysgd9v/introducing_solidstart_the_solidjs_framework/)
-- [f-of-xstate - utility library for querying and transforming your XState statecharts - would love feedback!](https://www.reddit.com/r/javascript/comments/ysesd5/fofxstate_utility_library_for_querying_and/)
-- [How to find/exploit Client-side prototype pollution with labs!](https://www.reddit.com/r/javascript/comments/ys8fe1/how_to_findexploit_clientside_prototype_pollution/)
-- [JavaScript Debugging with VS Code and Chrome](https://www.reddit.com/r/javascript/comments/ys7qlb/javascript_debugging_with_vs_code_and_chrome/)
-- [Creating fluffy trees with ThreeJS &lpar;part 1&rpar;](https://www.reddit.com/r/javascript/comments/yrvsbu/creating_fluffy_trees_with_threejs_part_1/)
-- [Create OG images for your blog with Next.js](https://www.reddit.com/r/javascript/comments/yrig8i/create_og_images_for_your_blog_with_nextjs/)
-- [Socket.io | Show Number of visitor](https://www.reddit.com/r/javascript/comments/yr7fg9/socketio_show_number_of_visitor/)
-- [[AskJS] Anyone used Svelte on an enterprise-level or very complex app? What were your experiences?](https://www.reddit.com/r/javascript/comments/yr6psn/askjs_anyone_used_svelte_on_an_enterpriselevel_or/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
