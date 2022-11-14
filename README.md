@@ -322,6 +322,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *YouTube code posts*
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [[Eng Sub]Deno: Next Generation JavaScript Runtime by Yongwook Choi | JSConf Korea 2022](https://www.youtube.com/watch?v=WtQlAzhE3gY)
 - [How I Got 1600 Stars on GitHub in 2 months of Open Source Work by Hung Viet Nguyen|JSConf Korea 2022](https://www.youtube.com/watch?v=1CZjE3cDLbY)
 - [[Eng Sub]Is it Okay to Pursue Functional Programming on Frontend? by Minsu and Changhui|JSConf Korea](https://www.youtube.com/watch?v=IqdvgzV_nms)
 - [[Eng Sub]if &lpar;extensible design&rpar;  return &quot;work life balance&quot; by Jeong Eun Lee | JSConf Korea 2022](https://www.youtube.com/watch?v=eewc_hCvCsg)
@@ -331,7 +332,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [[Eng Sub]Printing Receipts with React: How to Create POS with JavaScript by Seokju|JSConf Korea 2022](https://www.youtube.com/watch?v=FFolxFrUgoQ)
 - [The Secret Web Performance Metric No One Is Talking About by Anna Migas | JSConf Korea 2022](https://www.youtube.com/watch?v=NCV0xsMp4Jw)
 - [The Journey About How I Fixed a Bug in the Node.js Core That Affected Thousands of Packages](https://www.youtube.com/watch?v=cxUWZoirTZk)
-- [Accessibility with Svelte - Beyond Compiler Warnings by Anuradha Kumari | JSConf Korea 2022](https://www.youtube.com/watch?v=LhYkzhAC7PU)
 <!-- YOUTUBE-POST-LIST:END -->
 
 ### *ReactJS posts*
