@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [my own javascript frontend library](https://www.reddit.com/r/javascript/comments/yuk1l5/my_own_javascript_frontend_library/)
+- [JS animation library that lets your DOM focus on anything &lpar;just like eyes!&rpar;](https://www.reddit.com/r/javascript/comments/yu3ufs/js_animation_library_that_lets_your_dom_focus_on/)
+- [i made a tiny declarative js dom lib in 480 bytes](https://www.reddit.com/r/javascript/comments/yu3puo/i_made_a_tiny_declarative_js_dom_lib_in_480_bytes/)
+- [Chicken Chicken Chicken](https://www.reddit.com/r/javascript/comments/yu122k/chicken_chicken_chicken/)
+- [Micro TAP formatter that works very well with the Node &gt;=18 built-in node:test harness](https://www.reddit.com/r/javascript/comments/ytwhyq/micro_tap_formatter_that_works_very_well_with_the/)
 - [I made a site that lets you copy Tailwind CSS site templates. 100% free.](https://www.reddit.com/r/javascript/comments/ytgrwc/i_made_a_site_that_lets_you_copy_tailwind_css/)
 - [[AskJS] Is this password idea insane?](https://www.reddit.com/r/javascript/comments/yt6xyx/askjs_is_this_password_idea_insane/)
-- [Hey I created a small repository for people looking to get the active developer badge on discord if a person notice different problem](https://www.reddit.com/r/javascript/comments/yt3k47/hey_i_created_a_small_repository_for_people/)
 - [What is a realm in JavaScript?](https://www.reddit.com/r/javascript/comments/yt3ipu/what_is_a_realm_in_javascript/)
 - [TypeScript `satisfies` operator–new keyword coming to TypeScript 4.9](https://www.reddit.com/r/javascript/comments/yt2gfo/typescript_satisfies_operatornew_keyword_coming/)
 - [Lightweight decorative charts library for React](https://www.reddit.com/r/javascript/comments/yt2g1t/lightweight_decorative_charts_library_for_react/)
-- [Showoff Saturday &lpar;November 12, 2022&rpar;](https://www.reddit.com/r/javascript/comments/yt0coe/showoff_saturday_november_12_2022/)
-- [vite-plugin-proxy-page: A Vite plugin for projecting your application onto a remote page during development.](https://www.reddit.com/r/javascript/comments/ysv7iu/vitepluginproxypage_a_vite_plugin_for_projecting/)
-- [PaperHouses: Airbnb like webapp Build with Fullstack GraphQL](https://www.reddit.com/r/javascript/comments/ysgqs2/paperhouses_airbnb_like_webapp_build_with/)
-- [Sessions vs Tokens: How to authenticate in Node.js](https://www.reddit.com/r/javascript/comments/ysgmpr/sessions_vs_tokens_how_to_authenticate_in_nodejs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
