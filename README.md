@@ -299,8 +299,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Node.js 19 boosts HTTP throughput](https://www.infoworld.com/article/3677189/nodejs-19-boosts-http-throughput.html#tk.rss_javascript)
 - [Intro to Qwik: A superfast JavaScript framework](https://www.infoworld.com/article/3676577/intro-to-qwik-a-superfast-javascript-framework.html#tk.rss_javascript)
 - [What is Kotlin? The Java alternative explained](https://www.infoworld.com/article/3224868/what-is-kotlin-the-java-alternative-explained.html#tk.rss_javascript)
-- [Data visualization with Observable JavaScript](https://www.infoworld.com/article/3674852/data-visualization-with-observable-javascript.html#tk.rss_javascript)
 - [Learn Observable JavaScript with Observable notebooks](https://www.infoworld.com/article/3674809/learn-observable-javascript-with-observable-notebooks.html#tk.rss_javascript)
+- [Data visualization with Observable JavaScript](https://www.infoworld.com/article/3674852/data-visualization-with-observable-javascript.html#tk.rss_javascript)
 - [A beginner&#39;s guide to using Observable JavaScript, R, and Python with Quarto](https://www.infoworld.com/article/3674789/a-beginners-guide-to-using-observable-javascript-r-and-python-with-quarto.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
