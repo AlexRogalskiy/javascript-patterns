@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [my own javascript frontend library](https://www.reddit.com/r/javascript/comments/yuk1l5/my_own_javascript_frontend_library/)
-- [JS animation library that lets your DOM focus on anything &lpar;just like eyes!&rpar;](https://www.reddit.com/r/javascript/comments/yu3ufs/js_animation_library_that_lets_your_dom_focus_on/)
-- [i made a tiny declarative js dom lib in 480 bytes](https://www.reddit.com/r/javascript/comments/yu3puo/i_made_a_tiny_declarative_js_dom_lib_in_480_bytes/)
-- [Chicken Chicken Chicken](https://www.reddit.com/r/javascript/comments/yu122k/chicken_chicken_chicken/)
-- [Micro TAP formatter that works very well with the Node &gt;=18 built-in node:test harness](https://www.reddit.com/r/javascript/comments/ytwhyq/micro_tap_formatter_that_works_very_well_with_the/)
-- [I made a site that lets you copy Tailwind CSS site templates. 100% free.](https://www.reddit.com/r/javascript/comments/ytgrwc/i_made_a_site_that_lets_you_copy_tailwind_css/)
-- [[AskJS] Is this password idea insane?](https://www.reddit.com/r/javascript/comments/yt6xyx/askjs_is_this_password_idea_insane/)
-- [What is a realm in JavaScript?](https://www.reddit.com/r/javascript/comments/yt3ipu/what_is_a_realm_in_javascript/)
-- [TypeScript `satisfies` operator–new keyword coming to TypeScript 4.9](https://www.reddit.com/r/javascript/comments/yt2gfo/typescript_satisfies_operatornew_keyword_coming/)
-- [Lightweight decorative charts library for React](https://www.reddit.com/r/javascript/comments/yt2g1t/lightweight_decorative_charts_library_for_react/)
+- [JS PSA: If your team is on GitHub, you can auto-tag pull requests with estimated time to review and desired reviewers/number of reviewers](https://www.reddit.com/r/javascript/comments/yvia8u/js_psa_if_your_team_is_on_github_you_can_autotag/)
+- [The problem with async generators](https://www.reddit.com/r/javascript/comments/yvfbhv/the_problem_with_async_generators/)
+- [I created an Asteroids game engine entirely out of React components!](https://www.reddit.com/r/javascript/comments/yv8z2w/i_created_an_asteroids_game_engine_entirely_out/)
+- [Deno 1.28: Featuring 1.3 Million New Modules](https://www.reddit.com/r/javascript/comments/yv8ib7/deno_128_featuring_13_million_new_modules/)
+- [Build and deploy a static online shop with Nuxt3 using Pinia Store and Stripe Checkout to Firebase](https://www.reddit.com/r/javascript/comments/yv6m03/build_and_deploy_a_static_online_shop_with_nuxt3/)
+- [Quirky Spread Operator in Javascript](https://www.reddit.com/r/javascript/comments/yv5yxv/quirky_spread_operator_in_javascript/)
+- [A static site generator to create JS playground demos](https://www.reddit.com/r/javascript/comments/yv512k/a_static_site_generator_to_create_js_playground/)
+- [Memory Leak In Angular - Observable](https://www.reddit.com/r/javascript/comments/yv29z2/memory_leak_in_angular_observable/)
+- [SweetAlert2 - &quot;This commit adds what could be almost considered malware. Any navigator language that has ru in it will have the Ukrainian national anthem play.&quot;](https://www.reddit.com/r/javascript/comments/yv293z/sweetalert2_this_commit_adds_what_could_be_almost/)
+- [The `satisfies` Operator | Learning TypeScript](https://www.reddit.com/r/javascript/comments/yv0ir2/the_satisfies_operator_learning_typescript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
