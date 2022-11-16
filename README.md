@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [JS PSA: If your team is on GitHub, you can auto-tag pull requests with estimated time to review and desired reviewers/number of reviewers](https://www.reddit.com/r/javascript/comments/yvia8u/js_psa_if_your_team_is_on_github_you_can_autotag/)
+- [i made a front end jsx library, that is just like react but you have more control over the dom elements](https://www.reddit.com/r/javascript/comments/ywewjf/i_made_a_front_end_jsx_library_that_is_just_like/)
+- [I made a guitar chord chart generator!](https://www.reddit.com/r/javascript/comments/yw8h0l/i_made_a_guitar_chord_chart_generator/)
+- [Announcing TypeScript 4.9](https://www.reddit.com/r/javascript/comments/yw67ob/announcing_typescript_49/)
+- [Build a Simple URL Shortener API Using Nestjs, MongoDB, and Docker](https://www.reddit.com/r/javascript/comments/yw63y8/build_a_simple_url_shortener_api_using_nestjs/)
+- [GitHub Business Card Generator, made for fun with Next.js and Vercel’s OG image generation library &lpar;open source&rpar;](https://www.reddit.com/r/javascript/comments/yw0u1e/github_business_card_generator_made_for_fun_with/)
+- [[AskJS] Why do my coworkers not see the value in frameworks?](https://www.reddit.com/r/javascript/comments/yvyx2q/askjs_why_do_my_coworkers_not_see_the_value_in/)
+- [[AskJS] Strategy/process for evaluating JS libraries?](https://www.reddit.com/r/javascript/comments/yvych2/askjs_strategyprocess_for_evaluating_js_libraries/)
+- [[AskJS] Is going from React to Angular the best investment right now?](https://www.reddit.com/r/javascript/comments/yvxhf0/askjs_is_going_from_react_to_angular_the_best/)
+- [Building a real-time bidding system with Socket.io and React Native](https://www.reddit.com/r/javascript/comments/yvt2s4/building_a_realtime_bidding_system_with_socketio/)
 - [The problem with async generators](https://www.reddit.com/r/javascript/comments/yvfbhv/the_problem_with_async_generators/)
-- [I created an Asteroids game engine entirely out of React components!](https://www.reddit.com/r/javascript/comments/yv8z2w/i_created_an_asteroids_game_engine_entirely_out/)
-- [Deno 1.28: Featuring 1.3 Million New Modules](https://www.reddit.com/r/javascript/comments/yv8ib7/deno_128_featuring_13_million_new_modules/)
-- [Build and deploy a static online shop with Nuxt3 using Pinia Store and Stripe Checkout to Firebase](https://www.reddit.com/r/javascript/comments/yv6m03/build_and_deploy_a_static_online_shop_with_nuxt3/)
-- [Quirky Spread Operator in Javascript](https://www.reddit.com/r/javascript/comments/yv5yxv/quirky_spread_operator_in_javascript/)
-- [A static site generator to create JS playground demos](https://www.reddit.com/r/javascript/comments/yv512k/a_static_site_generator_to_create_js_playground/)
-- [Memory Leak In Angular - Observable](https://www.reddit.com/r/javascript/comments/yv29z2/memory_leak_in_angular_observable/)
-- [SweetAlert2 - &quot;This commit adds what could be almost considered malware. Any navigator language that has ru in it will have the Ukrainian national anthem play.&quot;](https://www.reddit.com/r/javascript/comments/yv293z/sweetalert2_this_commit_adds_what_could_be_almost/)
-- [The `satisfies` Operator | Learning TypeScript](https://www.reddit.com/r/javascript/comments/yv0ir2/the_satisfies_operator_learning_typescript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
