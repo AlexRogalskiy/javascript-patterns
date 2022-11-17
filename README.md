@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [i made a front end jsx library, that is just like react but you have more control over the dom elements](https://www.reddit.com/r/javascript/comments/ywewjf/i_made_a_front_end_jsx_library_that_is_just_like/)
-- [I made a guitar chord chart generator!](https://www.reddit.com/r/javascript/comments/yw8h0l/i_made_a_guitar_chord_chart_generator/)
-- [Announcing TypeScript 4.9](https://www.reddit.com/r/javascript/comments/yw67ob/announcing_typescript_49/)
-- [Build a Simple URL Shortener API Using Nestjs, MongoDB, and Docker](https://www.reddit.com/r/javascript/comments/yw63y8/build_a_simple_url_shortener_api_using_nestjs/)
-- [GitHub Business Card Generator, made for fun with Next.js and Vercel’s OG image generation library &lpar;open source&rpar;](https://www.reddit.com/r/javascript/comments/yw0u1e/github_business_card_generator_made_for_fun_with/)
-- [[AskJS] Why do my coworkers not see the value in frameworks?](https://www.reddit.com/r/javascript/comments/yvyx2q/askjs_why_do_my_coworkers_not_see_the_value_in/)
-- [[AskJS] Strategy/process for evaluating JS libraries?](https://www.reddit.com/r/javascript/comments/yvych2/askjs_strategyprocess_for_evaluating_js_libraries/)
-- [[AskJS] Is going from React to Angular the best investment right now?](https://www.reddit.com/r/javascript/comments/yvxhf0/askjs_is_going_from_react_to_angular_the_best/)
-- [Building a real-time bidding system with Socket.io and React Native](https://www.reddit.com/r/javascript/comments/yvt2s4/building_a_realtime_bidding_system_with_socketio/)
-- [The problem with async generators](https://www.reddit.com/r/javascript/comments/yvfbhv/the_problem_with_async_generators/)
+- [4iv: A novel, composable frp library. &lpar;Critiques Welcome&rpar;](https://www.reddit.com/r/javascript/comments/yxbcgz/4iv_a_novel_composable_frp_library_critiques/)
+- [Javascript: Share Code between Apps using Parcel, Npm and Github Packages](https://www.reddit.com/r/javascript/comments/yx9ksf/javascript_share_code_between_apps_using_parcel/)
+- [Refs in React explained](https://www.reddit.com/r/javascript/comments/yx1yor/refs_in_react_explained/)
+- [How to Build Keylogger in Browser Using PHP &amp; Javascript - WebNinjaDeveloper.com](https://www.reddit.com/r/javascript/comments/ywypt1/how_to_build_keylogger_in_browser_using_php/)
+- [Announcing 3.0 • Nuxt](https://www.reddit.com/r/javascript/comments/ywxbca/announcing_30_nuxt/)
+- [How we lost our slick new npm package name &lpar;and then got it back&rpar;](https://www.reddit.com/r/javascript/comments/ywubbn/how_we_lost_our_slick_new_npm_package_name_and/)
+- [[AskJS] Security difference between localStorage and IndexedDB](https://www.reddit.com/r/javascript/comments/ywt70l/askjs_security_difference_between_localstorage/)
+- [ScrapeNinja Cheerio Live Sandbox to test your cheerio extractor code against random HTML](https://www.reddit.com/r/javascript/comments/ywqbwk/scrapeninja_cheerio_live_sandbox_to_test_your/)
+- [WTF Wednesday &lpar;November 16, 2022&rpar;](https://www.reddit.com/r/javascript/comments/ywnjx4/wtf_wednesday_november_16_2022/)
+- [[AskJS] Should you use NextJS with React-Query?](https://www.reddit.com/r/javascript/comments/ywngq3/askjs_should_you_use_nextjs_with_reactquery/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
