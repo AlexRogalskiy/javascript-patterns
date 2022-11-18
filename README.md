@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [4iv: A novel, composable frp library. &lpar;Critiques Welcome&rpar;](https://www.reddit.com/r/javascript/comments/yxbcgz/4iv_a_novel_composable_frp_library_critiques/)
-- [Javascript: Share Code between Apps using Parcel, Npm and Github Packages](https://www.reddit.com/r/javascript/comments/yx9ksf/javascript_share_code_between_apps_using_parcel/)
-- [Refs in React explained](https://www.reddit.com/r/javascript/comments/yx1yor/refs_in_react_explained/)
-- [How to Build Keylogger in Browser Using PHP &amp; Javascript - WebNinjaDeveloper.com](https://www.reddit.com/r/javascript/comments/ywypt1/how_to_build_keylogger_in_browser_using_php/)
-- [Announcing 3.0 • Nuxt](https://www.reddit.com/r/javascript/comments/ywxbca/announcing_30_nuxt/)
-- [How we lost our slick new npm package name &lpar;and then got it back&rpar;](https://www.reddit.com/r/javascript/comments/ywubbn/how_we_lost_our_slick_new_npm_package_name_and/)
-- [[AskJS] Security difference between localStorage and IndexedDB](https://www.reddit.com/r/javascript/comments/ywt70l/askjs_security_difference_between_localstorage/)
-- [ScrapeNinja Cheerio Live Sandbox to test your cheerio extractor code against random HTML](https://www.reddit.com/r/javascript/comments/ywqbwk/scrapeninja_cheerio_live_sandbox_to_test_your/)
-- [WTF Wednesday &lpar;November 16, 2022&rpar;](https://www.reddit.com/r/javascript/comments/ywnjx4/wtf_wednesday_november_16_2022/)
-- [[AskJS] Should you use NextJS with React-Query?](https://www.reddit.com/r/javascript/comments/ywngq3/askjs_should_you_use_nextjs_with_reactquery/)
+- [A recipe for running containers in your Tape/Ava tests](https://www.reddit.com/r/javascript/comments/yy7ewc/a_recipe_for_running_containers_in_your_tapeava/)
+- [Introducing ArrowJS • Reactivity without the framework](https://www.reddit.com/r/javascript/comments/yy118j/introducing_arrowjs_reactivity_without_the/)
+- [From Bootstrapped to Venture-Backed: Nx Raises $8.6M &lpar;written by me&rpar;](https://www.reddit.com/r/javascript/comments/yxx6f7/from_bootstrapped_to_venturebacked_nx_raises_86m/)
+- [With $8.6M in seed funding, Nx wants to take monorepos mainstream](https://www.reddit.com/r/javascript/comments/yxwno6/with_86m_in_seed_funding_nx_wants_to_take/)
+- [I built a webpage to randomise teams for World Cup 2022 sweepstakes](https://www.reddit.com/r/javascript/comments/yxvapx/i_built_a_webpage_to_randomise_teams_for_world/)
+- [An excellent open-source low-code tool based on Vitejs + React + TS + Turborepo.](https://www.reddit.com/r/javascript/comments/yxu1c6/an_excellent_opensource_lowcode_tool_based_on/)
+- [GitHub - arclanguage/rainbow-js: A JavaScript port of most of Rainbow &lpar;conanite&#39;s JVM-based Arc implementation&rpar;.](https://www.reddit.com/r/javascript/comments/yxtx3g/github_arclanguagerainbowjs_a_javascript_port_of/)
+- [[AskJS] Why do people think that arguments and parameters are the same thing?](https://www.reddit.com/r/javascript/comments/yxtvjk/askjs_why_do_people_think_that_arguments_and/)
+- [How to Build a JamStack GraphQL eCommerce App from Scratch](https://www.reddit.com/r/javascript/comments/yxttp7/how_to_build_a_jamstack_graphql_ecommerce_app/)
+- [The Bob Build Platform](https://www.reddit.com/r/javascript/comments/yxt9ad/the_bob_build_platform/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
