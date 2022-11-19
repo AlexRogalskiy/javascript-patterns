@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [A recipe for running containers in your Tape/Ava tests](https://www.reddit.com/r/javascript/comments/yy7ewc/a_recipe_for_running_containers_in_your_tapeava/)
-- [Introducing ArrowJS • Reactivity without the framework](https://www.reddit.com/r/javascript/comments/yy118j/introducing_arrowjs_reactivity_without_the/)
-- [From Bootstrapped to Venture-Backed: Nx Raises $8.6M &lpar;written by me&rpar;](https://www.reddit.com/r/javascript/comments/yxx6f7/from_bootstrapped_to_venturebacked_nx_raises_86m/)
-- [With $8.6M in seed funding, Nx wants to take monorepos mainstream](https://www.reddit.com/r/javascript/comments/yxwno6/with_86m_in_seed_funding_nx_wants_to_take/)
-- [I built a webpage to randomise teams for World Cup 2022 sweepstakes](https://www.reddit.com/r/javascript/comments/yxvapx/i_built_a_webpage_to_randomise_teams_for_world/)
-- [An excellent open-source low-code tool based on Vitejs + React + TS + Turborepo.](https://www.reddit.com/r/javascript/comments/yxu1c6/an_excellent_opensource_lowcode_tool_based_on/)
-- [GitHub - arclanguage/rainbow-js: A JavaScript port of most of Rainbow &lpar;conanite&#39;s JVM-based Arc implementation&rpar;.](https://www.reddit.com/r/javascript/comments/yxtx3g/github_arclanguagerainbowjs_a_javascript_port_of/)
-- [[AskJS] Why do people think that arguments and parameters are the same thing?](https://www.reddit.com/r/javascript/comments/yxtvjk/askjs_why_do_people_think_that_arguments_and/)
-- [How to Build a JamStack GraphQL eCommerce App from Scratch](https://www.reddit.com/r/javascript/comments/yxttp7/how_to_build_a_jamstack_graphql_ecommerce_app/)
-- [The Bob Build Platform](https://www.reddit.com/r/javascript/comments/yxt9ad/the_bob_build_platform/)
+- [Comprehensive Webpack Boilerplate w/ TypeScript, Sass, Jest, Eslint, Stylelint, Prettier, Husky, Lint-Staged, Commitizen, Commitlint, Semantic-Release](https://www.reddit.com/r/javascript/comments/yyylf5/comprehensive_webpack_boilerplate_w_typescript/)
+- [I wrote a server in Node to do automatic transcriptions powered by WhisperAI, putting it up for free use](https://www.reddit.com/r/javascript/comments/yyx0de/i_wrote_a_server_in_node_to_do_automatic/)
+- [ArrowJS - an experimental tool for programming reactive interfaces using native JavaScript. It’s not really a framework, but not less powerful than a framework either](https://www.reddit.com/r/javascript/comments/yywbw7/arrowjs_an_experimental_tool_for_programming/)
+- [Angular 15 - the same logic, less code](https://www.reddit.com/r/javascript/comments/yyuj57/angular_15_the_same_logic_less_code/)
+- [Ryan Dahl talks about Deno and JavaScript in general](https://www.reddit.com/r/javascript/comments/yyueor/ryan_dahl_talks_about_deno_and_javascript_in/)
+- [I made a Shopify store where you can add your GitHub heatmap to a shirt with custom colors.](https://www.reddit.com/r/javascript/comments/yytq8d/i_made_a_shopify_store_where_you_can_add_your/)
+- [Authentication and Authorization RESTful backend template with Typescript, Node.js and Express](https://www.reddit.com/r/javascript/comments/yymwfe/authentication_and_authorization_restful_backend/)
+- [GitHub - SuperIlu/DOjS: A DOS JavaScript Canvas with sound](https://www.reddit.com/r/javascript/comments/yyhycn/github_superiludojs_a_dos_javascript_canvas_with/)
+- [See my article about 4 Code Smells That Are Probably Already in Your JavaScript Code](https://www.reddit.com/r/javascript/comments/yyg9r9/see_my_article_about_4_code_smells_that_are/)
+- [Client components and the “use client” directive in NextJs 13](https://www.reddit.com/r/javascript/comments/yye1d1/client_components_and_the_use_client_directive_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
