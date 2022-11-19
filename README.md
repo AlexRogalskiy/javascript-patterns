@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Angular 15 arrives with standalone APIs](https://www.infoworld.com/article/3680549/angular-15-arrives-with-stable-standalone-apis.html#tk.rss_javascript)
 - [The best new features in Next.js 13](https://www.infoworld.com/article/3679489/the-best-new-features-in-nextjs-13.html#tk.rss_javascript)
 - [TypeScript 4.9 intros operator for finding coding mistakes](https://www.infoworld.com/article/3674814/typescript-49-intros-operator-for-finding-coding-mistakes.html#tk.rss_javascript)
 - [Deno stabilizes NPM compatibility](https://www.infoworld.com/article/3680389/deno-stabilizes-npm-compatibility.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Next.js 13 hones routing, layouts, rendering](https://www.infoworld.com/article/3678149/nextjs-13-hones-routing-layouts-rendering.html#tk.rss_javascript)
 - [Node.js 19 boosts HTTP throughput](https://www.infoworld.com/article/3677189/nodejs-19-boosts-http-throughput.html#tk.rss_javascript)
 - [Intro to Qwik: A superfast JavaScript framework](https://www.infoworld.com/article/3676577/intro-to-qwik-a-superfast-javascript-framework.html#tk.rss_javascript)
-- [What is Kotlin? The Java alternative explained](https://www.infoworld.com/article/3224868/what-is-kotlin-the-java-alternative-explained.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
