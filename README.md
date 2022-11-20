@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [GitHub - shi-yan/codestage: A static site generator to create live js demos with an editor](https://www.reddit.com/r/javascript/comments/yzj780/github_shiyancodestage_a_static_site_generator_to/)
+- [I made an app that tracks new features and changes in JS frameworks and ECMAScript updates](https://www.reddit.com/r/javascript/comments/yzj06n/i_made_an_app_that_tracks_new_features_and/)
+- [Need input for my puzzle game’s name](https://www.reddit.com/r/javascript/comments/yzi0zh/need_input_for_my_puzzle_games_name/)
+- [Web Scraping Google Scholar Results](https://www.reddit.com/r/javascript/comments/yzd74w/web_scraping_google_scholar_results/)
+- [Writing Performant CSS with vanilla-extract](https://www.reddit.com/r/javascript/comments/yza2la/writing_performant_css_with_vanillaextract/)
+- [A surprisingly decent snapshot testing tool in 60 lines of code and a single YAML dependency](https://www.reddit.com/r/javascript/comments/yz8qol/a_surprisingly_decent_snapshot_testing_tool_in_60/)
+- [Popular sites where you can code through the browser&lpar;Codepen,CodeSandbox,Repl.it&rpar;](https://www.reddit.com/r/javascript/comments/yz77cx/popular_sites_where_you_can_code_through_the/)
+- [Showoff Saturday &lpar;November 19, 2022&rpar;](https://www.reddit.com/r/javascript/comments/yz6r9h/showoff_saturday_november_19_2022/)
+- [GitHub - MikeKovarik/exifr: The fastest and most versatile JS EXIF reading library.](https://www.reddit.com/r/javascript/comments/yz64i7/github_mikekovarikexifr_the_fastest_and_most/)
 - [Comprehensive Webpack Boilerplate w/ TypeScript, Sass, Jest, Eslint, Stylelint, Prettier, Husky, Lint-Staged, Commitizen, Commitlint, Semantic-Release](https://www.reddit.com/r/javascript/comments/yyylf5/comprehensive_webpack_boilerplate_w_typescript/)
-- [I wrote a server in Node to do automatic transcriptions powered by WhisperAI, putting it up for free use](https://www.reddit.com/r/javascript/comments/yyx0de/i_wrote_a_server_in_node_to_do_automatic/)
-- [ArrowJS - an experimental tool for programming reactive interfaces using native JavaScript. It’s not really a framework, but not less powerful than a framework either](https://www.reddit.com/r/javascript/comments/yywbw7/arrowjs_an_experimental_tool_for_programming/)
-- [Angular 15 - the same logic, less code](https://www.reddit.com/r/javascript/comments/yyuj57/angular_15_the_same_logic_less_code/)
-- [Ryan Dahl talks about Deno and JavaScript in general](https://www.reddit.com/r/javascript/comments/yyueor/ryan_dahl_talks_about_deno_and_javascript_in/)
-- [I made a Shopify store where you can add your GitHub heatmap to a shirt with custom colors.](https://www.reddit.com/r/javascript/comments/yytq8d/i_made_a_shopify_store_where_you_can_add_your/)
-- [Authentication and Authorization RESTful backend template with Typescript, Node.js and Express](https://www.reddit.com/r/javascript/comments/yymwfe/authentication_and_authorization_restful_backend/)
-- [GitHub - SuperIlu/DOjS: A DOS JavaScript Canvas with sound](https://www.reddit.com/r/javascript/comments/yyhycn/github_superiludojs_a_dos_javascript_canvas_with/)
-- [See my article about 4 Code Smells That Are Probably Already in Your JavaScript Code](https://www.reddit.com/r/javascript/comments/yyg9r9/see_my_article_about_4_code_smells_that_are/)
-- [Client components and the “use client” directive in NextJs 13](https://www.reddit.com/r/javascript/comments/yye1d1/client_components_and_the_use_client_directive_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
