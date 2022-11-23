@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Antv/x6 has released version 2.0, I hope you can support it](https://www.reddit.com/r/javascript/comments/z2cvfn/antvx6_has_released_version_20_i_hope_you_can/)
+- [Building “CoreTable” and the Our World in Data “Data Explorer”](https://www.reddit.com/r/javascript/comments/z2bioq/building_coretable_and_the_our_world_in_data_data/)
+- [How to Create a Figma-like Infinite Canvas in WebGL](https://www.reddit.com/r/javascript/comments/z2398o/how_to_create_a_figmalike_infinite_canvas_in_webgl/)
+- [Introducing Create React Package - A zero-config tool that makes creating, building, testing, and publishing React Libraries significantly easier.](https://www.reddit.com/r/javascript/comments/z200w0/introducing_create_react_package_a_zeroconfig/)
+- [A Music Notation program written completely in javascript](https://www.reddit.com/r/javascript/comments/z1wvui/a_music_notation_program_written_completely_in/)
+- [Improving Firefox stability with this one weird trick](https://www.reddit.com/r/javascript/comments/z1vsst/improving_firefox_stability_with_this_one_weird/)
+- [GammaCV: a simple custom operation example](https://www.reddit.com/r/javascript/comments/z1u6t5/gammacv_a_simple_custom_operation_example/)
+- [libsTracker: Find who is using your JavaScript library.](https://www.reddit.com/r/javascript/comments/z1tkb8/libstracker_find_who_is_using_your_javascript/)
+- [Take the 2022 State of JavaScript Survey](https://www.reddit.com/r/javascript/comments/z1lnaf/take_the_2022_state_of_javascript_survey/)
 - [Oxeye Finds Bad Spotify Backstage JavaScript Vulnerability](https://www.reddit.com/r/javascript/comments/z1deuk/oxeye_finds_bad_spotify_backstage_javascript/)
-- [How to Compose and Integrate APIs Together as if You Were Using NPM for APIs](https://www.reddit.com/r/javascript/comments/z15x5r/how_to_compose_and_integrate_apis_together_as_if/)
-- [Dittytoy lets you code generative music with javascript in the browser](https://www.reddit.com/r/javascript/comments/z144t3/dittytoy_lets_you_code_generative_music_with/)
-- [Infisical: Open-source tool in public-alpha to manage/sync environment variables built with JS/TS/Go](https://www.reddit.com/r/javascript/comments/z12nf3/infisical_opensource_tool_in_publicalpha_to/)
-- [Javascript Build Tool - Ranking](https://www.reddit.com/r/javascript/comments/z115u1/javascript_build_tool_ranking/)
-- [AntV/S2 ： A practical visualization library for tabular analysis.](https://www.reddit.com/r/javascript/comments/z0tpee/antvs2_a_practical_visualization_library_for/)
-- [Slim Select v2.0 Release!](https://www.reddit.com/r/javascript/comments/z0ffur/slim_select_v20_release/)
-- [Only VanillaJavascript - Free and Open-Source HTML5 SpeedTest - Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest &lpar;XHR&rpar;, HTML, CSS, JS, &amp; SVG. No Third-Party frameworks or libraries are Required.](https://www.reddit.com/r/javascript/comments/z02db1/only_vanillajavascript_free_and_opensource_html5/)
-- [Clock.js The fast, responsive, lightweight, easy-to-use JavaScript clock plugin](https://www.reddit.com/r/javascript/comments/yzzxfn/clockjs_the_fast_responsive_lightweight_easytouse/)
-- [Node.js visualized: Event Loop Phases](https://www.reddit.com/r/javascript/comments/yzz3ik/nodejs_visualized_event_loop_phases/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
