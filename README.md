@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Antv/x6 has released version 2.0, I hope you can support it](https://www.reddit.com/r/javascript/comments/z2cvfn/antvx6_has_released_version_20_i_hope_you_can/)
-- [Building “CoreTable” and the Our World in Data “Data Explorer”](https://www.reddit.com/r/javascript/comments/z2bioq/building_coretable_and_the_our_world_in_data_data/)
-- [How to Create a Figma-like Infinite Canvas in WebGL](https://www.reddit.com/r/javascript/comments/z2398o/how_to_create_a_figmalike_infinite_canvas_in_webgl/)
-- [Introducing Create React Package - A zero-config tool that makes creating, building, testing, and publishing React Libraries significantly easier.](https://www.reddit.com/r/javascript/comments/z200w0/introducing_create_react_package_a_zeroconfig/)
-- [A Music Notation program written completely in javascript](https://www.reddit.com/r/javascript/comments/z1wvui/a_music_notation_program_written_completely_in/)
-- [Improving Firefox stability with this one weird trick](https://www.reddit.com/r/javascript/comments/z1vsst/improving_firefox_stability_with_this_one_weird/)
-- [GammaCV: a simple custom operation example](https://www.reddit.com/r/javascript/comments/z1u6t5/gammacv_a_simple_custom_operation_example/)
-- [libsTracker: Find who is using your JavaScript library.](https://www.reddit.com/r/javascript/comments/z1tkb8/libstracker_find_who_is_using_your_javascript/)
-- [Take the 2022 State of JavaScript Survey](https://www.reddit.com/r/javascript/comments/z1lnaf/take_the_2022_state_of_javascript_survey/)
-- [Oxeye Finds Bad Spotify Backstage JavaScript Vulnerability](https://www.reddit.com/r/javascript/comments/z1deuk/oxeye_finds_bad_spotify_backstage_javascript/)
+- [I compared deploy speeds for Reflame, Vercel, Netlify, Cloudflare Pages on the same repo](https://www.reddit.com/r/javascript/comments/z35wqk/i_compared_deploy_speeds_for_reflame_vercel/)
+- [React Query: cacheTime vs staleTime](https://www.reddit.com/r/javascript/comments/z35vvx/react_query_cachetime_vs_staletime/)
+- [Fancy Page Loader](https://www.reddit.com/r/javascript/comments/z30rqm/fancy_page_loader/)
+- [Announcing AWS Amplify JavaScript library version 5](https://www.reddit.com/r/javascript/comments/z2xqrv/announcing_aws_amplify_javascript_library_version/)
+- [[AskJS] Is Aurelia 2 happening?](https://www.reddit.com/r/javascript/comments/z2vi1k/askjs_is_aurelia_2_happening/)
+- [Recreating the Dynamic Island on the Web &lpar;github link at very bottom&rpar;](https://www.reddit.com/r/javascript/comments/z2rc7z/recreating_the_dynamic_island_on_the_web_github/)
+- [Testable documentation tutorial](https://www.reddit.com/r/javascript/comments/z2mudr/testable_documentation_tutorial/)
+- [Best Practices &amp; Common Pitfalls when Testing My NestJS Ap](https://www.reddit.com/r/javascript/comments/z2jbdx/best_practices_common_pitfalls_when_testing_my/)
+- [WTF Wednesday &lpar;November 23, 2022&rpar;](https://www.reddit.com/r/javascript/comments/z2j7ka/wtf_wednesday_november_23_2022/)
+- [Creating a 2D physics engine from scratch in Javascript](https://www.reddit.com/r/javascript/comments/z2ixyb/creating_a_2d_physics_engine_from_scratch_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
