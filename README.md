@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Github-Paddle.js: Run AI models on browsers for computer version.](https://www.reddit.com/r/javascript/comments/z40yuc/githubpaddlejs_run_ai_models_on_browsers_for/)
+- [Build a custom Javascript linter in 5 minutes](https://www.reddit.com/r/javascript/comments/z3q6ay/build_a_custom_javascript_linter_in_5_minutes/)
+- [We&#39;ve built a language for developing full-stack JS web apps and alpha-tested it. Here&#39;s what we&#39;ve learned](https://www.reddit.com/r/javascript/comments/z3lmv1/weve_built_a_language_for_developing_fullstack_js/)
+- [Achieving end-to-end type safety in a modern JS GraphQL stack – Part 2](https://www.reddit.com/r/javascript/comments/z3jqkz/achieving_endtoend_type_safety_in_a_modern_js/)
+- [A Series of How-to Tutorials On React Navigation Bar](https://www.reddit.com/r/javascript/comments/z3hulm/a_series_of_howto_tutorials_on_react_navigation/)
+- [GitHub - niutech/jxl.js: JPEG XL decoder in JavaScript using WebAssembly &lpar;WASM&rpar;](https://www.reddit.com/r/javascript/comments/z3hjyj/github_niutechjxljs_jpeg_xl_decoder_in_javascript/)
+- [browserslist -useragent-regexp v4 is out! Now the &quot;defaults&quot; query with the `allowHigherVersions` option will produce ~30% smaller regex than in v3](https://www.reddit.com/r/javascript/comments/z3fds5/browserslist_useragentregexp_v4_is_out_now_the/)
+- [Dependency injection in JavaScript | The Snyk Blog](https://www.reddit.com/r/javascript/comments/z3esd9/dependency_injection_in_javascript_the_snyk_blog/)
 - [I compared deploy speeds for Reflame, Vercel, Netlify, Cloudflare Pages on the same repo](https://www.reddit.com/r/javascript/comments/z35wqk/i_compared_deploy_speeds_for_reflame_vercel/)
 - [React Query: cacheTime vs staleTime](https://www.reddit.com/r/javascript/comments/z35vvx/react_query_cachetime_vs_staletime/)
-- [Fancy Page Loader](https://www.reddit.com/r/javascript/comments/z30rqm/fancy_page_loader/)
-- [Announcing AWS Amplify JavaScript library version 5](https://www.reddit.com/r/javascript/comments/z2xqrv/announcing_aws_amplify_javascript_library_version/)
-- [[AskJS] Is Aurelia 2 happening?](https://www.reddit.com/r/javascript/comments/z2vi1k/askjs_is_aurelia_2_happening/)
-- [Recreating the Dynamic Island on the Web &lpar;github link at very bottom&rpar;](https://www.reddit.com/r/javascript/comments/z2rc7z/recreating_the_dynamic_island_on_the_web_github/)
-- [Testable documentation tutorial](https://www.reddit.com/r/javascript/comments/z2mudr/testable_documentation_tutorial/)
-- [Best Practices &amp; Common Pitfalls when Testing My NestJS Ap](https://www.reddit.com/r/javascript/comments/z2jbdx/best_practices_common_pitfalls_when_testing_my/)
-- [WTF Wednesday &lpar;November 23, 2022&rpar;](https://www.reddit.com/r/javascript/comments/z2j7ka/wtf_wednesday_november_23_2022/)
-- [Creating a 2D physics engine from scratch in Javascript](https://www.reddit.com/r/javascript/comments/z2ixyb/creating_a_2d_physics_engine_from_scratch_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
