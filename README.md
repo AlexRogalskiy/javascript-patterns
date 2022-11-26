@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [JavaScript Functions: Why They&#39;re Essential to Understand? | Easy Guide](https://www.reddit.com/r/javascript/comments/z4p8kd/javascript_functions_why_theyre_essential_to/)
+- [Complete rewrite of ESLint &lpar;GitHub discussion by the creator&rpar;](https://www.reddit.com/r/javascript/comments/z4lwlo/complete_rewrite_of_eslint_github_discussion_by/)
+- [Neutralinojs v4.9.0 released!](https://www.reddit.com/r/javascript/comments/z4ht8r/neutralinojs_v490_released/)
+- [[AskJS] What dnd website builder so you recommend?](https://www.reddit.com/r/javascript/comments/z4h5pv/askjs_what_dnd_website_builder_so_you_recommend/)
+- [Faster OCR-js project. Free for commercial use!](https://www.reddit.com/r/javascript/comments/z42gyy/faster_ocrjs_project_free_for_commercial_use/)
 - [Github-Paddle.js: Run AI models on browsers for computer version.](https://www.reddit.com/r/javascript/comments/z40yuc/githubpaddlejs_run_ai_models_on_browsers_for/)
 - [Build a custom Javascript linter in 5 minutes](https://www.reddit.com/r/javascript/comments/z3q6ay/build_a_custom_javascript_linter_in_5_minutes/)
 - [We&#39;ve built a language for developing full-stack JS web apps and alpha-tested it. Here&#39;s what we&#39;ve learned](https://www.reddit.com/r/javascript/comments/z3lmv1/weve_built_a_language_for_developing_fullstack_js/)
 - [Achieving end-to-end type safety in a modern JS GraphQL stack – Part 2](https://www.reddit.com/r/javascript/comments/z3jqkz/achieving_endtoend_type_safety_in_a_modern_js/)
 - [A Series of How-to Tutorials On React Navigation Bar](https://www.reddit.com/r/javascript/comments/z3hulm/a_series_of_howto_tutorials_on_react_navigation/)
-- [GitHub - niutech/jxl.js: JPEG XL decoder in JavaScript using WebAssembly &lpar;WASM&rpar;](https://www.reddit.com/r/javascript/comments/z3hjyj/github_niutechjxljs_jpeg_xl_decoder_in_javascript/)
-- [browserslist -useragent-regexp v4 is out! Now the &quot;defaults&quot; query with the `allowHigherVersions` option will produce ~30% smaller regex than in v3](https://www.reddit.com/r/javascript/comments/z3fds5/browserslist_useragentregexp_v4_is_out_now_the/)
-- [Dependency injection in JavaScript | The Snyk Blog](https://www.reddit.com/r/javascript/comments/z3esd9/dependency_injection_in_javascript_the_snyk_blog/)
-- [I compared deploy speeds for Reflame, Vercel, Netlify, Cloudflare Pages on the same repo](https://www.reddit.com/r/javascript/comments/z35wqk/i_compared_deploy_speeds_for_reflame_vercel/)
-- [React Query: cacheTime vs staleTime](https://www.reddit.com/r/javascript/comments/z35vvx/react_query_cachetime_vs_staletime/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
