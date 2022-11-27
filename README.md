@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [JavaScript Functions: Why They&#39;re Essential to Understand? | Easy Guide](https://www.reddit.com/r/javascript/comments/z4p8kd/javascript_functions_why_theyre_essential_to/)
+- [I created a web app to track your leetcode progress](https://www.reddit.com/r/javascript/comments/z5mm3i/i_created_a_web_app_to_track_your_leetcode/)
+- [Monorepo Boilerplate with Pre-made CI/CD pipelines for caching, versioning, and publishing](https://www.reddit.com/r/javascript/comments/z5jy82/monorepo_boilerplate_with_premade_cicd_pipelines/)
+- [Updated documentation of Cample.js! Cample.js - typed javascript web framework for creating site UI.](https://www.reddit.com/r/javascript/comments/z5ebwo/updated_documentation_of_camplejs_camplejs_typed/)
+- [react-micro-styled: A small, fast, and simple CSS-in-JS solution for React.](https://www.reddit.com/r/javascript/comments/z5d6i6/reactmicrostyled_a_small_fast_and_simple_cssinjs/)
+- [React Conditional Rendering With Type Safety and Exhaustive Checking](https://www.reddit.com/r/javascript/comments/z5ca26/react_conditional_rendering_with_type_safety_and/)
+- [An easy to use, lightweight library for web-components.](https://www.reddit.com/r/javascript/comments/z5885r/an_easy_to_use_lightweight_library_for/)
+- [File-Loader.js: Easily load scripts and style-sheets to HTML pages](https://www.reddit.com/r/javascript/comments/z54gv3/fileloaderjs_easily_load_scripts_and_stylesheets/)
+- [Showoff Saturday &lpar;November 26, 2022&rpar;](https://www.reddit.com/r/javascript/comments/z51w9h/showoff_saturday_november_26_2022/)
+- [State of JavaScript 2022](https://www.reddit.com/r/javascript/comments/z50n5i/state_of_javascript_2022/)
 - [Complete rewrite of ESLint &lpar;GitHub discussion by the creator&rpar;](https://www.reddit.com/r/javascript/comments/z4lwlo/complete_rewrite_of_eslint_github_discussion_by/)
-- [Neutralinojs v4.9.0 released!](https://www.reddit.com/r/javascript/comments/z4ht8r/neutralinojs_v490_released/)
-- [[AskJS] What dnd website builder so you recommend?](https://www.reddit.com/r/javascript/comments/z4h5pv/askjs_what_dnd_website_builder_so_you_recommend/)
-- [Faster OCR-js project. Free for commercial use!](https://www.reddit.com/r/javascript/comments/z42gyy/faster_ocrjs_project_free_for_commercial_use/)
-- [Github-Paddle.js: Run AI models on browsers for computer version.](https://www.reddit.com/r/javascript/comments/z40yuc/githubpaddlejs_run_ai_models_on_browsers_for/)
-- [Build a custom Javascript linter in 5 minutes](https://www.reddit.com/r/javascript/comments/z3q6ay/build_a_custom_javascript_linter_in_5_minutes/)
-- [We&#39;ve built a language for developing full-stack JS web apps and alpha-tested it. Here&#39;s what we&#39;ve learned](https://www.reddit.com/r/javascript/comments/z3lmv1/weve_built_a_language_for_developing_fullstack_js/)
-- [Achieving end-to-end type safety in a modern JS GraphQL stack – Part 2](https://www.reddit.com/r/javascript/comments/z3jqkz/achieving_endtoend_type_safety_in_a_modern_js/)
-- [A Series of How-to Tutorials On React Navigation Bar](https://www.reddit.com/r/javascript/comments/z3hulm/a_series_of_howto_tutorials_on_react_navigation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
