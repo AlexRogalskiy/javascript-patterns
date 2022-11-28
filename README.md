@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [WinkNLP delivers 600k tokens/second speed on browsers &lpar;MBP M1&rpar;](https://www.reddit.com/r/javascript/comments/z670at/winknlp_delivers_600k_tokenssecond_speed_on/)
+- [Use Preact in Next.js 13](https://www.reddit.com/r/javascript/comments/z5z1pv/use_preact_in_nextjs_13/)
+- [[AskJS] Recommend me a good resource to learn in-depth/advanced about testing &lpar;Jest, RTL, Enzyme&rpar;](https://www.reddit.com/r/javascript/comments/z5rp3t/askjs_recommend_me_a_good_resource_to_learn/)
 - [I created a web app to track your leetcode progress](https://www.reddit.com/r/javascript/comments/z5mm3i/i_created_a_web_app_to_track_your_leetcode/)
 - [Monorepo Boilerplate with Pre-made CI/CD pipelines for caching, versioning, and publishing](https://www.reddit.com/r/javascript/comments/z5jy82/monorepo_boilerplate_with_premade_cicd_pipelines/)
 - [Updated documentation of Cample.js! Cample.js - typed javascript web framework for creating site UI.](https://www.reddit.com/r/javascript/comments/z5ebwo/updated_documentation_of_camplejs_camplejs_typed/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [React Conditional Rendering With Type Safety and Exhaustive Checking](https://www.reddit.com/r/javascript/comments/z5ca26/react_conditional_rendering_with_type_safety_and/)
 - [An easy to use, lightweight library for web-components.](https://www.reddit.com/r/javascript/comments/z5885r/an_easy_to_use_lightweight_library_for/)
 - [File-Loader.js: Easily load scripts and style-sheets to HTML pages](https://www.reddit.com/r/javascript/comments/z54gv3/fileloaderjs_easily_load_scripts_and_stylesheets/)
-- [Showoff Saturday &lpar;November 26, 2022&rpar;](https://www.reddit.com/r/javascript/comments/z51w9h/showoff_saturday_november_26_2022/)
-- [State of JavaScript 2022](https://www.reddit.com/r/javascript/comments/z50n5i/state_of_javascript_2022/)
-- [Complete rewrite of ESLint &lpar;GitHub discussion by the creator&rpar;](https://www.reddit.com/r/javascript/comments/z4lwlo/complete_rewrite_of_eslint_github_discussion_by/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
