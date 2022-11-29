@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [WinkNLP delivers 600k tokens/second speed on browsers &lpar;MBP M1&rpar;](https://www.reddit.com/r/javascript/comments/z670at/winknlp_delivers_600k_tokenssecond_speed_on/)
-- [Use Preact in Next.js 13](https://www.reddit.com/r/javascript/comments/z5z1pv/use_preact_in_nextjs_13/)
-- [[AskJS] Recommend me a good resource to learn in-depth/advanced about testing &lpar;Jest, RTL, Enzyme&rpar;](https://www.reddit.com/r/javascript/comments/z5rp3t/askjs_recommend_me_a_good_resource_to_learn/)
-- [I created a web app to track your leetcode progress](https://www.reddit.com/r/javascript/comments/z5mm3i/i_created_a_web_app_to_track_your_leetcode/)
-- [Monorepo Boilerplate with Pre-made CI/CD pipelines for caching, versioning, and publishing](https://www.reddit.com/r/javascript/comments/z5jy82/monorepo_boilerplate_with_premade_cicd_pipelines/)
-- [Updated documentation of Cample.js! Cample.js - typed javascript web framework for creating site UI.](https://www.reddit.com/r/javascript/comments/z5ebwo/updated_documentation_of_camplejs_camplejs_typed/)
-- [react-micro-styled: A small, fast, and simple CSS-in-JS solution for React.](https://www.reddit.com/r/javascript/comments/z5d6i6/reactmicrostyled_a_small_fast_and_simple_cssinjs/)
-- [React Conditional Rendering With Type Safety and Exhaustive Checking](https://www.reddit.com/r/javascript/comments/z5ca26/react_conditional_rendering_with_type_safety_and/)
-- [An easy to use, lightweight library for web-components.](https://www.reddit.com/r/javascript/comments/z5885r/an_easy_to_use_lightweight_library_for/)
-- [File-Loader.js: Easily load scripts and style-sheets to HTML pages](https://www.reddit.com/r/javascript/comments/z54gv3/fileloaderjs_easily_load_scripts_and_stylesheets/)
+- [Virtualform: an ultra-fast, responsive virtualization engine for React.](https://www.reddit.com/r/javascript/comments/z718gl/virtualform_an_ultrafast_responsive/)
+- [Why we picked PrismaJS as a database layer for our full-stack JS framework](https://www.reddit.com/r/javascript/comments/z6zo0u/why_we_picked_prismajs_as_a_database_layer_for/)
+- [sQuery is like a super minified ES6+ modern jQuery&lpar;less than 9.5KB&rpar; that works great with modern JS frameworks such as Svelte/SolidJS/React/Preact/Vue.js/Angular without any special setting](https://www.reddit.com/r/javascript/comments/z6znsr/squery_is_like_a_super_minified_es6_modern/)
+- [Unified JavaScript Tools](https://www.reddit.com/r/javascript/comments/z6y3zj/unified_javascript_tools/)
+- [Pointer compression in Oilpan](https://www.reddit.com/r/javascript/comments/z6y37o/pointer_compression_in_oilpan/)
+- [[AskJS] Evaluating framework and libraries - Any pre-existing templates available?](https://www.reddit.com/r/javascript/comments/z6xx3w/askjs_evaluating_framework_and_libraries_any/)
+- [First invent the universe: How I built a language-embedded assembler and used it to write my own GameBoy game](https://www.reddit.com/r/javascript/comments/z6xv6h/first_invent_the_universe_how_i_built_a/)
+- [EventSource And Generating Server-Sent Events In ColdFusion &amp;#x2f; Lucee CFML](https://www.reddit.com/r/javascript/comments/z6w9ez/eventsource_and_generating_serversent_events_in/)
+- [GitHub - undoh: This module provides yet another undo class that can be used to implement a simple undo/redo mechanism.](https://www.reddit.com/r/javascript/comments/z6w3hx/github_undoh_this_module_provides_yet_another/)
+- [AWS Lambda Now Has Support for Node.js 18 Runtime](https://www.reddit.com/r/javascript/comments/z6vcn2/aws_lambda_now_has_support_for_nodejs_18_runtime/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
