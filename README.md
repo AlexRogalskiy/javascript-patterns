@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [vanilla-extract — Zero-runtime Stylesheets-in-TypeScript](https://www.reddit.com/r/javascript/comments/z7znfh/vanillaextract_zeroruntime_stylesheetsintypescript/)
+- [VS Code Sandboxing](https://www.reddit.com/r/javascript/comments/z7yn8k/vs_code_sandboxing/)
+- [Open Source JavaScript DJ Software](https://www.reddit.com/r/javascript/comments/z7y8se/open_source_javascript_dj_software/)
+- [Wasp, DSL / framework for building full-stack JS &lpar;React/Node/Prisma&rpar; web apps with no boilerplate, that my brother and I created, is now in Beta!](https://www.reddit.com/r/javascript/comments/z7xo9t/wasp_dsl_framework_for_building_fullstack_js/)
+- [Using addEventListener on multiple elements in Javascript](https://www.reddit.com/r/javascript/comments/z7uhyu/using_addeventlistener_on_multiple_elements_in/)
+- [[AskJS] Is it possible to check size of NFC-tag from JavaScript?](https://www.reddit.com/r/javascript/comments/z7snyo/askjs_is_it_possible_to_check_size_of_nfctag_from/)
+- [My Open Source JS Backend Starter Kit built with Serverless Framework + TypeScript + Prisma + MongoDB + Express.js + ESLint + Prettier + Jest + VSCode](https://www.reddit.com/r/javascript/comments/z7s3ru/my_open_source_js_backend_starter_kit_built_with/)
 - [Virtualform: an ultra-fast, responsive virtualization engine for React.](https://www.reddit.com/r/javascript/comments/z718gl/virtualform_an_ultrafast_responsive/)
 - [Why we picked PrismaJS as a database layer for our full-stack JS framework](https://www.reddit.com/r/javascript/comments/z6zo0u/why_we_picked_prismajs_as_a_database_layer_for/)
 - [sQuery is like a super minified ES6+ modern jQuery&lpar;less than 9.5KB&rpar; that works great with modern JS frameworks such as Svelte/SolidJS/React/Preact/Vue.js/Angular without any special setting](https://www.reddit.com/r/javascript/comments/z6znsr/squery_is_like_a_super_minified_es6_modern/)
-- [Unified JavaScript Tools](https://www.reddit.com/r/javascript/comments/z6y3zj/unified_javascript_tools/)
-- [Pointer compression in Oilpan](https://www.reddit.com/r/javascript/comments/z6y37o/pointer_compression_in_oilpan/)
-- [[AskJS] Evaluating framework and libraries - Any pre-existing templates available?](https://www.reddit.com/r/javascript/comments/z6xx3w/askjs_evaluating_framework_and_libraries_any/)
-- [First invent the universe: How I built a language-embedded assembler and used it to write my own GameBoy game](https://www.reddit.com/r/javascript/comments/z6xv6h/first_invent_the_universe_how_i_built_a/)
-- [EventSource And Generating Server-Sent Events In ColdFusion &amp;#x2f; Lucee CFML](https://www.reddit.com/r/javascript/comments/z6w9ez/eventsource_and_generating_serversent_events_in/)
-- [GitHub - undoh: This module provides yet another undo class that can be used to implement a simple undo/redo mechanism.](https://www.reddit.com/r/javascript/comments/z6w3hx/github_undoh_this_module_provides_yet_another/)
-- [AWS Lambda Now Has Support for Node.js 18 Runtime](https://www.reddit.com/r/javascript/comments/z6vcn2/aws_lambda_now_has_support_for_nodejs_18_runtime/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
