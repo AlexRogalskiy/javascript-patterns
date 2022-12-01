@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [vanilla-extract — Zero-runtime Stylesheets-in-TypeScript](https://www.reddit.com/r/javascript/comments/z7znfh/vanillaextract_zeroruntime_stylesheetsintypescript/)
-- [VS Code Sandboxing](https://www.reddit.com/r/javascript/comments/z7yn8k/vs_code_sandboxing/)
-- [Open Source JavaScript DJ Software](https://www.reddit.com/r/javascript/comments/z7y8se/open_source_javascript_dj_software/)
-- [Wasp, DSL / framework for building full-stack JS &lpar;React/Node/Prisma&rpar; web apps with no boilerplate, that my brother and I created, is now in Beta!](https://www.reddit.com/r/javascript/comments/z7xo9t/wasp_dsl_framework_for_building_fullstack_js/)
-- [Using addEventListener on multiple elements in Javascript](https://www.reddit.com/r/javascript/comments/z7uhyu/using_addeventlistener_on_multiple_elements_in/)
-- [[AskJS] Is it possible to check size of NFC-tag from JavaScript?](https://www.reddit.com/r/javascript/comments/z7snyo/askjs_is_it_possible_to_check_size_of_nfctag_from/)
-- [My Open Source JS Backend Starter Kit built with Serverless Framework + TypeScript + Prisma + MongoDB + Express.js + ESLint + Prettier + Jest + VSCode](https://www.reddit.com/r/javascript/comments/z7s3ru/my_open_source_js_backend_starter_kit_built_with/)
-- [Virtualform: an ultra-fast, responsive virtualization engine for React.](https://www.reddit.com/r/javascript/comments/z718gl/virtualform_an_ultrafast_responsive/)
-- [Why we picked PrismaJS as a database layer for our full-stack JS framework](https://www.reddit.com/r/javascript/comments/z6zo0u/why_we_picked_prismajs_as_a_database_layer_for/)
-- [sQuery is like a super minified ES6+ modern jQuery&lpar;less than 9.5KB&rpar; that works great with modern JS frameworks such as Svelte/SolidJS/React/Preact/Vue.js/Angular without any special setting](https://www.reddit.com/r/javascript/comments/z6znsr/squery_is_like_a_super_minified_es6_modern/)
+- [WasmEdge, a high-performance WebAssembly runtime in C++ with JavaScript support built in &lpar;Wasm on the server side&rpar;](https://www.reddit.com/r/javascript/comments/z99914/wasmedge_a_highperformance_webassembly_runtime_in/)
+- [ts-audio v0.7.2 is out!](https://www.reddit.com/r/javascript/comments/z8yvkx/tsaudio_v072_is_out/)
+- [I built a QR Code Microservice using Next.js and Vercel OG Image Generation](https://www.reddit.com/r/javascript/comments/z8vkdp/i_built_a_qr_code_microservice_using_nextjs_and/)
+- [I built a simple strange attractor simulator with React and Cubecubed](https://www.reddit.com/r/javascript/comments/z8vayh/i_built_a_simple_strange_attractor_simulator_with/)
+- [I wrote this rest vs spread operator article, &lpar;with a couple of visual diagrams&rpar; can any js experts suggest any corrections?](https://www.reddit.com/r/javascript/comments/z8v1ms/i_wrote_this_rest_vs_spread_operator_article_with/)
+- [Transform any @Wikipedia article into a timeline — a graphical representation of a time period, on which important events are highlighted using #winkNLP and @observablehq on any browser.](https://www.reddit.com/r/javascript/comments/z8tv0u/transform_any_wikipedia_article_into_a_timeline_a/)
+- [Speeding up the JavaScript ecosystem - one library at a time](https://www.reddit.com/r/javascript/comments/z8s3jj/speeding_up_the_javascript_ecosystem_one_library/)
+- [The Low-Code Image](https://www.reddit.com/r/javascript/comments/z8qpos/the_lowcode_image/)
+- [[AskJS] - Is it true that JS stacktraces don&#39;t leak variable values?](https://www.reddit.com/r/javascript/comments/z8nijf/askjs_is_it_true_that_js_stacktraces_dont_leak/)
+- [[AskJS] Embedded JavaScript: Best practices for binding properties to global namespace](https://www.reddit.com/r/javascript/comments/z8mq3i/askjs_embedded_javascript_best_practices_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
