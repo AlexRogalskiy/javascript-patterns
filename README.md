@@ -381,6 +381,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *NodeSource posts*
 
 <!-- NODESOURCE-POST-LIST:START -->
+- [N|Solid v4.9.0 is now available](https://nodesource.com/blog/announcing-NSolid-version-490)
 - [N|Solid v4.8.4 is now available](https://nodesource.com/blog/announcing-NSolid-version-484)
 - [11 Features in Node.js 18 you need to try](https://nodesource.com/blog/11-features-nodeJS-18-to-try)
 - [N|Solid v4.8.3 is now available](https://nodesource.com/blog/announcing-NSolid-version-483)
@@ -390,7 +391,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Announcing N|Solid v4.8.2](https://nodesource.com/blog/announcing-NSolid-version-482)
 - [How To Avoid SSR Load Issues in Node.js](https://nodesource.com/blog/ssr-load-issues-in-n)
 - [Low cost IoT device monitoring with Node.js](https://nodesource.com/blog/Low-cost-IoT-device-monitoring-with-Nodejs)
-- [Announcing N|Solid v4.8.1](https://nodesource.com/blog/announcing-NSolid-version-4.8.1)
 <!-- NODESOURCE-POST-LIST:END -->
 
 ### *React Native posts*
