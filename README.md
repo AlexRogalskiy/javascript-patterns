@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Updates from the 93rd TC39 meeting](https://www.reddit.com/r/javascript/comments/zb22kk/updates_from_the_93rd_tc39_meeting/)
+- [[AskJS] Are there numeric textbox widgets with built-in support for big numbers like decimal.js?](https://www.reddit.com/r/javascript/comments/zb0inp/askjs_are_there_numeric_textbox_widgets_with/)
+- [Tailwind CSS + Module Federation [Angular]](https://www.reddit.com/r/javascript/comments/zaypnt/tailwind_css_module_federation_angular/)
+- [Zephyr - The Express TS meta framework designed with DX in mind](https://www.reddit.com/r/javascript/comments/zaipel/zephyr_the_express_ts_meta_framework_designed/)
+- [Programmer Browser | Open Source Browser for Developers](https://www.reddit.com/r/javascript/comments/za8k6o/programmer_browser_open_source_browser_for/)
 - [All Client SDKs were updated for Reduct Storage v1.1.0](https://www.reddit.com/r/javascript/comments/za4ivp/all_client_sdks_were_updated_for_reduct_storage/)
 - [Super Charging Fine-Grained Reactive Performance](https://www.reddit.com/r/javascript/comments/za34u2/super_charging_finegrained_reactive_performance/)
-- [NextJS, SvelteKit, Remix and the future of Storybook](https://www.reddit.com/r/javascript/comments/z9vwz9/nextjs_sveltekit_remix_and_the_future_of_storybook/)
 - [Ant Design 5.0 is released!](https://www.reddit.com/r/javascript/comments/z9rjpi/ant_design_50_is_released/)
 - [When to use NativeScript? Learn from my mistakes.](https://www.reddit.com/r/javascript/comments/z9r8q3/when_to_use_nativescript_learn_from_my_mistakes/)
-- [Learn to design and understand website layouts by playing a game.](https://www.reddit.com/r/javascript/comments/z9qde7/learn_to_design_and_understand_website_layouts_by/)
 - [Deno Is &quot;Blazing Fast&quot; For Humans](https://www.reddit.com/r/javascript/comments/z9q4l5/deno_is_blazing_fast_for_humans/)
-- [Modern Errors: Handle errors in a simple, stable, consistent way](https://www.reddit.com/r/javascript/comments/z9oegs/modern_errors_handle_errors_in_a_simple_stable/)
-- [Migrating from Vue 2 to Svelte](https://www.reddit.com/r/javascript/comments/z9o5hj/migrating_from_vue_2_to_svelte/)
-- [How We Made JavaScript Stack Traces Awesome](https://www.reddit.com/r/javascript/comments/z9m4gj/how_we_made_javascript_stack_traces_awesome/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
