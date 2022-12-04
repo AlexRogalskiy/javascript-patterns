@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [daedalOS - Desktop Environment in the Browser](https://www.reddit.com/r/javascript/comments/zbjx30/daedalos_desktop_environment_in_the_browser/)
+- [[AdventJS] Free JavaScript/TypeScript daily coding challenges](https://www.reddit.com/r/javascript/comments/zbh12n/adventjs_free_javascripttypescript_daily_coding/)
+- [Showoff Saturday &lpar;December 03, 2022&rpar;](https://www.reddit.com/r/javascript/comments/zbb4vf/showoff_saturday_december_03_2022/)
+- [GPT-3 Code Debugger -- Chrome Extension](https://www.reddit.com/r/javascript/comments/zb9iri/gpt3_code_debugger_chrome_extension/)
+- [Write from any language and publish packages to npm](https://www.reddit.com/r/javascript/comments/zb795h/write_from_any_language_and_publish_packages_to/)
 - [Updates from the 93rd TC39 meeting](https://www.reddit.com/r/javascript/comments/zb22kk/updates_from_the_93rd_tc39_meeting/)
 - [[AskJS] Are there numeric textbox widgets with built-in support for big numbers like decimal.js?](https://www.reddit.com/r/javascript/comments/zb0inp/askjs_are_there_numeric_textbox_widgets_with/)
 - [Tailwind CSS + Module Federation [Angular]](https://www.reddit.com/r/javascript/comments/zaypnt/tailwind_css_module_federation_angular/)
 - [Zephyr - The Express TS meta framework designed with DX in mind](https://www.reddit.com/r/javascript/comments/zaipel/zephyr_the_express_ts_meta_framework_designed/)
 - [Programmer Browser | Open Source Browser for Developers](https://www.reddit.com/r/javascript/comments/za8k6o/programmer_browser_open_source_browser_for/)
-- [All Client SDKs were updated for Reduct Storage v1.1.0](https://www.reddit.com/r/javascript/comments/za4ivp/all_client_sdks_were_updated_for_reduct_storage/)
-- [Super Charging Fine-Grained Reactive Performance](https://www.reddit.com/r/javascript/comments/za34u2/super_charging_finegrained_reactive_performance/)
-- [Ant Design 5.0 is released!](https://www.reddit.com/r/javascript/comments/z9rjpi/ant_design_50_is_released/)
-- [When to use NativeScript? Learn from my mistakes.](https://www.reddit.com/r/javascript/comments/z9r8q3/when_to_use_nativescript_learn_from_my_mistakes/)
-- [Deno Is &quot;Blazing Fast&quot; For Humans](https://www.reddit.com/r/javascript/comments/z9q4l5/deno_is_blazing_fast_for_humans/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
