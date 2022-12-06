@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Do you have a kind of flip-flop operator in Javascript ?](https://www.reddit.com/r/javascript/comments/zcts9k/do_you_have_a_kind_of_flipflop_operator_in/)
+- [My first node module rustlings](https://www.reddit.com/r/javascript/comments/zdpbkr/my_first_node_module_rustlings/)
+- [AngularJS ngBootstrap5](https://www.reddit.com/r/javascript/comments/zdiqjl/angularjs_ngbootstrap5/)
+- [Chrome extension to summarize articles using ChatGPT](https://www.reddit.com/r/javascript/comments/zdgefd/chrome_extension_to_summarize_articles_using/)
+- [Creating a beautiful upvote system with React and Socket.io](https://www.reddit.com/r/javascript/comments/zd9vvb/creating_a_beautiful_upvote_system_with_react_and/)
 - [[AskJS] Should you write object oriented code in basic Js?](https://www.reddit.com/r/javascript/comments/zcrzj0/askjs_should_you_write_object_oriented_code_in/)
 - [OpenAI + Nodejs - Angular15 Example Usage of OpenAI - Grammer Correction](https://www.reddit.com/r/javascript/comments/zcjsz2/openai_nodejs_angular15_example_usage_of_openai/)
-- [[AskJS] Cannot read properties of undefined - is the problem on my side?](https://www.reddit.com/r/javascript/comments/zchksv/askjs_cannot_read_properties_of_undefined_is_the/)
 - [Follow me as I complete advent of code 2022 each day in TypeScript](https://www.reddit.com/r/javascript/comments/zcbzro/follow_me_as_i_complete_advent_of_code_2022_each/)
 - [[AskJS] What libraries do you use for your development?](https://www.reddit.com/r/javascript/comments/zcamqr/askjs_what_libraries_do_you_use_for_your/)
 - [daedalOS - Desktop Environment in the Browser](https://www.reddit.com/r/javascript/comments/zbjx30/daedalos_desktop_environment_in_the_browser/)
 - [[AdventJS] Free JavaScript/TypeScript daily coding challenges](https://www.reddit.com/r/javascript/comments/zbh12n/adventjs_free_javascripttypescript_daily_coding/)
-- [Showoff Saturday &lpar;December 03, 2022&rpar;](https://www.reddit.com/r/javascript/comments/zbb4vf/showoff_saturday_december_03_2022/)
-- [GPT-3 Code Debugger -- Chrome Extension](https://www.reddit.com/r/javascript/comments/zb9iri/gpt3_code_debugger_chrome_extension/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
