@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [My first node module rustlings](https://www.reddit.com/r/javascript/comments/zdpbkr/my_first_node_module_rustlings/)
-- [AngularJS ngBootstrap5](https://www.reddit.com/r/javascript/comments/zdiqjl/angularjs_ngbootstrap5/)
-- [Chrome extension to summarize articles using ChatGPT](https://www.reddit.com/r/javascript/comments/zdgefd/chrome_extension_to_summarize_articles_using/)
-- [Creating a beautiful upvote system with React and Socket.io](https://www.reddit.com/r/javascript/comments/zd9vvb/creating_a_beautiful_upvote_system_with_react_and/)
-- [[AskJS] Should you write object oriented code in basic Js?](https://www.reddit.com/r/javascript/comments/zcrzj0/askjs_should_you_write_object_oriented_code_in/)
-- [OpenAI + Nodejs - Angular15 Example Usage of OpenAI - Grammer Correction](https://www.reddit.com/r/javascript/comments/zcjsz2/openai_nodejs_angular15_example_usage_of_openai/)
-- [Follow me as I complete advent of code 2022 each day in TypeScript](https://www.reddit.com/r/javascript/comments/zcbzro/follow_me_as_i_complete_advent_of_code_2022_each/)
-- [[AskJS] What libraries do you use for your development?](https://www.reddit.com/r/javascript/comments/zcamqr/askjs_what_libraries_do_you_use_for_your/)
-- [daedalOS - Desktop Environment in the Browser](https://www.reddit.com/r/javascript/comments/zbjx30/daedalos_desktop_environment_in_the_browser/)
-- [[AdventJS] Free JavaScript/TypeScript daily coding challenges](https://www.reddit.com/r/javascript/comments/zbh12n/adventjs_free_javascripttypescript_daily_coding/)
+- [I Built this free Tool using JavaScript: Snippets.style - Code Snippets Made Easy!](https://www.reddit.com/r/javascript/comments/zeljuy/i_built_this_free_tool_using_javascript/)
+- [A surprising speed up for Haversine distances, using old philosophical wisdom](https://www.reddit.com/r/javascript/comments/zehvzy/a_surprising_speed_up_for_haversine_distances/)
+- [Announcing Rome v11](https://www.reddit.com/r/javascript/comments/zeco4n/announcing_rome_v11/)
+- [Five Challenges to Building an Isomorphic JavaScript Library](https://www.reddit.com/r/javascript/comments/zeafcz/five_challenges_to_building_an_isomorphic/)
+- [Nx 15.3 is out! Standalone Projects, Vite, Task Graph and more!](https://www.reddit.com/r/javascript/comments/ze9s2n/nx_153_is_out_standalone_projects_vite_task_graph/)
+- [Introducing Codux - The First Visual IDE for React](https://www.reddit.com/r/javascript/comments/ze8stq/introducing_codux_the_first_visual_ide_for_react/)
+- [Introducing the new Next.js and SWR clients](https://www.reddit.com/r/javascript/comments/ze5602/introducing_the_new_nextjs_and_swr_clients/)
+- [New post: How better is Prisma compared with &#39;traditional&#39; ORMs?](https://www.reddit.com/r/javascript/comments/ze2xzt/new_post_how_better_is_prisma_compared_with/)
+- [Looking for feedback - Authoring Keystrokes, a successor to KeyboardJS](https://www.reddit.com/r/javascript/comments/ze19fn/looking_for_feedback_authoring_keystrokes_a/)
+- [Termino.js: Create a web based terminal on any website - great for games, animations &amp; real world apps!](https://www.reddit.com/r/javascript/comments/ze0hez/terminojs_create_a_web_based_terminal_on_any/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
