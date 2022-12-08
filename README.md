@@ -292,6 +292,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [GitHub bolsters NPM access control](https://www.infoworld.com/article/3682671/github-bolsters-npm-access-control.html#tk.rss_javascript)
+- [14 hot language projects riding WebAssembly](https://www.infoworld.com/article/3619608/14-hot-language-projects-riding-webassembly.html#tk.rss_javascript)
 - [Intro to Mitosis: The universal reactive transformer](https://www.infoworld.com/article/3679710/intro-to-mitosis-the-universal-reactive-transformer.html#tk.rss_javascript)
 - [Angular 15 arrives with standalone APIs](https://www.infoworld.com/article/3680549/angular-15-arrives-with-stable-standalone-apis.html#tk.rss_javascript)
 - [The best new features in Next.js 13](https://www.infoworld.com/article/3679489/the-best-new-features-in-nextjs-13.html#tk.rss_javascript)
@@ -300,8 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Filter JavaScript objects the easy way with Arquero](https://www.infoworld.com/article/3678168/filter-javascript-objects-the-easy-way-with-arquero.html#tk.rss_javascript)
 - [Intro to CSS-in-JS: Generating CSS from JavaScript](https://www.infoworld.com/article/3678950/intro-to-css-in-js-generating-css-from-javascript.html#tk.rss_javascript)
 - [Deno runtime backs inlay hints for coding](https://www.infoworld.com/article/3678428/deno-runtime-backs-inlay-hints-for-coding.html#tk.rss_javascript)
-- [Next.js 13 hones routing, layouts, rendering](https://www.infoworld.com/article/3678149/nextjs-13-hones-routing-layouts-rendering.html#tk.rss_javascript)
-- [Node.js 19 boosts HTTP throughput](https://www.infoworld.com/article/3677189/nodejs-19-boosts-http-throughput.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
