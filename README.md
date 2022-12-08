@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I Built this free Tool using JavaScript: Snippets.style - Code Snippets Made Easy!](https://www.reddit.com/r/javascript/comments/zeljuy/i_built_this_free_tool_using_javascript/)
-- [A surprising speed up for Haversine distances, using old philosophical wisdom](https://www.reddit.com/r/javascript/comments/zehvzy/a_surprising_speed_up_for_haversine_distances/)
-- [Announcing Rome v11](https://www.reddit.com/r/javascript/comments/zeco4n/announcing_rome_v11/)
-- [Five Challenges to Building an Isomorphic JavaScript Library](https://www.reddit.com/r/javascript/comments/zeafcz/five_challenges_to_building_an_isomorphic/)
-- [Nx 15.3 is out! Standalone Projects, Vite, Task Graph and more!](https://www.reddit.com/r/javascript/comments/ze9s2n/nx_153_is_out_standalone_projects_vite_task_graph/)
-- [Introducing Codux - The First Visual IDE for React](https://www.reddit.com/r/javascript/comments/ze8stq/introducing_codux_the_first_visual_ide_for_react/)
-- [Introducing the new Next.js and SWR clients](https://www.reddit.com/r/javascript/comments/ze5602/introducing_the_new_nextjs_and_swr_clients/)
-- [New post: How better is Prisma compared with &#39;traditional&#39; ORMs?](https://www.reddit.com/r/javascript/comments/ze2xzt/new_post_how_better_is_prisma_compared_with/)
-- [Looking for feedback - Authoring Keystrokes, a successor to KeyboardJS](https://www.reddit.com/r/javascript/comments/ze19fn/looking_for_feedback_authoring_keystrokes_a/)
-- [Termino.js: Create a web based terminal on any website - great for games, animations &amp; real world apps!](https://www.reddit.com/r/javascript/comments/ze0hez/terminojs_create_a_web_based_terminal_on_any/)
+- [Javascript Array Methods which you should know - Javascript Interview Question](https://www.reddit.com/r/javascript/comments/zfllju/javascript_array_methods_which_you_should_know/)
+- [I made a clicker game :&rpar; - any feedback?](https://www.reddit.com/r/javascript/comments/zfistp/i_made_a_clicker_game_any_feedback/)
+- [React Best Practices - The Complete List](https://www.reddit.com/r/javascript/comments/zfcpfq/react_best_practices_the_complete_list/)
+- [Visual Studio Code November 2022](https://www.reddit.com/r/javascript/comments/zfaxzd/visual_studio_code_november_2022/)
+- [How the Mozilla Community helps shape our products](https://www.reddit.com/r/javascript/comments/zfa6l7/how_the_mozilla_community_helps_shape_our_products/)
+- [Built a Vue.js ecommerce store with an open source Node.js backend](https://www.reddit.com/r/javascript/comments/zf82ar/built_a_vuejs_ecommerce_store_with_an_open_source/)
+- [Useful tools when you need to work with colors in your next project.](https://www.reddit.com/r/javascript/comments/zf4tc9/useful_tools_when_you_need_to_work_with_colors_in/)
+- [Pechkin – handle FormData file uploads without saving to disk, loading to memory, no `StorageEngine`s and file handlers, with Promises + AsyncIterators](https://www.reddit.com/r/javascript/comments/zf1vzy/pechkin_handle_formdata_file_uploads_without/)
+- [OpenAI + Nodejs + Angular15 - Grammar Correction app is Live and open source &lpar;don&#39;t forget to give a star&rpar;](https://www.reddit.com/r/javascript/comments/zf11f1/openai_nodejs_angular15_grammar_correction_app_is/)
+- [Privacy friendly VS Code Editor Version](https://www.reddit.com/r/javascript/comments/zf0jzw/privacy_friendly_vs_code_editor_version/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
