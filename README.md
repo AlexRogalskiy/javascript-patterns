@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Intro to Alpine.js: A JavaScript framework for minimalists](https://www.infoworld.com/article/3682135/intro-to-alpinejs-a-javascript-framework-for-minimalists.html#tk.rss_javascript)
 - [GitHub bolsters NPM access control](https://www.infoworld.com/article/3682671/github-bolsters-npm-access-control.html#tk.rss_javascript)
 - [14 hot language projects riding WebAssembly](https://www.infoworld.com/article/3619608/14-hot-language-projects-riding-webassembly.html#tk.rss_javascript)
 - [Intro to Mitosis: The universal reactive transformer](https://www.infoworld.com/article/3679710/intro-to-mitosis-the-universal-reactive-transformer.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Deno stabilizes NPM compatibility](https://www.infoworld.com/article/3680389/deno-stabilizes-npm-compatibility.html#tk.rss_javascript)
 - [Filter JavaScript objects the easy way with Arquero](https://www.infoworld.com/article/3678168/filter-javascript-objects-the-easy-way-with-arquero.html#tk.rss_javascript)
 - [Intro to CSS-in-JS: Generating CSS from JavaScript](https://www.infoworld.com/article/3678950/intro-to-css-in-js-generating-css-from-javascript.html#tk.rss_javascript)
-- [Deno runtime backs inlay hints for coding](https://www.infoworld.com/article/3678428/deno-runtime-backs-inlay-hints-for-coding.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
