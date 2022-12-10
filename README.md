@@ -352,6 +352,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *javascript programmer posts*
 
 <!-- METEOR-POST-LIST:START -->
+- [Meteor Monthly Update — November 2022](https://blog.meteor.com/meteor-monthly-update-november-2022-460648a7bf81?source=rss----a9bcaf865278---4)
 - [New Meteor 2.8.1 and adding types to the core](https://blog.meteor.com/new-meteor-2-8-1-and-adding-types-to-the-core-8a6ee56f0141?source=rss----a9bcaf865278---4)
 - [Meteor Monthly Update — October 2022](https://blog.meteor.com/meteor-monthly-update-october-2022-e4c6c0ac305a?source=rss----a9bcaf865278---4)
 - [Introducing the grubba-rpc package](https://blog.meteor.com/introducing-the-grubba-rpc-package-80b1e1958dc3?source=rss----a9bcaf865278---4)
@@ -361,7 +362,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Meteor Monthly Update — September 2022](https://blog.meteor.com/meteor-monthly-update-september-2022-f527948e22c8?source=rss----a9bcaf865278---4)
 - [Insane productivity with the CHARM stack](https://blog.meteor.com/insane-productivity-with-the-charm-stack-e819c693c0de?source=rss----a9bcaf865278---4)
 - [Apify + Meteor: Making the Web More Programmable Together](https://blog.meteor.com/apify-meteor-making-the-web-more-programmable-together-adfbf907e376?source=rss----a9bcaf865278---4)
-- [How to update your app that uses an old version of Meteor?](https://blog.meteor.com/how-to-update-your-app-that-uses-an-old-version-of-meteor-15c3239b46ce?source=rss----a9bcaf865278---4)
 <!-- METEOR-POST-LIST:END -->
 
 ### *Dreamix posts*
