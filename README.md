@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Shitify.js - The Reverse Linter](https://www.reddit.com/r/javascript/comments/zi7tag/shitifyjs_the_reverse_linter/)
-- [[AskJS] Should I still use semicolons?](https://www.reddit.com/r/javascript/comments/zhu64g/askjs_should_i_still_use_semicolons/)
-- [Introducing npm.one, a better and safer web-client for NPM registry. NPM download count, related packages, GitHub metadata, bundle size, popularity &amp; activity indicators, all in one place.](https://www.reddit.com/r/javascript/comments/zhsyb0/introducing_npmone_a_better_and_safer_webclient/)
-- [Showoff Saturday &lpar;December 10, 2022&rpar;](https://www.reddit.com/r/javascript/comments/zhmkh6/showoff_saturday_december_10_2022/)
-- [So what is Effector ?](https://www.reddit.com/r/javascript/comments/zhdq8c/so_what_is_effector/)
-- [[AskJS] can someone recommend any open-source libraries to measure performance?](https://www.reddit.com/r/javascript/comments/zh6gz4/askjs_can_someone_recommend_any_opensource/)
-- [We have developed an online code editor.](https://www.reddit.com/r/javascript/comments/zh641s/we_have_developed_an_online_code_editor/)
-- [Vite 4.0 Officially Released!](https://www.reddit.com/r/javascript/comments/zgzulo/vite_40_officially_released/)
-- [i18n with Next.js 13 and app directory](https://www.reddit.com/r/javascript/comments/zgye9r/i18n_with_nextjs_13_and_app_directory/)
-- [[AskJS] JavaScript Libraries](https://www.reddit.com/r/javascript/comments/zgee6a/askjs_javascript_libraries/)
+- [Declarative RxJS with Custom Operators](https://www.reddit.com/r/javascript/comments/zj9y1d/declarative_rxjs_with_custom_operators/)
+- [A Brief History of Client Side Routing](https://www.reddit.com/r/javascript/comments/zj0e2a/a_brief_history_of_client_side_routing/)
+- [[AskJS] Road map to e-commerce website?](https://www.reddit.com/r/javascript/comments/zixl74/askjs_road_map_to_ecommerce_website/)
+- [[AskJS] What are your thoughts on AI-augmented tooling for JS?](https://www.reddit.com/r/javascript/comments/zivlvp/askjs_what_are_your_thoughts_on_aiaugmented/)
+- [[AskJS] Best practices for abandoned dependencies?](https://www.reddit.com/r/javascript/comments/ziv7y6/askjs_best_practices_for_abandoned_dependencies/)
+- [From a million Lambda invocations to thousand with correct caching](https://www.reddit.com/r/javascript/comments/zitddh/from_a_million_lambda_invocations_to_thousand/)
+- [A Glassmorphism container for React](https://www.reddit.com/r/javascript/comments/ziqcxr/a_glassmorphism_container_for_react/)
+- [[AskJS] What name will you suggest for a brand new MongoDB GUI?](https://www.reddit.com/r/javascript/comments/zind4c/askjs_what_name_will_you_suggest_for_a_brand_new/)
+- [Best ReactJS Projects for Beginners](https://www.reddit.com/r/javascript/comments/zin30w/best_reactjs_projects_for_beginners/)
+- [[AskJS] Do you make a decent wage off programming?](https://www.reddit.com/r/javascript/comments/zijfnz/askjs_do_you_make_a_decent_wage_off_programming/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
