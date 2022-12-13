@@ -352,6 +352,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *javascript programmer posts*
 
 <!-- METEOR-POST-LIST:START -->
+- [New MeteorJS 2.9 and the new Scaffold API](https://blog.meteor.com/new-meteorjs-2-9-and-the-new-scaffold-api-5fcc0f3b1ce5?source=rss----a9bcaf865278---4)
 - [Meteor Monthly Update — November 2022](https://blog.meteor.com/meteor-monthly-update-november-2022-460648a7bf81?source=rss----a9bcaf865278---4)
 - [New Meteor 2.8.1 and adding types to the core](https://blog.meteor.com/new-meteor-2-8-1-and-adding-types-to-the-core-8a6ee56f0141?source=rss----a9bcaf865278---4)
 - [Meteor Monthly Update — October 2022](https://blog.meteor.com/meteor-monthly-update-october-2022-e4c6c0ac305a?source=rss----a9bcaf865278---4)
@@ -361,7 +362,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Google OAuth using Meteor JS — Implementation Guide with Working Code [ 2022 ]](https://blog.meteor.com/google-oauth-using-meteor-js-implementation-guide-with-working-code-2022-455a981c8a7c?source=rss----a9bcaf865278---4)
 - [Meteor Monthly Update — September 2022](https://blog.meteor.com/meteor-monthly-update-september-2022-f527948e22c8?source=rss----a9bcaf865278---4)
 - [Insane productivity with the CHARM stack](https://blog.meteor.com/insane-productivity-with-the-charm-stack-e819c693c0de?source=rss----a9bcaf865278---4)
-- [Apify + Meteor: Making the Web More Programmable Together](https://blog.meteor.com/apify-meteor-making-the-web-more-programmable-together-adfbf907e376?source=rss----a9bcaf865278---4)
 <!-- METEOR-POST-LIST:END -->
 
 ### *Dreamix posts*
