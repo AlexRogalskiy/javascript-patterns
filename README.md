@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Better two factor authentication experiences with WebOTP](https://www.reddit.com/r/javascript/comments/zla7ly/better_two_factor_authentication_experiences_with/)
+- [Web Apps could de-monopolize mobile devices &lpar;13 Dec 2022&rpar; – Cory Doctorow](https://www.reddit.com/r/javascript/comments/zl8psz/web_apps_could_demonopolize_mobile_devices_13_dec/)
+- [How we configured pnpm and Turborepo for our monorepo](https://www.reddit.com/r/javascript/comments/zl3l7z/how_we_configured_pnpm_and_turborepo_for_our/)
+- [With Nuxt3, vue.js is making huge steps in becoming a reliable and fast framework, you should definitely give it a try! In this article, I build with you a fully configured project and explain all the steps to you.](https://www.reddit.com/r/javascript/comments/zkzuzj/with_nuxt3_vuejs_is_making_huge_steps_in_becoming/)
+- [Programs are dead - and JavaScript has killed them](https://www.reddit.com/r/javascript/comments/zkygjm/programs_are_dead_and_javascript_has_killed_them/)
+- [Recursion in JavaScript and React Components](https://www.reddit.com/r/javascript/comments/zkwvsv/recursion_in_javascript_and_react_components/)
+- [Serving Notion Presigned Images with Cloudflare Workers](https://www.reddit.com/r/javascript/comments/zkmbyd/serving_notion_presigned_images_with_cloudflare/)
 - [Unovis - a modular data visualization framework for React, Angular, Svelte, and vanilla TypeScript or JavaScript](https://www.reddit.com/r/javascript/comments/zke3iq/unovis_a_modular_data_visualization_framework_for/)
 - [fart.js - add the most natural sound on earth to your pages](https://www.reddit.com/r/javascript/comments/zkbqvn/fartjs_add_the_most_natural_sound_on_earth_to/)
 - [Show r/javascript: I made a library to make working with monetary values easier and safer](https://www.reddit.com/r/javascript/comments/zk57m5/show_rjavascript_i_made_a_library_to_make_working/)
-- [The simplicity of tRPC with the power of GraphQL](https://www.reddit.com/r/javascript/comments/zk1ic5/the_simplicity_of_trpc_with_the_power_of_graphql/)
-- [An Interactive Guide to JavaScript Events](https://www.reddit.com/r/javascript/comments/zjxb3b/an_interactive_guide_to_javascript_events/)
-- [InversifyJS has reached 100,000,000 downloads on npm](https://www.reddit.com/r/javascript/comments/zjuqsb/inversifyjs_has_reached_100000000_downloads_on_npm/)
-- [flatMap: an alternative to filter + map](https://www.reddit.com/r/javascript/comments/zjsmn4/flatmap_an_alternative_to_filter_map/)
-- [Continuously validate your data with zod and zoxy](https://www.reddit.com/r/javascript/comments/zjqmjm/continuously_validate_your_data_with_zod_and_zoxy/)
-- [Declarative RxJS with Custom Operators](https://www.reddit.com/r/javascript/comments/zj9y1d/declarative_rxjs_with_custom_operators/)
-- [A Brief History of Client Side Routing](https://www.reddit.com/r/javascript/comments/zj0e2a/a_brief_history_of_client_side_routing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
