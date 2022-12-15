@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to use Sentiment Analysis API with JavaScript &lpar;Vue.js&rpar;?](https://www.reddit.com/r/javascript/comments/zm80mj/how_to_use_sentiment_analysis_api_with_javascript/)
+- [jQuery 3.6.2 Released](https://www.reddit.com/r/javascript/comments/zlz2jo/jquery_362_released/)
+- [Rewriting TypeScript in Rust? You&#39;d have to be...](https://www.reddit.com/r/javascript/comments/zlz0lt/rewriting_typescript_in_rust_youd_have_to_be/)
+- [Introducing Formulate: a programmable form-builder](https://www.reddit.com/r/javascript/comments/zlyj4n/introducing_formulate_a_programmable_formbuilder/)
+- [Nice tutorial on how to run JavaScript in VSCode &lpar;covers several usecases&rpar;](https://www.reddit.com/r/javascript/comments/zlxpl0/nice_tutorial_on_how_to_run_javascript_in_vscode/)
+- [Announcing SvelteKit 1.0](https://www.reddit.com/r/javascript/comments/zlxagd/announcing_sveltekit_10/)
+- [JavaScript is the Most Demanded Programming Language in 2022, 1 out of 3 dev jobs require JavaScript knowledge.](https://www.reddit.com/r/javascript/comments/zlsd01/javascript_is_the_most_demanded_programming/)
+- [WTF Wednesday &lpar;December 14, 2022&rpar;](https://www.reddit.com/r/javascript/comments/zll6tu/wtf_wednesday_december_14_2022/)
 - [Better two factor authentication experiences with WebOTP](https://www.reddit.com/r/javascript/comments/zla7ly/better_two_factor_authentication_experiences_with/)
 - [Web Apps could de-monopolize mobile devices &lpar;13 Dec 2022&rpar; – Cory Doctorow](https://www.reddit.com/r/javascript/comments/zl8psz/web_apps_could_demonopolize_mobile_devices_13_dec/)
-- [How we configured pnpm and Turborepo for our monorepo](https://www.reddit.com/r/javascript/comments/zl3l7z/how_we_configured_pnpm_and_turborepo_for_our/)
-- [With Nuxt3, vue.js is making huge steps in becoming a reliable and fast framework, you should definitely give it a try! In this article, I build with you a fully configured project and explain all the steps to you.](https://www.reddit.com/r/javascript/comments/zkzuzj/with_nuxt3_vuejs_is_making_huge_steps_in_becoming/)
-- [Programs are dead - and JavaScript has killed them](https://www.reddit.com/r/javascript/comments/zkygjm/programs_are_dead_and_javascript_has_killed_them/)
-- [Recursion in JavaScript and React Components](https://www.reddit.com/r/javascript/comments/zkwvsv/recursion_in_javascript_and_react_components/)
-- [Serving Notion Presigned Images with Cloudflare Workers](https://www.reddit.com/r/javascript/comments/zkmbyd/serving_notion_presigned_images_with_cloudflare/)
-- [Unovis - a modular data visualization framework for React, Angular, Svelte, and vanilla TypeScript or JavaScript](https://www.reddit.com/r/javascript/comments/zke3iq/unovis_a_modular_data_visualization_framework_for/)
-- [fart.js - add the most natural sound on earth to your pages](https://www.reddit.com/r/javascript/comments/zkbqvn/fartjs_add_the_most_natural_sound_on_earth_to/)
-- [Show r/javascript: I made a library to make working with monetary values easier and safer](https://www.reddit.com/r/javascript/comments/zk57m5/show_rjavascript_i_made_a_library_to_make_working/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
