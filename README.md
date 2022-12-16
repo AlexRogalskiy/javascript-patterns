@@ -352,6 +352,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *javascript programmer posts*
 
 <!-- METEOR-POST-LIST:START -->
+- [Built with Meteor in 6 Months, Chatra Chatbots Score 45k+ Users](https://blog.meteor.com/built-with-meteor-in-6-months-chatra-chatbots-score-45k-users-daa001f62300?source=rss----a9bcaf865278---4)
 - [New MeteorJS 2.9 and the new Scaffold API](https://blog.meteor.com/new-meteorjs-2-9-and-the-new-scaffold-api-5fcc0f3b1ce5?source=rss----a9bcaf865278---4)
 - [Meteor Monthly Update — November 2022](https://blog.meteor.com/meteor-monthly-update-november-2022-460648a7bf81?source=rss----a9bcaf865278---4)
 - [New Meteor 2.8.1 and adding types to the core](https://blog.meteor.com/new-meteor-2-8-1-and-adding-types-to-the-core-8a6ee56f0141?source=rss----a9bcaf865278---4)
@@ -361,7 +362,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Meteor Cloud Lets Coygo Focus On Crypto Trading Tools, Not DevOps](https://blog.meteor.com/meteor-cloud-lets-coygo-focus-on-crypto-trading-tools-not-devops-97f8e5e993bd?source=rss----a9bcaf865278---4)
 - [Google OAuth using Meteor JS — Implementation Guide with Working Code [ 2022 ]](https://blog.meteor.com/google-oauth-using-meteor-js-implementation-guide-with-working-code-2022-455a981c8a7c?source=rss----a9bcaf865278---4)
 - [Meteor Monthly Update — September 2022](https://blog.meteor.com/meteor-monthly-update-september-2022-f527948e22c8?source=rss----a9bcaf865278---4)
-- [Insane productivity with the CHARM stack](https://blog.meteor.com/insane-productivity-with-the-charm-stack-e819c693c0de?source=rss----a9bcaf865278---4)
 <!-- METEOR-POST-LIST:END -->
 
 ### *Dreamix posts*
