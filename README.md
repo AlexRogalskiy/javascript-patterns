@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [SvelteKit 1.0 brings a full stack to Svelte](https://www.infoworld.com/article/3683588/sveltekit-10-brings-a-full-stack-to-svelte.html#tk.rss_javascript)
 - [Intro to Alpine.js: A JavaScript framework for minimalists](https://www.infoworld.com/article/3682135/intro-to-alpinejs-a-javascript-framework-for-minimalists.html#tk.rss_javascript)
 - [GitHub bolsters NPM access control](https://www.infoworld.com/article/3682671/github-bolsters-npm-access-control.html#tk.rss_javascript)
 - [14 hot language projects riding WebAssembly](https://www.infoworld.com/article/3619608/14-hot-language-projects-riding-webassembly.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [TypeScript 4.9 intros operator for finding coding mistakes](https://www.infoworld.com/article/3674814/typescript-49-intros-operator-for-finding-coding-mistakes.html#tk.rss_javascript)
 - [Deno stabilizes NPM compatibility](https://www.infoworld.com/article/3680389/deno-stabilizes-npm-compatibility.html#tk.rss_javascript)
 - [Filter JavaScript objects the easy way with Arquero](https://www.infoworld.com/article/3678168/filter-javascript-objects-the-easy-way-with-arquero.html#tk.rss_javascript)
-- [Intro to CSS-in-JS: Generating CSS from JavaScript](https://www.infoworld.com/article/3678950/intro-to-css-in-js-generating-css-from-javascript.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
