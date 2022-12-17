@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] insert missing dates in an array of objects](https://www.reddit.com/r/javascript/comments/znt3l6/askjs_insert_missing_dates_in_an_array_of_objects/)
+- [`react-redux-partitioner` - A simple and performant way to manage Redux state](https://www.reddit.com/r/javascript/comments/znjpw8/reactreduxpartitioner_a_simple_and_performant_way/)
+- [Everything You Need to Know About Concurrent React &lpar;with a little bit of Suspense...&rpar;](https://www.reddit.com/r/javascript/comments/znixfz/everything_you_need_to_know_about_concurrent/)
+- [GitHub - loreanvictor/quel: Imperative Reactive Programming for JavaScript](https://www.reddit.com/r/javascript/comments/zna9h9/github_loreanvictorquel_imperative_reactive/)
+- [CodeImage - A tool to manage and beautify your code screenshots](https://www.reddit.com/r/javascript/comments/zn80ph/codeimage_a_tool_to_manage_and_beautify_your_code/)
 - [Migrating away from Medium to a custom Gatsby website &lpar;React&rpar;](https://www.reddit.com/r/javascript/comments/zmx8w9/migrating_away_from_medium_to_a_custom_gatsby/)
 - [[AskJS] Any &quot;real&quot; &lpar;i.e. non-stupid&rpar; examples of code breaking without semicolons?](https://www.reddit.com/r/javascript/comments/zmt33y/askjs_any_real_ie_nonstupid_examples_of_code/)
-- [Solitaire in the Terminal? With drag &amp; drop? dialog boxes? responsive layout? color themes? That’s Impossible!](https://www.reddit.com/r/javascript/comments/zmptwd/solitaire_in_the_terminal_with_drag_drop_dialog/)
 - [ECMAScript proposal: iterator helpers](https://www.reddit.com/r/javascript/comments/zmo5pc/ecmascript_proposal_iterator_helpers/)
 - [Rendering emails with Svelte](https://www.reddit.com/r/javascript/comments/zmnugy/rendering_emails_with_svelte/)
 - [Email or Magic Link Authentication in SolidJS](https://www.reddit.com/r/javascript/comments/zmijyg/email_or_magic_link_authentication_in_solidjs/)
-- [Headless-UI Date Picker for React Apps](https://www.reddit.com/r/javascript/comments/zmh4fy/headlessui_date_picker_for_react_apps/)
-- [Made an app for learning React JS with AI](https://www.reddit.com/r/javascript/comments/zmakvc/made_an_app_for_learning_react_js_with_ai/)
-- [How to use Sentiment Analysis API with JavaScript &lpar;Vue.js&rpar;?](https://www.reddit.com/r/javascript/comments/zm80mj/how_to_use_sentiment_analysis_api_with_javascript/)
-- [jQuery 3.6.2 Released](https://www.reddit.com/r/javascript/comments/zlz2jo/jquery_362_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
