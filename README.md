@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] insert missing dates in an array of objects](https://www.reddit.com/r/javascript/comments/znt3l6/askjs_insert_missing_dates_in_an_array_of_objects/)
+- [[AskJS] Quick JS refresher](https://www.reddit.com/r/javascript/comments/zojx12/askjs_quick_js_refresher/)
+- [[AskJS] What is the purpose of Notification.data in Notifications API?](https://www.reddit.com/r/javascript/comments/zohvh9/askjs_what_is_the_purpose_of_notificationdata_in/)
+- [A fully working, most feature-rich Vue.js terminal emulator. Now with Vue.js 3 support!](https://www.reddit.com/r/javascript/comments/zoaaxv/a_fully_working_most_featurerich_vuejs_terminal/)
+- [Showoff Saturday &lpar;December 17, 2022&rpar;](https://www.reddit.com/r/javascript/comments/zo1epf/showoff_saturday_december_17_2022/)
 - [`react-redux-partitioner` - A simple and performant way to manage Redux state](https://www.reddit.com/r/javascript/comments/znjpw8/reactreduxpartitioner_a_simple_and_performant_way/)
 - [Everything You Need to Know About Concurrent React &lpar;with a little bit of Suspense...&rpar;](https://www.reddit.com/r/javascript/comments/znixfz/everything_you_need_to_know_about_concurrent/)
 - [GitHub - loreanvictor/quel: Imperative Reactive Programming for JavaScript](https://www.reddit.com/r/javascript/comments/zna9h9/github_loreanvictorquel_imperative_reactive/)
 - [CodeImage - A tool to manage and beautify your code screenshots](https://www.reddit.com/r/javascript/comments/zn80ph/codeimage_a_tool_to_manage_and_beautify_your_code/)
 - [Migrating away from Medium to a custom Gatsby website &lpar;React&rpar;](https://www.reddit.com/r/javascript/comments/zmx8w9/migrating_away_from_medium_to_a_custom_gatsby/)
 - [[AskJS] Any &quot;real&quot; &lpar;i.e. non-stupid&rpar; examples of code breaking without semicolons?](https://www.reddit.com/r/javascript/comments/zmt33y/askjs_any_real_ie_nonstupid_examples_of_code/)
-- [ECMAScript proposal: iterator helpers](https://www.reddit.com/r/javascript/comments/zmo5pc/ecmascript_proposal_iterator_helpers/)
-- [Rendering emails with Svelte](https://www.reddit.com/r/javascript/comments/zmnugy/rendering_emails_with_svelte/)
-- [Email or Magic Link Authentication in SolidJS](https://www.reddit.com/r/javascript/comments/zmijyg/email_or_magic_link_authentication_in_solidjs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
