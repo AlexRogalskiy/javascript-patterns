@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Using Cheerio Package SPECIFICALLY](https://www.reddit.com/r/javascript/comments/zpe1gr/askjs_using_cheerio_package_specifically/)
-- [Array Methods in JavaScript](https://www.reddit.com/r/javascript/comments/zp5kwh/array_methods_in_javascript/)
-- [[typia] 15,000x faster validator library and its recent histories &lpar;stories&rpar;](https://www.reddit.com/r/javascript/comments/zp0ztw/typia_15000x_faster_validator_library_and_its/)
-- [[AskJS] Ways to design a generic library that provides its own endpoints](https://www.reddit.com/r/javascript/comments/zp0auk/askjs_ways_to_design_a_generic_library_that/)
-- [CodeQue - VSCode extension allowing for multiline structural search of JavaScript and TypeScript code](https://www.reddit.com/r/javascript/comments/zow7p3/codeque_vscode_extension_allowing_for_multiline/)
-- [[AskJS] What is the purpose of Notification.data in Notifications API?](https://www.reddit.com/r/javascript/comments/zohvh9/askjs_what_is_the_purpose_of_notificationdata_in/)
-- [A fully working, most feature-rich Vue.js terminal emulator. Now with Vue.js 3 support!](https://www.reddit.com/r/javascript/comments/zoaaxv/a_fully_working_most_featurerich_vuejs_terminal/)
-- [Showoff Saturday &lpar;December 17, 2022&rpar;](https://www.reddit.com/r/javascript/comments/zo1epf/showoff_saturday_december_17_2022/)
-- [`react-redux-partitioner` - A simple and performant way to manage Redux state](https://www.reddit.com/r/javascript/comments/znjpw8/reactreduxpartitioner_a_simple_and_performant_way/)
-- [Everything You Need to Know About Concurrent React &lpar;with a little bit of Suspense...&rpar;](https://www.reddit.com/r/javascript/comments/znixfz/everything_you_need_to_know_about_concurrent/)
+- [Open-source playground for creating diagrams with text, written in vanilla HTML/CSS/JS](https://www.reddit.com/r/javascript/comments/zq58yt/opensource_playground_for_creating_diagrams_with/)
+- [Fort.js - A modern progress bar for form completion.](https://www.reddit.com/r/javascript/comments/zq53yl/fortjs_a_modern_progress_bar_for_form_completion/)
+- [[Angular] The Enterprise Monorepo Angular Patterns](https://www.reddit.com/r/javascript/comments/zq4bzo/angular_the_enterprise_monorepo_angular_patterns/)
+- [How to add Storybook and Chromatic to your Angular monorepo](https://www.reddit.com/r/javascript/comments/zq2rtt/how_to_add_storybook_and_chromatic_to_your/)
+- [Exploring Monads with JavaScript - NextRoll](https://www.reddit.com/r/javascript/comments/zq0aqe/exploring_monads_with_javascript_nextroll/)
+- [Head Start With Astro by Doing](https://www.reddit.com/r/javascript/comments/zpxwbj/head_start_with_astro_by_doing/)
+- [Enforce Git Hooks in Monorepos with Husky - But How?](https://www.reddit.com/r/javascript/comments/zpvlvd/enforce_git_hooks_in_monorepos_with_husky_but_how/)
+- [refine - Open-source &lpar;6.4K stars on GitHub&rpar; framework for building CRUD apps like admin panel, internal tools, and dashboards easily.](https://www.reddit.com/r/javascript/comments/zpkjje/refine_opensource_64k_stars_on_github_framework/)
+- [[AskJS] JScript AST Transformation w/ jscodeshift - Any better options?](https://www.reddit.com/r/javascript/comments/zpfp2m/askjs_jscript_ast_transformation_w_jscodeshift/)
+- [Webhooks 101 - How I use Discord Webhooks for personal notifications](https://www.reddit.com/r/javascript/comments/zpfocp/webhooks_101_how_i_use_discord_webhooks_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
