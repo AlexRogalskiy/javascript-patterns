@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A weather.gov forecast app that speaks the forecast for your zip code and does not track you](https://www.reddit.com/r/javascript/comments/zqyjrg/a_weathergov_forecast_app_that_speaks_the/)
+- [Reasons to avoid Javascript CDNs](https://www.reddit.com/r/javascript/comments/zqvqjn/reasons_to_avoid_javascript_cdns/)
+- [Send automatic patch notes to your Discord server on new releases, using GitHub actions](https://www.reddit.com/r/javascript/comments/zqtgeb/send_automatic_patch_notes_to_your_discord_server/)
+- [Canvas Confetti](https://www.reddit.com/r/javascript/comments/zqsbh0/canvas_confetti/)
+- [Free and Open-Source JS Form Builder with native support for Angular rendering. You can install the survey-angular-ui npm package and run surveys, polls, quizzes, and other web forms in your app for free. Follow the getting started link details.](https://www.reddit.com/r/javascript/comments/zqkc9s/free_and_opensource_js_form_builder_with_native/)
 - [Open-source playground for creating diagrams with text, written in vanilla HTML/CSS/JS](https://www.reddit.com/r/javascript/comments/zq58yt/opensource_playground_for_creating_diagrams_with/)
 - [Fort.js - A modern progress bar for form completion.](https://www.reddit.com/r/javascript/comments/zq53yl/fortjs_a_modern_progress_bar_for_form_completion/)
-- [[Angular] The Enterprise Monorepo Angular Patterns](https://www.reddit.com/r/javascript/comments/zq4bzo/angular_the_enterprise_monorepo_angular_patterns/)
 - [How to add Storybook and Chromatic to your Angular monorepo](https://www.reddit.com/r/javascript/comments/zq2rtt/how_to_add_storybook_and_chromatic_to_your/)
 - [Exploring Monads with JavaScript - NextRoll](https://www.reddit.com/r/javascript/comments/zq0aqe/exploring_monads_with_javascript_nextroll/)
 - [Head Start With Astro by Doing](https://www.reddit.com/r/javascript/comments/zpxwbj/head_start_with_astro_by_doing/)
-- [Enforce Git Hooks in Monorepos with Husky - But How?](https://www.reddit.com/r/javascript/comments/zpvlvd/enforce_git_hooks_in_monorepos_with_husky_but_how/)
-- [refine - Open-source &lpar;6.4K stars on GitHub&rpar; framework for building CRUD apps like admin panel, internal tools, and dashboards easily.](https://www.reddit.com/r/javascript/comments/zpkjje/refine_opensource_64k_stars_on_github_framework/)
-- [[AskJS] JScript AST Transformation w/ jscodeshift - Any better options?](https://www.reddit.com/r/javascript/comments/zpfp2m/askjs_jscript_ast_transformation_w_jscodeshift/)
-- [Webhooks 101 - How I use Discord Webhooks for personal notifications](https://www.reddit.com/r/javascript/comments/zpfocp/webhooks_101_how_i_use_discord_webhooks_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
