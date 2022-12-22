@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [A weather.gov forecast app that speaks the forecast for your zip code and does not track you](https://www.reddit.com/r/javascript/comments/zqyjrg/a_weathergov_forecast_app_that_speaks_the/)
-- [Reasons to avoid Javascript CDNs](https://www.reddit.com/r/javascript/comments/zqvqjn/reasons_to_avoid_javascript_cdns/)
-- [Send automatic patch notes to your Discord server on new releases, using GitHub actions](https://www.reddit.com/r/javascript/comments/zqtgeb/send_automatic_patch_notes_to_your_discord_server/)
-- [Canvas Confetti](https://www.reddit.com/r/javascript/comments/zqsbh0/canvas_confetti/)
-- [Free and Open-Source JS Form Builder with native support for Angular rendering. You can install the survey-angular-ui npm package and run surveys, polls, quizzes, and other web forms in your app for free. Follow the getting started link details.](https://www.reddit.com/r/javascript/comments/zqkc9s/free_and_opensource_js_form_builder_with_native/)
-- [Open-source playground for creating diagrams with text, written in vanilla HTML/CSS/JS](https://www.reddit.com/r/javascript/comments/zq58yt/opensource_playground_for_creating_diagrams_with/)
-- [Fort.js - A modern progress bar for form completion.](https://www.reddit.com/r/javascript/comments/zq53yl/fortjs_a_modern_progress_bar_for_form_completion/)
-- [How to add Storybook and Chromatic to your Angular monorepo](https://www.reddit.com/r/javascript/comments/zq2rtt/how_to_add_storybook_and_chromatic_to_your/)
-- [Exploring Monads with JavaScript - NextRoll](https://www.reddit.com/r/javascript/comments/zq0aqe/exploring_monads_with_javascript_nextroll/)
-- [Head Start With Astro by Doing](https://www.reddit.com/r/javascript/comments/zpxwbj/head_start_with_astro_by_doing/)
+- [Simulating Error, Loading, and Empty States with Mock Service Worker &lpar;MSW&rpar;](https://www.reddit.com/r/javascript/comments/zs06az/simulating_error_loading_and_empty_states_with/)
+- [A nice tutorial on how to run JavaScript in VSCode](https://www.reddit.com/r/javascript/comments/zrzb15/a_nice_tutorial_on_how_to_run_javascript_in_vscode/)
+- [[AskJS] Why is there a reputation that JavaScript isn&#39;t &quot;secure&quot; for building web applications?](https://www.reddit.com/r/javascript/comments/zryblu/askjs_why_is_there_a_reputation_that_javascript/)
+- [Pixi3D - a 3D rendering library for the web. It&#39;s built on top of PixiJS &lpar;which is at it&#39;s core, an established 2D rendering library&rpar;. This makes Pixi3D have seamless integration with already existing 2D applications](https://www.reddit.com/r/javascript/comments/zrwzgg/pixi3d_a_3d_rendering_library_for_the_web_its/)
+- [Accessing the Firebase Auth user in SvelteKit server-side](https://www.reddit.com/r/javascript/comments/zrw0ke/accessing_the_firebase_auth_user_in_sveltekit/)
+- [React Log Hook: lightweight &amp; customizable logging hook for your react components lifecycle](https://www.reddit.com/r/javascript/comments/zrt279/react_log_hook_lightweight_customizable_logging/)
+- [A React Developer&#39;s First Take on Solid](https://www.reddit.com/r/javascript/comments/zrsiue/a_react_developers_first_take_on_solid/)
+- [[AskJS] Alternatives to nyc/Istanbul CLI](https://www.reddit.com/r/javascript/comments/zrnt1j/askjs_alternatives_to_nycistanbul_cli/)
+- [Transpilers in web development.](https://www.reddit.com/r/javascript/comments/zrfyhb/transpilers_in_web_development/)
+- [WTF Wednesday &lpar;December 21, 2022&rpar;](https://www.reddit.com/r/javascript/comments/zre3yp/wtf_wednesday_december_21_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
