@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Simulating Error, Loading, and Empty States with Mock Service Worker &lpar;MSW&rpar;](https://www.reddit.com/r/javascript/comments/zs06az/simulating_error_loading_and_empty_states_with/)
-- [A nice tutorial on how to run JavaScript in VSCode](https://www.reddit.com/r/javascript/comments/zrzb15/a_nice_tutorial_on_how_to_run_javascript_in_vscode/)
-- [[AskJS] Why is there a reputation that JavaScript isn&#39;t &quot;secure&quot; for building web applications?](https://www.reddit.com/r/javascript/comments/zryblu/askjs_why_is_there_a_reputation_that_javascript/)
-- [Pixi3D - a 3D rendering library for the web. It&#39;s built on top of PixiJS &lpar;which is at it&#39;s core, an established 2D rendering library&rpar;. This makes Pixi3D have seamless integration with already existing 2D applications](https://www.reddit.com/r/javascript/comments/zrwzgg/pixi3d_a_3d_rendering_library_for_the_web_its/)
-- [Accessing the Firebase Auth user in SvelteKit server-side](https://www.reddit.com/r/javascript/comments/zrw0ke/accessing_the_firebase_auth_user_in_sveltekit/)
-- [React Log Hook: lightweight &amp; customizable logging hook for your react components lifecycle](https://www.reddit.com/r/javascript/comments/zrt279/react_log_hook_lightweight_customizable_logging/)
-- [A React Developer&#39;s First Take on Solid](https://www.reddit.com/r/javascript/comments/zrsiue/a_react_developers_first_take_on_solid/)
-- [[AskJS] Alternatives to nyc/Istanbul CLI](https://www.reddit.com/r/javascript/comments/zrnt1j/askjs_alternatives_to_nycistanbul_cli/)
-- [Transpilers in web development.](https://www.reddit.com/r/javascript/comments/zrfyhb/transpilers_in_web_development/)
-- [WTF Wednesday &lpar;December 21, 2022&rpar;](https://www.reddit.com/r/javascript/comments/zre3yp/wtf_wednesday_december_21_2022/)
+- [With new Next.js@13.1 we can remove usage of next-transpile-modules.](https://www.reddit.com/r/javascript/comments/zszaau/with_new_nextjs131_we_can_remove_usage_of/)
+- [Graphjin.js - An easy-to-use, zero dependency Node.js library to build APIs quickly](https://www.reddit.com/r/javascript/comments/zsz2c9/graphjinjs_an_easytouse_zero_dependency_nodejs/)
+- [&quot;Static HTML&quot; reactivity without Virtual DOM! Test reactive functional. What do you think about this functionality?](https://www.reddit.com/r/javascript/comments/zsvk4t/static_html_reactivity_without_virtual_dom_test/)
+- [[AskJS] Any artists, musicians, writers, creatives, etc, here? Have you found any interesting ways to use javascript in your work?](https://www.reddit.com/r/javascript/comments/zsuvid/askjs_any_artists_musicians_writers_creatives_etc/)
+- [Vanus: An open-source message queue that natively supports the CloudEvents protocol](https://www.reddit.com/r/javascript/comments/zsp1c6/vanus_an_opensource_message_queue_that_natively/)
+- [Hellishly fast and tiny async/sync event emitter](https://www.reddit.com/r/javascript/comments/zsmyq2/hellishly_fast_and_tiny_asyncsync_event_emitter/)
+- [Three different behaviours. Which one is correct?](https://www.reddit.com/r/javascript/comments/zsmtuj/three_different_behaviours_which_one_is_correct/)
+- [symphonia.js - An easy-to-use, cross-platform, zero dependency Node.js audio playblack library](https://www.reddit.com/r/javascript/comments/zsi97b/symphoniajs_an_easytouse_crossplatform_zero/)
+- [How To Split a Monolith Into Microservices with Jitar](https://www.reddit.com/r/javascript/comments/zsgm58/how_to_split_a_monolith_into_microservices_with/)
+- [Avoid using enums in Typescript](https://www.reddit.com/r/javascript/comments/zsf541/avoid_using_enums_in_typescript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
