@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Nextjs and Trpc](https://www.reddit.com/r/javascript/comments/zumiov/askjs_nextjs_and_trpc/)
+- [Custom Santa Letter Generator built w/ VueJS](https://www.reddit.com/r/javascript/comments/zuks06/custom_santa_letter_generator_built_w_vuejs/)
+- [[AskJS] Are codedamn.com courses good?](https://www.reddit.com/r/javascript/comments/zua7xm/askjs_are_codedamncom_courses_good/)
+- [Showoff Saturday &lpar;December 24, 2022&rpar;](https://www.reddit.com/r/javascript/comments/zu53pn/showoff_saturday_december_24_2022/)
+- [Just learnt about Scheduler API. Looks like a fine grained control to manage long running tasks](https://www.reddit.com/r/javascript/comments/zu473n/just_learnt_about_scheduler_api_looks_like_a_fine/)
+- [nightfall-thevoidsdescent](https://www.reddit.com/r/javascript/comments/zu12as/nightfallthevoidsdescent/)
 - [Open Source Webhooks as a Service](https://www.reddit.com/r/javascript/comments/ztolh1/open_source_webhooks_as_a_service/)
 - [ReactJs vs. Angular in 2023. A Senior Fullstack Developer perspective](https://www.reddit.com/r/javascript/comments/zthbvq/reactjs_vs_angular_in_2023_a_senior_fullstack/)
-- [tsParticles 2.7.0 Released - new Sounds plugin, and other new features](https://www.reddit.com/r/javascript/comments/ztf45p/tsparticles_270_released_new_sounds_plugin_and/)
 - [next-transpile-modules - The End.](https://www.reddit.com/r/javascript/comments/ztafz1/nexttranspilemodules_the_end/)
 - [With new Next.js@13.1 we can remove usage of next-transpile-modules.](https://www.reddit.com/r/javascript/comments/zszaau/with_new_nextjs131_we_can_remove_usage_of/)
-- [Graphjin.js - An easy-to-use, zero dependency Node.js library to build APIs quickly](https://www.reddit.com/r/javascript/comments/zsz2c9/graphjinjs_an_easytouse_zero_dependency_nodejs/)
-- [&quot;Static HTML&quot; reactivity without Virtual DOM! Test reactive functional. What do you think about this functionality?](https://www.reddit.com/r/javascript/comments/zsvk4t/static_html_reactivity_without_virtual_dom_test/)
-- [[AskJS] Any artists, musicians, writers, creatives, etc, here? Have you found any interesting ways to use javascript in your work?](https://www.reddit.com/r/javascript/comments/zsuvid/askjs_any_artists_musicians_writers_creatives_etc/)
-- [Vanus: An open-source message queue that natively supports the CloudEvents protocol](https://www.reddit.com/r/javascript/comments/zsp1c6/vanus_an_opensource_message_queue_that_natively/)
-- [Hellishly fast and tiny async/sync event emitter](https://www.reddit.com/r/javascript/comments/zsmyq2/hellishly_fast_and_tiny_asyncsync_event_emitter/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
