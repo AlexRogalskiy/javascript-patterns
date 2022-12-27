@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [checkout the tool i just made for looking up default browser shortcuts. In case you want to add a shortcut in your project. might be useful.](https://www.reddit.com/r/javascript/comments/zvcbtl/checkout_the_tool_i_just_made_for_looking_up/)
+- [Hey y&#39;all, because Spotify has a presence but YouTube didn&#39;t, I made a Chrome Extension that displays a detailed Discord rich presence for YouTube!](https://www.reddit.com/r/javascript/comments/zw1mfj/hey_yall_because_spotify_has_a_presence_but/)
+- [Using inline JavaScript modules to prevent CSS blockage](https://www.reddit.com/r/javascript/comments/zvwpyi/using_inline_javascript_modules_to_prevent_css/)
+- [When I Actually Needed useLayoutEffect&lpar;&rpar; in React](https://www.reddit.com/r/javascript/comments/zvwiks/when_i_actually_needed_uselayouteffect_in_react/)
+- [Master Notifications With ChatGPT, React and NodeJS](https://www.reddit.com/r/javascript/comments/zvqyz6/master_notifications_with_chatgpt_react_and_nodejs/)
+- [I built a MacOS Clone!](https://www.reddit.com/r/javascript/comments/zvplvn/i_built_a_macos_clone/)
+- [I ve made a simple js plugin that gets avarage color of video &amp; image](https://www.reddit.com/r/javascript/comments/zvmqz3/i_ve_made_a_simple_js_plugin_that_gets_avarage/)
+- [Your /r/javascript recap for the week of December 19 - December 25](https://www.reddit.com/r/javascript/comments/zvk54y/your_rjavascript_recap_for_the_week_of_december/)
 - [[AskJS] What are the worst case scenarios for programmatically setting arbitrary Web pages &lpar;Origins&rpar; as Client or WindowClient of a ServiceWorker?](https://www.reddit.com/r/javascript/comments/zv4v4e/askjs_what_are_the_worst_case_scenarios_for/)
 - [Migrate a 60k LOC TypeScript &lpar;NodeJS&rpar; repo to ESM and testing become 4x faster](https://www.reddit.com/r/javascript/comments/zv1vzw/migrate_a_60k_loc_typescript_nodejs_repo_to_esm/)
 - [All I Want For Christmas Is JS](https://www.reddit.com/r/javascript/comments/zv04ge/all_i_want_for_christmas_is_js/)
-- [How I fetch and display social media replies as blog coments](https://www.reddit.com/r/javascript/comments/zuvuou/how_i_fetch_and_display_social_media_replies_as/)
-- [Showoff Saturday &lpar;December 24, 2022&rpar;](https://www.reddit.com/r/javascript/comments/zu53pn/showoff_saturday_december_24_2022/)
-- [Just learnt about Scheduler API. Looks like a fine grained control to manage long running tasks](https://www.reddit.com/r/javascript/comments/zu473n/just_learnt_about_scheduler_api_looks_like_a_fine/)
-- [nightfall-thevoidsdescent](https://www.reddit.com/r/javascript/comments/zu12as/nightfallthevoidsdescent/)
-- [Open Source Webhooks as a Service](https://www.reddit.com/r/javascript/comments/ztolh1/open_source_webhooks_as_a_service/)
-- [ReactJs vs. Angular in 2023. A Senior Fullstack Developer perspective](https://www.reddit.com/r/javascript/comments/zthbvq/reactjs_vs_angular_in_2023_a_senior_fullstack/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
