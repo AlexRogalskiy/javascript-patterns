@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] A series on building a real-time web sockets based application with NestJS and React](https://www.reddit.com/r/javascript/comments/zxnwip/askjs_a_series_on_building_a_realtime_web_sockets/)
+- [[AskJS] Cleaning Up HTML String in JS](https://www.reddit.com/r/javascript/comments/zxi1he/askjs_cleaning_up_html_string_in_js/)
+- [Dittytoy - Create your generative music online using a simple Javascript API](https://www.reddit.com/r/javascript/comments/zxgsx4/dittytoy_create_your_generative_music_online/)
+- [[AskJS] Methods to sync client-side store with server?](https://www.reddit.com/r/javascript/comments/zxfjsg/askjs_methods_to_sync_clientside_store_with_server/)
+- [Orb, the free and open source web desktop](https://www.reddit.com/r/javascript/comments/zxfed3/orb_the_free_and_open_source_web_desktop/)
+- [Small holiday project: Render webcam data as Emoji realtime](https://www.reddit.com/r/javascript/comments/zxc0ur/small_holiday_project_render_webcam_data_as_emoji/)
+- [learning to be a front-end developer. just for myself i made a little game. please check it out if you&#39;d like! more info in the comments](https://www.reddit.com/r/javascript/comments/zx9g0c/learning_to_be_a_frontend_developer_just_for/)
+- [WTF Wednesday &lpar;December 28, 2022&rpar;](https://www.reddit.com/r/javascript/comments/zx3zko/wtf_wednesday_december_28_2022/)
+- [Nx 15.4 - Vite 4 Support, a new Nx Watch Command, and more!](https://www.reddit.com/r/javascript/comments/zx3z9l/nx_154_vite_4_support_a_new_nx_watch_command_and/)
 - [My year in review - 2022 edition](https://www.reddit.com/r/javascript/comments/zwjeyb/my_year_in_review_2022_edition/)
-- [Neutralinojs 2023 Roadmap](https://www.reddit.com/r/javascript/comments/zwdvml/neutralinojs_2023_roadmap/)
-- [Open-source Ecommerce platform built with Node.js and React.](https://www.reddit.com/r/javascript/comments/zwd45s/opensource_ecommerce_platform_built_with_nodejs/)
-- [Introducing Superdiff: compare objects and arrays with readable diffs](https://www.reddit.com/r/javascript/comments/zwc2lj/introducing_superdiff_compare_objects_and_arrays/)
-- [Hey y&#39;all, because Spotify has a presence but YouTube didn&#39;t, I made a Chrome Extension that displays a detailed Discord rich presence for YouTube!](https://www.reddit.com/r/javascript/comments/zw1mfj/hey_yall_because_spotify_has_a_presence_but/)
-- [Using inline JavaScript modules to prevent CSS blockage](https://www.reddit.com/r/javascript/comments/zvwpyi/using_inline_javascript_modules_to_prevent_css/)
-- [When I Actually Needed useLayoutEffect&lpar;&rpar; in React](https://www.reddit.com/r/javascript/comments/zvwiks/when_i_actually_needed_uselayouteffect_in_react/)
-- [Master Notifications With ChatGPT, React and NodeJS](https://www.reddit.com/r/javascript/comments/zvqyz6/master_notifications_with_chatgpt_react_and_nodejs/)
-- [I built a MacOS Clone!](https://www.reddit.com/r/javascript/comments/zvplvn/i_built_a_macos_clone/)
-- [I ve made a simple js plugin that gets avarage color of video &amp; image](https://www.reddit.com/r/javascript/comments/zvmqz3/i_ve_made_a_simple_js_plugin_that_gets_avarage/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
