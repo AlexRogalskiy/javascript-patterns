@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] A series on building a real-time web sockets based application with NestJS and React](https://www.reddit.com/r/javascript/comments/zxnwip/askjs_a_series_on_building_a_realtime_web_sockets/)
+- [Announcing Hyper Fetch 3.0](https://www.reddit.com/r/javascript/comments/zylwuh/announcing_hyper_fetch_30/)
+- [JavaScript Frameworks - Heading into 2023](https://www.reddit.com/r/javascript/comments/zyfmwn/javascript_frameworks_heading_into_2023/)
+- [A slightly opinionated, starter kit for developing Next.js - Apollo GraphQL - Joy UI apps](https://www.reddit.com/r/javascript/comments/zyflzd/a_slightly_opinionated_starter_kit_for_developing/)
+- [Flowchart editor dgrm.net / I halved the source code](https://www.reddit.com/r/javascript/comments/zy7hzs/flowchart_editor_dgrmnet_i_halved_the_source_code/)
 - [[AskJS] Cleaning Up HTML String in JS](https://www.reddit.com/r/javascript/comments/zxi1he/askjs_cleaning_up_html_string_in_js/)
 - [Dittytoy - Create your generative music online using a simple Javascript API](https://www.reddit.com/r/javascript/comments/zxgsx4/dittytoy_create_your_generative_music_online/)
 - [[AskJS] Methods to sync client-side store with server?](https://www.reddit.com/r/javascript/comments/zxfjsg/askjs_methods_to_sync_clientside_store_with_server/)
 - [Orb, the free and open source web desktop](https://www.reddit.com/r/javascript/comments/zxfed3/orb_the_free_and_open_source_web_desktop/)
 - [Small holiday project: Render webcam data as Emoji realtime](https://www.reddit.com/r/javascript/comments/zxc0ur/small_holiday_project_render_webcam_data_as_emoji/)
 - [learning to be a front-end developer. just for myself i made a little game. please check it out if you&#39;d like! more info in the comments](https://www.reddit.com/r/javascript/comments/zx9g0c/learning_to_be_a_frontend_developer_just_for/)
-- [WTF Wednesday &lpar;December 28, 2022&rpar;](https://www.reddit.com/r/javascript/comments/zx3zko/wtf_wednesday_december_28_2022/)
-- [Nx 15.4 - Vite 4 Support, a new Nx Watch Command, and more!](https://www.reddit.com/r/javascript/comments/zx3z9l/nx_154_vite_4_support_a_new_nx_watch_command_and/)
-- [My year in review - 2022 edition](https://www.reddit.com/r/javascript/comments/zwjeyb/my_year_in_review_2022_edition/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
