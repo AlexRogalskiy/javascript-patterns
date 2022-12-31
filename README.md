@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Ace-Editor-Web-Component: A web-component to add code editors to your web page powered via Ace Editor](https://www.reddit.com/r/javascript/comments/zzghub/aceeditorwebcomponent_a_webcomponent_to_add_code/)
+- [Simplifying React Three Fiber with Entity Component System](https://www.reddit.com/r/javascript/comments/zzghpj/simplifying_react_three_fiber_with_entity/)
+- [How to Record Audio from a Web Browser](https://www.reddit.com/r/javascript/comments/zz8bnj/how_to_record_audio_from_a_web_browser/)
+- [The Role of Mocks and Spies in Unit Testing](https://www.reddit.com/r/javascript/comments/zz2qhk/the_role_of_mocks_and_spies_in_unit_testing/)
+- [[AskJS] Where I can save a lot of files for my electron.js project?](https://www.reddit.com/r/javascript/comments/zywpwk/askjs_where_i_can_save_a_lot_of_files_for_my/)
+- [Adding JPEG XL &amp; QOI Support to my Website OS](https://www.reddit.com/r/javascript/comments/zyu0xo/adding_jpeg_xl_qoi_support_to_my_website_os/)
 - [Announcing Hyper Fetch 3.0](https://www.reddit.com/r/javascript/comments/zylwuh/announcing_hyper_fetch_30/)
 - [JavaScript Frameworks - Heading into 2023](https://www.reddit.com/r/javascript/comments/zyfmwn/javascript_frameworks_heading_into_2023/)
 - [A slightly opinionated, starter kit for developing Next.js - Apollo GraphQL - Joy UI apps](https://www.reddit.com/r/javascript/comments/zyflzd/a_slightly_opinionated_starter_kit_for_developing/)
 - [Flowchart editor dgrm.net / I halved the source code](https://www.reddit.com/r/javascript/comments/zy7hzs/flowchart_editor_dgrmnet_i_halved_the_source_code/)
-- [[AskJS] Cleaning Up HTML String in JS](https://www.reddit.com/r/javascript/comments/zxi1he/askjs_cleaning_up_html_string_in_js/)
-- [Dittytoy - Create your generative music online using a simple Javascript API](https://www.reddit.com/r/javascript/comments/zxgsx4/dittytoy_create_your_generative_music_online/)
-- [[AskJS] Methods to sync client-side store with server?](https://www.reddit.com/r/javascript/comments/zxfjsg/askjs_methods_to_sync_clientside_store_with_server/)
-- [Orb, the free and open source web desktop](https://www.reddit.com/r/javascript/comments/zxfed3/orb_the_free_and_open_source_web_desktop/)
-- [Small holiday project: Render webcam data as Emoji realtime](https://www.reddit.com/r/javascript/comments/zxc0ur/small_holiday_project_render_webcam_data_as_emoji/)
-- [learning to be a front-end developer. just for myself i made a little game. please check it out if you&#39;d like! more info in the comments](https://www.reddit.com/r/javascript/comments/zx9g0c/learning_to_be_a_frontend_developer_just_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
