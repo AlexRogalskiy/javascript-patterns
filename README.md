@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Fellow humans, it is 2023-01-01T00:00:00+00:00.](https://www.reddit.com/r/javascript/comments/10073zo/fellow_humans_it_is_20230101t0000000000/)
+- [Draw SVG rope using JavaScript](https://www.reddit.com/r/javascript/comments/1000opn/draw_svg_rope_using_javascript/)
+- [Audio Visualizer using JavaScript Audio APIs](https://www.reddit.com/r/javascript/comments/zzzbxp/audio_visualizer_using_javascript_audio_apis/)
+- [Minimal password manager](https://www.reddit.com/r/javascript/comments/zzvmcd/minimal_password_manager/)
+- [Showoff Saturday &lpar;December 31, 2022&rpar;](https://www.reddit.com/r/javascript/comments/zzoy3y/showoff_saturday_december_31_2022/)
+- [Web Scraping Google Autocomplete Keywords](https://www.reddit.com/r/javascript/comments/zzo4vz/web_scraping_google_autocomplete_keywords/)
+- [Tamagui 1.0 – Cross-platform React apps in less time, with better performance](https://www.reddit.com/r/javascript/comments/zzmkn8/tamagui_10_crossplatform_react_apps_in_less_time/)
 - [Ace-Editor-Web-Component: A web-component to add code editors to your web page powered via Ace Editor](https://www.reddit.com/r/javascript/comments/zzghub/aceeditorwebcomponent_a_webcomponent_to_add_code/)
 - [Simplifying React Three Fiber with Entity Component System](https://www.reddit.com/r/javascript/comments/zzghpj/simplifying_react_three_fiber_with_entity/)
 - [How to Record Audio from a Web Browser](https://www.reddit.com/r/javascript/comments/zz8bnj/how_to_record_audio_from_a_web_browser/)
-- [The Role of Mocks and Spies in Unit Testing](https://www.reddit.com/r/javascript/comments/zz2qhk/the_role_of_mocks_and_spies_in_unit_testing/)
-- [[AskJS] Where I can save a lot of files for my electron.js project?](https://www.reddit.com/r/javascript/comments/zywpwk/askjs_where_i_can_save_a_lot_of_files_for_my/)
-- [Adding JPEG XL &amp; QOI Support to my Website OS](https://www.reddit.com/r/javascript/comments/zyu0xo/adding_jpeg_xl_qoi_support_to_my_website_os/)
-- [Announcing Hyper Fetch 3.0](https://www.reddit.com/r/javascript/comments/zylwuh/announcing_hyper_fetch_30/)
-- [JavaScript Frameworks - Heading into 2023](https://www.reddit.com/r/javascript/comments/zyfmwn/javascript_frameworks_heading_into_2023/)
-- [A slightly opinionated, starter kit for developing Next.js - Apollo GraphQL - Joy UI apps](https://www.reddit.com/r/javascript/comments/zyflzd/a_slightly_opinionated_starter_kit_for_developing/)
-- [Flowchart editor dgrm.net / I halved the source code](https://www.reddit.com/r/javascript/comments/zy7hzs/flowchart_editor_dgrmnet_i_halved_the_source_code/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
