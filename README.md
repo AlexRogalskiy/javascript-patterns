@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Monorepos vs Multirepos: A Comprehensive Comparison](https://www.reddit.com/r/javascript/comments/100y0x7/monorepos_vs_multirepos_a_comprehensive_comparison/)
+- [The JavaScript projects I will be watching through 2023](https://www.reddit.com/r/javascript/comments/100qkyj/the_javascript_projects_i_will_be_watching/)
+- [guarded-components, a package for protecting/hiding pages or components in react through contracts](https://www.reddit.com/r/javascript/comments/100qjil/guardedcomponents_a_package_for_protectinghiding/)
+- [GitHub - unadlib/mutative: Efficient immutable updates, 10x faster than Immer by default, even faster than naive handcrafted reducer.](https://www.reddit.com/r/javascript/comments/100gsnx/github_unadlibmutative_efficient_immutable/)
+- [Creating a Game using Vite, BabylonJS, and TypeScript Part One: A Basic Scene with Objects, a Light, and a Camera](https://www.reddit.com/r/javascript/comments/100efq2/creating_a_game_using_vite_babylonjs_and/)
 - [Fellow humans, it is 2023-01-01T00:00:00+00:00.](https://www.reddit.com/r/javascript/comments/10073zo/fellow_humans_it_is_20230101t0000000000/)
 - [Draw SVG rope using JavaScript](https://www.reddit.com/r/javascript/comments/1000opn/draw_svg_rope_using_javascript/)
 - [Audio Visualizer using JavaScript Audio APIs](https://www.reddit.com/r/javascript/comments/zzzbxp/audio_visualizer_using_javascript_audio_apis/)
 - [Minimal password manager](https://www.reddit.com/r/javascript/comments/zzvmcd/minimal_password_manager/)
 - [Showoff Saturday &lpar;December 31, 2022&rpar;](https://www.reddit.com/r/javascript/comments/zzoy3y/showoff_saturday_december_31_2022/)
-- [Web Scraping Google Autocomplete Keywords](https://www.reddit.com/r/javascript/comments/zzo4vz/web_scraping_google_autocomplete_keywords/)
-- [Tamagui 1.0 – Cross-platform React apps in less time, with better performance](https://www.reddit.com/r/javascript/comments/zzmkn8/tamagui_10_crossplatform_react_apps_in_less_time/)
-- [Ace-Editor-Web-Component: A web-component to add code editors to your web page powered via Ace Editor](https://www.reddit.com/r/javascript/comments/zzghub/aceeditorwebcomponent_a_webcomponent_to_add_code/)
-- [Simplifying React Three Fiber with Entity Component System](https://www.reddit.com/r/javascript/comments/zzghpj/simplifying_react_three_fiber_with_entity/)
-- [How to Record Audio from a Web Browser](https://www.reddit.com/r/javascript/comments/zz8bnj/how_to_record_audio_from_a_web_browser/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
