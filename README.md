@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [LeanBoard - a simple and life-like collaborative local-first infinite board](https://www.reddit.com/r/javascript/comments/101q12m/leanboard_a_simple_and_lifelike_collaborative/)
+- [I built a GitHub Action that read your CHANGELOG file and let you play with its data in GitHub workflows](https://www.reddit.com/r/javascript/comments/101memi/i_built_a_github_action_that_read_your_changelog/)
+- [I made a series of articles explaining how to create a single page application in vanilla JavaScript.](https://www.reddit.com/r/javascript/comments/101hs6w/i_made_a_series_of_articles_explaining_how_to/)
+- [Minze is a dead-simple JS framework for native web components](https://www.reddit.com/r/javascript/comments/101aftm/minze_is_a_deadsimple_js_framework_for_native_web/)
+- [All-in-JS Auth Solution Logto Released a New Version with Web Hook and OAuth Connector](https://www.reddit.com/r/javascript/comments/1019hnp/allinjs_auth_solution_logto_released_a_new/)
+- [Complex inline scripts in package.json becoming unmaintainable? I have built a nice little package for building dev, build, deployment, etc flows in Javascript or Typescript. I would love some feedback.](https://www.reddit.com/r/javascript/comments/1016gq4/complex_inline_scripts_in_packagejson_becoming/)
 - [Monorepos vs Multirepos: A Comprehensive Comparison](https://www.reddit.com/r/javascript/comments/100y0x7/monorepos_vs_multirepos_a_comprehensive_comparison/)
 - [The JavaScript projects I will be watching through 2023](https://www.reddit.com/r/javascript/comments/100qkyj/the_javascript_projects_i_will_be_watching/)
 - [guarded-components, a package for protecting/hiding pages or components in react through contracts](https://www.reddit.com/r/javascript/comments/100qjil/guardedcomponents_a_package_for_protectinghiding/)
 - [GitHub - unadlib/mutative: Efficient immutable updates, 10x faster than Immer by default, even faster than naive handcrafted reducer.](https://www.reddit.com/r/javascript/comments/100gsnx/github_unadlibmutative_efficient_immutable/)
-- [Creating a Game using Vite, BabylonJS, and TypeScript Part One: A Basic Scene with Objects, a Light, and a Camera](https://www.reddit.com/r/javascript/comments/100efq2/creating_a_game_using_vite_babylonjs_and/)
-- [Fellow humans, it is 2023-01-01T00:00:00+00:00.](https://www.reddit.com/r/javascript/comments/10073zo/fellow_humans_it_is_20230101t0000000000/)
-- [Draw SVG rope using JavaScript](https://www.reddit.com/r/javascript/comments/1000opn/draw_svg_rope_using_javascript/)
-- [Audio Visualizer using JavaScript Audio APIs](https://www.reddit.com/r/javascript/comments/zzzbxp/audio_visualizer_using_javascript_audio_apis/)
-- [Minimal password manager](https://www.reddit.com/r/javascript/comments/zzvmcd/minimal_password_manager/)
-- [Showoff Saturday &lpar;December 31, 2022&rpar;](https://www.reddit.com/r/javascript/comments/zzoy3y/showoff_saturday_december_31_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
