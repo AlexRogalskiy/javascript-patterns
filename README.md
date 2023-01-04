@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [LeanBoard - a simple and life-like collaborative local-first infinite board](https://www.reddit.com/r/javascript/comments/101q12m/leanboard_a_simple_and_lifelike_collaborative/)
-- [I built a GitHub Action that read your CHANGELOG file and let you play with its data in GitHub workflows](https://www.reddit.com/r/javascript/comments/101memi/i_built_a_github_action_that_read_your_changelog/)
-- [I made a series of articles explaining how to create a single page application in vanilla JavaScript.](https://www.reddit.com/r/javascript/comments/101hs6w/i_made_a_series_of_articles_explaining_how_to/)
-- [Minze is a dead-simple JS framework for native web components](https://www.reddit.com/r/javascript/comments/101aftm/minze_is_a_deadsimple_js_framework_for_native_web/)
-- [All-in-JS Auth Solution Logto Released a New Version with Web Hook and OAuth Connector](https://www.reddit.com/r/javascript/comments/1019hnp/allinjs_auth_solution_logto_released_a_new/)
-- [Complex inline scripts in package.json becoming unmaintainable? I have built a nice little package for building dev, build, deployment, etc flows in Javascript or Typescript. I would love some feedback.](https://www.reddit.com/r/javascript/comments/1016gq4/complex_inline_scripts_in_packagejson_becoming/)
-- [Monorepos vs Multirepos: A Comprehensive Comparison](https://www.reddit.com/r/javascript/comments/100y0x7/monorepos_vs_multirepos_a_comprehensive_comparison/)
-- [The JavaScript projects I will be watching through 2023](https://www.reddit.com/r/javascript/comments/100qkyj/the_javascript_projects_i_will_be_watching/)
-- [guarded-components, a package for protecting/hiding pages or components in react through contracts](https://www.reddit.com/r/javascript/comments/100qjil/guardedcomponents_a_package_for_protectinghiding/)
-- [GitHub - unadlib/mutative: Efficient immutable updates, 10x faster than Immer by default, even faster than naive handcrafted reducer.](https://www.reddit.com/r/javascript/comments/100gsnx/github_unadlibmutative_efficient_immutable/)
+- [Transform gist into your personal key/value datastore.](https://www.reddit.com/r/javascript/comments/102n463/transform_gist_into_your_personal_keyvalue/)
+- [Transform gist into your personal key/value data store.](https://www.reddit.com/r/javascript/comments/102n2d0/transform_gist_into_your_personal_keyvalue_data/)
+- [Unit Testing Made Easy with NestJS](https://www.reddit.com/r/javascript/comments/102jafu/unit_testing_made_easy_with_nestjs/)
+- [I published a beautiful gradient generation library &lpar;seeded&rpar;](https://www.reddit.com/r/javascript/comments/102bwno/i_published_a_beautiful_gradient_generation/)
+- [Vue.js 2022 Year In Review and what to expect in 2023](https://www.reddit.com/r/javascript/comments/102brhc/vuejs_2022_year_in_review_and_what_to_expect_in/)
+- [Compress An Image Before Upload With JavaScript](https://www.reddit.com/r/javascript/comments/102anrr/compress_an_image_before_upload_with_javascript/)
+- [Structuring a React Project for Scalability](https://www.reddit.com/r/javascript/comments/102aaoy/structuring_a_react_project_for_scalability/)
+- [Ajv JSON schema validator v8.12.0 is released – improves support for JSON Type Definition &lpar;RFC8927&rpar;.](https://www.reddit.com/r/javascript/comments/1029qat/ajv_json_schema_validator_v8120_is_released/)
+- [tmpl-followup - Follow your template repo for changes](https://www.reddit.com/r/javascript/comments/1029gkl/tmplfollowup_follow_your_template_repo_for_changes/)
+- [Draw SVG rope using JavaScript](https://www.reddit.com/r/javascript/comments/10294vf/draw_svg_rope_using_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
