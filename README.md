@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] How well received was React&#39;s transition from class to function based components?](https://www.reddit.com/r/javascript/comments/103lcpi/askjs_how_well_received_was_reacts_transition/)
+- [Part Two Creating a Game using Vite, BabylonJS, and TypeScript: The World, the Player, and a Following Camera](https://www.reddit.com/r/javascript/comments/103hxq2/part_two_creating_a_game_using_vite_babylonjs_and/)
+- [A code mod to replace Immutable.js with Ramda](https://www.reddit.com/r/javascript/comments/1036bkz/a_code_mod_to_replace_immutablejs_with_ramda/)
+- [I have created an open source Discord bot with JavaScript. I&#39;m looking for help from open source contributors from any experience level &lpar;beginner to expert&rpar;.](https://www.reddit.com/r/javascript/comments/102y1ap/i_have_created_an_open_source_discord_bot_with/)
+- [WTF Wednesday &lpar;January 04, 2023&rpar;](https://www.reddit.com/r/javascript/comments/102xrlr/wtf_wednesday_january_04_2023/)
 - [Transform gist into your personal key/value datastore.](https://www.reddit.com/r/javascript/comments/102n463/transform_gist_into_your_personal_keyvalue/)
-- [Transform gist into your personal key/value data store.](https://www.reddit.com/r/javascript/comments/102n2d0/transform_gist_into_your_personal_keyvalue_data/)
 - [Unit Testing Made Easy with NestJS](https://www.reddit.com/r/javascript/comments/102jafu/unit_testing_made_easy_with_nestjs/)
 - [I published a beautiful gradient generation library &lpar;seeded&rpar;](https://www.reddit.com/r/javascript/comments/102bwno/i_published_a_beautiful_gradient_generation/)
 - [Vue.js 2022 Year In Review and what to expect in 2023](https://www.reddit.com/r/javascript/comments/102brhc/vuejs_2022_year_in_review_and_what_to_expect_in/)
 - [Compress An Image Before Upload With JavaScript](https://www.reddit.com/r/javascript/comments/102anrr/compress_an_image_before_upload_with_javascript/)
-- [Structuring a React Project for Scalability](https://www.reddit.com/r/javascript/comments/102aaoy/structuring_a_react_project_for_scalability/)
-- [Ajv JSON schema validator v8.12.0 is released – improves support for JSON Type Definition &lpar;RFC8927&rpar;.](https://www.reddit.com/r/javascript/comments/1029qat/ajv_json_schema_validator_v8120_is_released/)
-- [tmpl-followup - Follow your template repo for changes](https://www.reddit.com/r/javascript/comments/1029gkl/tmplfollowup_follow_your_template_repo_for_changes/)
-- [Draw SVG rope using JavaScript](https://www.reddit.com/r/javascript/comments/10294vf/draw_svg_rope_using_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
