@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] How well received was React&#39;s transition from class to function based components?](https://www.reddit.com/r/javascript/comments/103lcpi/askjs_how_well_received_was_reacts_transition/)
-- [Part Two Creating a Game using Vite, BabylonJS, and TypeScript: The World, the Player, and a Following Camera](https://www.reddit.com/r/javascript/comments/103hxq2/part_two_creating_a_game_using_vite_babylonjs_and/)
-- [A code mod to replace Immutable.js with Ramda](https://www.reddit.com/r/javascript/comments/1036bkz/a_code_mod_to_replace_immutablejs_with_ramda/)
-- [I have created an open source Discord bot with JavaScript. I&#39;m looking for help from open source contributors from any experience level &lpar;beginner to expert&rpar;.](https://www.reddit.com/r/javascript/comments/102y1ap/i_have_created_an_open_source_discord_bot_with/)
-- [WTF Wednesday &lpar;January 04, 2023&rpar;](https://www.reddit.com/r/javascript/comments/102xrlr/wtf_wednesday_january_04_2023/)
-- [Transform gist into your personal key/value datastore.](https://www.reddit.com/r/javascript/comments/102n463/transform_gist_into_your_personal_keyvalue/)
-- [Unit Testing Made Easy with NestJS](https://www.reddit.com/r/javascript/comments/102jafu/unit_testing_made_easy_with_nestjs/)
-- [I published a beautiful gradient generation library &lpar;seeded&rpar;](https://www.reddit.com/r/javascript/comments/102bwno/i_published_a_beautiful_gradient_generation/)
-- [Vue.js 2022 Year In Review and what to expect in 2023](https://www.reddit.com/r/javascript/comments/102brhc/vuejs_2022_year_in_review_and_what_to_expect_in/)
-- [Compress An Image Before Upload With JavaScript](https://www.reddit.com/r/javascript/comments/102anrr/compress_an_image_before_upload_with_javascript/)
+- [Interview w/ Francois Wouts, the author of Preview.js!!!](https://www.reddit.com/r/javascript/comments/104etw5/interview_w_francois_wouts_the_author_of_previewjs/)
+- [[AskJS] What do you think about Angular today?](https://www.reddit.com/r/javascript/comments/1047q93/askjs_what_do_you_think_about_angular_today/)
+- [Future of Storybook in 2023](https://www.reddit.com/r/javascript/comments/1044m7p/future_of_storybook_in_2023/)
+- [Built an ecommerce store with Next.js and an open source ecommerce backend](https://www.reddit.com/r/javascript/comments/1042y7l/built_an_ecommerce_store_with_nextjs_and_an_open/)
+- [HTML-to-Markdown converter that adaptively preserve HTML when needed &lpar;eg. when center-aligning, or resizing images&rpar;](https://www.reddit.com/r/javascript/comments/1040udg/htmltomarkdown_converter_that_adaptively_preserve/)
+- [convenient low-level API to create/hydrate HTML](https://www.reddit.com/r/javascript/comments/1040pr4/convenient_lowlevel_api_to_createhydrate_html/)
+- [GitHub - mlanza/atomic: Write Clojuresque functional core, imperative shell programs in JavaScript.](https://www.reddit.com/r/javascript/comments/103wrli/github_mlanzaatomic_write_clojuresque_functional/)
+- [[AskJS] Maintainer ethics: How do you handle untrue third-party module claims?](https://www.reddit.com/r/javascript/comments/103o98n/askjs_maintainer_ethics_how_do_you_handle_untrue/)
+- [New blog post: fetch github repos with sveltekit](https://www.reddit.com/r/javascript/comments/103n571/new_blog_post_fetch_github_repos_with_sveltekit/)
+- [Generate accessible colors for compliance with WCAG contrast standards. Suggest colors based on non-compliant text/background contrast.](https://www.reddit.com/r/javascript/comments/103n1dz/generate_accessible_colors_for_compliance_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
