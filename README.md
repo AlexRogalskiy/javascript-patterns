@@ -292,6 +292,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Intro to SvelteKit 1.0: The full stack framework for Svelte](https://www.infoworld.com/article/3684274/intro-to-sveltekit-10-the-full-stack-framework-for-svelte.html#tk.rss_javascript)
+- [Vue 3.3 to support externally imported types](https://www.infoworld.com/article/3684729/vue-33-to-support-externally-imported-types.html#tk.rss_javascript)
 - [How to create your own RSS reader with R](https://www.infoworld.com/article/3684068/how-to-create-your-own-rss-reader-with-r.html#tk.rss_javascript)
 - [SvelteKit 1.0 brings a full stack to Svelte](https://www.infoworld.com/article/3683588/sveltekit-10-brings-a-full-stack-to-svelte.html#tk.rss_javascript)
 - [Intro to Alpine.js: A JavaScript framework for minimalists](https://www.infoworld.com/article/3682135/intro-to-alpinejs-a-javascript-framework-for-minimalists.html#tk.rss_javascript)
@@ -300,8 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Intro to Mitosis: The universal reactive transformer](https://www.infoworld.com/article/3679710/intro-to-mitosis-the-universal-reactive-transformer.html#tk.rss_javascript)
 - [Angular 15 arrives with standalone APIs](https://www.infoworld.com/article/3680549/angular-15-arrives-with-stable-standalone-apis.html#tk.rss_javascript)
 - [The best new features in Next.js 13](https://www.infoworld.com/article/3679489/the-best-new-features-in-nextjs-13.html#tk.rss_javascript)
-- [TypeScript 4.9 intros operator for finding coding mistakes](https://www.infoworld.com/article/3674814/typescript-49-intros-operator-for-finding-coding-mistakes.html#tk.rss_javascript)
-- [Deno stabilizes NPM compatibility](https://www.infoworld.com/article/3680389/deno-stabilizes-npm-compatibility.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
