@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Interview w/ Francois Wouts, the author of Preview.js!!!](https://www.reddit.com/r/javascript/comments/104etw5/interview_w_francois_wouts_the_author_of_previewjs/)
-- [[AskJS] What do you think about Angular today?](https://www.reddit.com/r/javascript/comments/1047q93/askjs_what_do_you_think_about_angular_today/)
-- [Future of Storybook in 2023](https://www.reddit.com/r/javascript/comments/1044m7p/future_of_storybook_in_2023/)
-- [Built an ecommerce store with Next.js and an open source ecommerce backend](https://www.reddit.com/r/javascript/comments/1042y7l/built_an_ecommerce_store_with_nextjs_and_an_open/)
-- [HTML-to-Markdown converter that adaptively preserve HTML when needed &lpar;eg. when center-aligning, or resizing images&rpar;](https://www.reddit.com/r/javascript/comments/1040udg/htmltomarkdown_converter_that_adaptively_preserve/)
-- [convenient low-level API to create/hydrate HTML](https://www.reddit.com/r/javascript/comments/1040pr4/convenient_lowlevel_api_to_createhydrate_html/)
-- [GitHub - mlanza/atomic: Write Clojuresque functional core, imperative shell programs in JavaScript.](https://www.reddit.com/r/javascript/comments/103wrli/github_mlanzaatomic_write_clojuresque_functional/)
-- [[AskJS] Maintainer ethics: How do you handle untrue third-party module claims?](https://www.reddit.com/r/javascript/comments/103o98n/askjs_maintainer_ethics_how_do_you_handle_untrue/)
-- [New blog post: fetch github repos with sveltekit](https://www.reddit.com/r/javascript/comments/103n571/new_blog_post_fetch_github_repos_with_sveltekit/)
-- [Generate accessible colors for compliance with WCAG contrast standards. Suggest colors based on non-compliant text/background contrast.](https://www.reddit.com/r/javascript/comments/103n1dz/generate_accessible_colors_for_compliance_with/)
+- [I made a browser extension to aid in Threat Investigations!](https://www.reddit.com/r/javascript/comments/1057hz2/i_made_a_browser_extension_to_aid_in_threat/)
+- [Audio Player in Js - Self-Review #1 | The Upside-Down Trees](https://www.reddit.com/r/javascript/comments/1056zfe/audio_player_in_js_selfreview_1_the_upsidedown/)
+- [Gluon - a new WIP framework for making desktop apps from webapps - but using system installed browsers and Node/Deno, focusing on developer experience and choice.](https://www.reddit.com/r/javascript/comments/1056rtz/gluon_a_new_wip_framework_for_making_desktop_apps/)
+- [The entire source code for Logan Paul&#39;s scam game written in JS.](https://www.reddit.com/r/javascript/comments/1055dqr/the_entire_source_code_for_logan_pauls_scam_game/)
+- [Apexlang: Project Scaffolding &amp; Code Generation Tool](https://www.reddit.com/r/javascript/comments/10521n8/apexlang_project_scaffolding_code_generation_tool/)
+- [[AskJS] React vs Angular vs Vue vs Svelte](https://www.reddit.com/r/javascript/comments/104zeum/askjs_react_vs_angular_vs_vue_vs_svelte/)
+- [Making the ultimate-guitar web player easier to practice with &lpar;with a USB pedal and javascript&rpar;](https://www.reddit.com/r/javascript/comments/104wxa3/making_the_ultimateguitar_web_player_easier_to/)
+- [Conditional API Responses For JavaScript vs. HTML Forms](https://www.reddit.com/r/javascript/comments/104ugg6/conditional_api_responses_for_javascript_vs_html/)
+- [Revolutionizing Your Components with Custom React Hooks](https://www.reddit.com/r/javascript/comments/104u845/revolutionizing_your_components_with_custom_react/)
+- [2022 JavaScript Rising Stars](https://www.reddit.com/r/javascript/comments/104i0l4/2022_javascript_rising_stars/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
