@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Does anyone know of a mullet API?](https://www.reddit.com/r/javascript/comments/1065wz4/askjs_does_anyone_know_of_a_mullet_api/)
+- [Hindsight is a free and open-source retrospective board](https://www.reddit.com/r/javascript/comments/1065t77/hindsight_is_a_free_and_opensource_retrospective/)
+- [I ported Boring Avatars to several frameworks using Mitosis from builder.io](https://www.reddit.com/r/javascript/comments/105zgmb/i_ported_boring_avatars_to_several_frameworks/)
+- [Using Github Copilot for unit testing](https://www.reddit.com/r/javascript/comments/105yrq1/using_github_copilot_for_unit_testing/)
+- [Animations With Doodle](https://www.reddit.com/r/javascript/comments/105k14i/animations_with_doodle/)
+- [Showoff Saturday &lpar;January 07, 2023&rpar;](https://www.reddit.com/r/javascript/comments/105jk4q/showoff_saturday_january_07_2023/)
+- [feedbackplus: improving customer feedback with screenshot &amp; screenshot editing for feedback forms. Inspired by Google](https://www.reddit.com/r/javascript/comments/105esxe/feedbackplus_improving_customer_feedback_with/)
+- [ACOS: Build and share competitive turn-based browser games made in javascript](https://www.reddit.com/r/javascript/comments/105ecnh/acos_build_and_share_competitive_turnbased/)
 - [I made a browser extension to aid in Threat Investigations!](https://www.reddit.com/r/javascript/comments/1057hz2/i_made_a_browser_extension_to_aid_in_threat/)
 - [Audio Player in Js - Self-Review #1 | The Upside-Down Trees](https://www.reddit.com/r/javascript/comments/1056zfe/audio_player_in_js_selfreview_1_the_upsidedown/)
-- [Gluon - a new WIP framework for making desktop apps from webapps - but using system installed browsers and Node/Deno, focusing on developer experience and choice.](https://www.reddit.com/r/javascript/comments/1056rtz/gluon_a_new_wip_framework_for_making_desktop_apps/)
-- [The entire source code for Logan Paul&#39;s scam game written in JS.](https://www.reddit.com/r/javascript/comments/1055dqr/the_entire_source_code_for_logan_pauls_scam_game/)
-- [Apexlang: Project Scaffolding &amp; Code Generation Tool](https://www.reddit.com/r/javascript/comments/10521n8/apexlang_project_scaffolding_code_generation_tool/)
-- [[AskJS] React vs Angular vs Vue vs Svelte](https://www.reddit.com/r/javascript/comments/104zeum/askjs_react_vs_angular_vs_vue_vs_svelte/)
-- [Making the ultimate-guitar web player easier to practice with &lpar;with a USB pedal and javascript&rpar;](https://www.reddit.com/r/javascript/comments/104wxa3/making_the_ultimateguitar_web_player_easier_to/)
-- [Conditional API Responses For JavaScript vs. HTML Forms](https://www.reddit.com/r/javascript/comments/104ugg6/conditional_api_responses_for_javascript_vs_html/)
-- [Revolutionizing Your Components with Custom React Hooks](https://www.reddit.com/r/javascript/comments/104u845/revolutionizing_your_components_with_custom_react/)
-- [2022 JavaScript Rising Stars](https://www.reddit.com/r/javascript/comments/104i0l4/2022_javascript_rising_stars/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
