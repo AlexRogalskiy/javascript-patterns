@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Does anyone know of a mullet API?](https://www.reddit.com/r/javascript/comments/1065wz4/askjs_does_anyone_know_of_a_mullet_api/)
+- [Reactive webcomponents with LemonadeJS](https://www.reddit.com/r/javascript/comments/106rq4p/reactive_webcomponents_with_lemonadejs/)
+- [[AskJS] Is there an JavaScript engine agnostic server module that can be imported into Bun, QuickJS, Deno, and Node.js?](https://www.reddit.com/r/javascript/comments/106m5i6/askjs_is_there_an_javascript_engine_agnostic/)
+- [Building a Javascript Game Without Coding is Possible Now](https://www.reddit.com/r/javascript/comments/106homb/building_a_javascript_game_without_coding_is/)
+- [JavaScript engine Native Messaging host tests](https://www.reddit.com/r/javascript/comments/106a3sr/javascript_engine_native_messaging_host_tests/)
 - [Hindsight is a free and open-source retrospective board](https://www.reddit.com/r/javascript/comments/1065t77/hindsight_is_a_free_and_opensource_retrospective/)
 - [I ported Boring Avatars to several frameworks using Mitosis from builder.io](https://www.reddit.com/r/javascript/comments/105zgmb/i_ported_boring_avatars_to_several_frameworks/)
 - [Using Github Copilot for unit testing](https://www.reddit.com/r/javascript/comments/105yrq1/using_github_copilot_for_unit_testing/)
 - [Animations With Doodle](https://www.reddit.com/r/javascript/comments/105k14i/animations_with_doodle/)
 - [Showoff Saturday &lpar;January 07, 2023&rpar;](https://www.reddit.com/r/javascript/comments/105jk4q/showoff_saturday_january_07_2023/)
 - [feedbackplus: improving customer feedback with screenshot &amp; screenshot editing for feedback forms. Inspired by Google](https://www.reddit.com/r/javascript/comments/105esxe/feedbackplus_improving_customer_feedback_with/)
-- [ACOS: Build and share competitive turn-based browser games made in javascript](https://www.reddit.com/r/javascript/comments/105ecnh/acos_build_and_share_competitive_turnbased/)
-- [I made a browser extension to aid in Threat Investigations!](https://www.reddit.com/r/javascript/comments/1057hz2/i_made_a_browser_extension_to_aid_in_threat/)
-- [Audio Player in Js - Self-Review #1 | The Upside-Down Trees](https://www.reddit.com/r/javascript/comments/1056zfe/audio_player_in_js_selfreview_1_the_upsidedown/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
