@@ -292,8 +292,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
-- [Intro to SvelteKit 1.0: The full stack framework for Svelte](https://www.infoworld.com/article/3684274/intro-to-sveltekit-10-the-full-stack-framework-for-svelte.html#tk.rss_javascript)
 - [Vue 3.3 to support externally imported types](https://www.infoworld.com/article/3684729/vue-33-to-support-externally-imported-types.html#tk.rss_javascript)
+- [Intro to SvelteKit 1.0: The full stack framework for Svelte](https://www.infoworld.com/article/3684274/intro-to-sveltekit-10-the-full-stack-framework-for-svelte.html#tk.rss_javascript)
 - [How to create your own RSS reader with R](https://www.infoworld.com/article/3684068/how-to-create-your-own-rss-reader-with-r.html#tk.rss_javascript)
 - [SvelteKit 1.0 brings a full stack to Svelte](https://www.infoworld.com/article/3683588/sveltekit-10-brings-a-full-stack-to-svelte.html#tk.rss_javascript)
 - [Intro to Alpine.js: A JavaScript framework for minimalists](https://www.infoworld.com/article/3682135/intro-to-alpinejs-a-javascript-framework-for-minimalists.html#tk.rss_javascript)
