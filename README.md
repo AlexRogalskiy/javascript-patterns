@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Reactive webcomponents with LemonadeJS](https://www.reddit.com/r/javascript/comments/106rq4p/reactive_webcomponents_with_lemonadejs/)
-- [[AskJS] Is there an JavaScript engine agnostic server module that can be imported into Bun, QuickJS, Deno, and Node.js?](https://www.reddit.com/r/javascript/comments/106m5i6/askjs_is_there_an_javascript_engine_agnostic/)
-- [Building a Javascript Game Without Coding is Possible Now](https://www.reddit.com/r/javascript/comments/106homb/building_a_javascript_game_without_coding_is/)
-- [JavaScript engine Native Messaging host tests](https://www.reddit.com/r/javascript/comments/106a3sr/javascript_engine_native_messaging_host_tests/)
-- [Hindsight is a free and open-source retrospective board](https://www.reddit.com/r/javascript/comments/1065t77/hindsight_is_a_free_and_opensource_retrospective/)
-- [I ported Boring Avatars to several frameworks using Mitosis from builder.io](https://www.reddit.com/r/javascript/comments/105zgmb/i_ported_boring_avatars_to_several_frameworks/)
-- [Using Github Copilot for unit testing](https://www.reddit.com/r/javascript/comments/105yrq1/using_github_copilot_for_unit_testing/)
-- [Animations With Doodle](https://www.reddit.com/r/javascript/comments/105k14i/animations_with_doodle/)
-- [Showoff Saturday &lpar;January 07, 2023&rpar;](https://www.reddit.com/r/javascript/comments/105jk4q/showoff_saturday_january_07_2023/)
-- [feedbackplus: improving customer feedback with screenshot &amp; screenshot editing for feedback forms. Inspired by Google](https://www.reddit.com/r/javascript/comments/105esxe/feedbackplus_improving_customer_feedback_with/)
+- [[AskJS] Am I over-worrying about the XSS risk of keycloak-js?](https://www.reddit.com/r/javascript/comments/107t1rl/askjs_am_i_overworrying_about_the_xss_risk_of/)
+- [Technological Minecraft Launcher on ReactJS](https://www.reddit.com/r/javascript/comments/107os57/technological_minecraft_launcher_on_reactjs/)
+- [I made a chrome extension to select any text and use ChatGPT](https://www.reddit.com/r/javascript/comments/107oadc/i_made_a_chrome_extension_to_select_any_text_and/)
+- [Forget about redux use jotai as your state management library](https://www.reddit.com/r/javascript/comments/107lrub/forget_about_redux_use_jotai_as_your_state/)
+- [[AskJS] Seeking framework advice for form based widget](https://www.reddit.com/r/javascript/comments/107lm5z/askjs_seeking_framework_advice_for_form_based/)
+- [Introducing Web Components Guide – Web Components Guide](https://www.reddit.com/r/javascript/comments/107l8jp/introducing_web_components_guide_web_components/)
+- [How to store your app&#39;s entire state in the url](https://www.reddit.com/r/javascript/comments/107l5xz/how_to_store_your_apps_entire_state_in_the_url/)
+- [Implementing SonarQube code coverage in a simple JavaScript application](https://www.reddit.com/r/javascript/comments/107jabz/implementing_sonarqube_code_coverage_in_a_simple/)
+- [Building a Wordle Clone using React](https://www.reddit.com/r/javascript/comments/107bqek/building_a_wordle_clone_using_react/)
+- [Your /r/javascript recap for the week of January 02 - January 08](https://www.reddit.com/r/javascript/comments/107aqw5/your_rjavascript_recap_for_the_week_of_january_02/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
