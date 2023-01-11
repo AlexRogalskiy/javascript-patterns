@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Am I over-worrying about the XSS risk of keycloak-js?](https://www.reddit.com/r/javascript/comments/107t1rl/askjs_am_i_overworrying_about_the_xss_risk_of/)
-- [Technological Minecraft Launcher on ReactJS](https://www.reddit.com/r/javascript/comments/107os57/technological_minecraft_launcher_on_reactjs/)
-- [I made a chrome extension to select any text and use ChatGPT](https://www.reddit.com/r/javascript/comments/107oadc/i_made_a_chrome_extension_to_select_any_text_and/)
-- [Forget about redux use jotai as your state management library](https://www.reddit.com/r/javascript/comments/107lrub/forget_about_redux_use_jotai_as_your_state/)
-- [[AskJS] Seeking framework advice for form based widget](https://www.reddit.com/r/javascript/comments/107lm5z/askjs_seeking_framework_advice_for_form_based/)
-- [Introducing Web Components Guide – Web Components Guide](https://www.reddit.com/r/javascript/comments/107l8jp/introducing_web_components_guide_web_components/)
-- [How to store your app&#39;s entire state in the url](https://www.reddit.com/r/javascript/comments/107l5xz/how_to_store_your_apps_entire_state_in_the_url/)
-- [Implementing SonarQube code coverage in a simple JavaScript application](https://www.reddit.com/r/javascript/comments/107jabz/implementing_sonarqube_code_coverage_in_a_simple/)
-- [Building a Wordle Clone using React](https://www.reddit.com/r/javascript/comments/107bqek/building_a_wordle_clone_using_react/)
-- [Your /r/javascript recap for the week of January 02 - January 08](https://www.reddit.com/r/javascript/comments/107aqw5/your_rjavascript_recap_for_the_week_of_january_02/)
+- [Malicious Code Deletes Directories If You Do Not Have a License](https://www.reddit.com/r/javascript/comments/108igzt/malicious_code_deletes_directories_if_you_do_not/)
+- [An easy to use React hook for overriding feature flags in your browser](https://www.reddit.com/r/javascript/comments/108epk7/an_easy_to_use_react_hook_for_overriding_feature/)
+- [Import maps 101](https://www.reddit.com/r/javascript/comments/108cjuo/import_maps_101/)
+- [How We Rebuilt React DevTools with Replay Routines](https://www.reddit.com/r/javascript/comments/108cgrf/how_we_rebuilt_react_devtools_with_replay_routines/)
+- [Getting Started with Quill in React](https://www.reddit.com/r/javascript/comments/108byhb/getting_started_with_quill_in_react/)
+- [I made a typescript library similar to Immer but ~20 times faster and with zero-runtime freezing](https://www.reddit.com/r/javascript/comments/108bnwo/i_made_a_typescript_library_similar_to_immer_but/)
+- [Jest ESM - Total Guide To More Than 100% Faster Testing For Angular](https://www.reddit.com/r/javascript/comments/10872jj/jest_esm_total_guide_to_more_than_100_faster/)
+- [Ideas For A Javascript Stricter Mode](https://www.reddit.com/r/javascript/comments/1085fbk/ideas_for_a_javascript_stricter_mode/)
+- [Common Mistakes Made by Node.js Developers](https://www.reddit.com/r/javascript/comments/1084yzb/common_mistakes_made_by_nodejs_developers/)
+- [Open-source Ecommerce storefront built with Sveltekit](https://www.reddit.com/r/javascript/comments/1084dw8/opensource_ecommerce_storefront_built_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
