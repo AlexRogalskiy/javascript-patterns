@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Malicious Code Deletes Directories If You Do Not Have a License](https://www.reddit.com/r/javascript/comments/108igzt/malicious_code_deletes_directories_if_you_do_not/)
-- [An easy to use React hook for overriding feature flags in your browser](https://www.reddit.com/r/javascript/comments/108epk7/an_easy_to_use_react_hook_for_overriding_feature/)
-- [Import maps 101](https://www.reddit.com/r/javascript/comments/108cjuo/import_maps_101/)
-- [How We Rebuilt React DevTools with Replay Routines](https://www.reddit.com/r/javascript/comments/108cgrf/how_we_rebuilt_react_devtools_with_replay_routines/)
-- [Getting Started with Quill in React](https://www.reddit.com/r/javascript/comments/108byhb/getting_started_with_quill_in_react/)
-- [I made a typescript library similar to Immer but ~20 times faster and with zero-runtime freezing](https://www.reddit.com/r/javascript/comments/108bnwo/i_made_a_typescript_library_similar_to_immer_but/)
-- [Jest ESM - Total Guide To More Than 100% Faster Testing For Angular](https://www.reddit.com/r/javascript/comments/10872jj/jest_esm_total_guide_to_more_than_100_faster/)
-- [Ideas For A Javascript Stricter Mode](https://www.reddit.com/r/javascript/comments/1085fbk/ideas_for_a_javascript_stricter_mode/)
-- [Common Mistakes Made by Node.js Developers](https://www.reddit.com/r/javascript/comments/1084yzb/common_mistakes_made_by_nodejs_developers/)
-- [Open-source Ecommerce storefront built with Sveltekit](https://www.reddit.com/r/javascript/comments/1084dw8/opensource_ecommerce_storefront_built_with/)
+- [World&#39;s Hardest Game 2.0 - First Game in JS as a Senior in High School](https://www.reddit.com/r/javascript/comments/109l72g/worlds_hardest_game_20_first_game_in_js_as_a/)
+- [[AskJS] What shall I include in my video course called &quot;Do you speak JavaScript?&quot;.](https://www.reddit.com/r/javascript/comments/109e6j4/askjs_what_shall_i_include_in_my_video_course/)
+- [Why Is My Jest Test Suite So Slow?](https://www.reddit.com/r/javascript/comments/109cdsr/why_is_my_jest_test_suite_so_slow/)
+- [The beginner guide to visual regression testing](https://www.reddit.com/r/javascript/comments/10999zb/the_beginner_guide_to_visual_regression_testing/)
+- [[AskJS] Is it a good idea to use compose/pipe in a production environment?](https://www.reddit.com/r/javascript/comments/1098bv0/askjs_is_it_a_good_idea_to_use_composepipe_in_a/)
+- [Tremor - The React library to build dashboards fast](https://www.reddit.com/r/javascript/comments/10979jh/tremor_the_react_library_to_build_dashboards_fast/)
+- [[AskJS] How to architect a JavaScript &lpar;backend&rpar; app that can scale?](https://www.reddit.com/r/javascript/comments/1096t3j/askjs_how_to_architect_a_javascript_backend_app/)
+- [Symbiote.js - Simple, light and very powerful library to create embedded components for any purpose, with a data flow management included](https://www.reddit.com/r/javascript/comments/1096rl8/symbiotejs_simple_light_and_very_powerful_library/)
+- [2022 JavaScript Rising Stars](https://www.reddit.com/r/javascript/comments/1096kbg/2022_javascript_rising_stars/)
+- [Schema only REST to Graphql](https://www.reddit.com/r/javascript/comments/1094lc9/schema_only_rest_to_graphql/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
