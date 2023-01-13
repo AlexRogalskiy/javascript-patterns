@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [World&#39;s Hardest Game 2.0 - First Game in JS as a Senior in High School](https://www.reddit.com/r/javascript/comments/109l72g/worlds_hardest_game_20_first_game_in_js_as_a/)
+- [Layr v2 Is Out, but You May Never Use It](https://www.reddit.com/r/javascript/comments/10afnkh/layr_v2_is_out_but_you_may_never_use_it/)
+- [[AskJS] - Academic Study - Moderator Reviewed - US Software Bootcamp Perspectives](https://www.reddit.com/r/javascript/comments/10aff3o/askjs_academic_study_moderator_reviewed_us/)
+- [Apple Maps Server SDK](https://www.reddit.com/r/javascript/comments/10a3qjr/apple_maps_server_sdk/)
+- [Compiiile, the most convenient way to render a folder containing markdown files [open-source].](https://www.reddit.com/r/javascript/comments/10a3pui/compiiile_the_most_convenient_way_to_render_a/)
+- [Elk is now Open Source after 2 months! A Mastodon Web client built with Nuxt 3 and Vite](https://www.reddit.com/r/javascript/comments/10a1uwr/elk_is_now_open_source_after_2_months_a_mastodon/)
+- [[AskJS] What does Code Architecture refer to as the biggest pain point for JavaScript](https://www.reddit.com/r/javascript/comments/109wntd/askjs_what_does_code_architecture_refer_to_as_the/)
+- [JavaScript localStorage: The complete guide](https://www.reddit.com/r/javascript/comments/109uau2/javascript_localstorage_the_complete_guide/)
+- [A new linter to check if a package is published right](https://www.reddit.com/r/javascript/comments/109rscx/a_new_linter_to_check_if_a_package_is_published/)
 - [[AskJS] What shall I include in my video course called &quot;Do you speak JavaScript?&quot;.](https://www.reddit.com/r/javascript/comments/109e6j4/askjs_what_shall_i_include_in_my_video_course/)
 - [Why Is My Jest Test Suite So Slow?](https://www.reddit.com/r/javascript/comments/109cdsr/why_is_my_jest_test_suite_so_slow/)
-- [The beginner guide to visual regression testing](https://www.reddit.com/r/javascript/comments/10999zb/the_beginner_guide_to_visual_regression_testing/)
-- [[AskJS] Is it a good idea to use compose/pipe in a production environment?](https://www.reddit.com/r/javascript/comments/1098bv0/askjs_is_it_a_good_idea_to_use_composepipe_in_a/)
-- [Tremor - The React library to build dashboards fast](https://www.reddit.com/r/javascript/comments/10979jh/tremor_the_react_library_to_build_dashboards_fast/)
-- [[AskJS] How to architect a JavaScript &lpar;backend&rpar; app that can scale?](https://www.reddit.com/r/javascript/comments/1096t3j/askjs_how_to_architect_a_javascript_backend_app/)
-- [Symbiote.js - Simple, light and very powerful library to create embedded components for any purpose, with a data flow management included](https://www.reddit.com/r/javascript/comments/1096rl8/symbiotejs_simple_light_and_very_powerful_library/)
-- [2022 JavaScript Rising Stars](https://www.reddit.com/r/javascript/comments/1096kbg/2022_javascript_rising_stars/)
-- [Schema only REST to Graphql](https://www.reddit.com/r/javascript/comments/1094lc9/schema_only_rest_to_graphql/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
