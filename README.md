@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] What has been your moment that made you decide to make a template for your &lt;JS framework&gt; projects?](https://www.reddit.com/r/javascript/comments/10bbxeq/askjs_what_has_been_your_moment_that_made_you/)
+- [[AskJS] CommonJS and es5](https://www.reddit.com/r/javascript/comments/10bay35/askjs_commonjs_and_es5/)
+- [A super adaptable authorization technique for real-time Nest apps](https://www.reddit.com/r/javascript/comments/10b84ek/a_super_adaptable_authorization_technique_for/)
+- [How I try to build my portfolio with three.js and the help of AI](https://www.reddit.com/r/javascript/comments/10b1fx2/how_i_try_to_build_my_portfolio_with_threejs_and/)
+- [Prevent dependency-induced vulnerabilities in your nodejs apps](https://www.reddit.com/r/javascript/comments/10b010t/prevent_dependencyinduced_vulnerabilities_in_your/)
+- [[AskJS] Do you have to be a natural talent to reach deep knowledge?](https://www.reddit.com/r/javascript/comments/10aywom/askjs_do_you_have_to_be_a_natural_talent_to_reach/)
+- [Tool for simpler packaging of desktop apps &lpar;Electron, Tauri, etc&rpar;](https://www.reddit.com/r/javascript/comments/10as6hv/tool_for_simpler_packaging_of_desktop_apps/)
+- [Channels, a channel based sound player that i made](https://www.reddit.com/r/javascript/comments/10apv3v/channels_a_channel_based_sound_player_that_i_made/)
+- [Unveiling Breakthroughs Found In The State Of JS 2022 Survey](https://www.reddit.com/r/javascript/comments/10ape43/unveiling_breakthroughs_found_in_the_state_of_js/)
 - [Layr v2 Is Out, but You May Never Use It](https://www.reddit.com/r/javascript/comments/10afnkh/layr_v2_is_out_but_you_may_never_use_it/)
-- [[AskJS] - Academic Study - Moderator Reviewed - US Software Bootcamp Perspectives](https://www.reddit.com/r/javascript/comments/10aff3o/askjs_academic_study_moderator_reviewed_us/)
-- [Apple Maps Server SDK](https://www.reddit.com/r/javascript/comments/10a3qjr/apple_maps_server_sdk/)
-- [Compiiile, the most convenient way to render a folder containing markdown files [open-source].](https://www.reddit.com/r/javascript/comments/10a3pui/compiiile_the_most_convenient_way_to_render_a/)
-- [Elk is now Open Source after 2 months! A Mastodon Web client built with Nuxt 3 and Vite](https://www.reddit.com/r/javascript/comments/10a1uwr/elk_is_now_open_source_after_2_months_a_mastodon/)
-- [[AskJS] What does Code Architecture refer to as the biggest pain point for JavaScript](https://www.reddit.com/r/javascript/comments/109wntd/askjs_what_does_code_architecture_refer_to_as_the/)
-- [JavaScript localStorage: The complete guide](https://www.reddit.com/r/javascript/comments/109uau2/javascript_localstorage_the_complete_guide/)
-- [A new linter to check if a package is published right](https://www.reddit.com/r/javascript/comments/109rscx/a_new_linter_to_check_if_a_package_is_published/)
-- [[AskJS] What shall I include in my video course called &quot;Do you speak JavaScript?&quot;.](https://www.reddit.com/r/javascript/comments/109e6j4/askjs_what_shall_i_include_in_my_video_course/)
-- [Why Is My Jest Test Suite So Slow?](https://www.reddit.com/r/javascript/comments/109cdsr/why_is_my_jest_test_suite_so_slow/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
