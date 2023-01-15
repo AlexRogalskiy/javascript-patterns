@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to Lazy Load Disqus for Improved Site Performance](https://www.reddit.com/r/javascript/comments/10c4cco/how_to_lazy_load_disqus_for_improved_site/)
+- [Netscape plug-ins : Robinson, Phillip R : Free Download, Borrow, and Streaming : Internet Archive](https://www.reddit.com/r/javascript/comments/10c43dz/netscape_plugins_robinson_phillip_r_free_download/)
+- [esbuild v0.17.0 - a major new release &lpar;with some backwards-incompatible changes&rpar;](https://www.reddit.com/r/javascript/comments/10bjbnk/esbuild_v0170_a_major_new_release_with_some/)
+- [Showoff Saturday &lpar;January 14, 2023&rpar;](https://www.reddit.com/r/javascript/comments/10bj1x2/showoff_saturday_january_14_2023/)
+- [What&#39;s New In DevTools &lpar;Chrome 109&rpar; - Chrome Developers](https://www.reddit.com/r/javascript/comments/10bhuow/whats_new_in_devtools_chrome_109_chrome_developers/)
 - [[AskJS] What has been your moment that made you decide to make a template for your &lt;JS framework&gt; projects?](https://www.reddit.com/r/javascript/comments/10bbxeq/askjs_what_has_been_your_moment_that_made_you/)
-- [[AskJS] CommonJS and es5](https://www.reddit.com/r/javascript/comments/10bay35/askjs_commonjs_and_es5/)
 - [A super adaptable authorization technique for real-time Nest apps](https://www.reddit.com/r/javascript/comments/10b84ek/a_super_adaptable_authorization_technique_for/)
 - [How I try to build my portfolio with three.js and the help of AI](https://www.reddit.com/r/javascript/comments/10b1fx2/how_i_try_to_build_my_portfolio_with_threejs_and/)
 - [Prevent dependency-induced vulnerabilities in your nodejs apps](https://www.reddit.com/r/javascript/comments/10b010t/prevent_dependencyinduced_vulnerabilities_in_your/)
 - [[AskJS] Do you have to be a natural talent to reach deep knowledge?](https://www.reddit.com/r/javascript/comments/10aywom/askjs_do_you_have_to_be_a_natural_talent_to_reach/)
-- [Tool for simpler packaging of desktop apps &lpar;Electron, Tauri, etc&rpar;](https://www.reddit.com/r/javascript/comments/10as6hv/tool_for_simpler_packaging_of_desktop_apps/)
-- [Channels, a channel based sound player that i made](https://www.reddit.com/r/javascript/comments/10apv3v/channels_a_channel_based_sound_player_that_i_made/)
-- [Unveiling Breakthroughs Found In The State Of JS 2022 Survey](https://www.reddit.com/r/javascript/comments/10ape43/unveiling_breakthroughs_found_in_the_state_of_js/)
-- [Layr v2 Is Out, but You May Never Use It](https://www.reddit.com/r/javascript/comments/10afnkh/layr_v2_is_out_but_you_may_never_use_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
