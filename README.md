@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Efficient Software Release Management with Automated Changelog Generation](https://www.reddit.com/r/javascript/comments/10cxxy2/efficient_software_release_management_with/)
+- [Web Scraping Google Maps Reviews](https://www.reddit.com/r/javascript/comments/10cwi72/web_scraping_google_maps_reviews/)
+- [My Bookmarklet Editor](https://www.reddit.com/r/javascript/comments/10cnlwl/my_bookmarklet_editor/)
+- [Advanced usage patterns for taking page element screenshots with Playwright](https://www.reddit.com/r/javascript/comments/10civ92/advanced_usage_patterns_for_taking_page_element/)
+- [[AskJS] Publishing NPM packages; semantic-release or changesets?](https://www.reddit.com/r/javascript/comments/10chf6k/askjs_publishing_npm_packages_semanticrelease_or/)
+- [Little browser extension to make two ChatGPT tab talk to each other. Allows to set the initial brief of both interlocutors, and forward messages back and forth. Firefox/chrome store links in the README.](https://www.reddit.com/r/javascript/comments/10celos/little_browser_extension_to_make_two_chatgpt_tab/)
+- [The most underrated frontend framework in 2023](https://www.reddit.com/r/javascript/comments/10cdv16/the_most_underrated_frontend_framework_in_2023/)
 - [How to Lazy Load Disqus for Improved Site Performance](https://www.reddit.com/r/javascript/comments/10c4cco/how_to_lazy_load_disqus_for_improved_site/)
-- [Netscape plug-ins : Robinson, Phillip R : Free Download, Borrow, and Streaming : Internet Archive](https://www.reddit.com/r/javascript/comments/10c43dz/netscape_plugins_robinson_phillip_r_free_download/)
 - [esbuild v0.17.0 - a major new release &lpar;with some backwards-incompatible changes&rpar;](https://www.reddit.com/r/javascript/comments/10bjbnk/esbuild_v0170_a_major_new_release_with_some/)
 - [Showoff Saturday &lpar;January 14, 2023&rpar;](https://www.reddit.com/r/javascript/comments/10bj1x2/showoff_saturday_january_14_2023/)
-- [What&#39;s New In DevTools &lpar;Chrome 109&rpar; - Chrome Developers](https://www.reddit.com/r/javascript/comments/10bhuow/whats_new_in_devtools_chrome_109_chrome_developers/)
-- [[AskJS] What has been your moment that made you decide to make a template for your &lt;JS framework&gt; projects?](https://www.reddit.com/r/javascript/comments/10bbxeq/askjs_what_has_been_your_moment_that_made_you/)
-- [A super adaptable authorization technique for real-time Nest apps](https://www.reddit.com/r/javascript/comments/10b84ek/a_super_adaptable_authorization_technique_for/)
-- [How I try to build my portfolio with three.js and the help of AI](https://www.reddit.com/r/javascript/comments/10b1fx2/how_i_try_to_build_my_portfolio_with_threejs_and/)
-- [Prevent dependency-induced vulnerabilities in your nodejs apps](https://www.reddit.com/r/javascript/comments/10b010t/prevent_dependencyinduced_vulnerabilities_in_your/)
-- [[AskJS] Do you have to be a natural talent to reach deep knowledge?](https://www.reddit.com/r/javascript/comments/10aywom/askjs_do_you_have_to_be_a_natural_talent_to_reach/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
