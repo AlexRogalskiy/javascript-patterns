@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] How difficult is it to go from QA to Full Stack Developer outside of your company?](https://www.reddit.com/r/javascript/comments/10dyctx/askjs_how_difficult_is_it_to_go_from_qa_to_full/)
+- [Proof-of-concept for ESLint binary](https://www.reddit.com/r/javascript/comments/10dt6wi/proofofconcept_for_eslint_binary/)
+- [[AskJS] Best beginner to advanced node courses / tutorials / YouTube playlists, etc, please?](https://www.reddit.com/r/javascript/comments/10dr4l8/askjs_best_beginner_to_advanced_node_courses/)
+- [Node.JS MongoDB: The Complete Guide](https://www.reddit.com/r/javascript/comments/10dm1d1/nodejs_mongodb_the_complete_guide/)
+- [Avoiding Common Pitfalls in Angular Component Testing](https://www.reddit.com/r/javascript/comments/10dkx1l/avoiding_common_pitfalls_in_angular_component/)
+- [Socials links with Matter.js experiment, quiet cool, still a bit unstable](https://www.reddit.com/r/javascript/comments/10dalhs/socials_links_with_matterjs_experiment_quiet_cool/)
 - [Efficient Software Release Management with Automated Changelog Generation](https://www.reddit.com/r/javascript/comments/10cxxy2/efficient_software_release_management_with/)
 - [Web Scraping Google Maps Reviews](https://www.reddit.com/r/javascript/comments/10cwi72/web_scraping_google_maps_reviews/)
 - [My Bookmarklet Editor](https://www.reddit.com/r/javascript/comments/10cnlwl/my_bookmarklet_editor/)
 - [Advanced usage patterns for taking page element screenshots with Playwright](https://www.reddit.com/r/javascript/comments/10civ92/advanced_usage_patterns_for_taking_page_element/)
-- [[AskJS] Publishing NPM packages; semantic-release or changesets?](https://www.reddit.com/r/javascript/comments/10chf6k/askjs_publishing_npm_packages_semanticrelease_or/)
-- [Little browser extension to make two ChatGPT tab talk to each other. Allows to set the initial brief of both interlocutors, and forward messages back and forth. Firefox/chrome store links in the README.](https://www.reddit.com/r/javascript/comments/10celos/little_browser_extension_to_make_two_chatgpt_tab/)
-- [The most underrated frontend framework in 2023](https://www.reddit.com/r/javascript/comments/10cdv16/the_most_underrated_frontend_framework_in_2023/)
-- [How to Lazy Load Disqus for Improved Site Performance](https://www.reddit.com/r/javascript/comments/10c4cco/how_to_lazy_load_disqus_for_improved_site/)
-- [esbuild v0.17.0 - a major new release &lpar;with some backwards-incompatible changes&rpar;](https://www.reddit.com/r/javascript/comments/10bjbnk/esbuild_v0170_a_major_new_release_with_some/)
-- [Showoff Saturday &lpar;January 14, 2023&rpar;](https://www.reddit.com/r/javascript/comments/10bj1x2/showoff_saturday_january_14_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
