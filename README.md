@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] How difficult is it to go from QA to Full Stack Developer outside of your company?](https://www.reddit.com/r/javascript/comments/10dyctx/askjs_how_difficult_is_it_to_go_from_qa_to_full/)
-- [Proof-of-concept for ESLint binary](https://www.reddit.com/r/javascript/comments/10dt6wi/proofofconcept_for_eslint_binary/)
-- [[AskJS] Best beginner to advanced node courses / tutorials / YouTube playlists, etc, please?](https://www.reddit.com/r/javascript/comments/10dr4l8/askjs_best_beginner_to_advanced_node_courses/)
-- [Node.JS MongoDB: The Complete Guide](https://www.reddit.com/r/javascript/comments/10dm1d1/nodejs_mongodb_the_complete_guide/)
-- [Avoiding Common Pitfalls in Angular Component Testing](https://www.reddit.com/r/javascript/comments/10dkx1l/avoiding_common_pitfalls_in_angular_component/)
-- [Socials links with Matter.js experiment, quiet cool, still a bit unstable](https://www.reddit.com/r/javascript/comments/10dalhs/socials_links_with_matterjs_experiment_quiet_cool/)
-- [Efficient Software Release Management with Automated Changelog Generation](https://www.reddit.com/r/javascript/comments/10cxxy2/efficient_software_release_management_with/)
-- [Web Scraping Google Maps Reviews](https://www.reddit.com/r/javascript/comments/10cwi72/web_scraping_google_maps_reviews/)
-- [My Bookmarklet Editor](https://www.reddit.com/r/javascript/comments/10cnlwl/my_bookmarklet_editor/)
-- [Advanced usage patterns for taking page element screenshots with Playwright](https://www.reddit.com/r/javascript/comments/10civ92/advanced_usage_patterns_for_taking_page_element/)
+- [[AskJS] A new voice assistant that looks promising](https://www.reddit.com/r/javascript/comments/10et6j3/askjs_a_new_voice_assistant_that_looks_promising/)
+- [My 1st website &quot;Claw Man&quot; written in javascript](https://www.reddit.com/r/javascript/comments/10et0je/my_1st_website_claw_man_written_in_javascript/)
+- [[AskJS] MSE quality resources](https://www.reddit.com/r/javascript/comments/10entvb/askjs_mse_quality_resources/)
+- [Graph Selector Syntax - syntax and javascript parser for network graph data](https://www.reddit.com/r/javascript/comments/10emymh/graph_selector_syntax_syntax_and_javascript/)
+- [Safe Data Fetching in Modern JavaScript](https://www.reddit.com/r/javascript/comments/10ekrwi/safe_data_fetching_in_modern_javascript/)
+- [[AskJS] What do you think about using a Rust-like folder structure?](https://www.reddit.com/r/javascript/comments/10ejq0e/askjs_what_do_you_think_about_using_a_rustlike/)
+- [Announcing The Aurelia 2 Beta](https://www.reddit.com/r/javascript/comments/10eftwx/announcing_the_aurelia_2_beta/)
+- [Show One Tooltip At A Time Using a Singleton](https://www.reddit.com/r/javascript/comments/10eftiu/show_one_tooltip_at_a_time_using_a_singleton/)
+- [A useful function that does nothing](https://www.reddit.com/r/javascript/comments/10ed74h/a_useful_function_that_does_nothing/)
+- [[2301.05097] Study of JavaScript Static Analysis Tools for Vulnerability Detection in Node.js Packages](https://www.reddit.com/r/javascript/comments/10ebw8m/230105097_study_of_javascript_static_analysis/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
