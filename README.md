@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] A new voice assistant that looks promising](https://www.reddit.com/r/javascript/comments/10et6j3/askjs_a_new_voice_assistant_that_looks_promising/)
-- [My 1st website &quot;Claw Man&quot; written in javascript](https://www.reddit.com/r/javascript/comments/10et0je/my_1st_website_claw_man_written_in_javascript/)
-- [[AskJS] MSE quality resources](https://www.reddit.com/r/javascript/comments/10entvb/askjs_mse_quality_resources/)
-- [Graph Selector Syntax - syntax and javascript parser for network graph data](https://www.reddit.com/r/javascript/comments/10emymh/graph_selector_syntax_syntax_and_javascript/)
-- [Safe Data Fetching in Modern JavaScript](https://www.reddit.com/r/javascript/comments/10ekrwi/safe_data_fetching_in_modern_javascript/)
-- [[AskJS] What do you think about using a Rust-like folder structure?](https://www.reddit.com/r/javascript/comments/10ejq0e/askjs_what_do_you_think_about_using_a_rustlike/)
-- [Announcing The Aurelia 2 Beta](https://www.reddit.com/r/javascript/comments/10eftwx/announcing_the_aurelia_2_beta/)
-- [Show One Tooltip At A Time Using a Singleton](https://www.reddit.com/r/javascript/comments/10eftiu/show_one_tooltip_at_a_time_using_a_singleton/)
-- [A useful function that does nothing](https://www.reddit.com/r/javascript/comments/10ed74h/a_useful_function_that_does_nothing/)
-- [[2301.05097] Study of JavaScript Static Analysis Tools for Vulnerability Detection in Node.js Packages](https://www.reddit.com/r/javascript/comments/10ebw8m/230105097_study_of_javascript_static_analysis/)
+- [Angler CI: A validation-only approach to releasing projects which use NPM and Git.](https://www.reddit.com/r/javascript/comments/10fnusa/angler_ci_a_validationonly_approach_to_releasing/)
+- [No framework all-in-one mono-repo template: SSG + SSR + SPA + API](https://www.reddit.com/r/javascript/comments/10fi22e/no_framework_allinone_monorepo_template_ssg_ssr/)
+- [Better configuration in TypeScript with the `satisfies` operator](https://www.reddit.com/r/javascript/comments/10femgo/better_configuration_in_typescript_with_the/)
+- [Typescript support for Module Federation &lpar;finally&rpar;!](https://www.reddit.com/r/javascript/comments/10f9e5b/typescript_support_for_module_federation_finally/)
+- [I made an open-source starter template for building full-stack universal&lpar;web + mobile&rpar; apps using React Native! &lpar;tRPC, Expo, Next, Solito, Tamagui, Clerk Auth, Prisma&rpar;](https://www.reddit.com/r/javascript/comments/10f7xz2/i_made_an_opensource_starter_template_for/)
+- [I scraped +650K frontend jobs for 14 months and here are the Most Demanded Javascript Frontend Frameworks in this 2022 &lpar;From October 1, 2021 to November 30, 2022&rpar;](https://www.reddit.com/r/javascript/comments/10f4txz/i_scraped_650k_frontend_jobs_for_14_months_and/)
+- [Interactive NodeJS timeline &lpar;a quick look into history&rpar;](https://www.reddit.com/r/javascript/comments/10f4b1f/interactive_nodejs_timeline_a_quick_look_into/)
+- [GitHub - xnx3/translate: The page is automatically translated, and the page does not need to be modified. Add two lines of js to make your page quickly have the ability to switch multiple languages!](https://www.reddit.com/r/javascript/comments/10f3ol4/github_xnx3translate_the_page_is_automatically/)
+- [WTF Wednesday &lpar;January 18, 2023&rpar;](https://www.reddit.com/r/javascript/comments/10f1swk/wtf_wednesday_january_18_2023/)
+- [DiscordGPT; Customizable Discord / OpenAI bot on Autocode &lpar;Node.js serverless platform&rpar; &lpar;x-post r/node&rpar;](https://www.reddit.com/r/javascript/comments/10f1k6c/discordgpt_customizable_discord_openai_bot_on/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
