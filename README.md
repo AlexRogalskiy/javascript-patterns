@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Angler CI: A validation-only approach to releasing projects which use NPM and Git.](https://www.reddit.com/r/javascript/comments/10fnusa/angler_ci_a_validationonly_approach_to_releasing/)
-- [No framework all-in-one mono-repo template: SSG + SSR + SPA + API](https://www.reddit.com/r/javascript/comments/10fi22e/no_framework_allinone_monorepo_template_ssg_ssr/)
-- [Better configuration in TypeScript with the `satisfies` operator](https://www.reddit.com/r/javascript/comments/10femgo/better_configuration_in_typescript_with_the/)
-- [Typescript support for Module Federation &lpar;finally&rpar;!](https://www.reddit.com/r/javascript/comments/10f9e5b/typescript_support_for_module_federation_finally/)
-- [I made an open-source starter template for building full-stack universal&lpar;web + mobile&rpar; apps using React Native! &lpar;tRPC, Expo, Next, Solito, Tamagui, Clerk Auth, Prisma&rpar;](https://www.reddit.com/r/javascript/comments/10f7xz2/i_made_an_opensource_starter_template_for/)
-- [I scraped +650K frontend jobs for 14 months and here are the Most Demanded Javascript Frontend Frameworks in this 2022 &lpar;From October 1, 2021 to November 30, 2022&rpar;](https://www.reddit.com/r/javascript/comments/10f4txz/i_scraped_650k_frontend_jobs_for_14_months_and/)
-- [Interactive NodeJS timeline &lpar;a quick look into history&rpar;](https://www.reddit.com/r/javascript/comments/10f4b1f/interactive_nodejs_timeline_a_quick_look_into/)
-- [GitHub - xnx3/translate: The page is automatically translated, and the page does not need to be modified. Add two lines of js to make your page quickly have the ability to switch multiple languages!](https://www.reddit.com/r/javascript/comments/10f3ol4/github_xnx3translate_the_page_is_automatically/)
-- [WTF Wednesday &lpar;January 18, 2023&rpar;](https://www.reddit.com/r/javascript/comments/10f1swk/wtf_wednesday_january_18_2023/)
-- [DiscordGPT; Customizable Discord / OpenAI bot on Autocode &lpar;Node.js serverless platform&rpar; &lpar;x-post r/node&rpar;](https://www.reddit.com/r/javascript/comments/10f1k6c/discordgpt_customizable_discord_openai_bot_on/)
+- [[AskJS] I have some questions about recursion optimization if anyone is familiar](https://www.reddit.com/r/javascript/comments/10gc8zi/askjs_i_have_some_questions_about_recursion/)
+- [[AskJS] Should I put time into building a vanilla JS website?](https://www.reddit.com/r/javascript/comments/10g9f1u/askjs_should_i_put_time_into_building_a_vanilla/)
+- [[AskJS] Is prototype based programming used in modern Javascript?](https://www.reddit.com/r/javascript/comments/10g8g7h/askjs_is_prototype_based_programming_used_in/)
+- [Introducing the WebAssembly JavaScript Promise Integration API](https://www.reddit.com/r/javascript/comments/10g811c/introducing_the_webassembly_javascript_promise/)
+- [How to bypass DataDome](https://www.reddit.com/r/javascript/comments/10g3h88/how_to_bypass_datadome/)
+- [Build function-based API with minimal code and end-to-end type safety](https://www.reddit.com/r/javascript/comments/10g1nac/build_functionbased_api_with_minimal_code_and/)
+- [Gleam lang v0.26 released featuring Deno JS runtime support](https://www.reddit.com/r/javascript/comments/10g0usn/gleam_lang_v026_released_featuring_deno_js/)
+- [[AskJS] Deno or Node for hobby or business what do you prefer?](https://www.reddit.com/r/javascript/comments/10fypxm/askjs_deno_or_node_for_hobby_or_business_what_do/)
+- [Useful color tools for your next JavaScript project.](https://www.reddit.com/r/javascript/comments/10fwjio/useful_color_tools_for_your_next_javascript/)
+- [How to solve graph problems with BFS and DFS using JavaScript](https://www.reddit.com/r/javascript/comments/10fw44a/how_to_solve_graph_problems_with_bfs_and_dfs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
