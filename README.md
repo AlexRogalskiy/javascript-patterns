@@ -292,16 +292,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [JavaScript and Java both loved and hated](https://www.infoworld.com/article/3686132/javascript-and-java-both-loved-and-hated.html#tk.rss_javascript)
 - [JavaScript, Java, and Python skills top demand](https://www.infoworld.com/article/3685672/javascript-java-and-python-skills-top-demand.html#tk.rss_javascript)
 - [Using JavaScript and forms](https://www.infoworld.com/article/2077176/using-javascript-and-forms.html#tk.rss_javascript)
 - [Interest in React, Angular, and Vue is waning](https://www.infoworld.com/article/3685431/interest-in-react-angular-and-vue-is-waning.html#tk.rss_javascript)
-- [Intro to SvelteKit 1.0: The full stack framework for Svelte](https://www.infoworld.com/article/3684274/intro-to-sveltekit-10-the-full-stack-framework-for-svelte.html#tk.rss_javascript)
 - [Vue 3.3 to support externally imported types](https://www.infoworld.com/article/3684729/vue-33-to-support-externally-imported-types.html#tk.rss_javascript)
+- [Intro to SvelteKit 1.0: The full stack framework for Svelte](https://www.infoworld.com/article/3684274/intro-to-sveltekit-10-the-full-stack-framework-for-svelte.html#tk.rss_javascript)
 - [How to create your own RSS reader with R](https://www.infoworld.com/article/3684068/how-to-create-your-own-rss-reader-with-r.html#tk.rss_javascript)
 - [SvelteKit 1.0 brings a full stack to Svelte](https://www.infoworld.com/article/3683588/sveltekit-10-brings-a-full-stack-to-svelte.html#tk.rss_javascript)
 - [Intro to Alpine.js: A JavaScript framework for minimalists](https://www.infoworld.com/article/3682135/intro-to-alpinejs-a-javascript-framework-for-minimalists.html#tk.rss_javascript)
 - [GitHub bolsters NPM access control](https://www.infoworld.com/article/3682671/github-bolsters-npm-access-control.html#tk.rss_javascript)
-- [14 hot language projects riding WebAssembly](https://www.infoworld.com/article/3619608/14-hot-language-projects-riding-webassembly.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
