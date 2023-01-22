@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] What do you use for image tracking? I was wondering, with all the libraries and frameworks out there, what do you use for image tracking with JavaScript](https://www.reddit.com/r/javascript/comments/10hdmhl/askjs_what_do_you_use_for_image_tracking_i_was/)
-- [[AskJS] Please help timestamp calculation might be wrong](https://www.reddit.com/r/javascript/comments/10h7uuw/askjs_please_help_timestamp_calculation_might_be/)
-- [Get a date in ISO String format 120% faster on NodeJS](https://www.reddit.com/r/javascript/comments/10h68dw/get_a_date_in_iso_string_format_120_faster_on/)
-- [[AskJS] Best source for learning JavaScript Beginner / Advanced?](https://www.reddit.com/r/javascript/comments/10h5g8n/askjs_best_source_for_learning_javascript/)
-- [`laconic-ui`: a frontend framework for busy developers](https://www.reddit.com/r/javascript/comments/10h2o84/laconicui_a_frontend_framework_for_busy_developers/)
-- [Deep Cloning Objects in JavaScript, the Modern Way &lpar;via structuredClone&rpar;](https://www.reddit.com/r/javascript/comments/10gzynk/deep_cloning_objects_in_javascript_the_modern_way/)
-- [How to solve graph problems with BFS and DFS using JavaScript](https://www.reddit.com/r/javascript/comments/10gx6tv/how_to_solve_graph_problems_with_bfs_and_dfs/)
-- [One way of building an SVG icon library for your project](https://www.reddit.com/r/javascript/comments/10gwuxg/one_way_of_building_an_svg_icon_library_for_your/)
-- [How to Enable Emojis in Yarn Command Line Output - Dapper Dope](https://www.reddit.com/r/javascript/comments/10gobc1/how_to_enable_emojis_in_yarn_command_line_output/)
-- [[AskJS] I have some questions about recursion optimization if anyone is familiar](https://www.reddit.com/r/javascript/comments/10gc8zi/askjs_i_have_some_questions_about_recursion/)
+- [[AskJS] I need to do a completely client-side web app which loads a single remote JSON read-only and presents results on a map and table with filters. What should I do?](https://www.reddit.com/r/javascript/comments/10i75a6/askjs_i_need_to_do_a_completely_clientside_web/)
+- [Version 2 of a lightweight front-end library, with a lot of features and a detailed documentation.](https://www.reddit.com/r/javascript/comments/10i5ygv/version_2_of_a_lightweight_frontend_library_with/)
+- [@dorbus/flexboard: React component library for re-sizable sidebars](https://www.reddit.com/r/javascript/comments/10hxxib/dorbusflexboard_react_component_library_for/)
+- [Lenses for Immutable Data](https://www.reddit.com/r/javascript/comments/10hwx55/lenses_for_immutable_data/)
+- [Building and delivering frontends at scale](https://www.reddit.com/r/javascript/comments/10hrd6p/building_and_delivering_frontends_at_scale/)
+- [Showoff Saturday &lpar;January 21, 2023&rpar;](https://www.reddit.com/r/javascript/comments/10hm3cp/showoff_saturday_january_21_2023/)
+- [Pipe Operator &lpar;|&gt;&rpar; for JavaScript](https://www.reddit.com/r/javascript/comments/10hlxzz/pipe_operator_for_javascript/)
+- [Conversations: A chat-bot that is community-driven and open source – powered by you! &lpar;WIP &amp; Looking for Contributors!&rpar;](https://www.reddit.com/r/javascript/comments/10hlmcm/conversations_a_chatbot_that_is_communitydriven/)
+- [an open-source chrome extension powered by GPT-3 to get the explanation of a piece of code on any site &lpar;Stackoverflow, Github, etc&rpar;.](https://www.reddit.com/r/javascript/comments/10hkuyv/an_opensource_chrome_extension_powered_by_gpt3_to/)
+- [[AskJS] Have you ever used ChatGBT to code javascript? to help? to improve? as an assistant? to make things easier? What was the success rate?](https://www.reddit.com/r/javascript/comments/10hgeom/askjs_have_you_ever_used_chatgbt_to_code/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
