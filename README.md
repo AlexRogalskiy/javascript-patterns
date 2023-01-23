@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] I need to do a completely client-side web app which loads a single remote JSON read-only and presents results on a map and table with filters. What should I do?](https://www.reddit.com/r/javascript/comments/10i75a6/askjs_i_need_to_do_a_completely_clientside_web/)
-- [Version 2 of a lightweight front-end library, with a lot of features and a detailed documentation.](https://www.reddit.com/r/javascript/comments/10i5ygv/version_2_of_a_lightweight_frontend_library_with/)
-- [@dorbus/flexboard: React component library for re-sizable sidebars](https://www.reddit.com/r/javascript/comments/10hxxib/dorbusflexboard_react_component_library_for/)
+- [[AskJS] Opinions on how to export default const](https://www.reddit.com/r/javascript/comments/10ixp1w/askjs_opinions_on_how_to_export_default_const/)
+- [Tutorial: Setting up CI/CD Pipeline for a React app using Travis CI](https://www.reddit.com/r/javascript/comments/10ipv9h/tutorial_setting_up_cicd_pipeline_for_a_react_app/)
+- [[AskJS] My thoughts after switching from React to Vue](https://www.reddit.com/r/javascript/comments/10in31d/askjs_my_thoughts_after_switching_from_react_to/)
+- [[AskJS] Text to Speech Library for JavaScript](https://www.reddit.com/r/javascript/comments/10imvka/askjs_text_to_speech_library_for_javascript/)
+- [Use the .matches&lpar;&rpar; Method to Determine if a Selector Matches an Element](https://www.reddit.com/r/javascript/comments/10i9nir/use_the_matches_method_to_determine_if_a_selector/)
 - [Lenses for Immutable Data](https://www.reddit.com/r/javascript/comments/10hwx55/lenses_for_immutable_data/)
 - [Building and delivering frontends at scale](https://www.reddit.com/r/javascript/comments/10hrd6p/building_and_delivering_frontends_at_scale/)
 - [Showoff Saturday &lpar;January 21, 2023&rpar;](https://www.reddit.com/r/javascript/comments/10hm3cp/showoff_saturday_january_21_2023/)
 - [Pipe Operator &lpar;|&gt;&rpar; for JavaScript](https://www.reddit.com/r/javascript/comments/10hlxzz/pipe_operator_for_javascript/)
 - [Conversations: A chat-bot that is community-driven and open source – powered by you! &lpar;WIP &amp; Looking for Contributors!&rpar;](https://www.reddit.com/r/javascript/comments/10hlmcm/conversations_a_chatbot_that_is_communitydriven/)
-- [an open-source chrome extension powered by GPT-3 to get the explanation of a piece of code on any site &lpar;Stackoverflow, Github, etc&rpar;.](https://www.reddit.com/r/javascript/comments/10hkuyv/an_opensource_chrome_extension_powered_by_gpt3_to/)
-- [[AskJS] Have you ever used ChatGBT to code javascript? to help? to improve? as an assistant? to make things easier? What was the success rate?](https://www.reddit.com/r/javascript/comments/10hgeom/askjs_have_you_ever_used_chatgbt_to_code/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
