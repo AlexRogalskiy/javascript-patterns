@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Opinions on how to export default const](https://www.reddit.com/r/javascript/comments/10ixp1w/askjs_opinions_on_how_to_export_default_const/)
-- [Tutorial: Setting up CI/CD Pipeline for a React app using Travis CI](https://www.reddit.com/r/javascript/comments/10ipv9h/tutorial_setting_up_cicd_pipeline_for_a_react_app/)
-- [[AskJS] My thoughts after switching from React to Vue](https://www.reddit.com/r/javascript/comments/10in31d/askjs_my_thoughts_after_switching_from_react_to/)
-- [[AskJS] Text to Speech Library for JavaScript](https://www.reddit.com/r/javascript/comments/10imvka/askjs_text_to_speech_library_for_javascript/)
-- [Use the .matches&lpar;&rpar; Method to Determine if a Selector Matches an Element](https://www.reddit.com/r/javascript/comments/10i9nir/use_the_matches_method_to_determine_if_a_selector/)
-- [Lenses for Immutable Data](https://www.reddit.com/r/javascript/comments/10hwx55/lenses_for_immutable_data/)
-- [Building and delivering frontends at scale](https://www.reddit.com/r/javascript/comments/10hrd6p/building_and_delivering_frontends_at_scale/)
-- [Showoff Saturday &lpar;January 21, 2023&rpar;](https://www.reddit.com/r/javascript/comments/10hm3cp/showoff_saturday_january_21_2023/)
-- [Pipe Operator &lpar;|&gt;&rpar; for JavaScript](https://www.reddit.com/r/javascript/comments/10hlxzz/pipe_operator_for_javascript/)
-- [Conversations: A chat-bot that is community-driven and open source – powered by you! &lpar;WIP &amp; Looking for Contributors!&rpar;](https://www.reddit.com/r/javascript/comments/10hlmcm/conversations_a_chatbot_that_is_communitydriven/)
+- [Understand JavaScript Array Methods By Implementing Them - A Blog](https://www.reddit.com/r/javascript/comments/10ju2qh/understand_javascript_array_methods_by/)
+- [A new web development IDE Suite](https://www.reddit.com/r/javascript/comments/10jredy/a_new_web_development_ide_suite/)
+- [Example of Clean Architecture in React.js](https://www.reddit.com/r/javascript/comments/10jq7mn/example_of_clean_architecture_in_reactjs/)
+- [[AskJS] What would you study for a entry level JS interview?](https://www.reddit.com/r/javascript/comments/10jpnud/askjs_what_would_you_study_for_a_entry_level_js/)
+- [Making sense of TypeScript using set theory](https://www.reddit.com/r/javascript/comments/10jn6hk/making_sense_of_typescript_using_set_theory/)
+- [uFuzzy 1.0 - A tiny, efficient fuzzy search that doesn&#39;t suck](https://www.reddit.com/r/javascript/comments/10jmqjy/ufuzzy_10_a_tiny_efficient_fuzzy_search_that/)
+- [Template for full stack applications based on TypeScript, React, Vite, ChakraUI, tRPC, Fastify, Prisma, zod, etc.](https://www.reddit.com/r/javascript/comments/10jjjli/template_for_full_stack_applications_based_on/)
+- [[TSTL] My open source failure stories](https://www.reddit.com/r/javascript/comments/10jibj3/tstl_my_open_source_failure_stories/)
+- [A simple example of the Least Recently Used &lpar;LRU&rpar; Cache implementation in JS](https://www.reddit.com/r/javascript/comments/10jhv0r/a_simple_example_of_the_least_recently_used_lru/)
+- [[AskJS] How open source is Apollo router?](https://www.reddit.com/r/javascript/comments/10jg3ok/askjs_how_open_source_is_apollo_router/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
