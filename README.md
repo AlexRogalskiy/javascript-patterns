@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Understand JavaScript Array Methods By Implementing Them - A Blog](https://www.reddit.com/r/javascript/comments/10ju2qh/understand_javascript_array_methods_by/)
-- [A new web development IDE Suite](https://www.reddit.com/r/javascript/comments/10jredy/a_new_web_development_ide_suite/)
-- [Example of Clean Architecture in React.js](https://www.reddit.com/r/javascript/comments/10jq7mn/example_of_clean_architecture_in_reactjs/)
-- [[AskJS] What would you study for a entry level JS interview?](https://www.reddit.com/r/javascript/comments/10jpnud/askjs_what_would_you_study_for_a_entry_level_js/)
-- [Making sense of TypeScript using set theory](https://www.reddit.com/r/javascript/comments/10jn6hk/making_sense_of_typescript_using_set_theory/)
-- [uFuzzy 1.0 - A tiny, efficient fuzzy search that doesn&#39;t suck](https://www.reddit.com/r/javascript/comments/10jmqjy/ufuzzy_10_a_tiny_efficient_fuzzy_search_that/)
-- [Template for full stack applications based on TypeScript, React, Vite, ChakraUI, tRPC, Fastify, Prisma, zod, etc.](https://www.reddit.com/r/javascript/comments/10jjjli/template_for_full_stack_applications_based_on/)
-- [[TSTL] My open source failure stories](https://www.reddit.com/r/javascript/comments/10jibj3/tstl_my_open_source_failure_stories/)
-- [A simple example of the Least Recently Used &lpar;LRU&rpar; Cache implementation in JS](https://www.reddit.com/r/javascript/comments/10jhv0r/a_simple_example_of_the_least_recently_used_lru/)
-- [[AskJS] How open source is Apollo router?](https://www.reddit.com/r/javascript/comments/10jg3ok/askjs_how_open_source_is_apollo_router/)
+- [About the improvement way for a js based website, what will you choose to do?](https://www.reddit.com/r/javascript/comments/10kmo1h/about_the_improvement_way_for_a_js_based_website/)
+- [Atomic: Solve all your scheduling problems using open source AI planner for everyone](https://www.reddit.com/r/javascript/comments/10kig9y/atomic_solve_all_your_scheduling_problems_using/)
+- [Astro 2.0 released today](https://www.reddit.com/r/javascript/comments/10kd701/astro_20_released_today/)
+- [Master the Basic Art of Making HTTP Requests with Javascript](https://www.reddit.com/r/javascript/comments/10kbpqp/master_the_basic_art_of_making_http_requests_with/)
+- [OpenJS Foundation Cross Project Council, 25 Oct 2022](https://www.reddit.com/r/javascript/comments/10k99jr/openjs_foundation_cross_project_council_25_oct/)
+- [Markdown Run Book - turn your Markdown documentation into executable runbooks](https://www.reddit.com/r/javascript/comments/10k902w/markdown_run_book_turn_your_markdown/)
+- [Logic and Multiply-Quantified Statements in JavaScript](https://www.reddit.com/r/javascript/comments/10k83lh/logic_and_multiplyquantified_statements_in/)
+- [Promises, Thenables, &amp; Lazy-evaluation: What, Why, How](https://www.reddit.com/r/javascript/comments/10k6y9f/promises_thenables_lazyevaluation_what_why_how/)
+- [Hot tip - Use snapshots in React Testing Library to debug faster](https://www.reddit.com/r/javascript/comments/10k535h/hot_tip_use_snapshots_in_react_testing_library_to/)
+- [[AskJS] [SWE] Magyar Notation?](https://www.reddit.com/r/javascript/comments/10k2zru/askjs_swe_magyar_notation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
