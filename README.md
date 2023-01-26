@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [About the improvement way for a js based website, what will you choose to do?](https://www.reddit.com/r/javascript/comments/10kmo1h/about_the_improvement_way_for_a_js_based_website/)
-- [Atomic: Solve all your scheduling problems using open source AI planner for everyone](https://www.reddit.com/r/javascript/comments/10kig9y/atomic_solve_all_your_scheduling_problems_using/)
-- [Astro 2.0 released today](https://www.reddit.com/r/javascript/comments/10kd701/astro_20_released_today/)
-- [Master the Basic Art of Making HTTP Requests with Javascript](https://www.reddit.com/r/javascript/comments/10kbpqp/master_the_basic_art_of_making_http_requests_with/)
-- [OpenJS Foundation Cross Project Council, 25 Oct 2022](https://www.reddit.com/r/javascript/comments/10k99jr/openjs_foundation_cross_project_council_25_oct/)
-- [Markdown Run Book - turn your Markdown documentation into executable runbooks](https://www.reddit.com/r/javascript/comments/10k902w/markdown_run_book_turn_your_markdown/)
-- [Logic and Multiply-Quantified Statements in JavaScript](https://www.reddit.com/r/javascript/comments/10k83lh/logic_and_multiplyquantified_statements_in/)
-- [Promises, Thenables, &amp; Lazy-evaluation: What, Why, How](https://www.reddit.com/r/javascript/comments/10k6y9f/promises_thenables_lazyevaluation_what_why_how/)
-- [Hot tip - Use snapshots in React Testing Library to debug faster](https://www.reddit.com/r/javascript/comments/10k535h/hot_tip_use_snapshots_in_react_testing_library_to/)
-- [[AskJS] [SWE] Magyar Notation?](https://www.reddit.com/r/javascript/comments/10k2zru/askjs_swe_magyar_notation/)
+- [keri 108.0.1462.77](https://www.reddit.com/r/javascript/comments/10lf21v/keri_1080146277/)
+- [Scrollend, a new JavaScript event](https://www.reddit.com/r/javascript/comments/10lcd39/scrollend_a_new_javascript_event/)
+- [Produce type-safe GraphQL queries using TypeScript](https://www.reddit.com/r/javascript/comments/10l97q4/produce_typesafe_graphql_queries_using_typescript/)
+- [DiscordDiffusion: An Open Source &lpar;Node.js&rpar; Stable Diffusion Discord bot, powered by the StabilityAI API &lpar;x-post r/node&rpar;](https://www.reddit.com/r/javascript/comments/10l6pml/discorddiffusion_an_open_source_nodejs_stable/)
+- [Any Vercel users using the new Vercel visual commenting features?](https://www.reddit.com/r/javascript/comments/10l5lq7/any_vercel_users_using_the_new_vercel_visual/)
+- [22 – What is a URL or a URI? Connection Strings Explained.](https://www.reddit.com/r/javascript/comments/10l52gc/22_what_is_a_url_or_a_uri_connection_strings/)
+- [I built a simple Playwright CI dashboard &amp; debugger - would love to learn what y’all think!](https://www.reddit.com/r/javascript/comments/10l40jp/i_built_a_simple_playwright_ci_dashboard_debugger/)
+- [Deploy your Next.js application to Vercel using Sentry and Github Actions](https://www.reddit.com/r/javascript/comments/10l3is2/deploy_your_nextjs_application_to_vercel_using/)
+- [How to build isomorphic type safe APIs](https://www.reddit.com/r/javascript/comments/10l0zu4/how_to_build_isomorphic_type_safe_apis/)
+- [[AskJS] Is React-Native still the best for mobile apps?](https://www.reddit.com/r/javascript/comments/10kyvnm/askjs_is_reactnative_still_the_best_for_mobile/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
