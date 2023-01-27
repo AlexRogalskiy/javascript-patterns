@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [keri 108.0.1462.77](https://www.reddit.com/r/javascript/comments/10lf21v/keri_1080146277/)
+- [[AskJS] Does Another Language Duplicate JS&#39; Generator Functions](https://www.reddit.com/r/javascript/comments/10m9an6/askjs_does_another_language_duplicate_js/)
+- [i made my own react](https://www.reddit.com/r/javascript/comments/10m7n1s/i_made_my_own_react/)
+- [Announcing TypeScript 5.0 Beta](https://www.reddit.com/r/javascript/comments/10m3mll/announcing_typescript_50_beta/)
+- [How to add client-side search with PageFind to your Astro blog static website](https://www.reddit.com/r/javascript/comments/10m2p0z/how_to_add_clientside_search_with_pagefind_to/)
+- [Best Practices for PII Data Protection using Symmetric Encryption in JavaScript](https://www.reddit.com/r/javascript/comments/10ls9w6/best_practices_for_pii_data_protection_using/)
+- [Deploy a Static Site to AWS as code with CDK &lpar;TypeScript&rpar;](https://www.reddit.com/r/javascript/comments/10lptfd/deploy_a_static_site_to_aws_as_code_with_cdk/)
+- [GitHub - Samsung/jalangi2: Dynamic analysis framework for JavaScript](https://www.reddit.com/r/javascript/comments/10lpkdd/github_samsungjalangi2_dynamic_analysis_framework/)
+- [tail-call-proxy: a library to perform tail call in constant stack size](https://www.reddit.com/r/javascript/comments/10lmo4d/tailcallproxy_a_library_to_perform_tail_call_in/)
 - [Scrollend, a new JavaScript event](https://www.reddit.com/r/javascript/comments/10lcd39/scrollend_a_new_javascript_event/)
 - [Produce type-safe GraphQL queries using TypeScript](https://www.reddit.com/r/javascript/comments/10l97q4/produce_typesafe_graphql_queries_using_typescript/)
-- [DiscordDiffusion: An Open Source &lpar;Node.js&rpar; Stable Diffusion Discord bot, powered by the StabilityAI API &lpar;x-post r/node&rpar;](https://www.reddit.com/r/javascript/comments/10l6pml/discorddiffusion_an_open_source_nodejs_stable/)
-- [Any Vercel users using the new Vercel visual commenting features?](https://www.reddit.com/r/javascript/comments/10l5lq7/any_vercel_users_using_the_new_vercel_visual/)
-- [22 – What is a URL or a URI? Connection Strings Explained.](https://www.reddit.com/r/javascript/comments/10l52gc/22_what_is_a_url_or_a_uri_connection_strings/)
-- [I built a simple Playwright CI dashboard &amp; debugger - would love to learn what y’all think!](https://www.reddit.com/r/javascript/comments/10l40jp/i_built_a_simple_playwright_ci_dashboard_debugger/)
-- [Deploy your Next.js application to Vercel using Sentry and Github Actions](https://www.reddit.com/r/javascript/comments/10l3is2/deploy_your_nextjs_application_to_vercel_using/)
-- [How to build isomorphic type safe APIs](https://www.reddit.com/r/javascript/comments/10l0zu4/how_to_build_isomorphic_type_safe_apis/)
-- [[AskJS] Is React-Native still the best for mobile apps?](https://www.reddit.com/r/javascript/comments/10kyvnm/askjs_is_reactnative_still_the_best_for_mobile/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
