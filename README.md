@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Will ChatGPT make us obsolete ?](https://www.reddit.com/r/javascript/comments/10n0674/askjs_will_chatgpt_make_us_obsolete/)
+- [Using Sourcegraph to discover non-NPM JS projects](https://www.reddit.com/r/javascript/comments/10mtk7h/using_sourcegraph_to_discover_nonnpm_js_projects/)
+- [Learning Python is the Start of Something Good](https://www.reddit.com/r/javascript/comments/10ms8kq/learning_python_is_the_start_of_something_good/)
+- [Migrate jQuery to VanillaJS - UpgradeJS.com](https://www.reddit.com/r/javascript/comments/10mptj3/migrate_jquery_to_vanillajs_upgradejscom/)
+- [SQL Schema Visualizer – an open-source project built with TypeScript and ReactFlow](https://www.reddit.com/r/javascript/comments/10moxfa/sql_schema_visualizer_an_opensource_project_built/)
+- [We just release our first version of TOONKS, a 3D Multiplayer Game where you can play a tiny tank against your friends directly on your browser without any installation.](https://www.reddit.com/r/javascript/comments/10mit8s/we_just_release_our_first_version_of_toonks_a_3d/)
+- [Reactivity without Virtual DOM! Potentially faster reactivity than using Virtual DOM! Beta test!](https://www.reddit.com/r/javascript/comments/10mi0bi/reactivity_without_virtual_dom_potentially_faster/)
+- [Github - Open Source browser extension to see the stars and languages of a Github repo whilst hovering over its link on any website](https://www.reddit.com/r/javascript/comments/10mgb59/github_open_source_browser_extension_to_see_the/)
+- [ctrl+flow is a full stack JS framework for turning users into contributors](https://www.reddit.com/r/javascript/comments/10mazcg/ctrlflow_is_a_full_stack_js_framework_for_turning/)
 - [[AskJS] Does Another Language Duplicate JS&#39; Generator Functions](https://www.reddit.com/r/javascript/comments/10m9an6/askjs_does_another_language_duplicate_js/)
-- [i made my own react](https://www.reddit.com/r/javascript/comments/10m7n1s/i_made_my_own_react/)
-- [Announcing TypeScript 5.0 Beta](https://www.reddit.com/r/javascript/comments/10m3mll/announcing_typescript_50_beta/)
-- [How to add client-side search with PageFind to your Astro blog static website](https://www.reddit.com/r/javascript/comments/10m2p0z/how_to_add_clientside_search_with_pagefind_to/)
-- [Best Practices for PII Data Protection using Symmetric Encryption in JavaScript](https://www.reddit.com/r/javascript/comments/10ls9w6/best_practices_for_pii_data_protection_using/)
-- [Deploy a Static Site to AWS as code with CDK &lpar;TypeScript&rpar;](https://www.reddit.com/r/javascript/comments/10lptfd/deploy_a_static_site_to_aws_as_code_with_cdk/)
-- [GitHub - Samsung/jalangi2: Dynamic analysis framework for JavaScript](https://www.reddit.com/r/javascript/comments/10lpkdd/github_samsungjalangi2_dynamic_analysis_framework/)
-- [tail-call-proxy: a library to perform tail call in constant stack size](https://www.reddit.com/r/javascript/comments/10lmo4d/tailcallproxy_a_library_to_perform_tail_call_in/)
-- [Scrollend, a new JavaScript event](https://www.reddit.com/r/javascript/comments/10lcd39/scrollend_a_new_javascript_event/)
-- [Produce type-safe GraphQL queries using TypeScript](https://www.reddit.com/r/javascript/comments/10l97q4/produce_typesafe_graphql_queries_using_typescript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
