@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[Tutorial] Writing a simple AI-powered chrome extension for LinkedIn](https://www.reddit.com/r/javascript/comments/10oi0x0/tutorial_writing_a_simple_aipowered_chrome/)
+- [A better way to set up a Cloudflare worker project locally with Miniflare](https://www.reddit.com/r/javascript/comments/10oh3af/a_better_way_to_set_up_a_cloudflare_worker/)
+- [Serverless functions in Next.js](https://www.reddit.com/r/javascript/comments/10oblai/serverless_functions_in_nextjs/)
+- [[AskJS] Which organization migrated to vitest in production and significant gains?](https://www.reddit.com/r/javascript/comments/10o96g1/askjs_which_organization_migrated_to_vitest_in/)
+- [2023 State of Databases for Serverless &amp; Edge](https://www.reddit.com/r/javascript/comments/10o8v2f/2023_state_of_databases_for_serverless_edge/)
+- [Adding security to Nuxt 3 | The Snyk blog](https://www.reddit.com/r/javascript/comments/10o5hxc/adding_security_to_nuxt_3_the_snyk_blog/)
+- [[AskJS] Choosing graph editor](https://www.reddit.com/r/javascript/comments/10o472t/askjs_choosing_graph_editor/)
 - [You’ve Got Options for Removing Event Listeners](https://www.reddit.com/r/javascript/comments/10nqife/youve_got_options_for_removing_event_listeners/)
-- [[AskJS] JavaScript and React-Native on Linux systems](https://www.reddit.com/r/javascript/comments/10nkxw7/askjs_javascript_and_reactnative_on_linux_systems/)
-- [A small article with thoughts on Reactivity without Virtual DOM in addition to the previous reddit post.](https://www.reddit.com/r/javascript/comments/10nckct/a_small_article_with_thoughts_on_reactivity/)
 - [Showoff Saturday &lpar;January 28, 2023&rpar;](https://www.reddit.com/r/javascript/comments/10n9qhe/showoff_saturday_january_28_2023/)
 - [[Nestia] 15,000x faster validators and tRPC &lpar;SDK&rpar; for NestJS](https://www.reddit.com/r/javascript/comments/10n83n2/nestia_15000x_faster_validators_and_trpc_sdk_for/)
-- [[AskJS] Will ChatGPT make us obsolete ?](https://www.reddit.com/r/javascript/comments/10n0674/askjs_will_chatgpt_make_us_obsolete/)
-- [Using Sourcegraph to discover non-NPM JS projects](https://www.reddit.com/r/javascript/comments/10mtk7h/using_sourcegraph_to_discover_nonnpm_js_projects/)
-- [Migrate jQuery to VanillaJS - UpgradeJS.com](https://www.reddit.com/r/javascript/comments/10mptj3/migrate_jquery_to_vanillajs_upgradejscom/)
-- [SQL Schema Visualizer – an open-source project built with TypeScript and ReactFlow](https://www.reddit.com/r/javascript/comments/10moxfa/sql_schema_visualizer_an_opensource_project_built/)
-- [We just release our first version of TOONKS, a 3D Multiplayer Game where you can play a tiny tank against your friends directly on your browser without any installation.](https://www.reddit.com/r/javascript/comments/10mit8s/we_just_release_our_first_version_of_toonks_a_3d/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
