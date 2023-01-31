@@ -300,8 +300,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [JavaScript, Java, and Python skills top demand](https://www.infoworld.com/article/3685672/javascript-java-and-python-skills-top-demand.html#tk.rss_javascript)
 - [Interest in React, Angular, and Vue is waning](https://www.infoworld.com/article/3685431/interest-in-react-angular-and-vue-is-waning.html#tk.rss_javascript)
 - [Using JavaScript and forms](https://www.infoworld.com/article/2077176/using-javascript-and-forms.html#tk.rss_javascript)
-- [Vue 3.3 to support externally imported types](https://www.infoworld.com/article/3684729/vue-33-to-support-externally-imported-types.html#tk.rss_javascript)
 - [Intro to SvelteKit 1.0: The full stack framework for Svelte](https://www.infoworld.com/article/3684274/intro-to-sveltekit-10-the-full-stack-framework-for-svelte.html#tk.rss_javascript)
+- [Vue 3.3 to support externally imported types](https://www.infoworld.com/article/3684729/vue-33-to-support-externally-imported-types.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
