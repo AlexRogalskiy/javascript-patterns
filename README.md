@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[Tutorial] Writing a simple AI-powered chrome extension for LinkedIn](https://www.reddit.com/r/javascript/comments/10oi0x0/tutorial_writing_a_simple_aipowered_chrome/)
-- [A better way to set up a Cloudflare worker project locally with Miniflare](https://www.reddit.com/r/javascript/comments/10oh3af/a_better_way_to_set_up_a_cloudflare_worker/)
-- [Serverless functions in Next.js](https://www.reddit.com/r/javascript/comments/10oblai/serverless_functions_in_nextjs/)
-- [[AskJS] Which organization migrated to vitest in production and significant gains?](https://www.reddit.com/r/javascript/comments/10o96g1/askjs_which_organization_migrated_to_vitest_in/)
-- [2023 State of Databases for Serverless &amp; Edge](https://www.reddit.com/r/javascript/comments/10o8v2f/2023_state_of_databases_for_serverless_edge/)
-- [Adding security to Nuxt 3 | The Snyk blog](https://www.reddit.com/r/javascript/comments/10o5hxc/adding_security_to_nuxt_3_the_snyk_blog/)
-- [[AskJS] Choosing graph editor](https://www.reddit.com/r/javascript/comments/10o472t/askjs_choosing_graph_editor/)
-- [You’ve Got Options for Removing Event Listeners](https://www.reddit.com/r/javascript/comments/10nqife/youve_got_options_for_removing_event_listeners/)
-- [Showoff Saturday &lpar;January 28, 2023&rpar;](https://www.reddit.com/r/javascript/comments/10n9qhe/showoff_saturday_january_28_2023/)
-- [[Nestia] 15,000x faster validators and tRPC &lpar;SDK&rpar; for NestJS](https://www.reddit.com/r/javascript/comments/10n83n2/nestia_15000x_faster_validators_and_trpc_sdk_for/)
+- [I created a design system and it&#39;s called Beef Design System](https://www.reddit.com/r/javascript/comments/10pjyip/i_created_a_design_system_and_its_called_beef/)
+- [Automerge 2.0 - CRDTs and Local-first Software](https://www.reddit.com/r/javascript/comments/10pfjkv/automerge_20_crdts_and_localfirst_software/)
+- [A tiny tool for packing isomorphic JS](https://www.reddit.com/r/javascript/comments/10pascz/a_tiny_tool_for_packing_isomorphic_js/)
+- [Monoids in Practice | Inter Caetera](https://www.reddit.com/r/javascript/comments/10par6x/monoids_in_practice_inter_caetera/)
+- [Excited to share my latest open-source project! I just published a website template for the classic game Space Invaders using the p5 library. Check it out and feel free to download and customize it](https://www.reddit.com/r/javascript/comments/10p8rsq/excited_to_share_my_latest_opensource_project_i/)
+- [ScrollyVideo.js - Responsive scrollable videos without obscure video encoding requirements. Compatible with React, Svelte, Vue, and plain HTML](https://www.reddit.com/r/javascript/comments/10p6ocf/scrollyvideojs_responsive_scrollable_videos/)
+- [The Vanilla JavaScript Repository - Because lighter plugins mean lighter sites](https://www.reddit.com/r/javascript/comments/10p4xko/the_vanilla_javascript_repository_because_lighter/)
+- [[AskJS] Can we talk about Stubs, Spies and Mocks in JavaScript and what a mess they are?](https://www.reddit.com/r/javascript/comments/10p0qck/askjs_can_we_talk_about_stubs_spies_and_mocks_in/)
+- [GitHub - iendeavor/grpc-devtools: Devtools for grpc-web, same UI as Chrome network panel](https://www.reddit.com/r/javascript/comments/10p02jz/github_iendeavorgrpcdevtools_devtools_for_grpcweb/)
+- [Mutative: production-ready version coming soon, it provides the fastest immutable data updates.](https://www.reddit.com/r/javascript/comments/10oz4jw/mutative_productionready_version_coming_soon_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
