@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Server-side rendering is having a moment](https://www.infoworld.com/article/3686649/server-side-rendering-is-having-a-moment.html#tk.rss_javascript)
 - [TypeScript 5.0 retools decorators](https://www.infoworld.com/article/3686509/typescript-50-retools-decorators.html#tk.rss_javascript)
 - [CodeSandbox adds Rust support](https://www.infoworld.com/article/3686058/codesandbox-adds-rust-support.html#tk.rss_javascript)
 - [Google V8 API bridges WebAssembly and asynchronous web](https://www.infoworld.com/article/3686098/google-v8-api-bridges-webassembly-and-asynchronous-web.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Interest in React, Angular, and Vue is waning](https://www.infoworld.com/article/3685431/interest-in-react-angular-and-vue-is-waning.html#tk.rss_javascript)
 - [Using JavaScript and forms](https://www.infoworld.com/article/2077176/using-javascript-and-forms.html#tk.rss_javascript)
 - [Intro to SvelteKit 1.0: The full stack framework for Svelte](https://www.infoworld.com/article/3684274/intro-to-sveltekit-10-the-full-stack-framework-for-svelte.html#tk.rss_javascript)
-- [Vue 3.3 to support externally imported types](https://www.infoworld.com/article/3684729/vue-33-to-support-externally-imported-types.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
