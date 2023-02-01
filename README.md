@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Cleaner Unit Tests with Custom Matchers](https://www.reddit.com/r/javascript/comments/10qej0p/cleaner_unit_tests_with_custom_matchers/)
+- [Are you also validating a JavaScript URL using RegEx?](https://www.reddit.com/r/javascript/comments/10qcowg/are_you_also_validating_a_javascript_url_using/)
+- [ts-audio v0.7.4 is out!](https://www.reddit.com/r/javascript/comments/10q8uyt/tsaudio_v074_is_out/)
+- [Interop 2022: Outcomes](https://www.reddit.com/r/javascript/comments/10q4ouy/interop_2022_outcomes/)
+- [Create-React-App in 2023 — 5 Future Paths](https://www.reddit.com/r/javascript/comments/10q2tm4/createreactapp_in_2023_5_future_paths/)
+- [On Playwright in GitHub Actions](https://www.reddit.com/r/javascript/comments/10px09b/on_playwright_in_github_actions/)
+- [Node + SWC make a lightning fast typescript runtime](https://www.reddit.com/r/javascript/comments/10pujhj/node_swc_make_a_lightning_fast_typescript_runtime/)
 - [I created a design system and it&#39;s called Beef Design System](https://www.reddit.com/r/javascript/comments/10pjyip/i_created_a_design_system_and_its_called_beef/)
 - [Automerge 2.0 - CRDTs and Local-first Software](https://www.reddit.com/r/javascript/comments/10pfjkv/automerge_20_crdts_and_localfirst_software/)
 - [A tiny tool for packing isomorphic JS](https://www.reddit.com/r/javascript/comments/10pascz/a_tiny_tool_for_packing_isomorphic_js/)
-- [Monoids in Practice | Inter Caetera](https://www.reddit.com/r/javascript/comments/10par6x/monoids_in_practice_inter_caetera/)
-- [Excited to share my latest open-source project! I just published a website template for the classic game Space Invaders using the p5 library. Check it out and feel free to download and customize it](https://www.reddit.com/r/javascript/comments/10p8rsq/excited_to_share_my_latest_opensource_project_i/)
-- [ScrollyVideo.js - Responsive scrollable videos without obscure video encoding requirements. Compatible with React, Svelte, Vue, and plain HTML](https://www.reddit.com/r/javascript/comments/10p6ocf/scrollyvideojs_responsive_scrollable_videos/)
-- [The Vanilla JavaScript Repository - Because lighter plugins mean lighter sites](https://www.reddit.com/r/javascript/comments/10p4xko/the_vanilla_javascript_repository_because_lighter/)
-- [[AskJS] Can we talk about Stubs, Spies and Mocks in JavaScript and what a mess they are?](https://www.reddit.com/r/javascript/comments/10p0qck/askjs_can_we_talk_about_stubs_spies_and_mocks_in/)
-- [GitHub - iendeavor/grpc-devtools: Devtools for grpc-web, same UI as Chrome network panel](https://www.reddit.com/r/javascript/comments/10p02jz/github_iendeavorgrpcdevtools_devtools_for_grpcweb/)
-- [Mutative: production-ready version coming soon, it provides the fastest immutable data updates.](https://www.reddit.com/r/javascript/comments/10oz4jw/mutative_productionready_version_coming_soon_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
