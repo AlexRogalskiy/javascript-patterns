@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Cleaner Unit Tests with Custom Matchers](https://www.reddit.com/r/javascript/comments/10qej0p/cleaner_unit_tests_with_custom_matchers/)
-- [Are you also validating a JavaScript URL using RegEx?](https://www.reddit.com/r/javascript/comments/10qcowg/are_you_also_validating_a_javascript_url_using/)
-- [ts-audio v0.7.4 is out!](https://www.reddit.com/r/javascript/comments/10q8uyt/tsaudio_v074_is_out/)
-- [Interop 2022: Outcomes](https://www.reddit.com/r/javascript/comments/10q4ouy/interop_2022_outcomes/)
-- [Create-React-App in 2023 — 5 Future Paths](https://www.reddit.com/r/javascript/comments/10q2tm4/createreactapp_in_2023_5_future_paths/)
-- [On Playwright in GitHub Actions](https://www.reddit.com/r/javascript/comments/10px09b/on_playwright_in_github_actions/)
-- [Node + SWC make a lightning fast typescript runtime](https://www.reddit.com/r/javascript/comments/10pujhj/node_swc_make_a_lightning_fast_typescript_runtime/)
-- [I created a design system and it&#39;s called Beef Design System](https://www.reddit.com/r/javascript/comments/10pjyip/i_created_a_design_system_and_its_called_beef/)
-- [Automerge 2.0 - CRDTs and Local-first Software](https://www.reddit.com/r/javascript/comments/10pfjkv/automerge_20_crdts_and_localfirst_software/)
-- [A tiny tool for packing isomorphic JS](https://www.reddit.com/r/javascript/comments/10pascz/a_tiny_tool_for_packing_isomorphic_js/)
+- [Netlify Acquires Gatsby Inc.](https://www.reddit.com/r/javascript/comments/10r71hb/netlify_acquires_gatsby_inc/)
+- [Introducing SpeedrunJS. A beginner-friendly, feature-packed, and lightweight library for general web development and making programming faster. Inspired heavily by P5JS.](https://www.reddit.com/r/javascript/comments/10r41bw/introducing_speedrunjs_a_beginnerfriendly/)
+- [Filter risky packages from npm with a proxy](https://www.reddit.com/r/javascript/comments/10r2fjp/filter_risky_packages_from_npm_with_a_proxy/)
+- [Announcing Interop 2023](https://www.reddit.com/r/javascript/comments/10r0y2x/announcing_interop_2023/)
+- [Unlocking security updates for transitive npm dependencies at GitHub](https://www.reddit.com/r/javascript/comments/10qx71a/unlocking_security_updates_for_transitive_npm/)
+- [[AskJS] Any good shortcuts for migrating off of enzyme?](https://www.reddit.com/r/javascript/comments/10qv5gh/askjs_any_good_shortcuts_for_migrating_off_of/)
+- [Javascript by Javascript - Camel by Camel cover generated in Javascript](https://www.reddit.com/r/javascript/comments/10qqd4x/javascript_by_javascript_camel_by_camel_cover/)
+- [I made an open source VS Code extension that let&#39;s you chat, edit code, get explanations, generate tests and diagnose errors with AI](https://www.reddit.com/r/javascript/comments/10qp62f/i_made_an_open_source_vs_code_extension_that_lets/)
+- [WTF Wednesday &lpar;February 01, 2023&rpar;](https://www.reddit.com/r/javascript/comments/10qnzoz/wtf_wednesday_february_01_2023/)
+- [The joy, the pride and the burden of maintaining open source](https://www.reddit.com/r/javascript/comments/10qnj4t/the_joy_the_pride_and_the_burden_of_maintaining/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
