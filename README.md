@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Netlify Acquires Gatsby Inc.](https://www.reddit.com/r/javascript/comments/10r71hb/netlify_acquires_gatsby_inc/)
-- [Introducing SpeedrunJS. A beginner-friendly, feature-packed, and lightweight library for general web development and making programming faster. Inspired heavily by P5JS.](https://www.reddit.com/r/javascript/comments/10r41bw/introducing_speedrunjs_a_beginnerfriendly/)
-- [Filter risky packages from npm with a proxy](https://www.reddit.com/r/javascript/comments/10r2fjp/filter_risky_packages_from_npm_with_a_proxy/)
-- [Announcing Interop 2023](https://www.reddit.com/r/javascript/comments/10r0y2x/announcing_interop_2023/)
-- [Unlocking security updates for transitive npm dependencies at GitHub](https://www.reddit.com/r/javascript/comments/10qx71a/unlocking_security_updates_for_transitive_npm/)
-- [[AskJS] Any good shortcuts for migrating off of enzyme?](https://www.reddit.com/r/javascript/comments/10qv5gh/askjs_any_good_shortcuts_for_migrating_off_of/)
-- [Javascript by Javascript - Camel by Camel cover generated in Javascript](https://www.reddit.com/r/javascript/comments/10qqd4x/javascript_by_javascript_camel_by_camel_cover/)
-- [I made an open source VS Code extension that let&#39;s you chat, edit code, get explanations, generate tests and diagnose errors with AI](https://www.reddit.com/r/javascript/comments/10qp62f/i_made_an_open_source_vs_code_extension_that_lets/)
-- [WTF Wednesday &lpar;February 01, 2023&rpar;](https://www.reddit.com/r/javascript/comments/10qnzoz/wtf_wednesday_february_01_2023/)
-- [The joy, the pride and the burden of maintaining open source](https://www.reddit.com/r/javascript/comments/10qnj4t/the_joy_the_pride_and_the_burden_of_maintaining/)
+- [Updates from the 94th TC39 meeting](https://www.reddit.com/r/javascript/comments/10s038r/updates_from_the_94th_tc39_meeting/)
+- [GitHub - conceptualGabrielPutnam/JAMA4JS: The JAMA Linear Algebra package translated for use with Javascript](https://www.reddit.com/r/javascript/comments/10rzf68/github_conceptualgabrielputnamjama4js_the_jama/)
+- [Visual Studio Code January 2023](https://www.reddit.com/r/javascript/comments/10ry42e/visual_studio_code_january_2023/)
+- [Effective Higher-Order Components &lpar;React.js&rpar;](https://www.reddit.com/r/javascript/comments/10rxfv5/effective_higherorder_components_reactjs/)
+- [Cancel Duplicate Fetch Requests in JavaScript Enhanced Forms](https://www.reddit.com/r/javascript/comments/10rvups/cancel_duplicate_fetch_requests_in_javascript/)
+- [Open-source service to easily get OAuth tokens for 40+ APIs &lpar;written in node&rpar;](https://www.reddit.com/r/javascript/comments/10rucr4/opensource_service_to_easily_get_oauth_tokens_for/)
+- [[AskJS] Digital signal processing lib](https://www.reddit.com/r/javascript/comments/10rs0cf/askjs_digital_signal_processing_lib/)
+- [A Better Way to Work With Number and Date Inputs in JavaScript &lpar;via valueAsNumber and valueAsDate&rpar;](https://www.reddit.com/r/javascript/comments/10rrv5a/a_better_way_to_work_with_number_and_date_inputs/)
+- [The yaml document from hell — JavaScript edition](https://www.reddit.com/r/javascript/comments/10rq4xm/the_yaml_document_from_hell_javascript_edition/)
+- [[AskJS] Open source license compliance](https://www.reddit.com/r/javascript/comments/10rol1w/askjs_open_source_license_compliance/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
