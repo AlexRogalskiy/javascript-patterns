@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ronilan/that-is-impossible: Intro to Impossible.js, an Object Oriented JavaScript library for building cross-platform terminal apps](https://www.reddit.com/r/javascript/comments/10sxrsb/ronilanthatisimpossible_intro_to_impossiblejs_an/)
+- [Build Your Own: React, ProseMirror, and Redux](https://www.reddit.com/r/javascript/comments/10swhle/build_your_own_react_prosemirror_and_redux/)
+- [AI-powered code completion in JSFiddle with Chrome Extension [free product]](https://www.reddit.com/r/javascript/comments/10stde8/aipowered_code_completion_in_jsfiddle_with_chrome/)
+- [[AskJS] Is it advisable to use Unity to develop games using JavaScript?](https://www.reddit.com/r/javascript/comments/10sph4f/askjs_is_it_advisable_to_use_unity_to_develop/)
+- [Clean Architecture in Frontend – State in Angular](https://www.reddit.com/r/javascript/comments/10sp5xn/clean_architecture_in_frontend_state_in_angular/)
+- [STWUI - provides a complete set of Svelte components and UI tools to help you develop faster than ever](https://www.reddit.com/r/javascript/comments/10smo5p/stwui_provides_a_complete_set_of_svelte/)
 - [Updates from the 94th TC39 meeting](https://www.reddit.com/r/javascript/comments/10s038r/updates_from_the_94th_tc39_meeting/)
 - [GitHub - conceptualGabrielPutnam/JAMA4JS: The JAMA Linear Algebra package translated for use with Javascript](https://www.reddit.com/r/javascript/comments/10rzf68/github_conceptualgabrielputnamjama4js_the_jama/)
 - [Visual Studio Code January 2023](https://www.reddit.com/r/javascript/comments/10ry42e/visual_studio_code_january_2023/)
 - [Effective Higher-Order Components &lpar;React.js&rpar;](https://www.reddit.com/r/javascript/comments/10rxfv5/effective_higherorder_components_reactjs/)
-- [Cancel Duplicate Fetch Requests in JavaScript Enhanced Forms](https://www.reddit.com/r/javascript/comments/10rvups/cancel_duplicate_fetch_requests_in_javascript/)
-- [Open-source service to easily get OAuth tokens for 40+ APIs &lpar;written in node&rpar;](https://www.reddit.com/r/javascript/comments/10rucr4/opensource_service_to_easily_get_oauth_tokens_for/)
-- [[AskJS] Digital signal processing lib](https://www.reddit.com/r/javascript/comments/10rs0cf/askjs_digital_signal_processing_lib/)
-- [A Better Way to Work With Number and Date Inputs in JavaScript &lpar;via valueAsNumber and valueAsDate&rpar;](https://www.reddit.com/r/javascript/comments/10rrv5a/a_better_way_to_work_with_number_and_date_inputs/)
-- [The yaml document from hell — JavaScript edition](https://www.reddit.com/r/javascript/comments/10rq4xm/the_yaml_document_from_hell_javascript_edition/)
-- [[AskJS] Open source license compliance](https://www.reddit.com/r/javascript/comments/10rol1w/askjs_open_source_license_compliance/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
