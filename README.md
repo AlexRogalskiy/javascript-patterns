@@ -322,6 +322,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *YouTube code posts*
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [JSConf Chile dia 1](https://www.youtube.com/watch?v=nReMDgz02qo)
 - [Art in the times of Machine Learning and AI](https://www.youtube.com/watch?v=IO540bD5UJg)
 - [[Eng Sub]Deno: Next Generation JavaScript Runtime by Yongwook Choi | JSConf Korea 2022](https://www.youtube.com/watch?v=WtQlAzhE3gY)
 - [How I Got 1600 Stars on GitHub in 2 months of Open Source Work by Hung Viet Nguyen|JSConf Korea 2022](https://www.youtube.com/watch?v=1CZjE3cDLbY)
@@ -331,7 +332,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Many Flavours of Enterprise CSS Grid by Chen Hui Jing | JSConf Korea 2022](https://www.youtube.com/watch?v=r3O3Fj1H2yw)
 - [[Eng Sub]Connecting WebViews and Native Properly - Webview Request Protocol by JongChan|JSConf Korea](https://www.youtube.com/watch?v=FazNzl6Ei3A)
 - [[Eng Sub]Printing Receipts with React: How to Create POS with JavaScript by Seokju|JSConf Korea 2022](https://www.youtube.com/watch?v=FFolxFrUgoQ)
-- [The Secret Web Performance Metric No One Is Talking About by Anna Migas | JSConf Korea 2022](https://www.youtube.com/watch?v=NCV0xsMp4Jw)
 <!-- YOUTUBE-POST-LIST:END -->
 
 ### *ReactJS posts*
