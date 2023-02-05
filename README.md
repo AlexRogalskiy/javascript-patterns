@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [ronilan/that-is-impossible: Intro to Impossible.js, an Object Oriented JavaScript library for building cross-platform terminal apps](https://www.reddit.com/r/javascript/comments/10sxrsb/ronilanthatisimpossible_intro_to_impossiblejs_an/)
-- [Build Your Own: React, ProseMirror, and Redux](https://www.reddit.com/r/javascript/comments/10swhle/build_your_own_react_prosemirror_and_redux/)
-- [AI-powered code completion in JSFiddle with Chrome Extension [free product]](https://www.reddit.com/r/javascript/comments/10stde8/aipowered_code_completion_in_jsfiddle_with_chrome/)
-- [[AskJS] Is it advisable to use Unity to develop games using JavaScript?](https://www.reddit.com/r/javascript/comments/10sph4f/askjs_is_it_advisable_to_use_unity_to_develop/)
-- [Clean Architecture in Frontend – State in Angular](https://www.reddit.com/r/javascript/comments/10sp5xn/clean_architecture_in_frontend_state_in_angular/)
-- [STWUI - provides a complete set of Svelte components and UI tools to help you develop faster than ever](https://www.reddit.com/r/javascript/comments/10smo5p/stwui_provides_a_complete_set_of_svelte/)
-- [Updates from the 94th TC39 meeting](https://www.reddit.com/r/javascript/comments/10s038r/updates_from_the_94th_tc39_meeting/)
-- [GitHub - conceptualGabrielPutnam/JAMA4JS: The JAMA Linear Algebra package translated for use with Javascript](https://www.reddit.com/r/javascript/comments/10rzf68/github_conceptualgabrielputnamjama4js_the_jama/)
-- [Visual Studio Code January 2023](https://www.reddit.com/r/javascript/comments/10ry42e/visual_studio_code_january_2023/)
-- [Effective Higher-Order Components &lpar;React.js&rpar;](https://www.reddit.com/r/javascript/comments/10rxfv5/effective_higherorder_components_reactjs/)
+- [Mermaid Flow | Visual Mermaid JS Diagram editor!](https://www.reddit.com/r/javascript/comments/10tq4f4/mermaid_flow_visual_mermaid_js_diagram_editor/)
+- [[AskJS] Restrict number of pages on a PDF shown in browser](https://www.reddit.com/r/javascript/comments/10tnopv/askjs_restrict_number_of_pages_on_a_pdf_shown_in/)
+- [Edge-deployed DNS query service powered by Deno.resolveDns](https://www.reddit.com/r/javascript/comments/10tncju/edgedeployed_dns_query_service_powered_by/)
+- [[AskJS] How do I merge all my JS files into a single link for my HTML documents](https://www.reddit.com/r/javascript/comments/10tlo02/askjs_how_do_i_merge_all_my_js_files_into_a/)
+- [I built open-source suite of tools to streamline Microservices](https://www.reddit.com/r/javascript/comments/10tl6j7/i_built_opensource_suite_of_tools_to_streamline/)
+- [[AskJS] I don&#39;t see a lot of talk about FaunaDB. Is there any reason why I should stay away from it?](https://www.reddit.com/r/javascript/comments/10tk68e/askjs_i_dont_see_a_lot_of_talk_about_faunadb_is/)
+- [Flowchart editor dgrm.net / announcement / sequence diagrams support](https://www.reddit.com/r/javascript/comments/10tihum/flowchart_editor_dgrmnet_announcement_sequence/)
+- [[AskJS] Which JS libraries and packages are currently your favourites?](https://www.reddit.com/r/javascript/comments/10tgpc3/askjs_which_js_libraries_and_packages_are/)
+- [ULTIMATE guide of free images, icons and tools for web developers](https://www.reddit.com/r/javascript/comments/10tengk/ultimate_guide_of_free_images_icons_and_tools_for/)
+- [Immich - FOSS and self-hosted Google Photos replacement - built with Sveltekit and NestJs. It has been helping a lot of folks and I hope it helps you too](https://www.reddit.com/r/javascript/comments/10t9cnn/immich_foss_and_selfhosted_google_photos/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
