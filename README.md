@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Mermaid Flow | Visual Mermaid JS Diagram editor!](https://www.reddit.com/r/javascript/comments/10tq4f4/mermaid_flow_visual_mermaid_js_diagram_editor/)
-- [[AskJS] Restrict number of pages on a PDF shown in browser](https://www.reddit.com/r/javascript/comments/10tnopv/askjs_restrict_number_of_pages_on_a_pdf_shown_in/)
+- [Lerna vs Turborepo vs Rush: The best monorepo tool](https://www.reddit.com/r/javascript/comments/10ulw5p/lerna_vs_turborepo_vs_rush_the_best_monorepo_tool/)
+- [JavaScript: The Perfect Language for the Perfectly Imperfect Coder](https://www.reddit.com/r/javascript/comments/10ukmwa/javascript_the_perfect_language_for_the_perfectly/)
+- [How well do you know the javascript ecosystem?](https://www.reddit.com/r/javascript/comments/10ubkhw/how_well_do_you_know_the_javascript_ecosystem/)
+- [When not to use Deno](https://www.reddit.com/r/javascript/comments/10ub1kg/when_not_to_use_deno/)
+- [[AskJS] My Next Role: MicroFrontEnds or Node API development](https://www.reddit.com/r/javascript/comments/10ua9df/askjs_my_next_role_microfrontends_or_node_api/)
+- [Byteweb - a small layer of protection for the Web](https://www.reddit.com/r/javascript/comments/10u9i4s/byteweb_a_small_layer_of_protection_for_the_web/)
+- [[AskJS] Is there any benefit in using TypeScript for static website?](https://www.reddit.com/r/javascript/comments/10u96qr/askjs_is_there_any_benefit_in_using_typescript/)
+- [Run untrusted code in a Web Worker](https://www.reddit.com/r/javascript/comments/10u6kdu/run_untrusted_code_in_a_web_worker/)
+- [A better way to fetch data in React using App&#39;s Digest](https://www.reddit.com/r/javascript/comments/10u5boz/a_better_way_to_fetch_data_in_react_using_apps/)
 - [Edge-deployed DNS query service powered by Deno.resolveDns](https://www.reddit.com/r/javascript/comments/10tncju/edgedeployed_dns_query_service_powered_by/)
-- [[AskJS] How do I merge all my JS files into a single link for my HTML documents](https://www.reddit.com/r/javascript/comments/10tlo02/askjs_how_do_i_merge_all_my_js_files_into_a/)
-- [I built open-source suite of tools to streamline Microservices](https://www.reddit.com/r/javascript/comments/10tl6j7/i_built_opensource_suite_of_tools_to_streamline/)
-- [[AskJS] I don&#39;t see a lot of talk about FaunaDB. Is there any reason why I should stay away from it?](https://www.reddit.com/r/javascript/comments/10tk68e/askjs_i_dont_see_a_lot_of_talk_about_faunadb_is/)
-- [Flowchart editor dgrm.net / announcement / sequence diagrams support](https://www.reddit.com/r/javascript/comments/10tihum/flowchart_editor_dgrmnet_announcement_sequence/)
-- [[AskJS] Which JS libraries and packages are currently your favourites?](https://www.reddit.com/r/javascript/comments/10tgpc3/askjs_which_js_libraries_and_packages_are/)
-- [ULTIMATE guide of free images, icons and tools for web developers](https://www.reddit.com/r/javascript/comments/10tengk/ultimate_guide_of_free_images_icons_and_tools_for/)
-- [Immich - FOSS and self-hosted Google Photos replacement - built with Sveltekit and NestJs. It has been helping a lot of folks and I hope it helps you too](https://www.reddit.com/r/javascript/comments/10t9cnn/immich_foss_and_selfhosted_google_photos/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
