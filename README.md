@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [5kb webgl2 fluid simulation - Implementation of the Stable Fluid algorithm, using webgl2 features &lpar;texelFetch, textureSize, vertex array objects&rpar; in about 500 lines of codes, and compressed to less than ~5kb of javascript &lpar;click and drag&rpar;](https://www.reddit.com/r/javascript/comments/10v8rvo/5kb_webgl2_fluid_simulation_implementation_of_the/)
+- [Your /r/javascript recap for the week of January 30 - February 05](https://www.reddit.com/r/javascript/comments/10v31uw/your_rjavascript_recap_for_the_week_of_january_30/)
+- [Speeding up the JavaScript ecosystem - eslint](https://www.reddit.com/r/javascript/comments/10v2uwp/speeding_up_the_javascript_ecosystem_eslint/)
+- [Google&#39;s OSS-Fuzz adds JavaScript support](https://www.reddit.com/r/javascript/comments/10v2agx/googles_ossfuzz_adds_javascript_support/)
+- [I made an open source roguelite Dungeon Crawler RPG with Diablo inspired looting system!](https://www.reddit.com/r/javascript/comments/10uztfg/i_made_an_open_source_roguelite_dungeon_crawler/)
 - [Lerna vs Turborepo vs Rush: The best monorepo tool](https://www.reddit.com/r/javascript/comments/10ulw5p/lerna_vs_turborepo_vs_rush_the_best_monorepo_tool/)
-- [JavaScript: The Perfect Language for the Perfectly Imperfect Coder](https://www.reddit.com/r/javascript/comments/10ukmwa/javascript_the_perfect_language_for_the_perfectly/)
 - [How well do you know the javascript ecosystem?](https://www.reddit.com/r/javascript/comments/10ubkhw/how_well_do_you_know_the_javascript_ecosystem/)
 - [When not to use Deno](https://www.reddit.com/r/javascript/comments/10ub1kg/when_not_to_use_deno/)
 - [[AskJS] My Next Role: MicroFrontEnds or Node API development](https://www.reddit.com/r/javascript/comments/10ua9df/askjs_my_next_role_microfrontends_or_node_api/)
 - [Byteweb - a small layer of protection for the Web](https://www.reddit.com/r/javascript/comments/10u9i4s/byteweb_a_small_layer_of_protection_for_the_web/)
-- [[AskJS] Is there any benefit in using TypeScript for static website?](https://www.reddit.com/r/javascript/comments/10u96qr/askjs_is_there_any_benefit_in_using_typescript/)
-- [Run untrusted code in a Web Worker](https://www.reddit.com/r/javascript/comments/10u6kdu/run_untrusted_code_in_a_web_worker/)
-- [A better way to fetch data in React using App&#39;s Digest](https://www.reddit.com/r/javascript/comments/10u5boz/a_better_way_to_fetch_data_in_react_using_apps/)
-- [Edge-deployed DNS query service powered by Deno.resolveDns](https://www.reddit.com/r/javascript/comments/10tncju/edgedeployed_dns_query_service_powered_by/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
