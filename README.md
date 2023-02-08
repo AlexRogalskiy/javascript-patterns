@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [C++ still shining in language popularity index](https://www.infoworld.com/article/3687174/c-still-shining-in-language-popularity-index.html#tk.rss_javascript)
 - [The tech leader&#39;s guide to 2023](https://www.infoworld.com/article/3686190/the-tech-leaders-guide-to-2023.html#tk.rss_javascript)
 - [Server-side rendering is having a moment](https://www.infoworld.com/article/3686649/server-side-rendering-is-having-a-moment.html#tk.rss_javascript)
 - [TypeScript 5.0 retools decorators](https://www.infoworld.com/article/3686509/typescript-50-retools-decorators.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [JavaScript and Java both loved and hated](https://www.infoworld.com/article/3686132/javascript-and-java-both-loved-and-hated.html#tk.rss_javascript)
 - [JavaScript, Java, and Python skills top demand](https://www.infoworld.com/article/3685672/javascript-java-and-python-skills-top-demand.html#tk.rss_javascript)
 - [Interest in React, Angular, and Vue is waning](https://www.infoworld.com/article/3685431/interest-in-react-angular-and-vue-is-waning.html#tk.rss_javascript)
-- [Using JavaScript and forms](https://www.infoworld.com/article/2077176/using-javascript-and-forms.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
