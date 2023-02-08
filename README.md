@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [GitHub - LAION-AI/Open-Assistant: OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.](https://www.reddit.com/r/javascript/comments/10wk1bx/github_laionaiopenassistant_openassistant_is_a/)
+- [How do online video editors strategize film strips on their timelines?](https://www.reddit.com/r/javascript/comments/10wh4ty/how_do_online_video_editors_strategize_film/)
+- [NanoPay.js - Monetize any website with Nano currency](https://www.reddit.com/r/javascript/comments/10wfnlx/nanopayjs_monetize_any_website_with_nano_currency/)
+- [Spamming my 47 stars lib: backhooks, dependency injection for nodeJS, bad feedback welcomed!](https://www.reddit.com/r/javascript/comments/10w9e2w/spamming_my_47_stars_lib_backhooks_dependency/)
+- [[AskJS] What ESLint rules do you use to achieve better isolation of components?](https://www.reddit.com/r/javascript/comments/10w8otz/askjs_what_eslint_rules_do_you_use_to_achieve/)
+- [Design Patterns in TypeScript](https://www.reddit.com/r/javascript/comments/10w4c36/design_patterns_in_typescript/)
+- [Learn how to get ChatGPT to help you create a Node.js backend](https://www.reddit.com/r/javascript/comments/10w3fmy/learn_how_to_get_chatgpt_to_help_you_create_a/)
+- [[Safe-TypeORM] AnyORM becomes the real TypeORM](https://www.reddit.com/r/javascript/comments/10w1gqv/safetypeorm_anyorm_becomes_the_real_typeorm/)
+- [How to Build a GPT-Powered Customer Support Bot for Discord with Node.js in 30 minutes &lpar;x-post r/node&rpar;](https://www.reddit.com/r/javascript/comments/10vwk8b/how_to_build_a_gptpowered_customer_support_bot/)
 - [5kb webgl2 fluid simulation - Implementation of the Stable Fluid algorithm, using webgl2 features &lpar;texelFetch, textureSize, vertex array objects&rpar; in about 500 lines of codes, and compressed to less than ~5kb of javascript &lpar;click and drag&rpar;](https://www.reddit.com/r/javascript/comments/10v8rvo/5kb_webgl2_fluid_simulation_implementation_of_the/)
-- [Your /r/javascript recap for the week of January 30 - February 05](https://www.reddit.com/r/javascript/comments/10v31uw/your_rjavascript_recap_for_the_week_of_january_30/)
-- [Speeding up the JavaScript ecosystem - eslint](https://www.reddit.com/r/javascript/comments/10v2uwp/speeding_up_the_javascript_ecosystem_eslint/)
-- [Google&#39;s OSS-Fuzz adds JavaScript support](https://www.reddit.com/r/javascript/comments/10v2agx/googles_ossfuzz_adds_javascript_support/)
-- [I made an open source roguelite Dungeon Crawler RPG with Diablo inspired looting system!](https://www.reddit.com/r/javascript/comments/10uztfg/i_made_an_open_source_roguelite_dungeon_crawler/)
-- [Lerna vs Turborepo vs Rush: The best monorepo tool](https://www.reddit.com/r/javascript/comments/10ulw5p/lerna_vs_turborepo_vs_rush_the_best_monorepo_tool/)
-- [How well do you know the javascript ecosystem?](https://www.reddit.com/r/javascript/comments/10ubkhw/how_well_do_you_know_the_javascript_ecosystem/)
-- [When not to use Deno](https://www.reddit.com/r/javascript/comments/10ub1kg/when_not_to_use_deno/)
-- [[AskJS] My Next Role: MicroFrontEnds or Node API development](https://www.reddit.com/r/javascript/comments/10ua9df/askjs_my_next_role_microfrontends_or_node_api/)
-- [Byteweb - a small layer of protection for the Web](https://www.reddit.com/r/javascript/comments/10u9i4s/byteweb_a_small_layer_of_protection_for_the_web/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
