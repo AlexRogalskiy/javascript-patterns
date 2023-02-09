@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [GitHub - LAION-AI/Open-Assistant: OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.](https://www.reddit.com/r/javascript/comments/10wk1bx/github_laionaiopenassistant_openassistant_is_a/)
-- [How do online video editors strategize film strips on their timelines?](https://www.reddit.com/r/javascript/comments/10wh4ty/how_do_online_video_editors_strategize_film/)
-- [NanoPay.js - Monetize any website with Nano currency](https://www.reddit.com/r/javascript/comments/10wfnlx/nanopayjs_monetize_any_website_with_nano_currency/)
-- [Spamming my 47 stars lib: backhooks, dependency injection for nodeJS, bad feedback welcomed!](https://www.reddit.com/r/javascript/comments/10w9e2w/spamming_my_47_stars_lib_backhooks_dependency/)
-- [[AskJS] What ESLint rules do you use to achieve better isolation of components?](https://www.reddit.com/r/javascript/comments/10w8otz/askjs_what_eslint_rules_do_you_use_to_achieve/)
-- [Design Patterns in TypeScript](https://www.reddit.com/r/javascript/comments/10w4c36/design_patterns_in_typescript/)
-- [Learn how to get ChatGPT to help you create a Node.js backend](https://www.reddit.com/r/javascript/comments/10w3fmy/learn_how_to_get_chatgpt_to_help_you_create_a/)
-- [[Safe-TypeORM] AnyORM becomes the real TypeORM](https://www.reddit.com/r/javascript/comments/10w1gqv/safetypeorm_anyorm_becomes_the_real_typeorm/)
-- [How to Build a GPT-Powered Customer Support Bot for Discord with Node.js in 30 minutes &lpar;x-post r/node&rpar;](https://www.reddit.com/r/javascript/comments/10vwk8b/how_to_build_a_gptpowered_customer_support_bot/)
-- [5kb webgl2 fluid simulation - Implementation of the Stable Fluid algorithm, using webgl2 features &lpar;texelFetch, textureSize, vertex array objects&rpar; in about 500 lines of codes, and compressed to less than ~5kb of javascript &lpar;click and drag&rpar;](https://www.reddit.com/r/javascript/comments/10v8rvo/5kb_webgl2_fluid_simulation_implementation_of_the/)
+- [rotini - a framework for building node.js cli programs](https://www.reddit.com/r/javascript/comments/10xia1e/rotini_a_framework_for_building_nodejs_cli/)
+- [Free PDF download of JavaScript Allongé](https://www.reddit.com/r/javascript/comments/10xcskh/free_pdf_download_of_javascript_allongé/)
+- [[AskJS] Stripe API &lpar;or other payment method providers&rpar; uses?](https://www.reddit.com/r/javascript/comments/10x91zk/askjs_stripe_api_or_other_payment_method/)
+- [What tools and frameworks you would need for your next project.](https://www.reddit.com/r/javascript/comments/10x8ijq/what_tools_and_frameworks_you_would_need_for_your/)
+- [I wrote a minifier for Lexical, the Facebook text editor framework](https://www.reddit.com/r/javascript/comments/10x83t3/i_wrote_a_minifier_for_lexical_the_facebook_text/)
+- [Use Mocha instead of Jest and boost your tests speed](https://www.reddit.com/r/javascript/comments/10x6rtn/use_mocha_instead_of_jest_and_boost_your_tests/)
+- [itsmy.fyi - A free &amp; open source alternative to LinkTree](https://www.reddit.com/r/javascript/comments/10x26b7/itsmyfyi_a_free_open_source_alternative_to/)
+- [Software Security Report Finds JavaScript Applications Have Fewer Flaws Than Java and .NET](https://www.reddit.com/r/javascript/comments/10wzjfb/software_security_report_finds_javascript/)
+- [GitHub - rodgetech/coinmarketcap-js: Javascript SDK for CoinMarketCap](https://www.reddit.com/r/javascript/comments/10wrppr/github_rodgetechcoinmarketcapjs_javascript_sdk/)
+- [A Full Vue StoreFront open Source Templet. a Real-world example for learning vueJs/Vuex/Vue-router.](https://www.reddit.com/r/javascript/comments/10wrf2d/a_full_vue_storefront_open_source_templet_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
