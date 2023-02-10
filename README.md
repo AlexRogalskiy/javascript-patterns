@@ -292,6 +292,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Deno 1.30 backs built-in Node.js modules](https://www.infoworld.com/article/3687728/deno-130-backs-built-in-nodejs-modules.html#tk.rss_javascript)
+- [Intro to Remix: A leader in full-stack evolution](https://www.infoworld.com/article/3687210/intro-to-remix-a-leader-in-full-stack-evolution.html#tk.rss_javascript)
 - [C++ still shining in language popularity index](https://www.infoworld.com/article/3687174/c-still-shining-in-language-popularity-index.html#tk.rss_javascript)
 - [The tech leader&#39;s guide to 2023](https://www.infoworld.com/article/3686190/the-tech-leaders-guide-to-2023.html#tk.rss_javascript)
 - [Server-side rendering is having a moment](https://www.infoworld.com/article/3686649/server-side-rendering-is-having-a-moment.html#tk.rss_javascript)
@@ -300,8 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Google V8 API bridges WebAssembly and asynchronous web](https://www.infoworld.com/article/3686098/google-v8-api-bridges-webassembly-and-asynchronous-web.html#tk.rss_javascript)
 - [8 programming languages we love to hate—but can’t live without](https://www.infoworld.com/article/3072163/7-programming-languages-we-love-to-hate-but-cant-live-without.html#tk.rss_javascript)
 - [JavaScript and Java both loved and hated](https://www.infoworld.com/article/3686132/javascript-and-java-both-loved-and-hated.html#tk.rss_javascript)
-- [JavaScript, Java, and Python skills top demand](https://www.infoworld.com/article/3685672/javascript-java-and-python-skills-top-demand.html#tk.rss_javascript)
-- [Interest in React, Angular, and Vue is waning](https://www.infoworld.com/article/3685431/interest-in-react-angular-and-vue-is-waning.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
