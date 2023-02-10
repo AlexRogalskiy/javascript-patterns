@@ -352,6 +352,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *javascript programmer posts*
 
 <!-- METEOR-POST-LIST:START -->
+- [2022 Meteor Hackathon 3rd Place Winners: Team De-Central Budapest](https://blog.meteor.com/2022-meteor-hackathon-3rd-place-winners-team-de-central-budapest-7224a54e8ff6?source=rss----a9bcaf865278---4)
 - [New Meteor.js 2.10 and the Async Tracker Feature](https://blog.meteor.com/new-meteor-js-2-10-and-the-async-tracker-feature-ffdbe817c801?source=rss----a9bcaf865278---4)
 - [Meteor Monthly Update — December 2022](https://blog.meteor.com/meteor-monthly-update-december-2022-32e33333ec41?source=rss----a9bcaf865278---4)
 - [Built with Meteor in 6 Months, Chatra Chatbots Score 45k+ Users](https://blog.meteor.com/built-with-meteor-in-6-months-chatra-chatbots-score-45k-users-daa001f62300?source=rss----a9bcaf865278---4)
@@ -361,7 +362,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Meteor Monthly Update — October 2022](https://blog.meteor.com/meteor-monthly-update-october-2022-e4c6c0ac305a?source=rss----a9bcaf865278---4)
 - [Introducing the grubba-rpc package](https://blog.meteor.com/introducing-the-grubba-rpc-package-80b1e1958dc3?source=rss----a9bcaf865278---4)
 - [New Meteor 2.8 and the new MongoDB Async API](https://blog.meteor.com/new-meteor-2-8-and-the-new-mongodb-async-ap-edbcb853869a?source=rss----a9bcaf865278---4)
-- [Meteor Cloud Lets Coygo Focus On Crypto Trading Tools, Not DevOps](https://blog.meteor.com/meteor-cloud-lets-coygo-focus-on-crypto-trading-tools-not-devops-97f8e5e993bd?source=rss----a9bcaf865278---4)
 <!-- METEOR-POST-LIST:END -->
 
 ### *Dreamix posts*
