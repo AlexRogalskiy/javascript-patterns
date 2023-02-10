@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [rotini - a framework for building node.js cli programs](https://www.reddit.com/r/javascript/comments/10xia1e/rotini_a_framework_for_building_nodejs_cli/)
-- [Free PDF download of JavaScript Allongé](https://www.reddit.com/r/javascript/comments/10xcskh/free_pdf_download_of_javascript_allongé/)
-- [[AskJS] Stripe API &lpar;or other payment method providers&rpar; uses?](https://www.reddit.com/r/javascript/comments/10x91zk/askjs_stripe_api_or_other_payment_method/)
-- [What tools and frameworks you would need for your next project.](https://www.reddit.com/r/javascript/comments/10x8ijq/what_tools_and_frameworks_you_would_need_for_your/)
-- [I wrote a minifier for Lexical, the Facebook text editor framework](https://www.reddit.com/r/javascript/comments/10x83t3/i_wrote_a_minifier_for_lexical_the_facebook_text/)
-- [Use Mocha instead of Jest and boost your tests speed](https://www.reddit.com/r/javascript/comments/10x6rtn/use_mocha_instead_of_jest_and_boost_your_tests/)
-- [itsmy.fyi - A free &amp; open source alternative to LinkTree](https://www.reddit.com/r/javascript/comments/10x26b7/itsmyfyi_a_free_open_source_alternative_to/)
-- [Software Security Report Finds JavaScript Applications Have Fewer Flaws Than Java and .NET](https://www.reddit.com/r/javascript/comments/10wzjfb/software_security_report_finds_javascript/)
-- [GitHub - rodgetech/coinmarketcap-js: Javascript SDK for CoinMarketCap](https://www.reddit.com/r/javascript/comments/10wrppr/github_rodgetechcoinmarketcapjs_javascript_sdk/)
-- [A Full Vue StoreFront open Source Templet. a Real-world example for learning vueJs/Vuex/Vue-router.](https://www.reddit.com/r/javascript/comments/10wrf2d/a_full_vue_storefront_open_source_templet_a/)
+- [Sweet.js - Hygienic Macros for JavaScript &lpar;Macros allow you to sweeten the syntax of JavaScript and craft the language you always wanted&rpar;](https://www.reddit.com/r/javascript/comments/10y8pfu/sweetjs_hygienic_macros_for_javascript_macros/)
+- [Refactoring TypeScript React components in Next.js with VS Code](https://www.reddit.com/r/javascript/comments/10y1l0v/refactoring_typescript_react_components_in_nextjs/)
+- [Lint your JS codebase with Sylver](https://www.reddit.com/r/javascript/comments/10xyla5/lint_your_js_codebase_with_sylver/)
+- [Can AI help me write tests on legacy JS code?](https://www.reddit.com/r/javascript/comments/10xy1cn/can_ai_help_me_write_tests_on_legacy_js_code/)
+- [I’ve created an open source tool that generates integration tests for Node.js apps &lpar;MERN/MEAN stack&rpar; by recording API requests and server activity &lpar;it can get to 90% code coverage within 1 hour&rpar;.](https://www.reddit.com/r/javascript/comments/10xwt0d/ive_created_an_open_source_tool_that_generates/)
+- [Built an Open Source Ecommerce store with Medusa and React](https://www.reddit.com/r/javascript/comments/10xvco6/built_an_open_source_ecommerce_store_with_medusa/)
+- [[AskJS] Is there better tooling for constructing GRPC objects in Javascript?](https://www.reddit.com/r/javascript/comments/10xunup/askjs_is_there_better_tooling_for_constructing/)
+- [Handling performance issues in Smart TV applications](https://www.reddit.com/r/javascript/comments/10xt7ku/handling_performance_issues_in_smart_tv/)
+- [Common TypeScript Issues Nº 4: Don&#39;t create and drop objects immediately](https://www.reddit.com/r/javascript/comments/10xt0pd/common_typescript_issues_nº_4_dont_create_and/)
+- [A monolithic e-commerce app written in NodeJS &lpar;self-hosted&rpar;](https://www.reddit.com/r/javascript/comments/10xpxr4/a_monolithic_ecommerce_app_written_in_nodejs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
