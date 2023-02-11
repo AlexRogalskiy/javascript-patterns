@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [strudel - live code music in javascript](https://www.reddit.com/r/javascript/comments/10z2ze6/strudel_live_code_music_in_javascript/)
+- [Why sorting is harder than it seems](https://www.reddit.com/r/javascript/comments/10yxvfv/why_sorting_is_harder_than_it_seems/)
+- [Speeding up the JavaScript ecosystem - eslint](https://www.reddit.com/r/javascript/comments/10yl3wl/speeding_up_the_javascript_ecosystem_eslint/)
+- [Reactivity without Virtual DOM. New version. Beta test](https://www.reddit.com/r/javascript/comments/10yk7ek/reactivity_without_virtual_dom_new_version_beta/)
 - [Sweet.js - Hygienic Macros for JavaScript &lpar;Macros allow you to sweeten the syntax of JavaScript and craft the language you always wanted&rpar;](https://www.reddit.com/r/javascript/comments/10y8pfu/sweetjs_hygienic_macros_for_javascript_macros/)
+- [Web components: composition techniques &lpar;4 Part Series&rpar;](https://www.reddit.com/r/javascript/comments/10y1zws/web_components_composition_techniques_4_part/)
 - [Refactoring TypeScript React components in Next.js with VS Code](https://www.reddit.com/r/javascript/comments/10y1l0v/refactoring_typescript_react_components_in_nextjs/)
 - [Lint your JS codebase with Sylver](https://www.reddit.com/r/javascript/comments/10xyla5/lint_your_js_codebase_with_sylver/)
 - [Can AI help me write tests on legacy JS code?](https://www.reddit.com/r/javascript/comments/10xy1cn/can_ai_help_me_write_tests_on_legacy_js_code/)
 - [I’ve created an open source tool that generates integration tests for Node.js apps &lpar;MERN/MEAN stack&rpar; by recording API requests and server activity &lpar;it can get to 90% code coverage within 1 hour&rpar;.](https://www.reddit.com/r/javascript/comments/10xwt0d/ive_created_an_open_source_tool_that_generates/)
-- [Built an Open Source Ecommerce store with Medusa and React](https://www.reddit.com/r/javascript/comments/10xvco6/built_an_open_source_ecommerce_store_with_medusa/)
-- [[AskJS] Is there better tooling for constructing GRPC objects in Javascript?](https://www.reddit.com/r/javascript/comments/10xunup/askjs_is_there_better_tooling_for_constructing/)
-- [Handling performance issues in Smart TV applications](https://www.reddit.com/r/javascript/comments/10xt7ku/handling_performance_issues_in_smart_tv/)
-- [Common TypeScript Issues Nº 4: Don&#39;t create and drop objects immediately](https://www.reddit.com/r/javascript/comments/10xt0pd/common_typescript_issues_nº_4_dont_create_and/)
-- [A monolithic e-commerce app written in NodeJS &lpar;self-hosted&rpar;](https://www.reddit.com/r/javascript/comments/10xpxr4/a_monolithic_ecommerce_app_written_in_nodejs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
