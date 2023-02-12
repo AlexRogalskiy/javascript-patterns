@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Shaka Player for media playback - implementation, use cases, pros and cons](https://www.reddit.com/r/javascript/comments/10zyoc7/shaka_player_for_media_playback_implementation/)
+- [For Beginners: My Second attempt at explaining interpreters using JS](https://www.reddit.com/r/javascript/comments/10zxpw4/for_beginners_my_second_attempt_at_explaining/)
+- [[AskJS] Is anybody actually using Direct Sockets API in their deployed PWA&#39;s?](https://www.reddit.com/r/javascript/comments/10zswdg/askjs_is_anybody_actually_using_direct_sockets/)
+- [Wire: Keep in sync component instances](https://www.reddit.com/r/javascript/comments/10zhdzx/wire_keep_in_sync_component_instances/)
+- [Showoff Saturday &lpar;February 11, 2023&rpar;](https://www.reddit.com/r/javascript/comments/10zfoox/showoff_saturday_february_11_2023/)
+- [What things sveltekit offer better than other javascript frameworks?](https://www.reddit.com/r/javascript/comments/10zfjtj/what_things_sveltekit_offer_better_than_other/)
+- [React JS Documentary is live](https://www.reddit.com/r/javascript/comments/10zd1b1/react_js_documentary_is_live/)
 - [strudel - live code music in javascript](https://www.reddit.com/r/javascript/comments/10z2ze6/strudel_live_code_music_in_javascript/)
 - [Why sorting is harder than it seems](https://www.reddit.com/r/javascript/comments/10yxvfv/why_sorting_is_harder_than_it_seems/)
 - [Speeding up the JavaScript ecosystem - eslint](https://www.reddit.com/r/javascript/comments/10yl3wl/speeding_up_the_javascript_ecosystem_eslint/)
-- [Reactivity without Virtual DOM. New version. Beta test](https://www.reddit.com/r/javascript/comments/10yk7ek/reactivity_without_virtual_dom_new_version_beta/)
-- [Sweet.js - Hygienic Macros for JavaScript &lpar;Macros allow you to sweeten the syntax of JavaScript and craft the language you always wanted&rpar;](https://www.reddit.com/r/javascript/comments/10y8pfu/sweetjs_hygienic_macros_for_javascript_macros/)
-- [Web components: composition techniques &lpar;4 Part Series&rpar;](https://www.reddit.com/r/javascript/comments/10y1zws/web_components_composition_techniques_4_part/)
-- [Refactoring TypeScript React components in Next.js with VS Code](https://www.reddit.com/r/javascript/comments/10y1l0v/refactoring_typescript_react_components_in_nextjs/)
-- [Lint your JS codebase with Sylver](https://www.reddit.com/r/javascript/comments/10xyla5/lint_your_js_codebase_with_sylver/)
-- [Can AI help me write tests on legacy JS code?](https://www.reddit.com/r/javascript/comments/10xy1cn/can_ai_help_me_write_tests_on_legacy_js_code/)
-- [I’ve created an open source tool that generates integration tests for Node.js apps &lpar;MERN/MEAN stack&rpar; by recording API requests and server activity &lpar;it can get to 90% code coverage within 1 hour&rpar;.](https://www.reddit.com/r/javascript/comments/10xwt0d/ive_created_an_open_source_tool_that_generates/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
