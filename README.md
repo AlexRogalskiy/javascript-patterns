@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [SREPL: The file is the REPL](https://www.reddit.com/r/javascript/comments/110mkim/srepl_the_file_is_the_repl/)
+- [Writer&#39;s Avenue - A Blog Posting Website Written in React, Sass, Node &amp; MariaDB](https://www.reddit.com/r/javascript/comments/110if35/writers_avenue_a_blog_posting_website_written_in/)
+- [Superdiff has reached 377 GitHub stars thanks to you. Here are the latest enhancements.](https://www.reddit.com/r/javascript/comments/110gre9/superdiff_has_reached_377_github_stars_thanks_to/)
+- [[AskJS] Which utility libraries are in your opinion so good they are basicaly mandatory?](https://www.reddit.com/r/javascript/comments/110fkf3/askjs_which_utility_libraries_are_in_your_opinion/)
+- [[AskJS] Are there JS minifiers that can compress the code by storing and reusing repeating property/method names and strings?](https://www.reddit.com/r/javascript/comments/110bxpl/askjs_are_there_js_minifiers_that_can_compress/)
 - [Shaka Player for media playback - implementation, use cases, pros and cons](https://www.reddit.com/r/javascript/comments/10zyoc7/shaka_player_for_media_playback_implementation/)
 - [For Beginners: My Second attempt at explaining interpreters using JS](https://www.reddit.com/r/javascript/comments/10zxpw4/for_beginners_my_second_attempt_at_explaining/)
 - [[AskJS] Is anybody actually using Direct Sockets API in their deployed PWA&#39;s?](https://www.reddit.com/r/javascript/comments/10zswdg/askjs_is_anybody_actually_using_direct_sockets/)
 - [Wire: Keep in sync component instances](https://www.reddit.com/r/javascript/comments/10zhdzx/wire_keep_in_sync_component_instances/)
 - [Showoff Saturday &lpar;February 11, 2023&rpar;](https://www.reddit.com/r/javascript/comments/10zfoox/showoff_saturday_february_11_2023/)
-- [What things sveltekit offer better than other javascript frameworks?](https://www.reddit.com/r/javascript/comments/10zfjtj/what_things_sveltekit_offer_better_than_other/)
-- [React JS Documentary is live](https://www.reddit.com/r/javascript/comments/10zd1b1/react_js_documentary_is_live/)
-- [strudel - live code music in javascript](https://www.reddit.com/r/javascript/comments/10z2ze6/strudel_live_code_music_in_javascript/)
-- [Why sorting is harder than it seems](https://www.reddit.com/r/javascript/comments/10yxvfv/why_sorting_is_harder_than_it_seems/)
-- [Speeding up the JavaScript ecosystem - eslint](https://www.reddit.com/r/javascript/comments/10yl3wl/speeding_up_the_javascript_ecosystem_eslint/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
