@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] How much CS knowledge does a frontend dev really need?](https://www.reddit.com/r/javascript/comments/112izn3/askjs_how_much_cs_knowledge_does_a_frontend_dev/)
+- [Well-known Symbols](https://www.reddit.com/r/javascript/comments/112fzz7/wellknown_symbols/)
+- [Hey devs! I built a fun game of Oscar votes using NextJS and I am using reusable components for oscar nominees. If you go to the link you&#39;ll see that if you click on the vote button in a category the other buttons are still clickable. What I want is to make buttons unclickable when one is clicked.](https://www.reddit.com/r/javascript/comments/112fatg/hey_devs_i_built_a_fun_game_of_oscar_votes_using/)
+- [core-js maintainer: “So, what’s next?”](https://www.reddit.com/r/javascript/comments/112e4kv/corejs_maintainer_so_whats_next/)
+- [Introduce your own data types](https://www.reddit.com/r/javascript/comments/1128fjk/introduce_your_own_data_types/)
+- [Sandboxing JavaScript Code](https://www.reddit.com/r/javascript/comments/1122bbj/sandboxing_javascript_code/)
 - [Building a simple CLI tool with modern Node.js](https://www.reddit.com/r/javascript/comments/111qlk0/building_a_simple_cli_tool_with_modern_nodejs/)
 - [[AskJS] Good JS libraries for mobile interaction?](https://www.reddit.com/r/javascript/comments/111o8ru/askjs_good_js_libraries_for_mobile_interaction/)
 - [From Wi-Fi to Li-Fi, sending data via light using Arduino and JavaScript](https://www.reddit.com/r/javascript/comments/111l8qw/from_wifi_to_lifi_sending_data_via_light_using/)
 - [core-js maintainer: “So, what’s next?”](https://www.reddit.com/r/javascript/comments/111ka1l/corejs_maintainer_so_whats_next/)
-- [I recently migrated from Next.js to Astro and wrote a detailed post about it](https://www.reddit.com/r/javascript/comments/111i9br/i_recently_migrated_from_nextjs_to_astro_and/)
-- [Dependency Injection without decorators in TypeScript](https://www.reddit.com/r/javascript/comments/111i5hr/dependency_injection_without_decorators_in/)
-- [Software Security Report Finds JavaScript Applications Have Fewer Flaws Than Java and .NET](https://www.reddit.com/r/javascript/comments/111hcck/software_security_report_finds_javascript/)
-- [plugin that turns tweakpane into a table](https://www.reddit.com/r/javascript/comments/111fkq3/plugin_that_turns_tweakpane_into_a_table/)
-- [Maybe you don&#39;t need a library to generate test data: creating a series of objects from a specific template using function*](https://www.reddit.com/r/javascript/comments/111eu9q/maybe_you_dont_need_a_library_to_generate_test/)
-- [Strudel - a web-based live coding environment that implements the Tidal Cycles algorithmic pattern language &lpar;most commonly used for making music, it can be used for any kind of pattern making activity, including weaving&rpar;](https://www.reddit.com/r/javascript/comments/111b79d/strudel_a_webbased_live_coding_environment_that/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
