@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [JavaScript Programming Made Easy for Beginners and Testers](https://www.reddit.com/r/javascript/comments/113cssk/javascript_programming_made_easy_for_beginners/)
-- [Core-js maintainer complains open source is broken](https://www.reddit.com/r/javascript/comments/113cr2g/corejs_maintainer_complains_open_source_is_broken/)
-- [Made a chat bot using OPEN AI model which responds to all your cricket related queries. Did this for fun and learning, feedbacks will be appreciated](https://www.reddit.com/r/javascript/comments/11395cw/made_a_chat_bot_using_open_ai_model_which/)
-- [I made universal Random Generator, which can make everything, just by only one line](https://www.reddit.com/r/javascript/comments/11354na/i_made_universal_random_generator_which_can_make/)
-- [[AskJS] masks on inputs](https://www.reddit.com/r/javascript/comments/1134m9p/askjs_masks_on_inputs/)
-- [Fewer than 5% of websites use React or Vue](https://www.reddit.com/r/javascript/comments/112zor9/fewer_than_5_of_websites_use_react_or_vue/)
-- [Useful color tools for your next JavaScript project.](https://www.reddit.com/r/javascript/comments/112z7m5/useful_color_tools_for_your_next_javascript/)
-- [WTF Wednesday &lpar;February 15, 2023&rpar;](https://www.reddit.com/r/javascript/comments/112ssqh/wtf_wednesday_february_15_2023/)
-- [Angular Material components testing](https://www.reddit.com/r/javascript/comments/112spui/angular_material_components_testing/)
-- [[AskJS] How much CS knowledge does a frontend dev really need?](https://www.reddit.com/r/javascript/comments/112izn3/askjs_how_much_cs_knowledge_does_a_frontend_dev/)
+- [GitHub - A self-hosting app to share secrets only one-time.](https://www.reddit.com/r/javascript/comments/1143pyd/github_a_selfhosting_app_to_share_secrets_only/)
+- [Flasho- Open source transactional notifications tool for developers built with React and NodeJS](https://www.reddit.com/r/javascript/comments/113xcjp/flasho_open_source_transactional_notifications/)
+- [Headless CMS right in your code editor | Front Matter](https://www.reddit.com/r/javascript/comments/113w11u/headless_cms_right_in_your_code_editor_front/)
+- [React Proto - React TypeScript Boilerplate &lpar;Redux, RTK Query, SSR, SWR, Preact inside and much more&rpar;](https://www.reddit.com/r/javascript/comments/113vdkb/react_proto_react_typescript_boilerplate_redux/)
+- [PBandJ - The Zero-Config Reusable Component Framework For React. An all-in-one tool to quickly create and publish a high-quality component library, taking care of tedious setup and ensuring best practices. Publish your library to be reused across projects or shared with others](https://www.reddit.com/r/javascript/comments/113t6og/pbandj_the_zeroconfig_reusable_component/)
+- [Angular Reactivity with Signals](https://www.reddit.com/r/javascript/comments/113t41x/angular_reactivity_with_signals/)
+- [Camome UI - Light weight, accessibleUI framework for React and CSS](https://www.reddit.com/r/javascript/comments/113svmn/camome_ui_light_weight_accessibleui_framework_for/)
+- [My SaaS architecture &lpar;tech stack&rpar; using JavaScript for frontend and backend as a solo developer](https://www.reddit.com/r/javascript/comments/113qk0s/my_saas_architecture_tech_stack_using_javascript/)
+- [Roll your own JavaScript runtime, pt. 2](https://www.reddit.com/r/javascript/comments/113n81d/roll_your_own_javascript_runtime_pt_2/)
+- [[AskJS] alternatives for fancybox 3 in 2023](https://www.reddit.com/r/javascript/comments/113myqk/askjs_alternatives_for_fancybox_3_in_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
