@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Buildless JavaScript](https://www.reddit.com/r/javascript/comments/114tfso/buildless_javascript/)
+- [Let&#39;s make JS RegExps Streamy - Socket](https://www.reddit.com/r/javascript/comments/114sqvy/lets_make_js_regexps_streamy_socket/)
+- [GitHub - Fuzz Testing with Jest and Jazzer.js](https://www.reddit.com/r/javascript/comments/114qkdt/github_fuzz_testing_with_jest_and_jazzerjs/)
+- [[AskJS] Are custom events &lpar;still?&rpar; bad practice?](https://www.reddit.com/r/javascript/comments/114plw1/askjs_are_custom_events_still_bad_practice/)
+- [ModernDash | A Typescript-First utility library. Optimized for modern browsers.](https://www.reddit.com/r/javascript/comments/114njhx/moderndash_a_typescriptfirst_utility_library/)
+- [Windows XP in the browser using Svelte](https://www.reddit.com/r/javascript/comments/114n1qz/windows_xp_in_the_browser_using_svelte/)
+- [Web Push for Web Apps on iOS and iPadOS](https://www.reddit.com/r/javascript/comments/114foxg/web_push_for_web_apps_on_ios_and_ipados/)
 - [GitHub - A self-hosting app to share secrets only one-time.](https://www.reddit.com/r/javascript/comments/1143pyd/github_a_selfhosting_app_to_share_secrets_only/)
 - [Flasho- Open source transactional notifications tool for developers built with React and NodeJS](https://www.reddit.com/r/javascript/comments/113xcjp/flasho_open_source_transactional_notifications/)
 - [Headless CMS right in your code editor | Front Matter](https://www.reddit.com/r/javascript/comments/113w11u/headless_cms_right_in_your_code_editor_front/)
-- [React Proto - React TypeScript Boilerplate &lpar;Redux, RTK Query, SSR, SWR, Preact inside and much more&rpar;](https://www.reddit.com/r/javascript/comments/113vdkb/react_proto_react_typescript_boilerplate_redux/)
-- [PBandJ - The Zero-Config Reusable Component Framework For React. An all-in-one tool to quickly create and publish a high-quality component library, taking care of tedious setup and ensuring best practices. Publish your library to be reused across projects or shared with others](https://www.reddit.com/r/javascript/comments/113t6og/pbandj_the_zeroconfig_reusable_component/)
-- [Angular Reactivity with Signals](https://www.reddit.com/r/javascript/comments/113t41x/angular_reactivity_with_signals/)
-- [Camome UI - Light weight, accessibleUI framework for React and CSS](https://www.reddit.com/r/javascript/comments/113svmn/camome_ui_light_weight_accessibleui_framework_for/)
-- [My SaaS architecture &lpar;tech stack&rpar; using JavaScript for frontend and backend as a solo developer](https://www.reddit.com/r/javascript/comments/113qk0s/my_saas_architecture_tech_stack_using_javascript/)
-- [Roll your own JavaScript runtime, pt. 2](https://www.reddit.com/r/javascript/comments/113n81d/roll_your_own_javascript_runtime_pt_2/)
-- [[AskJS] alternatives for fancybox 3 in 2023](https://www.reddit.com/r/javascript/comments/113myqk/askjs_alternatives_for_fancybox_3_in_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
