@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Buildless JavaScript](https://www.reddit.com/r/javascript/comments/114tfso/buildless_javascript/)
-- [Let&#39;s make JS RegExps Streamy - Socket](https://www.reddit.com/r/javascript/comments/114sqvy/lets_make_js_regexps_streamy_socket/)
-- [GitHub - Fuzz Testing with Jest and Jazzer.js](https://www.reddit.com/r/javascript/comments/114qkdt/github_fuzz_testing_with_jest_and_jazzerjs/)
-- [[AskJS] Are custom events &lpar;still?&rpar; bad practice?](https://www.reddit.com/r/javascript/comments/114plw1/askjs_are_custom_events_still_bad_practice/)
-- [ModernDash | A Typescript-First utility library. Optimized for modern browsers.](https://www.reddit.com/r/javascript/comments/114njhx/moderndash_a_typescriptfirst_utility_library/)
-- [Windows XP in the browser using Svelte](https://www.reddit.com/r/javascript/comments/114n1qz/windows_xp_in_the_browser_using_svelte/)
-- [Web Push for Web Apps on iOS and iPadOS](https://www.reddit.com/r/javascript/comments/114foxg/web_push_for_web_apps_on_ios_and_ipados/)
-- [GitHub - A self-hosting app to share secrets only one-time.](https://www.reddit.com/r/javascript/comments/1143pyd/github_a_selfhosting_app_to_share_secrets_only/)
-- [Flasho- Open source transactional notifications tool for developers built with React and NodeJS](https://www.reddit.com/r/javascript/comments/113xcjp/flasho_open_source_transactional_notifications/)
-- [Headless CMS right in your code editor | Front Matter](https://www.reddit.com/r/javascript/comments/113w11u/headless_cms_right_in_your_code_editor_front/)
+- [[AskJS] Rate a string on how much sense it makes](https://www.reddit.com/r/javascript/comments/115x1et/askjs_rate_a_string_on_how_much_sense_it_makes/)
+- [I built an app to search the APOD database by color](https://www.reddit.com/r/javascript/comments/115tqt2/i_built_an_app_to_search_the_apod_database_by/)
+- [I just released an NPM package of a visual scripting editor](https://www.reddit.com/r/javascript/comments/115movy/i_just_released_an_npm_package_of_a_visual/)
+- [Synthwave styled space shooter with bullet-time, weather effects and itemization, using vanilla Javascript](https://www.reddit.com/r/javascript/comments/115lwvn/synthwave_styled_space_shooter_with_bullettime/)
+- [Launch, control, execute arbitrary commands in dynamic local HTTPS server from and stream output to the browser](https://www.reddit.com/r/javascript/comments/115lg01/launch_control_execute_arbitrary_commands_in/)
+- [Boost Your JavaScript Skills - Top 9 GitHub Repositories for Learning?](https://www.reddit.com/r/javascript/comments/115kigi/boost_your_javascript_skills_top_9_github/)
+- [Making sofware user-extendable &lpar;adding features on the fly to popular SAAS tools&rpar;](https://www.reddit.com/r/javascript/comments/115jkso/making_sofware_userextendable_adding_features_on/)
+- [GitHub - larswaechter/voici.js: A Node.js library for pretty printing your data on the terminal](https://www.reddit.com/r/javascript/comments/115ge2d/github_larswaechtervoicijs_a_nodejs_library_for/)
+- [GitHub - Eagle App was used as the background management system to quickly build pic website and self-built pic library.](https://www.reddit.com/r/javascript/comments/115en3q/github_eagle_app_was_used_as_the_background/)
+- [Simplify backend-creation with open source codehooks-mongodb package](https://www.reddit.com/r/javascript/comments/115brwg/simplify_backendcreation_with_open_source/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
