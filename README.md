@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Rate a string on how much sense it makes](https://www.reddit.com/r/javascript/comments/115x1et/askjs_rate_a_string_on_how_much_sense_it_makes/)
+- [AnabolicSet - Javascript Set on steroids. Features custom comparison + a few extras!](https://www.reddit.com/r/javascript/comments/116qnnc/anabolicset_javascript_set_on_steroids_features/)
+- [Use console.log&lpar;&rpar; like a pro](https://www.reddit.com/r/javascript/comments/116nqxx/use_consolelog_like_a_pro/)
+- [docusaurus-json-schema-plugin - JSON Schema viewer / editor in Docusaurus](https://www.reddit.com/r/javascript/comments/116n4x4/docusaurusjsonschemaplugin_json_schema_viewer/)
+- [Build A Highly Scaleable Chat Application with Websocket and Node.JS Cluster](https://www.reddit.com/r/javascript/comments/116lq1b/build_a_highly_scaleable_chat_application_with/)
+- [Lethargy-TS — A Modern Typescript Rewrite of the `lethargy` inertia scroll detection library](https://www.reddit.com/r/javascript/comments/116jsr5/lethargyts_a_modern_typescript_rewrite_of_the/)
 - [I built an app to search the APOD database by color](https://www.reddit.com/r/javascript/comments/115tqt2/i_built_an_app_to_search_the_apod_database_by/)
 - [I just released an NPM package of a visual scripting editor](https://www.reddit.com/r/javascript/comments/115movy/i_just_released_an_npm_package_of_a_visual/)
 - [Synthwave styled space shooter with bullet-time, weather effects and itemization, using vanilla Javascript](https://www.reddit.com/r/javascript/comments/115lwvn/synthwave_styled_space_shooter_with_bullettime/)
 - [Launch, control, execute arbitrary commands in dynamic local HTTPS server from and stream output to the browser](https://www.reddit.com/r/javascript/comments/115lg01/launch_control_execute_arbitrary_commands_in/)
-- [Boost Your JavaScript Skills - Top 9 GitHub Repositories for Learning?](https://www.reddit.com/r/javascript/comments/115kigi/boost_your_javascript_skills_top_9_github/)
 - [Making sofware user-extendable &lpar;adding features on the fly to popular SAAS tools&rpar;](https://www.reddit.com/r/javascript/comments/115jkso/making_sofware_userextendable_adding_features_on/)
-- [GitHub - larswaechter/voici.js: A Node.js library for pretty printing your data on the terminal](https://www.reddit.com/r/javascript/comments/115ge2d/github_larswaechtervoicijs_a_nodejs_library_for/)
-- [GitHub - Eagle App was used as the background management system to quickly build pic website and self-built pic library.](https://www.reddit.com/r/javascript/comments/115en3q/github_eagle_app_was_used_as_the_background/)
-- [Simplify backend-creation with open source codehooks-mongodb package](https://www.reddit.com/r/javascript/comments/115brwg/simplify_backendcreation_with_open_source/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
