@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The Ultimate Guide to React Native Optimization is here!](https://www.reddit.com/r/javascript/comments/118e3nv/the_ultimate_guide_to_react_native_optimization/)
+- [Dep Tree - a tool for rendering and linting your project&#39;s dependency tree in the terminal](https://www.reddit.com/r/javascript/comments/118bxyy/dep_tree_a_tool_for_rendering_and_linting_your/)
+- [secure-file-transfer: A library to encrypt and transfer files P2P in the browser](https://www.reddit.com/r/javascript/comments/11885t0/securefiletransfer_a_library_to_encrypt_and/)
+- [Use Next.js Image component in posts with Markdown](https://www.reddit.com/r/javascript/comments/118479y/use_nextjs_image_component_in_posts_with_markdown/)
+- [Today we released Vuestic UI 1.6.0, UI Framework for Vue 3. Now it comes with Talwind CSS support and it’s own CLI](https://www.reddit.com/r/javascript/comments/1181w6y/today_we_released_vuestic_ui_160_ui_framework_for/)
+- [How to create dynamic OG images with serverless function using Sharp library](https://www.reddit.com/r/javascript/comments/117v45z/how_to_create_dynamic_og_images_with_serverless/)
+- [I made Wenode, a program that lets you run Node.js code by leveraging the power of WebContainers while still keeping your HTML code simple](https://www.reddit.com/r/javascript/comments/117sw2d/i_made_wenode_a_program_that_lets_you_run_nodejs/)
 - [I made Elasticsearch work with Algolia&#39;s Instantsearch](https://www.reddit.com/r/javascript/comments/117k94t/i_made_elasticsearch_work_with_algolias/)
 - [I made a package to simplify modules in NestJS](https://www.reddit.com/r/javascript/comments/117j8p4/i_made_a_package_to_simplify_modules_in_nestjs/)
 - [How &lpar;And Why?&rpar; To Wrap External Libraries? - CodeJourney.net](https://www.reddit.com/r/javascript/comments/117gxoc/how_and_why_to_wrap_external_libraries/)
-- [Creating a resume builder with React, NodeJS and AI](https://www.reddit.com/r/javascript/comments/117677g/creating_a_resume_builder_with_react_nodejs_and_ai/)
-- [GitHub - google/swissgl: SwissGL is a minimalistic wrapper on top of WebGL2 JS API. It&#39;s designed to reduce the amount of boilerplate code required to manage GLSL shaders, textures and framebuffers when making procedural visualizations or simulations.](https://www.reddit.com/r/javascript/comments/1173aht/github_googleswissgl_swissgl_is_a_minimalistic/)
-- [[Article]: 3 Simple Habits to Improve Your Tests](https://www.reddit.com/r/javascript/comments/1170ucb/article_3_simple_habits_to_improve_your_tests/)
-- [AnabolicSet - Javascript Set on steroids. Features custom comparison + a few extras!](https://www.reddit.com/r/javascript/comments/116qnnc/anabolicset_javascript_set_on_steroids_features/)
-- [docusaurus-json-schema-plugin - JSON Schema viewer / editor in Docusaurus](https://www.reddit.com/r/javascript/comments/116n4x4/docusaurusjsonschemaplugin_json_schema_viewer/)
-- [Build A Highly Scaleable Chat Application with Websocket and Node.JS Cluster](https://www.reddit.com/r/javascript/comments/116lq1b/build_a_highly_scaleable_chat_application_with/)
-- [Lethargy-TS — A Modern Typescript Rewrite of the `lethargy` inertia scroll detection library](https://www.reddit.com/r/javascript/comments/116jsr5/lethargyts_a_modern_typescript_rewrite_of_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
