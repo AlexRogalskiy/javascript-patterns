@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What&#39;s New in JavaScript Charting? Version 3.4 brings vertical org charts, dumbbell, waffle and extensive dashboard widgets after 10+ months of development.](https://www.reddit.com/r/javascript/comments/119kb2g/whats_new_in_javascript_charting_version_34/)
+- [Migrated my website from NextJS to Astro! How is it?](https://www.reddit.com/r/javascript/comments/1198460/migrated_my_website_from_nextjs_to_astro_how_is_it/)
+- [How to create a Venn diagram using JavaScript](https://www.reddit.com/r/javascript/comments/1197ywc/how_to_create_a_venn_diagram_using_javascript/)
+- [I built an open source plugin to quarantine flaky tests dynamically for Cypress](https://www.reddit.com/r/javascript/comments/1195mzj/i_built_an_open_source_plugin_to_quarantine_flaky/)
+- [Xeito - A framework for building web applications](https://www.reddit.com/r/javascript/comments/1194gww/xeito_a_framework_for_building_web_applications/)
+- [Library for orbit controls React Native 3D scenes](https://www.reddit.com/r/javascript/comments/118yuv6/library_for_orbit_controls_react_native_3d_scenes/)
+- [React&#39;s Instance Identity Model](https://www.reddit.com/r/javascript/comments/118tggb/reacts_instance_identity_model/)
+- [WTF Wednesday &lpar;February 22, 2023&rpar;](https://www.reddit.com/r/javascript/comments/118sgcj/wtf_wednesday_february_22_2023/)
 - [The Ultimate Guide to React Native Optimization is here!](https://www.reddit.com/r/javascript/comments/118e3nv/the_ultimate_guide_to_react_native_optimization/)
 - [Dep Tree - a tool for rendering and linting your project&#39;s dependency tree in the terminal](https://www.reddit.com/r/javascript/comments/118bxyy/dep_tree_a_tool_for_rendering_and_linting_your/)
-- [secure-file-transfer: A library to encrypt and transfer files P2P in the browser](https://www.reddit.com/r/javascript/comments/11885t0/securefiletransfer_a_library_to_encrypt_and/)
-- [Use Next.js Image component in posts with Markdown](https://www.reddit.com/r/javascript/comments/118479y/use_nextjs_image_component_in_posts_with_markdown/)
-- [Today we released Vuestic UI 1.6.0, UI Framework for Vue 3. Now it comes with Talwind CSS support and it’s own CLI](https://www.reddit.com/r/javascript/comments/1181w6y/today_we_released_vuestic_ui_160_ui_framework_for/)
-- [How to create dynamic OG images with serverless function using Sharp library](https://www.reddit.com/r/javascript/comments/117v45z/how_to_create_dynamic_og_images_with_serverless/)
-- [I made Wenode, a program that lets you run Node.js code by leveraging the power of WebContainers while still keeping your HTML code simple](https://www.reddit.com/r/javascript/comments/117sw2d/i_made_wenode_a_program_that_lets_you_run_nodejs/)
-- [I made Elasticsearch work with Algolia&#39;s Instantsearch](https://www.reddit.com/r/javascript/comments/117k94t/i_made_elasticsearch_work_with_algolias/)
-- [I made a package to simplify modules in NestJS](https://www.reddit.com/r/javascript/comments/117j8p4/i_made_a_package_to_simplify_modules_in_nestjs/)
-- [How &lpar;And Why?&rpar; To Wrap External Libraries? - CodeJourney.net](https://www.reddit.com/r/javascript/comments/117gxoc/how_and_why_to_wrap_external_libraries/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
