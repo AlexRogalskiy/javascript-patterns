@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Explore Bun.js: The all-in-one JavaScript runtime](https://www.infoworld.com/article/3688330/explore-bunjs-the-all-in-one-javascript-runtime.html#tk.rss_javascript)
 - [Docker, Maven lead the way in packages](https://www.infoworld.com/article/3687747/docker-maven-lead-the-way-in-packages.html#tk.rss_javascript)
 - [Deno 1.30 backs built-in Node.js modules](https://www.infoworld.com/article/3687728/deno-130-backs-built-in-nodejs-modules.html#tk.rss_javascript)
 - [Intro to Remix: A leader in full-stack evolution](https://www.infoworld.com/article/3687210/intro-to-remix-a-leader-in-full-stack-evolution.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [TypeScript 5.0 retools decorators](https://www.infoworld.com/article/3686509/typescript-50-retools-decorators.html#tk.rss_javascript)
 - [CodeSandbox adds Rust support](https://www.infoworld.com/article/3686058/codesandbox-adds-rust-support.html#tk.rss_javascript)
 - [Google V8 API bridges WebAssembly and asynchronous web](https://www.infoworld.com/article/3686098/google-v8-api-bridges-webassembly-and-asynchronous-web.html#tk.rss_javascript)
-- [8 programming languages we love to hate—but can’t live without](https://www.infoworld.com/article/3072163/7-programming-languages-we-love-to-hate-but-cant-live-without.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
