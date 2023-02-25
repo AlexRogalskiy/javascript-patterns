@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Next.js 13.2 with big improvements to the app directory](https://www.reddit.com/r/javascript/comments/11a9dxo/nextjs_132_with_big_improvements_to_the_app/)
-- [Creating A WebTransport NPM Package I Call It ShakePort!](https://www.reddit.com/r/javascript/comments/11a9dnd/creating_a_webtransport_npm_package_i_call_it/)
-- [Banditstash: 400b type-safe localStorage wrapper with superpowers](https://www.reddit.com/r/javascript/comments/11a836e/banditstash_400b_typesafe_localstorage_wrapper/)
-- [Sentry’s Frontend Tests: Migrating from Enzyme to React Testing Library](https://www.reddit.com/r/javascript/comments/11a3elh/sentrys_frontend_tests_migrating_from_enzyme_to/)
-- [GitHub - tc39/proposal-module-declarations: JavaScript Module Fragments -- Stage 1 proposal](https://www.reddit.com/r/javascript/comments/11a2s8u/github_tc39proposalmoduledeclarations_javascript/)
-- [You Don&#39;t Need Rails to Start Using Hotwire](https://www.reddit.com/r/javascript/comments/119ysyz/you_dont_need_rails_to_start_using_hotwire/)
-- [[AskJS] Which bug detectors would you like to see in our open-source JS fuzzer?](https://www.reddit.com/r/javascript/comments/119y2uu/askjs_which_bug_detectors_would_you_like_to_see/)
-- [[AskJS] Is JavaScript missing some built-in methods?](https://www.reddit.com/r/javascript/comments/119xrc2/askjs_is_javascript_missing_some_builtin_methods/)
-- [Jitar v0.3.4 released | Distributable runtime for JavaScript and TypeScript](https://www.reddit.com/r/javascript/comments/119weax/jitar_v034_released_distributable_runtime_for/)
-- [[AskJS] Are there any surviving alternatives to prepack?](https://www.reddit.com/r/javascript/comments/119v1sx/askjs_are_there_any_surviving_alternatives_to/)
+- [What-type-of-software-development-will-be-most-common-in-2023](https://www.reddit.com/r/javascript/comments/11b4rx8/whattypeofsoftwaredevelopmentwillbemostcommonin202/)
+- [GitHub - achlubek/aero-di: Decorator-free, transparent dependency injection library for TypeScript](https://www.reddit.com/r/javascript/comments/11b4r3e/github_achlubekaerodi_decoratorfree_transparent/)
+- [The JavaScript Site Generator Review, 2023](https://www.reddit.com/r/javascript/comments/11b395e/the_javascript_site_generator_review_2023/)
+- [[AskJS] I&#39;ve often read a lot of &quot;if&quot; statements can quickly turn into an anti pattern and convolute code. What are some strategies to avoid unnecessary &quot;if&quot; statements and ways to notice when you start to introduce this anti pattern?](https://www.reddit.com/r/javascript/comments/11b0blt/askjs_ive_often_read_a_lot_of_if_statements_can/)
+- [JavaScript SSR made easy](https://www.reddit.com/r/javascript/comments/11ay6sh/javascript_ssr_made_easy/)
+- [NPM repository flooded with 15,000 phishing packages](https://www.reddit.com/r/javascript/comments/11axze9/npm_repository_flooded_with_15000_phishing/)
+- [Deno 1.31: package.json support, Stabilization of Node-API](https://www.reddit.com/r/javascript/comments/11axtjk/deno_131_packagejson_support_stabilization_of/)
+- [Typetta vs Prisma](https://www.reddit.com/r/javascript/comments/11atbid/typetta_vs_prisma/)
+- [I wrote a universal state modular library, it supports Redux&lpar;4.x&rpar;, MobX&lpar;6.x&rpar;, Vuex&lpar;4.x&rpar;, and Angular&lpar;2.0+&rpar;.](https://www.reddit.com/r/javascript/comments/11ashfm/i_wrote_a_universal_state_modular_library_it/)
+- [How to Fix React Hydration Error in Nextjs - Practical Guide](https://www.reddit.com/r/javascript/comments/11asbyj/how_to_fix_react_hydration_error_in_nextjs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
