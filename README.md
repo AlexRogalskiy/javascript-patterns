@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What-type-of-software-development-will-be-most-common-in-2023](https://www.reddit.com/r/javascript/comments/11b4rx8/whattypeofsoftwaredevelopmentwillbemostcommonin202/)
-- [GitHub - achlubek/aero-di: Decorator-free, transparent dependency injection library for TypeScript](https://www.reddit.com/r/javascript/comments/11b4r3e/github_achlubekaerodi_decoratorfree_transparent/)
-- [The JavaScript Site Generator Review, 2023](https://www.reddit.com/r/javascript/comments/11b395e/the_javascript_site_generator_review_2023/)
-- [[AskJS] I&#39;ve often read a lot of &quot;if&quot; statements can quickly turn into an anti pattern and convolute code. What are some strategies to avoid unnecessary &quot;if&quot; statements and ways to notice when you start to introduce this anti pattern?](https://www.reddit.com/r/javascript/comments/11b0blt/askjs_ive_often_read_a_lot_of_if_statements_can/)
-- [JavaScript SSR made easy](https://www.reddit.com/r/javascript/comments/11ay6sh/javascript_ssr_made_easy/)
-- [NPM repository flooded with 15,000 phishing packages](https://www.reddit.com/r/javascript/comments/11axze9/npm_repository_flooded_with_15000_phishing/)
-- [Deno 1.31: package.json support, Stabilization of Node-API](https://www.reddit.com/r/javascript/comments/11axtjk/deno_131_packagejson_support_stabilization_of/)
-- [Typetta vs Prisma](https://www.reddit.com/r/javascript/comments/11atbid/typetta_vs_prisma/)
-- [I wrote a universal state modular library, it supports Redux&lpar;4.x&rpar;, MobX&lpar;6.x&rpar;, Vuex&lpar;4.x&rpar;, and Angular&lpar;2.0+&rpar;.](https://www.reddit.com/r/javascript/comments/11ashfm/i_wrote_a_universal_state_modular_library_it/)
-- [How to Fix React Hydration Error in Nextjs - Practical Guide](https://www.reddit.com/r/javascript/comments/11asbyj/how_to_fix_react_hydration_error_in_nextjs/)
+- [[AskJS] How should I host a blog/webshop built with Gatsby, on Strapi?](https://www.reddit.com/r/javascript/comments/11c2c9r/askjs_how_should_i_host_a_blogwebshop_built_with/)
+- [I wrote a program that adds Matrices and Rationals to JS!](https://www.reddit.com/r/javascript/comments/11c1c65/i_wrote_a_program_that_adds_matrices_and/)
+- [NPM : Node Package Manager](https://www.reddit.com/r/javascript/comments/11c0uvt/npm_node_package_manager/)
+- [[AskJS] What should I learn first React or Node?](https://www.reddit.com/r/javascript/comments/11bz36c/askjs_what_should_i_learn_first_react_or_node/)
+- [[AskJS] Does anyone have a guide to integrate WebAuthn for passwordless authentication in node/next?](https://www.reddit.com/r/javascript/comments/11bxyu1/askjs_does_anyone_have_a_guide_to_integrate/)
+- [I&#39;m building an open-source platform for engineers to manage design tokens directly in code, making it easy to manage themes across UIs](https://www.reddit.com/r/javascript/comments/11bvav6/im_building_an_opensource_platform_for_engineers/)
+- [Axios GET and POST examples](https://www.reddit.com/r/javascript/comments/11bui9h/axios_get_and_post_examples/)
+- [More Elegant Destructuring with JavaScript Generators](https://www.reddit.com/r/javascript/comments/11bt6sh/more_elegant_destructuring_with_javascript/)
+- [The Evolution of Javascript Strings Over the Years](https://www.reddit.com/r/javascript/comments/11bpmoj/the_evolution_of_javascript_strings_over_the_years/)
+- [Should I use e.code or e.key when handling keyboard events?](https://www.reddit.com/r/javascript/comments/11bnkjr/should_i_use_ecode_or_ekey_when_handling_keyboard/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
