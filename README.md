@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] How should I host a blog/webshop built with Gatsby, on Strapi?](https://www.reddit.com/r/javascript/comments/11c2c9r/askjs_how_should_i_host_a_blogwebshop_built_with/)
-- [I wrote a program that adds Matrices and Rationals to JS!](https://www.reddit.com/r/javascript/comments/11c1c65/i_wrote_a_program_that_adds_matrices_and/)
-- [NPM : Node Package Manager](https://www.reddit.com/r/javascript/comments/11c0uvt/npm_node_package_manager/)
-- [[AskJS] What should I learn first React or Node?](https://www.reddit.com/r/javascript/comments/11bz36c/askjs_what_should_i_learn_first_react_or_node/)
-- [[AskJS] Does anyone have a guide to integrate WebAuthn for passwordless authentication in node/next?](https://www.reddit.com/r/javascript/comments/11bxyu1/askjs_does_anyone_have_a_guide_to_integrate/)
-- [I&#39;m building an open-source platform for engineers to manage design tokens directly in code, making it easy to manage themes across UIs](https://www.reddit.com/r/javascript/comments/11bvav6/im_building_an_opensource_platform_for_engineers/)
-- [Axios GET and POST examples](https://www.reddit.com/r/javascript/comments/11bui9h/axios_get_and_post_examples/)
-- [More Elegant Destructuring with JavaScript Generators](https://www.reddit.com/r/javascript/comments/11bt6sh/more_elegant_destructuring_with_javascript/)
-- [The Evolution of Javascript Strings Over the Years](https://www.reddit.com/r/javascript/comments/11bpmoj/the_evolution_of_javascript_strings_over_the_years/)
-- [Should I use e.code or e.key when handling keyboard events?](https://www.reddit.com/r/javascript/comments/11bnkjr/should_i_use_ecode_or_ekey_when_handling_keyboard/)
+- [Benchmarking Preact Signals versus the React alternatives](https://www.reddit.com/r/javascript/comments/11cxu16/benchmarking_preact_signals_versus_the_react/)
+- [Text Highlighter - Small standalone class that gets passed a textarea and is able to either highlight one or more occurrences of a string or remove the applied highlights. All this without disturbing the functioning of the textarea. It&#39;s responsive and will adjust to changing size and text.](https://www.reddit.com/r/javascript/comments/11cuh6j/text_highlighter_small_standalone_class_that_gets/)
+- [[AskJS] Journey of Development | A Next-Generation JavaScript Block Editor](https://www.reddit.com/r/javascript/comments/11cqjvj/askjs_journey_of_development_a_nextgeneration/)
+- [prc5/react-zoom-pan-pinch: Package for zooming, panning and pinching html elements in easy way](https://www.reddit.com/r/javascript/comments/11cq7ar/prc5reactzoompanpinch_package_for_zooming_panning/)
+- [Feedback on my JS library website?](https://www.reddit.com/r/javascript/comments/11coy3v/feedback_on_my_js_library_website/)
+- [[Tutorial]: Vanilla JS Quiz Website in 20 Minutes](https://www.reddit.com/r/javascript/comments/11cmbsn/tutorial_vanilla_js_quiz_website_in_20_minutes/)
+- [Color palette design-token visualization &lpar;are there any other similar tools/libraries to this&rpar;?](https://www.reddit.com/r/javascript/comments/11ckhee/color_palette_designtoken_visualization_are_there/)
+- [[AskJS] Source Filename and Linenumber References in Translated Code](https://www.reddit.com/r/javascript/comments/11cji30/askjs_source_filename_and_linenumber_references/)
+- [[AskJS] I&#39;m building a JS automatic code review tool, and was wondering if there are any dataset you have heard about with JS bugs or security vulnerabilities?](https://www.reddit.com/r/javascript/comments/11chv5b/askjs_im_building_a_js_automatic_code_review_tool/)
+- [withtyped: A Koa.js alternative with fully typed and immutable context](https://www.reddit.com/r/javascript/comments/11cfyuy/withtyped_a_koajs_alternative_with_fully_typed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
