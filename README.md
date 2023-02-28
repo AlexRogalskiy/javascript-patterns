@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Benchmarking Preact Signals versus the React alternatives](https://www.reddit.com/r/javascript/comments/11cxu16/benchmarking_preact_signals_versus_the_react/)
-- [Text Highlighter - Small standalone class that gets passed a textarea and is able to either highlight one or more occurrences of a string or remove the applied highlights. All this without disturbing the functioning of the textarea. It&#39;s responsive and will adjust to changing size and text.](https://www.reddit.com/r/javascript/comments/11cuh6j/text_highlighter_small_standalone_class_that_gets/)
-- [[AskJS] Journey of Development | A Next-Generation JavaScript Block Editor](https://www.reddit.com/r/javascript/comments/11cqjvj/askjs_journey_of_development_a_nextgeneration/)
-- [prc5/react-zoom-pan-pinch: Package for zooming, panning and pinching html elements in easy way](https://www.reddit.com/r/javascript/comments/11cq7ar/prc5reactzoompanpinch_package_for_zooming_panning/)
-- [Feedback on my JS library website?](https://www.reddit.com/r/javascript/comments/11coy3v/feedback_on_my_js_library_website/)
-- [[Tutorial]: Vanilla JS Quiz Website in 20 Minutes](https://www.reddit.com/r/javascript/comments/11cmbsn/tutorial_vanilla_js_quiz_website_in_20_minutes/)
-- [Color palette design-token visualization &lpar;are there any other similar tools/libraries to this&rpar;?](https://www.reddit.com/r/javascript/comments/11ckhee/color_palette_designtoken_visualization_are_there/)
-- [[AskJS] Source Filename and Linenumber References in Translated Code](https://www.reddit.com/r/javascript/comments/11cji30/askjs_source_filename_and_linenumber_references/)
-- [[AskJS] I&#39;m building a JS automatic code review tool, and was wondering if there are any dataset you have heard about with JS bugs or security vulnerabilities?](https://www.reddit.com/r/javascript/comments/11chv5b/askjs_im_building_a_js_automatic_code_review_tool/)
-- [withtyped: A Koa.js alternative with fully typed and immutable context](https://www.reddit.com/r/javascript/comments/11cfyuy/withtyped_a_koajs_alternative_with_fully_typed/)
+- [An update on Robust Client-Side JavaScript](https://www.reddit.com/r/javascript/comments/11dt28f/an_update_on_robust_clientside_javascript/)
+- [Ezno in &#39;23 &lpar;a type checker for JavaScript/TypeScript and optimizer for React&rpar;](https://www.reddit.com/r/javascript/comments/11drjaq/ezno_in_23_a_type_checker_for/)
+- [Making YouTube video with React](https://www.reddit.com/r/javascript/comments/11dm2gd/making_youtube_video_with_react/)
+- [You Are Using the “useState” Hook Wrong](https://www.reddit.com/r/javascript/comments/11dlwm7/you_are_using_the_usestate_hook_wrong/)
+- [[AskJS] What should we keep in mind while implementing telemetry in our SDK?](https://www.reddit.com/r/javascript/comments/11dl7zp/askjs_what_should_we_keep_in_mind_while/)
+- [The Evolution of Signals in JavaScript](https://www.reddit.com/r/javascript/comments/11dk29h/the_evolution_of_signals_in_javascript/)
+- [Banditypes: The mighty 400-byte schema validator for JS](https://www.reddit.com/r/javascript/comments/11dfp1u/banditypes_the_mighty_400byte_schema_validator/)
+- [[AskJS] Best js frontend UI component &lpar;any framework&rpar; for building filterable/searchable lists/grids](https://www.reddit.com/r/javascript/comments/11dd6jq/askjs_best_js_frontend_ui_component_any_framework/)
+- [Building Vue 3 components with Tailwind CSS](https://www.reddit.com/r/javascript/comments/11dd0wg/building_vue_3_components_with_tailwind_css/)
+- [Zx 7.2.0 release](https://www.reddit.com/r/javascript/comments/11dcije/zx_720_release/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
