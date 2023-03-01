@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Turbo Streams in Hotwire: How They Work and Differ From Turbo Frames](https://www.reddit.com/r/javascript/comments/11ejncr/turbo_streams_in_hotwire_how_they_work_and_differ/)
+- [Introducing ArkType: The first isomorphic type system for TS/JS](https://www.reddit.com/r/javascript/comments/11ejfko/introducing_arktype_the_first_isomorphic_type/)
+- [Fuse.js - a powerful, lightweight fuzzy-search library, with zero dependencies](https://www.reddit.com/r/javascript/comments/11eh48g/fusejs_a_powerful_lightweight_fuzzysearch_library/)
+- [Hello guys. Which animation library do you use in React or Vue? I use AnimXYZ](https://www.reddit.com/r/javascript/comments/11effpz/hello_guys_which_animation_library_do_you_use_in/)
+- [Flowchart editor dgrm.net / announcement / copy function](https://www.reddit.com/r/javascript/comments/11efd93/flowchart_editor_dgrmnet_announcement_copy/)
+- [Matrix rain effect](https://www.reddit.com/r/javascript/comments/11eav7p/matrix_rain_effect/)
+- [On Using Rust in Parcel and Vitest](https://www.reddit.com/r/javascript/comments/11e4f59/on_using_rust_in_parcel_and_vitest/)
+- [GitHub - idrawjs/idraw: A simple JavaScript framework for Drawing on the web](https://www.reddit.com/r/javascript/comments/11e07t4/github_idrawjsidraw_a_simple_javascript_framework/)
+- [[AskJS] Company gives me £1,000 a year for learning. How should I spend it?](https://www.reddit.com/r/javascript/comments/11dui04/askjs_company_gives_me_1000_a_year_for_learning/)
 - [An update on Robust Client-Side JavaScript](https://www.reddit.com/r/javascript/comments/11dt28f/an_update_on_robust_clientside_javascript/)
-- [Ezno in &#39;23 &lpar;a type checker for JavaScript/TypeScript and optimizer for React&rpar;](https://www.reddit.com/r/javascript/comments/11drjaq/ezno_in_23_a_type_checker_for/)
-- [Making YouTube video with React](https://www.reddit.com/r/javascript/comments/11dm2gd/making_youtube_video_with_react/)
-- [You Are Using the “useState” Hook Wrong](https://www.reddit.com/r/javascript/comments/11dlwm7/you_are_using_the_usestate_hook_wrong/)
-- [[AskJS] What should we keep in mind while implementing telemetry in our SDK?](https://www.reddit.com/r/javascript/comments/11dl7zp/askjs_what_should_we_keep_in_mind_while/)
-- [The Evolution of Signals in JavaScript](https://www.reddit.com/r/javascript/comments/11dk29h/the_evolution_of_signals_in_javascript/)
-- [Banditypes: The mighty 400-byte schema validator for JS](https://www.reddit.com/r/javascript/comments/11dfp1u/banditypes_the_mighty_400byte_schema_validator/)
-- [[AskJS] Best js frontend UI component &lpar;any framework&rpar; for building filterable/searchable lists/grids](https://www.reddit.com/r/javascript/comments/11dd6jq/askjs_best_js_frontend_ui_component_any_framework/)
-- [Building Vue 3 components with Tailwind CSS](https://www.reddit.com/r/javascript/comments/11dd0wg/building_vue_3_components_with_tailwind_css/)
-- [Zx 7.2.0 release](https://www.reddit.com/r/javascript/comments/11dcije/zx_720_release/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
