@@ -292,6 +292,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [State of JavaScript: A conversation with Sacha Greif](https://www.infoworld.com/article/3688770/state-of-javascript-a-conversation-with-sacha-greif.html#tk.rss_javascript)
+- [Deno adds package.json support](https://www.infoworld.com/article/3689179/deno-adds-package-json-support.html#tk.rss_javascript)
 - [Explore Bun.js: The all-in-one JavaScript runtime](https://www.infoworld.com/article/3688330/explore-bunjs-the-all-in-one-javascript-runtime.html#tk.rss_javascript)
 - [Docker, Maven lead the way in packages](https://www.infoworld.com/article/3687747/docker-maven-lead-the-way-in-packages.html#tk.rss_javascript)
 - [Deno 1.30 backs built-in Node.js modules](https://www.infoworld.com/article/3687728/deno-130-backs-built-in-nodejs-modules.html#tk.rss_javascript)
@@ -300,8 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [The tech leader&#39;s guide to 2023](https://www.infoworld.com/article/3686190/the-tech-leaders-guide-to-2023.html#tk.rss_javascript)
 - [Server-side rendering is having a moment](https://www.infoworld.com/article/3686649/server-side-rendering-is-having-a-moment.html#tk.rss_javascript)
 - [TypeScript 5.0 retools decorators](https://www.infoworld.com/article/3686509/typescript-50-retools-decorators.html#tk.rss_javascript)
-- [CodeSandbox adds Rust support](https://www.infoworld.com/article/3686058/codesandbox-adds-rust-support.html#tk.rss_javascript)
-- [Google V8 API bridges WebAssembly and asynchronous web](https://www.infoworld.com/article/3686098/google-v8-api-bridges-webassembly-and-asynchronous-web.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
