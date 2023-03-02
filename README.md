@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Turbo Streams in Hotwire: How They Work and Differ From Turbo Frames](https://www.reddit.com/r/javascript/comments/11ejncr/turbo_streams_in_hotwire_how_they_work_and_differ/)
-- [Introducing ArkType: The first isomorphic type system for TS/JS](https://www.reddit.com/r/javascript/comments/11ejfko/introducing_arktype_the_first_isomorphic_type/)
-- [Fuse.js - a powerful, lightweight fuzzy-search library, with zero dependencies](https://www.reddit.com/r/javascript/comments/11eh48g/fusejs_a_powerful_lightweight_fuzzysearch_library/)
-- [Hello guys. Which animation library do you use in React or Vue? I use AnimXYZ](https://www.reddit.com/r/javascript/comments/11effpz/hello_guys_which_animation_library_do_you_use_in/)
-- [Flowchart editor dgrm.net / announcement / copy function](https://www.reddit.com/r/javascript/comments/11efd93/flowchart_editor_dgrmnet_announcement_copy/)
-- [Matrix rain effect](https://www.reddit.com/r/javascript/comments/11eav7p/matrix_rain_effect/)
-- [On Using Rust in Parcel and Vitest](https://www.reddit.com/r/javascript/comments/11e4f59/on_using_rust_in_parcel_and_vitest/)
-- [GitHub - idrawjs/idraw: A simple JavaScript framework for Drawing on the web](https://www.reddit.com/r/javascript/comments/11e07t4/github_idrawjsidraw_a_simple_javascript_framework/)
-- [[AskJS] Company gives me £1,000 a year for learning. How should I spend it?](https://www.reddit.com/r/javascript/comments/11dui04/askjs_company_gives_me_1000_a_year_for_learning/)
-- [An update on Robust Client-Side JavaScript](https://www.reddit.com/r/javascript/comments/11dt28f/an_update_on_robust_clientside_javascript/)
+- [Use GraphQL without the GraphQL](https://www.reddit.com/r/javascript/comments/11fkxz0/use_graphql_without_the_graphql/)
+- [The Price Developers Pay for Loving Their Tools Too Much](https://www.reddit.com/r/javascript/comments/11fk625/the_price_developers_pay_for_loving_their_tools/)
+- [Announcing TypeScript 5.0 RC](https://www.reddit.com/r/javascript/comments/11firef/announcing_typescript_50_rc/)
+- [Visual Studio Code February 2023](https://www.reddit.com/r/javascript/comments/11fcc8l/visual_studio_code_february_2023/)
+- [React vs Signals: 10 Years Later](https://www.reddit.com/r/javascript/comments/11fakzc/react_vs_signals_10_years_later/)
+- [Tutorial: How to Setup Web Push Notifications in iOS Safari](https://www.reddit.com/r/javascript/comments/11faite/tutorial_how_to_setup_web_push_notifications_in/)
+- [I built an npm module for adding full type safety to any event based system using zod, for example websockets, event emitters, etc. I would love some feedback.](https://www.reddit.com/r/javascript/comments/11f3f9x/i_built_an_npm_module_for_adding_full_type_safety/)
+- [Declarative Setup, Imperative Update: The Key to High-Performance UI Components in React](https://www.reddit.com/r/javascript/comments/11f3e06/declarative_setup_imperative_update_the_key_to/)
+- [Making GraphQL Codegen Work For You](https://www.reddit.com/r/javascript/comments/11f12t7/making_graphql_codegen_work_for_you/)
+- [Design Patterns: Dependency Injection, Factory, Singleton, Observer and Strategy](https://www.reddit.com/r/javascript/comments/11ez1ki/design_patterns_dependency_injection_factory/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
