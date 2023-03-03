@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Use GraphQL without the GraphQL](https://www.reddit.com/r/javascript/comments/11fkxz0/use_graphql_without_the_graphql/)
-- [The Price Developers Pay for Loving Their Tools Too Much](https://www.reddit.com/r/javascript/comments/11fk625/the_price_developers_pay_for_loving_their_tools/)
-- [Announcing TypeScript 5.0 RC](https://www.reddit.com/r/javascript/comments/11firef/announcing_typescript_50_rc/)
-- [Visual Studio Code February 2023](https://www.reddit.com/r/javascript/comments/11fcc8l/visual_studio_code_february_2023/)
-- [React vs Signals: 10 Years Later](https://www.reddit.com/r/javascript/comments/11fakzc/react_vs_signals_10_years_later/)
-- [Tutorial: How to Setup Web Push Notifications in iOS Safari](https://www.reddit.com/r/javascript/comments/11faite/tutorial_how_to_setup_web_push_notifications_in/)
-- [I built an npm module for adding full type safety to any event based system using zod, for example websockets, event emitters, etc. I would love some feedback.](https://www.reddit.com/r/javascript/comments/11f3f9x/i_built_an_npm_module_for_adding_full_type_safety/)
-- [Declarative Setup, Imperative Update: The Key to High-Performance UI Components in React](https://www.reddit.com/r/javascript/comments/11f3e06/declarative_setup_imperative_update_the_key_to/)
-- [Making GraphQL Codegen Work For You](https://www.reddit.com/r/javascript/comments/11f12t7/making_graphql_codegen_work_for_you/)
-- [Design Patterns: Dependency Injection, Factory, Singleton, Observer and Strategy](https://www.reddit.com/r/javascript/comments/11ez1ki/design_patterns_dependency_injection_factory/)
+- [Scrawl-canvas - a Javascript library for working with the HTML5 &lt;canvas&gt; element](https://www.reddit.com/r/javascript/comments/11gek0s/scrawlcanvas_a_javascript_library_for_working/)
+- [Deploy an Express.js app to AWS using ECS+ECR+ELB quickly using PostgreSQL](https://www.reddit.com/r/javascript/comments/11gaeyi/deploy_an_expressjs_app_to_aws_using_ecsecrelb/)
+- [How to fit a library into 400 bytes: lessons from banditypes](https://www.reddit.com/r/javascript/comments/11g6mov/how_to_fit_a_library_into_400_bytes_lessons_from/)
+- [Extract metadata from markdown with JavaScript](https://www.reddit.com/r/javascript/comments/11g6i5g/extract_metadata_from_markdown_with_javascript/)
+- [The Great Gaslighting of the JavaScript Era](https://www.reddit.com/r/javascript/comments/11g568m/the_great_gaslighting_of_the_javascript_era/)
+- [Self-Hosted &amp; Open Source ChatGPT Web Client - Try it and Contribute!](https://www.reddit.com/r/javascript/comments/11g4tmq/selfhosted_open_source_chatgpt_web_client_try_it/)
+- [Share JavaScript code between frontend apps in a monorepo through a local NPM package](https://www.reddit.com/r/javascript/comments/11g3fa5/share_javascript_code_between_frontend_apps_in_a/)
+- [JSXC: JavaScript XMPP Client](https://www.reddit.com/r/javascript/comments/11g07v7/jsxc_javascript_xmpp_client/)
+- [Javascript to Typescript converter with ChatGPT](https://www.reddit.com/r/javascript/comments/11fy1d3/javascript_to_typescript_converter_with_chatgpt/)
+- [Develop an SPA Against a Remote Page w/ Vite](https://www.reddit.com/r/javascript/comments/11ftth3/develop_an_spa_against_a_remote_page_w_vite/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
