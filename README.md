@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Create A ChatGPT Discord Bot With Slash Commands](https://www.reddit.com/r/javascript/comments/11hlo6g/create_a_chatgpt_discord_bot_with_slash_commands/)
+- [Introducing Feathers 5 — The API and real-time application framework](https://www.reddit.com/r/javascript/comments/11hh8uo/introducing_feathers_5_the_api_and_realtime/)
+- [GitHub - itsrennyman/react-plock: The 1kB Masonry Grid for React.](https://www.reddit.com/r/javascript/comments/11hcdxe/github_itsrennymanreactplock_the_1kb_masonry_grid/)
+- [Replacing Siri with the ChatGPT API](https://www.reddit.com/r/javascript/comments/11hahib/replacing_siri_with_the_chatgpt_api/)
+- [Running Eleventy Serverless On AWS Lambda@Edge](https://www.reddit.com/r/javascript/comments/11h4eg4/running_eleventy_serverless_on_aws_lambdaedge/)
+- [Extracting and using Critical CSS on my Eleventy site](https://www.reddit.com/r/javascript/comments/11h03e4/extracting_and_using_critical_css_on_my_eleventy/)
+- [GitHub - Boshen/oxc: The JavaScript Oxidation Compiler -&gt; Linter](https://www.reddit.com/r/javascript/comments/11gvmuz/github_boshenoxc_the_javascript_oxidation/)
 - [Scrawl-canvas - a Javascript library for working with the HTML5 &lt;canvas&gt; element](https://www.reddit.com/r/javascript/comments/11gek0s/scrawlcanvas_a_javascript_library_for_working/)
 - [Deploy an Express.js app to AWS using ECS+ECR+ELB quickly using PostgreSQL](https://www.reddit.com/r/javascript/comments/11gaeyi/deploy_an_expressjs_app_to_aws_using_ecsecrelb/)
 - [How to fit a library into 400 bytes: lessons from banditypes](https://www.reddit.com/r/javascript/comments/11g6mov/how_to_fit_a_library_into_400_bytes_lessons_from/)
-- [Extract metadata from markdown with JavaScript](https://www.reddit.com/r/javascript/comments/11g6i5g/extract_metadata_from_markdown_with_javascript/)
-- [The Great Gaslighting of the JavaScript Era](https://www.reddit.com/r/javascript/comments/11g568m/the_great_gaslighting_of_the_javascript_era/)
-- [Self-Hosted &amp; Open Source ChatGPT Web Client - Try it and Contribute!](https://www.reddit.com/r/javascript/comments/11g4tmq/selfhosted_open_source_chatgpt_web_client_try_it/)
-- [Share JavaScript code between frontend apps in a monorepo through a local NPM package](https://www.reddit.com/r/javascript/comments/11g3fa5/share_javascript_code_between_frontend_apps_in_a/)
-- [JSXC: JavaScript XMPP Client](https://www.reddit.com/r/javascript/comments/11g07v7/jsxc_javascript_xmpp_client/)
-- [Javascript to Typescript converter with ChatGPT](https://www.reddit.com/r/javascript/comments/11fy1d3/javascript_to_typescript_converter_with_chatgpt/)
-- [Develop an SPA Against a Remote Page w/ Vite](https://www.reddit.com/r/javascript/comments/11ftth3/develop_an_spa_against_a_remote_page_w_vite/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
