@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Reactivity without Virtual DOM. Export and Import data.](https://www.reddit.com/r/javascript/comments/11i7x1q/reactivity_without_virtual_dom_export_and_import/)
+- [[AskJS] Has anybody implemented and compiled ServiceWorker specification to a standalone executable?](https://www.reddit.com/r/javascript/comments/11i73or/askjs_has_anybody_implemented_and_compiled/)
+- [Build &amp; Deploy your own REST API with NodeJS and Express](https://www.reddit.com/r/javascript/comments/11i0ods/build_deploy_your_own_rest_api_with_nodejs_and/)
+- [[AskJS] Looking for a light javascript library to help me build character relationship diagrams](https://www.reddit.com/r/javascript/comments/11hvycx/askjs_looking_for_a_light_javascript_library_to/)
+- [A boilerplate for Node.js apps / Rest API / Authentication from scratch - express, mongodb &lpar;mongoose&rpar;. Typescript](https://www.reddit.com/r/javascript/comments/11hvdwm/a_boilerplate_for_nodejs_apps_rest_api/)
+- [Showoff Saturday &lpar;March 04, 2023&rpar;](https://www.reddit.com/r/javascript/comments/11htkr0/showoff_saturday_march_04_2023/)
+- [ChatGPT component generator](https://www.reddit.com/r/javascript/comments/11hqpnn/chatgpt_component_generator/)
 - [Create A ChatGPT Discord Bot With Slash Commands](https://www.reddit.com/r/javascript/comments/11hlo6g/create_a_chatgpt_discord_bot_with_slash_commands/)
 - [Introducing Feathers 5 — The API and real-time application framework](https://www.reddit.com/r/javascript/comments/11hh8uo/introducing_feathers_5_the_api_and_realtime/)
 - [GitHub - itsrennyman/react-plock: The 1kB Masonry Grid for React.](https://www.reddit.com/r/javascript/comments/11hcdxe/github_itsrennymanreactplock_the_1kb_masonry_grid/)
-- [Replacing Siri with the ChatGPT API](https://www.reddit.com/r/javascript/comments/11hahib/replacing_siri_with_the_chatgpt_api/)
-- [Running Eleventy Serverless On AWS Lambda@Edge](https://www.reddit.com/r/javascript/comments/11h4eg4/running_eleventy_serverless_on_aws_lambdaedge/)
-- [Extracting and using Critical CSS on my Eleventy site](https://www.reddit.com/r/javascript/comments/11h03e4/extracting_and_using_critical_css_on_my_eleventy/)
-- [GitHub - Boshen/oxc: The JavaScript Oxidation Compiler -&gt; Linter](https://www.reddit.com/r/javascript/comments/11gvmuz/github_boshenoxc_the_javascript_oxidation/)
-- [Scrawl-canvas - a Javascript library for working with the HTML5 &lt;canvas&gt; element](https://www.reddit.com/r/javascript/comments/11gek0s/scrawlcanvas_a_javascript_library_for_working/)
-- [Deploy an Express.js app to AWS using ECS+ECR+ELB quickly using PostgreSQL](https://www.reddit.com/r/javascript/comments/11gaeyi/deploy_an_expressjs_app_to_aws_using_ecsecrelb/)
-- [How to fit a library into 400 bytes: lessons from banditypes](https://www.reddit.com/r/javascript/comments/11g6mov/how_to_fit_a_library_into_400_bytes_lessons_from/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
