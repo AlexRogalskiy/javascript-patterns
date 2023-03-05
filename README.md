@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [TypeScript 5.0 retools decorators](https://www.infoworld.com/article/3686509/typescript-50-retools-decorators.html#tk.rss_javascript)
 - [7 awesome JavaScript projects to check out today](https://www.infoworld.com/article/3687616/7-awesome-javascript-projects-to-check-out-today.html#tk.rss_javascript)
 - [Deno adds package.json support](https://www.infoworld.com/article/3689179/deno-adds-package-json-support.html#tk.rss_javascript)
 - [State of JavaScript: A conversation with Sacha Greif](https://www.infoworld.com/article/3688770/state-of-javascript-a-conversation-with-sacha-greif.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Intro to Remix: A leader in full-stack evolution](https://www.infoworld.com/article/3687210/intro-to-remix-a-leader-in-full-stack-evolution.html#tk.rss_javascript)
 - [C++ still shining in language popularity index](https://www.infoworld.com/article/3687174/c-still-shining-in-language-popularity-index.html#tk.rss_javascript)
 - [The tech leader&#39;s guide to 2023](https://www.infoworld.com/article/3686190/the-tech-leaders-guide-to-2023.html#tk.rss_javascript)
-- [Server-side rendering is having a moment](https://www.infoworld.com/article/3686649/server-side-rendering-is-having-a-moment.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
