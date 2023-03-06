@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Reactivity without Virtual DOM. Export and Import data.](https://www.reddit.com/r/javascript/comments/11i7x1q/reactivity_without_virtual_dom_export_and_import/)
+- [[AskJS] Should I be generating random data for parameters when unit testing?](https://www.reddit.com/r/javascript/comments/11jft48/askjs_should_i_be_generating_random_data_for/)
+- [[AskJS] What Lodash/&lt;insert utility library&gt; functions do you love?](https://www.reddit.com/r/javascript/comments/11jensw/askjs_what_lodashinsert_utility_library_functions/)
+- [Serverless Deno with Azure Functions](https://www.reddit.com/r/javascript/comments/11j2cq7/serverless_deno_with_azure_functions/)
+- [The Last Breaking Change | JSON Schema Blog](https://www.reddit.com/r/javascript/comments/11j1nrm/the_last_breaking_change_json_schema_blog/)
+- [[AskJS] queueMicrotask, but for main task queue?](https://www.reddit.com/r/javascript/comments/11ixy6x/askjs_queuemicrotask_but_for_main_task_queue/)
+- [Codestyle for React applications. Do &amp; Don&#39;t.](https://www.reddit.com/r/javascript/comments/11it91h/codestyle_for_react_applications_do_dont/)
+- [New framework with Reactivity without VDOM.](https://www.reddit.com/r/javascript/comments/11ip8ko/new_framework_with_reactivity_without_vdom/)
+- [Snap.js - A competitor to Lodash](https://www.reddit.com/r/javascript/comments/11imcoi/snapjs_a_competitor_to_lodash/)
+- [Is there a flip-flop operator in JavaScript?](https://www.reddit.com/r/javascript/comments/11ilqsl/is_there_a_flipflop_operator_in_javascript/)
 - [[AskJS] Has anybody implemented and compiled ServiceWorker specification to a standalone executable?](https://www.reddit.com/r/javascript/comments/11i73or/askjs_has_anybody_implemented_and_compiled/)
-- [Build &amp; Deploy your own REST API with NodeJS and Express](https://www.reddit.com/r/javascript/comments/11i0ods/build_deploy_your_own_rest_api_with_nodejs_and/)
-- [[AskJS] Looking for a light javascript library to help me build character relationship diagrams](https://www.reddit.com/r/javascript/comments/11hvycx/askjs_looking_for_a_light_javascript_library_to/)
-- [A boilerplate for Node.js apps / Rest API / Authentication from scratch - express, mongodb &lpar;mongoose&rpar;. Typescript](https://www.reddit.com/r/javascript/comments/11hvdwm/a_boilerplate_for_nodejs_apps_rest_api/)
-- [Showoff Saturday &lpar;March 04, 2023&rpar;](https://www.reddit.com/r/javascript/comments/11htkr0/showoff_saturday_march_04_2023/)
-- [ChatGPT component generator](https://www.reddit.com/r/javascript/comments/11hqpnn/chatgpt_component_generator/)
-- [Create A ChatGPT Discord Bot With Slash Commands](https://www.reddit.com/r/javascript/comments/11hlo6g/create_a_chatgpt_discord_bot_with_slash_commands/)
-- [Introducing Feathers 5 — The API and real-time application framework](https://www.reddit.com/r/javascript/comments/11hh8uo/introducing_feathers_5_the_api_and_realtime/)
-- [GitHub - itsrennyman/react-plock: The 1kB Masonry Grid for React.](https://www.reddit.com/r/javascript/comments/11hcdxe/github_itsrennymanreactplock_the_1kb_masonry_grid/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
