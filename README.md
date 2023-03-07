@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Should I be generating random data for parameters when unit testing?](https://www.reddit.com/r/javascript/comments/11jft48/askjs_should_i_be_generating_random_data_for/)
-- [[AskJS] What Lodash/&lt;insert utility library&gt; functions do you love?](https://www.reddit.com/r/javascript/comments/11jensw/askjs_what_lodashinsert_utility_library_functions/)
-- [Serverless Deno with Azure Functions](https://www.reddit.com/r/javascript/comments/11j2cq7/serverless_deno_with_azure_functions/)
-- [The Last Breaking Change | JSON Schema Blog](https://www.reddit.com/r/javascript/comments/11j1nrm/the_last_breaking_change_json_schema_blog/)
-- [[AskJS] queueMicrotask, but for main task queue?](https://www.reddit.com/r/javascript/comments/11ixy6x/askjs_queuemicrotask_but_for_main_task_queue/)
-- [Codestyle for React applications. Do &amp; Don&#39;t.](https://www.reddit.com/r/javascript/comments/11it91h/codestyle_for_react_applications_do_dont/)
-- [New framework with Reactivity without VDOM.](https://www.reddit.com/r/javascript/comments/11ip8ko/new_framework_with_reactivity_without_vdom/)
-- [Snap.js - A competitor to Lodash](https://www.reddit.com/r/javascript/comments/11imcoi/snapjs_a_competitor_to_lodash/)
-- [Is there a flip-flop operator in JavaScript?](https://www.reddit.com/r/javascript/comments/11ilqsl/is_there_a_flipflop_operator_in_javascript/)
-- [[AskJS] Has anybody implemented and compiled ServiceWorker specification to a standalone executable?](https://www.reddit.com/r/javascript/comments/11i73or/askjs_has_anybody_implemented_and_compiled/)
+- [I migrated Mermaid Flow to NextJS 13 App Router in production.](https://www.reddit.com/r/javascript/comments/11kf4cl/i_migrated_mermaid_flow_to_nextjs_13_app_router/)
+- [Hey y&#39;all, because Spotify has a presence but YouTube didn&#39;t, I made a Chrome Extension that displays a detailed Discord rich presence for YouTube!](https://www.reddit.com/r/javascript/comments/11ke4i0/hey_yall_because_spotify_has_a_presence_but/)
+- [vite-plugin-css-auto-import - Auto import styles with CSS modules support](https://www.reddit.com/r/javascript/comments/11k3wsb/viteplugincssautoimport_auto_import_styles_with/)
+- [Were React Hooks a Mistake?](https://www.reddit.com/r/javascript/comments/11k1v5a/were_react_hooks_a_mistake/)
+- [AI Component Generator with ChatGPT](https://www.reddit.com/r/javascript/comments/11jzkyp/ai_component_generator_with_chatgpt/)
+- [Applying for a new job with React and NodeJS, and AI](https://www.reddit.com/r/javascript/comments/11jysgi/applying_for_a_new_job_with_react_and_nodejs_and/)
+- [[AskJS] What state manager do you use in your applications?](https://www.reddit.com/r/javascript/comments/11jyokj/askjs_what_state_manager_do_you_use_in_your/)
+- [Wizards &amp; Warriors C64 Remix in javascript](https://www.reddit.com/r/javascript/comments/11jxq4r/wizards_warriors_c64_remix_in_javascript/)
+- [Bun vs Node - dev experience benchmark](https://www.reddit.com/r/javascript/comments/11jrbap/bun_vs_node_dev_experience_benchmark/)
+- [JavaScript Editor with Instant Feedback &lpar;be sure to press &quot;i&quot; or &quot;o&quot;, we use Vim mode ;&rpar;](https://www.reddit.com/r/javascript/comments/11jltir/javascript_editor_with_instant_feedback_be_sure/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
