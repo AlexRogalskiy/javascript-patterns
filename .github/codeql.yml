@@ -1,0 +1,11 @@
+paths-ignore:
+  - .dependabot
+  - .github
+  - .husky
+  - config
+  - docs
+  - images
+  - node_modules
+  - reports
+  - scripts
+  - '**/*.bundle.js'
