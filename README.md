@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I migrated Mermaid Flow to NextJS 13 App Router in production.](https://www.reddit.com/r/javascript/comments/11kf4cl/i_migrated_mermaid_flow_to_nextjs_13_app_router/)
-- [Hey y&#39;all, because Spotify has a presence but YouTube didn&#39;t, I made a Chrome Extension that displays a detailed Discord rich presence for YouTube!](https://www.reddit.com/r/javascript/comments/11ke4i0/hey_yall_because_spotify_has_a_presence_but/)
-- [vite-plugin-css-auto-import - Auto import styles with CSS modules support](https://www.reddit.com/r/javascript/comments/11k3wsb/viteplugincssautoimport_auto_import_styles_with/)
-- [Were React Hooks a Mistake?](https://www.reddit.com/r/javascript/comments/11k1v5a/were_react_hooks_a_mistake/)
-- [AI Component Generator with ChatGPT](https://www.reddit.com/r/javascript/comments/11jzkyp/ai_component_generator_with_chatgpt/)
-- [Applying for a new job with React and NodeJS, and AI](https://www.reddit.com/r/javascript/comments/11jysgi/applying_for_a_new_job_with_react_and_nodejs_and/)
-- [[AskJS] What state manager do you use in your applications?](https://www.reddit.com/r/javascript/comments/11jyokj/askjs_what_state_manager_do_you_use_in_your/)
-- [Wizards &amp; Warriors C64 Remix in javascript](https://www.reddit.com/r/javascript/comments/11jxq4r/wizards_warriors_c64_remix_in_javascript/)
-- [Bun vs Node - dev experience benchmark](https://www.reddit.com/r/javascript/comments/11jrbap/bun_vs_node_dev_experience_benchmark/)
-- [JavaScript Editor with Instant Feedback &lpar;be sure to press &quot;i&quot; or &quot;o&quot;, we use Vim mode ;&rpar;](https://www.reddit.com/r/javascript/comments/11jltir/javascript_editor_with_instant_feedback_be_sure/)
+- [Why Turborepo is migrating from Go to Rust](https://www.reddit.com/r/javascript/comments/11lhi5j/why_turborepo_is_migrating_from_go_to_rust/)
+- [Upgrading The Discord Twitter Bot To Use The Twitter V2 API](https://www.reddit.com/r/javascript/comments/11lerjy/upgrading_the_discord_twitter_bot_to_use_the/)
+- [2023 Web Framework Performance Report | Astro](https://www.reddit.com/r/javascript/comments/11lek28/2023_web_framework_performance_report_astro/)
+- [Release of Finder 3.0: the CSS selector generator](https://www.reddit.com/r/javascript/comments/11lec2z/release_of_finder_30_the_css_selector_generator/)
+- [Wishlist for a React Compiler](https://www.reddit.com/r/javascript/comments/11l4v1i/wishlist_for_a_react_compiler/)
+- [I created a free AI Assistant for VS Code that understand your JS project to generate better code, documentation, unit testing, and more](https://www.reddit.com/r/javascript/comments/11l40v3/i_created_a_free_ai_assistant_for_vs_code_that/)
+- [I made my first GitHub Action on the Marketplace -- it abstracts away everything you need for cached pnpm usage in your projects!](https://www.reddit.com/r/javascript/comments/11l2vde/i_made_my_first_github_action_on_the_marketplace/)
+- [TypeScript Made Easy: A Practical Guide To Your First Typesafe App with NextJS, WunderGraph, and Prisma](https://www.reddit.com/r/javascript/comments/11l26rs/typescript_made_easy_a_practical_guide_to_your/)
+- [Huggingface.js - Make calls to + 100,000 Machine Learning models](https://www.reddit.com/r/javascript/comments/11l12c7/huggingfacejs_make_calls_to_100000_machine/)
+- [The Role of i18next and Translation Management Systems in Serverless Architectures](https://www.reddit.com/r/javascript/comments/11kstxl/the_role_of_i18next_and_translation_management/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
