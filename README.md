@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Why Turborepo is migrating from Go to Rust](https://www.reddit.com/r/javascript/comments/11lhi5j/why_turborepo_is_migrating_from_go_to_rust/)
-- [Upgrading The Discord Twitter Bot To Use The Twitter V2 API](https://www.reddit.com/r/javascript/comments/11lerjy/upgrading_the_discord_twitter_bot_to_use_the/)
-- [2023 Web Framework Performance Report | Astro](https://www.reddit.com/r/javascript/comments/11lek28/2023_web_framework_performance_report_astro/)
-- [Release of Finder 3.0: the CSS selector generator](https://www.reddit.com/r/javascript/comments/11lec2z/release_of_finder_30_the_css_selector_generator/)
-- [Wishlist for a React Compiler](https://www.reddit.com/r/javascript/comments/11l4v1i/wishlist_for_a_react_compiler/)
-- [I created a free AI Assistant for VS Code that understand your JS project to generate better code, documentation, unit testing, and more](https://www.reddit.com/r/javascript/comments/11l40v3/i_created_a_free_ai_assistant_for_vs_code_that/)
-- [I made my first GitHub Action on the Marketplace -- it abstracts away everything you need for cached pnpm usage in your projects!](https://www.reddit.com/r/javascript/comments/11l2vde/i_made_my_first_github_action_on_the_marketplace/)
-- [TypeScript Made Easy: A Practical Guide To Your First Typesafe App with NextJS, WunderGraph, and Prisma](https://www.reddit.com/r/javascript/comments/11l26rs/typescript_made_easy_a_practical_guide_to_your/)
-- [Huggingface.js - Make calls to + 100,000 Machine Learning models](https://www.reddit.com/r/javascript/comments/11l12c7/huggingfacejs_make_calls_to_100000_machine/)
-- [The Role of i18next and Translation Management Systems in Serverless Architectures](https://www.reddit.com/r/javascript/comments/11kstxl/the_role_of_i18next_and_translation_management/)
+- [jQuery 3.6.4 Released: Selector Forgiveness](https://www.reddit.com/r/javascript/comments/11mbsvo/jquery_364_released_selector_forgiveness/)
+- [[AskJS] What is JavaScript used for?](https://www.reddit.com/r/javascript/comments/11m9inh/askjs_what_is_javascript_used_for/)
+- [Step By Step Guide On How To Build And Publish A Simple Web Game With ChatGPT](https://www.reddit.com/r/javascript/comments/11m687e/step_by_step_guide_on_how_to_build_and_publish_a/)
+- [[AskJS] Why is it so hard to find documentation on spidermonkey shell &lpar;GJS&rpar;?](https://www.reddit.com/r/javascript/comments/11m5cr0/askjs_why_is_it_so_hard_to_find_documentation_on/)
+- [[AskJS] Discussion: managing indirect dependencies in yarn.lock](https://www.reddit.com/r/javascript/comments/11m502j/askjs_discussion_managing_indirect_dependencies/)
+- [[AskJS] What are some Green Flags on a JavaScript Job Description?](https://www.reddit.com/r/javascript/comments/11m0uje/askjs_what_are_some_green_flags_on_a_javascript/)
+- [Using Zod &amp; TypeScript for more than user input validation](https://www.reddit.com/r/javascript/comments/11lyamu/using_zod_typescript_for_more_than_user_input/)
+- [GitHub - gkjohnson/three-gpu-pathtracer: Path tracing renderer and utilities for three.js built on top of three-mesh-bvh.](https://www.reddit.com/r/javascript/comments/11luh5v/github_gkjohnsonthreegpupathtracer_path_tracing/)
+- [WebGPT: Customizable Website Chat Agent built in Node.js / JavaScript &lpar;x-post r/node&rpar;](https://www.reddit.com/r/javascript/comments/11lqujy/webgpt_customizable_website_chat_agent_built_in/)
+- [How to resist the hype and focus on the user](https://www.reddit.com/r/javascript/comments/11lqcur/how_to_resist_the_hype_and_focus_on_the_user/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
