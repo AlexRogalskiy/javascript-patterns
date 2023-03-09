@@ -381,6 +381,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *NodeSource posts*
 
 <!-- NODESOURCE-POST-LIST:START -->
+- [Introducing nsuv](https://nodesource.com/blog/intro-nsuv)
 - [AIOps Observability: Going Beyond Traditional APM](https://nodesource.com/blog/aiops-observability-nsolid)
 - [N|Solid v4.9.2 is now available](https://nodesource.com/blog/announcing-NSolid-version-492)
 - [SBOM: The Essential Building Block for Cybersecurity](https://nodesource.com/blog/sbom-nsolid)
@@ -390,7 +391,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [NODE.JS Retro 2022](https://nodesource.com/blog/Nodejs-Retro-2022)
 - [Nodesource Node.js Binary Distributions 2021 &amp; 2022](https://nodesource.com/blog/node-by-numbers-2021-2022)
 - [N|Solid v4.9.0 is now available](https://nodesource.com/blog/announcing-NSolid-version-490)
-- [N|Solid v4.8.4 is now available](https://nodesource.com/blog/announcing-NSolid-version-484)
 <!-- NODESOURCE-POST-LIST:END -->
 
 ### *React Native posts*
