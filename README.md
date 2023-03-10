@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [TypeScript&#39;s Migration to Modules](https://www.reddit.com/r/javascript/comments/11n4j48/typescripts_migration_to_modules/)
+- [Server-Side Rendering Micro-Frontends on AWS - part 2](https://www.reddit.com/r/javascript/comments/11n4ic2/serverside_rendering_microfrontends_on_aws_part_2/)
+- [Module Federation in Production: architecture, development workflow, and deployments](https://www.reddit.com/r/javascript/comments/11mziwn/module_federation_in_production_architecture/)
+- [eslint plugin for object immutable for certain keywords](https://www.reddit.com/r/javascript/comments/11my88l/eslint_plugin_for_object_immutable_for_certain/)
+- [Building an Image Recognition App in Javascript using Pinecone, Hugging Face, and Vercel](https://www.reddit.com/r/javascript/comments/11mughu/building_an_image_recognition_app_in_javascript/)
+- [Code Prefetching is a LIE](https://www.reddit.com/r/javascript/comments/11mqqoc/code_prefetching_is_a_lie/)
+- [JavaScript Event Loop: Much more than you wanted to know](https://www.reddit.com/r/javascript/comments/11movhu/javascript_event_loop_much_more_than_you_wanted/)
+- [Implementing Microservices in NodeJS](https://www.reddit.com/r/javascript/comments/11mnt7i/implementing_microservices_in_nodejs/)
 - [jQuery 3.6.4 Released: Selector Forgiveness](https://www.reddit.com/r/javascript/comments/11mbsvo/jquery_364_released_selector_forgiveness/)
-- [[AskJS] What is JavaScript used for?](https://www.reddit.com/r/javascript/comments/11m9inh/askjs_what_is_javascript_used_for/)
 - [Step By Step Guide On How To Build And Publish A Simple Web Game With ChatGPT](https://www.reddit.com/r/javascript/comments/11m687e/step_by_step_guide_on_how_to_build_and_publish_a/)
-- [[AskJS] Why is it so hard to find documentation on spidermonkey shell &lpar;GJS&rpar;?](https://www.reddit.com/r/javascript/comments/11m5cr0/askjs_why_is_it_so_hard_to_find_documentation_on/)
-- [[AskJS] Discussion: managing indirect dependencies in yarn.lock](https://www.reddit.com/r/javascript/comments/11m502j/askjs_discussion_managing_indirect_dependencies/)
-- [[AskJS] What are some Green Flags on a JavaScript Job Description?](https://www.reddit.com/r/javascript/comments/11m0uje/askjs_what_are_some_green_flags_on_a_javascript/)
-- [Using Zod &amp; TypeScript for more than user input validation](https://www.reddit.com/r/javascript/comments/11lyamu/using_zod_typescript_for_more_than_user_input/)
-- [GitHub - gkjohnson/three-gpu-pathtracer: Path tracing renderer and utilities for three.js built on top of three-mesh-bvh.](https://www.reddit.com/r/javascript/comments/11luh5v/github_gkjohnsonthreegpupathtracer_path_tracing/)
-- [WebGPT: Customizable Website Chat Agent built in Node.js / JavaScript &lpar;x-post r/node&rpar;](https://www.reddit.com/r/javascript/comments/11lqujy/webgpt_customizable_website_chat_agent_built_in/)
-- [How to resist the hype and focus on the user](https://www.reddit.com/r/javascript/comments/11lqcur/how_to_resist_the_hype_and_focus_on_the_user/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
