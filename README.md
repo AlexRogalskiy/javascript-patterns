@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [TypeScript&#39;s Migration to Modules](https://www.reddit.com/r/javascript/comments/11n4j48/typescripts_migration_to_modules/)
-- [Server-Side Rendering Micro-Frontends on AWS - part 2](https://www.reddit.com/r/javascript/comments/11n4ic2/serverside_rendering_microfrontends_on_aws_part_2/)
-- [Module Federation in Production: architecture, development workflow, and deployments](https://www.reddit.com/r/javascript/comments/11mziwn/module_federation_in_production_architecture/)
-- [eslint plugin for object immutable for certain keywords](https://www.reddit.com/r/javascript/comments/11my88l/eslint_plugin_for_object_immutable_for_certain/)
-- [Building an Image Recognition App in Javascript using Pinecone, Hugging Face, and Vercel](https://www.reddit.com/r/javascript/comments/11mughu/building_an_image_recognition_app_in_javascript/)
-- [Code Prefetching is a LIE](https://www.reddit.com/r/javascript/comments/11mqqoc/code_prefetching_is_a_lie/)
-- [JavaScript Event Loop: Much more than you wanted to know](https://www.reddit.com/r/javascript/comments/11movhu/javascript_event_loop_much_more_than_you_wanted/)
-- [Implementing Microservices in NodeJS](https://www.reddit.com/r/javascript/comments/11mnt7i/implementing_microservices_in_nodejs/)
-- [jQuery 3.6.4 Released: Selector Forgiveness](https://www.reddit.com/r/javascript/comments/11mbsvo/jquery_364_released_selector_forgiveness/)
-- [Step By Step Guide On How To Build And Publish A Simple Web Game With ChatGPT](https://www.reddit.com/r/javascript/comments/11m687e/step_by_step_guide_on_how_to_build_and_publish_a/)
+- [[AskJS] Redux, Vuex state stores are built to work with normalised data but REST convention recommends nesting. eg: reddit.com/r/&lt;sub&gt;/posts/&lt;post_id&gt; Translating from one to the other creates lots of boilerplate and the state subscriptions are a mess. Does this mean we need a new state store?](https://www.reddit.com/r/javascript/comments/11o34qh/askjs_redux_vuex_state_stores_are_built_to_work/)
+- [SPA view transitions land in Chrome 111 - The View Transition API lets you update the DOM in a single step, while generating an animated transition between the two states](https://www.reddit.com/r/javascript/comments/11o2iy0/spa_view_transitions_land_in_chrome_111_the_view/)
+- [WASM Semantic Search in Rust](https://www.reddit.com/r/javascript/comments/11nuwwp/wasm_semantic_search_in_rust/)
+- [[AskJS] Does C audio library support WebAudio](https://www.reddit.com/r/javascript/comments/11nrhji/askjs_does_c_audio_library_support_webaudio/)
+- [Write less code and save time - automate your backend CRUD REST APIs in Node.JS](https://www.reddit.com/r/javascript/comments/11nndkz/write_less_code_and_save_time_automate_your/)
+- [[AskJS] Which library &lpar;React/Vue&rpar; is more commonly used by startups and larger companies?](https://www.reddit.com/r/javascript/comments/11nm1ee/askjs_which_library_reactvue_is_more_commonly/)
+- [How to Fix the Next.js TailwindCSS Sticky Footer](https://www.reddit.com/r/javascript/comments/11nfz9f/how_to_fix_the_nextjs_tailwindcss_sticky_footer/)
+- [Validator.js wrapper for GraphQL directive. Use a comprehensive list of validation logic in your GraphQL schema using directive](https://www.reddit.com/r/javascript/comments/11ndylb/validatorjs_wrapper_for_graphql_directive_use_a/)
+- [2d implementation of the Wave Function Collapse algorithm in JavaScript running on the web! [Self-Promotion]](https://www.reddit.com/r/javascript/comments/11ncnws/2d_implementation_of_the_wave_function_collapse/)
+- [Demoscene in JavaScript. Is demoscene still a thing?](https://www.reddit.com/r/javascript/comments/11ncmod/demoscene_in_javascript_is_demoscene_still_a_thing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
