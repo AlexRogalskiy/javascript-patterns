@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Redux, Vuex state stores are built to work with normalised data but REST convention recommends nesting. eg: reddit.com/r/&lt;sub&gt;/posts/&lt;post_id&gt; Translating from one to the other creates lots of boilerplate and the state subscriptions are a mess. Does this mean we need a new state store?](https://www.reddit.com/r/javascript/comments/11o34qh/askjs_redux_vuex_state_stores_are_built_to_work/)
-- [SPA view transitions land in Chrome 111 - The View Transition API lets you update the DOM in a single step, while generating an animated transition between the two states](https://www.reddit.com/r/javascript/comments/11o2iy0/spa_view_transitions_land_in_chrome_111_the_view/)
-- [WASM Semantic Search in Rust](https://www.reddit.com/r/javascript/comments/11nuwwp/wasm_semantic_search_in_rust/)
-- [[AskJS] Does C audio library support WebAudio](https://www.reddit.com/r/javascript/comments/11nrhji/askjs_does_c_audio_library_support_webaudio/)
-- [Write less code and save time - automate your backend CRUD REST APIs in Node.JS](https://www.reddit.com/r/javascript/comments/11nndkz/write_less_code_and_save_time_automate_your/)
-- [[AskJS] Which library &lpar;React/Vue&rpar; is more commonly used by startups and larger companies?](https://www.reddit.com/r/javascript/comments/11nm1ee/askjs_which_library_reactvue_is_more_commonly/)
-- [How to Fix the Next.js TailwindCSS Sticky Footer](https://www.reddit.com/r/javascript/comments/11nfz9f/how_to_fix_the_nextjs_tailwindcss_sticky_footer/)
-- [Validator.js wrapper for GraphQL directive. Use a comprehensive list of validation logic in your GraphQL schema using directive](https://www.reddit.com/r/javascript/comments/11ndylb/validatorjs_wrapper_for_graphql_directive_use_a/)
-- [2d implementation of the Wave Function Collapse algorithm in JavaScript running on the web! [Self-Promotion]](https://www.reddit.com/r/javascript/comments/11ncnws/2d_implementation_of_the_wave_function_collapse/)
-- [Demoscene in JavaScript. Is demoscene still a thing?](https://www.reddit.com/r/javascript/comments/11ncmod/demoscene_in_javascript_is_demoscene_still_a_thing/)
+- [Proud to announce Gleamy, a new NPM React library that makes your design shine and glitter](https://www.reddit.com/r/javascript/comments/11p1i08/proud_to_announce_gleamy_a_new_npm_react_library/)
+- [3 Tricks For Using Redux and Immutable.js with TypeScript](https://www.reddit.com/r/javascript/comments/11oztg5/3_tricks_for_using_redux_and_immutablejs_with/)
+- [Using JS I Built A Chrome Extension That Sorts Your Tabs Automatically](https://www.reddit.com/r/javascript/comments/11owruk/using_js_i_built_a_chrome_extension_that_sorts/)
+- [Split a string asynchronously &lpar;stupid javascript trick&rpar;](https://www.reddit.com/r/javascript/comments/11ow59i/split_a_string_asynchronously_stupid_javascript/)
+- [Consider Animating Your Canvas in a Web Worker](https://www.reddit.com/r/javascript/comments/11orzjw/consider_animating_your_canvas_in_a_web_worker/)
+- [Mermaid Flow | I made a visual mermaid diagram generator. No more handwriting Mermaid JS.](https://www.reddit.com/r/javascript/comments/11oqa2p/mermaid_flow_i_made_a_visual_mermaid_diagram/)
+- [Open source webhook service](https://www.reddit.com/r/javascript/comments/11oplya/open_source_webhook_service/)
+- [Introducing: React ProseMirror!](https://www.reddit.com/r/javascript/comments/11omjr5/introducing_react_prosemirror/)
+- [I released a rc version after almost 1 year working solo on an ecommerce open source project. Looking for feedbacks and recommendations. Thank everyone](https://www.reddit.com/r/javascript/comments/11okvhy/i_released_a_rc_version_after_almost_1_year/)
+- [[AskJS] Which framework to choose?](https://www.reddit.com/r/javascript/comments/11okopa/askjs_which_framework_to_choose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
