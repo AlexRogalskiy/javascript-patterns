@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Proud to announce Gleamy, a new NPM React library that makes your design shine and glitter](https://www.reddit.com/r/javascript/comments/11p1i08/proud_to_announce_gleamy_a_new_npm_react_library/)
-- [3 Tricks For Using Redux and Immutable.js with TypeScript](https://www.reddit.com/r/javascript/comments/11oztg5/3_tricks_for_using_redux_and_immutablejs_with/)
-- [Using JS I Built A Chrome Extension That Sorts Your Tabs Automatically](https://www.reddit.com/r/javascript/comments/11owruk/using_js_i_built_a_chrome_extension_that_sorts/)
-- [Split a string asynchronously &lpar;stupid javascript trick&rpar;](https://www.reddit.com/r/javascript/comments/11ow59i/split_a_string_asynchronously_stupid_javascript/)
-- [Consider Animating Your Canvas in a Web Worker](https://www.reddit.com/r/javascript/comments/11orzjw/consider_animating_your_canvas_in_a_web_worker/)
-- [Mermaid Flow | I made a visual mermaid diagram generator. No more handwriting Mermaid JS.](https://www.reddit.com/r/javascript/comments/11oqa2p/mermaid_flow_i_made_a_visual_mermaid_diagram/)
-- [Open source webhook service](https://www.reddit.com/r/javascript/comments/11oplya/open_source_webhook_service/)
-- [Introducing: React ProseMirror!](https://www.reddit.com/r/javascript/comments/11omjr5/introducing_react_prosemirror/)
-- [I released a rc version after almost 1 year working solo on an ecommerce open source project. Looking for feedbacks and recommendations. Thank everyone](https://www.reddit.com/r/javascript/comments/11okvhy/i_released_a_rc_version_after_almost_1_year/)
-- [[AskJS] Which framework to choose?](https://www.reddit.com/r/javascript/comments/11okopa/askjs_which_framework_to_choose/)
+- [If you&#39;re looking to use Docker with your JavaScript Project try out this simple Docker tagging strategy. It includes: 2 open source repos and a blog post for using Azure Container Registry and Azure DevOps](https://www.reddit.com/r/javascript/comments/11pscnu/if_youre_looking_to_use_docker_with_your/)
+- [[AskJS] Trigger event while other events are running](https://www.reddit.com/r/javascript/comments/11ppmsz/askjs_trigger_event_while_other_events_are_running/)
+- [Write Smart Contracts in JavaScript - QANplatform](https://www.reddit.com/r/javascript/comments/11pl71u/write_smart_contracts_in_javascript_qanplatform/)
+- [[AskJS] Why are TextEncoder and TextDecoder classes?](https://www.reddit.com/r/javascript/comments/11pkvpj/askjs_why_are_textencoder_and_textdecoder_classes/)
+- [Hi, I have made a public package that will help many people, it allows making objects with different In and Out interfaces with strong typification.](https://www.reddit.com/r/javascript/comments/11pieyo/hi_i_have_made_a_public_package_that_will_help/)
+- [How can I do it too?](https://www.reddit.com/r/javascript/comments/11phtrc/how_can_i_do_it_too/)
+- [[AskJS] What is your preferred solution to share and execute Node.js scripts ?](https://www.reddit.com/r/javascript/comments/11pfggn/askjs_what_is_your_preferred_solution_to_share/)
+- [Can you invert an object?](https://www.reddit.com/r/javascript/comments/11pdhvv/can_you_invert_an_object/)
+- [GitHub - cheatcode/joystick: A full-stack JavaScript framework for building web apps and websites.](https://www.reddit.com/r/javascript/comments/11pavpe/github_cheatcodejoystick_a_fullstack_javascript/)
+- [Flowchart editor dgrm.net / announcement / hotkeys](https://www.reddit.com/r/javascript/comments/11p9pxg/flowchart_editor_dgrmnet_announcement_hotkeys/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
