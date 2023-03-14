@@ -352,6 +352,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *javascript programmer posts*
 
 <!-- METEOR-POST-LIST:START -->
+- [Team SUS-GAWKY Earns 2nd Place in the 2022 Meteor Hackathon!](https://blog.meteor.com/team-sus-gawky-earns-2nd-place-in-the-2022-meteor-hackathon-2be8ab67bb15?source=rss----a9bcaf865278---4)
 - [New Meteor 2.11 and the new embedded MongoDB](https://blog.meteor.com/new-meteor-2-11-and-the-new-embedded-mongodb-19767076961b?source=rss----a9bcaf865278---4)
 - [How to Find a Technical Cofounder When You Don’t Know Where to Start](https://blog.meteor.com/how-to-find-a-technical-cofounder-when-you-dont-know-where-to-start-c03484e1b57e?source=rss----a9bcaf865278---4)
 - [Meteor Monthly Update — February 2023](https://blog.meteor.com/meteor-monthly-update-february-2023-578cfe68575b?source=rss----a9bcaf865278---4)
@@ -361,7 +362,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Built with Meteor in 6 Months, Chatra Chatbots Score 45k+ Users](https://blog.meteor.com/built-with-meteor-in-6-months-chatra-chatbots-score-45k-users-daa001f62300?source=rss----a9bcaf865278---4)
 - [New MeteorJS 2.9 and the new Scaffold API](https://blog.meteor.com/new-meteorjs-2-9-and-the-new-scaffold-api-5fcc0f3b1ce5?source=rss----a9bcaf865278---4)
 - [Meteor Monthly Update — November 2022](https://blog.meteor.com/meteor-monthly-update-november-2022-460648a7bf81?source=rss----a9bcaf865278---4)
-- [New Meteor 2.8.1 and adding types to the core](https://blog.meteor.com/new-meteor-2-8-1-and-adding-types-to-the-core-8a6ee56f0141?source=rss----a9bcaf865278---4)
 <!-- METEOR-POST-LIST:END -->
 
 ### *Dreamix posts*
