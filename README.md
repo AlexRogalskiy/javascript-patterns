@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [If you&#39;re looking to use Docker with your JavaScript Project try out this simple Docker tagging strategy. It includes: 2 open source repos and a blog post for using Azure Container Registry and Azure DevOps](https://www.reddit.com/r/javascript/comments/11pscnu/if_youre_looking_to_use_docker_with_your/)
-- [[AskJS] Trigger event while other events are running](https://www.reddit.com/r/javascript/comments/11ppmsz/askjs_trigger_event_while_other_events_are_running/)
-- [Write Smart Contracts in JavaScript - QANplatform](https://www.reddit.com/r/javascript/comments/11pl71u/write_smart_contracts_in_javascript_qanplatform/)
-- [[AskJS] Why are TextEncoder and TextDecoder classes?](https://www.reddit.com/r/javascript/comments/11pkvpj/askjs_why_are_textencoder_and_textdecoder_classes/)
-- [Hi, I have made a public package that will help many people, it allows making objects with different In and Out interfaces with strong typification.](https://www.reddit.com/r/javascript/comments/11pieyo/hi_i_have_made_a_public_package_that_will_help/)
-- [How can I do it too?](https://www.reddit.com/r/javascript/comments/11phtrc/how_can_i_do_it_too/)
-- [[AskJS] What is your preferred solution to share and execute Node.js scripts ?](https://www.reddit.com/r/javascript/comments/11pfggn/askjs_what_is_your_preferred_solution_to_share/)
-- [Can you invert an object?](https://www.reddit.com/r/javascript/comments/11pdhvv/can_you_invert_an_object/)
-- [GitHub - cheatcode/joystick: A full-stack JavaScript framework for building web apps and websites.](https://www.reddit.com/r/javascript/comments/11pavpe/github_cheatcodejoystick_a_fullstack_javascript/)
-- [Flowchart editor dgrm.net / announcement / hotkeys](https://www.reddit.com/r/javascript/comments/11p9pxg/flowchart_editor_dgrmnet_announcement_hotkeys/)
+- [Trading crypto with JavaScript](https://www.reddit.com/r/javascript/comments/11qnker/trading_crypto_with_javascript/)
+- [Very simple state management library for React apps](https://www.reddit.com/r/javascript/comments/11qlmbq/very_simple_state_management_library_for_react/)
+- [[AskJS] Looking for a time picker to use that meets the following requirements](https://www.reddit.com/r/javascript/comments/11qi9ez/askjs_looking_for_a_time_picker_to_use_that_meets/)
+- [Turbowatch – Extremely fast alternative to Nodemon](https://www.reddit.com/r/javascript/comments/11qhe49/turbowatch_extremely_fast_alternative_to_nodemon/)
+- [Simple ReactJS Template Builder [MIT License]](https://www.reddit.com/r/javascript/comments/11qghr0/simple_reactjs_template_builder_mit_license/)
+- [Fluent shell scripts with JavaScript](https://www.reddit.com/r/javascript/comments/11qghpk/fluent_shell_scripts_with_javascript/)
+- [[AskJS] Unit testing typescript code with vitest](https://www.reddit.com/r/javascript/comments/11qck8k/askjs_unit_testing_typescript_code_with_vitest/)
+- [[AskJS] looking for a screenwriting/screenplay editor library](https://www.reddit.com/r/javascript/comments/11qau8d/askjs_looking_for_a_screenwritingscreenplay/)
+- [Building a JSON to Typescript converter with React, NodeJS and ChatGPT](https://www.reddit.com/r/javascript/comments/11q9afa/building_a_json_to_typescript_converter_with/)
+- [CBC-News-Streams.js: A JavaScript library for fetching free live TV stream URLs from CBC.ca / CBC News](https://www.reddit.com/r/javascript/comments/11q8rde/cbcnewsstreamsjs_a_javascript_library_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
