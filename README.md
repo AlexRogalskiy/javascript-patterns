@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Trading crypto with JavaScript](https://www.reddit.com/r/javascript/comments/11qnker/trading_crypto_with_javascript/)
-- [Very simple state management library for React apps](https://www.reddit.com/r/javascript/comments/11qlmbq/very_simple_state_management_library_for_react/)
-- [[AskJS] Looking for a time picker to use that meets the following requirements](https://www.reddit.com/r/javascript/comments/11qi9ez/askjs_looking_for_a_time_picker_to_use_that_meets/)
-- [Turbowatch – Extremely fast alternative to Nodemon](https://www.reddit.com/r/javascript/comments/11qhe49/turbowatch_extremely_fast_alternative_to_nodemon/)
-- [Simple ReactJS Template Builder [MIT License]](https://www.reddit.com/r/javascript/comments/11qghr0/simple_reactjs_template_builder_mit_license/)
-- [Fluent shell scripts with JavaScript](https://www.reddit.com/r/javascript/comments/11qghpk/fluent_shell_scripts_with_javascript/)
-- [[AskJS] Unit testing typescript code with vitest](https://www.reddit.com/r/javascript/comments/11qck8k/askjs_unit_testing_typescript_code_with_vitest/)
-- [[AskJS] looking for a screenwriting/screenplay editor library](https://www.reddit.com/r/javascript/comments/11qau8d/askjs_looking_for_a_screenwritingscreenplay/)
-- [Building a JSON to Typescript converter with React, NodeJS and ChatGPT](https://www.reddit.com/r/javascript/comments/11q9afa/building_a_json_to_typescript_converter_with/)
-- [CBC-News-Streams.js: A JavaScript library for fetching free live TV stream URLs from CBC.ca / CBC News](https://www.reddit.com/r/javascript/comments/11q8rde/cbcnewsstreamsjs_a_javascript_library_for/)
+- [[AskJS] How can I extract a selected option within a label within a ul with javascript?](https://www.reddit.com/r/javascript/comments/11rfari/askjs_how_can_i_extract_a_selected_option_within/)
+- [JSDayIE 2023 | The first JavaScipt conference in Ireland is back!](https://www.reddit.com/r/javascript/comments/11retwi/jsdayie_2023_the_first_javascipt_conference_in/)
+- [I created pseudo 3D engine inside browser console, raycasting algorithm with some lighting system. Works fine to on Chrome :&rpar;](https://www.reddit.com/r/javascript/comments/11r9hi8/i_created_pseudo_3d_engine_inside_browser_console/)
+- [[AskJS] Help needed for YouTube API extractor &lpar;for use in the VueTube app&rpar;](https://www.reddit.com/r/javascript/comments/11r90pj/askjs_help_needed_for_youtube_api_extractor_for/)
+- [[AskJS] How can I promote my github repositories?](https://www.reddit.com/r/javascript/comments/11r87pq/askjs_how_can_i_promote_my_github_repositories/)
+- [[AskJS] Does anyone remember that website that had a very simple style, using only HTML and CSS, showing you don&#39;t need js to make a good-looking website?](https://www.reddit.com/r/javascript/comments/11r1ld6/askjs_does_anyone_remember_that_website_that_had/)
+- [I made a small typescript library to read and write CSV files with a fluent Lodash-like API. What do you think of it reddit ? Comments and contributions very welcome &lt;3](https://www.reddit.com/r/javascript/comments/11r0h6f/i_made_a_small_typescript_library_to_read_and/)
+- [[AskJS] Are you using react server components? How has your experience been?](https://www.reddit.com/r/javascript/comments/11r05te/askjs_are_you_using_react_server_components_how/)
+- [[AskJS] You have mastered writing JavaScript from scratch, why use TypeScript?](https://www.reddit.com/r/javascript/comments/11qxzoh/askjs_you_have_mastered_writing_javascript_from/)
+- [Create a CLI Chatbot with the ChatGTP API and Node.js](https://www.reddit.com/r/javascript/comments/11qxi20/create_a_cli_chatbot_with_the_chatgtp_api_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
