@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Drizzle - An ORM that lets you just write SQL](https://www.reddit.com/r/javascript/comments/11s1iga/drizzle_an_orm_that_lets_you_just_write_sql/)
-- [Production-ready NestJS Boilerplate for fast development of REST API with most of the popular features included of the box](https://www.reddit.com/r/javascript/comments/11s0jwq/productionready_nestjs_boilerplate_for_fast/)
-- [[AskJS] Requiring promises to be resolved before continuing](https://www.reddit.com/r/javascript/comments/11rzi2f/askjs_requiring_promises_to_be_resolved_before/)
-- [Leveraging JSONP to bypass cross-domain restrictions](https://www.reddit.com/r/javascript/comments/11rxfs9/leveraging_jsonp_to_bypass_crossdomain/)
-- [A self-hosted Company Intranet is a centralised platform for managing and sharing company information. Sync employee data from KEKA and access important documents from Google Drive, Dropbox, and OneDrive. Streamline space management and track job applications from Freshteam by Freshworks.](https://www.reddit.com/r/javascript/comments/11rthph/a_selfhosted_company_intranet_is_a_centralised/)
-- [How to calculate the intersection of multiple arrays in JavaScript](https://www.reddit.com/r/javascript/comments/11rru36/how_to_calculate_the_intersection_of_multiple/)
-- [Replace lodash.get method with optional chaining and nullish-coalescing operator](https://www.reddit.com/r/javascript/comments/11rq70n/replace_lodashget_method_with_optional_chaining/)
-- [First-class promise support in ReactJS](https://www.reddit.com/r/javascript/comments/11rozjt/firstclass_promise_support_in_reactjs/)
-- [WTF Wednesday &lpar;March 15, 2023&rpar;](https://www.reddit.com/r/javascript/comments/11rorkm/wtf_wednesday_march_15_2023/)
-- [JSDayIE 2023 | The first JavaScipt conference in Ireland is back!](https://www.reddit.com/r/javascript/comments/11retwi/jsdayie_2023_the_first_javascipt_conference_in/)
+- [TryCatch.js: A JavaScript library to handle errors in a more structured way.](https://www.reddit.com/r/javascript/comments/11tdslh/trycatchjs_a_javascript_library_to_handle_errors/)
+- [This web tool will prevent your computer from sleeping.](https://www.reddit.com/r/javascript/comments/11tcrce/this_web_tool_will_prevent_your_computer_from/)
+- [Featurevisor - Feature flags and experimentation management for developers](https://www.reddit.com/r/javascript/comments/11t82he/featurevisor_feature_flags_and_experimentation/)
+- [Using Spot Instance on Ec2 with CDK + TypeScript](https://www.reddit.com/r/javascript/comments/11t7zuo/using_spot_instance_on_ec2_with_cdk_typescript/)
+- [Embracing the use-change library: a lightweight state management solution for React](https://www.reddit.com/r/javascript/comments/11t6dmg/embracing_the_usechange_library_a_lightweight/)
+- [Introducing &quot;safe npm&quot; – magical NPM wrapper to protect developers from malware](https://www.reddit.com/r/javascript/comments/11t3fpt/introducing_safe_npm_magical_npm_wrapper_to/)
+- [[AskJS] Do you benchmark your memoization?](https://www.reddit.com/r/javascript/comments/11t3au5/askjs_do_you_benchmark_your_memoization/)
+- [The npm registry&#39;s safe word is Socket](https://www.reddit.com/r/javascript/comments/11t26f5/the_npm_registrys_safe_word_is_socket/)
+- [Announcing TypeScript 5.0](https://www.reddit.com/r/javascript/comments/11szqm1/announcing_typescript_50/)
+- [I made wirepig, a simple way to mock HTTP and TCP dependencies in tests.](https://www.reddit.com/r/javascript/comments/11szpu4/i_made_wirepig_a_simple_way_to_mock_http_and_tcp/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
