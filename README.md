@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Revolutionizing Software Engineering: Embracing the Power of AI](https://www.reddit.com/r/javascript/comments/11u8nbt/revolutionizing_software_engineering_embracing/)
+- [Once you get access, getting started with the GPT-4 API and JavaScript is pretty easy](https://www.reddit.com/r/javascript/comments/11tzyr6/once_you_get_access_getting_started_with_the_gpt4/)
+- [How we built one of the most complex apps on GitHub](https://www.reddit.com/r/javascript/comments/11ty4pd/how_we_built_one_of_the_most_complex_apps_on/)
+- [OpenAI GPT based PR reviewer and summarizer](https://www.reddit.com/r/javascript/comments/11tsto7/openai_gpt_based_pr_reviewer_and_summarizer/)
+- [Neutralinojs v4.11.0 released!](https://www.reddit.com/r/javascript/comments/11tq0ow/neutralinojs_v4110_released/)
+- [Don&#39;t use create-react-app, use these instead](https://www.reddit.com/r/javascript/comments/11tp0bt/dont_use_createreactapp_use_these_instead/)
+- [I made a starter template for building with OpenAI and TypeScript &lpar;Deno&rpar;](https://www.reddit.com/r/javascript/comments/11tksyp/i_made_a_starter_template_for_building_with/)
+- [The new React&#39;s documentation](https://www.reddit.com/r/javascript/comments/11thmf1/the_new_reacts_documentation/)
+- [React Captcha - JavaScript Exercise #20](https://www.reddit.com/r/javascript/comments/11thhq6/react_captcha_javascript_exercise_20/)
 - [TryCatch.js: A JavaScript library to handle errors in a more structured way.](https://www.reddit.com/r/javascript/comments/11tdslh/trycatchjs_a_javascript_library_to_handle_errors/)
-- [This web tool will prevent your computer from sleeping.](https://www.reddit.com/r/javascript/comments/11tcrce/this_web_tool_will_prevent_your_computer_from/)
-- [Featurevisor - Feature flags and experimentation management for developers](https://www.reddit.com/r/javascript/comments/11t82he/featurevisor_feature_flags_and_experimentation/)
-- [Using Spot Instance on Ec2 with CDK + TypeScript](https://www.reddit.com/r/javascript/comments/11t7zuo/using_spot_instance_on_ec2_with_cdk_typescript/)
-- [Embracing the use-change library: a lightweight state management solution for React](https://www.reddit.com/r/javascript/comments/11t6dmg/embracing_the_usechange_library_a_lightweight/)
-- [Introducing &quot;safe npm&quot; – magical NPM wrapper to protect developers from malware](https://www.reddit.com/r/javascript/comments/11t3fpt/introducing_safe_npm_magical_npm_wrapper_to/)
-- [[AskJS] Do you benchmark your memoization?](https://www.reddit.com/r/javascript/comments/11t3au5/askjs_do_you_benchmark_your_memoization/)
-- [The npm registry&#39;s safe word is Socket](https://www.reddit.com/r/javascript/comments/11t26f5/the_npm_registrys_safe_word_is_socket/)
-- [Announcing TypeScript 5.0](https://www.reddit.com/r/javascript/comments/11szqm1/announcing_typescript_50/)
-- [I made wirepig, a simple way to mock HTTP and TCP dependencies in tests.](https://www.reddit.com/r/javascript/comments/11szpu4/i_made_wirepig_a_simple_way_to_mock_http_and_tcp/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
