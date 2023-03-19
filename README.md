@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Revolutionizing Software Engineering: Embracing the Power of AI](https://www.reddit.com/r/javascript/comments/11u8nbt/revolutionizing_software_engineering_embracing/)
+- [Hey y&#39;all, because Spotify has a presence but YouTube didn&#39;t, I made a Chrome Extension that displays a detailed Discord rich presence for YouTube!](https://www.reddit.com/r/javascript/comments/11v3v2v/hey_yall_because_spotify_has_a_presence_but/)
+- [I made a open source 3d modeling software based in voxels that you can play with from your browser.](https://www.reddit.com/r/javascript/comments/11v1roo/i_made_a_open_source_3d_modeling_software_based/)
+- [Build dashboards fast! New Tremor v2.0 release](https://www.reddit.com/r/javascript/comments/11v1h8o/build_dashboards_fast_new_tremor_v20_release/)
+- [Performance benchmark of the fastest way to initialize a Map](https://www.reddit.com/r/javascript/comments/11uumhz/performance_benchmark_of_the_fastest_way_to/)
+- [EventSourceStream](https://www.reddit.com/r/javascript/comments/11uuc2s/eventsourcestream/)
+- [FP and OOP are close siblings &lpar;using OOP to teach Currying&rpar; | The Upside-Down Trees](https://www.reddit.com/r/javascript/comments/11upmly/fp_and_oop_are_close_siblings_using_oop_to_teach/)
+- [[TypeORM] suggested TMP features for type safety and defeat Prisma](https://www.reddit.com/r/javascript/comments/11upfr7/typeorm_suggested_tmp_features_for_type_safety/)
+- [Showoff Saturday &lpar;March 18, 2023&rpar;](https://www.reddit.com/r/javascript/comments/11uh035/showoff_saturday_march_18_2023/)
 - [Once you get access, getting started with the GPT-4 API and JavaScript is pretty easy](https://www.reddit.com/r/javascript/comments/11tzyr6/once_you_get_access_getting_started_with_the_gpt4/)
-- [How we built one of the most complex apps on GitHub](https://www.reddit.com/r/javascript/comments/11ty4pd/how_we_built_one_of_the_most_complex_apps_on/)
 - [OpenAI GPT based PR reviewer and summarizer](https://www.reddit.com/r/javascript/comments/11tsto7/openai_gpt_based_pr_reviewer_and_summarizer/)
-- [Neutralinojs v4.11.0 released!](https://www.reddit.com/r/javascript/comments/11tq0ow/neutralinojs_v4110_released/)
-- [Don&#39;t use create-react-app, use these instead](https://www.reddit.com/r/javascript/comments/11tp0bt/dont_use_createreactapp_use_these_instead/)
-- [I made a starter template for building with OpenAI and TypeScript &lpar;Deno&rpar;](https://www.reddit.com/r/javascript/comments/11tksyp/i_made_a_starter_template_for_building_with/)
-- [The new React&#39;s documentation](https://www.reddit.com/r/javascript/comments/11thmf1/the_new_reacts_documentation/)
-- [React Captcha - JavaScript Exercise #20](https://www.reddit.com/r/javascript/comments/11thhq6/react_captcha_javascript_exercise_20/)
-- [TryCatch.js: A JavaScript library to handle errors in a more structured way.](https://www.reddit.com/r/javascript/comments/11tdslh/trycatchjs_a_javascript_library_to_handle_errors/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
