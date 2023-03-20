@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Should global apis be deep frozen to prevent prototype pollution?](https://www.reddit.com/r/javascript/comments/11vxmgz/askjs_should_global_apis_be_deep_frozen_to/)
+- [Image-to-code tool for web](https://www.reddit.com/r/javascript/comments/11vvsb7/imagetocode_tool_for_web/)
+- [[AskJS] &quot;Check out IntelliCoder, my AI-Powered Coding Buddy for VSCode! What do you think?&quot;](https://www.reddit.com/r/javascript/comments/11vtlfe/askjs_check_out_intellicoder_my_aipowered_coding/)
+- [Speeding up the JavaScript ecosystem - npm scripts](https://www.reddit.com/r/javascript/comments/11vq2d0/speeding_up_the_javascript_ecosystem_npm_scripts/)
+- [If Possible, Don&#39;t Run Prism.js in the Browser](https://www.reddit.com/r/javascript/comments/11vd3ce/if_possible_dont_run_prismjs_in_the_browser/)
+- [Metaphore Story](https://www.reddit.com/r/javascript/comments/11vb2u5/metaphore_story/)
 - [Hey y&#39;all, because Spotify has a presence but YouTube didn&#39;t, I made a Chrome Extension that displays a detailed Discord rich presence for YouTube!](https://www.reddit.com/r/javascript/comments/11v3v2v/hey_yall_because_spotify_has_a_presence_but/)
 - [I made a open source 3d modeling software based in voxels that you can play with from your browser.](https://www.reddit.com/r/javascript/comments/11v1roo/i_made_a_open_source_3d_modeling_software_based/)
 - [Build dashboards fast! New Tremor v2.0 release](https://www.reddit.com/r/javascript/comments/11v1h8o/build_dashboards_fast_new_tremor_v20_release/)
 - [Performance benchmark of the fastest way to initialize a Map](https://www.reddit.com/r/javascript/comments/11uumhz/performance_benchmark_of_the_fastest_way_to/)
-- [EventSourceStream](https://www.reddit.com/r/javascript/comments/11uuc2s/eventsourcestream/)
-- [FP and OOP are close siblings &lpar;using OOP to teach Currying&rpar; | The Upside-Down Trees](https://www.reddit.com/r/javascript/comments/11upmly/fp_and_oop_are_close_siblings_using_oop_to_teach/)
-- [[TypeORM] suggested TMP features for type safety and defeat Prisma](https://www.reddit.com/r/javascript/comments/11upfr7/typeorm_suggested_tmp_features_for_type_safety/)
-- [Showoff Saturday &lpar;March 18, 2023&rpar;](https://www.reddit.com/r/javascript/comments/11uh035/showoff_saturday_march_18_2023/)
-- [Once you get access, getting started with the GPT-4 API and JavaScript is pretty easy](https://www.reddit.com/r/javascript/comments/11tzyr6/once_you_get_access_getting_started_with_the_gpt4/)
-- [OpenAI GPT based PR reviewer and summarizer](https://www.reddit.com/r/javascript/comments/11tsto7/openai_gpt_based_pr_reviewer_and_summarizer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
