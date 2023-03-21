@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Should global apis be deep frozen to prevent prototype pollution?](https://www.reddit.com/r/javascript/comments/11vxmgz/askjs_should_global_apis_be_deep_frozen_to/)
-- [Image-to-code tool for web](https://www.reddit.com/r/javascript/comments/11vvsb7/imagetocode_tool_for_web/)
-- [[AskJS] &quot;Check out IntelliCoder, my AI-Powered Coding Buddy for VSCode! What do you think?&quot;](https://www.reddit.com/r/javascript/comments/11vtlfe/askjs_check_out_intellicoder_my_aipowered_coding/)
-- [Speeding up the JavaScript ecosystem - npm scripts](https://www.reddit.com/r/javascript/comments/11vq2d0/speeding_up_the_javascript_ecosystem_npm_scripts/)
-- [If Possible, Don&#39;t Run Prism.js in the Browser](https://www.reddit.com/r/javascript/comments/11vd3ce/if_possible_dont_run_prismjs_in_the_browser/)
-- [Metaphore Story](https://www.reddit.com/r/javascript/comments/11vb2u5/metaphore_story/)
-- [Hey y&#39;all, because Spotify has a presence but YouTube didn&#39;t, I made a Chrome Extension that displays a detailed Discord rich presence for YouTube!](https://www.reddit.com/r/javascript/comments/11v3v2v/hey_yall_because_spotify_has_a_presence_but/)
-- [I made a open source 3d modeling software based in voxels that you can play with from your browser.](https://www.reddit.com/r/javascript/comments/11v1roo/i_made_a_open_source_3d_modeling_software_based/)
-- [Build dashboards fast! New Tremor v2.0 release](https://www.reddit.com/r/javascript/comments/11v1h8o/build_dashboards_fast_new_tremor_v20_release/)
-- [Performance benchmark of the fastest way to initialize a Map](https://www.reddit.com/r/javascript/comments/11uumhz/performance_benchmark_of_the_fastest_way_to/)
+- [JavaScript Trick: Guessing Users&#39; Country Calling Codes by Time Zone](https://www.reddit.com/r/javascript/comments/11wt6vx/javascript_trick_guessing_users_country_calling/)
+- [GitHub - unadlib/data-transport: A simple and responsible universal transport](https://www.reddit.com/r/javascript/comments/11wpbpt/github_unadlibdatatransport_a_simple_and/)
+- [React Drag and Drop - JavaScript Exercise #23](https://www.reddit.com/r/javascript/comments/11wlnlj/react_drag_and_drop_javascript_exercise_23/)
+- [Introducing WeakerMap](https://www.reddit.com/r/javascript/comments/11wkxh6/introducing_weakermap/)
+- [Multiplayer 3d chess game built with react-three-fiber and socket.io](https://www.reddit.com/r/javascript/comments/11wk5f3/multiplayer_3d_chess_game_built_with/)
+- [Why we added package.json support to Deno](https://www.reddit.com/r/javascript/comments/11wjzss/why_we_added_packagejson_support_to_deno/)
+- [Make a video about the best contributor of the month with React and NodeJS](https://www.reddit.com/r/javascript/comments/11wila9/make_a_video_about_the_best_contributor_of_the/)
+- [React.js Components Best Practices: A Developer&#39;s Guide to Zen](https://www.reddit.com/r/javascript/comments/11wifn4/reactjs_components_best_practices_a_developers/)
+- [JSON compression in the browser, with gzip and the Compression Streams API.](https://www.reddit.com/r/javascript/comments/11wg33p/json_compression_in_the_browser_with_gzip_and_the/)
+- [Build AI Template Engine to create amazing content with Next.js and ChatGPT](https://www.reddit.com/r/javascript/comments/11wflvl/build_ai_template_engine_to_create_amazing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
