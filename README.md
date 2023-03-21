@@ -292,11 +292,11 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [What’s new in TypeScript 5.0](https://www.infoworld.com/article/3686509/whats-new-in-typescript-50.html#tk.rss_javascript)
 - [TypeScript 5.0 rebuilt to use ECMAScript modules](https://www.infoworld.com/article/3690342/typescript-50-rebuilt-to-use-ecmascript-modules.html#tk.rss_javascript)
-- [TypeScript 5.0 retools decorators](https://www.infoworld.com/article/3686509/typescript-50-retools-decorators.html#tk.rss_javascript)
 - [7 awesome JavaScript projects to check out today](https://www.infoworld.com/article/3687616/7-awesome-javascript-projects-to-check-out-today.html#tk.rss_javascript)
-- [State of JavaScript: A conversation with Sacha Greif](https://www.infoworld.com/article/3688770/state-of-javascript-a-conversation-with-sacha-greif.html#tk.rss_javascript)
 - [Deno adds package.json support](https://www.infoworld.com/article/3689179/deno-adds-package-json-support.html#tk.rss_javascript)
+- [State of JavaScript: A conversation with Sacha Greif](https://www.infoworld.com/article/3688770/state-of-javascript-a-conversation-with-sacha-greif.html#tk.rss_javascript)
 - [Explore Bun.js: The all-in-one JavaScript runtime](https://www.infoworld.com/article/3688330/explore-bunjs-the-all-in-one-javascript-runtime.html#tk.rss_javascript)
 - [Docker, Maven lead the way in packages](https://www.infoworld.com/article/3687747/docker-maven-lead-the-way-in-packages.html#tk.rss_javascript)
 - [Deno 1.30 backs built-in Node.js modules](https://www.infoworld.com/article/3687728/deno-130-backs-built-in-nodejs-modules.html#tk.rss_javascript)
