@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [JavaScript Trick: Guessing Users&#39; Country Calling Codes by Time Zone](https://www.reddit.com/r/javascript/comments/11wt6vx/javascript_trick_guessing_users_country_calling/)
-- [GitHub - unadlib/data-transport: A simple and responsible universal transport](https://www.reddit.com/r/javascript/comments/11wpbpt/github_unadlibdatatransport_a_simple_and/)
-- [React Drag and Drop - JavaScript Exercise #23](https://www.reddit.com/r/javascript/comments/11wlnlj/react_drag_and_drop_javascript_exercise_23/)
-- [Introducing WeakerMap](https://www.reddit.com/r/javascript/comments/11wkxh6/introducing_weakermap/)
-- [Multiplayer 3d chess game built with react-three-fiber and socket.io](https://www.reddit.com/r/javascript/comments/11wk5f3/multiplayer_3d_chess_game_built_with/)
-- [Why we added package.json support to Deno](https://www.reddit.com/r/javascript/comments/11wjzss/why_we_added_packagejson_support_to_deno/)
-- [Make a video about the best contributor of the month with React and NodeJS](https://www.reddit.com/r/javascript/comments/11wila9/make_a_video_about_the_best_contributor_of_the/)
-- [React.js Components Best Practices: A Developer&#39;s Guide to Zen](https://www.reddit.com/r/javascript/comments/11wifn4/reactjs_components_best_practices_a_developers/)
-- [JSON compression in the browser, with gzip and the Compression Streams API.](https://www.reddit.com/r/javascript/comments/11wg33p/json_compression_in_the_browser_with_gzip_and_the/)
-- [Build AI Template Engine to create amazing content with Next.js and ChatGPT](https://www.reddit.com/r/javascript/comments/11wflvl/build_ai_template_engine_to_create_amazing/)
+- [Star Crusade - A retro arcade video game pair-programmed with ChatGPT](https://www.reddit.com/r/javascript/comments/11xu9g9/star_crusade_a_retro_arcade_video_game/)
+- [Reducing 97% of the Open UI site&#39;s JavaScript by migrating to Astro](https://www.reddit.com/r/javascript/comments/11xt9xg/reducing_97_of_the_open_ui_sites_javascript_by/)
+- [Readonly.Link -- pure frontend javascript open source content rendering tool, supporting articles, books and manuals.](https://www.reddit.com/r/javascript/comments/11xsntk/readonlylink_pure_frontend_javascript_open_source/)
+- [Take Stock of Your Application With Static Code Analysis Tools - UpgradeJS.com](https://www.reddit.com/r/javascript/comments/11xrx5w/take_stock_of_your_application_with_static_code/)
+- [With or without the JS framework](https://www.reddit.com/r/javascript/comments/11xpv32/with_or_without_the_js_framework/)
+- [Kinetic Scroll - Simple Vanilla JS module and Svelte action to transform a container into a vertical momentum scroller, much like cellphones touch screens work when you tap and drag. Point it to a target container and start dragging around with your mouse or finger.](https://www.reddit.com/r/javascript/comments/11xpa8y/kinetic_scroll_simple_vanilla_js_module_and/)
+- [Revisiting SQL composition in JavaScript and TypeScript](https://www.reddit.com/r/javascript/comments/11xjzbm/revisiting_sql_composition_in_javascript_and/)
+- [[AskJS] Remix vs Next.js in 2023 - what are your thoughts? I&#39;m coming from using Elixir/Phoenix since 2016 and curious what the landscape is today.](https://www.reddit.com/r/javascript/comments/11xjfe4/askjs_remix_vs_nextjs_in_2023_what_are_your/)
+- [JavaScript Mascot: A mascot for JavaScript and the JavaScript community](https://www.reddit.com/r/javascript/comments/11xh0rk/javascript_mascot_a_mascot_for_javascript_and_the/)
+- [I&#39;m building Mathberet - a self-hosted, open-source digital mathematics notebook](https://www.reddit.com/r/javascript/comments/11xfgeu/im_building_mathberet_a_selfhosted_opensource/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
