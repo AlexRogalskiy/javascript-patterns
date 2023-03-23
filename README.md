@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [When using window.open&lpar;url,popup&rpar; how to get a spinner until the url loads and wanted to show popup if url loads successfully with status 200 and show error modal on failure of this url.](https://www.reddit.com/r/javascript/comments/11z1vli/when_using_windowopenurlpopup_how_to_get_a/)
+- [[AskJS] Javascript Debugging help.](https://www.reddit.com/r/javascript/comments/11yu9il/askjs_javascript_debugging_help/)
+- [Computer Programming Course Skill Generator - Turbocharge Your Skills with AI](https://www.reddit.com/r/javascript/comments/11yqwi0/computer_programming_course_skill_generator/)
+- [Mostly adequate guide to functional programming &lpar;in JavaScript&rpar;](https://www.reddit.com/r/javascript/comments/11ykcri/mostly_adequate_guide_to_functional_programming/)
+- [Trig.js - a super simple and lightweight way of making CSS animations that react to the position of your HTML elements. You can also use Trig.js to trigger CSS animations once an element appears on screen](https://www.reddit.com/r/javascript/comments/11yjy07/trigjs_a_super_simple_and_lightweight_way_of/)
+- [Next.js and Rust: An Innovative Approach to Full-Stack Development](https://www.reddit.com/r/javascript/comments/11yi1th/nextjs_and_rust_an_innovative_approach_to/)
+- [Automatic npm publishing, with GitHub Actions &amp; npm granular tokens](https://www.reddit.com/r/javascript/comments/11ye7ci/automatic_npm_publishing_with_github_actions_npm/)
+- [WTF Wednesday &lpar;March 22, 2023&rpar;](https://www.reddit.com/r/javascript/comments/11ya80w/wtf_wednesday_march_22_2023/)
 - [Star Crusade - A retro arcade video game pair-programmed with ChatGPT](https://www.reddit.com/r/javascript/comments/11xu9g9/star_crusade_a_retro_arcade_video_game/)
 - [Reducing 97% of the Open UI site&#39;s JavaScript by migrating to Astro](https://www.reddit.com/r/javascript/comments/11xt9xg/reducing_97_of_the_open_ui_sites_javascript_by/)
-- [Readonly.Link -- pure frontend javascript open source content rendering tool, supporting articles, books and manuals.](https://www.reddit.com/r/javascript/comments/11xsntk/readonlylink_pure_frontend_javascript_open_source/)
-- [Take Stock of Your Application With Static Code Analysis Tools - UpgradeJS.com](https://www.reddit.com/r/javascript/comments/11xrx5w/take_stock_of_your_application_with_static_code/)
-- [With or without the JS framework](https://www.reddit.com/r/javascript/comments/11xpv32/with_or_without_the_js_framework/)
-- [Kinetic Scroll - Simple Vanilla JS module and Svelte action to transform a container into a vertical momentum scroller, much like cellphones touch screens work when you tap and drag. Point it to a target container and start dragging around with your mouse or finger.](https://www.reddit.com/r/javascript/comments/11xpa8y/kinetic_scroll_simple_vanilla_js_module_and/)
-- [Revisiting SQL composition in JavaScript and TypeScript](https://www.reddit.com/r/javascript/comments/11xjzbm/revisiting_sql_composition_in_javascript_and/)
-- [[AskJS] Remix vs Next.js in 2023 - what are your thoughts? I&#39;m coming from using Elixir/Phoenix since 2016 and curious what the landscape is today.](https://www.reddit.com/r/javascript/comments/11xjfe4/askjs_remix_vs_nextjs_in_2023_what_are_your/)
-- [JavaScript Mascot: A mascot for JavaScript and the JavaScript community](https://www.reddit.com/r/javascript/comments/11xh0rk/javascript_mascot_a_mascot_for_javascript_and_the/)
-- [I&#39;m building Mathberet - a self-hosted, open-source digital mathematics notebook](https://www.reddit.com/r/javascript/comments/11xfgeu/im_building_mathberet_a_selfhosted_opensource/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
