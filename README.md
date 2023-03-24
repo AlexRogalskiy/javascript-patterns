@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Intro to Tauri: The Electron alternative](https://www.infoworld.com/article/3690272/intro-to-tauri-the-electron-alternative.html#tk.rss_javascript)
 - [How to convert Python to JavaScript &lpar;and back again&rpar;](https://www.infoworld.com/article/3209651/how-to-convert-python-to-javascript-and-back-again.html#tk.rss_javascript)
 - [What’s new in TypeScript 5.0](https://www.infoworld.com/article/3686509/whats-new-in-typescript-50.html#tk.rss_javascript)
 - [TypeScript 5.0 rebuilt to use ECMAScript modules](https://www.infoworld.com/article/3690342/typescript-50-rebuilt-to-use-ecmascript-modules.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Explore Bun.js: The all-in-one JavaScript runtime](https://www.infoworld.com/article/3688330/explore-bunjs-the-all-in-one-javascript-runtime.html#tk.rss_javascript)
 - [Docker, Maven lead the way in packages](https://www.infoworld.com/article/3687747/docker-maven-lead-the-way-in-packages.html#tk.rss_javascript)
 - [Deno 1.30 backs built-in Node.js modules](https://www.infoworld.com/article/3687728/deno-130-backs-built-in-nodejs-modules.html#tk.rss_javascript)
-- [Intro to Remix: A leader in full-stack evolution](https://www.infoworld.com/article/3687210/intro-to-remix-a-leader-in-full-stack-evolution.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
