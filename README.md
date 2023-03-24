@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [When using window.open&lpar;url,popup&rpar; how to get a spinner until the url loads and wanted to show popup if url loads successfully with status 200 and show error modal on failure of this url.](https://www.reddit.com/r/javascript/comments/11z1vli/when_using_windowopenurlpopup_how_to_get_a/)
-- [[AskJS] Javascript Debugging help.](https://www.reddit.com/r/javascript/comments/11yu9il/askjs_javascript_debugging_help/)
-- [Computer Programming Course Skill Generator - Turbocharge Your Skills with AI](https://www.reddit.com/r/javascript/comments/11yqwi0/computer_programming_course_skill_generator/)
+- [[AskJS] my antipattern webpage &lpar;by design&rpar;](https://www.reddit.com/r/javascript/comments/1204dva/askjs_my_antipattern_webpage_by_design/)
+- [[AskJS] Is there a browser event for a user &quot;returning&quot; to their mobile browser?](https://www.reddit.com/r/javascript/comments/1201o17/askjs_is_there_a_browser_event_for_a_user/)
+- [We asked GPT-4 to write JavaScript that creates a map for a children&#39;s game](https://www.reddit.com/r/javascript/comments/12008d3/we_asked_gpt4_to_write_javascript_that_creates_a/)
+- [[AskJS] Are there any Electron alternatives that uses less recourses?](https://www.reddit.com/r/javascript/comments/11ztx8j/askjs_are_there_any_electron_alternatives_that/)
+- [Speeding up the JavaScript ecosystem - npm scripts](https://www.reddit.com/r/javascript/comments/11zsqgf/speeding_up_the_javascript_ecosystem_npm_scripts/)
 - [Mostly adequate guide to functional programming &lpar;in JavaScript&rpar;](https://www.reddit.com/r/javascript/comments/11ykcri/mostly_adequate_guide_to_functional_programming/)
 - [Trig.js - a super simple and lightweight way of making CSS animations that react to the position of your HTML elements. You can also use Trig.js to trigger CSS animations once an element appears on screen](https://www.reddit.com/r/javascript/comments/11yjy07/trigjs_a_super_simple_and_lightweight_way_of/)
 - [Next.js and Rust: An Innovative Approach to Full-Stack Development](https://www.reddit.com/r/javascript/comments/11yi1th/nextjs_and_rust_an_innovative_approach_to/)
 - [Automatic npm publishing, with GitHub Actions &amp; npm granular tokens](https://www.reddit.com/r/javascript/comments/11ye7ci/automatic_npm_publishing_with_github_actions_npm/)
 - [WTF Wednesday &lpar;March 22, 2023&rpar;](https://www.reddit.com/r/javascript/comments/11ya80w/wtf_wednesday_march_22_2023/)
-- [Star Crusade - A retro arcade video game pair-programmed with ChatGPT](https://www.reddit.com/r/javascript/comments/11xu9g9/star_crusade_a_retro_arcade_video_game/)
-- [Reducing 97% of the Open UI site&#39;s JavaScript by migrating to Astro](https://www.reddit.com/r/javascript/comments/11xt9xg/reducing_97_of_the_open_ui_sites_javascript_by/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
