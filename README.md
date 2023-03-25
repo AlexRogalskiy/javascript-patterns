@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] my antipattern webpage &lpar;by design&rpar;](https://www.reddit.com/r/javascript/comments/1204dva/askjs_my_antipattern_webpage_by_design/)
-- [[AskJS] Is there a browser event for a user &quot;returning&quot; to their mobile browser?](https://www.reddit.com/r/javascript/comments/1201o17/askjs_is_there_a_browser_event_for_a_user/)
+- [Examples of Trig.js CSS scroll animations](https://www.reddit.com/r/javascript/comments/120zz4n/examples_of_trigjs_css_scroll_animations/)
+- [Updates from the 95th TC39 meeting](https://www.reddit.com/r/javascript/comments/120py12/updates_from_the_95th_tc39_meeting/)
+- [NPKILL 0.11.1 released! Say goodbye to all those unused and heavy node_modules that take up precious space in seconds. Now faster.](https://www.reddit.com/r/javascript/comments/120mm8s/npkill_0111_released_say_goodbye_to_all_those/)
+- [Rethinking React best practices](https://www.reddit.com/r/javascript/comments/120dlku/rethinking_react_best_practices/)
 - [We asked GPT-4 to write JavaScript that creates a map for a children&#39;s game](https://www.reddit.com/r/javascript/comments/12008d3/we_asked_gpt4_to_write_javascript_that_creates_a/)
 - [[AskJS] Are there any Electron alternatives that uses less recourses?](https://www.reddit.com/r/javascript/comments/11ztx8j/askjs_are_there_any_electron_alternatives_that/)
 - [Speeding up the JavaScript ecosystem - npm scripts](https://www.reddit.com/r/javascript/comments/11zsqgf/speeding_up_the_javascript_ecosystem_npm_scripts/)
 - [Mostly adequate guide to functional programming &lpar;in JavaScript&rpar;](https://www.reddit.com/r/javascript/comments/11ykcri/mostly_adequate_guide_to_functional_programming/)
 - [Trig.js - a super simple and lightweight way of making CSS animations that react to the position of your HTML elements. You can also use Trig.js to trigger CSS animations once an element appears on screen](https://www.reddit.com/r/javascript/comments/11yjy07/trigjs_a_super_simple_and_lightweight_way_of/)
 - [Next.js and Rust: An Innovative Approach to Full-Stack Development](https://www.reddit.com/r/javascript/comments/11yi1th/nextjs_and_rust_an_innovative_approach_to/)
-- [Automatic npm publishing, with GitHub Actions &amp; npm granular tokens](https://www.reddit.com/r/javascript/comments/11ye7ci/automatic_npm_publishing_with_github_actions_npm/)
-- [WTF Wednesday &lpar;March 22, 2023&rpar;](https://www.reddit.com/r/javascript/comments/11ya80w/wtf_wednesday_march_22_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
