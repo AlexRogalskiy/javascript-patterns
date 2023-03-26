@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I built a platform that generates CSS variables for your theme!](https://www.reddit.com/r/javascript/comments/121vraj/i_built_a_platform_that_generates_css_variables/)
+- [Logto v1.0.0 - OSS General Availability](https://www.reddit.com/r/javascript/comments/121stma/logto_v100_oss_general_availability/)
+- [How to use async/await with a forEach loop in JavaScript?](https://www.reddit.com/r/javascript/comments/121lbbr/how_to_use_asyncawait_with_a_foreach_loop_in/)
+- [[AskJS] Are almost 90% of W3C proposals made by Google / Chromium or it&#39;s just perspective?](https://www.reddit.com/r/javascript/comments/121kywv/askjs_are_almost_90_of_w3c_proposals_made_by/)
+- [Showoff Saturday &lpar;March 25, 2023&rpar;](https://www.reddit.com/r/javascript/comments/121dse1/showoff_saturday_march_25_2023/)
+- [Termino.js: Create command based apps on any website - great for games, chat-bots, animations and real world apps!](https://www.reddit.com/r/javascript/comments/121cd5i/terminojs_create_command_based_apps_on_any/)
 - [Examples of Trig.js CSS scroll animations](https://www.reddit.com/r/javascript/comments/120zz4n/examples_of_trigjs_css_scroll_animations/)
 - [Updates from the 95th TC39 meeting](https://www.reddit.com/r/javascript/comments/120py12/updates_from_the_95th_tc39_meeting/)
 - [NPKILL 0.11.1 released! Say goodbye to all those unused and heavy node_modules that take up precious space in seconds. Now faster.](https://www.reddit.com/r/javascript/comments/120mm8s/npkill_0111_released_say_goodbye_to_all_those/)
 - [Rethinking React best practices](https://www.reddit.com/r/javascript/comments/120dlku/rethinking_react_best_practices/)
-- [We asked GPT-4 to write JavaScript that creates a map for a children&#39;s game](https://www.reddit.com/r/javascript/comments/12008d3/we_asked_gpt4_to_write_javascript_that_creates_a/)
-- [[AskJS] Are there any Electron alternatives that uses less recourses?](https://www.reddit.com/r/javascript/comments/11ztx8j/askjs_are_there_any_electron_alternatives_that/)
-- [Speeding up the JavaScript ecosystem - npm scripts](https://www.reddit.com/r/javascript/comments/11zsqgf/speeding_up_the_javascript_ecosystem_npm_scripts/)
-- [Mostly adequate guide to functional programming &lpar;in JavaScript&rpar;](https://www.reddit.com/r/javascript/comments/11ykcri/mostly_adequate_guide_to_functional_programming/)
-- [Trig.js - a super simple and lightweight way of making CSS animations that react to the position of your HTML elements. You can also use Trig.js to trigger CSS animations once an element appears on screen](https://www.reddit.com/r/javascript/comments/11yjy07/trigjs_a_super_simple_and_lightweight_way_of/)
-- [Next.js and Rust: An Innovative Approach to Full-Stack Development](https://www.reddit.com/r/javascript/comments/11yi1th/nextjs_and_rust_an_innovative_approach_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
