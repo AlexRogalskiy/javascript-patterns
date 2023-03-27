@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I built a platform that generates CSS variables for your theme!](https://www.reddit.com/r/javascript/comments/121vraj/i_built_a_platform_that_generates_css_variables/)
-- [Logto v1.0.0 - OSS General Availability](https://www.reddit.com/r/javascript/comments/121stma/logto_v100_oss_general_availability/)
-- [How to use async/await with a forEach loop in JavaScript?](https://www.reddit.com/r/javascript/comments/121lbbr/how_to_use_asyncawait_with_a_foreach_loop_in/)
-- [[AskJS] Are almost 90% of W3C proposals made by Google / Chromium or it&#39;s just perspective?](https://www.reddit.com/r/javascript/comments/121kywv/askjs_are_almost_90_of_w3c_proposals_made_by/)
-- [Showoff Saturday &lpar;March 25, 2023&rpar;](https://www.reddit.com/r/javascript/comments/121dse1/showoff_saturday_march_25_2023/)
-- [Termino.js: Create command based apps on any website - great for games, chat-bots, animations and real world apps!](https://www.reddit.com/r/javascript/comments/121cd5i/terminojs_create_command_based_apps_on_any/)
-- [Examples of Trig.js CSS scroll animations](https://www.reddit.com/r/javascript/comments/120zz4n/examples_of_trigjs_css_scroll_animations/)
-- [Updates from the 95th TC39 meeting](https://www.reddit.com/r/javascript/comments/120py12/updates_from_the_95th_tc39_meeting/)
-- [NPKILL 0.11.1 released! Say goodbye to all those unused and heavy node_modules that take up precious space in seconds. Now faster.](https://www.reddit.com/r/javascript/comments/120mm8s/npkill_0111_released_say_goodbye_to_all_those/)
-- [Rethinking React best practices](https://www.reddit.com/r/javascript/comments/120dlku/rethinking_react_best_practices/)
+- [Implementing Google, GitHub, and Custom Credential Login with Next.js and NextAuth.js](https://www.reddit.com/r/javascript/comments/122wxwx/implementing_google_github_and_custom_credential/)
+- [monoenv: better handling of multiple applications dotenv files in monorepos](https://www.reddit.com/r/javascript/comments/122sq52/monoenv_better_handling_of_multiple_applications/)
+- [[AskJS] What’s the better choice React or Vue?](https://www.reddit.com/r/javascript/comments/122r6z6/askjs_whats_the_better_choice_react_or_vue/)
+- [[AskJS] I&#39;m giving away my video course in exchange of feedback](https://www.reddit.com/r/javascript/comments/122qmi5/askjs_im_giving_away_my_video_course_in_exchange/)
+- [[AskJS] Start a function when a button from a &lt;form method=&quot;post&quot;&gt; is pressed with setInterval](https://www.reddit.com/r/javascript/comments/122nfvm/askjs_start_a_function_when_a_button_from_a_form/)
+- [Pangolier: Write UI tests for the web platform in YAML](https://www.reddit.com/r/javascript/comments/122m2it/pangolier_write_ui_tests_for_the_web_platform_in/)
+- [&lt;selectmenu&gt; polyfill](https://www.reddit.com/r/javascript/comments/122lwy9/selectmenu_polyfill/)
+- [Fetch This! How to Make API Calls So Dope, Even Your Dog Will Be Impressed](https://www.reddit.com/r/javascript/comments/122kwot/fetch_this_how_to_make_api_calls_so_dope_even/)
+- [[AskJS] Is javascript a good option to write a file manager?](https://www.reddit.com/r/javascript/comments/122ct96/askjs_is_javascript_a_good_option_to_write_a_file/)
+- [[AskJS] Tinkering with observability for shared React states &lpar;without context&rpar;, would love any thoughts](https://www.reddit.com/r/javascript/comments/122apyi/askjs_tinkering_with_observability_for_shared/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
