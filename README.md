@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Implementing Google, GitHub, and Custom Credential Login with Next.js and NextAuth.js](https://www.reddit.com/r/javascript/comments/122wxwx/implementing_google_github_and_custom_credential/)
-- [monoenv: better handling of multiple applications dotenv files in monorepos](https://www.reddit.com/r/javascript/comments/122sq52/monoenv_better_handling_of_multiple_applications/)
-- [[AskJS] What’s the better choice React or Vue?](https://www.reddit.com/r/javascript/comments/122r6z6/askjs_whats_the_better_choice_react_or_vue/)
-- [[AskJS] I&#39;m giving away my video course in exchange of feedback](https://www.reddit.com/r/javascript/comments/122qmi5/askjs_im_giving_away_my_video_course_in_exchange/)
-- [[AskJS] Start a function when a button from a &lt;form method=&quot;post&quot;&gt; is pressed with setInterval](https://www.reddit.com/r/javascript/comments/122nfvm/askjs_start_a_function_when_a_button_from_a_form/)
-- [Pangolier: Write UI tests for the web platform in YAML](https://www.reddit.com/r/javascript/comments/122m2it/pangolier_write_ui_tests_for_the_web_platform_in/)
-- [&lt;selectmenu&gt; polyfill](https://www.reddit.com/r/javascript/comments/122lwy9/selectmenu_polyfill/)
-- [Fetch This! How to Make API Calls So Dope, Even Your Dog Will Be Impressed](https://www.reddit.com/r/javascript/comments/122kwot/fetch_this_how_to_make_api_calls_so_dope_even/)
-- [[AskJS] Is javascript a good option to write a file manager?](https://www.reddit.com/r/javascript/comments/122ct96/askjs_is_javascript_a_good_option_to_write_a_file/)
-- [[AskJS] Tinkering with observability for shared React states &lpar;without context&rpar;, would love any thoughts](https://www.reddit.com/r/javascript/comments/122apyi/askjs_tinkering_with_observability_for_shared/)
+- [Drag-and-drop file upload is not a pain anymore! My first react component on npm](https://www.reddit.com/r/javascript/comments/12410lx/draganddrop_file_upload_is_not_a_pain_anymore_my/)
+- [Offline Body Movement Analysis in the Browser](https://www.reddit.com/r/javascript/comments/123vdqn/offline_body_movement_analysis_in_the_browser/)
+- [Introducing Nori-Store: A Lightweight State Management Library for Web Applications](https://www.reddit.com/r/javascript/comments/123seg5/introducing_noristore_a_lightweight_state/)
+- [How to wait for all promises to resolve in JavaScript?](https://www.reddit.com/r/javascript/comments/123quk0/how_to_wait_for_all_promises_to_resolve_in/)
+- [The Landscape of npm Packages for CLI Apps](https://www.reddit.com/r/javascript/comments/123lf2i/the_landscape_of_npm_packages_for_cli_apps/)
+- [Turboasya - your enterprise companion to the Vercel Turbo system build.](https://www.reddit.com/r/javascript/comments/123lbv8/turboasya_your_enterprise_companion_to_the_vercel/)
+- [username-checker helps check username availability on multiple social media websites.](https://www.reddit.com/r/javascript/comments/123kk47/usernamechecker_helps_check_username_availability/)
+- [ECMAScript proposal changes from the 95th meeting of ECMA TC39](https://www.reddit.com/r/javascript/comments/123jkum/ecmascript_proposal_changes_from_the_95th_meeting/)
+- [Ace-Editor-Web-Component: A web-component to easily add a code editor to your web-page!](https://www.reddit.com/r/javascript/comments/123j7wy/aceeditorwebcomponent_a_webcomponent_to_easily/)
+- [JavaScript. Work with clipboard, Ctrl+C Ctrl+V](https://www.reddit.com/r/javascript/comments/123d539/javascript_work_with_clipboard_ctrlc_ctrlv/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
