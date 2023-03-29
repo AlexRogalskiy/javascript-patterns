@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Tetris timer - the first part; filling the board with puzzles](https://www.reddit.com/r/javascript/comments/124u0l1/tetris_timer_the_first_part_filling_the_board/)
+- [[npm] import-mapper: inject require&lpar;&rpar;&#39;d modules into dynamic imports&lpar;&rpar;](https://www.reddit.com/r/javascript/comments/124qwbk/npm_importmapper_inject_required_modules_into/)
+- [Run a completely functional backend in just a few minutes with This new Open-Source Project](https://www.reddit.com/r/javascript/comments/124mchm/run_a_completely_functional_backend_in_just_a_few/)
+- [Poor man&#39;s islands archiecture](https://www.reddit.com/r/javascript/comments/124jggb/poor_mans_islands_archiecture/)
+- [A toolkit for crafting and sending responsive email templates, using NextJS and tRPC](https://www.reddit.com/r/javascript/comments/124gdhs/a_toolkit_for_crafting_and_sending_responsive/)
 - [Drag-and-drop file upload is not a pain anymore! My first react component on npm](https://www.reddit.com/r/javascript/comments/12410lx/draganddrop_file_upload_is_not_a_pain_anymore_my/)
 - [Offline Body Movement Analysis in the Browser](https://www.reddit.com/r/javascript/comments/123vdqn/offline_body_movement_analysis_in_the_browser/)
 - [Introducing Nori-Store: A Lightweight State Management Library for Web Applications](https://www.reddit.com/r/javascript/comments/123seg5/introducing_noristore_a_lightweight_state/)
 - [How to wait for all promises to resolve in JavaScript?](https://www.reddit.com/r/javascript/comments/123quk0/how_to_wait_for_all_promises_to_resolve_in/)
 - [The Landscape of npm Packages for CLI Apps](https://www.reddit.com/r/javascript/comments/123lf2i/the_landscape_of_npm_packages_for_cli_apps/)
-- [Turboasya - your enterprise companion to the Vercel Turbo system build.](https://www.reddit.com/r/javascript/comments/123lbv8/turboasya_your_enterprise_companion_to_the_vercel/)
-- [username-checker helps check username availability on multiple social media websites.](https://www.reddit.com/r/javascript/comments/123kk47/usernamechecker_helps_check_username_availability/)
-- [ECMAScript proposal changes from the 95th meeting of ECMA TC39](https://www.reddit.com/r/javascript/comments/123jkum/ecmascript_proposal_changes_from_the_95th_meeting/)
-- [Ace-Editor-Web-Component: A web-component to easily add a code editor to your web-page!](https://www.reddit.com/r/javascript/comments/123j7wy/aceeditorwebcomponent_a_webcomponent_to_easily/)
-- [JavaScript. Work with clipboard, Ctrl+C Ctrl+V](https://www.reddit.com/r/javascript/comments/123d539/javascript_work_with_clipboard_ctrlc_ctrlv/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
