@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Tetris timer - the first part; filling the board with puzzles](https://www.reddit.com/r/javascript/comments/124u0l1/tetris_timer_the_first_part_filling_the_board/)
-- [[npm] import-mapper: inject require&lpar;&rpar;&#39;d modules into dynamic imports&lpar;&rpar;](https://www.reddit.com/r/javascript/comments/124qwbk/npm_importmapper_inject_required_modules_into/)
-- [Run a completely functional backend in just a few minutes with This new Open-Source Project](https://www.reddit.com/r/javascript/comments/124mchm/run_a_completely_functional_backend_in_just_a_few/)
-- [Poor man&#39;s islands archiecture](https://www.reddit.com/r/javascript/comments/124jggb/poor_mans_islands_archiecture/)
-- [A toolkit for crafting and sending responsive email templates, using NextJS and tRPC](https://www.reddit.com/r/javascript/comments/124gdhs/a_toolkit_for_crafting_and_sending_responsive/)
-- [Drag-and-drop file upload is not a pain anymore! My first react component on npm](https://www.reddit.com/r/javascript/comments/12410lx/draganddrop_file_upload_is_not_a_pain_anymore_my/)
-- [Offline Body Movement Analysis in the Browser](https://www.reddit.com/r/javascript/comments/123vdqn/offline_body_movement_analysis_in_the_browser/)
-- [Introducing Nori-Store: A Lightweight State Management Library for Web Applications](https://www.reddit.com/r/javascript/comments/123seg5/introducing_noristore_a_lightweight_state/)
-- [How to wait for all promises to resolve in JavaScript?](https://www.reddit.com/r/javascript/comments/123quk0/how_to_wait_for_all_promises_to_resolve_in/)
-- [The Landscape of npm Packages for CLI Apps](https://www.reddit.com/r/javascript/comments/123lf2i/the_landscape_of_npm_packages_for_cli_apps/)
+- [[I made this] semantic-url-parser – Extracts content information from known URL patterns](https://www.reddit.com/r/javascript/comments/12671f6/i_made_this_semanticurlparser_extracts_content/)
+- [ImageFLY: Open Source on-the-fly image transformations using Azure Functions and TypeScript](https://www.reddit.com/r/javascript/comments/125yoeh/imagefly_open_source_onthefly_image/)
+- [Manage your json data better with visual excel sheets](https://www.reddit.com/r/javascript/comments/125x63w/manage_your_json_data_better_with_visual_excel/)
+- [Sandboxing JavaScript Code](https://www.reddit.com/r/javascript/comments/125vqno/sandboxing_javascript_code/)
+- [In Praise of Vite](https://www.reddit.com/r/javascript/comments/125ukc8/in_praise_of_vite/)
+- [[AskJS] Any ideas for Open Source JavaScript projects?](https://www.reddit.com/r/javascript/comments/125pd8f/askjs_any_ideas_for_open_source_javascript/)
+- [Using ChatGPT for productivity in JavaScript: Quick wins](https://www.reddit.com/r/javascript/comments/125onns/using_chatgpt_for_productivity_in_javascript/)
+- [react.gg - the interactive way to master modern React &lpar;limited private beta begins this summer&rpar;](https://www.reddit.com/r/javascript/comments/125oi9i/reactgg_the_interactive_way_to_master_modern/)
+- [Online JSON Viewer or Compare Tools](https://www.reddit.com/r/javascript/comments/125kbjd/online_json_viewer_or_compare_tools/)
+- [JSDayIE 2023 | The first JavaScipt conference in Ireland is back!](https://www.reddit.com/r/javascript/comments/125hohd/jsdayie_2023_the_first_javascipt_conference_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
