@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[I made this] semantic-url-parser – Extracts content information from known URL patterns](https://www.reddit.com/r/javascript/comments/12671f6/i_made_this_semanticurlparser_extracts_content/)
-- [ImageFLY: Open Source on-the-fly image transformations using Azure Functions and TypeScript](https://www.reddit.com/r/javascript/comments/125yoeh/imagefly_open_source_onthefly_image/)
-- [Manage your json data better with visual excel sheets](https://www.reddit.com/r/javascript/comments/125x63w/manage_your_json_data_better_with_visual_excel/)
-- [Sandboxing JavaScript Code](https://www.reddit.com/r/javascript/comments/125vqno/sandboxing_javascript_code/)
-- [In Praise of Vite](https://www.reddit.com/r/javascript/comments/125ukc8/in_praise_of_vite/)
-- [[AskJS] Any ideas for Open Source JavaScript projects?](https://www.reddit.com/r/javascript/comments/125pd8f/askjs_any_ideas_for_open_source_javascript/)
-- [Using ChatGPT for productivity in JavaScript: Quick wins](https://www.reddit.com/r/javascript/comments/125onns/using_chatgpt_for_productivity_in_javascript/)
-- [react.gg - the interactive way to master modern React &lpar;limited private beta begins this summer&rpar;](https://www.reddit.com/r/javascript/comments/125oi9i/reactgg_the_interactive_way_to_master_modern/)
-- [Online JSON Viewer or Compare Tools](https://www.reddit.com/r/javascript/comments/125kbjd/online_json_viewer_or_compare_tools/)
-- [JSDayIE 2023 | The first JavaScipt conference in Ireland is back!](https://www.reddit.com/r/javascript/comments/125hohd/jsdayie_2023_the_first_javascipt_conference_in/)
+- [[AskJS] Can Samsung 4K Smart TVs play 4K video in the browser?](https://www.reddit.com/r/javascript/comments/12752ns/askjs_can_samsung_4k_smart_tvs_play_4k_video_in/)
+- [We scanned every NPM package for malware with ChatGPT](https://www.reddit.com/r/javascript/comments/12747wq/we_scanned_every_npm_package_for_malware_with/)
+- [JavaScript vs TypeScript: A Comparison for Web Developers](https://www.reddit.com/r/javascript/comments/1273s0d/javascript_vs_typescript_a_comparison_for_web/)
+- [[AskJS] Questionnaire Libraries?](https://www.reddit.com/r/javascript/comments/1270uab/askjs_questionnaire_libraries/)
+- [Imaginary programming: implementation-free TypeScript functions for GPT-powered web development](https://www.reddit.com/r/javascript/comments/126x68t/imaginary_programming_implementationfree/)
+- [Visual Studio Code and GitHub Copilot AI](https://www.reddit.com/r/javascript/comments/126vzi4/visual_studio_code_and_github_copilot_ai/)
+- [Visual Studio Code March 2023](https://www.reddit.com/r/javascript/comments/126vr8p/visual_studio_code_march_2023/)
+- [Letting users block injected third-party DLLs in Firefox](https://www.reddit.com/r/javascript/comments/126vq9w/letting_users_block_injected_thirdparty_dlls_in/)
+- [Announcing Rome v12](https://www.reddit.com/r/javascript/comments/126u0gw/announcing_rome_v12/)
+- [13 Decisions to Make Before Publishing JavaScript to NPM](https://www.reddit.com/r/javascript/comments/126ta8r/13_decisions_to_make_before_publishing_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
