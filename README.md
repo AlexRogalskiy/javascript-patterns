@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Can Samsung 4K Smart TVs play 4K video in the browser?](https://www.reddit.com/r/javascript/comments/12752ns/askjs_can_samsung_4k_smart_tvs_play_4k_video_in/)
+- [easy-npm - Visual Studio Marketplace](https://www.reddit.com/r/javascript/comments/127ui7s/easynpm_visual_studio_marketplace/)
+- [Bring your text to life with the React Typing Animator!](https://www.reddit.com/r/javascript/comments/127qubo/bring_your_text_to_life_with_the_react_typing/)
+- [A Taxonomy of Testable HTML5 Canvas Issues](https://www.reddit.com/r/javascript/comments/127mzdq/a_taxonomy_of_testable_html5_canvas_issues/)
+- [Create your own scroll animations in CSS. Using an efficient and lightweight JS package](https://www.reddit.com/r/javascript/comments/127fhyo/create_your_own_scroll_animations_in_css_using_an/)
+- [QuickJS streaming Web server module](https://www.reddit.com/r/javascript/comments/127d8e9/quickjs_streaming_web_server_module/)
 - [We scanned every NPM package for malware with ChatGPT](https://www.reddit.com/r/javascript/comments/12747wq/we_scanned_every_npm_package_for_malware_with/)
-- [JavaScript vs TypeScript: A Comparison for Web Developers](https://www.reddit.com/r/javascript/comments/1273s0d/javascript_vs_typescript_a_comparison_for_web/)
 - [[AskJS] Questionnaire Libraries?](https://www.reddit.com/r/javascript/comments/1270uab/askjs_questionnaire_libraries/)
 - [Imaginary programming: implementation-free TypeScript functions for GPT-powered web development](https://www.reddit.com/r/javascript/comments/126x68t/imaginary_programming_implementationfree/)
 - [Visual Studio Code and GitHub Copilot AI](https://www.reddit.com/r/javascript/comments/126vzi4/visual_studio_code_and_github_copilot_ai/)
 - [Visual Studio Code March 2023](https://www.reddit.com/r/javascript/comments/126vr8p/visual_studio_code_march_2023/)
-- [Letting users block injected third-party DLLs in Firefox](https://www.reddit.com/r/javascript/comments/126vq9w/letting_users_block_injected_thirdparty_dlls_in/)
-- [Announcing Rome v12](https://www.reddit.com/r/javascript/comments/126u0gw/announcing_rome_v12/)
-- [13 Decisions to Make Before Publishing JavaScript to NPM](https://www.reddit.com/r/javascript/comments/126ta8r/13_decisions_to_make_before_publishing_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
