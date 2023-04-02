@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [React router&#39;s data utilities are awkward in SPAs](https://www.reddit.com/r/javascript/comments/1294d8k/react_routers_data_utilities_are_awkward_in_spas/)
+- [I made a chrome extension, full in JS that lets you save websites:](https://www.reddit.com/r/javascript/comments/128s6ph/i_made_a_chrome_extension_full_in_js_that_lets/)
+- [Mastering Higher-Order Components in React JS: A Comprehensive Guide](https://www.reddit.com/r/javascript/comments/128r3g1/mastering_higherorder_components_in_react_js_a/)
+- [[AskJS] Modern Yarn has PnP, npm, and pnpm style linking so there&#39;s no need to use npm or pnpm directly](https://www.reddit.com/r/javascript/comments/128oo8t/askjs_modern_yarn_has_pnp_npm_and_pnpm_style/)
+- [EmberCrate - The open collection for all resources on Ember.js](https://www.reddit.com/r/javascript/comments/128n6rj/embercrate_the_open_collection_for_all_resources/)
+- [[AskJS] Yarn vs NPM vs Others in 2023](https://www.reddit.com/r/javascript/comments/128m65k/askjs_yarn_vs_npm_vs_others_in_2023/)
+- [How Will the Future of Web Development Be Affected by Influential New React Docs?](https://www.reddit.com/r/javascript/comments/128jno5/how_will_the_future_of_web_development_be/)
+- [Based on Google Translate + nodejs, a plug-in for online conversion of ts/js/json multilingual files was developed](https://www.reddit.com/r/javascript/comments/128jes8/based_on_google_translate_nodejs_a_plugin_for/)
+- [Showoff Saturday &lpar;April 01, 2023&rpar;](https://www.reddit.com/r/javascript/comments/128e5f7/showoff_saturday_april_01_2023/)
 - [easy-npm - Visual Studio Marketplace](https://www.reddit.com/r/javascript/comments/127ui7s/easynpm_visual_studio_marketplace/)
-- [Bring your text to life with the React Typing Animator!](https://www.reddit.com/r/javascript/comments/127qubo/bring_your_text_to_life_with_the_react_typing/)
-- [A Taxonomy of Testable HTML5 Canvas Issues](https://www.reddit.com/r/javascript/comments/127mzdq/a_taxonomy_of_testable_html5_canvas_issues/)
-- [Create your own scroll animations in CSS. Using an efficient and lightweight JS package](https://www.reddit.com/r/javascript/comments/127fhyo/create_your_own_scroll_animations_in_css_using_an/)
-- [QuickJS streaming Web server module](https://www.reddit.com/r/javascript/comments/127d8e9/quickjs_streaming_web_server_module/)
-- [We scanned every NPM package for malware with ChatGPT](https://www.reddit.com/r/javascript/comments/12747wq/we_scanned_every_npm_package_for_malware_with/)
-- [[AskJS] Questionnaire Libraries?](https://www.reddit.com/r/javascript/comments/1270uab/askjs_questionnaire_libraries/)
-- [Imaginary programming: implementation-free TypeScript functions for GPT-powered web development](https://www.reddit.com/r/javascript/comments/126x68t/imaginary_programming_implementationfree/)
-- [Visual Studio Code and GitHub Copilot AI](https://www.reddit.com/r/javascript/comments/126vzi4/visual_studio_code_and_github_copilot_ai/)
-- [Visual Studio Code March 2023](https://www.reddit.com/r/javascript/comments/126vr8p/visual_studio_code_march_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
