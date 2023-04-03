@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Fastest event emitter library in the world](https://www.reddit.com/r/javascript/comments/12a3kbl/fastest_event_emitter_library_in_the_world/)
+- [My first Firefox extension](https://www.reddit.com/r/javascript/comments/129pvxv/my_first_firefox_extension/)
 - [React router&#39;s data utilities are awkward in SPAs](https://www.reddit.com/r/javascript/comments/1294d8k/react_routers_data_utilities_are_awkward_in_spas/)
-- [I made a chrome extension, full in JS that lets you save websites:](https://www.reddit.com/r/javascript/comments/128s6ph/i_made_a_chrome_extension_full_in_js_that_lets/)
+- [The Best Way to Reduce Complex if-else Statements](https://www.reddit.com/r/javascript/comments/128yfja/the_best_way_to_reduce_complex_ifelse_statements/)
 - [Mastering Higher-Order Components in React JS: A Comprehensive Guide](https://www.reddit.com/r/javascript/comments/128r3g1/mastering_higherorder_components_in_react_js_a/)
 - [[AskJS] Modern Yarn has PnP, npm, and pnpm style linking so there&#39;s no need to use npm or pnpm directly](https://www.reddit.com/r/javascript/comments/128oo8t/askjs_modern_yarn_has_pnp_npm_and_pnpm_style/)
 - [EmberCrate - The open collection for all resources on Ember.js](https://www.reddit.com/r/javascript/comments/128n6rj/embercrate_the_open_collection_for_all_resources/)
 - [[AskJS] Yarn vs NPM vs Others in 2023](https://www.reddit.com/r/javascript/comments/128m65k/askjs_yarn_vs_npm_vs_others_in_2023/)
 - [How Will the Future of Web Development Be Affected by Influential New React Docs?](https://www.reddit.com/r/javascript/comments/128jno5/how_will_the_future_of_web_development_be/)
 - [Based on Google Translate + nodejs, a plug-in for online conversion of ts/js/json multilingual files was developed](https://www.reddit.com/r/javascript/comments/128jes8/based_on_google_translate_nodejs_a_plugin_for/)
-- [Showoff Saturday &lpar;April 01, 2023&rpar;](https://www.reddit.com/r/javascript/comments/128e5f7/showoff_saturday_april_01_2023/)
-- [easy-npm - Visual Studio Marketplace](https://www.reddit.com/r/javascript/comments/127ui7s/easynpm_visual_studio_marketplace/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
