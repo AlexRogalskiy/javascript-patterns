@@ -293,7 +293,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 
 <!-- INFOWORLD-POST-LIST:START -->
 - [JetBrains updates IDEs for Java, JavaScript, Ruby](https://www.infoworld.com/article/3692291/jetbrains-updates-ides-for-java-javascript-ruby.html#tk.rss_javascript)
-- [Intro to tRCP: Integrated, full-stack TypeScript](https://www.infoworld.com/article/3690275/intro-to-trcp-integrated-full-stack-typescript.html#tk.rss_javascript)
+- [Intro to tRPC: Integrated, full-stack TypeScript](https://www.infoworld.com/article/3690275/intro-to-trpc-integrated-full-stack-typescript.html#tk.rss_javascript)
 - [Intro to Tauri: The Electron alternative](https://www.infoworld.com/article/3690272/intro-to-tauri-the-electron-alternative.html#tk.rss_javascript)
 - [How to convert Python to JavaScript &lpar;and back again&rpar;](https://www.infoworld.com/article/3209651/how-to-convert-python-to-javascript-and-back-again.html#tk.rss_javascript)
 - [What’s new in TypeScript 5.0](https://www.infoworld.com/article/3686509/whats-new-in-typescript-50.html#tk.rss_javascript)
