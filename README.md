@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Turn your JSON into a database](https://www.reddit.com/r/javascript/comments/12ayc0e/turn_your_json_into_a_database/)
+- [RFC: Angular Signals - the Angular team requests your comments on our plan to adopt signals as a reactive primitive for Angular](https://www.reddit.com/r/javascript/comments/12ar78d/rfc_angular_signals_the_angular_team_requests/)
+- [I made Express to be faster than Fastify &lpar;also NestJS&rpar;](https://www.reddit.com/r/javascript/comments/12akeu5/i_made_express_to_be_faster_than_fastify_also/)
+- [Self Identifying JavaScript Source Maps: The Case for Debug IDs](https://www.reddit.com/r/javascript/comments/12ag42t/self_identifying_javascript_source_maps_the_case/)
+- [I created a Yii2-like framework for Node.js](https://www.reddit.com/r/javascript/comments/12aelzn/i_created_a_yii2like_framework_for_nodejs/)
+- [Storybook 7.0 is here! :tada:](https://www.reddit.com/r/javascript/comments/12ad2a1/storybook_70_is_here_tada/)
+- [React.js: The Documentary](https://www.reddit.com/r/javascript/comments/12a5d9v/reactjs_the_documentary/)
 - [Fastest event emitter library in the world](https://www.reddit.com/r/javascript/comments/12a3kbl/fastest_event_emitter_library_in_the_world/)
 - [My first Firefox extension](https://www.reddit.com/r/javascript/comments/129pvxv/my_first_firefox_extension/)
 - [React router&#39;s data utilities are awkward in SPAs](https://www.reddit.com/r/javascript/comments/1294d8k/react_routers_data_utilities_are_awkward_in_spas/)
-- [The Best Way to Reduce Complex if-else Statements](https://www.reddit.com/r/javascript/comments/128yfja/the_best_way_to_reduce_complex_ifelse_statements/)
-- [Mastering Higher-Order Components in React JS: A Comprehensive Guide](https://www.reddit.com/r/javascript/comments/128r3g1/mastering_higherorder_components_in_react_js_a/)
-- [[AskJS] Modern Yarn has PnP, npm, and pnpm style linking so there&#39;s no need to use npm or pnpm directly](https://www.reddit.com/r/javascript/comments/128oo8t/askjs_modern_yarn_has_pnp_npm_and_pnpm_style/)
-- [EmberCrate - The open collection for all resources on Ember.js](https://www.reddit.com/r/javascript/comments/128n6rj/embercrate_the_open_collection_for_all_resources/)
-- [[AskJS] Yarn vs NPM vs Others in 2023](https://www.reddit.com/r/javascript/comments/128m65k/askjs_yarn_vs_npm_vs_others_in_2023/)
-- [How Will the Future of Web Development Be Affected by Influential New React Docs?](https://www.reddit.com/r/javascript/comments/128jno5/how_will_the_future_of_web_development_be/)
-- [Based on Google Translate + nodejs, a plug-in for online conversion of ts/js/json multilingual files was developed](https://www.reddit.com/r/javascript/comments/128jes8/based_on_google_translate_nodejs_a_plugin_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
