@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Turn your JSON into a database](https://www.reddit.com/r/javascript/comments/12ayc0e/turn_your_json_into_a_database/)
-- [RFC: Angular Signals - the Angular team requests your comments on our plan to adopt signals as a reactive primitive for Angular](https://www.reddit.com/r/javascript/comments/12ar78d/rfc_angular_signals_the_angular_team_requests/)
-- [I made Express to be faster than Fastify &lpar;also NestJS&rpar;](https://www.reddit.com/r/javascript/comments/12akeu5/i_made_express_to_be_faster_than_fastify_also/)
-- [Self Identifying JavaScript Source Maps: The Case for Debug IDs](https://www.reddit.com/r/javascript/comments/12ag42t/self_identifying_javascript_source_maps_the_case/)
-- [I created a Yii2-like framework for Node.js](https://www.reddit.com/r/javascript/comments/12aelzn/i_created_a_yii2like_framework_for_nodejs/)
-- [Storybook 7.0 is here! :tada:](https://www.reddit.com/r/javascript/comments/12ad2a1/storybook_70_is_here_tada/)
-- [React.js: The Documentary](https://www.reddit.com/r/javascript/comments/12a5d9v/reactjs_the_documentary/)
-- [Fastest event emitter library in the world](https://www.reddit.com/r/javascript/comments/12a3kbl/fastest_event_emitter_library_in_the_world/)
-- [My first Firefox extension](https://www.reddit.com/r/javascript/comments/129pvxv/my_first_firefox_extension/)
-- [React router&#39;s data utilities are awkward in SPAs](https://www.reddit.com/r/javascript/comments/1294d8k/react_routers_data_utilities_are_awkward_in_spas/)
+- [GitHub - codingjlu/lyke: Clean HTML compiler](https://www.reddit.com/r/javascript/comments/12c3wl3/github_codingjlulyke_clean_html_compiler/)
+- [[AskJS] Is it industry standard to keep &quot;export&quot; keywords in front of functions for files in production?](https://www.reddit.com/r/javascript/comments/12bxaka/askjs_is_it_industry_standard_to_keep_export/)
+- [Quickfix AI: Search on page better than Chrome Find tool &lpar;FOSS&rpar;](https://www.reddit.com/r/javascript/comments/12bwvpl/quickfix_ai_search_on_page_better_than_chrome/)
+- [Repro: an open-source developer tool for creating replayable bug reports](https://www.reddit.com/r/javascript/comments/12bq5al/repro_an_opensource_developer_tool_for_creating/)
+- [Plane - FOSS and self-hosted JIRA replacement - built with NextJS. This new project has been useful for many folks, sharing it here too.](https://www.reddit.com/r/javascript/comments/12bn6cm/plane_foss_and_selfhosted_jira_replacement_built/)
+- [[AskJS] Probably the most over-engineered Todo app you have ever seen?](https://www.reddit.com/r/javascript/comments/12blyuq/askjs_probably_the_most_overengineered_todo_app/)
+- [Probably the most over-engineered Todo App you have ever seen](https://www.reddit.com/r/javascript/comments/12blds9/probably_the_most_overengineered_todo_app_you/)
+- [Build an automated test suite with 150 tests and 80% code coverage in 30 minutes](https://www.reddit.com/r/javascript/comments/12bkr14/build_an_automated_test_suite_with_150_tests_and/)
+- [Building Beautiful Markdown-Rendered Content with Markdown Parser React](https://www.reddit.com/r/javascript/comments/12bkmm5/building_beautiful_markdownrendered_content_with/)
+- [[AskJS] Are leetcodes good interview questions?](https://www.reddit.com/r/javascript/comments/12bfc4t/askjs_are_leetcodes_good_interview_questions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
