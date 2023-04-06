@@ -292,6 +292,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [ECMAScript 2023 spec for JavaScript adds methods for arrays](https://www.infoworld.com/article/3692809/ecmascript-2023-spec-for-javascript-adds-methods-for-arrays.html#tk.rss_javascript)
+- [The changing world of Java](https://www.infoworld.com/article/3690274/the-changing-world-of-java.html#tk.rss_javascript)
 - [JetBrains updates IDEs for Java, JavaScript, Ruby](https://www.infoworld.com/article/3692291/jetbrains-updates-ides-for-java-javascript-ruby.html#tk.rss_javascript)
 - [Intro to tRPC: Integrated, full-stack TypeScript](https://www.infoworld.com/article/3690275/intro-to-trpc-integrated-full-stack-typescript.html#tk.rss_javascript)
 - [Intro to Tauri: The Electron alternative](https://www.infoworld.com/article/3690272/intro-to-tauri-the-electron-alternative.html#tk.rss_javascript)
@@ -300,8 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [TypeScript 5.0 rebuilt to use ECMAScript modules](https://www.infoworld.com/article/3690342/typescript-50-rebuilt-to-use-ecmascript-modules.html#tk.rss_javascript)
 - [7 awesome JavaScript projects to check out today](https://www.infoworld.com/article/3687616/7-awesome-javascript-projects-to-check-out-today.html#tk.rss_javascript)
 - [Deno adds package.json support](https://www.infoworld.com/article/3689179/deno-adds-package-json-support.html#tk.rss_javascript)
-- [State of JavaScript: A conversation with Sacha Greif](https://www.infoworld.com/article/3688770/state-of-javascript-a-conversation-with-sacha-greif.html#tk.rss_javascript)
-- [Explore Bun.js: The all-in-one JavaScript runtime](https://www.infoworld.com/article/3688330/explore-bunjs-the-all-in-one-javascript-runtime.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
