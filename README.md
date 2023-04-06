@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [GitHub - codingjlu/lyke: Clean HTML compiler](https://www.reddit.com/r/javascript/comments/12c3wl3/github_codingjlulyke_clean_html_compiler/)
-- [[AskJS] Is it industry standard to keep &quot;export&quot; keywords in front of functions for files in production?](https://www.reddit.com/r/javascript/comments/12bxaka/askjs_is_it_industry_standard_to_keep_export/)
-- [Quickfix AI: Search on page better than Chrome Find tool &lpar;FOSS&rpar;](https://www.reddit.com/r/javascript/comments/12bwvpl/quickfix_ai_search_on_page_better_than_chrome/)
-- [Repro: an open-source developer tool for creating replayable bug reports](https://www.reddit.com/r/javascript/comments/12bq5al/repro_an_opensource_developer_tool_for_creating/)
-- [Plane - FOSS and self-hosted JIRA replacement - built with NextJS. This new project has been useful for many folks, sharing it here too.](https://www.reddit.com/r/javascript/comments/12bn6cm/plane_foss_and_selfhosted_jira_replacement_built/)
-- [[AskJS] Probably the most over-engineered Todo app you have ever seen?](https://www.reddit.com/r/javascript/comments/12blyuq/askjs_probably_the_most_overengineered_todo_app/)
-- [Probably the most over-engineered Todo App you have ever seen](https://www.reddit.com/r/javascript/comments/12blds9/probably_the_most_overengineered_todo_app_you/)
-- [Build an automated test suite with 150 tests and 80% code coverage in 30 minutes](https://www.reddit.com/r/javascript/comments/12bkr14/build_an_automated_test_suite_with_150_tests_and/)
-- [Building Beautiful Markdown-Rendered Content with Markdown Parser React](https://www.reddit.com/r/javascript/comments/12bkmm5/building_beautiful_markdownrendered_content_with/)
-- [[AskJS] Are leetcodes good interview questions?](https://www.reddit.com/r/javascript/comments/12bfc4t/askjs_are_leetcodes_good_interview_questions/)
+- [ExpostI use javascript to make a page builder, user will use YAML or JSON to generate component. You can add music, videos, images, and a lot more. Check it out:](https://www.reddit.com/r/javascript/comments/12d3d6r/exposti_use_javascript_to_make_a_page_builder/)
+- [Introducing tmplt - A User Friendly CLI Tool for Creating Projects with Templates](https://www.reddit.com/r/javascript/comments/12d0g9n/introducing_tmplt_a_user_friendly_cli_tool_for/)
+- [Interactive Tutorial for learning the future of Ember.JS](https://www.reddit.com/r/javascript/comments/12cywwl/interactive_tutorial_for_learning_the_future_of/)
+- [Manage your importmaps with ease using the new jspm cli](https://www.reddit.com/r/javascript/comments/12cx64c/manage_your_importmaps_with_ease_using_the_new/)
+- [Rete.js 2 Beta is here! Create visual interfaces and workflows with ease using TypeScript-first approach and flexible customization API](https://www.reddit.com/r/javascript/comments/12cqmzt/retejs_2_beta_is_here_create_visual_interfaces/)
+- [Peko: Featherweight server toolkit for apps on the edge](https://www.reddit.com/r/javascript/comments/12cgkba/peko_featherweight_server_toolkit_for_apps_on_the/)
+- [[AskJS] Scavenger GC evacuation](https://www.reddit.com/r/javascript/comments/12cdsmq/askjs_scavenger_gc_evacuation/)
+- [A step by step guide to Dockerize a React app created using Vite](https://www.reddit.com/r/javascript/comments/12cbtqs/a_step_by_step_guide_to_dockerize_a_react_app/)
+- [WTF Wednesday &lpar;April 05, 2023&rpar;](https://www.reddit.com/r/javascript/comments/12cbiq9/wtf_wednesday_april_05_2023/)
+- [A better javascript cron parser and scheduler](https://www.reddit.com/r/javascript/comments/12cax8o/a_better_javascript_cron_parser_and_scheduler/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
