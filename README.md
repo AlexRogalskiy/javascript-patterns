@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [ExpostI use javascript to make a page builder, user will use YAML or JSON to generate component. You can add music, videos, images, and a lot more. Check it out:](https://www.reddit.com/r/javascript/comments/12d3d6r/exposti_use_javascript_to_make_a_page_builder/)
-- [Introducing tmplt - A User Friendly CLI Tool for Creating Projects with Templates](https://www.reddit.com/r/javascript/comments/12d0g9n/introducing_tmplt_a_user_friendly_cli_tool_for/)
-- [Interactive Tutorial for learning the future of Ember.JS](https://www.reddit.com/r/javascript/comments/12cywwl/interactive_tutorial_for_learning_the_future_of/)
-- [Manage your importmaps with ease using the new jspm cli](https://www.reddit.com/r/javascript/comments/12cx64c/manage_your_importmaps_with_ease_using_the_new/)
-- [Rete.js 2 Beta is here! Create visual interfaces and workflows with ease using TypeScript-first approach and flexible customization API](https://www.reddit.com/r/javascript/comments/12cqmzt/retejs_2_beta_is_here_create_visual_interfaces/)
-- [Peko: Featherweight server toolkit for apps on the edge](https://www.reddit.com/r/javascript/comments/12cgkba/peko_featherweight_server_toolkit_for_apps_on_the/)
-- [[AskJS] Scavenger GC evacuation](https://www.reddit.com/r/javascript/comments/12cdsmq/askjs_scavenger_gc_evacuation/)
-- [A step by step guide to Dockerize a React app created using Vite](https://www.reddit.com/r/javascript/comments/12cbtqs/a_step_by_step_guide_to_dockerize_a_react_app/)
-- [WTF Wednesday &lpar;April 05, 2023&rpar;](https://www.reddit.com/r/javascript/comments/12cbiq9/wtf_wednesday_april_05_2023/)
-- [A better javascript cron parser and scheduler](https://www.reddit.com/r/javascript/comments/12cax8o/a_better_javascript_cron_parser_and_scheduler/)
+- [`kord`, a jazz focused music theory library / ML note detector, now supports web targets via WASM.](https://www.reddit.com/r/javascript/comments/12e2nfr/kord_a_jazz_focused_music_theory_library_ml_note/)
+- [I made an AWS API template using NodeJS with fully automated infrastructure deployment - let me know what you think :&rpar;](https://www.reddit.com/r/javascript/comments/12e2gfw/i_made_an_aws_api_template_using_nodejs_with/)
+- [I made a subtitle engine to allow it support different languages and natively unsupported features](https://www.reddit.com/r/javascript/comments/12dyklw/i_made_a_subtitle_engine_to_allow_it_support/)
+- [No-Upload, Batched Import of Data with SheetJS CE and Livewire](https://www.reddit.com/r/javascript/comments/12dr7hc/noupload_batched_import_of_data_with_sheetjs_ce/)
+- [[AskJS] Should main be dist JS or src JS when publishing to NPM?](https://www.reddit.com/r/javascript/comments/12dqw14/askjs_should_main_be_dist_js_or_src_js_when/)
+- [WebAssembly tail calls](https://www.reddit.com/r/javascript/comments/12dobdz/webassembly_tail_calls/)
+- [ScanLingua: free open source extension for Japanese language learners!](https://www.reddit.com/r/javascript/comments/12dnanj/scanlingua_free_open_source_extension_for/)
+- [The future of headless CMS](https://www.reddit.com/r/javascript/comments/12dmjwy/the_future_of_headless_cms/)
+- [Sorting algorithms visualized with p8g.js](https://www.reddit.com/r/javascript/comments/12dm4x1/sorting_algorithms_visualized_with_p8gjs/)
+- [JavaScript Security: How to Mitigate the Top Risks Now](https://www.reddit.com/r/javascript/comments/12dk4zt/javascript_security_how_to_mitigate_the_top_risks/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
