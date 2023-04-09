@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Ts Writer -- A 1.5Kb template string template engine designated to generate code at runtime.](https://www.reddit.com/r/javascript/comments/12fxye8/ts_writer_a_15kb_template_string_template_engine/)
+- [[AskJS] Monorepo - Releasing an NPM package with a shared libs package inside it?](https://www.reddit.com/r/javascript/comments/12furee/askjs_monorepo_releasing_an_npm_package_with_a/)
+- [[AskJS] Do we really need the ‘export’ keyword](https://www.reddit.com/r/javascript/comments/12ft6x3/askjs_do_we_really_need_the_export_keyword/)
+- [Databerry - Full JS Document Retrieval Platform to connect data to ChatGPT](https://www.reddit.com/r/javascript/comments/12frwz4/databerry_full_js_document_retrieval_platform_to/)
+- [Pli: a small library for creating terminal CLI to interact with your app and automate common tasks like adding new components, modules, reducers etc](https://www.reddit.com/r/javascript/comments/12fozxy/pli_a_small_library_for_creating_terminal_cli_to/)
+- [Javascript futures and Result monads belong together](https://www.reddit.com/r/javascript/comments/12fkwgj/javascript_futures_and_result_monads_belong/)
+- [Ranger: JS Range Syntax for Anything](https://www.reddit.com/r/javascript/comments/12fhuwe/ranger_js_range_syntax_for_anything/)
+- [Showoff Saturday &lpar;April 08, 2023&rpar;](https://www.reddit.com/r/javascript/comments/12feayl/showoff_saturday_april_08_2023/)
 - [How to contribute to a project you have no idea about](https://www.reddit.com/r/javascript/comments/12f13w5/how_to_contribute_to_a_project_you_have_no_idea/)
 - [Bob 0.8.0: Keeping Hot Reloading for React, Vuejs or Svelte Functional](https://www.reddit.com/r/javascript/comments/12epm5w/bob_080_keeping_hot_reloading_for_react_vuejs_or/)
-- [Ditch Create-React-App: Unleash the Power of Reactivize to Level Up Your React Projects](https://www.reddit.com/r/javascript/comments/12eopz5/ditch_createreactapp_unleash_the_power_of/)
-- [List.js - Tiny, invisible and simple, yet powerful and incredibly fast vanilla JavaScript that adds search, sort, filters and flexibility to plain HTML lists, tables, or anything](https://www.reddit.com/r/javascript/comments/12emhn9/listjs_tiny_invisible_and_simple_yet_powerful_and/)
-- [Doodle 0.9.1 makes it easy to add popups and modals to your app](https://www.reddit.com/r/javascript/comments/12em2z8/doodle_091_makes_it_easy_to_add_popups_and_modals/)
-- [GitHub - Paul-G2/copycat-js: A JavaScript implementation of Douglas Hofstadter and Melanie Mitchell&#39;s Copycat program.](https://www.reddit.com/r/javascript/comments/12ejc0z/github_paulg2copycatjs_a_javascript/)
-- [[AskJS] Good quality geometry, vector, etc library?](https://www.reddit.com/r/javascript/comments/12effhc/askjs_good_quality_geometry_vector_etc_library/)
-- [Build a Text-to-Speech component in React](https://www.reddit.com/r/javascript/comments/12ebqdq/build_a_texttospeech_component_in_react/)
-- [`kord`, a jazz focused music theory library / ML note detector, now supports web targets via WASM.](https://www.reddit.com/r/javascript/comments/12e2nfr/kord_a_jazz_focused_music_theory_library_ml_note/)
-- [I made an AWS API template using NodeJS with fully automated infrastructure deployment - let me know what you think :&rpar;](https://www.reddit.com/r/javascript/comments/12e2gfw/i_made_an_aws_api_template_using_nodejs_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
