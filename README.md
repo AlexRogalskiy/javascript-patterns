@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Ts Writer -- A 1.5Kb template string template engine designated to generate code at runtime.](https://www.reddit.com/r/javascript/comments/12fxye8/ts_writer_a_15kb_template_string_template_engine/)
-- [[AskJS] Monorepo - Releasing an NPM package with a shared libs package inside it?](https://www.reddit.com/r/javascript/comments/12furee/askjs_monorepo_releasing_an_npm_package_with_a/)
-- [[AskJS] Do we really need the ‘export’ keyword](https://www.reddit.com/r/javascript/comments/12ft6x3/askjs_do_we_really_need_the_export_keyword/)
-- [Databerry - Full JS Document Retrieval Platform to connect data to ChatGPT](https://www.reddit.com/r/javascript/comments/12frwz4/databerry_full_js_document_retrieval_platform_to/)
-- [Pli: a small library for creating terminal CLI to interact with your app and automate common tasks like adding new components, modules, reducers etc](https://www.reddit.com/r/javascript/comments/12fozxy/pli_a_small_library_for_creating_terminal_cli_to/)
-- [Javascript futures and Result monads belong together](https://www.reddit.com/r/javascript/comments/12fkwgj/javascript_futures_and_result_monads_belong/)
-- [Ranger: JS Range Syntax for Anything](https://www.reddit.com/r/javascript/comments/12fhuwe/ranger_js_range_syntax_for_anything/)
-- [Showoff Saturday &lpar;April 08, 2023&rpar;](https://www.reddit.com/r/javascript/comments/12feayl/showoff_saturday_april_08_2023/)
-- [How to contribute to a project you have no idea about](https://www.reddit.com/r/javascript/comments/12f13w5/how_to_contribute_to_a_project_you_have_no_idea/)
-- [Bob 0.8.0: Keeping Hot Reloading for React, Vuejs or Svelte Functional](https://www.reddit.com/r/javascript/comments/12epm5w/bob_080_keeping_hot_reloading_for_react_vuejs_or/)
+- [[AskJS] Can anyone explain to me why my pure JavaScript function runs on a real web hosting site whereas when I try to host locally on xampp or apache, it doesn&#39;t run at all?](https://www.reddit.com/r/javascript/comments/12gz7bs/askjs_can_anyone_explain_to_me_why_my_pure/)
+- [[AskJS] Best way to hide or exclude private props in typescript when making a library?](https://www.reddit.com/r/javascript/comments/12gx4bu/askjs_best_way_to_hide_or_exclude_private_props/)
+- [How to create a Notion database connected to Nuxt.js as my blog CMS | Development by Pedro Resende](https://www.reddit.com/r/javascript/comments/12gtomo/how_to_create_a_notion_database_connected_to/)
+- [Announcing Lucia 1.0 - A simple and flexible auth library with support for multiple databases and frameworks](https://www.reddit.com/r/javascript/comments/12ggj5t/announcing_lucia_10_a_simple_and_flexible_auth/)
+- [[AskJS] What are your takes on hybrid OOP and FP projects?](https://www.reddit.com/r/javascript/comments/12gggq4/askjs_what_are_your_takes_on_hybrid_oop_and_fp/)
+- [Understanding Object-Oriented Programming Concepts in JavaScript](https://www.reddit.com/r/javascript/comments/12gew9s/understanding_objectoriented_programming_concepts/)
+- [Building RESTful APIs with Node.js and Express](https://www.reddit.com/r/javascript/comments/12get3o/building_restful_apis_with_nodejs_and_express/)
+- [THREEJS Mesh Painting - Paint an Easter egg! &lpar;with GLB export!&rpar;](https://www.reddit.com/r/javascript/comments/12ge337/threejs_mesh_painting_paint_an_easter_egg_with/)
+- [GitHub - QuixFolio/quixfolio: QuixFolio is a website builder that allows you to create your own portfolio resume website quickly and easily. It&#39;s perfect for showcasing your work, skills, and achievements in a professional and visually appealing way.](https://www.reddit.com/r/javascript/comments/12gd63t/github_quixfolioquixfolio_quixfolio_is_a_website/)
+- [Fx - a lightweight jq alternative](https://www.reddit.com/r/javascript/comments/12gcuot/fx_a_lightweight_jq_alternative/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
