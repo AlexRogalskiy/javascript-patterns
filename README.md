@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Can anyone explain to me why my pure JavaScript function runs on a real web hosting site whereas when I try to host locally on xampp or apache, it doesn&#39;t run at all?](https://www.reddit.com/r/javascript/comments/12gz7bs/askjs_can_anyone_explain_to_me_why_my_pure/)
+- [ES2023 candidate source code + spec](https://www.reddit.com/r/javascript/comments/12i2syf/es2023_candidate_source_code_spec/)
+- [Unlocking the True Power of Const with ValueScript](https://www.reddit.com/r/javascript/comments/12hy7ab/unlocking_the_true_power_of_const_with_valuescript/)
+- [React, Visualized](https://www.reddit.com/r/javascript/comments/12htjbk/react_visualized/)
+- [Tools for Navigating JavaScript&#39;s Event Loop](https://www.reddit.com/r/javascript/comments/12hs88w/tools_for_navigating_javascripts_event_loop/)
+- [GitHub - lgrammel/gptagent.js: Build AI Agents with TS/JS](https://www.reddit.com/r/javascript/comments/12hkivw/github_lgrammelgptagentjs_build_ai_agents_with/)
+- [Render multiple lines in canvas and wrap words like textarea do](https://www.reddit.com/r/javascript/comments/12hhgno/render_multiple_lines_in_canvas_and_wrap_words/)
+- [Make your fixed headers appear when the user scrolls up with scroll position and direction using Trig.js](https://www.reddit.com/r/javascript/comments/12hbnac/make_your_fixed_headers_appear_when_the_user/)
 - [[AskJS] Best way to hide or exclude private props in typescript when making a library?](https://www.reddit.com/r/javascript/comments/12gx4bu/askjs_best_way_to_hide_or_exclude_private_props/)
 - [How to create a Notion database connected to Nuxt.js as my blog CMS | Development by Pedro Resende](https://www.reddit.com/r/javascript/comments/12gtomo/how_to_create_a_notion_database_connected_to/)
 - [Announcing Lucia 1.0 - A simple and flexible auth library with support for multiple databases and frameworks](https://www.reddit.com/r/javascript/comments/12ggj5t/announcing_lucia_10_a_simple_and_flexible_auth/)
-- [[AskJS] What are your takes on hybrid OOP and FP projects?](https://www.reddit.com/r/javascript/comments/12gggq4/askjs_what_are_your_takes_on_hybrid_oop_and_fp/)
-- [Understanding Object-Oriented Programming Concepts in JavaScript](https://www.reddit.com/r/javascript/comments/12gew9s/understanding_objectoriented_programming_concepts/)
-- [Building RESTful APIs with Node.js and Express](https://www.reddit.com/r/javascript/comments/12get3o/building_restful_apis_with_nodejs_and_express/)
-- [THREEJS Mesh Painting - Paint an Easter egg! &lpar;with GLB export!&rpar;](https://www.reddit.com/r/javascript/comments/12ge337/threejs_mesh_painting_paint_an_easter_egg_with/)
-- [GitHub - QuixFolio/quixfolio: QuixFolio is a website builder that allows you to create your own portfolio resume website quickly and easily. It&#39;s perfect for showcasing your work, skills, and achievements in a professional and visually appealing way.](https://www.reddit.com/r/javascript/comments/12gd63t/github_quixfolioquixfolio_quixfolio_is_a_website/)
-- [Fx - a lightweight jq alternative](https://www.reddit.com/r/javascript/comments/12gcuot/fx_a_lightweight_jq_alternative/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
