@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [ES2023 candidate source code + spec](https://www.reddit.com/r/javascript/comments/12i2syf/es2023_candidate_source_code_spec/)
-- [Unlocking the True Power of Const with ValueScript](https://www.reddit.com/r/javascript/comments/12hy7ab/unlocking_the_true_power_of_const_with_valuescript/)
-- [React, Visualized](https://www.reddit.com/r/javascript/comments/12htjbk/react_visualized/)
-- [Tools for Navigating JavaScript&#39;s Event Loop](https://www.reddit.com/r/javascript/comments/12hs88w/tools_for_navigating_javascripts_event_loop/)
-- [GitHub - lgrammel/gptagent.js: Build AI Agents with TS/JS](https://www.reddit.com/r/javascript/comments/12hkivw/github_lgrammelgptagentjs_build_ai_agents_with/)
-- [Render multiple lines in canvas and wrap words like textarea do](https://www.reddit.com/r/javascript/comments/12hhgno/render_multiple_lines_in_canvas_and_wrap_words/)
-- [Make your fixed headers appear when the user scrolls up with scroll position and direction using Trig.js](https://www.reddit.com/r/javascript/comments/12hbnac/make_your_fixed_headers_appear_when_the_user/)
-- [[AskJS] Best way to hide or exclude private props in typescript when making a library?](https://www.reddit.com/r/javascript/comments/12gx4bu/askjs_best_way_to_hide_or_exclude_private_props/)
-- [How to create a Notion database connected to Nuxt.js as my blog CMS | Development by Pedro Resende](https://www.reddit.com/r/javascript/comments/12gtomo/how_to_create_a_notion_database_connected_to/)
-- [Announcing Lucia 1.0 - A simple and flexible auth library with support for multiple databases and frameworks](https://www.reddit.com/r/javascript/comments/12ggj5t/announcing_lucia_10_a_simple_and_flexible_auth/)
+- [Express.js vs Koa.js vs Fastify - Performance Benchmark](https://www.reddit.com/r/javascript/comments/12ixh33/expressjs_vs_koajs_vs_fastify_performance/)
+- [Building a faster CI pipeline with Turborepo and pnpm](https://www.reddit.com/r/javascript/comments/12iwdph/building_a_faster_ci_pipeline_with_turborepo_and/)
+- [Making a static site blog with the Next.js &#39;app&#39; directory](https://www.reddit.com/r/javascript/comments/12ivipv/making_a_static_site_blog_with_the_nextjs_app/)
+- [Static-site generation, benefits and how to use it in NextJS](https://www.reddit.com/r/javascript/comments/12inwzc/staticsite_generation_benefits_and_how_to_use_it/)
+- [A small npm package for caching locally / in the cloud](https://www.reddit.com/r/javascript/comments/12inmwg/a_small_npm_package_for_caching_locally_in_the/)
+- [Comparison of the most popular NestJS boilerplates with features table and code review: how to choose a starter kit / boilerplate for your NestJS project](https://www.reddit.com/r/javascript/comments/12imjrm/comparison_of_the_most_popular_nestjs/)
+- [Stream File Uploads to S3 Object Storage and Reduce Costs](https://www.reddit.com/r/javascript/comments/12im4m4/stream_file_uploads_to_s3_object_storage_and/)
+- [Demystifying the push &amp; pull nature of Angular Signals](https://www.reddit.com/r/javascript/comments/12ilf10/demystifying_the_push_pull_nature_of_angular/)
+- [I created a dice game by JS my main focus was DOM manipulation. please check and tell me If I have done anything wrong or if I can improve it more.](https://www.reddit.com/r/javascript/comments/12ilccx/i_created_a_dice_game_by_js_my_main_focus_was_dom/)
+- [Create a useful Newsletter automation with Node and Google Spreadsheet](https://www.reddit.com/r/javascript/comments/12ihcni/create_a_useful_newsletter_automation_with_node/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
