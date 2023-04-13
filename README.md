@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] What job boards do you use?](https://www.reddit.com/r/javascript/comments/12jucpn/askjs_what_job_boards_do_you_use/)
+- [[AskJS] NPM weekly downloads seem odd](https://www.reddit.com/r/javascript/comments/12jpbyu/askjs_npm_weekly_downloads_seem_odd/)
+- [Storybook 7.0 is here!](https://www.reddit.com/r/javascript/comments/12jnjnz/storybook_70_is_here/)
+- [Slow and Steady: Converting Sentry’s Entire Frontend to TypeScript](https://www.reddit.com/r/javascript/comments/12ji7yx/slow_and_steady_converting_sentrys_entire/)
+- [WTF Wednesday &lpar;April 12, 2023&rpar;](https://www.reddit.com/r/javascript/comments/12jdc2j/wtf_wednesday_april_12_2023/)
 - [Express.js vs Koa.js vs Fastify - Performance Benchmark](https://www.reddit.com/r/javascript/comments/12ixh33/expressjs_vs_koajs_vs_fastify_performance/)
 - [Building a faster CI pipeline with Turborepo and pnpm](https://www.reddit.com/r/javascript/comments/12iwdph/building_a_faster_ci_pipeline_with_turborepo_and/)
 - [Making a static site blog with the Next.js &#39;app&#39; directory](https://www.reddit.com/r/javascript/comments/12ivipv/making_a_static_site_blog_with_the_nextjs_app/)
 - [Static-site generation, benefits and how to use it in NextJS](https://www.reddit.com/r/javascript/comments/12inwzc/staticsite_generation_benefits_and_how_to_use_it/)
 - [A small npm package for caching locally / in the cloud](https://www.reddit.com/r/javascript/comments/12inmwg/a_small_npm_package_for_caching_locally_in_the/)
-- [Comparison of the most popular NestJS boilerplates with features table and code review: how to choose a starter kit / boilerplate for your NestJS project](https://www.reddit.com/r/javascript/comments/12imjrm/comparison_of_the_most_popular_nestjs/)
-- [Stream File Uploads to S3 Object Storage and Reduce Costs](https://www.reddit.com/r/javascript/comments/12im4m4/stream_file_uploads_to_s3_object_storage_and/)
-- [Demystifying the push &amp; pull nature of Angular Signals](https://www.reddit.com/r/javascript/comments/12ilf10/demystifying_the_push_pull_nature_of_angular/)
-- [I created a dice game by JS my main focus was DOM manipulation. please check and tell me If I have done anything wrong or if I can improve it more.](https://www.reddit.com/r/javascript/comments/12ilccx/i_created_a_dice_game_by_js_my_main_focus_was_dom/)
-- [Create a useful Newsletter automation with Node and Google Spreadsheet](https://www.reddit.com/r/javascript/comments/12ihcni/create_a_useful_newsletter_automation_with_node/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
