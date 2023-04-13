@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Hands-on with  Java and Wasm](https://www.infoworld.com/article/3692456/hands-on-with-java-and-wasm.html#tk.rss_javascript)
 - [ECMAScript 2023 spec for JavaScript adds methods for arrays](https://www.infoworld.com/article/3692809/ecmascript-2023-spec-for-javascript-adds-methods-for-arrays.html#tk.rss_javascript)
 - [The changing world of Java](https://www.infoworld.com/article/3690274/the-changing-world-of-java.html#tk.rss_javascript)
 - [JetBrains updates IDEs for Java, JavaScript, Ruby](https://www.infoworld.com/article/3692291/jetbrains-updates-ides-for-java-javascript-ruby.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [What’s new in TypeScript 5.0](https://www.infoworld.com/article/3686509/whats-new-in-typescript-50.html#tk.rss_javascript)
 - [TypeScript 5.0 rebuilt to use ECMAScript modules](https://www.infoworld.com/article/3690342/typescript-50-rebuilt-to-use-ecmascript-modules.html#tk.rss_javascript)
 - [7 awesome JavaScript projects to check out today](https://www.infoworld.com/article/3687616/7-awesome-javascript-projects-to-check-out-today.html#tk.rss_javascript)
-- [Deno adds package.json support](https://www.infoworld.com/article/3689179/deno-adds-package-json-support.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
