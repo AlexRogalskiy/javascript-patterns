@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I added thumbhash to my edge worker to dynamically generate tiny placeholder images](https://www.reddit.com/r/javascript/comments/12l0d1n/i_added_thumbhash_to_my_edge_worker_to/)
+- [Visual Studio Code Day 2023](https://www.reddit.com/r/javascript/comments/12ky2oq/visual_studio_code_day_2023/)
+- [Implementing Feature Flags in Angular is easier than you thought it would be](https://www.reddit.com/r/javascript/comments/12krfs5/implementing_feature_flags_in_angular_is_easier/)
+- [My team released a free desktop app, ProtoNative! Easily structure new React Native mobile apps! Demo below, no download necessary!](https://www.reddit.com/r/javascript/comments/12koexy/my_team_released_a_free_desktop_app_protonative/)
+- [Self Identifying JavaScript Source Maps: The Case for Debug IDs](https://www.reddit.com/r/javascript/comments/12kkm1n/self_identifying_javascript_source_maps_the_case/)
+- [A simple and easy-to-understand implementation of Promise/A+ spec for learning.](https://www.reddit.com/r/javascript/comments/12kcmop/a_simple_and_easytounderstand_implementation_of/)
+- [Make unit testing with Typescript a little easier by mocking type objects with Emulative](https://www.reddit.com/r/javascript/comments/12kc145/make_unit_testing_with_typescript_a_little_easier/)
 - [[AskJS] What job boards do you use?](https://www.reddit.com/r/javascript/comments/12jucpn/askjs_what_job_boards_do_you_use/)
 - [[AskJS] NPM weekly downloads seem odd](https://www.reddit.com/r/javascript/comments/12jpbyu/askjs_npm_weekly_downloads_seem_odd/)
 - [Storybook 7.0 is here!](https://www.reddit.com/r/javascript/comments/12jnjnz/storybook_70_is_here/)
-- [Slow and Steady: Converting Sentry’s Entire Frontend to TypeScript](https://www.reddit.com/r/javascript/comments/12ji7yx/slow_and_steady_converting_sentrys_entire/)
-- [WTF Wednesday &lpar;April 12, 2023&rpar;](https://www.reddit.com/r/javascript/comments/12jdc2j/wtf_wednesday_april_12_2023/)
-- [Express.js vs Koa.js vs Fastify - Performance Benchmark](https://www.reddit.com/r/javascript/comments/12ixh33/expressjs_vs_koajs_vs_fastify_performance/)
-- [Building a faster CI pipeline with Turborepo and pnpm](https://www.reddit.com/r/javascript/comments/12iwdph/building_a_faster_ci_pipeline_with_turborepo_and/)
-- [Making a static site blog with the Next.js &#39;app&#39; directory](https://www.reddit.com/r/javascript/comments/12ivipv/making_a_static_site_blog_with_the_nextjs_app/)
-- [Static-site generation, benefits and how to use it in NextJS](https://www.reddit.com/r/javascript/comments/12inwzc/staticsite_generation_benefits_and_how_to_use_it/)
-- [A small npm package for caching locally / in the cloud](https://www.reddit.com/r/javascript/comments/12inmwg/a_small_npm_package_for_caching_locally_in_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
