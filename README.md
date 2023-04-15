@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I added thumbhash to my edge worker to dynamically generate tiny placeholder images](https://www.reddit.com/r/javascript/comments/12l0d1n/i_added_thumbhash_to_my_edge_worker_to/)
-- [Visual Studio Code Day 2023](https://www.reddit.com/r/javascript/comments/12ky2oq/visual_studio_code_day_2023/)
-- [Implementing Feature Flags in Angular is easier than you thought it would be](https://www.reddit.com/r/javascript/comments/12krfs5/implementing_feature_flags_in_angular_is_easier/)
-- [My team released a free desktop app, ProtoNative! Easily structure new React Native mobile apps! Demo below, no download necessary!](https://www.reddit.com/r/javascript/comments/12koexy/my_team_released_a_free_desktop_app_protonative/)
-- [Self Identifying JavaScript Source Maps: The Case for Debug IDs](https://www.reddit.com/r/javascript/comments/12kkm1n/self_identifying_javascript_source_maps_the_case/)
-- [A simple and easy-to-understand implementation of Promise/A+ spec for learning.](https://www.reddit.com/r/javascript/comments/12kcmop/a_simple_and_easytounderstand_implementation_of/)
-- [Make unit testing with Typescript a little easier by mocking type objects with Emulative](https://www.reddit.com/r/javascript/comments/12kc145/make_unit_testing_with_typescript_a_little_easier/)
-- [[AskJS] What job boards do you use?](https://www.reddit.com/r/javascript/comments/12jucpn/askjs_what_job_boards_do_you_use/)
-- [[AskJS] NPM weekly downloads seem odd](https://www.reddit.com/r/javascript/comments/12jpbyu/askjs_npm_weekly_downloads_seem_odd/)
-- [Storybook 7.0 is here!](https://www.reddit.com/r/javascript/comments/12jnjnz/storybook_70_is_here/)
+- [Web Speech API is &lpar;still&rpar; broken on Linux circa 2023](https://www.reddit.com/r/javascript/comments/12mlt7e/web_speech_api_is_still_broken_on_linux_circa_2023/)
+- [Github: jscanify - scan documents and convert them to PDF on your phone WITH JUST JAVASCRIPT](https://www.reddit.com/r/javascript/comments/12mk125/github_jscanify_scan_documents_and_convert_them/)
+- [[AskJS] Best way to handle functions that take many arguments?](https://www.reddit.com/r/javascript/comments/12mbwa0/askjs_best_way_to_handle_functions_that_take_many/)
+- [[AskJS] Frameworkless, functional javascript discord/matrix community?](https://www.reddit.com/r/javascript/comments/12m6k42/askjs_frameworkless_functional_javascript/)
+- [Building Cross Browser Web Extensions in 2023 - The Ultimate Guide](https://www.reddit.com/r/javascript/comments/12m22i0/building_cross_browser_web_extensions_in_2023_the/)
+- [Introducing React Server: A New Way to Write Server-Side Code as TSX Components](https://www.reddit.com/r/javascript/comments/12m1wgw/introducing_react_server_a_new_way_to_write/)
+- [[AskJS] Tracking redirect links within dev tools that aren&#39;t visible with inspector?](https://www.reddit.com/r/javascript/comments/12m1ek3/askjs_tracking_redirect_links_within_dev_tools/)
+- [Optimize Google Cloud BigQuery and Control Cost](https://www.reddit.com/r/javascript/comments/12ly0jl/optimize_google_cloud_bigquery_and_control_cost/)
+- [I coded a Chess Engine in javascript. Please give advice if you have any especially on optimisation of the algorithm or if you know how to return multiple best solutions. Thanks!](https://www.reddit.com/r/javascript/comments/12lww8c/i_coded_a_chess_engine_in_javascript_please_give/)
+- [GitHub: A new open-source real-time TypeScript database with an embedded stateful AppServer based on V8 and RocksDB](https://www.reddit.com/r/javascript/comments/12lwme2/github_a_new_opensource_realtime_typescript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
