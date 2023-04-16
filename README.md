@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I made a free, open source voxel art software in javascript](https://www.reddit.com/r/javascript/comments/12nkq68/i_made_a_free_open_source_voxel_art_software_in/)
+- [Free infinite LP record player made with JavaScript](https://www.reddit.com/r/javascript/comments/12newej/free_infinite_lp_record_player_made_with/)
+- [New official documentation for fast-check](https://www.reddit.com/r/javascript/comments/12ndpus/new_official_documentation_for_fastcheck/)
+- [[AskJS] I love new javascript frameworks and libraries. What are some cool ones?](https://www.reddit.com/r/javascript/comments/12nbn50/askjs_i_love_new_javascript_frameworks_and/)
+- [My first JavaScript application, Simulate cracking a hotel safe. Negative feedback only please.](https://www.reddit.com/r/javascript/comments/12n779o/my_first_javascript_application_simulate_cracking/)
+- [Dynamic radial SVG health bar](https://www.reddit.com/r/javascript/comments/12mz45n/dynamic_radial_svg_health_bar/)
+- [Made a simple Sudoku game](https://www.reddit.com/r/javascript/comments/12mvpmk/made_a_simple_sudoku_game/)
+- [Showoff Saturday &lpar;April 15, 2023&rpar;](https://www.reddit.com/r/javascript/comments/12mtdio/showoff_saturday_april_15_2023/)
+- [[AskJS] What is the state of hot module replacement &lpar;HMR&rpar; in Angular?](https://www.reddit.com/r/javascript/comments/12mnu2l/askjs_what_is_the_state_of_hot_module_replacement/)
 - [Web Speech API is &lpar;still&rpar; broken on Linux circa 2023](https://www.reddit.com/r/javascript/comments/12mlt7e/web_speech_api_is_still_broken_on_linux_circa_2023/)
-- [Github: jscanify - scan documents and convert them to PDF on your phone WITH JUST JAVASCRIPT](https://www.reddit.com/r/javascript/comments/12mk125/github_jscanify_scan_documents_and_convert_them/)
-- [[AskJS] Best way to handle functions that take many arguments?](https://www.reddit.com/r/javascript/comments/12mbwa0/askjs_best_way_to_handle_functions_that_take_many/)
-- [[AskJS] Frameworkless, functional javascript discord/matrix community?](https://www.reddit.com/r/javascript/comments/12m6k42/askjs_frameworkless_functional_javascript/)
-- [Building Cross Browser Web Extensions in 2023 - The Ultimate Guide](https://www.reddit.com/r/javascript/comments/12m22i0/building_cross_browser_web_extensions_in_2023_the/)
-- [Introducing React Server: A New Way to Write Server-Side Code as TSX Components](https://www.reddit.com/r/javascript/comments/12m1wgw/introducing_react_server_a_new_way_to_write/)
-- [[AskJS] Tracking redirect links within dev tools that aren&#39;t visible with inspector?](https://www.reddit.com/r/javascript/comments/12m1ek3/askjs_tracking_redirect_links_within_dev_tools/)
-- [Optimize Google Cloud BigQuery and Control Cost](https://www.reddit.com/r/javascript/comments/12ly0jl/optimize_google_cloud_bigquery_and_control_cost/)
-- [I coded a Chess Engine in javascript. Please give advice if you have any especially on optimisation of the algorithm or if you know how to return multiple best solutions. Thanks!](https://www.reddit.com/r/javascript/comments/12lww8c/i_coded_a_chess_engine_in_javascript_please_give/)
-- [GitHub: A new open-source real-time TypeScript database with an embedded stateful AppServer based on V8 and RocksDB](https://www.reddit.com/r/javascript/comments/12lwme2/github_a_new_opensource_realtime_typescript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
