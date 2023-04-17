@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I made a free, open source voxel art software in javascript](https://www.reddit.com/r/javascript/comments/12nkq68/i_made_a_free_open_source_voxel_art_software_in/)
-- [Free infinite LP record player made with JavaScript](https://www.reddit.com/r/javascript/comments/12newej/free_infinite_lp_record_player_made_with/)
-- [New official documentation for fast-check](https://www.reddit.com/r/javascript/comments/12ndpus/new_official_documentation_for_fastcheck/)
-- [[AskJS] I love new javascript frameworks and libraries. What are some cool ones?](https://www.reddit.com/r/javascript/comments/12nbn50/askjs_i_love_new_javascript_frameworks_and/)
-- [My first JavaScript application, Simulate cracking a hotel safe. Negative feedback only please.](https://www.reddit.com/r/javascript/comments/12n779o/my_first_javascript_application_simulate_cracking/)
-- [Dynamic radial SVG health bar](https://www.reddit.com/r/javascript/comments/12mz45n/dynamic_radial_svg_health_bar/)
-- [Made a simple Sudoku game](https://www.reddit.com/r/javascript/comments/12mvpmk/made_a_simple_sudoku_game/)
-- [Showoff Saturday &lpar;April 15, 2023&rpar;](https://www.reddit.com/r/javascript/comments/12mtdio/showoff_saturday_april_15_2023/)
-- [[AskJS] What is the state of hot module replacement &lpar;HMR&rpar; in Angular?](https://www.reddit.com/r/javascript/comments/12mnu2l/askjs_what_is_the_state_of_hot_module_replacement/)
-- [Web Speech API is &lpar;still&rpar; broken on Linux circa 2023](https://www.reddit.com/r/javascript/comments/12mlt7e/web_speech_api_is_still_broken_on_linux_circa_2023/)
+- [[AskJS] Collaboration on a new node.js Github project](https://www.reddit.com/r/javascript/comments/12ox6yk/askjs_collaboration_on_a_new_nodejs_github_project/)
+- [[AskJS] How do you profile a slow `yarn install`?](https://www.reddit.com/r/javascript/comments/12ouzmo/askjs_how_do_you_profile_a_slow_yarn_install/)
+- [DevTools Panel Code Formatter](https://www.reddit.com/r/javascript/comments/12ood6b/devtools_panel_code_formatter/)
+- [MobX and React Integration for State Management](https://www.reddit.com/r/javascript/comments/12olhyt/mobx_and_react_integration_for_state_management/)
+- [[AskJS] Convincing my team to use NestJs over Java/Spring Boot](https://www.reddit.com/r/javascript/comments/12oimgu/askjs_convincing_my_team_to_use_nestjs_over/)
+- [@initminal/run - Safe &amp; fast code eval in the browser with modern ESM features, dynamic module injection and more...](https://www.reddit.com/r/javascript/comments/12ofq1z/initminalrun_safe_fast_code_eval_in_the_browser/)
+- [Stars Appreciated - Nodejs + Angular + OPENAI Api for Speech to text and Grammar Correction](https://www.reddit.com/r/javascript/comments/12o9ott/stars_appreciated_nodejs_angular_openai_api_for/)
+- [Implementing fetch in node](https://www.reddit.com/r/javascript/comments/12o8u8p/implementing_fetch_in_node/)
+- [[AskJS] Seeking advice on building a secure website for a small business](https://www.reddit.com/r/javascript/comments/12nu84v/askjs_seeking_advice_on_building_a_secure_website/)
+- [Github - scan documents and convert them to PDF with just Javascript](https://www.reddit.com/r/javascript/comments/12ntrad/github_scan_documents_and_convert_them_to_pdf/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
