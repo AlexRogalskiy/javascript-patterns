@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Collaboration on a new node.js Github project](https://www.reddit.com/r/javascript/comments/12ox6yk/askjs_collaboration_on_a_new_nodejs_github_project/)
-- [[AskJS] How do you profile a slow `yarn install`?](https://www.reddit.com/r/javascript/comments/12ouzmo/askjs_how_do_you_profile_a_slow_yarn_install/)
-- [DevTools Panel Code Formatter](https://www.reddit.com/r/javascript/comments/12ood6b/devtools_panel_code_formatter/)
-- [MobX and React Integration for State Management](https://www.reddit.com/r/javascript/comments/12olhyt/mobx_and_react_integration_for_state_management/)
-- [[AskJS] Convincing my team to use NestJs over Java/Spring Boot](https://www.reddit.com/r/javascript/comments/12oimgu/askjs_convincing_my_team_to_use_nestjs_over/)
-- [@initminal/run - Safe &amp; fast code eval in the browser with modern ESM features, dynamic module injection and more...](https://www.reddit.com/r/javascript/comments/12ofq1z/initminalrun_safe_fast_code_eval_in_the_browser/)
-- [Stars Appreciated - Nodejs + Angular + OPENAI Api for Speech to text and Grammar Correction](https://www.reddit.com/r/javascript/comments/12o9ott/stars_appreciated_nodejs_angular_openai_api_for/)
-- [Implementing fetch in node](https://www.reddit.com/r/javascript/comments/12o8u8p/implementing_fetch_in_node/)
-- [[AskJS] Seeking advice on building a secure website for a small business](https://www.reddit.com/r/javascript/comments/12nu84v/askjs_seeking_advice_on_building_a_secure_website/)
-- [Github - scan documents and convert them to PDF with just Javascript](https://www.reddit.com/r/javascript/comments/12ntrad/github_scan_documents_and_convert_them_to_pdf/)
+- [GraphInterest.js Calculate compounding interest with additions](https://www.reddit.com/r/javascript/comments/12q5n6u/graphinterestjs_calculate_compounding_interest/)
+- [kv.js: Fast, in-memory caching module for JavaScript. Inspired by Redis.](https://www.reddit.com/r/javascript/comments/12q3oms/kvjs_fast_inmemory_caching_module_for_javascript/)
+- [[AskJS] Introducing React Server: Bringing React&#39;s Component-Driven Approach to the Backend](https://www.reddit.com/r/javascript/comments/12q30kg/askjs_introducing_react_server_bringing_reacts/)
+- [Higher Order Components in React: Examples with Common Use-case Patterns](https://www.reddit.com/r/javascript/comments/12q0k8q/higher_order_components_in_react_examples_with/)
+- [[AskJS] How to successfully promote a JavaScript open source framework?](https://www.reddit.com/r/javascript/comments/12pxo2f/askjs_how_to_successfully_promote_a_javascript/)
+- [Immer 10.0: faster update perf, smaller bundle size, modern modules!](https://www.reddit.com/r/javascript/comments/12ppuox/immer_100_faster_update_perf_smaller_bundle_size/)
+- [ai.js - ChatGPT4 developed JS front-end framework. This example is quite minimal and can be expanded further to better match the principles and add more functionality. All code has been copied verbatim from ChatGPT window](https://www.reddit.com/r/javascript/comments/12pje41/aijs_chatgpt4_developed_js_frontend_framework/)
+- [EnglishScript - Embed natural language functions alongside your javascript code using LLMs](https://www.reddit.com/r/javascript/comments/12pe90m/englishscript_embed_natural_language_functions/)
+- [Your /r/javascript recap for the week of April 10 - April 16](https://www.reddit.com/r/javascript/comments/12p9dvk/your_rjavascript_recap_for_the_week_of_april_10/)
+- [Is JavaScript Pass by Reference?](https://www.reddit.com/r/javascript/comments/12p3dcq/is_javascript_pass_by_reference/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
