@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [GraphInterest.js Calculate compounding interest with additions](https://www.reddit.com/r/javascript/comments/12q5n6u/graphinterestjs_calculate_compounding_interest/)
-- [kv.js: Fast, in-memory caching module for JavaScript. Inspired by Redis.](https://www.reddit.com/r/javascript/comments/12q3oms/kvjs_fast_inmemory_caching_module_for_javascript/)
-- [[AskJS] Introducing React Server: Bringing React&#39;s Component-Driven Approach to the Backend](https://www.reddit.com/r/javascript/comments/12q30kg/askjs_introducing_react_server_bringing_reacts/)
-- [Higher Order Components in React: Examples with Common Use-case Patterns](https://www.reddit.com/r/javascript/comments/12q0k8q/higher_order_components_in_react_examples_with/)
-- [[AskJS] How to successfully promote a JavaScript open source framework?](https://www.reddit.com/r/javascript/comments/12pxo2f/askjs_how_to_successfully_promote_a_javascript/)
-- [Immer 10.0: faster update perf, smaller bundle size, modern modules!](https://www.reddit.com/r/javascript/comments/12ppuox/immer_100_faster_update_perf_smaller_bundle_size/)
-- [ai.js - ChatGPT4 developed JS front-end framework. This example is quite minimal and can be expanded further to better match the principles and add more functionality. All code has been copied verbatim from ChatGPT window](https://www.reddit.com/r/javascript/comments/12pje41/aijs_chatgpt4_developed_js_frontend_framework/)
-- [EnglishScript - Embed natural language functions alongside your javascript code using LLMs](https://www.reddit.com/r/javascript/comments/12pe90m/englishscript_embed_natural_language_functions/)
-- [Your /r/javascript recap for the week of April 10 - April 16](https://www.reddit.com/r/javascript/comments/12p9dvk/your_rjavascript_recap_for_the_week_of_april_10/)
-- [Is JavaScript Pass by Reference?](https://www.reddit.com/r/javascript/comments/12p3dcq/is_javascript_pass_by_reference/)
+- [Announcing TypeScript 5.1 Beta](https://www.reddit.com/r/javascript/comments/12r8haf/announcing_typescript_51_beta/)
+- [memo vs useMemo in React](https://www.reddit.com/r/javascript/comments/12r03fu/memo_vs_usememo_in_react/)
+- [MicroMesh Micro-frontend Platform](https://www.reddit.com/r/javascript/comments/12qzsnt/micromesh_microfrontend_platform/)
+- [Node.js 20 Now Available - OpenJS Foundation](https://www.reddit.com/r/javascript/comments/12qzclc/nodejs_20_now_available_openjs_foundation/)
+- [Wrote a blog about building gRPC microservices with node and TypeScript. Started writing blogs after 2 years. I have plans to write a series in microservices. Feedback will be appreciated.](https://www.reddit.com/r/javascript/comments/12qyy99/wrote_a_blog_about_building_grpc_microservices/)
+- [Node v20.0.0 &lpar;Current&rpar;](https://www.reddit.com/r/javascript/comments/12qvoi0/node_v2000_current/)
+- [Fast, in-memory caching module for JavaScript. Inspired by Redis.](https://www.reddit.com/r/javascript/comments/12qpghy/fast_inmemory_caching_module_for_javascript/)
+- [PSA: If you were using Directus Cloud&#39;s free tier, you have until the 22nd to retrieve your data before it is wiped.](https://www.reddit.com/r/javascript/comments/12qj1tl/psa_if_you_were_using_directus_clouds_free_tier/)
+- [Dissecting Npm Malware: Five Packages And Their Evil Install Scripts](https://www.reddit.com/r/javascript/comments/12qffgg/dissecting_npm_malware_five_packages_and_their/)
+- [Deploy Your Next.js App Like a Pro: A Step-by-Step Guide using Nginx, PM2, Certbot, and Git on your Linux Server](https://www.reddit.com/r/javascript/comments/12qe6w0/deploy_your_nextjs_app_like_a_pro_a_stepbystep/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
