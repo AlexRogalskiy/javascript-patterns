@@ -381,6 +381,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *NodeSource posts*
 
 <!-- NODESOURCE-POST-LIST:START -->
+- [Strengthening Node.js Security: NodeSource-GitHub Partnership](https://nodesource.com/blog/strengthening-nodejs-security)
 - [Announcing  The NodeSource-GitHub Partnership](https://nodesource.com/blog/announcing-ncm-github-partnership)
 - [Unleashing the Power of NCM: Safeguarding Node.js Applications with Next-Generation Security in N|Solid](https://nodesource.com/blog/unleashing-power-ncm)
 - [Introducing nsuv](https://nodesource.com/blog/intro-nsuv)
@@ -390,7 +391,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Nodesource introduces Machine learning on its N|Solid platform to help make better Node Apps](https://nodesource.com/blog/machine-learning-Nsolid)
 - [Interview With Italo José Core committer at @herbsjs](https://nodesource.com/blog/interview-with-Italo-Jose–NodeSource)
 - [2023 N|Solid Awards: The Top 10 Best Node.js Open Source Projects to Watch](https://nodesource.com/blog/2023-NSolid-Awards)
-- [NODE.JS Retro 2022](https://nodesource.com/blog/Nodejs-Retro-2022)
 <!-- NODESOURCE-POST-LIST:END -->
 
 ### *React Native posts*
