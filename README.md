@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [The fastest word counter in JavaScript](https://www.reddit.com/r/javascript/comments/12tm8id/the_fastest_word_counter_in_javascript/)
-- [How to use useSyncExternalStore in React 18](https://www.reddit.com/r/javascript/comments/12tht28/how_to_use_usesyncexternalstore_in_react_18/)
-- [Babylon.js 6.0 - this new version brings a smorgasbord of performance improvements, rendering enhancements, and exciting new features](https://www.reddit.com/r/javascript/comments/12tgcld/babylonjs_60_this_new_version_brings_a/)
-- [Building a gRPC API with Node.js, Typescript, Prisma, and Connect](https://www.reddit.com/r/javascript/comments/12t8n9x/building_a_grpc_api_with_nodejs_typescript_prisma/)
-- [Made my first free chrome extension, preferred package manager and auto dev dependency for npmjs and yarnpkg install commands](https://www.reddit.com/r/javascript/comments/12t7gqd/made_my_first_free_chrome_extension_preferred/)
-- [We reached v0.10 with Wasp, our open-source React/Node framework: it now has full-stack auth, simple deploy, full-stack types, email sending, db seeding, …](https://www.reddit.com/r/javascript/comments/12t3k6e/we_reached_v010_with_wasp_our_opensource/)
-- [Dynamic List Transitions in Vue](https://www.reddit.com/r/javascript/comments/12swtr2/dynamic_list_transitions_in_vue/)
-- [A Codepen of Interactive Skate Loading](https://www.reddit.com/r/javascript/comments/12sv94t/a_codepen_of_interactive_skate_loading/)
-- [[AskJS] Function in loop declaration performance. Arrow function vs function outside loop](https://www.reddit.com/r/javascript/comments/12ssk45/askjs_function_in_loop_declaration_performance/)
-- [[AskJS] Do you have any recommendations to develop CRUD Apps ?](https://www.reddit.com/r/javascript/comments/12sqtjb/askjs_do_you_have_any_recommendations_to_develop/)
+- [Resizable columns library for flex-based layouts](https://www.reddit.com/r/javascript/comments/12u6fjv/resizable_columns_library_for_flexbased_layouts/)
+- [Vite 4.3 is out](https://www.reddit.com/r/javascript/comments/12u4h8h/vite_43_is_out/)
+- [Side project: The Slot Machine, generates similar to github avatars](https://www.reddit.com/r/javascript/comments/12u3i4c/side_project_the_slot_machine_generates_similar/)
+- [React ForwardRef](https://www.reddit.com/r/javascript/comments/12u2af2/react_forwardref/)
+- [KV.JS: For when you need caching but Redis would be an overkill.](https://www.reddit.com/r/javascript/comments/12u1k2h/kvjs_for_when_you_need_caching_but_redis_would_be/)
+- [Visual regression testing with Turborepo, Next.js &amp; Lost Pixel](https://www.reddit.com/r/javascript/comments/12tzsct/visual_regression_testing_with_turborepo_nextjs/)
+- [GitHub - Hexagon/croner: Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.](https://www.reddit.com/r/javascript/comments/12tynba/github_hexagoncroner_trigger_functions_or/)
+- [A Modern Approach to JavaScript Lifecycle Events](https://www.reddit.com/r/javascript/comments/12twx7w/a_modern_approach_to_javascript_lifecycle_events/)
+- [NestJS fetch secrets from AWS Secrets Manager](https://www.reddit.com/r/javascript/comments/12try00/nestjs_fetch_secrets_from_aws_secrets_manager/)
+- [overengineered algorithm that makes images out of shapes](https://www.reddit.com/r/javascript/comments/12tr5hk/overengineered_algorithm_that_makes_images_out_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
