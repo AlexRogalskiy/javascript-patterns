@@ -322,6 +322,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *YouTube code posts*
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [How Vue.js as a web framework optimises rendering speed](https://www.youtube.com/watch?v=dq30CFdutW8)
+- [Which web framework is better? React? Vue? Angular?](https://www.youtube.com/watch?v=eP15uGbfDAk)
 - [JavaScript Closures in React Hooks](https://www.youtube.com/watch?v=B1j3yeHRKbY)
 - [Rebuild React Hooks yourself for Node](https://www.youtube.com/watch?v=Om33AjwtQ_Y)
 - [JSConf Chile - día 2](https://www.youtube.com/watch?v=BuHaQXCHCMg)
@@ -330,8 +332,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [[Eng Sub]Deno: Next Generation JavaScript Runtime by Yongwook Choi | JSConf Korea 2022](https://www.youtube.com/watch?v=WtQlAzhE3gY)
 - [How I Got 1600 Stars on GitHub in 2 months of Open Source Work by Hung Viet Nguyen|JSConf Korea 2022](https://www.youtube.com/watch?v=1CZjE3cDLbY)
 - [[Eng Sub]Is it Okay to Pursue Functional Programming on Frontend? by Minsu and Changhui|JSConf Korea](https://www.youtube.com/watch?v=IqdvgzV_nms)
-- [[Eng Sub]if &lpar;extensible design&rpar;  return &quot;work life balance&quot; by Jeong Eun Lee | JSConf Korea 2022](https://www.youtube.com/watch?v=eewc_hCvCsg)
-- [React x Web Components : How It Is and How It Could Be by Dwane Hemmings | JSConf Korea 2022](https://www.youtube.com/watch?v=JFotV9Fb6cI)
 <!-- YOUTUBE-POST-LIST:END -->
 
 ### *ReactJS posts*
