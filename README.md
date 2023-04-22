@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [TypeScript rationalizes undefined-returning functions](https://www.infoworld.com/article/3694348/typescript-rationalizes-undefined-returning-functions.html#tk.rss_javascript)
 - [Node.js 20 introduces permissions model](https://www.infoworld.com/article/3694169/nodejs-20-introduces-permissions-model.html#tk.rss_javascript)
 - [The best new CSS features for 2023](https://www.infoworld.com/article/3663513/the-best-new-css-features.html#tk.rss_javascript)
 - [Hands-on with  Java and Wasm](https://www.infoworld.com/article/3692456/hands-on-with-java-and-wasm.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Intro to tRPC: Integrated, full-stack TypeScript](https://www.infoworld.com/article/3690275/intro-to-trpc-integrated-full-stack-typescript.html#tk.rss_javascript)
 - [Intro to Tauri: The Electron alternative](https://www.infoworld.com/article/3690272/intro-to-tauri-the-electron-alternative.html#tk.rss_javascript)
 - [How to convert Python to JavaScript &lpar;and back again&rpar;](https://www.infoworld.com/article/3209651/how-to-convert-python-to-javascript-and-back-again.html#tk.rss_javascript)
-- [What’s new in TypeScript 5.0](https://www.infoworld.com/article/3686509/whats-new-in-typescript-50.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
