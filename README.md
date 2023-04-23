@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Resizable columns library for flex-based layouts](https://www.reddit.com/r/javascript/comments/12u6fjv/resizable_columns_library_for_flexbased_layouts/)
-- [Vite 4.3 is out](https://www.reddit.com/r/javascript/comments/12u4h8h/vite_43_is_out/)
-- [Side project: The Slot Machine, generates similar to github avatars](https://www.reddit.com/r/javascript/comments/12u3i4c/side_project_the_slot_machine_generates_similar/)
-- [React ForwardRef](https://www.reddit.com/r/javascript/comments/12u2af2/react_forwardref/)
-- [KV.JS: For when you need caching but Redis would be an overkill.](https://www.reddit.com/r/javascript/comments/12u1k2h/kvjs_for_when_you_need_caching_but_redis_would_be/)
-- [Visual regression testing with Turborepo, Next.js &amp; Lost Pixel](https://www.reddit.com/r/javascript/comments/12tzsct/visual_regression_testing_with_turborepo_nextjs/)
-- [GitHub - Hexagon/croner: Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.](https://www.reddit.com/r/javascript/comments/12tynba/github_hexagoncroner_trigger_functions_or/)
-- [A Modern Approach to JavaScript Lifecycle Events](https://www.reddit.com/r/javascript/comments/12twx7w/a_modern_approach_to_javascript_lifecycle_events/)
-- [NestJS fetch secrets from AWS Secrets Manager](https://www.reddit.com/r/javascript/comments/12try00/nestjs_fetch_secrets_from_aws_secrets_manager/)
-- [overengineered algorithm that makes images out of shapes](https://www.reddit.com/r/javascript/comments/12tr5hk/overengineered_algorithm_that_makes_images_out_of/)
+- [I made this headless autocomplete library. What do you think? I made it because I needed a custom looking autocomplete component in legacy framework with no good autocomplete libraries available.](https://www.reddit.com/r/javascript/comments/12vroui/i_made_this_headless_autocomplete_library_what_do/)
+- [Discover the top trending JavaScript developers and repositories](https://www.reddit.com/r/javascript/comments/12vlg9i/discover_the_top_trending_javascript_developers/)
+- [build react drag and drop functionality with react DnD library](https://www.reddit.com/r/javascript/comments/12vkvuy/build_react_drag_and_drop_functionality_with/)
+- [How to use React Hook Form to add Form Validation in React](https://www.reddit.com/r/javascript/comments/12vknnu/how_to_use_react_hook_form_to_add_form_validation/)
+- [10 Must-Know JavaScript Questions for Frontend Technical](https://www.reddit.com/r/javascript/comments/12vhv79/10_mustknow_javascript_questions_for_frontend/)
+- [Fixing AI generated pixelart with Javascript](https://www.reddit.com/r/javascript/comments/12ve1r7/fixing_ai_generated_pixelart_with_javascript/)
+- [Support Needed: Localhost Secure Cookie Persistence in Postman](https://www.reddit.com/r/javascript/comments/12v9mgy/support_needed_localhost_secure_cookie/)
+- [Started looking into node test runner, and here is my quick getting started intro to it](https://www.reddit.com/r/javascript/comments/12v6izc/started_looking_into_node_test_runner_and_here_is/)
+- [Logto v1.2.0 - OSS Auth0 Alternative](https://www.reddit.com/r/javascript/comments/12v54pw/logto_v120_oss_auth0_alternative/)
+- [Alright React App: the professional React app generator is back with v2!](https://www.reddit.com/r/javascript/comments/12uzpw2/alright_react_app_the_professional_react_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
