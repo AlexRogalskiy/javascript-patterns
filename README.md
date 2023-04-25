@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] someone stole my discord with a fake link](https://www.reddit.com/r/javascript/comments/12y2iut/askjs_someone_stole_my_discord_with_a_fake_link/)
+- [Rete.js 2: visual programming for React.js, Angular and Vue.js](https://www.reddit.com/r/javascript/comments/12xsjry/retejs_2_visual_programming_for_reactjs_angular/)
+- [[AskJS] What&#39;s your preferred polyfill import/apply convention?](https://www.reddit.com/r/javascript/comments/12xqz11/askjs_whats_your_preferred_polyfill_importapply/)
+- [Chrome Dev Tools can now override response headers including CORS](https://www.reddit.com/r/javascript/comments/12xppm1/chrome_dev_tools_can_now_override_response/)
+- [GitHub - hymhub/css-to-tailwind: Convert CSS code to Tailwindcss syntax in real time](https://www.reddit.com/r/javascript/comments/12xhreu/github_hymhubcsstotailwind_convert_css_code_to/)
+- [Portal: An asymmetric key generator](https://www.reddit.com/r/javascript/comments/12xa1xt/portal_an_asymmetric_key_generator/)
+- [Your /r/javascript recap for the week of April 17 - April 23](https://www.reddit.com/r/javascript/comments/12x9e8r/your_rjavascript_recap_for_the_week_of_april_17/)
+- [The new golden child of JavaScript frameworks: Qwik.js](https://www.reddit.com/r/javascript/comments/12x67eu/the_new_golden_child_of_javascript_frameworks/)
+- [Did You say .npmrc?](https://www.reddit.com/r/javascript/comments/12x5tbn/did_you_say_npmrc/)
 - [multiline-ini: The first javascript INI parser supporting multiline strings.](https://www.reddit.com/r/javascript/comments/12wucwf/multilineini_the_first_javascript_ini_parser/)
-- [How Postgres Triggers Can Simplify Your Backend Development](https://www.reddit.com/r/javascript/comments/12wd5kx/how_postgres_triggers_can_simplify_your_backend/)
-- [@webhelpers/fFormula - A Web Component to make any HTML5 form a fully reactive formormula](https://www.reddit.com/r/javascript/comments/12vy00z/webhelpersfformula_a_web_component_to_make_any/)
-- [WTF is a KDF? Why you should upgrade from pbkdf2 to argon2.](https://www.reddit.com/r/javascript/comments/12vtsvr/wtf_is_a_kdf_why_you_should_upgrade_from_pbkdf2/)
-- [I made this headless autocomplete library. What do you think? I made it because I needed a custom looking autocomplete component in legacy framework with no good autocomplete libraries available.](https://www.reddit.com/r/javascript/comments/12vroui/i_made_this_headless_autocomplete_library_what_do/)
-- [Discover the top trending JavaScript developers and repositories](https://www.reddit.com/r/javascript/comments/12vlg9i/discover_the_top_trending_javascript_developers/)
-- [build react drag and drop functionality with react DnD library](https://www.reddit.com/r/javascript/comments/12vkvuy/build_react_drag_and_drop_functionality_with/)
-- [How to use React Hook Form to add Form Validation in React](https://www.reddit.com/r/javascript/comments/12vknnu/how_to_use_react_hook_form_to_add_form_validation/)
-- [10 Must-Know JavaScript Questions for Frontend Technical](https://www.reddit.com/r/javascript/comments/12vhv79/10_mustknow_javascript_questions_for_frontend/)
-- [Fixing AI generated pixelart with Javascript](https://www.reddit.com/r/javascript/comments/12ve1r7/fixing_ai_generated_pixelart_with_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
