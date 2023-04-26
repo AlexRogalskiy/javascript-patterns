@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] someone stole my discord with a fake link](https://www.reddit.com/r/javascript/comments/12y2iut/askjs_someone_stole_my_discord_with_a_fake_link/)
+- [Vue.js Certification - The official certification of competence for the Vue.js Framework](https://www.reddit.com/r/javascript/comments/12yloe5/vuejs_certification_the_official_certification_of/)
+- [Inconsistent JavaScript imports can lead to duplicate code](https://www.reddit.com/r/javascript/comments/12yiy4g/inconsistent_javascript_imports_can_lead_to/)
+- [Common mistakes to avoid in NextJS server-side rendering](https://www.reddit.com/r/javascript/comments/12yidm4/common_mistakes_to_avoid_in_nextjs_serverside/)
+- [TxJSON – An extension of JSON5 with rich inline type information](https://www.reddit.com/r/javascript/comments/12ycr0s/txjson_an_extension_of_json5_with_rich_inline/)
 - [Rete.js 2: visual programming for React.js, Angular and Vue.js](https://www.reddit.com/r/javascript/comments/12xsjry/retejs_2_visual_programming_for_reactjs_angular/)
 - [[AskJS] What&#39;s your preferred polyfill import/apply convention?](https://www.reddit.com/r/javascript/comments/12xqz11/askjs_whats_your_preferred_polyfill_importapply/)
 - [Chrome Dev Tools can now override response headers including CORS](https://www.reddit.com/r/javascript/comments/12xppm1/chrome_dev_tools_can_now_override_response/)
 - [GitHub - hymhub/css-to-tailwind: Convert CSS code to Tailwindcss syntax in real time](https://www.reddit.com/r/javascript/comments/12xhreu/github_hymhubcsstotailwind_convert_css_code_to/)
 - [Portal: An asymmetric key generator](https://www.reddit.com/r/javascript/comments/12xa1xt/portal_an_asymmetric_key_generator/)
 - [Your /r/javascript recap for the week of April 17 - April 23](https://www.reddit.com/r/javascript/comments/12x9e8r/your_rjavascript_recap_for_the_week_of_april_17/)
-- [The new golden child of JavaScript frameworks: Qwik.js](https://www.reddit.com/r/javascript/comments/12x67eu/the_new_golden_child_of_javascript_frameworks/)
-- [Did You say .npmrc?](https://www.reddit.com/r/javascript/comments/12x5tbn/did_you_say_npmrc/)
-- [multiline-ini: The first javascript INI parser supporting multiline strings.](https://www.reddit.com/r/javascript/comments/12wucwf/multilineini_the_first_javascript_ini_parser/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
