@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Vue.js Certification - The official certification of competence for the Vue.js Framework](https://www.reddit.com/r/javascript/comments/12yloe5/vuejs_certification_the_official_certification_of/)
-- [Inconsistent JavaScript imports can lead to duplicate code](https://www.reddit.com/r/javascript/comments/12yiy4g/inconsistent_javascript_imports_can_lead_to/)
-- [Common mistakes to avoid in NextJS server-side rendering](https://www.reddit.com/r/javascript/comments/12yidm4/common_mistakes_to_avoid_in_nextjs_serverside/)
-- [TxJSON – An extension of JSON5 with rich inline type information](https://www.reddit.com/r/javascript/comments/12ycr0s/txjson_an_extension_of_json5_with_rich_inline/)
-- [Rete.js 2: visual programming for React.js, Angular and Vue.js](https://www.reddit.com/r/javascript/comments/12xsjry/retejs_2_visual_programming_for_reactjs_angular/)
-- [[AskJS] What&#39;s your preferred polyfill import/apply convention?](https://www.reddit.com/r/javascript/comments/12xqz11/askjs_whats_your_preferred_polyfill_importapply/)
-- [Chrome Dev Tools can now override response headers including CORS](https://www.reddit.com/r/javascript/comments/12xppm1/chrome_dev_tools_can_now_override_response/)
-- [GitHub - hymhub/css-to-tailwind: Convert CSS code to Tailwindcss syntax in real time](https://www.reddit.com/r/javascript/comments/12xhreu/github_hymhubcsstotailwind_convert_css_code_to/)
-- [Portal: An asymmetric key generator](https://www.reddit.com/r/javascript/comments/12xa1xt/portal_an_asymmetric_key_generator/)
-- [Your /r/javascript recap for the week of April 17 - April 23](https://www.reddit.com/r/javascript/comments/12x9e8r/your_rjavascript_recap_for_the_week_of_april_17/)
+- [[AskJS] Most bizarre bug I&#39;ve ever come across &lpar;fixed&rpar;](https://www.reddit.com/r/javascript/comments/1303qg9/askjs_most_bizarre_bug_ive_ever_come_across_fixed/)
+- [Web synthesizer that generates sound using smartphone gestures in the space](https://www.reddit.com/r/javascript/comments/1300cf6/web_synthesizer_that_generates_sound_using/)
+- [There is a Node.js Chat GPT Telegram bot that is capable of understanding both text and voice messages.](https://www.reddit.com/r/javascript/comments/12zy7su/there_is_a_nodejs_chat_gpt_telegram_bot_that_is/)
+- [[AskJS] NodeJS framework that use standard request and response](https://www.reddit.com/r/javascript/comments/12ztw19/askjs_nodejs_framework_that_use_standard_request/)
+- [GitHub - Z3r0J/nodejs-clean-architecture: Nodejs Clean Architecture starter project, Using Express + Typeorm](https://www.reddit.com/r/javascript/comments/12zse5f/github_z3r0jnodejscleanarchitecture_nodejs_clean/)
+- [Frontend Observability with Grafana Faro](https://www.reddit.com/r/javascript/comments/12zk2k8/frontend_observability_with_grafana_faro/)
+- [Natural language RegEx powered by A.I.](https://www.reddit.com/r/javascript/comments/12zhcve/natural_language_regex_powered_by_ai/)
+- [file: A simple and easy node.js file handler that uses the fs/promises library for handling files.](https://www.reddit.com/r/javascript/comments/12ze5sw/file_a_simple_and_easy_nodejs_file_handler_that/)
+- [Create scripts in JavaScript with zx](https://www.reddit.com/r/javascript/comments/12zcc94/create_scripts_in_javascript_with_zx/)
+- [The Importance of User Experience in Software Engineering](https://www.reddit.com/r/javascript/comments/12z9ka1/the_importance_of_user_experience_in_software/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
