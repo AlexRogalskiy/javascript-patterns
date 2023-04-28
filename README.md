@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Most bizarre bug I&#39;ve ever come across &lpar;fixed&rpar;](https://www.reddit.com/r/javascript/comments/1303qg9/askjs_most_bizarre_bug_ive_ever_come_across_fixed/)
-- [Web synthesizer that generates sound using smartphone gestures in the space](https://www.reddit.com/r/javascript/comments/1300cf6/web_synthesizer_that_generates_sound_using/)
-- [There is a Node.js Chat GPT Telegram bot that is capable of understanding both text and voice messages.](https://www.reddit.com/r/javascript/comments/12zy7su/there_is_a_nodejs_chat_gpt_telegram_bot_that_is/)
-- [[AskJS] NodeJS framework that use standard request and response](https://www.reddit.com/r/javascript/comments/12ztw19/askjs_nodejs_framework_that_use_standard_request/)
-- [GitHub - Z3r0J/nodejs-clean-architecture: Nodejs Clean Architecture starter project, Using Express + Typeorm](https://www.reddit.com/r/javascript/comments/12zse5f/github_z3r0jnodejscleanarchitecture_nodejs_clean/)
-- [Frontend Observability with Grafana Faro](https://www.reddit.com/r/javascript/comments/12zk2k8/frontend_observability_with_grafana_faro/)
-- [Natural language RegEx powered by A.I.](https://www.reddit.com/r/javascript/comments/12zhcve/natural_language_regex_powered_by_ai/)
-- [file: A simple and easy node.js file handler that uses the fs/promises library for handling files.](https://www.reddit.com/r/javascript/comments/12ze5sw/file_a_simple_and_easy_nodejs_file_handler_that/)
-- [Create scripts in JavaScript with zx](https://www.reddit.com/r/javascript/comments/12zcc94/create_scripts_in_javascript_with_zx/)
-- [The Importance of User Experience in Software Engineering](https://www.reddit.com/r/javascript/comments/12z9ka1/the_importance_of_user_experience_in_software/)
+- [The Interactive Guide to Rendering in React](https://www.reddit.com/r/javascript/comments/1311o84/the_interactive_guide_to_rendering_in_react/)
+- [Observable Plot - The JavaScript library for exploratory data visualization](https://www.reddit.com/r/javascript/comments/130u80b/observable_plot_the_javascript_library_for/)
+- [Minimal Password Manager &lpar;v2.1.0 released&rpar; - Looking for feedback](https://www.reddit.com/r/javascript/comments/130n9rs/minimal_password_manager_v210_released_looking/)
+- [I made a video streaming full-stack application as a side-project using React/Node/Rust. Feel free to take a look at the architecture and give me some feedback/pointes about what I could have done better. Thanks!](https://www.reddit.com/r/javascript/comments/130mryc/i_made_a_video_streaming_fullstack_application_as/)
+- [The Last Dockerfile You Need for NestJS](https://www.reddit.com/r/javascript/comments/130kx7k/the_last_dockerfile_you_need_for_nestjs/)
+- [How to use Pinecone and OpenAI to ChatGPTify your website!](https://www.reddit.com/r/javascript/comments/130k7et/how_to_use_pinecone_and_openai_to_chatgptify_your/)
+- [Nestia, make NestJS super-fast and super-easy &lpar;+tRPC similar&rpar;](https://www.reddit.com/r/javascript/comments/130jlhv/nestia_make_nestjs_superfast_and_supereasy_trpc/)
+- [I made a website to turn package.json into a readable list of dependencies and licenses](https://www.reddit.com/r/javascript/comments/130hhqj/i_made_a_website_to_turn_packagejson_into_a/)
+- [[AskJS] How important is picking the right framework vs just jumping in and learning transferable concepts?](https://www.reddit.com/r/javascript/comments/130f9wp/askjs_how_important_is_picking_the_right/)
+- [PDF visual regression testing with react-pdf](https://www.reddit.com/r/javascript/comments/130dqsn/pdf_visual_regression_testing_with_reactpdf/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
