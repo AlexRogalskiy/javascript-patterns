@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I have created an ecosystem on browser](https://www.reddit.com/r/javascript/comments/13298mi/i_have_created_an_ecosystem_on_browser/)
+- [Web components for custom video players](https://www.reddit.com/r/javascript/comments/1321bpn/web_components_for_custom_video_players/)
+- [Sankey diagram, built using Rete.js](https://www.reddit.com/r/javascript/comments/131scg5/sankey_diagram_built_using_retejs/)
+- [Master property-based testing in JavaScript: A step-by-step tutorial](https://www.reddit.com/r/javascript/comments/131q8zz/master_propertybased_testing_in_javascript_a/)
+- [Read Notion databases using Notion API](https://www.reddit.com/r/javascript/comments/131lvnw/read_notion_databases_using_notion_api/)
+- [[Nestia] Boost up your NestJS server much faster and easier &lpar;maximum 20,000x faster&rpar;](https://www.reddit.com/r/javascript/comments/131jtw6/nestia_boost_up_your_nestjs_server_much_faster/)
 - [The Interactive Guide to Rendering in React](https://www.reddit.com/r/javascript/comments/1311o84/the_interactive_guide_to_rendering_in_react/)
 - [Observable Plot - The JavaScript library for exploratory data visualization](https://www.reddit.com/r/javascript/comments/130u80b/observable_plot_the_javascript_library_for/)
 - [Minimal Password Manager &lpar;v2.1.0 released&rpar; - Looking for feedback](https://www.reddit.com/r/javascript/comments/130n9rs/minimal_password_manager_v210_released_looking/)
 - [I made a video streaming full-stack application as a side-project using React/Node/Rust. Feel free to take a look at the architecture and give me some feedback/pointes about what I could have done better. Thanks!](https://www.reddit.com/r/javascript/comments/130mryc/i_made_a_video_streaming_fullstack_application_as/)
-- [The Last Dockerfile You Need for NestJS](https://www.reddit.com/r/javascript/comments/130kx7k/the_last_dockerfile_you_need_for_nestjs/)
-- [How to use Pinecone and OpenAI to ChatGPTify your website!](https://www.reddit.com/r/javascript/comments/130k7et/how_to_use_pinecone_and_openai_to_chatgptify_your/)
-- [Nestia, make NestJS super-fast and super-easy &lpar;+tRPC similar&rpar;](https://www.reddit.com/r/javascript/comments/130jlhv/nestia_make_nestjs_superfast_and_supereasy_trpc/)
-- [I made a website to turn package.json into a readable list of dependencies and licenses](https://www.reddit.com/r/javascript/comments/130hhqj/i_made_a_website_to_turn_packagejson_into_a/)
-- [[AskJS] How important is picking the right framework vs just jumping in and learning transferable concepts?](https://www.reddit.com/r/javascript/comments/130f9wp/askjs_how_important_is_picking_the_right/)
-- [PDF visual regression testing with react-pdf](https://www.reddit.com/r/javascript/comments/130dqsn/pdf_visual_regression_testing_with_reactpdf/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
