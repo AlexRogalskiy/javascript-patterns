@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What Even Are React Server Components](https://www.reddit.com/r/javascript/comments/133b5nn/what_even_are_react_server_components/)
+- [How to Easily Convert Axios Requests to cURL Commands with axios-curlirize in Node.js and the Browser](https://www.reddit.com/r/javascript/comments/1334gx7/how_to_easily_convert_axios_requests_to_curl/)
+- [Why I Like Using Maps &lpar;and WeakMaps&rpar; for Handling DOM Nodes](https://www.reddit.com/r/javascript/comments/1332o9n/why_i_like_using_maps_and_weakmaps_for_handling/)
+- [GitHub - ericciarla/babyagijs: AI-powered task management system in Javascript](https://www.reddit.com/r/javascript/comments/13323zc/github_ericciarlababyagijs_aipowered_task/)
+- [[AskJS] Webgl: Are there any libraries that makes working with images easier?](https://www.reddit.com/r/javascript/comments/132z5gf/askjs_webgl_are_there_any_libraries_that_makes/)
+- [[AskJS] Advice on how to manage breaking changes in the first versions of a UI Library](https://www.reddit.com/r/javascript/comments/132nnhc/askjs_advice_on_how_to_manage_breaking_changes_in/)
+- [Showoff Saturday &lpar;April 29, 2023&rpar;](https://www.reddit.com/r/javascript/comments/132lsap/showoff_saturday_april_29_2023/)
+- [Use AWS Lambda Response Streaming with Express, Fastify, NestJs, and other frameworks.](https://www.reddit.com/r/javascript/comments/132iu31/use_aws_lambda_response_streaming_with_express/)
 - [I have created an ecosystem on browser](https://www.reddit.com/r/javascript/comments/13298mi/i_have_created_an_ecosystem_on_browser/)
 - [Web components for custom video players](https://www.reddit.com/r/javascript/comments/1321bpn/web_components_for_custom_video_players/)
-- [Sankey diagram, built using Rete.js](https://www.reddit.com/r/javascript/comments/131scg5/sankey_diagram_built_using_retejs/)
-- [Master property-based testing in JavaScript: A step-by-step tutorial](https://www.reddit.com/r/javascript/comments/131q8zz/master_propertybased_testing_in_javascript_a/)
-- [Read Notion databases using Notion API](https://www.reddit.com/r/javascript/comments/131lvnw/read_notion_databases_using_notion_api/)
-- [[Nestia] Boost up your NestJS server much faster and easier &lpar;maximum 20,000x faster&rpar;](https://www.reddit.com/r/javascript/comments/131jtw6/nestia_boost_up_your_nestjs_server_much_faster/)
-- [The Interactive Guide to Rendering in React](https://www.reddit.com/r/javascript/comments/1311o84/the_interactive_guide_to_rendering_in_react/)
-- [Observable Plot - The JavaScript library for exploratory data visualization](https://www.reddit.com/r/javascript/comments/130u80b/observable_plot_the_javascript_library_for/)
-- [Minimal Password Manager &lpar;v2.1.0 released&rpar; - Looking for feedback](https://www.reddit.com/r/javascript/comments/130n9rs/minimal_password_manager_v210_released_looking/)
-- [I made a video streaming full-stack application as a side-project using React/Node/Rust. Feel free to take a look at the architecture and give me some feedback/pointes about what I could have done better. Thanks!](https://www.reddit.com/r/javascript/comments/130mryc/i_made_a_video_streaming_fullstack_application_as/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
