@@ -299,8 +299,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Hands-on with  Java and Wasm](https://www.infoworld.com/article/3692456/hands-on-with-java-and-wasm.html#tk.rss_javascript)
 - [ECMAScript 2023 spec for JavaScript adds methods for arrays](https://www.infoworld.com/article/3692809/ecmascript-2023-spec-for-javascript-adds-methods-for-arrays.html#tk.rss_javascript)
 - [The changing world of Java](https://www.infoworld.com/article/3690274/the-changing-world-of-java.html#tk.rss_javascript)
-- [Intro to tRPC: Integrated, full-stack TypeScript](https://www.infoworld.com/article/3690275/intro-to-trpc-integrated-full-stack-typescript.html#tk.rss_javascript)
 - [JetBrains updates IDEs for Java, JavaScript, Ruby](https://www.infoworld.com/article/3692291/jetbrains-updates-ides-for-java-javascript-ruby.html#tk.rss_javascript)
+- [Intro to tRPC: Integrated, full-stack TypeScript](https://www.infoworld.com/article/3690275/intro-to-trpc-integrated-full-stack-typescript.html#tk.rss_javascript)
 - [Intro to Tauri: The Electron alternative](https://www.infoworld.com/article/3690272/intro-to-tauri-the-electron-alternative.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
