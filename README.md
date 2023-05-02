@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Practical Guide to not Block the Event Loop](https://www.reddit.com/r/javascript/comments/1352idk/practical_guide_to_not_block_the_event_loop/)
+- [[AskJS] seo-friendly pwa nextjs or sveltekit or any other better suggestions](https://www.reddit.com/r/javascript/comments/135214a/askjs_seofriendly_pwa_nextjs_or_sveltekit_or_any/)
+- [GitHub - AJStacy/adze: A library for shaping your JavaScript logs.](https://www.reddit.com/r/javascript/comments/134y5q6/github_ajstacyadze_a_library_for_shaping_your/)
+- [[AskJS] What&#39;s the deal with the fetch API?](https://www.reddit.com/r/javascript/comments/134se1p/askjs_whats_the_deal_with_the_fetch_api/)
+- [GitHub - Stormbooster-sudo/Counties: Counties is a countdown timer for tasks or events. Which comes with a windows widget that displays how much time is left for the tasks or events that should be done on the screen.](https://www.reddit.com/r/javascript/comments/134mhvq/github_stormboostersudocounties_counties_is_a/)
+- [Using Istanbuljs and nyc to Combine Code Coverage Data From Multiple Testing Tools &lpar;Cypress and Jest&rpar;](https://www.reddit.com/r/javascript/comments/134m9s2/using_istanbuljs_and_nyc_to_combine_code_coverage/)
+- [Micro Libraries](https://www.reddit.com/r/javascript/comments/134i72z/micro_libraries/)
+- [Your /r/javascript recap for the week of April 24 - April 30](https://www.reddit.com/r/javascript/comments/134h9zh/your_rjavascript_recap_for_the_week_of_april_24/)
+- [[AskJS] Is it possible to create a &quot;global&quot; variable that&#39;s only available in sub-promises?](https://www.reddit.com/r/javascript/comments/1349w4d/askjs_is_it_possible_to_create_a_global_variable/)
 - [JavaScript import maps are now supported cross-browser](https://www.reddit.com/r/javascript/comments/13494ba/javascript_import_maps_are_now_supported/)
-- [How to use Lambda Expressions in TypeScript](https://www.reddit.com/r/javascript/comments/1347fui/how_to_use_lambda_expressions_in_typescript/)
-- [[AskJS] Any Script out there to like all tweets in a given twitter page?](https://www.reddit.com/r/javascript/comments/1341mvx/askjs_any_script_out_there_to_like_all_tweets_in/)
-- [Say Allo&#39; to the new Inquirer](https://www.reddit.com/r/javascript/comments/1340g0p/say_allo_to_the_new_inquirer/)
-- [Ultimate List of Developer Tools &amp; Resources](https://www.reddit.com/r/javascript/comments/133uzbq/ultimate_list_of_developer_tools_resources/)
-- [GitHub - INeddHelp/Lighter: Lighter is a command-line tool for splitting large files into smaller ones.](https://www.reddit.com/r/javascript/comments/133oxep/github_ineddhelplighter_lighter_is_a_commandline/)
-- [What Even Are React Server Components](https://www.reddit.com/r/javascript/comments/133b5nn/what_even_are_react_server_components/)
-- [How to Easily Convert Axios Requests to cURL Commands with axios-curlirize in Node.js and the Browser](https://www.reddit.com/r/javascript/comments/1334gx7/how_to_easily_convert_axios_requests_to_curl/)
-- [Why I Like Using Maps &lpar;and WeakMaps&rpar; for Handling DOM Nodes](https://www.reddit.com/r/javascript/comments/1332o9n/why_i_like_using_maps_and_weakmaps_for_handling/)
-- [GitHub - ericciarla/babyagijs: AI-powered task management system in Javascript](https://www.reddit.com/r/javascript/comments/13323zc/github_ericciarlababyagijs_aipowered_task/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
