@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Practical Guide to not Block the Event Loop](https://www.reddit.com/r/javascript/comments/1352idk/practical_guide_to_not_block_the_event_loop/)
-- [[AskJS] seo-friendly pwa nextjs or sveltekit or any other better suggestions](https://www.reddit.com/r/javascript/comments/135214a/askjs_seofriendly_pwa_nextjs_or_sveltekit_or_any/)
-- [GitHub - AJStacy/adze: A library for shaping your JavaScript logs.](https://www.reddit.com/r/javascript/comments/134y5q6/github_ajstacyadze_a_library_for_shaping_your/)
-- [[AskJS] What&#39;s the deal with the fetch API?](https://www.reddit.com/r/javascript/comments/134se1p/askjs_whats_the_deal_with_the_fetch_api/)
-- [GitHub - Stormbooster-sudo/Counties: Counties is a countdown timer for tasks or events. Which comes with a windows widget that displays how much time is left for the tasks or events that should be done on the screen.](https://www.reddit.com/r/javascript/comments/134mhvq/github_stormboostersudocounties_counties_is_a/)
-- [Using Istanbuljs and nyc to Combine Code Coverage Data From Multiple Testing Tools &lpar;Cypress and Jest&rpar;](https://www.reddit.com/r/javascript/comments/134m9s2/using_istanbuljs_and_nyc_to_combine_code_coverage/)
-- [Micro Libraries](https://www.reddit.com/r/javascript/comments/134i72z/micro_libraries/)
-- [Your /r/javascript recap for the week of April 24 - April 30](https://www.reddit.com/r/javascript/comments/134h9zh/your_rjavascript_recap_for_the_week_of_april_24/)
-- [[AskJS] Is it possible to create a &quot;global&quot; variable that&#39;s only available in sub-promises?](https://www.reddit.com/r/javascript/comments/1349w4d/askjs_is_it_possible_to_create_a_global_variable/)
-- [JavaScript import maps are now supported cross-browser](https://www.reddit.com/r/javascript/comments/13494ba/javascript_import_maps_are_now_supported/)
+- [[AskJS] I HATE CSS...is there like a gui tool where u can just drag, drop,resize,colour components on a layout to speed uit up?is flowbite/tailwindui the pinnacle of easing through css?](https://www.reddit.com/r/javascript/comments/1363q5n/askjs_i_hate_cssis_there_like_a_gui_tool_where_u/)
+- [Just Published My 3 Controversial Packages &lpar;TypeScript alternative, CrudQL, Key Value DB to Write Queries in JavaScript&rpar;](https://www.reddit.com/r/javascript/comments/136381x/just_published_my_3_controversial_packages/)
+- [Skeleton - The UI toolkit for Svelte and Tailwind. Skeleton allows you to create adaptive and accessible interfaces for web apps of any shape or size &lpar;Designed for Svelte and SvelteKit&rpar;](https://www.reddit.com/r/javascript/comments/1361lac/skeleton_the_ui_toolkit_for_svelte_and_tailwind/)
+- [Qwik 1.0 released](https://www.reddit.com/r/javascript/comments/1360b13/qwik_10_released/)
+- [[AskJS] [Svelte] What is missing from the Svelte ecosystem?](https://www.reddit.com/r/javascript/comments/135zwt7/askjs_svelte_what_is_missing_from_the_svelte/)
+- [How to Fine-Tune an OpenAI ML Model with Node.js](https://www.reddit.com/r/javascript/comments/135vbl3/how_to_finetune_an_openai_ml_model_with_nodejs/)
+- [How to Create a Splash Screen in Next.js](https://www.reddit.com/r/javascript/comments/135utqz/how_to_create_a_splash_screen_in_nextjs/)
+- [Introducing Tempo: low latency, cross-platform, end-to-end typesafe APIs](https://www.reddit.com/r/javascript/comments/135tfsl/introducing_tempo_low_latency_crossplatform/)
+- [[AskJS] best stable free &lpar;framework agnostic*&rpar; ui library?](https://www.reddit.com/r/javascript/comments/135qbd4/askjs_best_stable_free_framework_agnostic_ui/)
+- [Mastering JavaScript Tree-Shaking](https://www.reddit.com/r/javascript/comments/135mdmu/mastering_javascript_treeshaking/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
