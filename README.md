@@ -352,6 +352,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *javascript programmer posts*
 
 <!-- METEOR-POST-LIST:START -->
+- [New Meteor.js 2.12 and the Blaze 2.6.2 Release](https://blog.meteor.com/new-meteor-js-2-12-and-the-blaze-2-6-2-release-b72c2a7a593f?source=rss----a9bcaf865278---4)
 - [Meteor Monthly Update — April 2023](https://blog.meteor.com/meteor-monthly-update-april-2023-2934fe656cee?source=rss----a9bcaf865278---4)
 - [Announcing Extended Support Maintenance for Node.js 14](https://blog.meteor.com/announcing-extended-support-maintenance-for-node-js-14-f9e8381f8bb5?source=rss----a9bcaf865278---4)
 - [Meteor Monthly Update — March 2023](https://blog.meteor.com/meteor-monthly-update-march-2023-d625a3ebc56a?source=rss----a9bcaf865278---4)
@@ -361,7 +362,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [New Meteor 2.11 and the new embedded MongoDB](https://blog.meteor.com/new-meteor-2-11-and-the-new-embedded-mongodb-19767076961b?source=rss----a9bcaf865278---4)
 - [How to Find a Technical Cofounder When You Don’t Know Where to Start](https://blog.meteor.com/how-to-find-a-technical-cofounder-when-you-dont-know-where-to-start-c03484e1b57e?source=rss----a9bcaf865278---4)
 - [Meteor Monthly Update — February 2023](https://blog.meteor.com/meteor-monthly-update-february-2023-578cfe68575b?source=rss----a9bcaf865278---4)
-- [2022 Meteor Hackathon 3rd Place Winners: Team De-Central Budapest](https://blog.meteor.com/2022-meteor-hackathon-3rd-place-winners-team-de-central-budapest-7224a54e8ff6?source=rss----a9bcaf865278---4)
 <!-- METEOR-POST-LIST:END -->
 
 ### *Dreamix posts*
