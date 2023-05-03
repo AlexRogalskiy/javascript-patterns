@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Deno 1.33 debuts built-in key-value database](https://www.infoworld.com/article/3694935/deno-133-debuts-built-in-key-value-database.html#tk.rss_javascript)
 - [How to use async and await in JavaScript](https://www.infoworld.com/article/3328099/javascript-async-and-await-explained.html#tk.rss_javascript)
 - [TypeScript rationalizes undefined-returning functions](https://www.infoworld.com/article/3694348/typescript-rationalizes-undefined-returning-functions.html#tk.rss_javascript)
 - [Node.js 20 introduces permissions model](https://www.infoworld.com/article/3694169/nodejs-20-introduces-permissions-model.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [The changing world of Java](https://www.infoworld.com/article/3690274/the-changing-world-of-java.html#tk.rss_javascript)
 - [JetBrains updates IDEs for Java, JavaScript, Ruby](https://www.infoworld.com/article/3692291/jetbrains-updates-ides-for-java-javascript-ruby.html#tk.rss_javascript)
 - [Intro to tRPC: Integrated, full-stack TypeScript](https://www.infoworld.com/article/3690275/intro-to-trpc-integrated-full-stack-typescript.html#tk.rss_javascript)
-- [Intro to Tauri: The Electron alternative](https://www.infoworld.com/article/3690272/intro-to-tauri-the-electron-alternative.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
