@@ -352,7 +352,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *javascript programmer posts*
 
 <!-- METEOR-POST-LIST:START -->
-- [New Meteor.js 2.12 and the Blaze 2.6.2 Release](https://blog.meteor.com/new-meteor-js-2-12-and-the-blaze-2-6-2-release-b72c2a7a593f?source=rss----a9bcaf865278---4)
+- [New Meteor.js 2.12 and Blaze 2.6.2 Release](https://blog.meteor.com/new-meteor-js-2-12-and-the-blaze-2-6-2-release-b72c2a7a593f?source=rss----a9bcaf865278---4)
 - [Meteor Monthly Update — April 2023](https://blog.meteor.com/meteor-monthly-update-april-2023-2934fe656cee?source=rss----a9bcaf865278---4)
 - [Announcing Extended Support Maintenance for Node.js 14](https://blog.meteor.com/announcing-extended-support-maintenance-for-node-js-14-f9e8381f8bb5?source=rss----a9bcaf865278---4)
 - [Meteor Monthly Update — March 2023](https://blog.meteor.com/meteor-monthly-update-march-2023-d625a3ebc56a?source=rss----a9bcaf865278---4)
