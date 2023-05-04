@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] I HATE CSS...is there like a gui tool where u can just drag, drop,resize,colour components on a layout to speed uit up?is flowbite/tailwindui the pinnacle of easing through css?](https://www.reddit.com/r/javascript/comments/1363q5n/askjs_i_hate_cssis_there_like_a_gui_tool_where_u/)
-- [Just Published My 3 Controversial Packages &lpar;TypeScript alternative, CrudQL, Key Value DB to Write Queries in JavaScript&rpar;](https://www.reddit.com/r/javascript/comments/136381x/just_published_my_3_controversial_packages/)
-- [Skeleton - The UI toolkit for Svelte and Tailwind. Skeleton allows you to create adaptive and accessible interfaces for web apps of any shape or size &lpar;Designed for Svelte and SvelteKit&rpar;](https://www.reddit.com/r/javascript/comments/1361lac/skeleton_the_ui_toolkit_for_svelte_and_tailwind/)
-- [Qwik 1.0 released](https://www.reddit.com/r/javascript/comments/1360b13/qwik_10_released/)
-- [[AskJS] [Svelte] What is missing from the Svelte ecosystem?](https://www.reddit.com/r/javascript/comments/135zwt7/askjs_svelte_what_is_missing_from_the_svelte/)
-- [How to Fine-Tune an OpenAI ML Model with Node.js](https://www.reddit.com/r/javascript/comments/135vbl3/how_to_finetune_an_openai_ml_model_with_nodejs/)
-- [How to Create a Splash Screen in Next.js](https://www.reddit.com/r/javascript/comments/135utqz/how_to_create_a_splash_screen_in_nextjs/)
-- [Introducing Tempo: low latency, cross-platform, end-to-end typesafe APIs](https://www.reddit.com/r/javascript/comments/135tfsl/introducing_tempo_low_latency_crossplatform/)
-- [[AskJS] best stable free &lpar;framework agnostic*&rpar; ui library?](https://www.reddit.com/r/javascript/comments/135qbd4/askjs_best_stable_free_framework_agnostic_ui/)
-- [Mastering JavaScript Tree-Shaking](https://www.reddit.com/r/javascript/comments/135mdmu/mastering_javascript_treeshaking/)
+- [[AskJS] i wanna use svelte but i find UI libraries to be far better in react/vue&lpar;MUI,chakra,mantine,ant,etc&rpar;...anyway i can use those libraries in svelte?](https://www.reddit.com/r/javascript/comments/1374xtt/askjs_i_wanna_use_svelte_but_i_find_ui_libraries/)
+- [The Market for Lemons](https://www.reddit.com/r/javascript/comments/1371rtz/the_market_for_lemons/)
+- [Visual Studio Code April 2023](https://www.reddit.com/r/javascript/comments/1370eui/visual_studio_code_april_2023/)
+- [Visually programmed Chatbot powered by Rete.js 2](https://www.reddit.com/r/javascript/comments/13705x1/visually_programmed_chatbot_powered_by_retejs_2/)
+- [Angular v16 is here](https://www.reddit.com/r/javascript/comments/136yv75/angular_v16_is_here/)
+- [[AskJS] UI libraries either backed by enterprises/quick fix of issues/has almost no issues with default styling that is customizable](https://www.reddit.com/r/javascript/comments/136x76l/askjs_ui_libraries_either_backed_by/)
+- [[AskJS] How do you like to index sparse data by number in Javascript?](https://www.reddit.com/r/javascript/comments/136wo4c/askjs_how_do_you_like_to_index_sparse_data_by/)
+- [[AskJS] which is enterprise&#39;s favourite?the java equivalent for frontend framework?-backward compatibility,stability,etc](https://www.reddit.com/r/javascript/comments/136vixh/askjs_which_is_enterprises_favouritethe_java/)
+- [How to Add Web Push Notifications to Your Site](https://www.reddit.com/r/javascript/comments/136sgt0/how_to_add_web_push_notifications_to_your_site/)
+- [How to open source code from a private monorepo](https://www.reddit.com/r/javascript/comments/136ppd4/how_to_open_source_code_from_a_private_monorepo/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
