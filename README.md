@@ -277,8 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Popular free/opensource front end javascript global error handlers, with good react support?](https://www.reddit.com/r/javascript/comments/1390739/askjs_popular_freeopensource_front_end_javascript/)
+- [[AskJS] Is There Daylight Between Lexical and SlateJS?](https://www.reddit.com/r/javascript/comments/138s7fi/askjs_is_there_daylight_between_lexical_and/)
 - [Configuring ESLint, Prettier, and TypeScript Together | Josh Goldberg](https://www.reddit.com/r/javascript/comments/137v6f2/configuring_eslint_prettier_and_typescript/)
-- [Static site generation - when to use it &amp; when not to](https://www.reddit.com/r/javascript/comments/137shr7/static_site_generation_when_to_use_it_when_not_to/)
 - [Next.js 13.4 with stable App Router](https://www.reddit.com/r/javascript/comments/137s34h/nextjs_134_with_stable_app_router/)
 - [Mischievous NPM Packages Make Native Javascript Functions Non-deterministic](https://www.reddit.com/r/javascript/comments/137r35h/mischievous_npm_packages_make_native_javascript/)
 - [Understanding the Performance Impact of Generated JavaScript](https://www.reddit.com/r/javascript/comments/137lt7z/understanding_the_performance_impact_of_generated/)
@@ -286,7 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Your Jest tests might be wrong](https://www.reddit.com/r/javascript/comments/13799aa/your_jest_tests_might_be_wrong/)
 - [Termino.js: A JavaScript library that enables you to easily integrate a powerful, extendable, and intuitive command line interpreter into your webpage.](https://www.reddit.com/r/javascript/comments/1376sfs/terminojs_a_javascript_library_that_enables_you/)
 - [[AskJS] i wanna use svelte but i find UI libraries to be far better in react/vue&lpar;MUI,chakra,mantine,ant,etc&rpar;...anyway i can use those libraries in svelte?](https://www.reddit.com/r/javascript/comments/1374xtt/askjs_i_wanna_use_svelte_but_i_find_ui_libraries/)
-- [The Market for Lemons](https://www.reddit.com/r/javascript/comments/1371rtz/the_market_for_lemons/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
