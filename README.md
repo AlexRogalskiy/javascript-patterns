@@ -322,6 +322,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *YouTube code posts*
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [Jsconf India Online 2023 - Pre Event Virtual Meetup](https://www.youtube.com/watch?v=eY2lmQ8o3EI)
 - [How Vue.js as a web framework optimises rendering speed](https://www.youtube.com/watch?v=dq30CFdutW8)
 - [Which web framework is better? React? Vue? Angular?](https://www.youtube.com/watch?v=eP15uGbfDAk)
 - [JavaScript Closures in React Hooks](https://www.youtube.com/watch?v=B1j3yeHRKbY)
@@ -331,7 +332,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Art in the times of Machine Learning and AI](https://www.youtube.com/watch?v=IO540bD5UJg)
 - [[Eng Sub]Deno: Next Generation JavaScript Runtime by Yongwook Choi | JSConf Korea 2022](https://www.youtube.com/watch?v=WtQlAzhE3gY)
 - [How I Got 1600 Stars on GitHub in 2 months of Open Source Work by Hung Viet Nguyen|JSConf Korea 2022](https://www.youtube.com/watch?v=1CZjE3cDLbY)
-- [[Eng Sub]Is it Okay to Pursue Functional Programming on Frontend? by Minsu and Changhui|JSConf Korea](https://www.youtube.com/watch?v=IqdvgzV_nms)
 <!-- YOUTUBE-POST-LIST:END -->
 
 ### *ReactJS posts*
