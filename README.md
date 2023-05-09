@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What is the most efficient way to deep clone an object?](https://www.reddit.com/r/javascript/comments/13b8joz/what_is_the_most_efficient_way_to_deep_clone_an/)
+- [Introducing jscanify v1.1.0: scan documents and convert them to PDF with just Javascript - now works in Node!](https://www.reddit.com/r/javascript/comments/13cae7f/introducing_jscanify_v110_scan_documents_and/)
+- [[AskJS] Frameworks are often unnecessary &lpar;i got the suspicion by watching some YouTube videos that who advocates for frameworks and against vanilla JavaScript at the same time did not learn vanilla web technologies very well&rpar; what do you think? &lpar;Read the body&rpar;](https://www.reddit.com/r/javascript/comments/13c77dn/askjs_frameworks_are_often_unnecessary_i_got_the/)
+- [Auto Copilot CLI](https://www.reddit.com/r/javascript/comments/13c3qam/auto_copilot_cli/)
+- [React Aria Components - a library of unstyled components built on top of the React Aria hooks. It provides a simpler way to build accessible components with custom styles, while offering the flexibility to drop down to hooks for even more customizability where needed](https://www.reddit.com/r/javascript/comments/13bvebk/react_aria_components_a_library_of_unstyled/)
+- [[AskJS] Anyone run into linting issues in your IDE due to antivirus software i.e. Crowdstrike?](https://www.reddit.com/r/javascript/comments/13bq1dx/askjs_anyone_run_into_linting_issues_in_your_ide/)
+- [Stokado is a library that serves as a syntax sugar for storage, providing support for serialization, subscription-based listening, expiration setting, and one-time value.](https://www.reddit.com/r/javascript/comments/13bowbd/stokado_is_a_library_that_serves_as_a_syntax/)
+- [Chris James -HTMX is the Future](https://www.reddit.com/r/javascript/comments/13bnaeu/chris_james_htmx_is_the_future/)
+- [Working with dates in JavaScript and TypeScript: Explore the datenow-ts package&#39;s six function for date creation, formatting, modification, duration calculation, span retrieval, and comparison.](https://www.reddit.com/r/javascript/comments/13bjgvo/working_with_dates_in_javascript_and_typescript/)
 - [NPM-package rdx-loadable to set and read entities status](https://www.reddit.com/r/javascript/comments/13aujrb/npmpackage_rdxloadable_to_set_and_read_entities/)
 - [Pull to refresh from scratch as a React hook](https://www.reddit.com/r/javascript/comments/13amaqh/pull_to_refresh_from_scratch_as_a_react_hook/)
-- [[AskJS] Looking for Opinions about a Hypothetical Type Check](https://www.reddit.com/r/javascript/comments/13a5hff/askjs_looking_for_opinions_about_a_hypothetical/)
-- [[AskJS] Unit testing API wrapper](https://www.reddit.com/r/javascript/comments/139zk9l/askjs_unit_testing_api_wrapper/)
-- [[AskJS] Any js browser based p2p libraries?](https://www.reddit.com/r/javascript/comments/139sd83/askjs_any_js_browser_based_p2p_libraries/)
-- [[AskJS] The hardest part of programming...](https://www.reddit.com/r/javascript/comments/139qos4/askjs_the_hardest_part_of_programming/)
-- [I wrote JOSN, a command-line JSON browser](https://www.reddit.com/r/javascript/comments/139ljwk/i_wrote_josn_a_commandline_json_browser/)
-- [[Nestia] I made automatic e2e test functions generator for NestJS](https://www.reddit.com/r/javascript/comments/139gkp3/nestia_i_made_automatic_e2e_test_functions/)
-- [Showoff Saturday &lpar;May 06, 2023&rpar;](https://www.reddit.com/r/javascript/comments/139f5ub/showoff_saturday_may_06_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
