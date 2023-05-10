@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The Reasons Behind JavaScript’s Success](https://www.reddit.com/r/javascript/comments/13dchbg/the_reasons_behind_javascripts_success/)
+- [I built a routing-controllers alternative that supports serverless environments](https://www.reddit.com/r/javascript/comments/13d2wy2/i_built_a_routingcontrollers_alternative_that/)
+- [spotifly - Spotify library in typescript without using the Spotify Web API.](https://www.reddit.com/r/javascript/comments/13d2vvk/spotifly_spotify_library_in_typescript_without/)
+- [[AskJS] Do you prefer to use an if block or &amp;&amp; for a condition?](https://www.reddit.com/r/javascript/comments/13d204z/askjs_do_you_prefer_to_use_an_if_block_or_for_a/)
+- [[AskJS] Is there a silver bullet for consuming Typescript libraries in a Monorepo?](https://www.reddit.com/r/javascript/comments/13cpiy1/askjs_is_there_a_silver_bullet_for_consuming/)
+- [Your APM is bluffing. It doesn’t know your Node.js app latency](https://www.reddit.com/r/javascript/comments/13cm3ll/your_apm_is_bluffing_it_doesnt_know_your_nodejs/)
+- [[AskJS] Advantages of Rollup over other bundlers for creating libraries?](https://www.reddit.com/r/javascript/comments/13ckrgz/askjs_advantages_of_rollup_over_other_bundlers/)
 - [Introducing jscanify v1.1.0: scan documents and convert them to PDF with just Javascript - now works in Node!](https://www.reddit.com/r/javascript/comments/13cae7f/introducing_jscanify_v110_scan_documents_and/)
 - [[AskJS] Frameworks are often unnecessary &lpar;i got the suspicion by watching some YouTube videos that who advocates for frameworks and against vanilla JavaScript at the same time did not learn vanilla web technologies very well&rpar; what do you think? &lpar;Read the body&rpar;](https://www.reddit.com/r/javascript/comments/13c77dn/askjs_frameworks_are_often_unnecessary_i_got_the/)
-- [Auto Copilot CLI](https://www.reddit.com/r/javascript/comments/13c3qam/auto_copilot_cli/)
 - [React Aria Components - a library of unstyled components built on top of the React Aria hooks. It provides a simpler way to build accessible components with custom styles, while offering the flexibility to drop down to hooks for even more customizability where needed](https://www.reddit.com/r/javascript/comments/13bvebk/react_aria_components_a_library_of_unstyled/)
-- [[AskJS] Anyone run into linting issues in your IDE due to antivirus software i.e. Crowdstrike?](https://www.reddit.com/r/javascript/comments/13bq1dx/askjs_anyone_run_into_linting_issues_in_your_ide/)
-- [Stokado is a library that serves as a syntax sugar for storage, providing support for serialization, subscription-based listening, expiration setting, and one-time value.](https://www.reddit.com/r/javascript/comments/13bowbd/stokado_is_a_library_that_serves_as_a_syntax/)
-- [Chris James -HTMX is the Future](https://www.reddit.com/r/javascript/comments/13bnaeu/chris_james_htmx_is_the_future/)
-- [Working with dates in JavaScript and TypeScript: Explore the datenow-ts package&#39;s six function for date creation, formatting, modification, duration calculation, span retrieval, and comparison.](https://www.reddit.com/r/javascript/comments/13bjgvo/working_with_dates_in_javascript_and_typescript/)
-- [NPM-package rdx-loadable to set and read entities status](https://www.reddit.com/r/javascript/comments/13aujrb/npmpackage_rdxloadable_to_set_and_read_entities/)
-- [Pull to refresh from scratch as a React hook](https://www.reddit.com/r/javascript/comments/13amaqh/pull_to_refresh_from_scratch_as_a_react_hook/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
