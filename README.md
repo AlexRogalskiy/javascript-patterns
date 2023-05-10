@@ -367,6 +367,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Dreamix posts*
 
 <!-- DREAMIX-POST-LIST:START -->
+- [Building Your First NestJS Application: A Step-by-Step Guide](https://dreamix.eu/blog/javascript/building-your-first-nestjs-application-a-step-by-step-guide)
 - [Node.js Project Structure: A Short Guide](https://dreamix.eu/blog/frontpage/node-js-project-structure-a-short-guide)
 - [Should I consider Node.js for my project: 5 benefits](https://dreamix.eu/blog/javascript/should-i-consider-node-js-for-my-project-5-benefits)
 - [TypeScript – not everything that glitters is gold](https://dreamix.eu/blog/javascript/typescript-not-everything-that-glitters-is-gold)
