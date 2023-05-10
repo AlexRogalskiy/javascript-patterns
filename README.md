@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Next.js rearchitects router for smoother server-side rendering](https://www.infoworld.com/article/3695595/nextjs-rearchitects-router-for-smoother-server-side-rendering.html#tk.rss_javascript)
 - [Angular 16 previews new reactivity model](https://www.infoworld.com/article/3695589/angular-16-previews-new-reactivity-model.html#tk.rss_javascript)
 - [A practical guide to React Native authentication](https://www.infoworld.com/article/3695169/a-practical-guide-to-react-native-authentication.html#tk.rss_javascript)
 - [JavaScript callbacks, promises, and async/await explained](https://www.infoworld.com/article/3322904/asynchronous-javascript-callbacks-and-promises-explained.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Node.js 20 introduces permissions model](https://www.infoworld.com/article/3694169/nodejs-20-introduces-permissions-model.html#tk.rss_javascript)
 - [The best new CSS features for 2023](https://www.infoworld.com/article/3663513/the-best-new-css-features.html#tk.rss_javascript)
 - [Hands-on with  Java and Wasm](https://www.infoworld.com/article/3692456/hands-on-with-java-and-wasm.html#tk.rss_javascript)
-- [ECMAScript 2023 spec for JavaScript adds methods for arrays](https://www.infoworld.com/article/3692809/ecmascript-2023-spec-for-javascript-adds-methods-for-arrays.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
