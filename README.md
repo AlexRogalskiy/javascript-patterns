@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [The Reasons Behind JavaScript’s Success](https://www.reddit.com/r/javascript/comments/13dchbg/the_reasons_behind_javascripts_success/)
-- [I built a routing-controllers alternative that supports serverless environments](https://www.reddit.com/r/javascript/comments/13d2wy2/i_built_a_routingcontrollers_alternative_that/)
-- [spotifly - Spotify library in typescript without using the Spotify Web API.](https://www.reddit.com/r/javascript/comments/13d2vvk/spotifly_spotify_library_in_typescript_without/)
-- [[AskJS] Do you prefer to use an if block or &amp;&amp; for a condition?](https://www.reddit.com/r/javascript/comments/13d204z/askjs_do_you_prefer_to_use_an_if_block_or_for_a/)
-- [[AskJS] Is there a silver bullet for consuming Typescript libraries in a Monorepo?](https://www.reddit.com/r/javascript/comments/13cpiy1/askjs_is_there_a_silver_bullet_for_consuming/)
-- [Your APM is bluffing. It doesn’t know your Node.js app latency](https://www.reddit.com/r/javascript/comments/13cm3ll/your_apm_is_bluffing_it_doesnt_know_your_nodejs/)
-- [[AskJS] Advantages of Rollup over other bundlers for creating libraries?](https://www.reddit.com/r/javascript/comments/13ckrgz/askjs_advantages_of_rollup_over_other_bundlers/)
-- [Introducing jscanify v1.1.0: scan documents and convert them to PDF with just Javascript - now works in Node!](https://www.reddit.com/r/javascript/comments/13cae7f/introducing_jscanify_v110_scan_documents_and/)
-- [[AskJS] Frameworks are often unnecessary &lpar;i got the suspicion by watching some YouTube videos that who advocates for frameworks and against vanilla JavaScript at the same time did not learn vanilla web technologies very well&rpar; what do you think? &lpar;Read the body&rpar;](https://www.reddit.com/r/javascript/comments/13c77dn/askjs_frameworks_are_often_unnecessary_i_got_the/)
-- [React Aria Components - a library of unstyled components built on top of the React Aria hooks. It provides a simpler way to build accessible components with custom styles, while offering the flexibility to drop down to hooks for even more customizability where needed](https://www.reddit.com/r/javascript/comments/13bvebk/react_aria_components_a_library_of_unstyled/)
+- [[AskJS] How to visually represent warehouse space utilization?](https://www.reddit.com/r/javascript/comments/13e9i67/askjs_how_to_visually_represent_warehouse_space/)
+- [Announcing Dilav](https://www.reddit.com/r/javascript/comments/13e8wji/announcing_dilav/)
+- [ES2023 introduces new array copying methods to JavaScript](https://www.reddit.com/r/javascript/comments/13e6r2j/es2023_introduces_new_array_copying_methods_to/)
+- [Browser compatible javascript library for OpenAI/ChatGPT API](https://www.reddit.com/r/javascript/comments/13e4hr3/browser_compatible_javascript_library_for/)
+- [CozyApi: Simplify Your Api Servers Using Decorators with Pure JS &lpar;experimental, first version&rpar;](https://www.reddit.com/r/javascript/comments/13e1pri/cozyapi_simplify_your_api_servers_using/)
+- [GitHub - larswaechter/voici.js: A Node.js library for pretty printing your data on the terminal](https://www.reddit.com/r/javascript/comments/13dyfu5/github_larswaechtervoicijs_a_nodejs_library_for/)
+- [staticHL: convert dynamically styled code to static html+css](https://www.reddit.com/r/javascript/comments/13du04i/statichl_convert_dynamically_styled_code_to/)
+- [Metz is a visualizer that I am building with the aim to create playgrounds on the fly using nothing but code.](https://www.reddit.com/r/javascript/comments/13dstlh/metz_is_a_visualizer_that_i_am_building_with_the/)
+- [Garph - Fullstack Open-Source GraphQL framework for TypeScript](https://www.reddit.com/r/javascript/comments/13dq4ce/garph_fullstack_opensource_graphql_framework_for/)
+- [Why and How to Upgrade React From v16.x to v18.x &lpar;and different upgrade approaches&rpar;](https://www.reddit.com/r/javascript/comments/13dpcee/why_and_how_to_upgrade_react_from_v16x_to_v18x/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
