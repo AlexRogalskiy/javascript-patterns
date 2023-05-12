@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] How to visually represent warehouse space utilization?](https://www.reddit.com/r/javascript/comments/13e9i67/askjs_how_to_visually_represent_warehouse_space/)
-- [Announcing Dilav](https://www.reddit.com/r/javascript/comments/13e8wji/announcing_dilav/)
-- [ES2023 introduces new array copying methods to JavaScript](https://www.reddit.com/r/javascript/comments/13e6r2j/es2023_introduces_new_array_copying_methods_to/)
-- [Browser compatible javascript library for OpenAI/ChatGPT API](https://www.reddit.com/r/javascript/comments/13e4hr3/browser_compatible_javascript_library_for/)
-- [CozyApi: Simplify Your Api Servers Using Decorators with Pure JS &lpar;experimental, first version&rpar;](https://www.reddit.com/r/javascript/comments/13e1pri/cozyapi_simplify_your_api_servers_using/)
-- [GitHub - larswaechter/voici.js: A Node.js library for pretty printing your data on the terminal](https://www.reddit.com/r/javascript/comments/13dyfu5/github_larswaechtervoicijs_a_nodejs_library_for/)
-- [staticHL: convert dynamically styled code to static html+css](https://www.reddit.com/r/javascript/comments/13du04i/statichl_convert_dynamically_styled_code_to/)
-- [Metz is a visualizer that I am building with the aim to create playgrounds on the fly using nothing but code.](https://www.reddit.com/r/javascript/comments/13dstlh/metz_is_a_visualizer_that_i_am_building_with_the/)
-- [Garph - Fullstack Open-Source GraphQL framework for TypeScript](https://www.reddit.com/r/javascript/comments/13dq4ce/garph_fullstack_opensource_graphql_framework_for/)
-- [Why and How to Upgrade React From v16.x to v18.x &lpar;and different upgrade approaches&rpar;](https://www.reddit.com/r/javascript/comments/13dpcee/why_and_how_to_upgrade_react_from_v16x_to_v18x/)
+- [jQuery 3.7.0 is now available - This release has it all: bug fixes, a new method, and a performance improvement. We even dropped our longtime selector engine: Sizzle](https://www.reddit.com/r/javascript/comments/13f0u0z/jquery_370_is_now_available_this_release_has_it/)
+- [p8g 0.9.0 - 2D graphics library for C, C++, Java, JavaScript and TypeScript](https://www.reddit.com/r/javascript/comments/13eztqy/p8g_090_2d_graphics_library_for_c_c_java/)
+- [Time zones for developers](https://www.reddit.com/r/javascript/comments/13eyonr/time_zones_for_developers/)
+- [Friend &amp; I built a production debugging &amp; monitoring alternative to Datadog &amp; New Relic](https://www.reddit.com/r/javascript/comments/13es587/friend_i_built_a_production_debugging_monitoring/)
+- [[AskJS] Cross-Platform Desktop/Web App &lpar;with same codebase&rpar; - NextJS and Electron?](https://www.reddit.com/r/javascript/comments/13eqs5s/askjs_crossplatform_desktopweb_app_with_same/)
+- [[AskJS] I replaced date-fns library with moment-timezone library.](https://www.reddit.com/r/javascript/comments/13eq2fy/askjs_i_replaced_datefns_library_with/)
+- [History of JavaScript Frameworks](https://www.reddit.com/r/javascript/comments/13eodzb/history_of_javascript_frameworks/)
+- [NoSQL vs. SQL - cutting through the Tech Twitter noise with a real-world JS use case](https://www.reddit.com/r/javascript/comments/13eo1sq/nosql_vs_sql_cutting_through_the_tech_twitter/)
+- [Windows 11 in Svelte](https://www.reddit.com/r/javascript/comments/13eo13e/windows_11_in_svelte/)
+- [Announcing Vue 3.3 | The Vue Point](https://www.reddit.com/r/javascript/comments/13ein62/announcing_vue_33_the_vue_point/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
