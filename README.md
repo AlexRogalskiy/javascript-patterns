@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [jQuery 3.7.0 is now available - This release has it all: bug fixes, a new method, and a performance improvement. We even dropped our longtime selector engine: Sizzle](https://www.reddit.com/r/javascript/comments/13f0u0z/jquery_370_is_now_available_this_release_has_it/)
-- [p8g 0.9.0 - 2D graphics library for C, C++, Java, JavaScript and TypeScript](https://www.reddit.com/r/javascript/comments/13eztqy/p8g_090_2d_graphics_library_for_c_c_java/)
-- [Time zones for developers](https://www.reddit.com/r/javascript/comments/13eyonr/time_zones_for_developers/)
-- [Friend &amp; I built a production debugging &amp; monitoring alternative to Datadog &amp; New Relic](https://www.reddit.com/r/javascript/comments/13es587/friend_i_built_a_production_debugging_monitoring/)
-- [[AskJS] Cross-Platform Desktop/Web App &lpar;with same codebase&rpar; - NextJS and Electron?](https://www.reddit.com/r/javascript/comments/13eqs5s/askjs_crossplatform_desktopweb_app_with_same/)
-- [[AskJS] I replaced date-fns library with moment-timezone library.](https://www.reddit.com/r/javascript/comments/13eq2fy/askjs_i_replaced_datefns_library_with/)
-- [History of JavaScript Frameworks](https://www.reddit.com/r/javascript/comments/13eodzb/history_of_javascript_frameworks/)
-- [NoSQL vs. SQL - cutting through the Tech Twitter noise with a real-world JS use case](https://www.reddit.com/r/javascript/comments/13eo1sq/nosql_vs_sql_cutting_through_the_tech_twitter/)
-- [Windows 11 in Svelte](https://www.reddit.com/r/javascript/comments/13eo13e/windows_11_in_svelte/)
-- [Announcing Vue 3.3 | The Vue Point](https://www.reddit.com/r/javascript/comments/13ein62/announcing_vue_33_the_vue_point/)
+- [educational React Serverless OpenAI App that combines ChatGPT and DALL-E](https://www.reddit.com/r/javascript/comments/13g352s/educational_react_serverless_openai_app_that/)
+- [Check out React Server, a new approach to build your backend with TSX Components](https://www.reddit.com/r/javascript/comments/13fycwz/check_out_react_server_a_new_approach_to_build/)
+- [How to Convert Web to PDF Using Javascript? | APITier Blog](https://www.reddit.com/r/javascript/comments/13fwsmn/how_to_convert_web_to_pdf_using_javascript/)
+- [For the love of distributed monoliths](https://www.reddit.com/r/javascript/comments/13fu455/for_the_love_of_distributed_monoliths/)
+- [Tune Tangle - A short format web quiz/game to test your and your friend&#39;s musical knowledge - feedback/suggestions welcome!](https://www.reddit.com/r/javascript/comments/13frqos/tune_tangle_a_short_format_web_quizgame_to_test/)
+- [Introducing Deopt Explorer - An Analysis Tool for Polymorphism and Deoptimizations in V8](https://www.reddit.com/r/javascript/comments/13fr62i/introducing_deopt_explorer_an_analysis_tool_for/)
+- [VanJS: This 1.2kB framework enables Reactive UI programming without React/JSX](https://www.reddit.com/r/javascript/comments/13fo8ow/vanjs_this_12kb_framework_enables_reactive_ui/)
+- [Reducing Time Spent in CI to Almost Nothing with Nx Cloud](https://www.reddit.com/r/javascript/comments/13fl6wb/reducing_time_spent_in_ci_to_almost_nothing_with/)
+- [Would this code work in extracting data from multiple pdfs that have the same outline?](https://www.reddit.com/r/javascript/comments/13fhltr/would_this_code_work_in_extracting_data_from/)
+- [The JavaScript Ecosystem is Delightfully Weird](https://www.reddit.com/r/javascript/comments/13fdz2b/the_javascript_ecosystem_is_delightfully_weird/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
