@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Listening for Key Sequences in JavaScript](https://www.reddit.com/r/javascript/comments/13gl08v/listening_for_key_sequences_in_javascript/)
+- [Node Test Runner: Assertion Cheat Sheet](https://www.reddit.com/r/javascript/comments/13gk203/node_test_runner_assertion_cheat_sheet/)
+- [Showoff Saturday &lpar;May 13, 2023&rpar;](https://www.reddit.com/r/javascript/comments/13ga29r/showoff_saturday_may_13_2023/)
+- [Diagram editor dgrm.net / Announcement / Header, bold, forward / backward](https://www.reddit.com/r/javascript/comments/13g9c17/diagram_editor_dgrmnet_announcement_header_bold/)
 - [educational React Serverless OpenAI App that combines ChatGPT and DALL-E](https://www.reddit.com/r/javascript/comments/13g352s/educational_react_serverless_openai_app_that/)
 - [Check out React Server, a new approach to build your backend with TSX Components](https://www.reddit.com/r/javascript/comments/13fycwz/check_out_react_server_a_new_approach_to_build/)
-- [How to Convert Web to PDF Using Javascript? | APITier Blog](https://www.reddit.com/r/javascript/comments/13fwsmn/how_to_convert_web_to_pdf_using_javascript/)
 - [For the love of distributed monoliths](https://www.reddit.com/r/javascript/comments/13fu455/for_the_love_of_distributed_monoliths/)
 - [Tune Tangle - A short format web quiz/game to test your and your friend&#39;s musical knowledge - feedback/suggestions welcome!](https://www.reddit.com/r/javascript/comments/13frqos/tune_tangle_a_short_format_web_quizgame_to_test/)
 - [Introducing Deopt Explorer - An Analysis Tool for Polymorphism and Deoptimizations in V8](https://www.reddit.com/r/javascript/comments/13fr62i/introducing_deopt_explorer_an_analysis_tool_for/)
 - [VanJS: This 1.2kB framework enables Reactive UI programming without React/JSX](https://www.reddit.com/r/javascript/comments/13fo8ow/vanjs_this_12kb_framework_enables_reactive_ui/)
-- [Reducing Time Spent in CI to Almost Nothing with Nx Cloud](https://www.reddit.com/r/javascript/comments/13fl6wb/reducing_time_spent_in_ci_to_almost_nothing_with/)
-- [Would this code work in extracting data from multiple pdfs that have the same outline?](https://www.reddit.com/r/javascript/comments/13fhltr/would_this_code_work_in_extracting_data_from/)
-- [The JavaScript Ecosystem is Delightfully Weird](https://www.reddit.com/r/javascript/comments/13fdz2b/the_javascript_ecosystem_is_delightfully_weird/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
