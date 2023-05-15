@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Listening for Key Sequences in JavaScript](https://www.reddit.com/r/javascript/comments/13gl08v/listening_for_key_sequences_in_javascript/)
-- [Node Test Runner: Assertion Cheat Sheet](https://www.reddit.com/r/javascript/comments/13gk203/node_test_runner_assertion_cheat_sheet/)
-- [Showoff Saturday &lpar;May 13, 2023&rpar;](https://www.reddit.com/r/javascript/comments/13ga29r/showoff_saturday_may_13_2023/)
-- [Diagram editor dgrm.net / Announcement / Header, bold, forward / backward](https://www.reddit.com/r/javascript/comments/13g9c17/diagram_editor_dgrmnet_announcement_header_bold/)
-- [educational React Serverless OpenAI App that combines ChatGPT and DALL-E](https://www.reddit.com/r/javascript/comments/13g352s/educational_react_serverless_openai_app_that/)
-- [Check out React Server, a new approach to build your backend with TSX Components](https://www.reddit.com/r/javascript/comments/13fycwz/check_out_react_server_a_new_approach_to_build/)
-- [For the love of distributed monoliths](https://www.reddit.com/r/javascript/comments/13fu455/for_the_love_of_distributed_monoliths/)
-- [Tune Tangle - A short format web quiz/game to test your and your friend&#39;s musical knowledge - feedback/suggestions welcome!](https://www.reddit.com/r/javascript/comments/13frqos/tune_tangle_a_short_format_web_quizgame_to_test/)
-- [Introducing Deopt Explorer - An Analysis Tool for Polymorphism and Deoptimizations in V8](https://www.reddit.com/r/javascript/comments/13fr62i/introducing_deopt_explorer_an_analysis_tool_for/)
-- [VanJS: This 1.2kB framework enables Reactive UI programming without React/JSX](https://www.reddit.com/r/javascript/comments/13fo8ow/vanjs_this_12kb_framework_enables_reactive_ui/)
+- [[AskJS] How would you go about exchanging SDP without a signaling server?](https://www.reddit.com/r/javascript/comments/13hs6bj/askjs_how_would_you_go_about_exchanging_sdp/)
+- [I learned how to write ChatGPT plugins with JavaScript and open-sourced it for others. Game Deal Genie helps you find games on sale with ChatGPT](https://www.reddit.com/r/javascript/comments/13hrvvk/i_learned_how_to_write_chatgpt_plugins_with/)
+- [Texpress: My first attempt to creating an open source project!](https://www.reddit.com/r/javascript/comments/13hn1qc/texpress_my_first_attempt_to_creating_an_open/)
+- [[AskJS] am I the only one who thinks that jest/vitest feel utterly broken compared to ava?](https://www.reddit.com/r/javascript/comments/13hmmzt/askjs_am_i_the_only_one_who_thinks_that/)
+- [An open source text editor in the browser using the File System Access API](https://www.reddit.com/r/javascript/comments/13hk8bi/an_open_source_text_editor_in_the_browser_using/)
+- [ES2023 features list!](https://www.reddit.com/r/javascript/comments/13helu2/es2023_features_list/)
+- [[AskJS] Trying to create. Dynamic DAG; any ideas?](https://www.reddit.com/r/javascript/comments/13hdxjz/askjs_trying_to_create_dynamic_dag_any_ideas/)
+- [Let&#39;s build a Pub-Sub in TypeScript](https://www.reddit.com/r/javascript/comments/13h8sgw/lets_build_a_pubsub_in_typescript/)
+- [[AskJS] An interesting thing I just learned: how object destructuring interacts with the prototype chain](https://www.reddit.com/r/javascript/comments/13h5k4k/askjs_an_interesting_thing_i_just_learned_how/)
+- [Updating and Supporting URL Parameters in JavaScript](https://www.reddit.com/r/javascript/comments/13h47v0/updating_and_supporting_url_parameters_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
