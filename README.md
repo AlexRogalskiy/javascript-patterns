@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] How would you go about exchanging SDP without a signaling server?](https://www.reddit.com/r/javascript/comments/13hs6bj/askjs_how_would_you_go_about_exchanging_sdp/)
-- [I learned how to write ChatGPT plugins with JavaScript and open-sourced it for others. Game Deal Genie helps you find games on sale with ChatGPT](https://www.reddit.com/r/javascript/comments/13hrvvk/i_learned_how_to_write_chatgpt_plugins_with/)
-- [Texpress: My first attempt to creating an open source project!](https://www.reddit.com/r/javascript/comments/13hn1qc/texpress_my_first_attempt_to_creating_an_open/)
-- [[AskJS] am I the only one who thinks that jest/vitest feel utterly broken compared to ava?](https://www.reddit.com/r/javascript/comments/13hmmzt/askjs_am_i_the_only_one_who_thinks_that/)
-- [An open source text editor in the browser using the File System Access API](https://www.reddit.com/r/javascript/comments/13hk8bi/an_open_source_text_editor_in_the_browser_using/)
-- [ES2023 features list!](https://www.reddit.com/r/javascript/comments/13helu2/es2023_features_list/)
-- [[AskJS] Trying to create. Dynamic DAG; any ideas?](https://www.reddit.com/r/javascript/comments/13hdxjz/askjs_trying_to_create_dynamic_dag_any_ideas/)
-- [Let&#39;s build a Pub-Sub in TypeScript](https://www.reddit.com/r/javascript/comments/13h8sgw/lets_build_a_pubsub_in_typescript/)
-- [[AskJS] An interesting thing I just learned: how object destructuring interacts with the prototype chain](https://www.reddit.com/r/javascript/comments/13h5k4k/askjs_an_interesting_thing_i_just_learned_how/)
-- [Updating and Supporting URL Parameters in JavaScript](https://www.reddit.com/r/javascript/comments/13h47v0/updating_and_supporting_url_parameters_in/)
+- [How to Build a Key Generator with TypeScript](https://www.reddit.com/r/javascript/comments/13in6rs/how_to_build_a_key_generator_with_typescript/)
+- [ts2typebox - generate TypeBox code from your Typescript code](https://www.reddit.com/r/javascript/comments/13ij6vl/ts2typebox_generate_typebox_code_from_your/)
+- [[AskJS] Are there any good design to code tools?](https://www.reddit.com/r/javascript/comments/13ihsnf/askjs_are_there_any_good_design_to_code_tools/)
+- [I built a WebGL music visualizer that integrates with both Spotify and Audius.](https://www.reddit.com/r/javascript/comments/13ig4rd/i_built_a_webgl_music_visualizer_that_integrates/)
+- [Using feature flags in JavaScript](https://www.reddit.com/r/javascript/comments/13idncn/using_feature_flags_in_javascript/)
+- [Proxify - Using Netlify as a Proxy Server](https://www.reddit.com/r/javascript/comments/13icw1d/proxify_using_netlify_as_a_proxy_server/)
+- [An ESlint plugin for consistent filename and folder naming. Allows you to enforce a consistent naming pattern for the filename and folder.](https://www.reddit.com/r/javascript/comments/13i9ja8/an_eslint_plugin_for_consistent_filename_and/)
+- [Reken - Fast reactive HTML compliant web pages without virtual DOM overhead or the need for build tools](https://www.reddit.com/r/javascript/comments/13i9bgh/reken_fast_reactive_html_compliant_web_pages/)
+- [Routup - HTTP Routing Framework](https://www.reddit.com/r/javascript/comments/13i8nvb/routup_http_routing_framework/)
+- [Prisma VS TypeORM - description of both and comparison with pros and cons](https://www.reddit.com/r/javascript/comments/13i6qw9/prisma_vs_typeorm_description_of_both_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
