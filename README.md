@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Node.js Crypto Trading For Beginners](https://www.reddit.com/r/javascript/comments/13jl8xr/nodejs_crypto_trading_for_beginners/)
+- [rsaryev/auto-copilot-cli: This is a CLI tool for generating tests, refactoring code, chatting with AI, generating and executing shell commands, and translating natural language to SQL.](https://www.reddit.com/r/javascript/comments/13jjng0/rsaryevautocopilotcli_this_is_a_cli_tool_for/)
+- [Mastering JavaScript Tree-Shaking](https://www.reddit.com/r/javascript/comments/13je2x6/mastering_javascript_treeshaking/)
+- [Github: CLI Time Tracker with Natural Language Input](https://www.reddit.com/r/javascript/comments/13jbah8/github_cli_time_tracker_with_natural_language/)
+- [GitHub - Barqawiz/IntelliNode: Unified access to various AI models, such as ChatGPT, Diffusion, Cohere, and others, using a few Javascript lines.](https://www.reddit.com/r/javascript/comments/13j0fsg/github_barqawizintellinode_unified_access_to/)
+- [Get full type support with plain JavaScript](https://www.reddit.com/r/javascript/comments/13izta5/get_full_type_support_with_plain_javascript/)
 - [How to Build a Key Generator with TypeScript](https://www.reddit.com/r/javascript/comments/13in6rs/how_to_build_a_key_generator_with_typescript/)
 - [ts2typebox - generate TypeBox code from your Typescript code](https://www.reddit.com/r/javascript/comments/13ij6vl/ts2typebox_generate_typebox_code_from_your/)
 - [[AskJS] Are there any good design to code tools?](https://www.reddit.com/r/javascript/comments/13ihsnf/askjs_are_there_any_good_design_to_code_tools/)
-- [I built a WebGL music visualizer that integrates with both Spotify and Audius.](https://www.reddit.com/r/javascript/comments/13ig4rd/i_built_a_webgl_music_visualizer_that_integrates/)
 - [Using feature flags in JavaScript](https://www.reddit.com/r/javascript/comments/13idncn/using_feature_flags_in_javascript/)
-- [Proxify - Using Netlify as a Proxy Server](https://www.reddit.com/r/javascript/comments/13icw1d/proxify_using_netlify_as_a_proxy_server/)
-- [An ESlint plugin for consistent filename and folder naming. Allows you to enforce a consistent naming pattern for the filename and folder.](https://www.reddit.com/r/javascript/comments/13i9ja8/an_eslint_plugin_for_consistent_filename_and/)
-- [Reken - Fast reactive HTML compliant web pages without virtual DOM overhead or the need for build tools](https://www.reddit.com/r/javascript/comments/13i9bgh/reken_fast_reactive_html_compliant_web_pages/)
-- [Routup - HTTP Routing Framework](https://www.reddit.com/r/javascript/comments/13i8nvb/routup_http_routing_framework/)
-- [Prisma VS TypeORM - description of both and comparison with pros and cons](https://www.reddit.com/r/javascript/comments/13i6qw9/prisma_vs_typeorm_description_of_both_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
