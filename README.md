@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Node.js Crypto Trading For Beginners](https://www.reddit.com/r/javascript/comments/13jl8xr/nodejs_crypto_trading_for_beginners/)
-- [rsaryev/auto-copilot-cli: This is a CLI tool for generating tests, refactoring code, chatting with AI, generating and executing shell commands, and translating natural language to SQL.](https://www.reddit.com/r/javascript/comments/13jjng0/rsaryevautocopilotcli_this_is_a_cli_tool_for/)
-- [Mastering JavaScript Tree-Shaking](https://www.reddit.com/r/javascript/comments/13je2x6/mastering_javascript_treeshaking/)
-- [Github: CLI Time Tracker with Natural Language Input](https://www.reddit.com/r/javascript/comments/13jbah8/github_cli_time_tracker_with_natural_language/)
-- [GitHub - Barqawiz/IntelliNode: Unified access to various AI models, such as ChatGPT, Diffusion, Cohere, and others, using a few Javascript lines.](https://www.reddit.com/r/javascript/comments/13j0fsg/github_barqawizintellinode_unified_access_to/)
-- [Get full type support with plain JavaScript](https://www.reddit.com/r/javascript/comments/13izta5/get_full_type_support_with_plain_javascript/)
-- [How to Build a Key Generator with TypeScript](https://www.reddit.com/r/javascript/comments/13in6rs/how_to_build_a_key_generator_with_typescript/)
-- [ts2typebox - generate TypeBox code from your Typescript code](https://www.reddit.com/r/javascript/comments/13ij6vl/ts2typebox_generate_typebox_code_from_your/)
-- [[AskJS] Are there any good design to code tools?](https://www.reddit.com/r/javascript/comments/13ihsnf/askjs_are_there_any_good_design_to_code_tools/)
-- [Using feature flags in JavaScript](https://www.reddit.com/r/javascript/comments/13idncn/using_feature_flags_in_javascript/)
+- [Bootstrap-Nice-Select | replacement for modern looking select boxes](https://www.reddit.com/r/javascript/comments/13kjlg0/bootstrapniceselect_replacement_for_modern/)
+- [CozyAPI first stable release + 3 benefits &lpar;express alternative, decorators, openapi, babel, cors works by default&rpar;](https://www.reddit.com/r/javascript/comments/13kij8j/cozyapi_first_stable_release_3_benefits_express/)
+- [Online memory game](https://www.reddit.com/r/javascript/comments/13kgjo0/online_memory_game/)
+- [jscanify v1.2.0 - scan documents and convert them to PDF with just Javascript - now works with React!](https://www.reddit.com/r/javascript/comments/13kd6on/jscanify_v120_scan_documents_and_convert_them_to/)
+- [Mastering JavaScript Arrays: A Comprehensive Guide to Essential Array Methods](https://www.reddit.com/r/javascript/comments/13kc7rd/mastering_javascript_arrays_a_comprehensive_guide/)
+- [How to use ChatGPT to build a javascript-based web game in seconds?](https://www.reddit.com/r/javascript/comments/13k9pa0/how_to_use_chatgpt_to_build_a_javascriptbased_web/)
+- [Smob - Zero dependency library to safe merge objects](https://www.reddit.com/r/javascript/comments/13k6vo1/smob_zero_dependency_library_to_safe_merge_objects/)
+- [[AskJS] Book about TypeScript](https://www.reddit.com/r/javascript/comments/13k1ykd/askjs_book_about_typescript/)
+- [Building A Slack Clone With Preview Environments](https://www.reddit.com/r/javascript/comments/13jzxj0/building_a_slack_clone_with_preview_environments/)
+- [Introducing Estate: a programmable realtime datastore where devs create fully functional backends by extending one of three JavaScript classes: Workers to create stateful server-side controllers, Data to create persisted, sharable data entities, and Messages for realtime SSE from Workers.](https://www.reddit.com/r/javascript/comments/13jzt9l/introducing_estate_a_programmable_realtime/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
