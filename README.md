@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Bootstrap-Nice-Select | replacement for modern looking select boxes](https://www.reddit.com/r/javascript/comments/13kjlg0/bootstrapniceselect_replacement_for_modern/)
-- [CozyAPI first stable release + 3 benefits &lpar;express alternative, decorators, openapi, babel, cors works by default&rpar;](https://www.reddit.com/r/javascript/comments/13kij8j/cozyapi_first_stable_release_3_benefits_express/)
-- [Online memory game](https://www.reddit.com/r/javascript/comments/13kgjo0/online_memory_game/)
-- [jscanify v1.2.0 - scan documents and convert them to PDF with just Javascript - now works with React!](https://www.reddit.com/r/javascript/comments/13kd6on/jscanify_v120_scan_documents_and_convert_them_to/)
-- [Mastering JavaScript Arrays: A Comprehensive Guide to Essential Array Methods](https://www.reddit.com/r/javascript/comments/13kc7rd/mastering_javascript_arrays_a_comprehensive_guide/)
-- [How to use ChatGPT to build a javascript-based web game in seconds?](https://www.reddit.com/r/javascript/comments/13k9pa0/how_to_use_chatgpt_to_build_a_javascriptbased_web/)
-- [Smob - Zero dependency library to safe merge objects](https://www.reddit.com/r/javascript/comments/13k6vo1/smob_zero_dependency_library_to_safe_merge_objects/)
-- [[AskJS] Book about TypeScript](https://www.reddit.com/r/javascript/comments/13k1ykd/askjs_book_about_typescript/)
-- [Building A Slack Clone With Preview Environments](https://www.reddit.com/r/javascript/comments/13jzxj0/building_a_slack_clone_with_preview_environments/)
-- [Introducing Estate: a programmable realtime datastore where devs create fully functional backends by extending one of three JavaScript classes: Workers to create stateful server-side controllers, Data to create persisted, sharable data entities, and Messages for realtime SSE from Workers.](https://www.reddit.com/r/javascript/comments/13jzt9l/introducing_estate_a_programmable_realtime/)
+- [RemoteHive - Find Your Dream Job Today](https://www.reddit.com/r/javascript/comments/13lgtah/remotehive_find_your_dream_job_today/)
+- [State of Node.js Performance 2023](https://www.reddit.com/r/javascript/comments/13lfqdt/state_of_nodejs_performance_2023/)
+- [Open Source CLI tool that can do code review with OpenAI. So far it&#39;s just a prototype, but I&#39;m planning to add more features.](https://www.reddit.com/r/javascript/comments/13ldgh5/open_source_cli_tool_that_can_do_code_review_with/)
+- [Announcing TypeScript 5.1 RC](https://www.reddit.com/r/javascript/comments/13lbjba/announcing_typescript_51_rc/)
+- [YouTube guessing game about guessing which video is the most popular looking only at thumbnails + titles](https://www.reddit.com/r/javascript/comments/13laapo/youtube_guessing_game_about_guessing_which_video/)
+- [I made a 3D FPS demo which is open source, written in Typescript using Cocos Creator &lpar;Decent GPU Required&rpar;](https://www.reddit.com/r/javascript/comments/13l5s8r/i_made_a_3d_fps_demo_which_is_open_source_written/)
+- [Introducing PCER, solving the proxy issue](https://www.reddit.com/r/javascript/comments/13l08pw/introducing_pcer_solving_the_proxy_issue/)
+- [Odigos v0.1.5 - Managing OpenTelemetry using Kubernetes labels](https://www.reddit.com/r/javascript/comments/13kyr7t/odigos_v015_managing_opentelemetry_using/)
+- [Rewind-UI - A TailwindCSS component library](https://www.reddit.com/r/javascript/comments/13kxuhu/rewindui_a_tailwindcss_component_library/)
+- [Use Pure Functions to understand functional programming](https://www.reddit.com/r/javascript/comments/13kw7or/use_pure_functions_to_understand_functional/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
