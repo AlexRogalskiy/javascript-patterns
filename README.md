@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [RemoteHive - Find Your Dream Job Today](https://www.reddit.com/r/javascript/comments/13lgtah/remotehive_find_your_dream_job_today/)
-- [State of Node.js Performance 2023](https://www.reddit.com/r/javascript/comments/13lfqdt/state_of_nodejs_performance_2023/)
-- [Open Source CLI tool that can do code review with OpenAI. So far it&#39;s just a prototype, but I&#39;m planning to add more features.](https://www.reddit.com/r/javascript/comments/13ldgh5/open_source_cli_tool_that_can_do_code_review_with/)
-- [Announcing TypeScript 5.1 RC](https://www.reddit.com/r/javascript/comments/13lbjba/announcing_typescript_51_rc/)
-- [YouTube guessing game about guessing which video is the most popular looking only at thumbnails + titles](https://www.reddit.com/r/javascript/comments/13laapo/youtube_guessing_game_about_guessing_which_video/)
-- [I made a 3D FPS demo which is open source, written in Typescript using Cocos Creator &lpar;Decent GPU Required&rpar;](https://www.reddit.com/r/javascript/comments/13l5s8r/i_made_a_3d_fps_demo_which_is_open_source_written/)
-- [Introducing PCER, solving the proxy issue](https://www.reddit.com/r/javascript/comments/13l08pw/introducing_pcer_solving_the_proxy_issue/)
-- [Odigos v0.1.5 - Managing OpenTelemetry using Kubernetes labels](https://www.reddit.com/r/javascript/comments/13kyr7t/odigos_v015_managing_opentelemetry_using/)
-- [Rewind-UI - A TailwindCSS component library](https://www.reddit.com/r/javascript/comments/13kxuhu/rewindui_a_tailwindcss_component_library/)
-- [Use Pure Functions to understand functional programming](https://www.reddit.com/r/javascript/comments/13kw7or/use_pure_functions_to_understand_functional/)
+- [Can you spot the vulnerability?](https://www.reddit.com/r/javascript/comments/13mbs42/can_you_spot_the_vulnerability/)
+- [[AskJS] Are there any tools to help automatically update imports when splitting typescript libraries in a Monorepo?](https://www.reddit.com/r/javascript/comments/13m9ygc/askjs_are_there_any_tools_to_help_automatically/)
+- [JSON with multiline strings](https://www.reddit.com/r/javascript/comments/13m929r/json_with_multiline_strings/)
+- [Tired of Redux, Recoil, MobX, Zustand, Jotai and Valtio? Time to explore another way of state management](https://www.reddit.com/r/javascript/comments/13ly3fg/tired_of_redux_recoil_mobx_zustand_jotai_and/)
+- [[AskJS] Is NextJS file naming system problematic?](https://www.reddit.com/r/javascript/comments/13lwpa7/askjs_is_nextjs_file_naming_system_problematic/)
+- [A quick dive into NextJS app folder](https://www.reddit.com/r/javascript/comments/13lvq3x/a_quick_dive_into_nextjs_app_folder/)
+- [We&#39;re building open source tools for developers to encrypt data in their apps. We&#39;ve just launched our JS and Node.js SDKs!](https://www.reddit.com/r/javascript/comments/13lqesa/were_building_open_source_tools_for_developers_to/)
+- [We migrated from Create React App to NextJS](https://www.reddit.com/r/javascript/comments/13lnvqj/we_migrated_from_create_react_app_to_nextjs/)
+- [Using OpenAI with JavaScript](https://www.reddit.com/r/javascript/comments/13lm5pw/using_openai_with_javascript/)
+- [Twitch Mention Notifier - A browser extension to notify chat mentions on Twitch](https://www.reddit.com/r/javascript/comments/13llbc5/twitch_mention_notifier_a_browser_extension_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
