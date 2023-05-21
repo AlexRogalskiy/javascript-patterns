@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A Web Component Intro](https://www.reddit.com/r/javascript/comments/13nb1do/a_web_component_intro/)
+- [Mounted hook plugin for Vue Pinia](https://www.reddit.com/r/javascript/comments/13n2nn4/mounted_hook_plugin_for_vue_pinia/)
+- [match-iz: a tiny pattern-matching library](https://www.reddit.com/r/javascript/comments/13mzkxm/matchiz_a_tiny_patternmatching_library/)
+- [A full javascript ecommerce platform](https://www.reddit.com/r/javascript/comments/13mqzkg/a_full_javascript_ecommerce_platform/)
+- [Empty character class in JavaScript regexes](https://www.reddit.com/r/javascript/comments/13movlw/empty_character_class_in_javascript_regexes/)
+- [Showoff Saturday &lpar;May 20, 2023&rpar;](https://www.reddit.com/r/javascript/comments/13mkmij/showoff_saturday_may_20_2023/)
 - [Can you spot the vulnerability?](https://www.reddit.com/r/javascript/comments/13mbs42/can_you_spot_the_vulnerability/)
 - [[AskJS] Are there any tools to help automatically update imports when splitting typescript libraries in a Monorepo?](https://www.reddit.com/r/javascript/comments/13m9ygc/askjs_are_there_any_tools_to_help_automatically/)
 - [JSON with multiline strings](https://www.reddit.com/r/javascript/comments/13m929r/json_with_multiline_strings/)
 - [Tired of Redux, Recoil, MobX, Zustand, Jotai and Valtio? Time to explore another way of state management](https://www.reddit.com/r/javascript/comments/13ly3fg/tired_of_redux_recoil_mobx_zustand_jotai_and/)
-- [[AskJS] Is NextJS file naming system problematic?](https://www.reddit.com/r/javascript/comments/13lwpa7/askjs_is_nextjs_file_naming_system_problematic/)
-- [A quick dive into NextJS app folder](https://www.reddit.com/r/javascript/comments/13lvq3x/a_quick_dive_into_nextjs_app_folder/)
-- [We&#39;re building open source tools for developers to encrypt data in their apps. We&#39;ve just launched our JS and Node.js SDKs!](https://www.reddit.com/r/javascript/comments/13lqesa/were_building_open_source_tools_for_developers_to/)
-- [We migrated from Create React App to NextJS](https://www.reddit.com/r/javascript/comments/13lnvqj/we_migrated_from_create_react_app_to_nextjs/)
-- [Using OpenAI with JavaScript](https://www.reddit.com/r/javascript/comments/13lm5pw/using_openai_with_javascript/)
-- [Twitch Mention Notifier - A browser extension to notify chat mentions on Twitch](https://www.reddit.com/r/javascript/comments/13llbc5/twitch_mention_notifier_a_browser_extension_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
