@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Javascript is replacing your $400 scanner](https://www.reddit.com/r/javascript/comments/13o8yhg/javascript_is_replacing_your_400_scanner/)
+- [Aimless.js - the missing JS randomness library](https://www.reddit.com/r/javascript/comments/13o39lv/aimlessjs_the_missing_js_randomness_library/)
+- [GitHub - srpeck/kchat: Persistent group chat in &lt;50 lines using kdb+/k/q web sockets and JS](https://www.reddit.com/r/javascript/comments/13o1e0e/github_srpeckkchat_persistent_group_chat_in_50/)
+- [Understanding React Concurrency](https://www.reddit.com/r/javascript/comments/13nyo3m/understanding_react_concurrency/)
+- [Writing Integration Tests that Run Inside a Unit-testing Framework like Jest](https://www.reddit.com/r/javascript/comments/13nxqwx/writing_integration_tests_that_run_inside_a/)
+- [jest-teardown: a unified teardown hook that enables bundling of setup &amp; teardown work into reusable functions](https://www.reddit.com/r/javascript/comments/13nxoku/jestteardown_a_unified_teardown_hook_that_enables/)
+- [This package simplifies async data handling in your React apps](https://www.reddit.com/r/javascript/comments/13nw8eb/this_package_simplifies_async_data_handling_in/)
+- [It is a JavaScript library open source, which contains many beautiful and free text effects.](https://www.reddit.com/r/javascript/comments/13nr3up/it_is_a_javascript_library_open_source_which/)
 - [A Web Component Intro](https://www.reddit.com/r/javascript/comments/13nb1do/a_web_component_intro/)
 - [Mounted hook plugin for Vue Pinia](https://www.reddit.com/r/javascript/comments/13n2nn4/mounted_hook_plugin_for_vue_pinia/)
-- [match-iz: a tiny pattern-matching library](https://www.reddit.com/r/javascript/comments/13mzkxm/matchiz_a_tiny_patternmatching_library/)
-- [A full javascript ecommerce platform](https://www.reddit.com/r/javascript/comments/13mqzkg/a_full_javascript_ecommerce_platform/)
-- [Empty character class in JavaScript regexes](https://www.reddit.com/r/javascript/comments/13movlw/empty_character_class_in_javascript_regexes/)
-- [Showoff Saturday &lpar;May 20, 2023&rpar;](https://www.reddit.com/r/javascript/comments/13mkmij/showoff_saturday_may_20_2023/)
-- [Can you spot the vulnerability?](https://www.reddit.com/r/javascript/comments/13mbs42/can_you_spot_the_vulnerability/)
-- [[AskJS] Are there any tools to help automatically update imports when splitting typescript libraries in a Monorepo?](https://www.reddit.com/r/javascript/comments/13m9ygc/askjs_are_there_any_tools_to_help_automatically/)
-- [JSON with multiline strings](https://www.reddit.com/r/javascript/comments/13m929r/json_with_multiline_strings/)
-- [Tired of Redux, Recoil, MobX, Zustand, Jotai and Valtio? Time to explore another way of state management](https://www.reddit.com/r/javascript/comments/13ly3fg/tired_of_redux_recoil_mobx_zustand_jotai_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
