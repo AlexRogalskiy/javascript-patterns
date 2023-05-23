@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Javascript is replacing your $400 scanner](https://www.reddit.com/r/javascript/comments/13o8yhg/javascript_is_replacing_your_400_scanner/)
-- [Aimless.js - the missing JS randomness library](https://www.reddit.com/r/javascript/comments/13o39lv/aimlessjs_the_missing_js_randomness_library/)
-- [GitHub - srpeck/kchat: Persistent group chat in &lt;50 lines using kdb+/k/q web sockets and JS](https://www.reddit.com/r/javascript/comments/13o1e0e/github_srpeckkchat_persistent_group_chat_in_50/)
-- [Understanding React Concurrency](https://www.reddit.com/r/javascript/comments/13nyo3m/understanding_react_concurrency/)
-- [Writing Integration Tests that Run Inside a Unit-testing Framework like Jest](https://www.reddit.com/r/javascript/comments/13nxqwx/writing_integration_tests_that_run_inside_a/)
-- [jest-teardown: a unified teardown hook that enables bundling of setup &amp; teardown work into reusable functions](https://www.reddit.com/r/javascript/comments/13nxoku/jestteardown_a_unified_teardown_hook_that_enables/)
-- [This package simplifies async data handling in your React apps](https://www.reddit.com/r/javascript/comments/13nw8eb/this_package_simplifies_async_data_handling_in/)
-- [It is a JavaScript library open source, which contains many beautiful and free text effects.](https://www.reddit.com/r/javascript/comments/13nr3up/it_is_a_javascript_library_open_source_which/)
-- [A Web Component Intro](https://www.reddit.com/r/javascript/comments/13nb1do/a_web_component_intro/)
-- [Mounted hook plugin for Vue Pinia](https://www.reddit.com/r/javascript/comments/13n2nn4/mounted_hook_plugin_for_vue_pinia/)
+- [ai-validator is a library that helps extract and validate structured data from the output text of language models. This way you can build dynamic next-generation services.](https://www.reddit.com/r/javascript/comments/13padl2/aivalidator_is_a_library_that_helps_extract_and/)
+- [VanJS 0.11.10 Released: the world&#39;s smallest reactive UI framework just got 14 bytes smaller](https://www.reddit.com/r/javascript/comments/13p7pry/vanjs_01110_released_the_worlds_smallest_reactive/)
+- [[AskJS] Hmm, confused. How could downvotes happen so easily?](https://www.reddit.com/r/javascript/comments/13p4ci2/askjs_hmm_confused_how_could_downvotes_happen_so/)
+- [Writing javascript packages effectively that runs in various runtimes](https://www.reddit.com/r/javascript/comments/13owl7e/writing_javascript_packages_effectively_that_runs/)
+- [CRDTs go electric: 100x faster than state-of-the-art](https://www.reddit.com/r/javascript/comments/13oskbd/crdts_go_electric_100x_faster_than_stateoftheart/)
+- [[AskJS] Are you unsure if you&#39;re ready to apply for a junior JS developer position?](https://www.reddit.com/r/javascript/comments/13os9zg/askjs_are_you_unsure_if_youre_ready_to_apply_for/)
+- [My Struggle With Remix](https://www.reddit.com/r/javascript/comments/13oqmck/my_struggle_with_remix/)
+- [[Nestia] Make NestJS 30x faster with fastify](https://www.reddit.com/r/javascript/comments/13opiy4/nestia_make_nestjs_30x_faster_with_fastify/)
+- [[AskJS] Reproduce a bug](https://www.reddit.com/r/javascript/comments/13omjqz/askjs_reproduce_a_bug/)
+- [Transpile Webpack Plugin - transpiles input files into output files individually without bundling together](https://www.reddit.com/r/javascript/comments/13ojoa6/transpile_webpack_plugin_transpiles_input_files/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
