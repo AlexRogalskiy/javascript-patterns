@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [1chat: A simpler and more user-friendly chatGPT Desktop](https://www.reddit.com/r/javascript/comments/13q6wwq/1chat_a_simpler_and_more_userfriendly_chatgpt/)
+- [[AskJS] Does anyone enjoy using Eslint?](https://www.reddit.com/r/javascript/comments/13q0s91/askjs_does_anyone_enjoy_using_eslint/)
+- [[AskJS] Failed JavaScript interview because I didn&#39;t use Map](https://www.reddit.com/r/javascript/comments/13py2ss/askjs_failed_javascript_interview_because_i_didnt/)
+- [Introducing the popover API &lpar;you can now build popovers without using javascript&rpar;](https://www.reddit.com/r/javascript/comments/13putgl/introducing_the_popover_api_you_can_now_build/)
+- [After 2.3 million downloads: ls-lint v2.0.0 is finally here!](https://www.reddit.com/r/javascript/comments/13pung7/after_23_million_downloads_lslint_v200_is_finally/)
+- [Building a bidding system with NextJS new app router and server actions](https://www.reddit.com/r/javascript/comments/13pmlhj/building_a_bidding_system_with_nextjs_new_app/)
+- [GitHub - just-js/just: a very small v8 javascript runtime for linux only](https://www.reddit.com/r/javascript/comments/13pltuq/github_justjsjust_a_very_small_v8_javascript/)
+- [[AskJS] Seeking a Shortcut or Program to Toggle &#39;Active State&#39; Between Two Monitors on a Mac Mini](https://www.reddit.com/r/javascript/comments/13pgltm/askjs_seeking_a_shortcut_or_program_to_toggle/)
+- [Block unintended clipboard access with Clipboard Guard](https://www.reddit.com/r/javascript/comments/13pezxm/block_unintended_clipboard_access_with_clipboard/)
 - [ai-validator is a library that helps extract and validate structured data from the output text of language models. This way you can build dynamic next-generation services.](https://www.reddit.com/r/javascript/comments/13padl2/aivalidator_is_a_library_that_helps_extract_and/)
-- [VanJS 0.11.10 Released: the world&#39;s smallest reactive UI framework just got 14 bytes smaller](https://www.reddit.com/r/javascript/comments/13p7pry/vanjs_01110_released_the_worlds_smallest_reactive/)
-- [[AskJS] Hmm, confused. How could downvotes happen so easily?](https://www.reddit.com/r/javascript/comments/13p4ci2/askjs_hmm_confused_how_could_downvotes_happen_so/)
-- [Writing javascript packages effectively that runs in various runtimes](https://www.reddit.com/r/javascript/comments/13owl7e/writing_javascript_packages_effectively_that_runs/)
-- [CRDTs go electric: 100x faster than state-of-the-art](https://www.reddit.com/r/javascript/comments/13oskbd/crdts_go_electric_100x_faster_than_stateoftheart/)
-- [[AskJS] Are you unsure if you&#39;re ready to apply for a junior JS developer position?](https://www.reddit.com/r/javascript/comments/13os9zg/askjs_are_you_unsure_if_youre_ready_to_apply_for/)
-- [My Struggle With Remix](https://www.reddit.com/r/javascript/comments/13oqmck/my_struggle_with_remix/)
-- [[Nestia] Make NestJS 30x faster with fastify](https://www.reddit.com/r/javascript/comments/13opiy4/nestia_make_nestjs_30x_faster_with_fastify/)
-- [[AskJS] Reproduce a bug](https://www.reddit.com/r/javascript/comments/13omjqz/askjs_reproduce_a_bug/)
-- [Transpile Webpack Plugin - transpiles input files into output files individually without bundling together](https://www.reddit.com/r/javascript/comments/13ojoa6/transpile_webpack_plugin_transpiles_input_files/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
