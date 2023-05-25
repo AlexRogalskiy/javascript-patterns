@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [1chat: A simpler and more user-friendly chatGPT Desktop](https://www.reddit.com/r/javascript/comments/13q6wwq/1chat_a_simpler_and_more_userfriendly_chatgpt/)
-- [[AskJS] Does anyone enjoy using Eslint?](https://www.reddit.com/r/javascript/comments/13q0s91/askjs_does_anyone_enjoy_using_eslint/)
-- [[AskJS] Failed JavaScript interview because I didn&#39;t use Map](https://www.reddit.com/r/javascript/comments/13py2ss/askjs_failed_javascript_interview_because_i_didnt/)
-- [Introducing the popover API &lpar;you can now build popovers without using javascript&rpar;](https://www.reddit.com/r/javascript/comments/13putgl/introducing_the_popover_api_you_can_now_build/)
-- [After 2.3 million downloads: ls-lint v2.0.0 is finally here!](https://www.reddit.com/r/javascript/comments/13pung7/after_23_million_downloads_lslint_v200_is_finally/)
-- [Building a bidding system with NextJS new app router and server actions](https://www.reddit.com/r/javascript/comments/13pmlhj/building_a_bidding_system_with_nextjs_new_app/)
-- [GitHub - just-js/just: a very small v8 javascript runtime for linux only](https://www.reddit.com/r/javascript/comments/13pltuq/github_justjsjust_a_very_small_v8_javascript/)
-- [[AskJS] Seeking a Shortcut or Program to Toggle &#39;Active State&#39; Between Two Monitors on a Mac Mini](https://www.reddit.com/r/javascript/comments/13pgltm/askjs_seeking_a_shortcut_or_program_to_toggle/)
-- [Block unintended clipboard access with Clipboard Guard](https://www.reddit.com/r/javascript/comments/13pezxm/block_unintended_clipboard_access_with_clipboard/)
-- [ai-validator is a library that helps extract and validate structured data from the output text of language models. This way you can build dynamic next-generation services.](https://www.reddit.com/r/javascript/comments/13padl2/aivalidator_is_a_library_that_helps_extract_and/)
+- [ObjectStateHistory Package - Keep Track of Object Changes](https://www.reddit.com/r/javascript/comments/13r1y4y/objectstatehistory_package_keep_track_of_object/)
+- [Nodejs Typescript Modern Starter/Template/Boilerplate repo](https://www.reddit.com/r/javascript/comments/13qvwui/nodejs_typescript_modern/)
+- [Simple web app to convert youtube short URLs to browser URLs](https://www.reddit.com/r/javascript/comments/13qt8xy/simple_web_app_to_convert_youtube_short_urls_to/)
+- [Enterprise-grade Reference Architecture for JavaScript - a collection of best practices, architecture patterns, and functional components that can be used to build and deploy modern JavaScript applications to Azure](https://www.reddit.com/r/javascript/comments/13qp068/enterprisegrade_reference_architecture_for/)
+- [Medusa: JS-based building blocks for digital commerce](https://www.reddit.com/r/javascript/comments/13qogi1/medusa_jsbased_building_blocks_for_digital/)
+- [Building a SaaS with Next.js &amp; Rust](https://www.reddit.com/r/javascript/comments/13qnn9h/building_a_saas_with_nextjs_rust/)
+- [Guitar string tension calculator with graphical plotting](https://www.reddit.com/r/javascript/comments/13qm5yz/guitar_string_tension_calculator_with_graphical/)
+- [[AskJS] The browser had a native diffing method all this while!](https://www.reddit.com/r/javascript/comments/13qkleb/askjs_the_browser_had_a_native_diffing_method_all/)
+- [Hook-less React application state powered by accessors](https://www.reddit.com/r/javascript/comments/13qk97o/hookless_react_application_state_powered_by/)
+- [Building a message board with Next.js and AppWrite](https://www.reddit.com/r/javascript/comments/13qik1q/building_a_message_board_with_nextjs_and_appwrite/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
