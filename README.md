@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Angular users want better server-side rendering](https://www.infoworld.com/article/3697748/angular-users-want-better-server-side-rendering.html#tk.rss_javascript)
 - [TypeScript 5.1 release candidate arrives](https://www.infoworld.com/article/3694348/typescript-rationalizes-undefined-returning-functions.html#tk.rss_javascript)
 - [Next.js rearchitects router for smoother server-side rendering](https://www.infoworld.com/article/3695595/nextjs-rearchitects-router-for-smoother-server-side-rendering.html#tk.rss_javascript)
 - [Angular 16 previews new reactivity model](https://www.infoworld.com/article/3695589/angular-16-previews-new-reactivity-model.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [How to use async and await in JavaScript](https://www.infoworld.com/article/3328099/javascript-async-and-await-explained.html#tk.rss_javascript)
 - [Node.js 20 introduces permissions model](https://www.infoworld.com/article/3694169/nodejs-20-introduces-permissions-model.html#tk.rss_javascript)
 - [The best new CSS features for 2023](https://www.infoworld.com/article/3663513/the-best-new-css-features.html#tk.rss_javascript)
-- [Hands-on with  Java and Wasm](https://www.infoworld.com/article/3692456/hands-on-with-java-and-wasm.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
