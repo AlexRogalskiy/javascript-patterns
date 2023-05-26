@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Loop much? | The Upside-Down Trees](https://www.reddit.com/r/javascript/comments/13ruz8a/loop_much_the_upsidedown_trees/)
+- [Making API Calls from Node.js](https://www.reddit.com/r/javascript/comments/13rupih/making_api_calls_from_nodejs/)
+- [As a hobby, I wrote a VirtualDome library that works similarly to React. The idea of wwact is to keep the value associated with a component as a closure. There aren&#39;t as many rules as in React, you just need to know how closures work in JSX and JavaScript.](https://www.reddit.com/r/javascript/comments/13rppcl/as_a_hobby_i_wrote_a_virtualdome_library_that/)
+- [On Zero Trust Programming: Mitigating 3rd Party Code Vulnerabilities by Applying Zero Trust Security Principles to Code](https://www.reddit.com/r/javascript/comments/13rns7c/on_zero_trust_programming_mitigating_3rd_party/)
+- [vapor.js - the smallest and fastest JavaScript library](https://www.reddit.com/r/javascript/comments/13rii65/vaporjs_the_smallest_and_fastest_javascript/)
+- [Fuck It, We&#39;ll Do It Live](https://www.reddit.com/r/javascript/comments/13rgplx/fuck_it_well_do_it_live/)
+- [Simplifying JavaScript Array Manipulation with Artificial Intelligence](https://www.reddit.com/r/javascript/comments/13r5zh7/simplifying_javascript_array_manipulation_with/)
 - [ObjectStateHistory Package - Keep Track of Object Changes](https://www.reddit.com/r/javascript/comments/13r1y4y/objectstatehistory_package_keep_track_of_object/)
 - [Nodejs Typescript Modern Starter/Template/Boilerplate repo](https://www.reddit.com/r/javascript/comments/13qvwui/nodejs_typescript_modern/)
 - [Simple web app to convert youtube short URLs to browser URLs](https://www.reddit.com/r/javascript/comments/13qt8xy/simple_web_app_to_convert_youtube_short_urls_to/)
-- [Enterprise-grade Reference Architecture for JavaScript - a collection of best practices, architecture patterns, and functional components that can be used to build and deploy modern JavaScript applications to Azure](https://www.reddit.com/r/javascript/comments/13qp068/enterprisegrade_reference_architecture_for/)
-- [Medusa: JS-based building blocks for digital commerce](https://www.reddit.com/r/javascript/comments/13qogi1/medusa_jsbased_building_blocks_for_digital/)
-- [Building a SaaS with Next.js &amp; Rust](https://www.reddit.com/r/javascript/comments/13qnn9h/building_a_saas_with_nextjs_rust/)
-- [Guitar string tension calculator with graphical plotting](https://www.reddit.com/r/javascript/comments/13qm5yz/guitar_string_tension_calculator_with_graphical/)
-- [[AskJS] The browser had a native diffing method all this while!](https://www.reddit.com/r/javascript/comments/13qkleb/askjs_the_browser_had_a_native_diffing_method_all/)
-- [Hook-less React application state powered by accessors](https://www.reddit.com/r/javascript/comments/13qk97o/hookless_react_application_state_powered_by/)
-- [Building a message board with Next.js and AppWrite](https://www.reddit.com/r/javascript/comments/13qik1q/building_a_message_board_with_nextjs_and_appwrite/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
