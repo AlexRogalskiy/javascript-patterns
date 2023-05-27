@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The evolution of React APIs and code reuse](https://www.reddit.com/r/javascript/comments/13sq2il/the_evolution_of_react_apis_and_code_reuse/)
+- [v - A simple and lightweight library for Vanilla JavaScript, allowing you to create a reactive UI](https://www.reddit.com/r/javascript/comments/13smh7c/v_a_simple_and_lightweight_library_for_vanilla/)
+- [File Upload Security and Malware Protection](https://www.reddit.com/r/javascript/comments/13sizi3/file_upload_security_and_malware_protection/)
+- [jQuire UI library after a full rewrite.](https://www.reddit.com/r/javascript/comments/13siv9v/jquire_ui_library_after_a_full_rewrite/)
+- [GitHub - Redfire75369/spiderfire: JavaScript Runtime built with Mozilla&#39;s SpiderMonkey Engine](https://www.reddit.com/r/javascript/comments/13sgmq9/github_redfire75369spiderfire_javascript_runtime/)
+- [[AskJS] Javascript proposal: new keyword similar to await, but that is not awaiting until value is used or function returns](https://www.reddit.com/r/javascript/comments/13sfau4/askjs_javascript_proposal_new_keyword_similar_to/)
+- [Get familiar with some of Typescript&#39;s greatest advanced features.](https://www.reddit.com/r/javascript/comments/13se8k8/get_familiar_with_some_of_typescripts_greatest/)
+- [[AskJS] Status of JS package managers](https://www.reddit.com/r/javascript/comments/13s63f2/askjs_status_of_js_package_managers/)
+- [Enterprise-grade Reference Architecture for JavaScript](https://www.reddit.com/r/javascript/comments/13s5wuq/enterprisegrade_reference_architecture_for/)
 - [Loop much? | The Upside-Down Trees](https://www.reddit.com/r/javascript/comments/13ruz8a/loop_much_the_upsidedown_trees/)
-- [Making API Calls from Node.js](https://www.reddit.com/r/javascript/comments/13rupih/making_api_calls_from_nodejs/)
-- [As a hobby, I wrote a VirtualDome library that works similarly to React. The idea of wwact is to keep the value associated with a component as a closure. There aren&#39;t as many rules as in React, you just need to know how closures work in JSX and JavaScript.](https://www.reddit.com/r/javascript/comments/13rppcl/as_a_hobby_i_wrote_a_virtualdome_library_that/)
-- [On Zero Trust Programming: Mitigating 3rd Party Code Vulnerabilities by Applying Zero Trust Security Principles to Code](https://www.reddit.com/r/javascript/comments/13rns7c/on_zero_trust_programming_mitigating_3rd_party/)
-- [vapor.js - the smallest and fastest JavaScript library](https://www.reddit.com/r/javascript/comments/13rii65/vaporjs_the_smallest_and_fastest_javascript/)
-- [Fuck It, We&#39;ll Do It Live](https://www.reddit.com/r/javascript/comments/13rgplx/fuck_it_well_do_it_live/)
-- [Simplifying JavaScript Array Manipulation with Artificial Intelligence](https://www.reddit.com/r/javascript/comments/13r5zh7/simplifying_javascript_array_manipulation_with/)
-- [ObjectStateHistory Package - Keep Track of Object Changes](https://www.reddit.com/r/javascript/comments/13r1y4y/objectstatehistory_package_keep_track_of_object/)
-- [Nodejs Typescript Modern Starter/Template/Boilerplate repo](https://www.reddit.com/r/javascript/comments/13qvwui/nodejs_typescript_modern/)
-- [Simple web app to convert youtube short URLs to browser URLs](https://www.reddit.com/r/javascript/comments/13qt8xy/simple_web_app_to_convert_youtube_short_urls_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
