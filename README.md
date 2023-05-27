@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Latest Deno release supports NPM packages](https://www.infoworld.com/article/3697852/latest-deno-release-supports-npm-packages.html#tk.rss_javascript)
 - [Angular users want better server-side rendering](https://www.infoworld.com/article/3697748/angular-users-want-better-server-side-rendering.html#tk.rss_javascript)
 - [TypeScript 5.1 release candidate arrives](https://www.infoworld.com/article/3694348/typescript-rationalizes-undefined-returning-functions.html#tk.rss_javascript)
 - [Next.js rearchitects router for smoother server-side rendering](https://www.infoworld.com/article/3695595/nextjs-rearchitects-router-for-smoother-server-side-rendering.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Deno 1.33 debuts built-in key-value database](https://www.infoworld.com/article/3694935/deno-133-debuts-built-in-key-value-database.html#tk.rss_javascript)
 - [How to use async and await in JavaScript](https://www.infoworld.com/article/3328099/javascript-async-and-await-explained.html#tk.rss_javascript)
 - [Node.js 20 introduces permissions model](https://www.infoworld.com/article/3694169/nodejs-20-introduces-permissions-model.html#tk.rss_javascript)
-- [The best new CSS features for 2023](https://www.infoworld.com/article/3663513/the-best-new-css-features.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
