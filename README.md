@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [The evolution of React APIs and code reuse](https://www.reddit.com/r/javascript/comments/13sq2il/the_evolution_of_react_apis_and_code_reuse/)
-- [v - A simple and lightweight library for Vanilla JavaScript, allowing you to create a reactive UI](https://www.reddit.com/r/javascript/comments/13smh7c/v_a_simple_and_lightweight_library_for_vanilla/)
-- [File Upload Security and Malware Protection](https://www.reddit.com/r/javascript/comments/13sizi3/file_upload_security_and_malware_protection/)
-- [jQuire UI library after a full rewrite.](https://www.reddit.com/r/javascript/comments/13siv9v/jquire_ui_library_after_a_full_rewrite/)
-- [GitHub - Redfire75369/spiderfire: JavaScript Runtime built with Mozilla&#39;s SpiderMonkey Engine](https://www.reddit.com/r/javascript/comments/13sgmq9/github_redfire75369spiderfire_javascript_runtime/)
-- [[AskJS] Javascript proposal: new keyword similar to await, but that is not awaiting until value is used or function returns](https://www.reddit.com/r/javascript/comments/13sfau4/askjs_javascript_proposal_new_keyword_similar_to/)
-- [Get familiar with some of Typescript&#39;s greatest advanced features.](https://www.reddit.com/r/javascript/comments/13se8k8/get_familiar_with_some_of_typescripts_greatest/)
-- [[AskJS] Status of JS package managers](https://www.reddit.com/r/javascript/comments/13s63f2/askjs_status_of_js_package_managers/)
-- [Enterprise-grade Reference Architecture for JavaScript](https://www.reddit.com/r/javascript/comments/13s5wuq/enterprisegrade_reference_architecture_for/)
-- [Loop much? | The Upside-Down Trees](https://www.reddit.com/r/javascript/comments/13ruz8a/loop_much_the_upsidedown_trees/)
+- [GitHub - frymimori/javascript-unicode-converter: Create conversions between UTF-8, UTF-16 and UTF-32 encoding with a fast and unique Unicode conversion algorithm.](https://www.reddit.com/r/javascript/comments/13tnt5u/github_frymimorijavascriptunicodeconverter_create/)
+- [[AskJS] looking for a vuejs job](https://www.reddit.com/r/javascript/comments/13tl7w2/askjs_looking_for_a_vuejs_job/)
+- [Reusable and portable Web Components](https://www.reddit.com/r/javascript/comments/13tj0kl/reusable_and_portable_web_components/)
+- [[AskJS] From React to Vue](https://www.reddit.com/r/javascript/comments/13tctn4/askjs_from_react_to_vue/)
+- [JECS - A JavaScript based Entity Component System. ECS are a popular pattern used in game development. The library has no dependencies, TypeScript support and is lightweight](https://www.reddit.com/r/javascript/comments/13tangk/jecs_a_javascript_based_entity_component_system/)
+- [Debounce in javascript using TDD](https://www.reddit.com/r/javascript/comments/13t8des/debounce_in_javascript_using_tdd/)
+- [Showoff Saturday &lpar;May 27, 2023&rpar;](https://www.reddit.com/r/javascript/comments/13t0jad/showoff_saturday_may_27_2023/)
+- [Google Cloud Text to Speech API: The Future of AI Voice Synthesis](https://www.reddit.com/r/javascript/comments/13syyl8/google_cloud_text_to_speech_api_the_future_of_ai/)
+- [Node translates i18n multilingual files, generating 100 language packs in 1 minute](https://www.reddit.com/r/javascript/comments/13sxo4o/node_translates_i18n_multilingual_files/)
+- [Validate data at runtime with TypeScript syntax &lpar;Moat Maker library&rpar;](https://www.reddit.com/r/javascript/comments/13sw2b6/validate_data_at_runtime_with_typescript_syntax/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
