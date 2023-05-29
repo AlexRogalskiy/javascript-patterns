@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [MangoDB: &quot;I&#39;m reading about 35.000 rows in 300-600ms while processing/mapping + reducing things in pure JavaScript.&quot;](https://www.reddit.com/r/javascript/comments/13uezbz/mangodb_im_reading_about_35000_rows_in_300600ms/)
+- [How to build javascript game with ChatGPT: Step by Step Guide](https://www.reddit.com/r/javascript/comments/13ubbpj/how_to_build_javascript_game_with_chatgpt_step_by/)
+- [this JS ain&#39;t right](https://www.reddit.com/r/javascript/comments/13u8t6e/this_js_aint_right/)
+- [[AskJS] How do you guys come up with names for your coding projects](https://www.reddit.com/r/javascript/comments/13u6fah/askjs_how_do_you_guys_come_up_with_names_for_your/)
+- [Throttling in JavaScript with TDD](https://www.reddit.com/r/javascript/comments/13tvx5l/throttling_in_javascript_with_tdd/)
+- [GitHub - svent/jsdetox: A Javascript malware analysis tool](https://www.reddit.com/r/javascript/comments/13tvob7/github_sventjsdetox_a_javascript_malware_analysis/)
+- [WinkNLP&#39;s recent feature — key sentence extraction delivers a performance of over 450,000 tokens/second or 1500 sentences/second on Apple M1/16GB](https://www.reddit.com/r/javascript/comments/13tsya2/winknlps_recent_feature_key_sentence_extraction/)
 - [GitHub - frymimori/javascript-unicode-converter: Create conversions between UTF-8, UTF-16 and UTF-32 encoding with a fast and unique Unicode conversion algorithm.](https://www.reddit.com/r/javascript/comments/13tnt5u/github_frymimorijavascriptunicodeconverter_create/)
-- [[AskJS] looking for a vuejs job](https://www.reddit.com/r/javascript/comments/13tl7w2/askjs_looking_for_a_vuejs_job/)
 - [Reusable and portable Web Components](https://www.reddit.com/r/javascript/comments/13tj0kl/reusable_and_portable_web_components/)
 - [[AskJS] From React to Vue](https://www.reddit.com/r/javascript/comments/13tctn4/askjs_from_react_to_vue/)
-- [JECS - A JavaScript based Entity Component System. ECS are a popular pattern used in game development. The library has no dependencies, TypeScript support and is lightweight](https://www.reddit.com/r/javascript/comments/13tangk/jecs_a_javascript_based_entity_component_system/)
-- [Debounce in javascript using TDD](https://www.reddit.com/r/javascript/comments/13t8des/debounce_in_javascript_using_tdd/)
-- [Showoff Saturday &lpar;May 27, 2023&rpar;](https://www.reddit.com/r/javascript/comments/13t0jad/showoff_saturday_may_27_2023/)
-- [Google Cloud Text to Speech API: The Future of AI Voice Synthesis](https://www.reddit.com/r/javascript/comments/13syyl8/google_cloud_text_to_speech_api_the_future_of_ai/)
-- [Node translates i18n multilingual files, generating 100 language packs in 1 minute](https://www.reddit.com/r/javascript/comments/13sxo4o/node_translates_i18n_multilingual_files/)
-- [Validate data at runtime with TypeScript syntax &lpar;Moat Maker library&rpar;](https://www.reddit.com/r/javascript/comments/13sw2b6/validate_data_at_runtime_with_typescript_syntax/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
