@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [MangoDB: &quot;I&#39;m reading about 35.000 rows in 300-600ms while processing/mapping + reducing things in pure JavaScript.&quot;](https://www.reddit.com/r/javascript/comments/13uezbz/mangodb_im_reading_about_35000_rows_in_300600ms/)
-- [How to build javascript game with ChatGPT: Step by Step Guide](https://www.reddit.com/r/javascript/comments/13ubbpj/how_to_build_javascript_game_with_chatgpt_step_by/)
-- [this JS ain&#39;t right](https://www.reddit.com/r/javascript/comments/13u8t6e/this_js_aint_right/)
-- [[AskJS] How do you guys come up with names for your coding projects](https://www.reddit.com/r/javascript/comments/13u6fah/askjs_how_do_you_guys_come_up_with_names_for_your/)
-- [Throttling in JavaScript with TDD](https://www.reddit.com/r/javascript/comments/13tvx5l/throttling_in_javascript_with_tdd/)
-- [GitHub - svent/jsdetox: A Javascript malware analysis tool](https://www.reddit.com/r/javascript/comments/13tvob7/github_sventjsdetox_a_javascript_malware_analysis/)
-- [WinkNLP&#39;s recent feature — key sentence extraction delivers a performance of over 450,000 tokens/second or 1500 sentences/second on Apple M1/16GB](https://www.reddit.com/r/javascript/comments/13tsya2/winknlps_recent_feature_key_sentence_extraction/)
-- [GitHub - frymimori/javascript-unicode-converter: Create conversions between UTF-8, UTF-16 and UTF-32 encoding with a fast and unique Unicode conversion algorithm.](https://www.reddit.com/r/javascript/comments/13tnt5u/github_frymimorijavascriptunicodeconverter_create/)
-- [Reusable and portable Web Components](https://www.reddit.com/r/javascript/comments/13tj0kl/reusable_and_portable_web_components/)
-- [[AskJS] From React to Vue](https://www.reddit.com/r/javascript/comments/13tctn4/askjs_from_react_to_vue/)
+- [A better prompt engineering library built for JS - Langchain.js feels like a python team writing JS never feels ergonomic. This library is like guidance and react had a baby](https://www.reddit.com/r/javascript/comments/13v9k7z/a_better_prompt_engineering_library_built_for_js/)
+- [GitHub - frymimori/javascript-hasher: Create variable-length checksums from all data types with a fast and unique hashing algorithm.](https://www.reddit.com/r/javascript/comments/13v5yd1/github_frymimorijavascripthasher_create/)
+- [I&#39;m currently working on a Node.js linter, feedback welcome](https://www.reddit.com/r/javascript/comments/13v4vje/im_currently_working_on_a_nodejs_linter_feedback/)
+- [fastgron: A JSON to GRON Converter That&#39;s 40 Times Faster Than Gron](https://www.reddit.com/r/javascript/comments/13v375o/fastgron_a_json_to_gron_converter_thats_40_times/)
+- [Dan Abramov &amp; React core team discuss RSC, React Forget, signals and relationship w/ Vercel at RemixConf 2023](https://www.reddit.com/r/javascript/comments/13uzo0u/dan_abramov_react_core_team_discuss_rsc_react/)
+- [Seamless, full-stack authentication in Next.js](https://www.reddit.com/r/javascript/comments/13uwv1a/seamless_fullstack_authentication_in_nextjs/)
+- [Implementing Reduce in javascript using TDD](https://www.reddit.com/r/javascript/comments/13uuhoi/implementing_reduce_in_javascript_using_tdd/)
+- [Neutralinojs v4.12.0 released!](https://www.reddit.com/r/javascript/comments/13urai2/neutralinojs_v4120_released/)
+- [tc39/proposal-defer-import-eval: A proposal for introducing a way to defer module evaluation](https://www.reddit.com/r/javascript/comments/13uoa5p/tc39proposaldeferimporteval_a_proposal_for/)
+- [[AskJS] What kind of CMS you are using and why?](https://www.reddit.com/r/javascript/comments/13un47r/askjs_what_kind_of_cms_you_are_using_and_why/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
