@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [A better prompt engineering library built for JS - Langchain.js feels like a python team writing JS never feels ergonomic. This library is like guidance and react had a baby](https://www.reddit.com/r/javascript/comments/13v9k7z/a_better_prompt_engineering_library_built_for_js/)
-- [GitHub - frymimori/javascript-hasher: Create variable-length checksums from all data types with a fast and unique hashing algorithm.](https://www.reddit.com/r/javascript/comments/13v5yd1/github_frymimorijavascripthasher_create/)
-- [I&#39;m currently working on a Node.js linter, feedback welcome](https://www.reddit.com/r/javascript/comments/13v4vje/im_currently_working_on_a_nodejs_linter_feedback/)
-- [fastgron: A JSON to GRON Converter That&#39;s 40 Times Faster Than Gron](https://www.reddit.com/r/javascript/comments/13v375o/fastgron_a_json_to_gron_converter_thats_40_times/)
-- [Dan Abramov &amp; React core team discuss RSC, React Forget, signals and relationship w/ Vercel at RemixConf 2023](https://www.reddit.com/r/javascript/comments/13uzo0u/dan_abramov_react_core_team_discuss_rsc_react/)
-- [Seamless, full-stack authentication in Next.js](https://www.reddit.com/r/javascript/comments/13uwv1a/seamless_fullstack_authentication_in_nextjs/)
-- [Implementing Reduce in javascript using TDD](https://www.reddit.com/r/javascript/comments/13uuhoi/implementing_reduce_in_javascript_using_tdd/)
-- [Neutralinojs v4.12.0 released!](https://www.reddit.com/r/javascript/comments/13urai2/neutralinojs_v4120_released/)
-- [tc39/proposal-defer-import-eval: A proposal for introducing a way to defer module evaluation](https://www.reddit.com/r/javascript/comments/13uoa5p/tc39proposaldeferimporteval_a_proposal_for/)
-- [[AskJS] What kind of CMS you are using and why?](https://www.reddit.com/r/javascript/comments/13un47r/askjs_what_kind_of_cms_you_are_using_and_why/)
+- [[AskJS] Asking advice on monorepo setup with multiple frameworks](https://www.reddit.com/r/javascript/comments/13w62ls/askjs_asking_advice_on_monorepo_setup_with/)
+- [Used JavaScript to create an AI extension that allows users to Search through Youtube Videos using AI](https://www.reddit.com/r/javascript/comments/13w4eqv/used_javascript_to_create_an_ai_extension_that/)
+- [useHooks – A collection of Server Component safe React Hooks](https://www.reddit.com/r/javascript/comments/13w09gg/usehooks_a_collection_of_server_component_safe/)
+- [Vitron - Library to build beautiful &lpar;win, linux, mac&rpar; desktop apps for modern web projects with vite and electron.](https://www.reddit.com/r/javascript/comments/13vxi5u/vitron_library_to_build_beautiful_win_linux_mac/)
+- [[AskJS] Tabulator takes 150mb to render 25k rows. Is this normal?](https://www.reddit.com/r/javascript/comments/13vu686/askjs_tabulator_takes_150mb_to_render_25k_rows_is/)
+- [Hands on with the Node.js test runner](https://www.reddit.com/r/javascript/comments/13vpuog/hands_on_with_the_nodejs_test_runner/)
+- [Resumability, compilers and event delegation](https://www.reddit.com/r/javascript/comments/13vnv5l/resumability_compilers_and_event_delegation/)
+- [Jailer: Database Subsetting and Relational Data Browsing Tool 15.0 released.](https://www.reddit.com/r/javascript/comments/13vmtu2/jailer_database_subsetting_and_relational_data/)
+- [Reading and Parsing Large Files in JavaScript the Right Way](https://www.reddit.com/r/javascript/comments/13vhs1r/reading_and_parsing_large_files_in_javascript_the/)
+- [What&#39;s new in ES2023?](https://www.reddit.com/r/javascript/comments/13vh29s/whats_new_in_es2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
