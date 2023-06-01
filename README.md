@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [JavaScript Macros in Bun](https://www.reddit.com/r/javascript/comments/13x1gwe/javascript_macros_in_bun/)
+- [React and NodeJS Authentication with Refresh &amp; Access Tokens: A Step-by-Step Guide](https://www.reddit.com/r/javascript/comments/13wpm20/react_and_nodejs_authentication_with_refresh/)
+- [Run a completely functional serverless app with this new Open-Source Project, now also with Custom Domain](https://www.reddit.com/r/javascript/comments/13wmfgh/run_a_completely_functional_serverless_app_with/)
+- [Why is JavaScript not compiled to bytecode before sending over the network?](https://www.reddit.com/r/javascript/comments/13wh8e3/why_is_javascript_not_compiled_to_bytecode_before/)
+- [Understanding JavaScript packers](https://www.reddit.com/r/javascript/comments/13wfik7/understanding_javascript_packers/)
+- [WTF Wednesday &lpar;May 31, 2023&rpar;](https://www.reddit.com/r/javascript/comments/13wewhx/wtf_wednesday_may_31_2023/)
+- [Run a Javascript app connected to a HuggingFace conversational model](https://www.reddit.com/r/javascript/comments/13wbf4u/run_a_javascript_app_connected_to_a_huggingface/)
+- [[AskJS] Whats a good naming scheme?](https://www.reddit.com/r/javascript/comments/13wa91e/askjs_whats_a_good_naming_scheme/)
 - [[AskJS] Asking advice on monorepo setup with multiple frameworks](https://www.reddit.com/r/javascript/comments/13w62ls/askjs_asking_advice_on_monorepo_setup_with/)
-- [Used JavaScript to create an AI extension that allows users to Search through Youtube Videos using AI](https://www.reddit.com/r/javascript/comments/13w4eqv/used_javascript_to_create_an_ai_extension_that/)
 - [useHooks – A collection of Server Component safe React Hooks](https://www.reddit.com/r/javascript/comments/13w09gg/usehooks_a_collection_of_server_component_safe/)
-- [Vitron - Library to build beautiful &lpar;win, linux, mac&rpar; desktop apps for modern web projects with vite and electron.](https://www.reddit.com/r/javascript/comments/13vxi5u/vitron_library_to_build_beautiful_win_linux_mac/)
-- [[AskJS] Tabulator takes 150mb to render 25k rows. Is this normal?](https://www.reddit.com/r/javascript/comments/13vu686/askjs_tabulator_takes_150mb_to_render_25k_rows_is/)
-- [Hands on with the Node.js test runner](https://www.reddit.com/r/javascript/comments/13vpuog/hands_on_with_the_nodejs_test_runner/)
-- [Resumability, compilers and event delegation](https://www.reddit.com/r/javascript/comments/13vnv5l/resumability_compilers_and_event_delegation/)
-- [Jailer: Database Subsetting and Relational Data Browsing Tool 15.0 released.](https://www.reddit.com/r/javascript/comments/13vmtu2/jailer_database_subsetting_and_relational_data/)
-- [Reading and Parsing Large Files in JavaScript the Right Way](https://www.reddit.com/r/javascript/comments/13vhs1r/reading_and_parsing_large_files_in_javascript_the/)
-- [What&#39;s new in ES2023?](https://www.reddit.com/r/javascript/comments/13vh29s/whats_new_in_es2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
