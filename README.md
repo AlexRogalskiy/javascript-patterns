@@ -292,16 +292,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Bootstrap 5.3.0 emphasizes dark mode, custom colors](https://www.infoworld.com/article/3698509/bootstrap-530-emphasizes-dark-mode-custom-colors.html#tk.rss_javascript)
 - [Latest Deno release supports NPM packages](https://www.infoworld.com/article/3697852/latest-deno-release-supports-npm-packages.html#tk.rss_javascript)
 - [Angular users want better server-side rendering](https://www.infoworld.com/article/3697748/angular-users-want-better-server-side-rendering.html#tk.rss_javascript)
 - [TypeScript 5.1 release candidate arrives](https://www.infoworld.com/article/3694348/typescript-rationalizes-undefined-returning-functions.html#tk.rss_javascript)
 - [Next.js rearchitects router for smoother server-side rendering](https://www.infoworld.com/article/3695595/nextjs-rearchitects-router-for-smoother-server-side-rendering.html#tk.rss_javascript)
-- [Angular 16 previews new reactivity model](https://www.infoworld.com/article/3695589/angular-16-previews-new-reactivity-model.html#tk.rss_javascript)
 - [A practical guide to React Native authentication](https://www.infoworld.com/article/3695169/a-practical-guide-to-react-native-authentication.html#tk.rss_javascript)
+- [Angular 16 previews new reactivity model](https://www.infoworld.com/article/3695589/angular-16-previews-new-reactivity-model.html#tk.rss_javascript)
 - [JavaScript callbacks, promises, and async/await explained](https://www.infoworld.com/article/3322904/asynchronous-javascript-callbacks-and-promises-explained.html#tk.rss_javascript)
 - [Deno 1.33 debuts built-in key-value database](https://www.infoworld.com/article/3694935/deno-133-debuts-built-in-key-value-database.html#tk.rss_javascript)
 - [How to use async and await in JavaScript](https://www.infoworld.com/article/3328099/javascript-async-and-await-explained.html#tk.rss_javascript)
-- [Node.js 20 introduces permissions model](https://www.infoworld.com/article/3694169/nodejs-20-introduces-permissions-model.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
