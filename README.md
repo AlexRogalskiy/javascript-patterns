@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Is TypeScript Overrated? The Downside ls of Static Type Checking](https://www.reddit.com/r/javascript/comments/13xriih/askjs_is_typescript_overrated_the_downside_ls_of/)
+- [Media Chrome turns 1.0 - Web components for Video](https://www.reddit.com/r/javascript/comments/13xqpd2/media_chrome_turns_10_web_components_for_video/)
+- [Announcing TypeScript 5.1](https://www.reddit.com/r/javascript/comments/13xod9l/announcing_typescript_51/)
+- [Strawberry - Zero-Dependency, Build-Free JavaScript Framework](https://www.reddit.com/r/javascript/comments/13xfmyg/strawberry_zerodependency_buildfree_javascript/)
+- [Painless WebGPU Programming with taichi.js](https://www.reddit.com/r/javascript/comments/13xdhsa/painless_webgpu_programming_with_taichijs/)
+- [[AskJS] How to do Gatsby + Strapi right?](https://www.reddit.com/r/javascript/comments/13xch3e/askjs_how_to_do_gatsby_strapi_right/)
+- [Web Based Local First P2P Development with Holepunch&#39;s Ecosystem](https://www.reddit.com/r/javascript/comments/13x6l1j/web_based_local_first_p2p_development_with/)
 - [JavaScript Macros in Bun](https://www.reddit.com/r/javascript/comments/13x1gwe/javascript_macros_in_bun/)
 - [React and NodeJS Authentication with Refresh &amp; Access Tokens: A Step-by-Step Guide](https://www.reddit.com/r/javascript/comments/13wpm20/react_and_nodejs_authentication_with_refresh/)
-- [Run a completely functional serverless app with this new Open-Source Project, now also with Custom Domain](https://www.reddit.com/r/javascript/comments/13wmfgh/run_a_completely_functional_serverless_app_with/)
-- [Why is JavaScript not compiled to bytecode before sending over the network?](https://www.reddit.com/r/javascript/comments/13wh8e3/why_is_javascript_not_compiled_to_bytecode_before/)
-- [Understanding JavaScript packers](https://www.reddit.com/r/javascript/comments/13wfik7/understanding_javascript_packers/)
-- [WTF Wednesday &lpar;May 31, 2023&rpar;](https://www.reddit.com/r/javascript/comments/13wewhx/wtf_wednesday_may_31_2023/)
-- [Run a Javascript app connected to a HuggingFace conversational model](https://www.reddit.com/r/javascript/comments/13wbf4u/run_a_javascript_app_connected_to_a_huggingface/)
-- [[AskJS] Whats a good naming scheme?](https://www.reddit.com/r/javascript/comments/13wa91e/askjs_whats_a_good_naming_scheme/)
-- [[AskJS] Asking advice on monorepo setup with multiple frameworks](https://www.reddit.com/r/javascript/comments/13w62ls/askjs_asking_advice_on_monorepo_setup_with/)
-- [useHooks – A collection of Server Component safe React Hooks](https://www.reddit.com/r/javascript/comments/13w09gg/usehooks_a_collection_of_server_component_safe/)
+- [Locsl First Web Meetup #4](https://www.reddit.com/r/javascript/comments/13wmxy1/locsl_first_web_meetup_4/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
