@@ -382,6 +382,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *NodeSource posts*
 
 <!-- NODESOURCE-POST-LIST:START -->
+- [Measuring latency from the client side using Chrome DevTools and N|Solid](https://nodesource.com/blog/measuring-latency-client-side-devtools)
 - [Measure Node.js server response time with N|Solid](https://nodesource.com/blog/measure-nodejs-server-response-time-with-nsolid)
 - [NodeForest Status Report -  Earth Day Project](https://nodesource.com/blog/nodeforest-status-report)
 - [Strengthening Node.js Security: NodeSource-GitHub Partnership](https://nodesource.com/blog/strengthening-nodejs-security)
@@ -391,7 +392,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [AIOps Observability: Going Beyond Traditional APM](https://nodesource.com/blog/aiops-observability-nsolid)
 - [N|Solid v4.9.2 is now available](https://nodesource.com/blog/announcing-NSolid-version-492)
 - [SBOM: The Essential Building Block for Cybersecurity](https://nodesource.com/blog/sbom-nsolid)
-- [Nodesource introduces Machine learning on its N|Solid platform to help make better Node Apps](https://nodesource.com/blog/machine-learning-Nsolid)
 <!-- NODESOURCE-POST-LIST:END -->
 
 ### *React Native posts*
