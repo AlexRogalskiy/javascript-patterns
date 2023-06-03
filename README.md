@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Is TypeScript Overrated? The Downside ls of Static Type Checking](https://www.reddit.com/r/javascript/comments/13xriih/askjs_is_typescript_overrated_the_downside_ls_of/)
-- [Media Chrome turns 1.0 - Web components for Video](https://www.reddit.com/r/javascript/comments/13xqpd2/media_chrome_turns_10_web_components_for_video/)
-- [Announcing TypeScript 5.1](https://www.reddit.com/r/javascript/comments/13xod9l/announcing_typescript_51/)
-- [Strawberry - Zero-Dependency, Build-Free JavaScript Framework](https://www.reddit.com/r/javascript/comments/13xfmyg/strawberry_zerodependency_buildfree_javascript/)
-- [Painless WebGPU Programming with taichi.js](https://www.reddit.com/r/javascript/comments/13xdhsa/painless_webgpu_programming_with_taichijs/)
-- [[AskJS] How to do Gatsby + Strapi right?](https://www.reddit.com/r/javascript/comments/13xch3e/askjs_how_to_do_gatsby_strapi_right/)
-- [Web Based Local First P2P Development with Holepunch&#39;s Ecosystem](https://www.reddit.com/r/javascript/comments/13x6l1j/web_based_local_first_p2p_development_with/)
-- [JavaScript Macros in Bun](https://www.reddit.com/r/javascript/comments/13x1gwe/javascript_macros_in_bun/)
-- [React and NodeJS Authentication with Refresh &amp; Access Tokens: A Step-by-Step Guide](https://www.reddit.com/r/javascript/comments/13wpm20/react_and_nodejs_authentication_with_refresh/)
-- [Locsl First Web Meetup #4](https://www.reddit.com/r/javascript/comments/13wmxy1/locsl_first_web_meetup_4/)
+- [VanJS &lpar;world&#39;s smallest reactive UI framework&rpar; 0.11.11 Released: More sample apps, further size reduction and better type definition](https://www.reddit.com/r/javascript/comments/13yuod0/vanjs_worlds_smallest_reactive_ui_framework_01111/)
+- [Mount a Multi-Page SPA into an App with Server-Side Routing](https://www.reddit.com/r/javascript/comments/13yu2m1/mount_a_multipage_spa_into_an_app_with_serverside/)
+- [Free OSS plugin that generates Playwright-like traces but for Cypress](https://www.reddit.com/r/javascript/comments/13ytvdr/free_oss_plugin_that_generates_playwrightlike/)
+- [RSC From Scratch. Part 1: Server Components](https://www.reddit.com/r/javascript/comments/13yjk87/rsc_from_scratch_part_1_server_components/)
+- [&quot;completions&quot; my first open-source project: SDK for interactive with OpenAI chat API](https://www.reddit.com/r/javascript/comments/13yhf7v/completions_my_first_opensource_project_sdk_for/)
+- [implement redux in 80 LOC](https://www.reddit.com/r/javascript/comments/13yfnxo/implement_redux_in_80_loc/)
+- [I made a free open source site to help developers and CS students create their own portfolio! You can create your profile right away or host it by yourself!](https://www.reddit.com/r/javascript/comments/13ye81p/i_made_a_free_open_source_site_to_help_developers/)
+- [[AskJS] What would be a more recent equivalent to Crockford&#39;s &quot;Good Parts&quot; ?](https://www.reddit.com/r/javascript/comments/13ydvue/askjs_what_would_be_a_more_recent_equivalent_to/)
+- [NakedJSX - Use JSX without React](https://www.reddit.com/r/javascript/comments/13y6m8o/nakedjsx_use_jsx_without_react/)
+- [Native messaging hosts](https://www.reddit.com/r/javascript/comments/13y1bp3/native_messaging_hosts/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
