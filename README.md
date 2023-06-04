@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] What is the proper way to write a regular expression to replace string values in Excel using Javascript?](https://www.reddit.com/r/javascript/comments/13zwtlz/askjs_what_is_the_proper_way_to_write_a_regular/)
+- [eslint-plugin-big-number-rules: Enforce finance-safe calculations &lpar;helps 0.1 + 0.2 really equal 0.3&rpar;](https://www.reddit.com/r/javascript/comments/13zmc8d/eslintpluginbignumberrules_enforce_financesafe/)
+- [I made it as a hobby. VirtualDome library &quot;WWACT&quot; Interface improvements and various bug fixes. Interface improvements and additional functionality for the make function, Improved location of updated, mountd, and unmount hook declarations, Update the readme example,](https://www.reddit.com/r/javascript/comments/13zjdrz/i_made_it_as_a_hobby_virtualdome_library_wwact/)
+- [An interactive SVG visualization of the benefits and drawbacks of 35 different password replacement schemes: from &quot;The Quest to Replace Passwords&quot;](https://www.reddit.com/r/javascript/comments/13ziix6/an_interactive_svg_visualization_of_the_benefits/)
+- [Why we are dropping support for Next.js](https://www.reddit.com/r/javascript/comments/13zgesu/why_we_are_dropping_support_for_nextjs/)
+- [Generating React Components with Auto](https://www.reddit.com/r/javascript/comments/13z9si6/generating_react_components_with_auto/)
+- [The need for a new backend framework](https://www.reddit.com/r/javascript/comments/13z9ocd/the_need_for_a_new_backend_framework/)
+- [Showoff Saturday &lpar;June 03, 2023&rpar;](https://www.reddit.com/r/javascript/comments/13z42za/showoff_saturday_june_03_2023/)
 - [VanJS &lpar;world&#39;s smallest reactive UI framework&rpar; 0.11.11 Released: More sample apps, further size reduction and better type definition](https://www.reddit.com/r/javascript/comments/13yuod0/vanjs_worlds_smallest_reactive_ui_framework_01111/)
 - [Mount a Multi-Page SPA into an App with Server-Side Routing](https://www.reddit.com/r/javascript/comments/13yu2m1/mount_a_multipage_spa_into_an_app_with_serverside/)
-- [Free OSS plugin that generates Playwright-like traces but for Cypress](https://www.reddit.com/r/javascript/comments/13ytvdr/free_oss_plugin_that_generates_playwrightlike/)
-- [RSC From Scratch. Part 1: Server Components](https://www.reddit.com/r/javascript/comments/13yjk87/rsc_from_scratch_part_1_server_components/)
-- [&quot;completions&quot; my first open-source project: SDK for interactive with OpenAI chat API](https://www.reddit.com/r/javascript/comments/13yhf7v/completions_my_first_opensource_project_sdk_for/)
-- [implement redux in 80 LOC](https://www.reddit.com/r/javascript/comments/13yfnxo/implement_redux_in_80_loc/)
-- [I made a free open source site to help developers and CS students create their own portfolio! You can create your profile right away or host it by yourself!](https://www.reddit.com/r/javascript/comments/13ye81p/i_made_a_free_open_source_site_to_help_developers/)
-- [[AskJS] What would be a more recent equivalent to Crockford&#39;s &quot;Good Parts&quot; ?](https://www.reddit.com/r/javascript/comments/13ydvue/askjs_what_would_be_a_more_recent_equivalent_to/)
-- [NakedJSX - Use JSX without React](https://www.reddit.com/r/javascript/comments/13y6m8o/nakedjsx_use_jsx_without_react/)
-- [Native messaging hosts](https://www.reddit.com/r/javascript/comments/13y1bp3/native_messaging_hosts/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
