@@ -277,10 +277,10 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] What is the proper way to write a regular expression to replace string values in Excel using Javascript?](https://www.reddit.com/r/javascript/comments/13zwtlz/askjs_what_is_the_proper_way_to_write_a_regular/)
+- [My little UI library jQuire has a website](https://www.reddit.com/r/javascript/comments/140n9uw/my_little_ui_library_jquire_has_a_website/)
+- [How to detect unnecessary renderings of DOM elements in your web app to improve performances](https://www.reddit.com/r/javascript/comments/1402rah/how_to_detect_unnecessary_renderings_of_dom/)
 - [eslint-plugin-big-number-rules: Enforce finance-safe calculations &lpar;helps 0.1 + 0.2 really equal 0.3&rpar;](https://www.reddit.com/r/javascript/comments/13zmc8d/eslintpluginbignumberrules_enforce_financesafe/)
 - [I made it as a hobby. VirtualDome library &quot;WWACT&quot; Interface improvements and various bug fixes. Interface improvements and additional functionality for the make function, Improved location of updated, mountd, and unmount hook declarations, Update the readme example,](https://www.reddit.com/r/javascript/comments/13zjdrz/i_made_it_as_a_hobby_virtualdome_library_wwact/)
-- [An interactive SVG visualization of the benefits and drawbacks of 35 different password replacement schemes: from &quot;The Quest to Replace Passwords&quot;](https://www.reddit.com/r/javascript/comments/13ziix6/an_interactive_svg_visualization_of_the_benefits/)
 - [Why we are dropping support for Next.js](https://www.reddit.com/r/javascript/comments/13zgesu/why_we_are_dropping_support_for_nextjs/)
 - [Generating React Components with Auto](https://www.reddit.com/r/javascript/comments/13z9si6/generating_react_components_with_auto/)
 - [The need for a new backend framework](https://www.reddit.com/r/javascript/comments/13z9ocd/the_need_for_a_new_backend_framework/)
