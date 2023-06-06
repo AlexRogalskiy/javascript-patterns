@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Js Confuser: An open-source JavaScript obfuscation tool made by me! Check out this live demo here:](https://www.reddit.com/r/javascript/comments/141xa0d/js_confuser_an_opensource_javascript_obfuscation/)
+- [Learning by doing - Vue devs build a Svelte Single Page App](https://www.reddit.com/r/javascript/comments/141iqqh/learning_by_doing_vue_devs_build_a_svelte_single/)
+- [VS Code and WebAssemblies](https://www.reddit.com/r/javascript/comments/141ilmp/vs_code_and_webassemblies/)
+- [Package that provides a decorator to annotate class methods with Sentry tracing information.](https://www.reddit.com/r/javascript/comments/141g8ea/package_that_provides_a_decorator_to_annotate/)
+- [Flappy Bird in JavaScript](https://www.reddit.com/r/javascript/comments/141dsfp/flappy_bird_in_javascript/)
+- [OpenJS Foundation Receives Major Government Investment from Sovereign Tech Fund for Web Security and Stability](https://www.reddit.com/r/javascript/comments/141cc2b/openjs_foundation_receives_major_government/)
+- [Using JSX with jQuery](https://www.reddit.com/r/javascript/comments/14197sb/using_jsx_with_jquery/)
+- [Convert CSS Modules to Tailwind CSS in JSX/TSX](https://www.reddit.com/r/javascript/comments/14195pg/convert_css_modules_to_tailwind_css_in_jsxtsx/)
+- [MiroTalk WebRTC Live Broadcast](https://www.reddit.com/r/javascript/comments/1416046/mirotalk_webrtc_live_broadcast/)
 - [My little UI library jQuire has a website](https://www.reddit.com/r/javascript/comments/140n9uw/my_little_ui_library_jquire_has_a_website/)
-- [How to detect unnecessary renderings of DOM elements in your web app to improve performances](https://www.reddit.com/r/javascript/comments/1402rah/how_to_detect_unnecessary_renderings_of_dom/)
-- [eslint-plugin-big-number-rules: Enforce finance-safe calculations &lpar;helps 0.1 + 0.2 really equal 0.3&rpar;](https://www.reddit.com/r/javascript/comments/13zmc8d/eslintpluginbignumberrules_enforce_financesafe/)
-- [I made it as a hobby. VirtualDome library &quot;WWACT&quot; Interface improvements and various bug fixes. Interface improvements and additional functionality for the make function, Improved location of updated, mountd, and unmount hook declarations, Update the readme example,](https://www.reddit.com/r/javascript/comments/13zjdrz/i_made_it_as_a_hobby_virtualdome_library_wwact/)
-- [Why we are dropping support for Next.js](https://www.reddit.com/r/javascript/comments/13zgesu/why_we_are_dropping_support_for_nextjs/)
-- [Generating React Components with Auto](https://www.reddit.com/r/javascript/comments/13z9si6/generating_react_components_with_auto/)
-- [The need for a new backend framework](https://www.reddit.com/r/javascript/comments/13z9ocd/the_need_for_a_new_backend_framework/)
-- [Showoff Saturday &lpar;June 03, 2023&rpar;](https://www.reddit.com/r/javascript/comments/13z42za/showoff_saturday_june_03_2023/)
-- [VanJS &lpar;world&#39;s smallest reactive UI framework&rpar; 0.11.11 Released: More sample apps, further size reduction and better type definition](https://www.reddit.com/r/javascript/comments/13yuod0/vanjs_worlds_smallest_reactive_ui_framework_01111/)
-- [Mount a Multi-Page SPA into an App with Server-Side Routing](https://www.reddit.com/r/javascript/comments/13yu2m1/mount_a_multipage_spa_into_an_app_with_serverside/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
