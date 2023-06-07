@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Js Confuser: An open-source JavaScript obfuscation tool made by me! Check out this live demo here:](https://www.reddit.com/r/javascript/comments/141xa0d/js_confuser_an_opensource_javascript_obfuscation/)
-- [Learning by doing - Vue devs build a Svelte Single Page App](https://www.reddit.com/r/javascript/comments/141iqqh/learning_by_doing_vue_devs_build_a_svelte_single/)
-- [VS Code and WebAssemblies](https://www.reddit.com/r/javascript/comments/141ilmp/vs_code_and_webassemblies/)
-- [Package that provides a decorator to annotate class methods with Sentry tracing information.](https://www.reddit.com/r/javascript/comments/141g8ea/package_that_provides_a_decorator_to_annotate/)
-- [Flappy Bird in JavaScript](https://www.reddit.com/r/javascript/comments/141dsfp/flappy_bird_in_javascript/)
-- [OpenJS Foundation Receives Major Government Investment from Sovereign Tech Fund for Web Security and Stability](https://www.reddit.com/r/javascript/comments/141cc2b/openjs_foundation_receives_major_government/)
-- [Using JSX with jQuery](https://www.reddit.com/r/javascript/comments/14197sb/using_jsx_with_jquery/)
-- [Convert CSS Modules to Tailwind CSS in JSX/TSX](https://www.reddit.com/r/javascript/comments/14195pg/convert_css_modules_to_tailwind_css_in_jsxtsx/)
-- [MiroTalk WebRTC Live Broadcast](https://www.reddit.com/r/javascript/comments/1416046/mirotalk_webrtc_live_broadcast/)
-- [My little UI library jQuire has a website](https://www.reddit.com/r/javascript/comments/140n9uw/my_little_ui_library_jquire_has_a_website/)
+- [Formatters, linters, and compilers: Oh my!](https://www.reddit.com/r/javascript/comments/1430ne7/formatters_linters_and_compilers_oh_my/)
+- [Hey y&#39;all, because Spotify has a presence but YouTube didn&#39;t, I made a Chrome Extension that displays a detailed Discord rich presence for YouTube!](https://www.reddit.com/r/javascript/comments/142sh2c/hey_yall_because_spotify_has_a_presence_but/)
+- [Write Better CSS By Borrowing Ideas From JavaScript Functions](https://www.reddit.com/r/javascript/comments/142q2ac/write_better_css_by_borrowing_ideas_from/)
+- [How We Sped up Search Latency with Server-sent Events with Express.js](https://www.reddit.com/r/javascript/comments/142m630/how_we_sped_up_search_latency_with_serversent/)
+- [We built a full online IDE that deploys your sites with your domains in seconds, and allows you to test your code, and comes with 1000+ templates, Ai assistant, and more..](https://www.reddit.com/r/javascript/comments/142irak/we_built_a_full_online_ide_that_deploys_your/)
+- [[AskJS] C# in every Node.js job posting?](https://www.reddit.com/r/javascript/comments/142ib13/askjs_c_in_every_nodejs_job_posting/)
+- [Prim+RPC: a bridge between JavaScript environments. Easy-to-understand, type-safe, transport-agnostic RPC/IPC for JavaScript, supporting callbacks, batching, file uploads, custom serialization, and more.](https://www.reddit.com/r/javascript/comments/142hsqs/primrpc_a_bridge_between_javascript_environments/)
+- [Douglas Crockford argues that it’s time for the software industry to move on from JavaScript](https://www.reddit.com/r/javascript/comments/142habu/douglas_crockford_argues_that_its_time_for_the/)
+- [I tried to do something with r/typescript&#39;s &quot;valuable&quot; feedback where JavaScript projects might benefit from.](https://www.reddit.com/r/javascript/comments/142crg3/i_tried_to_do_something_with_rtypescripts/)
+- [World Wide Web Wars](https://www.reddit.com/r/javascript/comments/14291sm/world_wide_web_wars/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
