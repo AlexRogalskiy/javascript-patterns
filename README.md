@@ -292,10 +292,10 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [TypeScript 5.1 production release arrives](https://www.infoworld.com/article/3694348/typescript-51-production-release-arrives.html#tk.rss_javascript)
 - [Bootstrap 5.3.0 emphasizes dark mode, custom colors](https://www.infoworld.com/article/3698509/bootstrap-530-emphasizes-dark-mode-custom-colors.html#tk.rss_javascript)
 - [Latest Deno release supports NPM packages](https://www.infoworld.com/article/3697852/latest-deno-release-supports-npm-packages.html#tk.rss_javascript)
 - [Angular users want better server-side rendering](https://www.infoworld.com/article/3697748/angular-users-want-better-server-side-rendering.html#tk.rss_javascript)
-- [TypeScript 5.1 production release arrives](https://www.infoworld.com/article/3694348/typescript-51-production-release-arrives.html#tk.rss_javascript)
 - [Next.js rearchitects router for smoother server-side rendering](https://www.infoworld.com/article/3695595/nextjs-rearchitects-router-for-smoother-server-side-rendering.html#tk.rss_javascript)
 - [A practical guide to React Native authentication](https://www.infoworld.com/article/3695169/a-practical-guide-to-react-native-authentication.html#tk.rss_javascript)
 - [Angular 16 previews new reactivity model](https://www.infoworld.com/article/3695589/angular-16-previews-new-reactivity-model.html#tk.rss_javascript)
