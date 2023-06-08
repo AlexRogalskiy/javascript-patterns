@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Formatters, linters, and compilers: Oh my!](https://www.reddit.com/r/javascript/comments/1430ne7/formatters_linters_and_compilers_oh_my/)
-- [Hey y&#39;all, because Spotify has a presence but YouTube didn&#39;t, I made a Chrome Extension that displays a detailed Discord rich presence for YouTube!](https://www.reddit.com/r/javascript/comments/142sh2c/hey_yall_because_spotify_has_a_presence_but/)
-- [Write Better CSS By Borrowing Ideas From JavaScript Functions](https://www.reddit.com/r/javascript/comments/142q2ac/write_better_css_by_borrowing_ideas_from/)
-- [How We Sped up Search Latency with Server-sent Events with Express.js](https://www.reddit.com/r/javascript/comments/142m630/how_we_sped_up_search_latency_with_serversent/)
-- [We built a full online IDE that deploys your sites with your domains in seconds, and allows you to test your code, and comes with 1000+ templates, Ai assistant, and more..](https://www.reddit.com/r/javascript/comments/142irak/we_built_a_full_online_ide_that_deploys_your/)
-- [[AskJS] C# in every Node.js job posting?](https://www.reddit.com/r/javascript/comments/142ib13/askjs_c_in_every_nodejs_job_posting/)
-- [Prim+RPC: a bridge between JavaScript environments. Easy-to-understand, type-safe, transport-agnostic RPC/IPC for JavaScript, supporting callbacks, batching, file uploads, custom serialization, and more.](https://www.reddit.com/r/javascript/comments/142hsqs/primrpc_a_bridge_between_javascript_environments/)
-- [Douglas Crockford argues that it’s time for the software industry to move on from JavaScript](https://www.reddit.com/r/javascript/comments/142habu/douglas_crockford_argues_that_its_time_for_the/)
-- [I tried to do something with r/typescript&#39;s &quot;valuable&quot; feedback where JavaScript projects might benefit from.](https://www.reddit.com/r/javascript/comments/142crg3/i_tried_to_do_something_with_rtypescripts/)
-- [World Wide Web Wars](https://www.reddit.com/r/javascript/comments/14291sm/world_wide_web_wars/)
+- [[AskJS] Any ideas for database features?](https://www.reddit.com/r/javascript/comments/143ufbc/askjs_any_ideas_for_database_features/)
+- [An open source Listings web-app, JavaScript all the way. Star if you like ! Contribution is welcome ;&rpar;](https://www.reddit.com/r/javascript/comments/143qj7x/an_open_source_listings_webapp_javascript_all_the/)
+- [Practical Stimulus: Capture User Input](https://www.reddit.com/r/javascript/comments/143pt5x/practical_stimulus_capture_user_input/)
+- [I created `fragment-shader` – a package for writing &amp; rendering fragment shaders in the browser.](https://www.reddit.com/r/javascript/comments/143mnm6/i_created_fragmentshader_a_package_for_writing/)
+- [Source code of a Chrome extension that removes noise from Youtube](https://www.reddit.com/r/javascript/comments/143mmet/source_code_of_a_chrome_extension_that_removes/)
+- [How I Built a Modern &#39;Food Menu&#39; Web App: From Tech Stack to Workflow](https://www.reddit.com/r/javascript/comments/143ev4t/how_i_built_a_modern_food_menu_web_app_from_tech/)
+- [I created a CLI tool that writes unit tests with GPT-4 &lpar;with one command, it created ~1500 tests for Lodash and found 13 bugs&rpar;](https://www.reddit.com/r/javascript/comments/143edx1/i_created_a_cli_tool_that_writes_unit_tests_with/)
+- [JS private class fields considered harmful](https://www.reddit.com/r/javascript/comments/143a2xj/js_private_class_fields_considered_harmful/)
+- [Decorator to annotate class methods with Sentry tracing information.](https://www.reddit.com/r/javascript/comments/1439q32/decorator_to_annotate_class_methods_with_sentry/)
+- [SVG versus Canvas: Which technology to choose and why?](https://www.reddit.com/r/javascript/comments/14385sx/svg_versus_canvas_which_technology_to_choose_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
