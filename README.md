@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Any ideas for database features?](https://www.reddit.com/r/javascript/comments/143ufbc/askjs_any_ideas_for_database_features/)
-- [An open source Listings web-app, JavaScript all the way. Star if you like ! Contribution is welcome ;&rpar;](https://www.reddit.com/r/javascript/comments/143qj7x/an_open_source_listings_webapp_javascript_all_the/)
-- [Practical Stimulus: Capture User Input](https://www.reddit.com/r/javascript/comments/143pt5x/practical_stimulus_capture_user_input/)
-- [I created `fragment-shader` – a package for writing &amp; rendering fragment shaders in the browser.](https://www.reddit.com/r/javascript/comments/143mnm6/i_created_fragmentshader_a_package_for_writing/)
-- [Source code of a Chrome extension that removes noise from Youtube](https://www.reddit.com/r/javascript/comments/143mmet/source_code_of_a_chrome_extension_that_removes/)
-- [How I Built a Modern &#39;Food Menu&#39; Web App: From Tech Stack to Workflow](https://www.reddit.com/r/javascript/comments/143ev4t/how_i_built_a_modern_food_menu_web_app_from_tech/)
-- [I created a CLI tool that writes unit tests with GPT-4 &lpar;with one command, it created ~1500 tests for Lodash and found 13 bugs&rpar;](https://www.reddit.com/r/javascript/comments/143edx1/i_created_a_cli_tool_that_writes_unit_tests_with/)
-- [JS private class fields considered harmful](https://www.reddit.com/r/javascript/comments/143a2xj/js_private_class_fields_considered_harmful/)
-- [Decorator to annotate class methods with Sentry tracing information.](https://www.reddit.com/r/javascript/comments/1439q32/decorator_to_annotate_class_methods_with_sentry/)
-- [SVG versus Canvas: Which technology to choose and why?](https://www.reddit.com/r/javascript/comments/14385sx/svg_versus_canvas_which_technology_to_choose_and/)
+- [VanJS &lpar;world&#39;s smallest reactive UI framework&rpar; 0.12.0 Released: Polymorphic binding, SVG/AutoML support, readonly properties, performance optimizations, etc.](https://www.reddit.com/r/javascript/comments/144po5w/vanjs_worlds_smallest_reactive_ui_framework_0120/)
+- [[AskJS] Is the babel-minify project abandoned?](https://www.reddit.com/r/javascript/comments/144o4f0/askjs_is_the_babelminify_project_abandoned/)
+- [Visual Studio Code May 2023](https://www.reddit.com/r/javascript/comments/144g2zu/visual_studio_code_may_2023/)
+- [ESLint guide: how to use it with confidence](https://www.reddit.com/r/javascript/comments/144d45g/eslint_guide_how_to_use_it_with_confidence/)
+- [Multiple Layers of Abstraction in Design Systems](https://www.reddit.com/r/javascript/comments/144d2bb/multiple_layers_of_abstraction_in_design_systems/)
+- [Rust for Javascript Developers: Building apps that utilize LLMs](https://www.reddit.com/r/javascript/comments/144c5vi/rust_for_javascript_developers_building_apps_that/)
+- [[AskJS] Farewell to Stack Overflow?](https://www.reddit.com/r/javascript/comments/144bxs7/askjs_farewell_to_stack_overflow/)
+- [autocomplete - a JavaScript library that lets you quickly build autocomplete experiences](https://www.reddit.com/r/javascript/comments/1449wi3/autocomplete_a_javascript_library_that_lets_you/)
+- [Created ESLint plugin for sorting various data such as objects, imports, types, enums, JSX props, etc.](https://www.reddit.com/r/javascript/comments/14493k7/created_eslint_plugin_for_sorting_various_data/)
+- [Can this device make a phone call?](https://www.reddit.com/r/javascript/comments/1447gdg/can_this_device_make_a_phone_call/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
