@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [VanJS &lpar;world&#39;s smallest reactive UI framework&rpar; 0.12.0 Released: Polymorphic binding, SVG/AutoML support, readonly properties, performance optimizations, etc.](https://www.reddit.com/r/javascript/comments/144po5w/vanjs_worlds_smallest_reactive_ui_framework_0120/)
-- [[AskJS] Is the babel-minify project abandoned?](https://www.reddit.com/r/javascript/comments/144o4f0/askjs_is_the_babelminify_project_abandoned/)
-- [Visual Studio Code May 2023](https://www.reddit.com/r/javascript/comments/144g2zu/visual_studio_code_may_2023/)
-- [ESLint guide: how to use it with confidence](https://www.reddit.com/r/javascript/comments/144d45g/eslint_guide_how_to_use_it_with_confidence/)
-- [Multiple Layers of Abstraction in Design Systems](https://www.reddit.com/r/javascript/comments/144d2bb/multiple_layers_of_abstraction_in_design_systems/)
-- [Rust for Javascript Developers: Building apps that utilize LLMs](https://www.reddit.com/r/javascript/comments/144c5vi/rust_for_javascript_developers_building_apps_that/)
-- [[AskJS] Farewell to Stack Overflow?](https://www.reddit.com/r/javascript/comments/144bxs7/askjs_farewell_to_stack_overflow/)
-- [autocomplete - a JavaScript library that lets you quickly build autocomplete experiences](https://www.reddit.com/r/javascript/comments/1449wi3/autocomplete_a_javascript_library_that_lets_you/)
-- [Created ESLint plugin for sorting various data such as objects, imports, types, enums, JSX props, etc.](https://www.reddit.com/r/javascript/comments/14493k7/created_eslint_plugin_for_sorting_various_data/)
-- [Can this device make a phone call?](https://www.reddit.com/r/javascript/comments/1447gdg/can_this_device_make_a_phone_call/)
+- [[AskJS] How are you guys sharing your Javascript AI prompts?](https://www.reddit.com/r/javascript/comments/145hiuq/askjs_how_are_you_guys_sharing_your_javascript_ai/)
+- [HDK - a Javascript library for creating web-based 3d experiences. Compatible across all major mobile, tablet, and desktop browsers. It features built-in multiplayer, character controls, gameplay mechanics, customizable avatars and more](https://www.reddit.com/r/javascript/comments/145afm0/hdk_a_javascript_library_for_creating_webbased_3d/)
+- [[Nestia] I made backend simulator for frontend developers &lpar;similar with MSW, but fully automated&rpar;](https://www.reddit.com/r/javascript/comments/1459t1c/nestia_i_made_backend_simulator_for_frontend/)
+- [[AskJS] Gameboy Advance](https://www.reddit.com/r/javascript/comments/14594no/askjs_gameboy_advance/)
+- [Two Truths and a Lie - Play Now and Share Your Thoughts!](https://www.reddit.com/r/javascript/comments/1457m91/two_truths_and_a_lie_play_now_and_share_your/)
+- [Flowbite React - an open-source UI component library built on top of Tailwind CSS with React components and based on the Flowbite Design System](https://www.reddit.com/r/javascript/comments/1456d1e/flowbite_react_an_opensource_ui_component_library/)
+- [A Skeptic’s Guide to Functional Programming with JavaScript](https://www.reddit.com/r/javascript/comments/1454ima/a_skeptics_guide_to_functional_programming_with/)
+- [Web Audio MOD player, first steps](https://www.reddit.com/r/javascript/comments/1452qw2/web_audio_mod_player_first_steps/)
+- [[AskJS] Should r/javascript join the other subs to protest the egregious changes in Reddit&#39;s API policy?](https://www.reddit.com/r/javascript/comments/1452ahy/askjs_should_rjavascript_join_the_other_subs_to/)
+- [What are Reverse-API Gateways?](https://www.reddit.com/r/javascript/comments/14506zm/what_are_reverseapi_gateways/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
