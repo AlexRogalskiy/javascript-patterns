@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Is JavaScript actually incredibly simple?](https://www.reddit.com/r/javascript/comments/146g1my/askjs_is_javascript_actually_incredibly_simple/)
+- [Million.js - claims to make React 70% faster as a VDOM replacement](https://www.reddit.com/r/javascript/comments/1468vnz/millionjs_claims_to_make_react_70_faster_as_a/)
+- [[AskJS] any recommended frameworks for making 2d games in browser?](https://www.reddit.com/r/javascript/comments/1466cxu/askjs_any_recommended_frameworks_for_making_2d/)
+- [[AskJS] How to decompose a node into an array of all nodes using nextSibling and firstChild?](https://www.reddit.com/r/javascript/comments/1465w0g/askjs_how_to_decompose_a_node_into_an_array_of/)
+- [[AskJS] Which is the best way to declare arrow function?](https://www.reddit.com/r/javascript/comments/145ttd1/askjs_which_is_the_best_way_to_declare_arrow/)
+- [Showoff Saturday &lpar;June 10, 2023&rpar;](https://www.reddit.com/r/javascript/comments/145t4n3/showoff_saturday_june_10_2023/)
+- [Kera Desktop: Web-based, cross-platform desktop environment](https://www.reddit.com/r/javascript/comments/145rtbr/kera_desktop_webbased_crossplatform_desktop/)
 - [[AskJS] How are you guys sharing your Javascript AI prompts?](https://www.reddit.com/r/javascript/comments/145hiuq/askjs_how_are_you_guys_sharing_your_javascript_ai/)
 - [HDK - a Javascript library for creating web-based 3d experiences. Compatible across all major mobile, tablet, and desktop browsers. It features built-in multiplayer, character controls, gameplay mechanics, customizable avatars and more](https://www.reddit.com/r/javascript/comments/145afm0/hdk_a_javascript_library_for_creating_webbased_3d/)
 - [[Nestia] I made backend simulator for frontend developers &lpar;similar with MSW, but fully automated&rpar;](https://www.reddit.com/r/javascript/comments/1459t1c/nestia_i_made_backend_simulator_for_frontend/)
-- [[AskJS] Gameboy Advance](https://www.reddit.com/r/javascript/comments/14594no/askjs_gameboy_advance/)
-- [Two Truths and a Lie - Play Now and Share Your Thoughts!](https://www.reddit.com/r/javascript/comments/1457m91/two_truths_and_a_lie_play_now_and_share_your/)
-- [Flowbite React - an open-source UI component library built on top of Tailwind CSS with React components and based on the Flowbite Design System](https://www.reddit.com/r/javascript/comments/1456d1e/flowbite_react_an_opensource_ui_component_library/)
-- [A Skeptic’s Guide to Functional Programming with JavaScript](https://www.reddit.com/r/javascript/comments/1454ima/a_skeptics_guide_to_functional_programming_with/)
-- [Web Audio MOD player, first steps](https://www.reddit.com/r/javascript/comments/1452qw2/web_audio_mod_player_first_steps/)
-- [[AskJS] Should r/javascript join the other subs to protest the egregious changes in Reddit&#39;s API policy?](https://www.reddit.com/r/javascript/comments/1452ahy/askjs_should_rjavascript_join_the_other_subs_to/)
-- [What are Reverse-API Gateways?](https://www.reddit.com/r/javascript/comments/14506zm/what_are_reverseapi_gateways/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
