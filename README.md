@@ -382,6 +382,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *NodeSource posts*
 
 <!-- NODESOURCE-POST-LIST:START -->
+- [N|Solid v4.9.4 is now available](https://nodesource.com/blog/announcing-NSolid-version-494)
+- [AI &amp; ML - Highlights Google I/O &lpar;Connect&rpar; - Miami](https://nodesource.com/blog/AI-Highlights-Google-IO-Connect-Miami)
 - [Measuring latency from the client side using Chrome DevTools and N|Solid](https://nodesource.com/blog/measuring-latency-client-side-devtools)
 - [Measure Node.js server response time with N|Solid](https://nodesource.com/blog/measure-nodejs-server-response-time-with-nsolid)
 - [NodeForest Status Report -  Earth Day Project](https://nodesource.com/blog/nodeforest-status-report)
@@ -390,8 +392,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Unleashing the Power of NCM: Safeguarding Node.js Applications with Next-Generation Security in N|Solid](https://nodesource.com/blog/unleashing-power-ncm)
 - [Introducing nsuv](https://nodesource.com/blog/intro-nsuv)
 - [AIOps Observability: Going Beyond Traditional APM](https://nodesource.com/blog/aiops-observability-nsolid)
-- [N|Solid v4.9.2 is now available](https://nodesource.com/blog/announcing-NSolid-version-492)
-- [SBOM: The Essential Building Block for Cybersecurity](https://nodesource.com/blog/sbom-nsolid)
 <!-- NODESOURCE-POST-LIST:END -->
 
 ### *React Native posts*
