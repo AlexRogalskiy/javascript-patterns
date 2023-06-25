@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Is JavaScript actually incredibly simple?](https://www.reddit.com/r/javascript/comments/146g1my/askjs_is_javascript_actually_incredibly_simple/)
-- [Million.js - claims to make React 70% faster as a VDOM replacement](https://www.reddit.com/r/javascript/comments/1468vnz/millionjs_claims_to_make_react_70_faster_as_a/)
-- [[AskJS] any recommended frameworks for making 2d games in browser?](https://www.reddit.com/r/javascript/comments/1466cxu/askjs_any_recommended_frameworks_for_making_2d/)
-- [[AskJS] How to decompose a node into an array of all nodes using nextSibling and firstChild?](https://www.reddit.com/r/javascript/comments/1465w0g/askjs_how_to_decompose_a_node_into_an_array_of/)
-- [[AskJS] Which is the best way to declare arrow function?](https://www.reddit.com/r/javascript/comments/145ttd1/askjs_which_is_the_best_way_to_declare_arrow/)
-- [Showoff Saturday &lpar;June 10, 2023&rpar;](https://www.reddit.com/r/javascript/comments/145t4n3/showoff_saturday_june_10_2023/)
-- [Kera Desktop: Web-based, cross-platform desktop environment](https://www.reddit.com/r/javascript/comments/145rtbr/kera_desktop_webbased_crossplatform_desktop/)
-- [[AskJS] How are you guys sharing your Javascript AI prompts?](https://www.reddit.com/r/javascript/comments/145hiuq/askjs_how_are_you_guys_sharing_your_javascript_ai/)
-- [HDK - a Javascript library for creating web-based 3d experiences. Compatible across all major mobile, tablet, and desktop browsers. It features built-in multiplayer, character controls, gameplay mechanics, customizable avatars and more](https://www.reddit.com/r/javascript/comments/145afm0/hdk_a_javascript_library_for_creating_webbased_3d/)
-- [[Nestia] I made backend simulator for frontend developers &lpar;similar with MSW, but fully automated&rpar;](https://www.reddit.com/r/javascript/comments/1459t1c/nestia_i_made_backend_simulator_for_frontend/)
+- [Where does r/javascript go from here?](https://www.reddit.com/r/javascript/comments/14i4s84/where_does_rjavascript_go_from_here/)
+- [Showoff Saturday &lpar;June 24, 2023&rpar;](https://www.reddit.com/r/javascript/comments/14hlz9r/showoff_saturday_june_24_2023/)
+- [WTF Wednesday &lpar;June 21, 2023&rpar;](https://www.reddit.com/r/javascript/comments/14f080m/wtf_wednesday_june_21_2023/)
+- [Your /r/javascript recap for the week of June 12 - June 18](https://www.reddit.com/r/javascript/comments/14d9a6n/your_rjavascript_recap_for_the_week_of_june_12/)
+- [Showoff Saturday &lpar;June 17, 2023&rpar;](https://www.reddit.com/r/javascript/comments/14bjzq9/showoff_saturday_june_17_2023/)
+- [WTF Wednesday &lpar;June 14, 2023&rpar;](https://www.reddit.com/r/javascript/comments/1490yjs/wtf_wednesday_june_14_2023/)
+- [[AskJS] Can anyone recommend a test runner with ESM and Custom Loader Support?](https://www.reddit.com/r/javascript/comments/1473ako/askjs_can_anyone_recommend_a_test_runner_with_esm/)
+- [How to handle emojis in Nodejs](https://www.reddit.com/r/javascript/comments/146z486/how_to_handle_emojis_in_nodejs/)
+- [/r/javascript will be going dark for at least 2 days starting June 12th in protest of Reddit&#39;s API changes](https://www.reddit.com/r/javascript/comments/146ufk7/rjavascript_will_be_going_dark_for_at_least_2/)
+- [Wes Bos – Next-Gen Server JavaScript: Web Standards](https://www.reddit.com/r/javascript/comments/146r7lo/wes_bos_nextgen_server_javascript_web_standards/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
