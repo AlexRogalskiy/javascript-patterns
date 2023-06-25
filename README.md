@@ -292,16 +292,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Bundling with the Bun.js bundler](https://www.infoworld.com/article/3699141/bundling-with-the-bunjs-bundler.html#tk.rss_javascript)
+- [Rust most admired language, Stack Overflow survey says](https://www.infoworld.com/article/3699788/rust-most-admired-language-stack-overflow-survey-says.html#tk.rss_javascript)
 - [TypeScript 5.1 production release arrives](https://www.infoworld.com/article/3694348/typescript-51-production-release-arrives.html#tk.rss_javascript)
 - [Bootstrap 5.3.0 emphasizes dark mode, custom colors](https://www.infoworld.com/article/3698509/bootstrap-530-emphasizes-dark-mode-custom-colors.html#tk.rss_javascript)
 - [Latest Deno release supports NPM packages](https://www.infoworld.com/article/3697852/latest-deno-release-supports-npm-packages.html#tk.rss_javascript)
 - [Angular users want better server-side rendering](https://www.infoworld.com/article/3697748/angular-users-want-better-server-side-rendering.html#tk.rss_javascript)
 - [Next.js rearchitects router for smoother server-side rendering](https://www.infoworld.com/article/3695595/nextjs-rearchitects-router-for-smoother-server-side-rendering.html#tk.rss_javascript)
-- [A practical guide to React Native authentication](https://www.infoworld.com/article/3695169/a-practical-guide-to-react-native-authentication.html#tk.rss_javascript)
 - [Angular 16 previews new reactivity model](https://www.infoworld.com/article/3695589/angular-16-previews-new-reactivity-model.html#tk.rss_javascript)
+- [A practical guide to React Native authentication](https://www.infoworld.com/article/3695169/a-practical-guide-to-react-native-authentication.html#tk.rss_javascript)
 - [JavaScript callbacks, promises, and async/await explained](https://www.infoworld.com/article/3322904/asynchronous-javascript-callbacks-and-promises-explained.html#tk.rss_javascript)
-- [Deno 1.33 debuts built-in key-value database](https://www.infoworld.com/article/3694935/deno-133-debuts-built-in-key-value-database.html#tk.rss_javascript)
-- [How to use async and await in JavaScript](https://www.infoworld.com/article/3328099/javascript-async-and-await-explained.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
