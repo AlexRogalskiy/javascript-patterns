@@ -352,6 +352,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *javascript programmer posts*
 
 <!-- METEOR-POST-LIST:START -->
+- [Meteor Monthly Update — June 2023](https://blog.meteor.com/meteor-monthly-update-june-2023-e4b9064fa379?source=rss----a9bcaf865278---4)
 - [Meteor Monthly Update — May 2023](https://blog.meteor.com/meteor-monthly-update-may-2023-6f6abaafb078?source=rss----a9bcaf865278---4)
 - [Meteor.js with Vite, Solid, and Tailwind CSS](https://blog.meteor.com/meteor-js-with-vite-solid-and-tailwind-css-d2d50dea970c?source=rss----a9bcaf865278---4)
 - [New Meteor.js 2.12 and Blaze 2.6.2 Release](https://blog.meteor.com/new-meteor-js-2-12-and-the-blaze-2-6-2-release-b72c2a7a593f?source=rss----a9bcaf865278---4)
@@ -361,7 +362,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [New Suspense Hooks for Meteor](https://blog.meteor.com/new-suspense-hooks-for-meteor-5391570b3007?source=rss----a9bcaf865278---4)
 - [Making Promises Suspendable](https://blog.meteor.com/making-promises-suspendable-a769bfebc1bc?source=rss----a9bcaf865278---4)
 - [Team SUS-GAWKY Earns 2nd Place in the 2022 Meteor Hackathon!](https://blog.meteor.com/team-sus-gawky-earns-2nd-place-in-the-2022-meteor-hackathon-2be8ab67bb15?source=rss----a9bcaf865278---4)
-- [New Meteor 2.11 and the new embedded MongoDB](https://blog.meteor.com/new-meteor-2-11-and-the-new-embedded-mongodb-19767076961b?source=rss----a9bcaf865278---4)
 <!-- METEOR-POST-LIST:END -->
 
 ### *Dreamix posts*
