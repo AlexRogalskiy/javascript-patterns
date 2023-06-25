@@ -322,6 +322,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *YouTube code posts*
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [Impressions of JSConf India 2023](https://www.youtube.com/watch?v=bbcr06F_PLM)
 - [Jsconf India 2023 - Track 1](https://www.youtube.com/watch?v=WteC5jpc9O8)
 - [Jsconf India Track 2](https://www.youtube.com/watch?v=Rjv-4aT-_8c)
 - [Jsconf India Online 2023 - Pre Event Virtual Meetup](https://www.youtube.com/watch?v=eY2lmQ8o3EI)
@@ -331,7 +332,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Rebuild React Hooks yourself for Node](https://www.youtube.com/watch?v=Om33AjwtQ_Y)
 - [JSConf Chile - día 2](https://www.youtube.com/watch?v=BuHaQXCHCMg)
 - [JSConf Chile dia 1](https://www.youtube.com/watch?v=nReMDgz02qo)
-- [Art in the times of Machine Learning and AI](https://www.youtube.com/watch?v=IO540bD5UJg)
 <!-- YOUTUBE-POST-LIST:END -->
 
 ### *ReactJS posts*
