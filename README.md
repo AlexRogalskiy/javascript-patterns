@@ -278,15 +278,15 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 
 <!-- REDDIT-POST-LIST:START -->
 - [Where does r/javascript go from here?](https://www.reddit.com/r/javascript/comments/14i4s84/where_does_rjavascript_go_from_here/)
-- [Showoff Saturday &lpar;June 24, 2023&rpar;](https://www.reddit.com/r/javascript/comments/14hlz9r/showoff_saturday_june_24_2023/)
 - [WTF Wednesday &lpar;June 21, 2023&rpar;](https://www.reddit.com/r/javascript/comments/14f080m/wtf_wednesday_june_21_2023/)
-- [Your /r/javascript recap for the week of June 12 - June 18](https://www.reddit.com/r/javascript/comments/14d9a6n/your_rjavascript_recap_for_the_week_of_june_12/)
-- [Showoff Saturday &lpar;June 17, 2023&rpar;](https://www.reddit.com/r/javascript/comments/14bjzq9/showoff_saturday_june_17_2023/)
-- [WTF Wednesday &lpar;June 14, 2023&rpar;](https://www.reddit.com/r/javascript/comments/1490yjs/wtf_wednesday_june_14_2023/)
 - [[AskJS] Can anyone recommend a test runner with ESM and Custom Loader Support?](https://www.reddit.com/r/javascript/comments/1473ako/askjs_can_anyone_recommend_a_test_runner_with_esm/)
 - [How to handle emojis in Nodejs](https://www.reddit.com/r/javascript/comments/146z486/how_to_handle_emojis_in_nodejs/)
 - [/r/javascript will be going dark for at least 2 days starting June 12th in protest of Reddit&#39;s API changes](https://www.reddit.com/r/javascript/comments/146ufk7/rjavascript_will_be_going_dark_for_at_least_2/)
 - [Wes Bos – Next-Gen Server JavaScript: Web Standards](https://www.reddit.com/r/javascript/comments/146r7lo/wes_bos_nextgen_server_javascript_web_standards/)
+- [How is a web app like this built and why don&#39;t we see more web apps built this beautifully?](https://www.reddit.com/r/javascript/comments/146o7a9/how_is_a_web_app_like_this_built_and_why_dont_we/)
+- [Netflix Hotkeys: A Chrome Extension to enhance your Netflix Experience](https://www.reddit.com/r/javascript/comments/146n17v/netflix_hotkeys_a_chrome_extension_to_enhance/)
+- [BMPJS - Easy interface to interact with BMP files and Canvas](https://www.reddit.com/r/javascript/comments/146jvvw/bmpjs_easy_interface_to_interact_with_bmp_files/)
+- [[AskJS] Is JavaScript actually incredibly simple?](https://www.reddit.com/r/javascript/comments/146g1my/askjs_is_javascript_actually_incredibly_simple/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
