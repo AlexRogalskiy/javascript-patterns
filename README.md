@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Svelte 4 shrinks code footprint, compiled output](https://www.infoworld.com/article/3700714/svelte-4-shrinks-code-footprint-compiled-output.html#tk.rss_javascript)
 - [Bundling with the Bun.js bundler](https://www.infoworld.com/article/3699141/bundling-with-the-bunjs-bundler.html#tk.rss_javascript)
 - [Rust most admired language, Stack Overflow survey says](https://www.infoworld.com/article/3699788/rust-most-admired-language-stack-overflow-survey-says.html#tk.rss_javascript)
 - [TypeScript 5.1 production release arrives](https://www.infoworld.com/article/3694348/typescript-51-production-release-arrives.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Next.js rearchitects router for smoother server-side rendering](https://www.infoworld.com/article/3695595/nextjs-rearchitects-router-for-smoother-server-side-rendering.html#tk.rss_javascript)
 - [Angular 16 previews new reactivity model](https://www.infoworld.com/article/3695589/angular-16-previews-new-reactivity-model.html#tk.rss_javascript)
 - [A practical guide to React Native authentication](https://www.infoworld.com/article/3695169/a-practical-guide-to-react-native-authentication.html#tk.rss_javascript)
-- [JavaScript callbacks, promises, and async/await explained](https://www.infoworld.com/article/3322904/asynchronous-javascript-callbacks-and-promises-explained.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
