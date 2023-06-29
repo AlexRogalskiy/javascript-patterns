@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Bun.js creator Jarred Sumner talks tech, funding, and startups](https://www.infoworld.com/article/3700870/interview-with-jarred-sumner-buns-creator-talks-tech-funding-and-startups.html#tk.rss_javascript)
 - [Svelte 4 shrinks code footprint, compiled output](https://www.infoworld.com/article/3700714/svelte-4-shrinks-code-footprint-compiled-output.html#tk.rss_javascript)
 - [Bundling with the Bun.js bundler](https://www.infoworld.com/article/3699141/bundling-with-the-bunjs-bundler.html#tk.rss_javascript)
 - [Rust most admired language, Stack Overflow survey says](https://www.infoworld.com/article/3699788/rust-most-admired-language-stack-overflow-survey-says.html#tk.rss_javascript)
@@ -300,7 +301,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Latest Deno release supports NPM packages](https://www.infoworld.com/article/3697852/latest-deno-release-supports-npm-packages.html#tk.rss_javascript)
 - [Angular users want better server-side rendering](https://www.infoworld.com/article/3697748/angular-users-want-better-server-side-rendering.html#tk.rss_javascript)
 - [Next.js rearchitects router for smoother server-side rendering](https://www.infoworld.com/article/3695595/nextjs-rearchitects-router-for-smoother-server-side-rendering.html#tk.rss_javascript)
-- [Angular 16 previews new reactivity model](https://www.infoworld.com/article/3695589/angular-16-previews-new-reactivity-model.html#tk.rss_javascript)
 - [A practical guide to React Native authentication](https://www.infoworld.com/article/3695169/a-practical-guide-to-react-native-authentication.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
