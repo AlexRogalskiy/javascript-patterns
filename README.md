@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [TypeScript 5.2 beta brings explicit resource management](https://www.infoworld.com/article/3701454/typescript-52-beta-brings-explicit-resource-management.html#tk.rss_javascript)
 - [ECMAScript 2023 spec for JavaScript finalized](https://www.infoworld.com/article/3692809/ecmascript-2023-spec-for-javascript-finalized.html#tk.rss_javascript)
 - [Bun.js creator Jarred Sumner talks tech, funding, and startups](https://www.infoworld.com/article/3700870/interview-with-jarred-sumner-buns-creator-talks-tech-funding-and-startups.html#tk.rss_javascript)
 - [Svelte 4 shrinks code footprint, compiled output](https://www.infoworld.com/article/3700714/svelte-4-shrinks-code-footprint-compiled-output.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Bootstrap 5.3.0 emphasizes dark mode, custom colors](https://www.infoworld.com/article/3698509/bootstrap-530-emphasizes-dark-mode-custom-colors.html#tk.rss_javascript)
 - [Latest Deno release supports NPM packages](https://www.infoworld.com/article/3697852/latest-deno-release-supports-npm-packages.html#tk.rss_javascript)
 - [Angular users want better server-side rendering](https://www.infoworld.com/article/3697748/angular-users-want-better-server-side-rendering.html#tk.rss_javascript)
-- [Next.js rearchitects router for smoother server-side rendering](https://www.infoworld.com/article/3695595/nextjs-rearchitects-router-for-smoother-server-side-rendering.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
