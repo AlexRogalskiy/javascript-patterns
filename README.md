@@ -367,6 +367,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Dreamix posts*
 
 <!-- DREAMIX-POST-LIST:START -->
+- [Leveraging Google Places API and Google Maps API for custom area management solutions](https://dreamix.eu/blog/tech/leveraging-google-places-api-and-google-maps-api-for-custom-area-management-solutions)
 - [Building Your First NestJS Application: A Step-by-Step Guide](https://dreamix.eu/blog/javascript/building-your-first-nestjs-application-a-step-by-step-guide)
 - [Node.js Project Structure: A Short Guide](https://dreamix.eu/blog/frontpage/node-js-project-structure-a-short-guide)
 - [Should I consider Node.js for my project: 5 benefits](https://dreamix.eu/blog/javascript/should-i-consider-node-js-for-my-project-5-benefits)
@@ -376,7 +377,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [First Steps in React: Learn, Build, Enjoy](https://dreamix.eu/blog/frontpage/first-steps-in-react-learn-build-enjoy)
 - [Top 10 Trending JavaScript Frameworks](https://dreamix.eu/blog/frontpage/top-10-trending-javascript-frameworks)
 - [Java vs JavaScript: How to Choose the Right Backend Technology?](https://dreamix.eu/blog/java/java-vs-javascript-how-to-choose-the-right-backend-technology)
-- [Hunting memory leaks in JavaScript using Chrome DevTools](https://dreamix.eu/blog/frontpage/hunting-memory-leaks-in-javascript-using-chrome-devtools)
 <!-- DREAMIX-POST-LIST:END -->
 
 ### *NodeSource posts*
