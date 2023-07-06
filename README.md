@@ -277,6 +277,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [WTF Wednesday &lpar;July 05, 2023&rpar;](https://www.reddit.com/r/javascript/comments/14r2u5u/wtf_wednesday_july_05_2023/)
 - [Your /r/javascript recap for the week of June 19 - June 25](https://www.reddit.com/r/javascript/comments/14jc201/your_rjavascript_recap_for_the_week_of_june_19/)
 - [Where does r/javascript go from here?](https://www.reddit.com/r/javascript/comments/14i4s84/where_does_rjavascript_go_from_here/)
 - [WTF Wednesday &lpar;June 21, 2023&rpar;](https://www.reddit.com/r/javascript/comments/14f080m/wtf_wednesday_june_21_2023/)
@@ -286,7 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Wes Bos – Next-Gen Server JavaScript: Web Standards](https://www.reddit.com/r/javascript/comments/146r7lo/wes_bos_nextgen_server_javascript_web_standards/)
 - [How is a web app like this built and why don&#39;t we see more web apps built this beautifully?](https://www.reddit.com/r/javascript/comments/146o7a9/how_is_a_web_app_like_this_built_and_why_dont_we/)
 - [Netflix Hotkeys: A Chrome Extension to enhance your Netflix Experience](https://www.reddit.com/r/javascript/comments/146n17v/netflix_hotkeys_a_chrome_extension_to_enhance/)
-- [BMPJS - Easy interface to interact with BMP files and Canvas](https://www.reddit.com/r/javascript/comments/146jvvw/bmpjs_easy_interface_to_interact_with_bmp_files/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
