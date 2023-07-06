@@ -292,6 +292,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Reactive JavaScript with Stable Diffusion](https://www.infoworld.com/article/3701288/reactive-javascript-with-stable-diffusion.html#tk.rss_javascript)
+- [3 Python web frameworks for beautiful front ends](https://www.infoworld.com/article/3700689/3-python-web-frameworks-for-beautiful-front-ends.html#tk.rss_javascript)
 - [TypeScript 5.2 beta brings explicit resource management](https://www.infoworld.com/article/3701454/typescript-52-beta-brings-explicit-resource-management.html#tk.rss_javascript)
 - [ECMAScript 2023 spec for JavaScript finalized](https://www.infoworld.com/article/3692809/ecmascript-2023-spec-for-javascript-finalized.html#tk.rss_javascript)
 - [Bun.js creator Jarred Sumner talks tech, funding, and startups](https://www.infoworld.com/article/3700870/interview-with-jarred-sumner-buns-creator-talks-tech-funding-and-startups.html#tk.rss_javascript)
@@ -300,8 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Rust most admired language, Stack Overflow survey says](https://www.infoworld.com/article/3699788/rust-most-admired-language-stack-overflow-survey-says.html#tk.rss_javascript)
 - [TypeScript 5.1 production release arrives](https://www.infoworld.com/article/3694348/typescript-51-production-release-arrives.html#tk.rss_javascript)
 - [Bootstrap 5.3.0 emphasizes dark mode, custom colors](https://www.infoworld.com/article/3698509/bootstrap-530-emphasizes-dark-mode-custom-colors.html#tk.rss_javascript)
-- [Latest Deno release supports NPM packages](https://www.infoworld.com/article/3697852/latest-deno-release-supports-npm-packages.html#tk.rss_javascript)
-- [Angular users want better server-side rendering](https://www.infoworld.com/article/3697748/angular-users-want-better-server-side-rendering.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
