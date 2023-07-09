@@ -292,8 +292,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
-- [Reactive JavaScript with Stable Diffusion](https://www.infoworld.com/article/3701288/reactive-javascript-with-stable-diffusion.html#tk.rss_javascript)
 - [3 Python web frameworks for beautiful front ends](https://www.infoworld.com/article/3700689/3-python-web-frameworks-for-beautiful-front-ends.html#tk.rss_javascript)
+- [Reactive JavaScript with Stable Diffusion](https://www.infoworld.com/article/3701288/reactive-javascript-with-stable-diffusion.html#tk.rss_javascript)
 - [TypeScript 5.2 beta brings explicit resource management](https://www.infoworld.com/article/3701454/typescript-52-beta-brings-explicit-resource-management.html#tk.rss_javascript)
 - [ECMAScript 2023 spec for JavaScript finalized](https://www.infoworld.com/article/3692809/ecmascript-2023-spec-for-javascript-finalized.html#tk.rss_javascript)
 - [Bun.js creator Jarred Sumner talks tech, funding, and startups](https://www.infoworld.com/article/3700870/interview-with-jarred-sumner-buns-creator-talks-tech-funding-and-startups.html#tk.rss_javascript)
