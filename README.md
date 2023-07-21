@@ -352,6 +352,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *javascript programmer posts*
 
 <!-- METEOR-POST-LIST:START -->
+- [Meteor Monthly Update — July 2023](https://blog.meteor.com/meteor-monthly-update-july-2023-37333f1ea9b5?source=rss----a9bcaf865278---4)
 - [Meteor Monthly Update — June 2023](https://blog.meteor.com/meteor-monthly-update-june-2023-e4b9064fa379?source=rss----a9bcaf865278---4)
 - [Meteor Monthly Update — May 2023](https://blog.meteor.com/meteor-monthly-update-may-2023-6f6abaafb078?source=rss----a9bcaf865278---4)
 - [Meteor.js with Vite, Solid, and Tailwind CSS](https://blog.meteor.com/meteor-js-with-vite-solid-and-tailwind-css-d2d50dea970c?source=rss----a9bcaf865278---4)
@@ -361,7 +362,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Meteor Monthly Update — March 2023](https://blog.meteor.com/meteor-monthly-update-march-2023-d625a3ebc56a?source=rss----a9bcaf865278---4)
 - [New Suspense Hooks for Meteor](https://blog.meteor.com/new-suspense-hooks-for-meteor-5391570b3007?source=rss----a9bcaf865278---4)
 - [Making Promises Suspendable](https://blog.meteor.com/making-promises-suspendable-a769bfebc1bc?source=rss----a9bcaf865278---4)
-- [Team SUS-GAWKY Earns 2nd Place in the 2022 Meteor Hackathon!](https://blog.meteor.com/team-sus-gawky-earns-2nd-place-in-the-2022-meteor-hackathon-2be8ab67bb15?source=rss----a9bcaf865278---4)
 <!-- METEOR-POST-LIST:END -->
 
 ### *Dreamix posts*
