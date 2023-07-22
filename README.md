@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [What is reactive programming? Programming with event streams](https://www.infoworld.com/article/3701889/what-is-reactive-programming-programming-with-event-streams.html#tk.rss_javascript)
 - [Deno unveils faster, simpler web server API](https://www.infoworld.com/article/3702712/deno-unveils-faster-simpler-web-server-api.html#tk.rss_javascript)
 - [8 more React hooks you need to know about](https://www.infoworld.com/article/3701928/8-more-reactjs-hooks-you-need-to-know-about.html#tk.rss_javascript)
 - [Rising C++ closes in on C language](https://www.infoworld.com/article/3702350/rising-c-plus-plus-closes-in-on-c-language.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [ECMAScript 2023 spec for JavaScript finalized](https://www.infoworld.com/article/3692809/ecmascript-2023-spec-for-javascript-finalized.html#tk.rss_javascript)
 - [Bun.js creator Jarred Sumner talks tech, funding, and startups](https://www.infoworld.com/article/3700870/interview-with-jarred-sumner-buns-creator-talks-tech-funding-and-startups.html#tk.rss_javascript)
 - [Svelte 4 shrinks code footprint, compiled output](https://www.infoworld.com/article/3700714/svelte-4-shrinks-code-footprint-compiled-output.html#tk.rss_javascript)
-- [Bundling with the Bun.js bundler](https://www.infoworld.com/article/3699141/bundling-with-the-bunjs-bundler.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
