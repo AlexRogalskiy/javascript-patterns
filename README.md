@@ -277,6 +277,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Showoff Saturday &lpar;July 22, 2023&rpar;](https://www.reddit.com/r/javascript/comments/156cuc3/showoff_saturday_july_22_2023/)
 - [Showoff Saturday &lpar;July 15, 2023&rpar;](https://www.reddit.com/r/javascript/comments/1504qwv/showoff_saturday_july_15_2023/)
 - [WTF Wednesday &lpar;July 05, 2023&rpar;](https://www.reddit.com/r/javascript/comments/14r2u5u/wtf_wednesday_july_05_2023/)
 - [Your /r/javascript recap for the week of June 19 - June 25](https://www.reddit.com/r/javascript/comments/14jc201/your_rjavascript_recap_for_the_week_of_june_19/)
@@ -286,7 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [How to handle emojis in Nodejs](https://www.reddit.com/r/javascript/comments/146z486/how_to_handle_emojis_in_nodejs/)
 - [/r/javascript will be going dark for at least 2 days starting June 12th in protest of Reddit&#39;s API changes](https://www.reddit.com/r/javascript/comments/146ufk7/rjavascript_will_be_going_dark_for_at_least_2/)
 - [Wes Bos – Next-Gen Server JavaScript: Web Standards](https://www.reddit.com/r/javascript/comments/146r7lo/wes_bos_nextgen_server_javascript_web_standards/)
-- [How is a web app like this built and why don&#39;t we see more web apps built this beautifully?](https://www.reddit.com/r/javascript/comments/146o7a9/how_is_a_web_app_like_this_built_and_why_dont_we/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
