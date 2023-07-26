@@ -382,6 +382,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *NodeSource posts*
 
 <!-- NODESOURCE-POST-LIST:START -->
+- [Empowering Startups: Building Better, More Secure Apps and Ensuring Exceptional CX with N|Solid](https://nodesource.com/blog/empowering-startups)
 - [Welcome to The Future of Software Development: Powered by Telemetry, Security, and AI](https://nodesource.com/blog/nodesource-collisionconf-wrapup)
 - [Announcing N|Solid v4.9.5](https://nodesource.com/blog/announcing-NSolid-version-495)
 - [NodeSource, Inc. Announces AI Assistant &quot;Adrian&quot; for Comprehensive Analysis and Optimization of Node.js Applications and Open-Sourcing of its Augmented Node.js Runtime.](https://nodesource.com/blog/NodeSource-announces-AI-Assistant-Adrian)
@@ -391,7 +392,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Measure Node.js server response time with N|Solid](https://nodesource.com/blog/measure-nodejs-server-response-time-with-nsolid)
 - [NodeForest Status Report -  Earth Day Project](https://nodesource.com/blog/nodeforest-status-report)
 - [Strengthening Node.js Security: NodeSource-GitHub Partnership](https://nodesource.com/blog/strengthening-nodejs-security)
-- [Announcing  The NodeSource-GitHub Partnership](https://nodesource.com/blog/announcing-ncm-github-partnership)
 <!-- NODESOURCE-POST-LIST:END -->
 
 ### *React Native posts*
