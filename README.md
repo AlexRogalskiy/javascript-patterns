@@ -277,6 +277,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [WTF Wednesday &lpar;July 26, 2023&rpar;](https://www.reddit.com/r/javascript/comments/159y7s3/wtf_wednesday_july_26_2023/)
 - [Your /r/javascript recap for the week of July 17 - July 23](https://www.reddit.com/r/javascript/comments/1589fby/your_rjavascript_recap_for_the_week_of_july_17/)
 - [Showoff Saturday &lpar;July 22, 2023&rpar;](https://www.reddit.com/r/javascript/comments/156cuc3/showoff_saturday_july_22_2023/)
 - [Showoff Saturday &lpar;July 15, 2023&rpar;](https://www.reddit.com/r/javascript/comments/1504qwv/showoff_saturday_july_15_2023/)
@@ -286,7 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [WTF Wednesday &lpar;June 21, 2023&rpar;](https://www.reddit.com/r/javascript/comments/14f080m/wtf_wednesday_june_21_2023/)
 - [[AskJS] Can anyone recommend a test runner with ESM and Custom Loader Support?](https://www.reddit.com/r/javascript/comments/1473ako/askjs_can_anyone_recommend_a_test_runner_with_esm/)
 - [How to handle emojis in Nodejs](https://www.reddit.com/r/javascript/comments/146z486/how_to_handle_emojis_in_nodejs/)
-- [/r/javascript will be going dark for at least 2 days starting June 12th in protest of Reddit&#39;s API changes](https://www.reddit.com/r/javascript/comments/146ufk7/rjavascript_will_be_going_dark_for_at_least_2/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
