@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Your /r/javascript recap for the week of July 24 - July 30](https://www.reddit.com/r/javascript/comments/15eat49/your_rjavascript_recap_for_the_week_of_july_24/)
 - [Showoff Saturday &lpar;July 29, 2023&rpar;](https://www.reddit.com/r/javascript/comments/15clg90/showoff_saturday_july_29_2023/)
 - [WTF Wednesday &lpar;July 26, 2023&rpar;](https://www.reddit.com/r/javascript/comments/159y7s3/wtf_wednesday_july_26_2023/)
-- [Your /r/javascript recap for the week of July 17 - July 23](https://www.reddit.com/r/javascript/comments/1589fby/your_rjavascript_recap_for_the_week_of_july_17/)
 - [Showoff Saturday &lpar;July 22, 2023&rpar;](https://www.reddit.com/r/javascript/comments/156cuc3/showoff_saturday_july_22_2023/)
 - [Showoff Saturday &lpar;July 15, 2023&rpar;](https://www.reddit.com/r/javascript/comments/1504qwv/showoff_saturday_july_15_2023/)
 - [WTF Wednesday &lpar;July 05, 2023&rpar;](https://www.reddit.com/r/javascript/comments/14r2u5u/wtf_wednesday_july_05_2023/)
 - [Your /r/javascript recap for the week of June 19 - June 25](https://www.reddit.com/r/javascript/comments/14jc201/your_rjavascript_recap_for_the_week_of_june_19/)
 - [Where does r/javascript go from here?](https://www.reddit.com/r/javascript/comments/14i4s84/where_does_rjavascript_go_from_here/)
 - [WTF Wednesday &lpar;June 21, 2023&rpar;](https://www.reddit.com/r/javascript/comments/14f080m/wtf_wednesday_june_21_2023/)
+- [[AskJS] Can anyone recommend a test runner with ESM and Custom Loader Support?](https://www.reddit.com/r/javascript/comments/1473ako/askjs_can_anyone_recommend_a_test_runner_with_esm/)
+- [How to handle emojis in Nodejs](https://www.reddit.com/r/javascript/comments/146z486/how_to_handle_emojis_in_nodejs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
