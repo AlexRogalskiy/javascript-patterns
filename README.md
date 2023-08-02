@@ -352,6 +352,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *javascript programmer posts*
 
 <!-- METEOR-POST-LIST:START -->
+- [New Meteor.js 2.13, Node.js 14.21.4 security patch and Blaze 2.7.1 release](https://blog.meteor.com/new-meteor-js-2-13-node-js-14-21-4-security-patch-and-blaze-2-7-1-release-60134947e4c?source=rss----a9bcaf865278---4)
 - [Meteor Monthly Update — July 2023](https://blog.meteor.com/meteor-monthly-update-july-2023-37333f1ea9b5?source=rss----a9bcaf865278---4)
 - [Meteor Monthly Update — June 2023](https://blog.meteor.com/meteor-monthly-update-june-2023-e4b9064fa379?source=rss----a9bcaf865278---4)
 - [Meteor Monthly Update — May 2023](https://blog.meteor.com/meteor-monthly-update-may-2023-6f6abaafb078?source=rss----a9bcaf865278---4)
@@ -361,7 +362,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Announcing Extended Support Maintenance for Node.js 14](https://blog.meteor.com/announcing-extended-support-maintenance-for-node-js-14-f9e8381f8bb5?source=rss----a9bcaf865278---4)
 - [Meteor Monthly Update — March 2023](https://blog.meteor.com/meteor-monthly-update-march-2023-d625a3ebc56a?source=rss----a9bcaf865278---4)
 - [New Suspense Hooks for Meteor](https://blog.meteor.com/new-suspense-hooks-for-meteor-5391570b3007?source=rss----a9bcaf865278---4)
-- [Making Promises Suspendable](https://blog.meteor.com/making-promises-suspendable-a769bfebc1bc?source=rss----a9bcaf865278---4)
 <!-- METEOR-POST-LIST:END -->
 
 ### *Dreamix posts*
