@@ -277,6 +277,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Showoff Saturday &lpar;August 05, 2023&rpar;](https://www.reddit.com/r/javascript/comments/15iokg9/showoff_saturday_august_05_2023/)
 - [WTF Wednesday &lpar;August 02, 2023&rpar;](https://www.reddit.com/r/javascript/comments/15g1jfd/wtf_wednesday_august_02_2023/)
 - [Showoff Saturday &lpar;July 29, 2023&rpar;](https://www.reddit.com/r/javascript/comments/15clg90/showoff_saturday_july_29_2023/)
 - [WTF Wednesday &lpar;July 26, 2023&rpar;](https://www.reddit.com/r/javascript/comments/159y7s3/wtf_wednesday_july_26_2023/)
@@ -286,7 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Your /r/javascript recap for the week of June 19 - June 25](https://www.reddit.com/r/javascript/comments/14jc201/your_rjavascript_recap_for_the_week_of_june_19/)
 - [Where does r/javascript go from here?](https://www.reddit.com/r/javascript/comments/14i4s84/where_does_rjavascript_go_from_here/)
 - [WTF Wednesday &lpar;June 21, 2023&rpar;](https://www.reddit.com/r/javascript/comments/14f080m/wtf_wednesday_june_21_2023/)
-- [[AskJS] Can anyone recommend a test runner with ESM and Custom Loader Support?](https://www.reddit.com/r/javascript/comments/1473ako/askjs_can_anyone_recommend_a_test_runner_with_esm/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
