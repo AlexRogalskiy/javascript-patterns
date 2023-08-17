@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Prisma.js: Code-first ORM in JavaScript](https://www.infoworld.com/article/3704793/code-first-orm-with-prismajs.html#tk.rss_javascript)
 - [TypeScript 5.2 brings explicit resource management](https://www.infoworld.com/article/3701454/typescript-52-brings-explicit-resource-management.html#tk.rss_javascript)
 - [All the new features in ECMAScript 2023 &lpar;ES14&rpar;](https://www.infoworld.com/article/3703571/all-the-new-features-in-ecmascript-2023-es14.html#tk.rss_javascript)
 - [Intro to Nest.js: The higher-order JavaScript and TypeScript server](https://www.infoworld.com/article/3703212/intro-to-nestjs-the-higher-order-javascript-and-typescript-server.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Rising C++ closes in on C language](https://www.infoworld.com/article/3702350/rising-c-plus-plus-closes-in-on-c-language.html#tk.rss_javascript)
 - [Reactive JavaScript with Stable Diffusion](https://www.infoworld.com/article/3701288/reactive-javascript-with-stable-diffusion.html#tk.rss_javascript)
 - [3 Python web frameworks for beautiful front ends](https://www.infoworld.com/article/3700689/3-python-web-frameworks-for-beautiful-front-ends.html#tk.rss_javascript)
-- [ECMAScript 2023 spec for JavaScript finalized](https://www.infoworld.com/article/3692809/ecmascript-2023-spec-for-javascript-finalized.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
