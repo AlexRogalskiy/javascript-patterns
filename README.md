@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Fresh web framework for Deno speeds page loading](https://www.infoworld.com/article/3704989/fresh-web-framework-for-deno-loads-pages-quicker.html#tk.rss_javascript)
 - [Prisma.js: Code-first ORM in JavaScript](https://www.infoworld.com/article/3704793/code-first-orm-with-prismajs.html#tk.rss_javascript)
 - [TypeScript 5.2 brings explicit resource management](https://www.infoworld.com/article/3701454/typescript-52-brings-explicit-resource-management.html#tk.rss_javascript)
 - [All the new features in ECMAScript 2023 &lpar;ES14&rpar;](https://www.infoworld.com/article/3703571/all-the-new-features-in-ecmascript-2023-es14.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [8 more React hooks you need to know about](https://www.infoworld.com/article/3701928/8-more-reactjs-hooks-you-need-to-know-about.html#tk.rss_javascript)
 - [Rising C++ closes in on C language](https://www.infoworld.com/article/3702350/rising-c-plus-plus-closes-in-on-c-language.html#tk.rss_javascript)
 - [Reactive JavaScript with Stable Diffusion](https://www.infoworld.com/article/3701288/reactive-javascript-with-stable-diffusion.html#tk.rss_javascript)
-- [3 Python web frameworks for beautiful front ends](https://www.infoworld.com/article/3700689/3-python-web-frameworks-for-beautiful-front-ends.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
