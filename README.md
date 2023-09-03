@@ -301,7 +301,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Deno unveils faster, simpler web server API](https://www.infoworld.com/article/3702712/deno-unveils-faster-simpler-web-server-api.html#tk.rss_javascript)
 - [8 more React hooks you need to know about](https://www.infoworld.com/article/3701928/8-more-reactjs-hooks-you-need-to-know-about.html#tk.rss_javascript)
 - [Rising C++ closes in on C language](https://www.infoworld.com/article/3702350/rising-c-plus-plus-closes-in-on-c-language.html#tk.rss_javascript)
-- [3 Python web frameworks for beautiful front ends](https://www.infoworld.com/article/3700689/3-python-web-frameworks-for-beautiful-front-ends.html#tk.rss_javascript)
+- [Reactive JavaScript with Stable Diffusion](https://www.infoworld.com/article/3701288/reactive-javascript-with-stable-diffusion.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
