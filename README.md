@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Bun 1.0 is out of the oven](https://www.infoworld.com/article/3706293/bun-10-is-out-of-the-oven.html#tk.rss_javascript)
 - [Node.js upgrade adds environment variable config](https://www.infoworld.com/article/3706095/nodejs-upgrade-adds-environment-variable-config.html#tk.rss_javascript)
 - [Intro to Hapi: The Node.js framework](https://www.infoworld.com/article/3705991/intro-to-hapi-the-nodejs-framework.html#tk.rss_javascript)
 - [TypeScript 5.2 brings explicit resource management](https://www.infoworld.com/article/3701454/typescript-52-brings-explicit-resource-management.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Intro to Nest.js: The higher-order JavaScript and TypeScript server](https://www.infoworld.com/article/3703212/intro-to-nestjs-the-higher-order-javascript-and-typescript-server.html#tk.rss_javascript)
 - [What is reactive programming? Programming with event streams](https://www.infoworld.com/article/3701889/what-is-reactive-programming-programming-with-event-streams.html#tk.rss_javascript)
 - [Deno unveils faster, simpler web server API](https://www.infoworld.com/article/3702712/deno-unveils-faster-simpler-web-server-api.html#tk.rss_javascript)
-- [8 more React hooks you need to know about](https://www.infoworld.com/article/3701928/8-more-reactjs-hooks-you-need-to-know-about.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
