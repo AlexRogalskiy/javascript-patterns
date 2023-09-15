@@ -322,6 +322,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *YouTube code posts*
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [JSConf México 2023 - día 1 - audio traducido - charlas tarde](https://www.youtube.com/watch?v=ZdAPtPnlJYQ)
+- [JSConf México 2023 - día 1 - audio traducido - charlas tarde](https://www.youtube.com/watch?v=JVPgTfXCQDc)
+- [JSConf México 2023 - día 1 - audio original - charlas tarde](https://www.youtube.com/watch?v=QUZ-b-7Bmo0)
 - [Impressions of JSConf India 2023](https://www.youtube.com/watch?v=bbcr06F_PLM)
 - [Jsconf India 2023 - Track 1](https://www.youtube.com/watch?v=WteC5jpc9O8)
 - [Jsconf India Track 2](https://www.youtube.com/watch?v=Rjv-4aT-_8c)
@@ -329,9 +332,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [How Vue.js as a web framework optimises rendering speed](https://www.youtube.com/watch?v=dq30CFdutW8)
 - [Which web framework is better? React? Vue? Angular?](https://www.youtube.com/watch?v=eP15uGbfDAk)
 - [JavaScript Closures in React Hooks](https://www.youtube.com/watch?v=B1j3yeHRKbY)
-- [Rebuild React Hooks yourself for Node](https://www.youtube.com/watch?v=Om33AjwtQ_Y)
-- [JSConf Chile - día 2](https://www.youtube.com/watch?v=BuHaQXCHCMg)
-- [JSConf Chile dia 1](https://www.youtube.com/watch?v=nReMDgz02qo)
 <!-- YOUTUBE-POST-LIST:END -->
 
 ### *ReactJS posts*
