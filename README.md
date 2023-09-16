@@ -322,16 +322,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *YouTube code posts*
 
 <!-- YOUTUBE-POST-LIST:START -->
-- [JSConf México 2023 - día 1 - audio traducido - charlas tarde](https://www.youtube.com/watch?v=ZdAPtPnlJYQ)
-- [JSConf México 2023 - día 1 - audio traducido - charlas tarde](https://www.youtube.com/watch?v=JVPgTfXCQDc)
+- [JSConf México 2023 - día 2 - audio traducido - charlas tarde](https://www.youtube.com/watch?v=kCfvfQf1Arw)
+- [JSConf México 2023 - día 2 - audio original - charlas tarde](https://www.youtube.com/watch?v=FxLaMZQB9qA)
 - [JSConf México 2023 - día 1 - audio original - charlas tarde](https://www.youtube.com/watch?v=QUZ-b-7Bmo0)
+- [JSConf México 2023 - día 1 - audio traducido - charlas tarde](https://www.youtube.com/watch?v=JVPgTfXCQDc)
+- [JSConf México 2023 - día 1 - audio traducido - charlas tarde](https://www.youtube.com/watch?v=ZdAPtPnlJYQ)
 - [Impressions of JSConf India 2023](https://www.youtube.com/watch?v=bbcr06F_PLM)
 - [Jsconf India 2023 - Track 1](https://www.youtube.com/watch?v=WteC5jpc9O8)
 - [Jsconf India Track 2](https://www.youtube.com/watch?v=Rjv-4aT-_8c)
 - [Jsconf India Online 2023 - Pre Event Virtual Meetup](https://www.youtube.com/watch?v=eY2lmQ8o3EI)
 - [How Vue.js as a web framework optimises rendering speed](https://www.youtube.com/watch?v=dq30CFdutW8)
-- [Which web framework is better? React? Vue? Angular?](https://www.youtube.com/watch?v=eP15uGbfDAk)
-- [JavaScript Closures in React Hooks](https://www.youtube.com/watch?v=B1j3yeHRKbY)
 <!-- YOUTUBE-POST-LIST:END -->
 
 ### *ReactJS posts*
