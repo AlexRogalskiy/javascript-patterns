@@ -322,8 +322,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *YouTube code posts*
 
 <!-- YOUTUBE-POST-LIST:START -->
-- [JSConf México 2023 - día 2 - audio traducido - charlas tarde](https://www.youtube.com/watch?v=kCfvfQf1Arw)
 - [JSConf México 2023 - día 2 - audio original - charlas tarde](https://www.youtube.com/watch?v=FxLaMZQB9qA)
+- [JSConf México 2023 - día 2 - audio traducido - charlas tarde](https://www.youtube.com/watch?v=kCfvfQf1Arw)
 - [JSConf México 2023 - día 1 - audio original - charlas tarde](https://www.youtube.com/watch?v=QUZ-b-7Bmo0)
 - [JSConf México 2023 - día 1 - audio traducido - charlas tarde](https://www.youtube.com/watch?v=JVPgTfXCQDc)
 - [JSConf México 2023 - día 1 - audio traducido - charlas tarde](https://www.youtube.com/watch?v=ZdAPtPnlJYQ)
