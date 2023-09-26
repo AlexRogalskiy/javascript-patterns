@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Deno runtime now integrates with Jupyter Notebook](https://www.infoworld.com/article/3707470/deno-runtime-now-integrates-with-jupyter-notebook.html#tk.rss_javascript)
 - [Intro to HTMX: Dynamic HTML without JavaScript](https://www.infoworld.com/article/3706951/htmx-dynamic-html-without-the-javascript.html#tk.rss_javascript)
 - [DataStax’s new JSON API targets JavaScript developers](https://www.infoworld.com/article/3706992/datastaxs-new-json-api-targets-javascript-developers.html#tk.rss_javascript)
 - [Use TensorFlow to predict Bitcoin prices](https://www.infoworld.com/article/3706509/use-tensorflowjs-to-predict-bitcoin-prices.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [TypeScript 5.2 brings explicit resource management](https://www.infoworld.com/article/3701454/typescript-52-brings-explicit-resource-management.html#tk.rss_javascript)
 - [Fresh web framework for Deno speeds page loading](https://www.infoworld.com/article/3704989/fresh-web-framework-for-deno-loads-pages-quicker.html#tk.rss_javascript)
 - [Prisma.js: Code-first ORM in JavaScript](https://www.infoworld.com/article/3704793/code-first-orm-with-prismajs.html#tk.rss_javascript)
-- [All the new features in ECMAScript 2023 &lpar;ES14&rpar;](https://www.infoworld.com/article/3703571/all-the-new-features-in-ecmascript-2023-es14.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
