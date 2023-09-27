@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Next.js 13.5 brings faster startups and refreshes](https://www.infoworld.com/article/3707313/nextjs-135-brings-faster-startups-and-refreshes.html#tk.rss_javascript)
 - [Deno runtime now integrates with Jupyter Notebook](https://www.infoworld.com/article/3707470/deno-runtime-now-integrates-with-jupyter-notebook.html#tk.rss_javascript)
 - [Intro to HTMX: Dynamic HTML without JavaScript](https://www.infoworld.com/article/3706951/htmx-dynamic-html-without-the-javascript.html#tk.rss_javascript)
 - [DataStax’s new JSON API targets JavaScript developers](https://www.infoworld.com/article/3706992/datastaxs-new-json-api-targets-javascript-developers.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Intro to Hapi: The Node.js framework](https://www.infoworld.com/article/3705991/intro-to-hapi-the-nodejs-framework.html#tk.rss_javascript)
 - [TypeScript 5.2 brings explicit resource management](https://www.infoworld.com/article/3701454/typescript-52-brings-explicit-resource-management.html#tk.rss_javascript)
 - [Fresh web framework for Deno speeds page loading](https://www.infoworld.com/article/3704989/fresh-web-framework-for-deno-loads-pages-quicker.html#tk.rss_javascript)
-- [Prisma.js: Code-first ORM in JavaScript](https://www.infoworld.com/article/3704793/code-first-orm-with-prismajs.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
