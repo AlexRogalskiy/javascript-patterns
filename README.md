@@ -367,16 +367,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Dreamix posts*
 
 <!-- DREAMIX-POST-LIST:START -->
-- [Leveraging Google Places API and Google Maps API for custom area management solutions](https://dreamix.eu/blog/tech/leveraging-google-places-api-and-google-maps-api-for-custom-area-management-solutions)
-- [Building Your First NestJS Application: A Step-by-Step Guide](https://dreamix.eu/blog/javascript/building-your-first-nestjs-application-a-step-by-step-guide)
-- [Node.js Project Structure: A Short Guide](https://dreamix.eu/blog/frontpage/node-js-project-structure-a-short-guide)
-- [Should I consider Node.js for my project: 5 benefits](https://dreamix.eu/blog/javascript/should-i-consider-node-js-for-my-project-5-benefits)
-- [TypeScript – not everything that glitters is gold](https://dreamix.eu/blog/javascript/typescript-not-everything-that-glitters-is-gold)
-- [React Synchronising Side-Effect With App State](https://dreamix.eu/blog/javascript/react-synchronising-side-effect-with-app-state)
-- [Why Choose React for Your Software Product Development?](https://dreamix.eu/blog/frontpage/react-software-development)
-- [First Steps in React: Learn, Build, Enjoy](https://dreamix.eu/blog/frontpage/first-steps-in-react-learn-build-enjoy)
-- [Top 10 Trending JavaScript Frameworks](https://dreamix.eu/blog/frontpage/top-10-trending-javascript-frameworks)
-- [Java vs JavaScript: How to Choose the Right Backend Technology?](https://dreamix.eu/blog/java/java-vs-javascript-how-to-choose-the-right-backend-technology)
+- [Leveraging Google Places API and Google Maps API for custom area management solutions](https://dreamix.eu/insights/leveraging-google-places-api-and-google-maps-api-for-custom-area-management-solutions/)
+- [Building Your First NestJS Application: A Step-by-Step Guide](https://dreamix.eu/insights/building-your-first-nestjs-application-a-step-by-step-guide/)
+- [Node.js Project Structure: A Short Guide](https://dreamix.eu/insights/node-js-project-structure-a-short-guide/)
+- [Should I consider Node.js for my project: 5 benefits](https://dreamix.eu/insights/should-i-consider-node-js-for-my-project-5-benefits/)
+- [TypeScript – not everything that glitters is gold](https://dreamix.eu/insights/typescript-not-everything-that-glitters-is-gold/)
+- [React Synchronising Side-Effect With App State](https://dreamix.eu/insights/react-synchronising-side-effect-with-app-state/)
+- [Why Choose React for Your Software Product Development?](https://dreamix.eu/insights/react-software-development/)
+- [First Steps in React: Learn, Build, Enjoy](https://dreamix.eu/insights/first-steps-in-react-learn-build-enjoy/)
+- [Top 10 Trending JavaScript Frameworks](https://dreamix.eu/insights/top-10-trending-javascript-frameworks/)
+- [Java vs JavaScript: How to Choose the Right Backend Technology?](https://dreamix.eu/insights/java-vs-javascript-how-to-choose-the-right-backend-technology/)
 <!-- DREAMIX-POST-LIST:END -->
 
 ### *NodeSource posts*
