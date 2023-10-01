@@ -299,8 +299,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [DataStax’s new JSON API targets JavaScript developers](https://www.infoworld.com/article/3706992/datastaxs-new-json-api-targets-javascript-developers.html#tk.rss_javascript)
 - [Use TensorFlow to predict Bitcoin prices](https://www.infoworld.com/article/3706509/use-tensorflowjs-to-predict-bitcoin-prices.html#tk.rss_javascript)
 - [Bun 1.0 is out of the oven](https://www.infoworld.com/article/3706293/bun-10-is-out-of-the-oven.html#tk.rss_javascript)
-- [Intro to Hapi: The Node.js framework](https://www.infoworld.com/article/3705991/intro-to-hapi-the-nodejs-framework.html#tk.rss_javascript)
 - [Node.js upgrade adds environment variable config](https://www.infoworld.com/article/3706095/nodejs-upgrade-adds-environment-variable-config.html#tk.rss_javascript)
+- [Intro to Hapi: The Node.js framework](https://www.infoworld.com/article/3705991/intro-to-hapi-the-nodejs-framework.html#tk.rss_javascript)
 - [TypeScript 5.2 brings explicit resource management](https://www.infoworld.com/article/3701454/typescript-52-brings-explicit-resource-management.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
