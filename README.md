@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Recharts: Intro to JavaScript charting](https://www.infoworld.com/article/3707388/recharts-intro-to-javascript-charting.html#tk.rss_javascript)
 - [Latest Node.js boosts stream performance](https://www.infoworld.com/article/3707793/latest-nodejs-boosts-stream-performance.html#tk.rss_javascript)
 - [10 JavaScript concepts every Node developer must master](https://www.infoworld.com/article/3196070/10-javascript-concepts-every-nodejs-developer-must-master.html#tk.rss_javascript)
 - [Next.js 13.5 brings faster startups and refreshes](https://www.infoworld.com/article/3707313/nextjs-135-brings-faster-startups-and-refreshes.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Use TensorFlow to predict Bitcoin prices](https://www.infoworld.com/article/3706509/use-tensorflowjs-to-predict-bitcoin-prices.html#tk.rss_javascript)
 - [Bun 1.0 is out of the oven](https://www.infoworld.com/article/3706293/bun-10-is-out-of-the-oven.html#tk.rss_javascript)
 - [Node.js upgrade adds environment variable config](https://www.infoworld.com/article/3706095/nodejs-upgrade-adds-environment-variable-config.html#tk.rss_javascript)
-- [Intro to Hapi: The Node.js framework](https://www.infoworld.com/article/3705991/intro-to-hapi-the-nodejs-framework.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
