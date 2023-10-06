@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [TypeScript 5.3 adds support for import attributes](https://www.infoworld.com/article/3708188/typescript-53-adds-support-for-import-attributes.html#tk.rss_javascript)
 - [Recharts: Intro to JavaScript charting](https://www.infoworld.com/article/3707388/recharts-intro-to-javascript-charting.html#tk.rss_javascript)
 - [Latest Node.js boosts stream performance](https://www.infoworld.com/article/3707793/latest-nodejs-boosts-stream-performance.html#tk.rss_javascript)
 - [10 JavaScript concepts every Node developer must master](https://www.infoworld.com/article/3196070/10-javascript-concepts-every-nodejs-developer-must-master.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [DataStax’s new JSON API targets JavaScript developers](https://www.infoworld.com/article/3706992/datastaxs-new-json-api-targets-javascript-developers.html#tk.rss_javascript)
 - [Use TensorFlow to predict Bitcoin prices](https://www.infoworld.com/article/3706509/use-tensorflowjs-to-predict-bitcoin-prices.html#tk.rss_javascript)
 - [Bun 1.0 is out of the oven](https://www.infoworld.com/article/3706293/bun-10-is-out-of-the-oven.html#tk.rss_javascript)
-- [Node.js upgrade adds environment variable config](https://www.infoworld.com/article/3706095/nodejs-upgrade-adds-environment-variable-config.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
