@@ -277,6 +277,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Your /r/javascript recap for the week of October 02 - October 08](https://www.reddit.com/r/javascript/comments/173n906/your_rjavascript_recap_for_the_week_of_october_02/)
 - [Showoff Saturday &lpar;October 07, 2023&rpar;](https://www.reddit.com/r/javascript/comments/171ztk0/showoff_saturday_october_07_2023/)
 - [WTF Wednesday &lpar;October 04, 2023&rpar;](https://www.reddit.com/r/javascript/comments/16zgan4/wtf_wednesday_october_04_2023/)
 - [Your /r/javascript recap for the week of September 25 - October 01](https://www.reddit.com/r/javascript/comments/16xrqn0/your_rjavascript_recap_for_the_week_of_september/)
@@ -286,7 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Showoff Saturday &lpar;September 23, 2023&rpar;](https://www.reddit.com/r/javascript/comments/16pxk27/showoff_saturday_september_23_2023/)
 - [WTF Wednesday &lpar;September 20, 2023&rpar;](https://www.reddit.com/r/javascript/comments/16neitq/wtf_wednesday_september_20_2023/)
 - [Your /r/javascript recap for the week of September 11 - September 17](https://www.reddit.com/r/javascript/comments/16lqddt/your_rjavascript_recap_for_the_week_of_september/)
-- [Showoff Saturday &lpar;September 16, 2023&rpar;](https://www.reddit.com/r/javascript/comments/16k0psf/showoff_saturday_september_16_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
