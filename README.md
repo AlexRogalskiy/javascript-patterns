@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Report finds few open source projects actively maintained](https://www.infoworld.com/article/3708630/report-finds-few-open-source-projects-actively-maintained.html#tk.rss_javascript)
 - [Intro to Hyperscript: Rethinking JavaScript](https://www.infoworld.com/article/3708109/intro-to-hyperscript-rethinking-javascript.html#tk.rss_javascript)
 - [TypeScript 5.3 adds support for import attributes](https://www.infoworld.com/article/3708188/typescript-53-adds-support-for-import-attributes.html#tk.rss_javascript)
 - [Recharts: Intro to JavaScript charting](https://www.infoworld.com/article/3707388/recharts-intro-to-javascript-charting.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Deno runtime now integrates with Jupyter Notebook](https://www.infoworld.com/article/3707470/deno-runtime-now-integrates-with-jupyter-notebook.html#tk.rss_javascript)
 - [Intro to HTMX: Dynamic HTML without JavaScript](https://www.infoworld.com/article/3706951/htmx-dynamic-html-without-the-javascript.html#tk.rss_javascript)
 - [DataStax’s new JSON API targets JavaScript developers](https://www.infoworld.com/article/3706992/datastaxs-new-json-api-targets-javascript-developers.html#tk.rss_javascript)
-- [Use TensorFlow to predict Bitcoin prices](https://www.infoworld.com/article/3706509/use-tensorflowjs-to-predict-bitcoin-prices.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
