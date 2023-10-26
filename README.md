@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Using JavaScript&#39;s built-in objects](https://www.infoworld.com/article/2077150/using-javascript-s-built-in-objects.html#tk.rss_javascript)
 - [Node.js 21 brings WebSocket client](https://www.infoworld.com/article/3709068/nodejs-21-brings-websocket-client.html#tk.rss_javascript)
 - [Report finds few open source projects actively maintained](https://www.infoworld.com/article/3708630/report-finds-few-open-source-projects-actively-maintained.html#tk.rss_javascript)
 - [Intro to Hyperscript: Rethinking JavaScript](https://www.infoworld.com/article/3708109/intro-to-hyperscript-rethinking-javascript.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [10 JavaScript concepts every Node developer must master](https://www.infoworld.com/article/3196070/10-javascript-concepts-every-nodejs-developer-must-master.html#tk.rss_javascript)
 - [Next.js 13.5 brings faster startups and refreshes](https://www.infoworld.com/article/3707313/nextjs-135-brings-faster-startups-and-refreshes.html#tk.rss_javascript)
 - [Deno runtime now integrates with Jupyter Notebook](https://www.infoworld.com/article/3707470/deno-runtime-now-integrates-with-jupyter-notebook.html#tk.rss_javascript)
-- [Intro to HTMX: Dynamic HTML without JavaScript](https://www.infoworld.com/article/3706951/htmx-dynamic-html-without-the-javascript.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
