@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Should I proceed further or move to new project](https://www.reddit.com/r/javascript/comments/17k68ej/should_i_proceed_further_or_move_to_new_project/)
+- [Your /r/javascript recap for the week of October 23 - October 29](https://www.reddit.com/r/javascript/comments/17jp55l/your_rjavascript_recap_for_the_week_of_october_23/)
 - [Showoff Saturday &lpar;October 28, 2023&rpar;](https://www.reddit.com/r/javascript/comments/17i856w/showoff_saturday_october_28_2023/)
 - [the javascript subreddit will reopen as soon as I&#39;m able to](https://www.reddit.com/r/javascript/comments/17hsge3/the_javascript_subreddit_will_reopen_as_soon_as/)
 - [WTF Wednesday &lpar;October 25, 2023&rpar;](https://www.reddit.com/r/javascript/comments/17fyw23/wtf_wednesday_october_25_2023/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [WTF Wednesday &lpar;October 18, 2023&rpar;](https://www.reddit.com/r/javascript/comments/17akg70/wtf_wednesday_october_18_2023/)
 - [Your /r/javascript recap for the week of October 09 - October 15](https://www.reddit.com/r/javascript/comments/1791o26/your_rjavascript_recap_for_the_week_of_october_09/)
 - [Showoff Saturday &lpar;October 14, 2023&rpar;](https://www.reddit.com/r/javascript/comments/177jm5w/showoff_saturday_october_14_2023/)
-- [WTF Wednesday &lpar;October 11, 2023&rpar;](https://www.reddit.com/r/javascript/comments/1757v9w/wtf_wednesday_october_11_2023/)
-- [Your /r/javascript recap for the week of October 02 - October 08](https://www.reddit.com/r/javascript/comments/173n906/your_rjavascript_recap_for_the_week_of_october_02/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
