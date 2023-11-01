@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Automatically filling out a form with JavaScript](https://www.reddit.com/r/javascript/comments/17kxjr0/askjs_automatically_filling_out_a_form_with/)
+- [Intro to Impossible.js, an Object Oriented JavaScript library for building cross-platform terminal apps that was never released.](https://www.reddit.com/r/javascript/comments/17kqfw8/intro_to_impossiblejs_an_object_oriented/)
+- [Down and to the Right: Firefox Got Faster for Real Users in 2023](https://www.reddit.com/r/javascript/comments/17kpghr/down_and_to_the_right_firefox_got_faster_for_real/)
+- [Check Out My Awesome Key/Mouse Click Visualizer - YAKC &lpar;perfect for content creation&rpar;](https://www.reddit.com/r/javascript/comments/17koyn1/check_out_my_awesome_keymouse_click_visualizer/)
+- [Is anyone interested in design?](https://www.reddit.com/r/javascript/comments/17knhhy/is_anyone_interested_in_design/)
+- [How to build a GitHub monitoring tool](https://www.reddit.com/r/javascript/comments/17knfdm/how_to_build_a_github_monitoring_tool/)
+- [I made a terrible baby name generator in JavaScript as a practice project based on articles and lists of bad baby names](https://www.reddit.com/r/javascript/comments/17kl91y/i_made_a_terrible_baby_name_generator_in/)
+- [Basic unzip implementation based on zip.js and Deno &lpar;Fetch and unzip Chrome-For-Testing Canary Channel&rpar;](https://www.reddit.com/r/javascript/comments/17kdtzr/basic_unzip_implementation_based_on_zipjs_and/)
+- [Woohoo! The subreddit is BACK!](https://www.reddit.com/r/javascript/comments/17kanax/woohoo_the_subreddit_is_back/)
 - [Should I proceed further or move to new project](https://www.reddit.com/r/javascript/comments/17k68ej/should_i_proceed_further_or_move_to_new_project/)
-- [Your /r/javascript recap for the week of October 23 - October 29](https://www.reddit.com/r/javascript/comments/17jp55l/your_rjavascript_recap_for_the_week_of_october_23/)
-- [Showoff Saturday &lpar;October 28, 2023&rpar;](https://www.reddit.com/r/javascript/comments/17i856w/showoff_saturday_october_28_2023/)
-- [the javascript subreddit will reopen as soon as I&#39;m able to](https://www.reddit.com/r/javascript/comments/17hsge3/the_javascript_subreddit_will_reopen_as_soon_as/)
-- [WTF Wednesday &lpar;October 25, 2023&rpar;](https://www.reddit.com/r/javascript/comments/17fyw23/wtf_wednesday_october_25_2023/)
-- [Your /r/javascript recap for the week of October 16 - October 22](https://www.reddit.com/r/javascript/comments/17eg00u/your_rjavascript_recap_for_the_week_of_october_16/)
-- [Showoff Saturday &lpar;October 21, 2023&rpar;](https://www.reddit.com/r/javascript/comments/17cwnw9/showoff_saturday_october_21_2023/)
-- [WTF Wednesday &lpar;October 18, 2023&rpar;](https://www.reddit.com/r/javascript/comments/17akg70/wtf_wednesday_october_18_2023/)
-- [Your /r/javascript recap for the week of October 09 - October 15](https://www.reddit.com/r/javascript/comments/1791o26/your_rjavascript_recap_for_the_week_of_october_09/)
-- [Showoff Saturday &lpar;October 14, 2023&rpar;](https://www.reddit.com/r/javascript/comments/177jm5w/showoff_saturday_october_14_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
