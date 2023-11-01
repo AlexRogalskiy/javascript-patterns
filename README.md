@@ -382,6 +382,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *NodeSource posts*
 
 <!-- NODESOURCE-POST-LIST:START -->
+- [N|Solid OSS Release](https://nodesource.com/blog/nsolid-oss-release)
 - [See How Much Your APM is Costing You to Monitor Node.js Apps](https://nodesource.com/blog/apm-cost-monitoring-nodejs-apps)
 - [Advancing the NodeSource Node.js Package Repo &lpar;Including User-Requested Upgrades!&rpar;](https://nodesource.com/blog/advancing-nodejs-package-repo-23)
 - [N|Solid v4.10.1 is now available](https://nodesource.com/blog/announcing-NSolid-version-4101)
@@ -391,7 +392,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Announcing N|Solid v4.9.5](https://nodesource.com/blog/announcing-NSolid-version-495)
 - [NodeSource, Inc. Announces AI Assistant &quot;Adrian&quot; for Comprehensive Analysis and Optimization of Node.js Applications and Open-Sourcing of its Augmented Node.js Runtime.](https://nodesource.com/blog/NodeSource-announces-AI-Assistant-Adrian)
 - [N|Solid v4.9.4 is now available](https://nodesource.com/blog/announcing-NSolid-version-494)
-- [AI &amp; ML - Highlights Google I/O &lpar;Connect&rpar; - Miami](https://nodesource.com/blog/AI-Highlights-Google-IO-Connect-Miami)
 <!-- NODESOURCE-POST-LIST:END -->
 
 ### *React Native posts*
