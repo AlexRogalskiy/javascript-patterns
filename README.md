@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Full-duplex streaming with fetch&lpar;&rpar; to and from the browser using Native Messaging](https://www.reddit.com/r/javascript/comments/17lrgd2/fullduplex_streaming_with_fetch_to_and_from_the/)
+- [Speeding up the JavaScript ecosystem - Tailwind CSS](https://www.reddit.com/r/javascript/comments/17louwp/speeding_up_the_javascript_ecosystem_tailwind_css/)
+- [@tsdoc-test-reporter: attach JS/TSDoc tags to your test results](https://www.reddit.com/r/javascript/comments/17lknz7/tsdoctestreporter_attach_jstsdoc_tags_to_your/)
+- [Visual Studio Code October 2023](https://www.reddit.com/r/javascript/comments/17li25d/visual_studio_code_october_2023/)
+- [An open-source React app for creating resumes using YAML with live preview and PDF export. Free, no sign up, works offline.](https://www.reddit.com/r/javascript/comments/17lgxwl/an_opensource_react_app_for_creating_resumes/)
+- [How to Build a Simple Audio Chrome Extension](https://www.reddit.com/r/javascript/comments/17l9b89/how_to_build_a_simple_audio_chrome_extension/)
+- [Streamlining Test Automation with the Page Object Model in Cypress](https://www.reddit.com/r/javascript/comments/17l862j/streamlining_test_automation_with_the_page_object/)
+- [WTF Wednesday &lpar;November 01, 2023&rpar;](https://www.reddit.com/r/javascript/comments/17l6cxx/wtf_wednesday_november_01_2023/)
 - [[AskJS] Automatically filling out a form with JavaScript](https://www.reddit.com/r/javascript/comments/17kxjr0/askjs_automatically_filling_out_a_form_with/)
 - [Intro to Impossible.js, an Object Oriented JavaScript library for building cross-platform terminal apps that was never released.](https://www.reddit.com/r/javascript/comments/17kqfw8/intro_to_impossiblejs_an_object_oriented/)
-- [Down and to the Right: Firefox Got Faster for Real Users in 2023](https://www.reddit.com/r/javascript/comments/17kpghr/down_and_to_the_right_firefox_got_faster_for_real/)
-- [Check Out My Awesome Key/Mouse Click Visualizer - YAKC &lpar;perfect for content creation&rpar;](https://www.reddit.com/r/javascript/comments/17koyn1/check_out_my_awesome_keymouse_click_visualizer/)
-- [Is anyone interested in design?](https://www.reddit.com/r/javascript/comments/17knhhy/is_anyone_interested_in_design/)
-- [How to build a GitHub monitoring tool](https://www.reddit.com/r/javascript/comments/17knfdm/how_to_build_a_github_monitoring_tool/)
-- [I made a terrible baby name generator in JavaScript as a practice project based on articles and lists of bad baby names](https://www.reddit.com/r/javascript/comments/17kl91y/i_made_a_terrible_baby_name_generator_in/)
-- [Basic unzip implementation based on zip.js and Deno &lpar;Fetch and unzip Chrome-For-Testing Canary Channel&rpar;](https://www.reddit.com/r/javascript/comments/17kdtzr/basic_unzip_implementation_based_on_zipjs_and/)
-- [Woohoo! The subreddit is BACK!](https://www.reddit.com/r/javascript/comments/17kanax/woohoo_the_subreddit_is_back/)
-- [Should I proceed further or move to new project](https://www.reddit.com/r/javascript/comments/17k68ej/should_i_proceed_further_or_move_to_new_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
