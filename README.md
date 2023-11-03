@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Good Javascript projects for resume after completing The Odin Project](https://www.reddit.com/r/javascript/comments/17mh9kd/askjs_good_javascript_projects_for_resume_after/)
+- [[AskJS] I need help with this code](https://www.reddit.com/r/javascript/comments/17mh7au/askjs_i_need_help_with_this_code/)
+- [OpenSignLabs/OpenSign: The javascript based free &amp; Open Source Alternative to DocuSign](https://www.reddit.com/r/javascript/comments/17mf099/opensignlabsopensign_the_javascript_based_free/)
+- [A new way to bring garbage collected programming languages efficiently to](https://www.reddit.com/r/javascript/comments/17m6tsq/a_new_way_to_bring_garbage_collected_programming/)
+- [How fast is WinterJS ?](https://www.reddit.com/r/javascript/comments/17m67im/how_fast_is_winterjs/)
+- [[AskJS] Why wouldn&#39;t you use this Github action to deploy your Javascript application?](https://www.reddit.com/r/javascript/comments/17m5st2/askjs_why_wouldnt_you_use_this_github_action_to/)
 - [Full-duplex streaming with fetch&lpar;&rpar; to and from the browser using Native Messaging](https://www.reddit.com/r/javascript/comments/17lrgd2/fullduplex_streaming_with_fetch_to_and_from_the/)
 - [Speeding up the JavaScript ecosystem - Tailwind CSS](https://www.reddit.com/r/javascript/comments/17louwp/speeding_up_the_javascript_ecosystem_tailwind_css/)
 - [@tsdoc-test-reporter: attach JS/TSDoc tags to your test results](https://www.reddit.com/r/javascript/comments/17lknz7/tsdoctestreporter_attach_jstsdoc_tags_to_your/)
 - [Visual Studio Code October 2023](https://www.reddit.com/r/javascript/comments/17li25d/visual_studio_code_october_2023/)
-- [An open-source React app for creating resumes using YAML with live preview and PDF export. Free, no sign up, works offline.](https://www.reddit.com/r/javascript/comments/17lgxwl/an_opensource_react_app_for_creating_resumes/)
-- [How to Build a Simple Audio Chrome Extension](https://www.reddit.com/r/javascript/comments/17l9b89/how_to_build_a_simple_audio_chrome_extension/)
-- [Streamlining Test Automation with the Page Object Model in Cypress](https://www.reddit.com/r/javascript/comments/17l862j/streamlining_test_automation_with_the_page_object/)
-- [WTF Wednesday &lpar;November 01, 2023&rpar;](https://www.reddit.com/r/javascript/comments/17l6cxx/wtf_wednesday_november_01_2023/)
-- [[AskJS] Automatically filling out a form with JavaScript](https://www.reddit.com/r/javascript/comments/17kxjr0/askjs_automatically_filling_out_a_form_with/)
-- [Intro to Impossible.js, an Object Oriented JavaScript library for building cross-platform terminal apps that was never released.](https://www.reddit.com/r/javascript/comments/17kqfw8/intro_to_impossiblejs_an_object_oriented/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
