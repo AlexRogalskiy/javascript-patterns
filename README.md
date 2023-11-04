@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Good Javascript projects for resume after completing The Odin Project](https://www.reddit.com/r/javascript/comments/17mh9kd/askjs_good_javascript_projects_for_resume_after/)
-- [[AskJS] I need help with this code](https://www.reddit.com/r/javascript/comments/17mh7au/askjs_i_need_help_with_this_code/)
-- [OpenSignLabs/OpenSign: The javascript based free &amp; Open Source Alternative to DocuSign](https://www.reddit.com/r/javascript/comments/17mf099/opensignlabsopensign_the_javascript_based_free/)
-- [A new way to bring garbage collected programming languages efficiently to](https://www.reddit.com/r/javascript/comments/17m6tsq/a_new_way_to_bring_garbage_collected_programming/)
-- [How fast is WinterJS ?](https://www.reddit.com/r/javascript/comments/17m67im/how_fast_is_winterjs/)
-- [[AskJS] Why wouldn&#39;t you use this Github action to deploy your Javascript application?](https://www.reddit.com/r/javascript/comments/17m5st2/askjs_why_wouldnt_you_use_this_github_action_to/)
-- [Full-duplex streaming with fetch&lpar;&rpar; to and from the browser using Native Messaging](https://www.reddit.com/r/javascript/comments/17lrgd2/fullduplex_streaming_with_fetch_to_and_from_the/)
-- [Speeding up the JavaScript ecosystem - Tailwind CSS](https://www.reddit.com/r/javascript/comments/17louwp/speeding_up_the_javascript_ecosystem_tailwind_css/)
-- [@tsdoc-test-reporter: attach JS/TSDoc tags to your test results](https://www.reddit.com/r/javascript/comments/17lknz7/tsdoctestreporter_attach_jstsdoc_tags_to_your/)
-- [Visual Studio Code October 2023](https://www.reddit.com/r/javascript/comments/17li25d/visual_studio_code_october_2023/)
+- [Top Front-End Development Resources](https://www.reddit.com/r/javascript/comments/17nansh/top_frontend_development_resources/)
+- [25 CSV Parsers: A Benchmark](https://www.reddit.com/r/javascript/comments/17n5rqm/25_csv_parsers_a_benchmark/)
+- [[AskJS] searching for Js community](https://www.reddit.com/r/javascript/comments/17n29j8/askjs_searching_for_js_community/)
+- [Announcing TypeScript 5.3 RC](https://www.reddit.com/r/javascript/comments/17n0mi9/announcing_typescript_53_rc/)
+- [Got tired of Disney+ blurred overlay, so I made an extension that removed it](https://www.reddit.com/r/javascript/comments/17mz3bs/got_tired_of_disney_blurred_overlay_so_i_made_an/)
+- [A GUI tool to accelerate backend dev by getting rid of repetitive and boilerplate code](https://www.reddit.com/r/javascript/comments/17mwfqh/a_gui_tool_to_accelerate_backend_dev_by_getting/)
+- [No dogs were harmed in the making of this app](https://www.reddit.com/r/javascript/comments/17mvfer/no_dogs_were_harmed_in_the_making_of_this_app/)
+- [Apple said it had three Safari browsers – not one, and with a straight face](https://www.reddit.com/r/javascript/comments/17mrpd4/apple_said_it_had_three_safari_browsers_not_one/)
+- [Building a chatbot app in 3 hours and 37 minutes](https://www.reddit.com/r/javascript/comments/17mqsgl/building_a_chatbot_app_in_3_hours_and_37_minutes/)
+- [[JavaScript] Save and Load File.](https://www.reddit.com/r/javascript/comments/17mmoi7/javascript_save_and_load_file/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
