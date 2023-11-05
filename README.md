@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Top Front-End Development Resources](https://www.reddit.com/r/javascript/comments/17nansh/top_frontend_development_resources/)
+- [[AskJS] Do you have an AI devtool you can&#39;t imagine your life without?](https://www.reddit.com/r/javascript/comments/17o0p9o/askjs_do_you_have_an_ai_devtool_you_cant_imagine/)
+- [Which part of the software development lifecycle takes the most time?](https://www.reddit.com/r/javascript/comments/17nu3yp/which_part_of_the_software_development_lifecycle/)
+- [File system access prior art, current implementations and disambiguation: The difference between WICG File System Access and WHATWG File System](https://www.reddit.com/r/javascript/comments/17npkxl/file_system_access_prior_art_current/)
+- [[AskJS] Are there any neat ways to avoid the boilerplate of method delegation?](https://www.reddit.com/r/javascript/comments/17npexj/askjs_are_there_any_neat_ways_to_avoid_the/)
+- [I made a free resume builder for devs in 7 days using Remix.](https://www.reddit.com/r/javascript/comments/17nopaa/i_made_a_free_resume_builder_for_devs_in_7_days/)
+- [Sheriff introduces support for Astro](https://www.reddit.com/r/javascript/comments/17njei4/sheriff_introduces_support_for_astro/)
+- [Showoff Saturday &lpar;November 04, 2023&rpar;](https://www.reddit.com/r/javascript/comments/17ng1gk/showoff_saturday_november_04_2023/)
 - [25 CSV Parsers: A Benchmark](https://www.reddit.com/r/javascript/comments/17n5rqm/25_csv_parsers_a_benchmark/)
 - [[AskJS] searching for Js community](https://www.reddit.com/r/javascript/comments/17n29j8/askjs_searching_for_js_community/)
 - [Announcing TypeScript 5.3 RC](https://www.reddit.com/r/javascript/comments/17n0mi9/announcing_typescript_53_rc/)
-- [Got tired of Disney+ blurred overlay, so I made an extension that removed it](https://www.reddit.com/r/javascript/comments/17mz3bs/got_tired_of_disney_blurred_overlay_so_i_made_an/)
-- [A GUI tool to accelerate backend dev by getting rid of repetitive and boilerplate code](https://www.reddit.com/r/javascript/comments/17mwfqh/a_gui_tool_to_accelerate_backend_dev_by_getting/)
-- [No dogs were harmed in the making of this app](https://www.reddit.com/r/javascript/comments/17mvfer/no_dogs_were_harmed_in_the_making_of_this_app/)
-- [Apple said it had three Safari browsers – not one, and with a straight face](https://www.reddit.com/r/javascript/comments/17mrpd4/apple_said_it_had_three_safari_browsers_not_one/)
-- [Building a chatbot app in 3 hours and 37 minutes](https://www.reddit.com/r/javascript/comments/17mqsgl/building_a_chatbot_app_in_3_hours_and_37_minutes/)
-- [[JavaScript] Save and Load File.](https://www.reddit.com/r/javascript/comments/17mmoi7/javascript_save_and_load_file/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
