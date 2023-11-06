@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Jupyter Notebooks for JS/TS](https://www.reddit.com/r/javascript/comments/17oldvl/jupyter_notebooks_for_jsts/)
+- [Control fetch&lpar;&rpar; in SharedWorker from AudioWorklet with MessagePort and Transferable Streams](https://www.reddit.com/r/javascript/comments/17ofyiv/control_fetch_in_sharedworker_from_audioworklet/)
+- [Created free &quot;Jackbox&quot; style activities for team building for in person or video meetings using ReactJS + Soketi / Pusher](https://www.reddit.com/r/javascript/comments/17ofue8/created_free_jackbox_style_activities_for_team/)
+- [liashchynskyi/nestjs-codex: CRUD auxiliaries for NestJS project using Mongoose.](https://www.reddit.com/r/javascript/comments/17o60x8/liashchynskyinestjscodex_crud_auxiliaries_for/)
+- [Cami.js - A No Build, Web Component Based UI Framework](https://www.reddit.com/r/javascript/comments/17o22t8/camijs_a_no_build_web_component_based_ui_framework/)
 - [[AskJS] Do you have an AI devtool you can&#39;t imagine your life without?](https://www.reddit.com/r/javascript/comments/17o0p9o/askjs_do_you_have_an_ai_devtool_you_cant_imagine/)
 - [Which part of the software development lifecycle takes the most time?](https://www.reddit.com/r/javascript/comments/17nu3yp/which_part_of_the_software_development_lifecycle/)
 - [File system access prior art, current implementations and disambiguation: The difference between WICG File System Access and WHATWG File System](https://www.reddit.com/r/javascript/comments/17npkxl/file_system_access_prior_art_current/)
 - [[AskJS] Are there any neat ways to avoid the boilerplate of method delegation?](https://www.reddit.com/r/javascript/comments/17npexj/askjs_are_there_any_neat_ways_to_avoid_the/)
 - [I made a free resume builder for devs in 7 days using Remix.](https://www.reddit.com/r/javascript/comments/17nopaa/i_made_a_free_resume_builder_for_devs_in_7_days/)
-- [Sheriff introduces support for Astro](https://www.reddit.com/r/javascript/comments/17njei4/sheriff_introduces_support_for_astro/)
-- [Showoff Saturday &lpar;November 04, 2023&rpar;](https://www.reddit.com/r/javascript/comments/17ng1gk/showoff_saturday_november_04_2023/)
-- [25 CSV Parsers: A Benchmark](https://www.reddit.com/r/javascript/comments/17n5rqm/25_csv_parsers_a_benchmark/)
-- [[AskJS] searching for Js community](https://www.reddit.com/r/javascript/comments/17n29j8/askjs_searching_for_js_community/)
-- [Announcing TypeScript 5.3 RC](https://www.reddit.com/r/javascript/comments/17n0mi9/announcing_typescript_53_rc/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
