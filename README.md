@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Deno 1.38 features HTML documentation, hot module replacement](https://www.infoworld.com/article/3710148/deno-138-features-html-documentation-hot-module-replacement.html#tk.rss_javascript)
 - [Next.js 14 previews partial prerendering](https://www.infoworld.com/article/3709608/nextjs-14-previews-partial-prerendering.html#tk.rss_javascript)
 - [Using JavaScript&#39;s built-in objects](https://www.infoworld.com/article/2077150/using-javascript-s-built-in-objects.html#tk.rss_javascript)
 - [Node.js 21 brings WebSocket client](https://www.infoworld.com/article/3709068/nodejs-21-brings-websocket-client.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Recharts: Intro to JavaScript charting](https://www.infoworld.com/article/3707388/recharts-intro-to-javascript-charting.html#tk.rss_javascript)
 - [Latest Node.js boosts stream performance](https://www.infoworld.com/article/3707793/latest-nodejs-boosts-stream-performance.html#tk.rss_javascript)
 - [10 JavaScript concepts every Node developer must master](https://www.infoworld.com/article/3196070/10-javascript-concepts-every-nodejs-developer-must-master.html#tk.rss_javascript)
-- [Next.js 13.5 brings faster startups and refreshes](https://www.infoworld.com/article/3707313/nextjs-135-brings-faster-startups-and-refreshes.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
