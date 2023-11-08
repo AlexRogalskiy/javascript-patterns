@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] How do HTTPS Request exactly work?](https://www.reddit.com/r/javascript/comments/17q8her/askjs_how_do_https_request_exactly_work/)
+- [JS13K: Developers Built JavaScript Games Using Only 13K](https://www.reddit.com/r/javascript/comments/17q8fkb/js13k_developers_built_javascript_games_using/)
+- [[AskJS] How do you test JS on website from different countries?](https://www.reddit.com/r/javascript/comments/17q0ns1/askjs_how_do_you_test_js_on_website_from/)
+- [Introducing DFlex: A Powerful JavaScript Library for Drag and Drop Apps](https://www.reddit.com/r/javascript/comments/17ptlr8/introducing_dflex_a_powerful_javascript_library/)
 - [We built a turn-based strategy game with javascript. What are your thoughts on the result? You can try it on tracesoccer.io](https://www.reddit.com/r/javascript/comments/17pdbe2/we_built_a_turnbased_strategy_game_with/)
 - [Check here: Develop Github Profile Search Using JavaScript](https://www.reddit.com/r/javascript/comments/17p9a47/check_here_develop_github_profile_search_using/)
 - [NY - Fast, Proxy Package Manager for JavaScript now with Bun support!](https://www.reddit.com/r/javascript/comments/17p7lyl/ny_fast_proxy_package_manager_for_javascript_now/)
 - [Iotawise - An open source habit tracking app built with Next.js App Router and shadcn/ui](https://www.reddit.com/r/javascript/comments/17p2znv/iotawise_an_open_source_habit_tracking_app_built/)
 - [Web and Mobile Automation Inside CI Environments](https://www.reddit.com/r/javascript/comments/17p2d35/web_and_mobile_automation_inside_ci_environments/)
 - [ESLint Stylistic - Formatting and Linting in one-go](https://www.reddit.com/r/javascript/comments/17p1oxk/eslint_stylistic_formatting_and_linting_in_onego/)
-- [Found this on Linkedin, thought I might share it](https://www.reddit.com/r/javascript/comments/17ozs0i/found_this_on_linkedin_thought_i_might_share_it/)
-- [Jupyter Notebooks for JS/TS](https://www.reddit.com/r/javascript/comments/17oldvl/jupyter_notebooks_for_jsts/)
-- [Control fetch&lpar;&rpar; in SharedWorker from AudioWorklet with MessagePort and Transferable Streams](https://www.reddit.com/r/javascript/comments/17ofyiv/control_fetch_in_sharedworker_from_audioworklet/)
-- [Created free &quot;Jackbox&quot; style activities for team building for in person or video meetings using ReactJS + Soketi / Pusher](https://www.reddit.com/r/javascript/comments/17ofue8/created_free_jackbox_style_activities_for_team/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
