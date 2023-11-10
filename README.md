@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] How do HTTPS Request exactly work?](https://www.reddit.com/r/javascript/comments/17q8her/askjs_how_do_https_request_exactly_work/)
-- [JS13K: Developers Built JavaScript Games Using Only 13K](https://www.reddit.com/r/javascript/comments/17q8fkb/js13k_developers_built_javascript_games_using/)
-- [[AskJS] How do you test JS on website from different countries?](https://www.reddit.com/r/javascript/comments/17q0ns1/askjs_how_do_you_test_js_on_website_from/)
-- [Introducing DFlex: A Powerful JavaScript Library for Drag and Drop Apps](https://www.reddit.com/r/javascript/comments/17ptlr8/introducing_dflex_a_powerful_javascript_library/)
-- [We built a turn-based strategy game with javascript. What are your thoughts on the result? You can try it on tracesoccer.io](https://www.reddit.com/r/javascript/comments/17pdbe2/we_built_a_turnbased_strategy_game_with/)
-- [Check here: Develop Github Profile Search Using JavaScript](https://www.reddit.com/r/javascript/comments/17p9a47/check_here_develop_github_profile_search_using/)
-- [NY - Fast, Proxy Package Manager for JavaScript now with Bun support!](https://www.reddit.com/r/javascript/comments/17p7lyl/ny_fast_proxy_package_manager_for_javascript_now/)
-- [Iotawise - An open source habit tracking app built with Next.js App Router and shadcn/ui](https://www.reddit.com/r/javascript/comments/17p2znv/iotawise_an_open_source_habit_tracking_app_built/)
-- [Web and Mobile Automation Inside CI Environments](https://www.reddit.com/r/javascript/comments/17p2d35/web_and_mobile_automation_inside_ci_environments/)
-- [ESLint Stylistic - Formatting and Linting in one-go](https://www.reddit.com/r/javascript/comments/17p1oxk/eslint_stylistic_formatting_and_linting_in_onego/)
+- [After 2 years of work, my Desktop in the Browser is now in beta!](https://www.reddit.com/r/javascript/comments/17rs726/after_2_years_of_work_my_desktop_in_the_browser/)
+- [RDF + JS - Learn how to use knowledge graphs in JavaScript](https://www.reddit.com/r/javascript/comments/17rpk8e/rdf_js_learn_how_to_use_knowledge_graphs_in/)
+- [ZeroStep: AI-powered actions and assertions for Playwright](https://www.reddit.com/r/javascript/comments/17rljno/zerostep_aipowered_actions_and_assertions_for/)
+- [My Journey to 3x Faster Builds: Trimming Barrel File Imports](https://www.reddit.com/r/javascript/comments/17rko0p/my_journey_to_3x_faster_builds_trimming_barrel/)
+- [If/else vs switch/case pattern matching](https://www.reddit.com/r/javascript/comments/17rgfcn/ifelse_vs_switchcase_pattern_matching/)
+- [Implementing Protected Members in JavaScript by Hacking Symbols and Private Fields](https://www.reddit.com/r/javascript/comments/17rfnq9/implementing_protected_members_in_javascript_by/)
+- [[AskJS] JavaScript Puzzles/Quizzes on Twitter?](https://www.reddit.com/r/javascript/comments/17rau3d/askjs_javascript_puzzlesquizzes_on_twitter/)
+- [CopilotKit: AI react components built on top of Open AI&#39;s Assistants API](https://www.reddit.com/r/javascript/comments/17r15rj/copilotkit_ai_react_components_built_on_top_of/)
+- [manette-js: Input &amp; Action mapping library for real-time experiences](https://www.reddit.com/r/javascript/comments/17qvqef/manettejs_input_action_mapping_library_for/)
+- [Learn how to build single sign-on for your web app](https://www.reddit.com/r/javascript/comments/17qrvmt/learn_how_to_build_single_signon_for_your_web_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
