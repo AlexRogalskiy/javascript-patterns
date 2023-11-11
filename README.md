@@ -277,11 +277,11 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] How to work around unfulfilled Promise in async iterator blocking handling multiple requests?](https://www.reddit.com/r/javascript/comments/17rxuk9/askjs_how_to_work_around_unfulfilled_promise_in/)
 - [After 2 years of work, my Desktop in the Browser is now in beta!](https://www.reddit.com/r/javascript/comments/17rs726/after_2_years_of_work_my_desktop_in_the_browser/)
 - [RDF + JS - Learn how to use knowledge graphs in JavaScript](https://www.reddit.com/r/javascript/comments/17rpk8e/rdf_js_learn_how_to_use_knowledge_graphs_in/)
 - [ZeroStep: AI-powered actions and assertions for Playwright](https://www.reddit.com/r/javascript/comments/17rljno/zerostep_aipowered_actions_and_assertions_for/)
 - [My Journey to 3x Faster Builds: Trimming Barrel File Imports](https://www.reddit.com/r/javascript/comments/17rko0p/my_journey_to_3x_faster_builds_trimming_barrel/)
-- [If/else vs switch/case pattern matching](https://www.reddit.com/r/javascript/comments/17rgfcn/ifelse_vs_switchcase_pattern_matching/)
 - [Implementing Protected Members in JavaScript by Hacking Symbols and Private Fields](https://www.reddit.com/r/javascript/comments/17rfnq9/implementing_protected_members_in_javascript_by/)
 - [[AskJS] JavaScript Puzzles/Quizzes on Twitter?](https://www.reddit.com/r/javascript/comments/17rau3d/askjs_javascript_puzzlesquizzes_on_twitter/)
 - [CopilotKit: AI react components built on top of Open AI&#39;s Assistants API](https://www.reddit.com/r/javascript/comments/17r15rj/copilotkit_ai_react_components_built_on_top_of/)
