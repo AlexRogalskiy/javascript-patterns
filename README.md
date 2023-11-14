@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Pursuit of wicked smartness in VS Code](https://www.reddit.com/r/javascript/comments/17umkbx/pursuit_of_wicked_smartness_in_vs_code/)
+- [[AskJS] Large vanilla js community?](https://www.reddit.com/r/javascript/comments/17um6xm/askjs_large_vanilla_js_community/)
+- [[AskJS] Any Node.JS + webview framework?](https://www.reddit.com/r/javascript/comments/17ukkwx/askjs_any_nodejs_webview_framework/)
+- [Introducing Tiny-Link: Your Swift Node.js Module for Lightning-Fast URL Shortening with Redis!](https://www.reddit.com/r/javascript/comments/17ugwvf/introducing_tinylink_your_swift_nodejs_module_for/)
+- [Your /r/javascript recap for the week of November 06 - November 12](https://www.reddit.com/r/javascript/comments/17u7hxd/your_rjavascript_recap_for_the_week_of_november/)
+- [W3cubDocs API Documentation](https://www.reddit.com/r/javascript/comments/17u4n1w/w3cubdocs_api_documentation/)
+- [Javascript Function Increment/Decrement Number with Min Max Number](https://www.reddit.com/r/javascript/comments/17u3ifd/javascript_function_incrementdecrement_number/)
 - [Explicit Resource Management: Exploring JavaScript&#39;s and TypeScript&#39;s new feature](https://www.reddit.com/r/javascript/comments/17tvohd/explicit_resource_management_exploring/)
 - [[AskJS] Override disable forward seeking on website](https://www.reddit.com/r/javascript/comments/17to3zz/askjs_override_disable_forward_seeking_on_website/)
 - [[AskJS] Get difference between datetime without timezone reference](https://www.reddit.com/r/javascript/comments/17tj8fc/askjs_get_difference_between_datetime_without/)
-- [[JavaScript] Save and Load File. [v1.2]&lpar;Text, Image, Audio and Video&rpar;](https://www.reddit.com/r/javascript/comments/17sylqp/javascript_save_and_load_file_v12text_image_audio/)
-- [An implementation of the classic Snake game using HTML5, CSS, and JavaScript](https://www.reddit.com/r/javascript/comments/17syezy/an_implementation_of_the_classic_snake_game_using/)
-- [I&#39;m building Djot - an app platform, a scratch pad, a repl-ish interface: Using Javascript/Typescript and some React you can quickly make a desktop app &lpar;powered by Electron&rpar;](https://www.reddit.com/r/javascript/comments/17srgdw/im_building_djot_an_app_platform_a_scratch_pad_a/)
-- [Showoff Saturday &lpar;November 11, 2023&rpar;](https://www.reddit.com/r/javascript/comments/17spukp/showoff_saturday_november_11_2023/)
-- [Executing Dangerously Injected Scripts Inside React Components](https://www.reddit.com/r/javascript/comments/17snind/executing_dangerously_injected_scripts_inside/)
-- [[AskJS] How to work around unfulfilled Promise in async iterator blocking handling multiple requests?](https://www.reddit.com/r/javascript/comments/17rxuk9/askjs_how_to_work_around_unfulfilled_promise_in/)
-- [After 2 years of work, my Desktop in the Browser is now in beta!](https://www.reddit.com/r/javascript/comments/17rs726/after_2_years_of_work_my_desktop_in_the_browser/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
