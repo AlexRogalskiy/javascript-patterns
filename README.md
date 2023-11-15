@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Everything You Need to Know About Micro Frontends](https://www.reddit.com/r/javascript/comments/17v7a4s/everything_you_need_to_know_about_micro_frontends/)
+- [What I learned building an audio plugins system for the web](https://www.reddit.com/r/javascript/comments/17v4ftg/what_i_learned_building_an_audio_plugins_system/)
+- [Exploring V8&#39;s strings: implementation and optimizations](https://www.reddit.com/r/javascript/comments/17v3efm/exploring_v8s_strings_implementation_and/)
+- [Lightweight Javascript Framework Review &lpar;For Django Developers&rpar;](https://www.reddit.com/r/javascript/comments/17v2gyf/lightweight_javascript_framework_review_for/)
+- [Total guide to lazy loading with new Angular @defer](https://www.reddit.com/r/javascript/comments/17v1s9s/total_guide_to_lazy_loading_with_new_angular_defer/)
+- [[AskJS] Node JS REST API library recommendation for a junior developer](https://www.reddit.com/r/javascript/comments/17v12vv/askjs_node_js_rest_api_library_recommendation_for/)
+- [Network Topology Diagram &amp; Nodes](https://www.reddit.com/r/javascript/comments/17uzwxf/network_topology_diagram_nodes/)
+- [Argos: One-Click Debugging &amp; Visual Testing for Playwright](https://www.reddit.com/r/javascript/comments/17uxtkr/argos_oneclick_debugging_visual_testing_for/)
 - [Pursuit of wicked smartness in VS Code](https://www.reddit.com/r/javascript/comments/17umkbx/pursuit_of_wicked_smartness_in_vs_code/)
 - [[AskJS] Large vanilla js community?](https://www.reddit.com/r/javascript/comments/17um6xm/askjs_large_vanilla_js_community/)
-- [[AskJS] Any Node.JS + webview framework?](https://www.reddit.com/r/javascript/comments/17ukkwx/askjs_any_nodejs_webview_framework/)
-- [Introducing Tiny-Link: Your Swift Node.js Module for Lightning-Fast URL Shortening with Redis!](https://www.reddit.com/r/javascript/comments/17ugwvf/introducing_tinylink_your_swift_nodejs_module_for/)
-- [Your /r/javascript recap for the week of November 06 - November 12](https://www.reddit.com/r/javascript/comments/17u7hxd/your_rjavascript_recap_for_the_week_of_november/)
-- [W3cubDocs API Documentation](https://www.reddit.com/r/javascript/comments/17u4n1w/w3cubdocs_api_documentation/)
-- [Javascript Function Increment/Decrement Number with Min Max Number](https://www.reddit.com/r/javascript/comments/17u3ifd/javascript_function_incrementdecrement_number/)
-- [Explicit Resource Management: Exploring JavaScript&#39;s and TypeScript&#39;s new feature](https://www.reddit.com/r/javascript/comments/17tvohd/explicit_resource_management_exploring/)
-- [[AskJS] Override disable forward seeking on website](https://www.reddit.com/r/javascript/comments/17to3zz/askjs_override_disable_forward_seeking_on_website/)
-- [[AskJS] Get difference between datetime without timezone reference](https://www.reddit.com/r/javascript/comments/17tj8fc/askjs_get_difference_between_datetime_without/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
