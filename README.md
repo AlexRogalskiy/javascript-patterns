@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] What do you enjoy/hate with your current project planning software?](https://www.reddit.com/r/javascript/comments/17w1vwk/askjs_what_do_you_enjoyhate_with_your_current/)
+- [storybook-test: a new Vitest-powered testing library for Storybook](https://www.reddit.com/r/javascript/comments/17vza7h/storybooktest_a_new_vitestpowered_testing_library/)
+- [Building fast Next.js apps using TypeScript and AWS Amplify JavaScript v6](https://www.reddit.com/r/javascript/comments/17vz4if/building_fast_nextjs_apps_using_typescript_and/)
+- [Building an Animated Dice Roll SVG Generator with Vanilla JavaScript and ChatGPT](https://www.reddit.com/r/javascript/comments/17vv3s9/building_an_animated_dice_roll_svg_generator_with/)
+- [How to Clear an Array in JavaScript](https://www.reddit.com/r/javascript/comments/17vt5bt/how_to_clear_an_array_in_javascript/)
+- [WTF Wednesday &lpar;November 15, 2023&rpar;](https://www.reddit.com/r/javascript/comments/17vot4t/wtf_wednesday_november_15_2023/)
 - [Everything You Need to Know About Micro Frontends](https://www.reddit.com/r/javascript/comments/17v7a4s/everything_you_need_to_know_about_micro_frontends/)
 - [What I learned building an audio plugins system for the web](https://www.reddit.com/r/javascript/comments/17v4ftg/what_i_learned_building_an_audio_plugins_system/)
 - [Exploring V8&#39;s strings: implementation and optimizations](https://www.reddit.com/r/javascript/comments/17v3efm/exploring_v8s_strings_implementation_and/)
 - [Lightweight Javascript Framework Review &lpar;For Django Developers&rpar;](https://www.reddit.com/r/javascript/comments/17v2gyf/lightweight_javascript_framework_review_for/)
-- [Total guide to lazy loading with new Angular @defer](https://www.reddit.com/r/javascript/comments/17v1s9s/total_guide_to_lazy_loading_with_new_angular_defer/)
-- [[AskJS] Node JS REST API library recommendation for a junior developer](https://www.reddit.com/r/javascript/comments/17v12vv/askjs_node_js_rest_api_library_recommendation_for/)
-- [Network Topology Diagram &amp; Nodes](https://www.reddit.com/r/javascript/comments/17uzwxf/network_topology_diagram_nodes/)
-- [Argos: One-Click Debugging &amp; Visual Testing for Playwright](https://www.reddit.com/r/javascript/comments/17uxtkr/argos_oneclick_debugging_visual_testing_for/)
-- [Pursuit of wicked smartness in VS Code](https://www.reddit.com/r/javascript/comments/17umkbx/pursuit_of_wicked_smartness_in_vs_code/)
-- [[AskJS] Large vanilla js community?](https://www.reddit.com/r/javascript/comments/17um6xm/askjs_large_vanilla_js_community/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
