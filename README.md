@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] What do you enjoy/hate with your current project planning software?](https://www.reddit.com/r/javascript/comments/17w1vwk/askjs_what_do_you_enjoyhate_with_your_current/)
-- [storybook-test: a new Vitest-powered testing library for Storybook](https://www.reddit.com/r/javascript/comments/17vza7h/storybooktest_a_new_vitestpowered_testing_library/)
-- [Building fast Next.js apps using TypeScript and AWS Amplify JavaScript v6](https://www.reddit.com/r/javascript/comments/17vz4if/building_fast_nextjs_apps_using_typescript_and/)
-- [Building an Animated Dice Roll SVG Generator with Vanilla JavaScript and ChatGPT](https://www.reddit.com/r/javascript/comments/17vv3s9/building_an_animated_dice_roll_svg_generator_with/)
-- [How to Clear an Array in JavaScript](https://www.reddit.com/r/javascript/comments/17vt5bt/how_to_clear_an_array_in_javascript/)
-- [WTF Wednesday &lpar;November 15, 2023&rpar;](https://www.reddit.com/r/javascript/comments/17vot4t/wtf_wednesday_november_15_2023/)
-- [Everything You Need to Know About Micro Frontends](https://www.reddit.com/r/javascript/comments/17v7a4s/everything_you_need_to_know_about_micro_frontends/)
-- [What I learned building an audio plugins system for the web](https://www.reddit.com/r/javascript/comments/17v4ftg/what_i_learned_building_an_audio_plugins_system/)
-- [Exploring V8&#39;s strings: implementation and optimizations](https://www.reddit.com/r/javascript/comments/17v3efm/exploring_v8s_strings_implementation_and/)
-- [Lightweight Javascript Framework Review &lpar;For Django Developers&rpar;](https://www.reddit.com/r/javascript/comments/17v2gyf/lightweight_javascript_framework_review_for/)
+- [My first sveltekit project!](https://www.reddit.com/r/javascript/comments/17x38l3/my_first_sveltekit_project/)
+- [SYNG - Semantic search for JavaScript](https://www.reddit.com/r/javascript/comments/17x06xx/syng_semantic_search_for_javascript/)
+- [Mozilla AI Guide Launch with Summarization Code Example](https://www.reddit.com/r/javascript/comments/17wyrj9/mozilla_ai_guide_launch_with_summarization_code/)
+- [Announcing Vite 5](https://www.reddit.com/r/javascript/comments/17ww8yr/announcing_vite_5/)
+- [Check here: How to Create a Calculator using JavaScript](https://www.reddit.com/r/javascript/comments/17wvdjd/check_here_how_to_create_a_calculator_using/)
+- [Introducing VanJS App Builder: An AI-Powered Chatbot that Helps You Bootstrap Web Apps with VanJS](https://www.reddit.com/r/javascript/comments/17wumf1/introducing_vanjs_app_builder_an_aipowered/)
+- [[AskJS] wanting to learn and need some help.](https://www.reddit.com/r/javascript/comments/17wtd9v/askjs_wanting_to_learn_and_need_some_help/)
+- [Advice for learning JavaScript?](https://www.reddit.com/r/javascript/comments/17wnxil/advice_for_learning_javascript/)
+- [Advice for learning JavaScript?](https://www.reddit.com/r/javascript/comments/17wnxhi/advice_for_learning_javascript/)
+- [[AskJS] Android Developer Asking Question Regarding Full Stack Development Jobs ?](https://www.reddit.com/r/javascript/comments/17wly91/askjs_android_developer_asking_question_regarding/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
