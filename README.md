@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] JSDoc for Proxy Objects?](https://www.reddit.com/r/javascript/comments/17xt36o/askjs_jsdoc_for_proxy_objects/)
+- [[AskJS] Looking for good API for educational sample](https://www.reddit.com/r/javascript/comments/17xosoe/askjs_looking_for_good_api_for_educational_sample/)
+- [eslint-config-canonical: 1,000+ rules ESLint rules](https://www.reddit.com/r/javascript/comments/17xh8d4/eslintconfigcanonical_1000_rules_eslint_rules/)
+- [New tool for revealing splits and schisms in an ecosystem where folks have a hard time upgrading](https://www.reddit.com/r/javascript/comments/17xetlf/new_tool_for_revealing_splits_and_schisms_in_an/)
 - [My first sveltekit project!](https://www.reddit.com/r/javascript/comments/17x38l3/my_first_sveltekit_project/)
 - [SYNG - Semantic search for JavaScript](https://www.reddit.com/r/javascript/comments/17x06xx/syng_semantic_search_for_javascript/)
 - [Mozilla AI Guide Launch with Summarization Code Example](https://www.reddit.com/r/javascript/comments/17wyrj9/mozilla_ai_guide_launch_with_summarization_code/)
 - [Announcing Vite 5](https://www.reddit.com/r/javascript/comments/17ww8yr/announcing_vite_5/)
 - [Check here: How to Create a Calculator using JavaScript](https://www.reddit.com/r/javascript/comments/17wvdjd/check_here_how_to_create_a_calculator_using/)
 - [Introducing VanJS App Builder: An AI-Powered Chatbot that Helps You Bootstrap Web Apps with VanJS](https://www.reddit.com/r/javascript/comments/17wumf1/introducing_vanjs_app_builder_an_aipowered/)
-- [[AskJS] wanting to learn and need some help.](https://www.reddit.com/r/javascript/comments/17wtd9v/askjs_wanting_to_learn_and_need_some_help/)
-- [Advice for learning JavaScript?](https://www.reddit.com/r/javascript/comments/17wnxil/advice_for_learning_javascript/)
-- [Advice for learning JavaScript?](https://www.reddit.com/r/javascript/comments/17wnxhi/advice_for_learning_javascript/)
-- [[AskJS] Android Developer Asking Question Regarding Full Stack Development Jobs ?](https://www.reddit.com/r/javascript/comments/17wly91/askjs_android_developer_asking_question_regarding/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
