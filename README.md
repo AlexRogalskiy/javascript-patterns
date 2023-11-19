@@ -322,6 +322,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *YouTube code posts*
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [🚀JSConf Colombia 2023: Live Stream Day 2 - Sponsored by Platzi](https://www.youtube.com/watch?v=CjGA5ba5aCc)
 - [🚀JSConf Colombia 2023: Live Stream Day 1 - Sponsored by Platzi](https://www.youtube.com/watch?v=jzb_0BRM6yk)
 - [Impressions of JSConf India 2023](https://www.youtube.com/watch?v=bbcr06F_PLM)
 - [Jsconf India 2023 - Track 1](https://www.youtube.com/watch?v=WteC5jpc9O8)
@@ -331,7 +332,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Which web framework is better? React? Vue? Angular?](https://www.youtube.com/watch?v=eP15uGbfDAk)
 - [JavaScript Closures in React Hooks](https://www.youtube.com/watch?v=B1j3yeHRKbY)
 - [Rebuild React Hooks yourself for Node](https://www.youtube.com/watch?v=Om33AjwtQ_Y)
-- [JSConf Chile - día 2](https://www.youtube.com/watch?v=BuHaQXCHCMg)
 <!-- YOUTUBE-POST-LIST:END -->
 
 ### *ReactJS posts*
