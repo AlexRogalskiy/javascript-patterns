@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ModelFusion: an open-source TypeScript library for building multi-modal AI applications](https://www.reddit.com/r/javascript/comments/17z0o13/modelfusion_an_opensource_typescript_library_for/)
+- [AI mentor for JavaScript developers &lpar;GPT-4&rpar;](https://www.reddit.com/r/javascript/comments/17yucl3/ai_mentor_for_javascript_developers_gpt4/)
 - [[AskJS] What JavaScript engines and runtimes do you continuously test and experiment with?](https://www.reddit.com/r/javascript/comments/17yl1v5/askjs_what_javascript_engines_and_runtimes_do_you/)
 - [JSON to CSV Convert and Download File &lpar; JavaScript &rpar;](https://www.reddit.com/r/javascript/comments/17yil0l/json_to_csv_convert_and_download_file_javascript/)
 - [[AskJS] Where is everyone putting their class fields?](https://www.reddit.com/r/javascript/comments/17yih2w/askjs_where_is_everyone_putting_their_class_fields/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [[AskJS] JSDoc for Proxy Objects?](https://www.reddit.com/r/javascript/comments/17xt36o/askjs_jsdoc_for_proxy_objects/)
 - [[AskJS] Looking for good API for educational sample](https://www.reddit.com/r/javascript/comments/17xosoe/askjs_looking_for_good_api_for_educational_sample/)
 - [eslint-config-canonical: 1,000+ rules ESLint rules](https://www.reddit.com/r/javascript/comments/17xh8d4/eslintconfigcanonical_1000_rules_eslint_rules/)
-- [New tool for revealing splits and schisms in an ecosystem where folks have a hard time upgrading](https://www.reddit.com/r/javascript/comments/17xetlf/new_tool_for_revealing_splits_and_schisms_in_an/)
-- [My first sveltekit project!](https://www.reddit.com/r/javascript/comments/17x38l3/my_first_sveltekit_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
