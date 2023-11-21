@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [npx gen-subs: Multi-language subtitle generation for videos with on-device machine learning models, zero internet dependency](https://www.reddit.com/r/javascript/comments/1801ug6/npx_gensubs_multilanguage_subtitle_generation_for/)
+- [Integrate ChatGPT with WhatsApp Using Node.js &lpar;JavaScript&rpar;](https://www.reddit.com/r/javascript/comments/17zvwfg/integrate_chatgpt_with_whatsapp_using_nodejs/)
+- [Announcing TypeScript 5.3](https://www.reddit.com/r/javascript/comments/17zu5bk/announcing_typescript_53/)
+- [Want to work with RDF graphs in real-time?](https://www.reddit.com/r/javascript/comments/17zqr2g/want_to_work_with_rdf_graphs_in_realtime/)
+- [[AskJS] OOP and FP in Vue/frontend projects](https://www.reddit.com/r/javascript/comments/17zmxzi/askjs_oop_and_fp_in_vuefrontend_projects/)
+- [We updated our javascript game based on your feedback. What do you think about the improved tutorial and the result in general? You can try it on tracesoccer.io](https://www.reddit.com/r/javascript/comments/17zjs3w/we_updated_our_javascript_game_based_on_your/)
 - [ModelFusion: an open-source TypeScript library for building multi-modal AI applications](https://www.reddit.com/r/javascript/comments/17z0o13/modelfusion_an_opensource_typescript_library_for/)
 - [AI mentor for JavaScript developers &lpar;GPT-4&rpar;](https://www.reddit.com/r/javascript/comments/17yucl3/ai_mentor_for_javascript_developers_gpt4/)
 - [[AskJS] What JavaScript engines and runtimes do you continuously test and experiment with?](https://www.reddit.com/r/javascript/comments/17yl1v5/askjs_what_javascript_engines_and_runtimes_do_you/)
 - [JSON to CSV Convert and Download File &lpar; JavaScript &rpar;](https://www.reddit.com/r/javascript/comments/17yil0l/json_to_csv_convert_and_download_file_javascript/)
-- [[AskJS] Where is everyone putting their class fields?](https://www.reddit.com/r/javascript/comments/17yih2w/askjs_where_is_everyone_putting_their_class_fields/)
-- [[AskJS] Would Clojure learning materials targeted to JS/TS developers be helpful?](https://www.reddit.com/r/javascript/comments/17y6mhj/askjs_would_clojure_learning_materials_targeted/)
-- [Showoff Saturday &lpar;November 18, 2023&rpar;](https://www.reddit.com/r/javascript/comments/17y1mmr/showoff_saturday_november_18_2023/)
-- [[AskJS] JSDoc for Proxy Objects?](https://www.reddit.com/r/javascript/comments/17xt36o/askjs_jsdoc_for_proxy_objects/)
-- [[AskJS] Looking for good API for educational sample](https://www.reddit.com/r/javascript/comments/17xosoe/askjs_looking_for_good_api_for_educational_sample/)
-- [eslint-config-canonical: 1,000+ rules ESLint rules](https://www.reddit.com/r/javascript/comments/17xh8d4/eslintconfigcanonical_1000_rules_eslint_rules/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
