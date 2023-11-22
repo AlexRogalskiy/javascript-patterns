@@ -292,7 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
-- [TypeScript 5.3 adds support for import attributes](https://www.infoworld.com/article/3708188/typescript-53-adds-support-for-import-attributes.html#tk.rss_javascript)
+- [TypeScript 5.3 arrives with support for import attributes](https://www.infoworld.com/article/3708188/typescript-53-arrives-with-support-for-import-attributes.html#tk.rss_javascript)
 - [Angular 17 previews control flow, better type checking](https://www.infoworld.com/article/3710249/angular-17-previews-control-flow-better-type-checking.html#tk.rss_javascript)
 - [Deno 1.38 features HTML documentation, hot module replacement](https://www.infoworld.com/article/3710148/deno-138-features-html-documentation-hot-module-replacement.html#tk.rss_javascript)
 - [Next.js 14 previews partial prerendering](https://www.infoworld.com/article/3709608/nextjs-14-previews-partial-prerendering.html#tk.rss_javascript)
