@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] What is the precedence of imports?](https://www.reddit.com/r/javascript/comments/181kpw0/askjs_what_is_the_precedence_of_imports/)
+- [I created this Tic Tac Toe game project out of my passion for web development and to enhance my skills in front-end technologies. I hope you enjoy playing the game as much as I enjoyed building it!](https://www.reddit.com/r/javascript/comments/181f4yp/i_created_this_tic_tac_toe_game_project_out_of_my/)
+- [Everything You Need to Know About Micro Frontends](https://www.reddit.com/r/javascript/comments/181c82y/everything_you_need_to_know_about_micro_frontends/)
+- [Why we dont like TDD.](https://www.reddit.com/r/javascript/comments/1816u68/why_we_dont_like_tdd/)
+- [WTF Wednesday &lpar;November 22, 2023&rpar;](https://www.reddit.com/r/javascript/comments/18141ra/wtf_wednesday_november_22_2023/)
 - [Observe changes to the DOM using an async iterable](https://www.reddit.com/r/javascript/comments/180rg0z/observe_changes_to_the_dom_using_an_async_iterable/)
 - [This is a music from public transport traffic](https://www.reddit.com/r/javascript/comments/180q3l0/this_is_a_music_from_public_transport_traffic/)
 - [Convert Images to WebP Format Follow These Steps](https://www.reddit.com/r/javascript/comments/180og29/convert_images_to_webp_format_follow_these_steps/)
 - [JSXinput: Better gamepad support for web browsers](https://www.reddit.com/r/javascript/comments/180hv2e/jsxinput_better_gamepad_support_for_web_browsers/)
 - [Using Vitest bench to track performance regressions in your CI](https://www.reddit.com/r/javascript/comments/180hh8a/using_vitest_bench_to_track_performance/)
-- [requestAnimationFrame as an async iterable](https://www.reddit.com/r/javascript/comments/180fr4u/requestanimationframe_as_an_async_iterable/)
-- [[AskJS] How can I retrieve data in Prisma with PascalCase method?](https://www.reddit.com/r/javascript/comments/180fa9e/askjs_how_can_i_retrieve_data_in_prisma_with/)
-- [npx gen-subs: Multi-language subtitle generation for videos with on-device machine learning models, zero internet dependency](https://www.reddit.com/r/javascript/comments/1801ug6/npx_gensubs_multilanguage_subtitle_generation_for/)
-- [Integrate ChatGPT with WhatsApp Using Node.js &lpar;JavaScript&rpar;](https://www.reddit.com/r/javascript/comments/17zvwfg/integrate_chatgpt_with_whatsapp_using_nodejs/)
-- [Announcing TypeScript 5.3](https://www.reddit.com/r/javascript/comments/17zu5bk/announcing_typescript_53/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
