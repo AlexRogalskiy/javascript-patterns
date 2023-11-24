@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] What is the precedence of imports?](https://www.reddit.com/r/javascript/comments/181kpw0/askjs_what_is_the_precedence_of_imports/)
-- [I created this Tic Tac Toe game project out of my passion for web development and to enhance my skills in front-end technologies. I hope you enjoy playing the game as much as I enjoyed building it!](https://www.reddit.com/r/javascript/comments/181f4yp/i_created_this_tic_tac_toe_game_project_out_of_my/)
-- [Everything You Need to Know About Micro Frontends](https://www.reddit.com/r/javascript/comments/181c82y/everything_you_need_to_know_about_micro_frontends/)
-- [Why we dont like TDD.](https://www.reddit.com/r/javascript/comments/1816u68/why_we_dont_like_tdd/)
-- [WTF Wednesday &lpar;November 22, 2023&rpar;](https://www.reddit.com/r/javascript/comments/18141ra/wtf_wednesday_november_22_2023/)
-- [Observe changes to the DOM using an async iterable](https://www.reddit.com/r/javascript/comments/180rg0z/observe_changes_to_the_dom_using_an_async_iterable/)
-- [This is a music from public transport traffic](https://www.reddit.com/r/javascript/comments/180q3l0/this_is_a_music_from_public_transport_traffic/)
-- [Convert Images to WebP Format Follow These Steps](https://www.reddit.com/r/javascript/comments/180og29/convert_images_to_webp_format_follow_these_steps/)
-- [JSXinput: Better gamepad support for web browsers](https://www.reddit.com/r/javascript/comments/180hv2e/jsxinput_better_gamepad_support_for_web_browsers/)
-- [Using Vitest bench to track performance regressions in your CI](https://www.reddit.com/r/javascript/comments/180hh8a/using_vitest_bench_to_track_performance/)
+- [A modest proposal for imperfect software](https://www.reddit.com/r/javascript/comments/182gito/a_modest_proposal_for_imperfect_software/)
+- [Create Dynamic Invoice Generator Using JavaScript](https://www.reddit.com/r/javascript/comments/1828jli/create_dynamic_invoice_generator_using_javascript/)
+- [Tiny library to determine a readable color from a given background-color.](https://www.reddit.com/r/javascript/comments/182892v/tiny_library_to_determine_a_readable_color_from_a/)
+- [This single lint rule changed the readability of my code by several magnitudes](https://www.reddit.com/r/javascript/comments/1826g9a/this_single_lint_rule_changed_the_readability_of/)
+- [Taking screenshots in the browser](https://www.reddit.com/r/javascript/comments/182618t/taking_screenshots_in_the_browser/)
+- [aitertools: Well-tested utility functions dealing with async iterables](https://www.reddit.com/r/javascript/comments/18256o3/aitertools_welltested_utility_functions_dealing/)
+- [How to enable Promise.withResolvers&lpar;&rpar; in node](https://www.reddit.com/r/javascript/comments/1824tsr/how_to_enable_promisewithresolvers_in_node/)
+- [The Product and Platform split - just a phase or the coming standard?](https://www.reddit.com/r/javascript/comments/1822akv/the_product_and_platform_split_just_a_phase_or/)
+- [Understanding Generators, Iterators, and Iterator Helpers in JavaScript](https://www.reddit.com/r/javascript/comments/18224g8/understanding_generators_iterators_and_iterator/)
+- [Remove circular references from objects](https://www.reddit.com/r/javascript/comments/181zbed/remove_circular_references_from_objects/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
