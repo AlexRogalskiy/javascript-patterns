@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] &quot;npm can’t be eliminated from the equation when you’re dealing with JavaScript&quot; - True or false?](https://www.reddit.com/r/javascript/comments/1836plp/askjs_npm_cant_be_eliminated_from_the_equation/)
+- [[AskJS] What should I call this thing?](https://www.reddit.com/r/javascript/comments/183wcl5/askjs_what_should_i_call_this_thing/)
+- [[AskJS] Pre-commits and CI-CD](https://www.reddit.com/r/javascript/comments/183vgmf/askjs_precommits_and_cicd/)
+- [[AskJS] How&#39;s the market ? Is it worth doing front end ?](https://www.reddit.com/r/javascript/comments/183oar3/askjs_hows_the_market_is_it_worth_doing_front_end/)
+- [Showoff Saturday &lpar;November 25, 2023&rpar;](https://www.reddit.com/r/javascript/comments/183etgj/showoff_saturday_november_25_2023/)
 - [Released v1.0.6-beta of OpenSign with many improvements](https://www.reddit.com/r/javascript/comments/1834p68/released_v106beta_of_opensign_with_many/)
 - [GJP-4-GPT: A Gradual &lpar;streaming&rpar; JSON Parser for GPT&#39;s](https://www.reddit.com/r/javascript/comments/18322u0/gjp4gpt_a_gradual_streaming_json_parser_for_gpts/)
 - [Top Front-End Development Resources](https://www.reddit.com/r/javascript/comments/182xu73/top_frontend_development_resources/)
 - [A modest proposal for imperfect software](https://www.reddit.com/r/javascript/comments/182gito/a_modest_proposal_for_imperfect_software/)
 - [Create Dynamic Invoice Generator Using JavaScript](https://www.reddit.com/r/javascript/comments/1828jli/create_dynamic_invoice_generator_using_javascript/)
 - [Tiny library to determine a readable color from a given background-color.](https://www.reddit.com/r/javascript/comments/182892v/tiny_library_to_determine_a_readable_color_from_a/)
-- [This single lint rule changed the readability of my code by several magnitudes](https://www.reddit.com/r/javascript/comments/1826g9a/this_single_lint_rule_changed_the_readability_of/)
-- [Taking screenshots in the browser](https://www.reddit.com/r/javascript/comments/182618t/taking_screenshots_in_the_browser/)
-- [aitertools: Well-tested utility functions dealing with async iterables](https://www.reddit.com/r/javascript/comments/18256o3/aitertools_welltested_utility_functions_dealing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
