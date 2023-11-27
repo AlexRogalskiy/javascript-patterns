@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Previsões avançadas de ameaças persistentes da Kaspersky para 2024](https://www.reddit.com/r/javascript/comments/184g40y/previsões_avançadas_de_ameaças_persistentes_da/)
+- [mime-explorer: A versatile library that simplifies MIME type management, providing a user-friendly interface to effortlessly retrieve MIME types based on file paths/extensions, gather comprehensive meta information, and obtain standard file extensions for a given MIME type.](https://www.reddit.com/r/javascript/comments/184byur/mimeexplorer_a_versatile_library_that_simplifies/)
+- [Created a food and drinks free web app that included allergens! Test it out and feel free to copy it! I used lotties for decoration! I am 40 and have been coding for a couple of years!](https://www.reddit.com/r/javascript/comments/184alyo/created_a_food_and_drinks_free_web_app_that/)
+- [Run Whisper on WebGPU with a few lines of JS](https://www.reddit.com/r/javascript/comments/184a9g1/run_whisper_on_webgpu_with_a_few_lines_of_js/)
+- [[AskJS] Will there ever be a continuation of Project Crosswalk?](https://www.reddit.com/r/javascript/comments/1849gfz/askjs_will_there_ever_be_a_continuation_of/)
+- [How to build a serverless bundle size monitor for free](https://www.reddit.com/r/javascript/comments/1848znh/how_to_build_a_serverless_bundle_size_monitor_for/)
+- [$601 Worth of Cyber Security Books by Wiley for $15 &lpar; -97% OFF&rpar;](https://www.reddit.com/r/javascript/comments/1843z5j/601_worth_of_cyber_security_books_by_wiley_for_15/)
+- [WordleWiz - A Wordle solver with choices](https://www.reddit.com/r/javascript/comments/1842co4/wordlewiz_a_wordle_solver_with_choices/)
+- [uExpr - A conditional expression compiler](https://www.reddit.com/r/javascript/comments/1840p7s/uexpr_a_conditional_expression_compiler/)
 - [[AskJS] What should I call this thing?](https://www.reddit.com/r/javascript/comments/183wcl5/askjs_what_should_i_call_this_thing/)
-- [[AskJS] Pre-commits and CI-CD](https://www.reddit.com/r/javascript/comments/183vgmf/askjs_precommits_and_cicd/)
-- [[AskJS] How&#39;s the market ? Is it worth doing front end ?](https://www.reddit.com/r/javascript/comments/183oar3/askjs_hows_the_market_is_it_worth_doing_front_end/)
-- [Showoff Saturday &lpar;November 25, 2023&rpar;](https://www.reddit.com/r/javascript/comments/183etgj/showoff_saturday_november_25_2023/)
-- [Released v1.0.6-beta of OpenSign with many improvements](https://www.reddit.com/r/javascript/comments/1834p68/released_v106beta_of_opensign_with_many/)
-- [GJP-4-GPT: A Gradual &lpar;streaming&rpar; JSON Parser for GPT&#39;s](https://www.reddit.com/r/javascript/comments/18322u0/gjp4gpt_a_gradual_streaming_json_parser_for_gpts/)
-- [Top Front-End Development Resources](https://www.reddit.com/r/javascript/comments/182xu73/top_frontend_development_resources/)
-- [A modest proposal for imperfect software](https://www.reddit.com/r/javascript/comments/182gito/a_modest_proposal_for_imperfect_software/)
-- [Create Dynamic Invoice Generator Using JavaScript](https://www.reddit.com/r/javascript/comments/1828jli/create_dynamic_invoice_generator_using_javascript/)
-- [Tiny library to determine a readable color from a given background-color.](https://www.reddit.com/r/javascript/comments/182892v/tiny_library_to_determine_a_readable_color_from_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
