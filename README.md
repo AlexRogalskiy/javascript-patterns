@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Previsões avançadas de ameaças persistentes da Kaspersky para 2024](https://www.reddit.com/r/javascript/comments/184g40y/previsões_avançadas_de_ameaças_persistentes_da/)
-- [mime-explorer: A versatile library that simplifies MIME type management, providing a user-friendly interface to effortlessly retrieve MIME types based on file paths/extensions, gather comprehensive meta information, and obtain standard file extensions for a given MIME type.](https://www.reddit.com/r/javascript/comments/184byur/mimeexplorer_a_versatile_library_that_simplifies/)
-- [Created a food and drinks free web app that included allergens! Test it out and feel free to copy it! I used lotties for decoration! I am 40 and have been coding for a couple of years!](https://www.reddit.com/r/javascript/comments/184alyo/created_a_food_and_drinks_free_web_app_that/)
-- [Run Whisper on WebGPU with a few lines of JS](https://www.reddit.com/r/javascript/comments/184a9g1/run_whisper_on_webgpu_with_a_few_lines_of_js/)
-- [[AskJS] Will there ever be a continuation of Project Crosswalk?](https://www.reddit.com/r/javascript/comments/1849gfz/askjs_will_there_ever_be_a_continuation_of/)
-- [How to build a serverless bundle size monitor for free](https://www.reddit.com/r/javascript/comments/1848znh/how_to_build_a_serverless_bundle_size_monitor_for/)
-- [$601 Worth of Cyber Security Books by Wiley for $15 &lpar; -97% OFF&rpar;](https://www.reddit.com/r/javascript/comments/1843z5j/601_worth_of_cyber_security_books_by_wiley_for_15/)
-- [WordleWiz - A Wordle solver with choices](https://www.reddit.com/r/javascript/comments/1842co4/wordlewiz_a_wordle_solver_with_choices/)
-- [uExpr - A conditional expression compiler](https://www.reddit.com/r/javascript/comments/1840p7s/uexpr_a_conditional_expression_compiler/)
-- [[AskJS] What should I call this thing?](https://www.reddit.com/r/javascript/comments/183wcl5/askjs_what_should_i_call_this_thing/)
+- [Fiume: a zero-dependency, lightweight finite state machine library written in Typescript](https://www.reddit.com/r/javascript/comments/185fbbr/fiume_a_zerodependency_lightweight_finite_state/)
+- [Guia do Slack: O guia definitivo para 2023](https://www.reddit.com/r/javascript/comments/185ek5j/guia_do_slack_o_guia_definitivo_para_2023/)
+- [[AskJS] Need Help Copying Element Contents to Clipboard](https://www.reddit.com/r/javascript/comments/1858p7o/askjs_need_help_copying_element_contents_to/)
+- [[AskJS] How do you think is the best way to move to stricter eslint rules?](https://www.reddit.com/r/javascript/comments/1855k29/askjs_how_do_you_think_is_the_best_way_to_move_to/)
+- [GitHub - onelineteam/oneline-core: @oneline/core 一个快速开发web系统的框架](https://www.reddit.com/r/javascript/comments/1852n8q/github_onelineteamonelinecore_onelinecore/)
+- [Your /r/javascript recap for the week of November 20 - November 26](https://www.reddit.com/r/javascript/comments/184zlhh/your_rjavascript_recap_for_the_week_of_november/)
+- [[AskJS] Technical test questions about javascript and related framework](https://www.reddit.com/r/javascript/comments/184z0ee/askjs_technical_test_questions_about_javascript/)
+- [Understanding Chromes Coverage Panel](https://www.reddit.com/r/javascript/comments/184vqaf/understanding_chromes_coverage_panel/)
+- [[AskJS] resources to learn javascript for threejs?](https://www.reddit.com/r/javascript/comments/184vdc6/askjs_resources_to_learn_javascript_for_threejs/)
+- [Learning Cryptography with Javascript](https://www.reddit.com/r/javascript/comments/184suk4/learning_cryptography_with_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
