@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] In search of open source medium sized production quality projects to learn modern full-stack software development](https://www.reddit.com/r/javascript/comments/186b8mb/askjs_in_search_of_open_source_medium_sized/)
+- [Chrome extension that adds an install menu for &#39;npmjs&#39; for yarn and pnpm as well](https://www.reddit.com/r/javascript/comments/185vdib/chrome_extension_that_adds_an_install_menu_for/)
+- [Detecting Tablet Mode in JavaScript… Slightly Incorrectly](https://www.reddit.com/r/javascript/comments/185rl72/detecting_tablet_mode_in_javascript_slightly/)
+- [The Ultimate Angular Adapter for TanStack Query](https://www.reddit.com/r/javascript/comments/185p6vp/the_ultimate_angular_adapter_for_tanstack_query/)
+- [Install Nodes.js packages and run Node.js scripts without npm or node - with Bun](https://www.reddit.com/r/javascript/comments/185l7ac/install_nodesjs_packages_and_run_nodejs_scripts/)
 - [Fiume: a zero-dependency, lightweight finite state machine library written in Typescript](https://www.reddit.com/r/javascript/comments/185fbbr/fiume_a_zerodependency_lightweight_finite_state/)
-- [Guia do Slack: O guia definitivo para 2023](https://www.reddit.com/r/javascript/comments/185ek5j/guia_do_slack_o_guia_definitivo_para_2023/)
 - [[AskJS] Need Help Copying Element Contents to Clipboard](https://www.reddit.com/r/javascript/comments/1858p7o/askjs_need_help_copying_element_contents_to/)
 - [[AskJS] How do you think is the best way to move to stricter eslint rules?](https://www.reddit.com/r/javascript/comments/1855k29/askjs_how_do_you_think_is_the_best_way_to_move_to/)
 - [GitHub - onelineteam/oneline-core: @oneline/core 一个快速开发web系统的框架](https://www.reddit.com/r/javascript/comments/1852n8q/github_onelineteamonelinecore_onelinecore/)
 - [Your /r/javascript recap for the week of November 20 - November 26](https://www.reddit.com/r/javascript/comments/184zlhh/your_rjavascript_recap_for_the_week_of_november/)
-- [[AskJS] Technical test questions about javascript and related framework](https://www.reddit.com/r/javascript/comments/184z0ee/askjs_technical_test_questions_about_javascript/)
-- [Understanding Chromes Coverage Panel](https://www.reddit.com/r/javascript/comments/184vqaf/understanding_chromes_coverage_panel/)
-- [[AskJS] resources to learn javascript for threejs?](https://www.reddit.com/r/javascript/comments/184vdc6/askjs_resources_to_learn_javascript_for_threejs/)
-- [Learning Cryptography with Javascript](https://www.reddit.com/r/javascript/comments/184suk4/learning_cryptography_with_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
