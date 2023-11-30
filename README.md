@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] In search of open source medium sized production quality projects to learn modern full-stack software development](https://www.reddit.com/r/javascript/comments/186b8mb/askjs_in_search_of_open_source_medium_sized/)
-- [Chrome extension that adds an install menu for &#39;npmjs&#39; for yarn and pnpm as well](https://www.reddit.com/r/javascript/comments/185vdib/chrome_extension_that_adds_an_install_menu_for/)
-- [Detecting Tablet Mode in JavaScript… Slightly Incorrectly](https://www.reddit.com/r/javascript/comments/185rl72/detecting_tablet_mode_in_javascript_slightly/)
-- [The Ultimate Angular Adapter for TanStack Query](https://www.reddit.com/r/javascript/comments/185p6vp/the_ultimate_angular_adapter_for_tanstack_query/)
-- [Install Nodes.js packages and run Node.js scripts without npm or node - with Bun](https://www.reddit.com/r/javascript/comments/185l7ac/install_nodesjs_packages_and_run_nodejs_scripts/)
-- [Fiume: a zero-dependency, lightweight finite state machine library written in Typescript](https://www.reddit.com/r/javascript/comments/185fbbr/fiume_a_zerodependency_lightweight_finite_state/)
-- [[AskJS] Need Help Copying Element Contents to Clipboard](https://www.reddit.com/r/javascript/comments/1858p7o/askjs_need_help_copying_element_contents_to/)
-- [[AskJS] How do you think is the best way to move to stricter eslint rules?](https://www.reddit.com/r/javascript/comments/1855k29/askjs_how_do_you_think_is_the_best_way_to_move_to/)
-- [GitHub - onelineteam/oneline-core: @oneline/core 一个快速开发web系统的框架](https://www.reddit.com/r/javascript/comments/1852n8q/github_onelineteamonelinecore_onelinecore/)
-- [Your /r/javascript recap for the week of November 20 - November 26](https://www.reddit.com/r/javascript/comments/184zlhh/your_rjavascript_recap_for_the_week_of_november/)
+- [[AskJS] how to create a JSDoc type for a type that has props and it&#39;s also a function?](https://www.reddit.com/r/javascript/comments/18745of/askjs_how_to_create_a_jsdoc_type_for_a_type_that/)
+- [Unlocking dynamic web interactions with htmx](https://www.reddit.com/r/javascript/comments/1871p8b/unlocking_dynamic_web_interactions_with_htmx/)
+- [[AskJS] Web application cost](https://www.reddit.com/r/javascript/comments/18711nr/askjs_web_application_cost/)
+- [Developer Feedback Request: Optimizing User Experience and App Performance](https://www.reddit.com/r/javascript/comments/1870k7i/developer_feedback_request_optimizing_user/)
+- [Typescript or JSDoc ?](https://www.reddit.com/r/javascript/comments/186x02v/typescript_or_jsdoc/)
+- [Introducing llamafile](https://www.reddit.com/r/javascript/comments/186wwcl/introducing_llamafile/)
+- [Scaling Dagster’s DAG visualization to handle tens of thousands of assets](https://www.reddit.com/r/javascript/comments/186vpvy/scaling_dagsters_dag_visualization_to_handle_tens/)
+- [[AskJS] Replacement for Select2 - alternatives for select dropdowns?](https://www.reddit.com/r/javascript/comments/186p0dv/askjs_replacement_for_select2_alternatives_for/)
+- [Djot v0.4.6 Released - Multi-window support, Auto/Manual Compile &amp; Run toggle, and more](https://www.reddit.com/r/javascript/comments/186nzti/djot_v046_released_multiwindow_support_automanual/)
+- [WTF Wednesday &lpar;November 29, 2023&rpar;](https://www.reddit.com/r/javascript/comments/186kbf1/wtf_wednesday_november_29_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
