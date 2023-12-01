@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Node 21.3: writeFileSync up to 2.5x faster with UTF8 string data](https://www.reddit.com/r/javascript/comments/187vqiy/node_213_writefilesync_up_to_25x_faster_with_utf8/)
+- [Tailwind has a scalability problem. How can we solve that?](https://www.reddit.com/r/javascript/comments/187vpu2/tailwind_has_a_scalability_problem_how_can_we/)
+- [Firefox Developer Edition and Beta: Try out Mozilla’s .deb package!](https://www.reddit.com/r/javascript/comments/187rmlb/firefox_developer_edition_and_beta_try_out/)
+- [[AskJS] Code splitting in PWAs? why?](https://www.reddit.com/r/javascript/comments/187p0vh/askjs_code_splitting_in_pwas_why/)
+- [On Asynchronicity in Blaze &lpar;again&rpar;](https://www.reddit.com/r/javascript/comments/187nl54/on_asynchronicity_in_blaze_again/)
+- [Storybook 7.6 is here!](https://www.reddit.com/r/javascript/comments/187ngro/storybook_76_is_here/)
+- [A WebAssembly JVM that lets seamlessly use Java libraries in JS](https://www.reddit.com/r/javascript/comments/187hmqi/a_webassembly_jvm_that_lets_seamlessly_use_java/)
+- [[AskJS] Should we keep using OpenAI or not?](https://www.reddit.com/r/javascript/comments/187h659/askjs_should_we_keep_using_openai_or_not/)
+- [[AskJS] Monorepo - need clarity?](https://www.reddit.com/r/javascript/comments/187gku6/askjs_monorepo_need_clarity/)
 - [[AskJS] how to create a JSDoc type for a type that has props and it&#39;s also a function?](https://www.reddit.com/r/javascript/comments/18745of/askjs_how_to_create_a_jsdoc_type_for_a_type_that/)
-- [Unlocking dynamic web interactions with htmx](https://www.reddit.com/r/javascript/comments/1871p8b/unlocking_dynamic_web_interactions_with_htmx/)
-- [[AskJS] Web application cost](https://www.reddit.com/r/javascript/comments/18711nr/askjs_web_application_cost/)
-- [Developer Feedback Request: Optimizing User Experience and App Performance](https://www.reddit.com/r/javascript/comments/1870k7i/developer_feedback_request_optimizing_user/)
-- [Typescript or JSDoc ?](https://www.reddit.com/r/javascript/comments/186x02v/typescript_or_jsdoc/)
-- [Introducing llamafile](https://www.reddit.com/r/javascript/comments/186wwcl/introducing_llamafile/)
-- [Scaling Dagster’s DAG visualization to handle tens of thousands of assets](https://www.reddit.com/r/javascript/comments/186vpvy/scaling_dagsters_dag_visualization_to_handle_tens/)
-- [[AskJS] Replacement for Select2 - alternatives for select dropdowns?](https://www.reddit.com/r/javascript/comments/186p0dv/askjs_replacement_for_select2_alternatives_for/)
-- [Djot v0.4.6 Released - Multi-window support, Auto/Manual Compile &amp; Run toggle, and more](https://www.reddit.com/r/javascript/comments/186nzti/djot_v046_released_multiwindow_support_automanual/)
-- [WTF Wednesday &lpar;November 29, 2023&rpar;](https://www.reddit.com/r/javascript/comments/186kbf1/wtf_wednesday_november_29_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
