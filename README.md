@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ESLint is finally defeated! Why another Javascript linter?](https://www.reddit.com/r/javascript/comments/188se2z/eslint_is_finally_defeated_why_another_javascript/)
+- [[AskJS] Local Transformers.js model integration with Office.js add-in](https://www.reddit.com/r/javascript/comments/188o7ow/askjs_local_transformersjs_model_integration_with/)
+- [[JavaScript] Obfuscation is Not Security. &lpar;Find Almost Anything From Obfuscated Scripts&rpar;](https://www.reddit.com/r/javascript/comments/188g7eo/javascript_obfuscation_is_not_security_find/)
+- [Syntax Highlighting of Website Source Code](https://www.reddit.com/r/javascript/comments/188dfmc/syntax_highlighting_of_website_source_code/)
+- [2 Basic rules of performance-aware JavaScript in the browser](https://www.reddit.com/r/javascript/comments/188bt7z/2_basic_rules_of_performanceaware_javascript_in/)
+- [Want some more Spotify Wrapped? I made a website to visualize your listening progression in a racebar chart](https://www.reddit.com/r/javascript/comments/188bopu/want_some_more_spotify_wrapped_i_made_a_website/)
+- [Building a ChatGPT assistant on your documentation](https://www.reddit.com/r/javascript/comments/188ar26/building_a_chatgpt_assistant_on_your_documentation/)
+- [[AskJS] can i learn javascript in 10 days?](https://www.reddit.com/r/javascript/comments/18883ry/askjs_can_i_learn_javascript_in_10_days/)
+- [[AskJS] how to call a WASM function inside of my react component](https://www.reddit.com/r/javascript/comments/1882wvi/askjs_how_to_call_a_wasm_function_inside_of_my/)
 - [Node 21.3: writeFileSync up to 2.5x faster with UTF8 string data](https://www.reddit.com/r/javascript/comments/187vqiy/node_213_writefilesync_up_to_25x_faster_with_utf8/)
-- [Tailwind has a scalability problem. How can we solve that?](https://www.reddit.com/r/javascript/comments/187vpu2/tailwind_has_a_scalability_problem_how_can_we/)
-- [Firefox Developer Edition and Beta: Try out Mozilla’s .deb package!](https://www.reddit.com/r/javascript/comments/187rmlb/firefox_developer_edition_and_beta_try_out/)
-- [[AskJS] Code splitting in PWAs? why?](https://www.reddit.com/r/javascript/comments/187p0vh/askjs_code_splitting_in_pwas_why/)
-- [On Asynchronicity in Blaze &lpar;again&rpar;](https://www.reddit.com/r/javascript/comments/187nl54/on_asynchronicity_in_blaze_again/)
-- [Storybook 7.6 is here!](https://www.reddit.com/r/javascript/comments/187ngro/storybook_76_is_here/)
-- [A WebAssembly JVM that lets seamlessly use Java libraries in JS](https://www.reddit.com/r/javascript/comments/187hmqi/a_webassembly_jvm_that_lets_seamlessly_use_java/)
-- [[AskJS] Should we keep using OpenAI or not?](https://www.reddit.com/r/javascript/comments/187h659/askjs_should_we_keep_using_openai_or_not/)
-- [[AskJS] Monorepo - need clarity?](https://www.reddit.com/r/javascript/comments/187gku6/askjs_monorepo_need_clarity/)
-- [[AskJS] how to create a JSDoc type for a type that has props and it&#39;s also a function?](https://www.reddit.com/r/javascript/comments/18745of/askjs_how_to_create_a_jsdoc_type_for_a_type_that/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
