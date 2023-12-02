@@ -382,6 +382,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *NodeSource posts*
 
 <!-- NODESOURCE-POST-LIST:START -->
+- [3 Takeaways from Web Summit 2023](https://nodesource.com/blog/takeaways-web-summit-2023)
+- [NodeSource Team Supports JSConf Colombia for the Event&#39;s 10th Anniversary](https://nodesource.com/blog/nodesource-jsconf-colombia-tenth-anniversary)
 - [Introducing N|Solid Copilot: Your AI-Powered Node.js Navigator](https://nodesource.com/blog/nsolid-copilot-release)
 - [N|Solid OSS Release](https://nodesource.com/blog/nsolid-oss-release)
 - [See How Much Your APM is Costing You to Monitor Node.js Apps](https://nodesource.com/blog/apm-cost-monitoring-nodejs-apps)
@@ -390,8 +392,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Serverless Observability in N|Solid for AWS Lambda](https://nodesource.com/blog/serverless-aws-lambda)
 - [Empowering Startups: Building Better, More Secure Apps and Ensuring Exceptional CX with N|Solid](https://nodesource.com/blog/empowering-startups)
 - [Welcome to The Future of Software Development: Powered by Telemetry, Security, and AI](https://nodesource.com/blog/nodesource-collisionconf-wrapup)
-- [Announcing N|Solid v4.9.5](https://nodesource.com/blog/announcing-NSolid-version-495)
-- [NodeSource, Inc. Announces AI Assistant &quot;Adrian&quot; for Comprehensive Analysis and Optimization of Node.js Applications and Open-Sourcing of its Augmented Node.js Runtime.](https://nodesource.com/blog/NodeSource-announces-AI-Assistant-Adrian)
 <!-- NODESOURCE-POST-LIST:END -->
 
 ### *React Native posts*
