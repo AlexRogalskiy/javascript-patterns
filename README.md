@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Use of Web Workers for a Javascript Game](https://www.reddit.com/r/javascript/comments/189d8i0/askjs_use_of_web_workers_for_a_javascript_game/)
+- [[AskJS] How to add multiple files to a Web Bundle?](https://www.reddit.com/r/javascript/comments/189cgqa/askjs_how_to_add_multiple_files_to_a_web_bundle/)
+- [[AskJS] Is it bad practice to check if a value exists in the same if&lpar;&rpar; statement the value is used?](https://www.reddit.com/r/javascript/comments/1897f1u/askjs_is_it_bad_practice_to_check_if_a_value/)
+- [[AskJS] Do I have my roadmap wrong?](https://www.reddit.com/r/javascript/comments/1892jzi/askjs_do_i_have_my_roadmap_wrong/)
+- [Showoff Saturday &lpar;December 02, 2023&rpar;](https://www.reddit.com/r/javascript/comments/188ywcd/showoff_saturday_december_02_2023/)
+- [Build a Image Cropper in Browser Using Cropper.js &amp; Javascript](https://www.reddit.com/r/javascript/comments/188xsu0/build_a_image_cropper_in_browser_using_cropperjs/)
 - [ESLint is finally defeated! Why another Javascript linter?](https://www.reddit.com/r/javascript/comments/188se2z/eslint_is_finally_defeated_why_another_javascript/)
 - [[AskJS] Local Transformers.js model integration with Office.js add-in](https://www.reddit.com/r/javascript/comments/188o7ow/askjs_local_transformersjs_model_integration_with/)
 - [[JavaScript] Obfuscation is Not Security. &lpar;Find Almost Anything From Obfuscated Scripts&rpar;](https://www.reddit.com/r/javascript/comments/188g7eo/javascript_obfuscation_is_not_security_find/)
 - [Syntax Highlighting of Website Source Code](https://www.reddit.com/r/javascript/comments/188dfmc/syntax_highlighting_of_website_source_code/)
-- [2 Basic rules of performance-aware JavaScript in the browser](https://www.reddit.com/r/javascript/comments/188bt7z/2_basic_rules_of_performanceaware_javascript_in/)
-- [Want some more Spotify Wrapped? I made a website to visualize your listening progression in a racebar chart](https://www.reddit.com/r/javascript/comments/188bopu/want_some_more_spotify_wrapped_i_made_a_website/)
-- [Building a ChatGPT assistant on your documentation](https://www.reddit.com/r/javascript/comments/188ar26/building_a_chatgpt_assistant_on_your_documentation/)
-- [[AskJS] can i learn javascript in 10 days?](https://www.reddit.com/r/javascript/comments/18883ry/askjs_can_i_learn_javascript_in_10_days/)
-- [[AskJS] how to call a WASM function inside of my react component](https://www.reddit.com/r/javascript/comments/1882wvi/askjs_how_to_call_a_wasm_function_inside_of_my/)
-- [Node 21.3: writeFileSync up to 2.5x faster with UTF8 string data](https://www.reddit.com/r/javascript/comments/187vqiy/node_213_writefilesync_up_to_25x_faster_with_utf8/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
