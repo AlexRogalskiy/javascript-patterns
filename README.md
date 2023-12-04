@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Does anyone make any money of this](https://www.reddit.com/r/javascript/comments/18a929c/askjs_does_anyone_make_any_money_of_this/)
+- [[AskJS] API for accessing sensor data on mobiles](https://www.reddit.com/r/javascript/comments/18a4532/askjs_api_for_accessing_sensor_data_on_mobiles/)
+- [Local-First Todo App with P2P Replication](https://www.reddit.com/r/javascript/comments/18a2okl/localfirst_todo_app_with_p2p_replication/)
+- [Introducing Changesets, simplify project versioning with semantic releases](https://www.reddit.com/r/javascript/comments/189zmjh/introducing_changesets_simplify_project/)
+- [Node.js, Deno, Bun, txiki.js TCP echo servers](https://www.reddit.com/r/javascript/comments/189xq8x/nodejs_deno_bun_txikijs_tcp_echo_servers/)
+- [Web Bundle and Isolated Web App experiments &lpar;W.I.P.&rpar;](https://www.reddit.com/r/javascript/comments/189w2x9/web_bundle_and_isolated_web_app_experiments_wip/)
+- [[AskJS] coding standards for startup](https://www.reddit.com/r/javascript/comments/189qxjh/askjs_coding_standards_for_startup/)
 - [[AskJS] Use of Web Workers for a Javascript Game](https://www.reddit.com/r/javascript/comments/189d8i0/askjs_use_of_web_workers_for_a_javascript_game/)
 - [[AskJS] How to add multiple files to a Web Bundle?](https://www.reddit.com/r/javascript/comments/189cgqa/askjs_how_to_add_multiple_files_to_a_web_bundle/)
 - [[AskJS] Is it bad practice to check if a value exists in the same if&lpar;&rpar; statement the value is used?](https://www.reddit.com/r/javascript/comments/1897f1u/askjs_is_it_bad_practice_to_check_if_a_value/)
-- [[AskJS] Do I have my roadmap wrong?](https://www.reddit.com/r/javascript/comments/1892jzi/askjs_do_i_have_my_roadmap_wrong/)
-- [Showoff Saturday &lpar;December 02, 2023&rpar;](https://www.reddit.com/r/javascript/comments/188ywcd/showoff_saturday_december_02_2023/)
-- [Build a Image Cropper in Browser Using Cropper.js &amp; Javascript](https://www.reddit.com/r/javascript/comments/188xsu0/build_a_image_cropper_in_browser_using_cropperjs/)
-- [ESLint is finally defeated! Why another Javascript linter?](https://www.reddit.com/r/javascript/comments/188se2z/eslint_is_finally_defeated_why_another_javascript/)
-- [[AskJS] Local Transformers.js model integration with Office.js add-in](https://www.reddit.com/r/javascript/comments/188o7ow/askjs_local_transformersjs_model_integration_with/)
-- [[JavaScript] Obfuscation is Not Security. &lpar;Find Almost Anything From Obfuscated Scripts&rpar;](https://www.reddit.com/r/javascript/comments/188g7eo/javascript_obfuscation_is_not_security_find/)
-- [Syntax Highlighting of Website Source Code](https://www.reddit.com/r/javascript/comments/188dfmc/syntax_highlighting_of_website_source_code/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
