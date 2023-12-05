@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Does anyone make any money of this](https://www.reddit.com/r/javascript/comments/18a929c/askjs_does_anyone_make_any_money_of_this/)
+- [[AskJS] - Would you change job if it pays well but you don&#39;t learn much?](https://www.reddit.com/r/javascript/comments/18awbk8/askjs_would_you_change_job_if_it_pays_well_but/)
+- [I am working on Memepill : A place to get meme templates and quickly edit &lpar; replace face&rpar;.Give its editor a try and tell me your feedback](https://www.reddit.com/r/javascript/comments/18awaax/i_am_working_on_memepill_a_place_to_get_meme/)
+- [[AskJS] what is the best book to learn JavaScript?](https://www.reddit.com/r/javascript/comments/18au4w0/askjs_what_is_the_best_book_to_learn_javascript/)
+- [on-js: A JSON-powered JavaScript framework](https://www.reddit.com/r/javascript/comments/18ap697/onjs_a_jsonpowered_javascript_framework/)
+- [A Step by Step Guide to Adding Turborepo to an Existing Project](https://www.reddit.com/r/javascript/comments/18anxqx/a_step_by_step_guide_to_adding_turborepo_to_an/)
+- [Redux Toolkit 2.0: new features, faster perf, smaller bundle sizes &lpar;plus major versions for all Redux family packages!&rpar;](https://www.reddit.com/r/javascript/comments/18alf0v/redux_toolkit_20_new_features_faster_perf_smaller/)
+- [[AskJS] What do you use to make small back-ends ?](https://www.reddit.com/r/javascript/comments/18ah904/askjs_what_do_you_use_to_make_small_backends/)
+- [Your /r/javascript recap for the week of November 27 - December 03](https://www.reddit.com/r/javascript/comments/18ah4qh/your_rjavascript_recap_for_the_week_of_november/)
 - [[AskJS] API for accessing sensor data on mobiles](https://www.reddit.com/r/javascript/comments/18a4532/askjs_api_for_accessing_sensor_data_on_mobiles/)
 - [Local-First Todo App with P2P Replication](https://www.reddit.com/r/javascript/comments/18a2okl/localfirst_todo_app_with_p2p_replication/)
-- [Introducing Changesets, simplify project versioning with semantic releases](https://www.reddit.com/r/javascript/comments/189zmjh/introducing_changesets_simplify_project/)
-- [Node.js, Deno, Bun, txiki.js TCP echo servers](https://www.reddit.com/r/javascript/comments/189xq8x/nodejs_deno_bun_txikijs_tcp_echo_servers/)
-- [Web Bundle and Isolated Web App experiments &lpar;W.I.P.&rpar;](https://www.reddit.com/r/javascript/comments/189w2x9/web_bundle_and_isolated_web_app_experiments_wip/)
-- [[AskJS] coding standards for startup](https://www.reddit.com/r/javascript/comments/189qxjh/askjs_coding_standards_for_startup/)
-- [[AskJS] Use of Web Workers for a Javascript Game](https://www.reddit.com/r/javascript/comments/189d8i0/askjs_use_of_web_workers_for_a_javascript_game/)
-- [[AskJS] How to add multiple files to a Web Bundle?](https://www.reddit.com/r/javascript/comments/189cgqa/askjs_how_to_add_multiple_files_to_a_web_bundle/)
-- [[AskJS] Is it bad practice to check if a value exists in the same if&lpar;&rpar; statement the value is used?](https://www.reddit.com/r/javascript/comments/1897f1u/askjs_is_it_bad_practice_to_check_if_a_value/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
