@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Pricing a React website for customer](https://www.reddit.com/r/javascript/comments/18bqphn/askjs_pricing_a_react_website_for_customer/)
+- [A concept library that track object changes](https://www.reddit.com/r/javascript/comments/18bnqrm/a_concept_library_that_track_object_changes/)
+- [Javascript Card Game - A Christmas Gift Idea](https://www.reddit.com/r/javascript/comments/18blwrd/javascript_card_game_a_christmas_gift_idea/)
+- [Introducing Aige, an AI Game Engine](https://www.reddit.com/r/javascript/comments/18bjwgn/introducing_aige_an_ai_game_engine/)
+- [[AskJS] Do you think we need an Automatic Code Documentation Generator, especially after Github Co-pilot?](https://www.reddit.com/r/javascript/comments/18bi1p1/askjs_do_you_think_we_need_an_automatic_code/)
+- [[AskJS] isolated-eval: try to break me](https://www.reddit.com/r/javascript/comments/18bfhio/askjs_isolatedeval_try_to_break_me/)
+- [[AskJS] - Is it possible to make a html page that can predict an answer with a CSV file as input using ML5 and p5?](https://www.reddit.com/r/javascript/comments/18bex0t/askjs_is_it_possible_to_make_a_html_page_that_can/)
+- [[AskJS] In 2023, what is the best practice for multiple ternaries in JSX and react?](https://www.reddit.com/r/javascript/comments/18be6px/askjs_in_2023_what_is_the_best_practice_for/)
+- [[AskJS] NPM module development best practices?](https://www.reddit.com/r/javascript/comments/18b21vm/askjs_npm_module_development_best_practices/)
 - [[AskJS] - Would you change job if it pays well but you don&#39;t learn much?](https://www.reddit.com/r/javascript/comments/18awbk8/askjs_would_you_change_job_if_it_pays_well_but/)
-- [I am working on Memepill : A place to get meme templates and quickly edit &lpar; replace face&rpar;.Give its editor a try and tell me your feedback](https://www.reddit.com/r/javascript/comments/18awaax/i_am_working_on_memepill_a_place_to_get_meme/)
-- [[AskJS] what is the best book to learn JavaScript?](https://www.reddit.com/r/javascript/comments/18au4w0/askjs_what_is_the_best_book_to_learn_javascript/)
-- [on-js: A JSON-powered JavaScript framework](https://www.reddit.com/r/javascript/comments/18ap697/onjs_a_jsonpowered_javascript_framework/)
-- [A Step by Step Guide to Adding Turborepo to an Existing Project](https://www.reddit.com/r/javascript/comments/18anxqx/a_step_by_step_guide_to_adding_turborepo_to_an/)
-- [Redux Toolkit 2.0: new features, faster perf, smaller bundle sizes &lpar;plus major versions for all Redux family packages!&rpar;](https://www.reddit.com/r/javascript/comments/18alf0v/redux_toolkit_20_new_features_faster_perf_smaller/)
-- [[AskJS] What do you use to make small back-ends ?](https://www.reddit.com/r/javascript/comments/18ah904/askjs_what_do_you_use_to_make_small_backends/)
-- [Your /r/javascript recap for the week of November 27 - December 03](https://www.reddit.com/r/javascript/comments/18ah4qh/your_rjavascript_recap_for_the_week_of_november/)
-- [[AskJS] API for accessing sensor data on mobiles](https://www.reddit.com/r/javascript/comments/18a4532/askjs_api_for_accessing_sensor_data_on_mobiles/)
-- [Local-First Todo App with P2P Replication](https://www.reddit.com/r/javascript/comments/18a2okl/localfirst_todo_app_with_p2p_replication/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
