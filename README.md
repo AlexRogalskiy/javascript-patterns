@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Perfect web app](https://www.reddit.com/r/javascript/comments/18cdyhc/perfect_web_app/)
+- [[AskJS] Best tool for given monorepo](https://www.reddit.com/r/javascript/comments/18cduzz/askjs_best_tool_for_given_monorepo/)
+- [The Spatial DOM implementation for XR applications](https://www.reddit.com/r/javascript/comments/18c5p35/the_spatial_dom_implementation_for_xr_applications/)
+- [I published timenames@1.0.0 that gives a unique memorable name to each second of the day](https://www.reddit.com/r/javascript/comments/18c2ty7/i_published_timenames100_that_gives_a_unique/)
+- [The Complete Puppeteer Cheatsheet](https://www.reddit.com/r/javascript/comments/18bzt9s/the_complete_puppeteer_cheatsheet/)
+- [WTF Wednesday &lpar;December 06, 2023&rpar;](https://www.reddit.com/r/javascript/comments/18bz5bu/wtf_wednesday_december_06_2023/)
+- [[AskJS] Base62 ==&gt; Hexadecimal?](https://www.reddit.com/r/javascript/comments/18bt98w/askjs_base62_hexadecimal/)
 - [[AskJS] Pricing a React website for customer](https://www.reddit.com/r/javascript/comments/18bqphn/askjs_pricing_a_react_website_for_customer/)
 - [A concept library that track object changes](https://www.reddit.com/r/javascript/comments/18bnqrm/a_concept_library_that_track_object_changes/)
 - [Javascript Card Game - A Christmas Gift Idea](https://www.reddit.com/r/javascript/comments/18blwrd/javascript_card_game_a_christmas_gift_idea/)
-- [Introducing Aige, an AI Game Engine](https://www.reddit.com/r/javascript/comments/18bjwgn/introducing_aige_an_ai_game_engine/)
-- [[AskJS] Do you think we need an Automatic Code Documentation Generator, especially after Github Co-pilot?](https://www.reddit.com/r/javascript/comments/18bi1p1/askjs_do_you_think_we_need_an_automatic_code/)
-- [[AskJS] isolated-eval: try to break me](https://www.reddit.com/r/javascript/comments/18bfhio/askjs_isolatedeval_try_to_break_me/)
-- [[AskJS] - Is it possible to make a html page that can predict an answer with a CSV file as input using ML5 and p5?](https://www.reddit.com/r/javascript/comments/18bex0t/askjs_is_it_possible_to_make_a_html_page_that_can/)
-- [[AskJS] In 2023, what is the best practice for multiple ternaries in JSX and react?](https://www.reddit.com/r/javascript/comments/18be6px/askjs_in_2023_what_is_the_best_practice_for/)
-- [[AskJS] NPM module development best practices?](https://www.reddit.com/r/javascript/comments/18b21vm/askjs_npm_module_development_best_practices/)
-- [[AskJS] - Would you change job if it pays well but you don&#39;t learn much?](https://www.reddit.com/r/javascript/comments/18awbk8/askjs_would_you_change_job_if_it_pays_well_but/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
