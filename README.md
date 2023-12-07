@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [The best new features in Angular 17: A kinder, faster Angular](https://www.infoworld.com/article/3711373/the-best-new-features-in-angular-17-a-kinder-faster-angular.html#tk.rss_javascript)
 - [Deno adds Deno Cron for job scheduling](https://www.infoworld.com/article/3711269/deno-adds-deno-cron-for-job-scheduling.html#tk.rss_javascript)
 - [TypeScript 5.3 arrives with support for import attributes](https://www.infoworld.com/article/3708188/typescript-53-arrives-with-support-for-import-attributes.html#tk.rss_javascript)
 - [Angular 17 previews control flow, better type checking](https://www.infoworld.com/article/3710249/angular-17-previews-control-flow-better-type-checking.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Node.js 21 brings WebSocket client](https://www.infoworld.com/article/3709068/nodejs-21-brings-websocket-client.html#tk.rss_javascript)
 - [Report finds few open source projects actively maintained](https://www.infoworld.com/article/3708630/report-finds-few-open-source-projects-actively-maintained.html#tk.rss_javascript)
 - [Intro to Hyperscript: Rethinking JavaScript](https://www.infoworld.com/article/3708109/intro-to-hyperscript-rethinking-javascript.html#tk.rss_javascript)
-- [Recharts: Intro to JavaScript charting](https://www.infoworld.com/article/3707388/recharts-intro-to-javascript-charting.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
