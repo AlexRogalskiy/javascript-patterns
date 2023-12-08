@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Self modifying JS text editor?](https://www.reddit.com/r/javascript/comments/18d7t17/askjs_self_modifying_js_text_editor/)
+- [Hack For Good: $5,000 to Toys for Tots on your behalf - WebAssembly Hackathon](https://www.reddit.com/r/javascript/comments/18d3mcz/hack_for_good_5000_to_toys_for_tots_on_your/)
+- [Germany &amp; Switzerland IT Job Market Report: 12,500 Surveys, 6,300 Tech Salaries](https://www.reddit.com/r/javascript/comments/18d2ond/germany_switzerland_it_job_market_report_12500/)
+- [Visual Studio Code November 2023](https://www.reddit.com/r/javascript/comments/18d2o9i/visual_studio_code_november_2023/)
+- [What do I learn next? &lpar;Java script&rpar;](https://www.reddit.com/r/javascript/comments/18d1cfh/what_do_i_learn_next_java_script/)
+- [[AskJS] What are you looking for in a custom select dropdown?](https://www.reddit.com/r/javascript/comments/18cz7ij/askjs_what_are_you_looking_for_in_a_custom_select/)
+- [Stop nesting ternaries](https://www.reddit.com/r/javascript/comments/18cultl/stop_nesting_ternaries/)
+- [Maglev - V8’s Fastest Optimizing JIT](https://www.reddit.com/r/javascript/comments/18ct0bu/maglev_v8s_fastest_optimizing_jit/)
 - [Perfect web app](https://www.reddit.com/r/javascript/comments/18cdyhc/perfect_web_app/)
 - [[AskJS] Best tool for given monorepo](https://www.reddit.com/r/javascript/comments/18cduzz/askjs_best_tool_for_given_monorepo/)
-- [The Spatial DOM implementation for XR applications](https://www.reddit.com/r/javascript/comments/18c5p35/the_spatial_dom_implementation_for_xr_applications/)
-- [I published timenames@1.0.0 that gives a unique memorable name to each second of the day](https://www.reddit.com/r/javascript/comments/18c2ty7/i_published_timenames100_that_gives_a_unique/)
-- [The Complete Puppeteer Cheatsheet](https://www.reddit.com/r/javascript/comments/18bzt9s/the_complete_puppeteer_cheatsheet/)
-- [WTF Wednesday &lpar;December 06, 2023&rpar;](https://www.reddit.com/r/javascript/comments/18bz5bu/wtf_wednesday_december_06_2023/)
-- [[AskJS] Base62 ==&gt; Hexadecimal?](https://www.reddit.com/r/javascript/comments/18bt98w/askjs_base62_hexadecimal/)
-- [[AskJS] Pricing a React website for customer](https://www.reddit.com/r/javascript/comments/18bqphn/askjs_pricing_a_react_website_for_customer/)
-- [A concept library that track object changes](https://www.reddit.com/r/javascript/comments/18bnqrm/a_concept_library_that_track_object_changes/)
-- [Javascript Card Game - A Christmas Gift Idea](https://www.reddit.com/r/javascript/comments/18blwrd/javascript_card_game_a_christmas_gift_idea/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
