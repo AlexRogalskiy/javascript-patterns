@@ -382,6 +382,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *NodeSource posts*
 
 <!-- NODESOURCE-POST-LIST:START -->
+- [Innovating for Performance: How our Infra Team Powers 100+ Million Downloads A Year &lpar;While Keeping our SaaS Reliable and Secure&rpar;](https://nodesource.com/blog/innovating-for-performance)
 - [3 Takeaways from Web Summit 2023](https://nodesource.com/blog/takeaways-web-summit-2023)
 - [NodeSource Team Supports JSConf Colombia for the Event&#39;s 10th Anniversary](https://nodesource.com/blog/nodesource-jsconf-colombia-tenth-anniversary)
 - [Introducing N|Solid Copilot: Your AI-Powered Node.js Navigator](https://nodesource.com/blog/nsolid-copilot-release)
@@ -391,7 +392,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [N|Solid v4.10.1 is now available](https://nodesource.com/blog/announcing-NSolid-version-4101)
 - [Serverless Observability in N|Solid for AWS Lambda](https://nodesource.com/blog/serverless-aws-lambda)
 - [Empowering Startups: Building Better, More Secure Apps and Ensuring Exceptional CX with N|Solid](https://nodesource.com/blog/empowering-startups)
-- [Welcome to The Future of Software Development: Powered by Telemetry, Security, and AI](https://nodesource.com/blog/nodesource-collisionconf-wrapup)
 <!-- NODESOURCE-POST-LIST:END -->
 
 ### *React Native posts*
