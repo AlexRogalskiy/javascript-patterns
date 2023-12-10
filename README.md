@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Memepill: A client-side meme editor using WebCodecs, MP4-muxer, FFmpegwasm.](https://www.reddit.com/r/javascript/comments/18er56n/memepill_a_clientside_meme_editor_using_webcodecs/)
+- [The Ultimate Web Desktop Environment &lpar;3,500 commits over 3 years&rpar;](https://www.reddit.com/r/javascript/comments/18einqi/the_ultimate_web_desktop_environment_3500_commits/)
+- [PhpSlides now released. Be the first to learn it now!! Alternative of Laravel, but very easy &amp; simple to understand.](https://www.reddit.com/r/javascript/comments/18efbam/phpslides_now_released_be_the_first_to_learn_it/)
+- [Showoff Saturday &lpar;December 09, 2023&rpar;](https://www.reddit.com/r/javascript/comments/18e8oac/showoff_saturday_december_09_2023/)
 - [AdventJS 2023: Daily Coding Challenges JavaScript/TypeScript](https://www.reddit.com/r/javascript/comments/18dycmv/adventjs_2023_daily_coding_challenges/)
 - [[Hiring] Looking for a Javascript plugin writer for the indie JRPG project &quot;Skies Asunder,&quot; created in the RPG Maker MZ engine. You can find more information about the project in my history!](https://www.reddit.com/r/javascript/comments/18dwgr1/hiring_looking_for_a_javascript_plugin_writer_for/)
 - [Web components without a build process using Preact](https://www.reddit.com/r/javascript/comments/18dsp5i/web_components_without_a_build_process_using/)
 - [A CLI for developing in monorepos, not building them](https://www.reddit.com/r/javascript/comments/18dqjcm/a_cli_for_developing_in_monorepos_not_building/)
 - [[AskJS] Kicking a dead horse - TS vs JS](https://www.reddit.com/r/javascript/comments/18doeks/askjs_kicking_a_dead_horse_ts_vs_js/)
 - [GitHub - hymhub/next-axios-network: A Network panel to monitor server-side requests for next.js + axios projects during development.](https://www.reddit.com/r/javascript/comments/18dn7a8/github_hymhubnextaxiosnetwork_a_network_panel_to/)
-- [First look at Chromatic’s visual test plugin for Cypress](https://www.reddit.com/r/javascript/comments/18djpyp/first_look_at_chromatics_visual_test_plugin_for/)
-- [[AskJS] How to bundle all modules into a single file?](https://www.reddit.com/r/javascript/comments/18dfw59/askjs_how_to_bundle_all_modules_into_a_single_file/)
-- [[AskJS] Self modifying JS text editor?](https://www.reddit.com/r/javascript/comments/18d7t17/askjs_self_modifying_js_text_editor/)
-- [Hack For Good: $5,000 to Toys for Tots on your behalf - WebAssembly Hackathon](https://www.reddit.com/r/javascript/comments/18d3mcz/hack_for_good_5000_to_toys_for_tots_on_your/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
