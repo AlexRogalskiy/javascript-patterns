@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A list of JavaScript engines, runtimes, interpreters](https://www.reddit.com/r/javascript/comments/18f92id/a_list_of_javascript_engines_runtimes_interpreters/)
+- [Last week to take the State of JavaScript 2023 survey – help us figure out where the ecosystem is going!](https://www.reddit.com/r/javascript/comments/18f1c14/last_week_to_take_the_state_of_javascript_2023/)
 - [Memepill: A client-side meme editor using WebCodecs, MP4-muxer, FFmpegwasm.](https://www.reddit.com/r/javascript/comments/18er56n/memepill_a_clientside_meme_editor_using_webcodecs/)
 - [The Ultimate Web Desktop Environment &lpar;3,500 commits over 3 years&rpar;](https://www.reddit.com/r/javascript/comments/18einqi/the_ultimate_web_desktop_environment_3500_commits/)
 - [PhpSlides now released. Be the first to learn it now!! Alternative of Laravel, but very easy &amp; simple to understand.](https://www.reddit.com/r/javascript/comments/18efbam/phpslides_now_released_be_the_first_to_learn_it/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [[Hiring] Looking for a Javascript plugin writer for the indie JRPG project &quot;Skies Asunder,&quot; created in the RPG Maker MZ engine. You can find more information about the project in my history!](https://www.reddit.com/r/javascript/comments/18dwgr1/hiring_looking_for_a_javascript_plugin_writer_for/)
 - [Web components without a build process using Preact](https://www.reddit.com/r/javascript/comments/18dsp5i/web_components_without_a_build_process_using/)
 - [A CLI for developing in monorepos, not building them](https://www.reddit.com/r/javascript/comments/18dqjcm/a_cli_for_developing_in_monorepos_not_building/)
-- [[AskJS] Kicking a dead horse - TS vs JS](https://www.reddit.com/r/javascript/comments/18doeks/askjs_kicking_a_dead_horse_ts_vs_js/)
-- [GitHub - hymhub/next-axios-network: A Network panel to monitor server-side requests for next.js + axios projects during development.](https://www.reddit.com/r/javascript/comments/18dn7a8/github_hymhubnextaxiosnetwork_a_network_panel_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
