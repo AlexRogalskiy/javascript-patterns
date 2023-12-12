@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [A list of JavaScript engines, runtimes, interpreters](https://www.reddit.com/r/javascript/comments/18f92id/a_list_of_javascript_engines_runtimes_interpreters/)
-- [Last week to take the State of JavaScript 2023 survey – help us figure out where the ecosystem is going!](https://www.reddit.com/r/javascript/comments/18f1c14/last_week_to_take_the_state_of_javascript_2023/)
-- [Memepill: A client-side meme editor using WebCodecs, MP4-muxer, FFmpegwasm.](https://www.reddit.com/r/javascript/comments/18er56n/memepill_a_clientside_meme_editor_using_webcodecs/)
-- [The Ultimate Web Desktop Environment &lpar;3,500 commits over 3 years&rpar;](https://www.reddit.com/r/javascript/comments/18einqi/the_ultimate_web_desktop_environment_3500_commits/)
-- [PhpSlides now released. Be the first to learn it now!! Alternative of Laravel, but very easy &amp; simple to understand.](https://www.reddit.com/r/javascript/comments/18efbam/phpslides_now_released_be_the_first_to_learn_it/)
-- [Showoff Saturday &lpar;December 09, 2023&rpar;](https://www.reddit.com/r/javascript/comments/18e8oac/showoff_saturday_december_09_2023/)
-- [AdventJS 2023: Daily Coding Challenges JavaScript/TypeScript](https://www.reddit.com/r/javascript/comments/18dycmv/adventjs_2023_daily_coding_challenges/)
-- [[Hiring] Looking for a Javascript plugin writer for the indie JRPG project &quot;Skies Asunder,&quot; created in the RPG Maker MZ engine. You can find more information about the project in my history!](https://www.reddit.com/r/javascript/comments/18dwgr1/hiring_looking_for_a_javascript_plugin_writer_for/)
-- [Web components without a build process using Preact](https://www.reddit.com/r/javascript/comments/18dsp5i/web_components_without_a_build_process_using/)
-- [A CLI for developing in monorepos, not building them](https://www.reddit.com/r/javascript/comments/18dqjcm/a_cli_for_developing_in_monorepos_not_building/)
+- [[AskJS] Does Promise.all&lpar;&rpar; act like a transaction for API calls? &lpar;All or nothing&rpar;](https://www.reddit.com/r/javascript/comments/18ga9ab/askjs_does_promiseall_act_like_a_transaction_for/)
+- [[AskJS] How to get element height that isn’t overflowing](https://www.reddit.com/r/javascript/comments/18g7s9o/askjs_how_to_get_element_height_that_isnt/)
+- [The Await Event Horizon in JavaScript](https://www.reddit.com/r/javascript/comments/18g2zt4/the_await_event_horizon_in_javascript/)
+- [TSDocs.dev: rustdocs style documentation for any Javascript library and version](https://www.reddit.com/r/javascript/comments/18g058x/tsdocsdev_rustdocs_style_documentation_for_any/)
+- [A Chain Reaction](https://www.reddit.com/r/javascript/comments/18fzlm7/a_chain_reaction/)
+- [I created an open-source procedural planet generator with Three.js](https://www.reddit.com/r/javascript/comments/18fx5yb/i_created_an_opensource_procedural_planet/)
+- [Do you use JSDoc, TypeScript or Flow?](https://www.reddit.com/r/javascript/comments/18frsed/do_you_use_jsdoc_typescript_or_flow/)
+- [[AskJS] Any good local LLM for JavaScript?](https://www.reddit.com/r/javascript/comments/18frath/askjs_any_good_local_llm_for_javascript/)
+- [Your /r/javascript recap for the week of December 04 - December 10](https://www.reddit.com/r/javascript/comments/18fr8gr/your_rjavascript_recap_for_the_week_of_december/)
+- [Flowcharting Your Code: A Visual Guide to Understanding Your Codebase using Mermaid and Cody](https://www.reddit.com/r/javascript/comments/18fmixj/flowcharting_your_code_a_visual_guide_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
