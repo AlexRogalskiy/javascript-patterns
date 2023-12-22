@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Intro to JSX: HTML that does JavaScript](https://www.infoworld.com/article/3711600/intro-to-jsx-html-that-does-javascript.html#tk.rss_javascript)
 - [The best new features in Angular 17: A kinder, faster Angular](https://www.infoworld.com/article/3711373/the-best-new-features-in-angular-17-a-kinder-faster-angular.html#tk.rss_javascript)
 - [Deno adds Deno Cron for job scheduling](https://www.infoworld.com/article/3711269/deno-adds-deno-cron-for-job-scheduling.html#tk.rss_javascript)
 - [TypeScript 5.3 arrives with support for import attributes](https://www.infoworld.com/article/3708188/typescript-53-arrives-with-support-for-import-attributes.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Using JavaScript&#39;s built-in objects](https://www.infoworld.com/article/2077150/using-javascript-s-built-in-objects.html#tk.rss_javascript)
 - [Node.js 21 brings WebSocket client](https://www.infoworld.com/article/3709068/nodejs-21-brings-websocket-client.html#tk.rss_javascript)
 - [Report finds few open source projects actively maintained](https://www.infoworld.com/article/3708630/report-finds-few-open-source-projects-actively-maintained.html#tk.rss_javascript)
-- [Intro to Hyperscript: Rethinking JavaScript](https://www.infoworld.com/article/3708109/intro-to-hyperscript-rethinking-javascript.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
