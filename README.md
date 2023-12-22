@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Does Promise.all&lpar;&rpar; act like a transaction for API calls? &lpar;All or nothing&rpar;](https://www.reddit.com/r/javascript/comments/18ga9ab/askjs_does_promiseall_act_like_a_transaction_for/)
-- [[AskJS] How to get element height that isn’t overflowing](https://www.reddit.com/r/javascript/comments/18g7s9o/askjs_how_to_get_element_height_that_isnt/)
-- [The Await Event Horizon in JavaScript](https://www.reddit.com/r/javascript/comments/18g2zt4/the_await_event_horizon_in_javascript/)
-- [TSDocs.dev: rustdocs style documentation for any Javascript library and version](https://www.reddit.com/r/javascript/comments/18g058x/tsdocsdev_rustdocs_style_documentation_for_any/)
-- [A Chain Reaction](https://www.reddit.com/r/javascript/comments/18fzlm7/a_chain_reaction/)
-- [I created an open-source procedural planet generator with Three.js](https://www.reddit.com/r/javascript/comments/18fx5yb/i_created_an_opensource_procedural_planet/)
-- [Do you use JSDoc, TypeScript or Flow?](https://www.reddit.com/r/javascript/comments/18frsed/do_you_use_jsdoc_typescript_or_flow/)
-- [[AskJS] Any good local LLM for JavaScript?](https://www.reddit.com/r/javascript/comments/18frath/askjs_any_good_local_llm_for_javascript/)
-- [Your /r/javascript recap for the week of December 04 - December 10](https://www.reddit.com/r/javascript/comments/18fr8gr/your_rjavascript_recap_for_the_week_of_december/)
-- [Flowcharting Your Code: A Visual Guide to Understanding Your Codebase using Mermaid and Cody](https://www.reddit.com/r/javascript/comments/18fmixj/flowcharting_your_code_a_visual_guide_to/)
+- [[AskJS] How can I update or fix old build errors on a new machine?](https://www.reddit.com/r/javascript/comments/18nzmi7/askjs_how_can_i_update_or_fix_old_build_errors_on/)
+- [Let&#39;s talk about Moment.js](https://www.reddit.com/r/javascript/comments/18nsvbh/lets_talk_about_momentjs/)
+- [Make Storybook 2-4x faster](https://www.reddit.com/r/javascript/comments/18np146/make_storybook_24x_faster/)
+- [How often are you calling your functions?](https://www.reddit.com/r/javascript/comments/18nmdp7/how_often_are_you_calling_your_functions/)
+- [MetaMatrix: Digital Art Display](https://www.reddit.com/r/javascript/comments/18nmc0s/metamatrix_digital_art_display/)
+- [[AskJS] Is it hard to get a remote position at a foreign company?](https://www.reddit.com/r/javascript/comments/18ni6vl/askjs_is_it_hard_to_get_a_remote_position_at_a/)
+- [The Complete Playwright Cheatsheet](https://www.reddit.com/r/javascript/comments/18ni11c/the_complete_playwright_cheatsheet/)
+- [A complete AI powered coding app CodeStack AI is here](https://www.reddit.com/r/javascript/comments/18n6098/a_complete_ai_powered_coding_app_codestack_ai_is/)
+- [Thoughts on Remix](https://www.reddit.com/r/javascript/comments/18n3vms/thoughts_on_remix/)
+- [Thoughts on Civet ?](https://www.reddit.com/r/javascript/comments/18n3rau/thoughts_on_civet/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
