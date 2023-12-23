@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Mastering JavaScript Functional Programming](https://www.reddit.com/r/javascript/comments/18onrcy/askjs_mastering_javascript_functional_programming/)
+- [[AskJS] Where can I find JavaScript developers who want to help my with my project?](https://www.reddit.com/r/javascript/comments/18omvwv/askjs_where_can_i_find_javascript_developers_who/)
+- [Codemods to help you upgrade to Ant Design V5](https://www.reddit.com/r/javascript/comments/18ohnn8/codemods_to_help_you_upgrade_to_ant_design_v5/)
+- [Deep Cloning Objects in JavaScript, the Modern Way](https://www.reddit.com/r/javascript/comments/18oghws/deep_cloning_objects_in_javascript_the_modern_way/)
+- [Temporal API is Awesome](https://www.reddit.com/r/javascript/comments/18oeh9e/temporal_api_is_awesome/)
+- [[AskJS] &quot;Where to begin on making highly scalable nodejs applications?&quot;](https://www.reddit.com/r/javascript/comments/18oby1g/askjs_where_to_begin_on_making_highly_scalable/)
+- [Node CLI Time Tracker](https://www.reddit.com/r/javascript/comments/18obrcm/node_cli_time_tracker/)
+- [One Function Per Line](https://www.reddit.com/r/javascript/comments/18o9ij4/one_function_per_line/)
 - [[AskJS] How can I update or fix old build errors on a new machine?](https://www.reddit.com/r/javascript/comments/18nzmi7/askjs_how_can_i_update_or_fix_old_build_errors_on/)
 - [Let&#39;s talk about Moment.js](https://www.reddit.com/r/javascript/comments/18nsvbh/lets_talk_about_momentjs/)
-- [Make Storybook 2-4x faster](https://www.reddit.com/r/javascript/comments/18np146/make_storybook_24x_faster/)
-- [How often are you calling your functions?](https://www.reddit.com/r/javascript/comments/18nmdp7/how_often_are_you_calling_your_functions/)
-- [MetaMatrix: Digital Art Display](https://www.reddit.com/r/javascript/comments/18nmc0s/metamatrix_digital_art_display/)
-- [[AskJS] Is it hard to get a remote position at a foreign company?](https://www.reddit.com/r/javascript/comments/18ni6vl/askjs_is_it_hard_to_get_a_remote_position_at_a/)
-- [The Complete Playwright Cheatsheet](https://www.reddit.com/r/javascript/comments/18ni11c/the_complete_playwright_cheatsheet/)
-- [A complete AI powered coding app CodeStack AI is here](https://www.reddit.com/r/javascript/comments/18n6098/a_complete_ai_powered_coding_app_codestack_ai_is/)
-- [Thoughts on Remix](https://www.reddit.com/r/javascript/comments/18n3vms/thoughts_on_remix/)
-- [Thoughts on Civet ?](https://www.reddit.com/r/javascript/comments/18n3rau/thoughts_on_civet/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
