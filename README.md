@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [GitHub - jcubic/velvet: Vanilla JavaScript Universal CSS in JS library](https://www.reddit.com/r/javascript/comments/18pkjoo/github_jcubicvelvet_vanilla_javascript_universal/)
+- [Node.JS TypeScript Library Modern Template](https://www.reddit.com/r/javascript/comments/18pk2d3/nodejs_typescript_library_modern_template/)
+- [Securing Your Frontend Apps: A Practical Guide](https://www.reddit.com/r/javascript/comments/18pfqv3/securing_your_frontend_apps_a_practical_guide/)
+- [[AskJS] How to substitute Web Cryptography API for node:crypto?](https://www.reddit.com/r/javascript/comments/18paiky/askjs_how_to_substitute_web_cryptography_api_for/)
+- [I built a browser extension that combines multiple tools to provide an open-source, privacy respecting alternative to numerous single-use extensions.](https://www.reddit.com/r/javascript/comments/18p9izi/i_built_a_browser_extension_that_combines/)
+- [Mikado v0.8 has just published the fastest middleware render engine for Express](https://www.reddit.com/r/javascript/comments/18p2tu7/mikado_v08_has_just_published_the_fastest/)
+- [Showoff Saturday &lpar;December 23, 2023&rpar;](https://www.reddit.com/r/javascript/comments/18p0wvm/showoff_saturday_december_23_2023/)
 - [[AskJS] Mastering JavaScript Functional Programming](https://www.reddit.com/r/javascript/comments/18onrcy/askjs_mastering_javascript_functional_programming/)
 - [[AskJS] Where can I find JavaScript developers who want to help my with my project?](https://www.reddit.com/r/javascript/comments/18omvwv/askjs_where_can_i_find_javascript_developers_who/)
 - [Codemods to help you upgrade to Ant Design V5](https://www.reddit.com/r/javascript/comments/18ohnn8/codemods_to_help_you_upgrade_to_ant_design_v5/)
-- [Deep Cloning Objects in JavaScript, the Modern Way](https://www.reddit.com/r/javascript/comments/18oghws/deep_cloning_objects_in_javascript_the_modern_way/)
-- [Temporal API is Awesome](https://www.reddit.com/r/javascript/comments/18oeh9e/temporal_api_is_awesome/)
-- [[AskJS] &quot;Where to begin on making highly scalable nodejs applications?&quot;](https://www.reddit.com/r/javascript/comments/18oby1g/askjs_where_to_begin_on_making_highly_scalable/)
-- [Node CLI Time Tracker](https://www.reddit.com/r/javascript/comments/18obrcm/node_cli_time_tracker/)
-- [One Function Per Line](https://www.reddit.com/r/javascript/comments/18o9ij4/one_function_per_line/)
-- [[AskJS] How can I update or fix old build errors on a new machine?](https://www.reddit.com/r/javascript/comments/18nzmi7/askjs_how_can_i_update_or_fix_old_build_errors_on/)
-- [Let&#39;s talk about Moment.js](https://www.reddit.com/r/javascript/comments/18nsvbh/lets_talk_about_momentjs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
