@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Where do you all promote your projects?](https://www.reddit.com/r/javascript/comments/18q48r6/askjs_where_do_you_all_promote_your_projects/)
+- [Tiny Zero-Dependency Node.JS Number Parsing Library](https://www.reddit.com/r/javascript/comments/18pzt2l/tiny_zerodependency_nodejs_number_parsing_library/)
+- [[AskJS] JSON with CURL works fine, JSON from web app returns 422](https://www.reddit.com/r/javascript/comments/18pz9fe/askjs_json_with_curl_works_fine_json_from_web_app/)
+- [[AskJS] Why is the internal crypto module so difficult to bundle as a standalone portable script?](https://www.reddit.com/r/javascript/comments/18pyd4j/askjs_why_is_the_internal_crypto_module_so/)
+- [[update] Tiny library to determine a readable color from a given background-color](https://www.reddit.com/r/javascript/comments/18pv6r9/update_tiny_library_to_determine_a_readable_color/)
+- [NodeJS lib, with which you can easily find the latest version of Docker Hub images.](https://www.reddit.com/r/javascript/comments/18pt9m9/nodejs_lib_with_which_you_can_easily_find_the/)
+- [Convert UTF-8 to UTF-16 encoding for an array of numbers client-side in the browser and server-side in Node.js.](https://www.reddit.com/r/javascript/comments/18po6d5/convert_utf8_to_utf16_encoding_for_an_array_of/)
 - [GitHub - jcubic/velvet: Vanilla JavaScript Universal CSS in JS library](https://www.reddit.com/r/javascript/comments/18pkjoo/github_jcubicvelvet_vanilla_javascript_universal/)
 - [Node.JS TypeScript Library Modern Template](https://www.reddit.com/r/javascript/comments/18pk2d3/nodejs_typescript_library_modern_template/)
 - [Securing Your Frontend Apps: A Practical Guide](https://www.reddit.com/r/javascript/comments/18pfqv3/securing_your_frontend_apps_a_practical_guide/)
-- [[AskJS] How to substitute Web Cryptography API for node:crypto?](https://www.reddit.com/r/javascript/comments/18paiky/askjs_how_to_substitute_web_cryptography_api_for/)
-- [I built a browser extension that combines multiple tools to provide an open-source, privacy respecting alternative to numerous single-use extensions.](https://www.reddit.com/r/javascript/comments/18p9izi/i_built_a_browser_extension_that_combines/)
-- [Mikado v0.8 has just published the fastest middleware render engine for Express](https://www.reddit.com/r/javascript/comments/18p2tu7/mikado_v08_has_just_published_the_fastest/)
-- [Showoff Saturday &lpar;December 23, 2023&rpar;](https://www.reddit.com/r/javascript/comments/18p0wvm/showoff_saturday_december_23_2023/)
-- [[AskJS] Mastering JavaScript Functional Programming](https://www.reddit.com/r/javascript/comments/18onrcy/askjs_mastering_javascript_functional_programming/)
-- [[AskJS] Where can I find JavaScript developers who want to help my with my project?](https://www.reddit.com/r/javascript/comments/18omvwv/askjs_where_can_i_find_javascript_developers_who/)
-- [Codemods to help you upgrade to Ant Design V5](https://www.reddit.com/r/javascript/comments/18ohnn8/codemods_to_help_you_upgrade_to_ant_design_v5/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
