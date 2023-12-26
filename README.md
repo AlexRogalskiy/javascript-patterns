@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How To Integrate YouTube Player In Your React App](https://www.reddit.com/r/javascript/comments/18quvt1/how_to_integrate_youtube_player_in_your_react_app/)
+- [Hippotable | view &amp; analyze data in your browser](https://www.reddit.com/r/javascript/comments/18qmuc8/hippotable_view_analyze_data_in_your_browser/)
+- [Quick Ways to Determine if a JavaScript Array Contains an Item](https://www.reddit.com/r/javascript/comments/18qitgo/quick_ways_to_determine_if_a_javascript_array/)
+- [More filesystem experiments: STDIO between Node.js and the browser](https://www.reddit.com/r/javascript/comments/18qij3y/more_filesystem_experiments_stdio_between_nodejs/)
+- [Your /r/javascript recap for the week of December 18 - December 24](https://www.reddit.com/r/javascript/comments/18qfwjw/your_rjavascript_recap_for_the_week_of_december/)
+- [TypeScript and React common patterns](https://www.reddit.com/r/javascript/comments/18qf95w/typescript_and_react_common_patterns/)
+- [First JS/TS npm package: Value noise](https://www.reddit.com/r/javascript/comments/18qeg9y/first_jsts_npm_package_value_noise/)
 - [[AskJS] Where do you all promote your projects?](https://www.reddit.com/r/javascript/comments/18q48r6/askjs_where_do_you_all_promote_your_projects/)
 - [Tiny Zero-Dependency Node.JS Number Parsing Library](https://www.reddit.com/r/javascript/comments/18pzt2l/tiny_zerodependency_nodejs_number_parsing_library/)
 - [[AskJS] JSON with CURL works fine, JSON from web app returns 422](https://www.reddit.com/r/javascript/comments/18pz9fe/askjs_json_with_curl_works_fine_json_from_web_app/)
-- [[AskJS] Why is the internal crypto module so difficult to bundle as a standalone portable script?](https://www.reddit.com/r/javascript/comments/18pyd4j/askjs_why_is_the_internal_crypto_module_so/)
-- [[update] Tiny library to determine a readable color from a given background-color](https://www.reddit.com/r/javascript/comments/18pv6r9/update_tiny_library_to_determine_a_readable_color/)
-- [NodeJS lib, with which you can easily find the latest version of Docker Hub images.](https://www.reddit.com/r/javascript/comments/18pt9m9/nodejs_lib_with_which_you_can_easily_find_the/)
-- [Convert UTF-8 to UTF-16 encoding for an array of numbers client-side in the browser and server-side in Node.js.](https://www.reddit.com/r/javascript/comments/18po6d5/convert_utf8_to_utf16_encoding_for_an_array_of/)
-- [GitHub - jcubic/velvet: Vanilla JavaScript Universal CSS in JS library](https://www.reddit.com/r/javascript/comments/18pkjoo/github_jcubicvelvet_vanilla_javascript_universal/)
-- [Node.JS TypeScript Library Modern Template](https://www.reddit.com/r/javascript/comments/18pk2d3/nodejs_typescript_library_modern_template/)
-- [Securing Your Frontend Apps: A Practical Guide](https://www.reddit.com/r/javascript/comments/18pfqv3/securing_your_frontend_apps_a_practical_guide/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
