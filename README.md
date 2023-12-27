@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Speeding Up React Apps with Code Splitting and Lazy Loading](https://www.reddit.com/r/javascript/comments/18rl1hg/speeding_up_react_apps_with_code_splitting_and/)
+- [[AskJS] I encountered a very strange behavior with this custom DOM element. Anyone seen this before?](https://www.reddit.com/r/javascript/comments/18rhx12/askjs_i_encountered_a_very_strange_behavior_with/)
+- [Frontend predictions for 2024](https://www.reddit.com/r/javascript/comments/18rcc0s/frontend_predictions_for_2024/)
+- [Dependency-free state management library which helps to handle effects in a saga-like way using async functions and thennable events](https://www.reddit.com/r/javascript/comments/18r4odl/dependencyfree_state_management_library_which/)
 - [How To Integrate YouTube Player In Your React App](https://www.reddit.com/r/javascript/comments/18quvt1/how_to_integrate_youtube_player_in_your_react_app/)
 - [Hippotable | view &amp; analyze data in your browser](https://www.reddit.com/r/javascript/comments/18qmuc8/hippotable_view_analyze_data_in_your_browser/)
-- [Quick Ways to Determine if a JavaScript Array Contains an Item](https://www.reddit.com/r/javascript/comments/18qitgo/quick_ways_to_determine_if_a_javascript_array/)
 - [More filesystem experiments: STDIO between Node.js and the browser](https://www.reddit.com/r/javascript/comments/18qij3y/more_filesystem_experiments_stdio_between_nodejs/)
 - [Your /r/javascript recap for the week of December 18 - December 24](https://www.reddit.com/r/javascript/comments/18qfwjw/your_rjavascript_recap_for_the_week_of_december/)
 - [TypeScript and React common patterns](https://www.reddit.com/r/javascript/comments/18qf95w/typescript_and_react_common_patterns/)
 - [First JS/TS npm package: Value noise](https://www.reddit.com/r/javascript/comments/18qeg9y/first_jsts_npm_package_value_noise/)
-- [[AskJS] Where do you all promote your projects?](https://www.reddit.com/r/javascript/comments/18q48r6/askjs_where_do_you_all_promote_your_projects/)
-- [Tiny Zero-Dependency Node.JS Number Parsing Library](https://www.reddit.com/r/javascript/comments/18pzt2l/tiny_zerodependency_nodejs_number_parsing_library/)
-- [[AskJS] JSON with CURL works fine, JSON from web app returns 422](https://www.reddit.com/r/javascript/comments/18pz9fe/askjs_json_with_curl_works_fine_json_from_web_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
