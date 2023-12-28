@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Vite Github Pages Deployer](https://www.reddit.com/r/javascript/comments/18sb1pd/vite_github_pages_deployer/)
+- [iterativ / rekursiv](https://www.reddit.com/r/javascript/comments/18sa7rf/iterativ_rekursiv/)
+- [Building a high performant web application in edge runtime](https://www.reddit.com/r/javascript/comments/18s3olz/building_a_high_performant_web_application_in/)
+- [Future of Storybook in 2024](https://www.reddit.com/r/javascript/comments/18s1lul/future_of_storybook_in_2024/)
+- [WTF Wednesday &lpar;December 27, 2023&rpar;](https://www.reddit.com/r/javascript/comments/18rvh7e/wtf_wednesday_december_27_2023/)
 - [Speeding Up React Apps with Code Splitting and Lazy Loading](https://www.reddit.com/r/javascript/comments/18rl1hg/speeding_up_react_apps_with_code_splitting_and/)
 - [[AskJS] I encountered a very strange behavior with this custom DOM element. Anyone seen this before?](https://www.reddit.com/r/javascript/comments/18rhx12/askjs_i_encountered_a_very_strange_behavior_with/)
 - [Frontend predictions for 2024](https://www.reddit.com/r/javascript/comments/18rcc0s/frontend_predictions_for_2024/)
 - [Dependency-free state management library which helps to handle effects in a saga-like way using async functions and thennable events](https://www.reddit.com/r/javascript/comments/18r4odl/dependencyfree_state_management_library_which/)
 - [How To Integrate YouTube Player In Your React App](https://www.reddit.com/r/javascript/comments/18quvt1/how_to_integrate_youtube_player_in_your_react_app/)
-- [Hippotable | view &amp; analyze data in your browser](https://www.reddit.com/r/javascript/comments/18qmuc8/hippotable_view_analyze_data_in_your_browser/)
-- [More filesystem experiments: STDIO between Node.js and the browser](https://www.reddit.com/r/javascript/comments/18qij3y/more_filesystem_experiments_stdio_between_nodejs/)
-- [Your /r/javascript recap for the week of December 18 - December 24](https://www.reddit.com/r/javascript/comments/18qfwjw/your_rjavascript_recap_for_the_week_of_december/)
-- [TypeScript and React common patterns](https://www.reddit.com/r/javascript/comments/18qf95w/typescript_and_react_common_patterns/)
-- [First JS/TS npm package: Value noise](https://www.reddit.com/r/javascript/comments/18qeg9y/first_jsts_npm_package_value_noise/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
