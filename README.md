@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [React Native complete social dating app](https://www.reddit.com/r/javascript/comments/18sv5mn/react_native_complete_social_dating_app/)
+- [Beachpatrol: A CLI tool to replace and automate your everyday web browser.](https://www.reddit.com/r/javascript/comments/18sp0sy/beachpatrol_a_cli_tool_to_replace_and_automate/)
 - [Vite Github Pages Deployer](https://www.reddit.com/r/javascript/comments/18sb1pd/vite_github_pages_deployer/)
 - [iterativ / rekursiv](https://www.reddit.com/r/javascript/comments/18sa7rf/iterativ_rekursiv/)
 - [Building a high performant web application in edge runtime](https://www.reddit.com/r/javascript/comments/18s3olz/building_a_high_performant_web_application_in/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Speeding Up React Apps with Code Splitting and Lazy Loading](https://www.reddit.com/r/javascript/comments/18rl1hg/speeding_up_react_apps_with_code_splitting_and/)
 - [[AskJS] I encountered a very strange behavior with this custom DOM element. Anyone seen this before?](https://www.reddit.com/r/javascript/comments/18rhx12/askjs_i_encountered_a_very_strange_behavior_with/)
 - [Frontend predictions for 2024](https://www.reddit.com/r/javascript/comments/18rcc0s/frontend_predictions_for_2024/)
-- [Dependency-free state management library which helps to handle effects in a saga-like way using async functions and thennable events](https://www.reddit.com/r/javascript/comments/18r4odl/dependencyfree_state_management_library_which/)
-- [How To Integrate YouTube Player In Your React App](https://www.reddit.com/r/javascript/comments/18quvt1/how_to_integrate_youtube_player_in_your_react_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
