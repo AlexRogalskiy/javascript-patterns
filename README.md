@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Let&#39;s Bring Back JavaScript&#39;s `with&lpar;&rpar;` Statement](https://www.reddit.com/r/javascript/comments/18ttkcy/lets_bring_back_javascripts_with_statement/)
+- [gRPC Devtools 1.9.0 has released - In addition to the method of interceptor registration, gRPC Devtools now injects the `__GRPCWEB_DEVTOOLS__` function into the window too, allowing you to seamlessly migrate to gRPC Devtools without the need to change any part of your code.](https://www.reddit.com/r/javascript/comments/18tibfk/grpc_devtools_190_has_released_in_addition_to_the/)
+- [Deep JS. In memory of data and types](https://www.reddit.com/r/javascript/comments/18thw1a/deep_js_in_memory_of_data_and_types/)
+- [wbn-sign using Web Cryptography API](https://www.reddit.com/r/javascript/comments/18thi71/wbnsign_using_web_cryptography_api/)
 - [React Native complete social dating app](https://www.reddit.com/r/javascript/comments/18sv5mn/react_native_complete_social_dating_app/)
 - [Beachpatrol: A CLI tool to replace and automate your everyday web browser.](https://www.reddit.com/r/javascript/comments/18sp0sy/beachpatrol_a_cli_tool_to_replace_and_automate/)
 - [Vite Github Pages Deployer](https://www.reddit.com/r/javascript/comments/18sb1pd/vite_github_pages_deployer/)
 - [iterativ / rekursiv](https://www.reddit.com/r/javascript/comments/18sa7rf/iterativ_rekursiv/)
 - [Building a high performant web application in edge runtime](https://www.reddit.com/r/javascript/comments/18s3olz/building_a_high_performant_web_application_in/)
 - [Future of Storybook in 2024](https://www.reddit.com/r/javascript/comments/18s1lul/future_of_storybook_in_2024/)
-- [WTF Wednesday &lpar;December 27, 2023&rpar;](https://www.reddit.com/r/javascript/comments/18rvh7e/wtf_wednesday_december_27_2023/)
-- [Speeding Up React Apps with Code Splitting and Lazy Loading](https://www.reddit.com/r/javascript/comments/18rl1hg/speeding_up_react_apps_with_code_splitting_and/)
-- [[AskJS] I encountered a very strange behavior with this custom DOM element. Anyone seen this before?](https://www.reddit.com/r/javascript/comments/18rhx12/askjs_i_encountered_a_very_strange_behavior_with/)
-- [Frontend predictions for 2024](https://www.reddit.com/r/javascript/comments/18rcc0s/frontend_predictions_for_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
