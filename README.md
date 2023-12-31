@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Executing Dangerously Injected Scripts Inside React Components](https://www.reddit.com/r/javascript/comments/18uo19k/executing_dangerously_injected_scripts_inside/)
+- [Why you should only use TypeScript](https://www.reddit.com/r/javascript/comments/18un9jn/why_you_should_only_use_typescript/)
+- [[AskJS] Service Worker...for a website?](https://www.reddit.com/r/javascript/comments/18uho51/askjs_service_workerfor_a_website/)
+- [Ready-made responsive modal component for shadcn/ui.](https://www.reddit.com/r/javascript/comments/18ufm21/readymade_responsive_modal_component_for_shadcnui/)
+- [I built a package that use dotenv, json-schema &lpar;ajv&rpar; to provide an open-source, type-safe runtime environment variable solution](https://www.reddit.com/r/javascript/comments/18ubzh1/i_built_a_package_that_use_dotenv_jsonschema_ajv/)
+- [Showoff Saturday &lpar;December 30, 2023&rpar;](https://www.reddit.com/r/javascript/comments/18uajzn/showoff_saturday_december_30_2023/)
 - [Let&#39;s Bring Back JavaScript&#39;s `with&lpar;&rpar;` Statement](https://www.reddit.com/r/javascript/comments/18ttkcy/lets_bring_back_javascripts_with_statement/)
 - [gRPC Devtools 1.9.0 has released - In addition to the method of interceptor registration, gRPC Devtools now injects the `__GRPCWEB_DEVTOOLS__` function into the window too, allowing you to seamlessly migrate to gRPC Devtools without the need to change any part of your code.](https://www.reddit.com/r/javascript/comments/18tibfk/grpc_devtools_190_has_released_in_addition_to_the/)
 - [Deep JS. In memory of data and types](https://www.reddit.com/r/javascript/comments/18thw1a/deep_js_in_memory_of_data_and_types/)
 - [wbn-sign using Web Cryptography API](https://www.reddit.com/r/javascript/comments/18thi71/wbnsign_using_web_cryptography_api/)
-- [React Native complete social dating app](https://www.reddit.com/r/javascript/comments/18sv5mn/react_native_complete_social_dating_app/)
-- [Beachpatrol: A CLI tool to replace and automate your everyday web browser.](https://www.reddit.com/r/javascript/comments/18sp0sy/beachpatrol_a_cli_tool_to_replace_and_automate/)
-- [Vite Github Pages Deployer](https://www.reddit.com/r/javascript/comments/18sb1pd/vite_github_pages_deployer/)
-- [iterativ / rekursiv](https://www.reddit.com/r/javascript/comments/18sa7rf/iterativ_rekursiv/)
-- [Building a high performant web application in edge runtime](https://www.reddit.com/r/javascript/comments/18s3olz/building_a_high_performant_web_application_in/)
-- [Future of Storybook in 2024](https://www.reddit.com/r/javascript/comments/18s1lul/future_of_storybook_in_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
