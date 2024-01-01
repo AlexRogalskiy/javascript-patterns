@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Fellow humans, it is 2024-01-01T00:00:00+00:00.](https://www.reddit.com/r/javascript/comments/18vkh95/fellow_humans_it_is_20240101t0000000000/)
+- [[AskJS] false positive webpack chunk load failures](https://www.reddit.com/r/javascript/comments/18vd8l0/askjs_false_positive_webpack_chunk_load_failures/)
+- [Install repositories from GitHub to node_modules for Deno](https://www.reddit.com/r/javascript/comments/18v7ts6/install_repositories_from_github_to_node_modules/)
+- [dealing with missing values](https://www.reddit.com/r/javascript/comments/18v4h5s/dealing_with_missing_values/)
+- [[AskJS] Potential security issues](https://www.reddit.com/r/javascript/comments/18ux3vk/askjs_potential_security_issues/)
 - [Executing Dangerously Injected Scripts Inside React Components](https://www.reddit.com/r/javascript/comments/18uo19k/executing_dangerously_injected_scripts_inside/)
 - [Why you should only use TypeScript](https://www.reddit.com/r/javascript/comments/18un9jn/why_you_should_only_use_typescript/)
 - [[AskJS] Service Worker...for a website?](https://www.reddit.com/r/javascript/comments/18uho51/askjs_service_workerfor_a_website/)
 - [Ready-made responsive modal component for shadcn/ui.](https://www.reddit.com/r/javascript/comments/18ufm21/readymade_responsive_modal_component_for_shadcnui/)
 - [I built a package that use dotenv, json-schema &lpar;ajv&rpar; to provide an open-source, type-safe runtime environment variable solution](https://www.reddit.com/r/javascript/comments/18ubzh1/i_built_a_package_that_use_dotenv_jsonschema_ajv/)
-- [Showoff Saturday &lpar;December 30, 2023&rpar;](https://www.reddit.com/r/javascript/comments/18uajzn/showoff_saturday_december_30_2023/)
-- [Let&#39;s Bring Back JavaScript&#39;s `with&lpar;&rpar;` Statement](https://www.reddit.com/r/javascript/comments/18ttkcy/lets_bring_back_javascripts_with_statement/)
-- [gRPC Devtools 1.9.0 has released - In addition to the method of interceptor registration, gRPC Devtools now injects the `__GRPCWEB_DEVTOOLS__` function into the window too, allowing you to seamlessly migrate to gRPC Devtools without the need to change any part of your code.](https://www.reddit.com/r/javascript/comments/18tibfk/grpc_devtools_190_has_released_in_addition_to_the/)
-- [Deep JS. In memory of data and types](https://www.reddit.com/r/javascript/comments/18thw1a/deep_js_in_memory_of_data_and_types/)
-- [wbn-sign using Web Cryptography API](https://www.reddit.com/r/javascript/comments/18thi71/wbnsign_using_web_cryptography_api/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
