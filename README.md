@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Image-carousel Web Component in Vanilla JavaScript](https://www.reddit.com/r/javascript/comments/18x5hrl/imagecarousel_web_component_in_vanilla_javascript/)
+- [A RES-like script that adds keyboard navigation in Lemmy](https://www.reddit.com/r/javascript/comments/18wyq5x/a_reslike_script_that_adds_keyboard_navigation_in/)
+- [Neutralinojs 2024 Roadmap](https://www.reddit.com/r/javascript/comments/18ws3hg/neutralinojs_2024_roadmap/)
+- [Was Javascript really made in 10 days?](https://www.reddit.com/r/javascript/comments/18wrhvy/was_javascript_really_made_in_10_days/)
+- [iOS Calculator Replica made with vanilla JavaScript](https://www.reddit.com/r/javascript/comments/18wjlun/ios_calculator_replica_made_with_vanilla/)
+- [My desktop-in-the-browser project just reached 1,000,000 users!](https://www.reddit.com/r/javascript/comments/18wikd0/my_desktopinthebrowser_project_just_reached/)
 - [Pokemon prototype game made with JavaScript + p5.js](https://www.reddit.com/r/javascript/comments/18w6is3/pokemon_prototype_game_made_with_javascript_p5js/)
 - [Page Replica – Tool for Web Scraping, Prerendering, and SEO Boost](https://www.reddit.com/r/javascript/comments/18w4nxy/page_replica_tool_for_web_scraping_prerendering/)
 - [Nx + Gitlab CI/CD - Leveraging &quot;push&quot; pipelines over &quot;merge_requests&quot; for a better workflow](https://www.reddit.com/r/javascript/comments/18w2c1r/nx_gitlab_cicd_leveraging_push_pipelines_over/)
 - [GitHub - hulkholden/n64js: An n64 emulator in JavaScript](https://www.reddit.com/r/javascript/comments/18vwq9y/github_hulkholdenn64js_an_n64_emulator_in/)
-- [Your /r/javascript recap for the week of December 25 - December 31](https://www.reddit.com/r/javascript/comments/18vtt7n/your_rjavascript_recap_for_the_week_of_december/)
-- [jQuery 4.0.0 is finished, pending official release](https://www.reddit.com/r/javascript/comments/18vsi2x/jquery_400_is_finished_pending_official_release/)
-- [So, this is basically my first time.](https://www.reddit.com/r/javascript/comments/18vq8gc/so_this_is_basically_my_first_time/)
-- [Open Web Advocacy 2023 in Review](https://www.reddit.com/r/javascript/comments/18vp2nr/open_web_advocacy_2023_in_review/)
-- [Fellow humans, it is 2024-01-01T00:00:00+00:00.](https://www.reddit.com/r/javascript/comments/18vkh95/fellow_humans_it_is_20240101t0000000000/)
-- [[AskJS] false positive webpack chunk load failures](https://www.reddit.com/r/javascript/comments/18vd8l0/askjs_false_positive_webpack_chunk_load_failures/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
