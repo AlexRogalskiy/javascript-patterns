@@ -292,6 +292,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Oracle introduces JavaScript support in MySQL](https://www.infoworld.com/article/3711862/oracle-introduces-javascript-support-in-mysql.html#tk.rss_javascript)
+- [Building tables in React: Get started with react-table](https://www.infoworld.com/article/3711740/building-tables-in-react-get-started-with-react-table.html#tk.rss_javascript)
 - [Intro to JSX: HTML that does JavaScript](https://www.infoworld.com/article/3711600/intro-to-jsx-html-that-does-javascript.html#tk.rss_javascript)
 - [The best new features in Angular 17: A kinder, faster Angular](https://www.infoworld.com/article/3711373/the-best-new-features-in-angular-17-a-kinder-faster-angular.html#tk.rss_javascript)
 - [Deno adds Deno Cron for job scheduling](https://www.infoworld.com/article/3711269/deno-adds-deno-cron-for-job-scheduling.html#tk.rss_javascript)
@@ -300,8 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Deno 1.38 features HTML documentation, hot module replacement](https://www.infoworld.com/article/3710148/deno-138-features-html-documentation-hot-module-replacement.html#tk.rss_javascript)
 - [Next.js 14 previews partial prerendering](https://www.infoworld.com/article/3709608/nextjs-14-previews-partial-prerendering.html#tk.rss_javascript)
 - [Using JavaScript&#39;s built-in objects](https://www.infoworld.com/article/2077150/using-javascript-s-built-in-objects.html#tk.rss_javascript)
-- [Node.js 21 brings WebSocket client](https://www.infoworld.com/article/3709068/nodejs-21-brings-websocket-client.html#tk.rss_javascript)
-- [Report finds few open source projects actively maintained](https://www.infoworld.com/article/3708630/report-finds-few-open-source-projects-actively-maintained.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
