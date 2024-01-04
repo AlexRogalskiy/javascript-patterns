@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Image-carousel Web Component in Vanilla JavaScript](https://www.reddit.com/r/javascript/comments/18x5hrl/imagecarousel_web_component_in_vanilla_javascript/)
-- [A RES-like script that adds keyboard navigation in Lemmy](https://www.reddit.com/r/javascript/comments/18wyq5x/a_reslike_script_that_adds_keyboard_navigation_in/)
-- [Neutralinojs 2024 Roadmap](https://www.reddit.com/r/javascript/comments/18ws3hg/neutralinojs_2024_roadmap/)
-- [Was Javascript really made in 10 days?](https://www.reddit.com/r/javascript/comments/18wrhvy/was_javascript_really_made_in_10_days/)
-- [iOS Calculator Replica made with vanilla JavaScript](https://www.reddit.com/r/javascript/comments/18wjlun/ios_calculator_replica_made_with_vanilla/)
-- [My desktop-in-the-browser project just reached 1,000,000 users!](https://www.reddit.com/r/javascript/comments/18wikd0/my_desktopinthebrowser_project_just_reached/)
-- [Pokemon prototype game made with JavaScript + p5.js](https://www.reddit.com/r/javascript/comments/18w6is3/pokemon_prototype_game_made_with_javascript_p5js/)
-- [Page Replica – Tool for Web Scraping, Prerendering, and SEO Boost](https://www.reddit.com/r/javascript/comments/18w4nxy/page_replica_tool_for_web_scraping_prerendering/)
-- [Nx + Gitlab CI/CD - Leveraging &quot;push&quot; pipelines over &quot;merge_requests&quot; for a better workflow](https://www.reddit.com/r/javascript/comments/18w2c1r/nx_gitlab_cicd_leveraging_push_pipelines_over/)
-- [GitHub - hulkholden/n64js: An n64 emulator in JavaScript](https://www.reddit.com/r/javascript/comments/18vwq9y/github_hulkholdenn64js_an_n64_emulator_in/)
+- [pkg-tools - An opinionated toolchain with a single typed configuration file.](https://www.reddit.com/r/javascript/comments/18xs5ch/pkgtools_an_opinionated_toolchain_with_a_single/)
+- [[AskJS] on a scale of 1-10, how hard is building a WYSIWYG editor from scratch?](https://www.reddit.com/r/javascript/comments/18xpyjf/askjs_on_a_scale_of_110_how_hard_is_building_a/)
+- [Vulnerable Regular Expressions in JavaScript](https://www.reddit.com/r/javascript/comments/18xph0l/vulnerable_regular_expressions_in_javascript/)
+- [[AskJS] PETITION: Make JSON.stringify use any object&#39;s toString method internally!](https://www.reddit.com/r/javascript/comments/18xjb2f/askjs_petition_make_jsonstringify_use_any_objects/)
+- [[AskJS] Is there an SSR Framework with React that doesn&#39;t involve their backend so I can use my own?](https://www.reddit.com/r/javascript/comments/18xikv3/askjs_is_there_an_ssr_framework_with_react_that/)
+- [Type-isomorphic framework for full-stack software architects built on top of Next.js public API](https://www.reddit.com/r/javascript/comments/18xi1x9/typeisomorphic_framework_for_fullstack_software/)
+- [WTF Wednesday &lpar;January 03, 2024&rpar;](https://www.reddit.com/r/javascript/comments/18xe3jq/wtf_wednesday_january_03_2024/)
+- [URL.canParse lands in all evergreen browsers](https://www.reddit.com/r/javascript/comments/18xc957/urlcanparse_lands_in_all_evergreen_browsers/)
+- [Deno dynamic import&lpar;&quot;./exports&quot;&rpar; throws module not found for &quot;exports.js&quot; dynamically created in the script](https://www.reddit.com/r/javascript/comments/18xbrpx/deno_dynamic_importexports_throws_module_not/)
+- [Status Page Batteries included built with Sveltekit](https://www.reddit.com/r/javascript/comments/18xbcxb/status_page_batteries_included_built_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
