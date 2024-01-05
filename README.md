@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [pkg-tools - An opinionated toolchain with a single typed configuration file.](https://www.reddit.com/r/javascript/comments/18xs5ch/pkgtools_an_opinionated_toolchain_with_a_single/)
-- [[AskJS] on a scale of 1-10, how hard is building a WYSIWYG editor from scratch?](https://www.reddit.com/r/javascript/comments/18xpyjf/askjs_on_a_scale_of_110_how_hard_is_building_a/)
-- [Vulnerable Regular Expressions in JavaScript](https://www.reddit.com/r/javascript/comments/18xph0l/vulnerable_regular_expressions_in_javascript/)
-- [[AskJS] PETITION: Make JSON.stringify use any object&#39;s toString method internally!](https://www.reddit.com/r/javascript/comments/18xjb2f/askjs_petition_make_jsonstringify_use_any_objects/)
-- [[AskJS] Is there an SSR Framework with React that doesn&#39;t involve their backend so I can use my own?](https://www.reddit.com/r/javascript/comments/18xikv3/askjs_is_there_an_ssr_framework_with_react_that/)
-- [Type-isomorphic framework for full-stack software architects built on top of Next.js public API](https://www.reddit.com/r/javascript/comments/18xi1x9/typeisomorphic_framework_for_fullstack_software/)
-- [WTF Wednesday &lpar;January 03, 2024&rpar;](https://www.reddit.com/r/javascript/comments/18xe3jq/wtf_wednesday_january_03_2024/)
-- [URL.canParse lands in all evergreen browsers](https://www.reddit.com/r/javascript/comments/18xc957/urlcanparse_lands_in_all_evergreen_browsers/)
-- [Deno dynamic import&lpar;&quot;./exports&quot;&rpar; throws module not found for &quot;exports.js&quot; dynamically created in the script](https://www.reddit.com/r/javascript/comments/18xbrpx/deno_dynamic_importexports_throws_module_not/)
-- [Status Page Batteries included built with Sveltekit](https://www.reddit.com/r/javascript/comments/18xbcxb/status_page_batteries_included_built_with/)
+- [The &quot;everything&quot; package that broke NPM &lpar;accidentally&rpar;](https://www.reddit.com/r/javascript/comments/18ynfmx/the_everything_package_that_broke_npm_accidentally/)
+- [Deep JS. Scopes of darkness or where variables live](https://www.reddit.com/r/javascript/comments/18yncfx/deep_js_scopes_of_darkness_or_where_variables_live/)
+- [How we do Rust-inspired, human-friendly error handling for JavaScript](https://www.reddit.com/r/javascript/comments/18ym14e/how_we_do_rustinspired_humanfriendly_error/)
+- [Pipeline Operator: How will function composition look in JavaScript in the future](https://www.reddit.com/r/javascript/comments/18ylwo6/pipeline_operator_how_will_function_composition/)
+- [SWE Internships and New Grad Job List for College Students](https://www.reddit.com/r/javascript/comments/18ykphs/swe_internships_and_new_grad_job_list_for_college/)
+- [How to publish WebAssembly packages for npm](https://www.reddit.com/r/javascript/comments/18yio7i/how_to_publish_webassembly_packages_for_npm/)
+- [2023 JavaScript Rising Stars](https://www.reddit.com/r/javascript/comments/18yiibq/2023_javascript_rising_stars/)
+- [SimSIMD: 10x Faster Vector Similarity Functions for f64, f32, f16, i8, and binary vectors using SIMD for both x86 AVX2 &amp; AVX-512 and Arm NEON &amp; SVE](https://www.reddit.com/r/javascript/comments/18yiat0/simsimd_10x_faster_vector_similarity_functions/)
+- [Speeding up the JavaScript Ecosystem](https://www.reddit.com/r/javascript/comments/18yfa2z/speeding_up_the_javascript_ecosystem/)
+- [[AskJS] Bug on Date.setUTCFullYear&lpar;&rpar; - Adds a year! - Any clue?](https://www.reddit.com/r/javascript/comments/18yf0q2/askjs_bug_on_datesetutcfullyear_adds_a_year_any/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
