@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ShikakuOfThe.Day - I made a daily shikaku puzzle game, check it out and let me know what you think](https://www.reddit.com/r/javascript/comments/18zjqfd/shikakuoftheday_i_made_a_daily_shikaku_puzzle/)
+- [main-thread-scheduling](https://www.reddit.com/r/javascript/comments/18zhh4b/mainthreadscheduling/)
+- [The Two Reacts — overreacted](https://www.reddit.com/r/javascript/comments/18zda52/the_two_reacts_overreacted/)
+- [[AskJS] Is Hostinger compatible with JS Frameworks ?](https://www.reddit.com/r/javascript/comments/18z40xe/askjs_is_hostinger_compatible_with_js_frameworks/)
+- [TomatoTester An Procedural Tag Color Changer for Debug](https://www.reddit.com/r/javascript/comments/18z3ukb/tomatotester_an_procedural_tag_color_changer_for/)
+- [Goodbye Node.js Buffer](https://www.reddit.com/r/javascript/comments/18yyktr/goodbye_nodejs_buffer/)
 - [The &quot;everything&quot; package that broke NPM &lpar;accidentally&rpar;](https://www.reddit.com/r/javascript/comments/18ynfmx/the_everything_package_that_broke_npm_accidentally/)
 - [Deep JS. Scopes of darkness or where variables live](https://www.reddit.com/r/javascript/comments/18yncfx/deep_js_scopes_of_darkness_or_where_variables_live/)
 - [How we do Rust-inspired, human-friendly error handling for JavaScript](https://www.reddit.com/r/javascript/comments/18ym14e/how_we_do_rustinspired_humanfriendly_error/)
 - [Pipeline Operator: How will function composition look in JavaScript in the future](https://www.reddit.com/r/javascript/comments/18ylwo6/pipeline_operator_how_will_function_composition/)
-- [SWE Internships and New Grad Job List for College Students](https://www.reddit.com/r/javascript/comments/18ykphs/swe_internships_and_new_grad_job_list_for_college/)
-- [How to publish WebAssembly packages for npm](https://www.reddit.com/r/javascript/comments/18yio7i/how_to_publish_webassembly_packages_for_npm/)
-- [2023 JavaScript Rising Stars](https://www.reddit.com/r/javascript/comments/18yiibq/2023_javascript_rising_stars/)
-- [SimSIMD: 10x Faster Vector Similarity Functions for f64, f32, f16, i8, and binary vectors using SIMD for both x86 AVX2 &amp; AVX-512 and Arm NEON &amp; SVE](https://www.reddit.com/r/javascript/comments/18yiat0/simsimd_10x_faster_vector_similarity_functions/)
-- [Speeding up the JavaScript Ecosystem](https://www.reddit.com/r/javascript/comments/18yfa2z/speeding_up_the_javascript_ecosystem/)
-- [[AskJS] Bug on Date.setUTCFullYear&lpar;&rpar; - Adds a year! - Any clue?](https://www.reddit.com/r/javascript/comments/18yf0q2/askjs_bug_on_datesetutcfullyear_adds_a_year_any/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
