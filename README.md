@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [You may not like this, but this is what peak SQL in JSX looks like](https://www.reddit.com/r/javascript/comments/18zyzmb/you_may_not_like_this_but_this_is_what_peak_sql/)
+- [Node.js CLI Apps Best Practices](https://www.reddit.com/r/javascript/comments/18zvzss/nodejs_cli_apps_best_practices/)
+- [Showoff Saturday &lpar;January 06, 2024&rpar;](https://www.reddit.com/r/javascript/comments/18zv0cj/showoff_saturday_january_06_2024/)
 - [ShikakuOfThe.Day - I made a daily shikaku puzzle game, check it out and let me know what you think](https://www.reddit.com/r/javascript/comments/18zjqfd/shikakuoftheday_i_made_a_daily_shikaku_puzzle/)
 - [main-thread-scheduling](https://www.reddit.com/r/javascript/comments/18zhh4b/mainthreadscheduling/)
 - [The Two Reacts — overreacted](https://www.reddit.com/r/javascript/comments/18zda52/the_two_reacts_overreacted/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [TomatoTester An Procedural Tag Color Changer for Debug](https://www.reddit.com/r/javascript/comments/18z3ukb/tomatotester_an_procedural_tag_color_changer_for/)
 - [Goodbye Node.js Buffer](https://www.reddit.com/r/javascript/comments/18yyktr/goodbye_nodejs_buffer/)
 - [The &quot;everything&quot; package that broke NPM &lpar;accidentally&rpar;](https://www.reddit.com/r/javascript/comments/18ynfmx/the_everything_package_that_broke_npm_accidentally/)
-- [Deep JS. Scopes of darkness or where variables live](https://www.reddit.com/r/javascript/comments/18yncfx/deep_js_scopes_of_darkness_or_where_variables_live/)
-- [How we do Rust-inspired, human-friendly error handling for JavaScript](https://www.reddit.com/r/javascript/comments/18ym14e/how_we_do_rustinspired_humanfriendly_error/)
-- [Pipeline Operator: How will function composition look in JavaScript in the future](https://www.reddit.com/r/javascript/comments/18ylwo6/pipeline_operator_how_will_function_composition/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
