@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Create Before After video from images](https://www.reddit.com/r/javascript/comments/19151eh/create_before_after_video_from_images/)
+- [Prompt Engineering: The Definitive Step-By-Step How to Guide](https://www.reddit.com/r/javascript/comments/1914g8h/prompt_engineering_the_definitive_stepbystep_how/)
+- [JSON&#39;s Numeric Boundaries: The Lesser-Known Reality of Inaccurate Figures](https://www.reddit.com/r/javascript/comments/190omxv/jsons_numeric_boundaries_the_lesserknown_reality/)
+- [Hopping over and tunneling under gates to get keys](https://www.reddit.com/r/javascript/comments/190j572/hopping_over_and_tunneling_under_gates_to_get_keys/)
 - [You may not like this, but this is what peak SQL in JSX looks like](https://www.reddit.com/r/javascript/comments/18zyzmb/you_may_not_like_this_but_this_is_what_peak_sql/)
 - [Node.js CLI Apps Best Practices](https://www.reddit.com/r/javascript/comments/18zvzss/nodejs_cli_apps_best_practices/)
 - [Showoff Saturday &lpar;January 06, 2024&rpar;](https://www.reddit.com/r/javascript/comments/18zv0cj/showoff_saturday_january_06_2024/)
 - [ShikakuOfThe.Day - I made a daily shikaku puzzle game, check it out and let me know what you think](https://www.reddit.com/r/javascript/comments/18zjqfd/shikakuoftheday_i_made_a_daily_shikaku_puzzle/)
 - [main-thread-scheduling](https://www.reddit.com/r/javascript/comments/18zhh4b/mainthreadscheduling/)
 - [The Two Reacts — overreacted](https://www.reddit.com/r/javascript/comments/18zda52/the_two_reacts_overreacted/)
-- [[AskJS] Is Hostinger compatible with JS Frameworks ?](https://www.reddit.com/r/javascript/comments/18z40xe/askjs_is_hostinger_compatible_with_js_frameworks/)
-- [TomatoTester An Procedural Tag Color Changer for Debug](https://www.reddit.com/r/javascript/comments/18z3ukb/tomatotester_an_procedural_tag_color_changer_for/)
-- [Goodbye Node.js Buffer](https://www.reddit.com/r/javascript/comments/18yyktr/goodbye_nodejs_buffer/)
-- [The &quot;everything&quot; package that broke NPM &lpar;accidentally&rpar;](https://www.reddit.com/r/javascript/comments/18ynfmx/the_everything_package_that_broke_npm_accidentally/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
