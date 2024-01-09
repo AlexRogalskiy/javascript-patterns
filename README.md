@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Need your help by starring my GITHUB JavaScript Repo](https://www.reddit.com/r/javascript/comments/191z7zb/askjs_need_your_help_by_starring_my_github/)
+- [[AskJS] Need Help with API connection to LED Ticker](https://www.reddit.com/r/javascript/comments/191uutb/askjs_need_help_with_api_connection_to_led_ticker/)
+- [&lpar;opensource primer&rpar; Practical AI Application Development for Javascript Developers](https://www.reddit.com/r/javascript/comments/191rg8b/opensource_primer_practical_ai_application/)
+- [How Marketing Changed OOP In JavaScript](https://www.reddit.com/r/javascript/comments/191ojug/how_marketing_changed_oop_in_javascript/)
+- [Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!](https://www.reddit.com/r/javascript/comments/191lxcn/find_unused_files_dependencies_and_exports_in/)
+- [[AskJS] recommend me a React SSR Framework or Library that integrates well with existing Node.js server](https://www.reddit.com/r/javascript/comments/191jzaa/askjs_recommend_me_a_react_ssr_framework_or/)
+- [Help with predicate](https://www.reddit.com/r/javascript/comments/191i4eq/help_with_predicate/)
+- [Your /r/javascript recap for the week of January 01 - January 07](https://www.reddit.com/r/javascript/comments/191hw6x/your_rjavascript_recap_for_the_week_of_january_01/)
 - [Create Before After video from images](https://www.reddit.com/r/javascript/comments/19151eh/create_before_after_video_from_images/)
 - [Prompt Engineering: The Definitive Step-By-Step How to Guide](https://www.reddit.com/r/javascript/comments/1914g8h/prompt_engineering_the_definitive_stepbystep_how/)
-- [JSON&#39;s Numeric Boundaries: The Lesser-Known Reality of Inaccurate Figures](https://www.reddit.com/r/javascript/comments/190omxv/jsons_numeric_boundaries_the_lesserknown_reality/)
-- [Hopping over and tunneling under gates to get keys](https://www.reddit.com/r/javascript/comments/190j572/hopping_over_and_tunneling_under_gates_to_get_keys/)
-- [You may not like this, but this is what peak SQL in JSX looks like](https://www.reddit.com/r/javascript/comments/18zyzmb/you_may_not_like_this_but_this_is_what_peak_sql/)
-- [Node.js CLI Apps Best Practices](https://www.reddit.com/r/javascript/comments/18zvzss/nodejs_cli_apps_best_practices/)
-- [Showoff Saturday &lpar;January 06, 2024&rpar;](https://www.reddit.com/r/javascript/comments/18zv0cj/showoff_saturday_january_06_2024/)
-- [ShikakuOfThe.Day - I made a daily shikaku puzzle game, check it out and let me know what you think](https://www.reddit.com/r/javascript/comments/18zjqfd/shikakuoftheday_i_made_a_daily_shikaku_puzzle/)
-- [main-thread-scheduling](https://www.reddit.com/r/javascript/comments/18zhh4b/mainthreadscheduling/)
-- [The Two Reacts — overreacted](https://www.reddit.com/r/javascript/comments/18zda52/the_two_reacts_overreacted/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
