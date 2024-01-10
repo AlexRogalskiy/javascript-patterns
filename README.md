@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I made an open-source platform like Dribble for developers and designers](https://www.reddit.com/r/javascript/comments/192k6nr/i_made_an_opensource_platform_like_dribble_for/)
+- [Jugly.io, the JavaScript code golfing plateforme. Solve simple problems in js and compete for the shortest code](https://www.reddit.com/r/javascript/comments/192elio/juglyio_the_javascript_code_golfing_plateforme/)
+- [workspaces-publish: A library that facilitates the publication of packages encompassing multiple workspaces as defined in a package.json. At best, it should be used with a library that increments the version of the packages beforehand &lpar;e.g. release-please&rpar;.](https://www.reddit.com/r/javascript/comments/192b6vu/workspacespublish_a_library_that_facilitates_the/)
+- [MikroORM 6: Polished](https://www.reddit.com/r/javascript/comments/192a4yy/mikroorm_6_polished/)
+- [Adding Google Fonts to Next.js 14 in Three Ways: A Step-by-Step Guide](https://www.reddit.com/r/javascript/comments/1928o0h/adding_google_fonts_to_nextjs_14_in_three_ways_a/)
+- [A Real World React -&gt; htmx Port](https://www.reddit.com/r/javascript/comments/1924gxf/a_real_world_react_htmx_port/)
+- [[AskJS] What is the state of the art of Clean Javascript &lpar;Tools/Code&rpar; in 2024 [No TS]](https://www.reddit.com/r/javascript/comments/192379m/askjs_what_is_the_state_of_the_art_of_clean/)
 - [[AskJS] Need your help by starring my GITHUB JavaScript Repo](https://www.reddit.com/r/javascript/comments/191z7zb/askjs_need_your_help_by_starring_my_github/)
 - [[AskJS] Need Help with API connection to LED Ticker](https://www.reddit.com/r/javascript/comments/191uutb/askjs_need_help_with_api_connection_to_led_ticker/)
 - [&lpar;opensource primer&rpar; Practical AI Application Development for Javascript Developers](https://www.reddit.com/r/javascript/comments/191rg8b/opensource_primer_practical_ai_application/)
-- [How Marketing Changed OOP In JavaScript](https://www.reddit.com/r/javascript/comments/191ojug/how_marketing_changed_oop_in_javascript/)
-- [Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!](https://www.reddit.com/r/javascript/comments/191lxcn/find_unused_files_dependencies_and_exports_in/)
-- [[AskJS] recommend me a React SSR Framework or Library that integrates well with existing Node.js server](https://www.reddit.com/r/javascript/comments/191jzaa/askjs_recommend_me_a_react_ssr_framework_or/)
-- [Help with predicate](https://www.reddit.com/r/javascript/comments/191i4eq/help_with_predicate/)
-- [Your /r/javascript recap for the week of January 01 - January 07](https://www.reddit.com/r/javascript/comments/191hw6x/your_rjavascript_recap_for_the_week_of_january_01/)
-- [Create Before After video from images](https://www.reddit.com/r/javascript/comments/19151eh/create_before_after_video_from_images/)
-- [Prompt Engineering: The Definitive Step-By-Step How to Guide](https://www.reddit.com/r/javascript/comments/1914g8h/prompt_engineering_the_definitive_stepbystep_how/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
