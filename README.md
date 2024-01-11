@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I made an open-source platform like Dribble for developers and designers](https://www.reddit.com/r/javascript/comments/192k6nr/i_made_an_opensource_platform_like_dribble_for/)
-- [Jugly.io, the JavaScript code golfing plateforme. Solve simple problems in js and compete for the shortest code](https://www.reddit.com/r/javascript/comments/192elio/juglyio_the_javascript_code_golfing_plateforme/)
-- [workspaces-publish: A library that facilitates the publication of packages encompassing multiple workspaces as defined in a package.json. At best, it should be used with a library that increments the version of the packages beforehand &lpar;e.g. release-please&rpar;.](https://www.reddit.com/r/javascript/comments/192b6vu/workspacespublish_a_library_that_facilitates_the/)
-- [MikroORM 6: Polished](https://www.reddit.com/r/javascript/comments/192a4yy/mikroorm_6_polished/)
-- [Adding Google Fonts to Next.js 14 in Three Ways: A Step-by-Step Guide](https://www.reddit.com/r/javascript/comments/1928o0h/adding_google_fonts_to_nextjs_14_in_three_ways_a/)
-- [A Real World React -&gt; htmx Port](https://www.reddit.com/r/javascript/comments/1924gxf/a_real_world_react_htmx_port/)
-- [[AskJS] What is the state of the art of Clean Javascript &lpar;Tools/Code&rpar; in 2024 [No TS]](https://www.reddit.com/r/javascript/comments/192379m/askjs_what_is_the_state_of_the_art_of_clean/)
-- [[AskJS] Need your help by starring my GITHUB JavaScript Repo](https://www.reddit.com/r/javascript/comments/191z7zb/askjs_need_your_help_by_starring_my_github/)
-- [[AskJS] Need Help with API connection to LED Ticker](https://www.reddit.com/r/javascript/comments/191uutb/askjs_need_help_with_api_connection_to_led_ticker/)
-- [&lpar;opensource primer&rpar; Practical AI Application Development for Javascript Developers](https://www.reddit.com/r/javascript/comments/191rg8b/opensource_primer_practical_ai_application/)
+- [A simple Dostoevsky quote scraper I wrote along with a tutorial about scraping in the README, would love feedback both positive and negative! I am relatively new to Javascript](https://www.reddit.com/r/javascript/comments/193pr82/a_simple_dostoevsky_quote_scraper_i_wrote_along/)
+- [The usual local storage but better, with auto data encryption?](https://www.reddit.com/r/javascript/comments/193onxz/the_usual_local_storage_but_better_with_auto_data/)
+- [Biggest package on npm? 5.96 GB! Longest npm package name? 214 characters! Package with the most maintainers? 554 maintainers!](https://www.reddit.com/r/javascript/comments/193m7kl/biggest_package_on_npm_596_gb_longest_npm_package/)
+- [Building an AI tool for large codebases, give it a try below!](https://www.reddit.com/r/javascript/comments/193lr8v/building_an_ai_tool_for_large_codebases_give_it_a/)
+- [Help needed with while loops](https://www.reddit.com/r/javascript/comments/193k354/help_needed_with_while_loops/)
+- [How Javascript modules work](https://www.reddit.com/r/javascript/comments/193gx61/how_javascript_modules_work/)
+- [[AskJS] Is there an event for when a user hits the browser‘s share button on mobile?](https://www.reddit.com/r/javascript/comments/193g3tg/askjs_is_there_an_event_for_when_a_user_hits_the/)
+- [[AskJS] SpeechRecognition API not working for single words](https://www.reddit.com/r/javascript/comments/193fr41/askjs_speechrecognition_api_not_working_for/)
+- [remoteStorage: a simple library that combines the localStorage API with a remote server to persist data across browsers and devices](https://www.reddit.com/r/javascript/comments/193cmzw/remotestorage_a_simple_library_that_combines_the/)
+- [Why Use Mock Service Worker in 2024?](https://www.reddit.com/r/javascript/comments/193bgxy/why_use_mock_service_worker_in_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
