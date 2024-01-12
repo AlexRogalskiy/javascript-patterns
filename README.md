@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [A simple Dostoevsky quote scraper I wrote along with a tutorial about scraping in the README, would love feedback both positive and negative! I am relatively new to Javascript](https://www.reddit.com/r/javascript/comments/193pr82/a_simple_dostoevsky_quote_scraper_i_wrote_along/)
-- [The usual local storage but better, with auto data encryption?](https://www.reddit.com/r/javascript/comments/193onxz/the_usual_local_storage_but_better_with_auto_data/)
-- [Biggest package on npm? 5.96 GB! Longest npm package name? 214 characters! Package with the most maintainers? 554 maintainers!](https://www.reddit.com/r/javascript/comments/193m7kl/biggest_package_on_npm_596_gb_longest_npm_package/)
-- [Building an AI tool for large codebases, give it a try below!](https://www.reddit.com/r/javascript/comments/193lr8v/building_an_ai_tool_for_large_codebases_give_it_a/)
-- [Help needed with while loops](https://www.reddit.com/r/javascript/comments/193k354/help_needed_with_while_loops/)
-- [How Javascript modules work](https://www.reddit.com/r/javascript/comments/193gx61/how_javascript_modules_work/)
-- [[AskJS] Is there an event for when a user hits the browser‘s share button on mobile?](https://www.reddit.com/r/javascript/comments/193g3tg/askjs_is_there_an_event_for_when_a_user_hits_the/)
-- [[AskJS] SpeechRecognition API not working for single words](https://www.reddit.com/r/javascript/comments/193fr41/askjs_speechrecognition_api_not_working_for/)
-- [remoteStorage: a simple library that combines the localStorage API with a remote server to persist data across browsers and devices](https://www.reddit.com/r/javascript/comments/193cmzw/remotestorage_a_simple_library_that_combines_the/)
-- [Why Use Mock Service Worker in 2024?](https://www.reddit.com/r/javascript/comments/193bgxy/why_use_mock_service_worker_in_2024/)
+- [Sutra.js - Fluent Behavior Trees for JavaScript Game Development](https://www.reddit.com/r/javascript/comments/194e8ef/sutrajs_fluent_behavior_trees_for_javascript_game/)
+- [[AskJS] Reasons for &#39;ResizeObserver&#39; not defined when using Chart .js](https://www.reddit.com/r/javascript/comments/194dl7f/askjs_reasons_for_resizeobserver_not_defined_when/)
+- [Banditstash: extensible localStorage wrapper in under 500 bytes](https://www.reddit.com/r/javascript/comments/1945vwy/banditstash_extensible_localstorage_wrapper_in/)
+- [A Beginner’s Guide to Storybook 7](https://www.reddit.com/r/javascript/comments/1945ivf/a_beginners_guide_to_storybook_7/)
+- [EverShop - Javascript eCommerce platform version 1.0.0 is released](https://www.reddit.com/r/javascript/comments/1944ri6/evershop_javascript_ecommerce_platform_version/)
+- [My Love/Hate Relationship With JavaScript](https://www.reddit.com/r/javascript/comments/1944ain/my_lovehate_relationship_with_javascript/)
+- [[AskJS] Any experience with cropperjs?](https://www.reddit.com/r/javascript/comments/1943f4y/askjs_any_experience_with_cropperjs/)
+- [JavaScript Reduce - A Complete Guide to the Only JS Array Function You Really Need](https://www.reddit.com/r/javascript/comments/1943ex0/javascript_reduce_a_complete_guide_to_the_only_js/)
+- [Reposted: How I Made A Super Charged Local Storage Utility With Auto Data Encryption?](https://www.reddit.com/r/javascript/comments/1941b47/reposted_how_i_made_a_super_charged_local_storage/)
+- [Transitioning from JavaScript to TypeScript: A Guide for JavaScript Developers](https://www.reddit.com/r/javascript/comments/193zc34/transitioning_from_javascript_to_typescript_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
