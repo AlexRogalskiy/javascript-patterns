@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Create Before After video , Gif from images](https://www.reddit.com/r/javascript/comments/195apmh/create_before_after_video_gif_from_images/)
+- [SWE Open Roles for College Students](https://www.reddit.com/r/javascript/comments/19595q0/swe_open_roles_for_college_students/)
+- [Seniman.JS: Stream JSX components from Node.JS to the browser through WebSocket](https://www.reddit.com/r/javascript/comments/194veh6/senimanjs_stream_jsx_components_from_nodejs_to/)
+- [Lightweight, open-source AI gateway to 100 LLMs](https://www.reddit.com/r/javascript/comments/194tpum/lightweight_opensource_ai_gateway_to_100_llms/)
+- [[AskJS] Is there a script or library that substitutes Uint8Array and DataView equaivalent of Node.js Buffer references in scripts? Or is this a write by hand task?](https://www.reddit.com/r/javascript/comments/194kbdu/askjs_is_there_a_script_or_library_that/)
 - [Sutra.js - Fluent Behavior Trees for JavaScript Game Development](https://www.reddit.com/r/javascript/comments/194e8ef/sutrajs_fluent_behavior_trees_for_javascript_game/)
 - [[AskJS] Reasons for &#39;ResizeObserver&#39; not defined when using Chart .js](https://www.reddit.com/r/javascript/comments/194dl7f/askjs_reasons_for_resizeobserver_not_defined_when/)
 - [Banditstash: extensible localStorage wrapper in under 500 bytes](https://www.reddit.com/r/javascript/comments/1945vwy/banditstash_extensible_localstorage_wrapper_in/)
 - [A Beginner’s Guide to Storybook 7](https://www.reddit.com/r/javascript/comments/1945ivf/a_beginners_guide_to_storybook_7/)
 - [EverShop - Javascript eCommerce platform version 1.0.0 is released](https://www.reddit.com/r/javascript/comments/1944ri6/evershop_javascript_ecommerce_platform_version/)
-- [My Love/Hate Relationship With JavaScript](https://www.reddit.com/r/javascript/comments/1944ain/my_lovehate_relationship_with_javascript/)
-- [[AskJS] Any experience with cropperjs?](https://www.reddit.com/r/javascript/comments/1943f4y/askjs_any_experience_with_cropperjs/)
-- [JavaScript Reduce - A Complete Guide to the Only JS Array Function You Really Need](https://www.reddit.com/r/javascript/comments/1943ex0/javascript_reduce_a_complete_guide_to_the_only_js/)
-- [Reposted: How I Made A Super Charged Local Storage Utility With Auto Data Encryption?](https://www.reddit.com/r/javascript/comments/1941b47/reposted_how_i_made_a_super_charged_local_storage/)
-- [Transitioning from JavaScript to TypeScript: A Guide for JavaScript Developers](https://www.reddit.com/r/javascript/comments/193zc34/transitioning_from_javascript_to_typescript_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
