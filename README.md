@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Typescript: Field masks - construct type based on input parameter](https://www.reddit.com/r/javascript/comments/1964g4c/typescript_field_masks_construct_type_based_on/)
+- [Learn to calculate the weekday of any past or future date within seconds. I made whattheday.com to help people learn a cool new skill.](https://www.reddit.com/r/javascript/comments/195u1te/learn_to_calculate_the_weekday_of_any_past_or/)
+- [[AskJS] Any API to get data about a book with the ISBN](https://www.reddit.com/r/javascript/comments/195ttgn/askjs_any_api_to_get_data_about_a_book_with_the/)
+- [[AskJS] Thoughts/Need for deep tracking function times?](https://www.reddit.com/r/javascript/comments/195takt/askjs_thoughtsneed_for_deep_tracking_function/)
+- [Writing Components That Work In Any Frontend Framework](https://www.reddit.com/r/javascript/comments/195oz4r/writing_components_that_work_in_any_frontend/)
+- [How to Use ChatGPT for JavaScript Programming](https://www.reddit.com/r/javascript/comments/195ovto/how_to_use_chatgpt_for_javascript_programming/)
+- [Showoff Saturday &lpar;January 13, 2024&rpar;](https://www.reddit.com/r/javascript/comments/195j0ja/showoff_saturday_january_13_2024/)
 - [Create Before After video , Gif from images](https://www.reddit.com/r/javascript/comments/195apmh/create_before_after_video_gif_from_images/)
 - [SWE Open Roles for College Students](https://www.reddit.com/r/javascript/comments/19595q0/swe_open_roles_for_college_students/)
 - [Seniman.JS: Stream JSX components from Node.JS to the browser through WebSocket](https://www.reddit.com/r/javascript/comments/194veh6/senimanjs_stream_jsx_components_from_nodejs_to/)
-- [Lightweight, open-source AI gateway to 100 LLMs](https://www.reddit.com/r/javascript/comments/194tpum/lightweight_opensource_ai_gateway_to_100_llms/)
-- [[AskJS] Is there a script or library that substitutes Uint8Array and DataView equaivalent of Node.js Buffer references in scripts? Or is this a write by hand task?](https://www.reddit.com/r/javascript/comments/194kbdu/askjs_is_there_a_script_or_library_that/)
-- [Sutra.js - Fluent Behavior Trees for JavaScript Game Development](https://www.reddit.com/r/javascript/comments/194e8ef/sutrajs_fluent_behavior_trees_for_javascript_game/)
-- [[AskJS] Reasons for &#39;ResizeObserver&#39; not defined when using Chart .js](https://www.reddit.com/r/javascript/comments/194dl7f/askjs_reasons_for_resizeobserver_not_defined_when/)
-- [Banditstash: extensible localStorage wrapper in under 500 bytes](https://www.reddit.com/r/javascript/comments/1945vwy/banditstash_extensible_localstorage_wrapper_in/)
-- [A Beginner’s Guide to Storybook 7](https://www.reddit.com/r/javascript/comments/1945ivf/a_beginners_guide_to_storybook_7/)
-- [EverShop - Javascript eCommerce platform version 1.0.0 is released](https://www.reddit.com/r/javascript/comments/1944ri6/evershop_javascript_ecommerce_platform_version/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
