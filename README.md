@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] - Best Learning Repo in the World?](https://www.reddit.com/r/javascript/comments/196vgng/askjs_best_learning_repo_in_the_world/)
+- [Oxlint, a future replacement for ESLint?](https://www.reddit.com/r/javascript/comments/196uktm/oxlint_a_future_replacement_for_eslint/)
+- [An IDOR vulnerability was discovered in Clerk&#39;s Next.js SDK, what is it exactly?](https://www.reddit.com/r/javascript/comments/196ko1v/an_idor_vulnerability_was_discovered_in_clerks/)
+- [The await event horizon in JavaScript](https://www.reddit.com/r/javascript/comments/196j534/the_await_event_horizon_in_javascript/)
+- [JavaScript Development FAQ](https://www.reddit.com/r/javascript/comments/196huz4/javascript_development_faq/)
+- [BuildAnything: Generate any HTML page/app and see it stream to completion in real-time](https://www.reddit.com/r/javascript/comments/196hfd9/buildanything_generate_any_html_pageapp_and_see/)
+- [Protect Website Code: Disable Dev Tools with JS](https://www.reddit.com/r/javascript/comments/196ght8/protect_website_code_disable_dev_tools_with_js/)
 - [Typescript: Field masks - construct type based on input parameter](https://www.reddit.com/r/javascript/comments/1964g4c/typescript_field_masks_construct_type_based_on/)
 - [Learn to calculate the weekday of any past or future date within seconds. I made whattheday.com to help people learn a cool new skill.](https://www.reddit.com/r/javascript/comments/195u1te/learn_to_calculate_the_weekday_of_any_past_or/)
 - [[AskJS] Any API to get data about a book with the ISBN](https://www.reddit.com/r/javascript/comments/195ttgn/askjs_any_api_to_get_data_about_a_book_with_the/)
-- [[AskJS] Thoughts/Need for deep tracking function times?](https://www.reddit.com/r/javascript/comments/195takt/askjs_thoughtsneed_for_deep_tracking_function/)
-- [Writing Components That Work In Any Frontend Framework](https://www.reddit.com/r/javascript/comments/195oz4r/writing_components_that_work_in_any_frontend/)
-- [How to Use ChatGPT for JavaScript Programming](https://www.reddit.com/r/javascript/comments/195ovto/how_to_use_chatgpt_for_javascript_programming/)
-- [Showoff Saturday &lpar;January 13, 2024&rpar;](https://www.reddit.com/r/javascript/comments/195j0ja/showoff_saturday_january_13_2024/)
-- [Create Before After video , Gif from images](https://www.reddit.com/r/javascript/comments/195apmh/create_before_after_video_gif_from_images/)
-- [SWE Open Roles for College Students](https://www.reddit.com/r/javascript/comments/19595q0/swe_open_roles_for_college_students/)
-- [Seniman.JS: Stream JSX components from Node.JS to the browser through WebSocket](https://www.reddit.com/r/javascript/comments/194veh6/senimanjs_stream_jsx_components_from_nodejs_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
