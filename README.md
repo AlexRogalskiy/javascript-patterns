@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Orbital Object Toolkit - Orbital Mechanics made easy](https://www.reddit.com/r/javascript/comments/197p3di/orbital_object_toolkit_orbital_mechanics_made_easy/)
+- [Making Sense Of “Senseless” JavaScript Features](https://www.reddit.com/r/javascript/comments/197gtpp/making_sense_of_senseless_javascript_features/)
+- [Ajel - a set of functions and linter that encourage handling errors similarly to Golang](https://www.reddit.com/r/javascript/comments/197ft0i/ajel_a_set_of_functions_and_linter_that_encourage/)
+- [[AskJS] Scalable UI libraries for form automation and surveying with native support for React, Angular, Vue3.](https://www.reddit.com/r/javascript/comments/197efoi/askjs_scalable_ui_libraries_for_form_automation/)
+- [LETTERSET, a daily word game I made inspired by Scrabble. Would greatly appreciate some feedback!](https://www.reddit.com/r/javascript/comments/197a5wh/letterset_a_daily_word_game_i_made_inspired_by/)
+- [Plotteus | The JavaScript library for data storytelling](https://www.reddit.com/r/javascript/comments/19768gp/plotteus_the_javascript_library_for_data/)
+- [Your /r/javascript recap for the week of January 08 - January 14](https://www.reddit.com/r/javascript/comments/1975c5v/your_rjavascript_recap_for_the_week_of_january_08/)
+- [[AskJS] Conceptual Doubt related to &#39;var&#39; keyword](https://www.reddit.com/r/javascript/comments/1973vmv/askjs_conceptual_doubt_related_to_var_keyword/)
 - [[AskJS] - Best Learning Repo in the World?](https://www.reddit.com/r/javascript/comments/196vgng/askjs_best_learning_repo_in_the_world/)
 - [Oxlint, a future replacement for ESLint?](https://www.reddit.com/r/javascript/comments/196uktm/oxlint_a_future_replacement_for_eslint/)
-- [An IDOR vulnerability was discovered in Clerk&#39;s Next.js SDK, what is it exactly?](https://www.reddit.com/r/javascript/comments/196ko1v/an_idor_vulnerability_was_discovered_in_clerks/)
-- [The await event horizon in JavaScript](https://www.reddit.com/r/javascript/comments/196j534/the_await_event_horizon_in_javascript/)
-- [JavaScript Development FAQ](https://www.reddit.com/r/javascript/comments/196huz4/javascript_development_faq/)
-- [BuildAnything: Generate any HTML page/app and see it stream to completion in real-time](https://www.reddit.com/r/javascript/comments/196hfd9/buildanything_generate_any_html_pageapp_and_see/)
-- [Protect Website Code: Disable Dev Tools with JS](https://www.reddit.com/r/javascript/comments/196ght8/protect_website_code_disable_dev_tools_with_js/)
-- [Typescript: Field masks - construct type based on input parameter](https://www.reddit.com/r/javascript/comments/1964g4c/typescript_field_masks_construct_type_based_on/)
-- [Learn to calculate the weekday of any past or future date within seconds. I made whattheday.com to help people learn a cool new skill.](https://www.reddit.com/r/javascript/comments/195u1te/learn_to_calculate_the_weekday_of_any_past_or/)
-- [[AskJS] Any API to get data about a book with the ISBN](https://www.reddit.com/r/javascript/comments/195ttgn/askjs_any_api_to_get_data_about_a_book_with_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
