@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Orbital Object Toolkit - Orbital Mechanics made easy](https://www.reddit.com/r/javascript/comments/197p3di/orbital_object_toolkit_orbital_mechanics_made_easy/)
-- [Making Sense Of “Senseless” JavaScript Features](https://www.reddit.com/r/javascript/comments/197gtpp/making_sense_of_senseless_javascript_features/)
-- [Ajel - a set of functions and linter that encourage handling errors similarly to Golang](https://www.reddit.com/r/javascript/comments/197ft0i/ajel_a_set_of_functions_and_linter_that_encourage/)
-- [[AskJS] Scalable UI libraries for form automation and surveying with native support for React, Angular, Vue3.](https://www.reddit.com/r/javascript/comments/197efoi/askjs_scalable_ui_libraries_for_form_automation/)
-- [LETTERSET, a daily word game I made inspired by Scrabble. Would greatly appreciate some feedback!](https://www.reddit.com/r/javascript/comments/197a5wh/letterset_a_daily_word_game_i_made_inspired_by/)
-- [Plotteus | The JavaScript library for data storytelling](https://www.reddit.com/r/javascript/comments/19768gp/plotteus_the_javascript_library_for_data/)
-- [Your /r/javascript recap for the week of January 08 - January 14](https://www.reddit.com/r/javascript/comments/1975c5v/your_rjavascript_recap_for_the_week_of_january_08/)
-- [[AskJS] Conceptual Doubt related to &#39;var&#39; keyword](https://www.reddit.com/r/javascript/comments/1973vmv/askjs_conceptual_doubt_related_to_var_keyword/)
-- [[AskJS] - Best Learning Repo in the World?](https://www.reddit.com/r/javascript/comments/196vgng/askjs_best_learning_repo_in_the_world/)
-- [Oxlint, a future replacement for ESLint?](https://www.reddit.com/r/javascript/comments/196uktm/oxlint_a_future_replacement_for_eslint/)
+- [[AskJS] what is the most performant nowadays?](https://www.reddit.com/r/javascript/comments/198j26y/askjs_what_is_the_most_performant_nowadays/)
+- [Let&#39;s learn Shopping Mall Architecture of Relational Database](https://www.reddit.com/r/javascript/comments/198i8o8/lets_learn_shopping_mall_architecture_of/)
+- [Etch-a-sketch Project](https://www.reddit.com/r/javascript/comments/198gm6c/etchasketch_project/)
+- [Viewing console logs visually in javascript through the function call stack &lpar;Svelte / But easily reproducible in plain JS&rpar;](https://www.reddit.com/r/javascript/comments/198adg6/viewing_console_logs_visually_in_javascript/)
+- [I Made a Tool for Visualizing Code Entropy With a 3D Force-Directed Graph in JavaScript Code Bases](https://www.reddit.com/r/javascript/comments/1988zky/i_made_a_tool_for_visualizing_code_entropy_with_a/)
+- [Bencher v0.4 Released: Continuous Benchmarking in JS](https://www.reddit.com/r/javascript/comments/1987wg8/bencher_v04_released_continuous_benchmarking_in_js/)
+- [Google Chrome&#39;s Third-Party Cookie Phase-Out: What You Need to Know](https://www.reddit.com/r/javascript/comments/1985zn8/google_chromes_thirdparty_cookie_phaseout_what/)
+- [ILLA Cloud: A product designed to assist engineers in rapidly constructing Admin Panels, Data Dashboards, and Web UIs](https://www.reddit.com/r/javascript/comments/1982xxf/illa_cloud_a_product_designed_to_assist_engineers/)
+- [&quot;The Golden Rule of Assertions&quot;](https://www.reddit.com/r/javascript/comments/1981yi1/the_golden_rule_of_assertions/)
+- [2024 Predictions by JavaScript Frontend Framework Maintainers](https://www.reddit.com/r/javascript/comments/1980ejm/2024_predictions_by_javascript_frontend_framework/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
