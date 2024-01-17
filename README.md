@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Microsoft Blazor adds SortableJS for drag-and-drop lists](https://www.infoworld.com/article/3712301/microsoft-blazor-adds-sortablejs-for-drag-and-drop-lists.html#tk.rss_javascript)
 - [Vue framework speeds template parsing, improves reactivity](https://www.infoworld.com/article/3712182/vue-framework-speeds-template-parsing-improves-reactivity.html#tk.rss_javascript)
 - [Astro web framework adds accessibility audit rules](https://www.infoworld.com/article/3712080/astro-web-framework-adds-accessibility-audit-rules.html#tk.rss_javascript)
 - [Oracle introduces JavaScript support in MySQL](https://www.infoworld.com/article/3711862/oracle-introduces-javascript-support-in-mysql.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Deno adds Deno Cron for job scheduling](https://www.infoworld.com/article/3711269/deno-adds-deno-cron-for-job-scheduling.html#tk.rss_javascript)
 - [TypeScript 5.3 arrives with support for import attributes](https://www.infoworld.com/article/3708188/typescript-53-arrives-with-support-for-import-attributes.html#tk.rss_javascript)
 - [Angular 17 previews control flow, better type checking](https://www.infoworld.com/article/3710249/angular-17-previews-control-flow-better-type-checking.html#tk.rss_javascript)
-- [Deno 1.38 features HTML documentation, hot module replacement](https://www.infoworld.com/article/3710148/deno-138-features-html-documentation-hot-module-replacement.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
