@@ -292,7 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
-- [Microsoft Blazor adds SortableJS for drag-and-drop lists](https://www.infoworld.com/article/3712301/microsoft-blazor-adds-sortablejs-for-drag-and-drop-lists.html#tk.rss_javascript)
+- [SortableJS brings drag-and-drop lists to Microsoft Blazor](https://www.infoworld.com/article/3712301/sortablejs-brings-drag-and-drop-lists-to-microsoft-blazor.html#tk.rss_javascript)
 - [Vue framework speeds template parsing, improves reactivity](https://www.infoworld.com/article/3712182/vue-framework-speeds-template-parsing-improves-reactivity.html#tk.rss_javascript)
 - [Astro web framework adds accessibility audit rules](https://www.infoworld.com/article/3712080/astro-web-framework-adds-accessibility-audit-rules.html#tk.rss_javascript)
 - [Oracle introduces JavaScript support in MySQL](https://www.infoworld.com/article/3711862/oracle-introduces-javascript-support-in-mysql.html#tk.rss_javascript)
