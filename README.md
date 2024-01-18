@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] what is the most performant nowadays?](https://www.reddit.com/r/javascript/comments/198j26y/askjs_what_is_the_most_performant_nowadays/)
+- [I created a basic analytics platform with Vercel Postgres, Drizzle &amp; Astro](https://www.reddit.com/r/javascript/comments/1994bxr/i_created_a_basic_analytics_platform_with_vercel/)
+- [How to create a magic curtain effect with a few lines of code](https://www.reddit.com/r/javascript/comments/1993ma3/how_to_create_a_magic_curtain_effect_with_a_few/)
+- [Fastest deep clone based on schema](https://www.reddit.com/r/javascript/comments/199248a/fastest_deep_clone_based_on_schema/)
+- [ReScript 11.0 has been released](https://www.reddit.com/r/javascript/comments/198ynv7/rescript_110_has_been_released/)
+- [GitHub - anuragkumar19/example-trellix: A partial trello board clone with Astro, Alpine and HTMX](https://www.reddit.com/r/javascript/comments/198s7l4/github_anuragkumar19exampletrellix_a_partial/)
+- [WTF Wednesday &lpar;January 17, 2024&rpar;](https://www.reddit.com/r/javascript/comments/198rg0b/wtf_wednesday_january_17_2024/)
 - [Let&#39;s learn Shopping Mall Architecture of Relational Database](https://www.reddit.com/r/javascript/comments/198i8o8/lets_learn_shopping_mall_architecture_of/)
-- [Etch-a-sketch Project](https://www.reddit.com/r/javascript/comments/198gm6c/etchasketch_project/)
 - [Viewing console logs visually in javascript through the function call stack &lpar;Svelte / But easily reproducible in plain JS&rpar;](https://www.reddit.com/r/javascript/comments/198adg6/viewing_console_logs_visually_in_javascript/)
 - [I Made a Tool for Visualizing Code Entropy With a 3D Force-Directed Graph in JavaScript Code Bases](https://www.reddit.com/r/javascript/comments/1988zky/i_made_a_tool_for_visualizing_code_entropy_with_a/)
 - [Bencher v0.4 Released: Continuous Benchmarking in JS](https://www.reddit.com/r/javascript/comments/1987wg8/bencher_v04_released_continuous_benchmarking_in_js/)
-- [Google Chrome&#39;s Third-Party Cookie Phase-Out: What You Need to Know](https://www.reddit.com/r/javascript/comments/1985zn8/google_chromes_thirdparty_cookie_phaseout_what/)
-- [ILLA Cloud: A product designed to assist engineers in rapidly constructing Admin Panels, Data Dashboards, and Web UIs](https://www.reddit.com/r/javascript/comments/1982xxf/illa_cloud_a_product_designed_to_assist_engineers/)
-- [&quot;The Golden Rule of Assertions&quot;](https://www.reddit.com/r/javascript/comments/1981yi1/the_golden_rule_of_assertions/)
-- [2024 Predictions by JavaScript Frontend Framework Maintainers](https://www.reddit.com/r/javascript/comments/1980ejm/2024_predictions_by_javascript_frontend_framework/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
