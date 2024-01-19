@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [OMI-FORM - Your Form Solution powered by Web Components](https://www.reddit.com/r/javascript/comments/19a5wuw/omiform_your_form_solution_powered_by_web/)
+- [Reactive-Signal - Reactive Programming in 0.6kb JavaScript](https://www.reddit.com/r/javascript/comments/19a5uyj/reactivesignal_reactive_programming_in_06kb/)
+- [Build an RSC app in Storybook with Next.js and Mock Service Worker](https://www.reddit.com/r/javascript/comments/199wk0e/build_an_rsc_app_in_storybook_with_nextjs_and/)
+- [Deceptive Deprecation: The Truth About npm Deprecated Packages](https://www.reddit.com/r/javascript/comments/199qnng/deceptive_deprecation_the_truth_about_npm/)
 - [I created a basic analytics platform with Vercel Postgres, Drizzle &amp; Astro](https://www.reddit.com/r/javascript/comments/1994bxr/i_created_a_basic_analytics_platform_with_vercel/)
 - [How to create a magic curtain effect with a few lines of code](https://www.reddit.com/r/javascript/comments/1993ma3/how_to_create_a_magic_curtain_effect_with_a_few/)
 - [Fastest deep clone based on schema](https://www.reddit.com/r/javascript/comments/199248a/fastest_deep_clone_based_on_schema/)
 - [ReScript 11.0 has been released](https://www.reddit.com/r/javascript/comments/198ynv7/rescript_110_has_been_released/)
 - [GitHub - anuragkumar19/example-trellix: A partial trello board clone with Astro, Alpine and HTMX](https://www.reddit.com/r/javascript/comments/198s7l4/github_anuragkumar19exampletrellix_a_partial/)
 - [WTF Wednesday &lpar;January 17, 2024&rpar;](https://www.reddit.com/r/javascript/comments/198rg0b/wtf_wednesday_january_17_2024/)
-- [Let&#39;s learn Shopping Mall Architecture of Relational Database](https://www.reddit.com/r/javascript/comments/198i8o8/lets_learn_shopping_mall_architecture_of/)
-- [Viewing console logs visually in javascript through the function call stack &lpar;Svelte / But easily reproducible in plain JS&rpar;](https://www.reddit.com/r/javascript/comments/198adg6/viewing_console_logs_visually_in_javascript/)
-- [I Made a Tool for Visualizing Code Entropy With a 3D Force-Directed Graph in JavaScript Code Bases](https://www.reddit.com/r/javascript/comments/1988zky/i_made_a_tool_for_visualizing_code_entropy_with_a/)
-- [Bencher v0.4 Released: Continuous Benchmarking in JS](https://www.reddit.com/r/javascript/comments/1987wg8/bencher_v04_released_continuous_benchmarking_in_js/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
