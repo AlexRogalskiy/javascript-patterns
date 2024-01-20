@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Infield wants to make open source dependency management trivial | TechCrunch](https://www.reddit.com/r/javascript/comments/19ake5a/infield_wants_to_make_open_source_dependency/)
+- [Mutative - A 10x Faster Alternative to Immer](https://www.reddit.com/r/javascript/comments/19ak4a2/mutative_a_10x_faster_alternative_to_immer/)
+- [&quot;How to Write Better Test Names&quot;](https://www.reddit.com/r/javascript/comments/19ajuor/how_to_write_better_test_names/)
+- [zhttp V1 released – typesafe, openapi compatible HTTP library for building your APIs](https://www.reddit.com/r/javascript/comments/19aj3vr/zhttp_v1_released_typesafe_openapi_compatible/)
+- [Object-to-Primitive Conversions in JavaScript](https://www.reddit.com/r/javascript/comments/19ahov8/objecttoprimitive_conversions_in_javascript/)
 - [OMI-FORM - Your Form Solution powered by Web Components](https://www.reddit.com/r/javascript/comments/19a5wuw/omiform_your_form_solution_powered_by_web/)
 - [Reactive-Signal - Reactive Programming in 0.6kb JavaScript](https://www.reddit.com/r/javascript/comments/19a5uyj/reactivesignal_reactive_programming_in_06kb/)
 - [Build an RSC app in Storybook with Next.js and Mock Service Worker](https://www.reddit.com/r/javascript/comments/199wk0e/build_an_rsc_app_in_storybook_with_nextjs_and/)
 - [Deceptive Deprecation: The Truth About npm Deprecated Packages](https://www.reddit.com/r/javascript/comments/199qnng/deceptive_deprecation_the_truth_about_npm/)
 - [I created a basic analytics platform with Vercel Postgres, Drizzle &amp; Astro](https://www.reddit.com/r/javascript/comments/1994bxr/i_created_a_basic_analytics_platform_with_vercel/)
-- [How to create a magic curtain effect with a few lines of code](https://www.reddit.com/r/javascript/comments/1993ma3/how_to_create_a_magic_curtain_effect_with_a_few/)
-- [Fastest deep clone based on schema](https://www.reddit.com/r/javascript/comments/199248a/fastest_deep_clone_based_on_schema/)
-- [ReScript 11.0 has been released](https://www.reddit.com/r/javascript/comments/198ynv7/rescript_110_has_been_released/)
-- [GitHub - anuragkumar19/example-trellix: A partial trello board clone with Astro, Alpine and HTMX](https://www.reddit.com/r/javascript/comments/198s7l4/github_anuragkumar19exampletrellix_a_partial/)
-- [WTF Wednesday &lpar;January 17, 2024&rpar;](https://www.reddit.com/r/javascript/comments/198rg0b/wtf_wednesday_january_17_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
