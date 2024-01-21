@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Picking the Right Tool for Maneuvering JavaScript&#39;s Event Loop](https://www.reddit.com/r/javascript/comments/19bnhk8/picking_the_right_tool_for_maneuvering/)
+- [SYNG | Structural Search for JavaScript &lpar;BETA&rpar;](https://www.reddit.com/r/javascript/comments/19be2iz/syng_structural_search_for_javascript_beta/)
+- [[AskJS] Portfolios for Seniors: What do you think is expected when senior/principle/staff JS engineer job application asks for a Portfolio?](https://www.reddit.com/r/javascript/comments/19bdytq/askjs_portfolios_for_seniors_what_do_you_think_is/)
+- [Patterns for Reactivity with Modern Vanilla JavaScript](https://www.reddit.com/r/javascript/comments/19bawe6/patterns_for_reactivity_with_modern_vanilla/)
+- [Sandpack Lit: Run a CodeSandbox Anywhere &lpar;works in Svelte, Vue, React, VanillaJS, and more&rpar;.](https://www.reddit.com/r/javascript/comments/19b7syw/sandpack_lit_run_a_codesandbox_anywhere_works_in/)
+- [Showoff Saturday &lpar;January 20, 2024&rpar;](https://www.reddit.com/r/javascript/comments/19b6rr8/showoff_saturday_january_20_2024/)
+- [[AskJS] Best JavaScript game engines that support both 2D and 3D](https://www.reddit.com/r/javascript/comments/19b5tuj/askjs_best_javascript_game_engines_that_support/)
 - [Infield wants to make open source dependency management trivial | TechCrunch](https://www.reddit.com/r/javascript/comments/19ake5a/infield_wants_to_make_open_source_dependency/)
 - [Mutative - A 10x Faster Alternative to Immer](https://www.reddit.com/r/javascript/comments/19ak4a2/mutative_a_10x_faster_alternative_to_immer/)
 - [&quot;How to Write Better Test Names&quot;](https://www.reddit.com/r/javascript/comments/19ajuor/how_to_write_better_test_names/)
-- [zhttp V1 released – typesafe, openapi compatible HTTP library for building your APIs](https://www.reddit.com/r/javascript/comments/19aj3vr/zhttp_v1_released_typesafe_openapi_compatible/)
-- [Object-to-Primitive Conversions in JavaScript](https://www.reddit.com/r/javascript/comments/19ahov8/objecttoprimitive_conversions_in_javascript/)
-- [OMI-FORM - Your Form Solution powered by Web Components](https://www.reddit.com/r/javascript/comments/19a5wuw/omiform_your_form_solution_powered_by_web/)
-- [Reactive-Signal - Reactive Programming in 0.6kb JavaScript](https://www.reddit.com/r/javascript/comments/19a5uyj/reactivesignal_reactive_programming_in_06kb/)
-- [Build an RSC app in Storybook with Next.js and Mock Service Worker](https://www.reddit.com/r/javascript/comments/199wk0e/build_an_rsc_app_in_storybook_with_nextjs_and/)
-- [Deceptive Deprecation: The Truth About npm Deprecated Packages](https://www.reddit.com/r/javascript/comments/199qnng/deceptive_deprecation_the_truth_about_npm/)
-- [I created a basic analytics platform with Vercel Postgres, Drizzle &amp; Astro](https://www.reddit.com/r/javascript/comments/1994bxr/i_created_a_basic_analytics_platform_with_vercel/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
