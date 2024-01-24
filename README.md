@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [It&#39;s client-server not client/server](https://www.reddit.com/r/javascript/comments/19e1n65/its_clientserver_not_clientserver/)
+- [TC39 Proposals RSS/Atom Feed](https://www.reddit.com/r/javascript/comments/19duv2s/tc39_proposals_rssatom_feed/)
+- [[AskJS] Building a game in JS?](https://www.reddit.com/r/javascript/comments/19djq3t/askjs_building_a_game_in_js/)
 - [Days Since Last JavaScript Framework](https://www.reddit.com/r/javascript/comments/19d8wi4/days_since_last_javascript_framework/)
 - [Stormkit | Local search with react and minisearch](https://www.reddit.com/r/javascript/comments/19d6kfa/stormkit_local_search_with_react_and_minisearch/)
-- [You Probably Don&#39;t Need `eslint-config-prettier` or `eslint-plugin-prettier` | Goldblog](https://www.reddit.com/r/javascript/comments/19d5zrl/you_probably_dont_need_eslintconfigprettier_or/)
 - [[AskJS] need your advice as a fresher 17M](https://www.reddit.com/r/javascript/comments/19d1snr/askjs_need_your_advice_as_a_fresher_17m/)
 - [[AskJS] I work with google tag manager and want to learn javascript. What should learn?](https://www.reddit.com/r/javascript/comments/19cymj2/askjs_i_work_with_google_tag_manager_and_want_to/)
 - [Your /r/javascript recap for the week of January 15 - January 21](https://www.reddit.com/r/javascript/comments/19cscxk/your_rjavascript_recap_for_the_week_of_january_15/)
 - [The Bun Shell. Why is it hard to run shell scripts in JavaScript?](https://www.reddit.com/r/javascript/comments/19cs774/the_bun_shell_why_is_it_hard_to_run_shell_scripts/)
 - [[AskJS] Developer PC Specs?](https://www.reddit.com/r/javascript/comments/19cny3y/askjs_developer_pc_specs/)
-- [The Fortified Testing Philosophy](https://www.reddit.com/r/javascript/comments/19ch8pb/the_fortified_testing_philosophy/)
-- [[AskJS] Cryptographic random floats](https://www.reddit.com/r/javascript/comments/19c7mf5/askjs_cryptographic_random_floats/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
