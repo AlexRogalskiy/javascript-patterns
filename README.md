@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] How long will it take to learn backend?](https://www.reddit.com/r/javascript/comments/19emfm3/askjs_how_long_will_it_take_to_learn_backend/)
-- [Do you have brand loyalty to a single JavaScript runtime?](https://www.reddit.com/r/javascript/comments/19eje9g/do_you_have_brand_loyalty_to_a_single_javascript/)
-- [[AskJS] JS learning curve?](https://www.reddit.com/r/javascript/comments/19ec3fc/askjs_js_learning_curve/)
-- [WTF Wednesday &lpar;January 24, 2024&rpar;](https://www.reddit.com/r/javascript/comments/19ec146/wtf_wednesday_january_24_2024/)
-- [It&#39;s client-server not client/server](https://www.reddit.com/r/javascript/comments/19e1n65/its_clientserver_not_clientserver/)
-- [TC39 Proposals RSS/Atom Feed](https://www.reddit.com/r/javascript/comments/19duv2s/tc39_proposals_rssatom_feed/)
-- [[AskJS] Building a game in JS?](https://www.reddit.com/r/javascript/comments/19djq3t/askjs_building_a_game_in_js/)
-- [Days Since Last JavaScript Framework](https://www.reddit.com/r/javascript/comments/19d8wi4/days_since_last_javascript_framework/)
-- [Stormkit | Local search with react and minisearch](https://www.reddit.com/r/javascript/comments/19d6kfa/stormkit_local_search_with_react_and_minisearch/)
-- [[AskJS] need your advice as a fresher 17M](https://www.reddit.com/r/javascript/comments/19d1snr/askjs_need_your_advice_as_a_fresher_17m/)
+- [I Built a JavaScript Console](https://www.reddit.com/r/javascript/comments/19fm4cv/i_built_a_javascript_console/)
+- [Next.js and GPT-4: A Guide to Streaming Generated Content as UI Components](https://www.reddit.com/r/javascript/comments/19fkwvw/nextjs_and_gpt4_a_guide_to_streaming_generated/)
+- [remoteStorage 1.0.4: a simple library that combines the localStorage API with a remote server to persist data across browsers and devices &lpar;now with JWT support!&rpar;](https://www.reddit.com/r/javascript/comments/19fj8va/remotestorage_104_a_simple_library_that_combines/)
+- [Share some most practical TypeScript Features](https://www.reddit.com/r/javascript/comments/19fdwpm/share_some_most_practical_typescript_features/)
+- [Cample.js - fast modern javascript framework. The framework is at the alpha testing stage!](https://www.reddit.com/r/javascript/comments/19f8u2x/camplejs_fast_modern_javascript_framework_the/)
+- [Arctic - Lightweight OAuth library with support for 20+ providers](https://www.reddit.com/r/javascript/comments/19f7l43/arctic_lightweight_oauth_library_with_support_for/)
+- [Patterns for Reactivity with Modern Vanilla JavaScript](https://www.reddit.com/r/javascript/comments/19f6jji/patterns_for_reactivity_with_modern_vanilla/)
+- [[AskJS] Multi-touch Swipe Gesture detection](https://www.reddit.com/r/javascript/comments/19f4n5p/askjs_multitouch_swipe_gesture_detection/)
+- [[AskJS] HTML to PNG alternative?](https://www.reddit.com/r/javascript/comments/19f42b9/askjs_html_to_png_alternative/)
+- [[AskJS] The shuffle function](https://www.reddit.com/r/javascript/comments/19f3ved/askjs_the_shuffle_function/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
