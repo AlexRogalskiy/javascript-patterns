@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Make monorepo installs faster by reducing dependency variance](https://www.reddit.com/r/javascript/comments/1abwr98/make_monorepo_installs_faster_by_reducing/)
+- [shadcn-chat. Chat component for shadcn](https://www.reddit.com/r/javascript/comments/1abt0ue/shadcnchat_chat_component_for_shadcn/)
+- [Leapcell: Vercel + Airtable Hybrid Alternative for JS](https://www.reddit.com/r/javascript/comments/1abpkiu/leapcell_vercel_airtable_hybrid_alternative_for_js/)
+- [[AskJS] I need to duply and rename files by a excel sheet](https://www.reddit.com/r/javascript/comments/1abjvkt/askjs_i_need_to_duply_and_rename_files_by_a_excel/)
+- [I made a JavaScript Project that generates custom maps!](https://www.reddit.com/r/javascript/comments/1abj6wn/i_made_a_javascript_project_that_generates_custom/)
+- [Anyone working on gRPC? This open-source, cross-platform tool will come in handy during testing](https://www.reddit.com/r/javascript/comments/1abb2iq/anyone_working_on_grpc_this_opensource/)
 - [I Built a JavaScript Console](https://www.reddit.com/r/javascript/comments/19fm4cv/i_built_a_javascript_console/)
-- [Next.js and GPT-4: A Guide to Streaming Generated Content as UI Components](https://www.reddit.com/r/javascript/comments/19fkwvw/nextjs_and_gpt4_a_guide_to_streaming_generated/)
 - [remoteStorage 1.0.4: a simple library that combines the localStorage API with a remote server to persist data across browsers and devices &lpar;now with JWT support!&rpar;](https://www.reddit.com/r/javascript/comments/19fj8va/remotestorage_104_a_simple_library_that_combines/)
 - [Share some most practical TypeScript Features](https://www.reddit.com/r/javascript/comments/19fdwpm/share_some_most_practical_typescript_features/)
 - [Cample.js - fast modern javascript framework. The framework is at the alpha testing stage!](https://www.reddit.com/r/javascript/comments/19f8u2x/camplejs_fast_modern_javascript_framework_the/)
-- [Arctic - Lightweight OAuth library with support for 20+ providers](https://www.reddit.com/r/javascript/comments/19f7l43/arctic_lightweight_oauth_library_with_support_for/)
-- [Patterns for Reactivity with Modern Vanilla JavaScript](https://www.reddit.com/r/javascript/comments/19f6jji/patterns_for_reactivity_with_modern_vanilla/)
-- [[AskJS] Multi-touch Swipe Gesture detection](https://www.reddit.com/r/javascript/comments/19f4n5p/askjs_multitouch_swipe_gesture_detection/)
-- [[AskJS] HTML to PNG alternative?](https://www.reddit.com/r/javascript/comments/19f42b9/askjs_html_to_png_alternative/)
-- [[AskJS] The shuffle function](https://www.reddit.com/r/javascript/comments/19f3ved/askjs_the_shuffle_function/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
