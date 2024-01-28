@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Struggling with Romcal library](https://www.reddit.com/r/javascript/comments/1acl16t/askjs_struggling_with_romcal_library/)
+- [[AskJS] Building a Signed Web Bundle and Isolated Web App in the browser - how to fix 404 error?](https://www.reddit.com/r/javascript/comments/1acgyx5/askjs_building_a_signed_web_bundle_and_isolated/)
+- [Made chrome extension to add multiple copy commands on npmjs site](https://www.reddit.com/r/javascript/comments/1ac9tl9/made_chrome_extension_to_add_multiple_copy/)
+- [[AskJS] Event loop - setTimeout order](https://www.reddit.com/r/javascript/comments/1ac7hqj/askjs_event_loop_settimeout_order/)
+- [Showoff Saturday &lpar;January 27, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1ac5u0u/showoff_saturday_january_27_2024/)
+- [JavaScript Simplified: An extensive, yet concise quick-reference guide.](https://www.reddit.com/r/javascript/comments/1ac2owu/javascript_simplified_an_extensive_yet_concise/)
 - [Make monorepo installs faster by reducing dependency variance](https://www.reddit.com/r/javascript/comments/1abwr98/make_monorepo_installs_faster_by_reducing/)
 - [shadcn-chat. Chat component for shadcn](https://www.reddit.com/r/javascript/comments/1abt0ue/shadcnchat_chat_component_for_shadcn/)
 - [Leapcell: Vercel + Airtable Hybrid Alternative for JS](https://www.reddit.com/r/javascript/comments/1abpkiu/leapcell_vercel_airtable_hybrid_alternative_for_js/)
 - [[AskJS] I need to duply and rename files by a excel sheet](https://www.reddit.com/r/javascript/comments/1abjvkt/askjs_i_need_to_duply_and_rename_files_by_a_excel/)
-- [I made a JavaScript Project that generates custom maps!](https://www.reddit.com/r/javascript/comments/1abj6wn/i_made_a_javascript_project_that_generates_custom/)
-- [Anyone working on gRPC? This open-source, cross-platform tool will come in handy during testing](https://www.reddit.com/r/javascript/comments/1abb2iq/anyone_working_on_grpc_this_opensource/)
-- [I Built a JavaScript Console](https://www.reddit.com/r/javascript/comments/19fm4cv/i_built_a_javascript_console/)
-- [remoteStorage 1.0.4: a simple library that combines the localStorage API with a remote server to persist data across browsers and devices &lpar;now with JWT support!&rpar;](https://www.reddit.com/r/javascript/comments/19fj8va/remotestorage_104_a_simple_library_that_combines/)
-- [Share some most practical TypeScript Features](https://www.reddit.com/r/javascript/comments/19fdwpm/share_some_most_practical_typescript_features/)
-- [Cample.js - fast modern javascript framework. The framework is at the alpha testing stage!](https://www.reddit.com/r/javascript/comments/19f8u2x/camplejs_fast_modern_javascript_framework_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
