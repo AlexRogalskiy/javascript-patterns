@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Learning JavaScript](https://www.reddit.com/r/javascript/comments/1adf60j/askjs_learning_javascript/)
+- [Understanding how Artificial Intelligence reasons](https://www.reddit.com/r/javascript/comments/1ad665k/understanding_how_artificial_intelligence_reasons/)
+- [[AskJS] Achitecture in JavaScript](https://www.reddit.com/r/javascript/comments/1ad0gh1/askjs_achitecture_in_javascript/)
+- [[AskJS] MDN or freecodecamp to learn js?](https://www.reddit.com/r/javascript/comments/1ad0dyz/askjs_mdn_or_freecodecamp_to_learn_js/)
+- [[AskJS] Exploring the Advantages of Object.groupBy in EcmaScript - More Than Just Convenience?](https://www.reddit.com/r/javascript/comments/1aczvqi/askjs_exploring_the_advantages_of_objectgroupby/)
+- [[AskJS] Struggling with dependency injection - tips needed!](https://www.reddit.com/r/javascript/comments/1acz9tn/askjs_struggling_with_dependency_injection_tips/)
+- [[AskJS] Tool to visualize codebase imports.](https://www.reddit.com/r/javascript/comments/1acykxt/askjs_tool_to_visualize_codebase_imports/)
 - [[AskJS] Struggling with Romcal library](https://www.reddit.com/r/javascript/comments/1acl16t/askjs_struggling_with_romcal_library/)
 - [[AskJS] Building a Signed Web Bundle and Isolated Web App in the browser - how to fix 404 error?](https://www.reddit.com/r/javascript/comments/1acgyx5/askjs_building_a_signed_web_bundle_and_isolated/)
 - [Made chrome extension to add multiple copy commands on npmjs site](https://www.reddit.com/r/javascript/comments/1ac9tl9/made_chrome_extension_to_add_multiple_copy/)
-- [[AskJS] Event loop - setTimeout order](https://www.reddit.com/r/javascript/comments/1ac7hqj/askjs_event_loop_settimeout_order/)
-- [Showoff Saturday &lpar;January 27, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1ac5u0u/showoff_saturday_january_27_2024/)
-- [JavaScript Simplified: An extensive, yet concise quick-reference guide.](https://www.reddit.com/r/javascript/comments/1ac2owu/javascript_simplified_an_extensive_yet_concise/)
-- [Make monorepo installs faster by reducing dependency variance](https://www.reddit.com/r/javascript/comments/1abwr98/make_monorepo_installs_faster_by_reducing/)
-- [shadcn-chat. Chat component for shadcn](https://www.reddit.com/r/javascript/comments/1abt0ue/shadcnchat_chat_component_for_shadcn/)
-- [Leapcell: Vercel + Airtable Hybrid Alternative for JS](https://www.reddit.com/r/javascript/comments/1abpkiu/leapcell_vercel_airtable_hybrid_alternative_for_js/)
-- [[AskJS] I need to duply and rename files by a excel sheet](https://www.reddit.com/r/javascript/comments/1abjvkt/askjs_i_need_to_duply_and_rename_files_by_a_excel/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
