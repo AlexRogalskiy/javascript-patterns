@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Learning JavaScript](https://www.reddit.com/r/javascript/comments/1adf60j/askjs_learning_javascript/)
-- [Understanding how Artificial Intelligence reasons](https://www.reddit.com/r/javascript/comments/1ad665k/understanding_how_artificial_intelligence_reasons/)
-- [[AskJS] Achitecture in JavaScript](https://www.reddit.com/r/javascript/comments/1ad0gh1/askjs_achitecture_in_javascript/)
-- [[AskJS] MDN or freecodecamp to learn js?](https://www.reddit.com/r/javascript/comments/1ad0dyz/askjs_mdn_or_freecodecamp_to_learn_js/)
-- [[AskJS] Exploring the Advantages of Object.groupBy in EcmaScript - More Than Just Convenience?](https://www.reddit.com/r/javascript/comments/1aczvqi/askjs_exploring_the_advantages_of_objectgroupby/)
-- [[AskJS] Struggling with dependency injection - tips needed!](https://www.reddit.com/r/javascript/comments/1acz9tn/askjs_struggling_with_dependency_injection_tips/)
-- [[AskJS] Tool to visualize codebase imports.](https://www.reddit.com/r/javascript/comments/1acykxt/askjs_tool_to_visualize_codebase_imports/)
-- [[AskJS] Struggling with Romcal library](https://www.reddit.com/r/javascript/comments/1acl16t/askjs_struggling_with_romcal_library/)
-- [[AskJS] Building a Signed Web Bundle and Isolated Web App in the browser - how to fix 404 error?](https://www.reddit.com/r/javascript/comments/1acgyx5/askjs_building_a_signed_web_bundle_and_isolated/)
-- [Made chrome extension to add multiple copy commands on npmjs site](https://www.reddit.com/r/javascript/comments/1ac9tl9/made_chrome_extension_to_add_multiple_copy/)
+- [potaAnatomy of a Signals Based Reactive Renderer](https://www.reddit.com/r/javascript/comments/1ae8lca/potaanatomy_of_a_signals_based_reactive_renderer/)
+- [unyt.land - Use TypeScript imports in JavaScript](https://www.reddit.com/r/javascript/comments/1ae3jun/unytland_use_typescript_imports_in_javascript/)
+- [Alzheimer&#39;s Buddy: 40Hz Therapy](https://www.reddit.com/r/javascript/comments/1ae3fpt/alzheimers_buddy_40hz_therapy/)
+- [Announcing TypeScript 5.4 Beta](https://www.reddit.com/r/javascript/comments/1ae30m2/announcing_typescript_54_beta/)
+- [[AskJS] Paperjs : When running a sketch throughout the day, the browser crashes with out of memory error](https://www.reddit.com/r/javascript/comments/1ae2tgp/askjs_paperjs_when_running_a_sketch_throughout/)
+- [Option Soup: the subtle pitfalls of combining compiler flags](https://www.reddit.com/r/javascript/comments/1ae2g1a/option_soup_the_subtle_pitfalls_of_combining/)
+- [recaptcha-poc·a·lypse. Google significantly reduces recatpcha free tier - from 1mln to 10000 free assessments a month starting April 1st 2024.](https://www.reddit.com/r/javascript/comments/1ae06yq/recaptchapocalypse_google_significantly_reduces/)
+- [Event Loop. Myths and reality](https://www.reddit.com/r/javascript/comments/1adzqo7/event_loop_myths_and_reality/)
+- [Primate - Release 0.28: TypeScript/Ruby routes, WebComponents, uploading files](https://www.reddit.com/r/javascript/comments/1ady2qd/primate_release_028_typescriptruby_routes/)
+- [How to achieve real-time push notifications on the Ionic-React mobile app?](https://www.reddit.com/r/javascript/comments/1adxtot/how_to_achieve_realtime_push_notifications_on_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
