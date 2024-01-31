@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [TypeScript 5.4 beta arrives](https://www.infoworld.com/article/3712660/typescript-54-beta-arrives.html#tk.rss_javascript)
 - [Deno adds API for date and time operations](https://www.infoworld.com/article/3712424/deno-adds-api-for-date-and-time-operations.html#tk.rss_javascript)
 - [Astro 4.2 boosts accessibility, image optimization features](https://www.infoworld.com/article/3712267/astro-42-boosts-accessibility-image-optimization-features.html#tk.rss_javascript)
 - [SortableJS brings drag-and-drop lists to Microsoft Blazor](https://www.infoworld.com/article/3712301/sortablejs-brings-drag-and-drop-lists-to-microsoft-blazor.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Building tables in React: Get started with react-table](https://www.infoworld.com/article/3711740/building-tables-in-react-get-started-with-react-table.html#tk.rss_javascript)
 - [Intro to JSX: HTML that does JavaScript](https://www.infoworld.com/article/3711600/intro-to-jsx-html-that-does-javascript.html#tk.rss_javascript)
 - [The best new features in Angular 17: A kinder, faster Angular](https://www.infoworld.com/article/3711373/the-best-new-features-in-angular-17-a-kinder-faster-angular.html#tk.rss_javascript)
-- [Deno adds Deno Cron for job scheduling](https://www.infoworld.com/article/3711269/deno-adds-deno-cron-for-job-scheduling.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
