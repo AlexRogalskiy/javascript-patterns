@@ -307,6 +307,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *EmberJS posts*
 
 <!-- EMBERJS-POST-LIST:START -->
+- [Ember 5.6 Released](https://blog.emberjs.com/ember-released-5-6)
 - [The Ember Times - Issue No. 208](https://blog.emberjs.com/the-ember-times-issue-208)
 - [Ember 5.5 Released](https://blog.emberjs.com/ember-released-5-5)
 - [Embroider Initiative: Progress Update](https://blog.emberjs.com/embroider-initiative-progress-update)
@@ -316,7 +317,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [The Ember Times - Issue No. 207](https://blog.emberjs.com/the-ember-times-issue-207)
 - [Ember 5.3 Released](https://blog.emberjs.com/ember-released-5-3)
 - [Ember 5.2 Released](https://blog.emberjs.com/ember-released-5-2)
-- [The Ember Times - Issue No. 206](https://blog.emberjs.com/the-ember-times-issue-206)
 <!-- EMBERJS-POST-LIST:END -->
 
 ### *YouTube code posts*
