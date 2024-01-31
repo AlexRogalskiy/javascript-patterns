@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [More than just chatbots: Using context to build the future of in-app AI experiences](https://www.reddit.com/r/javascript/comments/1aet3as/more_than_just_chatbots_using_context_to_build/)
+- [uint8array-extras: Useful utilities for working with Uint8Array](https://www.reddit.com/r/javascript/comments/1aesrf2/uint8arrayextras_useful_utilities_for_working/)
+- [[AskJS] Language design question: Why do promise.then&lpar;&rpar; callbacks go through the microtask queue, rather than being called as soon as their promise is fulfilled or rejected?](https://www.reddit.com/r/javascript/comments/1aeqhtp/askjs_language_design_question_why_do_promisethen/)
+- [A Tribute to React](https://www.reddit.com/r/javascript/comments/1aeq5r0/a_tribute_to_react/)
+- [Djot v0.5.0 Released and now support Typescript](https://www.reddit.com/r/javascript/comments/1aek30g/djot_v050_released_and_now_support_typescript/)
+- [[AskJS] How does Promise.all&lpar;&rpar; handle chaining?](https://www.reddit.com/r/javascript/comments/1aegkj6/askjs_how_does_promiseall_handle_chaining/)
+- [[AskJS] Anyone else feel like they may be falling behind?](https://www.reddit.com/r/javascript/comments/1aeg62d/askjs_anyone_else_feel_like_they_may_be_falling/)
 - [potaAnatomy of a Signals Based Reactive Renderer](https://www.reddit.com/r/javascript/comments/1ae8lca/potaanatomy_of_a_signals_based_reactive_renderer/)
 - [unyt.land - Use TypeScript imports in JavaScript](https://www.reddit.com/r/javascript/comments/1ae3jun/unytland_use_typescript_imports_in_javascript/)
-- [Alzheimer&#39;s Buddy: 40Hz Therapy](https://www.reddit.com/r/javascript/comments/1ae3fpt/alzheimers_buddy_40hz_therapy/)
 - [Announcing TypeScript 5.4 Beta](https://www.reddit.com/r/javascript/comments/1ae30m2/announcing_typescript_54_beta/)
-- [[AskJS] Paperjs : When running a sketch throughout the day, the browser crashes with out of memory error](https://www.reddit.com/r/javascript/comments/1ae2tgp/askjs_paperjs_when_running_a_sketch_throughout/)
-- [Option Soup: the subtle pitfalls of combining compiler flags](https://www.reddit.com/r/javascript/comments/1ae2g1a/option_soup_the_subtle_pitfalls_of_combining/)
-- [recaptcha-poc·a·lypse. Google significantly reduces recatpcha free tier - from 1mln to 10000 free assessments a month starting April 1st 2024.](https://www.reddit.com/r/javascript/comments/1ae06yq/recaptchapocalypse_google_significantly_reduces/)
-- [Event Loop. Myths and reality](https://www.reddit.com/r/javascript/comments/1adzqo7/event_loop_myths_and_reality/)
-- [Primate - Release 0.28: TypeScript/Ruby routes, WebComponents, uploading files](https://www.reddit.com/r/javascript/comments/1ady2qd/primate_release_028_typescriptruby_routes/)
-- [How to achieve real-time push notifications on the Ionic-React mobile app?](https://www.reddit.com/r/javascript/comments/1adxtot/how_to_achieve_realtime_push_notifications_on_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
