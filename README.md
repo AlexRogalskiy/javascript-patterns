@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [More than just chatbots: Using context to build the future of in-app AI experiences](https://www.reddit.com/r/javascript/comments/1aet3as/more_than_just_chatbots_using_context_to_build/)
-- [uint8array-extras: Useful utilities for working with Uint8Array](https://www.reddit.com/r/javascript/comments/1aesrf2/uint8arrayextras_useful_utilities_for_working/)
-- [[AskJS] Language design question: Why do promise.then&lpar;&rpar; callbacks go through the microtask queue, rather than being called as soon as their promise is fulfilled or rejected?](https://www.reddit.com/r/javascript/comments/1aeqhtp/askjs_language_design_question_why_do_promisethen/)
-- [A Tribute to React](https://www.reddit.com/r/javascript/comments/1aeq5r0/a_tribute_to_react/)
-- [Djot v0.5.0 Released and now support Typescript](https://www.reddit.com/r/javascript/comments/1aek30g/djot_v050_released_and_now_support_typescript/)
-- [[AskJS] How does Promise.all&lpar;&rpar; handle chaining?](https://www.reddit.com/r/javascript/comments/1aegkj6/askjs_how_does_promiseall_handle_chaining/)
-- [[AskJS] Anyone else feel like they may be falling behind?](https://www.reddit.com/r/javascript/comments/1aeg62d/askjs_anyone_else_feel_like_they_may_be_falling/)
-- [potaAnatomy of a Signals Based Reactive Renderer](https://www.reddit.com/r/javascript/comments/1ae8lca/potaanatomy_of_a_signals_based_reactive_renderer/)
-- [unyt.land - Use TypeScript imports in JavaScript](https://www.reddit.com/r/javascript/comments/1ae3jun/unytland_use_typescript_imports_in_javascript/)
-- [Announcing TypeScript 5.4 Beta](https://www.reddit.com/r/javascript/comments/1ae30m2/announcing_typescript_54_beta/)
+- [[AskJS] - I have come up with a backend tech stack. please share your feedback. thank you.](https://www.reddit.com/r/javascript/comments/1afvus9/askjs_i_have_come_up_with_a_backend_tech_stack/)
+- [Solitaire Card Game, using custom rendering library ported from a C library by creater of Celeste](https://www.reddit.com/r/javascript/comments/1afvjnn/solitaire_card_game_using_custom_rendering/)
+- [Redux tutorial with Counter App](https://www.reddit.com/r/javascript/comments/1afpe4i/redux_tutorial_with_counter_app/)
+- [Fast Buffer-to-String conversion in JavaScript with a Lookup Table](https://www.reddit.com/r/javascript/comments/1afoq0a/fast_buffertostring_conversion_in_javascript_with/)
+- [Import attributes](https://www.reddit.com/r/javascript/comments/1afmli7/import_attributes/)
+- [js-mat: A JavaScript &lpar;written in TypeScript&rpar; package for matrix representations and operations](https://www.reddit.com/r/javascript/comments/1afm931/jsmat_a_javascript_written_in_typescript_package/)
+- [[AskJS] Explaining parseInt in JavaScript with Scientific Notation](https://www.reddit.com/r/javascript/comments/1afeemh/askjs_explaining_parseint_in_javascript_with/)
+- [[AskJS] Any Javascript related conferences to indicate?](https://www.reddit.com/r/javascript/comments/1afe6i4/askjs_any_javascript_related_conferences_to/)
+- [[AskJS] Exploring the Potential of WebAssembly in JavaScript Projects](https://www.reddit.com/r/javascript/comments/1afe03r/askjs_exploring_the_potential_of_webassembly_in/)
+- [[AskJS] Looking for open source project](https://www.reddit.com/r/javascript/comments/1afd3oe/askjs_looking_for_open_source_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
