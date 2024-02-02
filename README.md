@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Guys, the domain javascript.forum was available, anyone wants to make this happen?](https://www.reddit.com/r/javascript/comments/1agqzn1/guys_the_domain_javascriptforum_was_available/)
+- [How to Control Strict Mode](https://www.reddit.com/r/javascript/comments/1aghfbr/how_to_control_strict_mode/)
+- [Announcing Interop 2024](https://www.reddit.com/r/javascript/comments/1agg58p/announcing_interop_2024/)
+- [Prici.io - Open source project to manage plans and pricing limitations for any SaaS application](https://www.reddit.com/r/javascript/comments/1agctrn/priciio_open_source_project_to_manage_plans_and/)
+- [Labyrinthos.js - A procedural generator for Mazes, Terrains, and Biomes](https://www.reddit.com/r/javascript/comments/1ag8qve/labyrinthosjs_a_procedural_generator_for_mazes/)
+- [Visual Studio Code January 2024](https://www.reddit.com/r/javascript/comments/1ag7vh1/visual_studio_code_january_2024/)
+- [CheerpJ 3.0: A WebAssembly JVM to run real-world applications in the browser](https://www.reddit.com/r/javascript/comments/1ag7h5n/cheerpj_30_a_webassembly_jvm_to_run_realworld/)
+- [[AskJS] freelancers doing Javascript web development](https://www.reddit.com/r/javascript/comments/1ag4ae4/askjs_freelancers_doing_javascript_web_development/)
+- [Mockup Simulator from Swagger Documents](https://www.reddit.com/r/javascript/comments/1ag1x4z/mockup_simulator_from_swagger_documents/)
 - [[AskJS] - I have come up with a backend tech stack. please share your feedback. thank you.](https://www.reddit.com/r/javascript/comments/1afvus9/askjs_i_have_come_up_with_a_backend_tech_stack/)
-- [Solitaire Card Game, using custom rendering library ported from a C library by creater of Celeste](https://www.reddit.com/r/javascript/comments/1afvjnn/solitaire_card_game_using_custom_rendering/)
-- [Redux tutorial with Counter App](https://www.reddit.com/r/javascript/comments/1afpe4i/redux_tutorial_with_counter_app/)
-- [Fast Buffer-to-String conversion in JavaScript with a Lookup Table](https://www.reddit.com/r/javascript/comments/1afoq0a/fast_buffertostring_conversion_in_javascript_with/)
-- [Import attributes](https://www.reddit.com/r/javascript/comments/1afmli7/import_attributes/)
-- [js-mat: A JavaScript &lpar;written in TypeScript&rpar; package for matrix representations and operations](https://www.reddit.com/r/javascript/comments/1afm931/jsmat_a_javascript_written_in_typescript_package/)
-- [[AskJS] Explaining parseInt in JavaScript with Scientific Notation](https://www.reddit.com/r/javascript/comments/1afeemh/askjs_explaining_parseint_in_javascript_with/)
-- [[AskJS] Any Javascript related conferences to indicate?](https://www.reddit.com/r/javascript/comments/1afe6i4/askjs_any_javascript_related_conferences_to/)
-- [[AskJS] Exploring the Potential of WebAssembly in JavaScript Projects](https://www.reddit.com/r/javascript/comments/1afe03r/askjs_exploring_the_potential_of_webassembly_in/)
-- [[AskJS] Looking for open source project](https://www.reddit.com/r/javascript/comments/1afd3oe/askjs_looking_for_open_source_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
