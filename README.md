@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [1 in 200 web users are still using Internet Explorer](https://www.reddit.com/r/javascript/comments/1ah84ba/1_in_200_web_users_are_still_using_internet/)
+- [[AskJS] Can you do this async javascript interview question?](https://www.reddit.com/r/javascript/comments/1ah4fng/askjs_can_you_do_this_async_javascript_interview/)
+- [Introducing flecks: NOT a fullstack framework!](https://www.reddit.com/r/javascript/comments/1ah36br/introducing_flecks_not_a_fullstack_framework/)
+- [[AskJS] Event loop - micro and macro tasks](https://www.reddit.com/r/javascript/comments/1ah0r6k/askjs_event_loop_micro_and_macro_tasks/)
 - [Guys, the domain javascript.forum was available, anyone wants to make this happen?](https://www.reddit.com/r/javascript/comments/1agqzn1/guys_the_domain_javascriptforum_was_available/)
 - [How to Control Strict Mode](https://www.reddit.com/r/javascript/comments/1aghfbr/how_to_control_strict_mode/)
 - [Announcing Interop 2024](https://www.reddit.com/r/javascript/comments/1agg58p/announcing_interop_2024/)
 - [Prici.io - Open source project to manage plans and pricing limitations for any SaaS application](https://www.reddit.com/r/javascript/comments/1agctrn/priciio_open_source_project_to_manage_plans_and/)
 - [Labyrinthos.js - A procedural generator for Mazes, Terrains, and Biomes](https://www.reddit.com/r/javascript/comments/1ag8qve/labyrinthosjs_a_procedural_generator_for_mazes/)
 - [Visual Studio Code January 2024](https://www.reddit.com/r/javascript/comments/1ag7vh1/visual_studio_code_january_2024/)
-- [CheerpJ 3.0: A WebAssembly JVM to run real-world applications in the browser](https://www.reddit.com/r/javascript/comments/1ag7h5n/cheerpj_30_a_webassembly_jvm_to_run_realworld/)
-- [[AskJS] freelancers doing Javascript web development](https://www.reddit.com/r/javascript/comments/1ag4ae4/askjs_freelancers_doing_javascript_web_development/)
-- [Mockup Simulator from Swagger Documents](https://www.reddit.com/r/javascript/comments/1ag1x4z/mockup_simulator_from_swagger_documents/)
-- [[AskJS] - I have come up with a backend tech stack. please share your feedback. thank you.](https://www.reddit.com/r/javascript/comments/1afvus9/askjs_i_have_come_up_with_a_backend_tech_stack/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
