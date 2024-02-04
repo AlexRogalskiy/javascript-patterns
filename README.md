@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Making a JavaScript RPG Game Editor](https://www.reddit.com/r/javascript/comments/1aibx5i/askjs_making_a_javascript_rpg_game_editor/)
+- [[AskJS] Looking for TypeScript, Javascript developer to help build games and other cool tools.](https://www.reddit.com/r/javascript/comments/1ai596z/askjs_looking_for_typescript_javascript_developer/)
+- [[AskJS] When will StateofJS 2023 results be published? Alternatives?](https://www.reddit.com/r/javascript/comments/1ai45f0/askjs_when_will_stateofjs_2023_results_be/)
+- [jeasx - Server-side rendering with the ease of JSX](https://www.reddit.com/r/javascript/comments/1ai3skp/jeasx_serverside_rendering_with_the_ease_of_jsx/)
+- [[AskJS] Macrotask and click event](https://www.reddit.com/r/javascript/comments/1ai1a3t/askjs_macrotask_and_click_event/)
+- [Are your JavaScript applications primarily Web-based or non-Web-based?](https://www.reddit.com/r/javascript/comments/1ai0473/are_your_javascript_applications_primarily/)
+- [Showoff Saturday &lpar;February 03, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1ahr1ot/showoff_saturday_february_03_2024/)
+- [[AskJS] technical interview programming language ?](https://www.reddit.com/r/javascript/comments/1ahnfux/askjs_technical_interview_programming_language/)
 - [1 in 200 web users are still using Internet Explorer](https://www.reddit.com/r/javascript/comments/1ah84ba/1_in_200_web_users_are_still_using_internet/)
 - [[AskJS] Can you do this async javascript interview question?](https://www.reddit.com/r/javascript/comments/1ah4fng/askjs_can_you_do_this_async_javascript_interview/)
-- [Introducing flecks: NOT a fullstack framework!](https://www.reddit.com/r/javascript/comments/1ah36br/introducing_flecks_not_a_fullstack_framework/)
-- [[AskJS] Event loop - micro and macro tasks](https://www.reddit.com/r/javascript/comments/1ah0r6k/askjs_event_loop_micro_and_macro_tasks/)
-- [Guys, the domain javascript.forum was available, anyone wants to make this happen?](https://www.reddit.com/r/javascript/comments/1agqzn1/guys_the_domain_javascriptforum_was_available/)
-- [How to Control Strict Mode](https://www.reddit.com/r/javascript/comments/1aghfbr/how_to_control_strict_mode/)
-- [Announcing Interop 2024](https://www.reddit.com/r/javascript/comments/1agg58p/announcing_interop_2024/)
-- [Prici.io - Open source project to manage plans and pricing limitations for any SaaS application](https://www.reddit.com/r/javascript/comments/1agctrn/priciio_open_source_project_to_manage_plans_and/)
-- [Labyrinthos.js - A procedural generator for Mazes, Terrains, and Biomes](https://www.reddit.com/r/javascript/comments/1ag8qve/labyrinthosjs_a_procedural_generator_for_mazes/)
-- [Visual Studio Code January 2024](https://www.reddit.com/r/javascript/comments/1ag7vh1/visual_studio_code_january_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
