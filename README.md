@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Aprende GIT de forma interactiva y en español con Learn git branching](https://www.reddit.com/r/javascript/comments/1aj1vpt/aprende_git_de_forma_interactiva_y_en_español_con/)
+- [[AskJS] Automatically generate/maintain index.{js,ts} files for default exports.](https://www.reddit.com/r/javascript/comments/1aiyko1/askjs_automatically_generatemaintain_indexjsts/)
+- [Ajel - a set of thin wrappers for try-catch, coupled with eslint rules to create a Result Type &lpar;Refactored - new api&rpar;](https://www.reddit.com/r/javascript/comments/1aiyegs/ajel_a_set_of_thin_wrappers_for_trycatch_coupled/)
+- [[Looking for contributors] Portcullis: Open source client portal for agencies, service providers, and solopreneurs](https://www.reddit.com/r/javascript/comments/1aiqruv/looking_for_contributors_portcullis_open_source/)
+- [DOS Wasm X: a new web based DOS Emulator](https://www.reddit.com/r/javascript/comments/1ain1p6/dos_wasm_x_a_new_web_based_dos_emulator/)
+- [The relentless pursuit of cutting-edge JavaScript frameworks inadvertently contributed to a less accessible web | Easy Laptop Finder](https://www.reddit.com/r/javascript/comments/1aik0da/the_relentless_pursuit_of_cuttingedge_javascript/)
 - [[AskJS] Making a JavaScript RPG Game Editor](https://www.reddit.com/r/javascript/comments/1aibx5i/askjs_making_a_javascript_rpg_game_editor/)
 - [[AskJS] Looking for TypeScript, Javascript developer to help build games and other cool tools.](https://www.reddit.com/r/javascript/comments/1ai596z/askjs_looking_for_typescript_javascript_developer/)
 - [[AskJS] When will StateofJS 2023 results be published? Alternatives?](https://www.reddit.com/r/javascript/comments/1ai45f0/askjs_when_will_stateofjs_2023_results_be/)
 - [jeasx - Server-side rendering with the ease of JSX](https://www.reddit.com/r/javascript/comments/1ai3skp/jeasx_serverside_rendering_with_the_ease_of_jsx/)
-- [[AskJS] Macrotask and click event](https://www.reddit.com/r/javascript/comments/1ai1a3t/askjs_macrotask_and_click_event/)
-- [Are your JavaScript applications primarily Web-based or non-Web-based?](https://www.reddit.com/r/javascript/comments/1ai0473/are_your_javascript_applications_primarily/)
-- [Showoff Saturday &lpar;February 03, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1ahr1ot/showoff_saturday_february_03_2024/)
-- [[AskJS] technical interview programming language ?](https://www.reddit.com/r/javascript/comments/1ahnfux/askjs_technical_interview_programming_language/)
-- [1 in 200 web users are still using Internet Explorer](https://www.reddit.com/r/javascript/comments/1ah84ba/1_in_200_web_users_are_still_using_internet/)
-- [[AskJS] Can you do this async javascript interview question?](https://www.reddit.com/r/javascript/comments/1ah4fng/askjs_can_you_do_this_async_javascript_interview/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
