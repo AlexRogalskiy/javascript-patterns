@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Aprende GIT de forma interactiva y en español con Learn git branching](https://www.reddit.com/r/javascript/comments/1aj1vpt/aprende_git_de_forma_interactiva_y_en_español_con/)
-- [[AskJS] Automatically generate/maintain index.{js,ts} files for default exports.](https://www.reddit.com/r/javascript/comments/1aiyko1/askjs_automatically_generatemaintain_indexjsts/)
-- [Ajel - a set of thin wrappers for try-catch, coupled with eslint rules to create a Result Type &lpar;Refactored - new api&rpar;](https://www.reddit.com/r/javascript/comments/1aiyegs/ajel_a_set_of_thin_wrappers_for_trycatch_coupled/)
-- [[Looking for contributors] Portcullis: Open source client portal for agencies, service providers, and solopreneurs](https://www.reddit.com/r/javascript/comments/1aiqruv/looking_for_contributors_portcullis_open_source/)
-- [DOS Wasm X: a new web based DOS Emulator](https://www.reddit.com/r/javascript/comments/1ain1p6/dos_wasm_x_a_new_web_based_dos_emulator/)
-- [The relentless pursuit of cutting-edge JavaScript frameworks inadvertently contributed to a less accessible web | Easy Laptop Finder](https://www.reddit.com/r/javascript/comments/1aik0da/the_relentless_pursuit_of_cuttingedge_javascript/)
-- [[AskJS] Making a JavaScript RPG Game Editor](https://www.reddit.com/r/javascript/comments/1aibx5i/askjs_making_a_javascript_rpg_game_editor/)
-- [[AskJS] Looking for TypeScript, Javascript developer to help build games and other cool tools.](https://www.reddit.com/r/javascript/comments/1ai596z/askjs_looking_for_typescript_javascript_developer/)
-- [[AskJS] When will StateofJS 2023 results be published? Alternatives?](https://www.reddit.com/r/javascript/comments/1ai45f0/askjs_when_will_stateofjs_2023_results_be/)
-- [jeasx - Server-side rendering with the ease of JSX](https://www.reddit.com/r/javascript/comments/1ai3skp/jeasx_serverside_rendering_with_the_ease_of_jsx/)
+- [Make your open source Javascript project friendlier with automation.](https://www.reddit.com/r/javascript/comments/1ajqsxr/make_your_open_source_javascript_project/)
+- [I built a site to recommend a song to friends using Sveltekit &amp; Deno, with Spotify playlist as db](https://www.reddit.com/r/javascript/comments/1ajo3za/i_built_a_site_to_recommend_a_song_to_friends/)
+- [My journey self-hosting common-voice - What a wild ride!](https://www.reddit.com/r/javascript/comments/1ajnz13/my_journey_selfhosting_commonvoice_what_a_wild/)
+- [My Tech Stack for 2024](https://www.reddit.com/r/javascript/comments/1ajnptl/my_tech_stack_for_2024/)
+- [Controversial Loops](https://www.reddit.com/r/javascript/comments/1ajktjl/controversial_loops/)
+- [Hot Module Replacement is Easy](https://www.reddit.com/r/javascript/comments/1ajkh4t/hot_module_replacement_is_easy/)
+- [Static Roots: Objects with Compile-Time Constant Addresses](https://www.reddit.com/r/javascript/comments/1ajk9w5/static_roots_objects_with_compiletime_constant/)
+- [[AskJS] Non-Web JS Applications](https://www.reddit.com/r/javascript/comments/1ajir20/askjs_nonweb_js_applications/)
+- [How to Convert an Image to Black and White with JavaScript?](https://www.reddit.com/r/javascript/comments/1ajebyd/how_to_convert_an_image_to_black_and_white_with/)
+- [Your /r/javascript recap for the week of January 29 - February 04](https://www.reddit.com/r/javascript/comments/1ajd499/your_rjavascript_recap_for_the_week_of_january_29/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
