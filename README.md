@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Magically swap components or update state on any component even if you have no access to it](https://www.reddit.com/r/javascript/comments/1akp4jf/magically_swap_components_or_update_state_on_any/)
+- [How to Make Web Share Work with Files](https://www.reddit.com/r/javascript/comments/1aknl0c/how_to_make_web_share_work_with_files/)
+- [Deno in 2023 - status quo of Deno](https://www.reddit.com/r/javascript/comments/1akkaxi/deno_in_2023_status_quo_of_deno/)
+- [Storybook 8 enters beta!](https://www.reddit.com/r/javascript/comments/1akdaxj/storybook_8_enters_beta/)
+- [[AskJS] Should I start with JS?](https://www.reddit.com/r/javascript/comments/1akcm6y/askjs_should_i_start_with_js/)
+- [[AskJS] problem with js script](https://www.reddit.com/r/javascript/comments/1akcdqr/askjs_problem_with_js_script/)
+- [Learnings from transitioning to Next.js 14 with Server Components](https://www.reddit.com/r/javascript/comments/1ak8s7t/learnings_from_transitioning_to_nextjs_14_with/)
+- [I scraped 500K Frontend jobs for 14 months and here are the Most Demanded Frontend Frameworks in 2023 &lpar;From November 1, 2022 to December 31, 2023&rpar;](https://www.reddit.com/r/javascript/comments/1ak610z/i_scraped_500k_frontend_jobs_for_14_months_and/)
+- [I built Tunnelmole, an open source tunnelling tool with no ngrok dependency](https://www.reddit.com/r/javascript/comments/1ak5v6t/i_built_tunnelmole_an_open_source_tunnelling_tool/)
 - [Make your open source Javascript project friendlier with automation.](https://www.reddit.com/r/javascript/comments/1ajqsxr/make_your_open_source_javascript_project/)
-- [I built a site to recommend a song to friends using Sveltekit &amp; Deno, with Spotify playlist as db](https://www.reddit.com/r/javascript/comments/1ajo3za/i_built_a_site_to_recommend_a_song_to_friends/)
-- [My journey self-hosting common-voice - What a wild ride!](https://www.reddit.com/r/javascript/comments/1ajnz13/my_journey_selfhosting_commonvoice_what_a_wild/)
-- [My Tech Stack for 2024](https://www.reddit.com/r/javascript/comments/1ajnptl/my_tech_stack_for_2024/)
-- [Controversial Loops](https://www.reddit.com/r/javascript/comments/1ajktjl/controversial_loops/)
-- [Hot Module Replacement is Easy](https://www.reddit.com/r/javascript/comments/1ajkh4t/hot_module_replacement_is_easy/)
-- [Static Roots: Objects with Compile-Time Constant Addresses](https://www.reddit.com/r/javascript/comments/1ajk9w5/static_roots_objects_with_compiletime_constant/)
-- [[AskJS] Non-Web JS Applications](https://www.reddit.com/r/javascript/comments/1ajir20/askjs_nonweb_js_applications/)
-- [How to Convert an Image to Black and White with JavaScript?](https://www.reddit.com/r/javascript/comments/1ajebyd/how_to_convert_an_image_to_black_and_white_with/)
-- [Your /r/javascript recap for the week of January 29 - February 04](https://www.reddit.com/r/javascript/comments/1ajd499/your_rjavascript_recap_for_the_week_of_january_29/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
