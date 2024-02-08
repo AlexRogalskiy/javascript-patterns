@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Node.js Community Debate Intensifies over Potentially Unbundling NPM](https://www.reddit.com/r/javascript/comments/1aliqx9/nodejs_community_debate_intensifies_over/)
+- [App Timeout In React: A Comprehensive Guide](https://www.reddit.com/r/javascript/comments/1alafwa/app_timeout_in_react_a_comprehensive_guide/)
+- [An idea for those struggling to get their first job...](https://www.reddit.com/r/javascript/comments/1al7t35/an_idea_for_those_struggling_to_get_their_first/)
+- [[AskJS] How do I learn from the odin project after finishing learning html and css from another source?](https://www.reddit.com/r/javascript/comments/1al4lwa/askjs_how_do_i_learn_from_the_odin_project_after/)
+- [jQuery 4.0.0 BETA out now](https://www.reddit.com/r/javascript/comments/1al08pe/jquery_400_beta_out_now/)
+- [WTF Wednesday &lpar;February 07, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1akxxvx/wtf_wednesday_february_07_2024/)
+- [Generate React or HTML with 10 free prompts. Tool for lazy client dev using snipt.ai. This is my first try at creating a product; it is simple and beautiful. I would LOVE to get feedback on it; there are probably some bugs, so be gentle](https://www.reddit.com/r/javascript/comments/1akx95q/generate_react_or_html_with_10_free_prompts_tool/)
+- [Browsertech podcast | Luke McGartland of Sequence talks film editing in the browser](https://www.reddit.com/r/javascript/comments/1aksunb/browsertech_podcast_luke_mcgartland_of_sequence/)
 - [Magically swap components or update state on any component even if you have no access to it](https://www.reddit.com/r/javascript/comments/1akp4jf/magically_swap_components_or_update_state_on_any/)
 - [How to Make Web Share Work with Files](https://www.reddit.com/r/javascript/comments/1aknl0c/how_to_make_web_share_work_with_files/)
-- [Deno in 2023 - status quo of Deno](https://www.reddit.com/r/javascript/comments/1akkaxi/deno_in_2023_status_quo_of_deno/)
-- [Storybook 8 enters beta!](https://www.reddit.com/r/javascript/comments/1akdaxj/storybook_8_enters_beta/)
-- [[AskJS] Should I start with JS?](https://www.reddit.com/r/javascript/comments/1akcm6y/askjs_should_i_start_with_js/)
-- [[AskJS] problem with js script](https://www.reddit.com/r/javascript/comments/1akcdqr/askjs_problem_with_js_script/)
-- [Learnings from transitioning to Next.js 14 with Server Components](https://www.reddit.com/r/javascript/comments/1ak8s7t/learnings_from_transitioning_to_nextjs_14_with/)
-- [I scraped 500K Frontend jobs for 14 months and here are the Most Demanded Frontend Frameworks in 2023 &lpar;From November 1, 2022 to December 31, 2023&rpar;](https://www.reddit.com/r/javascript/comments/1ak610z/i_scraped_500k_frontend_jobs_for_14_months_and/)
-- [I built Tunnelmole, an open source tunnelling tool with no ngrok dependency](https://www.reddit.com/r/javascript/comments/1ak5v6t/i_built_tunnelmole_an_open_source_tunnelling_tool/)
-- [Make your open source Javascript project friendlier with automation.](https://www.reddit.com/r/javascript/comments/1ajqsxr/make_your_open_source_javascript_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
