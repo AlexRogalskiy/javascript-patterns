@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Node.js Community Debate Intensifies over Potentially Unbundling NPM](https://www.reddit.com/r/javascript/comments/1aliqx9/nodejs_community_debate_intensifies_over/)
-- [App Timeout In React: A Comprehensive Guide](https://www.reddit.com/r/javascript/comments/1alafwa/app_timeout_in_react_a_comprehensive_guide/)
-- [An idea for those struggling to get their first job...](https://www.reddit.com/r/javascript/comments/1al7t35/an_idea_for_those_struggling_to_get_their_first/)
-- [[AskJS] How do I learn from the odin project after finishing learning html and css from another source?](https://www.reddit.com/r/javascript/comments/1al4lwa/askjs_how_do_i_learn_from_the_odin_project_after/)
-- [jQuery 4.0.0 BETA out now](https://www.reddit.com/r/javascript/comments/1al08pe/jquery_400_beta_out_now/)
-- [WTF Wednesday &lpar;February 07, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1akxxvx/wtf_wednesday_february_07_2024/)
-- [Generate React or HTML with 10 free prompts. Tool for lazy client dev using snipt.ai. This is my first try at creating a product; it is simple and beautiful. I would LOVE to get feedback on it; there are probably some bugs, so be gentle](https://www.reddit.com/r/javascript/comments/1akx95q/generate_react_or_html_with_10_free_prompts_tool/)
-- [Browsertech podcast | Luke McGartland of Sequence talks film editing in the browser](https://www.reddit.com/r/javascript/comments/1aksunb/browsertech_podcast_luke_mcgartland_of_sequence/)
-- [Magically swap components or update state on any component even if you have no access to it](https://www.reddit.com/r/javascript/comments/1akp4jf/magically_swap_components_or_update_state_on_any/)
-- [How to Make Web Share Work with Files](https://www.reddit.com/r/javascript/comments/1aknl0c/how_to_make_web_share_work_with_files/)
+- [[AskJS] Is a precomputed lookup table with a limited domain faster than sin and cos?](https://www.reddit.com/r/javascript/comments/1amb00j/askjs_is_a_precomputed_lookup_table_with_a/)
+- [[AskJS] How to add an edit functionality in a todo list project](https://www.reddit.com/r/javascript/comments/1amakg4/askjs_how_to_add_an_edit_functionality_in_a_todo/)
+- [Introducing fsx: A modern filesystem API for JavaScript](https://www.reddit.com/r/javascript/comments/1am7l8g/introducing_fsx_a_modern_filesystem_api_for/)
+- [[AskJS] Is there any way to load .so and .h files without javascript?](https://www.reddit.com/r/javascript/comments/1am6qm4/askjs_is_there_any_way_to_load_so_and_h_files/)
+- [10 JavaScript MCQ Questions to Practice with Answers](https://www.reddit.com/r/javascript/comments/1am4tbs/10_javascript_mcq_questions_to_practice_with/)
+- [[AskJS] How do you distribute css for shared UI packages?](https://www.reddit.com/r/javascript/comments/1am3z6r/askjs_how_do_you_distribute_css_for_shared_ui/)
+- [[AskJS] What all kind of projects to build so that majority Javascript concepts are covered?](https://www.reddit.com/r/javascript/comments/1am25eg/askjs_what_all_kind_of_projects_to_build_so_that/)
+- [Blog on &quot;Embracing Type Definitions and JSDoc Comments in JS packages&quot;](https://www.reddit.com/r/javascript/comments/1am1ep2/blog_on_embracing_type_definitions_and_jsdoc/)
+- [Implementing DDSketch with Redis, a LUA Script, and TypeScript for Scalable Fast Quantiles](https://www.reddit.com/r/javascript/comments/1am08go/implementing_ddsketch_with_redis_a_lua_script_and/)
+- [Strict Mode in ECMAScript. Complete guide](https://www.reddit.com/r/javascript/comments/1alypu1/strict_mode_in_ecmascript_complete_guide/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
