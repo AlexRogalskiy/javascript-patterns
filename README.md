@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I have created Tailwind but for animations &lpar;OS NPM package&rpar;](https://www.reddit.com/r/javascript/comments/1an1bjd/i_have_created_tailwind_but_for_animations_os_npm/)
+- [Clean Architecture in React](https://www.reddit.com/r/javascript/comments/1amtjlp/clean_architecture_in_react/)
+- [[AskJS] Access to fetch at &#39;a random api&#39; from origin &#39;http : //127.0.0.1 :5500&#39; has been blocked by CORS policy](https://www.reddit.com/r/javascript/comments/1amiqyg/askjs_access_to_fetch_at_a_random_api_from_origin/)
+- [Roadmap to Learn JavaScript in 2024](https://www.reddit.com/r/javascript/comments/1amgtwu/roadmap_to_learn_javascript_in_2024/)
+- [the TC-39 just introduced a new stage: stage 2.7](https://www.reddit.com/r/javascript/comments/1amcyoj/the_tc39_just_introduced_a_new_stage_stage_27/)
 - [[AskJS] Is a precomputed lookup table with a limited domain faster than sin and cos?](https://www.reddit.com/r/javascript/comments/1amb00j/askjs_is_a_precomputed_lookup_table_with_a/)
 - [[AskJS] How to add an edit functionality in a todo list project](https://www.reddit.com/r/javascript/comments/1amakg4/askjs_how_to_add_an_edit_functionality_in_a_todo/)
 - [Introducing fsx: A modern filesystem API for JavaScript](https://www.reddit.com/r/javascript/comments/1am7l8g/introducing_fsx_a_modern_filesystem_api_for/)
 - [[AskJS] Is there any way to load .so and .h files without javascript?](https://www.reddit.com/r/javascript/comments/1am6qm4/askjs_is_there_any_way_to_load_so_and_h_files/)
 - [10 JavaScript MCQ Questions to Practice with Answers](https://www.reddit.com/r/javascript/comments/1am4tbs/10_javascript_mcq_questions_to_practice_with/)
-- [[AskJS] How do you distribute css for shared UI packages?](https://www.reddit.com/r/javascript/comments/1am3z6r/askjs_how_do_you_distribute_css_for_shared_ui/)
-- [[AskJS] What all kind of projects to build so that majority Javascript concepts are covered?](https://www.reddit.com/r/javascript/comments/1am25eg/askjs_what_all_kind_of_projects_to_build_so_that/)
-- [Blog on &quot;Embracing Type Definitions and JSDoc Comments in JS packages&quot;](https://www.reddit.com/r/javascript/comments/1am1ep2/blog_on_embracing_type_definitions_and_jsdoc/)
-- [Implementing DDSketch with Redis, a LUA Script, and TypeScript for Scalable Fast Quantiles](https://www.reddit.com/r/javascript/comments/1am08go/implementing_ddsketch_with_redis_a_lua_script_and/)
-- [Strict Mode in ECMAScript. Complete guide](https://www.reddit.com/r/javascript/comments/1alypu1/strict_mode_in_ecmascript_complete_guide/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
