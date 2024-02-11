@@ -367,6 +367,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Dreamix posts*
 
 <!-- DREAMIX-POST-LIST:START -->
+- [Tanstack Query v5 migration made easy – Key Aspects &amp; Breaking Changes](https://dreamix.eu/insights/tanstack-query-v5-migration-made-easy-key-aspects-breaking-changes/)
 - [Leveraging Google Places API and Google Maps API for custom area management solutions](https://dreamix.eu/insights/leveraging-google-places-api-and-google-maps-api-for-custom-area-management-solutions/)
 - [Building Your First NestJS Application: A Step-by-Step Guide](https://dreamix.eu/insights/building-your-first-nestjs-application-a-step-by-step-guide/)
 - [Node.js Project Structure: A Short Guide](https://dreamix.eu/insights/node-js-project-structure-a-short-guide/)
@@ -376,7 +377,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Why Choose React for Your Software Product Development?](https://dreamix.eu/insights/react-software-development/)
 - [First Steps in React: Learn, Build, Enjoy](https://dreamix.eu/insights/first-steps-in-react-learn-build-enjoy/)
 - [Top 10 Trending JavaScript Frameworks](https://dreamix.eu/insights/top-10-trending-javascript-frameworks/)
-- [Java vs JavaScript: How to Choose the Right Backend Technology?](https://dreamix.eu/insights/java-vs-javascript-how-to-choose-the-right-backend-technology/)
 <!-- DREAMIX-POST-LIST:END -->
 
 ### *NodeSource posts*
