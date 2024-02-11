@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I&#39;ve made a random data generator library.](https://www.reddit.com/r/javascript/comments/1anowmv/ive_made_a_random_data_generator_library/)
+- [How I made a 1K Pinball Game in JavaScript - Lu1ky Pinball](https://www.reddit.com/r/javascript/comments/1annfat/how_i_made_a_1k_pinball_game_in_javascript_lu1ky/)
+- [Squeezing Last Bit Of JavaScript Performance For My Automation Game](https://www.reddit.com/r/javascript/comments/1anibc8/squeezing_last_bit_of_javascript_performance_for/)
+- [ChatGPT - JavaScript GPT](https://www.reddit.com/r/javascript/comments/1ang3pc/chatgpt_javascript_gpt/)
+- [Showoff Saturday &lpar;February 10, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1anbbe2/showoff_saturday_february_10_2024/)
+- [Clone ChatGPT in Terminal with JavaScript and Clack - a tutorial I made as an introduction to APIs, TUIs and more](https://www.reddit.com/r/javascript/comments/1ana6ai/clone_chatgpt_in_terminal_with_javascript_and/)
+- [JavaScript Arrow Functions vs Regular Functions](https://www.reddit.com/r/javascript/comments/1an9xaw/javascript_arrow_functions_vs_regular_functions/)
 - [I have created Tailwind but for animations &lpar;OS NPM package&rpar;](https://www.reddit.com/r/javascript/comments/1an1bjd/i_have_created_tailwind_but_for_animations_os_npm/)
 - [Clean Architecture in React](https://www.reddit.com/r/javascript/comments/1amtjlp/clean_architecture_in_react/)
 - [[AskJS] Access to fetch at &#39;a random api&#39; from origin &#39;http : //127.0.0.1 :5500&#39; has been blocked by CORS policy](https://www.reddit.com/r/javascript/comments/1amiqyg/askjs_access_to_fetch_at_a_random_api_from_origin/)
-- [Roadmap to Learn JavaScript in 2024](https://www.reddit.com/r/javascript/comments/1amgtwu/roadmap_to_learn_javascript_in_2024/)
-- [the TC-39 just introduced a new stage: stage 2.7](https://www.reddit.com/r/javascript/comments/1amcyoj/the_tc39_just_introduced_a_new_stage_stage_27/)
-- [[AskJS] Is a precomputed lookup table with a limited domain faster than sin and cos?](https://www.reddit.com/r/javascript/comments/1amb00j/askjs_is_a_precomputed_lookup_table_with_a/)
-- [[AskJS] How to add an edit functionality in a todo list project](https://www.reddit.com/r/javascript/comments/1amakg4/askjs_how_to_add_an_edit_functionality_in_a_todo/)
-- [Introducing fsx: A modern filesystem API for JavaScript](https://www.reddit.com/r/javascript/comments/1am7l8g/introducing_fsx_a_modern_filesystem_api_for/)
-- [[AskJS] Is there any way to load .so and .h files without javascript?](https://www.reddit.com/r/javascript/comments/1am6qm4/askjs_is_there_any_way_to_load_so_and_h_files/)
-- [10 JavaScript MCQ Questions to Practice with Answers](https://www.reddit.com/r/javascript/comments/1am4tbs/10_javascript_mcq_questions_to_practice_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
