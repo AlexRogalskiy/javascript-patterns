@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] How did Native Client connect to the DOM via &lt;embed&gt; and &lt;object&gt; for messaging with sandboxed code execution?](https://www.reddit.com/r/javascript/comments/1aolfe0/askjs_how_did_native_client_connect_to_the_dom/)
+- [LLRT: Amazon’s new JavaScript runtime based on QuickJS](https://www.reddit.com/r/javascript/comments/1aogfvw/llrt_amazons_new_javascript_runtime_based_on/)
+- [Using Web IDL for better web docs](https://www.reddit.com/r/javascript/comments/1aogda1/using_web_idl_for_better_web_docs/)
+- [GitHub - VdustR/simple-ignore: One `.gitignore` file to rule them all.](https://www.reddit.com/r/javascript/comments/1ao73jl/github_vdustrsimpleignore_one_gitignore_file_to/)
+- [[AskJS] 17m, quite confused w life please help](https://www.reddit.com/r/javascript/comments/1ao6y6l/askjs_17m_quite_confused_w_life_please_help/)
+- [Bun Native Messaging host](https://www.reddit.com/r/javascript/comments/1ao291h/bun_native_messaging_host/)
 - [I&#39;ve made a random data generator library.](https://www.reddit.com/r/javascript/comments/1anowmv/ive_made_a_random_data_generator_library/)
 - [How I made a 1K Pinball Game in JavaScript - Lu1ky Pinball](https://www.reddit.com/r/javascript/comments/1annfat/how_i_made_a_1k_pinball_game_in_javascript_lu1ky/)
 - [Squeezing Last Bit Of JavaScript Performance For My Automation Game](https://www.reddit.com/r/javascript/comments/1anibc8/squeezing_last_bit_of_javascript_performance_for/)
 - [ChatGPT - JavaScript GPT](https://www.reddit.com/r/javascript/comments/1ang3pc/chatgpt_javascript_gpt/)
-- [Showoff Saturday &lpar;February 10, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1anbbe2/showoff_saturday_february_10_2024/)
-- [Clone ChatGPT in Terminal with JavaScript and Clack - a tutorial I made as an introduction to APIs, TUIs and more](https://www.reddit.com/r/javascript/comments/1ana6ai/clone_chatgpt_in_terminal_with_javascript_and/)
-- [JavaScript Arrow Functions vs Regular Functions](https://www.reddit.com/r/javascript/comments/1an9xaw/javascript_arrow_functions_vs_regular_functions/)
-- [I have created Tailwind but for animations &lpar;OS NPM package&rpar;](https://www.reddit.com/r/javascript/comments/1an1bjd/i_have_created_tailwind_but_for_animations_os_npm/)
-- [Clean Architecture in React](https://www.reddit.com/r/javascript/comments/1amtjlp/clean_architecture_in_react/)
-- [[AskJS] Access to fetch at &#39;a random api&#39; from origin &#39;http : //127.0.0.1 :5500&#39; has been blocked by CORS policy](https://www.reddit.com/r/javascript/comments/1amiqyg/askjs_access_to_fetch_at_a_random_api_from_origin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
