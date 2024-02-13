@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Puter Terminal: open-source browser terminal with 27 commands, piping, redirects, and more!](https://www.reddit.com/r/javascript/comments/1aph5go/puter_terminal_opensource_browser_terminal_with/)
+- [ECMAScript News: free weekly email newsletter about JS and tools.](https://www.reddit.com/r/javascript/comments/1apa3up/ecmascript_news_free_weekly_email_newsletter/)
+- [GPU accelerated ECMAScript renderer for Advanced SubStation Alpha subtitles for web video](https://www.reddit.com/r/javascript/comments/1ap7i7b/gpu_accelerated_ecmascript_renderer_for_advanced/)
+- [The Best Javascript Books for beginners](https://www.reddit.com/r/javascript/comments/1ap5iji/the_best_javascript_books_for_beginners/)
+- [SimSIMD: up to 100x faster vector similarity functions for f64, f32, f16, i8, and binary vectors using SIMD for both x86 AVX2 &amp; AVX-512 and Arm NEON &amp; SVE](https://www.reddit.com/r/javascript/comments/1ap3zd4/simsimd_up_to_100x_faster_vector_similarity/)
+- [Node.js script to interactively create training data &lpar;fine-tuning&rpar; in conversational format](https://www.reddit.com/r/javascript/comments/1aozrwq/nodejs_script_to_interactively_create_training/)
+- [[AskJS] Adjusting Base Font Size for Responsiveness: Practical or Problematic?](https://www.reddit.com/r/javascript/comments/1aoz4dt/askjs_adjusting_base_font_size_for_responsiveness/)
+- [Your /r/javascript recap for the week of February 05 - February 11 2024](https://www.reddit.com/r/javascript/comments/1aowonn/your_rjavascript_recap_for_the_week_of_february/)
+- [what would you prefer personally ?](https://www.reddit.com/r/javascript/comments/1aov006/what_would_you_prefer_personally/)
 - [[AskJS] How did Native Client connect to the DOM via &lt;embed&gt; and &lt;object&gt; for messaging with sandboxed code execution?](https://www.reddit.com/r/javascript/comments/1aolfe0/askjs_how_did_native_client_connect_to_the_dom/)
-- [LLRT: Amazon’s new JavaScript runtime based on QuickJS](https://www.reddit.com/r/javascript/comments/1aogfvw/llrt_amazons_new_javascript_runtime_based_on/)
-- [Using Web IDL for better web docs](https://www.reddit.com/r/javascript/comments/1aogda1/using_web_idl_for_better_web_docs/)
-- [GitHub - VdustR/simple-ignore: One `.gitignore` file to rule them all.](https://www.reddit.com/r/javascript/comments/1ao73jl/github_vdustrsimpleignore_one_gitignore_file_to/)
-- [[AskJS] 17m, quite confused w life please help](https://www.reddit.com/r/javascript/comments/1ao6y6l/askjs_17m_quite_confused_w_life_please_help/)
-- [Bun Native Messaging host](https://www.reddit.com/r/javascript/comments/1ao291h/bun_native_messaging_host/)
-- [I&#39;ve made a random data generator library.](https://www.reddit.com/r/javascript/comments/1anowmv/ive_made_a_random_data_generator_library/)
-- [How I made a 1K Pinball Game in JavaScript - Lu1ky Pinball](https://www.reddit.com/r/javascript/comments/1annfat/how_i_made_a_1k_pinball_game_in_javascript_lu1ky/)
-- [Squeezing Last Bit Of JavaScript Performance For My Automation Game](https://www.reddit.com/r/javascript/comments/1anibc8/squeezing_last_bit_of_javascript_performance_for/)
-- [ChatGPT - JavaScript GPT](https://www.reddit.com/r/javascript/comments/1ang3pc/chatgpt_javascript_gpt/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
