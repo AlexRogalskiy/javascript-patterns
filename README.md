@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A love letter to Apache Echarts](https://www.reddit.com/r/javascript/comments/1aqp06d/a_love_letter_to_apache_echarts/)
+- [A fast, accurate and multilingual fuzzy search library for the frontend.](https://www.reddit.com/r/javascript/comments/1aqlhss/a_fast_accurate_and_multilingual_fuzzy_search/)
+- [WTF Wednesday &lpar;February 14, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1aqhqbk/wtf_wednesday_february_14_2024/)
 - [[AskJS] Use Vannila Html,Css and JS to build something](https://www.reddit.com/r/javascript/comments/1aq74zm/askjs_use_vannila_htmlcss_and_js_to_build/)
 - [[AskJS] What happened to task runners such as Grunt and Gulp?](https://www.reddit.com/r/javascript/comments/1aq5i73/askjs_what_happened_to_task_runners_such_as_grunt/)
 - [Introducing: Tempo &lpar;by FormKit&rpar; — The easiest way to work with dates in Javascript. Built from the ground up to be as small and easy to use as possible — including first-class support for timezone operations.](https://www.reddit.com/r/javascript/comments/1aq0isz/introducing_tempo_by_formkit_the_easiest_way_to/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Package to simplify collection hours of operation in forms](https://www.reddit.com/r/javascript/comments/1apvyey/package_to_simplify_collection_hours_of_operation/)
 - [Node.js Native Messaging host using an async generator, WHATWG Streams, resizable ArrayBuffer, and DataView to process STDIO](https://www.reddit.com/r/javascript/comments/1apokeu/nodejs_native_messaging_host_using_an_async/)
 - [Puter Terminal: open-source browser terminal with 27 commands, piping, redirects, and more!](https://www.reddit.com/r/javascript/comments/1aph5go/puter_terminal_opensource_browser_terminal_with/)
-- [ECMAScript News: free weekly email newsletter about JS and tools.](https://www.reddit.com/r/javascript/comments/1apa3up/ecmascript_news_free_weekly_email_newsletter/)
-- [GPU accelerated ECMAScript renderer for Advanced SubStation Alpha subtitles for web video](https://www.reddit.com/r/javascript/comments/1ap7i7b/gpu_accelerated_ecmascript_renderer_for_advanced/)
-- [The Best Javascript Books for beginners](https://www.reddit.com/r/javascript/comments/1ap5iji/the_best_javascript_books_for_beginners/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
