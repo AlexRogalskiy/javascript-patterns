@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Reactive magic in Svelte 5: Understanding Runes](https://www.infoworld.com/article/3712688/reactive-magic-in-svelte-5-understanding-runes.html#tk.rss_javascript)
 - [Hono web framework adds static site generation](https://www.infoworld.com/article/3712881/hono-web-framework-adds-static-site-generation.html#tk.rss_javascript)
 - [jQuery 4.0 trims browser support, removes APIs](https://www.infoworld.com/article/3712823/jquery-40-trims-browser-support-removes-apis.html#tk.rss_javascript)
 - [Astro boosts HTML file control, i18n support](https://www.infoworld.com/article/3712802/astro-boosts-html-file-control-i18n-support.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [SortableJS brings drag-and-drop lists to Microsoft Blazor](https://www.infoworld.com/article/3712301/sortablejs-brings-drag-and-drop-lists-to-microsoft-blazor.html#tk.rss_javascript)
 - [Vue framework speeds template parsing, improves reactivity](https://www.infoworld.com/article/3712182/vue-framework-speeds-template-parsing-improves-reactivity.html#tk.rss_javascript)
 - [Astro web framework adds accessibility audit rules](https://www.infoworld.com/article/3712080/astro-web-framework-adds-accessibility-audit-rules.html#tk.rss_javascript)
-- [Oracle introduces JavaScript support in MySQL](https://www.infoworld.com/article/3711862/oracle-introduces-javascript-support-in-mysql.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
