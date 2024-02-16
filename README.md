@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [A love letter to Apache Echarts](https://www.reddit.com/r/javascript/comments/1aqp06d/a_love_letter_to_apache_echarts/)
-- [A fast, accurate and multilingual fuzzy search library for the frontend.](https://www.reddit.com/r/javascript/comments/1aqlhss/a_fast_accurate_and_multilingual_fuzzy_search/)
-- [WTF Wednesday &lpar;February 14, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1aqhqbk/wtf_wednesday_february_14_2024/)
-- [[AskJS] Use Vannila Html,Css and JS to build something](https://www.reddit.com/r/javascript/comments/1aq74zm/askjs_use_vannila_htmlcss_and_js_to_build/)
-- [[AskJS] What happened to task runners such as Grunt and Gulp?](https://www.reddit.com/r/javascript/comments/1aq5i73/askjs_what_happened_to_task_runners_such_as_grunt/)
-- [Introducing: Tempo &lpar;by FormKit&rpar; — The easiest way to work with dates in Javascript. Built from the ground up to be as small and easy to use as possible — including first-class support for timezone operations.](https://www.reddit.com/r/javascript/comments/1aq0isz/introducing_tempo_by_formkit_the_easiest_way_to/)
-- [Express.js Spam PRs Incident Highlights the Commoditization of Open Source Contributions](https://www.reddit.com/r/javascript/comments/1apztft/expressjs_spam_prs_incident_highlights_the/)
-- [Package to simplify collection hours of operation in forms](https://www.reddit.com/r/javascript/comments/1apvyey/package_to_simplify_collection_hours_of_operation/)
-- [Node.js Native Messaging host using an async generator, WHATWG Streams, resizable ArrayBuffer, and DataView to process STDIO](https://www.reddit.com/r/javascript/comments/1apokeu/nodejs_native_messaging_host_using_an_async/)
-- [Puter Terminal: open-source browser terminal with 27 commands, piping, redirects, and more!](https://www.reddit.com/r/javascript/comments/1aph5go/puter_terminal_opensource_browser_terminal_with/)
+- [My game dev project, Star Citizen Like Planet Tech &lpar;planet creating toolkit&rpar;](https://www.reddit.com/r/javascript/comments/1arsvp9/my_game_dev_project_star_citizen_like_planet_tech/)
+- [[AskJS] video playback error and rendering on a website](https://www.reddit.com/r/javascript/comments/1aroxn0/askjs_video_playback_error_and_rendering_on_a/)
+- [Storybook’s Visual Tests addon enters public beta](https://www.reddit.com/r/javascript/comments/1arjqjy/storybooks_visual_tests_addon_enters_public_beta/)
+- [[AskJS] Proper way to fork and use package in own repo? &lpar;Apache License, Version 2.0&rpar;](https://www.reddit.com/r/javascript/comments/1arj58q/askjs_proper_way_to_fork_and_use_package_in_own/)
+- [[AskJS] Help me understand Railway Oriented Programming. If each function depends on previous functions to validate its params, how can we write reuseable functions that aren&#39;t limited to specific chains/combinations of previous functions?](https://www.reddit.com/r/javascript/comments/1arfug8/askjs_help_me_understand_railway_oriented/)
+- [Who holds the edge in the JavaScript framework wars?](https://www.reddit.com/r/javascript/comments/1arfbnl/who_holds_the_edge_in_the_javascript_framework/)
+- [[Bounty] 300$ to implement this feature in Gdevelop](https://www.reddit.com/r/javascript/comments/1ardw4l/bounty_300_to_implement_this_feature_in_gdevelop/)
+- [[AskJS] Array output](https://www.reddit.com/r/javascript/comments/1arby5k/askjs_array_output/)
+- [Introducing CustUp, open source highly customizable JavaScript file upload library with zero dependencies, you can customize it to fit any project, create a new UI or simply choose from the list of available UIs, it also supports image generation with DALL.E-3](https://www.reddit.com/r/javascript/comments/1arap98/introducing_custup_open_source_highly/)
+- [Union, intersection, difference, and more are coming to JavaScript Sets](https://www.reddit.com/r/javascript/comments/1ara32w/union_intersection_difference_and_more_are_coming/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
