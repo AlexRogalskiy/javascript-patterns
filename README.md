@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [It’s Official, Apple Kills Web Apps in the EU - Open Web Advocacy](https://www.reddit.com/r/javascript/comments/1asnxaf/its_official_apple_kills_web_apps_in_the_eu_open/)
+- [[AskJS] Need help picking a degree project.](https://www.reddit.com/r/javascript/comments/1ashg89/askjs_need_help_picking_a_degree_project/)
+- [[AskJS] Seeking Advice on Advanced JavaScript Projects to Stand Out and Gain Enterprise Skills](https://www.reddit.com/r/javascript/comments/1asel80/askjs_seeking_advice_on_advanced_javascript/)
+- [[AskJS] Which React Framework you recommend for Enterprise use](https://www.reddit.com/r/javascript/comments/1asbhy7/askjs_which_react_framework_you_recommend_for/)
+- [Gravity Gardens CSS3 Gaming Demo](https://www.reddit.com/r/javascript/comments/1as2sn2/gravity_gardens_css3_gaming_demo/)
+- [[AskJS] js lib to import static HTML just like react &amp; angular](https://www.reddit.com/r/javascript/comments/1as2i5l/askjs_js_lib_to_import_static_html_just_like/)
+- [Optional Chaining in JavaScript – Explained with Examples](https://www.reddit.com/r/javascript/comments/1as18yo/optional_chaining_in_javascript_explained_with/)
+- [[AskJS] How would you set dynamic shebang line to run the same script using different interpreters &lpar;JavaScript runtimes&rpar;?](https://www.reddit.com/r/javascript/comments/1as03bs/askjs_how_would_you_set_dynamic_shebang_line_to/)
 - [My game dev project, Star Citizen Like Planet Tech &lpar;planet creating toolkit&rpar;](https://www.reddit.com/r/javascript/comments/1arsvp9/my_game_dev_project_star_citizen_like_planet_tech/)
 - [[AskJS] video playback error and rendering on a website](https://www.reddit.com/r/javascript/comments/1aroxn0/askjs_video_playback_error_and_rendering_on_a/)
-- [Storybook’s Visual Tests addon enters public beta](https://www.reddit.com/r/javascript/comments/1arjqjy/storybooks_visual_tests_addon_enters_public_beta/)
-- [[AskJS] Proper way to fork and use package in own repo? &lpar;Apache License, Version 2.0&rpar;](https://www.reddit.com/r/javascript/comments/1arj58q/askjs_proper_way_to_fork_and_use_package_in_own/)
-- [[AskJS] Help me understand Railway Oriented Programming. If each function depends on previous functions to validate its params, how can we write reuseable functions that aren&#39;t limited to specific chains/combinations of previous functions?](https://www.reddit.com/r/javascript/comments/1arfug8/askjs_help_me_understand_railway_oriented/)
-- [Who holds the edge in the JavaScript framework wars?](https://www.reddit.com/r/javascript/comments/1arfbnl/who_holds_the_edge_in_the_javascript_framework/)
-- [[Bounty] 300$ to implement this feature in Gdevelop](https://www.reddit.com/r/javascript/comments/1ardw4l/bounty_300_to_implement_this_feature_in_gdevelop/)
-- [[AskJS] Array output](https://www.reddit.com/r/javascript/comments/1arby5k/askjs_array_output/)
-- [Introducing CustUp, open source highly customizable JavaScript file upload library with zero dependencies, you can customize it to fit any project, create a new UI or simply choose from the list of available UIs, it also supports image generation with DALL.E-3](https://www.reddit.com/r/javascript/comments/1arap98/introducing_custup_open_source_highly/)
-- [Union, intersection, difference, and more are coming to JavaScript Sets](https://www.reddit.com/r/javascript/comments/1ara32w/union_intersection_difference_and_more_are_coming/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
