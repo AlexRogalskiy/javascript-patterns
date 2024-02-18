@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [It’s Official, Apple Kills Web Apps in the EU - Open Web Advocacy](https://www.reddit.com/r/javascript/comments/1asnxaf/its_official_apple_kills_web_apps_in_the_eu_open/)
-- [[AskJS] Need help picking a degree project.](https://www.reddit.com/r/javascript/comments/1ashg89/askjs_need_help_picking_a_degree_project/)
-- [[AskJS] Seeking Advice on Advanced JavaScript Projects to Stand Out and Gain Enterprise Skills](https://www.reddit.com/r/javascript/comments/1asel80/askjs_seeking_advice_on_advanced_javascript/)
-- [[AskJS] Which React Framework you recommend for Enterprise use](https://www.reddit.com/r/javascript/comments/1asbhy7/askjs_which_react_framework_you_recommend_for/)
-- [Gravity Gardens CSS3 Gaming Demo](https://www.reddit.com/r/javascript/comments/1as2sn2/gravity_gardens_css3_gaming_demo/)
-- [[AskJS] js lib to import static HTML just like react &amp; angular](https://www.reddit.com/r/javascript/comments/1as2i5l/askjs_js_lib_to_import_static_html_just_like/)
-- [Optional Chaining in JavaScript – Explained with Examples](https://www.reddit.com/r/javascript/comments/1as18yo/optional_chaining_in_javascript_explained_with/)
-- [[AskJS] How would you set dynamic shebang line to run the same script using different interpreters &lpar;JavaScript runtimes&rpar;?](https://www.reddit.com/r/javascript/comments/1as03bs/askjs_how_would_you_set_dynamic_shebang_line_to/)
-- [My game dev project, Star Citizen Like Planet Tech &lpar;planet creating toolkit&rpar;](https://www.reddit.com/r/javascript/comments/1arsvp9/my_game_dev_project_star_citizen_like_planet_tech/)
-- [[AskJS] video playback error and rendering on a website](https://www.reddit.com/r/javascript/comments/1aroxn0/askjs_video_playback_error_and_rendering_on_a/)
+- [[AskJS] What is the best way to learn JavaScript on your own?](https://www.reddit.com/r/javascript/comments/1atheh6/askjs_what_is_the_best_way_to_learn_javascript_on/)
+- [“Tempo”: date and time library that works with JavaScript `Date` objects and supports time zones](https://www.reddit.com/r/javascript/comments/1atdp86/tempo_date_and_time_library_that_works_with/)
+- [Immutable array updates with Array.prototype.with | Blog | web.dev](https://www.reddit.com/r/javascript/comments/1atdo6n/immutable_array_updates_with_arrayprototypewith/)
+- [TypeScript Swagger Editor, TypeScript code about the Swagger API in the browser](https://www.reddit.com/r/javascript/comments/1atb48u/typescript_swagger_editor_typescript_code_about/)
+- [AngularJS Progress Bar Date Countdown - Version 5.1 Update](https://www.reddit.com/r/javascript/comments/1at8sn2/angularjs_progress_bar_date_countdown_version_51/)
+- [JSR first impressions &lpar;new package repository by Deno team&rpar;](https://www.reddit.com/r/javascript/comments/1at7y59/jsr_first_impressions_new_package_repository_by/)
+- [crash-report-js: Tracks User&#39;s actions in frontend applications and create crash report](https://www.reddit.com/r/javascript/comments/1at6uks/crashreportjs_tracks_users_actions_in_frontend/)
+- [ti2c: a framework for performant immutables](https://www.reddit.com/r/javascript/comments/1at355x/ti2c_a_framework_for_performant_immutables/)
+- [An SSH client in the browser](https://www.reddit.com/r/javascript/comments/1aszh9t/an_ssh_client_in_the_browser/)
+- [Showoff Saturday &lpar;February 17, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1asws0p/showoff_saturday_february_17_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
