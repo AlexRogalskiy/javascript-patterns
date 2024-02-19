@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Learning from Odin, please give me tips :&rpar;](https://www.reddit.com/r/javascript/comments/1au7wzg/askjs_learning_from_odin_please_give_me_tips/)
+- [ESM Bundling for Node with Webpack](https://www.reddit.com/r/javascript/comments/1atylf5/esm_bundling_for_node_with_webpack/)
+- [How to properly handle NodeJS Transform Stream Backpressure](https://www.reddit.com/r/javascript/comments/1atxkc1/how_to_properly_handle_nodejs_transform_stream/)
+- [JS + no-code as backend?](https://www.reddit.com/r/javascript/comments/1atv123/js_nocode_as_backend/)
+- [[AskJS] If you don&#39;t use TypeScript, tell me why &lpar;5 year follow up&rpar;](https://www.reddit.com/r/javascript/comments/1atu10w/askjs_if_you_dont_use_typescript_tell_me_why_5/)
+- [Union, intersection, difference, and more are coming to JavaScript Sets](https://www.reddit.com/r/javascript/comments/1atqeli/union_intersection_difference_and_more_are_coming/)
+- [nmathew98/txn: A container for distributed transactions](https://www.reddit.com/r/javascript/comments/1ato2ms/nmathew98txn_a_container_for_distributed/)
+- [nmathew98/incremental: Simple composable async state management utilities](https://www.reddit.com/r/javascript/comments/1ato1x6/nmathew98incremental_simple_composable_async/)
+- [[AskJS] Fastest real-time MP3 encoder?](https://www.reddit.com/r/javascript/comments/1atl5yn/askjs_fastest_realtime_mp3_encoder/)
 - [[AskJS] What is the best way to learn JavaScript on your own?](https://www.reddit.com/r/javascript/comments/1atheh6/askjs_what_is_the_best_way_to_learn_javascript_on/)
-- [“Tempo”: date and time library that works with JavaScript `Date` objects and supports time zones](https://www.reddit.com/r/javascript/comments/1atdp86/tempo_date_and_time_library_that_works_with/)
-- [Immutable array updates with Array.prototype.with | Blog | web.dev](https://www.reddit.com/r/javascript/comments/1atdo6n/immutable_array_updates_with_arrayprototypewith/)
-- [TypeScript Swagger Editor, TypeScript code about the Swagger API in the browser](https://www.reddit.com/r/javascript/comments/1atb48u/typescript_swagger_editor_typescript_code_about/)
-- [AngularJS Progress Bar Date Countdown - Version 5.1 Update](https://www.reddit.com/r/javascript/comments/1at8sn2/angularjs_progress_bar_date_countdown_version_51/)
-- [JSR first impressions &lpar;new package repository by Deno team&rpar;](https://www.reddit.com/r/javascript/comments/1at7y59/jsr_first_impressions_new_package_repository_by/)
-- [crash-report-js: Tracks User&#39;s actions in frontend applications and create crash report](https://www.reddit.com/r/javascript/comments/1at6uks/crashreportjs_tracks_users_actions_in_frontend/)
-- [ti2c: a framework for performant immutables](https://www.reddit.com/r/javascript/comments/1at355x/ti2c_a_framework_for_performant_immutables/)
-- [An SSH client in the browser](https://www.reddit.com/r/javascript/comments/1aszh9t/an_ssh_client_in_the_browser/)
-- [Showoff Saturday &lpar;February 17, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1asws0p/showoff_saturday_february_17_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
