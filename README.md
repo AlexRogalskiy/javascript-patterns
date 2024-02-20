@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [NPM Unpacked Size for shields.io is now available](https://www.reddit.com/r/javascript/comments/1av01qx/npm_unpacked_size_for_shieldsio_is_now_available/)
+- [Generate chat-able documentation for any codebase &lpar;try the free open source projects!&rpar;](https://www.reddit.com/r/javascript/comments/1auxb0k/generate_chatable_documentation_for_any_codebase/)
+- [[AskJS] Best stack / generator / framework for rapidly shipping fullstack JS apps?](https://www.reddit.com/r/javascript/comments/1aurmmz/askjs_best_stack_generator_framework_for_rapidly/)
+- [[AskJS] Seeking Assistance with Google My Business API Integration in NextJS App](https://www.reddit.com/r/javascript/comments/1aur0mv/askjs_seeking_assistance_with_google_my_business/)
+- [SIEVE: a simple cache eviction algorithm](https://www.reddit.com/r/javascript/comments/1auoxwb/sieve_a_simple_cache_eviction_algorithm/)
+- [I decided to make a game in Javascript.](https://www.reddit.com/r/javascript/comments/1auk506/i_decided_to_make_a_game_in_javascript/)
+- [Your /r/javascript recap for the week of February 12 - February 18 2024](https://www.reddit.com/r/javascript/comments/1aujxbc/your_rjavascript_recap_for_the_week_of_february/)
+- [[AskJS] Scalability of using direct DOM manipulation for reactivity](https://www.reddit.com/r/javascript/comments/1auikqd/askjs_scalability_of_using_direct_dom/)
 - [[AskJS] Learning from Odin, please give me tips :&rpar;](https://www.reddit.com/r/javascript/comments/1au7wzg/askjs_learning_from_odin_please_give_me_tips/)
 - [ESM Bundling for Node with Webpack](https://www.reddit.com/r/javascript/comments/1atylf5/esm_bundling_for_node_with_webpack/)
-- [How to properly handle NodeJS Transform Stream Backpressure](https://www.reddit.com/r/javascript/comments/1atxkc1/how_to_properly_handle_nodejs_transform_stream/)
-- [JS + no-code as backend?](https://www.reddit.com/r/javascript/comments/1atv123/js_nocode_as_backend/)
-- [[AskJS] If you don&#39;t use TypeScript, tell me why &lpar;5 year follow up&rpar;](https://www.reddit.com/r/javascript/comments/1atu10w/askjs_if_you_dont_use_typescript_tell_me_why_5/)
-- [Union, intersection, difference, and more are coming to JavaScript Sets](https://www.reddit.com/r/javascript/comments/1atqeli/union_intersection_difference_and_more_are_coming/)
-- [nmathew98/txn: A container for distributed transactions](https://www.reddit.com/r/javascript/comments/1ato2ms/nmathew98txn_a_container_for_distributed/)
-- [nmathew98/incremental: Simple composable async state management utilities](https://www.reddit.com/r/javascript/comments/1ato1x6/nmathew98incremental_simple_composable_async/)
-- [[AskJS] Fastest real-time MP3 encoder?](https://www.reddit.com/r/javascript/comments/1atl5yn/askjs_fastest_realtime_mp3_encoder/)
-- [[AskJS] What is the best way to learn JavaScript on your own?](https://www.reddit.com/r/javascript/comments/1atheh6/askjs_what_is_the_best_way_to_learn_javascript_on/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
