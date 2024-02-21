@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [random&lpar;&rpar; distribution visualizer](https://www.reddit.com/r/javascript/comments/1avqna1/random_distribution_visualizer/)
+- [Doodle 0.10.0 can host React, supports WebAssembly and much more](https://www.reddit.com/r/javascript/comments/1avl831/doodle_0100_can_host_react_supports_webassembly/)
+- [[AskJS] recommendation for storybook/jotai plugin semver?](https://www.reddit.com/r/javascript/comments/1avhs9t/askjs_recommendation_for_storybookjotai_plugin/)
+- [[AskJS] how to change div content by clicking link?](https://www.reddit.com/r/javascript/comments/1avheut/askjs_how_to_change_div_content_by_clicking_link/)
+- [Exploring Monads with JavaScript](https://www.reddit.com/r/javascript/comments/1avg1e5/exploring_monads_with_javascript/)
+- [Back to the future: server-side rendering with a modern developer experience](https://www.reddit.com/r/javascript/comments/1aveas8/back_to_the_future_serverside_rendering_with_a/)
 - [NPM Unpacked Size for shields.io is now available](https://www.reddit.com/r/javascript/comments/1av01qx/npm_unpacked_size_for_shieldsio_is_now_available/)
 - [Generate chat-able documentation for any codebase &lpar;try the free open source projects!&rpar;](https://www.reddit.com/r/javascript/comments/1auxb0k/generate_chatable_documentation_for_any_codebase/)
 - [[AskJS] Best stack / generator / framework for rapidly shipping fullstack JS apps?](https://www.reddit.com/r/javascript/comments/1aurmmz/askjs_best_stack_generator_framework_for_rapidly/)
 - [[AskJS] Seeking Assistance with Google My Business API Integration in NextJS App](https://www.reddit.com/r/javascript/comments/1aur0mv/askjs_seeking_assistance_with_google_my_business/)
-- [SIEVE: a simple cache eviction algorithm](https://www.reddit.com/r/javascript/comments/1auoxwb/sieve_a_simple_cache_eviction_algorithm/)
-- [I decided to make a game in Javascript.](https://www.reddit.com/r/javascript/comments/1auk506/i_decided_to_make_a_game_in_javascript/)
-- [Your /r/javascript recap for the week of February 12 - February 18 2024](https://www.reddit.com/r/javascript/comments/1aujxbc/your_rjavascript_recap_for_the_week_of_february/)
-- [[AskJS] Scalability of using direct DOM manipulation for reactivity](https://www.reddit.com/r/javascript/comments/1auikqd/askjs_scalability_of_using_direct_dom/)
-- [[AskJS] Learning from Odin, please give me tips :&rpar;](https://www.reddit.com/r/javascript/comments/1au7wzg/askjs_learning_from_odin_please_give_me_tips/)
-- [ESM Bundling for Node with Webpack](https://www.reddit.com/r/javascript/comments/1atylf5/esm_bundling_for_node_with_webpack/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
