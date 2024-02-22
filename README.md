@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Functional programming with JavaScript arrays](https://www.infoworld.com/article/3712714/functional-programming-with-javascript-arrays.html#tk.rss_javascript)
 - [Dart language upgrade shines on Wasm, generative AI](https://www.infoworld.com/article/3712926/dart-language-upgrade-shines-on-wasm-generative-ai.html#tk.rss_javascript)
 - [Reactive magic in Svelte 5: Understanding Runes](https://www.infoworld.com/article/3712688/reactive-magic-in-svelte-5-understanding-runes.html#tk.rss_javascript)
 - [Hono web framework adds static site generation](https://www.infoworld.com/article/3712881/hono-web-framework-adds-static-site-generation.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Deno adds API for date and time operations](https://www.infoworld.com/article/3712424/deno-adds-api-for-date-and-time-operations.html#tk.rss_javascript)
 - [Astro 4.2 boosts accessibility, image optimization features](https://www.infoworld.com/article/3712267/astro-42-boosts-accessibility-image-optimization-features.html#tk.rss_javascript)
 - [SortableJS brings drag-and-drop lists to Microsoft Blazor](https://www.infoworld.com/article/3712301/sortablejs-brings-drag-and-drop-lists-to-microsoft-blazor.html#tk.rss_javascript)
-- [Vue framework speeds template parsing, improves reactivity](https://www.infoworld.com/article/3712182/vue-framework-speeds-template-parsing-improves-reactivity.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
