@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [random&lpar;&rpar; distribution visualizer](https://www.reddit.com/r/javascript/comments/1avqna1/random_distribution_visualizer/)
-- [Doodle 0.10.0 can host React, supports WebAssembly and much more](https://www.reddit.com/r/javascript/comments/1avl831/doodle_0100_can_host_react_supports_webassembly/)
-- [[AskJS] recommendation for storybook/jotai plugin semver?](https://www.reddit.com/r/javascript/comments/1avhs9t/askjs_recommendation_for_storybookjotai_plugin/)
-- [[AskJS] how to change div content by clicking link?](https://www.reddit.com/r/javascript/comments/1avheut/askjs_how_to_change_div_content_by_clicking_link/)
-- [Exploring Monads with JavaScript](https://www.reddit.com/r/javascript/comments/1avg1e5/exploring_monads_with_javascript/)
-- [Back to the future: server-side rendering with a modern developer experience](https://www.reddit.com/r/javascript/comments/1aveas8/back_to_the_future_serverside_rendering_with_a/)
-- [NPM Unpacked Size for shields.io is now available](https://www.reddit.com/r/javascript/comments/1av01qx/npm_unpacked_size_for_shieldsio_is_now_available/)
-- [Generate chat-able documentation for any codebase &lpar;try the free open source projects!&rpar;](https://www.reddit.com/r/javascript/comments/1auxb0k/generate_chatable_documentation_for_any_codebase/)
-- [[AskJS] Best stack / generator / framework for rapidly shipping fullstack JS apps?](https://www.reddit.com/r/javascript/comments/1aurmmz/askjs_best_stack_generator_framework_for_rapidly/)
-- [[AskJS] Seeking Assistance with Google My Business API Integration in NextJS App](https://www.reddit.com/r/javascript/comments/1aur0mv/askjs_seeking_assistance_with_google_my_business/)
+- [Working with this in TypeScript](https://www.reddit.com/r/javascript/comments/1awooc9/working_with_this_in_typescript/)
+- [Visualization graph generation](https://www.reddit.com/r/javascript/comments/1awkogs/visualization_graph_generation/)
+- [Comprehensive guide on how to calculate visitor&#39;s actual reading time of your blog article effectively](https://www.reddit.com/r/javascript/comments/1awkabx/comprehensive_guide_on_how_to_calculate_visitors/)
+- [A simple CLI tool to pre-render Web Components](https://www.reddit.com/r/javascript/comments/1awjnm6/a_simple_cli_tool_to_prerender_web_components/)
+- [Node.js 2023 Year in An Article](https://www.reddit.com/r/javascript/comments/1awg4wz/nodejs_2023_year_in_an_article/)
+- [[AskJS] Is it possible to use JavaScript to connect OpenAI API to your website?](https://www.reddit.com/r/javascript/comments/1awevig/askjs_is_it_possible_to_use_javascript_to_connect/)
+- [Using localStorage in Modern Applications: A Comprehensive Guide](https://www.reddit.com/r/javascript/comments/1awe9ue/using_localstorage_in_modern_applications_a/)
+- [We released Vuestic Admin 3.0, open source vue admin template. It’s packed with a set of interactive pages designed to enhance your projects.](https://www.reddit.com/r/javascript/comments/1aw9cst/we_released_vuestic_admin_30_open_source_vue/)
+- [Introducing CopilotKit: an open source typescript library for deeply integrated in-app AI &lpar;chatbots, textareas, actions&rpar;](https://www.reddit.com/r/javascript/comments/1aw7f1b/introducing_copilotkit_an_open_source_typescript/)
+- [Apple attempting killing PWAs in EU: Immediate Action Needed](https://www.reddit.com/r/javascript/comments/1aw7cah/apple_attempting_killing_pwas_in_eu_immediate/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
