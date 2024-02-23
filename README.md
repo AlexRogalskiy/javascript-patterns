@@ -382,6 +382,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *NodeSource posts*
 
 <!-- NODESOURCE-POST-LIST:START -->
+- [Node.js 2023 Year in Review](https://nodesource.com/blog/nodejs-2023-year-in-review)
 - [Join our Partner Program!](https://nodesource.com/blog/join-partner-program)
 - [Innovating for Performance: How our Infra Team Powers 100+ Million Downloads A Year &lpar;While Keeping our SaaS Reliable and Secure&rpar;](https://nodesource.com/blog/innovating-for-performance)
 - [3 Takeaways from Web Summit 2023](https://nodesource.com/blog/takeaways-web-summit-2023)
@@ -391,7 +392,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [See How Much Your APM is Costing You to Monitor Node.js Apps](https://nodesource.com/blog/apm-cost-monitoring-nodejs-apps)
 - [Advancing the NodeSource Node.js Package Repo &lpar;Including User-Requested Upgrades!&rpar;](https://nodesource.com/blog/advancing-nodejs-package-repo-23)
 - [N|Solid v4.10.1 is now available](https://nodesource.com/blog/announcing-NSolid-version-4101)
-- [Serverless Observability in N|Solid for AWS Lambda](https://nodesource.com/blog/serverless-aws-lambda)
 <!-- NODESOURCE-POST-LIST:END -->
 
 ### *React Native posts*
