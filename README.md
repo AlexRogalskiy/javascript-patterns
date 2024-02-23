@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [JSR: What We Know So Far About Deno’s New JavaScript Package Registry](https://www.reddit.com/r/javascript/comments/1axldlk/jsr_what_we_know_so_far_about_denos_new/)
+- [[release] Announcing Jco 1.0: A WebAssembly Component Toolchain for JavaScript](https://www.reddit.com/r/javascript/comments/1axkcr0/release_announcing_jco_10_a_webassembly_component/)
+- [JavaScript Bloat in 2024](https://www.reddit.com/r/javascript/comments/1axjckn/javascript_bloat_in_2024/)
+- [FormKit Drag and Drop: a data-first approach to drag-and-drop](https://www.reddit.com/r/javascript/comments/1axe0eh/formkit_drag_and_drop_a_datafirst_approach_to/)
+- [Announcing TypeScript 5.4 RC](https://www.reddit.com/r/javascript/comments/1axdziw/announcing_typescript_54_rc/)
+- [Typescript 5.4 Beta’s New GroupBy Methods](https://www.reddit.com/r/javascript/comments/1ax25l1/typescript_54_betas_new_groupby_methods/)
 - [Working with this in TypeScript](https://www.reddit.com/r/javascript/comments/1awooc9/working_with_this_in_typescript/)
 - [Visualization graph generation](https://www.reddit.com/r/javascript/comments/1awkogs/visualization_graph_generation/)
 - [Comprehensive guide on how to calculate visitor&#39;s actual reading time of your blog article effectively](https://www.reddit.com/r/javascript/comments/1awkabx/comprehensive_guide_on_how_to_calculate_visitors/)
 - [A simple CLI tool to pre-render Web Components](https://www.reddit.com/r/javascript/comments/1awjnm6/a_simple_cli_tool_to_prerender_web_components/)
-- [Node.js 2023 Year in An Article](https://www.reddit.com/r/javascript/comments/1awg4wz/nodejs_2023_year_in_an_article/)
-- [[AskJS] Is it possible to use JavaScript to connect OpenAI API to your website?](https://www.reddit.com/r/javascript/comments/1awevig/askjs_is_it_possible_to_use_javascript_to_connect/)
-- [Using localStorage in Modern Applications: A Comprehensive Guide](https://www.reddit.com/r/javascript/comments/1awe9ue/using_localstorage_in_modern_applications_a/)
-- [We released Vuestic Admin 3.0, open source vue admin template. It’s packed with a set of interactive pages designed to enhance your projects.](https://www.reddit.com/r/javascript/comments/1aw9cst/we_released_vuestic_admin_30_open_source_vue/)
-- [Introducing CopilotKit: an open source typescript library for deeply integrated in-app AI &lpar;chatbots, textareas, actions&rpar;](https://www.reddit.com/r/javascript/comments/1aw7f1b/introducing_copilotkit_an_open_source_typescript/)
-- [Apple attempting killing PWAs in EU: Immediate Action Needed](https://www.reddit.com/r/javascript/comments/1aw7cah/apple_attempting_killing_pwas_in_eu_immediate/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
