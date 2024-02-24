@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [nmathew98/qwery: Asynchronous state management in React made simple](https://www.reddit.com/r/javascript/comments/1aydrly/nmathew98qwery_asynchronous_state_management_in/)
+- [[AskJS] Does this animation queue implementation make any sense?](https://www.reddit.com/r/javascript/comments/1aycucb/askjs_does_this_animation_queue_implementation/)
+- [coloreme - Suite of color combinations for using in your projects](https://www.reddit.com/r/javascript/comments/1ay3fyn/coloreme_suite_of_color_combinations_for_using_in/)
+- [[AskJS] WebUI generator for CRUD APIs from OpenAPI spec?](https://www.reddit.com/r/javascript/comments/1ay34za/askjs_webui_generator_for_crud_apis_from_openapi/)
+- [[AskJS] Best out of the box declarative data visualization framework](https://www.reddit.com/r/javascript/comments/1axzxhx/askjs_best_out_of_the_box_declarative_data/)
+- [SlideRshow – online photo &amp; video presenter and organizer](https://www.reddit.com/r/javascript/comments/1axy2el/slidershow_online_photo_video_presenter_and/)
+- [An Ez way to document your code: EzDok](https://www.reddit.com/r/javascript/comments/1axoqz7/an_ez_way_to_document_your_code_ezdok/)
 - [JSR: What We Know So Far About Deno’s New JavaScript Package Registry](https://www.reddit.com/r/javascript/comments/1axldlk/jsr_what_we_know_so_far_about_denos_new/)
 - [[release] Announcing Jco 1.0: A WebAssembly Component Toolchain for JavaScript](https://www.reddit.com/r/javascript/comments/1axkcr0/release_announcing_jco_10_a_webassembly_component/)
 - [JavaScript Bloat in 2024](https://www.reddit.com/r/javascript/comments/1axjckn/javascript_bloat_in_2024/)
-- [FormKit Drag and Drop: a data-first approach to drag-and-drop](https://www.reddit.com/r/javascript/comments/1axe0eh/formkit_drag_and_drop_a_datafirst_approach_to/)
-- [Announcing TypeScript 5.4 RC](https://www.reddit.com/r/javascript/comments/1axdziw/announcing_typescript_54_rc/)
-- [Typescript 5.4 Beta’s New GroupBy Methods](https://www.reddit.com/r/javascript/comments/1ax25l1/typescript_54_betas_new_groupby_methods/)
-- [Working with this in TypeScript](https://www.reddit.com/r/javascript/comments/1awooc9/working_with_this_in_typescript/)
-- [Visualization graph generation](https://www.reddit.com/r/javascript/comments/1awkogs/visualization_graph_generation/)
-- [Comprehensive guide on how to calculate visitor&#39;s actual reading time of your blog article effectively](https://www.reddit.com/r/javascript/comments/1awkabx/comprehensive_guide_on_how_to_calculate_visitors/)
-- [A simple CLI tool to pre-render Web Components](https://www.reddit.com/r/javascript/comments/1awjnm6/a_simple_cli_tool_to_prerender_web_components/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
