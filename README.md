@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Creating your own image generation model using JavaScript](https://www.reddit.com/r/javascript/comments/1az6loe/creating_your_own_image_generation_model_using/)
+- [[AskJS] anyone know of a package that can do this?](https://www.reddit.com/r/javascript/comments/1az4si0/askjs_anyone_know_of_a_package_that_can_do_this/)
+- [Best React.js Alternatives &lpar;2024&rpar; | BlueSockets](https://www.reddit.com/r/javascript/comments/1ayzosl/best_reactjs_alternatives_2024_bluesockets/)
+- [flint - A flash start website boilerplate.](https://www.reddit.com/r/javascript/comments/1ayrqzs/flint_a_flash_start_website_boilerplate/)
+- [Showoff Saturday &lpar;February 24, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1ayp78b/showoff_saturday_february_24_2024/)
+- [Visual Logic - Build programming logic visually](https://www.reddit.com/r/javascript/comments/1aynq5h/visual_logic_build_programming_logic_visually/)
+- [[AskJS] - base function question](https://www.reddit.com/r/javascript/comments/1ayngln/askjs_base_function_question/)
+- [Next js 14 Screenshot Editor For Free Moiful.com](https://www.reddit.com/r/javascript/comments/1aymnsv/next_js_14_screenshot_editor_for_free_moifulcom/)
+- [functional.js &lpar;alpha&rpar; - does this seem like something you&#39;d find useful?](https://www.reddit.com/r/javascript/comments/1ayl33j/functionaljs_alpha_does_this_seem_like_something/)
 - [nmathew98/qwery: Asynchronous state management in React made simple](https://www.reddit.com/r/javascript/comments/1aydrly/nmathew98qwery_asynchronous_state_management_in/)
-- [[AskJS] Does this animation queue implementation make any sense?](https://www.reddit.com/r/javascript/comments/1aycucb/askjs_does_this_animation_queue_implementation/)
-- [coloreme - Suite of color combinations for using in your projects](https://www.reddit.com/r/javascript/comments/1ay3fyn/coloreme_suite_of_color_combinations_for_using_in/)
-- [[AskJS] WebUI generator for CRUD APIs from OpenAPI spec?](https://www.reddit.com/r/javascript/comments/1ay34za/askjs_webui_generator_for_crud_apis_from_openapi/)
-- [[AskJS] Best out of the box declarative data visualization framework](https://www.reddit.com/r/javascript/comments/1axzxhx/askjs_best_out_of_the_box_declarative_data/)
-- [SlideRshow – online photo &amp; video presenter and organizer](https://www.reddit.com/r/javascript/comments/1axy2el/slidershow_online_photo_video_presenter_and/)
-- [An Ez way to document your code: EzDok](https://www.reddit.com/r/javascript/comments/1axoqz7/an_ez_way_to_document_your_code_ezdok/)
-- [JSR: What We Know So Far About Deno’s New JavaScript Package Registry](https://www.reddit.com/r/javascript/comments/1axldlk/jsr_what_we_know_so_far_about_denos_new/)
-- [[release] Announcing Jco 1.0: A WebAssembly Component Toolchain for JavaScript](https://www.reddit.com/r/javascript/comments/1axkcr0/release_announcing_jco_10_a_webassembly_component/)
-- [JavaScript Bloat in 2024](https://www.reddit.com/r/javascript/comments/1axjckn/javascript_bloat_in_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
