@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Did you know that you can use `break` not only in loops but in any statement to terminate its execution?](https://www.reddit.com/r/javascript/comments/1b01nyz/askjs_did_you_know_that_you_can_use_break_not/)
+- [Transform Image URLs w/ Under 60 Lines of JavaScript in a Cloudflare Worker](https://www.reddit.com/r/javascript/comments/1b018v6/transform_image_urls_w_under_60_lines_of/)
+- [A JavaScript library for transactional mutable updates](https://www.reddit.com/r/javascript/comments/1azpuet/a_javascript_library_for_transactional_mutable/)
+- [[AskJS] How do I get a value from an object where the key is stored on a variable](https://www.reddit.com/r/javascript/comments/1azmrbu/askjs_how_do_i_get_a_value_from_an_object_where/)
+- [I made a website that shows the usage of standard libraries according to hand-picked open source repositories](https://www.reddit.com/r/javascript/comments/1azh7xb/i_made_a_website_that_shows_the_usage_of_standard/)
+- [MP3Recorder - Record MediaStreamTrack to MP3 file in the browser](https://www.reddit.com/r/javascript/comments/1azda1m/mp3recorder_record_mediastreamtrack_to_mp3_file/)
 - [Creating your own image generation model using JavaScript](https://www.reddit.com/r/javascript/comments/1az6loe/creating_your_own_image_generation_model_using/)
 - [[AskJS] anyone know of a package that can do this?](https://www.reddit.com/r/javascript/comments/1az4si0/askjs_anyone_know_of_a_package_that_can_do_this/)
 - [Best React.js Alternatives &lpar;2024&rpar; | BlueSockets](https://www.reddit.com/r/javascript/comments/1ayzosl/best_reactjs_alternatives_2024_bluesockets/)
 - [flint - A flash start website boilerplate.](https://www.reddit.com/r/javascript/comments/1ayrqzs/flint_a_flash_start_website_boilerplate/)
-- [Showoff Saturday &lpar;February 24, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1ayp78b/showoff_saturday_february_24_2024/)
-- [Visual Logic - Build programming logic visually](https://www.reddit.com/r/javascript/comments/1aynq5h/visual_logic_build_programming_logic_visually/)
-- [[AskJS] - base function question](https://www.reddit.com/r/javascript/comments/1ayngln/askjs_base_function_question/)
-- [Next js 14 Screenshot Editor For Free Moiful.com](https://www.reddit.com/r/javascript/comments/1aymnsv/next_js_14_screenshot_editor_for_free_moifulcom/)
-- [functional.js &lpar;alpha&rpar; - does this seem like something you&#39;d find useful?](https://www.reddit.com/r/javascript/comments/1ayl33j/functionaljs_alpha_does_this_seem_like_something/)
-- [nmathew98/qwery: Asynchronous state management in React made simple](https://www.reddit.com/r/javascript/comments/1aydrly/nmathew98qwery_asynchronous_state_management_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
