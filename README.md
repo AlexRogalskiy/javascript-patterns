@@ -292,13 +292,13 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [TypeScript soothes type narrowing pain point](https://www.infoworld.com/article/3713303/typescript-soothes-type-narrowing-pain-point.html#tk.rss_javascript)
 - [Functional programming with JavaScript arrays](https://www.infoworld.com/article/3712714/functional-programming-with-javascript-arrays.html#tk.rss_javascript)
 - [Dart language upgrade shines on Wasm, generative AI](https://www.infoworld.com/article/3712926/dart-language-upgrade-shines-on-wasm-generative-ai.html#tk.rss_javascript)
 - [Reactive magic in Svelte 5: Understanding Runes](https://www.infoworld.com/article/3712688/reactive-magic-in-svelte-5-understanding-runes.html#tk.rss_javascript)
 - [Hono web framework adds static site generation](https://www.infoworld.com/article/3712881/hono-web-framework-adds-static-site-generation.html#tk.rss_javascript)
 - [jQuery 4.0 trims browser support, removes APIs](https://www.infoworld.com/article/3712823/jquery-40-trims-browser-support-removes-apis.html#tk.rss_javascript)
 - [Astro boosts HTML file control, i18n support](https://www.infoworld.com/article/3712802/astro-boosts-html-file-control-i18n-support.html#tk.rss_javascript)
-- [TypeScript 5.4 beta arrives](https://www.infoworld.com/article/3712660/typescript-54-beta-arrives.html#tk.rss_javascript)
 - [Deno adds API for date and time operations](https://www.infoworld.com/article/3712424/deno-adds-api-for-date-and-time-operations.html#tk.rss_javascript)
 - [Astro 4.2 boosts accessibility, image optimization features](https://www.infoworld.com/article/3712267/astro-42-boosts-accessibility-image-optimization-features.html#tk.rss_javascript)
 - [SortableJS brings drag-and-drop lists to Microsoft Blazor](https://www.infoworld.com/article/3712301/sortablejs-brings-drag-and-drop-lists-to-microsoft-blazor.html#tk.rss_javascript)
