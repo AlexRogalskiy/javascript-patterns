@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [StarTrack v3.0 released – GitHub star history and stats](https://www.reddit.com/r/javascript/comments/1b0ouor/startrack_v30_released_github_star_history_and/)
+- [Working Effectively with a Headless CMS in React](https://www.reddit.com/r/javascript/comments/1b0jkoz/working_effectively_with_a_headless_cms_in_react/)
+- [Proxy all events for Web Element and handle events using Promise/Stream api, Introduce ocev.js](https://www.reddit.com/r/javascript/comments/1b0htzm/proxy_all_events_for_web_element_and_handle/)
 - [[AskJS] Did you know that you can use `break` not only in loops but in any statement to terminate its execution?](https://www.reddit.com/r/javascript/comments/1b01nyz/askjs_did_you_know_that_you_can_use_break_not/)
 - [Transform Image URLs w/ Under 60 Lines of JavaScript in a Cloudflare Worker](https://www.reddit.com/r/javascript/comments/1b018v6/transform_image_urls_w_under_60_lines_of/)
 - [A JavaScript library for transactional mutable updates](https://www.reddit.com/r/javascript/comments/1azpuet/a_javascript_library_for_transactional_mutable/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [I made a website that shows the usage of standard libraries according to hand-picked open source repositories](https://www.reddit.com/r/javascript/comments/1azh7xb/i_made_a_website_that_shows_the_usage_of_standard/)
 - [MP3Recorder - Record MediaStreamTrack to MP3 file in the browser](https://www.reddit.com/r/javascript/comments/1azda1m/mp3recorder_record_mediastreamtrack_to_mp3_file/)
 - [Creating your own image generation model using JavaScript](https://www.reddit.com/r/javascript/comments/1az6loe/creating_your_own_image_generation_model_using/)
-- [[AskJS] anyone know of a package that can do this?](https://www.reddit.com/r/javascript/comments/1az4si0/askjs_anyone_know_of_a_package_that_can_do_this/)
-- [Best React.js Alternatives &lpar;2024&rpar; | BlueSockets](https://www.reddit.com/r/javascript/comments/1ayzosl/best_reactjs_alternatives_2024_bluesockets/)
-- [flint - A flash start website boilerplate.](https://www.reddit.com/r/javascript/comments/1ayrqzs/flint_a_flash_start_website_boilerplate/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
