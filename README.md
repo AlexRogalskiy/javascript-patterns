@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Taking the feedback from last time, I present you csv.js &lpar;I can&#39;t name things&rpar;](https://www.reddit.com/r/javascript/comments/1b1o93h/taking_the_feedback_from_last_time_i_present_you/)
+- [[AskJS] Simple library for checking presence of HTML elements and styles on a set of documents](https://www.reddit.com/r/javascript/comments/1b1fvpi/askjs_simple_library_for_checking_presence_of/)
+- [[AskJS] What frontend libraries are You using?](https://www.reddit.com/r/javascript/comments/1b1fi98/askjs_what_frontend_libraries_are_you_using/)
+- [Package dependency hell](https://www.reddit.com/r/javascript/comments/1b1d60h/package_dependency_hell/)
+- [17 Equations that Changed the World - Rewritten in JavaScript](https://www.reddit.com/r/javascript/comments/1b1cptj/17_equations_that_changed_the_world_rewritten_in/)
+- [[AskJS] Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.](https://www.reddit.com/r/javascript/comments/1b16ayw/askjs_unchecked_runtimelasterror_could_not/)
 - [StarTrack v3.0 released – GitHub star history and stats](https://www.reddit.com/r/javascript/comments/1b0ouor/startrack_v30_released_github_star_history_and/)
 - [Working Effectively with a Headless CMS in React](https://www.reddit.com/r/javascript/comments/1b0jkoz/working_effectively_with_a_headless_cms_in_react/)
 - [Proxy all events for Web Element and handle events using Promise/Stream api, Introduce ocev.js](https://www.reddit.com/r/javascript/comments/1b0htzm/proxy_all_events_for_web_element_and_handle/)
 - [[AskJS] Did you know that you can use `break` not only in loops but in any statement to terminate its execution?](https://www.reddit.com/r/javascript/comments/1b01nyz/askjs_did_you_know_that_you_can_use_break_not/)
-- [Transform Image URLs w/ Under 60 Lines of JavaScript in a Cloudflare Worker](https://www.reddit.com/r/javascript/comments/1b018v6/transform_image_urls_w_under_60_lines_of/)
-- [A JavaScript library for transactional mutable updates](https://www.reddit.com/r/javascript/comments/1azpuet/a_javascript_library_for_transactional_mutable/)
-- [[AskJS] How do I get a value from an object where the key is stored on a variable](https://www.reddit.com/r/javascript/comments/1azmrbu/askjs_how_do_i_get_a_value_from_an_object_where/)
-- [I made a website that shows the usage of standard libraries according to hand-picked open source repositories](https://www.reddit.com/r/javascript/comments/1azh7xb/i_made_a_website_that_shows_the_usage_of_standard/)
-- [MP3Recorder - Record MediaStreamTrack to MP3 file in the browser](https://www.reddit.com/r/javascript/comments/1azda1m/mp3recorder_record_mediastreamtrack_to_mp3_file/)
-- [Creating your own image generation model using JavaScript](https://www.reddit.com/r/javascript/comments/1az6loe/creating_your_own_image_generation_model_using/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
