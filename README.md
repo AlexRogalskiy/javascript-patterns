@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Is You Don&#39;t Know JS Yet relevant? 1 Edition](https://www.reddit.com/r/javascript/comments/1b3g1gj/askjs_is_you_dont_know_js_yet_relevant_1_edition/)
+- [Chromium. Web page rendering using Blink, CC and scheduler](https://www.reddit.com/r/javascript/comments/1b3681p/chromium_web_page_rendering_using_blink_cc_and/)
+- [[AskJS] how do I traverse a data table in order?](https://www.reddit.com/r/javascript/comments/1b35gph/askjs_how_do_i_traverse_a_data_table_in_order/)
+- [oneRepo - Fast, safe, and strict JS &amp; TS monorepo tools for teams](https://www.reddit.com/r/javascript/comments/1b32ia6/onerepo_fast_safe_and_strict_js_ts_monorepo_tools/)
+- [Building a Proper REST API](https://www.reddit.com/r/javascript/comments/1b2zjxy/building_a_proper_rest_api/)
+- [Implementing RSA from Scratch in JavaScript](https://www.reddit.com/r/javascript/comments/1b2z0mk/implementing_rsa_from_scratch_in_javascript/)
+- [Handling leading zeros with JavaScript](https://www.reddit.com/r/javascript/comments/1b2yw6j/handling_leading_zeros_with_javascript/)
+- [Mantra.js CSS Game Engine Playground](https://www.reddit.com/r/javascript/comments/1b2s1xv/mantrajs_css_game_engine_playground/)
 - [[AskJS] I do not understand why appendChild is not working?](https://www.reddit.com/r/javascript/comments/1b2ks7m/askjs_i_do_not_understand_why_appendchild_is_not/)
 - [Visual Studio Code February 2024](https://www.reddit.com/r/javascript/comments/1b2d7nc/visual_studio_code_february_2024/)
-- [[AskJS] Need Help Parsing TSX Files for Docstring Generation App](https://www.reddit.com/r/javascript/comments/1b20qrw/askjs_need_help_parsing_tsx_files_for_docstring/)
-- [WTF Wednesday &lpar;February 28, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1b20pf8/wtf_wednesday_february_28_2024/)
-- [Blog on &quot;Streamlining translation resource loading in React apps with babel-plugin-preval&quot;](https://www.reddit.com/r/javascript/comments/1b1ze92/blog_on_streamlining_translation_resource_loading/)
-- [[AskJS] Small libraries that plug holes in the language and make development better?](https://www.reddit.com/r/javascript/comments/1b1y9a1/askjs_small_libraries_that_plug_holes_in_the/)
-- [Taking the feedback from last time, I present you csv.js &lpar;I can&#39;t name things&rpar;](https://www.reddit.com/r/javascript/comments/1b1o93h/taking_the_feedback_from_last_time_i_present_you/)
-- [[AskJS] Simple library for checking presence of HTML elements and styles on a set of documents](https://www.reddit.com/r/javascript/comments/1b1fvpi/askjs_simple_library_for_checking_presence_of/)
-- [[AskJS] What frontend libraries are You using?](https://www.reddit.com/r/javascript/comments/1b1fi98/askjs_what_frontend_libraries_are_you_using/)
-- [Package dependency hell](https://www.reddit.com/r/javascript/comments/1b1d60h/package_dependency_hell/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
