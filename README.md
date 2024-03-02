@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Apple backs off killing web apps, but the fight continues - Open Web Advocacy](https://www.reddit.com/r/javascript/comments/1b3zm83/apple_backs_off_killing_web_apps_but_the_fight/)
+- [starfx - A modern approach to side-effect and state management in UI](https://www.reddit.com/r/javascript/comments/1b3wmjf/starfx_a_modern_approach_to_sideeffect_and_state/)
+- [JSR: the JavaScript Registry](https://www.reddit.com/r/javascript/comments/1b3vse6/jsr_the_javascript_registry/)
+- [React Unforget: An experimental alternative to React Compiler](https://www.reddit.com/r/javascript/comments/1b3vr1c/react_unforget_an_experimental_alternative_to/)
+- [Code comprehension survey](https://www.reddit.com/r/javascript/comments/1b3uunh/code_comprehension_survey/)
+- [[AskJS] How has your experience been with Biome.js?](https://www.reddit.com/r/javascript/comments/1b3u95y/askjs_how_has_your_experience_been_with_biomejs/)
+- [JavaScript 20 Projects In 20 Days HTML, CSS &amp; JavaScript](https://www.reddit.com/r/javascript/comments/1b3sa24/javascript_20_projects_in_20_days_html_css/)
+- [[AskJS] Getting 404 for when building an Signed Web Bundle and Isolated Web App in the browser](https://www.reddit.com/r/javascript/comments/1b3jbmu/askjs_getting_404_for_when_building_an_signed_web/)
 - [[AskJS] Is You Don&#39;t Know JS Yet relevant? 1 Edition](https://www.reddit.com/r/javascript/comments/1b3g1gj/askjs_is_you_dont_know_js_yet_relevant_1_edition/)
 - [Chromium. Web page rendering using Blink, CC and scheduler](https://www.reddit.com/r/javascript/comments/1b3681p/chromium_web_page_rendering_using_blink_cc_and/)
-- [[AskJS] how do I traverse a data table in order?](https://www.reddit.com/r/javascript/comments/1b35gph/askjs_how_do_i_traverse_a_data_table_in_order/)
-- [oneRepo - Fast, safe, and strict JS &amp; TS monorepo tools for teams](https://www.reddit.com/r/javascript/comments/1b32ia6/onerepo_fast_safe_and_strict_js_ts_monorepo_tools/)
-- [Building a Proper REST API](https://www.reddit.com/r/javascript/comments/1b2zjxy/building_a_proper_rest_api/)
-- [Implementing RSA from Scratch in JavaScript](https://www.reddit.com/r/javascript/comments/1b2z0mk/implementing_rsa_from_scratch_in_javascript/)
-- [Handling leading zeros with JavaScript](https://www.reddit.com/r/javascript/comments/1b2yw6j/handling_leading_zeros_with_javascript/)
-- [Mantra.js CSS Game Engine Playground](https://www.reddit.com/r/javascript/comments/1b2s1xv/mantrajs_css_game_engine_playground/)
-- [[AskJS] I do not understand why appendChild is not working?](https://www.reddit.com/r/javascript/comments/1b2ks7m/askjs_i_do_not_understand_why_appendchild_is_not/)
-- [Visual Studio Code February 2024](https://www.reddit.com/r/javascript/comments/1b2d7nc/visual_studio_code_february_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
