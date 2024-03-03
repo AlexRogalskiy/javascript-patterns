@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [useMutative - A 2-6x Faster Alternative to useState with spread operation](https://www.reddit.com/r/javascript/comments/1b4sm5g/usemutative_a_26x_faster_alternative_to_usestate/)
+- [Showoff Saturday &lpar;March 02, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1b4j21o/showoff_saturday_march_02_2024/)
+- [10 JavaScript Tips Every New Developer Should Know](https://www.reddit.com/r/javascript/comments/1b4i51f/10_javascript_tips_every_new_developer_should_know/)
 - [Apple backs off killing web apps, but the fight continues - Open Web Advocacy](https://www.reddit.com/r/javascript/comments/1b3zm83/apple_backs_off_killing_web_apps_but_the_fight/)
 - [starfx - A modern approach to side-effect and state management in UI](https://www.reddit.com/r/javascript/comments/1b3wmjf/starfx_a_modern_approach_to_sideeffect_and_state/)
 - [JSR: the JavaScript Registry](https://www.reddit.com/r/javascript/comments/1b3vse6/jsr_the_javascript_registry/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Code comprehension survey](https://www.reddit.com/r/javascript/comments/1b3uunh/code_comprehension_survey/)
 - [[AskJS] How has your experience been with Biome.js?](https://www.reddit.com/r/javascript/comments/1b3u95y/askjs_how_has_your_experience_been_with_biomejs/)
 - [JavaScript 20 Projects In 20 Days HTML, CSS &amp; JavaScript](https://www.reddit.com/r/javascript/comments/1b3sa24/javascript_20_projects_in_20_days_html_css/)
-- [[AskJS] Getting 404 for when building an Signed Web Bundle and Isolated Web App in the browser](https://www.reddit.com/r/javascript/comments/1b3jbmu/askjs_getting_404_for_when_building_an_signed_web/)
-- [[AskJS] Is You Don&#39;t Know JS Yet relevant? 1 Edition](https://www.reddit.com/r/javascript/comments/1b3g1gj/askjs_is_you_dont_know_js_yet_relevant_1_edition/)
-- [Chromium. Web page rendering using Blink, CC and scheduler](https://www.reddit.com/r/javascript/comments/1b3681p/chromium_web_page_rendering_using_blink_cc_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
