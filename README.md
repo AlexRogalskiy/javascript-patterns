@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Let’s learn how modern JavaScript frameworks work by building one](https://www.reddit.com/r/javascript/comments/1b6kgtf/lets_learn_how_modern_javascript_frameworks_work/)
+- [Upgrade ng14 application to ng17 with SSR prerender and pwa enabled](https://www.reddit.com/r/javascript/comments/1b6k6fk/upgrade_ng14_application_to_ng17_with_ssr/)
+- [Creating an Animated 3D Starfield Effect](https://www.reddit.com/r/javascript/comments/1b6hmo2/creating_an_animated_3d_starfield_effect/)
+- [Please Stop Sending Me Nested Dependency Security Reports | Goldblog](https://www.reddit.com/r/javascript/comments/1b6fqvt/please_stop_sending_me_nested_dependency_security/)
+- [[AskJS] Given javascript can manage the DOM, do we still need the HTML page &lpar;aside from SEO&rpar; or could we just serve javascript with mimetype `application/javascript`?](https://www.reddit.com/r/javascript/comments/1b6e7zt/askjs_given_javascript_can_manage_the_dom_do_we/)
+- [From many to one: Moving our JavaScript code into a monorepo](https://www.reddit.com/r/javascript/comments/1b69c0x/from_many_to_one_moving_our_javascript_code_into/)
+- [Your /r/javascript recap for the week of February 26 - March 03, 2024](https://www.reddit.com/r/javascript/comments/1b67dro/your_rjavascript_recap_for_the_week_of_february/)
 - [[AskJS] How to approach syntax highlighting with JS efficiently?](https://www.reddit.com/r/javascript/comments/1b5mlzk/askjs_how_to_approach_syntax_highlighting_with_js/)
 - [Using HTML Tags to Build Video Games](https://www.reddit.com/r/javascript/comments/1b5mbvi/using_html_tags_to_build_video_games/)
 - [The story of Online and Offline Problems](https://www.reddit.com/r/javascript/comments/1b5he1h/the_story_of_online_and_offline_problems/)
-- [TypeScript npm packages done right: tutorial with examples](https://www.reddit.com/r/javascript/comments/1b5cpx5/typescript_npm_packages_done_right_tutorial_with/)
-- [A Brief History of JavaScript Frameworks](https://www.reddit.com/r/javascript/comments/1b5cpvg/a_brief_history_of_javascript_frameworks/)
-- [Introducing JSR - the JavaScript Registry](https://www.reddit.com/r/javascript/comments/1b5ccph/introducing_jsr_the_javascript_registry/)
-- [How to effortlessly setup Yubikeys for SSH/GIT on WSL](https://www.reddit.com/r/javascript/comments/1b5bdi8/how_to_effortlessly_setup_yubikeys_for_sshgit_on/)
-- [useMutative - A 2-6x Faster Alternative to useState with spread operation](https://www.reddit.com/r/javascript/comments/1b4sm5g/usemutative_a_26x_faster_alternative_to_usestate/)
-- [Showoff Saturday &lpar;March 02, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1b4j21o/showoff_saturday_march_02_2024/)
-- [10 JavaScript Tips Every New Developer Should Know](https://www.reddit.com/r/javascript/comments/1b4i51f/10_javascript_tips_every_new_developer_should_know/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
