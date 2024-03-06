@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Gleam language available in first stable release](https://www.infoworld.com/article/3713460/gleam-language-available-in-first-stable-release.html#tk.rss_javascript)
 - [What is JavaScript? The full-stack programming language](https://www.infoworld.com/article/3441178/what-is-javascript-the-full-stack-programming-language.html#tk.rss_javascript)
 - [Deno shrinks deno compile binaries](https://www.infoworld.com/article/3713265/deno-shrinks-deno-compile-binaries.html#tk.rss_javascript)
 - [TypeScript soothes type narrowing pain point](https://www.infoworld.com/article/3713303/typescript-soothes-type-narrowing-pain-point.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Hono web framework adds static site generation](https://www.infoworld.com/article/3712881/hono-web-framework-adds-static-site-generation.html#tk.rss_javascript)
 - [jQuery 4.0 trims browser support, removes APIs](https://www.infoworld.com/article/3712823/jquery-40-trims-browser-support-removes-apis.html#tk.rss_javascript)
 - [Astro boosts HTML file control, i18n support](https://www.infoworld.com/article/3712802/astro-boosts-html-file-control-i18n-support.html#tk.rss_javascript)
-- [Deno adds API for date and time operations](https://www.infoworld.com/article/3712424/deno-adds-api-for-date-and-time-operations.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
