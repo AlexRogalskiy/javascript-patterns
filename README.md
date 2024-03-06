@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Let’s learn how modern JavaScript frameworks work by building one](https://www.reddit.com/r/javascript/comments/1b6kgtf/lets_learn_how_modern_javascript_frameworks_work/)
-- [Upgrade ng14 application to ng17 with SSR prerender and pwa enabled](https://www.reddit.com/r/javascript/comments/1b6k6fk/upgrade_ng14_application_to_ng17_with_ssr/)
-- [Creating an Animated 3D Starfield Effect](https://www.reddit.com/r/javascript/comments/1b6hmo2/creating_an_animated_3d_starfield_effect/)
-- [Please Stop Sending Me Nested Dependency Security Reports | Goldblog](https://www.reddit.com/r/javascript/comments/1b6fqvt/please_stop_sending_me_nested_dependency_security/)
-- [[AskJS] Given javascript can manage the DOM, do we still need the HTML page &lpar;aside from SEO&rpar; or could we just serve javascript with mimetype `application/javascript`?](https://www.reddit.com/r/javascript/comments/1b6e7zt/askjs_given_javascript_can_manage_the_dom_do_we/)
-- [From many to one: Moving our JavaScript code into a monorepo](https://www.reddit.com/r/javascript/comments/1b69c0x/from_many_to_one_moving_our_javascript_code_into/)
-- [Your /r/javascript recap for the week of February 26 - March 03, 2024](https://www.reddit.com/r/javascript/comments/1b67dro/your_rjavascript_recap_for_the_week_of_february/)
-- [[AskJS] How to approach syntax highlighting with JS efficiently?](https://www.reddit.com/r/javascript/comments/1b5mlzk/askjs_how_to_approach_syntax_highlighting_with_js/)
-- [Using HTML Tags to Build Video Games](https://www.reddit.com/r/javascript/comments/1b5mbvi/using_html_tags_to_build_video_games/)
-- [The story of Online and Offline Problems](https://www.reddit.com/r/javascript/comments/1b5he1h/the_story_of_online_and_offline_problems/)
+- [[AskJS] On prototype oriented programming](https://www.reddit.com/r/javascript/comments/1b7bdrl/askjs_on_prototype_oriented_programming/)
+- [Introducing NEVM MVC Scaffolding Tool: Your Ultimate Companion for Node.js App Development](https://www.reddit.com/r/javascript/comments/1b7b07g/introducing_nevm_mvc_scaffolding_tool_your/)
+- [[AskJS] How to allow imports only from index.ts of a module?](https://www.reddit.com/r/javascript/comments/1b7apdp/askjs_how_to_allow_imports_only_from_indexts_of_a/)
+- [[AskJS] Programmatic Image creation library with html and css?](https://www.reddit.com/r/javascript/comments/1b79g0g/askjs_programmatic_image_creation_library_with/)
+- [Server Actions in Fastify](https://www.reddit.com/r/javascript/comments/1b74kch/server_actions_in_fastify/)
+- [[AskJS] music not playing in background](https://www.reddit.com/r/javascript/comments/1b747kq/askjs_music_not_playing_in_background/)
+- [Using localStorage in Modern Applications: A Comprehensive Guide](https://www.reddit.com/r/javascript/comments/1b72oqi/using_localstorage_in_modern_applications_a/)
+- [Coroutines and web components](https://www.reddit.com/r/javascript/comments/1b72907/coroutines_and_web_components/)
+- [[AskJS] Presentation &lpar;PPT&rpar; maker with GUI?](https://www.reddit.com/r/javascript/comments/1b6z82e/askjs_presentation_ppt_maker_with_gui/)
+- [[AskJS] What open-source JavaScript framework is recommended for building a native-like mobile experience in a multivendor eCommerce platform?](https://www.reddit.com/r/javascript/comments/1b6ylnk/askjs_what_opensource_javascript_framework_is/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
