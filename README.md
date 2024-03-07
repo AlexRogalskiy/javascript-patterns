@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Announcing TypeScript 5.4](https://www.reddit.com/r/javascript/comments/1b89w4d/announcing_typescript_54/)
+- [Bouncy Ball - Compare Web Animation Techniques](https://www.reddit.com/r/javascript/comments/1b85b3m/bouncy_ball_compare_web_animation_techniques/)
+- [[AskJS] Looking for Frontend Library/Framework Suggestions for Upcoming Project Redesign](https://www.reddit.com/r/javascript/comments/1b80nii/askjs_looking_for_frontend_libraryframework/)
+- [I made an encoding library](https://www.reddit.com/r/javascript/comments/1b7zewn/i_made_an_encoding_library/)
+- [WTF Wednesday &lpar;March 06, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1b7uaw3/wtf_wednesday_march_06_2024/)
+- [Open-sourced my &quot;Internet OS&quot; after 3 years of work!](https://www.reddit.com/r/javascript/comments/1b7rv4w/opensourced_my_internet_os_after_3_years_of_work/)
+- [PixiJS v8.0.0 released - 2D WebGL renderer with canvas fallback](https://www.reddit.com/r/javascript/comments/1b7qkm5/pixijs_v800_released_2d_webgl_renderer_with/)
+- [I made a library that minifies CSS class names in production JS, HTML and CSS for any framework](https://www.reddit.com/r/javascript/comments/1b7pwbb/i_made_a_library_that_minifies_css_class_names_in/)
 - [[AskJS] On prototype oriented programming](https://www.reddit.com/r/javascript/comments/1b7bdrl/askjs_on_prototype_oriented_programming/)
 - [Introducing NEVM MVC Scaffolding Tool: Your Ultimate Companion for Node.js App Development](https://www.reddit.com/r/javascript/comments/1b7b07g/introducing_nevm_mvc_scaffolding_tool_your/)
-- [[AskJS] How to allow imports only from index.ts of a module?](https://www.reddit.com/r/javascript/comments/1b7apdp/askjs_how_to_allow_imports_only_from_indexts_of_a/)
-- [[AskJS] Programmatic Image creation library with html and css?](https://www.reddit.com/r/javascript/comments/1b79g0g/askjs_programmatic_image_creation_library_with/)
-- [Server Actions in Fastify](https://www.reddit.com/r/javascript/comments/1b74kch/server_actions_in_fastify/)
-- [[AskJS] music not playing in background](https://www.reddit.com/r/javascript/comments/1b747kq/askjs_music_not_playing_in_background/)
-- [Using localStorage in Modern Applications: A Comprehensive Guide](https://www.reddit.com/r/javascript/comments/1b72oqi/using_localstorage_in_modern_applications_a/)
-- [Coroutines and web components](https://www.reddit.com/r/javascript/comments/1b72907/coroutines_and_web_components/)
-- [[AskJS] Presentation &lpar;PPT&rpar; maker with GUI?](https://www.reddit.com/r/javascript/comments/1b6z82e/askjs_presentation_ppt_maker_with_gui/)
-- [[AskJS] What open-source JavaScript framework is recommended for building a native-like mobile experience in a multivendor eCommerce platform?](https://www.reddit.com/r/javascript/comments/1b6ylnk/askjs_what_opensource_javascript_framework_is/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
