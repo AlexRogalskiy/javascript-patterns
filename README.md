@@ -292,10 +292,10 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [TypeScript soothes type narrowing pain point](https://www.infoworld.com/article/3713303/typescript-soothes-type-narrowing-pain-point.html#tk.rss_javascript)
 - [Gleam language available in first stable release](https://www.infoworld.com/article/3713460/gleam-language-available-in-first-stable-release.html#tk.rss_javascript)
 - [What is JavaScript? The full-stack programming language](https://www.infoworld.com/article/3441178/what-is-javascript-the-full-stack-programming-language.html#tk.rss_javascript)
 - [Deno shrinks deno compile binaries](https://www.infoworld.com/article/3713265/deno-shrinks-deno-compile-binaries.html#tk.rss_javascript)
-- [TypeScript soothes type narrowing pain point](https://www.infoworld.com/article/3713303/typescript-soothes-type-narrowing-pain-point.html#tk.rss_javascript)
 - [Functional programming with JavaScript arrays](https://www.infoworld.com/article/3712714/functional-programming-with-javascript-arrays.html#tk.rss_javascript)
 - [Dart language upgrade shines on Wasm, generative AI](https://www.infoworld.com/article/3712926/dart-language-upgrade-shines-on-wasm-generative-ai.html#tk.rss_javascript)
 - [Reactive magic in Svelte 5: Understanding Runes](https://www.infoworld.com/article/3712688/reactive-magic-in-svelte-5-understanding-runes.html#tk.rss_javascript)
