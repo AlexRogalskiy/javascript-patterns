@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Eloquent JavaScript 4th edition &lpar;2024&rpar;](https://www.reddit.com/r/javascript/comments/1b98gyc/eloquent_javascript_4th_edition_2024/)
+- [I&#39;m starting building in public an open source Remix SaaS application to help people learn how to build apps.](https://www.reddit.com/r/javascript/comments/1b93jzd/im_starting_building_in_public_an_open_source/)
+- [Launched: Planet Pizza](https://www.reddit.com/r/javascript/comments/1b8yzi5/launched_planet_pizza/)
+- [[AskJS] empty unshift?](https://www.reddit.com/r/javascript/comments/1b8y5hh/askjs_empty_unshift/)
+- [Findings on Code Splitting and SSR with Vite on Vercel.](https://www.reddit.com/r/javascript/comments/1b8xkby/findings_on_code_splitting_and_ssr_with_vite_on/)
+- [script that instantly transforms webpages into brick-breaking game](https://www.reddit.com/r/javascript/comments/1b8xg9k/script_that_instantly_transforms_webpages_into/)
+- [The Digital Markets Act is in force! What happens now?](https://www.reddit.com/r/javascript/comments/1b8p32h/the_digital_markets_act_is_in_force_what_happens/)
+- [HywerJS. World smallest &lpar;1kb&rpar; JSX-based reactive UI library](https://www.reddit.com/r/javascript/comments/1b8j23r/hywerjs_world_smallest_1kb_jsxbased_reactive_ui/)
 - [Announcing TypeScript 5.4](https://www.reddit.com/r/javascript/comments/1b89w4d/announcing_typescript_54/)
 - [Bouncy Ball - Compare Web Animation Techniques](https://www.reddit.com/r/javascript/comments/1b85b3m/bouncy_ball_compare_web_animation_techniques/)
-- [[AskJS] Looking for Frontend Library/Framework Suggestions for Upcoming Project Redesign](https://www.reddit.com/r/javascript/comments/1b80nii/askjs_looking_for_frontend_libraryframework/)
-- [I made an encoding library](https://www.reddit.com/r/javascript/comments/1b7zewn/i_made_an_encoding_library/)
-- [WTF Wednesday &lpar;March 06, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1b7uaw3/wtf_wednesday_march_06_2024/)
-- [Open-sourced my &quot;Internet OS&quot; after 3 years of work!](https://www.reddit.com/r/javascript/comments/1b7rv4w/opensourced_my_internet_os_after_3_years_of_work/)
-- [PixiJS v8.0.0 released - 2D WebGL renderer with canvas fallback](https://www.reddit.com/r/javascript/comments/1b7qkm5/pixijs_v800_released_2d_webgl_renderer_with/)
-- [I made a library that minifies CSS class names in production JS, HTML and CSS for any framework](https://www.reddit.com/r/javascript/comments/1b7pwbb/i_made_a_library_that_minifies_css_class_names_in/)
-- [[AskJS] On prototype oriented programming](https://www.reddit.com/r/javascript/comments/1b7bdrl/askjs_on_prototype_oriented_programming/)
-- [Introducing NEVM MVC Scaffolding Tool: Your Ultimate Companion for Node.js App Development](https://www.reddit.com/r/javascript/comments/1b7b07g/introducing_nevm_mvc_scaffolding_tool_your/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
