@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Input text instead of radio buttons](https://www.reddit.com/r/javascript/comments/1ba442p/input_text_instead_of_radio_buttons/)
+- [The linked site has a list of the US states. These are very common; Wikipedia has a ton of them. I want to create a browser add-in that will color the states red or blue to show their politics. Can you please get me started? I know *some* JS. Is there a tool? Is there a better sub to ask? Thanks!](https://www.reddit.com/r/javascript/comments/1ba3s8g/the_linked_site_has_a_list_of_the_us_states_these/)
+- [I updated my Entity Component System Library - No dependencies and Typescript support!](https://www.reddit.com/r/javascript/comments/1ba1331/i_updated_my_entity_component_system_library_no/)
+- [[AskJS] How do i send information via url using JS?](https://www.reddit.com/r/javascript/comments/1b9vb92/askjs_how_do_i_send_information_via_url_using_js/)
+- [Hi fellow freelancers. I set up independent platform for freelancers](https://www.reddit.com/r/javascript/comments/1b9u9u4/hi_fellow_freelancers_i_set_up_independent/)
+- [Rolldown: new rollup &amp; esbuild alternative in rust](https://www.reddit.com/r/javascript/comments/1b9om6n/rolldown_new_rollup_esbuild_alternative_in_rust/)
+- [I built an open-source self-hostable user auth platform for Next.js that can be set up in 3 minutes](https://www.reddit.com/r/javascript/comments/1b9jf6j/i_built_an_opensource_selfhostable_user_auth/)
 - [Eloquent JavaScript 4th edition &lpar;2024&rpar;](https://www.reddit.com/r/javascript/comments/1b98gyc/eloquent_javascript_4th_edition_2024/)
 - [I&#39;m starting building in public an open source Remix SaaS application to help people learn how to build apps.](https://www.reddit.com/r/javascript/comments/1b93jzd/im_starting_building_in_public_an_open_source/)
 - [Launched: Planet Pizza](https://www.reddit.com/r/javascript/comments/1b8yzi5/launched_planet_pizza/)
-- [[AskJS] empty unshift?](https://www.reddit.com/r/javascript/comments/1b8y5hh/askjs_empty_unshift/)
-- [Findings on Code Splitting and SSR with Vite on Vercel.](https://www.reddit.com/r/javascript/comments/1b8xkby/findings_on_code_splitting_and_ssr_with_vite_on/)
-- [script that instantly transforms webpages into brick-breaking game](https://www.reddit.com/r/javascript/comments/1b8xg9k/script_that_instantly_transforms_webpages_into/)
-- [The Digital Markets Act is in force! What happens now?](https://www.reddit.com/r/javascript/comments/1b8p32h/the_digital_markets_act_is_in_force_what_happens/)
-- [HywerJS. World smallest &lpar;1kb&rpar; JSX-based reactive UI library](https://www.reddit.com/r/javascript/comments/1b8j23r/hywerjs_world_smallest_1kb_jsxbased_reactive_ui/)
-- [Announcing TypeScript 5.4](https://www.reddit.com/r/javascript/comments/1b89w4d/announcing_typescript_54/)
-- [Bouncy Ball - Compare Web Animation Techniques](https://www.reddit.com/r/javascript/comments/1b85b3m/bouncy_ball_compare_web_animation_techniques/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
