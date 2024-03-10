@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Scotland job market](https://www.reddit.com/r/javascript/comments/1baku18/askjs_scotland_job_market/)
+- [Recliner-JS: A local REST CouchDB in your browser](https://www.reddit.com/r/javascript/comments/1baiw6z/reclinerjs_a_local_rest_couchdb_in_your_browser/)
+- [[AskJS] Decentralized Whatsapp, Instagram and Metaverse As A PWA](https://www.reddit.com/r/javascript/comments/1baggmc/askjs_decentralized_whatsapp_instagram_and/)
+- [Showoff Saturday &lpar;March 09, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1bacmad/showoff_saturday_march_09_2024/)
 - [Input text instead of radio buttons](https://www.reddit.com/r/javascript/comments/1ba442p/input_text_instead_of_radio_buttons/)
 - [The linked site has a list of the US states. These are very common; Wikipedia has a ton of them. I want to create a browser add-in that will color the states red or blue to show their politics. Can you please get me started? I know *some* JS. Is there a tool? Is there a better sub to ask? Thanks!](https://www.reddit.com/r/javascript/comments/1ba3s8g/the_linked_site_has_a_list_of_the_us_states_these/)
 - [I updated my Entity Component System Library - No dependencies and Typescript support!](https://www.reddit.com/r/javascript/comments/1ba1331/i_updated_my_entity_component_system_library_no/)
 - [[AskJS] How do i send information via url using JS?](https://www.reddit.com/r/javascript/comments/1b9vb92/askjs_how_do_i_send_information_via_url_using_js/)
 - [Hi fellow freelancers. I set up independent platform for freelancers](https://www.reddit.com/r/javascript/comments/1b9u9u4/hi_fellow_freelancers_i_set_up_independent/)
 - [Rolldown: new rollup &amp; esbuild alternative in rust](https://www.reddit.com/r/javascript/comments/1b9om6n/rolldown_new_rollup_esbuild_alternative_in_rust/)
-- [I built an open-source self-hostable user auth platform for Next.js that can be set up in 3 minutes](https://www.reddit.com/r/javascript/comments/1b9jf6j/i_built_an_opensource_selfhostable_user_auth/)
-- [Eloquent JavaScript 4th edition &lpar;2024&rpar;](https://www.reddit.com/r/javascript/comments/1b98gyc/eloquent_javascript_4th_edition_2024/)
-- [I&#39;m starting building in public an open source Remix SaaS application to help people learn how to build apps.](https://www.reddit.com/r/javascript/comments/1b93jzd/im_starting_building_in_public_an_open_source/)
-- [Launched: Planet Pizza](https://www.reddit.com/r/javascript/comments/1b8yzi5/launched_planet_pizza/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
