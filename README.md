@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Int-&gt;Float-&gt;Int: It&#39;s a jungle out there!](https://www.reddit.com/r/javascript/comments/1bbdel6/intfloatint_its_a_jungle_out_there/)
+- [JavaScript for beginners ??!!](https://www.reddit.com/r/javascript/comments/1bbddxh/javascript_for_beginners/)
+- [I’ve built a github extension that highlights top comments on issues](https://www.reddit.com/r/javascript/comments/1bbb1ps/ive_built_a_github_extension_that_highlights_top/)
+- [[AskJS] Need advice on how to convert a filter string query on tags in SQL, for example &quot;&lpar;tag1 and tag2&rpar; or tag3&quot; in SQL? &lpar;javascript lexer?&rpar;](https://www.reddit.com/r/javascript/comments/1bb8rr3/askjs_need_advice_on_how_to_convert_a_filter/)
+- [We released an updated version of our turn-based strategy game in React. The game uses basic SVGs and three.js for the soccer ball. The stats are created with Recharts. What do you think?](https://www.reddit.com/r/javascript/comments/1bb7u1q/we_released_an_updated_version_of_our_turnbased/)
 - [[AskJS] Scotland job market](https://www.reddit.com/r/javascript/comments/1baku18/askjs_scotland_job_market/)
 - [Recliner-JS: A local REST CouchDB in your browser](https://www.reddit.com/r/javascript/comments/1baiw6z/reclinerjs_a_local_rest_couchdb_in_your_browser/)
 - [[AskJS] Decentralized Whatsapp, Instagram and Metaverse As A PWA](https://www.reddit.com/r/javascript/comments/1baggmc/askjs_decentralized_whatsapp_instagram_and/)
 - [Showoff Saturday &lpar;March 09, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1bacmad/showoff_saturday_march_09_2024/)
 - [Input text instead of radio buttons](https://www.reddit.com/r/javascript/comments/1ba442p/input_text_instead_of_radio_buttons/)
-- [The linked site has a list of the US states. These are very common; Wikipedia has a ton of them. I want to create a browser add-in that will color the states red or blue to show their politics. Can you please get me started? I know *some* JS. Is there a tool? Is there a better sub to ask? Thanks!](https://www.reddit.com/r/javascript/comments/1ba3s8g/the_linked_site_has_a_list_of_the_us_states_these/)
-- [I updated my Entity Component System Library - No dependencies and Typescript support!](https://www.reddit.com/r/javascript/comments/1ba1331/i_updated_my_entity_component_system_library_no/)
-- [[AskJS] How do i send information via url using JS?](https://www.reddit.com/r/javascript/comments/1b9vb92/askjs_how_do_i_send_information_via_url_using_js/)
-- [Hi fellow freelancers. I set up independent platform for freelancers](https://www.reddit.com/r/javascript/comments/1b9u9u4/hi_fellow_freelancers_i_set_up_independent/)
-- [Rolldown: new rollup &amp; esbuild alternative in rust](https://www.reddit.com/r/javascript/comments/1b9om6n/rolldown_new_rollup_esbuild_alternative_in_rust/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
