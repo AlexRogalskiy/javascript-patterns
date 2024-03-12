@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Int-&gt;Float-&gt;Int: It&#39;s a jungle out there!](https://www.reddit.com/r/javascript/comments/1bbdel6/intfloatint_its_a_jungle_out_there/)
-- [JavaScript for beginners ??!!](https://www.reddit.com/r/javascript/comments/1bbddxh/javascript_for_beginners/)
-- [I’ve built a github extension that highlights top comments on issues](https://www.reddit.com/r/javascript/comments/1bbb1ps/ive_built_a_github_extension_that_highlights_top/)
-- [[AskJS] Need advice on how to convert a filter string query on tags in SQL, for example &quot;&lpar;tag1 and tag2&rpar; or tag3&quot; in SQL? &lpar;javascript lexer?&rpar;](https://www.reddit.com/r/javascript/comments/1bb8rr3/askjs_need_advice_on_how_to_convert_a_filter/)
-- [We released an updated version of our turn-based strategy game in React. The game uses basic SVGs and three.js for the soccer ball. The stats are created with Recharts. What do you think?](https://www.reddit.com/r/javascript/comments/1bb7u1q/we_released_an_updated_version_of_our_turnbased/)
-- [[AskJS] Scotland job market](https://www.reddit.com/r/javascript/comments/1baku18/askjs_scotland_job_market/)
-- [Recliner-JS: A local REST CouchDB in your browser](https://www.reddit.com/r/javascript/comments/1baiw6z/reclinerjs_a_local_rest_couchdb_in_your_browser/)
-- [[AskJS] Decentralized Whatsapp, Instagram and Metaverse As A PWA](https://www.reddit.com/r/javascript/comments/1baggmc/askjs_decentralized_whatsapp_instagram_and/)
-- [Showoff Saturday &lpar;March 09, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1bacmad/showoff_saturday_march_09_2024/)
-- [Input text instead of radio buttons](https://www.reddit.com/r/javascript/comments/1ba442p/input_text_instead_of_radio_buttons/)
+- [[AskJS] Apache JavaScript Help](https://www.reddit.com/r/javascript/comments/1bciz9t/askjs_apache_javascript_help/)
+- [Garbage Collection in V8](https://www.reddit.com/r/javascript/comments/1bcerqx/garbage_collection_in_v8/)
+- [Announcing WinterJS 1.0 - a new JS runtime faster than Bun, Node and Cloudflare workers](https://www.reddit.com/r/javascript/comments/1bc90s8/announcing_winterjs_10_a_new_js_runtime_faster/)
+- [Improving Performance in Firefox and Across the Web with Speedometer 3](https://www.reddit.com/r/javascript/comments/1bc70ht/improving_performance_in_firefox_and_across_the/)
+- [Implementing RSA from Scratch in JavaScript](https://www.reddit.com/r/javascript/comments/1bc3q0u/implementing_rsa_from_scratch_in_javascript/)
+- [An ancient god comes alive through JavaScript code. The Armaaruss Military Drone and Soldier Detection System &lpar;Armaaruss Model Sys Version 1&rpar;.](https://www.reddit.com/r/javascript/comments/1bc31dp/an_ancient_god_comes_alive_through_javascript/)
+- [Comparing JavaScript Frameworks part 1: templates](https://www.reddit.com/r/javascript/comments/1bc2wmx/comparing_javascript_frameworks_part_1_templates/)
+- [google-spreadsheet-dts: TypeScript d.ts for Google Spreadsheet](https://www.reddit.com/r/javascript/comments/1bc2l8p/googlespreadsheetdts_typescript_dts_for_google/)
+- [RxState - persistend, observable state API on top of RxDB with replication and cross-tab sync](https://www.reddit.com/r/javascript/comments/1bc1gts/rxstate_persistend_observable_state_api_on_top_of/)
+- [Your /r/javascript recap for the week of March 04 - March 10, 2024](https://www.reddit.com/r/javascript/comments/1bbyu5c/your_rjavascript_recap_for_the_week_of_march_04/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
