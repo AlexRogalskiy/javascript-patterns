@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Two weeks with jsr.io: Do we need a new package registry?](https://www.reddit.com/r/javascript/comments/1bddtgo/two_weeks_with_jsrio_do_we_need_a_new_package/)
+- [[AskJS] How many monthly downloads do your packages get via npm](https://www.reddit.com/r/javascript/comments/1bddh3t/askjs_how_many_monthly_downloads_do_your_packages/)
+- [POC web dev tools like REPL but in your terminal](https://www.reddit.com/r/javascript/comments/1bdbbkj/poc_web_dev_tools_like_repl_but_in_your_terminal/)
+- [[AskJS] Looking to understand client library and database preferences for JS/TS developers](https://www.reddit.com/r/javascript/comments/1bd6og3/askjs_looking_to_understand_client_library_and/)
+- [Another DNS implementation in Node.js](https://www.reddit.com/r/javascript/comments/1bd5i4z/another_dns_implementation_in_nodejs/)
+- [GitHub - mohitbhatt394/HomieesWeb: this is a service vender website to help users and service providers](https://www.reddit.com/r/javascript/comments/1bd2ncb/github_mohitbhatt394homieesweb_this_is_a_service/)
+- [[AskJS] Is Object Oriented Programming pointless for web development?](https://www.reddit.com/r/javascript/comments/1bd1elv/askjs_is_object_oriented_programming_pointless/)
+- [Storybook 8 is here!](https://www.reddit.com/r/javascript/comments/1bd0jvb/storybook_8_is_here/)
+- [Do Animation in JavaScript using AnimateImages Library](https://www.reddit.com/r/javascript/comments/1bcopwo/do_animation_in_javascript_using_animateimages/)
 - [[AskJS] Apache JavaScript Help](https://www.reddit.com/r/javascript/comments/1bciz9t/askjs_apache_javascript_help/)
-- [Garbage Collection in V8](https://www.reddit.com/r/javascript/comments/1bcerqx/garbage_collection_in_v8/)
-- [Announcing WinterJS 1.0 - a new JS runtime faster than Bun, Node and Cloudflare workers](https://www.reddit.com/r/javascript/comments/1bc90s8/announcing_winterjs_10_a_new_js_runtime_faster/)
-- [Improving Performance in Firefox and Across the Web with Speedometer 3](https://www.reddit.com/r/javascript/comments/1bc70ht/improving_performance_in_firefox_and_across_the/)
-- [Implementing RSA from Scratch in JavaScript](https://www.reddit.com/r/javascript/comments/1bc3q0u/implementing_rsa_from_scratch_in_javascript/)
-- [An ancient god comes alive through JavaScript code. The Armaaruss Military Drone and Soldier Detection System &lpar;Armaaruss Model Sys Version 1&rpar;.](https://www.reddit.com/r/javascript/comments/1bc31dp/an_ancient_god_comes_alive_through_javascript/)
-- [Comparing JavaScript Frameworks part 1: templates](https://www.reddit.com/r/javascript/comments/1bc2wmx/comparing_javascript_frameworks_part_1_templates/)
-- [google-spreadsheet-dts: TypeScript d.ts for Google Spreadsheet](https://www.reddit.com/r/javascript/comments/1bc2l8p/googlespreadsheetdts_typescript_dts_for_google/)
-- [RxState - persistend, observable state API on top of RxDB with replication and cross-tab sync](https://www.reddit.com/r/javascript/comments/1bc1gts/rxstate_persistend_observable_state_api_on_top_of/)
-- [Your /r/javascript recap for the week of March 04 - March 10, 2024](https://www.reddit.com/r/javascript/comments/1bbyu5c/your_rjavascript_recap_for_the_week_of_march_04/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
