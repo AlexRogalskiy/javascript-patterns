@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Factory functions vs. Constructors. Why choose factory functions?](https://www.reddit.com/r/javascript/comments/1be0gte/askjs_factory_functions_vs_constructors_why/)
+- [A way to build and run full-stack js web app on iOS/iPadOS and Desktop. You can still use npm packages &lpar;like React&rpar; and git to version control/share across user/devices. Try it out!](https://www.reddit.com/r/javascript/comments/1bdunpy/a_way_to_build_and_run_fullstack_js_web_app_on/)
+- [C++ meets TypeScript: bidirectional type interoperability in the Cheerp compiler](https://www.reddit.com/r/javascript/comments/1bdoj0n/c_meets_typescript_bidirectional_type/)
+- [[AskJS] I have written a Pattern Matching library in Javascript](https://www.reddit.com/r/javascript/comments/1bdlyyi/askjs_i_have_written_a_pattern_matching_library/)
+- [WTF Wednesday &lpar;March 13, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1bdl4mz/wtf_wednesday_march_13_2024/)
 - [Two weeks with jsr.io: Do we need a new package registry?](https://www.reddit.com/r/javascript/comments/1bddtgo/two_weeks_with_jsrio_do_we_need_a_new_package/)
 - [[AskJS] How many monthly downloads do your packages get via npm](https://www.reddit.com/r/javascript/comments/1bddh3t/askjs_how_many_monthly_downloads_do_your_packages/)
 - [POC web dev tools like REPL but in your terminal](https://www.reddit.com/r/javascript/comments/1bdbbkj/poc_web_dev_tools_like_repl_but_in_your_terminal/)
 - [[AskJS] Looking to understand client library and database preferences for JS/TS developers](https://www.reddit.com/r/javascript/comments/1bd6og3/askjs_looking_to_understand_client_library_and/)
 - [Another DNS implementation in Node.js](https://www.reddit.com/r/javascript/comments/1bd5i4z/another_dns_implementation_in_nodejs/)
-- [GitHub - mohitbhatt394/HomieesWeb: this is a service vender website to help users and service providers](https://www.reddit.com/r/javascript/comments/1bd2ncb/github_mohitbhatt394homieesweb_this_is_a_service/)
-- [[AskJS] Is Object Oriented Programming pointless for web development?](https://www.reddit.com/r/javascript/comments/1bd1elv/askjs_is_object_oriented_programming_pointless/)
-- [Storybook 8 is here!](https://www.reddit.com/r/javascript/comments/1bd0jvb/storybook_8_is_here/)
-- [Do Animation in JavaScript using AnimateImages Library](https://www.reddit.com/r/javascript/comments/1bcopwo/do_animation_in_javascript_using_animateimages/)
-- [[AskJS] Apache JavaScript Help](https://www.reddit.com/r/javascript/comments/1bciz9t/askjs_apache_javascript_help/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
