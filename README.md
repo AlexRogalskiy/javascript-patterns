@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Complexity bad: An interview with HTMX creator Carson Gross](https://www.infoworld.com/article/3713164/complexity-bad-an-interview-with-carson-gross.html#tk.rss_javascript)
 - [Rust-based WinterJS web server reaches 1.0](https://www.infoworld.com/article/3714444/rust-based-winterjs-web-server-reaches-10.html#tk.rss_javascript)
 - [TypeScript soothes type narrowing pain point](https://www.infoworld.com/article/3713303/typescript-soothes-type-narrowing-pain-point.html#tk.rss_javascript)
 - [Gleam language available in first stable release](https://www.infoworld.com/article/3713460/gleam-language-available-in-first-stable-release.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Dart language upgrade shines on Wasm, generative AI](https://www.infoworld.com/article/3712926/dart-language-upgrade-shines-on-wasm-generative-ai.html#tk.rss_javascript)
 - [Reactive magic in Svelte 5: Understanding Runes](https://www.infoworld.com/article/3712688/reactive-magic-in-svelte-5-understanding-runes.html#tk.rss_javascript)
 - [Hono web framework adds static site generation](https://www.infoworld.com/article/3712881/hono-web-framework-adds-static-site-generation.html#tk.rss_javascript)
-- [jQuery 4.0 trims browser support, removes APIs](https://www.infoworld.com/article/3712823/jquery-40-trims-browser-support-removes-apis.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
