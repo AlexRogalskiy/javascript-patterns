@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Factory functions vs. Constructors. Why choose factory functions?](https://www.reddit.com/r/javascript/comments/1be0gte/askjs_factory_functions_vs_constructors_why/)
-- [A way to build and run full-stack js web app on iOS/iPadOS and Desktop. You can still use npm packages &lpar;like React&rpar; and git to version control/share across user/devices. Try it out!](https://www.reddit.com/r/javascript/comments/1bdunpy/a_way_to_build_and_run_fullstack_js_web_app_on/)
-- [C++ meets TypeScript: bidirectional type interoperability in the Cheerp compiler](https://www.reddit.com/r/javascript/comments/1bdoj0n/c_meets_typescript_bidirectional_type/)
-- [[AskJS] I have written a Pattern Matching library in Javascript](https://www.reddit.com/r/javascript/comments/1bdlyyi/askjs_i_have_written_a_pattern_matching_library/)
-- [WTF Wednesday &lpar;March 13, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1bdl4mz/wtf_wednesday_march_13_2024/)
-- [Two weeks with jsr.io: Do we need a new package registry?](https://www.reddit.com/r/javascript/comments/1bddtgo/two_weeks_with_jsrio_do_we_need_a_new_package/)
-- [[AskJS] How many monthly downloads do your packages get via npm](https://www.reddit.com/r/javascript/comments/1bddh3t/askjs_how_many_monthly_downloads_do_your_packages/)
-- [POC web dev tools like REPL but in your terminal](https://www.reddit.com/r/javascript/comments/1bdbbkj/poc_web_dev_tools_like_repl_but_in_your_terminal/)
-- [[AskJS] Looking to understand client library and database preferences for JS/TS developers](https://www.reddit.com/r/javascript/comments/1bd6og3/askjs_looking_to_understand_client_library_and/)
-- [Another DNS implementation in Node.js](https://www.reddit.com/r/javascript/comments/1bd5i4z/another_dns_implementation_in_nodejs/)
+- [[AskJS] Can anyone share the resources or docs for learning data structures and algorithms?](https://www.reddit.com/r/javascript/comments/1bf29x3/askjs_can_anyone_share_the_resources_or_docs_for/)
+- [I&#39;ve built a CLI tool for file management automation](https://www.reddit.com/r/javascript/comments/1bf1uar/ive_built_a_cli_tool_for_file_management/)
+- [here is cute-fs. a smol library in development and looking for people to contribute mainly any creative PRs are welcome.](https://www.reddit.com/r/javascript/comments/1bf0q50/here_is_cutefs_a_smol_library_in_development_and/)
+- [Mastering Touch and Gesture Interactions in React](https://www.reddit.com/r/javascript/comments/1bezisz/mastering_touch_and_gesture_interactions_in_react/)
+- [[AskJS] Need help with todo](https://www.reddit.com/r/javascript/comments/1bes43g/askjs_need_help_with_todo/)
+- [[AskJS] No/Low-code Tool for Meta-Programming/Code Generation](https://www.reddit.com/r/javascript/comments/1bepwzo/askjs_nolowcode_tool_for_metaprogrammingcode/)
+- [WebAssembly JSPI is going to origin trial](https://www.reddit.com/r/javascript/comments/1bepqx4/webassembly_jspi_is_going_to_origin_trial/)
+- [Using Intl.RelativeTimeFormat for Localized Relative Timings](https://www.reddit.com/r/javascript/comments/1bejy2x/using_intlrelativetimeformat_for_localized/)
+- [New JavaScript features in Safari 17.4: Promise.withResolvers&lpar;&rpar;, Object.groupBy&lpar;&rpar;, Map.groupBy&lpar;&rpar;](https://www.reddit.com/r/javascript/comments/1bejxn0/new_javascript_features_in_safari_174/)
+- [CISA Announces Initiative to Fortify Security of Open Source Package Registries - Socket](https://www.reddit.com/r/javascript/comments/1bejwxv/cisa_announces_initiative_to_fortify_security_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
