@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Typra, an expressjs wrapper for type validation with zod](https://www.reddit.com/r/javascript/comments/1bftjo4/typra_an_expressjs_wrapper_for_type_validation/)
+- [I made Aninest, a nested animation Library. What do yall think?](https://www.reddit.com/r/javascript/comments/1bfae0n/i_made_aninest_a_nested_animation_library_what_do/)
+- [How to dive deep into Gitlab Metrics with SQLite and Grafana](https://www.reddit.com/r/javascript/comments/1bf7o9m/how_to_dive_deep_into_gitlab_metrics_with_sqlite/)
+- [Advocating for the future of the open web - Open Web Advocacy &lpar;JS Party #316&rpar;](https://www.reddit.com/r/javascript/comments/1bf75d2/advocating_for_the_future_of_the_open_web_open/)
 - [[AskJS] Can anyone share the resources or docs for learning data structures and algorithms?](https://www.reddit.com/r/javascript/comments/1bf29x3/askjs_can_anyone_share_the_resources_or_docs_for/)
 - [I&#39;ve built a CLI tool for file management automation](https://www.reddit.com/r/javascript/comments/1bf1uar/ive_built_a_cli_tool_for_file_management/)
-- [here is cute-fs. a smol library in development and looking for people to contribute mainly any creative PRs are welcome.](https://www.reddit.com/r/javascript/comments/1bf0q50/here_is_cutefs_a_smol_library_in_development_and/)
 - [Mastering Touch and Gesture Interactions in React](https://www.reddit.com/r/javascript/comments/1bezisz/mastering_touch_and_gesture_interactions_in_react/)
 - [[AskJS] Need help with todo](https://www.reddit.com/r/javascript/comments/1bes43g/askjs_need_help_with_todo/)
 - [[AskJS] No/Low-code Tool for Meta-Programming/Code Generation](https://www.reddit.com/r/javascript/comments/1bepwzo/askjs_nolowcode_tool_for_metaprogrammingcode/)
 - [WebAssembly JSPI is going to origin trial](https://www.reddit.com/r/javascript/comments/1bepqx4/webassembly_jspi_is_going_to_origin_trial/)
-- [Using Intl.RelativeTimeFormat for Localized Relative Timings](https://www.reddit.com/r/javascript/comments/1bejy2x/using_intlrelativetimeformat_for_localized/)
-- [New JavaScript features in Safari 17.4: Promise.withResolvers&lpar;&rpar;, Object.groupBy&lpar;&rpar;, Map.groupBy&lpar;&rpar;](https://www.reddit.com/r/javascript/comments/1bejxn0/new_javascript_features_in_safari_174/)
-- [CISA Announces Initiative to Fortify Security of Open Source Package Registries - Socket](https://www.reddit.com/r/javascript/comments/1bejwxv/cisa_announces_initiative_to_fortify_security_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
