@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A free Markdown Table Of Contents Generator](https://www.reddit.com/r/javascript/comments/1bgvyzg/a_free_markdown_table_of_contents_generator/)
+- [Quick ES6 Quiz - 20 Questions](https://www.reddit.com/r/javascript/comments/1bgvw3w/quick_es6_quiz_20_questions/)
+- [Comparing JavaScript Frameworks part 1: templates](https://www.reddit.com/r/javascript/comments/1bgtvyd/comparing_javascript_frameworks_part_1_templates/)
+- [[AskJS] Why is this AudioWorklet to MP3 code producing different results on Chromium and Firefox?](https://www.reddit.com/r/javascript/comments/1bgqifh/askjs_why_is_this_audioworklet_to_mp3_code/)
+- [[AskJS] starting out with JS, need some help!!](https://www.reddit.com/r/javascript/comments/1bgoar1/askjs_starting_out_with_js_need_some_help/)
 - [Because of a single client-side mistake - a ChatGPT vulnerability lets attackers install malicious plugins on victims](https://www.reddit.com/r/javascript/comments/1bg83wf/because_of_a_single_clientside_mistake_a_chatgpt/)
 - [[AskJS] Which JS test library to choose if want to learn unit testing in 2024?](https://www.reddit.com/r/javascript/comments/1bg3uph/askjs_which_js_test_library_to_choose_if_want_to/)
 - [Showoff Saturday &lpar;March 16, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1bg08r6/showoff_saturday_march_16_2024/)
 - [Typra, an expressjs wrapper for type validation with zod](https://www.reddit.com/r/javascript/comments/1bftjo4/typra_an_expressjs_wrapper_for_type_validation/)
 - [I made Aninest, a nested animation Library. What do yall think?](https://www.reddit.com/r/javascript/comments/1bfae0n/i_made_aninest_a_nested_animation_library_what_do/)
-- [How to dive deep into Gitlab Metrics with SQLite and Grafana](https://www.reddit.com/r/javascript/comments/1bf7o9m/how_to_dive_deep_into_gitlab_metrics_with_sqlite/)
-- [Advocating for the future of the open web - Open Web Advocacy &lpar;JS Party #316&rpar;](https://www.reddit.com/r/javascript/comments/1bf75d2/advocating_for_the_future_of_the_open_web_open/)
-- [[AskJS] Can anyone share the resources or docs for learning data structures and algorithms?](https://www.reddit.com/r/javascript/comments/1bf29x3/askjs_can_anyone_share_the_resources_or_docs_for/)
-- [I&#39;ve built a CLI tool for file management automation](https://www.reddit.com/r/javascript/comments/1bf1uar/ive_built_a_cli_tool_for_file_management/)
-- [Mastering Touch and Gesture Interactions in React](https://www.reddit.com/r/javascript/comments/1bezisz/mastering_touch_and_gesture_interactions_in_react/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
