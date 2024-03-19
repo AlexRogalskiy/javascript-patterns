@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How npm install scripts can be weaponized: A real-world example of a harmful npm package](https://www.reddit.com/r/javascript/comments/1bhubv5/how_npm_install_scripts_can_be_weaponized_a/)
+- [require&lpar;esm&rpar; in Node.js](https://www.reddit.com/r/javascript/comments/1bht7x3/requireesm_in_nodejs/)
+- [WebSockets vs Server-Sent-Events vs Long-Polling vs WebRTC vs WebTransport](https://www.reddit.com/r/javascript/comments/1bhqosy/websockets_vs_serversentevents_vs_longpolling_vs/)
+- [Controllers on top of coroutine &lpar;web&rpar; components](https://www.reddit.com/r/javascript/comments/1bhnnl4/controllers_on_top_of_coroutine_web_components/)
+- [GitHub - bloodyowl/use-url: A simple Router for your TypeScript React applications](https://www.reddit.com/r/javascript/comments/1bhn44l/github_bloodyowluseurl_a_simple_router_for_your/)
+- [Your /r/javascript recap for the week of March 11 - March 17, 2024](https://www.reddit.com/r/javascript/comments/1bhma3f/your_rjavascript_recap_for_the_week_of_march_11/)
 - [A free Markdown Table Of Contents Generator](https://www.reddit.com/r/javascript/comments/1bgvyzg/a_free_markdown_table_of_contents_generator/)
 - [Quick ES6 Quiz - 20 Questions](https://www.reddit.com/r/javascript/comments/1bgvw3w/quick_es6_quiz_20_questions/)
 - [Comparing JavaScript Frameworks part 1: templates](https://www.reddit.com/r/javascript/comments/1bgtvyd/comparing_javascript_frameworks_part_1_templates/)
 - [[AskJS] Why is this AudioWorklet to MP3 code producing different results on Chromium and Firefox?](https://www.reddit.com/r/javascript/comments/1bgqifh/askjs_why_is_this_audioworklet_to_mp3_code/)
-- [[AskJS] starting out with JS, need some help!!](https://www.reddit.com/r/javascript/comments/1bgoar1/askjs_starting_out_with_js_need_some_help/)
-- [Because of a single client-side mistake - a ChatGPT vulnerability lets attackers install malicious plugins on victims](https://www.reddit.com/r/javascript/comments/1bg83wf/because_of_a_single_clientside_mistake_a_chatgpt/)
-- [[AskJS] Which JS test library to choose if want to learn unit testing in 2024?](https://www.reddit.com/r/javascript/comments/1bg3uph/askjs_which_js_test_library_to_choose_if_want_to/)
-- [Showoff Saturday &lpar;March 16, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1bg08r6/showoff_saturday_march_16_2024/)
-- [Typra, an expressjs wrapper for type validation with zod](https://www.reddit.com/r/javascript/comments/1bftjo4/typra_an_expressjs_wrapper_for_type_validation/)
-- [I made Aninest, a nested animation Library. What do yall think?](https://www.reddit.com/r/javascript/comments/1bfae0n/i_made_aninest_a_nested_animation_library_what_do/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
