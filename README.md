@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Tired of taking care of your .env files? no more. this script automatically uploads all your files to S3 in the background without you having to lift a finger!](https://www.reddit.com/r/javascript/comments/1bj1jja/tired_of_taking_care_of_your_env_files_no_more/)
+- [A free Password Generator Tool](https://www.reddit.com/r/javascript/comments/1biibei/a_free_password_generator_tool/)
+- [[AskJS] How to Build Emotion Recognition Application with JavaScript](https://www.reddit.com/r/javascript/comments/1bicmym/askjs_how_to_build_emotion_recognition/)
 - [How npm install scripts can be weaponized: A real-world example of a harmful npm package](https://www.reddit.com/r/javascript/comments/1bhubv5/how_npm_install_scripts_can_be_weaponized_a/)
 - [require&lpar;esm&rpar; in Node.js](https://www.reddit.com/r/javascript/comments/1bht7x3/requireesm_in_nodejs/)
 - [WebSockets vs Server-Sent-Events vs Long-Polling vs WebRTC vs WebTransport](https://www.reddit.com/r/javascript/comments/1bhqosy/websockets_vs_serversentevents_vs_longpolling_vs/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [GitHub - bloodyowl/use-url: A simple Router for your TypeScript React applications](https://www.reddit.com/r/javascript/comments/1bhn44l/github_bloodyowluseurl_a_simple_router_for_your/)
 - [Your /r/javascript recap for the week of March 11 - March 17, 2024](https://www.reddit.com/r/javascript/comments/1bhma3f/your_rjavascript_recap_for_the_week_of_march_11/)
 - [A free Markdown Table Of Contents Generator](https://www.reddit.com/r/javascript/comments/1bgvyzg/a_free_markdown_table_of_contents_generator/)
-- [Quick ES6 Quiz - 20 Questions](https://www.reddit.com/r/javascript/comments/1bgvw3w/quick_es6_quiz_20_questions/)
-- [Comparing JavaScript Frameworks part 1: templates](https://www.reddit.com/r/javascript/comments/1bgtvyd/comparing_javascript_frameworks_part_1_templates/)
-- [[AskJS] Why is this AudioWorklet to MP3 code producing different results on Chromium and Firefox?](https://www.reddit.com/r/javascript/comments/1bgqifh/askjs_why_is_this_audioworklet_to_mp3_code/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
