@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Tired of taking care of your .env files? no more. this script automatically uploads all your files to S3 in the background without you having to lift a finger!](https://www.reddit.com/r/javascript/comments/1bj1jja/tired_of_taking_care_of_your_env_files_no_more/)
+- [Immutable array updates with Array.prototype.with](https://www.reddit.com/r/javascript/comments/1bjrn4s/immutable_array_updates_with_arrayprototypewith/)
+- [[AskJS] Not being able to proceed learning JS](https://www.reddit.com/r/javascript/comments/1bjmxoa/askjs_not_being_able_to_proceed_learning_js/)
+- [Parsing the HN Who is Hiring Thread with ChatGPT and Node.js](https://www.reddit.com/r/javascript/comments/1bjc2d7/parsing_the_hn_who_is_hiring_thread_with_chatgpt/)
+- [ChartJs Visualization Library - A Detailed Walkthrough](https://www.reddit.com/r/javascript/comments/1bjal5m/chartjs_visualization_library_a_detailed/)
+- [Tic Tac Toes - A &quot;three dimensional&quot; Tic Tac Toe game I made. A twist of Tic Tac Toe inspired by VSauce written in React + JS. I will happily accept contributions, if you’re interested you can check for any open issues or create your own!](https://www.reddit.com/r/javascript/comments/1bj8lyg/tic_tac_toes_a_three_dimensional_tic_tac_toe_game/)
+- [WTF Wednesday &lpar;March 20, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1bj7f1p/wtf_wednesday_march_20_2024/)
+- [Devon - Is the “AI developer”a threat to jobs – or a marketing stunt?](https://www.reddit.com/r/javascript/comments/1bj7e0y/devon_is_the_ai_developera_threat_to_jobs_or_a/)
+- [Piping logs, visualizing in a web app – just suffix &quot;| npx logscreen&quot;](https://www.reddit.com/r/javascript/comments/1bj6vyo/piping_logs_visualizing_in_a_web_app_just_suffix/)
 - [A free Password Generator Tool](https://www.reddit.com/r/javascript/comments/1biibei/a_free_password_generator_tool/)
 - [[AskJS] How to Build Emotion Recognition Application with JavaScript](https://www.reddit.com/r/javascript/comments/1bicmym/askjs_how_to_build_emotion_recognition/)
-- [How npm install scripts can be weaponized: A real-world example of a harmful npm package](https://www.reddit.com/r/javascript/comments/1bhubv5/how_npm_install_scripts_can_be_weaponized_a/)
-- [require&lpar;esm&rpar; in Node.js](https://www.reddit.com/r/javascript/comments/1bht7x3/requireesm_in_nodejs/)
-- [WebSockets vs Server-Sent-Events vs Long-Polling vs WebRTC vs WebTransport](https://www.reddit.com/r/javascript/comments/1bhqosy/websockets_vs_serversentevents_vs_longpolling_vs/)
-- [Controllers on top of coroutine &lpar;web&rpar; components](https://www.reddit.com/r/javascript/comments/1bhnnl4/controllers_on_top_of_coroutine_web_components/)
-- [GitHub - bloodyowl/use-url: A simple Router for your TypeScript React applications](https://www.reddit.com/r/javascript/comments/1bhn44l/github_bloodyowluseurl_a_simple_router_for_your/)
-- [Your /r/javascript recap for the week of March 11 - March 17, 2024](https://www.reddit.com/r/javascript/comments/1bhma3f/your_rjavascript_recap_for_the_week_of_march_11/)
-- [A free Markdown Table Of Contents Generator](https://www.reddit.com/r/javascript/comments/1bgvyzg/a_free_markdown_table_of_contents_generator/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
