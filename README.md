@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to add Sentry tracing to your Node.js app](https://www.reddit.com/r/javascript/comments/1bkm809/how_to_add_sentry_tracing_to_your_nodejs_app/)
+- [JSDoc as an alternative TypeScript syntax](https://www.reddit.com/r/javascript/comments/1bkkoel/jsdoc_as_an_alternative_typescript_syntax/)
+- [[AskJS] Is it worth doing a whole coding course, if you already have some knowledge or just do projects &amp; learn as you go?](https://www.reddit.com/r/javascript/comments/1bkghna/askjs_is_it_worth_doing_a_whole_coding_course_if/)
+- [I’m building a tree-shakable, drop-in replacement for Zod!](https://www.reddit.com/r/javascript/comments/1bkcfn6/im_building_a_treeshakable_dropin_replacement_for/)
+- [US Department of Justice files Antitrust lawsuit Against Apple &lpar;Browsers/Web Apps&rpar;](https://www.reddit.com/r/javascript/comments/1bkb20r/us_department_of_justice_files_antitrust_lawsuit/)
+- [Code comprehension survey](https://www.reddit.com/r/javascript/comments/1bkazmr/code_comprehension_survey/)
+- [Optimizing Javascript for Fun and for Profit](https://www.reddit.com/r/javascript/comments/1bk6zel/optimizing_javascript_for_fun_and_for_profit/)
+- [[AskJS] What is this effect? Morph? Skew?](https://www.reddit.com/r/javascript/comments/1bjxl45/askjs_what_is_this_effect_morph_skew/)
 - [Immutable array updates with Array.prototype.with](https://www.reddit.com/r/javascript/comments/1bjrn4s/immutable_array_updates_with_arrayprototypewith/)
 - [[AskJS] Not being able to proceed learning JS](https://www.reddit.com/r/javascript/comments/1bjmxoa/askjs_not_being_able_to_proceed_learning_js/)
-- [Parsing the HN Who is Hiring Thread with ChatGPT and Node.js](https://www.reddit.com/r/javascript/comments/1bjc2d7/parsing_the_hn_who_is_hiring_thread_with_chatgpt/)
-- [ChartJs Visualization Library - A Detailed Walkthrough](https://www.reddit.com/r/javascript/comments/1bjal5m/chartjs_visualization_library_a_detailed/)
-- [Tic Tac Toes - A &quot;three dimensional&quot; Tic Tac Toe game I made. A twist of Tic Tac Toe inspired by VSauce written in React + JS. I will happily accept contributions, if you’re interested you can check for any open issues or create your own!](https://www.reddit.com/r/javascript/comments/1bj8lyg/tic_tac_toes_a_three_dimensional_tic_tac_toe_game/)
-- [WTF Wednesday &lpar;March 20, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1bj7f1p/wtf_wednesday_march_20_2024/)
-- [Devon - Is the “AI developer”a threat to jobs – or a marketing stunt?](https://www.reddit.com/r/javascript/comments/1bj7e0y/devon_is_the_ai_developera_threat_to_jobs_or_a/)
-- [Piping logs, visualizing in a web app – just suffix &quot;| npx logscreen&quot;](https://www.reddit.com/r/javascript/comments/1bj6vyo/piping_logs_visualizing_in_a_web_app_just_suffix/)
-- [A free Password Generator Tool](https://www.reddit.com/r/javascript/comments/1biibei/a_free_password_generator_tool/)
-- [[AskJS] How to Build Emotion Recognition Application with JavaScript](https://www.reddit.com/r/javascript/comments/1bicmym/askjs_how_to_build_emotion_recognition/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
