@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Node.js TSC Confirms: No Intention to Remove npm from Distribution](https://www.reddit.com/r/javascript/comments/1blcz9i/nodejs_tsc_confirms_no_intention_to_remove_npm/)
+- [I created a decentralized video/streaming platform where users manage and own the entire thing. Host your own content with ease, share if you want to.](https://www.reddit.com/r/javascript/comments/1bla097/i_created_a_decentralized_videostreaming_platform/)
+- [Mastering Concurrency Implementation in JavaScript](https://www.reddit.com/r/javascript/comments/1bl1hfp/mastering_concurrency_implementation_in_javascript/)
+- [[AskJS] Does anyone feel like me?](https://www.reddit.com/r/javascript/comments/1bkym85/askjs_does_anyone_feel_like_me/)
+- [[AskJS] VR Hand in AR on the Browser](https://www.reddit.com/r/javascript/comments/1bkvomo/askjs_vr_hand_in_ar_on_the_browser/)
+- [My JS drawing library, Atrament, now has a new version out with Worker-based fill, support for high-DPI screens, stylus input, as well as an improved rendering algorithm. Hope folks find it helpful!](https://www.reddit.com/r/javascript/comments/1bkvf1j/my_js_drawing_library_atrament_now_has_a_new/)
+- [17 Equations that Changed the World - Rewritten in JavaScript](https://www.reddit.com/r/javascript/comments/1bktd1z/17_equations_that_changed_the_world_rewritten_in/)
+- [[AskJS] Is there any JavaScript lib or tools can be used to leave a mark on a image in the webpage?](https://www.reddit.com/r/javascript/comments/1bks37z/askjs_is_there_any_javascript_lib_or_tools_can_be/)
 - [How to add Sentry tracing to your Node.js app](https://www.reddit.com/r/javascript/comments/1bkm809/how_to_add_sentry_tracing_to_your_nodejs_app/)
 - [JSDoc as an alternative TypeScript syntax](https://www.reddit.com/r/javascript/comments/1bkkoel/jsdoc_as_an_alternative_typescript_syntax/)
-- [[AskJS] Is it worth doing a whole coding course, if you already have some knowledge or just do projects &amp; learn as you go?](https://www.reddit.com/r/javascript/comments/1bkghna/askjs_is_it_worth_doing_a_whole_coding_course_if/)
-- [I’m building a tree-shakable, drop-in replacement for Zod!](https://www.reddit.com/r/javascript/comments/1bkcfn6/im_building_a_treeshakable_dropin_replacement_for/)
-- [US Department of Justice files Antitrust lawsuit Against Apple &lpar;Browsers/Web Apps&rpar;](https://www.reddit.com/r/javascript/comments/1bkb20r/us_department_of_justice_files_antitrust_lawsuit/)
-- [Code comprehension survey](https://www.reddit.com/r/javascript/comments/1bkazmr/code_comprehension_survey/)
-- [Optimizing Javascript for Fun and for Profit](https://www.reddit.com/r/javascript/comments/1bk6zel/optimizing_javascript_for_fun_and_for_profit/)
-- [[AskJS] What is this effect? Morph? Skew?](https://www.reddit.com/r/javascript/comments/1bjxl45/askjs_what_is_this_effect_morph_skew/)
-- [Immutable array updates with Array.prototype.with](https://www.reddit.com/r/javascript/comments/1bjrn4s/immutable_array_updates_with_arrayprototypewith/)
-- [[AskJS] Not being able to proceed learning JS](https://www.reddit.com/r/javascript/comments/1bjmxoa/askjs_not_being_able_to_proceed_learning_js/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
