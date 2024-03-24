@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Cample.js achieved a speed result of 1.07 in js-framework-benchmark &lpar;Chrome 123&rpar;](https://www.reddit.com/r/javascript/comments/1bm1gls/camplejs_achieved_a_speed_result_of_107_in/)
+- [[AskJS] Survey about security issues in frontend development and community influence](https://www.reddit.com/r/javascript/comments/1blyzfw/askjs_survey_about_security_issues_in_frontend/)
+- [[AskJS] Participate in an MIT study on explaining weird JS/Git behavior](https://www.reddit.com/r/javascript/comments/1blu5tw/askjs_participate_in_an_mit_study_on_explaining/)
+- [Showoff Saturday &lpar;March 23, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1blm223/showoff_saturday_march_23_2024/)
+- [A most powerful and high-performance React state time-travel hook](https://www.reddit.com/r/javascript/comments/1blm20m/a_most_powerful_and_highperformance_react_state/)
 - [Node.js TSC Confirms: No Intention to Remove npm from Distribution](https://www.reddit.com/r/javascript/comments/1blcz9i/nodejs_tsc_confirms_no_intention_to_remove_npm/)
 - [I created a decentralized video/streaming platform where users manage and own the entire thing. Host your own content with ease, share if you want to.](https://www.reddit.com/r/javascript/comments/1bla097/i_created_a_decentralized_videostreaming_platform/)
 - [Mastering Concurrency Implementation in JavaScript](https://www.reddit.com/r/javascript/comments/1bl1hfp/mastering_concurrency_implementation_in_javascript/)
 - [[AskJS] Does anyone feel like me?](https://www.reddit.com/r/javascript/comments/1bkym85/askjs_does_anyone_feel_like_me/)
 - [[AskJS] VR Hand in AR on the Browser](https://www.reddit.com/r/javascript/comments/1bkvomo/askjs_vr_hand_in_ar_on_the_browser/)
-- [My JS drawing library, Atrament, now has a new version out with Worker-based fill, support for high-DPI screens, stylus input, as well as an improved rendering algorithm. Hope folks find it helpful!](https://www.reddit.com/r/javascript/comments/1bkvf1j/my_js_drawing_library_atrament_now_has_a_new/)
-- [17 Equations that Changed the World - Rewritten in JavaScript](https://www.reddit.com/r/javascript/comments/1bktd1z/17_equations_that_changed_the_world_rewritten_in/)
-- [[AskJS] Is there any JavaScript lib or tools can be used to leave a mark on a image in the webpage?](https://www.reddit.com/r/javascript/comments/1bks37z/askjs_is_there_any_javascript_lib_or_tools_can_be/)
-- [How to add Sentry tracing to your Node.js app](https://www.reddit.com/r/javascript/comments/1bkm809/how_to_add_sentry_tracing_to_your_nodejs_app/)
-- [JSDoc as an alternative TypeScript syntax](https://www.reddit.com/r/javascript/comments/1bkkoel/jsdoc_as_an_alternative_typescript_syntax/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
