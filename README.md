@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Building a Micro HTMX SSR Framework](https://www.reddit.com/r/javascript/comments/1bmlu4h/building_a_micro_htmx_ssr_framework/)
+- [[AskJS] Website to visualise JS code execution?](https://www.reddit.com/r/javascript/comments/1bmkcl4/askjs_website_to_visualise_js_code_execution/)
 - [Cample.js achieved a speed result of 1.07 in js-framework-benchmark &lpar;Chrome 123&rpar;](https://www.reddit.com/r/javascript/comments/1bm1gls/camplejs_achieved_a_speed_result_of_107_in/)
 - [[AskJS] Survey about security issues in frontend development and community influence](https://www.reddit.com/r/javascript/comments/1blyzfw/askjs_survey_about_security_issues_in_frontend/)
 - [[AskJS] Participate in an MIT study on explaining weird JS/Git behavior](https://www.reddit.com/r/javascript/comments/1blu5tw/askjs_participate_in_an_mit_study_on_explaining/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Node.js TSC Confirms: No Intention to Remove npm from Distribution](https://www.reddit.com/r/javascript/comments/1blcz9i/nodejs_tsc_confirms_no_intention_to_remove_npm/)
 - [I created a decentralized video/streaming platform where users manage and own the entire thing. Host your own content with ease, share if you want to.](https://www.reddit.com/r/javascript/comments/1bla097/i_created_a_decentralized_videostreaming_platform/)
 - [Mastering Concurrency Implementation in JavaScript](https://www.reddit.com/r/javascript/comments/1bl1hfp/mastering_concurrency_implementation_in_javascript/)
-- [[AskJS] Does anyone feel like me?](https://www.reddit.com/r/javascript/comments/1bkym85/askjs_does_anyone_feel_like_me/)
-- [[AskJS] VR Hand in AR on the Browser](https://www.reddit.com/r/javascript/comments/1bkvomo/askjs_vr_hand_in_ar_on_the_browser/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
