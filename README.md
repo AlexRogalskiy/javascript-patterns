@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [JavaScript Visualized - Promise Execution by Lydia Hallie](https://www.reddit.com/r/javascript/comments/1bnm1q1/javascript_visualized_promise_execution_by_lydia/)
+- [Announcing TypeChat 0.1.0](https://www.reddit.com/r/javascript/comments/1bnkx71/announcing_typechat_010/)
+- [Revideo - an open source alternative to Remotion](https://www.reddit.com/r/javascript/comments/1bnkqbu/revideo_an_open_source_alternative_to_remotion/)
+- [Introducing NioDB - The simplest local JSON database](https://www.reddit.com/r/javascript/comments/1bnhyq3/introducing_niodb_the_simplest_local_json_database/)
+- [iOS404 - The missing web features of iOS &lpar;uses caniuse data&rpar;](https://www.reddit.com/r/javascript/comments/1bnhuhg/ios404_the_missing_web_features_of_ios_uses/)
+- [Kuto, a reverse JS bundler](https://www.reddit.com/r/javascript/comments/1bnepgm/kuto_a_reverse_js_bundler/)
+- [Create Bluetooth Low Energy application with Nodejs](https://www.reddit.com/r/javascript/comments/1bnbukj/create_bluetooth_low_energy_application_with/)
+- [Your /r/javascript recap for the week of March 18 - March 24, 2024](https://www.reddit.com/r/javascript/comments/1bn93xb/your_rjavascript_recap_for_the_week_of_march_18/)
 - [Building a Micro HTMX SSR Framework](https://www.reddit.com/r/javascript/comments/1bmlu4h/building_a_micro_htmx_ssr_framework/)
 - [[AskJS] Website to visualise JS code execution?](https://www.reddit.com/r/javascript/comments/1bmkcl4/askjs_website_to_visualise_js_code_execution/)
-- [Cample.js achieved a speed result of 1.07 in js-framework-benchmark &lpar;Chrome 123&rpar;](https://www.reddit.com/r/javascript/comments/1bm1gls/camplejs_achieved_a_speed_result_of_107_in/)
-- [[AskJS] Survey about security issues in frontend development and community influence](https://www.reddit.com/r/javascript/comments/1blyzfw/askjs_survey_about_security_issues_in_frontend/)
-- [[AskJS] Participate in an MIT study on explaining weird JS/Git behavior](https://www.reddit.com/r/javascript/comments/1blu5tw/askjs_participate_in_an_mit_study_on_explaining/)
-- [Showoff Saturday &lpar;March 23, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1blm223/showoff_saturday_march_23_2024/)
-- [A most powerful and high-performance React state time-travel hook](https://www.reddit.com/r/javascript/comments/1blm20m/a_most_powerful_and_highperformance_react_state/)
-- [Node.js TSC Confirms: No Intention to Remove npm from Distribution](https://www.reddit.com/r/javascript/comments/1blcz9i/nodejs_tsc_confirms_no_intention_to_remove_npm/)
-- [I created a decentralized video/streaming platform where users manage and own the entire thing. Host your own content with ease, share if you want to.](https://www.reddit.com/r/javascript/comments/1bla097/i_created_a_decentralized_videostreaming_platform/)
-- [Mastering Concurrency Implementation in JavaScript](https://www.reddit.com/r/javascript/comments/1bl1hfp/mastering_concurrency_implementation_in_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
