@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Introducing ngx-vflow - a library for crafting node-based editors with Angular](https://www.reddit.com/r/javascript/comments/1bogfn5/introducing_ngxvflow_a_library_for_crafting/)
+- [[AskJS] How useful Ai-assisted personalized tutorials would be for the next generation of JavaScript developers?](https://www.reddit.com/r/javascript/comments/1bofxro/askjs_how_useful_aiassisted_personalized/)
+- [Decathlon Adopts Backend for Frontend &lpar;BFF&rpar; Pattern to Empower FE Teams](https://www.reddit.com/r/javascript/comments/1bo48d2/decathlon_adopts_backend_for_frontend_bff_pattern/)
+- [Invokers &lpar;Explainer&rpar; | Open UI](https://www.reddit.com/r/javascript/comments/1bnzknf/invokers_explainer_open_ui/)
+- [accel-sort, a high performance sorting library for javascript that leverages GPU acceleration](https://www.reddit.com/r/javascript/comments/1bnyhn5/accelsort_a_high_performance_sorting_library_for/)
 - [JavaScript Visualized - Promise Execution by Lydia Hallie](https://www.reddit.com/r/javascript/comments/1bnm1q1/javascript_visualized_promise_execution_by_lydia/)
 - [Announcing TypeChat 0.1.0](https://www.reddit.com/r/javascript/comments/1bnkx71/announcing_typechat_010/)
 - [Revideo - an open source alternative to Remotion](https://www.reddit.com/r/javascript/comments/1bnkqbu/revideo_an_open_source_alternative_to_remotion/)
 - [Introducing NioDB - The simplest local JSON database](https://www.reddit.com/r/javascript/comments/1bnhyq3/introducing_niodb_the_simplest_local_json_database/)
 - [iOS404 - The missing web features of iOS &lpar;uses caniuse data&rpar;](https://www.reddit.com/r/javascript/comments/1bnhuhg/ios404_the_missing_web_features_of_ios_uses/)
-- [Kuto, a reverse JS bundler](https://www.reddit.com/r/javascript/comments/1bnepgm/kuto_a_reverse_js_bundler/)
-- [Create Bluetooth Low Energy application with Nodejs](https://www.reddit.com/r/javascript/comments/1bnbukj/create_bluetooth_low_energy_application_with/)
-- [Your /r/javascript recap for the week of March 18 - March 24, 2024](https://www.reddit.com/r/javascript/comments/1bn93xb/your_rjavascript_recap_for_the_week_of_march_18/)
-- [Building a Micro HTMX SSR Framework](https://www.reddit.com/r/javascript/comments/1bmlu4h/building_a_micro_htmx_ssr_framework/)
-- [[AskJS] Website to visualise JS code execution?](https://www.reddit.com/r/javascript/comments/1bmkcl4/askjs_website_to_visualise_js_code_execution/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
