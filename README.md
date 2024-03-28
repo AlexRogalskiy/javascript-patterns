@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [How to handle errors in React](https://www.infoworld.com/article/3604336/how-to-handle-errors-in-react.html#tk.rss_javascript)
 - [Vue team releases VitePress 1.0 static site generator](https://www.infoworld.com/article/3714770/vue-team-releases-vitepress-10-static-site-generator.html#tk.rss_javascript)
 - [Complexity bad: An interview with HTMX creator Carson Gross](https://www.infoworld.com/article/3713164/complexity-bad-an-interview-with-carson-gross.html#tk.rss_javascript)
 - [Rust-based WinterJS web server reaches 1.0](https://www.infoworld.com/article/3714444/rust-based-winterjs-web-server-reaches-10.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Deno shrinks deno compile binaries](https://www.infoworld.com/article/3713265/deno-shrinks-deno-compile-binaries.html#tk.rss_javascript)
 - [Functional programming with JavaScript arrays](https://www.infoworld.com/article/3712714/functional-programming-with-javascript-arrays.html#tk.rss_javascript)
 - [Dart language upgrade shines on Wasm, generative AI](https://www.infoworld.com/article/3712926/dart-language-upgrade-shines-on-wasm-generative-ai.html#tk.rss_javascript)
-- [Reactive magic in Svelte 5: Understanding Runes](https://www.infoworld.com/article/3712688/reactive-magic-in-svelte-5-understanding-runes.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
