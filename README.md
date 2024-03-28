@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Introducing ngx-vflow - a library for crafting node-based editors with Angular](https://www.reddit.com/r/javascript/comments/1bogfn5/introducing_ngxvflow_a_library_for_crafting/)
-- [[AskJS] How useful Ai-assisted personalized tutorials would be for the next generation of JavaScript developers?](https://www.reddit.com/r/javascript/comments/1bofxro/askjs_how_useful_aiassisted_personalized/)
-- [Decathlon Adopts Backend for Frontend &lpar;BFF&rpar; Pattern to Empower FE Teams](https://www.reddit.com/r/javascript/comments/1bo48d2/decathlon_adopts_backend_for_frontend_bff_pattern/)
-- [Invokers &lpar;Explainer&rpar; | Open UI](https://www.reddit.com/r/javascript/comments/1bnzknf/invokers_explainer_open_ui/)
-- [accel-sort, a high performance sorting library for javascript that leverages GPU acceleration](https://www.reddit.com/r/javascript/comments/1bnyhn5/accelsort_a_high_performance_sorting_library_for/)
-- [JavaScript Visualized - Promise Execution by Lydia Hallie](https://www.reddit.com/r/javascript/comments/1bnm1q1/javascript_visualized_promise_execution_by_lydia/)
-- [Announcing TypeChat 0.1.0](https://www.reddit.com/r/javascript/comments/1bnkx71/announcing_typechat_010/)
-- [Revideo - an open source alternative to Remotion](https://www.reddit.com/r/javascript/comments/1bnkqbu/revideo_an_open_source_alternative_to_remotion/)
-- [Introducing NioDB - The simplest local JSON database](https://www.reddit.com/r/javascript/comments/1bnhyq3/introducing_niodb_the_simplest_local_json_database/)
-- [iOS404 - The missing web features of iOS &lpar;uses caniuse data&rpar;](https://www.reddit.com/r/javascript/comments/1bnhuhg/ios404_the_missing_web_features_of_ios_uses/)
+- [[AskJS] Are there any component libraries left that are not for React?](https://www.reddit.com/r/javascript/comments/1bpenq0/askjs_are_there_any_component_libraries_left_that/)
+- [An analysis of an obfuscated JavaScript malware package](https://www.reddit.com/r/javascript/comments/1bpdff0/an_analysis_of_an_obfuscated_javascript_malware/)
+- [Iterator helpers](https://www.reddit.com/r/javascript/comments/1bpbtca/iterator_helpers/)
+- [Chromatic 3 is here](https://www.reddit.com/r/javascript/comments/1bpa14n/chromatic_3_is_here/)
+- [Choose your option :&rpar;](https://www.reddit.com/r/javascript/comments/1bp73bf/choose_your_option/)
+- [A Regex Engine to Parse and Apply Bulk Changes to a JSON String without JSON.parse](https://www.reddit.com/r/javascript/comments/1bp3vd3/a_regex_engine_to_parse_and_apply_bulk_changes_to/)
+- [DAMON: A Map Oriented Notation](https://www.reddit.com/r/javascript/comments/1bp1zxn/damon_a_map_oriented_notation/)
+- [[AskJS] Coding a webpage button that redirects to a random URL &lpar;read body text&rpar;](https://www.reddit.com/r/javascript/comments/1bp11d3/askjs_coding_a_webpage_button_that_redirects_to_a/)
+- [Let&#39;s build a UI framework](https://www.reddit.com/r/javascript/comments/1bozsmd/lets_build_a_ui_framework/)
+- [require&lpar;esm&rpar; in Node.js](https://www.reddit.com/r/javascript/comments/1boz6nu/requireesm_in_nodejs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
