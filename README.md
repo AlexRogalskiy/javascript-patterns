@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Prettier how to allow line breaks between parameters to function calls?](https://www.reddit.com/r/javascript/comments/1bpy3i1/askjs_prettier_how_to_allow_line_breaks_between/)
+- [Released a JavaScript SDK for Permify, an open source authorization service for building scalable permission systems](https://www.reddit.com/r/javascript/comments/1bpwxvn/released_a_javascript_sdk_for_permify_an_open/)
+- [GitHub - iByteABit256/tic-tac-toes: Super Tic Tac Toe](https://www.reddit.com/r/javascript/comments/1bprp08/github_ibyteabit256tictactoes_super_tic_tac_toe/)
 - [[AskJS] Are there any component libraries left that are not for React?](https://www.reddit.com/r/javascript/comments/1bpenq0/askjs_are_there_any_component_libraries_left_that/)
 - [An analysis of an obfuscated JavaScript malware package](https://www.reddit.com/r/javascript/comments/1bpdff0/an_analysis_of_an_obfuscated_javascript_malware/)
 - [Iterator helpers](https://www.reddit.com/r/javascript/comments/1bpbtca/iterator_helpers/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Choose your option :&rpar;](https://www.reddit.com/r/javascript/comments/1bp73bf/choose_your_option/)
 - [A Regex Engine to Parse and Apply Bulk Changes to a JSON String without JSON.parse](https://www.reddit.com/r/javascript/comments/1bp3vd3/a_regex_engine_to_parse_and_apply_bulk_changes_to/)
 - [DAMON: A Map Oriented Notation](https://www.reddit.com/r/javascript/comments/1bp1zxn/damon_a_map_oriented_notation/)
-- [[AskJS] Coding a webpage button that redirects to a random URL &lpar;read body text&rpar;](https://www.reddit.com/r/javascript/comments/1bp11d3/askjs_coding_a_webpage_button_that_redirects_to_a/)
-- [Let&#39;s build a UI framework](https://www.reddit.com/r/javascript/comments/1bozsmd/lets_build_a_ui_framework/)
-- [require&lpar;esm&rpar; in Node.js](https://www.reddit.com/r/javascript/comments/1boz6nu/requireesm_in_nodejs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
