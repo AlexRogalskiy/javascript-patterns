@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] How to get debugger like Akshay Saini in Namaste JavaScript videos?](https://www.reddit.com/r/javascript/comments/1br4pn3/askjs_how_to_get_debugger_like_akshay_saini_in/)
+- [GitHub - AegisJSProject/parsers: A collection of secure &amp; minimal parsers for HTML, CSS, SVG, MathML, XML, and JSON](https://www.reddit.com/r/javascript/comments/1br2imu/github_aegisjsprojectparsers_a_collection_of/)
+- [[AskJS] Repurposing startup as full-stack JavaScript community-sandbox. Worth it?](https://www.reddit.com/r/javascript/comments/1br1zqm/askjs_repurposing_startup_as_fullstack_javascript/)
+- [Epic Zeit - The most beautiful time zone converter](https://www.reddit.com/r/javascript/comments/1br0d6m/epic_zeit_the_most_beautiful_time_zone_converter/)
+- [The easy way to access the last JavaScript array element](https://www.reddit.com/r/javascript/comments/1bqwbb1/the_easy_way_to_access_the_last_javascript_array/)
+- [Resource: A Newsletter for Coding in typescript and JavaScript with regular opensource code analysis](https://www.reddit.com/r/javascript/comments/1bqufqu/resource_a_newsletter_for_coding_in_typescript/)
+- [@foxxmd/logging - an opinionated, batteries-included, Pino-based logging solution for backend TS/JS projects](https://www.reddit.com/r/javascript/comments/1bqpijw/foxxmdlogging_an_opinionated_batteriesincluded/)
+- [10 Engaging JavaScript Projects for Beginners to Enhance Skills and Creativity](https://www.reddit.com/r/javascript/comments/1bqmrdz/10_engaging_javascript_projects_for_beginners_to/)
+- [Checkout JS Tips Blog](https://www.reddit.com/r/javascript/comments/1bqi5oz/checkout_js_tips_blog/)
 - [[AskJS] Prettier how to allow line breaks between parameters to function calls?](https://www.reddit.com/r/javascript/comments/1bpy3i1/askjs_prettier_how_to_allow_line_breaks_between/)
-- [Released a JavaScript SDK for Permify, an open source authorization service for building scalable permission systems](https://www.reddit.com/r/javascript/comments/1bpwxvn/released_a_javascript_sdk_for_permify_an_open/)
-- [GitHub - iByteABit256/tic-tac-toes: Super Tic Tac Toe](https://www.reddit.com/r/javascript/comments/1bprp08/github_ibyteabit256tictactoes_super_tic_tac_toe/)
-- [[AskJS] Are there any component libraries left that are not for React?](https://www.reddit.com/r/javascript/comments/1bpenq0/askjs_are_there_any_component_libraries_left_that/)
-- [An analysis of an obfuscated JavaScript malware package](https://www.reddit.com/r/javascript/comments/1bpdff0/an_analysis_of_an_obfuscated_javascript_malware/)
-- [Iterator helpers](https://www.reddit.com/r/javascript/comments/1bpbtca/iterator_helpers/)
-- [Chromatic 3 is here](https://www.reddit.com/r/javascript/comments/1bpa14n/chromatic_3_is_here/)
-- [Choose your option :&rpar;](https://www.reddit.com/r/javascript/comments/1bp73bf/choose_your_option/)
-- [A Regex Engine to Parse and Apply Bulk Changes to a JSON String without JSON.parse](https://www.reddit.com/r/javascript/comments/1bp3vd3/a_regex_engine_to_parse_and_apply_bulk_changes_to/)
-- [DAMON: A Map Oriented Notation](https://www.reddit.com/r/javascript/comments/1bp1zxn/damon_a_map_oriented_notation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
