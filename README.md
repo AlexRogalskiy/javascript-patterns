@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] How to get debugger like Akshay Saini in Namaste JavaScript videos?](https://www.reddit.com/r/javascript/comments/1br4pn3/askjs_how_to_get_debugger_like_akshay_saini_in/)
-- [GitHub - AegisJSProject/parsers: A collection of secure &amp; minimal parsers for HTML, CSS, SVG, MathML, XML, and JSON](https://www.reddit.com/r/javascript/comments/1br2imu/github_aegisjsprojectparsers_a_collection_of/)
-- [[AskJS] Repurposing startup as full-stack JavaScript community-sandbox. Worth it?](https://www.reddit.com/r/javascript/comments/1br1zqm/askjs_repurposing_startup_as_fullstack_javascript/)
-- [Epic Zeit - The most beautiful time zone converter](https://www.reddit.com/r/javascript/comments/1br0d6m/epic_zeit_the_most_beautiful_time_zone_converter/)
-- [The easy way to access the last JavaScript array element](https://www.reddit.com/r/javascript/comments/1bqwbb1/the_easy_way_to_access_the_last_javascript_array/)
-- [Resource: A Newsletter for Coding in typescript and JavaScript with regular opensource code analysis](https://www.reddit.com/r/javascript/comments/1bqufqu/resource_a_newsletter_for_coding_in_typescript/)
-- [@foxxmd/logging - an opinionated, batteries-included, Pino-based logging solution for backend TS/JS projects](https://www.reddit.com/r/javascript/comments/1bqpijw/foxxmdlogging_an_opinionated_batteriesincluded/)
-- [10 Engaging JavaScript Projects for Beginners to Enhance Skills and Creativity](https://www.reddit.com/r/javascript/comments/1bqmrdz/10_engaging_javascript_projects_for_beginners_to/)
-- [Checkout JS Tips Blog](https://www.reddit.com/r/javascript/comments/1bqi5oz/checkout_js_tips_blog/)
-- [[AskJS] Prettier how to allow line breaks between parameters to function calls?](https://www.reddit.com/r/javascript/comments/1bpy3i1/askjs_prettier_how_to_allow_line_breaks_between/)
+- [I need help whit responsive nav](https://www.reddit.com/r/javascript/comments/1brv4iy/i_need_help_whit_responsive_nav/)
+- [A powerful, open-source, TypeScript-based algorithmic trading system](https://www.reddit.com/r/javascript/comments/1brurtz/a_powerful_opensource_typescriptbased_algorithmic/)
+- [Deploy SvelteKit to AWS Amplify: A Step-by-Step Guide](https://www.reddit.com/r/javascript/comments/1bruh5x/deploy_sveltekit_to_aws_amplify_a_stepbystep_guide/)
+- [Deploy Astro to AWS Amplify: A Step-by-Step Guide](https://www.reddit.com/r/javascript/comments/1brugwq/deploy_astro_to_aws_amplify_a_stepbystep_guide/)
+- [[AskJS] How to edit text in docx file and not lose formatting?](https://www.reddit.com/r/javascript/comments/1brr90l/askjs_how_to_edit_text_in_docx_file_and_not_lose/)
+- [Stop using swagger-ui only, go with TypeScript SDK](https://www.reddit.com/r/javascript/comments/1brodd4/stop_using_swaggerui_only_go_with_typescript_sdk/)
+- [Implementing file: protocol support for WHATWG fetch&lpar;&rpar; in Node.js without fs or import](https://www.reddit.com/r/javascript/comments/1brmnl2/implementing_file_protocol_support_for_whatwg/)
+- [[AskJS] Best course on youtube to learn js](https://www.reddit.com/r/javascript/comments/1briboz/askjs_best_course_on_youtube_to_learn_js/)
+- [Supply chain security: new backdoor found in xz compression lib](https://www.reddit.com/r/javascript/comments/1brhueh/supply_chain_security_new_backdoor_found_in_xz/)
+- [A new template library for RxJS and FRP](https://www.reddit.com/r/javascript/comments/1brgpgy/a_new_template_library_for_rxjs_and_frp/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
