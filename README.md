@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I need help whit responsive nav](https://www.reddit.com/r/javascript/comments/1brv4iy/i_need_help_whit_responsive_nav/)
-- [A powerful, open-source, TypeScript-based algorithmic trading system](https://www.reddit.com/r/javascript/comments/1brurtz/a_powerful_opensource_typescriptbased_algorithmic/)
-- [Deploy SvelteKit to AWS Amplify: A Step-by-Step Guide](https://www.reddit.com/r/javascript/comments/1bruh5x/deploy_sveltekit_to_aws_amplify_a_stepbystep_guide/)
-- [Deploy Astro to AWS Amplify: A Step-by-Step Guide](https://www.reddit.com/r/javascript/comments/1brugwq/deploy_astro_to_aws_amplify_a_stepbystep_guide/)
-- [[AskJS] How to edit text in docx file and not lose formatting?](https://www.reddit.com/r/javascript/comments/1brr90l/askjs_how_to_edit_text_in_docx_file_and_not_lose/)
-- [Stop using swagger-ui only, go with TypeScript SDK](https://www.reddit.com/r/javascript/comments/1brodd4/stop_using_swaggerui_only_go_with_typescript_sdk/)
-- [Implementing file: protocol support for WHATWG fetch&lpar;&rpar; in Node.js without fs or import](https://www.reddit.com/r/javascript/comments/1brmnl2/implementing_file_protocol_support_for_whatwg/)
-- [[AskJS] Best course on youtube to learn js](https://www.reddit.com/r/javascript/comments/1briboz/askjs_best_course_on_youtube_to_learn_js/)
-- [Supply chain security: new backdoor found in xz compression lib](https://www.reddit.com/r/javascript/comments/1brhueh/supply_chain_security_new_backdoor_found_in_xz/)
-- [A new template library for RxJS and FRP](https://www.reddit.com/r/javascript/comments/1brgpgy/a_new_template_library_for_rxjs_and_frp/)
+- [Adaptable metallic texture for the web](https://www.reddit.com/r/javascript/comments/1bsnuak/adaptable_metallic_texture_for_the_web/)
+- [Deploy Next.js to AWS Amplify: A Step-by-Step Guide](https://www.reddit.com/r/javascript/comments/1bsin8f/deploy_nextjs_to_aws_amplify_a_stepbystep_guide/)
+- [TC39 Proposal for Signals &lpar;reactive primitives&rpar; is now public](https://www.reddit.com/r/javascript/comments/1bsgnf5/tc39_proposal_for_signals_reactive_primitives_is/)
+- [dioma - 1Kb simple and elegant dependency injection &lpar;DI&rpar; for JS and TS](https://www.reddit.com/r/javascript/comments/1bseyw0/dioma_1kb_simple_and_elegant_dependency_injection/)
+- [A JavaScript engine/runtime toolbox: Why I use node, deno, bun, qjs, tjs at the same time](https://www.reddit.com/r/javascript/comments/1bse8vc/a_javascript_engineruntime_toolbox_why_i_use_node/)
+- [New State Manager, State Radio - if you know how a home radio set works, you surely know how this works already!](https://www.reddit.com/r/javascript/comments/1bs8xao/new_state_manager_state_radio_if_you_know_how_a/)
+- [[AskJS] Need guidance on Static website](https://www.reddit.com/r/javascript/comments/1bs7y01/askjs_need_guidance_on_static_website/)
+- [Have we made websites over-designed?](https://www.reddit.com/r/javascript/comments/1bs79zc/have_we_made_websites_overdesigned/)
+- [JavaScript Bloat in 2024](https://www.reddit.com/r/javascript/comments/1bs5mvz/javascript_bloat_in_2024/)
+- [[AskJS] Tools for development in modern JS workflow? Is Prettier and ESlint enough?](https://www.reddit.com/r/javascript/comments/1bs41ut/askjs_tools_for_development_in_modern_js_workflow/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
