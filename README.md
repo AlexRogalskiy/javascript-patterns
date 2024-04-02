@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJs] Async execution planner](https://www.reddit.com/r/javascript/comments/1btjbyr/askjs_async_execution_planner/)
+- [[AskJS] Is this the best way to handle an AJAX-y Streamed response to a client-side Javascript request?](https://www.reddit.com/r/javascript/comments/1bt8ndp/askjs_is_this_the_best_way_to_handle_an_ajaxy/)
+- [[AskJS] Preferred api format?](https://www.reddit.com/r/javascript/comments/1bt5uis/askjs_preferred_api_format/)
+- [[P] Announcing JS-Torch: Deep Learning on the Web](https://www.reddit.com/r/javascript/comments/1bt2qic/p_announcing_jstorch_deep_learning_on_the_web/)
+- [Your /r/javascript recap for the week of March 25 - March 31, 2024](https://www.reddit.com/r/javascript/comments/1bsys8x/your_rjavascript_recap_for_the_week_of_march_25/)
+- [[AskJS] ML/science in JavaScript](https://www.reddit.com/r/javascript/comments/1bsxh3z/askjs_mlscience_in_javascript/)
+- [Building a Discord Bot with Node.js, TypeScript, and Eris: Simplified Guide](https://www.reddit.com/r/javascript/comments/1bsv3bn/building_a_discord_bot_with_nodejs_typescript_and/)
+- [[AskJS] seniors please help me make this career decision](https://www.reddit.com/r/javascript/comments/1bstone/askjs_seniors_please_help_me_make_this_career/)
+- [[AskJS] Are there any valid reasons to use `!!` for type conversion to bool???](https://www.reddit.com/r/javascript/comments/1bss3v7/askjs_are_there_any_valid_reasons_to_use_for_type/)
 - [Adaptable metallic texture for the web](https://www.reddit.com/r/javascript/comments/1bsnuak/adaptable_metallic_texture_for_the_web/)
-- [Deploy Next.js to AWS Amplify: A Step-by-Step Guide](https://www.reddit.com/r/javascript/comments/1bsin8f/deploy_nextjs_to_aws_amplify_a_stepbystep_guide/)
-- [TC39 Proposal for Signals &lpar;reactive primitives&rpar; is now public](https://www.reddit.com/r/javascript/comments/1bsgnf5/tc39_proposal_for_signals_reactive_primitives_is/)
-- [dioma - 1Kb simple and elegant dependency injection &lpar;DI&rpar; for JS and TS](https://www.reddit.com/r/javascript/comments/1bseyw0/dioma_1kb_simple_and_elegant_dependency_injection/)
-- [A JavaScript engine/runtime toolbox: Why I use node, deno, bun, qjs, tjs at the same time](https://www.reddit.com/r/javascript/comments/1bse8vc/a_javascript_engineruntime_toolbox_why_i_use_node/)
-- [New State Manager, State Radio - if you know how a home radio set works, you surely know how this works already!](https://www.reddit.com/r/javascript/comments/1bs8xao/new_state_manager_state_radio_if_you_know_how_a/)
-- [[AskJS] Need guidance on Static website](https://www.reddit.com/r/javascript/comments/1bs7y01/askjs_need_guidance_on_static_website/)
-- [Have we made websites over-designed?](https://www.reddit.com/r/javascript/comments/1bs79zc/have_we_made_websites_overdesigned/)
-- [JavaScript Bloat in 2024](https://www.reddit.com/r/javascript/comments/1bs5mvz/javascript_bloat_in_2024/)
-- [[AskJS] Tools for development in modern JS workflow? Is Prettier and ESlint enough?](https://www.reddit.com/r/javascript/comments/1bs41ut/askjs_tools_for_development_in_modern_js_workflow/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
