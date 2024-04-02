@@ -292,6 +292,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Google to merge Angular and Wiz frameworks](https://www.infoworld.com/article/3714628/google-to-merge-angular-and-wiz-frameworks.html#tk.rss_javascript)
+- [Babylon.js web rendering engine gets 3D enhancements](https://www.infoworld.com/article/3714627/babylonjs-web-rendering-engine-gets-3d-enhancements.html#tk.rss_javascript)
+- [What’s the best JavaScript framework?](https://www.infoworld.com/article/3713207/whats-the-best-javascript-framework.html#tk.rss_javascript)
 - [Deno boosts dependency management with JSR](https://www.infoworld.com/article/3714687/deno-boosts-dependency-management-with-jsr.html#tk.rss_javascript)
 - [How to handle errors in React](https://www.infoworld.com/article/3604336/how-to-handle-errors-in-react.html#tk.rss_javascript)
 - [Vue team releases VitePress 1.0 static site generator](https://www.infoworld.com/article/3714770/vue-team-releases-vitepress-10-static-site-generator.html#tk.rss_javascript)
@@ -299,9 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Rust-based WinterJS web server reaches 1.0](https://www.infoworld.com/article/3714444/rust-based-winterjs-web-server-reaches-10.html#tk.rss_javascript)
 - [TypeScript soothes type narrowing pain point](https://www.infoworld.com/article/3713303/typescript-soothes-type-narrowing-pain-point.html#tk.rss_javascript)
 - [Gleam language available in first stable release](https://www.infoworld.com/article/3713460/gleam-language-available-in-first-stable-release.html#tk.rss_javascript)
-- [What is JavaScript? The full-stack programming language](https://www.infoworld.com/article/3441178/what-is-javascript-the-full-stack-programming-language.html#tk.rss_javascript)
-- [Deno shrinks deno compile binaries](https://www.infoworld.com/article/3713265/deno-shrinks-deno-compile-binaries.html#tk.rss_javascript)
-- [Functional programming with JavaScript arrays](https://www.infoworld.com/article/3712714/functional-programming-with-javascript-arrays.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
