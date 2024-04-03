@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Need to integrate AI response to Whats App bot, but clueless, how to start?](https://www.reddit.com/r/javascript/comments/1bu8luf/askjs_need_to_integrate_ai_response_to_whats_app/)
+- [Armaaruss has taken control of the sky. Simple JavaScript code that would allow the average person to evade drone strikes with just their android phones.](https://www.reddit.com/r/javascript/comments/1bu830m/armaaruss_has_taken_control_of_the_sky_simple/)
+- [Object structure in JavaScript engines](https://www.reddit.com/r/javascript/comments/1bu5bwi/object_structure_in_javascript_engines/)
+- [New State Manager, State Radio - if you know how a home radio set works, you surely know how this works already!](https://www.reddit.com/r/javascript/comments/1bu2z6m/new_state_manager_state_radio_if_you_know_how_a/)
+- [[AskJS] can you do that?](https://www.reddit.com/r/javascript/comments/1bu2qa4/askjs_can_you_do_that/)
+- [[AskJS] Framework for making games with javascript?](https://www.reddit.com/r/javascript/comments/1bu2b12/askjs_framework_for_making_games_with_javascript/)
+- [[AskJS] Is there a way to use tabstopps in JS?](https://www.reddit.com/r/javascript/comments/1bu0mm2/askjs_is_there_a_way_to_use_tabstopps_in_js/)
+- [[AskJS] Problem with deploy of a blog using a notion api](https://www.reddit.com/r/javascript/comments/1btww5v/askjs_problem_with_deploy_of_a_blog_using_a/)
+- [[AskJS] Is there a tool that will automatically write migrations based off of changes to a DDL?](https://www.reddit.com/r/javascript/comments/1btqve9/askjs_is_there_a_tool_that_will_automatically/)
 - [[AskJs] Async execution planner](https://www.reddit.com/r/javascript/comments/1btjbyr/askjs_async_execution_planner/)
-- [[AskJS] Is this the best way to handle an AJAX-y Streamed response to a client-side Javascript request?](https://www.reddit.com/r/javascript/comments/1bt8ndp/askjs_is_this_the_best_way_to_handle_an_ajaxy/)
-- [[AskJS] Preferred api format?](https://www.reddit.com/r/javascript/comments/1bt5uis/askjs_preferred_api_format/)
-- [[P] Announcing JS-Torch: Deep Learning on the Web](https://www.reddit.com/r/javascript/comments/1bt2qic/p_announcing_jstorch_deep_learning_on_the_web/)
-- [Your /r/javascript recap for the week of March 25 - March 31, 2024](https://www.reddit.com/r/javascript/comments/1bsys8x/your_rjavascript_recap_for_the_week_of_march_25/)
-- [[AskJS] ML/science in JavaScript](https://www.reddit.com/r/javascript/comments/1bsxh3z/askjs_mlscience_in_javascript/)
-- [Building a Discord Bot with Node.js, TypeScript, and Eris: Simplified Guide](https://www.reddit.com/r/javascript/comments/1bsv3bn/building_a_discord_bot_with_nodejs_typescript_and/)
-- [[AskJS] seniors please help me make this career decision](https://www.reddit.com/r/javascript/comments/1bstone/askjs_seniors_please_help_me_make_this_career/)
-- [[AskJS] Are there any valid reasons to use `!!` for type conversion to bool???](https://www.reddit.com/r/javascript/comments/1bss3v7/askjs_are_there_any_valid_reasons_to_use_for_type/)
-- [Adaptable metallic texture for the web](https://www.reddit.com/r/javascript/comments/1bsnuak/adaptable_metallic_texture_for_the_web/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
