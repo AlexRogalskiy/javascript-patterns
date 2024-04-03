@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Bun 1.1 JavaScript toolkit backs Windows 10](https://www.infoworld.com/article/3714825/bun-11-javascript-toolkit-backs-windows-10.html#tk.rss_javascript)
 - [Google to merge Angular and Wiz frameworks](https://www.infoworld.com/article/3714628/google-to-merge-angular-and-wiz-frameworks.html#tk.rss_javascript)
 - [Babylon.js web rendering engine gets 3D enhancements](https://www.infoworld.com/article/3714627/babylonjs-web-rendering-engine-gets-3d-enhancements.html#tk.rss_javascript)
 - [What’s the best JavaScript framework?](https://www.infoworld.com/article/3713207/whats-the-best-javascript-framework.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Complexity bad: An interview with HTMX creator Carson Gross](https://www.infoworld.com/article/3713164/complexity-bad-an-interview-with-carson-gross.html#tk.rss_javascript)
 - [Rust-based WinterJS web server reaches 1.0](https://www.infoworld.com/article/3714444/rust-based-winterjs-web-server-reaches-10.html#tk.rss_javascript)
 - [TypeScript soothes type narrowing pain point](https://www.infoworld.com/article/3713303/typescript-soothes-type-narrowing-pain-point.html#tk.rss_javascript)
-- [Gleam language available in first stable release](https://www.infoworld.com/article/3713460/gleam-language-available-in-first-stable-release.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
