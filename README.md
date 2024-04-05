@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Modern jQuery Alternative](https://www.reddit.com/r/javascript/comments/1bvwdt2/askjs_modern_jquery_alternative/)
+- [Check out and explore the new jSuites: more components and web plugins that are lightweight and easy to use, enhancing the performance of websites and apps. And it&#39;s still free.](https://www.reddit.com/r/javascript/comments/1bvvlzg/check_out_and_explore_the_new_jsuites_more/)
+- [[AskJS] Add to cart function help](https://www.reddit.com/r/javascript/comments/1bvvkmd/askjs_add_to_cart_function_help/)
+- [Gotchas With Same Site Strict Cookie and OAuth](https://www.reddit.com/r/javascript/comments/1bvpjbo/gotchas_with_same_site_strict_cookie_and_oauth/)
+- [Ascii Timeline visualisations in your logs Console.timeline](https://www.reddit.com/r/javascript/comments/1bvhb0p/ascii_timeline_visualisations_in_your_logs/)
+- [BLAZING FAST JS - Part I - &lpar;*as fast as possible&rpar;](https://www.reddit.com/r/javascript/comments/1bvg052/blazing_fast_js_part_i_as_fast_as_possible/)
 - [Building a Next.js application using Clerk for Authentication, and Drizzle ORM with Postgres for Storage](https://www.reddit.com/r/javascript/comments/1bvaee3/building_a_nextjs_application_using_clerk_for/)
 - [Learn how to manage flaky tests in jest.](https://www.reddit.com/r/javascript/comments/1bv5vj3/learn_how_to_manage_flaky_tests_in_jest/)
 - [Pikachu Volleyball -- Windows 9x game from 1997 reverse-engineered and ported to JavaScript with P2P multiplayer support](https://www.reddit.com/r/javascript/comments/1bv4yht/pikachu_volleyball_windows_9x_game_from_1997/)
 - [Optimise your Javascript for the BFCache](https://www.reddit.com/r/javascript/comments/1buvyd2/optimise_your_javascript_for_the_bfcache/)
-- [Reducing data with a shell-pipe-like sequence of operations in JavaScript](https://www.reddit.com/r/javascript/comments/1but9yh/reducing_data_with_a_shellpipelike_sequence_of/)
-- [WTF Wednesday &lpar;April 03, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1bum5j5/wtf_wednesday_april_03_2024/)
-- [[AskJS] Need to integrate AI response to Whats App bot, but clueless, how to start?](https://www.reddit.com/r/javascript/comments/1bu8luf/askjs_need_to_integrate_ai_response_to_whats_app/)
-- [Armaaruss has taken control of the sky. Simple JavaScript code that would allow the average person to evade drone strikes with just their android phones.](https://www.reddit.com/r/javascript/comments/1bu830m/armaaruss_has_taken_control_of_the_sky_simple/)
-- [Object structure in JavaScript engines](https://www.reddit.com/r/javascript/comments/1bu5bwi/object_structure_in_javascript_engines/)
-- [New State Manager, State Radio - if you know how a home radio set works, you surely know how this works already!](https://www.reddit.com/r/javascript/comments/1bu2z6m/new_state_manager_state_radio_if_you_know_how_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
