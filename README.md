@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [JetBrains IDEs add AI-powered code autocompletion](https://www.infoworld.com/article/3715022/jetbrains-ides-add-ai-powered-code-autocompletion.html#tk.rss_javascript)
 - [Full-stack web development with HTMX and Bun, Part 1: Elysia and MongoDB](https://www.infoworld.com/article/3714603/full-stack-web-development-with-htmx-and-bun-part-1-elysia-and-mongodb.html#tk.rss_javascript)
 - [Bun 1.1 JavaScript toolkit backs Windows 10](https://www.infoworld.com/article/3714825/bun-11-javascript-toolkit-backs-windows-10.html#tk.rss_javascript)
 - [Google to merge Angular and Wiz frameworks](https://www.infoworld.com/article/3714628/google-to-merge-angular-and-wiz-frameworks.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [How to handle errors in React](https://www.infoworld.com/article/3604336/how-to-handle-errors-in-react.html#tk.rss_javascript)
 - [Vue team releases VitePress 1.0 static site generator](https://www.infoworld.com/article/3714770/vue-team-releases-vitepress-10-static-site-generator.html#tk.rss_javascript)
 - [Complexity bad: An interview with HTMX creator Carson Gross](https://www.infoworld.com/article/3713164/complexity-bad-an-interview-with-carson-gross.html#tk.rss_javascript)
-- [Rust-based WinterJS web server reaches 1.0](https://www.infoworld.com/article/3714444/rust-based-winterjs-web-server-reaches-10.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
