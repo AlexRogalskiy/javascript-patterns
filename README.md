@@ -352,6 +352,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *javascript programmer posts*
 
 <!-- METEOR-POST-LIST:START -->
+- [What’s New at Meteor: Beta Releases, Community Tutorials, and More](https://blog.meteor.com/whats-new-at-meteor-beta-releases-community-tutorials-and-more-d798001142e6?source=rss----a9bcaf865278---4)
 - [New Meteor.js 2.15 and MongoDB 7](https://blog.meteor.com/new-meteor-js-2-15-and-mongodb-7-f358bc304250?source=rss----a9bcaf865278---4)
 - [New Meteor.js 2.14, updates to CLI and Tracker changes](https://blog.meteor.com/new-meteor-js-2-14-updates-to-cli-and-tracker-changes-a9814e11ac70?source=rss----a9bcaf865278---4)
 - [Meteor Core issues for Hacktoberfest 2023](https://blog.meteor.com/meteor-core-issues-for-hacktoberfest-2023-e4c3eeb60c67?source=rss----a9bcaf865278---4)
@@ -361,7 +362,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Meteor Monthly Update — May 2023](https://blog.meteor.com/meteor-monthly-update-may-2023-6f6abaafb078?source=rss----a9bcaf865278---4)
 - [Meteor.js with Vite, Solid, and Tailwind CSS](https://blog.meteor.com/meteor-js-with-vite-solid-and-tailwind-css-d2d50dea970c?source=rss----a9bcaf865278---4)
 - [New Meteor.js 2.12 and Blaze 2.6.2 Release](https://blog.meteor.com/new-meteor-js-2-12-and-the-blaze-2-6-2-release-b72c2a7a593f?source=rss----a9bcaf865278---4)
-- [Meteor Monthly Update — April 2023](https://blog.meteor.com/meteor-monthly-update-april-2023-2934fe656cee?source=rss----a9bcaf865278---4)
 <!-- METEOR-POST-LIST:END -->
 
 ### *Dreamix posts*
