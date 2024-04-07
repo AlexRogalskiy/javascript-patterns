@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to Build a Facial Recognition Application with JavaScript](https://www.reddit.com/r/javascript/comments/1bwxed3/how_to_build_a_facial_recognition_application/)
-- [Brutalist/Cyber Punk Hacker News reader made with Vanilla JS in one html file and no libraries](https://www.reddit.com/r/javascript/comments/1bwvpqq/brutalistcyber_punk_hacker_news_reader_made_with/)
-- [Is it one of the most annoying JavaScript syntax errors to debug?](https://www.reddit.com/r/javascript/comments/1bwu96a/is_it_one_of_the_most_annoying_javascript_syntax/)
-- [Beyond Foreign Keys](https://www.reddit.com/r/javascript/comments/1bwf8i4/beyond_foreign_keys/)
-- [[AskJS] JavaScript library for extracting embedded artwork for audio files?](https://www.reddit.com/r/javascript/comments/1bw8w2i/askjs_javascript_library_for_extracting_embedded/)
-- [[AskJS] Modern jQuery Alternative](https://www.reddit.com/r/javascript/comments/1bvwdt2/askjs_modern_jquery_alternative/)
-- [Check out and explore the new jSuites: more components and web plugins that are lightweight and easy to use, enhancing the performance of websites and apps. And it&#39;s still free.](https://www.reddit.com/r/javascript/comments/1bvvlzg/check_out_and_explore_the_new_jsuites_more/)
-- [Gotchas With Same Site Strict Cookie and OAuth](https://www.reddit.com/r/javascript/comments/1bvpjbo/gotchas_with_same_site_strict_cookie_and_oauth/)
-- [Ascii Timeline visualisations in your logs Console.timeline](https://www.reddit.com/r/javascript/comments/1bvhb0p/ascii_timeline_visualisations_in_your_logs/)
-- [BLAZING FAST JS - Part I - &lpar;*as fast as possible&rpar;](https://www.reddit.com/r/javascript/comments/1bvg052/blazing_fast_js_part_i_as_fast_as_possible/)
+- [FaceOnLive / OpenKYC Public](https://www.reddit.com/r/javascript/comments/1bxfsbj/faceonlive_openkyc_public/)
+- [Project feedback: Pinky Promise as an easy safety net for high scale flows 1st anniversary. What do you think?](https://www.reddit.com/r/javascript/comments/1bxcdd5/project_feedback_pinky_promise_as_an_easy_safety/)
+- [[AskJS] What is a good Pandas equivalent for JavaScript?](https://www.reddit.com/r/javascript/comments/1bxb67j/askjs_what_is_a_good_pandas_equivalent_for/)
+- [[AskJS] Are there any methods for making obfuscated code readable?](https://www.reddit.com/r/javascript/comments/1bxaz0c/askjs_are_there_any_methods_for_making_obfuscated/)
+- [Deploy a Global Nuxt SSR App with Cloudflare Hyperdrive, Drizzle ORM, and Postgres](https://www.reddit.com/r/javascript/comments/1bx9sng/deploy_a_global_nuxt_ssr_app_with_cloudflare/)
+- [[AskJS] Is JS today what it needs to be?](https://www.reddit.com/r/javascript/comments/1bx87rn/askjs_is_js_today_what_it_needs_to_be/)
+- [[AskJS] from closures to &quot;apertures&quot;, or &quot;deep-binding&quot; and &quot;context variables&quot;](https://www.reddit.com/r/javascript/comments/1bx7lke/askjs_from_closures_to_apertures_or_deepbinding/)
+- [Showoff Saturday &lpar;April 06, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1bx5912/showoff_saturday_april_06_2024/)
+- [[AskJS] Fastest way to apply multi level filters in 100K records](https://www.reddit.com/r/javascript/comments/1bx3au6/askjs_fastest_way_to_apply_multi_level_filters_in/)
+- [Contest to learn javascript! Challenge 1: Bring Fruit to Mouth - $10 prize pool.](https://www.reddit.com/r/javascript/comments/1bx0pqu/contest_to_learn_javascript_challenge_1_bring/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
