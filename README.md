@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [JSBin to play with the TC39 Signals Proposal](https://www.reddit.com/r/javascript/comments/1bygbhw/jsbin_to_play_with_the_tc39_signals_proposal/)
+- [Intercepting and handling arbitrary static and dynamic Ecmascript import specifiers, protocols and file extensions](https://www.reddit.com/r/javascript/comments/1bycqc6/intercepting_and_handling_arbitrary_static_and/)
+- [Our team has brought Unreal Engine 5 to WebGL and WebGPU, with asset streaming](https://www.reddit.com/r/javascript/comments/1by9web/our_team_has_brought_unreal_engine_5_to_webgl_and/)
+- [A proposal to add signals to JavaScript](https://www.reddit.com/r/javascript/comments/1by857i/a_proposal_to_add_signals_to_javascript/)
+- [[AskJS] how upload change and download html file](https://www.reddit.com/r/javascript/comments/1by1zvm/askjs_how_upload_change_and_download_html_file/)
+- [JavaScript console in 5 minutes](https://www.reddit.com/r/javascript/comments/1bxx2xm/javascript_console_in_5_minutes/)
+- [JavaScript-native RPC [CloudFlare Workers]](https://www.reddit.com/r/javascript/comments/1bxvtea/javascriptnative_rpc_cloudflare_workers/)
 - [FaceOnLive / OpenKYC Public](https://www.reddit.com/r/javascript/comments/1bxfsbj/faceonlive_openkyc_public/)
 - [Project feedback: Pinky Promise as an easy safety net for high scale flows 1st anniversary. What do you think?](https://www.reddit.com/r/javascript/comments/1bxcdd5/project_feedback_pinky_promise_as_an_easy_safety/)
 - [[AskJS] What is a good Pandas equivalent for JavaScript?](https://www.reddit.com/r/javascript/comments/1bxb67j/askjs_what_is_a_good_pandas_equivalent_for/)
-- [[AskJS] Are there any methods for making obfuscated code readable?](https://www.reddit.com/r/javascript/comments/1bxaz0c/askjs_are_there_any_methods_for_making_obfuscated/)
-- [Deploy a Global Nuxt SSR App with Cloudflare Hyperdrive, Drizzle ORM, and Postgres](https://www.reddit.com/r/javascript/comments/1bx9sng/deploy_a_global_nuxt_ssr_app_with_cloudflare/)
-- [[AskJS] Is JS today what it needs to be?](https://www.reddit.com/r/javascript/comments/1bx87rn/askjs_is_js_today_what_it_needs_to_be/)
-- [[AskJS] from closures to &quot;apertures&quot;, or &quot;deep-binding&quot; and &quot;context variables&quot;](https://www.reddit.com/r/javascript/comments/1bx7lke/askjs_from_closures_to_apertures_or_deepbinding/)
-- [Showoff Saturday &lpar;April 06, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1bx5912/showoff_saturday_april_06_2024/)
-- [[AskJS] Fastest way to apply multi level filters in 100K records](https://www.reddit.com/r/javascript/comments/1bx3au6/askjs_fastest_way_to_apply_multi_level_filters_in/)
-- [Contest to learn javascript! Challenge 1: Bring Fruit to Mouth - $10 prize pool.](https://www.reddit.com/r/javascript/comments/1bx0pqu/contest_to_learn_javascript_challenge_1_bring/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
