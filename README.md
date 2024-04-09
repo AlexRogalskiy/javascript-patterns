@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] How do I make keypresses register continuously instantly, without an initial delay?](https://www.reddit.com/r/javascript/comments/1bzdzgo/askjs_how_do_i_make_keypresses_register/)
+- [[AskJS] Chrome extension to isolate tabs.](https://www.reddit.com/r/javascript/comments/1bz9zb0/askjs_chrome_extension_to_isolate_tabs/)
+- [[AskJS] if I use location.reload&lpar;&rpar; will that kill the active session timer?](https://www.reddit.com/r/javascript/comments/1bz9nbh/askjs_if_i_use_locationreload_will_that_kill_the/)
+- [[AskJS] Looking to interview other js developers for my MVP](https://www.reddit.com/r/javascript/comments/1bz5w8p/askjs_looking_to_interview_other_js_developers/)
+- [Your /r/javascript recap for the week of April 01 - April 07, 2024](https://www.reddit.com/r/javascript/comments/1byt9qx/your_rjavascript_recap_for_the_week_of_april_01/)
+- [[AskJS] A == null or A === null || A === undefined](https://www.reddit.com/r/javascript/comments/1byruht/askjs_a_null_or_a_null_a_undefined/)
+- [[AskJS] Does window.screenshot exist in the browser?](https://www.reddit.com/r/javascript/comments/1byrr55/askjs_does_windowscreenshot_exist_in_the_browser/)
+- [Introducing monoverse, a comprehensive monorepo management tool](https://www.reddit.com/r/javascript/comments/1byrlh9/introducing_monoverse_a_comprehensive_monorepo/)
+- [google/zx release 8.0](https://www.reddit.com/r/javascript/comments/1byr4sz/googlezx_release_80/)
 - [JSBin to play with the TC39 Signals Proposal](https://www.reddit.com/r/javascript/comments/1bygbhw/jsbin_to_play_with_the_tc39_signals_proposal/)
-- [Intercepting and handling arbitrary static and dynamic Ecmascript import specifiers, protocols and file extensions](https://www.reddit.com/r/javascript/comments/1bycqc6/intercepting_and_handling_arbitrary_static_and/)
-- [Our team has brought Unreal Engine 5 to WebGL and WebGPU, with asset streaming](https://www.reddit.com/r/javascript/comments/1by9web/our_team_has_brought_unreal_engine_5_to_webgl_and/)
-- [A proposal to add signals to JavaScript](https://www.reddit.com/r/javascript/comments/1by857i/a_proposal_to_add_signals_to_javascript/)
-- [[AskJS] how upload change and download html file](https://www.reddit.com/r/javascript/comments/1by1zvm/askjs_how_upload_change_and_download_html_file/)
-- [JavaScript console in 5 minutes](https://www.reddit.com/r/javascript/comments/1bxx2xm/javascript_console_in_5_minutes/)
-- [JavaScript-native RPC [CloudFlare Workers]](https://www.reddit.com/r/javascript/comments/1bxvtea/javascriptnative_rpc_cloudflare_workers/)
-- [FaceOnLive / OpenKYC Public](https://www.reddit.com/r/javascript/comments/1bxfsbj/faceonlive_openkyc_public/)
-- [Project feedback: Pinky Promise as an easy safety net for high scale flows 1st anniversary. What do you think?](https://www.reddit.com/r/javascript/comments/1bxcdd5/project_feedback_pinky_promise_as_an_easy_safety/)
-- [[AskJS] What is a good Pandas equivalent for JavaScript?](https://www.reddit.com/r/javascript/comments/1bxb67j/askjs_what_is_a_good_pandas_equivalent_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
