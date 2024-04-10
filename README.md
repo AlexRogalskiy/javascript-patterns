@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Is it possible to fill a pdf form using JavaScript?](https://www.reddit.com/r/javascript/comments/1c05t1e/askjs_is_it_possible_to_fill_a_pdf_form_using/)
+- [2d-geometry: performant &amp; ergonomic 2d geometry in Typescript](https://www.reddit.com/r/javascript/comments/1c00u8n/2dgeometry_performant_ergonomic_2d_geometry_in/)
+- [Jspreadsheet is a lightweight Vanilla JavaScript plugin that helps developers to create web-based applications with spreadsheet UI/UX.](https://www.reddit.com/r/javascript/comments/1c00q1e/jspreadsheet_is_a_lightweight_vanilla_javascript/)
+- [performance optimisation for a template engine that supports HTML streaming](https://www.reddit.com/r/javascript/comments/1bzsu3f/performance_optimisation_for_a_template_engine/)
+- [Introducing Page Mosaic: It&#39;s an open-source CMS designed for static websites. You can integrate it with any static website template.](https://www.reddit.com/r/javascript/comments/1bzskss/introducing_page_mosaic_its_an_opensource_cms/)
+- [[AskJS] Are there any open source spreadsheets that support formulas?](https://www.reddit.com/r/javascript/comments/1bzmynz/askjs_are_there_any_open_source_spreadsheets_that/)
+- [Link of the day](https://www.reddit.com/r/javascript/comments/1bzghcv/link_of_the_day/)
 - [[AskJS] How do I make keypresses register continuously instantly, without an initial delay?](https://www.reddit.com/r/javascript/comments/1bzdzgo/askjs_how_do_i_make_keypresses_register/)
 - [[AskJS] Chrome extension to isolate tabs.](https://www.reddit.com/r/javascript/comments/1bz9zb0/askjs_chrome_extension_to_isolate_tabs/)
 - [[AskJS] if I use location.reload&lpar;&rpar; will that kill the active session timer?](https://www.reddit.com/r/javascript/comments/1bz9nbh/askjs_if_i_use_locationreload_will_that_kill_the/)
-- [[AskJS] Looking to interview other js developers for my MVP](https://www.reddit.com/r/javascript/comments/1bz5w8p/askjs_looking_to_interview_other_js_developers/)
-- [Your /r/javascript recap for the week of April 01 - April 07, 2024](https://www.reddit.com/r/javascript/comments/1byt9qx/your_rjavascript_recap_for_the_week_of_april_01/)
-- [[AskJS] A == null or A === null || A === undefined](https://www.reddit.com/r/javascript/comments/1byruht/askjs_a_null_or_a_null_a_undefined/)
-- [[AskJS] Does window.screenshot exist in the browser?](https://www.reddit.com/r/javascript/comments/1byrr55/askjs_does_windowscreenshot_exist_in_the_browser/)
-- [Introducing monoverse, a comprehensive monorepo management tool](https://www.reddit.com/r/javascript/comments/1byrlh9/introducing_monoverse_a_comprehensive_monorepo/)
-- [google/zx release 8.0](https://www.reddit.com/r/javascript/comments/1byr4sz/googlezx_release_80/)
-- [JSBin to play with the TC39 Signals Proposal](https://www.reddit.com/r/javascript/comments/1bygbhw/jsbin_to_play_with_the_tc39_signals_proposal/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
