@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] How to sandbox a plugin within a website](https://www.reddit.com/r/javascript/comments/1c0xmwv/askjs_how_to_sandbox_a_plugin_within_a_website/)
+- [[AskJS] How best to manage a GitHub project?](https://www.reddit.com/r/javascript/comments/1c0r40j/askjs_how_best_to_manage_a_github_project/)
+- [Superawesome frontend boilerplate with tests, CI/CD, backend, styleguide - everything dockerized, don&#39;t even need nodejs locally!](https://www.reddit.com/r/javascript/comments/1c0m7jw/superawesome_frontend_boilerplate_with_tests_cicd/)
+- [parseUri 2 - A mighty but tiny URI parser &lpar;less than 50 lines to support all URIs&rpar;](https://www.reddit.com/r/javascript/comments/1c0knqo/parseuri_2_a_mighty_but_tiny_uri_parser_less_than/)
+- [[AskJS] Debug and overwrite Js function](https://www.reddit.com/r/javascript/comments/1c0k6zb/askjs_debug_and_overwrite_js_function/)
+- [Created ESLint plugin, to force use a paths aliases from tsconfig instead of relative paths](https://www.reddit.com/r/javascript/comments/1c0hg24/created_eslint_plugin_to_force_use_a_paths/)
+- [WTF Wednesday &lpar;April 10, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1c0fdu9/wtf_wednesday_april_10_2024/)
+- [Don&#39;t catch us](https://www.reddit.com/r/javascript/comments/1c0cuem/dont_catch_us/)
 - [[AskJS] Is it possible to fill a pdf form using JavaScript?](https://www.reddit.com/r/javascript/comments/1c05t1e/askjs_is_it_possible_to_fill_a_pdf_form_using/)
 - [2d-geometry: performant &amp; ergonomic 2d geometry in Typescript](https://www.reddit.com/r/javascript/comments/1c00u8n/2dgeometry_performant_ergonomic_2d_geometry_in/)
-- [Jspreadsheet is a lightweight Vanilla JavaScript plugin that helps developers to create web-based applications with spreadsheet UI/UX.](https://www.reddit.com/r/javascript/comments/1c00q1e/jspreadsheet_is_a_lightweight_vanilla_javascript/)
-- [performance optimisation for a template engine that supports HTML streaming](https://www.reddit.com/r/javascript/comments/1bzsu3f/performance_optimisation_for_a_template_engine/)
-- [Introducing Page Mosaic: It&#39;s an open-source CMS designed for static websites. You can integrate it with any static website template.](https://www.reddit.com/r/javascript/comments/1bzskss/introducing_page_mosaic_its_an_opensource_cms/)
-- [[AskJS] Are there any open source spreadsheets that support formulas?](https://www.reddit.com/r/javascript/comments/1bzmynz/askjs_are_there_any_open_source_spreadsheets_that/)
-- [Link of the day](https://www.reddit.com/r/javascript/comments/1bzghcv/link_of_the_day/)
-- [[AskJS] How do I make keypresses register continuously instantly, without an initial delay?](https://www.reddit.com/r/javascript/comments/1bzdzgo/askjs_how_do_i_make_keypresses_register/)
-- [[AskJS] Chrome extension to isolate tabs.](https://www.reddit.com/r/javascript/comments/1bz9zb0/askjs_chrome_extension_to_isolate_tabs/)
-- [[AskJS] if I use location.reload&lpar;&rpar; will that kill the active session timer?](https://www.reddit.com/r/javascript/comments/1bz9nbh/askjs_if_i_use_locationreload_will_that_kill_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
