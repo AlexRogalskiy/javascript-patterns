@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Error handling patterns and best practices](https://www.reddit.com/r/javascript/comments/1c1rl7i/error_handling_patterns_and_best_practices/)
+- [From the arduino community on Reddit: I need help I’m trying to use an IR sensor with remote to drive a car](https://www.reddit.com/r/javascript/comments/1c1o3pl/from_the_arduino_community_on_reddit_i_need_help/)
+- [Prototype even faster with the Gradio UI for Figma component library](https://www.reddit.com/r/javascript/comments/1c1ldr7/prototype_even_faster_with_the_gradio_ui_for/)
+- [I made a platform for portfolio, resume building + CMS for your portfolio](https://www.reddit.com/r/javascript/comments/1c1kdjq/i_made_a_platform_for_portfolio_resume_building/)
+- [How fast can you validate UTF-8 strings in JavaScript?](https://www.reddit.com/r/javascript/comments/1c1jd67/how_fast_can_you_validate_utf8_strings_in/)
+- [Transformers.js – Run Transformers directly in the browser](https://www.reddit.com/r/javascript/comments/1c1h9vp/transformersjs_run_transformers_directly_in_the/)
+- [[AskJS] what even is the point of cors](https://www.reddit.com/r/javascript/comments/1c1ckif/askjs_what_even_is_the_point_of_cors/)
+- [[AskJS] How to inspect network calls](https://www.reddit.com/r/javascript/comments/1c1cepf/askjs_how_to_inspect_network_calls/)
+- [Which framework &lpar;frontend&rpar; do you use?](https://www.reddit.com/r/javascript/comments/1c1aq03/which_framework_frontend_do_you_use/)
 - [[AskJS] How to sandbox a plugin within a website](https://www.reddit.com/r/javascript/comments/1c0xmwv/askjs_how_to_sandbox_a_plugin_within_a_website/)
-- [[AskJS] How best to manage a GitHub project?](https://www.reddit.com/r/javascript/comments/1c0r40j/askjs_how_best_to_manage_a_github_project/)
-- [Superawesome frontend boilerplate with tests, CI/CD, backend, styleguide - everything dockerized, don&#39;t even need nodejs locally!](https://www.reddit.com/r/javascript/comments/1c0m7jw/superawesome_frontend_boilerplate_with_tests_cicd/)
-- [parseUri 2 - A mighty but tiny URI parser &lpar;less than 50 lines to support all URIs&rpar;](https://www.reddit.com/r/javascript/comments/1c0knqo/parseuri_2_a_mighty_but_tiny_uri_parser_less_than/)
-- [[AskJS] Debug and overwrite Js function](https://www.reddit.com/r/javascript/comments/1c0k6zb/askjs_debug_and_overwrite_js_function/)
-- [Created ESLint plugin, to force use a paths aliases from tsconfig instead of relative paths](https://www.reddit.com/r/javascript/comments/1c0hg24/created_eslint_plugin_to_force_use_a_paths/)
-- [WTF Wednesday &lpar;April 10, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1c0fdu9/wtf_wednesday_april_10_2024/)
-- [Don&#39;t catch us](https://www.reddit.com/r/javascript/comments/1c0cuem/dont_catch_us/)
-- [[AskJS] Is it possible to fill a pdf form using JavaScript?](https://www.reddit.com/r/javascript/comments/1c05t1e/askjs_is_it_possible_to_fill_a_pdf_form_using/)
-- [2d-geometry: performant &amp; ergonomic 2d geometry in Typescript](https://www.reddit.com/r/javascript/comments/1c00u8n/2dgeometry_performant_ergonomic_2d_geometry_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
