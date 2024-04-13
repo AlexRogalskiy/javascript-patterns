@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] eslint, beautiful but IMHO being misguided. How do I get off?](https://www.reddit.com/r/javascript/comments/1c2m78n/askjs_eslint_beautiful_but_imho_being_misguided/)
+- [[AskJS] JavaScript operators like or &lpar; || &rpar;, and &lpar; &amp;&amp; &rpar;, null coalescing &lpar; ?? &rpar; makes weak comparasion?](https://www.reddit.com/r/javascript/comments/1c2kf3q/askjs_javascript_operators_like_or_and_null/)
+- [A popular open-source content delivery network went down for hours](https://www.reddit.com/r/javascript/comments/1c2c0gq/a_popular_opensource_content_delivery_network/)
+- [[AskJS] unpkg.com down?](https://www.reddit.com/r/javascript/comments/1c243vv/askjs_unpkgcom_down/)
+- [Introducing Online Image Compressor &lpar;Using JS&rpar;: Compressing On Device and Automatically Generate Image in Multiple formats](https://www.reddit.com/r/javascript/comments/1c23vbp/introducing_online_image_compressor_using_js/)
 - [Error handling patterns and best practices](https://www.reddit.com/r/javascript/comments/1c1rl7i/error_handling_patterns_and_best_practices/)
 - [From the arduino community on Reddit: I need help I’m trying to use an IR sensor with remote to drive a car](https://www.reddit.com/r/javascript/comments/1c1o3pl/from_the_arduino_community_on_reddit_i_need_help/)
 - [Prototype even faster with the Gradio UI for Figma component library](https://www.reddit.com/r/javascript/comments/1c1ldr7/prototype_even_faster_with_the_gradio_ui_for/)
 - [I made a platform for portfolio, resume building + CMS for your portfolio](https://www.reddit.com/r/javascript/comments/1c1kdjq/i_made_a_platform_for_portfolio_resume_building/)
 - [How fast can you validate UTF-8 strings in JavaScript?](https://www.reddit.com/r/javascript/comments/1c1jd67/how_fast_can_you_validate_utf8_strings_in/)
-- [Transformers.js – Run Transformers directly in the browser](https://www.reddit.com/r/javascript/comments/1c1h9vp/transformersjs_run_transformers_directly_in_the/)
-- [[AskJS] what even is the point of cors](https://www.reddit.com/r/javascript/comments/1c1ckif/askjs_what_even_is_the_point_of_cors/)
-- [[AskJS] How to inspect network calls](https://www.reddit.com/r/javascript/comments/1c1cepf/askjs_how_to_inspect_network_calls/)
-- [Which framework &lpar;frontend&rpar; do you use?](https://www.reddit.com/r/javascript/comments/1c1aq03/which_framework_frontend_do_you_use/)
-- [[AskJS] How to sandbox a plugin within a website](https://www.reddit.com/r/javascript/comments/1c0xmwv/askjs_how_to_sandbox_a_plugin_within_a_website/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
