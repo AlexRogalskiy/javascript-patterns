@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Why is my map function not working](https://www.reddit.com/r/javascript/comments/1c4b1cr/askjs_why_is_my_map_function_not_working/)
+- [If programming languages had personalities](https://www.reddit.com/r/javascript/comments/1c44ieh/if_programming_languages_had_personalities/)
+- [[AskJS] clean code](https://www.reddit.com/r/javascript/comments/1c40rvl/askjs_clean_code/)
+- [[AskJS] Shortest way to convert string to 8-bit binary?](https://www.reddit.com/r/javascript/comments/1c40f9e/askjs_shortest_way_to_convert_string_to_8bit/)
+- [Fedify: ActivityPub server framework](https://www.reddit.com/r/javascript/comments/1c3wq8x/fedify_activitypub_server_framework/)
+- [[AskJS] Need advice for my first real world project](https://www.reddit.com/r/javascript/comments/1c3tpnh/askjs_need_advice_for_my_first_real_world_project/)
+- [Google Translator API Wrapper - I created this because I needed some sort of translation software for my privately used side project. It&#39;s just a simple Puppeteer script that should be pretty future-proof. If anyone wants to use it or improve it, feel free!](https://www.reddit.com/r/javascript/comments/1c3sv2t/google_translator_api_wrapper_i_created_this/)
+- [[AskJS] What JavaScript newsletters are you subscribing to &lpar;and why&rpar;?](https://www.reddit.com/r/javascript/comments/1c3omv5/askjs_what_javascript_newsletters_are_you/)
 - [[AskJS] How would you create an async generator from an event listener for use in an async iterator?](https://www.reddit.com/r/javascript/comments/1c3gkr1/askjs_how_would_you_create_an_async_generator/)
 - [New release of ngx-vflow, a library for building node-based editors](https://www.reddit.com/r/javascript/comments/1c392zk/new_release_of_ngxvflow_a_library_for_building/)
-- [[AskJS] Browser-based chat app](https://www.reddit.com/r/javascript/comments/1c2ywgd/askjs_browserbased_chat_app/)
-- [[AskJS] Does package management feel like a mess to you, especially when trying to update older projects?](https://www.reddit.com/r/javascript/comments/1c2wuow/askjs_does_package_management_feel_like_a_mess_to/)
-- [Showoff Saturday &lpar;April 13, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1c2vupr/showoff_saturday_april_13_2024/)
-- [[AskJS] eslint, beautiful but IMHO being misguided. How do I get off?](https://www.reddit.com/r/javascript/comments/1c2m78n/askjs_eslint_beautiful_but_imho_being_misguided/)
-- [[AskJS] JavaScript operators like or &lpar; || &rpar;, and &lpar; &amp;&amp; &rpar;, null coalescing &lpar; ?? &rpar; makes weak comparasion?](https://www.reddit.com/r/javascript/comments/1c2kf3q/askjs_javascript_operators_like_or_and_null/)
-- [A popular open-source content delivery network went down for hours](https://www.reddit.com/r/javascript/comments/1c2c0gq/a_popular_opensource_content_delivery_network/)
-- [[AskJS] unpkg.com down?](https://www.reddit.com/r/javascript/comments/1c243vv/askjs_unpkgcom_down/)
-- [Introducing Online Image Compressor &lpar;Using JS&rpar;: Compressing On Device and Automatically Generate Image in Multiple formats](https://www.reddit.com/r/javascript/comments/1c23vbp/introducing_online_image_compressor_using_js/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
