@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Why is my map function not working](https://www.reddit.com/r/javascript/comments/1c4b1cr/askjs_why_is_my_map_function_not_working/)
+- [How do you instantiate a new instance of a Map&lpar;&rpar; ?](https://www.reddit.com/r/javascript/comments/1c52scf/how_do_you_instantiate_a_new_instance_of_a_map/)
+- [[AskJS] Would you use this for web development?](https://www.reddit.com/r/javascript/comments/1c4vxpi/askjs_would_you_use_this_for_web_development/)
+- [[AskJS] I&#39;ve developed an API gateway specifically for Front-End applications, would love to hear your feedback!](https://www.reddit.com/r/javascript/comments/1c4qmup/askjs_ive_developed_an_api_gateway_specifically/)
+- [Which script loading attribute do you primarily use in your HTML scripts, and why?](https://www.reddit.com/r/javascript/comments/1c4j1xs/which_script_loading_attribute_do_you_primarily/)
+- [Your /r/javascript recap for the week of April 08 - April 14, 2024](https://www.reddit.com/r/javascript/comments/1c4hnfw/your_rjavascript_recap_for_the_week_of_april_08/)
+- [unicode-segmenter: Unicode grapheme splitter library for JavaScript](https://www.reddit.com/r/javascript/comments/1c4ei73/unicodesegmenter_unicode_grapheme_splitter/)
 - [If programming languages had personalities](https://www.reddit.com/r/javascript/comments/1c44ieh/if_programming_languages_had_personalities/)
 - [[AskJS] clean code](https://www.reddit.com/r/javascript/comments/1c40rvl/askjs_clean_code/)
 - [[AskJS] Shortest way to convert string to 8-bit binary?](https://www.reddit.com/r/javascript/comments/1c40f9e/askjs_shortest_way_to_convert_string_to_8bit/)
 - [Fedify: ActivityPub server framework](https://www.reddit.com/r/javascript/comments/1c3wq8x/fedify_activitypub_server_framework/)
-- [[AskJS] Need advice for my first real world project](https://www.reddit.com/r/javascript/comments/1c3tpnh/askjs_need_advice_for_my_first_real_world_project/)
-- [Google Translator API Wrapper - I created this because I needed some sort of translation software for my privately used side project. It&#39;s just a simple Puppeteer script that should be pretty future-proof. If anyone wants to use it or improve it, feel free!](https://www.reddit.com/r/javascript/comments/1c3sv2t/google_translator_api_wrapper_i_created_this/)
-- [[AskJS] What JavaScript newsletters are you subscribing to &lpar;and why&rpar;?](https://www.reddit.com/r/javascript/comments/1c3omv5/askjs_what_javascript_newsletters_are_you/)
-- [[AskJS] How would you create an async generator from an event listener for use in an async iterator?](https://www.reddit.com/r/javascript/comments/1c3gkr1/askjs_how_would_you_create_an_async_generator/)
-- [New release of ngx-vflow, a library for building node-based editors](https://www.reddit.com/r/javascript/comments/1c392zk/new_release_of_ngxvflow_a_library_for_building/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
