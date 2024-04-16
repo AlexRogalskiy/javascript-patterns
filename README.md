@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [ECMAScript 2024 takes shape](https://www.infoworld.com/article/3715341/ecmascript-2024-takes-shape.html#tk.rss_javascript)
 - [Full-stack web development with HTMX and Bun, Part 2: Pug templating](https://www.infoworld.com/article/3715122/full-stack-web-development-with-htmx-and-bun-part-2-pug-templating.html#tk.rss_javascript)
 - [JetBrains IDEs add AI-powered code autocompletion](https://www.infoworld.com/article/3715022/jetbrains-ides-add-ai-powered-code-autocompletion.html#tk.rss_javascript)
 - [Full-stack web development with HTMX and Bun, Part 1: Elysia and MongoDB](https://www.infoworld.com/article/3714603/full-stack-web-development-with-htmx-and-bun-part-1-elysia-and-mongodb.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [What’s the best JavaScript framework?](https://www.infoworld.com/article/3713207/whats-the-best-javascript-framework.html#tk.rss_javascript)
 - [Deno boosts dependency management with JSR](https://www.infoworld.com/article/3714687/deno-boosts-dependency-management-with-jsr.html#tk.rss_javascript)
 - [How to handle errors in React](https://www.infoworld.com/article/3604336/how-to-handle-errors-in-react.html#tk.rss_javascript)
-- [Vue team releases VitePress 1.0 static site generator](https://www.infoworld.com/article/3714770/vue-team-releases-vitepress-10-static-site-generator.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
