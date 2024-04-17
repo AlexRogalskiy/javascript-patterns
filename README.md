@@ -277,7 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do you instantiate a new instance of a Map&lpar;&rpar; ?](https://www.reddit.com/r/javascript/comments/1c52scf/how_do_you_instantiate_a_new_instance_of_a_map/)
+- [GraphQL Client: A simple GraphQL client for React](https://www.reddit.com/r/javascript/comments/1c5lzn4/graphql_client_a_simple_graphql_client_for_react/)
+- [[AskJS] How to force a DOM refresh in a background tab for a Chrome extension?](https://www.reddit.com/r/javascript/comments/1c5ambo/askjs_how_to_force_a_dom_refresh_in_a_background/)
 - [[AskJS] Would you use this for web development?](https://www.reddit.com/r/javascript/comments/1c4vxpi/askjs_would_you_use_this_for_web_development/)
 - [[AskJS] I&#39;ve developed an API gateway specifically for Front-End applications, would love to hear your feedback!](https://www.reddit.com/r/javascript/comments/1c4qmup/askjs_ive_developed_an_api_gateway_specifically/)
 - [Which script loading attribute do you primarily use in your HTML scripts, and why?](https://www.reddit.com/r/javascript/comments/1c4j1xs/which_script_loading_attribute_do_you_primarily/)
@@ -286,7 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [If programming languages had personalities](https://www.reddit.com/r/javascript/comments/1c44ieh/if_programming_languages_had_personalities/)
 - [[AskJS] clean code](https://www.reddit.com/r/javascript/comments/1c40rvl/askjs_clean_code/)
 - [[AskJS] Shortest way to convert string to 8-bit binary?](https://www.reddit.com/r/javascript/comments/1c40f9e/askjs_shortest_way_to_convert_string_to_8bit/)
-- [Fedify: ActivityPub server framework](https://www.reddit.com/r/javascript/comments/1c3wq8x/fedify_activitypub_server_framework/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
