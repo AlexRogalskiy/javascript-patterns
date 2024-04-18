@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [GraphQL Client: A simple GraphQL client for React](https://www.reddit.com/r/javascript/comments/1c5lzn4/graphql_client_a_simple_graphql_client_for_react/)
-- [[AskJS] How to force a DOM refresh in a background tab for a Chrome extension?](https://www.reddit.com/r/javascript/comments/1c5ambo/askjs_how_to_force_a_dom_refresh_in_a_background/)
-- [[AskJS] Would you use this for web development?](https://www.reddit.com/r/javascript/comments/1c4vxpi/askjs_would_you_use_this_for_web_development/)
-- [[AskJS] I&#39;ve developed an API gateway specifically for Front-End applications, would love to hear your feedback!](https://www.reddit.com/r/javascript/comments/1c4qmup/askjs_ive_developed_an_api_gateway_specifically/)
-- [Which script loading attribute do you primarily use in your HTML scripts, and why?](https://www.reddit.com/r/javascript/comments/1c4j1xs/which_script_loading_attribute_do_you_primarily/)
-- [Your /r/javascript recap for the week of April 08 - April 14, 2024](https://www.reddit.com/r/javascript/comments/1c4hnfw/your_rjavascript_recap_for_the_week_of_april_08/)
-- [unicode-segmenter: Unicode grapheme splitter library for JavaScript](https://www.reddit.com/r/javascript/comments/1c4ei73/unicodesegmenter_unicode_grapheme_splitter/)
-- [If programming languages had personalities](https://www.reddit.com/r/javascript/comments/1c44ieh/if_programming_languages_had_personalities/)
-- [[AskJS] clean code](https://www.reddit.com/r/javascript/comments/1c40rvl/askjs_clean_code/)
-- [[AskJS] Shortest way to convert string to 8-bit binary?](https://www.reddit.com/r/javascript/comments/1c40f9e/askjs_shortest_way_to_convert_string_to_8bit/)
+- [Stop mocking fetch &lpar;2020&rpar;](https://www.reddit.com/r/javascript/comments/1c6nly5/stop_mocking_fetch_2020/)
+- [Signal + Observable =&gt; Observable Signal](https://www.reddit.com/r/javascript/comments/1c6grwd/signal_observable_observable_signal/)
+- [[AskJS] Using Transformers.js to rank arbitrary JSON?](https://www.reddit.com/r/javascript/comments/1c69ukp/askjs_using_transformersjs_to_rank_arbitrary_json/)
+- [Object structure in JavaScript engines](https://www.reddit.com/r/javascript/comments/1c699ve/object_structure_in_javascript_engines/)
+- [[AskJS] Do API SDKs actually slow you down?](https://www.reddit.com/r/javascript/comments/1c66g0a/askjs_do_api_sdks_actually_slow_you_down/)
+- [Hono: Small, simple, and ultrafast web framework for the Edges](https://www.reddit.com/r/javascript/comments/1c65uq2/hono_small_simple_and_ultrafast_web_framework_for/)
+- [Open Source Security &lpar;OpenSSF&rpar; and OpenJS Foundations Issue Alert for Social Engineering Takeovers of Open Source Projects](https://www.reddit.com/r/javascript/comments/1c65gmo/open_source_security_openssf_and_openjs/)
+- [This is Tim - A template engine &amp; markup language for cool kids! &lpar;available as .node addon&rpar;](https://www.reddit.com/r/javascript/comments/1c64ik5/this_is_tim_a_template_engine_markup_language_for/)
+- [WTF Wednesday &lpar;April 17, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1c63d9y/wtf_wednesday_april_17_2024/)
+- [Blog on: Implementation of a universal timer](https://www.reddit.com/r/javascript/comments/1c63bgq/blog_on_implementation_of_a_universal_timer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
