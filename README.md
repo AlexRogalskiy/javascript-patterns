@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Biome.js : Prettier+ESLint killer ?](https://www.reddit.com/r/javascript/comments/1c7gzfm/askjs_biomejs_prettiereslint_killer/)
+- [Object structure in JavaScript engines](https://www.reddit.com/r/javascript/comments/1c7eii3/object_structure_in_javascript_engines/)
+- [[AskJS] What happened with the &quot;time spent in each line&quot; when using the Performance Tab on Chrome/Edge?](https://www.reddit.com/r/javascript/comments/1c7ci58/askjs_what_happened_with_the_time_spent_in_each/)
+- [LogTape: Simple logging library for Deno/Node.js/Bun/browsers](https://www.reddit.com/r/javascript/comments/1c77e6v/logtape_simple_logging_library_for/)
+- [Supersonic plugin for scroll based animation 2.0: 2kb, animates 1000 elements without lags, uses CSS animations, customizable as hell](https://www.reddit.com/r/javascript/comments/1c6z9q8/supersonic_plugin_for_scroll_based_animation_20/)
+- [How to use the browser as an HTTP over TCP socket server](https://www.reddit.com/r/javascript/comments/1c6ws90/how_to_use_the_browser_as_an_http_over_tcp_socket/)
+- [HELP creating program and/or finding resources!](https://www.reddit.com/r/javascript/comments/1c6vz44/help_creating_program_andor_finding_resources/)
+- [Extract.ai: A VS Code Extension to Streamline Code Copying for AI Tools](https://www.reddit.com/r/javascript/comments/1c6sb0f/extractai_a_vs_code_extension_to_streamline_code/)
 - [Stop mocking fetch &lpar;2020&rpar;](https://www.reddit.com/r/javascript/comments/1c6nly5/stop_mocking_fetch_2020/)
 - [Signal + Observable =&gt; Observable Signal](https://www.reddit.com/r/javascript/comments/1c6grwd/signal_observable_observable_signal/)
-- [[AskJS] Using Transformers.js to rank arbitrary JSON?](https://www.reddit.com/r/javascript/comments/1c69ukp/askjs_using_transformersjs_to_rank_arbitrary_json/)
-- [Object structure in JavaScript engines](https://www.reddit.com/r/javascript/comments/1c699ve/object_structure_in_javascript_engines/)
-- [[AskJS] Do API SDKs actually slow you down?](https://www.reddit.com/r/javascript/comments/1c66g0a/askjs_do_api_sdks_actually_slow_you_down/)
-- [Hono: Small, simple, and ultrafast web framework for the Edges](https://www.reddit.com/r/javascript/comments/1c65uq2/hono_small_simple_and_ultrafast_web_framework_for/)
-- [Open Source Security &lpar;OpenSSF&rpar; and OpenJS Foundations Issue Alert for Social Engineering Takeovers of Open Source Projects](https://www.reddit.com/r/javascript/comments/1c65gmo/open_source_security_openssf_and_openjs/)
-- [This is Tim - A template engine &amp; markup language for cool kids! &lpar;available as .node addon&rpar;](https://www.reddit.com/r/javascript/comments/1c64ik5/this_is_tim_a_template_engine_markup_language_for/)
-- [WTF Wednesday &lpar;April 17, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1c63d9y/wtf_wednesday_april_17_2024/)
-- [Blog on: Implementation of a universal timer](https://www.reddit.com/r/javascript/comments/1c63bgq/blog_on_implementation_of_a_universal_timer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
