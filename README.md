@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Java services hit hardest by third-party vulnerabilities, report says](https://www.infoworld.com/article/3715264/java-services-hit-hardest-by-third-party-vulnerabilities-says-report.html#tk.rss_javascript)
 - [ECMAScript 2024 features you can use now](https://www.infoworld.com/article/3715260/ecmascript-2024-features-you-can-use-now.html#tk.rss_javascript)
 - [ECMAScript 2024 takes shape](https://www.infoworld.com/article/3715341/ecmascript-2024-takes-shape.html#tk.rss_javascript)
 - [Full-stack web development with HTMX and Bun, Part 2: Pug templating](https://www.infoworld.com/article/3715122/full-stack-web-development-with-htmx-and-bun-part-2-pug-templating.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Google to merge Angular and Wiz frameworks](https://www.infoworld.com/article/3714628/google-to-merge-angular-and-wiz-frameworks.html#tk.rss_javascript)
 - [Babylon.js web rendering engine gets 3D enhancements](https://www.infoworld.com/article/3714627/babylonjs-web-rendering-engine-gets-3d-enhancements.html#tk.rss_javascript)
 - [What’s the best JavaScript framework?](https://www.infoworld.com/article/3713207/whats-the-best-javascript-framework.html#tk.rss_javascript)
-- [Deno boosts dependency management with JSR](https://www.infoworld.com/article/3714687/deno-boosts-dependency-management-with-jsr.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
