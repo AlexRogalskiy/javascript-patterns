@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Create better UI bringing Excel Controls using Jspreadsheet](https://www.reddit.com/r/javascript/comments/1c85oyx/create_better_ui_bringing_excel_controls_using/)
+- [On JS&#39;s 30th birthday let&#39;s release some browser games without it](https://www.reddit.com/r/javascript/comments/1c826yc/on_jss_30th_birthday_lets_release_some_browser/)
+- [[AskJS] Are analytics tasks a good candidate to offload to web workers?](https://www.reddit.com/r/javascript/comments/1c819s4/askjs_are_analytics_tasks_a_good_candidate_to/)
+- [faces.js: A JavaScript library for generating vector-based cartoon faces](https://www.reddit.com/r/javascript/comments/1c7wciv/facesjs_a_javascript_library_for_generating/)
+- [[AskJS] API Security](https://www.reddit.com/r/javascript/comments/1c7ntvu/askjs_api_security/)
 - [[AskJS] Biome.js : Prettier+ESLint killer ?](https://www.reddit.com/r/javascript/comments/1c7gzfm/askjs_biomejs_prettiereslint_killer/)
 - [Object structure in JavaScript engines](https://www.reddit.com/r/javascript/comments/1c7eii3/object_structure_in_javascript_engines/)
 - [[AskJS] What happened with the &quot;time spent in each line&quot; when using the Performance Tab on Chrome/Edge?](https://www.reddit.com/r/javascript/comments/1c7ci58/askjs_what_happened_with_the_time_spent_in_each/)
 - [LogTape: Simple logging library for Deno/Node.js/Bun/browsers](https://www.reddit.com/r/javascript/comments/1c77e6v/logtape_simple_logging_library_for/)
 - [Supersonic plugin for scroll based animation 2.0: 2kb, animates 1000 elements without lags, uses CSS animations, customizable as hell](https://www.reddit.com/r/javascript/comments/1c6z9q8/supersonic_plugin_for_scroll_based_animation_20/)
-- [How to use the browser as an HTTP over TCP socket server](https://www.reddit.com/r/javascript/comments/1c6ws90/how_to_use_the_browser_as_an_http_over_tcp_socket/)
-- [HELP creating program and/or finding resources!](https://www.reddit.com/r/javascript/comments/1c6vz44/help_creating_program_andor_finding_resources/)
-- [Extract.ai: A VS Code Extension to Streamline Code Copying for AI Tools](https://www.reddit.com/r/javascript/comments/1c6sb0f/extractai_a_vs_code_extension_to_streamline_code/)
-- [Stop mocking fetch &lpar;2020&rpar;](https://www.reddit.com/r/javascript/comments/1c6nly5/stop_mocking_fetch_2020/)
-- [Signal + Observable =&gt; Observable Signal](https://www.reddit.com/r/javascript/comments/1c6grwd/signal_observable_observable_signal/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
