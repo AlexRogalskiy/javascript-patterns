@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Create better UI bringing Excel Controls using Jspreadsheet](https://www.reddit.com/r/javascript/comments/1c85oyx/create_better_ui_bringing_excel_controls_using/)
-- [On JS&#39;s 30th birthday let&#39;s release some browser games without it](https://www.reddit.com/r/javascript/comments/1c826yc/on_jss_30th_birthday_lets_release_some_browser/)
-- [[AskJS] Are analytics tasks a good candidate to offload to web workers?](https://www.reddit.com/r/javascript/comments/1c819s4/askjs_are_analytics_tasks_a_good_candidate_to/)
-- [faces.js: A JavaScript library for generating vector-based cartoon faces](https://www.reddit.com/r/javascript/comments/1c7wciv/facesjs_a_javascript_library_for_generating/)
-- [[AskJS] API Security](https://www.reddit.com/r/javascript/comments/1c7ntvu/askjs_api_security/)
-- [[AskJS] Biome.js : Prettier+ESLint killer ?](https://www.reddit.com/r/javascript/comments/1c7gzfm/askjs_biomejs_prettiereslint_killer/)
-- [Object structure in JavaScript engines](https://www.reddit.com/r/javascript/comments/1c7eii3/object_structure_in_javascript_engines/)
-- [[AskJS] What happened with the &quot;time spent in each line&quot; when using the Performance Tab on Chrome/Edge?](https://www.reddit.com/r/javascript/comments/1c7ci58/askjs_what_happened_with_the_time_spent_in_each/)
-- [LogTape: Simple logging library for Deno/Node.js/Bun/browsers](https://www.reddit.com/r/javascript/comments/1c77e6v/logtape_simple_logging_library_for/)
-- [Supersonic plugin for scroll based animation 2.0: 2kb, animates 1000 elements without lags, uses CSS animations, customizable as hell](https://www.reddit.com/r/javascript/comments/1c6z9q8/supersonic_plugin_for_scroll_based_animation_20/)
+- [Some features of AbortSignal &lpar;in JS&rpar; that i didn&#39;t know about until today...](https://www.reddit.com/r/javascript/comments/1c8z7z3/some_features_of_abortsignal_in_js_that_i_didnt/)
+- [Jspreasheet - Preventing data loss with real-time collaboration in online spreadsheets with websockets](https://www.reddit.com/r/javascript/comments/1c8yfhy/jspreasheet_preventing_data_loss_with_realtime/)
+- [How to Style a React Application](https://www.reddit.com/r/javascript/comments/1c8x4my/how_to_style_a_react_application/)
+- [Your feelings about custom HTML syntaxes?](https://www.reddit.com/r/javascript/comments/1c8v4cu/your_feelings_about_custom_html_syntaxes/)
+- [[AskJS] does react native work on web](https://www.reddit.com/r/javascript/comments/1c8rn9w/askjs_does_react_native_work_on_web/)
+- [It&#39;s time to drop axios! Introducing up-fetch, the fetch upgrade](https://www.reddit.com/r/javascript/comments/1c8otmp/its_time_to_drop_axios_introducing_upfetch_the/)
+- [[AskJS] What frameworks should i use for my game?](https://www.reddit.com/r/javascript/comments/1c8nkfj/askjs_what_frameworks_should_i_use_for_my_game/)
+- [Help wanted: an open source visualization app for GPS tracks](https://www.reddit.com/r/javascript/comments/1c8n6hh/help_wanted_an_open_source_visualization_app_for/)
+- [Animation can make a bell emoji much more than emoji!](https://www.reddit.com/r/javascript/comments/1c8k1fm/animation_can_make_a_bell_emoji_much_more_than/)
+- [Showoff Saturday &lpar;April 20, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1c8jn6k/showoff_saturday_april_20_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
