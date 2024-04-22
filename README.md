@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Allow to select only children of parent](https://www.reddit.com/r/javascript/comments/1c9wkn1/askjs_allow_to_select_only_children_of_parent/)
+- [[AskJS] How to parse and send WebSocket frames?](https://www.reddit.com/r/javascript/comments/1c9rpnz/askjs_how_to_parse_and_send_websocket_frames/)
+- [The Intl.Segmenter object is now part of Baseline | web.dev](https://www.reddit.com/r/javascript/comments/1c9emm2/the_intlsegmenter_object_is_now_part_of_baseline/)
+- [Node.js — Trip report: Node.js collaboration summit &lpar;2024 London&rpar;](https://www.reddit.com/r/javascript/comments/1c9em4f/nodejs_trip_report_nodejs_collaboration_summit/)
+- [Maintaining an Open Source JavaScript Project? Help Dependents Retain Notices](https://www.reddit.com/r/javascript/comments/1c9ds36/maintaining_an_open_source_javascript_project/)
 - [Some features of AbortSignal &lpar;in JS&rpar; that i didn&#39;t know about until today...](https://www.reddit.com/r/javascript/comments/1c8z7z3/some_features_of_abortsignal_in_js_that_i_didnt/)
 - [Jspreasheet - Preventing data loss with real-time collaboration in online spreadsheets with websockets](https://www.reddit.com/r/javascript/comments/1c8yfhy/jspreasheet_preventing_data_loss_with_realtime/)
 - [How to Style a React Application](https://www.reddit.com/r/javascript/comments/1c8x4my/how_to_style_a_react_application/)
 - [Your feelings about custom HTML syntaxes?](https://www.reddit.com/r/javascript/comments/1c8v4cu/your_feelings_about_custom_html_syntaxes/)
 - [[AskJS] does react native work on web](https://www.reddit.com/r/javascript/comments/1c8rn9w/askjs_does_react_native_work_on_web/)
-- [It&#39;s time to drop axios! Introducing up-fetch, the fetch upgrade](https://www.reddit.com/r/javascript/comments/1c8otmp/its_time_to_drop_axios_introducing_upfetch_the/)
-- [[AskJS] What frameworks should i use for my game?](https://www.reddit.com/r/javascript/comments/1c8nkfj/askjs_what_frameworks_should_i_use_for_my_game/)
-- [Help wanted: an open source visualization app for GPS tracks](https://www.reddit.com/r/javascript/comments/1c8n6hh/help_wanted_an_open_source_visualization_app_for/)
-- [Animation can make a bell emoji much more than emoji!](https://www.reddit.com/r/javascript/comments/1c8k1fm/animation_can_make_a_bell_emoji_much_more_than/)
-- [Showoff Saturday &lpar;April 20, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1c8jn6k/showoff_saturday_april_20_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
