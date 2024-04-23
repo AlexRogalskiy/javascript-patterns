@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Algorithm for Even Distribution of Overlapping Bounding Boxes in JavaScript](https://www.reddit.com/r/javascript/comments/1cape9v/askjs_algorithm_for_even_distribution_of/)
+- [[AskJS] Types in ECMA Script?](https://www.reddit.com/r/javascript/comments/1caousw/askjs_types_in_ecma_script/)
+- [A guide to programming in java third edition](https://www.reddit.com/r/javascript/comments/1caoucu/a_guide_to_programming_in_java_third_edition/)
+- [Reactive dynamic HTML Tables from an array of objects with LemonadeJS](https://www.reddit.com/r/javascript/comments/1camn8h/reactive_dynamic_html_tables_from_an_array_of/)
+- [[AskJS] How to make my Phaser game responsive](https://www.reddit.com/r/javascript/comments/1cal9e8/askjs_how_to_make_my_phaser_game_responsive/)
+- [[AskJS] Could you give me examples of poor designed websites?](https://www.reddit.com/r/javascript/comments/1cag4ns/askjs_could_you_give_me_examples_of_poor_designed/)
+- [Evaluating Dashboard Creation Tools: A Comparative Study of Highcharts and its Contemporaries](https://www.reddit.com/r/javascript/comments/1ca7y17/evaluating_dashboard_creation_tools_a_comparative/)
+- [[AskJS] Just realized that Set&#39;s search funtion is O&lpar;1&rpar;](https://www.reddit.com/r/javascript/comments/1ca4fpg/askjs_just_realized_that_sets_search_funtion_is_o1/)
+- [Call for comments – State of Frontend 2024 is seeking feedback on their upcoming survey](https://www.reddit.com/r/javascript/comments/1ca485y/call_for_comments_state_of_frontend_2024_is/)
 - [[AskJS] Allow to select only children of parent](https://www.reddit.com/r/javascript/comments/1c9wkn1/askjs_allow_to_select_only_children_of_parent/)
-- [[AskJS] How to parse and send WebSocket frames?](https://www.reddit.com/r/javascript/comments/1c9rpnz/askjs_how_to_parse_and_send_websocket_frames/)
-- [The Intl.Segmenter object is now part of Baseline | web.dev](https://www.reddit.com/r/javascript/comments/1c9emm2/the_intlsegmenter_object_is_now_part_of_baseline/)
-- [Node.js — Trip report: Node.js collaboration summit &lpar;2024 London&rpar;](https://www.reddit.com/r/javascript/comments/1c9em4f/nodejs_trip_report_nodejs_collaboration_summit/)
-- [Maintaining an Open Source JavaScript Project? Help Dependents Retain Notices](https://www.reddit.com/r/javascript/comments/1c9ds36/maintaining_an_open_source_javascript_project/)
-- [Some features of AbortSignal &lpar;in JS&rpar; that i didn&#39;t know about until today...](https://www.reddit.com/r/javascript/comments/1c8z7z3/some_features_of_abortsignal_in_js_that_i_didnt/)
-- [Jspreasheet - Preventing data loss with real-time collaboration in online spreadsheets with websockets](https://www.reddit.com/r/javascript/comments/1c8yfhy/jspreasheet_preventing_data_loss_with_realtime/)
-- [How to Style a React Application](https://www.reddit.com/r/javascript/comments/1c8x4my/how_to_style_a_react_application/)
-- [Your feelings about custom HTML syntaxes?](https://www.reddit.com/r/javascript/comments/1c8v4cu/your_feelings_about_custom_html_syntaxes/)
-- [[AskJS] does react native work on web](https://www.reddit.com/r/javascript/comments/1c8rn9w/askjs_does_react_native_work_on_web/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
