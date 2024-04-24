@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Algorithm for Even Distribution of Overlapping Bounding Boxes in JavaScript](https://www.reddit.com/r/javascript/comments/1cape9v/askjs_algorithm_for_even_distribution_of/)
-- [[AskJS] Types in ECMA Script?](https://www.reddit.com/r/javascript/comments/1caousw/askjs_types_in_ecma_script/)
-- [A guide to programming in java third edition](https://www.reddit.com/r/javascript/comments/1caoucu/a_guide_to_programming_in_java_third_edition/)
-- [Reactive dynamic HTML Tables from an array of objects with LemonadeJS](https://www.reddit.com/r/javascript/comments/1camn8h/reactive_dynamic_html_tables_from_an_array_of/)
-- [[AskJS] How to make my Phaser game responsive](https://www.reddit.com/r/javascript/comments/1cal9e8/askjs_how_to_make_my_phaser_game_responsive/)
-- [[AskJS] Could you give me examples of poor designed websites?](https://www.reddit.com/r/javascript/comments/1cag4ns/askjs_could_you_give_me_examples_of_poor_designed/)
-- [Evaluating Dashboard Creation Tools: A Comparative Study of Highcharts and its Contemporaries](https://www.reddit.com/r/javascript/comments/1ca7y17/evaluating_dashboard_creation_tools_a_comparative/)
-- [[AskJS] Just realized that Set&#39;s search funtion is O&lpar;1&rpar;](https://www.reddit.com/r/javascript/comments/1ca4fpg/askjs_just_realized_that_sets_search_funtion_is_o1/)
-- [Call for comments – State of Frontend 2024 is seeking feedback on their upcoming survey](https://www.reddit.com/r/javascript/comments/1ca485y/call_for_comments_state_of_frontend_2024_is/)
-- [[AskJS] Allow to select only children of parent](https://www.reddit.com/r/javascript/comments/1c9wkn1/askjs_allow_to_select_only_children_of_parent/)
+- [LemonadeJS Reactive Calendar Component with Range Selection and Keyboard Navigation](https://www.reddit.com/r/javascript/comments/1cbk1gg/lemonadejs_reactive_calendar_component_with_range/)
+- [I made a Javascript, Fallout inspired game!](https://www.reddit.com/r/javascript/comments/1cbhol0/i_made_a_javascript_fallout_inspired_game/)
+- [[AskJS] Noob question: Remove timezone name from date](https://www.reddit.com/r/javascript/comments/1cbeygx/askjs_noob_question_remove_timezone_name_from_date/)
+- [Porting a cross-platform GUI application to Rust](https://www.reddit.com/r/javascript/comments/1cbd6jt/porting_a_crossplatform_gui_application_to_rust/)
+- [An application to pick one between undecidable options powered by Svelte](https://www.reddit.com/r/javascript/comments/1cbbrf9/an_application_to_pick_one_between_undecidable/)
+- [Hey checkout this amazing Product](https://www.reddit.com/r/javascript/comments/1cb76fb/hey_checkout_this_amazing_product/)
+- [Experimental implementation of Button Mode API](https://www.reddit.com/r/javascript/comments/1cb75gz/experimental_implementation_of_button_mode_api/)
+- [Introducing jest-ai: A New Open Source Library for Testing AI Applications!](https://www.reddit.com/r/javascript/comments/1cb7058/introducing_jestai_a_new_open_source_library_for/)
+- [[AskJS] What is &quot;window.UHT_GAME_CONFIG&quot; and why is it null?](https://www.reddit.com/r/javascript/comments/1cb6hm9/askjs_what_is_windowuht_game_config_and_why_is_it/)
+- [How I built a server-side cache with ExpressJS &amp; React](https://www.reddit.com/r/javascript/comments/1cb662j/how_i_built_a_serverside_cache_with_expressjs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
