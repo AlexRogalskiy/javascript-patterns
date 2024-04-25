@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [LemonadeJS Reactive Calendar Component with Range Selection and Keyboard Navigation](https://www.reddit.com/r/javascript/comments/1cbk1gg/lemonadejs_reactive_calendar_component_with_range/)
-- [I made a Javascript, Fallout inspired game!](https://www.reddit.com/r/javascript/comments/1cbhol0/i_made_a_javascript_fallout_inspired_game/)
-- [[AskJS] Noob question: Remove timezone name from date](https://www.reddit.com/r/javascript/comments/1cbeygx/askjs_noob_question_remove_timezone_name_from_date/)
-- [Porting a cross-platform GUI application to Rust](https://www.reddit.com/r/javascript/comments/1cbd6jt/porting_a_crossplatform_gui_application_to_rust/)
-- [An application to pick one between undecidable options powered by Svelte](https://www.reddit.com/r/javascript/comments/1cbbrf9/an_application_to_pick_one_between_undecidable/)
-- [Hey checkout this amazing Product](https://www.reddit.com/r/javascript/comments/1cb76fb/hey_checkout_this_amazing_product/)
-- [Experimental implementation of Button Mode API](https://www.reddit.com/r/javascript/comments/1cb75gz/experimental_implementation_of_button_mode_api/)
-- [Introducing jest-ai: A New Open Source Library for Testing AI Applications!](https://www.reddit.com/r/javascript/comments/1cb7058/introducing_jestai_a_new_open_source_library_for/)
-- [[AskJS] What is &quot;window.UHT_GAME_CONFIG&quot; and why is it null?](https://www.reddit.com/r/javascript/comments/1cb6hm9/askjs_what_is_windowuht_game_config_and_why_is_it/)
-- [How I built a server-side cache with ExpressJS &amp; React](https://www.reddit.com/r/javascript/comments/1cb662j/how_i_built_a_serverside_cache_with_expressjs/)
+- [I&#39;ve been working on an open-source proxy server to help secure third party API keys in front end applications. I would love to get some feedback!](https://www.reddit.com/r/javascript/comments/1ccd19k/ive_been_working_on_an_opensource_proxy_server_to/)
+- [Front end in 2024](https://www.reddit.com/r/javascript/comments/1ccblbt/front_end_in_2024/)
+- [[AskJS] what type of questions can we expect in Javascript and React interview for SDE II role in IBM?](https://www.reddit.com/r/javascript/comments/1cc72rh/askjs_what_type_of_questions_can_we_expect_in/)
+- [Node v22.0.0 &lpar;Current&rpar;](https://www.reddit.com/r/javascript/comments/1cc6y2a/node_v2200_current/)
+- [JavaScript Optimisation. Inline Caches](https://www.reddit.com/r/javascript/comments/1cc1t3u/javascript_optimisation_inline_caches/)
+- [[AskJS] Algo behind JS array.prototype.sort&lpar;&rpar;](https://www.reddit.com/r/javascript/comments/1cbx7vj/askjs_algo_behind_js_arrayprototypesort/)
+- [[AskJS] How do you keep your dependencies up-to-date?](https://www.reddit.com/r/javascript/comments/1cbx01g/askjs_how_do_you_keep_your_dependencies_uptodate/)
+- [[AskJS] Any efficient full stack &lpar;JS, React, Node etc&rpar; courses that are relatively short?](https://www.reddit.com/r/javascript/comments/1cbvqy7/askjs_any_efficient_full_stack_js_react_node_etc/)
+- [WTF Wednesday &lpar;April 24, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1cbrupw/wtf_wednesday_april_24_2024/)
+- [[AskJS] Why is the generator syntax not just a constructor like Promise](https://www.reddit.com/r/javascript/comments/1cbnofj/askjs_why_is_the_generator_syntax_not_just_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
