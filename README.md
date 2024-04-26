@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Js AI for games?](https://www.reddit.com/r/javascript/comments/1cd9137/askjs_js_ai_for_games/)
+- [Announcing TypeScript 5.5 Beta](https://www.reddit.com/r/javascript/comments/1cd15xb/announcing_typescript_55_beta/)
+- [UForm v3: On-Device Multimodal AI Embeddings in JavaScript](https://www.reddit.com/r/javascript/comments/1cd070s/uform_v3_ondevice_multimodal_ai_embeddings_in/)
+- [Llamafile’s progress, four months in](https://www.reddit.com/r/javascript/comments/1ccvatk/llamafiles_progress_four_months_in/)
+- [Speeding up ESLint—Even on CI](https://www.reddit.com/r/javascript/comments/1ccsl5e/speeding_up_eslinteven_on_ci/)
+- [[AskJS] Leaving Data Analysis for Front-End Web Dev. Worth it?](https://www.reddit.com/r/javascript/comments/1ccs5y8/askjs_leaving_data_analysis_for_frontend_web_dev/)
+- [Typed-xlsx | Feature-rich Type-safe Excel Reporting](https://www.reddit.com/r/javascript/comments/1ccs3gw/typedxlsx_featurerich_typesafe_excel_reporting/)
+- [Puck v0.14, the visual editor for React, now supports viewport switching and drag-and-drop across iframes](https://www.reddit.com/r/javascript/comments/1ccoyqo/puck_v014_the_visual_editor_for_react_now/)
+- [NodeJS 22: Require&lpar;&rpar; Support &amp; WebSockets](https://www.reddit.com/r/javascript/comments/1ccj5py/nodejs_22_require_support_websockets/)
 - [I&#39;ve been working on an open-source proxy server to help secure third party API keys in front end applications. I would love to get some feedback!](https://www.reddit.com/r/javascript/comments/1ccd19k/ive_been_working_on_an_opensource_proxy_server_to/)
-- [Front end in 2024](https://www.reddit.com/r/javascript/comments/1ccblbt/front_end_in_2024/)
-- [[AskJS] what type of questions can we expect in Javascript and React interview for SDE II role in IBM?](https://www.reddit.com/r/javascript/comments/1cc72rh/askjs_what_type_of_questions_can_we_expect_in/)
-- [Node v22.0.0 &lpar;Current&rpar;](https://www.reddit.com/r/javascript/comments/1cc6y2a/node_v2200_current/)
-- [JavaScript Optimisation. Inline Caches](https://www.reddit.com/r/javascript/comments/1cc1t3u/javascript_optimisation_inline_caches/)
-- [[AskJS] Algo behind JS array.prototype.sort&lpar;&rpar;](https://www.reddit.com/r/javascript/comments/1cbx7vj/askjs_algo_behind_js_arrayprototypesort/)
-- [[AskJS] How do you keep your dependencies up-to-date?](https://www.reddit.com/r/javascript/comments/1cbx01g/askjs_how_do_you_keep_your_dependencies_uptodate/)
-- [[AskJS] Any efficient full stack &lpar;JS, React, Node etc&rpar; courses that are relatively short?](https://www.reddit.com/r/javascript/comments/1cbvqy7/askjs_any_efficient_full_stack_js_react_node_etc/)
-- [WTF Wednesday &lpar;April 24, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1cbrupw/wtf_wednesday_april_24_2024/)
-- [[AskJS] Why is the generator syntax not just a constructor like Promise](https://www.reddit.com/r/javascript/comments/1cbnofj/askjs_why_is_the_generator_syntax_not_just_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
