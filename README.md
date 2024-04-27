@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Fetcharoni — Simple and fast API testing](https://www.reddit.com/r/javascript/comments/1cdru1c/fetcharoni_simple_and_fast_api_testing/)
+- [NextTrade – a no-code algorithmic trading trading platform](https://www.reddit.com/r/javascript/comments/1cdn5qi/nexttrade_a_nocode_algorithmic_trading_trading/)
+- [Using PhotoSwipe in Astro to Build an Image Gallery](https://www.reddit.com/r/javascript/comments/1cdgi41/using_photoswipe_in_astro_to_build_an_image/)
+- [faces.js - A JavaScript library for generating vector-based cartoon faces](https://www.reddit.com/r/javascript/comments/1cdggm6/facesjs_a_javascript_library_for_generating/)
+- [React 19 Beta – React](https://www.reddit.com/r/javascript/comments/1cdcrge/react_19_beta_react/)
+- [My first React Project using TailwindCSS](https://www.reddit.com/r/javascript/comments/1cdc8rt/my_first_react_project_using_tailwindcss/)
+- [Send Morse code by pressing AirPods](https://www.reddit.com/r/javascript/comments/1cdc4tw/send_morse_code_by_pressing_airpods/)
 - [[AskJS] Js AI for games?](https://www.reddit.com/r/javascript/comments/1cd9137/askjs_js_ai_for_games/)
 - [Announcing TypeScript 5.5 Beta](https://www.reddit.com/r/javascript/comments/1cd15xb/announcing_typescript_55_beta/)
 - [UForm v3: On-Device Multimodal AI Embeddings in JavaScript](https://www.reddit.com/r/javascript/comments/1cd070s/uform_v3_ondevice_multimodal_ai_embeddings_in/)
-- [Llamafile’s progress, four months in](https://www.reddit.com/r/javascript/comments/1ccvatk/llamafiles_progress_four_months_in/)
-- [Speeding up ESLint—Even on CI](https://www.reddit.com/r/javascript/comments/1ccsl5e/speeding_up_eslinteven_on_ci/)
-- [[AskJS] Leaving Data Analysis for Front-End Web Dev. Worth it?](https://www.reddit.com/r/javascript/comments/1ccs5y8/askjs_leaving_data_analysis_for_frontend_web_dev/)
-- [Typed-xlsx | Feature-rich Type-safe Excel Reporting](https://www.reddit.com/r/javascript/comments/1ccs3gw/typedxlsx_featurerich_typesafe_excel_reporting/)
-- [Puck v0.14, the visual editor for React, now supports viewport switching and drag-and-drop across iframes](https://www.reddit.com/r/javascript/comments/1ccoyqo/puck_v014_the_visual_editor_for_react_now/)
-- [NodeJS 22: Require&lpar;&rpar; Support &amp; WebSockets](https://www.reddit.com/r/javascript/comments/1ccj5py/nodejs_22_require_support_websockets/)
-- [I&#39;ve been working on an open-source proxy server to help secure third party API keys in front end applications. I would love to get some feedback!](https://www.reddit.com/r/javascript/comments/1ccd19k/ive_been_working_on_an_opensource_proxy_server_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
