@@ -292,6 +292,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [React 19 builds on async transitions](https://www.infoworld.com/article/3715409/react-19-builds-on-async-transitions.html#tk.rss_javascript)
+- [TypeScript 5.5 moves to beta](https://www.infoworld.com/article/3715246/typescript-55-moves-to-beta.html#tk.rss_javascript)
 - [Node.js 22 arrives, backs ECMAScript modules](https://www.infoworld.com/article/3715283/nodejs-22-arrives-backs-ecmascript-modules.html#tk.rss_javascript)
 - [5 ways to use JavaScript promises](https://www.infoworld.com/article/3715126/5-ways-to-use-javascript-promises.html#tk.rss_javascript)
 - [Java services hit hardest by third-party vulnerabilities, report says](https://www.infoworld.com/article/3715264/java-services-hit-hardest-by-third-party-vulnerabilities-says-report.html#tk.rss_javascript)
@@ -300,8 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Full-stack web development with HTMX and Bun, Part 2: Pug templating](https://www.infoworld.com/article/3715122/full-stack-web-development-with-htmx-and-bun-part-2-pug-templating.html#tk.rss_javascript)
 - [JetBrains IDEs add AI-powered code autocompletion](https://www.infoworld.com/article/3715022/jetbrains-ides-add-ai-powered-code-autocompletion.html#tk.rss_javascript)
 - [Full-stack web development with HTMX and Bun, Part 1: Elysia and MongoDB](https://www.infoworld.com/article/3714603/full-stack-web-development-with-htmx-and-bun-part-1-elysia-and-mongodb.html#tk.rss_javascript)
-- [Bun 1.1 JavaScript toolkit backs Windows 10](https://www.infoworld.com/article/3714825/bun-11-javascript-toolkit-backs-windows-10.html#tk.rss_javascript)
-- [Google to merge Angular and Wiz frameworks](https://www.infoworld.com/article/3714628/google-to-merge-angular-and-wiz-frameworks.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
