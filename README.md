@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Picodash: A tiny library to create low-code dashboards](https://www.reddit.com/r/javascript/comments/1cer50l/picodash_a_tiny_library_to_create_lowcode/)
+- [[AskJS] telegram problem](https://www.reddit.com/r/javascript/comments/1ceosmj/askjs_telegram_problem/)
+- [[AskJS] Converting my chat app to a full scale board game](https://www.reddit.com/r/javascript/comments/1centno/askjs_converting_my_chat_app_to_a_full_scale/)
+- [[AskJS] Please help me understand the difficulty of a project I&#39;m working on.](https://www.reddit.com/r/javascript/comments/1cejgzx/askjs_please_help_me_understand_the_difficulty_of/)
+- [[AskJS] What should I do? Continue learning or not?](https://www.reddit.com/r/javascript/comments/1ce8i6o/askjs_what_should_i_do_continue_learning_or_not/)
+- [Showoff Saturday &lpar;April 27, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1ce89hk/showoff_saturday_april_27_2024/)
+- [TypeScript 5.5 Beta Release](https://www.reddit.com/r/javascript/comments/1ce4dpd/typescript_55_beta_release/)
 - [Fetcharoni — Simple and fast API testing](https://www.reddit.com/r/javascript/comments/1cdru1c/fetcharoni_simple_and_fast_api_testing/)
 - [NextTrade – a no-code algorithmic trading trading platform](https://www.reddit.com/r/javascript/comments/1cdn5qi/nexttrade_a_nocode_algorithmic_trading_trading/)
 - [Using PhotoSwipe in Astro to Build an Image Gallery](https://www.reddit.com/r/javascript/comments/1cdgi41/using_photoswipe_in_astro_to_build_an_image/)
-- [faces.js - A JavaScript library for generating vector-based cartoon faces](https://www.reddit.com/r/javascript/comments/1cdggm6/facesjs_a_javascript_library_for_generating/)
-- [React 19 Beta – React](https://www.reddit.com/r/javascript/comments/1cdcrge/react_19_beta_react/)
-- [My first React Project using TailwindCSS](https://www.reddit.com/r/javascript/comments/1cdc8rt/my_first_react_project_using_tailwindcss/)
-- [Send Morse code by pressing AirPods](https://www.reddit.com/r/javascript/comments/1cdc4tw/send_morse_code_by_pressing_airpods/)
-- [[AskJS] Js AI for games?](https://www.reddit.com/r/javascript/comments/1cd9137/askjs_js_ai_for_games/)
-- [Announcing TypeScript 5.5 Beta](https://www.reddit.com/r/javascript/comments/1cd15xb/announcing_typescript_55_beta/)
-- [UForm v3: On-Device Multimodal AI Embeddings in JavaScript](https://www.reddit.com/r/javascript/comments/1cd070s/uform_v3_ondevice_multimodal_ai_embeddings_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
