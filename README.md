@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Has anybody implemented h2c server and client in JavaScript?](https://www.reddit.com/r/javascript/comments/1cfcaiw/askjs_has_anybody_implemented_h2c_server_and/)
+- [Refactoring a monstrosity using XState 5 - Implementation challenges leave me unsure about moving it to production](https://www.reddit.com/r/javascript/comments/1cfa7mj/refactoring_a_monstrosity_using_xstate_5/)
+- [How to protect API Keys in React projects using Gateweaver](https://www.reddit.com/r/javascript/comments/1cf46yp/how_to_protect_api_keys_in_react_projects_using/)
 - [Picodash: A tiny library to create low-code dashboards](https://www.reddit.com/r/javascript/comments/1cer50l/picodash_a_tiny_library_to_create_lowcode/)
 - [[AskJS] telegram problem](https://www.reddit.com/r/javascript/comments/1ceosmj/askjs_telegram_problem/)
 - [[AskJS] Converting my chat app to a full scale board game](https://www.reddit.com/r/javascript/comments/1centno/askjs_converting_my_chat_app_to_a_full_scale/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [[AskJS] What should I do? Continue learning or not?](https://www.reddit.com/r/javascript/comments/1ce8i6o/askjs_what_should_i_do_continue_learning_or_not/)
 - [Showoff Saturday &lpar;April 27, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1ce89hk/showoff_saturday_april_27_2024/)
 - [TypeScript 5.5 Beta Release](https://www.reddit.com/r/javascript/comments/1ce4dpd/typescript_55_beta_release/)
-- [Fetcharoni — Simple and fast API testing](https://www.reddit.com/r/javascript/comments/1cdru1c/fetcharoni_simple_and_fast_api_testing/)
-- [NextTrade – a no-code algorithmic trading trading platform](https://www.reddit.com/r/javascript/comments/1cdn5qi/nexttrade_a_nocode_algorithmic_trading_trading/)
-- [Using PhotoSwipe in Astro to Build an Image Gallery](https://www.reddit.com/r/javascript/comments/1cdgi41/using_photoswipe_in_astro_to_build_an_image/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
