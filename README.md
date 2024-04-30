@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [MembraceDb: An easy-to-use memory-first database for Node.js](https://www.reddit.com/r/javascript/comments/1cgaj3h/membracedb_an_easytouse_memoryfirst_database_for/)
+- [[AskJS] New to js, how to proceed?](https://www.reddit.com/r/javascript/comments/1cg9ksa/askjs_new_to_js_how_to_proceed/)
+- [Learn more about data structures through the power of JavaScript](https://www.reddit.com/r/javascript/comments/1cg8wvs/learn_more_about_data_structures_through_the/)
+- [[AskJS] About Object.prototype.valueOf&lpar;&rpar; mistery](https://www.reddit.com/r/javascript/comments/1cg47e1/askjs_about_objectprototypevalueof_mistery/)
+- [jQuery UI 1.13.3 released](https://www.reddit.com/r/javascript/comments/1cg0ddo/jquery_ui_1133_released/)
+- [BunyJS: Another IoC but a framework this time.](https://www.reddit.com/r/javascript/comments/1cfypqu/bunyjs_another_ioc_but_a_framework_this_time/)
+- [Your /r/javascript recap for the week of April 22 - April 28, 2024](https://www.reddit.com/r/javascript/comments/1cfukoy/your_rjavascript_recap_for_the_week_of_april_22/)
 - [[AskJS] Has anybody implemented h2c server and client in JavaScript?](https://www.reddit.com/r/javascript/comments/1cfcaiw/askjs_has_anybody_implemented_h2c_server_and/)
 - [Refactoring a monstrosity using XState 5 - Implementation challenges leave me unsure about moving it to production](https://www.reddit.com/r/javascript/comments/1cfa7mj/refactoring_a_monstrosity_using_xstate_5/)
 - [How to protect API Keys in React projects using Gateweaver](https://www.reddit.com/r/javascript/comments/1cf46yp/how_to_protect_api_keys_in_react_projects_using/)
-- [Picodash: A tiny library to create low-code dashboards](https://www.reddit.com/r/javascript/comments/1cer50l/picodash_a_tiny_library_to_create_lowcode/)
-- [[AskJS] telegram problem](https://www.reddit.com/r/javascript/comments/1ceosmj/askjs_telegram_problem/)
-- [[AskJS] Converting my chat app to a full scale board game](https://www.reddit.com/r/javascript/comments/1centno/askjs_converting_my_chat_app_to_a_full_scale/)
-- [[AskJS] Please help me understand the difficulty of a project I&#39;m working on.](https://www.reddit.com/r/javascript/comments/1cejgzx/askjs_please_help_me_understand_the_difficulty_of/)
-- [[AskJS] What should I do? Continue learning or not?](https://www.reddit.com/r/javascript/comments/1ce8i6o/askjs_what_should_i_do_continue_learning_or_not/)
-- [Showoff Saturday &lpar;April 27, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1ce89hk/showoff_saturday_april_27_2024/)
-- [TypeScript 5.5 Beta Release](https://www.reddit.com/r/javascript/comments/1ce4dpd/typescript_55_beta_release/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
