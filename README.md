@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [MembraceDb: An easy-to-use memory-first database for Node.js](https://www.reddit.com/r/javascript/comments/1cgaj3h/membracedb_an_easytouse_memoryfirst_database_for/)
-- [[AskJS] New to js, how to proceed?](https://www.reddit.com/r/javascript/comments/1cg9ksa/askjs_new_to_js_how_to_proceed/)
-- [Learn more about data structures through the power of JavaScript](https://www.reddit.com/r/javascript/comments/1cg8wvs/learn_more_about_data_structures_through_the/)
-- [[AskJS] About Object.prototype.valueOf&lpar;&rpar; mistery](https://www.reddit.com/r/javascript/comments/1cg47e1/askjs_about_objectprototypevalueof_mistery/)
-- [jQuery UI 1.13.3 released](https://www.reddit.com/r/javascript/comments/1cg0ddo/jquery_ui_1133_released/)
-- [BunyJS: Another IoC but a framework this time.](https://www.reddit.com/r/javascript/comments/1cfypqu/bunyjs_another_ioc_but_a_framework_this_time/)
-- [Your /r/javascript recap for the week of April 22 - April 28, 2024](https://www.reddit.com/r/javascript/comments/1cfukoy/your_rjavascript_recap_for_the_week_of_april_22/)
-- [[AskJS] Has anybody implemented h2c server and client in JavaScript?](https://www.reddit.com/r/javascript/comments/1cfcaiw/askjs_has_anybody_implemented_h2c_server_and/)
-- [Refactoring a monstrosity using XState 5 - Implementation challenges leave me unsure about moving it to production](https://www.reddit.com/r/javascript/comments/1cfa7mj/refactoring_a_monstrosity_using_xstate_5/)
-- [How to protect API Keys in React projects using Gateweaver](https://www.reddit.com/r/javascript/comments/1cf46yp/how_to_protect_api_keys_in_react_projects_using/)
+- [React 19 Beta: Major Updates to Async Transactions are Here](https://www.reddit.com/r/javascript/comments/1ch2c7d/react_19_beta_major_updates_to_async_transactions/)
+- [Master the Art of Software Testing with F.I.R.S.T Principles](https://www.reddit.com/r/javascript/comments/1ch1htm/master_the_art_of_software_testing_with_first/)
+- [The problem with new URL&lpar;&rpar;, and how URL.parse&lpar;&rpar; fixes that](https://www.reddit.com/r/javascript/comments/1ch0uje/the_problem_with_new_url_and_how_urlparse_fixes/)
+- [Use Any LLM &lpar;GPT-3, GPT-4, Davinci, and DALL-E&rpar; With One Package](https://www.reddit.com/r/javascript/comments/1cgywf4/use_any_llm_gpt3_gpt4_davinci_and_dalle_with_one/)
+- [[AskJS] Do you have some other Javascript news sources?](https://www.reddit.com/r/javascript/comments/1cgysiu/askjs_do_you_have_some_other_javascript_news/)
+- [JavaScript Basics: How to create a Dictionary with Key/Value pairs](https://www.reddit.com/r/javascript/comments/1cgxyug/javascript_basics_how_to_create_a_dictionary_with/)
+- [Blog on: Automatically sentence-case i18next translations](https://www.reddit.com/r/javascript/comments/1cgxq1s/blog_on_automatically_sentencecase_i18next/)
+- [I made Swagger/OpenAPI type definitions and converter library](https://www.reddit.com/r/javascript/comments/1cgww75/i_made_swaggeropenapi_type_definitions_and/)
+- [Fullscr — Go fullscreen on any browser with one line of code](https://www.reddit.com/r/javascript/comments/1cgvnjm/fullscr_go_fullscreen_on_any_browser_with_one/)
+- [[AskJS] Struggling to Upgrade an Outdated NX Monorepo for GraphQL Integration - Need Advice!](https://www.reddit.com/r/javascript/comments/1cgsjpe/askjs_struggling_to_upgrade_an_outdated_nx/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
