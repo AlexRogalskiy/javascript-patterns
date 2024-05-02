@@ -292,6 +292,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Svelte 5 moves to release candidate stage](https://www.infoworld.com/article/3715394/svelte-5-moves-to-release-candidate-stage.html#tk.rss_javascript)
+- [How to use JavaScript statements in your programs](https://www.infoworld.com/article/2077317/understanding-and-using-javascript-statements.html#tk.rss_javascript)
 - [React 19 builds on async transitions](https://www.infoworld.com/article/3715409/react-19-builds-on-async-transitions.html#tk.rss_javascript)
 - [TypeScript 5.5 moves to beta](https://www.infoworld.com/article/3715246/typescript-55-moves-to-beta.html#tk.rss_javascript)
 - [Node.js 22 arrives, backs ECMAScript modules](https://www.infoworld.com/article/3715283/nodejs-22-arrives-backs-ecmascript-modules.html#tk.rss_javascript)
@@ -300,8 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [ECMAScript 2024 features you can use now](https://www.infoworld.com/article/3715260/ecmascript-2024-features-you-can-use-now.html#tk.rss_javascript)
 - [ECMAScript 2024 takes shape](https://www.infoworld.com/article/3715341/ecmascript-2024-takes-shape.html#tk.rss_javascript)
 - [Full-stack web development with HTMX and Bun, Part 2: Pug templating](https://www.infoworld.com/article/3715122/full-stack-web-development-with-htmx-and-bun-part-2-pug-templating.html#tk.rss_javascript)
-- [JetBrains IDEs add AI-powered code autocompletion](https://www.infoworld.com/article/3715022/jetbrains-ides-add-ai-powered-code-autocompletion.html#tk.rss_javascript)
-- [Full-stack web development with HTMX and Bun, Part 1: Elysia and MongoDB](https://www.infoworld.com/article/3714603/full-stack-web-development-with-htmx-and-bun-part-1-elysia-and-mongodb.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
