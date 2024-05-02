@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [React 19 Beta: Major Updates to Async Transactions are Here](https://www.reddit.com/r/javascript/comments/1ch2c7d/react_19_beta_major_updates_to_async_transactions/)
-- [Master the Art of Software Testing with F.I.R.S.T Principles](https://www.reddit.com/r/javascript/comments/1ch1htm/master_the_art_of_software_testing_with_first/)
-- [The problem with new URL&lpar;&rpar;, and how URL.parse&lpar;&rpar; fixes that](https://www.reddit.com/r/javascript/comments/1ch0uje/the_problem_with_new_url_and_how_urlparse_fixes/)
-- [Use Any LLM &lpar;GPT-3, GPT-4, Davinci, and DALL-E&rpar; With One Package](https://www.reddit.com/r/javascript/comments/1cgywf4/use_any_llm_gpt3_gpt4_davinci_and_dalle_with_one/)
-- [[AskJS] Do you have some other Javascript news sources?](https://www.reddit.com/r/javascript/comments/1cgysiu/askjs_do_you_have_some_other_javascript_news/)
-- [JavaScript Basics: How to create a Dictionary with Key/Value pairs](https://www.reddit.com/r/javascript/comments/1cgxyug/javascript_basics_how_to_create_a_dictionary_with/)
-- [Blog on: Automatically sentence-case i18next translations](https://www.reddit.com/r/javascript/comments/1cgxq1s/blog_on_automatically_sentencecase_i18next/)
-- [I made Swagger/OpenAPI type definitions and converter library](https://www.reddit.com/r/javascript/comments/1cgww75/i_made_swaggeropenapi_type_definitions_and/)
-- [Fullscr — Go fullscreen on any browser with one line of code](https://www.reddit.com/r/javascript/comments/1cgvnjm/fullscr_go_fullscreen_on_any_browser_with_one/)
-- [[AskJS] Struggling to Upgrade an Outdated NX Monorepo for GraphQL Integration - Need Advice!](https://www.reddit.com/r/javascript/comments/1cgsjpe/askjs_struggling_to_upgrade_an_outdated_nx/)
+- [12 Quick Tips for Writing Clean Code](https://www.reddit.com/r/javascript/comments/1ci1j8x/12_quick_tips_for_writing_clean_code/)
+- [Demystifying Shader Components in Web Development](https://www.reddit.com/r/javascript/comments/1chvzmw/demystifying_shader_components_in_web_development/)
+- [Ryan Dahl: from Node.js and Deno to the &#39;modern&#39; JavaScript Registry](https://www.reddit.com/r/javascript/comments/1chsdjq/ryan_dahl_from_nodejs_and_deno_to_the_modern/)
+- [Llamafile’s progress, four months in](https://www.reddit.com/r/javascript/comments/1chs0fx/llamafiles_progress_four_months_in/)
+- [Llamafile’s progress, four months in](https://www.reddit.com/r/javascript/comments/1chrmyw/llamafiles_progress_four_months_in/)
+- [Using Vite To Rebuild Local Dependencies in an NPM Workspace](https://www.reddit.com/r/javascript/comments/1chn74b/using_vite_to_rebuild_local_dependencies_in_an/)
+- [Sharing updates, tools, and excellent articles about web development - Issue 3](https://www.reddit.com/r/javascript/comments/1chm646/sharing_updates_tools_and_excellent_articles/)
+- [Using Playwright to Monitor Third-Party Resources That Could Impact User Experience](https://www.reddit.com/r/javascript/comments/1chg9jz/using_playwright_to_monitor_thirdparty_resources/)
+- [nrr: Minimal, blazing fast npm scripts runner](https://www.reddit.com/r/javascript/comments/1chg3wq/nrr_minimal_blazing_fast_npm_scripts_runner/)
+- [WTF Wednesday &lpar;May 01, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1chfpva/wtf_wednesday_may_01_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
