@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] React Scroll Parallax](https://www.reddit.com/r/javascript/comments/1cietpc/askjs_react_scroll_parallax/)
+- [Visualize Performance issues in your JavaScript Applications](https://www.reddit.com/r/javascript/comments/1cibtp9/visualize_performance_issues_in_your_javascript/)
+- [Set an Attribute Without Value in JavaScript](https://www.reddit.com/r/javascript/comments/1ciatri/set_an_attribute_without_value_in_javascript/)
+- [cdn jsDelivr starting the day not so well](https://www.reddit.com/r/javascript/comments/1ci9amk/cdn_jsdelivr_starting_the_day_not_so_well/)
 - [12 Quick Tips for Writing Clean Code](https://www.reddit.com/r/javascript/comments/1ci1j8x/12_quick_tips_for_writing_clean_code/)
 - [Demystifying Shader Components in Web Development](https://www.reddit.com/r/javascript/comments/1chvzmw/demystifying_shader_components_in_web_development/)
 - [Ryan Dahl: from Node.js and Deno to the &#39;modern&#39; JavaScript Registry](https://www.reddit.com/r/javascript/comments/1chsdjq/ryan_dahl_from_nodejs_and_deno_to_the_modern/)
 - [Llamafile’s progress, four months in](https://www.reddit.com/r/javascript/comments/1chs0fx/llamafiles_progress_four_months_in/)
 - [Llamafile’s progress, four months in](https://www.reddit.com/r/javascript/comments/1chrmyw/llamafiles_progress_four_months_in/)
 - [Using Vite To Rebuild Local Dependencies in an NPM Workspace](https://www.reddit.com/r/javascript/comments/1chn74b/using_vite_to_rebuild_local_dependencies_in_an/)
-- [Sharing updates, tools, and excellent articles about web development - Issue 3](https://www.reddit.com/r/javascript/comments/1chm646/sharing_updates_tools_and_excellent_articles/)
-- [Using Playwright to Monitor Third-Party Resources That Could Impact User Experience](https://www.reddit.com/r/javascript/comments/1chg9jz/using_playwright_to_monitor_thirdparty_resources/)
-- [nrr: Minimal, blazing fast npm scripts runner](https://www.reddit.com/r/javascript/comments/1chg3wq/nrr_minimal_blazing_fast_npm_scripts_runner/)
-- [WTF Wednesday &lpar;May 01, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1chfpva/wtf_wednesday_may_01_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
