@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] React Scroll Parallax](https://www.reddit.com/r/javascript/comments/1cietpc/askjs_react_scroll_parallax/)
-- [Visualize Performance issues in your JavaScript Applications](https://www.reddit.com/r/javascript/comments/1cibtp9/visualize_performance_issues_in_your_javascript/)
-- [Set an Attribute Without Value in JavaScript](https://www.reddit.com/r/javascript/comments/1ciatri/set_an_attribute_without_value_in_javascript/)
-- [cdn jsDelivr starting the day not so well](https://www.reddit.com/r/javascript/comments/1ci9amk/cdn_jsdelivr_starting_the_day_not_so_well/)
-- [12 Quick Tips for Writing Clean Code](https://www.reddit.com/r/javascript/comments/1ci1j8x/12_quick_tips_for_writing_clean_code/)
-- [Demystifying Shader Components in Web Development](https://www.reddit.com/r/javascript/comments/1chvzmw/demystifying_shader_components_in_web_development/)
-- [Ryan Dahl: from Node.js and Deno to the &#39;modern&#39; JavaScript Registry](https://www.reddit.com/r/javascript/comments/1chsdjq/ryan_dahl_from_nodejs_and_deno_to_the_modern/)
-- [Llamafile’s progress, four months in](https://www.reddit.com/r/javascript/comments/1chs0fx/llamafiles_progress_four_months_in/)
-- [Llamafile’s progress, four months in](https://www.reddit.com/r/javascript/comments/1chrmyw/llamafiles_progress_four_months_in/)
-- [Using Vite To Rebuild Local Dependencies in an NPM Workspace](https://www.reddit.com/r/javascript/comments/1chn74b/using_vite_to_rebuild_local_dependencies_in_an/)
+- [Spent two years working on my own framework](https://www.reddit.com/r/javascript/comments/1cjjnbn/spent_two_years_working_on_my_own_framework/)
+- [A second eye needed - event management via weakmaps](https://www.reddit.com/r/javascript/comments/1cjixyp/a_second_eye_needed_event_management_via_weakmaps/)
+- [Deploying to Vercel: The Unhappy Path](https://www.reddit.com/r/javascript/comments/1cjfu3w/deploying_to_vercel_the_unhappy_path/)
+- [[AskJS] Analytics library](https://www.reddit.com/r/javascript/comments/1cjf0q2/askjs_analytics_library/)
+- [[AskJS] Trying to automate code maintenance tasks](https://www.reddit.com/r/javascript/comments/1cj7vch/askjs_trying_to_automate_code_maintenance_tasks/)
+- [A tricky pitfall of promise.all&lpar;&rpar; and a solution](https://www.reddit.com/r/javascript/comments/1cj6vd6/a_tricky_pitfall_of_promiseall_and_a_solution/)
+- [Figma&#39;s journey to TypeScript](https://www.reddit.com/r/javascript/comments/1cj4jxg/figmas_journey_to_typescript/)
+- [Free Extension that Reads Boring Documentations and Answers your Queries Fast](https://www.reddit.com/r/javascript/comments/1cj4bn8/free_extension_that_reads_boring_documentations/)
+- [Exploring Server-Sent Events &lpar;SSE&rpar; with NestJS](https://www.reddit.com/r/javascript/comments/1cj0iz5/exploring_serversent_events_sse_with_nestjs/)
+- [How To Cancel Any Async Task in JavaScript](https://www.reddit.com/r/javascript/comments/1ciyeks/how_to_cancel_any_async_task_in_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
