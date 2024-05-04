@@ -382,6 +382,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *NodeSource posts*
 
 <!-- NODESOURCE-POST-LIST:START -->
+- [Solving Memory Leaks in Node.js has Never Been Easier, Introducing the Latest Version of N|Solid](https://nodesource.com/blog/nsolid-heap-profilers)
 - [Enhancing Node.js Core: Introducing Support for Synchronous ESM Graphs](https://nodesource.com/blog/enhancing-nodejs-esm-graphs)
 - [N|Solid: Node.js Compatibility Proven through Fastify CI Integration](https://nodesource.com/blog/nodejs-compatibility-fastify-integration)
 - [Choosing the Right Node.js Package Manager in 2024: A Comparative Guide](https://nodesource.com/blog/nodejs-package-manager-comparative-guide-2024)
@@ -391,7 +392,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [3 Takeaways from Web Summit 2023](https://nodesource.com/blog/takeaways-web-summit-2023)
 - [NodeSource Team Supports JSConf Colombia for the Event&#39;s 10th Anniversary](https://nodesource.com/blog/nodesource-jsconf-colombia-tenth-anniversary)
 - [Introducing N|Solid Copilot: Your AI-Powered Node.js Navigator](https://nodesource.com/blog/nsolid-copilot-release)
-- [N|Solid OSS Release](https://nodesource.com/blog/nsolid-oss-release)
 <!-- NODESOURCE-POST-LIST:END -->
 
 ### *React Native posts*
