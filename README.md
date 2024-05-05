@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [TypeScript fork that lets you use TS inside of comments](https://www.reddit.com/r/javascript/comments/1ckbzpz/typescript_fork_that_lets_you_use_ts_inside_of/)
+- [[AskJS] Javascript for kids](https://www.reddit.com/r/javascript/comments/1ck8bqg/askjs_javascript_for_kids/)
+- [Object Structure in JavaScript Engines](https://www.reddit.com/r/javascript/comments/1ck6th6/object_structure_in_javascript_engines/)
+- [[AskJS] how are you using Proxies and Tags in production?](https://www.reddit.com/r/javascript/comments/1ck6fcg/askjs_how_are_you_using_proxies_and_tags_in/)
+- [[AskJS] Is it possible to optimize randomizing outputs?](https://www.reddit.com/r/javascript/comments/1cjxhqb/askjs_is_it_possible_to_optimize_randomizing/)
+- [Showoff Saturday &lpar;May 04, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1cjuaui/showoff_saturday_may_04_2024/)
 - [Spent two years working on my own framework](https://www.reddit.com/r/javascript/comments/1cjjnbn/spent_two_years_working_on_my_own_framework/)
 - [A second eye needed - event management via weakmaps](https://www.reddit.com/r/javascript/comments/1cjixyp/a_second_eye_needed_event_management_via_weakmaps/)
 - [Deploying to Vercel: The Unhappy Path](https://www.reddit.com/r/javascript/comments/1cjfu3w/deploying_to_vercel_the_unhappy_path/)
 - [[AskJS] Analytics library](https://www.reddit.com/r/javascript/comments/1cjf0q2/askjs_analytics_library/)
-- [[AskJS] Trying to automate code maintenance tasks](https://www.reddit.com/r/javascript/comments/1cj7vch/askjs_trying_to_automate_code_maintenance_tasks/)
-- [A tricky pitfall of promise.all&lpar;&rpar; and a solution](https://www.reddit.com/r/javascript/comments/1cj6vd6/a_tricky_pitfall_of_promiseall_and_a_solution/)
-- [Figma&#39;s journey to TypeScript](https://www.reddit.com/r/javascript/comments/1cj4jxg/figmas_journey_to_typescript/)
-- [Free Extension that Reads Boring Documentations and Answers your Queries Fast](https://www.reddit.com/r/javascript/comments/1cj4bn8/free_extension_that_reads_boring_documentations/)
-- [Exploring Server-Sent Events &lpar;SSE&rpar; with NestJS](https://www.reddit.com/r/javascript/comments/1cj0iz5/exploring_serversent_events_sse_with_nestjs/)
-- [How To Cancel Any Async Task in JavaScript](https://www.reddit.com/r/javascript/comments/1ciyeks/how_to_cancel_any_async_task_in_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
