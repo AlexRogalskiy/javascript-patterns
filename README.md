@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] How to get the date and time base on the users timezone?](https://www.reddit.com/r/javascript/comments/1cl64ka/askjs_how_to_get_the_date_and_time_base_on_the/)
+- [The new disposable APIs in Javascript](https://www.reddit.com/r/javascript/comments/1cky712/the_new_disposable_apis_in_javascript/)
+- [[AskJS] What are your thoughts on the current service worker scene?](https://www.reddit.com/r/javascript/comments/1ckrhzg/askjs_what_are_your_thoughts_on_the_current/)
+- [JavaScript framework for robotics, drones, and the Internet of Things &lpar;IoT&rpar;](https://www.reddit.com/r/javascript/comments/1ckl6sv/javascript_framework_for_robotics_drones_and_the/)
 - [TypeScript fork that lets you use TS inside of comments](https://www.reddit.com/r/javascript/comments/1ckbzpz/typescript_fork_that_lets_you_use_ts_inside_of/)
 - [[AskJS] Javascript for kids](https://www.reddit.com/r/javascript/comments/1ck8bqg/askjs_javascript_for_kids/)
 - [Object Structure in JavaScript Engines](https://www.reddit.com/r/javascript/comments/1ck6th6/object_structure_in_javascript_engines/)
 - [[AskJS] how are you using Proxies and Tags in production?](https://www.reddit.com/r/javascript/comments/1ck6fcg/askjs_how_are_you_using_proxies_and_tags_in/)
 - [[AskJS] Is it possible to optimize randomizing outputs?](https://www.reddit.com/r/javascript/comments/1cjxhqb/askjs_is_it_possible_to_optimize_randomizing/)
 - [Showoff Saturday &lpar;May 04, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1cjuaui/showoff_saturday_may_04_2024/)
-- [Spent two years working on my own framework](https://www.reddit.com/r/javascript/comments/1cjjnbn/spent_two_years_working_on_my_own_framework/)
-- [A second eye needed - event management via weakmaps](https://www.reddit.com/r/javascript/comments/1cjixyp/a_second_eye_needed_event_management_via_weakmaps/)
-- [Deploying to Vercel: The Unhappy Path](https://www.reddit.com/r/javascript/comments/1cjfu3w/deploying_to_vercel_the_unhappy_path/)
-- [[AskJS] Analytics library](https://www.reddit.com/r/javascript/comments/1cjf0q2/askjs_analytics_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
