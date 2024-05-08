@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Trending Now! Introducing Lesan: Inspired from GraphQL with additional features, 40X faster than Mongoose, and 10X compared to Prisma](https://www.reddit.com/r/javascript/comments/1cluqkk/trending_now_introducing_lesan_inspired_from/)
-- [[AskJS] What is the best way handling files in JS?](https://www.reddit.com/r/javascript/comments/1clql6h/askjs_what_is_the_best_way_handling_files_in_js/)
-- [[AskJS] How to monitor memory consumption in JavaScript ?](https://www.reddit.com/r/javascript/comments/1clj56d/askjs_how_to_monitor_memory_consumption_in/)
-- [Your /r/javascript recap for the week of April 29 - May 05, 2024](https://www.reddit.com/r/javascript/comments/1clek7h/your_rjavascript_recap_for_the_week_of_april_29/)
-- [How to Get a Perfect Deep Copy in JavaScript](https://www.reddit.com/r/javascript/comments/1cle9po/how_to_get_a_perfect_deep_copy_in_javascript/)
-- [[AskJS] What should I use for testing a JavaScript package on the web on CI?](https://www.reddit.com/r/javascript/comments/1clcc2h/askjs_what_should_i_use_for_testing_a_javascript/)
-- [I made an open-source tool to send and monitor emails](https://www.reddit.com/r/javascript/comments/1cl85c8/i_made_an_opensource_tool_to_send_and_monitor/)
-- [[AskJS] How to get the date and time base on the users timezone?](https://www.reddit.com/r/javascript/comments/1cl64ka/askjs_how_to_get_the_date_and_time_base_on_the/)
-- [The new disposable APIs in Javascript](https://www.reddit.com/r/javascript/comments/1cky712/the_new_disposable_apis_in_javascript/)
-- [[AskJS] What are your thoughts on the current service worker scene?](https://www.reddit.com/r/javascript/comments/1ckrhzg/askjs_what_are_your_thoughts_on_the_current/)
+- [[AskJS] how would you punish a scammer?](https://www.reddit.com/r/javascript/comments/1cmscgq/askjs_how_would_you_punish_a_scammer/)
+- [Memory Management Every Web Developer Should Know](https://www.reddit.com/r/javascript/comments/1cmrheq/memory_management_every_web_developer_should_know/)
+- [Why Patching Globals Is Harmful](https://www.reddit.com/r/javascript/comments/1cmhfyy/why_patching_globals_is_harmful/)
+- [[AskJS] My college asks us to do project using Embedded JavaScript&lpar;EJS&rpar;. Is it used in the industry.](https://www.reddit.com/r/javascript/comments/1cmh2n6/askjs_my_college_asks_us_to_do_project_using/)
+- [[AskJS] Printing reactjs component in a thermal printer](https://www.reddit.com/r/javascript/comments/1cmgrhv/askjs_printing_reactjs_component_in_a_thermal/)
+- [NPM Shenanigans](https://www.reddit.com/r/javascript/comments/1cmeo7y/npm_shenanigans/)
+- [[AskJS] Where should opinions and thoughts about the future of the ECMAScript standard be posted?](https://www.reddit.com/r/javascript/comments/1cm929f/askjs_where_should_opinions_and_thoughts_about/)
+- [Let me be - Ryan Florence](https://www.reddit.com/r/javascript/comments/1cm6ttt/let_me_be_ryan_florence/)
+- [[AskJS] Have any of you tested Bun on a real production project? What is your feedback?](https://www.reddit.com/r/javascript/comments/1cm6teg/askjs_have_any_of_you_tested_bun_on_a_real/)
+- [[AskJS] My javascript knowledge is fading](https://www.reddit.com/r/javascript/comments/1cm49j6/askjs_my_javascript_knowledge_is_fading/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
