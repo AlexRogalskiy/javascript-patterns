@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] how would you punish a scammer?](https://www.reddit.com/r/javascript/comments/1cmscgq/askjs_how_would_you_punish_a_scammer/)
+- [[AskJS] Seeking Affordable Family Tree JavaScript Library for Upcoming Project](https://www.reddit.com/r/javascript/comments/1cnd08s/askjs_seeking_affordable_family_tree_javascript/)
+- [Why React Query](https://www.reddit.com/r/javascript/comments/1cnbwiw/why_react_query/)
+- [I built a tool to automatically convert jQuery code to pure JavaScript.](https://www.reddit.com/r/javascript/comments/1cn52j3/i_built_a_tool_to_automatically_convert_jquery/)
+- [Effective Testing in JavaScript](https://www.reddit.com/r/javascript/comments/1cn4p9i/effective_testing_in_javascript/)
+- [[AskJS] Need a starter nodejs base for a large application](https://www.reddit.com/r/javascript/comments/1cn4nq1/askjs_need_a_starter_nodejs_base_for_a_large/)
+- [How to Securely Send a Request When Closing Tabs](https://www.reddit.com/r/javascript/comments/1cn2h6v/how_to_securely_send_a_request_when_closing_tabs/)
+- [Replacement for abandoned library uri-js aka URI.js: based on standard js URL and without punycode dependency](https://www.reddit.com/r/javascript/comments/1cmykua/replacement_for_abandoned_library_urijs_aka_urijs/)
+- [WTF Wednesday &lpar;May 08, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1cmybl2/wtf_wednesday_may_08_2024/)
 - [Memory Management Every Web Developer Should Know](https://www.reddit.com/r/javascript/comments/1cmrheq/memory_management_every_web_developer_should_know/)
 - [Why Patching Globals Is Harmful](https://www.reddit.com/r/javascript/comments/1cmhfyy/why_patching_globals_is_harmful/)
-- [[AskJS] My college asks us to do project using Embedded JavaScript&lpar;EJS&rpar;. Is it used in the industry.](https://www.reddit.com/r/javascript/comments/1cmh2n6/askjs_my_college_asks_us_to_do_project_using/)
-- [[AskJS] Printing reactjs component in a thermal printer](https://www.reddit.com/r/javascript/comments/1cmgrhv/askjs_printing_reactjs_component_in_a_thermal/)
-- [NPM Shenanigans](https://www.reddit.com/r/javascript/comments/1cmeo7y/npm_shenanigans/)
-- [[AskJS] Where should opinions and thoughts about the future of the ECMAScript standard be posted?](https://www.reddit.com/r/javascript/comments/1cm929f/askjs_where_should_opinions_and_thoughts_about/)
-- [Let me be - Ryan Florence](https://www.reddit.com/r/javascript/comments/1cm6ttt/let_me_be_ryan_florence/)
-- [[AskJS] Have any of you tested Bun on a real production project? What is your feedback?](https://www.reddit.com/r/javascript/comments/1cm6teg/askjs_have_any_of_you_tested_bun_on_a_real/)
-- [[AskJS] My javascript knowledge is fading](https://www.reddit.com/r/javascript/comments/1cm49j6/askjs_my_javascript_knowledge_is_fading/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
