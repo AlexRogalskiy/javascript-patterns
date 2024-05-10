@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Feature flags with Astro + Vercel Toolbar](https://www.reddit.com/r/javascript/comments/1co511n/feature_flags_with_astro_vercel_toolbar/)
+- [Javascript/Babylonjs game I made. Any opinions - positive or negative are welcome :&rpar;](https://www.reddit.com/r/javascript/comments/1co3b8g/javascriptbabylonjs_game_i_made_any_opinions/)
+- [How to Get a Perfect Deep Equal in JavaScript](https://www.reddit.com/r/javascript/comments/1cnyasz/how_to_get_a_perfect_deep_equal_in_javascript/)
+- [EverShop - A Javascript ecommerce platform v1.1.0 just released!](https://www.reddit.com/r/javascript/comments/1cnu737/evershop_a_javascript_ecommerce_platform_v110/)
+- [A case study of Client-side Rendering &lpar;or why SSR makes no sense&rpar;](https://www.reddit.com/r/javascript/comments/1cntmuj/a_case_study_of_clientside_rendering_or_why_ssr/)
+- [[AskJS] Websocket tables library](https://www.reddit.com/r/javascript/comments/1cnsvqv/askjs_websocket_tables_library/)
+- [[AskJS] What is the Best isomorphic full stack web framework](https://www.reddit.com/r/javascript/comments/1cnrj2t/askjs_what_is_the_best_isomorphic_full_stack_web/)
+- [Simple Implemention to Understand WorkerThreads in NodeKS](https://www.reddit.com/r/javascript/comments/1cno5gz/simple_implemention_to_understand_workerthreads/)
 - [[AskJS] Seeking Affordable Family Tree JavaScript Library for Upcoming Project](https://www.reddit.com/r/javascript/comments/1cnd08s/askjs_seeking_affordable_family_tree_javascript/)
 - [Why React Query](https://www.reddit.com/r/javascript/comments/1cnbwiw/why_react_query/)
-- [I built a tool to automatically convert jQuery code to pure JavaScript.](https://www.reddit.com/r/javascript/comments/1cn52j3/i_built_a_tool_to_automatically_convert_jquery/)
-- [Effective Testing in JavaScript](https://www.reddit.com/r/javascript/comments/1cn4p9i/effective_testing_in_javascript/)
-- [[AskJS] Need a starter nodejs base for a large application](https://www.reddit.com/r/javascript/comments/1cn4nq1/askjs_need_a_starter_nodejs_base_for_a_large/)
-- [How to Securely Send a Request When Closing Tabs](https://www.reddit.com/r/javascript/comments/1cn2h6v/how_to_securely_send_a_request_when_closing_tabs/)
-- [Replacement for abandoned library uri-js aka URI.js: based on standard js URL and without punycode dependency](https://www.reddit.com/r/javascript/comments/1cmykua/replacement_for_abandoned_library_urijs_aka_urijs/)
-- [WTF Wednesday &lpar;May 08, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1cmybl2/wtf_wednesday_may_08_2024/)
-- [Memory Management Every Web Developer Should Know](https://www.reddit.com/r/javascript/comments/1cmrheq/memory_management_every_web_developer_should_know/)
-- [Why Patching Globals Is Harmful](https://www.reddit.com/r/javascript/comments/1cmhfyy/why_patching_globals_is_harmful/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
