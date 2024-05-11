@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Build Your Own React.js in 400 Lines of Code](https://www.reddit.com/r/javascript/comments/1cp2wnp/build_your_own_reactjs_in_400_lines_of_code/)
+- [[AskJS] How to visualize a parking lot ?](https://www.reddit.com/r/javascript/comments/1coy1rw/askjs_how_to_visualize_a_parking_lot/)
+- [[AskJS] I have a CSR app - SSR or SSG, what’s better to improve SEO?](https://www.reddit.com/r/javascript/comments/1cout0q/askjs_i_have_a_csr_app_ssr_or_ssg_whats_better_to/)
+- [[AskJS] Can you have a ThreeJS site with more than one HTML page?](https://www.reddit.com/r/javascript/comments/1cotr1f/askjs_can_you_have_a_threejs_site_with_more_than/)
+- [[AskJS] How can I prevent users to dev console for securing my obfuscated code?](https://www.reddit.com/r/javascript/comments/1coq8wp/askjs_how_can_i_prevent_users_to_dev_console_for/)
+- [Using the Popover API with HTML and Javascript in the browser](https://www.reddit.com/r/javascript/comments/1coq0uw/using_the_popover_api_with_html_and_javascript_in/)
+- [[AskJS] How to logout when browser or browser&#39;s tab is closed.](https://www.reddit.com/r/javascript/comments/1coo6z8/askjs_how_to_logout_when_browser_or_browsers_tab/)
+- [New Typesafe Vue Router](https://www.reddit.com/r/javascript/comments/1conv1s/new_typesafe_vue_router/)
+- [[AskJS] Looking for a timeline library](https://www.reddit.com/r/javascript/comments/1cokico/askjs_looking_for_a_timeline_library/)
 - [Feature flags with Astro + Vercel Toolbar](https://www.reddit.com/r/javascript/comments/1co511n/feature_flags_with_astro_vercel_toolbar/)
-- [Javascript/Babylonjs game I made. Any opinions - positive or negative are welcome :&rpar;](https://www.reddit.com/r/javascript/comments/1co3b8g/javascriptbabylonjs_game_i_made_any_opinions/)
-- [How to Get a Perfect Deep Equal in JavaScript](https://www.reddit.com/r/javascript/comments/1cnyasz/how_to_get_a_perfect_deep_equal_in_javascript/)
-- [EverShop - A Javascript ecommerce platform v1.1.0 just released!](https://www.reddit.com/r/javascript/comments/1cnu737/evershop_a_javascript_ecommerce_platform_v110/)
-- [A case study of Client-side Rendering &lpar;or why SSR makes no sense&rpar;](https://www.reddit.com/r/javascript/comments/1cntmuj/a_case_study_of_clientside_rendering_or_why_ssr/)
-- [[AskJS] Websocket tables library](https://www.reddit.com/r/javascript/comments/1cnsvqv/askjs_websocket_tables_library/)
-- [[AskJS] What is the Best isomorphic full stack web framework](https://www.reddit.com/r/javascript/comments/1cnrj2t/askjs_what_is_the_best_isomorphic_full_stack_web/)
-- [Simple Implemention to Understand WorkerThreads in NodeKS](https://www.reddit.com/r/javascript/comments/1cno5gz/simple_implemention_to_understand_workerthreads/)
-- [[AskJS] Seeking Affordable Family Tree JavaScript Library for Upcoming Project](https://www.reddit.com/r/javascript/comments/1cnd08s/askjs_seeking_affordable_family_tree_javascript/)
-- [Why React Query](https://www.reddit.com/r/javascript/comments/1cnbwiw/why_react_query/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
