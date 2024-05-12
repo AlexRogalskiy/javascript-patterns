@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Build Your Own React.js in 400 Lines of Code](https://www.reddit.com/r/javascript/comments/1cp2wnp/build_your_own_reactjs_in_400_lines_of_code/)
+- [Deno 1.43 Released: Language Server Performance Boosts](https://www.reddit.com/r/javascript/comments/1cpvxoy/deno_143_released_language_server_performance/)
+- [I put together a short guide about the decisions you&#39;ll need to make when building a component library](https://www.reddit.com/r/javascript/comments/1cpfkby/i_put_together_a_short_guide_about_the_decisions/)
+- [A zero-dependency, lightweight &lpar;~3kB&rpar;, consent platform agnostic, cookie banner](https://www.reddit.com/r/javascript/comments/1cpd5n3/a_zerodependency_lightweight_3kb_consent_platform/)
+- [Showoff Saturday &lpar;May 11, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1cpbgtk/showoff_saturday_may_11_2024/)
 - [[AskJS] How to visualize a parking lot ?](https://www.reddit.com/r/javascript/comments/1coy1rw/askjs_how_to_visualize_a_parking_lot/)
 - [[AskJS] I have a CSR app - SSR or SSG, what’s better to improve SEO?](https://www.reddit.com/r/javascript/comments/1cout0q/askjs_i_have_a_csr_app_ssr_or_ssg_whats_better_to/)
 - [[AskJS] Can you have a ThreeJS site with more than one HTML page?](https://www.reddit.com/r/javascript/comments/1cotr1f/askjs_can_you_have_a_threejs_site_with_more_than/)
 - [[AskJS] How can I prevent users to dev console for securing my obfuscated code?](https://www.reddit.com/r/javascript/comments/1coq8wp/askjs_how_can_i_prevent_users_to_dev_console_for/)
 - [Using the Popover API with HTML and Javascript in the browser](https://www.reddit.com/r/javascript/comments/1coq0uw/using_the_popover_api_with_html_and_javascript_in/)
 - [[AskJS] How to logout when browser or browser&#39;s tab is closed.](https://www.reddit.com/r/javascript/comments/1coo6z8/askjs_how_to_logout_when_browser_or_browsers_tab/)
-- [New Typesafe Vue Router](https://www.reddit.com/r/javascript/comments/1conv1s/new_typesafe_vue_router/)
-- [[AskJS] Looking for a timeline library](https://www.reddit.com/r/javascript/comments/1cokico/askjs_looking_for_a_timeline_library/)
-- [Feature flags with Astro + Vercel Toolbar](https://www.reddit.com/r/javascript/comments/1co511n/feature_flags_with_astro_vercel_toolbar/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
