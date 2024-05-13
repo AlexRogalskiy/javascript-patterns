@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Browser Begins Support for Popover API: A Quick Guide](https://www.reddit.com/r/javascript/comments/1cq96ar/browser_begins_support_for_popover_api_a_quick/)
+- [Released my lightweight &quot;React-Like&quot; Raw JavaScript framework on GitHub. I would love the communities thoughts and ideas.](https://www.reddit.com/r/javascript/comments/1cq92l9/released_my_lightweight_reactlike_raw_javascript/)
+- [[AskJS] help nodejs-yarn problem](https://www.reddit.com/r/javascript/comments/1cq8siv/askjs_help_nodejsyarn_problem/)
+- [[AskJS] Cut/Trim videos with javascript?](https://www.reddit.com/r/javascript/comments/1cpxjz3/askjs_cuttrim_videos_with_javascript/)
 - [Deno 1.43 Released: Language Server Performance Boosts](https://www.reddit.com/r/javascript/comments/1cpvxoy/deno_143_released_language_server_performance/)
 - [I put together a short guide about the decisions you&#39;ll need to make when building a component library](https://www.reddit.com/r/javascript/comments/1cpfkby/i_put_together_a_short_guide_about_the_decisions/)
 - [A zero-dependency, lightweight &lpar;~3kB&rpar;, consent platform agnostic, cookie banner](https://www.reddit.com/r/javascript/comments/1cpd5n3/a_zerodependency_lightweight_3kb_consent_platform/)
 - [Showoff Saturday &lpar;May 11, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1cpbgtk/showoff_saturday_may_11_2024/)
 - [[AskJS] How to visualize a parking lot ?](https://www.reddit.com/r/javascript/comments/1coy1rw/askjs_how_to_visualize_a_parking_lot/)
 - [[AskJS] I have a CSR app - SSR or SSG, what’s better to improve SEO?](https://www.reddit.com/r/javascript/comments/1cout0q/askjs_i_have_a_csr_app_ssr_or_ssg_whats_better_to/)
-- [[AskJS] Can you have a ThreeJS site with more than one HTML page?](https://www.reddit.com/r/javascript/comments/1cotr1f/askjs_can_you_have_a_threejs_site_with_more_than/)
-- [[AskJS] How can I prevent users to dev console for securing my obfuscated code?](https://www.reddit.com/r/javascript/comments/1coq8wp/askjs_how_can_i_prevent_users_to_dev_console_for/)
-- [Using the Popover API with HTML and Javascript in the browser](https://www.reddit.com/r/javascript/comments/1coq0uw/using_the_popover_api_with_html_and_javascript_in/)
-- [[AskJS] How to logout when browser or browser&#39;s tab is closed.](https://www.reddit.com/r/javascript/comments/1coo6z8/askjs_how_to_logout_when_browser_or_browsers_tab/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
