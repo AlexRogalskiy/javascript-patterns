@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Browser Begins Support for Popover API: A Quick Guide](https://www.reddit.com/r/javascript/comments/1cq96ar/browser_begins_support_for_popover_api_a_quick/)
-- [Released my lightweight &quot;React-Like&quot; Raw JavaScript framework on GitHub. I would love the communities thoughts and ideas.](https://www.reddit.com/r/javascript/comments/1cq92l9/released_my_lightweight_reactlike_raw_javascript/)
-- [[AskJS] help nodejs-yarn problem](https://www.reddit.com/r/javascript/comments/1cq8siv/askjs_help_nodejsyarn_problem/)
-- [[AskJS] Cut/Trim videos with javascript?](https://www.reddit.com/r/javascript/comments/1cpxjz3/askjs_cuttrim_videos_with_javascript/)
-- [Deno 1.43 Released: Language Server Performance Boosts](https://www.reddit.com/r/javascript/comments/1cpvxoy/deno_143_released_language_server_performance/)
-- [I put together a short guide about the decisions you&#39;ll need to make when building a component library](https://www.reddit.com/r/javascript/comments/1cpfkby/i_put_together_a_short_guide_about_the_decisions/)
-- [A zero-dependency, lightweight &lpar;~3kB&rpar;, consent platform agnostic, cookie banner](https://www.reddit.com/r/javascript/comments/1cpd5n3/a_zerodependency_lightweight_3kb_consent_platform/)
-- [Showoff Saturday &lpar;May 11, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1cpbgtk/showoff_saturday_may_11_2024/)
-- [[AskJS] How to visualize a parking lot ?](https://www.reddit.com/r/javascript/comments/1coy1rw/askjs_how_to_visualize_a_parking_lot/)
-- [[AskJS] I have a CSR app - SSR or SSG, what’s better to improve SEO?](https://www.reddit.com/r/javascript/comments/1cout0q/askjs_i_have_a_csr_app_ssr_or_ssg_whats_better_to/)
+- [Build Your Own React.js in 400 Lines of Code](https://www.reddit.com/r/javascript/comments/1crcpg1/build_your_own_reactjs_in_400_lines_of_code/)
+- [[AskJS] Is it bad practice in 2024 to extend native JavaScript objects?](https://www.reddit.com/r/javascript/comments/1crb7yx/askjs_is_it_bad_practice_in_2024_to_extend_native/)
+- [google/zx release new version 8.1.0](https://www.reddit.com/r/javascript/comments/1crak6i/googlezx_release_new_version_810/)
+- [[AskJS] How to build a web sdk on npm like Crisp / Channel-Web-SDK-Loader](https://www.reddit.com/r/javascript/comments/1cr416q/askjs_how_to_build_a_web_sdk_on_npm_like_crisp/)
+- [How to Convert BufferArray Back into Audio - JavaScript](https://www.reddit.com/r/javascript/comments/1cr1kom/how_to_convert_bufferarray_back_into_audio/)
+- [A leaflet-color-markers package that works in NPM](https://www.reddit.com/r/javascript/comments/1cr0hil/a_leafletcolormarkers_package_that_works_in_npm/)
+- [Execa — The easiest way to write shell scripts with JavaScript](https://www.reddit.com/r/javascript/comments/1cqwdir/execa_the_easiest_way_to_write_shell_scripts_with/)
+- [Your /r/javascript recap for the week of May 06 - May 12, 2024](https://www.reddit.com/r/javascript/comments/1cqutvv/your_rjavascript_recap_for_the_week_of_may_06_may/)
+- [[AskJS] Released @pro-script/as-is a raw JavaScript library for type checking and validating and even more. I would like to see your thoughts and feedback.](https://www.reddit.com/r/javascript/comments/1cqukmt/askjs_released_proscriptasis_a_raw_javascript/)
+- [Connect with all the open source maintainers in your dependency tree](https://www.reddit.com/r/javascript/comments/1cqrve9/connect_with_all_the_open_source_maintainers_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
