@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Build Your Own React.js in 400 Lines of Code](https://www.reddit.com/r/javascript/comments/1crcpg1/build_your_own_reactjs_in_400_lines_of_code/)
+- [I open sourced Athena Crisis, a game built entirely with JavaScript, React and CSS](https://www.reddit.com/r/javascript/comments/1cs3yov/i_open_sourced_athena_crisis_a_game_built/)
+- [Dynamic Github profile with Bun and Typescript](https://www.reddit.com/r/javascript/comments/1cryp8y/dynamic_github_profile_with_bun_and_typescript/)
+- [My first VSCode Extension to change your Code Copy Experience](https://www.reddit.com/r/javascript/comments/1crqubc/my_first_vscode_extension_to_change_your_code/)
+- [Choose React boilerplate to start a new project: in this artical the most popular boilerplates were categorized according to 5 main criteria and an information table was created based on 15 feature sets such as authentication support, form handling, etc.](https://www.reddit.com/r/javascript/comments/1crnwww/choose_react_boilerplate_to_start_a_new_project/)
+- [My first electron project using JS, a note-taking application with reminders &amp; more.](https://www.reddit.com/r/javascript/comments/1crjsn4/my_first_electron_project_using_js_a_notetaking/)
+- [Develop Single Page App with Lit &lpar;Simple. Fast. Web Components.&rpar;](https://www.reddit.com/r/javascript/comments/1crjj2k/develop_single_page_app_with_lit_simple_fast_web/)
 - [[AskJS] Is it bad practice in 2024 to extend native JavaScript objects?](https://www.reddit.com/r/javascript/comments/1crb7yx/askjs_is_it_bad_practice_in_2024_to_extend_native/)
 - [google/zx release new version 8.1.0](https://www.reddit.com/r/javascript/comments/1crak6i/googlezx_release_new_version_810/)
 - [[AskJS] How to build a web sdk on npm like Crisp / Channel-Web-SDK-Loader](https://www.reddit.com/r/javascript/comments/1cr416q/askjs_how_to_build_a_web_sdk_on_npm_like_crisp/)
-- [How to Convert BufferArray Back into Audio - JavaScript](https://www.reddit.com/r/javascript/comments/1cr1kom/how_to_convert_bufferarray_back_into_audio/)
 - [A leaflet-color-markers package that works in NPM](https://www.reddit.com/r/javascript/comments/1cr0hil/a_leafletcolormarkers_package_that_works_in_npm/)
-- [Execa — The easiest way to write shell scripts with JavaScript](https://www.reddit.com/r/javascript/comments/1cqwdir/execa_the_easiest_way_to_write_shell_scripts_with/)
-- [Your /r/javascript recap for the week of May 06 - May 12, 2024](https://www.reddit.com/r/javascript/comments/1cqutvv/your_rjavascript_recap_for_the_week_of_may_06_may/)
-- [[AskJS] Released @pro-script/as-is a raw JavaScript library for type checking and validating and even more. I would like to see your thoughts and feedback.](https://www.reddit.com/r/javascript/comments/1cqukmt/askjs_released_proscriptasis_a_raw_javascript/)
-- [Connect with all the open source maintainers in your dependency tree](https://www.reddit.com/r/javascript/comments/1cqrve9/connect_with_all_the_open_source_maintainers_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
