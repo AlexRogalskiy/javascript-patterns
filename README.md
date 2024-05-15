@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Angular 18 will arrive next week](https://www.infoworld.com/article/3715328/angular-18-will-arrive-next-week.html#tk.rss_javascript)
 - [7 JavaScript language elements every developer needs](https://www.infoworld.com/article/3715393/7-javascript-language-elements-every-developer-needs.html#tk.rss_javascript)
 - [Deno boosts language server performance](https://www.infoworld.com/article/3715397/deno-boosts-language-server-performance.html#tk.rss_javascript)
 - [Svelte 5 moves to release candidate stage](https://www.infoworld.com/article/3715394/svelte-5-moves-to-release-candidate-stage.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Node.js 22 arrives, backs ECMAScript modules](https://www.infoworld.com/article/3715283/nodejs-22-arrives-backs-ecmascript-modules.html#tk.rss_javascript)
 - [5 ways to use JavaScript promises](https://www.infoworld.com/article/3715126/5-ways-to-use-javascript-promises.html#tk.rss_javascript)
 - [Java services hit hardest by third-party vulnerabilities, report says](https://www.infoworld.com/article/3715264/java-services-hit-hardest-by-third-party-vulnerabilities-says-report.html#tk.rss_javascript)
-- [ECMAScript 2024 features you can use now](https://www.infoworld.com/article/3715260/ecmascript-2024-features-you-can-use-now.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
