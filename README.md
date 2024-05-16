@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Introducing React Compiler – React](https://www.reddit.com/r/javascript/comments/1cssb6a/introducing_react_compiler_react/)
+- [Fuzzysort v3 release – Fast, Tiny, &amp; Good fuzzy search for JavaScript](https://www.reddit.com/r/javascript/comments/1csqzfh/fuzzysort_v3_release_fast_tiny_good_fuzzy_search/)
+- [How to track your bundle size in CI](https://www.reddit.com/r/javascript/comments/1csn2zj/how_to_track_your_bundle_size_in_ci/)
+- [Bulletproof React just got updated! - A simple, scalable, and powerful architecture for building production ready React applications.](https://www.reddit.com/r/javascript/comments/1cshiaj/bulletproof_react_just_got_updated_a_simple/)
+- [WTF Wednesday &lpar;May 15, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1csenq6/wtf_wednesday_may_15_2024/)
+- [[AskJS] Is Chokidar still the best library for detecting folder changes across platforms?](https://www.reddit.com/r/javascript/comments/1csckrx/askjs_is_chokidar_still_the_best_library_for/)
 - [I open sourced Athena Crisis, a game built entirely with JavaScript, React and CSS](https://www.reddit.com/r/javascript/comments/1cs3yov/i_open_sourced_athena_crisis_a_game_built/)
 - [Dynamic Github profile with Bun and Typescript](https://www.reddit.com/r/javascript/comments/1cryp8y/dynamic_github_profile_with_bun_and_typescript/)
 - [My first VSCode Extension to change your Code Copy Experience](https://www.reddit.com/r/javascript/comments/1crqubc/my_first_vscode_extension_to_change_your_code/)
 - [Choose React boilerplate to start a new project: in this artical the most popular boilerplates were categorized according to 5 main criteria and an information table was created based on 15 feature sets such as authentication support, form handling, etc.](https://www.reddit.com/r/javascript/comments/1crnwww/choose_react_boilerplate_to_start_a_new_project/)
-- [My first electron project using JS, a note-taking application with reminders &amp; more.](https://www.reddit.com/r/javascript/comments/1crjsn4/my_first_electron_project_using_js_a_notetaking/)
-- [Develop Single Page App with Lit &lpar;Simple. Fast. Web Components.&rpar;](https://www.reddit.com/r/javascript/comments/1crjj2k/develop_single_page_app_with_lit_simple_fast_web/)
-- [[AskJS] Is it bad practice in 2024 to extend native JavaScript objects?](https://www.reddit.com/r/javascript/comments/1crb7yx/askjs_is_it_bad_practice_in_2024_to_extend_native/)
-- [google/zx release new version 8.1.0](https://www.reddit.com/r/javascript/comments/1crak6i/googlezx_release_new_version_810/)
-- [[AskJS] How to build a web sdk on npm like Crisp / Channel-Web-SDK-Loader](https://www.reddit.com/r/javascript/comments/1cr416q/askjs_how_to_build_a_web_sdk_on_npm_like_crisp/)
-- [A leaflet-color-markers package that works in NPM](https://www.reddit.com/r/javascript/comments/1cr0hil/a_leafletcolormarkers_package_that_works_in_npm/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
