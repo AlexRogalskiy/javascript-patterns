@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [LDAPjs decomissioned by maintainer over hateful email](https://www.reddit.com/r/javascript/comments/1ctttda/ldapjs_decomissioned_by_maintainer_over_hateful/)
+- [[AskJS] Need help using hexbins with JS / Mapbox GL JS / Leaflet](https://www.reddit.com/r/javascript/comments/1cttk6h/askjs_need_help_using_hexbins_with_js_mapbox_gl/)
+- [Is vim deserves learning guys ?](https://www.reddit.com/r/javascript/comments/1ctonf4/is_vim_deserves_learning_guys/)
+- [[AskJS] What editor do people use on linux?](https://www.reddit.com/r/javascript/comments/1ctkjdj/askjs_what_editor_do_people_use_on_linux/)
+- [Htb.js – a 50-line HTML template engine that uses JavaScript syntax](https://www.reddit.com/r/javascript/comments/1ctciwd/htbjs_a_50line_html_template_engine_that_uses/)
+- [Comprehensive guide to JavaScript performance analysis using Chrome DevTools](https://www.reddit.com/r/javascript/comments/1ct8jd5/comprehensive_guide_to_javascript_performance/)
+- [Introducing Code Screenshot - Create presentation-ready visuals of your code](https://www.reddit.com/r/javascript/comments/1ct7qzr/introducing_code_screenshot_create/)
+- [[AskJS] having trouble setting CredentialsProvider using Next-Auth 4.*.*](https://www.reddit.com/r/javascript/comments/1ct46lz/askjs_having_trouble_setting_credentialsprovider/)
+- [Angular 18 Coming Soon: Deferred Views &amp; Built-in Control Flow](https://www.reddit.com/r/javascript/comments/1ct2kx1/angular_18_coming_soon_deferred_views_builtin/)
 - [Introducing React Compiler – React](https://www.reddit.com/r/javascript/comments/1cssb6a/introducing_react_compiler_react/)
-- [Fuzzysort v3 release – Fast, Tiny, &amp; Good fuzzy search for JavaScript](https://www.reddit.com/r/javascript/comments/1csqzfh/fuzzysort_v3_release_fast_tiny_good_fuzzy_search/)
-- [How to track your bundle size in CI](https://www.reddit.com/r/javascript/comments/1csn2zj/how_to_track_your_bundle_size_in_ci/)
-- [Bulletproof React just got updated! - A simple, scalable, and powerful architecture for building production ready React applications.](https://www.reddit.com/r/javascript/comments/1cshiaj/bulletproof_react_just_got_updated_a_simple/)
-- [WTF Wednesday &lpar;May 15, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1csenq6/wtf_wednesday_may_15_2024/)
-- [[AskJS] Is Chokidar still the best library for detecting folder changes across platforms?](https://www.reddit.com/r/javascript/comments/1csckrx/askjs_is_chokidar_still_the_best_library_for/)
-- [I open sourced Athena Crisis, a game built entirely with JavaScript, React and CSS](https://www.reddit.com/r/javascript/comments/1cs3yov/i_open_sourced_athena_crisis_a_game_built/)
-- [Dynamic Github profile with Bun and Typescript](https://www.reddit.com/r/javascript/comments/1cryp8y/dynamic_github_profile_with_bun_and_typescript/)
-- [My first VSCode Extension to change your Code Copy Experience](https://www.reddit.com/r/javascript/comments/1crqubc/my_first_vscode_extension_to_change_your_code/)
-- [Choose React boilerplate to start a new project: in this artical the most popular boilerplates were categorized according to 5 main criteria and an information table was created based on 15 feature sets such as authentication support, form handling, etc.](https://www.reddit.com/r/javascript/comments/1crnwww/choose_react_boilerplate_to_start_a_new_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
