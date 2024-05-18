@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] what lesson can I learn from this upcoming project &lpar;using react&rpar;](https://www.reddit.com/r/javascript/comments/1cuksg4/askjs_what_lesson_can_i_learn_from_this_upcoming/)
+- [Silly little app I made that converts math equations into sound](https://www.reddit.com/r/javascript/comments/1cuht4j/silly_little_app_i_made_that_converts_math/)
+- [[AskJS] Space-saving dependency cleaner script | Looking for feedback](https://www.reddit.com/r/javascript/comments/1cubpkf/askjs_spacesaving_dependency_cleaner_script/)
+- [[AskJS] Can I have a repository of a blog app api using nodejs, JWT, express, mongodb](https://www.reddit.com/r/javascript/comments/1cu5xge/askjs_can_i_have_a_repository_of_a_blog_app_api/)
+- [[AskJS] Looking for an ES6-based MVC framework](https://www.reddit.com/r/javascript/comments/1cu5lvg/askjs_looking_for_an_es6based_mvc_framework/)
+- [Another retro fantasy console](https://www.reddit.com/r/javascript/comments/1cu251t/another_retro_fantasy_console/)
+- [Exploring the Key Components of .NET: CLR, CTS, and CLS](https://www.reddit.com/r/javascript/comments/1ctzy6z/exploring_the_key_components_of_net_clr_cts_and/)
+- [[AskJS] Clonable Objects](https://www.reddit.com/r/javascript/comments/1ctykqq/askjs_clonable_objects/)
 - [LDAPjs decomissioned by maintainer over hateful email](https://www.reddit.com/r/javascript/comments/1ctttda/ldapjs_decomissioned_by_maintainer_over_hateful/)
 - [[AskJS] Need help using hexbins with JS / Mapbox GL JS / Leaflet](https://www.reddit.com/r/javascript/comments/1cttk6h/askjs_need_help_using_hexbins_with_js_mapbox_gl/)
-- [Is vim deserves learning guys ?](https://www.reddit.com/r/javascript/comments/1ctonf4/is_vim_deserves_learning_guys/)
-- [[AskJS] What editor do people use on linux?](https://www.reddit.com/r/javascript/comments/1ctkjdj/askjs_what_editor_do_people_use_on_linux/)
-- [Htb.js – a 50-line HTML template engine that uses JavaScript syntax](https://www.reddit.com/r/javascript/comments/1ctciwd/htbjs_a_50line_html_template_engine_that_uses/)
-- [Comprehensive guide to JavaScript performance analysis using Chrome DevTools](https://www.reddit.com/r/javascript/comments/1ct8jd5/comprehensive_guide_to_javascript_performance/)
-- [Introducing Code Screenshot - Create presentation-ready visuals of your code](https://www.reddit.com/r/javascript/comments/1ct7qzr/introducing_code_screenshot_create/)
-- [[AskJS] having trouble setting CredentialsProvider using Next-Auth 4.*.*](https://www.reddit.com/r/javascript/comments/1ct46lz/askjs_having_trouble_setting_credentialsprovider/)
-- [Angular 18 Coming Soon: Deferred Views &amp; Built-in Control Flow](https://www.reddit.com/r/javascript/comments/1ct2kx1/angular_18_coming_soon_deferred_views_builtin/)
-- [Introducing React Compiler – React](https://www.reddit.com/r/javascript/comments/1cssb6a/introducing_react_compiler_react/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
