@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] what lesson can I learn from this upcoming project &lpar;using react&rpar;](https://www.reddit.com/r/javascript/comments/1cuksg4/askjs_what_lesson_can_i_learn_from_this_upcoming/)
-- [Silly little app I made that converts math equations into sound](https://www.reddit.com/r/javascript/comments/1cuht4j/silly_little_app_i_made_that_converts_math/)
-- [[AskJS] Space-saving dependency cleaner script | Looking for feedback](https://www.reddit.com/r/javascript/comments/1cubpkf/askjs_spacesaving_dependency_cleaner_script/)
-- [[AskJS] Can I have a repository of a blog app api using nodejs, JWT, express, mongodb](https://www.reddit.com/r/javascript/comments/1cu5xge/askjs_can_i_have_a_repository_of_a_blog_app_api/)
-- [[AskJS] Looking for an ES6-based MVC framework](https://www.reddit.com/r/javascript/comments/1cu5lvg/askjs_looking_for_an_es6based_mvc_framework/)
-- [Another retro fantasy console](https://www.reddit.com/r/javascript/comments/1cu251t/another_retro_fantasy_console/)
-- [Exploring the Key Components of .NET: CLR, CTS, and CLS](https://www.reddit.com/r/javascript/comments/1ctzy6z/exploring_the_key_components_of_net_clr_cts_and/)
-- [[AskJS] Clonable Objects](https://www.reddit.com/r/javascript/comments/1ctykqq/askjs_clonable_objects/)
-- [LDAPjs decomissioned by maintainer over hateful email](https://www.reddit.com/r/javascript/comments/1ctttda/ldapjs_decomissioned_by_maintainer_over_hateful/)
-- [[AskJS] Need help using hexbins with JS / Mapbox GL JS / Leaflet](https://www.reddit.com/r/javascript/comments/1cttk6h/askjs_need_help_using_hexbins_with_js_mapbox_gl/)
+- [A JavaScript developer tries Go for the first time](https://www.reddit.com/r/javascript/comments/1cvcusj/a_javascript_developer_tries_go_for_the_first_time/)
+- [2-10x Speed Boost for Zustand](https://www.reddit.com/r/javascript/comments/1cv7xx6/210x_speed_boost_for_zustand/)
+- [Runtime agnostic WebSocket server](https://www.reddit.com/r/javascript/comments/1cv0pvv/runtime_agnostic_websocket_server/)
+- [What&#39;s New at React Conf 2024](https://www.reddit.com/r/javascript/comments/1cuzypu/whats_new_at_react_conf_2024/)
+- [I revived TypeScript RPC framework for WebSocket &lpar;+NestJS&rpar; and Worker protocols from 8 years ago.](https://www.reddit.com/r/javascript/comments/1cuz0fq/i_revived_typescript_rpc_framework_for_websocket/)
+- [[AskJS] How do you explain the difference in using `this` in an arrow function vs a regular function?](https://www.reddit.com/r/javascript/comments/1cuv5xp/askjs_how_do_you_explain_the_difference_in_using/)
+- [[AskJS] I want to create an interactive tutorial about how browser really works and i need links](https://www.reddit.com/r/javascript/comments/1cuuygc/askjs_i_want_to_create_an_interactive_tutorial/)
+- [[AskJS] Problems with scrollIntoView on Safari and Remix](https://www.reddit.com/r/javascript/comments/1cusyro/askjs_problems_with_scrollintoview_on_safari_and/)
+- [I developed a PC game just with JavaScript](https://www.reddit.com/r/javascript/comments/1curzte/i_developed_a_pc_game_just_with_javascript/)
+- [Showoff Saturday &lpar;May 18, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1curfrx/showoff_saturday_may_18_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
