@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I made a soundfont MIDI player in vanilla JavaScript](https://www.reddit.com/r/javascript/comments/1cvzvdt/i_made_a_soundfont_midi_player_in_vanilla/)
+- [[AskJS] How to find paid mentor?](https://www.reddit.com/r/javascript/comments/1cvuq31/askjs_how_to_find_paid_mentor/)
+- [[AskJS] How would you create an ext4 inode/directory byte by byte on Linux in the browser?](https://www.reddit.com/r/javascript/comments/1cvtrq0/askjs_how_would_you_create_an_ext4_inodedirectory/)
+- [Announcing FasterNode A simple yet powerful Node.js/Express boilerplate built with JavaScript.](https://www.reddit.com/r/javascript/comments/1cvqhfb/announcing_fasternode_a_simple_yet_powerful/)
+- [Javascript Handy functions](https://www.reddit.com/r/javascript/comments/1cvizk2/javascript_handy_functions/)
+- [Survey to understand how to effectively provide coding education](https://www.reddit.com/r/javascript/comments/1cvitej/survey_to_understand_how_to_effectively_provide/)
+- [Announcing webroute - A route primitive for building scalable web-standard APIs](https://www.reddit.com/r/javascript/comments/1cvfrg3/announcing_webroute_a_route_primitive_for/)
 - [A JavaScript developer tries Go for the first time](https://www.reddit.com/r/javascript/comments/1cvcusj/a_javascript_developer_tries_go_for_the_first_time/)
 - [2-10x Speed Boost for Zustand](https://www.reddit.com/r/javascript/comments/1cv7xx6/210x_speed_boost_for_zustand/)
 - [Runtime agnostic WebSocket server](https://www.reddit.com/r/javascript/comments/1cv0pvv/runtime_agnostic_websocket_server/)
-- [What&#39;s New at React Conf 2024](https://www.reddit.com/r/javascript/comments/1cuzypu/whats_new_at_react_conf_2024/)
-- [I revived TypeScript RPC framework for WebSocket &lpar;+NestJS&rpar; and Worker protocols from 8 years ago.](https://www.reddit.com/r/javascript/comments/1cuz0fq/i_revived_typescript_rpc_framework_for_websocket/)
-- [[AskJS] How do you explain the difference in using `this` in an arrow function vs a regular function?](https://www.reddit.com/r/javascript/comments/1cuv5xp/askjs_how_do_you_explain_the_difference_in_using/)
-- [[AskJS] I want to create an interactive tutorial about how browser really works and i need links](https://www.reddit.com/r/javascript/comments/1cuuygc/askjs_i_want_to_create_an_interactive_tutorial/)
-- [[AskJS] Problems with scrollIntoView on Safari and Remix](https://www.reddit.com/r/javascript/comments/1cusyro/askjs_problems_with_scrollintoview_on_safari_and/)
-- [I developed a PC game just with JavaScript](https://www.reddit.com/r/javascript/comments/1curzte/i_developed_a_pc_game_just_with_javascript/)
-- [Showoff Saturday &lpar;May 18, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1curfrx/showoff_saturday_may_18_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
