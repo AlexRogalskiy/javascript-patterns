@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Performance between blob vs url to display an &lt;img&gt;](https://www.reddit.com/r/javascript/comments/1cwt2px/askjs_performance_between_blob_vs_url_to_display/)
+- [[AskJS] Accelerating t39 proposals with cash?](https://www.reddit.com/r/javascript/comments/1cwntdk/askjs_accelerating_t39_proposals_with_cash/)
+- [[AskJS] How to have my webpage store information?](https://www.reddit.com/r/javascript/comments/1cwkhmo/askjs_how_to_have_my_webpage_store_information/)
+- [cample-html - new open source tool for easily getting server-side HTML and adding it to the DOM.](https://www.reddit.com/r/javascript/comments/1cwhxm6/camplehtml_new_open_source_tool_for_easily/)
+- [Your /r/javascript recap for the week of May 13 - May 19, 2024](https://www.reddit.com/r/javascript/comments/1cwb49n/your_rjavascript_recap_for_the_week_of_may_13_may/)
+- [City In A Bottle – A 256 Byte Raycasting System with JavaScript](https://www.reddit.com/r/javascript/comments/1cw81qw/city_in_a_bottle_a_256_byte_raycasting_system/)
 - [I made a soundfont MIDI player in vanilla JavaScript](https://www.reddit.com/r/javascript/comments/1cvzvdt/i_made_a_soundfont_midi_player_in_vanilla/)
 - [[AskJS] How to find paid mentor?](https://www.reddit.com/r/javascript/comments/1cvuq31/askjs_how_to_find_paid_mentor/)
 - [[AskJS] How would you create an ext4 inode/directory byte by byte on Linux in the browser?](https://www.reddit.com/r/javascript/comments/1cvtrq0/askjs_how_would_you_create_an_ext4_inodedirectory/)
-- [Announcing FasterNode A simple yet powerful Node.js/Express boilerplate built with JavaScript.](https://www.reddit.com/r/javascript/comments/1cvqhfb/announcing_fasternode_a_simple_yet_powerful/)
 - [Javascript Handy functions](https://www.reddit.com/r/javascript/comments/1cvizk2/javascript_handy_functions/)
-- [Survey to understand how to effectively provide coding education](https://www.reddit.com/r/javascript/comments/1cvitej/survey_to_understand_how_to_effectively_provide/)
-- [Announcing webroute - A route primitive for building scalable web-standard APIs](https://www.reddit.com/r/javascript/comments/1cvfrg3/announcing_webroute_a_route_primitive_for/)
-- [A JavaScript developer tries Go for the first time](https://www.reddit.com/r/javascript/comments/1cvcusj/a_javascript_developer_tries_go_for_the_first_time/)
-- [2-10x Speed Boost for Zustand](https://www.reddit.com/r/javascript/comments/1cv7xx6/210x_speed_boost_for_zustand/)
-- [Runtime agnostic WebSocket server](https://www.reddit.com/r/javascript/comments/1cv0pvv/runtime_agnostic_websocket_server/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
