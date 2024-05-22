@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [SolidStart 1.0: The Shape of Frameworks to Come](https://www.reddit.com/r/javascript/comments/1cxhok8/solidstart_10_the_shape_of_frameworks_to_come/)
+- [Introduction of My New Phylactery](https://www.reddit.com/r/javascript/comments/1cxgxgp/introduction_of_my_new_phylactery/)
+- [Open source multiplayer game built with XState, WebRTC, Vue and WebGL without framework](https://www.reddit.com/r/javascript/comments/1cx6xka/open_source_multiplayer_game_built_with_xstate/)
+- [Speed Up Your Playwright Scripts with Request Interception](https://www.reddit.com/r/javascript/comments/1cx2bmg/speed_up_your_playwright_scripts_with_request/)
 - [[AskJS] Performance between blob vs url to display an &lt;img&gt;](https://www.reddit.com/r/javascript/comments/1cwt2px/askjs_performance_between_blob_vs_url_to_display/)
-- [[AskJS] Accelerating t39 proposals with cash?](https://www.reddit.com/r/javascript/comments/1cwntdk/askjs_accelerating_t39_proposals_with_cash/)
 - [[AskJS] How to have my webpage store information?](https://www.reddit.com/r/javascript/comments/1cwkhmo/askjs_how_to_have_my_webpage_store_information/)
 - [cample-html - new open source tool for easily getting server-side HTML and adding it to the DOM.](https://www.reddit.com/r/javascript/comments/1cwhxm6/camplehtml_new_open_source_tool_for_easily/)
 - [Your /r/javascript recap for the week of May 13 - May 19, 2024](https://www.reddit.com/r/javascript/comments/1cwb49n/your_rjavascript_recap_for_the_week_of_may_13_may/)
 - [City In A Bottle – A 256 Byte Raycasting System with JavaScript](https://www.reddit.com/r/javascript/comments/1cw81qw/city_in_a_bottle_a_256_byte_raycasting_system/)
 - [I made a soundfont MIDI player in vanilla JavaScript](https://www.reddit.com/r/javascript/comments/1cvzvdt/i_made_a_soundfont_midi_player_in_vanilla/)
-- [[AskJS] How to find paid mentor?](https://www.reddit.com/r/javascript/comments/1cvuq31/askjs_how_to_find_paid_mentor/)
-- [[AskJS] How would you create an ext4 inode/directory byte by byte on Linux in the browser?](https://www.reddit.com/r/javascript/comments/1cvtrq0/askjs_how_would_you_create_an_ext4_inodedirectory/)
-- [Javascript Handy functions](https://www.reddit.com/r/javascript/comments/1cvizk2/javascript_handy_functions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
