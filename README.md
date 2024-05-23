@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Angular v18 is now available](https://www.reddit.com/r/javascript/comments/1cyccld/angular_v18_is_now_available/)
+- [HTML Script: async vs. defer vs. type=&#39;module&#39;](https://www.reddit.com/r/javascript/comments/1cy1wnp/html_script_async_vs_defer_vs_typemodule/)
+- [I Made a New Language: AssistScript, Similar to Lisp.](https://www.reddit.com/r/javascript/comments/1cxuxz0/i_made_a_new_language_assistscript_similar_to_lisp/)
+- [WTF Wednesday &lpar;May 22, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1cxu3ox/wtf_wednesday_may_22_2024/)
+- [[AskJS] Tauri or electron? Which one is suitable for a small app?](https://www.reddit.com/r/javascript/comments/1cxsbvz/askjs_tauri_or_electron_which_one_is_suitable_for/)
 - [SolidStart 1.0: The Shape of Frameworks to Come](https://www.reddit.com/r/javascript/comments/1cxhok8/solidstart_10_the_shape_of_frameworks_to_come/)
 - [Introduction of My New Phylactery](https://www.reddit.com/r/javascript/comments/1cxgxgp/introduction_of_my_new_phylactery/)
 - [Open source multiplayer game built with XState, WebRTC, Vue and WebGL without framework](https://www.reddit.com/r/javascript/comments/1cx6xka/open_source_multiplayer_game_built_with_xstate/)
 - [Speed Up Your Playwright Scripts with Request Interception](https://www.reddit.com/r/javascript/comments/1cx2bmg/speed_up_your_playwright_scripts_with_request/)
 - [[AskJS] Performance between blob vs url to display an &lt;img&gt;](https://www.reddit.com/r/javascript/comments/1cwt2px/askjs_performance_between_blob_vs_url_to_display/)
-- [[AskJS] How to have my webpage store information?](https://www.reddit.com/r/javascript/comments/1cwkhmo/askjs_how_to_have_my_webpage_store_information/)
-- [cample-html - new open source tool for easily getting server-side HTML and adding it to the DOM.](https://www.reddit.com/r/javascript/comments/1cwhxm6/camplehtml_new_open_source_tool_for_easily/)
-- [Your /r/javascript recap for the week of May 13 - May 19, 2024](https://www.reddit.com/r/javascript/comments/1cwb49n/your_rjavascript_recap_for_the_week_of_may_13_may/)
-- [City In A Bottle – A 256 Byte Raycasting System with JavaScript](https://www.reddit.com/r/javascript/comments/1cw81qw/city_in_a_bottle_a_256_byte_raycasting_system/)
-- [I made a soundfont MIDI player in vanilla JavaScript](https://www.reddit.com/r/javascript/comments/1cvzvdt/i_made_a_soundfont_midi_player_in_vanilla/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
