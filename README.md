@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [A first look at progressive web apps](https://www.infoworld.com/article/3715423/a-first-look-at-progressive-web-apps.html#tk.rss_javascript)
 - [User-defined variables in JavaScript](https://www.infoworld.com/article/2077113/take-advantage-of-user-defined-variables-in-javascript.html#tk.rss_javascript)
 - [Angular 18 will arrive next week](https://www.infoworld.com/article/3715328/angular-18-will-arrive-next-week.html#tk.rss_javascript)
 - [7 JavaScript language elements every developer needs](https://www.infoworld.com/article/3715393/7-javascript-language-elements-every-developer-needs.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [React 19 builds on async transitions](https://www.infoworld.com/article/3715409/react-19-builds-on-async-transitions.html#tk.rss_javascript)
 - [TypeScript 5.5 moves to beta](https://www.infoworld.com/article/3715246/typescript-55-moves-to-beta.html#tk.rss_javascript)
 - [Node.js 22 arrives, backs ECMAScript modules](https://www.infoworld.com/article/3715283/nodejs-22-arrives-backs-ecmascript-modules.html#tk.rss_javascript)
-- [5 ways to use JavaScript promises](https://www.infoworld.com/article/3715126/5-ways-to-use-javascript-promises.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
