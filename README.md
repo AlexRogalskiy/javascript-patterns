@@ -292,9 +292,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Angular 18 arrives with server-side rendering improvements](https://www.infoworld.com/article/3715455/angular-18-arrives-with-server-side-rendering-improvements.html#tk.rss_javascript)
 - [A first look at progressive web apps](https://www.infoworld.com/article/3715423/a-first-look-at-progressive-web-apps.html#tk.rss_javascript)
 - [User-defined variables in JavaScript](https://www.infoworld.com/article/2077113/take-advantage-of-user-defined-variables-in-javascript.html#tk.rss_javascript)
-- [Angular 18 will arrive next week](https://www.infoworld.com/article/3715328/angular-18-will-arrive-next-week.html#tk.rss_javascript)
 - [7 JavaScript language elements every developer needs](https://www.infoworld.com/article/3715393/7-javascript-language-elements-every-developer-needs.html#tk.rss_javascript)
 - [Deno boosts language server performance](https://www.infoworld.com/article/3715397/deno-boosts-language-server-performance.html#tk.rss_javascript)
 - [Svelte 5 moves to release candidate stage](https://www.infoworld.com/article/3715394/svelte-5-moves-to-release-candidate-stage.html#tk.rss_javascript)
