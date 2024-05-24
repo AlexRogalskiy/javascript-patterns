@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [NPM NASA Tile Packages: comes with Unlimited Free Tile CDN](https://www.reddit.com/r/javascript/comments/1cz8us6/npm_nasa_tile_packages_comes_with_unlimited_free/)
+- [GitHub - WarmSaluters/mailmerge-js: AI-powered Gmail Automation CLI](https://www.reddit.com/r/javascript/comments/1cz3ddy/github_warmsalutersmailmergejs_aipowered_gmail/)
+- [Color utilities based on the Vercel Geist design system](https://www.reddit.com/r/javascript/comments/1cz1sg0/color_utilities_based_on_the_vercel_geist_design/)
+- [Storybook 8.1 release: more productive, organized, and predictable](https://www.reddit.com/r/javascript/comments/1cyz7o9/storybook_81_release_more_productive_organized/)
+- [Isolated Web App Utilities](https://www.reddit.com/r/javascript/comments/1cyu3hq/isolated_web_app_utilities/)
+- [Survey: State of Frontend 2024](https://www.reddit.com/r/javascript/comments/1cyr7al/survey_state_of_frontend_2024/)
 - [Angular v18 is now available](https://www.reddit.com/r/javascript/comments/1cyccld/angular_v18_is_now_available/)
 - [HTML Script: async vs. defer vs. type=&#39;module&#39;](https://www.reddit.com/r/javascript/comments/1cy1wnp/html_script_async_vs_defer_vs_typemodule/)
 - [I Made a New Language: AssistScript, Similar to Lisp.](https://www.reddit.com/r/javascript/comments/1cxuxz0/i_made_a_new_language_assistscript_similar_to_lisp/)
 - [WTF Wednesday &lpar;May 22, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1cxu3ox/wtf_wednesday_may_22_2024/)
-- [[AskJS] Tauri or electron? Which one is suitable for a small app?](https://www.reddit.com/r/javascript/comments/1cxsbvz/askjs_tauri_or_electron_which_one_is_suitable_for/)
-- [SolidStart 1.0: The Shape of Frameworks to Come](https://www.reddit.com/r/javascript/comments/1cxhok8/solidstart_10_the_shape_of_frameworks_to_come/)
-- [Introduction of My New Phylactery](https://www.reddit.com/r/javascript/comments/1cxgxgp/introduction_of_my_new_phylactery/)
-- [Open source multiplayer game built with XState, WebRTC, Vue and WebGL without framework](https://www.reddit.com/r/javascript/comments/1cx6xka/open_source_multiplayer_game_built_with_xstate/)
-- [Speed Up Your Playwright Scripts with Request Interception](https://www.reddit.com/r/javascript/comments/1cx2bmg/speed_up_your_playwright_scripts_with_request/)
-- [[AskJS] Performance between blob vs url to display an &lt;img&gt;](https://www.reddit.com/r/javascript/comments/1cwt2px/askjs_performance_between_blob_vs_url_to_display/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
