@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [NPM NASA Tile Packages: comes with Unlimited Free Tile CDN](https://www.reddit.com/r/javascript/comments/1cz8us6/npm_nasa_tile_packages_comes_with_unlimited_free/)
+- [I made an extension for connecting to I2P and hiding browser fingerprint.](https://www.reddit.com/r/javascript/comments/1czurxp/i_made_an_extension_for_connecting_to_i2p_and/)
+- [JSR: The JavaScript Package Registry We’ve Been Waiting For](https://www.reddit.com/r/javascript/comments/1czqyux/jsr_the_javascript_package_registry_weve_been/)
+- [JavaScript interval vs timeout](https://www.reddit.com/r/javascript/comments/1czog56/javascript_interval_vs_timeout/)
+- [Introducing syncfg: An npm Package for Automatic JSON Persistence](https://www.reddit.com/r/javascript/comments/1czndv0/introducing_syncfg_an_npm_package_for_automatic/)
+- [Just Launched! watermark-js-plus - Personalize Your Browser with Custom Watermarks!](https://www.reddit.com/r/javascript/comments/1czf3sm/just_launched_watermarkjsplus_personalize_your/)
 - [GitHub - WarmSaluters/mailmerge-js: AI-powered Gmail Automation CLI](https://www.reddit.com/r/javascript/comments/1cz3ddy/github_warmsalutersmailmergejs_aipowered_gmail/)
 - [Color utilities based on the Vercel Geist design system](https://www.reddit.com/r/javascript/comments/1cz1sg0/color_utilities_based_on_the_vercel_geist_design/)
 - [Storybook 8.1 release: more productive, organized, and predictable](https://www.reddit.com/r/javascript/comments/1cyz7o9/storybook_81_release_more_productive_organized/)
 - [Isolated Web App Utilities](https://www.reddit.com/r/javascript/comments/1cyu3hq/isolated_web_app_utilities/)
 - [Survey: State of Frontend 2024](https://www.reddit.com/r/javascript/comments/1cyr7al/survey_state_of_frontend_2024/)
-- [Angular v18 is now available](https://www.reddit.com/r/javascript/comments/1cyccld/angular_v18_is_now_available/)
-- [HTML Script: async vs. defer vs. type=&#39;module&#39;](https://www.reddit.com/r/javascript/comments/1cy1wnp/html_script_async_vs_defer_vs_typemodule/)
-- [I Made a New Language: AssistScript, Similar to Lisp.](https://www.reddit.com/r/javascript/comments/1cxuxz0/i_made_a_new_language_assistscript_similar_to_lisp/)
-- [WTF Wednesday &lpar;May 22, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1cxu3ox/wtf_wednesday_may_22_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
