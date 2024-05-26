@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I made an extension for connecting to I2P and hiding browser fingerprint.](https://www.reddit.com/r/javascript/comments/1czurxp/i_made_an_extension_for_connecting_to_i2p_and/)
+- [[AskJS] I wrote this for assigment. Am I screwd?](https://www.reddit.com/r/javascript/comments/1d0jmro/askjs_i_wrote_this_for_assigment_am_i_screwd/)
+- [Web app not responsive after deploying..](https://www.reddit.com/r/javascript/comments/1d0h7oa/web_app_not_responsive_after_deploying/)
+- [After failing to find one, I created an eslint plugin that warns you about exceptions! I&#39;m looking for feedbacks](https://www.reddit.com/r/javascript/comments/1d0agen/after_failing_to_find_one_i_created_an_eslint/)
+- [[AskJS] Impact of React 19’s Compiler on existence of Other JavaScript Libraries](https://www.reddit.com/r/javascript/comments/1d0ack8/askjs_impact_of_react_19s_compiler_on_existence/)
+- [Showoff Saturday &lpar;May 25, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1d067qe/showoff_saturday_may_25_2024/)
 - [JSR: The JavaScript Package Registry We’ve Been Waiting For](https://www.reddit.com/r/javascript/comments/1czqyux/jsr_the_javascript_package_registry_weve_been/)
 - [JavaScript interval vs timeout](https://www.reddit.com/r/javascript/comments/1czog56/javascript_interval_vs_timeout/)
 - [Introducing syncfg: An npm Package for Automatic JSON Persistence](https://www.reddit.com/r/javascript/comments/1czndv0/introducing_syncfg_an_npm_package_for_automatic/)
 - [Just Launched! watermark-js-plus - Personalize Your Browser with Custom Watermarks!](https://www.reddit.com/r/javascript/comments/1czf3sm/just_launched_watermarkjsplus_personalize_your/)
 - [GitHub - WarmSaluters/mailmerge-js: AI-powered Gmail Automation CLI](https://www.reddit.com/r/javascript/comments/1cz3ddy/github_warmsalutersmailmergejs_aipowered_gmail/)
-- [Color utilities based on the Vercel Geist design system](https://www.reddit.com/r/javascript/comments/1cz1sg0/color_utilities_based_on_the_vercel_geist_design/)
-- [Storybook 8.1 release: more productive, organized, and predictable](https://www.reddit.com/r/javascript/comments/1cyz7o9/storybook_81_release_more_productive_organized/)
-- [Isolated Web App Utilities](https://www.reddit.com/r/javascript/comments/1cyu3hq/isolated_web_app_utilities/)
-- [Survey: State of Frontend 2024](https://www.reddit.com/r/javascript/comments/1cyr7al/survey_state_of_frontend_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
