@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Best import/export practice for JS/TS](https://www.reddit.com/r/javascript/comments/1d1fq0b/askjs_best_importexport_practice_for_jsts/)
+- [How to create, recreate, and transfer directories to peers in the browser. Part 1: Creating directories in the local filesystem using HTML](https://www.reddit.com/r/javascript/comments/1d1axq9/how_to_create_recreate_and_transfer_directories/)
+- [[AskJS] How to avoid accidental touch when scrolling?](https://www.reddit.com/r/javascript/comments/1d0zt8a/askjs_how_to_avoid_accidental_touch_when_scrolling/)
+- [hmpl - work with server-side HTML with ease](https://www.reddit.com/r/javascript/comments/1d0zmz7/hmpl_work_with_serverside_html_with_ease/)
+- [Roast my blogpost - Understanding focus in javascript](https://www.reddit.com/r/javascript/comments/1d0ylz9/roast_my_blogpost_understanding_focus_in/)
 - [[AskJS] I wrote this for assigment. Am I screwd?](https://www.reddit.com/r/javascript/comments/1d0jmro/askjs_i_wrote_this_for_assigment_am_i_screwd/)
 - [Web app not responsive after deploying..](https://www.reddit.com/r/javascript/comments/1d0h7oa/web_app_not_responsive_after_deploying/)
 - [After failing to find one, I created an eslint plugin that warns you about exceptions! I&#39;m looking for feedbacks](https://www.reddit.com/r/javascript/comments/1d0agen/after_failing_to_find_one_i_created_an_eslint/)
 - [[AskJS] Impact of React 19’s Compiler on existence of Other JavaScript Libraries](https://www.reddit.com/r/javascript/comments/1d0ack8/askjs_impact_of_react_19s_compiler_on_existence/)
 - [Showoff Saturday &lpar;May 25, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1d067qe/showoff_saturday_may_25_2024/)
-- [JSR: The JavaScript Package Registry We’ve Been Waiting For](https://www.reddit.com/r/javascript/comments/1czqyux/jsr_the_javascript_package_registry_weve_been/)
-- [JavaScript interval vs timeout](https://www.reddit.com/r/javascript/comments/1czog56/javascript_interval_vs_timeout/)
-- [Introducing syncfg: An npm Package for Automatic JSON Persistence](https://www.reddit.com/r/javascript/comments/1czndv0/introducing_syncfg_an_npm_package_for_automatic/)
-- [Just Launched! watermark-js-plus - Personalize Your Browser with Custom Watermarks!](https://www.reddit.com/r/javascript/comments/1czf3sm/just_launched_watermarkjsplus_personalize_your/)
-- [GitHub - WarmSaluters/mailmerge-js: AI-powered Gmail Automation CLI](https://www.reddit.com/r/javascript/comments/1cz3ddy/github_warmsalutersmailmergejs_aipowered_gmail/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
