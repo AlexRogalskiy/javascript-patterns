@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [On Laravel, Full-Stack JavaScript, and Productive Frameworks](https://www.reddit.com/r/javascript/comments/1d2r7j4/on_laravel_fullstack_javascript_and_productive/)
+- [Create SoundWave](https://www.reddit.com/r/javascript/comments/1d2q1fr/create_soundwave/)
+- [Browser-based time-lock puzzles](https://www.reddit.com/r/javascript/comments/1d2i08a/browserbased_timelock_puzzles/)
+- [[AskJS] Does the youtube transcript API only work for Python, or can it be used with JavaScript as well?](https://www.reddit.com/r/javascript/comments/1d2hh3c/askjs_does_the_youtube_transcript_api_only_work/)
+- [PHP: Laravel, Ruby: Rails, JavaScript:?](https://www.reddit.com/r/javascript/comments/1d2gsl9/php_laravel_ruby_rails_javascript/)
+- [[AskJS] How to stop website from messing with developer tools?](https://www.reddit.com/r/javascript/comments/1d2fl46/askjs_how_to_stop_website_from_messing_with/)
+- [[AskJS] Creating a instagram clone and wondering to store passwords and videos should I use mobgoDB or MySql](https://www.reddit.com/r/javascript/comments/1d2fbaz/askjs_creating_a_instagram_clone_and_wondering_to/)
 - [JavaScript Got Good](https://www.reddit.com/r/javascript/comments/1d27sv5/javascript_got_good/)
 - [[AskJS] How to lazy load Sentry?](https://www.reddit.com/r/javascript/comments/1d23ye5/askjs_how_to_lazy_load_sentry/)
 - [Your /r/javascript recap for the week of May 20 - May 26, 2024](https://www.reddit.com/r/javascript/comments/1d231p8/your_rjavascript_recap_for_the_week_of_may_20_may/)
-- [[AskJS] The new way to lead people around online](https://www.reddit.com/r/javascript/comments/1d22bce/askjs_the_new_way_to_lead_people_around_online/)
-- [Your /r/javascript recap for the week of May 20 - May 26, 2024](https://www.reddit.com/r/javascript/comments/1d1nfbm/your_rjavascript_recap_for_the_week_of_may_20_may/)
-- [Finally Understanding How Array.sort&lpar;comparator&rpar; Works](https://www.reddit.com/r/javascript/comments/1d1jyq7/finally_understanding_how_arraysortcomparator/)
-- [[AskJS] Best import/export practice for JS/TS](https://www.reddit.com/r/javascript/comments/1d1fq0b/askjs_best_importexport_practice_for_jsts/)
-- [How to create, recreate, and transfer directories to peers in the browser. Part 1: Creating directories in the local filesystem using HTML](https://www.reddit.com/r/javascript/comments/1d1axq9/how_to_create_recreate_and_transfer_directories/)
-- [[AskJS] How to avoid accidental touch when scrolling?](https://www.reddit.com/r/javascript/comments/1d0zt8a/askjs_how_to_avoid_accidental_touch_when_scrolling/)
-- [hmpl - work with server-side HTML with ease](https://www.reddit.com/r/javascript/comments/1d0zmz7/hmpl_work_with_serverside_html_with_ease/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
