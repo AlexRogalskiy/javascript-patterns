@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [On Laravel, Full-Stack JavaScript, and Productive Frameworks](https://www.reddit.com/r/javascript/comments/1d2r7j4/on_laravel_fullstack_javascript_and_productive/)
-- [Create SoundWave](https://www.reddit.com/r/javascript/comments/1d2q1fr/create_soundwave/)
-- [Browser-based time-lock puzzles](https://www.reddit.com/r/javascript/comments/1d2i08a/browserbased_timelock_puzzles/)
-- [[AskJS] Does the youtube transcript API only work for Python, or can it be used with JavaScript as well?](https://www.reddit.com/r/javascript/comments/1d2hh3c/askjs_does_the_youtube_transcript_api_only_work/)
-- [PHP: Laravel, Ruby: Rails, JavaScript:?](https://www.reddit.com/r/javascript/comments/1d2gsl9/php_laravel_ruby_rails_javascript/)
-- [[AskJS] How to stop website from messing with developer tools?](https://www.reddit.com/r/javascript/comments/1d2fl46/askjs_how_to_stop_website_from_messing_with/)
-- [[AskJS] Creating a instagram clone and wondering to store passwords and videos should I use mobgoDB or MySql](https://www.reddit.com/r/javascript/comments/1d2fbaz/askjs_creating_a_instagram_clone_and_wondering_to/)
-- [JavaScript Got Good](https://www.reddit.com/r/javascript/comments/1d27sv5/javascript_got_good/)
-- [[AskJS] How to lazy load Sentry?](https://www.reddit.com/r/javascript/comments/1d23ye5/askjs_how_to_lazy_load_sentry/)
-- [Your /r/javascript recap for the week of May 20 - May 26, 2024](https://www.reddit.com/r/javascript/comments/1d231p8/your_rjavascript_recap_for_the_week_of_may_20_may/)
+- [Fitting Flappy Bird &lpar;Assets Included&rpar; onto a QR Code](https://www.reddit.com/r/javascript/comments/1d3r6d2/fitting_flappy_bird_assets_included_onto_a_qr_code/)
+- [[AskJS] Express.js - how to create initialization code?](https://www.reddit.com/r/javascript/comments/1d3pt2i/askjs_expressjs_how_to_create_initialization_code/)
+- [GitHub - HyperMink/inferenceable: Scalable AI Inference Server for CPU and GPU with Node.js | Utilizes llama.cpp and parts of llamafile C/C++ core under the hood.](https://www.reddit.com/r/javascript/comments/1d3ntn7/github_hyperminkinferenceable_scalable_ai/)
+- [Automatic Polyfill for Modern Browsers With Vite](https://www.reddit.com/r/javascript/comments/1d3no78/automatic_polyfill_for_modern_browsers_with_vite/)
+- [[AskJS] Framework or Engine to make a Game with Javascript](https://www.reddit.com/r/javascript/comments/1d3j94q/askjs_framework_or_engine_to_make_a_game_with/)
+- [Mastering date formatting using Intl.DateTimeFormat in JavaScript](https://www.reddit.com/r/javascript/comments/1d3f5bg/mastering_date_formatting_using/)
+- [feedback on my first chrome extension](https://www.reddit.com/r/javascript/comments/1d3e1m8/feedback_on_my_first_chrome_extension/)
+- [Why Theo is wrong &amp; we&#39;ll get a Laravel for JavaScript](https://www.reddit.com/r/javascript/comments/1d3d98w/why_theo_is_wrong_well_get_a_laravel_for/)
+- [[AskJS] What are the best and worst comments you have seen in a code review?](https://www.reddit.com/r/javascript/comments/1d3ce2o/askjs_what_are_the_best_and_worst_comments_you/)
+- [Utilities for working with the native FormData - making &lt;form&gt; nice in every frontend framework.](https://www.reddit.com/r/javascript/comments/1d3c58d/utilities_for_working_with_the_native_formdata/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
