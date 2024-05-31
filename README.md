@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Fitting Flappy Bird &lpar;Assets Included&rpar; onto a QR Code](https://www.reddit.com/r/javascript/comments/1d3r6d2/fitting_flappy_bird_assets_included_onto_a_qr_code/)
-- [[AskJS] Express.js - how to create initialization code?](https://www.reddit.com/r/javascript/comments/1d3pt2i/askjs_expressjs_how_to_create_initialization_code/)
-- [GitHub - HyperMink/inferenceable: Scalable AI Inference Server for CPU and GPU with Node.js | Utilizes llama.cpp and parts of llamafile C/C++ core under the hood.](https://www.reddit.com/r/javascript/comments/1d3ntn7/github_hyperminkinferenceable_scalable_ai/)
-- [Automatic Polyfill for Modern Browsers With Vite](https://www.reddit.com/r/javascript/comments/1d3no78/automatic_polyfill_for_modern_browsers_with_vite/)
-- [[AskJS] Framework or Engine to make a Game with Javascript](https://www.reddit.com/r/javascript/comments/1d3j94q/askjs_framework_or_engine_to_make_a_game_with/)
-- [Mastering date formatting using Intl.DateTimeFormat in JavaScript](https://www.reddit.com/r/javascript/comments/1d3f5bg/mastering_date_formatting_using/)
-- [feedback on my first chrome extension](https://www.reddit.com/r/javascript/comments/1d3e1m8/feedback_on_my_first_chrome_extension/)
-- [Why Theo is wrong &amp; we&#39;ll get a Laravel for JavaScript](https://www.reddit.com/r/javascript/comments/1d3d98w/why_theo_is_wrong_well_get_a_laravel_for/)
-- [[AskJS] What are the best and worst comments you have seen in a code review?](https://www.reddit.com/r/javascript/comments/1d3ce2o/askjs_what_are_the_best_and_worst_comments_you/)
-- [Utilities for working with the native FormData - making &lt;form&gt; nice in every frontend framework.](https://www.reddit.com/r/javascript/comments/1d3c58d/utilities_for_working_with_the_native_formdata/)
+- [G6 5.0 on the way!](https://www.reddit.com/r/javascript/comments/1d4k2td/g6_50_on_the_way/)
+- [How to Control the Number of Concurrent Promises in JavaScript](https://www.reddit.com/r/javascript/comments/1d4j7rc/how_to_control_the_number_of_concurrent_promises/)
+- [Beachpatrol: A CLI tool to replace and automate your everyday web browser. &lpar;Now with Firefox/macOS support&rpar;](https://www.reddit.com/r/javascript/comments/1d4i3h7/beachpatrol_a_cli_tool_to_replace_and_automate/)
+- [[AskJS] implement lightweight speech recognition thread](https://www.reddit.com/r/javascript/comments/1d4h61a/askjs_implement_lightweight_speech_recognition/)
+- [[AskJS] Feedback on project](https://www.reddit.com/r/javascript/comments/1d4cfti/askjs_feedback_on_project/)
+- [Type-safe module mocking in Storybook](https://www.reddit.com/r/javascript/comments/1d48vgn/typesafe_module_mocking_in_storybook/)
+- [[AskJS] Where do I find ideas for a pet project?](https://www.reddit.com/r/javascript/comments/1d489fr/askjs_where_do_i_find_ideas_for_a_pet_project/)
+- [Code comprehension survey](https://www.reddit.com/r/javascript/comments/1d45bls/code_comprehension_survey/)
+- [[AskJS] Build a QA Bot for your documentation with Langchain](https://www.reddit.com/r/javascript/comments/1d44v34/askjs_build_a_qa_bot_for_your_documentation_with/)
+- [Generating Video Dumbnails on iOS Safari with JavaScript](https://www.reddit.com/r/javascript/comments/1d44dlg/generating_video_dumbnails_on_ios_safari_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
