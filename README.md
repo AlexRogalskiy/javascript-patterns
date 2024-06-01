@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Are you using any AI tools for generating unit tests? Which ones?](https://www.reddit.com/r/javascript/comments/1d55df2/askjs_are_you_using_any_ai_tools_for_generating/)
+- [[AskJS] Is it OK to use recursion with an asynchronous function?](https://www.reddit.com/r/javascript/comments/1d50ykv/askjs_is_it_ok_to_use_recursion_with_an/)
+- [Experimenting with local alt text generation in Firefox Nightly](https://www.reddit.com/r/javascript/comments/1d507uy/experimenting_with_local_alt_text_generation_in/)
+- [Free video editing tools running completely in browser using FFMPEG in javascript](https://www.reddit.com/r/javascript/comments/1d4x1lj/free_video_editing_tools_running_completely_in/)
+- [[AskJS] typeof null = string???](https://www.reddit.com/r/javascript/comments/1d4rmem/askjs_typeof_null_string/)
+- [[AskJS] Concept: Decentralized Computer](https://www.reddit.com/r/javascript/comments/1d4rcm4/askjs_concept_decentralized_computer/)
+- [[AskJS] Having issues with a Node JS session and I need help.](https://www.reddit.com/r/javascript/comments/1d4qozr/askjs_having_issues_with_a_node_js_session_and_i/)
+- [[AskJS] New to codeing](https://www.reddit.com/r/javascript/comments/1d4q7pz/askjs_new_to_codeing/)
+- [[AskJS] Fetch in Localhost &lpar;ReactJS Project&rpar; not working &lpar;but work with Postman or Reqbin&rpar; - CORS Policy](https://www.reddit.com/r/javascript/comments/1d4omsg/askjs_fetch_in_localhost_reactjs_project_not/)
 - [G6 5.0 on the way!](https://www.reddit.com/r/javascript/comments/1d4k2td/g6_50_on_the_way/)
-- [How to Control the Number of Concurrent Promises in JavaScript](https://www.reddit.com/r/javascript/comments/1d4j7rc/how_to_control_the_number_of_concurrent_promises/)
-- [Beachpatrol: A CLI tool to replace and automate your everyday web browser. &lpar;Now with Firefox/macOS support&rpar;](https://www.reddit.com/r/javascript/comments/1d4i3h7/beachpatrol_a_cli_tool_to_replace_and_automate/)
-- [[AskJS] implement lightweight speech recognition thread](https://www.reddit.com/r/javascript/comments/1d4h61a/askjs_implement_lightweight_speech_recognition/)
-- [[AskJS] Feedback on project](https://www.reddit.com/r/javascript/comments/1d4cfti/askjs_feedback_on_project/)
-- [Type-safe module mocking in Storybook](https://www.reddit.com/r/javascript/comments/1d48vgn/typesafe_module_mocking_in_storybook/)
-- [[AskJS] Where do I find ideas for a pet project?](https://www.reddit.com/r/javascript/comments/1d489fr/askjs_where_do_i_find_ideas_for_a_pet_project/)
-- [Code comprehension survey](https://www.reddit.com/r/javascript/comments/1d45bls/code_comprehension_survey/)
-- [[AskJS] Build a QA Bot for your documentation with Langchain](https://www.reddit.com/r/javascript/comments/1d44v34/askjs_build_a_qa_bot_for_your_documentation_with/)
-- [Generating Video Dumbnails on iOS Safari with JavaScript](https://www.reddit.com/r/javascript/comments/1d44dlg/generating_video_dumbnails_on_ios_safari_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
