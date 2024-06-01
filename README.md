@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Deno adds support for private NPM registries](https://www.infoworld.com/article/3715294/deno-adds-support-for-private-npm-registries.html#tk.rss_javascript)
 - [Data storage for front-end JavaScript](https://www.infoworld.com/article/3715464/data-storage-for-front-end-javascript.html#tk.rss_javascript)
 - [Why enterprises rely on JavaScript, Python, and Java](https://www.infoworld.com/article/3715288/why-enterprises-rely-on-javascript-python-and-java.html#tk.rss_javascript)
 - [Angular 18 arrives with server-side rendering improvements](https://www.infoworld.com/article/3715455/angular-18-arrives-with-server-side-rendering-improvements.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Deno boosts language server performance](https://www.infoworld.com/article/3715397/deno-boosts-language-server-performance.html#tk.rss_javascript)
 - [Svelte 5 moves to release candidate stage](https://www.infoworld.com/article/3715394/svelte-5-moves-to-release-candidate-stage.html#tk.rss_javascript)
 - [How to use JavaScript statements in your programs](https://www.infoworld.com/article/2077317/understanding-and-using-javascript-statements.html#tk.rss_javascript)
-- [React 19 builds on async transitions](https://www.infoworld.com/article/3715409/react-19-builds-on-async-transitions.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
