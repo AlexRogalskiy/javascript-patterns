@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Is representing an empty directory as File objects with &quot;inode/directory&quot; platform, runtime, and Web compatible?](https://www.reddit.com/r/javascript/comments/1d5rrad/askjs_is_representing_an_empty_directory_as_file/)
+- [Easily Make Games that fit on QR Codes! &lpar;Multiplatform&rpar;](https://www.reddit.com/r/javascript/comments/1d5pdvy/easily_make_games_that_fit_on_qr_codes/)
+- [How to create, recreate, and transfer directories to peers in the browser. Part 2: Creating directories from FormData, creating FormData from directories, writing directories to actual filesystem and origin private filesystem, fetching and writing GitHub repositories as local directories](https://www.reddit.com/r/javascript/comments/1d5oiev/how_to_create_recreate_and_transfer_directories/)
+- [[AskJS] Ideas to implement auto-retry-promise](https://www.reddit.com/r/javascript/comments/1d5n5kx/askjs_ideas_to_implement_autoretrypromise/)
+- [ES4 design observations](https://www.reddit.com/r/javascript/comments/1d5kkrc/es4_design_observations/)
+- [Showoff Saturday &lpar;June 01, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1d5h6b9/showoff_saturday_june_01_2024/)
+- [[AskJS] Precision issues encountered using Big.js](https://www.reddit.com/r/javascript/comments/1d5gu2j/askjs_precision_issues_encountered_using_bigjs/)
+- [Lit, Web Components &amp; TailwindCSS](https://www.reddit.com/r/javascript/comments/1d5g1gi/lit_web_components_tailwindcss/)
 - [[AskJS] Are you using any AI tools for generating unit tests? Which ones?](https://www.reddit.com/r/javascript/comments/1d55df2/askjs_are_you_using_any_ai_tools_for_generating/)
 - [[AskJS] Is it OK to use recursion with an asynchronous function?](https://www.reddit.com/r/javascript/comments/1d50ykv/askjs_is_it_ok_to_use_recursion_with_an/)
-- [Experimenting with local alt text generation in Firefox Nightly](https://www.reddit.com/r/javascript/comments/1d507uy/experimenting_with_local_alt_text_generation_in/)
-- [Free video editing tools running completely in browser using FFMPEG in javascript](https://www.reddit.com/r/javascript/comments/1d4x1lj/free_video_editing_tools_running_completely_in/)
-- [[AskJS] typeof null = string???](https://www.reddit.com/r/javascript/comments/1d4rmem/askjs_typeof_null_string/)
-- [[AskJS] Concept: Decentralized Computer](https://www.reddit.com/r/javascript/comments/1d4rcm4/askjs_concept_decentralized_computer/)
-- [[AskJS] Having issues with a Node JS session and I need help.](https://www.reddit.com/r/javascript/comments/1d4qozr/askjs_having_issues_with_a_node_js_session_and_i/)
-- [[AskJS] New to codeing](https://www.reddit.com/r/javascript/comments/1d4q7pz/askjs_new_to_codeing/)
-- [[AskJS] Fetch in Localhost &lpar;ReactJS Project&rpar; not working &lpar;but work with Postman or Reqbin&rpar; - CORS Policy](https://www.reddit.com/r/javascript/comments/1d4omsg/askjs_fetch_in_localhost_reactjs_project_not/)
-- [G6 5.0 on the way!](https://www.reddit.com/r/javascript/comments/1d4k2td/g6_50_on_the_way/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
