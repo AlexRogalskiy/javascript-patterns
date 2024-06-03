@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The origin private file system](https://www.reddit.com/r/javascript/comments/1d6r42b/the_origin_private_file_system/)
+- [Future of JavaScript Developers](https://www.reddit.com/r/javascript/comments/1d6itrj/future_of_javascript_developers/)
+- [[AskJS] - Twitch - WizeBot - Java Script](https://www.reddit.com/r/javascript/comments/1d6akp9/askjs_twitch_wizebot_java_script/)
+- [A JS library for creating high-performance grids/data tables.](https://www.reddit.com/r/javascript/comments/1d6a7jt/a_js_library_for_creating_highperformance/)
 - [[AskJS] Is representing an empty directory as File objects with &quot;inode/directory&quot; platform, runtime, and Web compatible?](https://www.reddit.com/r/javascript/comments/1d5rrad/askjs_is_representing_an_empty_directory_as_file/)
 - [Easily Make Games that fit on QR Codes! &lpar;Multiplatform&rpar;](https://www.reddit.com/r/javascript/comments/1d5pdvy/easily_make_games_that_fit_on_qr_codes/)
 - [How to create, recreate, and transfer directories to peers in the browser. Part 2: Creating directories from FormData, creating FormData from directories, writing directories to actual filesystem and origin private filesystem, fetching and writing GitHub repositories as local directories](https://www.reddit.com/r/javascript/comments/1d5oiev/how_to_create_recreate_and_transfer_directories/)
 - [[AskJS] Ideas to implement auto-retry-promise](https://www.reddit.com/r/javascript/comments/1d5n5kx/askjs_ideas_to_implement_autoretrypromise/)
 - [ES4 design observations](https://www.reddit.com/r/javascript/comments/1d5kkrc/es4_design_observations/)
 - [Showoff Saturday &lpar;June 01, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1d5h6b9/showoff_saturday_june_01_2024/)
-- [[AskJS] Precision issues encountered using Big.js](https://www.reddit.com/r/javascript/comments/1d5gu2j/askjs_precision_issues_encountered_using_bigjs/)
-- [Lit, Web Components &amp; TailwindCSS](https://www.reddit.com/r/javascript/comments/1d5g1gi/lit_web_components_tailwindcss/)
-- [[AskJS] Are you using any AI tools for generating unit tests? Which ones?](https://www.reddit.com/r/javascript/comments/1d55df2/askjs_are_you_using_any_ai_tools_for_generating/)
-- [[AskJS] Is it OK to use recursion with an asynchronous function?](https://www.reddit.com/r/javascript/comments/1d50ykv/askjs_is_it_ok_to_use_recursion_with_an/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
