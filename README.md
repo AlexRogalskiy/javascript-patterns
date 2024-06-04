@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] How does JS output a updated value to HTML?](https://www.reddit.com/r/javascript/comments/1d7itov/askjs_how_does_js_output_a_updated_value_to_html/)
+- [[AskJS] What am I doing wrong](https://www.reddit.com/r/javascript/comments/1d7i20m/askjs_what_am_i_doing_wrong/)
+- [hmpl - small HTML-based template language created for the convenience of working with the server](https://www.reddit.com/r/javascript/comments/1d7ghun/hmpl_small_htmlbased_template_language_created/)
+- [[AskJS] Using a PWA for developing a video editing app](https://www.reddit.com/r/javascript/comments/1d7cw48/askjs_using_a_pwa_for_developing_a_video_editing/)
+- [[AskJS] Zykie: Fully TypeSafe Localization Library](https://www.reddit.com/r/javascript/comments/1d778qj/askjs_zykie_fully_typesafe_localization_library/)
+- [Cross-Browser Local LLM Inference Using WebAssembly](https://www.reddit.com/r/javascript/comments/1d75ica/crossbrowser_local_llm_inference_using_webassembly/)
+- [[AskJS] Creating website](https://www.reddit.com/r/javascript/comments/1d72t70/askjs_creating_website/)
+- [Your /r/javascript recap for the week of May 27 - June 02, 2024](https://www.reddit.com/r/javascript/comments/1d705rj/your_rjavascript_recap_for_the_week_of_may_27/)
 - [The origin private file system](https://www.reddit.com/r/javascript/comments/1d6r42b/the_origin_private_file_system/)
 - [Future of JavaScript Developers](https://www.reddit.com/r/javascript/comments/1d6itrj/future_of_javascript_developers/)
-- [[AskJS] - Twitch - WizeBot - Java Script](https://www.reddit.com/r/javascript/comments/1d6akp9/askjs_twitch_wizebot_java_script/)
-- [A JS library for creating high-performance grids/data tables.](https://www.reddit.com/r/javascript/comments/1d6a7jt/a_js_library_for_creating_highperformance/)
-- [[AskJS] Is representing an empty directory as File objects with &quot;inode/directory&quot; platform, runtime, and Web compatible?](https://www.reddit.com/r/javascript/comments/1d5rrad/askjs_is_representing_an_empty_directory_as_file/)
-- [Easily Make Games that fit on QR Codes! &lpar;Multiplatform&rpar;](https://www.reddit.com/r/javascript/comments/1d5pdvy/easily_make_games_that_fit_on_qr_codes/)
-- [How to create, recreate, and transfer directories to peers in the browser. Part 2: Creating directories from FormData, creating FormData from directories, writing directories to actual filesystem and origin private filesystem, fetching and writing GitHub repositories as local directories](https://www.reddit.com/r/javascript/comments/1d5oiev/how_to_create_recreate_and_transfer_directories/)
-- [[AskJS] Ideas to implement auto-retry-promise](https://www.reddit.com/r/javascript/comments/1d5n5kx/askjs_ideas_to_implement_autoretrypromise/)
-- [ES4 design observations](https://www.reddit.com/r/javascript/comments/1d5kkrc/es4_design_observations/)
-- [Showoff Saturday &lpar;June 01, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1d5h6b9/showoff_saturday_june_01_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
