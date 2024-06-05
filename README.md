@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] I need to connect other&#39;s social media accounts to my website and ask them to allow me to see their followers and following through the official social media connection apps how can i do that](https://www.reddit.com/r/javascript/comments/1d8ehcn/askjs_i_need_to_connect_others_social_media/)
+- [WebAssembly JSPI has a new API](https://www.reddit.com/r/javascript/comments/1d815y1/webassembly_jspi_has_a_new_api/)
+- [RegularFramework is a new framework for building web pages that is simple, powerful, and elegant.](https://www.reddit.com/r/javascript/comments/1d7yzho/regularframework_is_a_new_framework_for_building/)
+- [[AskJS] What is the relationship between Javascript, Node.js,, Next.js, and React.](https://www.reddit.com/r/javascript/comments/1d7v725/askjs_what_is_the_relationship_between_javascript/)
+- [Vleam 0.3.0 is out! Incrementally incorporate the Gleam language into your Vue project](https://www.reddit.com/r/javascript/comments/1d7uzu2/vleam_030_is_out_incrementally_incorporate_the/)
+- [[AskJS] Why isn&#39;t ipcRenderer getting triggered?](https://www.reddit.com/r/javascript/comments/1d7ubxa/askjs_why_isnt_ipcrenderer_getting_triggered/)
+- [[AskJS] Audio Recorder as chunks](https://www.reddit.com/r/javascript/comments/1d7nime/askjs_audio_recorder_as_chunks/)
 - [[AskJS] How does JS output a updated value to HTML?](https://www.reddit.com/r/javascript/comments/1d7itov/askjs_how_does_js_output_a_updated_value_to_html/)
-- [[AskJS] What am I doing wrong](https://www.reddit.com/r/javascript/comments/1d7i20m/askjs_what_am_i_doing_wrong/)
 - [hmpl - small HTML-based template language created for the convenience of working with the server](https://www.reddit.com/r/javascript/comments/1d7ghun/hmpl_small_htmlbased_template_language_created/)
 - [[AskJS] Using a PWA for developing a video editing app](https://www.reddit.com/r/javascript/comments/1d7cw48/askjs_using_a_pwa_for_developing_a_video_editing/)
-- [[AskJS] Zykie: Fully TypeSafe Localization Library](https://www.reddit.com/r/javascript/comments/1d778qj/askjs_zykie_fully_typesafe_localization_library/)
-- [Cross-Browser Local LLM Inference Using WebAssembly](https://www.reddit.com/r/javascript/comments/1d75ica/crossbrowser_local_llm_inference_using_webassembly/)
-- [[AskJS] Creating website](https://www.reddit.com/r/javascript/comments/1d72t70/askjs_creating_website/)
-- [Your /r/javascript recap for the week of May 27 - June 02, 2024](https://www.reddit.com/r/javascript/comments/1d705rj/your_rjavascript_recap_for_the_week_of_may_27/)
-- [The origin private file system](https://www.reddit.com/r/javascript/comments/1d6r42b/the_origin_private_file_system/)
-- [Future of JavaScript Developers](https://www.reddit.com/r/javascript/comments/1d6itrj/future_of_javascript_developers/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
