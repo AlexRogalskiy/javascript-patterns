@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [`import Regex from &#39;regex&#39;;` - A JS library that&#39;s the new best way to create readable, high perf, modern + native regexes, with best practices built-in and support for atomic groups, free spacing/comments, and context-aware interpolation](https://www.reddit.com/r/javascript/comments/1d8ns0i/import_regex_from_regex_a_js_library_thats_the/)
+- [[AskJS] Experienced Full Stack Developer offering help with HTML, CSS, JavaScript and React](https://www.reddit.com/r/javascript/comments/1d8my0z/askjs_experienced_full_stack_developer_offering/)
+- [[AskJS] Achieve some kind of null safety with JS &amp; JSDoc](https://www.reddit.com/r/javascript/comments/1d8m79y/askjs_achieve_some_kind_of_null_safety_with_js/)
+- [[AskJS] Anyone used Prisma on huge database &gt;100 millions rows before?](https://www.reddit.com/r/javascript/comments/1d8ly8j/askjs_anyone_used_prisma_on_huge_database_100/)
+- [WTF Wednesday &lpar;June 05, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1d8jomn/wtf_wednesday_june_05_2024/)
+- [[AskJS] Development on an SSD. What&#39;s the most important characteristic/specification on a SSD for optimizing the development and build process since node_modules has thousands of files?](https://www.reddit.com/r/javascript/comments/1d8heu8/askjs_development_on_an_ssd_whats_the_most/)
 - [[AskJS] I need to connect other&#39;s social media accounts to my website and ask them to allow me to see their followers and following through the official social media connection apps how can i do that](https://www.reddit.com/r/javascript/comments/1d8ehcn/askjs_i_need_to_connect_others_social_media/)
 - [WebAssembly JSPI has a new API](https://www.reddit.com/r/javascript/comments/1d815y1/webassembly_jspi_has_a_new_api/)
-- [RegularFramework is a new framework for building web pages that is simple, powerful, and elegant.](https://www.reddit.com/r/javascript/comments/1d7yzho/regularframework_is_a_new_framework_for_building/)
 - [[AskJS] What is the relationship between Javascript, Node.js,, Next.js, and React.](https://www.reddit.com/r/javascript/comments/1d7v725/askjs_what_is_the_relationship_between_javascript/)
 - [Vleam 0.3.0 is out! Incrementally incorporate the Gleam language into your Vue project](https://www.reddit.com/r/javascript/comments/1d7uzu2/vleam_030_is_out_incrementally_incorporate_the/)
-- [[AskJS] Why isn&#39;t ipcRenderer getting triggered?](https://www.reddit.com/r/javascript/comments/1d7ubxa/askjs_why_isnt_ipcrenderer_getting_triggered/)
-- [[AskJS] Audio Recorder as chunks](https://www.reddit.com/r/javascript/comments/1d7nime/askjs_audio_recorder_as_chunks/)
-- [[AskJS] How does JS output a updated value to HTML?](https://www.reddit.com/r/javascript/comments/1d7itov/askjs_how_does_js_output_a_updated_value_to_html/)
-- [hmpl - small HTML-based template language created for the convenience of working with the server](https://www.reddit.com/r/javascript/comments/1d7ghun/hmpl_small_htmlbased_template_language_created/)
-- [[AskJS] Using a PWA for developing a video editing app](https://www.reddit.com/r/javascript/comments/1d7cw48/askjs_using_a_pwa_for_developing_a_video_editing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
