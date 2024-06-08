@@ -292,6 +292,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [TypeScript adds support for ECMAScript’s Set methods](https://www.infoworld.com/article/3715246/typescript-adds-support-for-ecmascripts-set-methods.html#tk.rss_javascript)
 - [Deno adds support for private NPM registries](https://www.infoworld.com/article/3715294/deno-adds-support-for-private-npm-registries.html#tk.rss_javascript)
 - [Data storage for front-end JavaScript](https://www.infoworld.com/article/3715464/data-storage-for-front-end-javascript.html#tk.rss_javascript)
 - [Why enterprises rely on JavaScript, Python, and Java](https://www.infoworld.com/article/3715288/why-enterprises-rely-on-javascript-python-and-java.html#tk.rss_javascript)
@@ -301,7 +302,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [7 JavaScript language elements every developer needs](https://www.infoworld.com/article/3715393/7-javascript-language-elements-every-developer-needs.html#tk.rss_javascript)
 - [Deno boosts language server performance](https://www.infoworld.com/article/3715397/deno-boosts-language-server-performance.html#tk.rss_javascript)
 - [Svelte 5 moves to release candidate stage](https://www.infoworld.com/article/3715394/svelte-5-moves-to-release-candidate-stage.html#tk.rss_javascript)
-- [How to use JavaScript statements in your programs](https://www.infoworld.com/article/2077317/understanding-and-using-javascript-statements.html#tk.rss_javascript)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *EmberJS posts*
