@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Refreshing Select tag](https://www.reddit.com/r/javascript/comments/1d9z66l/askjs_refreshing_select_tag/)
+- [Nasa Satellite Tiles, Unlimited Free CDN, 0-8 Zoom Levels.](https://www.reddit.com/r/javascript/comments/1daouzj/nasa_satellite_tiles_unlimited_free_cdn_08_zoom/)
+- [A Next.js powered dashboard tracking latency between Neon&#39;s Postgres and hosting platforms.](https://www.reddit.com/r/javascript/comments/1daffjk/a_nextjs_powered_dashboard_tracking_latency/)
+- [[AskJS] Has anyone ever managed to make the pipeline operator work in TypeScript?](https://www.reddit.com/r/javascript/comments/1daaub9/askjs_has_anyone_ever_managed_to_make_the/)
+- [[AskJS] How does an asynchronous water flexbox handle baking recursion inside JavaScript when using CSS to boil cookies?](https://www.reddit.com/r/javascript/comments/1da99vl/askjs_how_does_an_asynchronous_water_flexbox/)
 - [Announcing TypeScript 5.5 RC](https://www.reddit.com/r/javascript/comments/1d9tt5v/announcing_typescript_55_rc/)
 - [[AskJS] schema first api design that generate typescript / client / http validation ?](https://www.reddit.com/r/javascript/comments/1d9snon/askjs_schema_first_api_design_that_generate/)
 - [dossi - a browser extension and web app to keep track of your own private GitHub notes is now open source](https://www.reddit.com/r/javascript/comments/1d9q39x/dossi_a_browser_extension_and_web_app_to_keep/)
-- [[AskJS] Highly Recommend: &quot;JavaScript: The Advanced Concepts&quot; Course from Zero to Mastery](https://www.reddit.com/r/javascript/comments/1d9os86/askjs_highly_recommend_javascript_the_advanced/)
 - [Interactive story generation: Edit and create stories from Storybook’s UI](https://www.reddit.com/r/javascript/comments/1d9mldx/interactive_story_generation_edit_and_create/)
 - [I build an AI voice generator with NextJS/DeepGram/Groq](https://www.reddit.com/r/javascript/comments/1d9l62e/i_build_an_ai_voice_generator_with/)
 - [I built a tool to track JavaScript library usage](https://www.reddit.com/r/javascript/comments/1d9jz9k/i_built_a_tool_to_track_javascript_library_usage/)
-- [[AskJS] How does youtube video seek forward?](https://www.reddit.com/r/javascript/comments/1d9cia5/askjs_how_does_youtube_video_seek_forward/)
-- [`import Regex from &#39;regex&#39;;` - A JS library that&#39;s the new best way to create readable, high perf, modern + native regexes, with best practices built-in and support for atomic groups, free spacing/comments, and context-aware interpolation](https://www.reddit.com/r/javascript/comments/1d8ns0i/import_regex_from_regex_a_js_library_thats_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
