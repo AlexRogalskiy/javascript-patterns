@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Nasa Satellite Tiles, Unlimited Free CDN, 0-8 Zoom Levels.](https://www.reddit.com/r/javascript/comments/1daouzj/nasa_satellite_tiles_unlimited_free_cdn_08_zoom/)
-- [A Next.js powered dashboard tracking latency between Neon&#39;s Postgres and hosting platforms.](https://www.reddit.com/r/javascript/comments/1daffjk/a_nextjs_powered_dashboard_tracking_latency/)
-- [[AskJS] Has anyone ever managed to make the pipeline operator work in TypeScript?](https://www.reddit.com/r/javascript/comments/1daaub9/askjs_has_anyone_ever_managed_to_make_the/)
-- [[AskJS] How does an asynchronous water flexbox handle baking recursion inside JavaScript when using CSS to boil cookies?](https://www.reddit.com/r/javascript/comments/1da99vl/askjs_how_does_an_asynchronous_water_flexbox/)
-- [Announcing TypeScript 5.5 RC](https://www.reddit.com/r/javascript/comments/1d9tt5v/announcing_typescript_55_rc/)
-- [[AskJS] schema first api design that generate typescript / client / http validation ?](https://www.reddit.com/r/javascript/comments/1d9snon/askjs_schema_first_api_design_that_generate/)
-- [dossi - a browser extension and web app to keep track of your own private GitHub notes is now open source](https://www.reddit.com/r/javascript/comments/1d9q39x/dossi_a_browser_extension_and_web_app_to_keep/)
-- [Interactive story generation: Edit and create stories from Storybook’s UI](https://www.reddit.com/r/javascript/comments/1d9mldx/interactive_story_generation_edit_and_create/)
-- [I build an AI voice generator with NextJS/DeepGram/Groq](https://www.reddit.com/r/javascript/comments/1d9l62e/i_build_an_ai_voice_generator_with/)
-- [I built a tool to track JavaScript library usage](https://www.reddit.com/r/javascript/comments/1d9jz9k/i_built_a_tool_to_track_javascript_library_usage/)
+- [[AskJS] Can I have feedback? Ragged: The Lightweight, Low-Level AI Client for OpenAI and more.](https://www.reddit.com/r/javascript/comments/1dbfjjm/askjs_can_i_have_feedback_ragged_the_lightweight/)
+- [[AskJS] Is MERN popular in the workforce?](https://www.reddit.com/r/javascript/comments/1dbbszk/askjs_is_mern_popular_in_the_workforce/)
+- [Top 50 JavaScript Interview Questions with Example Answers](https://www.reddit.com/r/javascript/comments/1db9tlt/top_50_javascript_interview_questions_with/)
+- [[AskJS] Devs from what source do you go through Javascript Basics and Advanced Concept?](https://www.reddit.com/r/javascript/comments/1db8gro/askjs_devs_from_what_source_do_you_go_through/)
+- [Native messaging](https://www.reddit.com/r/javascript/comments/1db6gau/native_messaging/)
+- [smol-string: Faster compression for localStorage &lpar;alternative to lz-string&rpar;](https://www.reddit.com/r/javascript/comments/1db2t2h/smolstring_faster_compression_for_localstorage/)
+- [[AskJS] To frontend devs: If you use JS instead of TS at work, what&#39;s the reasoning behind it?](https://www.reddit.com/r/javascript/comments/1db2omg/askjs_to_frontend_devs_if_you_use_js_instead_of/)
+- [Todo List Website using React and Tailwind CSS](https://www.reddit.com/r/javascript/comments/1dazifh/todo_list_website_using_react_and_tailwind_css/)
+- [[AskJS] Why is there no proposal for @decorators for functions without classes?](https://www.reddit.com/r/javascript/comments/1daytmo/askjs_why_is_there_no_proposal_for_decorators_for/)
+- [Showoff Saturday &lpar;June 08, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1dawy0a/showoff_saturday_june_08_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
