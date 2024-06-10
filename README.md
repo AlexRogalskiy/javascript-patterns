@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Can I have feedback? Ragged: The Lightweight, Low-Level AI Client for OpenAI and more.](https://www.reddit.com/r/javascript/comments/1dbfjjm/askjs_can_i_have_feedback_ragged_the_lightweight/)
-- [[AskJS] Is MERN popular in the workforce?](https://www.reddit.com/r/javascript/comments/1dbbszk/askjs_is_mern_popular_in_the_workforce/)
-- [Top 50 JavaScript Interview Questions with Example Answers](https://www.reddit.com/r/javascript/comments/1db9tlt/top_50_javascript_interview_questions_with/)
-- [[AskJS] Devs from what source do you go through Javascript Basics and Advanced Concept?](https://www.reddit.com/r/javascript/comments/1db8gro/askjs_devs_from_what_source_do_you_go_through/)
-- [Native messaging](https://www.reddit.com/r/javascript/comments/1db6gau/native_messaging/)
-- [smol-string: Faster compression for localStorage &lpar;alternative to lz-string&rpar;](https://www.reddit.com/r/javascript/comments/1db2t2h/smolstring_faster_compression_for_localstorage/)
-- [[AskJS] To frontend devs: If you use JS instead of TS at work, what&#39;s the reasoning behind it?](https://www.reddit.com/r/javascript/comments/1db2omg/askjs_to_frontend_devs_if_you_use_js_instead_of/)
-- [Todo List Website using React and Tailwind CSS](https://www.reddit.com/r/javascript/comments/1dazifh/todo_list_website_using_react_and_tailwind_css/)
-- [[AskJS] Why is there no proposal for @decorators for functions without classes?](https://www.reddit.com/r/javascript/comments/1daytmo/askjs_why_is_there_no_proposal_for_decorators_for/)
-- [Showoff Saturday &lpar;June 08, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1dawy0a/showoff_saturday_june_08_2024/)
+- [[AskJS] Can&#39;t deploy Azure Function with NodeJS code in different files](https://www.reddit.com/r/javascript/comments/1dc9pul/askjs_cant_deploy_azure_function_with_nodejs_code/)
+- [hmpl-loader - webpack loader for files with .hmpl extension](https://www.reddit.com/r/javascript/comments/1dc3c52/hmplloader_webpack_loader_for_files_with_hmpl/)
+- [File to ArrayBuffer with attributes, ArrayBuffer to File with attributes](https://www.reddit.com/r/javascript/comments/1dbxtlf/file_to_arraybuffer_with_attributes_arraybuffer/)
+- [I&#39;ve developed a VS Code extension to make code variables easier to distinguish!](https://www.reddit.com/r/javascript/comments/1dbsjbv/ive_developed_a_vs_code_extension_to_make_code/)
+- [Code validation library - Somewhat like TypeScript but it also works in your compiled code](https://www.reddit.com/r/javascript/comments/1dbrf7h/code_validation_library_somewhat_like_typescript/)
+- [ECMAScript Built-in Constants and Functions About Mathematics](https://www.reddit.com/r/javascript/comments/1dbpd95/ecmascript_builtin_constants_and_functions_about/)
+- [I made River.ts, a Declarative library for defining, emitting &amp; consuming SSE Events in client &amp; server.](https://www.reddit.com/r/javascript/comments/1dbodgs/i_made_riverts_a_declarative_library_for_defining/)
+- [[AskJS] How to access different elements with different class names as a whole?](https://www.reddit.com/r/javascript/comments/1dbmyjn/askjs_how_to_access_different_elements_with/)
+- [OpenAPI code generator - it will generate openapi specs with the specified language](https://www.reddit.com/r/javascript/comments/1dbmhjd/openapi_code_generator_it_will_generate_openapi/)
+- [[AskJS] Noob question to JS community!!](https://www.reddit.com/r/javascript/comments/1dbkd91/askjs_noob_question_to_js_community/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
