@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Can&#39;t deploy Azure Function with NodeJS code in different files](https://www.reddit.com/r/javascript/comments/1dc9pul/askjs_cant_deploy_azure_function_with_nodejs_code/)
-- [hmpl-loader - webpack loader for files with .hmpl extension](https://www.reddit.com/r/javascript/comments/1dc3c52/hmplloader_webpack_loader_for_files_with_hmpl/)
-- [File to ArrayBuffer with attributes, ArrayBuffer to File with attributes](https://www.reddit.com/r/javascript/comments/1dbxtlf/file_to_arraybuffer_with_attributes_arraybuffer/)
-- [I&#39;ve developed a VS Code extension to make code variables easier to distinguish!](https://www.reddit.com/r/javascript/comments/1dbsjbv/ive_developed_a_vs_code_extension_to_make_code/)
-- [Code validation library - Somewhat like TypeScript but it also works in your compiled code](https://www.reddit.com/r/javascript/comments/1dbrf7h/code_validation_library_somewhat_like_typescript/)
-- [ECMAScript Built-in Constants and Functions About Mathematics](https://www.reddit.com/r/javascript/comments/1dbpd95/ecmascript_builtin_constants_and_functions_about/)
-- [I made River.ts, a Declarative library for defining, emitting &amp; consuming SSE Events in client &amp; server.](https://www.reddit.com/r/javascript/comments/1dbodgs/i_made_riverts_a_declarative_library_for_defining/)
-- [[AskJS] How to access different elements with different class names as a whole?](https://www.reddit.com/r/javascript/comments/1dbmyjn/askjs_how_to_access_different_elements_with/)
-- [OpenAPI code generator - it will generate openapi specs with the specified language](https://www.reddit.com/r/javascript/comments/1dbmhjd/openapi_code_generator_it_will_generate_openapi/)
-- [[AskJS] Noob question to JS community!!](https://www.reddit.com/r/javascript/comments/1dbkd91/askjs_noob_question_to_js_community/)
+- [[AskJS] Any experience using Zoid for creating cross-domain components?](https://www.reddit.com/r/javascript/comments/1dcz6tr/askjs_any_experience_using_zoid_for_creating/)
+- [Generating ZIP Files &lpar;in the browser&rpar; with Javascript](https://www.reddit.com/r/javascript/comments/1dcx76p/generating_zip_files_in_the_browser_with/)
+- [typescript-result: A result type that leverages TypeScript&#39;s powerful type system to simplify error handling with full type safety and async support.](https://www.reddit.com/r/javascript/comments/1dcugjv/typescriptresult_a_result_type_that_leverages/)
+- [[AskJS] Async/Aways is Not All You Need](https://www.reddit.com/r/javascript/comments/1dcqwi2/askjs_asyncaways_is_not_all_you_need/)
+- [dawiidio/sprout: Small CLI tool to automate your git workflow with LLMs support, both local and remote](https://www.reddit.com/r/javascript/comments/1dcn12s/dawiidiosprout_small_cli_tool_to_automate_your/)
+- [Local LLM-Powered Voice Assistant for Web Browsers](https://www.reddit.com/r/javascript/comments/1dcmjww/local_llmpowered_voice_assistant_for_web_browsers/)
+- [S3 is outdated: this is how a storage service could look like in 2024](https://www.reddit.com/r/javascript/comments/1dciib4/s3_is_outdated_this_is_how_a_storage_service/)
+- [Your /r/javascript recap for the week of June 03 - June 09, 2024](https://www.reddit.com/r/javascript/comments/1dch7b5/your_rjavascript_recap_for_the_week_of_june_03/)
+- [Understanding Memoization in JavaScript](https://www.reddit.com/r/javascript/comments/1dch5vf/understanding_memoization_in_javascript/)
+- [[AskJS] Implementing top-level await in JS-Notebook tool](https://www.reddit.com/r/javascript/comments/1dcfm1e/askjs_implementing_toplevel_await_in_jsnotebook/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
