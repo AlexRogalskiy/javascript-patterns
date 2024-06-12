@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Eicrud : a CRUD/Authorization framework based on NestJS](https://www.reddit.com/r/javascript/comments/1ddrfsd/eicrud_a_crudauthorization_framework_based_on/)
+- [[AskJS] Everyone seems to like types these days, but why do we have so many dynamic-typed languages in the first place?](https://www.reddit.com/r/javascript/comments/1ddqd5g/askjs_everyone_seems_to_like_types_these_days_but/)
+- [Immersive 3D Rendering with Eye Tracking](https://www.reddit.com/r/javascript/comments/1ddm2hc/immersive_3d_rendering_with_eye_tracking/)
+- [next-flag: a feature flag package powered by GitHub issues and NextJS.](https://www.reddit.com/r/javascript/comments/1ddigy7/nextflag_a_feature_flag_package_powered_by_github/)
+- [7.5 KB library makes Node to run TypeScript files using the compiler you installed.](https://www.reddit.com/r/javascript/comments/1ddg9iz/75_kb_library_makes_node_to_run_typescript_files/)
+- [List reordering with TypeScript + Tailwind + Pragmatic drag and drop](https://www.reddit.com/r/javascript/comments/1dd664d/list_reordering_with_typescript_tailwind/)
+- [Pulse: The modern MongoDB-powered job scheduler library for Javascript](https://www.reddit.com/r/javascript/comments/1dd391q/pulse_the_modern_mongodbpowered_job_scheduler/)
 - [[AskJS] Any experience using Zoid for creating cross-domain components?](https://www.reddit.com/r/javascript/comments/1dcz6tr/askjs_any_experience_using_zoid_for_creating/)
 - [Generating ZIP Files &lpar;in the browser&rpar; with Javascript](https://www.reddit.com/r/javascript/comments/1dcx76p/generating_zip_files_in_the_browser_with/)
 - [typescript-result: A result type that leverages TypeScript&#39;s powerful type system to simplify error handling with full type safety and async support.](https://www.reddit.com/r/javascript/comments/1dcugjv/typescriptresult_a_result_type_that_leverages/)
-- [[AskJS] Async/Aways is Not All You Need](https://www.reddit.com/r/javascript/comments/1dcqwi2/askjs_asyncaways_is_not_all_you_need/)
-- [dawiidio/sprout: Small CLI tool to automate your git workflow with LLMs support, both local and remote](https://www.reddit.com/r/javascript/comments/1dcn12s/dawiidiosprout_small_cli_tool_to_automate_your/)
-- [Local LLM-Powered Voice Assistant for Web Browsers](https://www.reddit.com/r/javascript/comments/1dcmjww/local_llmpowered_voice_assistant_for_web_browsers/)
-- [S3 is outdated: this is how a storage service could look like in 2024](https://www.reddit.com/r/javascript/comments/1dciib4/s3_is_outdated_this_is_how_a_storage_service/)
-- [Your /r/javascript recap for the week of June 03 - June 09, 2024](https://www.reddit.com/r/javascript/comments/1dch7b5/your_rjavascript_recap_for_the_week_of_june_03/)
-- [Understanding Memoization in JavaScript](https://www.reddit.com/r/javascript/comments/1dch5vf/understanding_memoization_in_javascript/)
-- [[AskJS] Implementing top-level await in JS-Notebook tool](https://www.reddit.com/r/javascript/comments/1dcfm1e/askjs_implementing_toplevel_await_in_jsnotebook/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
