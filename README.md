@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Looking for feedback on my new npm package: guide-ai](https://www.reddit.com/r/javascript/comments/1denmaf/askjs_looking_for_feedback_on_my_new_npm_package/)
+- [MDN docs as man pages](https://www.reddit.com/r/javascript/comments/1decp9n/mdn_docs_as_man_pages/)
+- [[AskJS] Does ReactJS SPA Impacts on SEO Rankings?](https://www.reddit.com/r/javascript/comments/1de69qh/askjs_does_reactjs_spa_impacts_on_seo_rankings/)
+- [[AskJS] Query regarding switching from native to flutter for our Edtech?](https://www.reddit.com/r/javascript/comments/1de2ber/askjs_query_regarding_switching_from_native_to/)
+- [Built My First CLI: Play Lofi Music Through Your Terminal](https://www.reddit.com/r/javascript/comments/1de1eoz/built_my_first_cli_play_lofi_music_through_your/)
+- [WTF Wednesday &lpar;June 12, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1de0fel/wtf_wednesday_june_12_2024/)
 - [Eicrud : a CRUD/Authorization framework based on NestJS](https://www.reddit.com/r/javascript/comments/1ddrfsd/eicrud_a_crudauthorization_framework_based_on/)
 - [[AskJS] Everyone seems to like types these days, but why do we have so many dynamic-typed languages in the first place?](https://www.reddit.com/r/javascript/comments/1ddqd5g/askjs_everyone_seems_to_like_types_these_days_but/)
 - [Immersive 3D Rendering with Eye Tracking](https://www.reddit.com/r/javascript/comments/1ddm2hc/immersive_3d_rendering_with_eye_tracking/)
 - [next-flag: a feature flag package powered by GitHub issues and NextJS.](https://www.reddit.com/r/javascript/comments/1ddigy7/nextflag_a_feature_flag_package_powered_by_github/)
-- [7.5 KB library makes Node to run TypeScript files using the compiler you installed.](https://www.reddit.com/r/javascript/comments/1ddg9iz/75_kb_library_makes_node_to_run_typescript_files/)
-- [List reordering with TypeScript + Tailwind + Pragmatic drag and drop](https://www.reddit.com/r/javascript/comments/1dd664d/list_reordering_with_typescript_tailwind/)
-- [Pulse: The modern MongoDB-powered job scheduler library for Javascript](https://www.reddit.com/r/javascript/comments/1dd391q/pulse_the_modern_mongodbpowered_job_scheduler/)
-- [[AskJS] Any experience using Zoid for creating cross-domain components?](https://www.reddit.com/r/javascript/comments/1dcz6tr/askjs_any_experience_using_zoid_for_creating/)
-- [Generating ZIP Files &lpar;in the browser&rpar; with Javascript](https://www.reddit.com/r/javascript/comments/1dcx76p/generating_zip_files_in_the_browser_with/)
-- [typescript-result: A result type that leverages TypeScript&#39;s powerful type system to simplify error handling with full type safety and async support.](https://www.reddit.com/r/javascript/comments/1dcugjv/typescriptresult_a_result_type_that_leverages/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
