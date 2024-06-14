@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Looking for feedback on my new npm package: guide-ai](https://www.reddit.com/r/javascript/comments/1denmaf/askjs_looking_for_feedback_on_my_new_npm_package/)
+- [Nexpi Is a minimalist design react components library](https://www.reddit.com/r/javascript/comments/1dfejkg/nexpi_is_a_minimalist_design_react_components/)
+- [Introducing Adashta: Revolutionizing Real-Time Communication for Developers!](https://www.reddit.com/r/javascript/comments/1df8hga/introducing_adashta_revolutionizing_realtime/)
+- [Sifu is an application that provides insights into every version of your dependencies to keep them updated](https://www.reddit.com/r/javascript/comments/1df8aon/sifu_is_an_application_that_provides_insights/)
+- [I made a package that will make core JavaScript and TypeScript methods unreliable/flaky](https://www.reddit.com/r/javascript/comments/1df3qbp/i_made_a_package_that_will_make_core_javascript/)
+- [How to Generate Video Thumbnails Correctly in iOS Safari](https://www.reddit.com/r/javascript/comments/1dez9pf/how_to_generate_video_thumbnails_correctly_in_ios/)
+- [[AskJS] How to read from /dev/stdin and /proc/self/fd/0 in v8?](https://www.reddit.com/r/javascript/comments/1derpn8/askjs_how_to_read_from_devstdin_and_procselffd0/)
+- [[AskJS] Newvim: IDE Project](https://www.reddit.com/r/javascript/comments/1der0r3/askjs_newvim_ide_project/)
 - [MDN docs as man pages](https://www.reddit.com/r/javascript/comments/1decp9n/mdn_docs_as_man_pages/)
 - [[AskJS] Does ReactJS SPA Impacts on SEO Rankings?](https://www.reddit.com/r/javascript/comments/1de69qh/askjs_does_reactjs_spa_impacts_on_seo_rankings/)
 - [[AskJS] Query regarding switching from native to flutter for our Edtech?](https://www.reddit.com/r/javascript/comments/1de2ber/askjs_query_regarding_switching_from_native_to/)
-- [Built My First CLI: Play Lofi Music Through Your Terminal](https://www.reddit.com/r/javascript/comments/1de1eoz/built_my_first_cli_play_lofi_music_through_your/)
-- [WTF Wednesday &lpar;June 12, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1de0fel/wtf_wednesday_june_12_2024/)
-- [Eicrud : a CRUD/Authorization framework based on NestJS](https://www.reddit.com/r/javascript/comments/1ddrfsd/eicrud_a_crudauthorization_framework_based_on/)
-- [[AskJS] Everyone seems to like types these days, but why do we have so many dynamic-typed languages in the first place?](https://www.reddit.com/r/javascript/comments/1ddqd5g/askjs_everyone_seems_to_like_types_these_days_but/)
-- [Immersive 3D Rendering with Eye Tracking](https://www.reddit.com/r/javascript/comments/1ddm2hc/immersive_3d_rendering_with_eye_tracking/)
-- [next-flag: a feature flag package powered by GitHub issues and NextJS.](https://www.reddit.com/r/javascript/comments/1ddigy7/nextflag_a_feature_flag_package_powered_by_github/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
