@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Repos for open source contributions??](https://www.reddit.com/r/javascript/comments/1dfos38/askjs_repos_for_open_source_contributions/)
+- [Exploring the Future of Web Development: WebAssembly vs. JavaScript - Which Will Reign Supreme?](https://www.reddit.com/r/javascript/comments/1dfmupx/exploring_the_future_of_web_development/)
+- [Library or API for endpoint social media classification](https://www.reddit.com/r/javascript/comments/1dfkmkl/library_or_api_for_endpoint_social_media/)
+- [Now you can Import and Export Vault Storage - A powerful storage system that fixes many local storage issues](https://www.reddit.com/r/javascript/comments/1dfixgd/now_you_can_import_and_export_vault_storage_a/)
 - [Nexpi Is a minimalist design react components library](https://www.reddit.com/r/javascript/comments/1dfejkg/nexpi_is_a_minimalist_design_react_components/)
 - [Introducing Adashta: Revolutionizing Real-Time Communication for Developers!](https://www.reddit.com/r/javascript/comments/1df8hga/introducing_adashta_revolutionizing_realtime/)
-- [Sifu is an application that provides insights into every version of your dependencies to keep them updated](https://www.reddit.com/r/javascript/comments/1df8aon/sifu_is_an_application_that_provides_insights/)
 - [I made a package that will make core JavaScript and TypeScript methods unreliable/flaky](https://www.reddit.com/r/javascript/comments/1df3qbp/i_made_a_package_that_will_make_core_javascript/)
 - [How to Generate Video Thumbnails Correctly in iOS Safari](https://www.reddit.com/r/javascript/comments/1dez9pf/how_to_generate_video_thumbnails_correctly_in_ios/)
 - [[AskJS] How to read from /dev/stdin and /proc/self/fd/0 in v8?](https://www.reddit.com/r/javascript/comments/1derpn8/askjs_how_to_read_from_devstdin_and_procselffd0/)
 - [[AskJS] Newvim: IDE Project](https://www.reddit.com/r/javascript/comments/1der0r3/askjs_newvim_ide_project/)
-- [MDN docs as man pages](https://www.reddit.com/r/javascript/comments/1decp9n/mdn_docs_as_man_pages/)
-- [[AskJS] Does ReactJS SPA Impacts on SEO Rankings?](https://www.reddit.com/r/javascript/comments/1de69qh/askjs_does_reactjs_spa_impacts_on_seo_rankings/)
-- [[AskJS] Query regarding switching from native to flutter for our Edtech?](https://www.reddit.com/r/javascript/comments/1de2ber/askjs_query_regarding_switching_from_native_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
