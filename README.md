@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Receiving TypeError when importing tmp into Jest](https://www.reddit.com/r/javascript/comments/1dgt379/askjs_receiving_typeerror_when_importing_tmp_into/)
+- [Impossible.js, an Object Oriented JavaScript library for building cross-platform terminal apps that I wrote a couple of years back and never released](https://www.reddit.com/r/javascript/comments/1dgrqdh/impossiblejs_an_object_oriented_javascript/)
+- [[AskJS] What are some basic and complex interfaces missing/omitted from ECMA-262 that are not in a current TC-39 proposal?](https://www.reddit.com/r/javascript/comments/1dgkum2/askjs_what_are_some_basic_and_complex_interfaces/)
+- [Support Dual Package for CommonJS and ESM in NPM library](https://www.reddit.com/r/javascript/comments/1dgkisz/support_dual_package_for_commonjs_and_esm_in_npm/)
+- [I Built a Free and Open-Source Alternative to Noisli](https://www.reddit.com/r/javascript/comments/1dgk42t/i_built_a_free_and_opensource_alternative_to/)
+- [I created an audio player package that plays various formats has a built in equalizer and easy to use API.](https://www.reddit.com/r/javascript/comments/1dgjv1n/i_created_an_audio_player_package_that_plays/)
+- [Showoff Saturday &lpar;June 15, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1dgc4s5/showoff_saturday_june_15_2024/)
+- [I developed a package that lets you generate server-side charts with little to no frontend coding.](https://www.reddit.com/r/javascript/comments/1dgai5a/i_developed_a_package_that_lets_you_generate/)
 - [[AskJS] Repos for open source contributions??](https://www.reddit.com/r/javascript/comments/1dfos38/askjs_repos_for_open_source_contributions/)
 - [Exploring the Future of Web Development: WebAssembly vs. JavaScript - Which Will Reign Supreme?](https://www.reddit.com/r/javascript/comments/1dfmupx/exploring_the_future_of_web_development/)
-- [Library or API for endpoint social media classification](https://www.reddit.com/r/javascript/comments/1dfkmkl/library_or_api_for_endpoint_social_media/)
-- [Now you can Import and Export Vault Storage - A powerful storage system that fixes many local storage issues](https://www.reddit.com/r/javascript/comments/1dfixgd/now_you_can_import_and_export_vault_storage_a/)
-- [Nexpi Is a minimalist design react components library](https://www.reddit.com/r/javascript/comments/1dfejkg/nexpi_is_a_minimalist_design_react_components/)
-- [Introducing Adashta: Revolutionizing Real-Time Communication for Developers!](https://www.reddit.com/r/javascript/comments/1df8hga/introducing_adashta_revolutionizing_realtime/)
-- [I made a package that will make core JavaScript and TypeScript methods unreliable/flaky](https://www.reddit.com/r/javascript/comments/1df3qbp/i_made_a_package_that_will_make_core_javascript/)
-- [How to Generate Video Thumbnails Correctly in iOS Safari](https://www.reddit.com/r/javascript/comments/1dez9pf/how_to_generate_video_thumbnails_correctly_in_ios/)
-- [[AskJS] How to read from /dev/stdin and /proc/self/fd/0 in v8?](https://www.reddit.com/r/javascript/comments/1derpn8/askjs_how_to_read_from_devstdin_and_procselffd0/)
-- [[AskJS] Newvim: IDE Project](https://www.reddit.com/r/javascript/comments/1der0r3/askjs_newvim_ide_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
