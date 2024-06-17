@@ -277,8 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Receiving TypeError when importing tmp into Jest](https://www.reddit.com/r/javascript/comments/1dgt379/askjs_receiving_typeerror_when_importing_tmp_into/)
-- [Impossible.js, an Object Oriented JavaScript library for building cross-platform terminal apps that I wrote a couple of years back and never released](https://www.reddit.com/r/javascript/comments/1dgrqdh/impossiblejs_an_object_oriented_javascript/)
+- [[AskJS] iife or esm bundle modules?](https://www.reddit.com/r/javascript/comments/1dhjc28/askjs_iife_or_esm_bundle_modules/)
+- [I build a tool that extract text from video and add them as subtitle](https://www.reddit.com/r/javascript/comments/1dhf7wx/i_build_a_tool_that_extract_text_from_video_and/)
 - [[AskJS] What are some basic and complex interfaces missing/omitted from ECMA-262 that are not in a current TC-39 proposal?](https://www.reddit.com/r/javascript/comments/1dgkum2/askjs_what_are_some_basic_and_complex_interfaces/)
 - [Support Dual Package for CommonJS and ESM in NPM library](https://www.reddit.com/r/javascript/comments/1dgkisz/support_dual_package_for_commonjs_and_esm_in_npm/)
 - [I Built a Free and Open-Source Alternative to Noisli](https://www.reddit.com/r/javascript/comments/1dgk42t/i_built_a_free_and_opensource_alternative_to/)
