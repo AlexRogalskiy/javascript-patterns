@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] iife or esm bundle modules?](https://www.reddit.com/r/javascript/comments/1dhjc28/askjs_iife_or_esm_bundle_modules/)
-- [I build a tool that extract text from video and add them as subtitle](https://www.reddit.com/r/javascript/comments/1dhf7wx/i_build_a_tool_that_extract_text_from_video_and/)
-- [[AskJS] What are some basic and complex interfaces missing/omitted from ECMA-262 that are not in a current TC-39 proposal?](https://www.reddit.com/r/javascript/comments/1dgkum2/askjs_what_are_some_basic_and_complex_interfaces/)
-- [Support Dual Package for CommonJS and ESM in NPM library](https://www.reddit.com/r/javascript/comments/1dgkisz/support_dual_package_for_commonjs_and_esm_in_npm/)
-- [I Built a Free and Open-Source Alternative to Noisli](https://www.reddit.com/r/javascript/comments/1dgk42t/i_built_a_free_and_opensource_alternative_to/)
-- [I created an audio player package that plays various formats has a built in equalizer and easy to use API.](https://www.reddit.com/r/javascript/comments/1dgjv1n/i_created_an_audio_player_package_that_plays/)
-- [Showoff Saturday &lpar;June 15, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1dgc4s5/showoff_saturday_june_15_2024/)
-- [I developed a package that lets you generate server-side charts with little to no frontend coding.](https://www.reddit.com/r/javascript/comments/1dgai5a/i_developed_a_package_that_lets_you_generate/)
-- [[AskJS] Repos for open source contributions??](https://www.reddit.com/r/javascript/comments/1dfos38/askjs_repos_for_open_source_contributions/)
-- [Exploring the Future of Web Development: WebAssembly vs. JavaScript - Which Will Reign Supreme?](https://www.reddit.com/r/javascript/comments/1dfmupx/exploring_the_future_of_web_development/)
+- [[AskJS] how can i fix SEO for my SPA react app?](https://www.reddit.com/r/javascript/comments/1di5pyy/askjs_how_can_i_fix_seo_for_my_spa_react_app/)
+- [[AskJS] Which technologies should I learn to make my own interactive educational graphics library?](https://www.reddit.com/r/javascript/comments/1di3qy0/askjs_which_technologies_should_i_learn_to_make/)
+- [I made a 300 byte async queue that outperforms p-limit, fastq, or any other library I&#39;ve tested it against.](https://www.reddit.com/r/javascript/comments/1di1oyf/i_made_a_300_byte_async_queue_that_outperforms/)
+- [[AskJS] How to detect Tab load spinning?](https://www.reddit.com/r/javascript/comments/1di0zpo/askjs_how_to_detect_tab_load_spinning/)
+- [A couple of rules to avoid writing slow Javascript code.](https://www.reddit.com/r/javascript/comments/1di0yzv/a_couple_of_rules_to_avoid_writing_slow/)
+- [How React 19 &lpar;Almost&rpar; Made the Internet Slower](https://www.reddit.com/r/javascript/comments/1dhz3ny/how_react_19_almost_made_the_internet_slower/)
+- [Friends Link: Sharing real-time WebSocket data across multiple browser windows](https://www.reddit.com/r/javascript/comments/1dhvdfo/friends_link_sharing_realtime_websocket_data/)
+- [Your /r/javascript recap for the week of June 10 - June 16, 2024](https://www.reddit.com/r/javascript/comments/1dhtqk9/your_rjavascript_recap_for_the_week_of_june_10/)
+- [How to take good screenshots with Puppeteer?](https://www.reddit.com/r/javascript/comments/1dhtdfm/how_to_take_good_screenshots_with_puppeteer/)
+- [[AskJS] Protect my source code in tampermonkey ?](https://www.reddit.com/r/javascript/comments/1dht2iq/askjs_protect_my_source_code_in_tampermonkey/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
