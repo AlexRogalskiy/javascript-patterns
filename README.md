@@ -292,11 +292,11 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [JavaScript needs more money](https://www.infoworld.com/article/3715680/javascript-needs-more-money.html#tk.rss_javascript)
 - [TypeScript adds support for ECMAScript’s Set methods](https://www.infoworld.com/article/3715246/typescript-adds-support-for-ecmascripts-set-methods.html#tk.rss_javascript)
 - [Deno adds support for private NPM registries](https://www.infoworld.com/article/3715294/deno-adds-support-for-private-npm-registries.html#tk.rss_javascript)
 - [Data storage for front-end JavaScript](https://www.infoworld.com/article/3715464/data-storage-for-front-end-javascript.html#tk.rss_javascript)
 - [Why enterprises rely on JavaScript, Python, and Java](https://www.infoworld.com/article/3715288/why-enterprises-rely-on-javascript-python-and-java.html#tk.rss_javascript)
-- [Angular 18 arrives with server-side rendering improvements](https://www.infoworld.com/article/3715455/angular-18-arrives-with-server-side-rendering-improvements.html#tk.rss_javascript)
 - [A first look at progressive web apps](https://www.infoworld.com/article/3715423/a-first-look-at-progressive-web-apps.html#tk.rss_javascript)
 - [User-defined variables in JavaScript](https://www.infoworld.com/article/2077113/take-advantage-of-user-defined-variables-in-javascript.html#tk.rss_javascript)
 - [7 JavaScript language elements every developer needs](https://www.infoworld.com/article/3715393/7-javascript-language-elements-every-developer-needs.html#tk.rss_javascript)
