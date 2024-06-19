@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Numeri Romani: a library for working with Roman numbers](https://www.reddit.com/r/javascript/comments/1diy70v/numeri_romani_a_library_for_working_with_roman/)
+- [I made a website where you can write a message to the next visitor &lpar;+ source&rpar;](https://www.reddit.com/r/javascript/comments/1dis0p5/i_made_a_website_where_you_can_write_a_message_to/)
+- [The Ultimate 2024 Tech Stack for Solo SaaS Developers: Build Smarter, Not Harder](https://www.reddit.com/r/javascript/comments/1diqdvo/the_ultimate_2024_tech_stack_for_solo_saas/)
+- [Sasori: A dynamic web crawler which supports authentication as well](https://www.reddit.com/r/javascript/comments/1dimikv/sasori_a_dynamic_web_crawler_which_supports/)
+- [The Missing Web API](https://www.reddit.com/r/javascript/comments/1dikqki/the_missing_web_api/)
+- [SpiderMonkey JavaScript/WebAssembly engine Shell Native Messaging Host](https://www.reddit.com/r/javascript/comments/1difq4m/spidermonkey_javascriptwebassembly_engine_shell/)
 - [[AskJS] how can i fix SEO for my SPA react app?](https://www.reddit.com/r/javascript/comments/1di5pyy/askjs_how_can_i_fix_seo_for_my_spa_react_app/)
 - [[AskJS] Which technologies should I learn to make my own interactive educational graphics library?](https://www.reddit.com/r/javascript/comments/1di3qy0/askjs_which_technologies_should_i_learn_to_make/)
 - [I made a 300 byte async queue that outperforms p-limit, fastq, or any other library I&#39;ve tested it against.](https://www.reddit.com/r/javascript/comments/1di1oyf/i_made_a_300_byte_async_queue_that_outperforms/)
 - [[AskJS] How to detect Tab load spinning?](https://www.reddit.com/r/javascript/comments/1di0zpo/askjs_how_to_detect_tab_load_spinning/)
-- [A couple of rules to avoid writing slow Javascript code.](https://www.reddit.com/r/javascript/comments/1di0yzv/a_couple_of_rules_to_avoid_writing_slow/)
-- [How React 19 &lpar;Almost&rpar; Made the Internet Slower](https://www.reddit.com/r/javascript/comments/1dhz3ny/how_react_19_almost_made_the_internet_slower/)
-- [Friends Link: Sharing real-time WebSocket data across multiple browser windows](https://www.reddit.com/r/javascript/comments/1dhvdfo/friends_link_sharing_realtime_websocket_data/)
-- [Your /r/javascript recap for the week of June 10 - June 16, 2024](https://www.reddit.com/r/javascript/comments/1dhtqk9/your_rjavascript_recap_for_the_week_of_june_10/)
-- [How to take good screenshots with Puppeteer?](https://www.reddit.com/r/javascript/comments/1dhtdfm/how_to_take_good_screenshots_with_puppeteer/)
-- [[AskJS] Protect my source code in tampermonkey ?](https://www.reddit.com/r/javascript/comments/1dht2iq/askjs_protect_my_source_code_in_tampermonkey/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
