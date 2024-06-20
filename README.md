@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Numeri Romani: a library for working with Roman numbers](https://www.reddit.com/r/javascript/comments/1diy70v/numeri_romani_a_library_for_working_with_roman/)
-- [I made a website where you can write a message to the next visitor &lpar;+ source&rpar;](https://www.reddit.com/r/javascript/comments/1dis0p5/i_made_a_website_where_you_can_write_a_message_to/)
-- [The Ultimate 2024 Tech Stack for Solo SaaS Developers: Build Smarter, Not Harder](https://www.reddit.com/r/javascript/comments/1diqdvo/the_ultimate_2024_tech_stack_for_solo_saas/)
-- [Sasori: A dynamic web crawler which supports authentication as well](https://www.reddit.com/r/javascript/comments/1dimikv/sasori_a_dynamic_web_crawler_which_supports/)
-- [The Missing Web API](https://www.reddit.com/r/javascript/comments/1dikqki/the_missing_web_api/)
-- [SpiderMonkey JavaScript/WebAssembly engine Shell Native Messaging Host](https://www.reddit.com/r/javascript/comments/1difq4m/spidermonkey_javascriptwebassembly_engine_shell/)
-- [[AskJS] how can i fix SEO for my SPA react app?](https://www.reddit.com/r/javascript/comments/1di5pyy/askjs_how_can_i_fix_seo_for_my_spa_react_app/)
-- [[AskJS] Which technologies should I learn to make my own interactive educational graphics library?](https://www.reddit.com/r/javascript/comments/1di3qy0/askjs_which_technologies_should_i_learn_to_make/)
-- [I made a 300 byte async queue that outperforms p-limit, fastq, or any other library I&#39;ve tested it against.](https://www.reddit.com/r/javascript/comments/1di1oyf/i_made_a_300_byte_async_queue_that_outperforms/)
-- [[AskJS] How to detect Tab load spinning?](https://www.reddit.com/r/javascript/comments/1di0zpo/askjs_how_to_detect_tab_load_spinning/)
+- [[AskJS] please advise me guys I&#39;m scared](https://www.reddit.com/r/javascript/comments/1djzjpi/askjs_please_advise_me_guys_im_scared/)
+- [Customisable cache decorator for methods.](https://www.reddit.com/r/javascript/comments/1djvdfp/customisable_cache_decorator_for_methods/)
+- [[AskJS] HTML Scraping](https://www.reddit.com/r/javascript/comments/1djt1e4/askjs_html_scraping/)
+- [[AskJS] Need your opinion on Projects](https://www.reddit.com/r/javascript/comments/1djom53/askjs_need_your_opinion_on_projects/)
+- [I made a Free and Open Source SaaS Boilerplate in JavaScript: An Alternative to $500+ Paid Ones, perfect to build your own SaaS.](https://www.reddit.com/r/javascript/comments/1djlgth/i_made_a_free_and_open_source_saas_boilerplate_in/)
+- [[AskJS] Is it possible to generate a customized PDF file from a HTML page using JS?](https://www.reddit.com/r/javascript/comments/1djl86h/askjs_is_it_possible_to_generate_a_customized_pdf/)
+- [[AskJS] Roman numeral converter &lpar;freeCodeCamp&rpar; solution opinion](https://www.reddit.com/r/javascript/comments/1djki1e/askjs_roman_numeral_converter_freecodecamp/)
+- [I Built a Breathing Exercises CLI Tool](https://www.reddit.com/r/javascript/comments/1djkh8q/i_built_a_breathing_exercises_cli_tool/)
+- [[AskJS] Need Some Advice](https://www.reddit.com/r/javascript/comments/1djiikb/askjs_need_some_advice/)
+- [[AskJS] how many projects have u created till now?](https://www.reddit.com/r/javascript/comments/1djfv4g/askjs_how_many_projects_have_u_created_till_now/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
