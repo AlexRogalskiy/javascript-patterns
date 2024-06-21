@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] please advise me guys I&#39;m scared](https://www.reddit.com/r/javascript/comments/1djzjpi/askjs_please_advise_me_guys_im_scared/)
-- [Customisable cache decorator for methods.](https://www.reddit.com/r/javascript/comments/1djvdfp/customisable_cache_decorator_for_methods/)
-- [[AskJS] HTML Scraping](https://www.reddit.com/r/javascript/comments/1djt1e4/askjs_html_scraping/)
-- [[AskJS] Need your opinion on Projects](https://www.reddit.com/r/javascript/comments/1djom53/askjs_need_your_opinion_on_projects/)
-- [I made a Free and Open Source SaaS Boilerplate in JavaScript: An Alternative to $500+ Paid Ones, perfect to build your own SaaS.](https://www.reddit.com/r/javascript/comments/1djlgth/i_made_a_free_and_open_source_saas_boilerplate_in/)
-- [[AskJS] Is it possible to generate a customized PDF file from a HTML page using JS?](https://www.reddit.com/r/javascript/comments/1djl86h/askjs_is_it_possible_to_generate_a_customized_pdf/)
-- [[AskJS] Roman numeral converter &lpar;freeCodeCamp&rpar; solution opinion](https://www.reddit.com/r/javascript/comments/1djki1e/askjs_roman_numeral_converter_freecodecamp/)
-- [I Built a Breathing Exercises CLI Tool](https://www.reddit.com/r/javascript/comments/1djkh8q/i_built_a_breathing_exercises_cli_tool/)
-- [[AskJS] Need Some Advice](https://www.reddit.com/r/javascript/comments/1djiikb/askjs_need_some_advice/)
-- [[AskJS] how many projects have u created till now?](https://www.reddit.com/r/javascript/comments/1djfv4g/askjs_how_many_projects_have_u_created_till_now/)
+- [How Well Do You Know the Latest TypeScript Release?](https://www.reddit.com/r/javascript/comments/1dkqsib/how_well_do_you_know_the_latest_typescript_release/)
+- [How well do you know these basic Javascript features](https://www.reddit.com/r/javascript/comments/1dkp7st/how_well_do_you_know_these_basic_javascript/)
+- [Visual testing is the greatest trick in UI development](https://www.reddit.com/r/javascript/comments/1dklwvh/visual_testing_is_the_greatest_trick_in_ui/)
+- [[AskJS] Fast Typescript Desktop GUI toolkit](https://www.reddit.com/r/javascript/comments/1dkktmg/askjs_fast_typescript_desktop_gui_toolkit/)
+- [[AskJS] What&#39;s a reliable renderer that is lightweight and uses template literals and works in NodeJS/CommonJS and client ?](https://www.reddit.com/r/javascript/comments/1dkjhaa/askjs_whats_a_reliable_renderer_that_is/)
+- [Introducing i18n-check - Improving the i18n developer experience](https://www.reddit.com/r/javascript/comments/1dkja0d/introducing_i18ncheck_improving_the_i18n/)
+- [Announcing TypeScript 5.5](https://www.reddit.com/r/javascript/comments/1dkik51/announcing_typescript_55/)
+- [[AskJS] Use Atlas to build RAG apps and create your own AI knowledge bases](https://www.reddit.com/r/javascript/comments/1dkifaa/askjs_use_atlas_to_build_rag_apps_and_create_your/)
+- [Real time front-end alchemy or: capturing, playing, altering and encoding video and audio streams, without servers or plugins!](https://www.reddit.com/r/javascript/comments/1dkharx/real_time_frontend_alchemy_or_capturing_playing/)
+- [[AskJS] How much js is enough to learn react js ??](https://www.reddit.com/r/javascript/comments/1dkfcaw/askjs_how_much_js_is_enough_to_learn_react_js/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
