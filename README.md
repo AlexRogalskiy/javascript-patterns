@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Web-synthesizer that generates sound from the binary code of any files &lpar;video &amp; live demo at the link&rpar;](https://www.reddit.com/r/javascript/comments/1dl7r7d/websynthesizer_that_generates_sound_from_the/)
+- [native-messaging-d8](https://www.reddit.com/r/javascript/comments/1dkyout/nativemessagingd8/)
+- [Signalize.js - Modular Javascript Framework](https://www.reddit.com/r/javascript/comments/1dkyj4i/signalizejs_modular_javascript_framework/)
+- [Nexpi-UI: an elegant and minimalistic nextjs componenti library](https://www.reddit.com/r/javascript/comments/1dksz8v/nexpiui_an_elegant_and_minimalistic_nextjs/)
 - [How Well Do You Know the Latest TypeScript Release?](https://www.reddit.com/r/javascript/comments/1dkqsib/how_well_do_you_know_the_latest_typescript_release/)
-- [How well do you know these basic Javascript features](https://www.reddit.com/r/javascript/comments/1dkp7st/how_well_do_you_know_these_basic_javascript/)
 - [Visual testing is the greatest trick in UI development](https://www.reddit.com/r/javascript/comments/1dklwvh/visual_testing_is_the_greatest_trick_in_ui/)
 - [[AskJS] Fast Typescript Desktop GUI toolkit](https://www.reddit.com/r/javascript/comments/1dkktmg/askjs_fast_typescript_desktop_gui_toolkit/)
 - [[AskJS] What&#39;s a reliable renderer that is lightweight and uses template literals and works in NodeJS/CommonJS and client ?](https://www.reddit.com/r/javascript/comments/1dkjhaa/askjs_whats_a_reliable_renderer_that_is/)
 - [Introducing i18n-check - Improving the i18n developer experience](https://www.reddit.com/r/javascript/comments/1dkja0d/introducing_i18ncheck_improving_the_i18n/)
 - [Announcing TypeScript 5.5](https://www.reddit.com/r/javascript/comments/1dkik51/announcing_typescript_55/)
-- [[AskJS] Use Atlas to build RAG apps and create your own AI knowledge bases](https://www.reddit.com/r/javascript/comments/1dkifaa/askjs_use_atlas_to_build_rag_apps_and_create_your/)
-- [Real time front-end alchemy or: capturing, playing, altering and encoding video and audio streams, without servers or plugins!](https://www.reddit.com/r/javascript/comments/1dkharx/real_time_frontend_alchemy_or_capturing_playing/)
-- [[AskJS] How much js is enough to learn react js ??](https://www.reddit.com/r/javascript/comments/1dkfcaw/askjs_how_much_js_is_enough_to_learn_react_js/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
