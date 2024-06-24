@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] DX - JavaScript Architecture Pattern](https://www.reddit.com/r/javascript/comments/1dmtiy8/askjs_dx_javascript_architecture_pattern/)
+- [Detecting Element Visibility Using CSS](https://www.reddit.com/r/javascript/comments/1dmmfub/detecting_element_visibility_using_css/)
+- [Promises From The Ground Up](https://www.reddit.com/r/javascript/comments/1dmje8k/promises_from_the_ground_up/)
+- [[AskJS] Using Inline JavaScript](https://www.reddit.com/r/javascript/comments/1dmhtcf/askjs_using_inline_javascript/)
+- [Fed up with the bad UX of all the other vscode AI extensions, made my own - Easily manage file lists to generate prompts to paste into 3.5 sonnet or chatgpt](https://www.reddit.com/r/javascript/comments/1dmckfw/fed_up_with_the_bad_ux_of_all_the_other_vscode_ai/)
+- [[AskJS] What are existing solutions to compress/decompress JSON objects with known JSON schema?](https://www.reddit.com/r/javascript/comments/1dmcj83/askjs_what_are_existing_solutions_to/)
 - [Why you might be using Enums in TypeScript wrong](https://www.reddit.com/r/javascript/comments/1dm6mtw/why_you_might_be_using_enums_in_typescript_wrong/)
 - [I wrote a library that compiles Zod-based specs into executable functions at runtime using language models](https://www.reddit.com/r/javascript/comments/1dm1mq7/i_wrote_a_library_that_compiles_zodbased_specs/)
 - [A little package for your Laravel App Pipeline - Laravel SummDB](https://www.reddit.com/r/javascript/comments/1dlxjk6/a_little_package_for_your_laravel_app_pipeline/)
 - [Showoff Saturday &lpar;June 22, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1dlprn1/showoff_saturday_june_22_2024/)
-- [Web-synthesizer that generates sound from the binary code of any files &lpar;video &amp; live demo at the link&rpar;](https://www.reddit.com/r/javascript/comments/1dl7r7d/websynthesizer_that_generates_sound_from_the/)
-- [native-messaging-d8](https://www.reddit.com/r/javascript/comments/1dkyout/nativemessagingd8/)
-- [Signalize.js - Modular Javascript Framework](https://www.reddit.com/r/javascript/comments/1dkyj4i/signalizejs_modular_javascript_framework/)
-- [Nexpi-UI: an elegant and minimalistic nextjs componenti library](https://www.reddit.com/r/javascript/comments/1dksz8v/nexpiui_an_elegant_and_minimalistic_nextjs/)
-- [How Well Do You Know the Latest TypeScript Release?](https://www.reddit.com/r/javascript/comments/1dkqsib/how_well_do_you_know_the_latest_typescript_release/)
-- [Visual testing is the greatest trick in UI development](https://www.reddit.com/r/javascript/comments/1dklwvh/visual_testing_is_the_greatest_trick_in_ui/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
