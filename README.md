@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] DX - JavaScript Architecture Pattern](https://www.reddit.com/r/javascript/comments/1dmtiy8/askjs_dx_javascript_architecture_pattern/)
-- [Detecting Element Visibility Using CSS](https://www.reddit.com/r/javascript/comments/1dmmfub/detecting_element_visibility_using_css/)
-- [Promises From The Ground Up](https://www.reddit.com/r/javascript/comments/1dmje8k/promises_from_the_ground_up/)
-- [[AskJS] Using Inline JavaScript](https://www.reddit.com/r/javascript/comments/1dmhtcf/askjs_using_inline_javascript/)
-- [Fed up with the bad UX of all the other vscode AI extensions, made my own - Easily manage file lists to generate prompts to paste into 3.5 sonnet or chatgpt](https://www.reddit.com/r/javascript/comments/1dmckfw/fed_up_with_the_bad_ux_of_all_the_other_vscode_ai/)
-- [[AskJS] What are existing solutions to compress/decompress JSON objects with known JSON schema?](https://www.reddit.com/r/javascript/comments/1dmcj83/askjs_what_are_existing_solutions_to/)
-- [Why you might be using Enums in TypeScript wrong](https://www.reddit.com/r/javascript/comments/1dm6mtw/why_you_might_be_using_enums_in_typescript_wrong/)
-- [I wrote a library that compiles Zod-based specs into executable functions at runtime using language models](https://www.reddit.com/r/javascript/comments/1dm1mq7/i_wrote_a_library_that_compiles_zodbased_specs/)
-- [A little package for your Laravel App Pipeline - Laravel SummDB](https://www.reddit.com/r/javascript/comments/1dlxjk6/a_little_package_for_your_laravel_app_pipeline/)
-- [Showoff Saturday &lpar;June 22, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1dlprn1/showoff_saturday_june_22_2024/)
+- [ZenStack - A Library That Allows the Frontend to Talk Directly to Database Without Backend Code](https://www.reddit.com/r/javascript/comments/1dnsf1b/zenstack_a_library_that_allows_the_frontend_to/)
+- [Snapdrag - simple but powerful drag-and-drop for React and vanilla JS](https://www.reddit.com/r/javascript/comments/1dnkcd3/snapdrag_simple_but_powerful_draganddrop_for/)
+- [A supply chain attack may be ongoing against Axobject-query or a project using it as a dependency](https://www.reddit.com/r/javascript/comments/1dniqxq/a_supply_chain_attack_may_be_ongoing_against/)
+- [Bring Your Own API Key: Supporting User-Provided OpenAI Keys and Prompts in Browser Extensions](https://www.reddit.com/r/javascript/comments/1dni73p/bring_your_own_api_key_supporting_userprovided/)
+- [[AskJS] What is the best way to run a user&#39;s Javascript code in a sandboxed browser environment?](https://www.reddit.com/r/javascript/comments/1dnhmb6/askjs_what_is_the_best_way_to_run_a_users/)
+- [[AskJS] Gridstack with React? Yay or nay?](https://www.reddit.com/r/javascript/comments/1dnh1ah/askjs_gridstack_with_react_yay_or_nay/)
+- [Review of JS library to annotate web content](https://www.reddit.com/r/javascript/comments/1dnh0y9/review_of_js_library_to_annotate_web_content/)
+- [ESBench: A modern JavaScript benchmarking tool.](https://www.reddit.com/r/javascript/comments/1dnfzu9/esbench_a_modern_javascript_benchmarking_tool/)
+- [[AskJS] Advice needed: Overcoming lack of documentation](https://www.reddit.com/r/javascript/comments/1dn9rfb/askjs_advice_needed_overcoming_lack_of/)
+- [Your /r/javascript recap for the week of June 17 - June 23, 2024](https://www.reddit.com/r/javascript/comments/1dn97r2/your_rjavascript_recap_for_the_week_of_june_17/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
