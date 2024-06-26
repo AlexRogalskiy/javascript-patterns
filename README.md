@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [ZenStack - A Library That Allows the Frontend to Talk Directly to Database Without Backend Code](https://www.reddit.com/r/javascript/comments/1dnsf1b/zenstack_a_library_that_allows_the_frontend_to/)
-- [Snapdrag - simple but powerful drag-and-drop for React and vanilla JS](https://www.reddit.com/r/javascript/comments/1dnkcd3/snapdrag_simple_but_powerful_draganddrop_for/)
-- [A supply chain attack may be ongoing against Axobject-query or a project using it as a dependency](https://www.reddit.com/r/javascript/comments/1dniqxq/a_supply_chain_attack_may_be_ongoing_against/)
-- [Bring Your Own API Key: Supporting User-Provided OpenAI Keys and Prompts in Browser Extensions](https://www.reddit.com/r/javascript/comments/1dni73p/bring_your_own_api_key_supporting_userprovided/)
-- [[AskJS] What is the best way to run a user&#39;s Javascript code in a sandboxed browser environment?](https://www.reddit.com/r/javascript/comments/1dnhmb6/askjs_what_is_the_best_way_to_run_a_users/)
-- [[AskJS] Gridstack with React? Yay or nay?](https://www.reddit.com/r/javascript/comments/1dnh1ah/askjs_gridstack_with_react_yay_or_nay/)
-- [Review of JS library to annotate web content](https://www.reddit.com/r/javascript/comments/1dnh0y9/review_of_js_library_to_annotate_web_content/)
-- [ESBench: A modern JavaScript benchmarking tool.](https://www.reddit.com/r/javascript/comments/1dnfzu9/esbench_a_modern_javascript_benchmarking_tool/)
-- [[AskJS] Advice needed: Overcoming lack of documentation](https://www.reddit.com/r/javascript/comments/1dn9rfb/askjs_advice_needed_overcoming_lack_of/)
-- [Your /r/javascript recap for the week of June 17 - June 23, 2024](https://www.reddit.com/r/javascript/comments/1dn97r2/your_rjavascript_recap_for_the_week_of_june_17/)
+- [[AskJS] Automate a Click through Chrome Extension](https://www.reddit.com/r/javascript/comments/1doiklz/askjs_automate_a_click_through_chrome_extension/)
+- [[AskJS] Do you ever optimize?](https://www.reddit.com/r/javascript/comments/1doe7zi/askjs_do_you_ever_optimize/)
+- [ascii-3d-renderer.js: 3D Renderer using ASCII.](https://www.reddit.com/r/javascript/comments/1do8wd5/ascii3drendererjs_3d_renderer_using_ascii/)
+- [Sponsoring sqlite-vec to enable more powerful Local AI applications](https://www.reddit.com/r/javascript/comments/1do8v2p/sponsoring_sqlitevec_to_enable_more_powerful/)
+- [[AskJS] How to capture audio from the computer directly?](https://www.reddit.com/r/javascript/comments/1do7yi5/askjs_how_to_capture_audio_from_the_computer/)
+- [New axobject-query Maintainer Faces Backlash Over Controversial Decision to Support Legacy Node.js Versions](https://www.reddit.com/r/javascript/comments/1do4xx2/new_axobjectquery_maintainer_faces_backlash_over/)
+- [cache-zap: A cache that stores key-value pairs with a time limit for each entry](https://www.reddit.com/r/javascript/comments/1do4x9p/cachezap_a_cache_that_stores_keyvalue_pairs_with/)
+- [[AskJS] How Can I Build This Header Editor in a WordPress Theme Using JavaScript?](https://www.reddit.com/r/javascript/comments/1do4qqj/askjs_how_can_i_build_this_header_editor_in_a/)
+- [Online tool for making JSON files nested or flattened](https://www.reddit.com/r/javascript/comments/1do37vt/online_tool_for_making_json_files_nested_or/)
+- [[AskJS] Not sure what projects to do before moving onto react.](https://www.reddit.com/r/javascript/comments/1do339y/askjs_not_sure_what_projects_to_do_before_moving/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
