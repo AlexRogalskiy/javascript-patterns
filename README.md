@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Automate a Click through Chrome Extension](https://www.reddit.com/r/javascript/comments/1doiklz/askjs_automate_a_click_through_chrome_extension/)
-- [[AskJS] Do you ever optimize?](https://www.reddit.com/r/javascript/comments/1doe7zi/askjs_do_you_ever_optimize/)
-- [ascii-3d-renderer.js: 3D Renderer using ASCII.](https://www.reddit.com/r/javascript/comments/1do8wd5/ascii3drendererjs_3d_renderer_using_ascii/)
-- [Sponsoring sqlite-vec to enable more powerful Local AI applications](https://www.reddit.com/r/javascript/comments/1do8v2p/sponsoring_sqlitevec_to_enable_more_powerful/)
-- [[AskJS] How to capture audio from the computer directly?](https://www.reddit.com/r/javascript/comments/1do7yi5/askjs_how_to_capture_audio_from_the_computer/)
-- [New axobject-query Maintainer Faces Backlash Over Controversial Decision to Support Legacy Node.js Versions](https://www.reddit.com/r/javascript/comments/1do4xx2/new_axobjectquery_maintainer_faces_backlash_over/)
-- [cache-zap: A cache that stores key-value pairs with a time limit for each entry](https://www.reddit.com/r/javascript/comments/1do4x9p/cachezap_a_cache_that_stores_keyvalue_pairs_with/)
-- [[AskJS] How Can I Build This Header Editor in a WordPress Theme Using JavaScript?](https://www.reddit.com/r/javascript/comments/1do4qqj/askjs_how_can_i_build_this_header_editor_in_a/)
-- [Online tool for making JSON files nested or flattened](https://www.reddit.com/r/javascript/comments/1do37vt/online_tool_for_making_json_files_nested_or/)
-- [[AskJS] Not sure what projects to do before moving onto react.](https://www.reddit.com/r/javascript/comments/1do339y/askjs_not_sure_what_projects_to_do_before_moving/)
+- [I made little AI-driven resume coach to help you prepare for your job interview. I worked hard on a prompt so questions are super relevant. Need feedback.](https://www.reddit.com/r/javascript/comments/1dpf61n/i_made_little_aidriven_resume_coach_to_help_you/)
+- [I made this little 2D raycaster demo with canvas, for fun and as a learning exercise. Working on extending it to 3D next.](https://www.reddit.com/r/javascript/comments/1dpepex/i_made_this_little_2d_raycaster_demo_with_canvas/)
+- [[AskJS] How does one debug this?](https://www.reddit.com/r/javascript/comments/1dpeij2/askjs_how_does_one_debug_this/)
+- [Javascript powered flipdisc display: a guide](https://www.reddit.com/r/javascript/comments/1dp3hhf/javascript_powered_flipdisc_display_a_guide/)
+- [App/extension for everyday coding practice! free](https://www.reddit.com/r/javascript/comments/1doza2r/appextension_for_everyday_coding_practice_free/)
+- [Yet another react framework](https://www.reddit.com/r/javascript/comments/1doz759/yet_another_react_framework/)
+- [I made a fun tool that tells you whether its time for you to quit it is job or not](https://www.reddit.com/r/javascript/comments/1dowmk0/i_made_a_fun_tool_that_tells_you_whether_its_time/)
+- [[AskJS] JavaScript is a Weird Language](https://www.reddit.com/r/javascript/comments/1dow5rn/askjs_javascript_is_a_weird_language/)
+- [Adding search to static Astro sites](https://www.reddit.com/r/javascript/comments/1dov3eo/adding_search_to_static_astro_sites/)
+- [I made a YouTube downloader using my own home-built JS framework](https://www.reddit.com/r/javascript/comments/1dotywm/i_made_a_youtube_downloader_using_my_own/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
