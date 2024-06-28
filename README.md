@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I made little AI-driven resume coach to help you prepare for your job interview. I worked hard on a prompt so questions are super relevant. Need feedback.](https://www.reddit.com/r/javascript/comments/1dpf61n/i_made_little_aidriven_resume_coach_to_help_you/)
+- [We created an open-source AI agent that helps with on-call shifts, written in TypeScript + LangChain](https://www.reddit.com/r/javascript/comments/1dq2j3o/we_created_an_opensource_ai_agent_that_helps_with/)
+- [Smaller Documents for Smaller Screens using Sec-CH-Viewport-Width](https://www.reddit.com/r/javascript/comments/1dpyv5v/smaller_documents_for_smaller_screens_using/)
+- [Snapshots for IPC Fuzzing](https://www.reddit.com/r/javascript/comments/1dpvlds/snapshots_for_ipc_fuzzing/)
+- [[AskJS] : which framework to use for rendering ads](https://www.reddit.com/r/javascript/comments/1dpuobv/askjs_which_framework_to_use_for_rendering_ads/)
+- [[AskJS] :Which framework to use for digital ads rendering](https://www.reddit.com/r/javascript/comments/1dpu7vp/askjs_which_framework_to_use_for_digital_ads/)
+- [[AskJS] How to Implement RBAC in Hapi.js?](https://www.reddit.com/r/javascript/comments/1dpty4n/askjs_how_to_implement_rbac_in_hapijs/)
+- [[AskJS] Seemingly complex fetch request help.](https://www.reddit.com/r/javascript/comments/1dpm7vs/askjs_seemingly_complex_fetch_request_help/)
+- [Polyfill supply chain attack embeds malware in JavaScript CDN assets, action required](https://www.reddit.com/r/javascript/comments/1dpl65e/polyfill_supply_chain_attack_embeds_malware_in/)
+- [[AskJS] Looking for a JS method to parse international date/time strings similar to Excel](https://www.reddit.com/r/javascript/comments/1dpkfsx/askjs_looking_for_a_js_method_to_parse/)
 - [I made this little 2D raycaster demo with canvas, for fun and as a learning exercise. Working on extending it to 3D next.](https://www.reddit.com/r/javascript/comments/1dpepex/i_made_this_little_2d_raycaster_demo_with_canvas/)
-- [[AskJS] How does one debug this?](https://www.reddit.com/r/javascript/comments/1dpeij2/askjs_how_does_one_debug_this/)
-- [Javascript powered flipdisc display: a guide](https://www.reddit.com/r/javascript/comments/1dp3hhf/javascript_powered_flipdisc_display_a_guide/)
-- [App/extension for everyday coding practice! free](https://www.reddit.com/r/javascript/comments/1doza2r/appextension_for_everyday_coding_practice_free/)
-- [Yet another react framework](https://www.reddit.com/r/javascript/comments/1doz759/yet_another_react_framework/)
-- [I made a fun tool that tells you whether its time for you to quit it is job or not](https://www.reddit.com/r/javascript/comments/1dowmk0/i_made_a_fun_tool_that_tells_you_whether_its_time/)
-- [[AskJS] JavaScript is a Weird Language](https://www.reddit.com/r/javascript/comments/1dow5rn/askjs_javascript_is_a_weird_language/)
-- [Adding search to static Astro sites](https://www.reddit.com/r/javascript/comments/1dov3eo/adding_search_to_static_astro_sites/)
-- [I made a YouTube downloader using my own home-built JS framework](https://www.reddit.com/r/javascript/comments/1dotywm/i_made_a_youtube_downloader_using_my_own/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
