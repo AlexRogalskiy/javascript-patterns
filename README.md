@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What do you think of Deleight?](https://www.reddit.com/r/javascript/comments/1dqwv7y/what_do_you_think_of_deleight/)
+- [[AskJS] What happens to a return value when you aren&#39;t doing anything with it?](https://www.reddit.com/r/javascript/comments/1dqsdi1/askjs_what_happens_to_a_return_value_when_you/)
+- [Animation Chaining with Doodle](https://www.reddit.com/r/javascript/comments/1dqmyso/animation_chaining_with_doodle/)
+- [Best Open Source PWA Project, Dive into a PWA Full of Features and JS Technologies](https://www.reddit.com/r/javascript/comments/1dqm8pl/best_open_source_pwa_project_dive_into_a_pwa_full/)
+- [Exploring Randomness In JavaScript](https://www.reddit.com/r/javascript/comments/1dqk31s/exploring_randomness_in_javascript/)
+- [Verifying Lemon Squeezy Subscription Webhooks in Cloudflare Workers with D1 and Drizzle ORM](https://www.reddit.com/r/javascript/comments/1dqhw0d/verifying_lemon_squeezy_subscription_webhooks_in/)
+- [A Guide to Front-End vs. Back-End vs. Full-Stack Development](https://www.reddit.com/r/javascript/comments/1dqhmsh/a_guide_to_frontend_vs_backend_vs_fullstack/)
+- [[AskJS] How to fit Vega-Lite visualization to the fixed container size?](https://www.reddit.com/r/javascript/comments/1dqgp8f/askjs_how_to_fit_vegalite_visualization_to_the/)
+- [[AskJS]: Axios or fetch, Which should I choose for a new project?](https://www.reddit.com/r/javascript/comments/1dqcl9p/askjs_axios_or_fetch_which_should_i_choose_for_a/)
 - [We created an open-source AI agent that helps with on-call shifts, written in TypeScript + LangChain](https://www.reddit.com/r/javascript/comments/1dq2j3o/we_created_an_opensource_ai_agent_that_helps_with/)
-- [Smaller Documents for Smaller Screens using Sec-CH-Viewport-Width](https://www.reddit.com/r/javascript/comments/1dpyv5v/smaller_documents_for_smaller_screens_using/)
-- [Snapshots for IPC Fuzzing](https://www.reddit.com/r/javascript/comments/1dpvlds/snapshots_for_ipc_fuzzing/)
-- [[AskJS] : which framework to use for rendering ads](https://www.reddit.com/r/javascript/comments/1dpuobv/askjs_which_framework_to_use_for_rendering_ads/)
-- [[AskJS] :Which framework to use for digital ads rendering](https://www.reddit.com/r/javascript/comments/1dpu7vp/askjs_which_framework_to_use_for_digital_ads/)
-- [[AskJS] How to Implement RBAC in Hapi.js?](https://www.reddit.com/r/javascript/comments/1dpty4n/askjs_how_to_implement_rbac_in_hapijs/)
-- [[AskJS] Seemingly complex fetch request help.](https://www.reddit.com/r/javascript/comments/1dpm7vs/askjs_seemingly_complex_fetch_request_help/)
-- [Polyfill supply chain attack embeds malware in JavaScript CDN assets, action required](https://www.reddit.com/r/javascript/comments/1dpl65e/polyfill_supply_chain_attack_embeds_malware_in/)
-- [[AskJS] Looking for a JS method to parse international date/time strings similar to Excel](https://www.reddit.com/r/javascript/comments/1dpkfsx/askjs_looking_for_a_js_method_to_parse/)
-- [I made this little 2D raycaster demo with canvas, for fun and as a learning exercise. Working on extending it to 3D next.](https://www.reddit.com/r/javascript/comments/1dpepex/i_made_this_little_2d_raycaster_demo_with_canvas/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
