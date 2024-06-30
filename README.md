@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ZoomAny.js: A javascript library to Zoom any HTML Element by Mouse Position, supporting Typescript too and wrappers](https://www.reddit.com/r/javascript/comments/1drqakj/zoomanyjs_a_javascript_library_to_zoom_any_html/)
+- [I have created a simple json query tool, jproc](https://www.reddit.com/r/javascript/comments/1drc2e6/i_have_created_a_simple_json_query_tool_jproc/)
+- [Showoff Saturday &lpar;June 29, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1dr5bvs/showoff_saturday_june_29_2024/)
+- [I&#39;ve created a cryptographic website challenge:](https://www.reddit.com/r/javascript/comments/1dr4sq1/ive_created_a_cryptographic_website_challenge/)
 - [What do you think of Deleight?](https://www.reddit.com/r/javascript/comments/1dqwv7y/what_do_you_think_of_deleight/)
 - [[AskJS] What happens to a return value when you aren&#39;t doing anything with it?](https://www.reddit.com/r/javascript/comments/1dqsdi1/askjs_what_happens_to_a_return_value_when_you/)
-- [Animation Chaining with Doodle](https://www.reddit.com/r/javascript/comments/1dqmyso/animation_chaining_with_doodle/)
 - [Best Open Source PWA Project, Dive into a PWA Full of Features and JS Technologies](https://www.reddit.com/r/javascript/comments/1dqm8pl/best_open_source_pwa_project_dive_into_a_pwa_full/)
 - [Exploring Randomness In JavaScript](https://www.reddit.com/r/javascript/comments/1dqk31s/exploring_randomness_in_javascript/)
 - [Verifying Lemon Squeezy Subscription Webhooks in Cloudflare Workers with D1 and Drizzle ORM](https://www.reddit.com/r/javascript/comments/1dqhw0d/verifying_lemon_squeezy_subscription_webhooks_in/)
-- [A Guide to Front-End vs. Back-End vs. Full-Stack Development](https://www.reddit.com/r/javascript/comments/1dqhmsh/a_guide_to_frontend_vs_backend_vs_fullstack/)
 - [[AskJS] How to fit Vega-Lite visualization to the fixed container size?](https://www.reddit.com/r/javascript/comments/1dqgp8f/askjs_how_to_fit_vegalite_visualization_to_the/)
-- [[AskJS]: Axios or fetch, Which should I choose for a new project?](https://www.reddit.com/r/javascript/comments/1dqcl9p/askjs_axios_or_fetch_which_should_i_choose_for_a/)
-- [We created an open-source AI agent that helps with on-call shifts, written in TypeScript + LangChain](https://www.reddit.com/r/javascript/comments/1dq2j3o/we_created_an_opensource_ai_agent_that_helps_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
