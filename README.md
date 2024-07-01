@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to read stardard input to a different process using QuickJS](https://www.reddit.com/r/javascript/comments/1dsgyuj/how_to_read_stardard_input_to_a_different_process/)
+- [Made a small module for fast inline semaphores and mutexes](https://www.reddit.com/r/javascript/comments/1ds2wps/made_a_small_module_for_fast_inline_semaphores/)
+- [How to Cancel Promises in JavaScript](https://www.reddit.com/r/javascript/comments/1drtmgc/how_to_cancel_promises_in_javascript/)
+- [[AskJS] : Looking for some guidance on Job hunting as a Software Engineer &lpar;Mainly working with JS/TS based technologies&rpar;](https://www.reddit.com/r/javascript/comments/1drt5ll/askjs_looking_for_some_guidance_on_job_hunting_as/)
 - [ZoomAny.js: A javascript library to Zoom any HTML Element by Mouse Position, supporting Typescript too and wrappers](https://www.reddit.com/r/javascript/comments/1drqakj/zoomanyjs_a_javascript_library_to_zoom_any_html/)
 - [I have created a simple json query tool, jproc](https://www.reddit.com/r/javascript/comments/1drc2e6/i_have_created_a_simple_json_query_tool_jproc/)
 - [Showoff Saturday &lpar;June 29, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1dr5bvs/showoff_saturday_june_29_2024/)
 - [I&#39;ve created a cryptographic website challenge:](https://www.reddit.com/r/javascript/comments/1dr4sq1/ive_created_a_cryptographic_website_challenge/)
 - [What do you think of Deleight?](https://www.reddit.com/r/javascript/comments/1dqwv7y/what_do_you_think_of_deleight/)
 - [[AskJS] What happens to a return value when you aren&#39;t doing anything with it?](https://www.reddit.com/r/javascript/comments/1dqsdi1/askjs_what_happens_to_a_return_value_when_you/)
-- [Best Open Source PWA Project, Dive into a PWA Full of Features and JS Technologies](https://www.reddit.com/r/javascript/comments/1dqm8pl/best_open_source_pwa_project_dive_into_a_pwa_full/)
-- [Exploring Randomness In JavaScript](https://www.reddit.com/r/javascript/comments/1dqk31s/exploring_randomness_in_javascript/)
-- [Verifying Lemon Squeezy Subscription Webhooks in Cloudflare Workers with D1 and Drizzle ORM](https://www.reddit.com/r/javascript/comments/1dqhw0d/verifying_lemon_squeezy_subscription_webhooks_in/)
-- [[AskJS] How to fit Vega-Lite visualization to the fixed container size?](https://www.reddit.com/r/javascript/comments/1dqgp8f/askjs_how_to_fit_vegalite_visualization_to_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
