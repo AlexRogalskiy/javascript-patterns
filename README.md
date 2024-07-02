@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to read stardard input to a different process using QuickJS](https://www.reddit.com/r/javascript/comments/1dsgyuj/how_to_read_stardard_input_to_a_different_process/)
-- [Made a small module for fast inline semaphores and mutexes](https://www.reddit.com/r/javascript/comments/1ds2wps/made_a_small_module_for_fast_inline_semaphores/)
-- [How to Cancel Promises in JavaScript](https://www.reddit.com/r/javascript/comments/1drtmgc/how_to_cancel_promises_in_javascript/)
-- [[AskJS] : Looking for some guidance on Job hunting as a Software Engineer &lpar;Mainly working with JS/TS based technologies&rpar;](https://www.reddit.com/r/javascript/comments/1drt5ll/askjs_looking_for_some_guidance_on_job_hunting_as/)
-- [ZoomAny.js: A javascript library to Zoom any HTML Element by Mouse Position, supporting Typescript too and wrappers](https://www.reddit.com/r/javascript/comments/1drqakj/zoomanyjs_a_javascript_library_to_zoom_any_html/)
-- [I have created a simple json query tool, jproc](https://www.reddit.com/r/javascript/comments/1drc2e6/i_have_created_a_simple_json_query_tool_jproc/)
-- [Showoff Saturday &lpar;June 29, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1dr5bvs/showoff_saturday_june_29_2024/)
-- [I&#39;ve created a cryptographic website challenge:](https://www.reddit.com/r/javascript/comments/1dr4sq1/ive_created_a_cryptographic_website_challenge/)
-- [What do you think of Deleight?](https://www.reddit.com/r/javascript/comments/1dqwv7y/what_do_you_think_of_deleight/)
-- [[AskJS] What happens to a return value when you aren&#39;t doing anything with it?](https://www.reddit.com/r/javascript/comments/1dqsdi1/askjs_what_happens_to_a_return_value_when_you/)
+- [[AskJS] getting Error: Could not find matching close tag for &quot;&lt;%&quot; for ejs project, any help pls?](https://www.reddit.com/r/javascript/comments/1dt2qno/askjs_getting_error_could_not_find_matching_close/)
+- [[AskJS] How do you test the speed/memory usage of functions?](https://www.reddit.com/r/javascript/comments/1dsx11b/askjs_how_do_you_test_the_speedmemory_usage_of/)
+- [Vike – June Releases](https://www.reddit.com/r/javascript/comments/1dsudy3/vike_june_releases/)
+- [Backbone.js 1.6 released](https://www.reddit.com/r/javascript/comments/1dstggg/backbonejs_16_released/)
+- [What is JavaScript Event Listeners: How to Respond to User Actions.](https://www.reddit.com/r/javascript/comments/1dstaaf/what_is_javascript_event_listeners_how_to_respond/)
+- [Choosing the Right Framework for Cross-Platform Mobile App Development](https://www.reddit.com/r/javascript/comments/1dst5i0/choosing_the_right_framework_for_crossplatform/)
+- [Dare to Experiment](https://www.reddit.com/r/javascript/comments/1dssyit/dare_to_experiment/)
+- [[AskJS] What is the best way to implement a general OAuth package that supports multiple task management APIs?](https://www.reddit.com/r/javascript/comments/1dspi7e/askjs_what_is_the_best_way_to_implement_a_general/)
+- [Your /r/javascript recap for the week of June 24 - June 30, 2024](https://www.reddit.com/r/javascript/comments/1dsojbi/your_rjavascript_recap_for_the_week_of_june_24/)
+- [CRON Job &lpar;working fine locally&rpar;](https://www.reddit.com/r/javascript/comments/1dsnbzq/cron_job_working_fine_locally/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
