@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] How much more do you really need for simple HTML element manipulation? &lpar;at least a bit, I&#39;d assume&rpar;](https://www.reddit.com/r/javascript/comments/1du283w/askjs_how_much_more_do_you_really_need_for_simple/)
+- [How Storybook uses State of JS survey to guide development](https://www.reddit.com/r/javascript/comments/1dtt4kq/how_storybook_uses_state_of_js_survey_to_guide/)
+- [Parallel DOM: Parallelize away heavy DOM operations](https://www.reddit.com/r/javascript/comments/1dtq6nm/parallel_dom_parallelize_away_heavy_dom_operations/)
+- [[AskJS] How to actually Learn from the Documentation?](https://www.reddit.com/r/javascript/comments/1dtpkes/askjs_how_to_actually_learn_from_the_documentation/)
+- [[AskJS] Struggling with JavaScript closures in recursive functions - Anyone else?](https://www.reddit.com/r/javascript/comments/1dteqxm/askjs_struggling_with_javascript_closures_in/)
+- [This can fix me!](https://www.reddit.com/r/javascript/comments/1dte6bn/this_can_fix_me/)
+- [[AskJS] I&#39;ve been unemployed for a month and I&#39;m starting to worry, any advice?](https://www.reddit.com/r/javascript/comments/1dtbszp/askjs_ive_been_unemployed_for_a_month_and_im/)
 - [[AskJS] getting Error: Could not find matching close tag for &quot;&lt;%&quot; for ejs project, any help pls?](https://www.reddit.com/r/javascript/comments/1dt2qno/askjs_getting_error_could_not_find_matching_close/)
 - [[AskJS] How do you test the speed/memory usage of functions?](https://www.reddit.com/r/javascript/comments/1dsx11b/askjs_how_do_you_test_the_speedmemory_usage_of/)
 - [Vike – June Releases](https://www.reddit.com/r/javascript/comments/1dsudy3/vike_june_releases/)
-- [Backbone.js 1.6 released](https://www.reddit.com/r/javascript/comments/1dstggg/backbonejs_16_released/)
-- [What is JavaScript Event Listeners: How to Respond to User Actions.](https://www.reddit.com/r/javascript/comments/1dstaaf/what_is_javascript_event_listeners_how_to_respond/)
-- [Choosing the Right Framework for Cross-Platform Mobile App Development](https://www.reddit.com/r/javascript/comments/1dst5i0/choosing_the_right_framework_for_crossplatform/)
-- [Dare to Experiment](https://www.reddit.com/r/javascript/comments/1dssyit/dare_to_experiment/)
-- [[AskJS] What is the best way to implement a general OAuth package that supports multiple task management APIs?](https://www.reddit.com/r/javascript/comments/1dspi7e/askjs_what_is_the_best_way_to_implement_a_general/)
-- [Your /r/javascript recap for the week of June 24 - June 30, 2024](https://www.reddit.com/r/javascript/comments/1dsojbi/your_rjavascript_recap_for_the_week_of_june_24/)
-- [CRON Job &lpar;working fine locally&rpar;](https://www.reddit.com/r/javascript/comments/1dsnbzq/cron_job_working_fine_locally/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
