@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [WASI, Communication between Node.js and WASM modules, another way, with STDIN and STDOUT](https://www.reddit.com/r/javascript/comments/1durtzb/wasi_communication_between_nodejs_and_wasm/)
+- [React Dialect - Next Gen I18n Library For React - No Translation Keys, Seamless Interpolation, Lazy Loading &amp; More](https://www.reddit.com/r/javascript/comments/1dupeg5/react_dialect_next_gen_i18n_library_for_react_no/)
+- [[AskJS] Problem with a project.](https://www.reddit.com/r/javascript/comments/1duem4f/askjs_problem_with_a_project/)
+- [What do you think this UI generator I&#39;ve built using NextJs ?](https://www.reddit.com/r/javascript/comments/1ducnue/what_do_you_think_this_ui_generator_ive_built/)
+- [[AskJS] Do you use Vite.js for big projects](https://www.reddit.com/r/javascript/comments/1duah1a/askjs_do_you_use_vitejs_for_big_projects/)
+- [How to use Prototypal Inheritance in JavaScript? with Code Examples](https://www.reddit.com/r/javascript/comments/1du9uft/how_to_use_prototypal_inheritance_in_javascript/)
+- [WTF Wednesday &lpar;July 03, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1du83gi/wtf_wednesday_july_03_2024/)
+- [Mako - Extremely fast, production-grade web bundler based on Rust](https://www.reddit.com/r/javascript/comments/1du3uu1/mako_extremely_fast_productiongrade_web_bundler/)
 - [[AskJS] How much more do you really need for simple HTML element manipulation? &lpar;at least a bit, I&#39;d assume&rpar;](https://www.reddit.com/r/javascript/comments/1du283w/askjs_how_much_more_do_you_really_need_for_simple/)
 - [How Storybook uses State of JS survey to guide development](https://www.reddit.com/r/javascript/comments/1dtt4kq/how_storybook_uses_state_of_js_survey_to_guide/)
-- [Parallel DOM: Parallelize away heavy DOM operations](https://www.reddit.com/r/javascript/comments/1dtq6nm/parallel_dom_parallelize_away_heavy_dom_operations/)
-- [[AskJS] How to actually Learn from the Documentation?](https://www.reddit.com/r/javascript/comments/1dtpkes/askjs_how_to_actually_learn_from_the_documentation/)
-- [[AskJS] Struggling with JavaScript closures in recursive functions - Anyone else?](https://www.reddit.com/r/javascript/comments/1dteqxm/askjs_struggling_with_javascript_closures_in/)
-- [This can fix me!](https://www.reddit.com/r/javascript/comments/1dte6bn/this_can_fix_me/)
-- [[AskJS] I&#39;ve been unemployed for a month and I&#39;m starting to worry, any advice?](https://www.reddit.com/r/javascript/comments/1dtbszp/askjs_ive_been_unemployed_for_a_month_and_im/)
-- [[AskJS] getting Error: Could not find matching close tag for &quot;&lt;%&quot; for ejs project, any help pls?](https://www.reddit.com/r/javascript/comments/1dt2qno/askjs_getting_error_could_not_find_matching_close/)
-- [[AskJS] How do you test the speed/memory usage of functions?](https://www.reddit.com/r/javascript/comments/1dsx11b/askjs_how_do_you_test_the_speedmemory_usage_of/)
-- [Vike – June Releases](https://www.reddit.com/r/javascript/comments/1dsudy3/vike_june_releases/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
