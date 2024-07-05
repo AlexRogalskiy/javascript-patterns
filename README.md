@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [&quot;es-toolkit&quot;, a 2-3x faster and 97% smaller alternative to lodash](https://www.reddit.com/r/javascript/comments/1dvmd1v/estoolkit_a_23x_faster_and_97_smaller_alternative/)
+- [[AskJS] Suddenly blob creation from large typed array is no longer allowed?](https://www.reddit.com/r/javascript/comments/1dvjb8l/askjs_suddenly_blob_creation_from_large_typed/)
+- [Introducing the WebAssembly JavaScript Promise Integration API](https://www.reddit.com/r/javascript/comments/1dvhkli/introducing_the_webassembly_javascript_promise/)
+- [How to add a WordPress Blog to a Next.js app as a subdirectory in the same domain for boosting SEO](https://www.reddit.com/r/javascript/comments/1dvbbcj/how_to_add_a_wordpress_blog_to_a_nextjs_app_as_a/)
+- [OpenAI &lpar;LLM&rpar; Function Call Schema Generator from Swagger &lpar;OpenAPI&rpar; Document](https://www.reddit.com/r/javascript/comments/1dvaipg/openai_llm_function_call_schema_generator_from/)
+- [[AskJS] A program to send me an email for my website](https://www.reddit.com/r/javascript/comments/1dv02hf/askjs_a_program_to_send_me_an_email_for_my_website/)
+- [[AskJS] Any Javascript Library to format some strings of code like prettier?](https://www.reddit.com/r/javascript/comments/1duzgl2/askjs_any_javascript_library_to_format_some/)
+- [[AskJS] Nextjs page router and app router, which is the future?](https://www.reddit.com/r/javascript/comments/1duyuzq/askjs_nextjs_page_router_and_app_router_which_is/)
 - [WASI, Communication between Node.js and WASM modules, another way, with STDIN and STDOUT](https://www.reddit.com/r/javascript/comments/1durtzb/wasi_communication_between_nodejs_and_wasm/)
 - [React Dialect - Next Gen I18n Library For React - No Translation Keys, Seamless Interpolation, Lazy Loading &amp; More](https://www.reddit.com/r/javascript/comments/1dupeg5/react_dialect_next_gen_i18n_library_for_react_no/)
-- [[AskJS] Problem with a project.](https://www.reddit.com/r/javascript/comments/1duem4f/askjs_problem_with_a_project/)
-- [What do you think this UI generator I&#39;ve built using NextJs ?](https://www.reddit.com/r/javascript/comments/1ducnue/what_do_you_think_this_ui_generator_ive_built/)
-- [[AskJS] Do you use Vite.js for big projects](https://www.reddit.com/r/javascript/comments/1duah1a/askjs_do_you_use_vitejs_for_big_projects/)
-- [How to use Prototypal Inheritance in JavaScript? with Code Examples](https://www.reddit.com/r/javascript/comments/1du9uft/how_to_use_prototypal_inheritance_in_javascript/)
-- [WTF Wednesday &lpar;July 03, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1du83gi/wtf_wednesday_july_03_2024/)
-- [Mako - Extremely fast, production-grade web bundler based on Rust](https://www.reddit.com/r/javascript/comments/1du3uu1/mako_extremely_fast_productiongrade_web_bundler/)
-- [[AskJS] How much more do you really need for simple HTML element manipulation? &lpar;at least a bit, I&#39;d assume&rpar;](https://www.reddit.com/r/javascript/comments/1du283w/askjs_how_much_more_do_you_really_need_for_simple/)
-- [How Storybook uses State of JS survey to guide development](https://www.reddit.com/r/javascript/comments/1dtt4kq/how_storybook_uses_state_of_js_survey_to_guide/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
