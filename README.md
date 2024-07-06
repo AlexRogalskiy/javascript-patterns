@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Uint32Array to Uint8Array, Uint8Array to Uint32Array](https://www.reddit.com/r/javascript/comments/1dwdu97/uint32array_to_uint8array_uint8array_to/)
+- [Do you ever change your editor theme?](https://www.reddit.com/r/javascript/comments/1dwavw4/do_you_ever_change_your_editor_theme/)
+- [An open-source UI-based algorithmic trading platform built in TypeScript + React](https://www.reddit.com/r/javascript/comments/1dw5w9f/an_opensource_uibased_algorithmic_trading/)
+- [Introducing Vizdom: A Fast and Declarative Graph Layout &amp; Rendering Library](https://www.reddit.com/r/javascript/comments/1dw1g92/introducing_vizdom_a_fast_and_declarative_graph/)
+- [[AskJS] Help me improve my game.](https://www.reddit.com/r/javascript/comments/1dvzm55/askjs_help_me_improve_my_game/)
+- [[AskJS] An alternative to cancelling Promises](https://www.reddit.com/r/javascript/comments/1dvxgw8/askjs_an_alternative_to_cancelling_promises/)
+- [[AskJS] JS canvas library for simple embedded card design project](https://www.reddit.com/r/javascript/comments/1dvs40x/askjs_js_canvas_library_for_simple_embedded_card/)
 - [&quot;es-toolkit&quot;, a 2-3x faster and 97% smaller alternative to lodash](https://www.reddit.com/r/javascript/comments/1dvmd1v/estoolkit_a_23x_faster_and_97_smaller_alternative/)
 - [[AskJS] Suddenly blob creation from large typed array is no longer allowed?](https://www.reddit.com/r/javascript/comments/1dvjb8l/askjs_suddenly_blob_creation_from_large_typed/)
 - [Introducing the WebAssembly JavaScript Promise Integration API](https://www.reddit.com/r/javascript/comments/1dvhkli/introducing_the_webassembly_javascript_promise/)
-- [How to add a WordPress Blog to a Next.js app as a subdirectory in the same domain for boosting SEO](https://www.reddit.com/r/javascript/comments/1dvbbcj/how_to_add_a_wordpress_blog_to_a_nextjs_app_as_a/)
-- [OpenAI &lpar;LLM&rpar; Function Call Schema Generator from Swagger &lpar;OpenAPI&rpar; Document](https://www.reddit.com/r/javascript/comments/1dvaipg/openai_llm_function_call_schema_generator_from/)
-- [[AskJS] A program to send me an email for my website](https://www.reddit.com/r/javascript/comments/1dv02hf/askjs_a_program_to_send_me_an_email_for_my_website/)
-- [[AskJS] Any Javascript Library to format some strings of code like prettier?](https://www.reddit.com/r/javascript/comments/1duzgl2/askjs_any_javascript_library_to_format_some/)
-- [[AskJS] Nextjs page router and app router, which is the future?](https://www.reddit.com/r/javascript/comments/1duyuzq/askjs_nextjs_page_router_and_app_router_which_is/)
-- [WASI, Communication between Node.js and WASM modules, another way, with STDIN and STDOUT](https://www.reddit.com/r/javascript/comments/1durtzb/wasi_communication_between_nodejs_and_wasm/)
-- [React Dialect - Next Gen I18n Library For React - No Translation Keys, Seamless Interpolation, Lazy Loading &amp; More](https://www.reddit.com/r/javascript/comments/1dupeg5/react_dialect_next_gen_i18n_library_for_react_no/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
