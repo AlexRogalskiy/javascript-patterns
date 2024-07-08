@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [AI_button, generate button with LLM](https://www.reddit.com/r/javascript/comments/1dxv8sy/ai_button_generate_button_with_llm/)
+- [[AskJS] Can I custom it?](https://www.reddit.com/r/javascript/comments/1dxu5l2/askjs_can_i_custom_it/)
+- [[AskJS] My Pop up of Alert is not coming in Java script in Vs code what should i do ?](https://www.reddit.com/r/javascript/comments/1dxntmd/askjs_my_pop_up_of_alert_is_not_coming_in_java/)
+- [Advanced Data Visualization Techniques with D3.js and Plotly](https://www.reddit.com/r/javascript/comments/1dxb2cm/advanced_data_visualization_techniques_with_d3js/)
+- [[AskJS] Can I make a tool like this completely offline in HTML?](https://www.reddit.com/r/javascript/comments/1dx5tit/askjs_can_i_make_a_tool_like_this_completely/)
 - [I built a WASM powered Text-to-Speech library that runs in your browser with almost human-like audio quality! Would love your feedback!](https://www.reddit.com/r/javascript/comments/1dww246/i_built_a_wasm_powered_texttospeech_library_that/)
-- [Free Online Image Editor - Privacy-Focused, Fast, and Mobile-Friendly](https://www.reddit.com/r/javascript/comments/1dwver5/free_online_image_editor_privacyfocused_fast_and/)
-- [[AskJS] How to create a website where a user can design a furniture or something?](https://www.reddit.com/r/javascript/comments/1dwtw7c/askjs_how_to_create_a_website_where_a_user_can/)
-- [We released a major update of our Javascript game based on your previous comments. What do you think? Please let us know your feedback or suggestions.](https://www.reddit.com/r/javascript/comments/1dwrz7v/we_released_a_major_update_of_our_javascript_game/)
-- [[AskJS] I am trying to scrape YouTube captions with puppeteer. But I can only get captions as they appear for viewer. How can I scrape the complete captions of a YouTube video?](https://www.reddit.com/r/javascript/comments/1dwoywf/askjs_i_am_trying_to_scrape_youtube_captions_with/)
-- [[AskJS] How to remove console logs from particular site or Js file?](https://www.reddit.com/r/javascript/comments/1dwos2p/askjs_how_to_remove_console_logs_from_particular/)
 - [Showoff Saturday &lpar;July 06, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1dwjpmm/showoff_saturday_july_06_2024/)
-- [Chat With Chrome AI](https://www.reddit.com/r/javascript/comments/1dwgctb/chat_with_chrome_ai/)
 - [Uint32Array to Uint8Array, Uint8Array to Uint32Array](https://www.reddit.com/r/javascript/comments/1dwdu97/uint32array_to_uint8array_uint8array_to/)
-- [Do you ever change your editor theme?](https://www.reddit.com/r/javascript/comments/1dwavw4/do_you_ever_change_your_editor_theme/)
+- [An open-source UI-based algorithmic trading platform built in TypeScript + React](https://www.reddit.com/r/javascript/comments/1dw5w9f/an_opensource_uibased_algorithmic_trading/)
+- [Introducing Vizdom: A Fast and Declarative Graph Layout &amp; Rendering Library](https://www.reddit.com/r/javascript/comments/1dw1g92/introducing_vizdom_a_fast_and_declarative_graph/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
