@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Celp: Contextually Aware, AI-Driven Unit Test Generation for Typescript Node.js projects](https://www.reddit.com/r/javascript/comments/1dzjupt/celp_contextually_aware_aidriven_unit_test/)
+- [[AskJS] From Human Lang to URL](https://www.reddit.com/r/javascript/comments/1dzeqd1/askjs_from_human_lang_to_url/)
+- [TypeID-JS: Compact, type-safe, globally unique IDs for Typescript and more](https://www.reddit.com/r/javascript/comments/1dzb3ug/typeidjs_compact_typesafe_globally_unique_ids_for/)
+- [[Update]: I built a WASM powered Text-to-Speech library that runs in your browser with almost human-like audio quality. DEMO is now available!](https://www.reddit.com/r/javascript/comments/1dzazvx/update_i_built_a_wasm_powered_texttospeech/)
+- [Building a Batch Notification System with MongoDB, Django, Celery, and SendGrid &lpar;Code &amp; Github&rpar;](https://www.reddit.com/r/javascript/comments/1dz4oqd/building_a_batch_notification_system_with_mongodb/)
+- [Do It Jstz with Tezos: Introducing JavaScript-Powered Smart Rollups - XTZ News](https://www.reddit.com/r/javascript/comments/1dz4mdd/do_it_jstz_with_tezos_introducing/)
+- [Library to make it easier to migrate away from deprecated crypto-js](https://www.reddit.com/r/javascript/comments/1dz1vmy/library_to_make_it_easier_to_migrate_away_from/)
+- [Recreating the THX &quot;Deep Note&quot; in JavaScript](https://www.reddit.com/r/javascript/comments/1dywp7x/recreating_the_thx_deep_note_in_javascript/)
 - [[AskJS] Best Open LLM out there to generate JS code?](https://www.reddit.com/r/javascript/comments/1dyq6cj/askjs_best_open_llm_out_there_to_generate_js_code/)
 - [Learn Suspense by Building a Suspense-Enabled Library](https://www.reddit.com/r/javascript/comments/1dyjuuo/learn_suspense_by_building_a_suspenseenabled/)
-- [[AskJS] Monorepo Tips For Next.js Apps](https://www.reddit.com/r/javascript/comments/1dyivnj/askjs_monorepo_tips_for_nextjs_apps/)
-- [An almost complete checklist for your i18n efforts Part 1](https://www.reddit.com/r/javascript/comments/1dyf67b/an_almost_complete_checklist_for_your_i18n/)
-- [nimate: Built my own animation library for hardware projects after struggling with existing options](https://www.reddit.com/r/javascript/comments/1dyeqh1/nimate_built_my_own_animation_library_for/)
-- [[AskJS] Introducing a new tool for Carnatic music lovers!](https://www.reddit.com/r/javascript/comments/1dybppv/askjs_introducing_a_new_tool_for_carnatic_music/)
-- [ZoomAny.js: Make Any DOM Element Zoomable](https://www.reddit.com/r/javascript/comments/1dyadt0/zoomanyjs_make_any_dom_element_zoomable/)
-- [Enhancing Your React Native App with Reanimated 2 Using Expo](https://www.reddit.com/r/javascript/comments/1dy4ja8/enhancing_your_react_native_app_with_reanimated_2/)
-- [How LinkedIn Smartly Routes their Unseen Notifications from In-app Inbox to your Email?](https://www.reddit.com/r/javascript/comments/1dy20pc/how_linkedin_smartly_routes_their_unseen/)
-- [[AskJS] Extend d8/v8 to read stdin to TypedArray, or just keep using os.system&lpar;&rpar;?](https://www.reddit.com/r/javascript/comments/1dy0bwf/askjs_extend_d8v8_to_read_stdin_to_typedarray_or/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
