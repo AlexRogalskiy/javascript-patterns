@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Celp: Contextually Aware, AI-Driven Unit Test Generation for Typescript Node.js projects](https://www.reddit.com/r/javascript/comments/1dzjupt/celp_contextually_aware_aidriven_unit_test/)
-- [[AskJS] From Human Lang to URL](https://www.reddit.com/r/javascript/comments/1dzeqd1/askjs_from_human_lang_to_url/)
-- [TypeID-JS: Compact, type-safe, globally unique IDs for Typescript and more](https://www.reddit.com/r/javascript/comments/1dzb3ug/typeidjs_compact_typesafe_globally_unique_ids_for/)
-- [[Update]: I built a WASM powered Text-to-Speech library that runs in your browser with almost human-like audio quality. DEMO is now available!](https://www.reddit.com/r/javascript/comments/1dzazvx/update_i_built_a_wasm_powered_texttospeech/)
-- [Building a Batch Notification System with MongoDB, Django, Celery, and SendGrid &lpar;Code &amp; Github&rpar;](https://www.reddit.com/r/javascript/comments/1dz4oqd/building_a_batch_notification_system_with_mongodb/)
-- [Do It Jstz with Tezos: Introducing JavaScript-Powered Smart Rollups - XTZ News](https://www.reddit.com/r/javascript/comments/1dz4mdd/do_it_jstz_with_tezos_introducing/)
-- [Library to make it easier to migrate away from deprecated crypto-js](https://www.reddit.com/r/javascript/comments/1dz1vmy/library_to_make_it_easier_to_migrate_away_from/)
-- [Recreating the THX &quot;Deep Note&quot; in JavaScript](https://www.reddit.com/r/javascript/comments/1dywp7x/recreating_the_thx_deep_note_in_javascript/)
-- [[AskJS] Best Open LLM out there to generate JS code?](https://www.reddit.com/r/javascript/comments/1dyq6cj/askjs_best_open_llm_out_there_to_generate_js_code/)
-- [Learn Suspense by Building a Suspense-Enabled Library](https://www.reddit.com/r/javascript/comments/1dyjuuo/learn_suspense_by_building_a_suspenseenabled/)
+- [Finder Clone - A functional filesystem library](https://www.reddit.com/r/javascript/comments/1e05wn1/finder_clone_a_functional_filesystem_library/)
+- [[AskJS] What is the closest thing to Laravel and Lumne in JS?](https://www.reddit.com/r/javascript/comments/1e04h08/askjs_what_is_the_closest_thing_to_laravel_and/)
+- [[AskJS] Does anyone know if using Vite over Webpack would jeopardize core-web vital scores?](https://www.reddit.com/r/javascript/comments/1e03rrz/askjs_does_anyone_know_if_using_vite_over_webpack/)
+- [[AskJS] Exporting Kaboom.js/Kaplay.js game to desktop](https://www.reddit.com/r/javascript/comments/1dzzhkz/askjs_exporting_kaboomjskaplayjs_game_to_desktop/)
+- [Butterup - A lightweight, customizable toast notification library](https://www.reddit.com/r/javascript/comments/1dzy4tt/butterup_a_lightweight_customizable_toast/)
+- [[AskJS] Are there any other Frameworks that can easily connect front and back end code from a single codebase the same way Sveltekit does?](https://www.reddit.com/r/javascript/comments/1dzsgr9/askjs_are_there_any_other_frameworks_that_can/)
+- [New JavaScript Set methods](https://www.reddit.com/r/javascript/comments/1dzqmj6/new_javascript_set_methods/)
+- [WTF Wednesday &lpar;July 10, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1dzpc1r/wtf_wednesday_july_10_2024/)
+- [Hobby scrapper project](https://www.reddit.com/r/javascript/comments/1dzkxu1/hobby_scrapper_project/)
+- [Extended Mermaid to allow for drag and drop functionality](https://www.reddit.com/r/javascript/comments/1dzkpfy/extended_mermaid_to_allow_for_drag_and_drop/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
