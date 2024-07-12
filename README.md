@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Finder Clone - A functional filesystem library](https://www.reddit.com/r/javascript/comments/1e05wn1/finder_clone_a_functional_filesystem_library/)
-- [[AskJS] What is the closest thing to Laravel and Lumne in JS?](https://www.reddit.com/r/javascript/comments/1e04h08/askjs_what_is_the_closest_thing_to_laravel_and/)
-- [[AskJS] Does anyone know if using Vite over Webpack would jeopardize core-web vital scores?](https://www.reddit.com/r/javascript/comments/1e03rrz/askjs_does_anyone_know_if_using_vite_over_webpack/)
-- [[AskJS] Exporting Kaboom.js/Kaplay.js game to desktop](https://www.reddit.com/r/javascript/comments/1dzzhkz/askjs_exporting_kaboomjskaplayjs_game_to_desktop/)
-- [Butterup - A lightweight, customizable toast notification library](https://www.reddit.com/r/javascript/comments/1dzy4tt/butterup_a_lightweight_customizable_toast/)
-- [[AskJS] Are there any other Frameworks that can easily connect front and back end code from a single codebase the same way Sveltekit does?](https://www.reddit.com/r/javascript/comments/1dzsgr9/askjs_are_there_any_other_frameworks_that_can/)
-- [New JavaScript Set methods](https://www.reddit.com/r/javascript/comments/1dzqmj6/new_javascript_set_methods/)
-- [WTF Wednesday &lpar;July 10, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1dzpc1r/wtf_wednesday_july_10_2024/)
-- [Hobby scrapper project](https://www.reddit.com/r/javascript/comments/1dzkxu1/hobby_scrapper_project/)
-- [Extended Mermaid to allow for drag and drop functionality](https://www.reddit.com/r/javascript/comments/1dzkpfy/extended_mermaid_to_allow_for_drag_and_drop/)
+- [[AskJS] Is Deno really necessary in an age of Docker / Containerization?](https://www.reddit.com/r/javascript/comments/1e13wex/askjs_is_deno_really_necessary_in_an_age_of/)
+- [[AskJS] Roast my landing page](https://www.reddit.com/r/javascript/comments/1e12e5z/askjs_roast_my_landing_page/)
+- [[AskJS] We&#39;ve Created a Layer 1 Blockchain that lets you write Smart Contracts on JS!](https://www.reddit.com/r/javascript/comments/1e128uc/askjs_weve_created_a_layer_1_blockchain_that_lets/)
+- [Creating requests](https://www.reddit.com/r/javascript/comments/1e0zmj3/creating_requests/)
+- [Seeking Input: Building a QuickJS-Emscripten Package for JavaScript/TypeScript in WebAssembly Sandbox](https://www.reddit.com/r/javascript/comments/1e0yjp3/seeking_input_building_a_quickjsemscripten/)
+- [[AskJS] My Duplicate row button isn&#39;t working and moveRow buttons stop working after i reload the page, but other buttons still work. Can anyone say why is it happening?](https://www.reddit.com/r/javascript/comments/1e0y8vm/askjs_my_duplicate_row_button_isnt_working_and/)
+- [Oh God, not another stupid animation library.](https://www.reddit.com/r/javascript/comments/1e0wt48/oh_god_not_another_stupid_animation_library/)
+- [a note on an interesting utility i found on npm: patch-package](https://www.reddit.com/r/javascript/comments/1e0wjcs/a_note_on_an_interesting_utility_i_found_on_npm/)
+- [[AskJS] How to simulate slow Jest tests?](https://www.reddit.com/r/javascript/comments/1e0qhk3/askjs_how_to_simulate_slow_jest_tests/)
+- [[AskJS] Another project deharbed](https://www.reddit.com/r/javascript/comments/1e0mh6a/askjs_another_project_deharbed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
