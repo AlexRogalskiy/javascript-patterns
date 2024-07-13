@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I just cut LLM hallucinations by 50% in my SDK for generating unit tests for nodejs and using helicone!](https://www.reddit.com/r/javascript/comments/1e1x2yc/i_just_cut_llm_hallucinations_by_50_in_my_sdk_for/)
+- [Benchmark driven development in JavaScript &lpar;Set vs. Array&rpar;](https://www.reddit.com/r/javascript/comments/1e1ek6i/benchmark_driven_development_in_javascript_set_vs/)
+- [Optimizing Performance in Large-Scale React Applications](https://www.reddit.com/r/javascript/comments/1e1b6h2/optimizing_performance_in_largescale_react/)
+- [Upgrade your DOM to be multithreaded](https://www.reddit.com/r/javascript/comments/1e1andh/upgrade_your_dom_to_be_multithreaded/)
+- [[Friends Link Blog] A blazing-fast algorithm to transform one DOM tree into another](https://www.reddit.com/r/javascript/comments/1e19k9s/friends_link_blog_a_blazingfast_algorithm_to/)
+- [Page Replica - Enhance SEO with Prerendering, Caching, and Static Page Serving](https://www.reddit.com/r/javascript/comments/1e17vn4/page_replica_enhance_seo_with_prerendering/)
 - [[AskJS] Is Deno really necessary in an age of Docker / Containerization?](https://www.reddit.com/r/javascript/comments/1e13wex/askjs_is_deno_really_necessary_in_an_age_of/)
-- [[AskJS] Roast my landing page](https://www.reddit.com/r/javascript/comments/1e12e5z/askjs_roast_my_landing_page/)
-- [[AskJS] We&#39;ve Created a Layer 1 Blockchain that lets you write Smart Contracts on JS!](https://www.reddit.com/r/javascript/comments/1e128uc/askjs_weve_created_a_layer_1_blockchain_that_lets/)
 - [Creating requests](https://www.reddit.com/r/javascript/comments/1e0zmj3/creating_requests/)
 - [Seeking Input: Building a QuickJS-Emscripten Package for JavaScript/TypeScript in WebAssembly Sandbox](https://www.reddit.com/r/javascript/comments/1e0yjp3/seeking_input_building_a_quickjsemscripten/)
 - [[AskJS] My Duplicate row button isn&#39;t working and moveRow buttons stop working after i reload the page, but other buttons still work. Can anyone say why is it happening?](https://www.reddit.com/r/javascript/comments/1e0y8vm/askjs_my_duplicate_row_button_isnt_working_and/)
-- [Oh God, not another stupid animation library.](https://www.reddit.com/r/javascript/comments/1e0wt48/oh_god_not_another_stupid_animation_library/)
-- [a note on an interesting utility i found on npm: patch-package](https://www.reddit.com/r/javascript/comments/1e0wjcs/a_note_on_an_interesting_utility_i_found_on_npm/)
-- [[AskJS] How to simulate slow Jest tests?](https://www.reddit.com/r/javascript/comments/1e0qhk3/askjs_how_to_simulate_slow_jest_tests/)
-- [[AskJS] Another project deharbed](https://www.reddit.com/r/javascript/comments/1e0mh6a/askjs_another_project_deharbed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
