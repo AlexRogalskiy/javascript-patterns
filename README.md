@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I just cut LLM hallucinations by 50% in my SDK for generating unit tests for nodejs and using helicone!](https://www.reddit.com/r/javascript/comments/1e1x2yc/i_just_cut_llm_hallucinations_by_50_in_my_sdk_for/)
-- [Benchmark driven development in JavaScript &lpar;Set vs. Array&rpar;](https://www.reddit.com/r/javascript/comments/1e1ek6i/benchmark_driven_development_in_javascript_set_vs/)
-- [Optimizing Performance in Large-Scale React Applications](https://www.reddit.com/r/javascript/comments/1e1b6h2/optimizing_performance_in_largescale_react/)
-- [Upgrade your DOM to be multithreaded](https://www.reddit.com/r/javascript/comments/1e1andh/upgrade_your_dom_to_be_multithreaded/)
-- [[Friends Link Blog] A blazing-fast algorithm to transform one DOM tree into another](https://www.reddit.com/r/javascript/comments/1e19k9s/friends_link_blog_a_blazingfast_algorithm_to/)
-- [Page Replica - Enhance SEO with Prerendering, Caching, and Static Page Serving](https://www.reddit.com/r/javascript/comments/1e17vn4/page_replica_enhance_seo_with_prerendering/)
-- [[AskJS] Is Deno really necessary in an age of Docker / Containerization?](https://www.reddit.com/r/javascript/comments/1e13wex/askjs_is_deno_really_necessary_in_an_age_of/)
-- [Creating requests](https://www.reddit.com/r/javascript/comments/1e0zmj3/creating_requests/)
-- [Seeking Input: Building a QuickJS-Emscripten Package for JavaScript/TypeScript in WebAssembly Sandbox](https://www.reddit.com/r/javascript/comments/1e0yjp3/seeking_input_building_a_quickjsemscripten/)
-- [[AskJS] My Duplicate row button isn&#39;t working and moveRow buttons stop working after i reload the page, but other buttons still work. Can anyone say why is it happening?](https://www.reddit.com/r/javascript/comments/1e0y8vm/askjs_my_duplicate_row_button_isnt_working_and/)
+- [Vercel AI SDK: RAG Guide](https://www.reddit.com/r/javascript/comments/1e2m20a/vercel_ai_sdk_rag_guide/)
+- [Announcing HmplJS 2.0 - template language for fetching HTML from API with passing request objects. Now, this is super convenient!](https://www.reddit.com/r/javascript/comments/1e2kwzx/announcing_hmpljs_20_template_language_for/)
+- [[AskJS] Help is needed](https://www.reddit.com/r/javascript/comments/1e2k5kx/askjs_help_is_needed/)
+- [[AskJS] Chrome context menu](https://www.reddit.com/r/javascript/comments/1e2k2qa/askjs_chrome_context_menu/)
+- [[AskJS] Why Sails didn&#39;t took off?](https://www.reddit.com/r/javascript/comments/1e2ifjg/askjs_why_sails_didnt_took_off/)
+- [[AskJS] Hi folks just found out snippets in chrome inspect](https://www.reddit.com/r/javascript/comments/1e2e0wm/askjs_hi_folks_just_found_out_snippets_in_chrome/)
+- [[AskJS] Is there a library smart enough to programmatically substitute fetch&lpar;&rpar; for XMLHttpRequest in code output by Emscripten?](https://www.reddit.com/r/javascript/comments/1e2c81y/askjs_is_there_a_library_smart_enough_to/)
+- [I made a package to streamline your code sharing with chatGPT](https://www.reddit.com/r/javascript/comments/1e268od/i_made_a_package_to_streamline_your_code_sharing/)
+- [Showoff Saturday &lpar;July 13, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1e245aj/showoff_saturday_july_13_2024/)
+- [ngx-stylesweep: a CLI tool that removes empty style files from your Angular components](https://www.reddit.com/r/javascript/comments/1e2429g/ngxstylesweep_a_cli_tool_that_removes_empty_style/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
