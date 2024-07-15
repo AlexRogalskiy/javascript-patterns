@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Can i develop a whole game console OS that runs on the Javascript engine?](https://www.reddit.com/r/javascript/comments/1e3d9xl/askjs_can_i_develop_a_whole_game_console_os_that/)
+- [Adding piper module and voices to Speech Dispatcher for Web Speech API](https://www.reddit.com/r/javascript/comments/1e3b7we/adding_piper_module_and_voices_to_speech/)
+- [Javascript Demoscene Competition - 1024 Bytes Challenge](https://www.reddit.com/r/javascript/comments/1e37205/javascript_demoscene_competition_1024_bytes/)
+- [[AskJS] Yarn 4 somehow still runs batch script on Windows](https://www.reddit.com/r/javascript/comments/1e34202/askjs_yarn_4_somehow_still_runs_batch_script_on/)
+- [QuickFunctions: Code Golf but for Performance](https://www.reddit.com/r/javascript/comments/1e33gqs/quickfunctions_code_golf_but_for_performance/)
+- [Released ngx-vflow@0.8.0 with loose connections support where you can connect nodes without any restrictions](https://www.reddit.com/r/javascript/comments/1e2xyim/released_ngxvflow080_with_loose_connections/)
+- [Harnessing NgRx for Effortless Angular State Management](https://www.reddit.com/r/javascript/comments/1e2r7cu/harnessing_ngrx_for_effortless_angular_state/)
 - [Vercel AI SDK: RAG Guide](https://www.reddit.com/r/javascript/comments/1e2m20a/vercel_ai_sdk_rag_guide/)
 - [Announcing HmplJS 2.0 - template language for fetching HTML from API with passing request objects. Now, this is super convenient!](https://www.reddit.com/r/javascript/comments/1e2kwzx/announcing_hmpljs_20_template_language_for/)
-- [[AskJS] Help is needed](https://www.reddit.com/r/javascript/comments/1e2k5kx/askjs_help_is_needed/)
-- [[AskJS] Chrome context menu](https://www.reddit.com/r/javascript/comments/1e2k2qa/askjs_chrome_context_menu/)
 - [[AskJS] Why Sails didn&#39;t took off?](https://www.reddit.com/r/javascript/comments/1e2ifjg/askjs_why_sails_didnt_took_off/)
-- [[AskJS] Hi folks just found out snippets in chrome inspect](https://www.reddit.com/r/javascript/comments/1e2e0wm/askjs_hi_folks_just_found_out_snippets_in_chrome/)
-- [[AskJS] Is there a library smart enough to programmatically substitute fetch&lpar;&rpar; for XMLHttpRequest in code output by Emscripten?](https://www.reddit.com/r/javascript/comments/1e2c81y/askjs_is_there_a_library_smart_enough_to/)
-- [I made a package to streamline your code sharing with chatGPT](https://www.reddit.com/r/javascript/comments/1e268od/i_made_a_package_to_streamline_your_code_sharing/)
-- [Showoff Saturday &lpar;July 13, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1e245aj/showoff_saturday_july_13_2024/)
-- [ngx-stylesweep: a CLI tool that removes empty style files from your Angular components](https://www.reddit.com/r/javascript/comments/1e2429g/ngxstylesweep_a_cli_tool_that_removes_empty_style/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
