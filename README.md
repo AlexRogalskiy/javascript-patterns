@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to Compose Functions That Take Multiple Parameters: Epic Guide](https://www.reddit.com/r/javascript/comments/1e463t0/how_to_compose_functions_that_take_multiple/)
+- [Never Use Web-Components For Your UI-Component Startup](https://www.reddit.com/r/javascript/comments/1e41k0p/never_use_webcomponents_for_your_uicomponent/)
+- [[AskJS] Library for posting messages from embedded app to web and native parent apps?](https://www.reddit.com/r/javascript/comments/1e41jtu/askjs_library_for_posting_messages_from_embedded/)
+- [npm Packages Found Sending Malware in JPEG files](https://www.reddit.com/r/javascript/comments/1e3xery/npm_packages_found_sending_malware_in_jpeg_files/)
+- [Your /r/javascript recap for the week of July 08 - July 14, 2024](https://www.reddit.com/r/javascript/comments/1e3qdp8/your_rjavascript_recap_for_the_week_of_july_08/)
+- [Introducing Z-Js-Framework, the literally low overhead Js framework, that enhances html, css and javascript.](https://www.reddit.com/r/javascript/comments/1e3n5he/introducing_zjsframework_the_literally_low/)
 - [[AskJS] Can i develop a whole game console OS that runs on the Javascript engine?](https://www.reddit.com/r/javascript/comments/1e3d9xl/askjs_can_i_develop_a_whole_game_console_os_that/)
 - [Adding piper module and voices to Speech Dispatcher for Web Speech API](https://www.reddit.com/r/javascript/comments/1e3b7we/adding_piper_module_and_voices_to_speech/)
 - [Javascript Demoscene Competition - 1024 Bytes Challenge](https://www.reddit.com/r/javascript/comments/1e37205/javascript_demoscene_competition_1024_bytes/)
 - [[AskJS] Yarn 4 somehow still runs batch script on Windows](https://www.reddit.com/r/javascript/comments/1e34202/askjs_yarn_4_somehow_still_runs_batch_script_on/)
-- [QuickFunctions: Code Golf but for Performance](https://www.reddit.com/r/javascript/comments/1e33gqs/quickfunctions_code_golf_but_for_performance/)
-- [Released ngx-vflow@0.8.0 with loose connections support where you can connect nodes without any restrictions](https://www.reddit.com/r/javascript/comments/1e2xyim/released_ngxvflow080_with_loose_connections/)
-- [Harnessing NgRx for Effortless Angular State Management](https://www.reddit.com/r/javascript/comments/1e2r7cu/harnessing_ngrx_for_effortless_angular_state/)
-- [Vercel AI SDK: RAG Guide](https://www.reddit.com/r/javascript/comments/1e2m20a/vercel_ai_sdk_rag_guide/)
-- [Announcing HmplJS 2.0 - template language for fetching HTML from API with passing request objects. Now, this is super convenient!](https://www.reddit.com/r/javascript/comments/1e2kwzx/announcing_hmpljs_20_template_language_for/)
-- [[AskJS] Why Sails didn&#39;t took off?](https://www.reddit.com/r/javascript/comments/1e2ifjg/askjs_why_sails_didnt_took_off/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
