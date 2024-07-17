@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [500+ JavaScript Questions Quiz](https://www.reddit.com/r/javascript/comments/1e55tl7/500_javascript_questions_quiz/)
+- [Javascript to Typescript converter with ChatGPT](https://www.reddit.com/r/javascript/comments/1e4xtyl/javascript_to_typescript_converter_with_chatgpt/)
+- [[AskJS] Javascript learning group](https://www.reddit.com/r/javascript/comments/1e4ufzs/askjs_javascript_learning_group/)
+- [Creating Zip Files with JavaScript](https://www.reddit.com/r/javascript/comments/1e4luli/creating_zip_files_with_javascript/)
+- [A smoothed Particle Hydrodynamics Simulator written in Three.js](https://www.reddit.com/r/javascript/comments/1e4goy9/a_smoothed_particle_hydrodynamics_simulator/)
 - [How to Compose Functions That Take Multiple Parameters: Epic Guide](https://www.reddit.com/r/javascript/comments/1e463t0/how_to_compose_functions_that_take_multiple/)
 - [Never Use Web-Components For Your UI-Component Startup](https://www.reddit.com/r/javascript/comments/1e41k0p/never_use_webcomponents_for_your_uicomponent/)
 - [[AskJS] Library for posting messages from embedded app to web and native parent apps?](https://www.reddit.com/r/javascript/comments/1e41jtu/askjs_library_for_posting_messages_from_embedded/)
 - [npm Packages Found Sending Malware in JPEG files](https://www.reddit.com/r/javascript/comments/1e3xery/npm_packages_found_sending_malware_in_jpeg_files/)
 - [Your /r/javascript recap for the week of July 08 - July 14, 2024](https://www.reddit.com/r/javascript/comments/1e3qdp8/your_rjavascript_recap_for_the_week_of_july_08/)
-- [Introducing Z-Js-Framework, the literally low overhead Js framework, that enhances html, css and javascript.](https://www.reddit.com/r/javascript/comments/1e3n5he/introducing_zjsframework_the_literally_low/)
-- [[AskJS] Can i develop a whole game console OS that runs on the Javascript engine?](https://www.reddit.com/r/javascript/comments/1e3d9xl/askjs_can_i_develop_a_whole_game_console_os_that/)
-- [Adding piper module and voices to Speech Dispatcher for Web Speech API](https://www.reddit.com/r/javascript/comments/1e3b7we/adding_piper_module_and_voices_to_speech/)
-- [Javascript Demoscene Competition - 1024 Bytes Challenge](https://www.reddit.com/r/javascript/comments/1e37205/javascript_demoscene_competition_1024_bytes/)
-- [[AskJS] Yarn 4 somehow still runs batch script on Windows](https://www.reddit.com/r/javascript/comments/1e34202/askjs_yarn_4_somehow_still_runs_batch_script_on/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
