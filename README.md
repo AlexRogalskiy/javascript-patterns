@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] How to exchange the values of 2 variables?](https://www.reddit.com/r/javascript/comments/1e5z6r7/askjs_how_to_exchange_the_values_of_2_variables/)
+- [[AskJS] Best practices for handling class dependencies](https://www.reddit.com/r/javascript/comments/1e5xdhy/askjs_best_practices_for_handling_class/)
+- [Been testing out the Popover API and a little bit of anchor positioning so I wanted to share what I&#39;ve done so far in JS with it and see if you have any feedback.](https://www.reddit.com/r/javascript/comments/1e5s8k7/been_testing_out_the_popover_api_and_a_little_bit/)
+- [Can my tools build tools? Pre-rendering web pages with help from ChatGPT](https://www.reddit.com/r/javascript/comments/1e5qv0j/can_my_tools_build_tools_prerendering_web_pages/)
+- [[AskJS] Is it a problem if the code base is filled with optional chaining?](https://www.reddit.com/r/javascript/comments/1e5ozdj/askjs_is_it_a_problem_if_the_code_base_is_filled/)
+- [[AskJS] PWA web app that needs its code to be reviewed](https://www.reddit.com/r/javascript/comments/1e5k4yd/askjs_pwa_web_app_that_needs_its_code_to_be/)
+- [[AskJS] Creating one Frontend for multiple customers with multiple configurations and flexibility plus specific client features.](https://www.reddit.com/r/javascript/comments/1e5gu6x/askjs_creating_one_frontend_for_multiple/)
+- [WTF Wednesday &lpar;July 17, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1e5bqit/wtf_wednesday_july_17_2024/)
 - [500+ JavaScript Questions Quiz](https://www.reddit.com/r/javascript/comments/1e55tl7/500_javascript_questions_quiz/)
 - [Javascript to Typescript converter with ChatGPT](https://www.reddit.com/r/javascript/comments/1e4xtyl/javascript_to_typescript_converter_with_chatgpt/)
-- [[AskJS] Javascript learning group](https://www.reddit.com/r/javascript/comments/1e4ufzs/askjs_javascript_learning_group/)
-- [Creating Zip Files with JavaScript](https://www.reddit.com/r/javascript/comments/1e4luli/creating_zip_files_with_javascript/)
-- [A smoothed Particle Hydrodynamics Simulator written in Three.js](https://www.reddit.com/r/javascript/comments/1e4goy9/a_smoothed_particle_hydrodynamics_simulator/)
-- [How to Compose Functions That Take Multiple Parameters: Epic Guide](https://www.reddit.com/r/javascript/comments/1e463t0/how_to_compose_functions_that_take_multiple/)
-- [Never Use Web-Components For Your UI-Component Startup](https://www.reddit.com/r/javascript/comments/1e41k0p/never_use_webcomponents_for_your_uicomponent/)
-- [[AskJS] Library for posting messages from embedded app to web and native parent apps?](https://www.reddit.com/r/javascript/comments/1e41jtu/askjs_library_for_posting_messages_from_embedded/)
-- [npm Packages Found Sending Malware in JPEG files](https://www.reddit.com/r/javascript/comments/1e3xery/npm_packages_found_sending_malware_in_jpeg_files/)
-- [Your /r/javascript recap for the week of July 08 - July 14, 2024](https://www.reddit.com/r/javascript/comments/1e3qdp8/your_rjavascript_recap_for_the_week_of_july_08/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
