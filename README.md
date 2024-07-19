@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] How to exchange the values of 2 variables?](https://www.reddit.com/r/javascript/comments/1e5z6r7/askjs_how_to_exchange_the_values_of_2_variables/)
+- [[AskJS] :: Substitute photos after and before by scaling](https://www.reddit.com/r/javascript/comments/1e6ko32/askjs_substitute_photos_after_and_before_by/)
+- [Dynamically loaded extensions in Postgres in the browser](https://www.reddit.com/r/javascript/comments/1e6frwl/dynamically_loaded_extensions_in_postgres_in_the/)
+- [[AskJS] Graph drawing library recommendation - alternatives to maxGraph?](https://www.reddit.com/r/javascript/comments/1e68q9r/askjs_graph_drawing_library_recommendation/)
+- [Open-Sourcing my assessment for LottieFiles &lpar;Senior Front-end Dev role&rpar;](https://www.reddit.com/r/javascript/comments/1e65s20/opensourcing_my_assessment_for_lottiefiles_senior/)
+- [[AskJS] deterministic asymmetric key generation using SubtleCrypto](https://www.reddit.com/r/javascript/comments/1e6579y/askjs_deterministic_asymmetric_key_generation/)
+- [[AskJS] Streaming text like ChatGPT](https://www.reddit.com/r/javascript/comments/1e64gj5/askjs_streaming_text_like_chatgpt/)
 - [[AskJS] Best practices for handling class dependencies](https://www.reddit.com/r/javascript/comments/1e5xdhy/askjs_best_practices_for_handling_class/)
 - [Been testing out the Popover API and a little bit of anchor positioning so I wanted to share what I&#39;ve done so far in JS with it and see if you have any feedback.](https://www.reddit.com/r/javascript/comments/1e5s8k7/been_testing_out_the_popover_api_and_a_little_bit/)
 - [Can my tools build tools? Pre-rendering web pages with help from ChatGPT](https://www.reddit.com/r/javascript/comments/1e5qv0j/can_my_tools_build_tools_prerendering_web_pages/)
 - [[AskJS] Is it a problem if the code base is filled with optional chaining?](https://www.reddit.com/r/javascript/comments/1e5ozdj/askjs_is_it_a_problem_if_the_code_base_is_filled/)
-- [[AskJS] PWA web app that needs its code to be reviewed](https://www.reddit.com/r/javascript/comments/1e5k4yd/askjs_pwa_web_app_that_needs_its_code_to_be/)
-- [[AskJS] Creating one Frontend for multiple customers with multiple configurations and flexibility plus specific client features.](https://www.reddit.com/r/javascript/comments/1e5gu6x/askjs_creating_one_frontend_for_multiple/)
-- [WTF Wednesday &lpar;July 17, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1e5bqit/wtf_wednesday_july_17_2024/)
-- [500+ JavaScript Questions Quiz](https://www.reddit.com/r/javascript/comments/1e55tl7/500_javascript_questions_quiz/)
-- [Javascript to Typescript converter with ChatGPT](https://www.reddit.com/r/javascript/comments/1e4xtyl/javascript_to_typescript_converter_with_chatgpt/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
