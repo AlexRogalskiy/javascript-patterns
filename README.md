@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Big LittleJS engine news about the new logo, game jam, and community contributions!](https://www.reddit.com/r/javascript/comments/1e7j142/big_littlejs_engine_news_about_the_new_logo_game/)
+- [[AskJS] I published my first npm package!](https://www.reddit.com/r/javascript/comments/1e7bd5z/askjs_i_published_my_first_npm_package/)
+- [[AskJS] No matter what, I still feel like a JavaScript beginner. I need your advice on how to improve.](https://www.reddit.com/r/javascript/comments/1e75azi/askjs_no_matter_what_i_still_feel_like_a/)
+- [The quickest way to write trading automations in JavaScript](https://www.reddit.com/r/javascript/comments/1e74uzf/the_quickest_way_to_write_trading_automations_in/)
+- [[AskJS] How to set transparent BG to webgl animation canvas ?](https://www.reddit.com/r/javascript/comments/1e71hy5/askjs_how_to_set_transparent_bg_to_webgl/)
+- [Understanding controlled and uncontrolled components in React](https://www.reddit.com/r/javascript/comments/1e700br/understanding_controlled_and_uncontrolled/)
+- [MikroORM 6.3: Schema first?](https://www.reddit.com/r/javascript/comments/1e6xv9s/mikroorm_63_schema_first/)
+- [Functional components we implemented in our notification system](https://www.reddit.com/r/javascript/comments/1e6wjic/functional_components_we_implemented_in_our/)
 - [[AskJS] :: Substitute photos after and before by scaling](https://www.reddit.com/r/javascript/comments/1e6ko32/askjs_substitute_photos_after_and_before_by/)
 - [Dynamically loaded extensions in Postgres in the browser](https://www.reddit.com/r/javascript/comments/1e6frwl/dynamically_loaded_extensions_in_postgres_in_the/)
-- [[AskJS] Graph drawing library recommendation - alternatives to maxGraph?](https://www.reddit.com/r/javascript/comments/1e68q9r/askjs_graph_drawing_library_recommendation/)
-- [Open-Sourcing my assessment for LottieFiles &lpar;Senior Front-end Dev role&rpar;](https://www.reddit.com/r/javascript/comments/1e65s20/opensourcing_my_assessment_for_lottiefiles_senior/)
-- [[AskJS] deterministic asymmetric key generation using SubtleCrypto](https://www.reddit.com/r/javascript/comments/1e6579y/askjs_deterministic_asymmetric_key_generation/)
-- [[AskJS] Streaming text like ChatGPT](https://www.reddit.com/r/javascript/comments/1e64gj5/askjs_streaming_text_like_chatgpt/)
-- [[AskJS] Best practices for handling class dependencies](https://www.reddit.com/r/javascript/comments/1e5xdhy/askjs_best_practices_for_handling_class/)
-- [Been testing out the Popover API and a little bit of anchor positioning so I wanted to share what I&#39;ve done so far in JS with it and see if you have any feedback.](https://www.reddit.com/r/javascript/comments/1e5s8k7/been_testing_out_the_popover_api_and_a_little_bit/)
-- [Can my tools build tools? Pre-rendering web pages with help from ChatGPT](https://www.reddit.com/r/javascript/comments/1e5qv0j/can_my_tools_build_tools_prerendering_web_pages/)
-- [[AskJS] Is it a problem if the code base is filled with optional chaining?](https://www.reddit.com/r/javascript/comments/1e5ozdj/askjs_is_it_a_problem_if_the_code_base_is_filled/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
