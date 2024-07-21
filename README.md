@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Big LittleJS engine news about the new logo, game jam, and community contributions!](https://www.reddit.com/r/javascript/comments/1e7j142/big_littlejs_engine_news_about_the_new_logo_game/)
-- [[AskJS] I published my first npm package!](https://www.reddit.com/r/javascript/comments/1e7bd5z/askjs_i_published_my_first_npm_package/)
-- [[AskJS] No matter what, I still feel like a JavaScript beginner. I need your advice on how to improve.](https://www.reddit.com/r/javascript/comments/1e75azi/askjs_no_matter_what_i_still_feel_like_a/)
-- [The quickest way to write trading automations in JavaScript](https://www.reddit.com/r/javascript/comments/1e74uzf/the_quickest_way_to_write_trading_automations_in/)
-- [[AskJS] How to set transparent BG to webgl animation canvas ?](https://www.reddit.com/r/javascript/comments/1e71hy5/askjs_how_to_set_transparent_bg_to_webgl/)
-- [Understanding controlled and uncontrolled components in React](https://www.reddit.com/r/javascript/comments/1e700br/understanding_controlled_and_uncontrolled/)
-- [MikroORM 6.3: Schema first?](https://www.reddit.com/r/javascript/comments/1e6xv9s/mikroorm_63_schema_first/)
-- [Functional components we implemented in our notification system](https://www.reddit.com/r/javascript/comments/1e6wjic/functional_components_we_implemented_in_our/)
-- [[AskJS] :: Substitute photos after and before by scaling](https://www.reddit.com/r/javascript/comments/1e6ko32/askjs_substitute_photos_after_and_before_by/)
-- [Dynamically loaded extensions in Postgres in the browser](https://www.reddit.com/r/javascript/comments/1e6frwl/dynamically_loaded_extensions_in_postgres_in_the/)
+- [An AI document extractor that doesn&#39;t require pre-training, unlike Google Document AI or Azure Document Intelligence. You don&#39;t have to spend hours and weeks labelling anymore: find it here.](https://www.reddit.com/r/javascript/comments/1e8bfsv/an_ai_document_extractor_that_doesnt_require/)
+- [[AskJS] call stack async await](https://www.reddit.com/r/javascript/comments/1e81l2o/askjs_call_stack_async_await/)
+- [A brief interview with Tcl creator John Ousterhout &lpar;interesting note about JS&rpar;](https://www.reddit.com/r/javascript/comments/1e80p2a/a_brief_interview_with_tcl_creator_john/)
+- [UI Generator for your json data](https://www.reddit.com/r/javascript/comments/1e8033l/ui_generator_for_your_json_data/)
+- [I made an AI-first photo album based on GPT-4O-mini that can chat with your personal photo library.](https://www.reddit.com/r/javascript/comments/1e7wyiz/i_made_an_aifirst_photo_album_based_on_gpt4omini/)
+- [Rollup plugin to generate typescript declarations using tsc native](https://www.reddit.com/r/javascript/comments/1e7vpue/rollup_plugin_to_generate_typescript_declarations/)
+- [Direct Sockets API for the web platform](https://www.reddit.com/r/javascript/comments/1e7vmw9/direct_sockets_api_for_the_web_platform/)
+- [[AskJS] Rotating around y-axis without x/z displacements &lpar;tree with branches&rpar; - three.js](https://www.reddit.com/r/javascript/comments/1e7qhnw/askjs_rotating_around_yaxis_without_xz/)
+- [Showoff Saturday &lpar;July 20, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1e7pnlz/showoff_saturday_july_20_2024/)
+- [I created a browser based video editor in Javascript with generative image, speech and music](https://www.reddit.com/r/javascript/comments/1e7p9c4/i_created_a_browser_based_video_editor_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
