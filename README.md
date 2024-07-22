@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A Guide to a Delightful Git Experience for JavaScript Projects](https://www.reddit.com/r/javascript/comments/1e8v00g/a_guide_to_a_delightful_git_experience_for/)
+- [I&#39;ve made a Wordle clone to learn the basics of javascript. What do you think?? What can I improve??](https://www.reddit.com/r/javascript/comments/1e8ubs5/ive_made_a_wordle_clone_to_learn_the_basics_of/)
+- [[AskJS] Looking for a library to create a map of nodes w/ connections](https://www.reddit.com/r/javascript/comments/1e8qfg7/askjs_looking_for_a_library_to_create_a_map_of/)
+- [[AskJS] What Tools and Libraries Would You Recommend for Building a No-Code UI Builder for Web3 Apps?](https://www.reddit.com/r/javascript/comments/1e8lnv1/askjs_what_tools_and_libraries_would_you/)
 - [An AI document extractor that doesn&#39;t require pre-training, unlike Google Document AI or Azure Document Intelligence. You don&#39;t have to spend hours and weeks labelling anymore: find it here.](https://www.reddit.com/r/javascript/comments/1e8bfsv/an_ai_document_extractor_that_doesnt_require/)
-- [[AskJS] call stack async await](https://www.reddit.com/r/javascript/comments/1e81l2o/askjs_call_stack_async_await/)
 - [A brief interview with Tcl creator John Ousterhout &lpar;interesting note about JS&rpar;](https://www.reddit.com/r/javascript/comments/1e80p2a/a_brief_interview_with_tcl_creator_john/)
 - [UI Generator for your json data](https://www.reddit.com/r/javascript/comments/1e8033l/ui_generator_for_your_json_data/)
 - [I made an AI-first photo album based on GPT-4O-mini that can chat with your personal photo library.](https://www.reddit.com/r/javascript/comments/1e7wyiz/i_made_an_aifirst_photo_album_based_on_gpt4omini/)
 - [Rollup plugin to generate typescript declarations using tsc native](https://www.reddit.com/r/javascript/comments/1e7vpue/rollup_plugin_to_generate_typescript_declarations/)
 - [Direct Sockets API for the web platform](https://www.reddit.com/r/javascript/comments/1e7vmw9/direct_sockets_api_for_the_web_platform/)
-- [[AskJS] Rotating around y-axis without x/z displacements &lpar;tree with branches&rpar; - three.js](https://www.reddit.com/r/javascript/comments/1e7qhnw/askjs_rotating_around_yaxis_without_xz/)
-- [Showoff Saturday &lpar;July 20, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1e7pnlz/showoff_saturday_july_20_2024/)
-- [I created a browser based video editor in Javascript with generative image, speech and music](https://www.reddit.com/r/javascript/comments/1e7p9c4/i_created_a_browser_based_video_editor_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
