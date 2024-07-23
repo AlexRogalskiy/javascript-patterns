@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Tampermonkey script that clicks button](https://www.reddit.com/r/javascript/comments/1e9qf8z/askjs_tampermonkey_script_that_clicks_button/)
+- [__proto__ - Breaking JavaScript Objects](https://www.reddit.com/r/javascript/comments/1e9p6se/proto_breaking_javascript_objects/)
+- [[AskJS] What five changes would you make to javascript?](https://www.reddit.com/r/javascript/comments/1e9iish/askjs_what_five_changes_would_you_make_to/)
+- [[AskJS] Why would someone need to detect native functions and why would a library maintainer &lpar;core-js&rpar; &quot;obstruct any attempts to fix native function detection&quot;?](https://www.reddit.com/r/javascript/comments/1e9dceq/askjs_why_would_someone_need_to_detect_native/)
+- [Your /r/javascript recap for the week of July 15 - July 21, 2024](https://www.reddit.com/r/javascript/comments/1e99xke/your_rjavascript_recap_for_the_week_of_july_15/)
+- [Sundown: A new WebGPU + JS game and simulation engine](https://www.reddit.com/r/javascript/comments/1e98be2/sundown_a_new_webgpu_js_game_and_simulation_engine/)
 - [A Guide to a Delightful Git Experience for JavaScript Projects](https://www.reddit.com/r/javascript/comments/1e8v00g/a_guide_to_a_delightful_git_experience_for/)
 - [I&#39;ve made a Wordle clone to learn the basics of javascript. What do you think?? What can I improve??](https://www.reddit.com/r/javascript/comments/1e8ubs5/ive_made_a_wordle_clone_to_learn_the_basics_of/)
 - [[AskJS] Looking for a library to create a map of nodes w/ connections](https://www.reddit.com/r/javascript/comments/1e8qfg7/askjs_looking_for_a_library_to_create_a_map_of/)
 - [[AskJS] What Tools and Libraries Would You Recommend for Building a No-Code UI Builder for Web3 Apps?](https://www.reddit.com/r/javascript/comments/1e8lnv1/askjs_what_tools_and_libraries_would_you/)
-- [An AI document extractor that doesn&#39;t require pre-training, unlike Google Document AI or Azure Document Intelligence. You don&#39;t have to spend hours and weeks labelling anymore: find it here.](https://www.reddit.com/r/javascript/comments/1e8bfsv/an_ai_document_extractor_that_doesnt_require/)
-- [A brief interview with Tcl creator John Ousterhout &lpar;interesting note about JS&rpar;](https://www.reddit.com/r/javascript/comments/1e80p2a/a_brief_interview_with_tcl_creator_john/)
-- [UI Generator for your json data](https://www.reddit.com/r/javascript/comments/1e8033l/ui_generator_for_your_json_data/)
-- [I made an AI-first photo album based on GPT-4O-mini that can chat with your personal photo library.](https://www.reddit.com/r/javascript/comments/1e7wyiz/i_made_an_aifirst_photo_album_based_on_gpt4omini/)
-- [Rollup plugin to generate typescript declarations using tsc native](https://www.reddit.com/r/javascript/comments/1e7vpue/rollup_plugin_to_generate_typescript_declarations/)
-- [Direct Sockets API for the web platform](https://www.reddit.com/r/javascript/comments/1e7vmw9/direct_sockets_api_for_the_web_platform/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
