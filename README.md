@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Tampermonkey script that clicks button](https://www.reddit.com/r/javascript/comments/1e9qf8z/askjs_tampermonkey_script_that_clicks_button/)
+- [Practical Guide To Not Blocking The Event Loop](https://www.reddit.com/r/javascript/comments/1eam9py/practical_guide_to_not_blocking_the_event_loop/)
+- [a few ways to check for dependency &lpar;package.json&rpar; security issues &lpar;do you know any more things worth checking??&rpar;](https://www.reddit.com/r/javascript/comments/1eaeybs/a_few_ways_to_check_for_dependency_packagejson/)
+- [Template language for fetching HTML from API](https://www.reddit.com/r/javascript/comments/1eadz2g/template_language_for_fetching_html_from_api/)
+- [Hover Preview: Preview your HTML elements on hover - A VSCode extension](https://www.reddit.com/r/javascript/comments/1eabsan/hover_preview_preview_your_html_elements_on_hover/)
+- [Uppy 4.0: TypeScript rewrite, Google Photos, React hooks, and more](https://www.reddit.com/r/javascript/comments/1ea89i8/uppy_40_typescript_rewrite_google_photos_react/)
+- [[AskJS] Finding that Javascript Blog](https://www.reddit.com/r/javascript/comments/1ea44fn/askjs_finding_that_javascript_blog/)
+- [Programmatically inspect internal JavaScript closure variables &lpar;Chrome&rpar;](https://www.reddit.com/r/javascript/comments/1ea10wp/programmatically_inspect_internal_javascript/)
+- [Which JavaScript runtime do you think is the fastest reading stdin and writing stdout?](https://www.reddit.com/r/javascript/comments/1ea09m4/which_javascript_runtime_do_you_think_is_the/)
 - [__proto__ - Breaking JavaScript Objects](https://www.reddit.com/r/javascript/comments/1e9p6se/proto_breaking_javascript_objects/)
 - [[AskJS] What five changes would you make to javascript?](https://www.reddit.com/r/javascript/comments/1e9iish/askjs_what_five_changes_would_you_make_to/)
-- [[AskJS] Why would someone need to detect native functions and why would a library maintainer &lpar;core-js&rpar; &quot;obstruct any attempts to fix native function detection&quot;?](https://www.reddit.com/r/javascript/comments/1e9dceq/askjs_why_would_someone_need_to_detect_native/)
-- [Your /r/javascript recap for the week of July 15 - July 21, 2024](https://www.reddit.com/r/javascript/comments/1e99xke/your_rjavascript_recap_for_the_week_of_july_15/)
-- [Sundown: A new WebGPU + JS game and simulation engine](https://www.reddit.com/r/javascript/comments/1e98be2/sundown_a_new_webgpu_js_game_and_simulation_engine/)
-- [A Guide to a Delightful Git Experience for JavaScript Projects](https://www.reddit.com/r/javascript/comments/1e8v00g/a_guide_to_a_delightful_git_experience_for/)
-- [I&#39;ve made a Wordle clone to learn the basics of javascript. What do you think?? What can I improve??](https://www.reddit.com/r/javascript/comments/1e8ubs5/ive_made_a_wordle_clone_to_learn_the_basics_of/)
-- [[AskJS] Looking for a library to create a map of nodes w/ connections](https://www.reddit.com/r/javascript/comments/1e8qfg7/askjs_looking_for_a_library_to_create_a_map_of/)
-- [[AskJS] What Tools and Libraries Would You Recommend for Building a No-Code UI Builder for Web3 Apps?](https://www.reddit.com/r/javascript/comments/1e8lnv1/askjs_what_tools_and_libraries_would_you/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
