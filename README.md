@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The Process That Kept Dying: A memory leak murder mystery](https://www.reddit.com/r/javascript/comments/1ebafjc/the_process_that_kept_dying_a_memory_leak_murder/)
+- [Storybook 8.2 is out now!](https://www.reddit.com/r/javascript/comments/1eb9vka/storybook_82_is_out_now/)
+- [[AskJS] Why should I set name of custom Error types?](https://www.reddit.com/r/javascript/comments/1eb9ku2/askjs_why_should_i_set_name_of_custom_error_types/)
+- [[AskJS] Has Anyone Built Using ReactFlow? What did you Like/Dislike?](https://www.reddit.com/r/javascript/comments/1eaw4q1/askjs_has_anyone_built_using_reactflow_what_did/)
+- [WTF Wednesday &lpar;July 24, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1eauxdo/wtf_wednesday_july_24_2024/)
+- [[AskJS] Developing a 3D SPA with JavaScript - Seeking Insights and Feedback](https://www.reddit.com/r/javascript/comments/1eaqnzp/askjs_developing_a_3d_spa_with_javascript_seeking/)
+- [Do you write unit tests first or last &lpar;after writing the rest of the code&rpar;](https://www.reddit.com/r/javascript/comments/1eaqcoh/do_you_write_unit_tests_first_or_last_after/)
 - [Practical Guide To Not Blocking The Event Loop](https://www.reddit.com/r/javascript/comments/1eam9py/practical_guide_to_not_blocking_the_event_loop/)
 - [a few ways to check for dependency &lpar;package.json&rpar; security issues &lpar;do you know any more things worth checking??&rpar;](https://www.reddit.com/r/javascript/comments/1eaeybs/a_few_ways_to_check_for_dependency_packagejson/)
 - [Template language for fetching HTML from API](https://www.reddit.com/r/javascript/comments/1eadz2g/template_language_for_fetching_html_from_api/)
-- [Hover Preview: Preview your HTML elements on hover - A VSCode extension](https://www.reddit.com/r/javascript/comments/1eabsan/hover_preview_preview_your_html_elements_on_hover/)
-- [Uppy 4.0: TypeScript rewrite, Google Photos, React hooks, and more](https://www.reddit.com/r/javascript/comments/1ea89i8/uppy_40_typescript_rewrite_google_photos_react/)
-- [[AskJS] Finding that Javascript Blog](https://www.reddit.com/r/javascript/comments/1ea44fn/askjs_finding_that_javascript_blog/)
-- [Programmatically inspect internal JavaScript closure variables &lpar;Chrome&rpar;](https://www.reddit.com/r/javascript/comments/1ea10wp/programmatically_inspect_internal_javascript/)
-- [Which JavaScript runtime do you think is the fastest reading stdin and writing stdout?](https://www.reddit.com/r/javascript/comments/1ea09m4/which_javascript_runtime_do_you_think_is_the/)
-- [__proto__ - Breaking JavaScript Objects](https://www.reddit.com/r/javascript/comments/1e9p6se/proto_breaking_javascript_objects/)
-- [[AskJS] What five changes would you make to javascript?](https://www.reddit.com/r/javascript/comments/1e9iish/askjs_what_five_changes_would_you_make_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
