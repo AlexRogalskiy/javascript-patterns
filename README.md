@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Hey folks, I&#39;m curious to know what do you all use for notifications?](https://www.reddit.com/r/javascript/comments/1ebythy/askjs_hey_folks_im_curious_to_know_what_do_you/)
+- [Using tRPC for Backend Requests with React](https://www.reddit.com/r/javascript/comments/1ebwrw1/using_trpc_for_backend_requests_with_react/)
+- [[AskJS] For Everyone. I have a question. Are primitive values stored in Stack memory or Heap &lpar;regardless of their size if they are small or large&rpar;.](https://www.reddit.com/r/javascript/comments/1ebubp1/askjs_for_everyone_i_have_a_question_are/)
+- [Node.js adds experimental support for TypeScript](https://www.reddit.com/r/javascript/comments/1ebpldc/nodejs_adds_experimental_support_for_typescript/)
 - [The Process That Kept Dying: A memory leak murder mystery](https://www.reddit.com/r/javascript/comments/1ebafjc/the_process_that_kept_dying_a_memory_leak_murder/)
 - [Storybook 8.2 is out now!](https://www.reddit.com/r/javascript/comments/1eb9vka/storybook_82_is_out_now/)
 - [[AskJS] Why should I set name of custom Error types?](https://www.reddit.com/r/javascript/comments/1eb9ku2/askjs_why_should_i_set_name_of_custom_error_types/)
 - [[AskJS] Has Anyone Built Using ReactFlow? What did you Like/Dislike?](https://www.reddit.com/r/javascript/comments/1eaw4q1/askjs_has_anyone_built_using_reactflow_what_did/)
 - [WTF Wednesday &lpar;July 24, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1eauxdo/wtf_wednesday_july_24_2024/)
 - [[AskJS] Developing a 3D SPA with JavaScript - Seeking Insights and Feedback](https://www.reddit.com/r/javascript/comments/1eaqnzp/askjs_developing_a_3d_spa_with_javascript_seeking/)
-- [Do you write unit tests first or last &lpar;after writing the rest of the code&rpar;](https://www.reddit.com/r/javascript/comments/1eaqcoh/do_you_write_unit_tests_first_or_last_after/)
-- [Practical Guide To Not Blocking The Event Loop](https://www.reddit.com/r/javascript/comments/1eam9py/practical_guide_to_not_blocking_the_event_loop/)
-- [a few ways to check for dependency &lpar;package.json&rpar; security issues &lpar;do you know any more things worth checking??&rpar;](https://www.reddit.com/r/javascript/comments/1eaeybs/a_few_ways_to_check_for_dependency_packagejson/)
-- [Template language for fetching HTML from API](https://www.reddit.com/r/javascript/comments/1eadz2g/template_language_for_fetching_html_from_api/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
