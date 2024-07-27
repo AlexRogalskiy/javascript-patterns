@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The smallest, simplest and fastest JavaScript pixel-level image comparison library](https://www.reddit.com/r/javascript/comments/1ecyubd/the_smallest_simplest_and_fastest_javascript/)
+- [New JavaScript Set methods](https://www.reddit.com/r/javascript/comments/1ectagf/new_javascript_set_methods/)
+- [Repo with frontend components created in vanilla Javascript and](https://www.reddit.com/r/javascript/comments/1ecst29/repo_with_frontend_components_created_in_vanilla/)
+- [Announcing TypeScript 5.6 Beta](https://www.reddit.com/r/javascript/comments/1ecp2p0/announcing_typescript_56_beta/)
+- [Fastest JavaScript engines and runtimes to read standard input stream and write standard output stream](https://www.reddit.com/r/javascript/comments/1ecoqnz/fastest_javascript_engines_and_runtimes_to_read/)
+- [eslint-plugin-project-structure Eslint plugin with rules that will help you achieve a project structure that is scalable, consistent, and well thought out.](https://www.reddit.com/r/javascript/comments/1ecmjwu/eslintpluginprojectstructure_eslint_plugin_with/)
 - [[AskJS] Hey folks, I&#39;m curious to know what do you all use for notifications?](https://www.reddit.com/r/javascript/comments/1ebythy/askjs_hey_folks_im_curious_to_know_what_do_you/)
 - [Using tRPC for Backend Requests with React](https://www.reddit.com/r/javascript/comments/1ebwrw1/using_trpc_for_backend_requests_with_react/)
 - [[AskJS] For Everyone. I have a question. Are primitive values stored in Stack memory or Heap &lpar;regardless of their size if they are small or large&rpar;.](https://www.reddit.com/r/javascript/comments/1ebubp1/askjs_for_everyone_i_have_a_question_are/)
 - [Node.js adds experimental support for TypeScript](https://www.reddit.com/r/javascript/comments/1ebpldc/nodejs_adds_experimental_support_for_typescript/)
-- [The Process That Kept Dying: A memory leak murder mystery](https://www.reddit.com/r/javascript/comments/1ebafjc/the_process_that_kept_dying_a_memory_leak_murder/)
-- [Storybook 8.2 is out now!](https://www.reddit.com/r/javascript/comments/1eb9vka/storybook_82_is_out_now/)
-- [[AskJS] Why should I set name of custom Error types?](https://www.reddit.com/r/javascript/comments/1eb9ku2/askjs_why_should_i_set_name_of_custom_error_types/)
-- [[AskJS] Has Anyone Built Using ReactFlow? What did you Like/Dislike?](https://www.reddit.com/r/javascript/comments/1eaw4q1/askjs_has_anyone_built_using_reactflow_what_did/)
-- [WTF Wednesday &lpar;July 24, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1eauxdo/wtf_wednesday_july_24_2024/)
-- [[AskJS] Developing a 3D SPA with JavaScript - Seeking Insights and Feedback](https://www.reddit.com/r/javascript/comments/1eaqnzp/askjs_developing_a_3d_spa_with_javascript_seeking/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
