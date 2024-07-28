@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [The smallest, simplest and fastest JavaScript pixel-level image comparison library](https://www.reddit.com/r/javascript/comments/1ecyubd/the_smallest_simplest_and_fastest_javascript/)
-- [New JavaScript Set methods](https://www.reddit.com/r/javascript/comments/1ectagf/new_javascript_set_methods/)
-- [Repo with frontend components created in vanilla Javascript and](https://www.reddit.com/r/javascript/comments/1ecst29/repo_with_frontend_components_created_in_vanilla/)
-- [Announcing TypeScript 5.6 Beta](https://www.reddit.com/r/javascript/comments/1ecp2p0/announcing_typescript_56_beta/)
-- [Fastest JavaScript engines and runtimes to read standard input stream and write standard output stream](https://www.reddit.com/r/javascript/comments/1ecoqnz/fastest_javascript_engines_and_runtimes_to_read/)
-- [eslint-plugin-project-structure Eslint plugin with rules that will help you achieve a project structure that is scalable, consistent, and well thought out.](https://www.reddit.com/r/javascript/comments/1ecmjwu/eslintpluginprojectstructure_eslint_plugin_with/)
-- [[AskJS] Hey folks, I&#39;m curious to know what do you all use for notifications?](https://www.reddit.com/r/javascript/comments/1ebythy/askjs_hey_folks_im_curious_to_know_what_do_you/)
-- [Using tRPC for Backend Requests with React](https://www.reddit.com/r/javascript/comments/1ebwrw1/using_trpc_for_backend_requests_with_react/)
-- [[AskJS] For Everyone. I have a question. Are primitive values stored in Stack memory or Heap &lpar;regardless of their size if they are small or large&rpar;.](https://www.reddit.com/r/javascript/comments/1ebubp1/askjs_for_everyone_i_have_a_question_are/)
-- [Node.js adds experimental support for TypeScript](https://www.reddit.com/r/javascript/comments/1ebpldc/nodejs_adds_experimental_support_for_typescript/)
+- [Using AI libraries from JavaScript](https://www.reddit.com/r/javascript/comments/1edvoxv/using_ai_libraries_from_javascript/)
+- [insertUrlParams v2 released. Now supports appending search &lpar;query&rpar; params as well](https://www.reddit.com/r/javascript/comments/1eduzt4/inserturlparams_v2_released_now_supports/)
+- [I made a tool that tells you which files are throwing the punycode deprecation in node](https://www.reddit.com/r/javascript/comments/1edrtor/i_made_a_tool_that_tells_you_which_files_are/)
+- [I made another I18n library, but with it you don&#39;t have to think about localization: it automatically creates translation files, uploads them to the localization service and updates the changed translations in your code](https://www.reddit.com/r/javascript/comments/1edpo2f/i_made_another_i18n_library_but_with_it_you_dont/)
+- [I created Promptimizer: An Automated AI-Powered Prompt Optimization Framework](https://www.reddit.com/r/javascript/comments/1edgxnj/i_created_promptimizer_an_automated_aipowered/)
+- [I made a fun and free interactive roadmap for learning Web Components](https://www.reddit.com/r/javascript/comments/1edf3ci/i_made_a_fun_and_free_interactive_roadmap_for/)
+- [I made an app to simplify social bookmarking - linkboard.dev](https://www.reddit.com/r/javascript/comments/1edd9ac/i_made_an_app_to_simplify_social_bookmarking/)
+- [API Typegen - Generate typescript types from API responses](https://www.reddit.com/r/javascript/comments/1edchd2/api_typegen_generate_typescript_types_from_api/)
+- [Showoff Saturday &lpar;July 27, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1eda9m4/showoff_saturday_july_27_2024/)
+- [On Building Structured Data with Client-Side JavaScript](https://www.reddit.com/r/javascript/comments/1ed6iqj/on_building_structured_data_with_clientside/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
