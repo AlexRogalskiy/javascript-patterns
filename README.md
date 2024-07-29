@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Iterable processing lib with async support](https://www.reddit.com/r/javascript/comments/1eej13y/iterable_processing_lib_with_async_support/)
+- [OpenAI Swagger UI + TypeScript Editor &lpar;Stackblitz&rpar;](https://www.reddit.com/r/javascript/comments/1eeh4xg/openai_swagger_ui_typescript_editor_stackblitz/)
+- [Image Editor - Clean UI, Web based, Fast, and Mobile-Friendly](https://www.reddit.com/r/javascript/comments/1eedf1f/image_editor_clean_ui_web_based_fast_and/)
+- [[AskJS] Does the JavaScript community need a library for node-based editors?](https://www.reddit.com/r/javascript/comments/1ee6jwd/askjs_does_the_javascript_community_need_a/)
+- [waiting for this. Aah finally](https://www.reddit.com/r/javascript/comments/1ee67tj/waiting_for_this_aah_finally/)
+- [I made an Unbeatable Tic Tac Toe Game Using Minimax Algorithm Hey everyone,I&#39;m excited to share a project I&#39;ve been working on for the past month while mastering HTML, CSS, and JavaScript. I just finished creating a web-based Tic Tac Toe game where you play against an AI that&#39;s impossible to beat!](https://www.reddit.com/r/javascript/comments/1ee02mr/i_made_an_unbeatable_tic_tac_toe_game_using/)
+- [[AskJS] Has any one used custom higher order functions specially in the backend?](https://www.reddit.com/r/javascript/comments/1edz818/askjs_has_any_one_used_custom_higher_order/)
 - [Using AI libraries from JavaScript](https://www.reddit.com/r/javascript/comments/1edvoxv/using_ai_libraries_from_javascript/)
 - [insertUrlParams v2 released. Now supports appending search &lpar;query&rpar; params as well](https://www.reddit.com/r/javascript/comments/1eduzt4/inserturlparams_v2_released_now_supports/)
 - [I made a tool that tells you which files are throwing the punycode deprecation in node](https://www.reddit.com/r/javascript/comments/1edrtor/i_made_a_tool_that_tells_you_which_files_are/)
-- [I made another I18n library, but with it you don&#39;t have to think about localization: it automatically creates translation files, uploads them to the localization service and updates the changed translations in your code](https://www.reddit.com/r/javascript/comments/1edpo2f/i_made_another_i18n_library_but_with_it_you_dont/)
-- [I created Promptimizer: An Automated AI-Powered Prompt Optimization Framework](https://www.reddit.com/r/javascript/comments/1edgxnj/i_created_promptimizer_an_automated_aipowered/)
-- [I made a fun and free interactive roadmap for learning Web Components](https://www.reddit.com/r/javascript/comments/1edf3ci/i_made_a_fun_and_free_interactive_roadmap_for/)
-- [I made an app to simplify social bookmarking - linkboard.dev](https://www.reddit.com/r/javascript/comments/1edd9ac/i_made_an_app_to_simplify_social_bookmarking/)
-- [API Typegen - Generate typescript types from API responses](https://www.reddit.com/r/javascript/comments/1edchd2/api_typegen_generate_typescript_types_from_api/)
-- [Showoff Saturday &lpar;July 27, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1eda9m4/showoff_saturday_july_27_2024/)
-- [On Building Structured Data with Client-Side JavaScript](https://www.reddit.com/r/javascript/comments/1ed6iqj/on_building_structured_data_with_clientside/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
