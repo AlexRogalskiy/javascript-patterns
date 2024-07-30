@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Iterable processing lib with async support](https://www.reddit.com/r/javascript/comments/1eej13y/iterable_processing_lib_with_async_support/)
-- [OpenAI Swagger UI + TypeScript Editor &lpar;Stackblitz&rpar;](https://www.reddit.com/r/javascript/comments/1eeh4xg/openai_swagger_ui_typescript_editor_stackblitz/)
-- [Image Editor - Clean UI, Web based, Fast, and Mobile-Friendly](https://www.reddit.com/r/javascript/comments/1eedf1f/image_editor_clean_ui_web_based_fast_and/)
-- [[AskJS] Does the JavaScript community need a library for node-based editors?](https://www.reddit.com/r/javascript/comments/1ee6jwd/askjs_does_the_javascript_community_need_a/)
-- [waiting for this. Aah finally](https://www.reddit.com/r/javascript/comments/1ee67tj/waiting_for_this_aah_finally/)
-- [I made an Unbeatable Tic Tac Toe Game Using Minimax Algorithm Hey everyone,I&#39;m excited to share a project I&#39;ve been working on for the past month while mastering HTML, CSS, and JavaScript. I just finished creating a web-based Tic Tac Toe game where you play against an AI that&#39;s impossible to beat!](https://www.reddit.com/r/javascript/comments/1ee02mr/i_made_an_unbeatable_tic_tac_toe_game_using/)
-- [[AskJS] Has any one used custom higher order functions specially in the backend?](https://www.reddit.com/r/javascript/comments/1edz818/askjs_has_any_one_used_custom_higher_order/)
-- [Using AI libraries from JavaScript](https://www.reddit.com/r/javascript/comments/1edvoxv/using_ai_libraries_from_javascript/)
-- [insertUrlParams v2 released. Now supports appending search &lpar;query&rpar; params as well](https://www.reddit.com/r/javascript/comments/1eduzt4/inserturlparams_v2_released_now_supports/)
-- [I made a tool that tells you which files are throwing the punycode deprecation in node](https://www.reddit.com/r/javascript/comments/1edrtor/i_made_a_tool_that_tells_you_which_files_are/)
+- [&quot;overlay-kit&quot;, the simplest and most intuitive way to open overlays in React](https://www.reddit.com/r/javascript/comments/1efh85z/overlaykit_the_simplest_and_most_intuitive_way_to/)
+- [Some observations of a skeptic taking TypeScript for a spin](https://www.reddit.com/r/javascript/comments/1efgys1/some_observations_of_a_skeptic_taking_typescript/)
+- [Fuseball - open source web based football game made with React and p5.js](https://www.reddit.com/r/javascript/comments/1ef7srz/fuseball_open_source_web_based_football_game_made/)
+- [Flexible network data preloading in large SPAs](https://www.reddit.com/r/javascript/comments/1ef5ipo/flexible_network_data_preloading_in_large_spas/)
+- [[P] Train a Neural Network in the browser](https://www.reddit.com/r/javascript/comments/1ef4kd1/p_train_a_neural_network_in_the_browser/)
+- [Draw Performant Network Graph Chart](https://www.reddit.com/r/javascript/comments/1ef3rif/draw_performant_network_graph_chart/)
+- [Because of a single client-side mistake - Hotjar vulnerability lets attackers see screen recordings of other users](https://www.reddit.com/r/javascript/comments/1ef256p/because_of_a_single_clientside_mistake_hotjar/)
+- [[AskJS] Enter and exit transition without JavaScript](https://www.reddit.com/r/javascript/comments/1ef1at7/askjs_enter_and_exit_transition_without_javascript/)
+- [[AskJS] My first webapp: OmegleAI! The 100% Omegle alternative :P - Suggestion appreciated](https://www.reddit.com/r/javascript/comments/1ef0s40/askjs_my_first_webapp_omegleai_the_100_omegle/)
+- [[AskJS] Do I need to worry about client clocks being years off from the server for UTC comparisons?](https://www.reddit.com/r/javascript/comments/1eezb70/askjs_do_i_need_to_worry_about_client_clocks/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
