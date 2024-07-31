@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Sequin: An open source message stream built on Postgres. Like Kafka, but easy to use and manage.](https://www.reddit.com/r/javascript/comments/1efwgys/sequin_an_open_source_message_stream_built_on/)
+- [A Javascript based tool to design REST APIs for everyone fed up with fuzzy API definitions](https://www.reddit.com/r/javascript/comments/1efsrhl/a_javascript_based_tool_to_design_rest_apis_for/)
+- [Rendering Videos in the Browser Using WebCodecs API](https://www.reddit.com/r/javascript/comments/1efs9q7/rendering_videos_in_the_browser_using_webcodecs/)
+- [Moving a video tag via a vdom engine without losing the autoPlay state](https://www.reddit.com/r/javascript/comments/1efr7so/moving_a_video_tag_via_a_vdom_engine_without/)
+- [[AskJS] The Chrome Extension &quot;Open in Firefox&quot; requires the user to download Node.js, how can I find out what this put on the system?](https://www.reddit.com/r/javascript/comments/1efo3r4/askjs_the_chrome_extension_open_in_firefox/)
+- [[AskJS] Chrome developer tools debugging stuck](https://www.reddit.com/r/javascript/comments/1efmbap/askjs_chrome_developer_tools_debugging_stuck/)
 - [&quot;overlay-kit&quot;, the simplest and most intuitive way to open overlays in React](https://www.reddit.com/r/javascript/comments/1efh85z/overlaykit_the_simplest_and_most_intuitive_way_to/)
 - [Some observations of a skeptic taking TypeScript for a spin](https://www.reddit.com/r/javascript/comments/1efgys1/some_observations_of_a_skeptic_taking_typescript/)
 - [Fuseball - open source web based football game made with React and p5.js](https://www.reddit.com/r/javascript/comments/1ef7srz/fuseball_open_source_web_based_football_game_made/)
 - [Flexible network data preloading in large SPAs](https://www.reddit.com/r/javascript/comments/1ef5ipo/flexible_network_data_preloading_in_large_spas/)
-- [[P] Train a Neural Network in the browser](https://www.reddit.com/r/javascript/comments/1ef4kd1/p_train_a_neural_network_in_the_browser/)
-- [Draw Performant Network Graph Chart](https://www.reddit.com/r/javascript/comments/1ef3rif/draw_performant_network_graph_chart/)
-- [Because of a single client-side mistake - Hotjar vulnerability lets attackers see screen recordings of other users](https://www.reddit.com/r/javascript/comments/1ef256p/because_of_a_single_clientside_mistake_hotjar/)
-- [[AskJS] Enter and exit transition without JavaScript](https://www.reddit.com/r/javascript/comments/1ef1at7/askjs_enter_and_exit_transition_without_javascript/)
-- [[AskJS] My first webapp: OmegleAI! The 100% Omegle alternative :P - Suggestion appreciated](https://www.reddit.com/r/javascript/comments/1ef0s40/askjs_my_first_webapp_omegleai_the_100_omegle/)
-- [[AskJS] Do I need to worry about client clocks being years off from the server for UTC comparisons?](https://www.reddit.com/r/javascript/comments/1eezb70/askjs_do_i_need_to_worry_about_client_clocks/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
