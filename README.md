@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [JavaScript Performance Tips: The Hidden Cost of Literals](https://www.reddit.com/r/javascript/comments/1eh41xi/javascript_performance_tips_the_hidden_cost_of/)
+- [Garbage collection and closures don&#39;t work as I expected](https://www.reddit.com/r/javascript/comments/1egos1l/garbage_collection_and_closures_dont_work_as_i/)
+- [[AskJS] how much JavaScript is required for react?](https://www.reddit.com/r/javascript/comments/1egneqf/askjs_how_much_javascript_is_required_for_react/)
+- [Stop drawing ERD, but just auto-generate by `prisma-markdown`](https://www.reddit.com/r/javascript/comments/1egleq9/stop_drawing_erd_but_just_autogenerate_by/)
+- [WTF Wednesday &lpar;July 31, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1eggpn3/wtf_wednesday_july_31_2024/)
 - [Sequin: An open source message stream built on Postgres. Like Kafka, but easy to use and manage.](https://www.reddit.com/r/javascript/comments/1efwgys/sequin_an_open_source_message_stream_built_on/)
 - [A Javascript based tool to design REST APIs for everyone fed up with fuzzy API definitions](https://www.reddit.com/r/javascript/comments/1efsrhl/a_javascript_based_tool_to_design_rest_apis_for/)
 - [Rendering Videos in the Browser Using WebCodecs API](https://www.reddit.com/r/javascript/comments/1efs9q7/rendering_videos_in_the_browser_using_webcodecs/)
 - [Moving a video tag via a vdom engine without losing the autoPlay state](https://www.reddit.com/r/javascript/comments/1efr7so/moving_a_video_tag_via_a_vdom_engine_without/)
 - [[AskJS] The Chrome Extension &quot;Open in Firefox&quot; requires the user to download Node.js, how can I find out what this put on the system?](https://www.reddit.com/r/javascript/comments/1efo3r4/askjs_the_chrome_extension_open_in_firefox/)
-- [[AskJS] Chrome developer tools debugging stuck](https://www.reddit.com/r/javascript/comments/1efmbap/askjs_chrome_developer_tools_debugging_stuck/)
-- [&quot;overlay-kit&quot;, the simplest and most intuitive way to open overlays in React](https://www.reddit.com/r/javascript/comments/1efh85z/overlaykit_the_simplest_and_most_intuitive_way_to/)
-- [Some observations of a skeptic taking TypeScript for a spin](https://www.reddit.com/r/javascript/comments/1efgys1/some_observations_of_a_skeptic_taking_typescript/)
-- [Fuseball - open source web based football game made with React and p5.js](https://www.reddit.com/r/javascript/comments/1ef7srz/fuseball_open_source_web_based_football_game_made/)
-- [Flexible network data preloading in large SPAs](https://www.reddit.com/r/javascript/comments/1ef5ipo/flexible_network_data_preloading_in_large_spas/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
