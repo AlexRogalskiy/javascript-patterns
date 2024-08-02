@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Sorting Algorithms Visualizer made with javascript generators](https://www.reddit.com/r/javascript/comments/1ehsus3/sorting_algorithms_visualizer_made_with/)
+- [Roast my Portfolio!](https://www.reddit.com/r/javascript/comments/1ehmacf/roast_my_portfolio/)
+- [[AskJS] AI for JavaScript Devs. Good idea / bad idea?](https://www.reddit.com/r/javascript/comments/1ehhzv6/askjs_ai_for_javascript_devs_good_idea_bad_idea/)
 - [JavaScript Performance Tips: The Hidden Cost of Literals](https://www.reddit.com/r/javascript/comments/1eh41xi/javascript_performance_tips_the_hidden_cost_of/)
 - [Garbage collection and closures don&#39;t work as I expected](https://www.reddit.com/r/javascript/comments/1egos1l/garbage_collection_and_closures_dont_work_as_i/)
 - [[AskJS] how much JavaScript is required for react?](https://www.reddit.com/r/javascript/comments/1egneqf/askjs_how_much_javascript_is_required_for_react/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [WTF Wednesday &lpar;July 31, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1eggpn3/wtf_wednesday_july_31_2024/)
 - [Sequin: An open source message stream built on Postgres. Like Kafka, but easy to use and manage.](https://www.reddit.com/r/javascript/comments/1efwgys/sequin_an_open_source_message_stream_built_on/)
 - [A Javascript based tool to design REST APIs for everyone fed up with fuzzy API definitions](https://www.reddit.com/r/javascript/comments/1efsrhl/a_javascript_based_tool_to_design_rest_apis_for/)
-- [Rendering Videos in the Browser Using WebCodecs API](https://www.reddit.com/r/javascript/comments/1efs9q7/rendering_videos_in_the_browser_using_webcodecs/)
-- [Moving a video tag via a vdom engine without losing the autoPlay state](https://www.reddit.com/r/javascript/comments/1efr7so/moving_a_video_tag_via_a_vdom_engine_without/)
-- [[AskJS] The Chrome Extension &quot;Open in Firefox&quot; requires the user to download Node.js, how can I find out what this put on the system?](https://www.reddit.com/r/javascript/comments/1efo3r4/askjs_the_chrome_extension_open_in_firefox/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
