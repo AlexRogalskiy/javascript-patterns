@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Sorting Algorithms Visualizer made with javascript generators](https://www.reddit.com/r/javascript/comments/1ehsus3/sorting_algorithms_visualizer_made_with/)
-- [Roast my Portfolio!](https://www.reddit.com/r/javascript/comments/1ehmacf/roast_my_portfolio/)
-- [[AskJS] AI for JavaScript Devs. Good idea / bad idea?](https://www.reddit.com/r/javascript/comments/1ehhzv6/askjs_ai_for_javascript_devs_good_idea_bad_idea/)
-- [JavaScript Performance Tips: The Hidden Cost of Literals](https://www.reddit.com/r/javascript/comments/1eh41xi/javascript_performance_tips_the_hidden_cost_of/)
-- [Garbage collection and closures don&#39;t work as I expected](https://www.reddit.com/r/javascript/comments/1egos1l/garbage_collection_and_closures_dont_work_as_i/)
-- [[AskJS] how much JavaScript is required for react?](https://www.reddit.com/r/javascript/comments/1egneqf/askjs_how_much_javascript_is_required_for_react/)
-- [Stop drawing ERD, but just auto-generate by `prisma-markdown`](https://www.reddit.com/r/javascript/comments/1egleq9/stop_drawing_erd_but_just_autogenerate_by/)
-- [WTF Wednesday &lpar;July 31, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1eggpn3/wtf_wednesday_july_31_2024/)
-- [Sequin: An open source message stream built on Postgres. Like Kafka, but easy to use and manage.](https://www.reddit.com/r/javascript/comments/1efwgys/sequin_an_open_source_message_stream_built_on/)
-- [A Javascript based tool to design REST APIs for everyone fed up with fuzzy API definitions](https://www.reddit.com/r/javascript/comments/1efsrhl/a_javascript_based_tool_to_design_rest_apis_for/)
+- [DocuRun — Documentation that you can run as an integration test](https://www.reddit.com/r/javascript/comments/1einav6/docurun_documentation_that_you_can_run_as_an/)
+- [Who is the fastest? Node.js, Bun.js, or Deno.js](https://www.reddit.com/r/javascript/comments/1eih7dx/who_is_the_fastest_nodejs_bunjs_or_denojs/)
+- [[AskJS] Need Advice: UCSC Extension vs. Online Certificates for Becoming a Full-Stack Developer in the SF Bay Area](https://www.reddit.com/r/javascript/comments/1eigyxp/askjs_need_advice_ucsc_extension_vs_online/)
+- [Promptimizer: An Automated AI-Powered Prompt Optimization Framework](https://www.reddit.com/r/javascript/comments/1eighe0/promptimizer_an_automated_aipowered_prompt/)
+- [Recipe app in reactjs with tailwind css](https://www.reddit.com/r/javascript/comments/1eid5p1/recipe_app_in_reactjs_with_tailwind_css/)
+- [[AskJS] Why is it JavaScript and not javaScript if the recommended variable naming convention in the language is camelCase?](https://www.reddit.com/r/javascript/comments/1eib9s1/askjs_why_is_it_javascript_and_not_javascript_if/)
+- [I made an interactive quiz app using reactjs and tailwind css](https://www.reddit.com/r/javascript/comments/1ei8xb7/i_made_an_interactive_quiz_app_using_reactjs_and/)
+- [[AskJS] 3D model viewer web services](https://www.reddit.com/r/javascript/comments/1ei4dvt/askjs_3d_model_viewer_web_services/)
+- [Pipelight - Write your CICD pipelines in JS](https://www.reddit.com/r/javascript/comments/1ei3wn2/pipelight_write_your_cicd_pipelines_in_js/)
+- [A GPU-based online time capsule](https://www.reddit.com/r/javascript/comments/1ei10z5/a_gpubased_online_time_capsule/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
