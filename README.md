@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Showoff Saturday &lpar;August 03, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1eix0jw/showoff_saturday_august_03_2024/)
+- [Z-Fetch - The mighty native fetch api wrapper made to enhance fetching in JavaScript Applications.](https://www.reddit.com/r/javascript/comments/1eiw5an/zfetch_the_mighty_native_fetch_api_wrapper_made/)
 - [DocuRun — Documentation that you can run as an integration test](https://www.reddit.com/r/javascript/comments/1einav6/docurun_documentation_that_you_can_run_as_an/)
 - [Who is the fastest? Node.js, Bun.js, or Deno.js](https://www.reddit.com/r/javascript/comments/1eih7dx/who_is_the_fastest_nodejs_bunjs_or_denojs/)
 - [[AskJS] Need Advice: UCSC Extension vs. Online Certificates for Becoming a Full-Stack Developer in the SF Bay Area](https://www.reddit.com/r/javascript/comments/1eigyxp/askjs_need_advice_ucsc_extension_vs_online/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [[AskJS] Why is it JavaScript and not javaScript if the recommended variable naming convention in the language is camelCase?](https://www.reddit.com/r/javascript/comments/1eib9s1/askjs_why_is_it_javascript_and_not_javascript_if/)
 - [I made an interactive quiz app using reactjs and tailwind css](https://www.reddit.com/r/javascript/comments/1ei8xb7/i_made_an_interactive_quiz_app_using_reactjs_and/)
 - [[AskJS] 3D model viewer web services](https://www.reddit.com/r/javascript/comments/1ei4dvt/askjs_3d_model_viewer_web_services/)
-- [Pipelight - Write your CICD pipelines in JS](https://www.reddit.com/r/javascript/comments/1ei3wn2/pipelight_write_your_cicd_pipelines_in_js/)
-- [A GPU-based online time capsule](https://www.reddit.com/r/javascript/comments/1ei10z5/a_gpubased_online_time_capsule/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
