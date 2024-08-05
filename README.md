@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Guía Completa: API para Leer Datos de la Fórmula 1 &lpar;F1&rpar; con Ejemplos y Tutorial](https://www.reddit.com/r/javascript/comments/1ek13hl/guía_completa_api_para_leer_datos_de_la_fórmula_1/)
+- [Simple and powerful progress time estimation &lpar;ETA&rpar; for JavaScript](https://www.reddit.com/r/javascript/comments/1ejs7qo/simple_and_powerful_progress_time_estimation_eta/)
+- [ValKey-Glide - an OSS multilingual ValKey/Redis-OSS client Nodejs first stable version is behind the corner.](https://www.reddit.com/r/javascript/comments/1ejqnbo/valkeyglide_an_oss_multilingual_valkeyredisoss/)
+- [[AskJS] ype coersion in JS](https://www.reddit.com/r/javascript/comments/1ejm647/askjs_ype_coersion_in_js/)
+- [Amazon Web Services - Labs LLRT &lpar;Low Latency Runtime&rpar; Native Messaging host](https://www.reddit.com/r/javascript/comments/1ejkh6m/amazon_web_services_labs_llrt_low_latency_runtime/)
 - [Showoff Saturday &lpar;August 03, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1eix0jw/showoff_saturday_august_03_2024/)
 - [Z-Fetch - The mighty native fetch api wrapper made to enhance fetching in JavaScript Applications.](https://www.reddit.com/r/javascript/comments/1eiw5an/zfetch_the_mighty_native_fetch_api_wrapper_made/)
 - [DocuRun — Documentation that you can run as an integration test](https://www.reddit.com/r/javascript/comments/1einav6/docurun_documentation_that_you_can_run_as_an/)
 - [Who is the fastest? Node.js, Bun.js, or Deno.js](https://www.reddit.com/r/javascript/comments/1eih7dx/who_is_the_fastest_nodejs_bunjs_or_denojs/)
 - [[AskJS] Need Advice: UCSC Extension vs. Online Certificates for Becoming a Full-Stack Developer in the SF Bay Area](https://www.reddit.com/r/javascript/comments/1eigyxp/askjs_need_advice_ucsc_extension_vs_online/)
-- [Promptimizer: An Automated AI-Powered Prompt Optimization Framework](https://www.reddit.com/r/javascript/comments/1eighe0/promptimizer_an_automated_aipowered_prompt/)
-- [Recipe app in reactjs with tailwind css](https://www.reddit.com/r/javascript/comments/1eid5p1/recipe_app_in_reactjs_with_tailwind_css/)
-- [[AskJS] Why is it JavaScript and not javaScript if the recommended variable naming convention in the language is camelCase?](https://www.reddit.com/r/javascript/comments/1eib9s1/askjs_why_is_it_javascript_and_not_javascript_if/)
-- [I made an interactive quiz app using reactjs and tailwind css](https://www.reddit.com/r/javascript/comments/1ei8xb7/i_made_an_interactive_quiz_app_using_reactjs_and/)
-- [[AskJS] 3D model viewer web services](https://www.reddit.com/r/javascript/comments/1ei4dvt/askjs_3d_model_viewer_web_services/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
