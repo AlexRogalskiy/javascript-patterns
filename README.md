@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Guía Completa: API para Leer Datos de la Fórmula 1 &lpar;F1&rpar; con Ejemplos y Tutorial](https://www.reddit.com/r/javascript/comments/1ek13hl/guía_completa_api_para_leer_datos_de_la_fórmula_1/)
-- [Simple and powerful progress time estimation &lpar;ETA&rpar; for JavaScript](https://www.reddit.com/r/javascript/comments/1ejs7qo/simple_and_powerful_progress_time_estimation_eta/)
-- [ValKey-Glide - an OSS multilingual ValKey/Redis-OSS client Nodejs first stable version is behind the corner.](https://www.reddit.com/r/javascript/comments/1ejqnbo/valkeyglide_an_oss_multilingual_valkeyredisoss/)
-- [[AskJS] ype coersion in JS](https://www.reddit.com/r/javascript/comments/1ejm647/askjs_ype_coersion_in_js/)
-- [Amazon Web Services - Labs LLRT &lpar;Low Latency Runtime&rpar; Native Messaging host](https://www.reddit.com/r/javascript/comments/1ejkh6m/amazon_web_services_labs_llrt_low_latency_runtime/)
-- [Showoff Saturday &lpar;August 03, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1eix0jw/showoff_saturday_august_03_2024/)
-- [Z-Fetch - The mighty native fetch api wrapper made to enhance fetching in JavaScript Applications.](https://www.reddit.com/r/javascript/comments/1eiw5an/zfetch_the_mighty_native_fetch_api_wrapper_made/)
-- [DocuRun — Documentation that you can run as an integration test](https://www.reddit.com/r/javascript/comments/1einav6/docurun_documentation_that_you_can_run_as_an/)
-- [Who is the fastest? Node.js, Bun.js, or Deno.js](https://www.reddit.com/r/javascript/comments/1eih7dx/who_is_the_fastest_nodejs_bunjs_or_denojs/)
-- [[AskJS] Need Advice: UCSC Extension vs. Online Certificates for Becoming a Full-Stack Developer in the SF Bay Area](https://www.reddit.com/r/javascript/comments/1eigyxp/askjs_need_advice_ucsc_extension_vs_online/)
+- [[AskJS] Demo of Neural Network Puzzle Game](https://www.reddit.com/r/javascript/comments/1ekzwg5/askjs_demo_of_neural_network_puzzle_game/)
+- [RFC &lpar;std/sql&rpar;: Introducing a Standardized Interface for SQL Database Drivers in JavaScript](https://www.reddit.com/r/javascript/comments/1ekzp4t/rfc_stdsql_introducing_a_standardized_interface/)
+- [I just released Power Plant — a small dependency injection framework built on the official ECMAScript decorator specification.](https://www.reddit.com/r/javascript/comments/1ekw4kv/i_just_released_power_plant_a_small_dependency/)
+- [tinyglobby: a fast and minimal alternative to globby and fast-glob](https://www.reddit.com/r/javascript/comments/1eknbuq/tinyglobby_a_fast_and_minimal_alternative_to/)
+- [Ornament - A framework for web component frameworks](https://www.reddit.com/r/javascript/comments/1ekke6z/ornament_a_framework_for_web_component_frameworks/)
+- [Your /r/javascript recap for the week of July 29 - August 04, 2024](https://www.reddit.com/r/javascript/comments/1ekjcmx/your_rjavascript_recap_for_the_week_of_july_29/)
+- [[AskJS] Tool to Download .tar Files of Transitive Dependencies](https://www.reddit.com/r/javascript/comments/1ekiz3l/askjs_tool_to_download_tar_files_of_transitive/)
+- [[AskJS] „Levels” of getting the heat off the main thread](https://www.reddit.com/r/javascript/comments/1ekiav9/askjs_levels_of_getting_the_heat_off_the_main/)
+- [MergeSociety- CSS, HTML, JavaScript Resource](https://www.reddit.com/r/javascript/comments/1ekgh37/mergesociety_css_html_javascript_resource/)
+- [[AskJS] Need help creating a Loot Rarity System](https://www.reddit.com/r/javascript/comments/1ekceal/askjs_need_help_creating_a_loot_rarity_system/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
