@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Demo of Neural Network Puzzle Game](https://www.reddit.com/r/javascript/comments/1ekzwg5/askjs_demo_of_neural_network_puzzle_game/)
+- [[AskJS] Evolution/History of Prototypal Inheritance](https://www.reddit.com/r/javascript/comments/1elzmfb/askjs_evolutionhistory_of_prototypal_inheritance/)
+- [[AskJS] How to keep point 0 after integer](https://www.reddit.com/r/javascript/comments/1elrkwa/askjs_how_to_keep_point_0_after_integer/)
+- [Just released pleasejs, the polite way of building utility libraries. My first package on jsr.io](https://www.reddit.com/r/javascript/comments/1elrfn5/just_released_pleasejs_the_polite_way_of_building/)
+- [[AskJS] Javascript 3D Z/Depth Clipping](https://www.reddit.com/r/javascript/comments/1elny39/askjs_javascript_3d_zdepth_clipping/)
+- [eslint-plugin-project-structure Eslint plugin with rules that will help you achieve a project structure that is scalable, consistent, and well thought out.](https://www.reddit.com/r/javascript/comments/1elk0d3/eslintpluginprojectstructure_eslint_plugin_with/)
+- [Built a batching notifications mechanism which collates multiple messages in 1](https://www.reddit.com/r/javascript/comments/1eliw7c/built_a_batching_notifications_mechanism_which/)
+- [jQuery UI 1.14.0 released - as of today, the jQuery UI 1.13.x line is no longer supported. jQuery UI 1.14 finally drops support for all versions of Internet Explorer &amp; Edge Legacy](https://www.reddit.com/r/javascript/comments/1elinjb/jquery_ui_1140_released_as_of_today_the_jquery_ui/)
+- [Develop and testing Oura API without an oura account or tokens](https://www.reddit.com/r/javascript/comments/1elewj3/develop_and_testing_oura_api_without_an_oura/)
 - [RFC &lpar;std/sql&rpar;: Introducing a Standardized Interface for SQL Database Drivers in JavaScript](https://www.reddit.com/r/javascript/comments/1ekzp4t/rfc_stdsql_introducing_a_standardized_interface/)
 - [I just released Power Plant — a small dependency injection framework built on the official ECMAScript decorator specification.](https://www.reddit.com/r/javascript/comments/1ekw4kv/i_just_released_power_plant_a_small_dependency/)
-- [tinyglobby: a fast and minimal alternative to globby and fast-glob](https://www.reddit.com/r/javascript/comments/1eknbuq/tinyglobby_a_fast_and_minimal_alternative_to/)
-- [Ornament - A framework for web component frameworks](https://www.reddit.com/r/javascript/comments/1ekke6z/ornament_a_framework_for_web_component_frameworks/)
-- [Your /r/javascript recap for the week of July 29 - August 04, 2024](https://www.reddit.com/r/javascript/comments/1ekjcmx/your_rjavascript_recap_for_the_week_of_july_29/)
-- [[AskJS] Tool to Download .tar Files of Transitive Dependencies](https://www.reddit.com/r/javascript/comments/1ekiz3l/askjs_tool_to_download_tar_files_of_transitive/)
-- [[AskJS] „Levels” of getting the heat off the main thread](https://www.reddit.com/r/javascript/comments/1ekiav9/askjs_levels_of_getting_the_heat_off_the_main/)
-- [MergeSociety- CSS, HTML, JavaScript Resource](https://www.reddit.com/r/javascript/comments/1ekgh37/mergesociety_css_html_javascript_resource/)
-- [[AskJS] Need help creating a Loot Rarity System](https://www.reddit.com/r/javascript/comments/1ekceal/askjs_need_help_creating_a_loot_rarity_system/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
