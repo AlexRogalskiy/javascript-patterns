@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Evolution/History of Prototypal Inheritance](https://www.reddit.com/r/javascript/comments/1elzmfb/askjs_evolutionhistory_of_prototypal_inheritance/)
-- [[AskJS] How to keep point 0 after integer](https://www.reddit.com/r/javascript/comments/1elrkwa/askjs_how_to_keep_point_0_after_integer/)
-- [Just released pleasejs, the polite way of building utility libraries. My first package on jsr.io](https://www.reddit.com/r/javascript/comments/1elrfn5/just_released_pleasejs_the_polite_way_of_building/)
-- [[AskJS] Javascript 3D Z/Depth Clipping](https://www.reddit.com/r/javascript/comments/1elny39/askjs_javascript_3d_zdepth_clipping/)
-- [eslint-plugin-project-structure Eslint plugin with rules that will help you achieve a project structure that is scalable, consistent, and well thought out.](https://www.reddit.com/r/javascript/comments/1elk0d3/eslintpluginprojectstructure_eslint_plugin_with/)
-- [Built a batching notifications mechanism which collates multiple messages in 1](https://www.reddit.com/r/javascript/comments/1eliw7c/built_a_batching_notifications_mechanism_which/)
-- [jQuery UI 1.14.0 released - as of today, the jQuery UI 1.13.x line is no longer supported. jQuery UI 1.14 finally drops support for all versions of Internet Explorer &amp; Edge Legacy](https://www.reddit.com/r/javascript/comments/1elinjb/jquery_ui_1140_released_as_of_today_the_jquery_ui/)
-- [Develop and testing Oura API without an oura account or tokens](https://www.reddit.com/r/javascript/comments/1elewj3/develop_and_testing_oura_api_without_an_oura/)
-- [RFC &lpar;std/sql&rpar;: Introducing a Standardized Interface for SQL Database Drivers in JavaScript](https://www.reddit.com/r/javascript/comments/1ekzp4t/rfc_stdsql_introducing_a_standardized_interface/)
-- [I just released Power Plant — a small dependency injection framework built on the official ECMAScript decorator specification.](https://www.reddit.com/r/javascript/comments/1ekw4kv/i_just_released_power_plant_a_small_dependency/)
+- [[AskJS] Is there any javascript stereo imager library out there?](https://www.reddit.com/r/javascript/comments/1emtvi7/askjs_is_there_any_javascript_stereo_imager/)
+- [A brief interview with JSON creator Douglas Crockford](https://www.reddit.com/r/javascript/comments/1emrz8g/a_brief_interview_with_json_creator_douglas/)
+- [Oops.js: Add powerful undo/redo capabilities to your app](https://www.reddit.com/r/javascript/comments/1emm5eo/oopsjs_add_powerful_undoredo_capabilities_to_your/)
+- [How to Build a REST API with Express and PostgreSQL](https://www.reddit.com/r/javascript/comments/1emkj6o/how_to_build_a_rest_api_with_express_and/)
+- [Announcing Official Puppeteer Support for Firefox](https://www.reddit.com/r/javascript/comments/1emggar/announcing_official_puppeteer_support_for_firefox/)
+- [Why the with&lpar;&rpar; method of JavaScript Array is a gem?](https://www.reddit.com/r/javascript/comments/1emcf9j/why_the_with_method_of_javascript_array_is_a_gem/)
+- [I Built a Devin-like SWE-Agent in Typescript with GitHub Integration and it works!](https://www.reddit.com/r/javascript/comments/1embu6t/i_built_a_devinlike_sweagent_in_typescript_with/)
+- [AdminForth - MIT Admin framework with Vue components and Tailwind](https://www.reddit.com/r/javascript/comments/1embqg5/adminforth_mit_admin_framework_with_vue/)
+- [main-thread-scheduling — advanced but easy way to achieve better performance &lpar;3 years in the making&rpar;](https://www.reddit.com/r/javascript/comments/1embeqf/mainthreadscheduling_advanced_but_easy_way_to/)
+- [[AskJS] help me out with this real time cellular tower data task.](https://www.reddit.com/r/javascript/comments/1em9dey/askjs_help_me_out_with_this_real_time_cellular/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
