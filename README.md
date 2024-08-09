@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Is there any javascript stereo imager library out there?](https://www.reddit.com/r/javascript/comments/1emtvi7/askjs_is_there_any_javascript_stereo_imager/)
-- [A brief interview with JSON creator Douglas Crockford](https://www.reddit.com/r/javascript/comments/1emrz8g/a_brief_interview_with_json_creator_douglas/)
-- [Oops.js: Add powerful undo/redo capabilities to your app](https://www.reddit.com/r/javascript/comments/1emm5eo/oopsjs_add_powerful_undoredo_capabilities_to_your/)
-- [How to Build a REST API with Express and PostgreSQL](https://www.reddit.com/r/javascript/comments/1emkj6o/how_to_build_a_rest_api_with_express_and/)
-- [Announcing Official Puppeteer Support for Firefox](https://www.reddit.com/r/javascript/comments/1emggar/announcing_official_puppeteer_support_for_firefox/)
-- [Why the with&lpar;&rpar; method of JavaScript Array is a gem?](https://www.reddit.com/r/javascript/comments/1emcf9j/why_the_with_method_of_javascript_array_is_a_gem/)
-- [I Built a Devin-like SWE-Agent in Typescript with GitHub Integration and it works!](https://www.reddit.com/r/javascript/comments/1embu6t/i_built_a_devinlike_sweagent_in_typescript_with/)
-- [AdminForth - MIT Admin framework with Vue components and Tailwind](https://www.reddit.com/r/javascript/comments/1embqg5/adminforth_mit_admin_framework_with_vue/)
-- [main-thread-scheduling — advanced but easy way to achieve better performance &lpar;3 years in the making&rpar;](https://www.reddit.com/r/javascript/comments/1embeqf/mainthreadscheduling_advanced_but_easy_way_to/)
-- [[AskJS] help me out with this real time cellular tower data task.](https://www.reddit.com/r/javascript/comments/1em9dey/askjs_help_me_out_with_this_real_time_cellular/)
+- [Implement Kafka and Node.js in Microservice Architecture](https://www.reddit.com/r/javascript/comments/1eng0e3/implement_kafka_and_nodejs_in_microservice/)
+- [0Din: A GenAI Bug Bounty Program – Securing Tomorrow’s AI Together](https://www.reddit.com/r/javascript/comments/1enebre/0din_a_genai_bug_bounty_program_securing/)
+- [[AskJS] Socket emit and on events - are they added to the callbackQueue or the microtaskQueue?](https://www.reddit.com/r/javascript/comments/1encq6t/askjs_socket_emit_and_on_events_are_they_added_to/)
+- [Making your own npm create package](https://www.reddit.com/r/javascript/comments/1enblge/making_your_own_npm_create_package/)
+- [Announcing Official Puppeteer Support for Firefox – Mozilla Hacks - the Web developer blog](https://www.reddit.com/r/javascript/comments/1enal15/announcing_official_puppeteer_support_for_firefox/)
+- [[AskJS] Is it possible to use JS script blocks on one website from another?](https://www.reddit.com/r/javascript/comments/1ena3k9/askjs_is_it_possible_to_use_js_script_blocks_on/)
+- [[AskJS] Issue with Keycloak and NextAuth Integration: Access Token Expiration Not Handled Properl](https://www.reddit.com/r/javascript/comments/1en8p4b/askjs_issue_with_keycloak_and_nextauth/)
+- [regex: Powerful and readable regexes rivaling PCRE/Perl in a lightweight package that outputs native JS regex literals and can be used as a Babel plugin](https://www.reddit.com/r/javascript/comments/1en23zj/regex_powerful_and_readable_regexes_rivaling/)
+- [Why &quot;page.goto&lpar;&rpar;&quot; is slowing down your Playwright tests](https://www.reddit.com/r/javascript/comments/1en1i5l/why_pagegoto_is_slowing_down_your_playwright_tests/)
+- [heic-to: convert HEIC/HEIF to JPEG/PNG in browser for preview](https://www.reddit.com/r/javascript/comments/1emzvl3/heicto_convert_heicheif_to_jpegpng_in_browser_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
