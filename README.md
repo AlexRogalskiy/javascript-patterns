@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Implement Kafka and Node.js in Microservice Architecture](https://www.reddit.com/r/javascript/comments/1eng0e3/implement_kafka_and_nodejs_in_microservice/)
-- [0Din: A GenAI Bug Bounty Program – Securing Tomorrow’s AI Together](https://www.reddit.com/r/javascript/comments/1enebre/0din_a_genai_bug_bounty_program_securing/)
-- [[AskJS] Socket emit and on events - are they added to the callbackQueue or the microtaskQueue?](https://www.reddit.com/r/javascript/comments/1encq6t/askjs_socket_emit_and_on_events_are_they_added_to/)
-- [Making your own npm create package](https://www.reddit.com/r/javascript/comments/1enblge/making_your_own_npm_create_package/)
-- [Announcing Official Puppeteer Support for Firefox – Mozilla Hacks - the Web developer blog](https://www.reddit.com/r/javascript/comments/1enal15/announcing_official_puppeteer_support_for_firefox/)
-- [[AskJS] Is it possible to use JS script blocks on one website from another?](https://www.reddit.com/r/javascript/comments/1ena3k9/askjs_is_it_possible_to_use_js_script_blocks_on/)
-- [[AskJS] Issue with Keycloak and NextAuth Integration: Access Token Expiration Not Handled Properl](https://www.reddit.com/r/javascript/comments/1en8p4b/askjs_issue_with_keycloak_and_nextauth/)
-- [regex: Powerful and readable regexes rivaling PCRE/Perl in a lightweight package that outputs native JS regex literals and can be used as a Babel plugin](https://www.reddit.com/r/javascript/comments/1en23zj/regex_powerful_and_readable_regexes_rivaling/)
-- [Why &quot;page.goto&lpar;&rpar;&quot; is slowing down your Playwright tests](https://www.reddit.com/r/javascript/comments/1en1i5l/why_pagegoto_is_slowing_down_your_playwright_tests/)
-- [heic-to: convert HEIC/HEIF to JPEG/PNG in browser for preview](https://www.reddit.com/r/javascript/comments/1emzvl3/heicto_convert_heicheif_to_jpegpng_in_browser_for/)
+- [Emojify A fun js library i made](https://www.reddit.com/r/javascript/comments/1eoefgl/emojify_a_fun_js_library_i_made/)
+- [Exploring the Possibilities of Native JavaScript Decorators](https://www.reddit.com/r/javascript/comments/1eoaenq/exploring_the_possibilities_of_native_javascript/)
+- [[AskJS] Is there an example of an in-page search/filter solution that has multiple filter options.](https://www.reddit.com/r/javascript/comments/1eo8o0q/askjs_is_there_an_example_of_an_inpage/)
+- [[AskJS] Is there an issue with the is-number NPM package?](https://www.reddit.com/r/javascript/comments/1eo2rgb/askjs_is_there_an_issue_with_the_isnumber_npm/)
+- [[AskJS] Help with func working in Steam](https://www.reddit.com/r/javascript/comments/1eo03ev/askjs_help_with_func_working_in_steam/)
+- [[AskJS] Creating a cross-platform desktop app.](https://www.reddit.com/r/javascript/comments/1enx0no/askjs_creating_a_crossplatform_desktop_app/)
+- [hmpl: reduce the size of your javascript files and display the same UI as if it was written in a modern framework.](https://www.reddit.com/r/javascript/comments/1envfzr/hmpl_reduce_the_size_of_your_javascript_files_and/)
+- [[AskJS] What is the best database solution for pure JS?](https://www.reddit.com/r/javascript/comments/1enuu0l/askjs_what_is_the_best_database_solution_for_pure/)
+- [Progressive Web Apps vs. Native Apps: Which Works Best for Your Business?](https://www.reddit.com/r/javascript/comments/1entx9x/progressive_web_apps_vs_native_apps_which_works/)
+- [Design components of a scalable notification system](https://www.reddit.com/r/javascript/comments/1entpyr/design_components_of_a_scalable_notification/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
