@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Emojify A fun js library i made](https://www.reddit.com/r/javascript/comments/1eoefgl/emojify_a_fun_js_library_i_made/)
-- [Exploring the Possibilities of Native JavaScript Decorators](https://www.reddit.com/r/javascript/comments/1eoaenq/exploring_the_possibilities_of_native_javascript/)
-- [[AskJS] Is there an example of an in-page search/filter solution that has multiple filter options.](https://www.reddit.com/r/javascript/comments/1eo8o0q/askjs_is_there_an_example_of_an_inpage/)
-- [[AskJS] Is there an issue with the is-number NPM package?](https://www.reddit.com/r/javascript/comments/1eo2rgb/askjs_is_there_an_issue_with_the_isnumber_npm/)
-- [[AskJS] Help with func working in Steam](https://www.reddit.com/r/javascript/comments/1eo03ev/askjs_help_with_func_working_in_steam/)
-- [[AskJS] Creating a cross-platform desktop app.](https://www.reddit.com/r/javascript/comments/1enx0no/askjs_creating_a_crossplatform_desktop_app/)
-- [hmpl: reduce the size of your javascript files and display the same UI as if it was written in a modern framework.](https://www.reddit.com/r/javascript/comments/1envfzr/hmpl_reduce_the_size_of_your_javascript_files_and/)
-- [[AskJS] What is the best database solution for pure JS?](https://www.reddit.com/r/javascript/comments/1enuu0l/askjs_what_is_the_best_database_solution_for_pure/)
-- [Progressive Web Apps vs. Native Apps: Which Works Best for Your Business?](https://www.reddit.com/r/javascript/comments/1entx9x/progressive_web_apps_vs_native_apps_which_works/)
-- [Design components of a scalable notification system](https://www.reddit.com/r/javascript/comments/1entpyr/design_components_of_a_scalable_notification/)
+- [[AskJS] How Often Should I Code in Vanilla JS if I’m Proficient in Both Vanilla JS and React?](https://www.reddit.com/r/javascript/comments/1ep61tb/askjs_how_often_should_i_code_in_vanilla_js_if_im/)
+- [Compiling JavaScript to WASM using Bytecode Alliance&#39;s javy](https://www.reddit.com/r/javascript/comments/1ep3ulk/compiling_javascript_to_wasm_using_bytecode/)
+- [Simple Chat with PDF tool](https://www.reddit.com/r/javascript/comments/1eozsat/simple_chat_with_pdf_tool/)
+- [[AskJS] eslint-plugin-project-structure - Eslint plugin with rules that will help you achieve a project structure that is scalable, consistent, and well thought out.](https://www.reddit.com/r/javascript/comments/1eoyxs0/askjs_eslintpluginprojectstructure_eslint_plugin/)
+- [Simple Sudoku Game PWA On/Offline made with vanilla HTML/CSS/JS](https://www.reddit.com/r/javascript/comments/1eowz75/simple_sudoku_game_pwa_onoffline_made_with/)
+- [Common Causes of Memory Leaks in JavaScript](https://www.reddit.com/r/javascript/comments/1eovkwv/common_causes_of_memory_leaks_in_javascript/)
+- [[AskJS] Library for creating Venn Diagram](https://www.reddit.com/r/javascript/comments/1eorjm9/askjs_library_for_creating_venn_diagram/)
+- [12 Best JavaScript Animation Libraries in 2024](https://www.reddit.com/r/javascript/comments/1eoplcu/12_best_javascript_animation_libraries_in_2024/)
+- [Showoff Saturday &lpar;August 10, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1eomtcf/showoff_saturday_august_10_2024/)
+- [Career survey - if you are going through a layoff and are having difficulty relocating in the market.](https://www.reddit.com/r/javascript/comments/1eojw0f/career_survey_if_you_are_going_through_a_layoff/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
