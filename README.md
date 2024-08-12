@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] How Often Should I Code in Vanilla JS if I’m Proficient in Both Vanilla JS and React?](https://www.reddit.com/r/javascript/comments/1ep61tb/askjs_how_often_should_i_code_in_vanilla_js_if_im/)
+- [Compear: Utilities for comparing and sorting using comparators](https://www.reddit.com/r/javascript/comments/1epyuim/compear_utilities_for_comparing_and_sorting_using/)
+- [[AskJS] what do you do about forgetting things in JS ?](https://www.reddit.com/r/javascript/comments/1eprobn/askjs_what_do_you_do_about_forgetting_things_in_js/)
+- [[AskJS] Selling private packages in 2024](https://www.reddit.com/r/javascript/comments/1eprir9/askjs_selling_private_packages_in_2024/)
+- [I made a template for creating Rollup + Typescript library that includes testing and CI, so you don&#39;t have to](https://www.reddit.com/r/javascript/comments/1epn634/i_made_a_template_for_creating_rollup_typescript/)
+- [Crafting a 13KB Game: The Story of Space Huggers](https://www.reddit.com/r/javascript/comments/1eplhvp/crafting_a_13kb_game_the_story_of_space_huggers/)
+- [[AskJS] Asking how to build a plugins system on the app, like raycast or obsidian](https://www.reddit.com/r/javascript/comments/1epk19j/askjs_asking_how_to_build_a_plugins_system_on_the/)
+- [Refreshing OAuth Access Tokens using Axios Interceptors](https://www.reddit.com/r/javascript/comments/1epgknu/refreshing_oauth_access_tokens_using_axios/)
 - [Compiling JavaScript to WASM using Bytecode Alliance&#39;s javy](https://www.reddit.com/r/javascript/comments/1ep3ulk/compiling_javascript_to_wasm_using_bytecode/)
 - [Simple Chat with PDF tool](https://www.reddit.com/r/javascript/comments/1eozsat/simple_chat_with_pdf_tool/)
 - [[AskJS] eslint-plugin-project-structure - Eslint plugin with rules that will help you achieve a project structure that is scalable, consistent, and well thought out.](https://www.reddit.com/r/javascript/comments/1eoyxs0/askjs_eslintpluginprojectstructure_eslint_plugin/)
-- [Simple Sudoku Game PWA On/Offline made with vanilla HTML/CSS/JS](https://www.reddit.com/r/javascript/comments/1eowz75/simple_sudoku_game_pwa_onoffline_made_with/)
-- [Common Causes of Memory Leaks in JavaScript](https://www.reddit.com/r/javascript/comments/1eovkwv/common_causes_of_memory_leaks_in_javascript/)
-- [[AskJS] Library for creating Venn Diagram](https://www.reddit.com/r/javascript/comments/1eorjm9/askjs_library_for_creating_venn_diagram/)
-- [12 Best JavaScript Animation Libraries in 2024](https://www.reddit.com/r/javascript/comments/1eoplcu/12_best_javascript_animation_libraries_in_2024/)
-- [Showoff Saturday &lpar;August 10, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1eomtcf/showoff_saturday_august_10_2024/)
-- [Career survey - if you are going through a layoff and are having difficulty relocating in the market.](https://www.reddit.com/r/javascript/comments/1eojw0f/career_survey_if_you_are_going_through_a_layoff/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
