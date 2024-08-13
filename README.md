@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Requesting feedback on new blog](https://www.reddit.com/r/javascript/comments/1eql64x/askjs_requesting_feedback_on_new_blog/)
+- [[AskJS] should we use ORM or SQl queries directly in NodeJs application?](https://www.reddit.com/r/javascript/comments/1eqjs0n/askjs_should_we_use_orm_or_sql_queries_directly/)
+- [usBabyNames.js: historical data on US names 1880-2023](https://www.reddit.com/r/javascript/comments/1eqibug/usbabynamesjs_historical_data_on_us_names_18802023/)
+- [[AskJS] I made a Spotify Clone](https://www.reddit.com/r/javascript/comments/1eqgcmj/askjs_i_made_a_spotify_clone/)
+- [[AskJS] Should i choose nodejs?](https://www.reddit.com/r/javascript/comments/1eqetib/askjs_should_i_choose_nodejs/)
+- [Looking for feedback on my new web app](https://www.reddit.com/r/javascript/comments/1eqay5c/looking_for_feedback_on_my_new_web_app/)
+- [How to Build a Cryptocurrency Converter Chrome Extension](https://www.reddit.com/r/javascript/comments/1eqa4qq/how_to_build_a_cryptocurrency_converter_chrome/)
+- [Evading JavaScript Anti-Debugging Techniques](https://www.reddit.com/r/javascript/comments/1eq9ueo/evading_javascript_antidebugging_techniques/)
+- [Your /r/javascript recap for the week of August 05 - August 11, 2024](https://www.reddit.com/r/javascript/comments/1eq8wiw/your_rjavascript_recap_for_the_week_of_august_05/)
 - [Compear: Utilities for comparing and sorting using comparators](https://www.reddit.com/r/javascript/comments/1epyuim/compear_utilities_for_comparing_and_sorting_using/)
-- [[AskJS] what do you do about forgetting things in JS ?](https://www.reddit.com/r/javascript/comments/1eprobn/askjs_what_do_you_do_about_forgetting_things_in_js/)
-- [[AskJS] Selling private packages in 2024](https://www.reddit.com/r/javascript/comments/1eprir9/askjs_selling_private_packages_in_2024/)
-- [I made a template for creating Rollup + Typescript library that includes testing and CI, so you don&#39;t have to](https://www.reddit.com/r/javascript/comments/1epn634/i_made_a_template_for_creating_rollup_typescript/)
-- [Crafting a 13KB Game: The Story of Space Huggers](https://www.reddit.com/r/javascript/comments/1eplhvp/crafting_a_13kb_game_the_story_of_space_huggers/)
-- [[AskJS] Asking how to build a plugins system on the app, like raycast or obsidian](https://www.reddit.com/r/javascript/comments/1epk19j/askjs_asking_how_to_build_a_plugins_system_on_the/)
-- [Refreshing OAuth Access Tokens using Axios Interceptors](https://www.reddit.com/r/javascript/comments/1epgknu/refreshing_oauth_access_tokens_using_axios/)
-- [Compiling JavaScript to WASM using Bytecode Alliance&#39;s javy](https://www.reddit.com/r/javascript/comments/1ep3ulk/compiling_javascript_to_wasm_using_bytecode/)
-- [Simple Chat with PDF tool](https://www.reddit.com/r/javascript/comments/1eozsat/simple_chat_with_pdf_tool/)
-- [[AskJS] eslint-plugin-project-structure - Eslint plugin with rules that will help you achieve a project structure that is scalable, consistent, and well thought out.](https://www.reddit.com/r/javascript/comments/1eoyxs0/askjs_eslintpluginprojectstructure_eslint_plugin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
