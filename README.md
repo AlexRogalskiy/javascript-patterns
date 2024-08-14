@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Requesting feedback on new blog](https://www.reddit.com/r/javascript/comments/1eql64x/askjs_requesting_feedback_on_new_blog/)
+- [Learn how to create HTML/ZIP/PNG polyglot files in JavaScript! &lpar;web presentation&rpar;](https://www.reddit.com/r/javascript/comments/1erlp94/learn_how_to_create_htmlzippng_polyglot_files_in/)
+- [Easily Make Games that fit on QR Codes! &lpar;They&#39;re Multiplatform and No App or Internet is Required&rpar;](https://www.reddit.com/r/javascript/comments/1ere94o/easily_make_games_that_fit_on_qr_codes_theyre/)
+- [Introducing the World&#39;s First Interactive Lottie Editor](https://www.reddit.com/r/javascript/comments/1ercgiw/introducing_the_worlds_first_interactive_lottie/)
+- [Using a built-in binding that&#39;s shadowed](https://www.reddit.com/r/javascript/comments/1era8o4/using_a_builtin_binding_thats_shadowed/)
+- [Eyecons - Advanced VS Code icon theme with adaptive icon colors that match the editor’s color theme](https://www.reddit.com/r/javascript/comments/1er9ulz/eyecons_advanced_vs_code_icon_theme_with_adaptive/)
+- [All JavaScript talks of 2024 so far grouped by conference and ordered by the view count](https://www.reddit.com/r/javascript/comments/1er9kqn/all_javascript_talks_of_2024_so_far_grouped_by/)
+- [Remove Garbage NPM Packages with eslint-plugin-depend](https://www.reddit.com/r/javascript/comments/1er8e19/remove_garbage_npm_packages_with/)
+- [The &quot;An application worker being the main actor&quot; paradigm](https://www.reddit.com/r/javascript/comments/1er102o/the_an_application_worker_being_the_main_actor/)
+- [[AskJS] Any code generation tools for updating files?](https://www.reddit.com/r/javascript/comments/1eqww2q/askjs_any_code_generation_tools_for_updating_files/)
 - [[AskJS] should we use ORM or SQl queries directly in NodeJs application?](https://www.reddit.com/r/javascript/comments/1eqjs0n/askjs_should_we_use_orm_or_sql_queries_directly/)
-- [usBabyNames.js: historical data on US names 1880-2023](https://www.reddit.com/r/javascript/comments/1eqibug/usbabynamesjs_historical_data_on_us_names_18802023/)
-- [[AskJS] I made a Spotify Clone](https://www.reddit.com/r/javascript/comments/1eqgcmj/askjs_i_made_a_spotify_clone/)
-- [[AskJS] Should i choose nodejs?](https://www.reddit.com/r/javascript/comments/1eqetib/askjs_should_i_choose_nodejs/)
-- [Looking for feedback on my new web app](https://www.reddit.com/r/javascript/comments/1eqay5c/looking_for_feedback_on_my_new_web_app/)
-- [How to Build a Cryptocurrency Converter Chrome Extension](https://www.reddit.com/r/javascript/comments/1eqa4qq/how_to_build_a_cryptocurrency_converter_chrome/)
-- [Evading JavaScript Anti-Debugging Techniques](https://www.reddit.com/r/javascript/comments/1eq9ueo/evading_javascript_antidebugging_techniques/)
-- [Your /r/javascript recap for the week of August 05 - August 11, 2024](https://www.reddit.com/r/javascript/comments/1eq8wiw/your_rjavascript_recap_for_the_week_of_august_05/)
-- [Compear: Utilities for comparing and sorting using comparators](https://www.reddit.com/r/javascript/comments/1epyuim/compear_utilities_for_comparing_and_sorting_using/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
