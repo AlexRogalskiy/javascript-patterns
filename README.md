@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Learn how to create HTML/ZIP/PNG polyglot files in JavaScript! &lpar;web presentation&rpar;](https://www.reddit.com/r/javascript/comments/1erlp94/learn_how_to_create_htmlzippng_polyglot_files_in/)
-- [Easily Make Games that fit on QR Codes! &lpar;They&#39;re Multiplatform and No App or Internet is Required&rpar;](https://www.reddit.com/r/javascript/comments/1ere94o/easily_make_games_that_fit_on_qr_codes_theyre/)
-- [Introducing the World&#39;s First Interactive Lottie Editor](https://www.reddit.com/r/javascript/comments/1ercgiw/introducing_the_worlds_first_interactive_lottie/)
-- [Using a built-in binding that&#39;s shadowed](https://www.reddit.com/r/javascript/comments/1era8o4/using_a_builtin_binding_thats_shadowed/)
-- [Eyecons - Advanced VS Code icon theme with adaptive icon colors that match the editor’s color theme](https://www.reddit.com/r/javascript/comments/1er9ulz/eyecons_advanced_vs_code_icon_theme_with_adaptive/)
-- [All JavaScript talks of 2024 so far grouped by conference and ordered by the view count](https://www.reddit.com/r/javascript/comments/1er9kqn/all_javascript_talks_of_2024_so_far_grouped_by/)
-- [Remove Garbage NPM Packages with eslint-plugin-depend](https://www.reddit.com/r/javascript/comments/1er8e19/remove_garbage_npm_packages_with/)
-- [The &quot;An application worker being the main actor&quot; paradigm](https://www.reddit.com/r/javascript/comments/1er102o/the_an_application_worker_being_the_main_actor/)
-- [[AskJS] Any code generation tools for updating files?](https://www.reddit.com/r/javascript/comments/1eqww2q/askjs_any_code_generation_tools_for_updating_files/)
-- [[AskJS] should we use ORM or SQl queries directly in NodeJs application?](https://www.reddit.com/r/javascript/comments/1eqjs0n/askjs_should_we_use_orm_or_sql_queries_directly/)
+- [Reckoning: Part 2 - What hath we wrought? A case study.](https://www.reddit.com/r/javascript/comments/1esil7h/reckoning_part_2_what_hath_we_wrought_a_case_study/)
+- [Why JavaScript Runtime Environments Need C and C++](https://www.reddit.com/r/javascript/comments/1esi3bv/why_javascript_runtime_environments_need_c_and_c/)
+- [[AskJS] Help! I keep getting error message](https://www.reddit.com/r/javascript/comments/1eshv13/askjs_help_i_keep_getting_error_message/)
+- [[AskJS] I&#39;m stuck in HTML form handling in JS.](https://www.reddit.com/r/javascript/comments/1ese65e/askjs_im_stuck_in_html_form_handling_in_js/)
+- [Protobuf-ES 2.0 is now generally available](https://www.reddit.com/r/javascript/comments/1escisy/protobufes_20_is_now_generally_available/)
+- [[AskJS] Advice on making a game engine in javascript](https://www.reddit.com/r/javascript/comments/1es2kbl/askjs_advice_on_making_a_game_engine_in_javascript/)
+- [Google Angular Lead Sees Convergence in JavaScript Frameworks - Angular and React are essentially the same framework, said Angular lead Minko Gechev, who has been given the job of converging two Google frameworks](https://www.reddit.com/r/javascript/comments/1es2fwp/google_angular_lead_sees_convergence_in/)
+- [The Micro-Benchmark Fallacy](https://www.reddit.com/r/javascript/comments/1es02tk/the_microbenchmark_fallacy/)
+- [[AskJS] How to build a video editor in browser](https://www.reddit.com/r/javascript/comments/1erz53q/askjs_how_to_build_a_video_editor_in_browser/)
+- [js1024 winners - 2024 edition](https://www.reddit.com/r/javascript/comments/1eryse0/js1024_winners_2024_edition/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
