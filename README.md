@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Looking for great examples of small-scale JavaScript projects in github!](https://www.reddit.com/r/javascript/comments/1et73jx/askjs_looking_for_great_examples_of_smallscale/)
+- [[AskJS] What are some options for saving hundreds of uploaded photos from a web app?](https://www.reddit.com/r/javascript/comments/1et08ng/askjs_what_are_some_options_for_saving_hundreds/)
+- [Svelte 5 signals fix its glitchy and inconsistent reactivity](https://www.reddit.com/r/javascript/comments/1esvmug/svelte_5_signals_fix_its_glitchy_and_inconsistent/)
+- [[AskJS] Best option to make a blog with content in md stored in a github repository](https://www.reddit.com/r/javascript/comments/1esqsfm/askjs_best_option_to_make_a_blog_with_content_in/)
+- [Mastering API Requests in JavaScript: A 2024 Guide to Fetching Data](https://www.reddit.com/r/javascript/comments/1espfef/mastering_api_requests_in_javascript_a_2024_guide/)
 - [Reckoning: Part 2 - What hath we wrought? A case study.](https://www.reddit.com/r/javascript/comments/1esil7h/reckoning_part_2_what_hath_we_wrought_a_case_study/)
 - [Why JavaScript Runtime Environments Need C and C++](https://www.reddit.com/r/javascript/comments/1esi3bv/why_javascript_runtime_environments_need_c_and_c/)
-- [[AskJS] Help! I keep getting error message](https://www.reddit.com/r/javascript/comments/1eshv13/askjs_help_i_keep_getting_error_message/)
-- [[AskJS] I&#39;m stuck in HTML form handling in JS.](https://www.reddit.com/r/javascript/comments/1ese65e/askjs_im_stuck_in_html_form_handling_in_js/)
 - [Protobuf-ES 2.0 is now generally available](https://www.reddit.com/r/javascript/comments/1escisy/protobufes_20_is_now_generally_available/)
 - [[AskJS] Advice on making a game engine in javascript](https://www.reddit.com/r/javascript/comments/1es2kbl/askjs_advice_on_making_a_game_engine_in_javascript/)
 - [Google Angular Lead Sees Convergence in JavaScript Frameworks - Angular and React are essentially the same framework, said Angular lead Minko Gechev, who has been given the job of converging two Google frameworks](https://www.reddit.com/r/javascript/comments/1es2fwp/google_angular_lead_sees_convergence_in/)
-- [The Micro-Benchmark Fallacy](https://www.reddit.com/r/javascript/comments/1es02tk/the_microbenchmark_fallacy/)
-- [[AskJS] How to build a video editor in browser](https://www.reddit.com/r/javascript/comments/1erz53q/askjs_how_to_build_a_video_editor_in_browser/)
-- [js1024 winners - 2024 edition](https://www.reddit.com/r/javascript/comments/1eryse0/js1024_winners_2024_edition/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
