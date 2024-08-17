@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Looking for great examples of small-scale JavaScript projects in github!](https://www.reddit.com/r/javascript/comments/1et73jx/askjs_looking_for_great_examples_of_smallscale/)
-- [[AskJS] What are some options for saving hundreds of uploaded photos from a web app?](https://www.reddit.com/r/javascript/comments/1et08ng/askjs_what_are_some_options_for_saving_hundreds/)
-- [Svelte 5 signals fix its glitchy and inconsistent reactivity](https://www.reddit.com/r/javascript/comments/1esvmug/svelte_5_signals_fix_its_glitchy_and_inconsistent/)
-- [[AskJS] Best option to make a blog with content in md stored in a github repository](https://www.reddit.com/r/javascript/comments/1esqsfm/askjs_best_option_to_make_a_blog_with_content_in/)
-- [Mastering API Requests in JavaScript: A 2024 Guide to Fetching Data](https://www.reddit.com/r/javascript/comments/1espfef/mastering_api_requests_in_javascript_a_2024_guide/)
-- [Reckoning: Part 2 - What hath we wrought? A case study.](https://www.reddit.com/r/javascript/comments/1esil7h/reckoning_part_2_what_hath_we_wrought_a_case_study/)
-- [Why JavaScript Runtime Environments Need C and C++](https://www.reddit.com/r/javascript/comments/1esi3bv/why_javascript_runtime_environments_need_c_and_c/)
-- [Protobuf-ES 2.0 is now generally available](https://www.reddit.com/r/javascript/comments/1escisy/protobufes_20_is_now_generally_available/)
-- [[AskJS] Advice on making a game engine in javascript](https://www.reddit.com/r/javascript/comments/1es2kbl/askjs_advice_on_making_a_game_engine_in_javascript/)
-- [Google Angular Lead Sees Convergence in JavaScript Frameworks - Angular and React are essentially the same framework, said Angular lead Minko Gechev, who has been given the job of converging two Google frameworks](https://www.reddit.com/r/javascript/comments/1es2fwp/google_angular_lead_sees_convergence_in/)
+- [[AskJS] Anyone knows an open source WMS](https://www.reddit.com/r/javascript/comments/1eu58kq/askjs_anyone_knows_an_open_source_wms/)
+- [Simple Sudoku Game PWA On/Offline made with vanilla HTML/CSS/JS](https://www.reddit.com/r/javascript/comments/1eu1yf2/simple_sudoku_game_pwa_onoffline_made_with/)
+- [[AskJS] Opinions on concrete low code / no code actual good practices](https://www.reddit.com/r/javascript/comments/1etzevb/askjs_opinions_on_concrete_low_code_no_code/)
+- [Influential Stars – Did Anyone Interesting Star/Fork Your Repo?](https://www.reddit.com/r/javascript/comments/1etypen/influential_stars_did_anyone_interesting_starfork/)
+- [The Vastness of JavaScript: Navigating the Ever-Growing Ecosystem](https://www.reddit.com/r/javascript/comments/1etxtwb/the_vastness_of_javascript_navigating_the/)
+- [[AskJS] Nullish Check in conditional](https://www.reddit.com/r/javascript/comments/1etvcx4/askjs_nullish_check_in_conditional/)
+- [[AskJS] The most simplest Javascript mutex implementation in the world.](https://www.reddit.com/r/javascript/comments/1etp4az/askjs_the_most_simplest_javascript_mutex/)
+- [[AskJS] Best UI lib to share between Native and Web?](https://www.reddit.com/r/javascript/comments/1etk29v/askjs_best_ui_lib_to_share_between_native_and_web/)
+- [Optimizing SPA load times with async chunks preloading](https://www.reddit.com/r/javascript/comments/1etjucj/optimizing_spa_load_times_with_async_chunks/)
+- [[AskJS] CMV: since TS has clearly &quot;won&quot; and the vast majority of JS-based development is done in TS, there is no benefit in keeping JS separate from TS and the two should be merged &lpar;yes, like Deno&rpar;](https://www.reddit.com/r/javascript/comments/1etigxk/askjs_cmv_since_ts_has_clearly_won_and_the_vast/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
