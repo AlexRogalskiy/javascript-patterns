@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Anyone knows an open source WMS](https://www.reddit.com/r/javascript/comments/1eu58kq/askjs_anyone_knows_an_open_source_wms/)
-- [Simple Sudoku Game PWA On/Offline made with vanilla HTML/CSS/JS](https://www.reddit.com/r/javascript/comments/1eu1yf2/simple_sudoku_game_pwa_onoffline_made_with/)
-- [[AskJS] Opinions on concrete low code / no code actual good practices](https://www.reddit.com/r/javascript/comments/1etzevb/askjs_opinions_on_concrete_low_code_no_code/)
-- [Influential Stars – Did Anyone Interesting Star/Fork Your Repo?](https://www.reddit.com/r/javascript/comments/1etypen/influential_stars_did_anyone_interesting_starfork/)
-- [The Vastness of JavaScript: Navigating the Ever-Growing Ecosystem](https://www.reddit.com/r/javascript/comments/1etxtwb/the_vastness_of_javascript_navigating_the/)
-- [[AskJS] Nullish Check in conditional](https://www.reddit.com/r/javascript/comments/1etvcx4/askjs_nullish_check_in_conditional/)
-- [[AskJS] The most simplest Javascript mutex implementation in the world.](https://www.reddit.com/r/javascript/comments/1etp4az/askjs_the_most_simplest_javascript_mutex/)
-- [[AskJS] Best UI lib to share between Native and Web?](https://www.reddit.com/r/javascript/comments/1etk29v/askjs_best_ui_lib_to_share_between_native_and_web/)
-- [Optimizing SPA load times with async chunks preloading](https://www.reddit.com/r/javascript/comments/1etjucj/optimizing_spa_load_times_with_async_chunks/)
-- [[AskJS] CMV: since TS has clearly &quot;won&quot; and the vast majority of JS-based development is done in TS, there is no benefit in keeping JS separate from TS and the two should be merged &lpar;yes, like Deno&rpar;](https://www.reddit.com/r/javascript/comments/1etigxk/askjs_cmv_since_ts_has_clearly_won_and_the_vast/)
+- [[AskJS] Looking for a good JS project I could to contribute to !](https://www.reddit.com/r/javascript/comments/1euxiwg/askjs_looking_for_a_good_js_project_i_could_to/)
+- [[AskJS] create coherent address with faker](https://www.reddit.com/r/javascript/comments/1euuae8/askjs_create_coherent_address_with_faker/)
+- [Would you like to Work on Game Collections Repository](https://www.reddit.com/r/javascript/comments/1eusays/would_you_like_to_work_on_game_collections/)
+- [When version updates to JavaScript libraries mean you have to re-write code by hand, again](https://www.reddit.com/r/javascript/comments/1euppew/when_version_updates_to_javascript_libraries_mean/)
+- [[AskJS] Help needed for swiperjs](https://www.reddit.com/r/javascript/comments/1eumsoo/askjs_help_needed_for_swiperjs/)
+- [I built a global free job board with over 1.3m jobs from 10k+ top companies updating every 15 min. Got suggestions/criticism, lets heard it!](https://www.reddit.com/r/javascript/comments/1eummk9/i_built_a_global_free_job_board_with_over_13m/)
+- [I built a library for editing videos with code completely client-side using WebGPU and WebCodecs. Would love your feedback &lpar;took me 16 months&rpar;!](https://www.reddit.com/r/javascript/comments/1eulx49/i_built_a_library_for_editing_videos_with_code/)
+- [[AskJS] Do you want to share Leetcode Premium?](https://www.reddit.com/r/javascript/comments/1eulsb5/askjs_do_you_want_to_share_leetcode_premium/)
+- [One-liner to format source code in Bun](https://www.reddit.com/r/javascript/comments/1euk7bf/oneliner_to_format_source_code_in_bun/)
+- [The problems with node:test, parseArgs, and styleText](https://www.reddit.com/r/javascript/comments/1eujpye/the_problems_with_nodetest_parseargs_and_styletext/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
