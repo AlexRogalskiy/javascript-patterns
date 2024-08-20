@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] How do I make sure some JavaScript is only `active` on specific pages in my app?](https://www.reddit.com/r/javascript/comments/1evo54j/askjs_how_do_i_make_sure_some_javascript_is_only/)
+- [Definitive guide to multi-threaded rendering on the Web](https://www.reddit.com/r/javascript/comments/1ewiyfx/definitive_guide_to_multithreaded_rendering_on/)
+- [[AskJS] Iterable array-like term](https://www.reddit.com/r/javascript/comments/1ewglom/askjs_iterable_arraylike_term/)
+- [[AskJS] Which JS lightweight, open source framework/library would you recommend for a data science/data vis project with time series data?](https://www.reddit.com/r/javascript/comments/1ewa5el/askjs_which_js_lightweight_open_source/)
+- [[AskJS] Grabbing and checking variable for js object](https://www.reddit.com/r/javascript/comments/1ew983n/askjs_grabbing_and_checking_variable_for_js_object/)
+- [What are your opinions on this draft for ECMAScript Error Safe Assignment Operator?](https://www.reddit.com/r/javascript/comments/1ew7fkr/what_are_your_opinions_on_this_draft_for/)
+- [[AskJS] How can I build my own game engine framework?](https://www.reddit.com/r/javascript/comments/1ew6cb5/askjs_how_can_i_build_my_own_game_engine_framework/)
+- [Your /r/javascript recap for the week of August 12 - August 18, 2024](https://www.reddit.com/r/javascript/comments/1evx6p5/your_rjavascript_recap_for_the_week_of_august_12/)
+- [[AskJS] Need Interview Preparation github resources](https://www.reddit.com/r/javascript/comments/1evw23i/askjs_need_interview_preparation_github_resources/)
+- [I Built a javascript library : [A11y Color Suggestion library] which suggests appropriate contrast colors to ensure web accessibility.](https://www.reddit.com/r/javascript/comments/1evtr1y/i_built_a_javascript_library_a11y_color/)
 - [Using JavaScript Generators to Visualize Algorithms](https://www.reddit.com/r/javascript/comments/1evg0x4/using_javascript_generators_to_visualize/)
-- [Require vs Import in JavaScript](https://www.reddit.com/r/javascript/comments/1evfrlw/require_vs_import_in_javascript/)
-- [Comet: A No-Nonsense Video Converter – Looking for Help and Advice](https://www.reddit.com/r/javascript/comments/1evenyb/comet_a_nononsense_video_converter_looking_for/)
-- [Supporting Deno and Bun and using Web Cryptography API for building Signed Web Bundles and Isolated Web Apps](https://www.reddit.com/r/javascript/comments/1eve269/supporting_deno_and_bun_and_using_web/)
-- [[AskJS] Looking for a good JS project I could to contribute to !](https://www.reddit.com/r/javascript/comments/1euxiwg/askjs_looking_for_a_good_js_project_i_could_to/)
-- [Would you like to Work on Game Collections Repository](https://www.reddit.com/r/javascript/comments/1eusays/would_you_like_to_work_on_game_collections/)
-- [When version updates to JavaScript libraries mean you have to re-write code by hand, again](https://www.reddit.com/r/javascript/comments/1euppew/when_version_updates_to_javascript_libraries_mean/)
-- [I built a global free job board with over 1.3m jobs from 10k+ top companies updating every 15 min. Got suggestions/criticism, lets heard it!](https://www.reddit.com/r/javascript/comments/1eummk9/i_built_a_global_free_job_board_with_over_13m/)
-- [I built a library for editing videos with code completely client-side using WebGPU and WebCodecs. Would love your feedback &lpar;took me 16 months&rpar;!](https://www.reddit.com/r/javascript/comments/1eulx49/i_built_a_library_for_editing_videos_with_code/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
