@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Definitive guide to multi-threaded rendering on the Web](https://www.reddit.com/r/javascript/comments/1ewiyfx/definitive_guide_to_multithreaded_rendering_on/)
+- [A Flex framework - implementation](https://www.reddit.com/r/javascript/comments/1ex4jq5/a_flex_framework_implementation/)
+- [ts-easy - is your minimalist TypeScript starter for Node.js projects. No fluff, just the essentials to get you up and running with TypeScript, ESLint, Prettier, and more. Perfect for initiating any TypeScript project, whether it&#39;s a CLI tool, library, or something entirely different.](https://www.reddit.com/r/javascript/comments/1ewzsuz/tseasy_is_your_minimalist_typescript_starter_for/)
+- [[AskJS] Conditional Comparison](https://www.reddit.com/r/javascript/comments/1ewzsim/askjs_conditional_comparison/)
+- [Tuono - The fastest fullstack react framework](https://www.reddit.com/r/javascript/comments/1ewv55g/tuono_the_fastest_fullstack_react_framework/)
+- [Frontend Performance Love Story](https://www.reddit.com/r/javascript/comments/1ewp4v2/frontend_performance_love_story/)
 - [[AskJS] Iterable array-like term](https://www.reddit.com/r/javascript/comments/1ewglom/askjs_iterable_arraylike_term/)
 - [[AskJS] Which JS lightweight, open source framework/library would you recommend for a data science/data vis project with time series data?](https://www.reddit.com/r/javascript/comments/1ewa5el/askjs_which_js_lightweight_open_source/)
-- [[AskJS] Grabbing and checking variable for js object](https://www.reddit.com/r/javascript/comments/1ew983n/askjs_grabbing_and_checking_variable_for_js_object/)
 - [What are your opinions on this draft for ECMAScript Error Safe Assignment Operator?](https://www.reddit.com/r/javascript/comments/1ew7fkr/what_are_your_opinions_on_this_draft_for/)
 - [[AskJS] How can I build my own game engine framework?](https://www.reddit.com/r/javascript/comments/1ew6cb5/askjs_how_can_i_build_my_own_game_engine_framework/)
 - [Your /r/javascript recap for the week of August 12 - August 18, 2024](https://www.reddit.com/r/javascript/comments/1evx6p5/your_rjavascript_recap_for_the_week_of_august_12/)
-- [[AskJS] Need Interview Preparation github resources](https://www.reddit.com/r/javascript/comments/1evw23i/askjs_need_interview_preparation_github_resources/)
-- [I Built a javascript library : [A11y Color Suggestion library] which suggests appropriate contrast colors to ensure web accessibility.](https://www.reddit.com/r/javascript/comments/1evtr1y/i_built_a_javascript_library_a11y_color/)
-- [Using JavaScript Generators to Visualize Algorithms](https://www.reddit.com/r/javascript/comments/1evg0x4/using_javascript_generators_to_visualize/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
