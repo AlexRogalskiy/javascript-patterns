@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Why is my left arrow not working accordingly to my logic?](https://www.reddit.com/r/javascript/comments/1ey4q87/askjs_why_is_my_left_arrow_not_working/)
-- [[AskJS] When implementing clean architecture, where is it &quot;more performant&quot; to instantiate services?](https://www.reddit.com/r/javascript/comments/1ey1nty/askjs_when_implementing_clean_architecture_where/)
-- [[AskJS] Page Manipulation Help!](https://www.reddit.com/r/javascript/comments/1ey0pus/askjs_page_manipulation_help/)
-- [V8. Working with Strings. Expanding Vocabulary](https://www.reddit.com/r/javascript/comments/1ey0d0g/v8_working_with_strings_expanding_vocabulary/)
-- [[AskJS] SLD diagram images](https://www.reddit.com/r/javascript/comments/1exw3lo/askjs_sld_diagram_images/)
-- [Introducing sflow: A New Era of Web Stream Processing for TypeScript/JavaScript Developers!](https://www.reddit.com/r/javascript/comments/1exv4we/introducing_sflow_a_new_era_of_web_stream/)
-- [GitHub - vaguue/over-the-wire: Network inspection library for Node](https://www.reddit.com/r/javascript/comments/1extrue/github_vaguueoverthewire_network_inspection/)
-- [Introducing a Open Source Collection of HTML CSS JS Code Snippets - Ezy Fast UI](https://www.reddit.com/r/javascript/comments/1extcb5/introducing_a_open_source_collection_of_html_css/)
-- [Pipelight - Manage your git-hooks from a single file.](https://www.reddit.com/r/javascript/comments/1exsnnw/pipelight_manage_your_githooks_from_a_single_file/)
-- [[AskJS] An script for our NGO](https://www.reddit.com/r/javascript/comments/1exrufr/askjs_an_script_for_our_ngo/)
+- [[AskJS] Why doesn&#39;t Microsoft Corporation just write a TypeScript specification and build a TypeScript runtime and TypeScript runtime based Web browser?](https://www.reddit.com/r/javascript/comments/1eyxpo1/askjs_why_doesnt_microsoft_corporation_just_write/)
+- [[AskJS] I want to add multiplayer to a simple car racing game](https://www.reddit.com/r/javascript/comments/1eywa88/askjs_i_want_to_add_multiplayer_to_a_simple_car/)
+- [The Only JavaScript Feature That Was Deprecated](https://www.reddit.com/r/javascript/comments/1eyta3t/the_only_javascript_feature_that_was_deprecated/)
+- [[AskJS] Can the rules used by Intl.NumberFormat change in the future?](https://www.reddit.com/r/javascript/comments/1eypkcj/askjs_can_the_rules_used_by_intlnumberformat/)
+- [[AskJS] a get function, a shared object or arguments?](https://www.reddit.com/r/javascript/comments/1eynnrq/askjs_a_get_function_a_shared_object_or_arguments/)
+- [Mutability: A JavaScript library for transactional mutable updates](https://www.reddit.com/r/javascript/comments/1eynlbs/mutability_a_javascript_library_for_transactional/)
+- [[AskJS] Is there some sort of React equivalent of Angular&#39;s Reactive Forms &lpar;not template driven forms&rpar;?](https://www.reddit.com/r/javascript/comments/1eylbba/askjs_is_there_some_sort_of_react_equivalent_of/)
+- [How to Integrate Meilisearch with Node.js for Fast and Relevant Search Results](https://www.reddit.com/r/javascript/comments/1eykzlj/how_to_integrate_meilisearch_with_nodejs_for_fast/)
+- [[AskJS] Include unused icons with ESBuild](https://www.reddit.com/r/javascript/comments/1eyi1be/askjs_include_unused_icons_with_esbuild/)
+- [[AskJS] Is &quot;You dont know JS&quot; good source for js intermediate level understanding](https://www.reddit.com/r/javascript/comments/1eyf1ne/askjs_is_you_dont_know_js_good_source_for_js/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
