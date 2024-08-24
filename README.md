@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Why doesn&#39;t Microsoft Corporation just write a TypeScript specification and build a TypeScript runtime and TypeScript runtime based Web browser?](https://www.reddit.com/r/javascript/comments/1eyxpo1/askjs_why_doesnt_microsoft_corporation_just_write/)
+- [[AskJS] Task fails successfully...](https://www.reddit.com/r/javascript/comments/1ezs59o/askjs_task_fails_successfully/)
+- [A JS chrome extension to get rid of all clickbait thumbnails on Youtube](https://www.reddit.com/r/javascript/comments/1ezq1nd/a_js_chrome_extension_to_get_rid_of_all_clickbait/)
+- [[AskJS] I need a roadmap and good resources](https://www.reddit.com/r/javascript/comments/1ezlbcj/askjs_i_need_a_roadmap_and_good_resources/)
+- [Announcing TypeScript 5.6 RC](https://www.reddit.com/r/javascript/comments/1ezgsao/announcing_typescript_56_rc/)
+- [Open Source Video API, transcode and package to CMAF HLS &lpar;multiple video qualities, audio languages, ...&rpar; at scale, manipulate playlists on-the-fly for ad / bumper insertion or quality filtering.](https://www.reddit.com/r/javascript/comments/1ez9wsi/open_source_video_api_transcode_and_package_to/)
+- [I got kicked from my team for S*#T UI designs - so I built an AI design feedback tool that works on any webpage instantly - UI Copilot!](https://www.reddit.com/r/javascript/comments/1ez96lm/i_got_kicked_from_my_team_for_st_ui_designs_so_i/)
 - [[AskJS] I want to add multiplayer to a simple car racing game](https://www.reddit.com/r/javascript/comments/1eywa88/askjs_i_want_to_add_multiplayer_to_a_simple_car/)
 - [The Only JavaScript Feature That Was Deprecated](https://www.reddit.com/r/javascript/comments/1eyta3t/the_only_javascript_feature_that_was_deprecated/)
 - [[AskJS] Can the rules used by Intl.NumberFormat change in the future?](https://www.reddit.com/r/javascript/comments/1eypkcj/askjs_can_the_rules_used_by_intlnumberformat/)
 - [[AskJS] a get function, a shared object or arguments?](https://www.reddit.com/r/javascript/comments/1eynnrq/askjs_a_get_function_a_shared_object_or_arguments/)
-- [Mutability: A JavaScript library for transactional mutable updates](https://www.reddit.com/r/javascript/comments/1eynlbs/mutability_a_javascript_library_for_transactional/)
-- [[AskJS] Is there some sort of React equivalent of Angular&#39;s Reactive Forms &lpar;not template driven forms&rpar;?](https://www.reddit.com/r/javascript/comments/1eylbba/askjs_is_there_some_sort_of_react_equivalent_of/)
-- [How to Integrate Meilisearch with Node.js for Fast and Relevant Search Results](https://www.reddit.com/r/javascript/comments/1eykzlj/how_to_integrate_meilisearch_with_nodejs_for_fast/)
-- [[AskJS] Include unused icons with ESBuild](https://www.reddit.com/r/javascript/comments/1eyi1be/askjs_include_unused_icons_with_esbuild/)
-- [[AskJS] Is &quot;You dont know JS&quot; good source for js intermediate level understanding](https://www.reddit.com/r/javascript/comments/1eyf1ne/askjs_is_you_dont_know_js_good_source_for_js/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
