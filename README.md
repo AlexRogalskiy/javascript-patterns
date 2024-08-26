@@ -277,15 +277,15 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Take your project to the next level and create your ideal project today!](https://www.reddit.com/r/javascript/comments/1f0w660/take_your_project_to_the_next_level_and_create/)
+- [Use JavaScript to write trading automations](https://www.reddit.com/r/javascript/comments/1f0sawe/use_javascript_to_write_trading_automations/)
 - [I developed NextTrade: A system that performs algorithmic trading](https://www.reddit.com/r/javascript/comments/1f0lc9e/i_developed_nexttrade_a_system_that_performs/)
 - [[AskJS] what IS typescript though?](https://www.reddit.com/r/javascript/comments/1f0ee5i/askjs_what_is_typescript_though/)
 - [[AskJS] What&#39;s your go-to UI library that you would use for EVERY new project? List at least one pro, please.](https://www.reddit.com/r/javascript/comments/1f0b3t3/askjs_whats_your_goto_ui_library_that_you_would/)
 - [[AskJS] is MDN docs for javascript all i&#39;d need to prepare for interviews](https://www.reddit.com/r/javascript/comments/1f05cm5/askjs_is_mdn_docs_for_javascript_all_id_need_to/)
-- [[AskJS] Can anyone advise a roadmap/courses/videos to become a web developer?](https://www.reddit.com/r/javascript/comments/1f043ei/askjs_can_anyone_advise_a_roadmapcoursesvideos_to/)
 - [Showoff Saturday &lpar;August 24, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1ezz97p/showoff_saturday_august_24_2024/)
 - [[AskJS] Liveliness detection using javascript](https://www.reddit.com/r/javascript/comments/1ezvtrs/askjs_liveliness_detection_using_javascript/)
 - [[AskJS] Task fails successfully...](https://www.reddit.com/r/javascript/comments/1ezs59o/askjs_task_fails_successfully/)
-- [A JS chrome extension to get rid of all clickbait thumbnails on Youtube](https://www.reddit.com/r/javascript/comments/1ezq1nd/a_js_chrome_extension_to_get_rid_of_all_clickbait/)
 - [Announcing TypeScript 5.6 RC](https://www.reddit.com/r/javascript/comments/1ezgsao/announcing_typescript_56_rc/)
 <!-- REDDIT-POST-LIST:END -->
 
