@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Take your project to the next level and create your ideal project today!](https://www.reddit.com/r/javascript/comments/1f0w660/take_your_project_to_the_next_level_and_create/)
-- [Use JavaScript to write trading automations](https://www.reddit.com/r/javascript/comments/1f0sawe/use_javascript_to_write_trading_automations/)
-- [I developed NextTrade: A system that performs algorithmic trading](https://www.reddit.com/r/javascript/comments/1f0lc9e/i_developed_nexttrade_a_system_that_performs/)
-- [[AskJS] what IS typescript though?](https://www.reddit.com/r/javascript/comments/1f0ee5i/askjs_what_is_typescript_though/)
-- [[AskJS] What&#39;s your go-to UI library that you would use for EVERY new project? List at least one pro, please.](https://www.reddit.com/r/javascript/comments/1f0b3t3/askjs_whats_your_goto_ui_library_that_you_would/)
-- [[AskJS] is MDN docs for javascript all i&#39;d need to prepare for interviews](https://www.reddit.com/r/javascript/comments/1f05cm5/askjs_is_mdn_docs_for_javascript_all_id_need_to/)
-- [Showoff Saturday &lpar;August 24, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1ezz97p/showoff_saturday_august_24_2024/)
-- [[AskJS] Liveliness detection using javascript](https://www.reddit.com/r/javascript/comments/1ezvtrs/askjs_liveliness_detection_using_javascript/)
-- [[AskJS] Task fails successfully...](https://www.reddit.com/r/javascript/comments/1ezs59o/askjs_task_fails_successfully/)
-- [Announcing TypeScript 5.6 RC](https://www.reddit.com/r/javascript/comments/1ezgsao/announcing_typescript_56_rc/)
+- [[AskJS] How reliable is cloudflares polyfill service](https://www.reddit.com/r/javascript/comments/1f1ybt0/askjs_how_reliable_is_cloudflares_polyfill_service/)
+- [I made a Typescript library that helps you build powerful Ai applications with OpenAIs new Structured Outputs.](https://www.reddit.com/r/javascript/comments/1f1txyb/i_made_a_typescript_library_that_helps_you_build/)
+- [Released ngx-vflow@0.11.0 with subflows support](https://www.reddit.com/r/javascript/comments/1f1tjyk/released_ngxvflow0110_with_subflows_support/)
+- [Create Discord Bot v14: A Quick Start Guide](https://www.reddit.com/r/javascript/comments/1f1q10o/create_discord_bot_v14_a_quick_start_guide/)
+- [Today we released Vuestic UI 1.10, a component library for Vue 3. Introducing Vuestic Compiler and a 50% reduced core build size.](https://www.reddit.com/r/javascript/comments/1f1n9g4/today_we_released_vuestic_ui_110_a_component/)
+- [[AskJS] Document creator/designer](https://www.reddit.com/r/javascript/comments/1f1lhpo/askjs_document_creatordesigner/)
+- [Why HTML Actions Are Suddenly a JavaScript Trend](https://www.reddit.com/r/javascript/comments/1f1l8v9/why_html_actions_are_suddenly_a_javascript_trend/)
+- [Your /r/javascript recap for the week of August 19 - August 25, 2024](https://www.reddit.com/r/javascript/comments/1f1jn15/your_rjavascript_recap_for_the_week_of_august_19/)
+- [Speeding Up Your Website Using Fastify and Redis Cache](https://www.reddit.com/r/javascript/comments/1f1inms/speeding_up_your_website_using_fastify_and_redis/)
+- [Exploiting Web Speech API to execute arbitrary native code](https://www.reddit.com/r/javascript/comments/1f1fw6w/exploiting_web_speech_api_to_execute_arbitrary/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
