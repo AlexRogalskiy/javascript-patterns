@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] How reliable is cloudflares polyfill service](https://www.reddit.com/r/javascript/comments/1f1ybt0/askjs_how_reliable_is_cloudflares_polyfill_service/)
-- [I made a Typescript library that helps you build powerful Ai applications with OpenAIs new Structured Outputs.](https://www.reddit.com/r/javascript/comments/1f1txyb/i_made_a_typescript_library_that_helps_you_build/)
-- [Released ngx-vflow@0.11.0 with subflows support](https://www.reddit.com/r/javascript/comments/1f1tjyk/released_ngxvflow0110_with_subflows_support/)
-- [Create Discord Bot v14: A Quick Start Guide](https://www.reddit.com/r/javascript/comments/1f1q10o/create_discord_bot_v14_a_quick_start_guide/)
-- [Today we released Vuestic UI 1.10, a component library for Vue 3. Introducing Vuestic Compiler and a 50% reduced core build size.](https://www.reddit.com/r/javascript/comments/1f1n9g4/today_we_released_vuestic_ui_110_a_component/)
-- [[AskJS] Document creator/designer](https://www.reddit.com/r/javascript/comments/1f1lhpo/askjs_document_creatordesigner/)
-- [Why HTML Actions Are Suddenly a JavaScript Trend](https://www.reddit.com/r/javascript/comments/1f1l8v9/why_html_actions_are_suddenly_a_javascript_trend/)
-- [Your /r/javascript recap for the week of August 19 - August 25, 2024](https://www.reddit.com/r/javascript/comments/1f1jn15/your_rjavascript_recap_for_the_week_of_august_19/)
-- [Speeding Up Your Website Using Fastify and Redis Cache](https://www.reddit.com/r/javascript/comments/1f1inms/speeding_up_your_website_using_fastify_and_redis/)
-- [Exploiting Web Speech API to execute arbitrary native code](https://www.reddit.com/r/javascript/comments/1f1fw6w/exploiting_web_speech_api_to_execute_arbitrary/)
+- [I built a new Javascript UI framework that uses a new concept called targets which provide a unified interface for variables and methods and give them life cycles and autonomy. It can be used for animation, loading apis, handling events, etc. Would love to hear your thoughts &lpar;took me about 2 years&rpar;](https://www.reddit.com/r/javascript/comments/1f2wfdf/i_built_a_new_javascript_ui_framework_that_uses_a/)
+- [Looking for feedback - RestBI: code first “headless” BI](https://www.reddit.com/r/javascript/comments/1f2tycd/looking_for_feedback_restbi_code_first_headless_bi/)
+- [[AskJS] Working with Acrobat Forms, how do I change the properties of multiple fields with similar names at once?](https://www.reddit.com/r/javascript/comments/1f2qnts/askjs_working_with_acrobat_forms_how_do_i_change/)
+- [JavaScript Generators Explained, But On A Senior-Level](https://www.reddit.com/r/javascript/comments/1f2mzt6/javascript_generators_explained_but_on_a/)
+- [I made an app to organize my appliance user manuals](https://www.reddit.com/r/javascript/comments/1f2ly7b/i_made_an_app_to_organize_my_appliance_user/)
+- [New NestJS Swagger Generator evolved than ever](https://www.reddit.com/r/javascript/comments/1f2lvyy/new_nestjs_swagger_generator_evolved_than_ever/)
+- [[AskJS] Help in understanding the working of using variable in queries of no code tools](https://www.reddit.com/r/javascript/comments/1f2juhj/askjs_help_in_understanding_the_working_of_using/)
+- [[AskJS] How to protect/encrypt source code of a project that is in client machine?](https://www.reddit.com/r/javascript/comments/1f2jq9o/askjs_how_to_protectencrypt_source_code_of_a/)
+- [Streaming data to the front end with the fetch API](https://www.reddit.com/r/javascript/comments/1f2id07/streaming_data_to_the_front_end_with_the_fetch_api/)
+- [[AskJS] How reliable is browserlist when used for the vite compile target?](https://www.reddit.com/r/javascript/comments/1f2i3hc/askjs_how_reliable_is_browserlist_when_used_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
