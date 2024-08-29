@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I built a new Javascript UI framework that uses a new concept called targets which provide a unified interface for variables and methods and give them life cycles and autonomy. It can be used for animation, loading apis, handling events, etc. Would love to hear your thoughts &lpar;took me about 2 years&rpar;](https://www.reddit.com/r/javascript/comments/1f2wfdf/i_built_a_new_javascript_ui_framework_that_uses_a/)
-- [Looking for feedback - RestBI: code first “headless” BI](https://www.reddit.com/r/javascript/comments/1f2tycd/looking_for_feedback_restbi_code_first_headless_bi/)
-- [[AskJS] Working with Acrobat Forms, how do I change the properties of multiple fields with similar names at once?](https://www.reddit.com/r/javascript/comments/1f2qnts/askjs_working_with_acrobat_forms_how_do_i_change/)
-- [JavaScript Generators Explained, But On A Senior-Level](https://www.reddit.com/r/javascript/comments/1f2mzt6/javascript_generators_explained_but_on_a/)
-- [I made an app to organize my appliance user manuals](https://www.reddit.com/r/javascript/comments/1f2ly7b/i_made_an_app_to_organize_my_appliance_user/)
-- [New NestJS Swagger Generator evolved than ever](https://www.reddit.com/r/javascript/comments/1f2lvyy/new_nestjs_swagger_generator_evolved_than_ever/)
-- [[AskJS] Help in understanding the working of using variable in queries of no code tools](https://www.reddit.com/r/javascript/comments/1f2juhj/askjs_help_in_understanding_the_working_of_using/)
-- [[AskJS] How to protect/encrypt source code of a project that is in client machine?](https://www.reddit.com/r/javascript/comments/1f2jq9o/askjs_how_to_protectencrypt_source_code_of_a/)
-- [Streaming data to the front end with the fetch API](https://www.reddit.com/r/javascript/comments/1f2id07/streaming_data_to_the_front_end_with_the_fetch_api/)
-- [[AskJS] How reliable is browserlist when used for the vite compile target?](https://www.reddit.com/r/javascript/comments/1f2i3hc/askjs_how_reliable_is_browserlist_when_used_for/)
+- [[AskJS] How would you convert this TypeScript code to read into an Array or ArrayBuffer instead of a String?](https://www.reddit.com/r/javascript/comments/1f3r4q1/askjs_how_would_you_convert_this_typescript_code/)
+- [[AskJS] What is your go-to approach to sharing code between projects?](https://www.reddit.com/r/javascript/comments/1f3okbv/askjs_what_is_your_goto_approach_to_sharing_code/)
+- [A JavaScript Library for Performing Financial Analysis using AI](https://www.reddit.com/r/javascript/comments/1f3lw3h/a_javascript_library_for_performing_financial/)
+- [How fast is javascript? Simulating 20,000,000 particles](https://www.reddit.com/r/javascript/comments/1f3k9xj/how_fast_is_javascript_simulating_20000000/)
+- [[AskJS] How is this ASCII art animation built?](https://www.reddit.com/r/javascript/comments/1f3i4lm/askjs_how_is_this_ascii_art_animation_built/)
+- [[AskJS] What One Feature Would You Magically Add to JavaScript or TypeScript?](https://www.reddit.com/r/javascript/comments/1f3h5w2/askjs_what_one_feature_would_you_magically_add_to/)
+- [[AskJS] project..](https://www.reddit.com/r/javascript/comments/1f3gimd/askjs_project/)
+- [[AskJS] If not new frameworks, what is the JavaScript community actually looking for?](https://www.reddit.com/r/javascript/comments/1f3g3h7/askjs_if_not_new_frameworks_what_is_the/)
+- [[AskJS] problems with jinja in JS](https://www.reddit.com/r/javascript/comments/1f3drvs/askjs_problems_with_jinja_in_js/)
+- [[AskJS] someone please explain iteration](https://www.reddit.com/r/javascript/comments/1f3clf6/askjs_someone_please_explain_iteration/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
