@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] NodeJS Forward Proxy:](https://www.reddit.com/r/javascript/comments/1f4jwpk/askjs_nodejs_forward_proxy/)
+- [[AskJS] How can I learn more about JavaScript to be strong in it ?](https://www.reddit.com/r/javascript/comments/1f4if30/askjs_how_can_i_learn_more_about_javascript_to_be/)
+- [[AskJS] How can i replace those effects with another kind of function](https://www.reddit.com/r/javascript/comments/1f4c64h/askjs_how_can_i_replace_those_effects_with/)
+- [Component testing in Storybook](https://www.reddit.com/r/javascript/comments/1f49q6y/component_testing_in_storybook/)
+- [[AskJS] getElementById with a Chrome extension](https://www.reddit.com/r/javascript/comments/1f47ijy/askjs_getelementbyid_with_a_chrome_extension/)
+- [Turborepo 2.1: `--affected`, `turbo ls`, and more](https://www.reddit.com/r/javascript/comments/1f47i0g/turborepo_21_affected_turbo_ls_and_more/)
+- [[AskJS] How do you prevent a &quot;complete&quot; library from looking abandoned?](https://www.reddit.com/r/javascript/comments/1f45s7o/askjs_how_do_you_prevent_a_complete_library_from/)
+- [Hackathon this Saturday for new open source durable computing platform &lpar;$5k prizes&rpar;](https://www.reddit.com/r/javascript/comments/1f437lm/hackathon_this_saturday_for_new_open_source/)
 - [[AskJS] How would you convert this TypeScript code to read into an Array or ArrayBuffer instead of a String?](https://www.reddit.com/r/javascript/comments/1f3r4q1/askjs_how_would_you_convert_this_typescript_code/)
 - [[AskJS] What is your go-to approach to sharing code between projects?](https://www.reddit.com/r/javascript/comments/1f3okbv/askjs_what_is_your_goto_approach_to_sharing_code/)
-- [A JavaScript Library for Performing Financial Analysis using AI](https://www.reddit.com/r/javascript/comments/1f3lw3h/a_javascript_library_for_performing_financial/)
-- [How fast is javascript? Simulating 20,000,000 particles](https://www.reddit.com/r/javascript/comments/1f3k9xj/how_fast_is_javascript_simulating_20000000/)
-- [[AskJS] How is this ASCII art animation built?](https://www.reddit.com/r/javascript/comments/1f3i4lm/askjs_how_is_this_ascii_art_animation_built/)
-- [[AskJS] What One Feature Would You Magically Add to JavaScript or TypeScript?](https://www.reddit.com/r/javascript/comments/1f3h5w2/askjs_what_one_feature_would_you_magically_add_to/)
-- [[AskJS] project..](https://www.reddit.com/r/javascript/comments/1f3gimd/askjs_project/)
-- [[AskJS] If not new frameworks, what is the JavaScript community actually looking for?](https://www.reddit.com/r/javascript/comments/1f3g3h7/askjs_if_not_new_frameworks_what_is_the/)
-- [[AskJS] problems with jinja in JS](https://www.reddit.com/r/javascript/comments/1f3drvs/askjs_problems_with_jinja_in_js/)
-- [[AskJS] someone please explain iteration](https://www.reddit.com/r/javascript/comments/1f3clf6/askjs_someone_please_explain_iteration/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
