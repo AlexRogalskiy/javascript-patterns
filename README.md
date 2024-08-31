@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] NodeJS Forward Proxy:](https://www.reddit.com/r/javascript/comments/1f4jwpk/askjs_nodejs_forward_proxy/)
-- [[AskJS] How can I learn more about JavaScript to be strong in it ?](https://www.reddit.com/r/javascript/comments/1f4if30/askjs_how_can_i_learn_more_about_javascript_to_be/)
-- [[AskJS] How can i replace those effects with another kind of function](https://www.reddit.com/r/javascript/comments/1f4c64h/askjs_how_can_i_replace_those_effects_with/)
-- [Component testing in Storybook](https://www.reddit.com/r/javascript/comments/1f49q6y/component_testing_in_storybook/)
-- [[AskJS] getElementById with a Chrome extension](https://www.reddit.com/r/javascript/comments/1f47ijy/askjs_getelementbyid_with_a_chrome_extension/)
-- [Turborepo 2.1: `--affected`, `turbo ls`, and more](https://www.reddit.com/r/javascript/comments/1f47i0g/turborepo_21_affected_turbo_ls_and_more/)
-- [[AskJS] How do you prevent a &quot;complete&quot; library from looking abandoned?](https://www.reddit.com/r/javascript/comments/1f45s7o/askjs_how_do_you_prevent_a_complete_library_from/)
-- [Hackathon this Saturday for new open source durable computing platform &lpar;$5k prizes&rpar;](https://www.reddit.com/r/javascript/comments/1f437lm/hackathon_this_saturday_for_new_open_source/)
-- [[AskJS] How would you convert this TypeScript code to read into an Array or ArrayBuffer instead of a String?](https://www.reddit.com/r/javascript/comments/1f3r4q1/askjs_how_would_you_convert_this_typescript_code/)
-- [[AskJS] What is your go-to approach to sharing code between projects?](https://www.reddit.com/r/javascript/comments/1f3okbv/askjs_what_is_your_goto_approach_to_sharing_code/)
+- [[AskJS] how to make an animation with images using javascript](https://www.reddit.com/r/javascript/comments/1f56z7p/askjs_how_to_make_an_animation_with_images_using/)
+- [How to mock requests in e2e tests using MSW](https://www.reddit.com/r/javascript/comments/1f56gvt/how_to_mock_requests_in_e2e_tests_using_msw/)
+- [Tag.js A better, faster, smaller, and more efficient tagging library for search bars](https://www.reddit.com/r/javascript/comments/1f5253r/tagjs_a_better_faster_smaller_and_more_efficient/)
+- [How to Integrate Algolia with Node.js for Full-Text Search](https://www.reddit.com/r/javascript/comments/1f51y2b/how_to_integrate_algolia_with_nodejs_for_fulltext/)
+- [Embrace Intermediate Variables and Early Returns](https://www.reddit.com/r/javascript/comments/1f4wm8t/embrace_intermediate_variables_and_early_returns/)
+- [hdinf &lpar;human-duration in format&rpar; – typesafe human-duration expression parser](https://www.reddit.com/r/javascript/comments/1f4u4y6/hdinf_humanduration_in_format_typesafe/)
+- [[AskJS] Any suggestions for a library for checking PDF Integrity?](https://www.reddit.com/r/javascript/comments/1f4qr5k/askjs_any_suggestions_for_a_library_for_checking/)
+- [[AskJS] Have you came across anything like &quot;SpotAPI&quot; project in javascript?](https://www.reddit.com/r/javascript/comments/1f4p6y4/askjs_have_you_came_across_anything_like_spotapi/)
+- [[AskJS] What&#39;s Your Go-To Platform for Learning and Why?](https://www.reddit.com/r/javascript/comments/1f4ow4t/askjs_whats_your_goto_platform_for_learning_and/)
+- [Exciting Update! watermark-js-plus Now with Enhanced Features for Custom Watermarks! Optimized Multiline and Rich Text Support + New IE11 Compatibility!](https://www.reddit.com/r/javascript/comments/1f4o4js/exciting_update_watermarkjsplus_now_with_enhanced/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
