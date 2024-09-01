@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How I Created a 3.78MB Docker Image for a JavaScript Service](https://www.reddit.com/r/javascript/comments/1f63f18/how_i_created_a_378mb_docker_image_for_a/)
+- [[AskJS] Evaluating a Few SSGs for Class Project - Community / User Opinions Welcome!](https://www.reddit.com/r/javascript/comments/1f62toj/askjs_evaluating_a_few_ssgs_for_class_project/)
+- [Node.js REPL from/to the browser](https://www.reddit.com/r/javascript/comments/1f5zxqb/nodejs_repl_fromto_the_browser/)
+- [[AskJS] I’m publishing a library to NPM and I also want to publish a demo project that uses the library. Should I make the demo a separate package?](https://www.reddit.com/r/javascript/comments/1f5ytoi/askjs_im_publishing_a_library_to_npm_and_i_also/)
+- [I made a free realtime multiplayer 2D cave gem quest game!](https://www.reddit.com/r/javascript/comments/1f5v0j4/i_made_a_free_realtime_multiplayer_2d_cave_gem/)
+- [[AskJS] Infrastructure Question](https://www.reddit.com/r/javascript/comments/1f5pnci/askjs_infrastructure_question/)
+- [[AskJS] local host / open my website](https://www.reddit.com/r/javascript/comments/1f5jkrw/askjs_local_host_open_my_website/)
+- [Showoff Saturday &lpar;August 31, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1f5hbgg/showoff_saturday_august_31_2024/)
 - [[AskJS] how to make an animation with images using javascript](https://www.reddit.com/r/javascript/comments/1f56z7p/askjs_how_to_make_an_animation_with_images_using/)
 - [How to mock requests in e2e tests using MSW](https://www.reddit.com/r/javascript/comments/1f56gvt/how_to_mock_requests_in_e2e_tests_using_msw/)
-- [Tag.js A better, faster, smaller, and more efficient tagging library for search bars](https://www.reddit.com/r/javascript/comments/1f5253r/tagjs_a_better_faster_smaller_and_more_efficient/)
-- [How to Integrate Algolia with Node.js for Full-Text Search](https://www.reddit.com/r/javascript/comments/1f51y2b/how_to_integrate_algolia_with_nodejs_for_fulltext/)
-- [Embrace Intermediate Variables and Early Returns](https://www.reddit.com/r/javascript/comments/1f4wm8t/embrace_intermediate_variables_and_early_returns/)
-- [hdinf &lpar;human-duration in format&rpar; – typesafe human-duration expression parser](https://www.reddit.com/r/javascript/comments/1f4u4y6/hdinf_humanduration_in_format_typesafe/)
-- [[AskJS] Any suggestions for a library for checking PDF Integrity?](https://www.reddit.com/r/javascript/comments/1f4qr5k/askjs_any_suggestions_for_a_library_for_checking/)
-- [[AskJS] Have you came across anything like &quot;SpotAPI&quot; project in javascript?](https://www.reddit.com/r/javascript/comments/1f4p6y4/askjs_have_you_came_across_anything_like_spotapi/)
-- [[AskJS] What&#39;s Your Go-To Platform for Learning and Why?](https://www.reddit.com/r/javascript/comments/1f4ow4t/askjs_whats_your_goto_platform_for_learning_and/)
-- [Exciting Update! watermark-js-plus Now with Enhanced Features for Custom Watermarks! Optimized Multiline and Rich Text Support + New IE11 Compatibility!](https://www.reddit.com/r/javascript/comments/1f4o4js/exciting_update_watermarkjsplus_now_with_enhanced/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
