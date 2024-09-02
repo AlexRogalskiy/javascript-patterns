@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Amazon FEE-2 Phone Interview Scheduled : What Should I Expect?](https://www.reddit.com/r/javascript/comments/1f6r9xy/askjs_amazon_fee2_phone_interview_scheduled_what/)
+- [[AskJS] Anybody get Node.js&#39; Single executable applications process to work?](https://www.reddit.com/r/javascript/comments/1f6ijis/askjs_anybody_get_nodejs_single_executable/)
+- [[AskJS] Redux store external changes question](https://www.reddit.com/r/javascript/comments/1f6de96/askjs_redux_store_external_changes_question/)
+- [[AskJS] How to learn Generative AI as a full stack developer?](https://www.reddit.com/r/javascript/comments/1f6awbw/askjs_how_to_learn_generative_ai_as_a_full_stack/)
+- [[AskJS] Why does this print &#39;hello&#39;?](https://www.reddit.com/r/javascript/comments/1f69u9w/askjs_why_does_this_print_hello/)
+- [[AskJS] these thing pop up when i save or run any js related file](https://www.reddit.com/r/javascript/comments/1f69l7b/askjs_these_thing_pop_up_when_i_save_or_run_any/)
+- [[AskJS] Is React’s Traditional Component Model Becoming Outdated?](https://www.reddit.com/r/javascript/comments/1f687yi/askjs_is_reacts_traditional_component_model/)
 - [How I Created a 3.78MB Docker Image for a JavaScript Service](https://www.reddit.com/r/javascript/comments/1f63f18/how_i_created_a_378mb_docker_image_for_a/)
 - [[AskJS] Evaluating a Few SSGs for Class Project - Community / User Opinions Welcome!](https://www.reddit.com/r/javascript/comments/1f62toj/askjs_evaluating_a_few_ssgs_for_class_project/)
 - [Node.js REPL from/to the browser](https://www.reddit.com/r/javascript/comments/1f5zxqb/nodejs_repl_fromto_the_browser/)
-- [[AskJS] I’m publishing a library to NPM and I also want to publish a demo project that uses the library. Should I make the demo a separate package?](https://www.reddit.com/r/javascript/comments/1f5ytoi/askjs_im_publishing_a_library_to_npm_and_i_also/)
-- [I made a free realtime multiplayer 2D cave gem quest game!](https://www.reddit.com/r/javascript/comments/1f5v0j4/i_made_a_free_realtime_multiplayer_2d_cave_gem/)
-- [[AskJS] Infrastructure Question](https://www.reddit.com/r/javascript/comments/1f5pnci/askjs_infrastructure_question/)
-- [[AskJS] local host / open my website](https://www.reddit.com/r/javascript/comments/1f5jkrw/askjs_local_host_open_my_website/)
-- [Showoff Saturday &lpar;August 31, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1f5hbgg/showoff_saturday_august_31_2024/)
-- [[AskJS] how to make an animation with images using javascript](https://www.reddit.com/r/javascript/comments/1f56z7p/askjs_how_to_make_an_animation_with_images_using/)
-- [How to mock requests in e2e tests using MSW](https://www.reddit.com/r/javascript/comments/1f56gvt/how_to_mock_requests_in_e2e_tests_using_msw/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
