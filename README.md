@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] ISO Best code coverage tools for JavaScript/CSS](https://www.reddit.com/r/javascript/comments/1f7fiau/askjs_iso_best_code_coverage_tools_for/)
+- [[AskJS] Getting image in input=“file” to display only after the submit button is clicked](https://www.reddit.com/r/javascript/comments/1f7dtoc/askjs_getting_image_in_inputfile_to_display_only/)
+- [[AskJS] What should I say about my experience, when I have none?](https://www.reddit.com/r/javascript/comments/1f7brxn/askjs_what_should_i_say_about_my_experience_when/)
+- [Write a domain-specific language in javascript](https://www.reddit.com/r/javascript/comments/1f7aipe/write_a_domainspecific_language_in_javascript/)
+- [AggregateError in JavaScript](https://www.reddit.com/r/javascript/comments/1f76zz3/aggregateerror_in_javascript/)
+- [I&#39;ve been tracking mentions of JavaScript in job postings since the start of the year!](https://www.reddit.com/r/javascript/comments/1f755zh/ive_been_tracking_mentions_of_javascript_in_job/)
+- [Found an open-source codebase that&#39;s similar to Skool &lpar;Learning Management System&rpar;](https://www.reddit.com/r/javascript/comments/1f71al1/found_an_opensource_codebase_thats_similar_to/)
 - [[AskJS] Amazon FEE-2 Phone Interview Scheduled : What Should I Expect?](https://www.reddit.com/r/javascript/comments/1f6r9xy/askjs_amazon_fee2_phone_interview_scheduled_what/)
 - [[AskJS] Anybody get Node.js&#39; Single executable applications process to work?](https://www.reddit.com/r/javascript/comments/1f6ijis/askjs_anybody_get_nodejs_single_executable/)
 - [[AskJS] Redux store external changes question](https://www.reddit.com/r/javascript/comments/1f6de96/askjs_redux_store_external_changes_question/)
-- [[AskJS] How to learn Generative AI as a full stack developer?](https://www.reddit.com/r/javascript/comments/1f6awbw/askjs_how_to_learn_generative_ai_as_a_full_stack/)
-- [[AskJS] Why does this print &#39;hello&#39;?](https://www.reddit.com/r/javascript/comments/1f69u9w/askjs_why_does_this_print_hello/)
-- [[AskJS] these thing pop up when i save or run any js related file](https://www.reddit.com/r/javascript/comments/1f69l7b/askjs_these_thing_pop_up_when_i_save_or_run_any/)
-- [[AskJS] Is React’s Traditional Component Model Becoming Outdated?](https://www.reddit.com/r/javascript/comments/1f687yi/askjs_is_reacts_traditional_component_model/)
-- [How I Created a 3.78MB Docker Image for a JavaScript Service](https://www.reddit.com/r/javascript/comments/1f63f18/how_i_created_a_378mb_docker_image_for_a/)
-- [[AskJS] Evaluating a Few SSGs for Class Project - Community / User Opinions Welcome!](https://www.reddit.com/r/javascript/comments/1f62toj/askjs_evaluating_a_few_ssgs_for_class_project/)
-- [Node.js REPL from/to the browser](https://www.reddit.com/r/javascript/comments/1f5zxqb/nodejs_repl_fromto_the_browser/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
