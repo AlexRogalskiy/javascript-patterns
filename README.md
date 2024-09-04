@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] ISO Best code coverage tools for JavaScript/CSS](https://www.reddit.com/r/javascript/comments/1f7fiau/askjs_iso_best_code_coverage_tools_for/)
-- [[AskJS] Getting image in input=“file” to display only after the submit button is clicked](https://www.reddit.com/r/javascript/comments/1f7dtoc/askjs_getting_image_in_inputfile_to_display_only/)
-- [[AskJS] What should I say about my experience, when I have none?](https://www.reddit.com/r/javascript/comments/1f7brxn/askjs_what_should_i_say_about_my_experience_when/)
-- [Write a domain-specific language in javascript](https://www.reddit.com/r/javascript/comments/1f7aipe/write_a_domainspecific_language_in_javascript/)
-- [AggregateError in JavaScript](https://www.reddit.com/r/javascript/comments/1f76zz3/aggregateerror_in_javascript/)
-- [I&#39;ve been tracking mentions of JavaScript in job postings since the start of the year!](https://www.reddit.com/r/javascript/comments/1f755zh/ive_been_tracking_mentions_of_javascript_in_job/)
-- [Found an open-source codebase that&#39;s similar to Skool &lpar;Learning Management System&rpar;](https://www.reddit.com/r/javascript/comments/1f71al1/found_an_opensource_codebase_thats_similar_to/)
-- [[AskJS] Amazon FEE-2 Phone Interview Scheduled : What Should I Expect?](https://www.reddit.com/r/javascript/comments/1f6r9xy/askjs_amazon_fee2_phone_interview_scheduled_what/)
-- [[AskJS] Anybody get Node.js&#39; Single executable applications process to work?](https://www.reddit.com/r/javascript/comments/1f6ijis/askjs_anybody_get_nodejs_single_executable/)
-- [[AskJS] Redux store external changes question](https://www.reddit.com/r/javascript/comments/1f6de96/askjs_redux_store_external_changes_question/)
+- [[AskJS] What do you hate the most about getting your first job that has JS tech?](https://www.reddit.com/r/javascript/comments/1f8h0hs/askjs_what_do_you_hate_the_most_about_getting/)
+- [[AskJS] How can I get better at JS to do challenges?](https://www.reddit.com/r/javascript/comments/1f8fbna/askjs_how_can_i_get_better_at_js_to_do_challenges/)
+- [A guide to file uploads in Remix](https://www.reddit.com/r/javascript/comments/1f8c4xm/a_guide_to_file_uploads_in_remix/)
+- [[AskJS] Promise.all vs custom non-sequential approach](https://www.reddit.com/r/javascript/comments/1f8adhl/askjs_promiseall_vs_custom_nonsequential_approach/)
+- [From atomized client solutions and pet projects to Tagplant.js framework and code library: my JavaScript journey in merging ideas, skill building, and system development. It&#39;s a personal project turned system with practical value, not a flashy new thing.](https://www.reddit.com/r/javascript/comments/1f86d74/from_atomized_client_solutions_and_pet_projects/)
+- [AWS IAM Actions, Resources, and Condition Keys in NPM Package Updated Daily](https://www.reddit.com/r/javascript/comments/1f86cng/aws_iam_actions_resources_and_condition_keys_in/)
+- [12 Keys to Write Senior-Level Tests &lpar;Test Desiderata in JavaScript&rpar;](https://www.reddit.com/r/javascript/comments/1f84xfr/12_keys_to_write_seniorlevel_tests_test/)
+- [[AskJS] How long until I’m ready for react?](https://www.reddit.com/r/javascript/comments/1f84wb8/askjs_how_long_until_im_ready_for_react/)
+- [I built an AI tool to handle my mom’s invoices and saved her 20hrs!](https://www.reddit.com/r/javascript/comments/1f84vcf/i_built_an_ai_tool_to_handle_my_moms_invoices_and/)
+- [I&#39;m Building a QuickBook Client with TypeScript](https://www.reddit.com/r/javascript/comments/1f83po8/im_building_a_quickbook_client_with_typescript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
