@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Made a client side, ads free online utils like base64 encode/decode, json format/minify/escape, pivot data, time convertor, diffs, and more](https://www.reddit.com/r/javascript/comments/1f8yxkf/made_a_client_side_ads_free_online_utils_like/)
+- [Made a Chrome extension.](https://www.reddit.com/r/javascript/comments/1f8w9op/made_a_chrome_extension/)
+- [[AskJS] is there a good library for parsing LDAP DNs?](https://www.reddit.com/r/javascript/comments/1f8vuor/askjs_is_there_a_good_library_for_parsing_ldap_dns/)
+- [Explicit is better than implicit](https://www.reddit.com/r/javascript/comments/1f8tg9f/explicit_is_better_than_implicit/)
+- [WTF Wednesday &lpar;September 04, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1f8mww6/wtf_wednesday_september_04_2024/)
+- [[AskJS] One Site, Multi-Apps](https://www.reddit.com/r/javascript/comments/1f8mnx9/askjs_one_site_multiapps/)
 - [[AskJS] What do you hate the most about getting your first job that has JS tech?](https://www.reddit.com/r/javascript/comments/1f8h0hs/askjs_what_do_you_hate_the_most_about_getting/)
-- [[AskJS] How can I get better at JS to do challenges?](https://www.reddit.com/r/javascript/comments/1f8fbna/askjs_how_can_i_get_better_at_js_to_do_challenges/)
 - [A guide to file uploads in Remix](https://www.reddit.com/r/javascript/comments/1f8c4xm/a_guide_to_file_uploads_in_remix/)
-- [[AskJS] Promise.all vs custom non-sequential approach](https://www.reddit.com/r/javascript/comments/1f8adhl/askjs_promiseall_vs_custom_nonsequential_approach/)
 - [From atomized client solutions and pet projects to Tagplant.js framework and code library: my JavaScript journey in merging ideas, skill building, and system development. It&#39;s a personal project turned system with practical value, not a flashy new thing.](https://www.reddit.com/r/javascript/comments/1f86d74/from_atomized_client_solutions_and_pet_projects/)
 - [AWS IAM Actions, Resources, and Condition Keys in NPM Package Updated Daily](https://www.reddit.com/r/javascript/comments/1f86cng/aws_iam_actions_resources_and_condition_keys_in/)
-- [12 Keys to Write Senior-Level Tests &lpar;Test Desiderata in JavaScript&rpar;](https://www.reddit.com/r/javascript/comments/1f84xfr/12_keys_to_write_seniorlevel_tests_test/)
-- [[AskJS] How long until I’m ready for react?](https://www.reddit.com/r/javascript/comments/1f84wb8/askjs_how_long_until_im_ready_for_react/)
-- [I built an AI tool to handle my mom’s invoices and saved her 20hrs!](https://www.reddit.com/r/javascript/comments/1f84vcf/i_built_an_ai_tool_to_handle_my_moms_invoices_and/)
-- [I&#39;m Building a QuickBook Client with TypeScript](https://www.reddit.com/r/javascript/comments/1f83po8/im_building_a_quickbook_client_with_typescript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
