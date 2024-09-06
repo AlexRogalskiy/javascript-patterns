@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Made a client side, ads free online utils like base64 encode/decode, json format/minify/escape, pivot data, time convertor, diffs, and more](https://www.reddit.com/r/javascript/comments/1f8yxkf/made_a_client_side_ads_free_online_utils_like/)
-- [Made a Chrome extension.](https://www.reddit.com/r/javascript/comments/1f8w9op/made_a_chrome_extension/)
-- [[AskJS] is there a good library for parsing LDAP DNs?](https://www.reddit.com/r/javascript/comments/1f8vuor/askjs_is_there_a_good_library_for_parsing_ldap_dns/)
-- [Explicit is better than implicit](https://www.reddit.com/r/javascript/comments/1f8tg9f/explicit_is_better_than_implicit/)
-- [WTF Wednesday &lpar;September 04, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1f8mww6/wtf_wednesday_september_04_2024/)
-- [[AskJS] One Site, Multi-Apps](https://www.reddit.com/r/javascript/comments/1f8mnx9/askjs_one_site_multiapps/)
-- [[AskJS] What do you hate the most about getting your first job that has JS tech?](https://www.reddit.com/r/javascript/comments/1f8h0hs/askjs_what_do_you_hate_the_most_about_getting/)
-- [A guide to file uploads in Remix](https://www.reddit.com/r/javascript/comments/1f8c4xm/a_guide_to_file_uploads_in_remix/)
-- [From atomized client solutions and pet projects to Tagplant.js framework and code library: my JavaScript journey in merging ideas, skill building, and system development. It&#39;s a personal project turned system with practical value, not a flashy new thing.](https://www.reddit.com/r/javascript/comments/1f86d74/from_atomized_client_solutions_and_pet_projects/)
-- [AWS IAM Actions, Resources, and Condition Keys in NPM Package Updated Daily](https://www.reddit.com/r/javascript/comments/1f86cng/aws_iam_actions_resources_and_condition_keys_in/)
+- [[AskJS] Best approach for a javascript Lightbox on an image grid created using json](https://www.reddit.com/r/javascript/comments/1f9xaqu/askjs_best_approach_for_a_javascript_lightbox_on/)
+- [[AskJS] Is there a world in which a module installed by npm fails with &quot;is not a module&quot; in dev but installs without a problem on cloud prod?](https://www.reddit.com/r/javascript/comments/1f9web1/askjs_is_there_a_world_in_which_a_module/)
+- [[AskJS] Can anyone recommend a litegraph.js alternative with a similar featureset?](https://www.reddit.com/r/javascript/comments/1f9vnih/askjs_can_anyone_recommend_a_litegraphjs/)
+- [[AskJS] Indeed Web Scraper Issues](https://www.reddit.com/r/javascript/comments/1f9tq2w/askjs_indeed_web_scraper_issues/)
+- [Building an App with Next.js and Electron with Server Components Support | SayBackend](https://www.reddit.com/r/javascript/comments/1f9t4y1/building_an_app_with_nextjs_and_electron_with/)
+- [Speeding up Electron apps by using V8 snapshots in the main process](https://www.reddit.com/r/javascript/comments/1f9osbi/speeding_up_electron_apps_by_using_v8_snapshots/)
+- [An ¨everything is a stream¨ UI library](https://www.reddit.com/r/javascript/comments/1f9mll6/an_everything_is_a_stream_ui_library/)
+- [Introducing Qustar: A New Way to Query SQL Databases](https://www.reddit.com/r/javascript/comments/1f9km42/introducing_qustar_a_new_way_to_query_sql/)
+- [The fastest JS color library](https://www.reddit.com/r/javascript/comments/1f9k0a6/the_fastest_js_color_library/)
+- [How to Batch Notifications for your Social Media/ Collaborative Application?](https://www.reddit.com/r/javascript/comments/1f9ds36/how_to_batch_notifications_for_your_social_media/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
