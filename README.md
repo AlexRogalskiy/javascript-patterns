@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Made a youtube NPC comment blocked extension](https://www.reddit.com/r/javascript/comments/1faoiyd/made_a_youtube_npc_comment_blocked_extension/)
+- [[AskJS] How do i export a constant as txt?](https://www.reddit.com/r/javascript/comments/1fafeqk/askjs_how_do_i_export_a_constant_as_txt/)
+- [Convert Tailwind email template to an inline-styled template with one function call](https://www.reddit.com/r/javascript/comments/1fae1za/convert_tailwind_email_template_to_an/)
+- [Maybe a better online json format tool.](https://www.reddit.com/r/javascript/comments/1faarsf/maybe_a_better_online_json_format_tool/)
+- [[AskJS] How Can I Optimize JavaScript Performance to Reduce Load Times in a React SPA?](https://www.reddit.com/r/javascript/comments/1fa95ht/askjs_how_can_i_optimize_javascript_performance/)
 - [[AskJS] Best approach for a javascript Lightbox on an image grid created using json](https://www.reddit.com/r/javascript/comments/1f9xaqu/askjs_best_approach_for_a_javascript_lightbox_on/)
 - [[AskJS] Is there a world in which a module installed by npm fails with &quot;is not a module&quot; in dev but installs without a problem on cloud prod?](https://www.reddit.com/r/javascript/comments/1f9web1/askjs_is_there_a_world_in_which_a_module/)
 - [[AskJS] Can anyone recommend a litegraph.js alternative with a similar featureset?](https://www.reddit.com/r/javascript/comments/1f9vnih/askjs_can_anyone_recommend_a_litegraphjs/)
-- [[AskJS] Indeed Web Scraper Issues](https://www.reddit.com/r/javascript/comments/1f9tq2w/askjs_indeed_web_scraper_issues/)
 - [Building an App with Next.js and Electron with Server Components Support | SayBackend](https://www.reddit.com/r/javascript/comments/1f9t4y1/building_an_app_with_nextjs_and_electron_with/)
 - [Speeding up Electron apps by using V8 snapshots in the main process](https://www.reddit.com/r/javascript/comments/1f9osbi/speeding_up_electron_apps_by_using_v8_snapshots/)
-- [An ¨everything is a stream¨ UI library](https://www.reddit.com/r/javascript/comments/1f9mll6/an_everything_is_a_stream_ui_library/)
-- [Introducing Qustar: A New Way to Query SQL Databases](https://www.reddit.com/r/javascript/comments/1f9km42/introducing_qustar_a_new_way_to_query_sql/)
-- [The fastest JS color library](https://www.reddit.com/r/javascript/comments/1f9k0a6/the_fastest_js_color_library/)
-- [How to Batch Notifications for your Social Media/ Collaborative Application?](https://www.reddit.com/r/javascript/comments/1f9ds36/how_to_batch_notifications_for_your_social_media/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
