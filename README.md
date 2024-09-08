@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [VSCode extension for visualizing and debugging JS regexes](https://www.reddit.com/r/javascript/comments/1fbf5sn/vscode_extension_for_visualizing_and_debugging_js/)
+- [[AskJS] Seeking Advice on Enhancing WYSIWYG Editor &lpar;Tiptap&rpar; or Switching to an Alternative](https://www.reddit.com/r/javascript/comments/1fb947w/askjs_seeking_advice_on_enhancing_wysiwyg_editor/)
+- [[AskJS] Looking for a library to scan 2d datamatrix](https://www.reddit.com/r/javascript/comments/1fb4vg1/askjs_looking_for_a_library_to_scan_2d_datamatrix/)
+- [[AskJS] Add stamp to pdf programmatically](https://www.reddit.com/r/javascript/comments/1fb2ggw/askjs_add_stamp_to_pdf_programmatically/)
+- [[AskJS] Feedback on APIMiner: A Tool to Extract API Calls from TypeScript Projects](https://www.reddit.com/r/javascript/comments/1fb23qx/askjs_feedback_on_apiminer_a_tool_to_extract_api/)
+- [Showoff Saturday &lpar;September 07, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1fb137e/showoff_saturday_september_07_2024/)
 - [Made a youtube NPC comment blocked extension](https://www.reddit.com/r/javascript/comments/1faoiyd/made_a_youtube_npc_comment_blocked_extension/)
 - [[AskJS] How do i export a constant as txt?](https://www.reddit.com/r/javascript/comments/1fafeqk/askjs_how_do_i_export_a_constant_as_txt/)
 - [Convert Tailwind email template to an inline-styled template with one function call](https://www.reddit.com/r/javascript/comments/1fae1za/convert_tailwind_email_template_to_an/)
 - [Maybe a better online json format tool.](https://www.reddit.com/r/javascript/comments/1faarsf/maybe_a_better_online_json_format_tool/)
-- [[AskJS] How Can I Optimize JavaScript Performance to Reduce Load Times in a React SPA?](https://www.reddit.com/r/javascript/comments/1fa95ht/askjs_how_can_i_optimize_javascript_performance/)
-- [[AskJS] Best approach for a javascript Lightbox on an image grid created using json](https://www.reddit.com/r/javascript/comments/1f9xaqu/askjs_best_approach_for_a_javascript_lightbox_on/)
-- [[AskJS] Is there a world in which a module installed by npm fails with &quot;is not a module&quot; in dev but installs without a problem on cloud prod?](https://www.reddit.com/r/javascript/comments/1f9web1/askjs_is_there_a_world_in_which_a_module/)
-- [[AskJS] Can anyone recommend a litegraph.js alternative with a similar featureset?](https://www.reddit.com/r/javascript/comments/1f9vnih/askjs_can_anyone_recommend_a_litegraphjs/)
-- [Building an App with Next.js and Electron with Server Components Support | SayBackend](https://www.reddit.com/r/javascript/comments/1f9t4y1/building_an_app_with_nextjs_and_electron_with/)
-- [Speeding up Electron apps by using V8 snapshots in the main process](https://www.reddit.com/r/javascript/comments/1f9osbi/speeding_up_electron_apps_by_using_v8_snapshots/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
