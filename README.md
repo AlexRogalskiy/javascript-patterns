@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Looking for your subjective opinions on which paid AI chat services are best at coding? Opinions of ChatGPT Pro vs Claude vs others?](https://www.reddit.com/r/javascript/comments/1fcbqra/askjs_looking_for_your_subjective_opinions_on/)
-- [I built a website with ten thousand pixels. Changing a pixel changes it for everyone in real time. It&#39;s like r/place but a battle for the most popular color.](https://www.reddit.com/r/javascript/comments/1fc3cz5/i_built_a_website_with_ten_thousand_pixels/)
-- [setImmediate&lpar;&rpar; vs setTimeout&lpar;&rpar; in JavaScript](https://www.reddit.com/r/javascript/comments/1fbwvhs/setimmediate_vs_settimeout_in_javascript/)
-- [[AskJS] What Framework for beginners?](https://www.reddit.com/r/javascript/comments/1fbr7h0/askjs_what_framework_for_beginners/)
-- [VSCode extension for visualizing and debugging JS regexes](https://www.reddit.com/r/javascript/comments/1fbf5sn/vscode_extension_for_visualizing_and_debugging_js/)
-- [[AskJS] Seeking Advice on Enhancing WYSIWYG Editor &lpar;Tiptap&rpar; or Switching to an Alternative](https://www.reddit.com/r/javascript/comments/1fb947w/askjs_seeking_advice_on_enhancing_wysiwyg_editor/)
-- [[AskJS] Looking for a library to scan 2d datamatrix](https://www.reddit.com/r/javascript/comments/1fb4vg1/askjs_looking_for_a_library_to_scan_2d_datamatrix/)
-- [[AskJS] Add stamp to pdf programmatically](https://www.reddit.com/r/javascript/comments/1fb2ggw/askjs_add_stamp_to_pdf_programmatically/)
-- [[AskJS] Feedback on APIMiner: A Tool to Extract API Calls from TypeScript Projects](https://www.reddit.com/r/javascript/comments/1fb23qx/askjs_feedback_on_apiminer_a_tool_to_extract_api/)
-- [Showoff Saturday &lpar;September 07, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1fb137e/showoff_saturday_september_07_2024/)
+- [Compile Node.js Native Messaging host to Single executable application](https://www.reddit.com/r/javascript/comments/1fd56hj/compile_nodejs_native_messaging_host_to_single/)
+- [[AskJS] If I were to give you a list of coordinates &lpar;x,y&rpar;, what format you&#39;d like more? &lpar;what feels nicer?&rpar;](https://www.reddit.com/r/javascript/comments/1fd35gs/askjs_if_i_were_to_give_you_a_list_of_coordinates/)
+- [Announcing TypeScript 5.6](https://www.reddit.com/r/javascript/comments/1fcuuy4/announcing_typescript_56/)
+- [[AskJS] Do you think your open source library / project needs a page that collects &quot;Thank you&quot;?](https://www.reddit.com/r/javascript/comments/1fcobyn/askjs_do_you_think_your_open_source_library/)
+- [I would really appreciate some feedback on this – a TypeScript tool for developing automated trading rules](https://www.reddit.com/r/javascript/comments/1fcnkpa/i_would_really_appreciate_some_feedback_on_this_a/)
+- [W3.CSS enhanced w/JavaScript new NPM](https://www.reddit.com/r/javascript/comments/1fclv00/w3css_enhanced_wjavascript_new_npm/)
+- [Your /r/javascript recap for the week of September 02 - September 08, 2024](https://www.reddit.com/r/javascript/comments/1fcl02f/your_rjavascript_recap_for_the_week_of_september/)
+- [[AskJS] Need quick advice on Eslint](https://www.reddit.com/r/javascript/comments/1fcjvjm/askjs_need_quick_advice_on_eslint/)
+- [API Rate Limiting in Node.js | Enhance API Performance &amp; Security](https://www.reddit.com/r/javascript/comments/1fcjdmy/api_rate_limiting_in_nodejs_enhance_api/)
+- [Read, and write files and directories in local filesystem from the browser with workerd and fetch&lpar;&rpar;](https://www.reddit.com/r/javascript/comments/1fcgzqt/read_and_write_files_and_directories_in_local/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
