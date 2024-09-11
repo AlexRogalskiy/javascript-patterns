@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Compile Node.js Native Messaging host to Single executable application](https://www.reddit.com/r/javascript/comments/1fd56hj/compile_nodejs_native_messaging_host_to_single/)
-- [[AskJS] If I were to give you a list of coordinates &lpar;x,y&rpar;, what format you&#39;d like more? &lpar;what feels nicer?&rpar;](https://www.reddit.com/r/javascript/comments/1fd35gs/askjs_if_i_were_to_give_you_a_list_of_coordinates/)
-- [Announcing TypeScript 5.6](https://www.reddit.com/r/javascript/comments/1fcuuy4/announcing_typescript_56/)
-- [[AskJS] Do you think your open source library / project needs a page that collects &quot;Thank you&quot;?](https://www.reddit.com/r/javascript/comments/1fcobyn/askjs_do_you_think_your_open_source_library/)
-- [I would really appreciate some feedback on this – a TypeScript tool for developing automated trading rules](https://www.reddit.com/r/javascript/comments/1fcnkpa/i_would_really_appreciate_some_feedback_on_this_a/)
-- [W3.CSS enhanced w/JavaScript new NPM](https://www.reddit.com/r/javascript/comments/1fclv00/w3css_enhanced_wjavascript_new_npm/)
-- [Your /r/javascript recap for the week of September 02 - September 08, 2024](https://www.reddit.com/r/javascript/comments/1fcl02f/your_rjavascript_recap_for_the_week_of_september/)
-- [[AskJS] Need quick advice on Eslint](https://www.reddit.com/r/javascript/comments/1fcjvjm/askjs_need_quick_advice_on_eslint/)
-- [API Rate Limiting in Node.js | Enhance API Performance &amp; Security](https://www.reddit.com/r/javascript/comments/1fcjdmy/api_rate_limiting_in_nodejs_enhance_api/)
-- [Read, and write files and directories in local filesystem from the browser with workerd and fetch&lpar;&rpar;](https://www.reddit.com/r/javascript/comments/1fcgzqt/read_and_write_files_and_directories_in_local/)
+- [I created a CLI utility to remove old node_modules in the projects you don&#39;t use!](https://www.reddit.com/r/javascript/comments/1fdso8h/i_created_a_cli_utility_to_remove_old_node/)
+- [Finally Finished My Triangle Tool, What Do You Guys Think?](https://www.reddit.com/r/javascript/comments/1fdq7ys/finally_finished_my_triangle_tool_what_do_you/)
+- [Launching our SDK for AI Search and RAG](https://www.reddit.com/r/javascript/comments/1fdo77y/launching_our_sdk_for_ai_search_and_rag/)
+- [[AskJS] Host website on github for free in just 1 min](https://www.reddit.com/r/javascript/comments/1fdjz6u/askjs_host_website_on_github_for_free_in_just_1/)
+- [Use react hooks in classes](https://www.reddit.com/r/javascript/comments/1fdi5gr/use_react_hooks_in_classes/)
+- [Exploring Ember Polaris: A Fresh Take on the Component Format](https://www.reddit.com/r/javascript/comments/1fdgal3/exploring_ember_polaris_a_fresh_take_on_the/)
+- [Top 10 Angular Architecture Mistakes You Really Want To Avoid](https://www.reddit.com/r/javascript/comments/1fdducb/top_10_angular_architecture_mistakes_you_really/)
+- [Local-First Vector Database with RxDB and transformers.js](https://www.reddit.com/r/javascript/comments/1fddeqt/localfirst_vector_database_with_rxdb_and/)
+- [Patterns for Memory Efficient DOM Manipulation with Modern Vanilla JavaScript](https://www.reddit.com/r/javascript/comments/1fddc1e/patterns_for_memory_efficient_dom_manipulation/)
+- [Deploy Strapi with Docker on Digital Ocean App Platform](https://www.reddit.com/r/javascript/comments/1fdbwl5/deploy_strapi_with_docker_on_digital_ocean_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
