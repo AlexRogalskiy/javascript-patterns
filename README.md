@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[Typia] LLM Function Calling Application Composer in TypeScript](https://www.reddit.com/r/javascript/comments/1feriu3/typia_llm_function_calling_application_composer/)
+- [How to Implement API Rate Limiting with Redis and Node.js](https://www.reddit.com/r/javascript/comments/1feehag/how_to_implement_api_rate_limiting_with_redis_and/)
+- [How to Enable CORS in Express.js: A Step-by-Step Guide](https://www.reddit.com/r/javascript/comments/1feegxc/how_to_enable_cors_in_expressjs_a_stepbystep_guide/)
+- [WTF Wednesday &lpar;September 11, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1fe40wj/wtf_wednesday_september_11_2024/)
 - [I created a CLI utility to remove old node_modules in the projects you don&#39;t use!](https://www.reddit.com/r/javascript/comments/1fdso8h/i_created_a_cli_utility_to_remove_old_node/)
 - [Finally Finished My Triangle Tool, What Do You Guys Think?](https://www.reddit.com/r/javascript/comments/1fdq7ys/finally_finished_my_triangle_tool_what_do_you/)
 - [Launching our SDK for AI Search and RAG](https://www.reddit.com/r/javascript/comments/1fdo77y/launching_our_sdk_for_ai_search_and_rag/)
 - [[AskJS] Host website on github for free in just 1 min](https://www.reddit.com/r/javascript/comments/1fdjz6u/askjs_host_website_on_github_for_free_in_just_1/)
 - [Use react hooks in classes](https://www.reddit.com/r/javascript/comments/1fdi5gr/use_react_hooks_in_classes/)
 - [Exploring Ember Polaris: A Fresh Take on the Component Format](https://www.reddit.com/r/javascript/comments/1fdgal3/exploring_ember_polaris_a_fresh_take_on_the/)
-- [Top 10 Angular Architecture Mistakes You Really Want To Avoid](https://www.reddit.com/r/javascript/comments/1fdducb/top_10_angular_architecture_mistakes_you_really/)
-- [Local-First Vector Database with RxDB and transformers.js](https://www.reddit.com/r/javascript/comments/1fddeqt/localfirst_vector_database_with_rxdb_and/)
-- [Patterns for Memory Efficient DOM Manipulation with Modern Vanilla JavaScript](https://www.reddit.com/r/javascript/comments/1fddc1e/patterns_for_memory_efficient_dom_manipulation/)
-- [Deploy Strapi with Docker on Digital Ocean App Platform](https://www.reddit.com/r/javascript/comments/1fdbwl5/deploy_strapi_with_docker_on_digital_ocean_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
