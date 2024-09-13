@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Having trouble with a basic &#39;else&#39; statement](https://www.reddit.com/r/javascript/comments/1ffeclu/askjs_having_trouble_with_a_basic_else_statement/)
+- [I built a 1kB, dependency-free CRON scheduler](https://www.reddit.com/r/javascript/comments/1ffcqgy/i_built_a_1kb_dependencyfree_cron_scheduler/)
+- [These 5000 npm packages consume &gt;4.5 PB of traffic per week](https://www.reddit.com/r/javascript/comments/1ff3q2e/these_5000_npm_packages_consume_45_pb_of_traffic/)
+- [NumNJsToIX - a lightweight numerical analysis C++ add-on for nodejs](https://www.reddit.com/r/javascript/comments/1ff3kjk/numnjstoix_a_lightweight_numerical_analysis_c/)
+- [[AskJS] Are you using AI at work yet?](https://www.reddit.com/r/javascript/comments/1ff1qqj/askjs_are_you_using_ai_at_work_yet/)
+- [[AskJS] Cookie management library](https://www.reddit.com/r/javascript/comments/1ff1a7i/askjs_cookie_management_library/)
+- [I believe this is the correct way to handle boilerplate in a monorepo microservices backend](https://www.reddit.com/r/javascript/comments/1fexooz/i_believe_this_is_the_correct_way_to_handle/)
+- [[AskJS] How do you like the idea of &#39;strict mode&#39; for data structures?](https://www.reddit.com/r/javascript/comments/1fetgl1/askjs_how_do_you_like_the_idea_of_strict_mode_for/)
+- [I created a library for making Card Games](https://www.reddit.com/r/javascript/comments/1fetaar/i_created_a_library_for_making_card_games/)
 - [[Typia] LLM Function Calling Application Composer in TypeScript](https://www.reddit.com/r/javascript/comments/1feriu3/typia_llm_function_calling_application_composer/)
-- [How to Implement API Rate Limiting with Redis and Node.js](https://www.reddit.com/r/javascript/comments/1feehag/how_to_implement_api_rate_limiting_with_redis_and/)
-- [How to Enable CORS in Express.js: A Step-by-Step Guide](https://www.reddit.com/r/javascript/comments/1feegxc/how_to_enable_cors_in_expressjs_a_stepbystep_guide/)
-- [WTF Wednesday &lpar;September 11, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1fe40wj/wtf_wednesday_september_11_2024/)
-- [I created a CLI utility to remove old node_modules in the projects you don&#39;t use!](https://www.reddit.com/r/javascript/comments/1fdso8h/i_created_a_cli_utility_to_remove_old_node/)
-- [Finally Finished My Triangle Tool, What Do You Guys Think?](https://www.reddit.com/r/javascript/comments/1fdq7ys/finally_finished_my_triangle_tool_what_do_you/)
-- [Launching our SDK for AI Search and RAG](https://www.reddit.com/r/javascript/comments/1fdo77y/launching_our_sdk_for_ai_search_and_rag/)
-- [[AskJS] Host website on github for free in just 1 min](https://www.reddit.com/r/javascript/comments/1fdjz6u/askjs_host_website_on_github_for_free_in_just_1/)
-- [Use react hooks in classes](https://www.reddit.com/r/javascript/comments/1fdi5gr/use_react_hooks_in_classes/)
-- [Exploring Ember Polaris: A Fresh Take on the Component Format](https://www.reddit.com/r/javascript/comments/1fdgal3/exploring_ember_polaris_a_fresh_take_on_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
