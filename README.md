@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Having trouble with a basic &#39;else&#39; statement](https://www.reddit.com/r/javascript/comments/1ffeclu/askjs_having_trouble_with_a_basic_else_statement/)
+- [GitHub - metaory/markup.json: DOM tree representation in compact JSON -- Draft Spec, Library and CLI](https://www.reddit.com/r/javascript/comments/1fg32x7/github_metaorymarkupjson_dom_tree_representation/)
+- [I rebuilt my site with Astro and now writing tutorials on every animated component in the site.](https://www.reddit.com/r/javascript/comments/1ffxwg2/i_rebuilt_my_site_with_astro_and_now_writing/)
+- [[AskJS] What&#39;s your favorite abstraction for logging in browser?](https://www.reddit.com/r/javascript/comments/1ffueuw/askjs_whats_your_favorite_abstraction_for_logging/)
+- [[AskJS] Validate an idea for me](https://www.reddit.com/r/javascript/comments/1ffu1en/askjs_validate_an_idea_for_me/)
+- [I made C, C++, Java formatter for javascript](https://www.reddit.com/r/javascript/comments/1ffoav8/i_made_c_c_java_formatter_for_javascript/)
 - [I built a 1kB, dependency-free CRON scheduler](https://www.reddit.com/r/javascript/comments/1ffcqgy/i_built_a_1kb_dependencyfree_cron_scheduler/)
 - [These 5000 npm packages consume &gt;4.5 PB of traffic per week](https://www.reddit.com/r/javascript/comments/1ff3q2e/these_5000_npm_packages_consume_45_pb_of_traffic/)
 - [NumNJsToIX - a lightweight numerical analysis C++ add-on for nodejs](https://www.reddit.com/r/javascript/comments/1ff3kjk/numnjstoix_a_lightweight_numerical_analysis_c/)
 - [[AskJS] Are you using AI at work yet?](https://www.reddit.com/r/javascript/comments/1ff1qqj/askjs_are_you_using_ai_at_work_yet/)
 - [[AskJS] Cookie management library](https://www.reddit.com/r/javascript/comments/1ff1a7i/askjs_cookie_management_library/)
-- [I believe this is the correct way to handle boilerplate in a monorepo microservices backend](https://www.reddit.com/r/javascript/comments/1fexooz/i_believe_this_is_the_correct_way_to_handle/)
-- [[AskJS] How do you like the idea of &#39;strict mode&#39; for data structures?](https://www.reddit.com/r/javascript/comments/1fetgl1/askjs_how_do_you_like_the_idea_of_strict_mode_for/)
-- [I created a library for making Card Games](https://www.reddit.com/r/javascript/comments/1fetaar/i_created_a_library_for_making_card_games/)
-- [[Typia] LLM Function Calling Application Composer in TypeScript](https://www.reddit.com/r/javascript/comments/1feriu3/typia_llm_function_calling_application_composer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
