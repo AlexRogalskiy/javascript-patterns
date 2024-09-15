@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [GitHub - metaory/markup.json: DOM tree representation in compact JSON -- Draft Spec, Library and CLI](https://www.reddit.com/r/javascript/comments/1fg32x7/github_metaorymarkupjson_dom_tree_representation/)
-- [I rebuilt my site with Astro and now writing tutorials on every animated component in the site.](https://www.reddit.com/r/javascript/comments/1ffxwg2/i_rebuilt_my_site_with_astro_and_now_writing/)
-- [[AskJS] What&#39;s your favorite abstraction for logging in browser?](https://www.reddit.com/r/javascript/comments/1ffueuw/askjs_whats_your_favorite_abstraction_for_logging/)
-- [[AskJS] Validate an idea for me](https://www.reddit.com/r/javascript/comments/1ffu1en/askjs_validate_an_idea_for_me/)
-- [I made C, C++, Java formatter for javascript](https://www.reddit.com/r/javascript/comments/1ffoav8/i_made_c_c_java_formatter_for_javascript/)
-- [I built a 1kB, dependency-free CRON scheduler](https://www.reddit.com/r/javascript/comments/1ffcqgy/i_built_a_1kb_dependencyfree_cron_scheduler/)
-- [These 5000 npm packages consume &gt;4.5 PB of traffic per week](https://www.reddit.com/r/javascript/comments/1ff3q2e/these_5000_npm_packages_consume_45_pb_of_traffic/)
-- [NumNJsToIX - a lightweight numerical analysis C++ add-on for nodejs](https://www.reddit.com/r/javascript/comments/1ff3kjk/numnjstoix_a_lightweight_numerical_analysis_c/)
-- [[AskJS] Are you using AI at work yet?](https://www.reddit.com/r/javascript/comments/1ff1qqj/askjs_are_you_using_ai_at_work_yet/)
-- [[AskJS] Cookie management library](https://www.reddit.com/r/javascript/comments/1ff1a7i/askjs_cookie_management_library/)
+- [GitHub - afc163/fanyi: A Chinese and English translator in your command line](https://www.reddit.com/r/javascript/comments/1fgr9xk/github_afc163fanyi_a_chinese_and_english/)
+- [[AskJS] Help with Json sorting](https://www.reddit.com/r/javascript/comments/1fgokd5/askjs_help_with_json_sorting/)
+- [[AskJS] Is Javascript harder than Java?](https://www.reddit.com/r/javascript/comments/1fgn29e/askjs_is_javascript_harder_than_java/)
+- [[AskJS] I am given a task to replicate a Website i need help copying components from the existing ones](https://www.reddit.com/r/javascript/comments/1fgk6sj/askjs_i_am_given_a_task_to_replicate_a_website_i/)
+- [[AskJS] What Libraries and Frameworks Should I Use?](https://www.reddit.com/r/javascript/comments/1fgk6je/askjs_what_libraries_and_frameworks_should_i_use/)
+- [5 whys and the fix for &quot;Exit handler never called&quot; in Node 22.5.0](https://www.reddit.com/r/javascript/comments/1fggft8/5_whys_and_the_fix_for_exit_handler_never_called/)
+- [Showoff Saturday &lpar;September 14, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1fggd05/showoff_saturday_september_14_2024/)
+- [[AskJS] Any good tech stack generator websites out there?](https://www.reddit.com/r/javascript/comments/1fgg8a7/askjs_any_good_tech_stack_generator_websites_out/)
+- [[AskJS] Interviews are cancer](https://www.reddit.com/r/javascript/comments/1fgfwsq/askjs_interviews_are_cancer/)
+- [[AskJS] Whats going on! Can&#39;t I turn this into async function](https://www.reddit.com/r/javascript/comments/1fgecdf/askjs_whats_going_on_cant_i_turn_this_into_async/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
