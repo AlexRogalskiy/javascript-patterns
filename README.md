@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Hot reload Middleware express](https://www.reddit.com/r/javascript/comments/1fhrpv8/hot_reload_middleware_express/)
+- [[AskJS] Is there a way to simulate text cursor using JavaScript?](https://www.reddit.com/r/javascript/comments/1fhrmxx/askjs_is_there_a_way_to_simulate_text_cursor/)
+- [How I won $2,750 using JavaScript, AI, and a can of WD-40](https://www.reddit.com/r/javascript/comments/1fhpun8/how_i_won_2750_using_javascript_ai_and_a_can_of/)
+- [[AskJS] How do you guys sync video frame with audio chunk?](https://www.reddit.com/r/javascript/comments/1fho9fj/askjs_how_do_you_guys_sync_video_frame_with_audio/)
+- [[AskJS] When I deploy a node server on a service like render.com, How can I be sure there is only one main thread &lpar;one event loop&rpar;?](https://www.reddit.com/r/javascript/comments/1fhmkc9/askjs_when_i_deploy_a_node_server_on_a_service/)
+- [Using gsap to create a tubelight-like effect. It is a visually appealing animation style that mimics the flickering or glowing effect of a fluorescent tube light.](https://www.reddit.com/r/javascript/comments/1fhd74o/using_gsap_to_create_a_tubelightlike_effect_it_is/)
+- [A powerful, copy-paste UI framework - Snap Framework](https://www.reddit.com/r/javascript/comments/1fhcqzj/a_powerful_copypaste_ui_framework_snap_framework/)
+- [Butility 20+ Utility Classes with 1000+ Methods! Would Love Feedback](https://www.reddit.com/r/javascript/comments/1fhbxcq/butility_20_utility_classes_with_1000_methods/)
+- [[AskJS] How well does JavaScript perform for Android apps, Electron desktop apps, and Telegram bot development?](https://www.reddit.com/r/javascript/comments/1fhaclb/askjs_how_well_does_javascript_perform_for/)
 - [GitHub - afc163/fanyi: A Chinese and English translator in your command line](https://www.reddit.com/r/javascript/comments/1fgr9xk/github_afc163fanyi_a_chinese_and_english/)
-- [[AskJS] Help with Json sorting](https://www.reddit.com/r/javascript/comments/1fgokd5/askjs_help_with_json_sorting/)
-- [[AskJS] Is Javascript harder than Java?](https://www.reddit.com/r/javascript/comments/1fgn29e/askjs_is_javascript_harder_than_java/)
-- [[AskJS] I am given a task to replicate a Website i need help copying components from the existing ones](https://www.reddit.com/r/javascript/comments/1fgk6sj/askjs_i_am_given_a_task_to_replicate_a_website_i/)
-- [[AskJS] What Libraries and Frameworks Should I Use?](https://www.reddit.com/r/javascript/comments/1fgk6je/askjs_what_libraries_and_frameworks_should_i_use/)
-- [5 whys and the fix for &quot;Exit handler never called&quot; in Node 22.5.0](https://www.reddit.com/r/javascript/comments/1fggft8/5_whys_and_the_fix_for_exit_handler_never_called/)
-- [Showoff Saturday &lpar;September 14, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1fggd05/showoff_saturday_september_14_2024/)
-- [[AskJS] Any good tech stack generator websites out there?](https://www.reddit.com/r/javascript/comments/1fgg8a7/askjs_any_good_tech_stack_generator_websites_out/)
-- [[AskJS] Interviews are cancer](https://www.reddit.com/r/javascript/comments/1fgfwsq/askjs_interviews_are_cancer/)
-- [[AskJS] Whats going on! Can&#39;t I turn this into async function](https://www.reddit.com/r/javascript/comments/1fgecdf/askjs_whats_going_on_cant_i_turn_this_into_async/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
