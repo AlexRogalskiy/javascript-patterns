@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Hot reload Middleware express](https://www.reddit.com/r/javascript/comments/1fhrpv8/hot_reload_middleware_express/)
-- [[AskJS] Is there a way to simulate text cursor using JavaScript?](https://www.reddit.com/r/javascript/comments/1fhrmxx/askjs_is_there_a_way_to_simulate_text_cursor/)
-- [How I won $2,750 using JavaScript, AI, and a can of WD-40](https://www.reddit.com/r/javascript/comments/1fhpun8/how_i_won_2750_using_javascript_ai_and_a_can_of/)
-- [[AskJS] How do you guys sync video frame with audio chunk?](https://www.reddit.com/r/javascript/comments/1fho9fj/askjs_how_do_you_guys_sync_video_frame_with_audio/)
-- [[AskJS] When I deploy a node server on a service like render.com, How can I be sure there is only one main thread &lpar;one event loop&rpar;?](https://www.reddit.com/r/javascript/comments/1fhmkc9/askjs_when_i_deploy_a_node_server_on_a_service/)
-- [Using gsap to create a tubelight-like effect. It is a visually appealing animation style that mimics the flickering or glowing effect of a fluorescent tube light.](https://www.reddit.com/r/javascript/comments/1fhd74o/using_gsap_to_create_a_tubelightlike_effect_it_is/)
-- [A powerful, copy-paste UI framework - Snap Framework](https://www.reddit.com/r/javascript/comments/1fhcqzj/a_powerful_copypaste_ui_framework_snap_framework/)
-- [Butility 20+ Utility Classes with 1000+ Methods! Would Love Feedback](https://www.reddit.com/r/javascript/comments/1fhbxcq/butility_20_utility_classes_with_1000_methods/)
-- [[AskJS] How well does JavaScript perform for Android apps, Electron desktop apps, and Telegram bot development?](https://www.reddit.com/r/javascript/comments/1fhaclb/askjs_how_well_does_javascript_perform_for/)
-- [GitHub - afc163/fanyi: A Chinese and English translator in your command line](https://www.reddit.com/r/javascript/comments/1fgr9xk/github_afc163fanyi_a_chinese_and_english/)
+- [Text Analysis WITHOUT AI: Lexical Density, String Similarity, Readability &amp; Other Metrics](https://www.reddit.com/r/javascript/comments/1filtdd/text_analysis_without_ai_lexical_density_string/)
+- [date-fns v4.0 is out with first-class time zones support](https://www.reddit.com/r/javascript/comments/1fijgxq/datefns_v40_is_out_with_firstclass_time_zones/)
+- [Oracle, it’s time to free JavaScript](https://www.reddit.com/r/javascript/comments/1fie3hk/oracle_its_time_to_free_javascript/)
+- [Jailbreak your Enemies with a Link: Remote Execution on iOS](https://www.reddit.com/r/javascript/comments/1fi9con/jailbreak_your_enemies_with_a_link_remote/)
+- [How to Create a Modern App with Django and Vue](https://www.reddit.com/r/javascript/comments/1fi5wky/how_to_create_a_modern_app_with_django_and_vue/)
+- [[AskJS] Where do you find a mentor !](https://www.reddit.com/r/javascript/comments/1fi4ogb/askjs_where_do_you_find_a_mentor/)
+- [Visualize where your JavaScript app is not going brrr](https://www.reddit.com/r/javascript/comments/1fi3c8r/visualize_where_your_javascript_app_is_not_going/)
+- [Your /r/javascript recap for the week of September 09 - September 15, 2024](https://www.reddit.com/r/javascript/comments/1fhzzf2/your_rjavascript_recap_for_the_week_of_september/)
+- [[AskJS] What’s a good software](https://www.reddit.com/r/javascript/comments/1fhz5lk/askjs_whats_a_good_software/)
+- [[AskJS] Pujo Atlas Developer Call-The Ultimate Pandal Hopping Guide to Durga pujo in Kolkata!](https://www.reddit.com/r/javascript/comments/1fhy5vt/askjs_pujo_atlas_developer_callthe_ultimate/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
