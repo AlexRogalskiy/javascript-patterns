@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] JS Challenge - An SRI Generator](https://www.reddit.com/r/javascript/comments/1fjg9u6/askjs_js_challenge_an_sri_generator/)
+- [My React/TS-based algotrading platform reached 1,000 stars on GitHub!](https://www.reddit.com/r/javascript/comments/1fjcmlw/my_reacttsbased_algotrading_platform_reached_1000/)
+- [jotai-mutative - A Mutative extension for Jotai](https://www.reddit.com/r/javascript/comments/1fj2hig/jotaimutative_a_mutative_extension_for_jotai/)
+- [A sharp JSON formatter](https://www.reddit.com/r/javascript/comments/1fj0se9/a_sharp_json_formatter/)
 - [Text Analysis WITHOUT AI: Lexical Density, String Similarity, Readability &amp; Other Metrics](https://www.reddit.com/r/javascript/comments/1filtdd/text_analysis_without_ai_lexical_density_string/)
 - [date-fns v4.0 is out with first-class time zones support](https://www.reddit.com/r/javascript/comments/1fijgxq/datefns_v40_is_out_with_firstclass_time_zones/)
 - [Oracle, it’s time to free JavaScript](https://www.reddit.com/r/javascript/comments/1fie3hk/oracle_its_time_to_free_javascript/)
-- [Jailbreak your Enemies with a Link: Remote Execution on iOS](https://www.reddit.com/r/javascript/comments/1fi9con/jailbreak_your_enemies_with_a_link_remote/)
 - [How to Create a Modern App with Django and Vue](https://www.reddit.com/r/javascript/comments/1fi5wky/how_to_create_a_modern_app_with_django_and_vue/)
-- [[AskJS] Where do you find a mentor !](https://www.reddit.com/r/javascript/comments/1fi4ogb/askjs_where_do_you_find_a_mentor/)
 - [Visualize where your JavaScript app is not going brrr](https://www.reddit.com/r/javascript/comments/1fi3c8r/visualize_where_your_javascript_app_is_not_going/)
 - [Your /r/javascript recap for the week of September 09 - September 15, 2024](https://www.reddit.com/r/javascript/comments/1fhzzf2/your_rjavascript_recap_for_the_week_of_september/)
-- [[AskJS] What’s a good software](https://www.reddit.com/r/javascript/comments/1fhz5lk/askjs_whats_a_good_software/)
-- [[AskJS] Pujo Atlas Developer Call-The Ultimate Pandal Hopping Guide to Durga pujo in Kolkata!](https://www.reddit.com/r/javascript/comments/1fhy5vt/askjs_pujo_atlas_developer_callthe_ultimate/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
