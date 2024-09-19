@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJs] what are your thoughts on monetizing issue resolution on github.](https://www.reddit.com/r/javascript/comments/1fk9dbv/askjs_what_are_your_thoughts_on_monetizing_issue/)
+- [[AskJS] i want a help with my code](https://www.reddit.com/r/javascript/comments/1fk3fzu/askjs_i_want_a_help_with_my_code/)
+- [[AskJS] What is the easiest js framework for Backend developer?](https://www.reddit.com/r/javascript/comments/1fjsm1s/askjs_what_is_the_easiest_js_framework_for/)
+- [[AskJS] Gunbound Game in JavaScript](https://www.reddit.com/r/javascript/comments/1fjrnef/askjs_gunbound_game_in_javascript/)
+- [Don&#39;t Sleep on AbortController](https://www.reddit.com/r/javascript/comments/1fjqa0v/dont_sleep_on_abortcontroller/)
+- [Why we switched from Cypress to Playwright](https://www.reddit.com/r/javascript/comments/1fjolsf/why_we_switched_from_cypress_to_playwright/)
+- [Math concepts converted to JavaScript](https://www.reddit.com/r/javascript/comments/1fjmwko/math_concepts_converted_to_javascript/)
+- [WTF Wednesday &lpar;September 18, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1fjmrf9/wtf_wednesday_september_18_2024/)
+- [Create HTML canvas graphics without writing code!](https://www.reddit.com/r/javascript/comments/1fjm6js/create_html_canvas_graphics_without_writing_code/)
 - [[AskJS] JS Challenge - An SRI Generator](https://www.reddit.com/r/javascript/comments/1fjg9u6/askjs_js_challenge_an_sri_generator/)
-- [My React/TS-based algotrading platform reached 1,000 stars on GitHub!](https://www.reddit.com/r/javascript/comments/1fjcmlw/my_reacttsbased_algotrading_platform_reached_1000/)
-- [jotai-mutative - A Mutative extension for Jotai](https://www.reddit.com/r/javascript/comments/1fj2hig/jotaimutative_a_mutative_extension_for_jotai/)
-- [A sharp JSON formatter](https://www.reddit.com/r/javascript/comments/1fj0se9/a_sharp_json_formatter/)
-- [Text Analysis WITHOUT AI: Lexical Density, String Similarity, Readability &amp; Other Metrics](https://www.reddit.com/r/javascript/comments/1filtdd/text_analysis_without_ai_lexical_density_string/)
-- [date-fns v4.0 is out with first-class time zones support](https://www.reddit.com/r/javascript/comments/1fijgxq/datefns_v40_is_out_with_firstclass_time_zones/)
-- [Oracle, it’s time to free JavaScript](https://www.reddit.com/r/javascript/comments/1fie3hk/oracle_its_time_to_free_javascript/)
-- [How to Create a Modern App with Django and Vue](https://www.reddit.com/r/javascript/comments/1fi5wky/how_to_create_a_modern_app_with_django_and_vue/)
-- [Visualize where your JavaScript app is not going brrr](https://www.reddit.com/r/javascript/comments/1fi3c8r/visualize_where_your_javascript_app_is_not_going/)
-- [Your /r/javascript recap for the week of September 09 - September 15, 2024](https://www.reddit.com/r/javascript/comments/1fhzzf2/your_rjavascript_recap_for_the_week_of_september/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
