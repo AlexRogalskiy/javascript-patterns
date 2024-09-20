@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJs] what are your thoughts on monetizing issue resolution on github.](https://www.reddit.com/r/javascript/comments/1fk9dbv/askjs_what_are_your_thoughts_on_monetizing_issue/)
-- [[AskJS] i want a help with my code](https://www.reddit.com/r/javascript/comments/1fk3fzu/askjs_i_want_a_help_with_my_code/)
-- [[AskJS] What is the easiest js framework for Backend developer?](https://www.reddit.com/r/javascript/comments/1fjsm1s/askjs_what_is_the_easiest_js_framework_for/)
-- [[AskJS] Gunbound Game in JavaScript](https://www.reddit.com/r/javascript/comments/1fjrnef/askjs_gunbound_game_in_javascript/)
-- [Don&#39;t Sleep on AbortController](https://www.reddit.com/r/javascript/comments/1fjqa0v/dont_sleep_on_abortcontroller/)
-- [Why we switched from Cypress to Playwright](https://www.reddit.com/r/javascript/comments/1fjolsf/why_we_switched_from_cypress_to_playwright/)
-- [Math concepts converted to JavaScript](https://www.reddit.com/r/javascript/comments/1fjmwko/math_concepts_converted_to_javascript/)
-- [WTF Wednesday &lpar;September 18, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1fjmrf9/wtf_wednesday_september_18_2024/)
-- [Create HTML canvas graphics without writing code!](https://www.reddit.com/r/javascript/comments/1fjm6js/create_html_canvas_graphics_without_writing_code/)
-- [[AskJS] JS Challenge - An SRI Generator](https://www.reddit.com/r/javascript/comments/1fjg9u6/askjs_js_challenge_an_sri_generator/)
+- [[AskJS] Help me remember a good onboarding/product tour library -- yellow background?](https://www.reddit.com/r/javascript/comments/1fkyvx8/askjs_help_me_remember_a_good_onboardingproduct/)
+- [[AskJS] Recommendation for javascript study](https://www.reddit.com/r/javascript/comments/1fky4gk/askjs_recommendation_for_javascript_study/)
+- [Library for Validating Tax ID Numbers](https://www.reddit.com/r/javascript/comments/1fkuzw2/library_for_validating_tax_id_numbers/)
+- [[AskJS] Why is Map faster than the javascritp object?](https://www.reddit.com/r/javascript/comments/1fkt608/askjs_why_is_map_faster_than_the_javascritp_object/)
+- [Vleam v0.5.0 is out! Use the Gleam Programming Langague in your Vue Project!](https://www.reddit.com/r/javascript/comments/1fko3d9/vleam_v050_is_out_use_the_gleam_programming/)
+- [Astro 5.0 Beta released](https://www.reddit.com/r/javascript/comments/1fknobu/astro_50_beta_released/)
+- [[AskJS] Have you ever heard the term &quot;Full-Stack Component&quot;?](https://www.reddit.com/r/javascript/comments/1fkk2ah/askjs_have_you_ever_heard_the_term_fullstack/)
+- [[AskJS] How to create functional webcomponents](https://www.reddit.com/r/javascript/comments/1fkhbze/askjs_how_to_create_functional_webcomponents/)
+- [[AskJS] what is the best book/resource to build a RESTful API with express.](https://www.reddit.com/r/javascript/comments/1fkgiyk/askjs_what_is_the_best_bookresource_to_build_a/)
+- [[AskJS] doc/docx preview similar to react-pdf](https://www.reddit.com/r/javascript/comments/1fkfka4/askjs_docdocx_preview_similar_to_reactpdf/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
