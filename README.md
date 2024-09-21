@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What&#39;s a statement completion value in JavaScript?](https://www.reddit.com/r/javascript/comments/1flpn0k/whats_a_statement_completion_value_in_javascript/)
+- [[AskJS] Can I reasonably claim something is zero-dependency* &lpar;with an asterisk&rpar; if it only depends on uuid?](https://www.reddit.com/r/javascript/comments/1fljvdr/askjs_can_i_reasonably_claim_something_is/)
+- [[AskJS] Has anybody figured out how to put javascript into your average Samsung smart fridge and open a cooking website on it, yet?](https://www.reddit.com/r/javascript/comments/1flj1qv/askjs_has_anybody_figured_out_how_to_put/)
+- [xstate-mutative: A faster and more flexible utilities for using Mutative with XState](https://www.reddit.com/r/javascript/comments/1flfkip/xstatemutative_a_faster_and_more_flexible/)
+- [[AskJS] opinion on secret class fields and open getters.](https://www.reddit.com/r/javascript/comments/1flctrk/askjs_opinion_on_secret_class_fields_and_open/)
+- [[AskJS] JS required for Backend, particularly Node?](https://www.reddit.com/r/javascript/comments/1flbyja/askjs_js_required_for_backend_particularly_node/)
+- [SurfSense - Personal AI Assistant for anything you see on the Internet](https://www.reddit.com/r/javascript/comments/1fl769u/surfsense_personal_ai_assistant_for_anything_you/)
 - [[AskJS] Help me remember a good onboarding/product tour library -- yellow background?](https://www.reddit.com/r/javascript/comments/1fkyvx8/askjs_help_me_remember_a_good_onboardingproduct/)
-- [[AskJS] Recommendation for javascript study](https://www.reddit.com/r/javascript/comments/1fky4gk/askjs_recommendation_for_javascript_study/)
 - [Library for Validating Tax ID Numbers](https://www.reddit.com/r/javascript/comments/1fkuzw2/library_for_validating_tax_id_numbers/)
 - [[AskJS] Why is Map faster than the javascritp object?](https://www.reddit.com/r/javascript/comments/1fkt608/askjs_why_is_map_faster_than_the_javascritp_object/)
-- [Vleam v0.5.0 is out! Use the Gleam Programming Langague in your Vue Project!](https://www.reddit.com/r/javascript/comments/1fko3d9/vleam_v050_is_out_use_the_gleam_programming/)
-- [Astro 5.0 Beta released](https://www.reddit.com/r/javascript/comments/1fknobu/astro_50_beta_released/)
-- [[AskJS] Have you ever heard the term &quot;Full-Stack Component&quot;?](https://www.reddit.com/r/javascript/comments/1fkk2ah/askjs_have_you_ever_heard_the_term_fullstack/)
-- [[AskJS] How to create functional webcomponents](https://www.reddit.com/r/javascript/comments/1fkhbze/askjs_how_to_create_functional_webcomponents/)
-- [[AskJS] what is the best book/resource to build a RESTful API with express.](https://www.reddit.com/r/javascript/comments/1fkgiyk/askjs_what_is_the_best_bookresource_to_build_a/)
-- [[AskJS] doc/docx preview similar to react-pdf](https://www.reddit.com/r/javascript/comments/1fkfka4/askjs_docdocx_preview_similar_to_reactpdf/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
