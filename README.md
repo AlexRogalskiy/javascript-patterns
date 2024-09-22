@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Transferable Streams, MediaStream&#39;s, Insertable Streams, Byte Streams, Web Audio API, subprocess streams from Node.js, Deno, Bun to local rhasspy/piper with Native Messaging for real-time local text-to-speech streaming in Chrome browser](https://www.reddit.com/r/javascript/comments/1fmh67y/transferable_streams_mediastreams_insertable/)
+- [[AskJS] Seeking for help with giant personal genealogy project!!](https://www.reddit.com/r/javascript/comments/1fmc37b/askjs_seeking_for_help_with_giant_personal/)
+- [Ever wondered how long it takes to require&lpar;&rpar; Node.js&#39; own builtin modules? Run: npx breqd](https://www.reddit.com/r/javascript/comments/1fm5zzn/ever_wondered_how_long_it_takes_to_require_nodejs/)
+- [[AskJS] Looking for Feedback on My JS Framework Landing Page](https://www.reddit.com/r/javascript/comments/1fm3e4p/askjs_looking_for_feedback_on_my_js_framework/)
+- [JavaScript Generators Explained, But On A Senior-Level](https://www.reddit.com/r/javascript/comments/1flzefg/javascript_generators_explained_but_on_a/)
+- [Encode binary data into a wildcard sub domain](https://www.reddit.com/r/javascript/comments/1flz69q/encode_binary_data_into_a_wildcard_sub_domain/)
+- [AI SDK 3.4 released](https://www.reddit.com/r/javascript/comments/1flyme7/ai_sdk_34_released/)
+- [[AskJS] How do I translate scripts.js into English?](https://www.reddit.com/r/javascript/comments/1flxixg/askjs_how_do_i_translate_scriptsjs_into_english/)
+- [Showoff Saturday &lpar;September 21, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1flx6y0/showoff_saturday_september_21_2024/)
 - [What&#39;s a statement completion value in JavaScript?](https://www.reddit.com/r/javascript/comments/1flpn0k/whats_a_statement_completion_value_in_javascript/)
-- [[AskJS] Can I reasonably claim something is zero-dependency* &lpar;with an asterisk&rpar; if it only depends on uuid?](https://www.reddit.com/r/javascript/comments/1fljvdr/askjs_can_i_reasonably_claim_something_is/)
-- [[AskJS] Has anybody figured out how to put javascript into your average Samsung smart fridge and open a cooking website on it, yet?](https://www.reddit.com/r/javascript/comments/1flj1qv/askjs_has_anybody_figured_out_how_to_put/)
-- [xstate-mutative: A faster and more flexible utilities for using Mutative with XState](https://www.reddit.com/r/javascript/comments/1flfkip/xstatemutative_a_faster_and_more_flexible/)
-- [[AskJS] opinion on secret class fields and open getters.](https://www.reddit.com/r/javascript/comments/1flctrk/askjs_opinion_on_secret_class_fields_and_open/)
-- [[AskJS] JS required for Backend, particularly Node?](https://www.reddit.com/r/javascript/comments/1flbyja/askjs_js_required_for_backend_particularly_node/)
-- [SurfSense - Personal AI Assistant for anything you see on the Internet](https://www.reddit.com/r/javascript/comments/1fl769u/surfsense_personal_ai_assistant_for_anything_you/)
-- [[AskJS] Help me remember a good onboarding/product tour library -- yellow background?](https://www.reddit.com/r/javascript/comments/1fkyvx8/askjs_help_me_remember_a_good_onboardingproduct/)
-- [Library for Validating Tax ID Numbers](https://www.reddit.com/r/javascript/comments/1fkuzw2/library_for_validating_tax_id_numbers/)
-- [[AskJS] Why is Map faster than the javascritp object?](https://www.reddit.com/r/javascript/comments/1fkt608/askjs_why_is_map_faster_than_the_javascritp_object/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
