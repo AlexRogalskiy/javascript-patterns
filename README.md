@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Transferable Streams, MediaStream&#39;s, Insertable Streams, Byte Streams, Web Audio API, subprocess streams from Node.js, Deno, Bun to local rhasspy/piper with Native Messaging for real-time local text-to-speech streaming in Chrome browser](https://www.reddit.com/r/javascript/comments/1fmh67y/transferable_streams_mediastreams_insertable/)
-- [[AskJS] Seeking for help with giant personal genealogy project!!](https://www.reddit.com/r/javascript/comments/1fmc37b/askjs_seeking_for_help_with_giant_personal/)
-- [Ever wondered how long it takes to require&lpar;&rpar; Node.js&#39; own builtin modules? Run: npx breqd](https://www.reddit.com/r/javascript/comments/1fm5zzn/ever_wondered_how_long_it_takes_to_require_nodejs/)
-- [[AskJS] Looking for Feedback on My JS Framework Landing Page](https://www.reddit.com/r/javascript/comments/1fm3e4p/askjs_looking_for_feedback_on_my_js_framework/)
-- [JavaScript Generators Explained, But On A Senior-Level](https://www.reddit.com/r/javascript/comments/1flzefg/javascript_generators_explained_but_on_a/)
-- [Encode binary data into a wildcard sub domain](https://www.reddit.com/r/javascript/comments/1flz69q/encode_binary_data_into_a_wildcard_sub_domain/)
-- [AI SDK 3.4 released](https://www.reddit.com/r/javascript/comments/1flyme7/ai_sdk_34_released/)
-- [[AskJS] How do I translate scripts.js into English?](https://www.reddit.com/r/javascript/comments/1flxixg/askjs_how_do_i_translate_scriptsjs_into_english/)
-- [Showoff Saturday &lpar;September 21, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1flx6y0/showoff_saturday_september_21_2024/)
-- [What&#39;s a statement completion value in JavaScript?](https://www.reddit.com/r/javascript/comments/1flpn0k/whats_a_statement_completion_value_in_javascript/)
+- [Simple, Lightweight, Responsive Vanilla Datepicker](https://www.reddit.com/r/javascript/comments/1fn58gb/simple_lightweight_responsive_vanilla_datepicker/)
+- [[AskJS] AnimeUI, a frontend library for anime projects! Lmk what you think!](https://www.reddit.com/r/javascript/comments/1fn2x9b/askjs_animeui_a_frontend_library_for_anime/)
+- [Hi guys, can you please give me your feedback on my latest design? I’d be really grateful.](https://www.reddit.com/r/javascript/comments/1fmzy6t/hi_guys_can_you_please_give_me_your_feedback_on/)
+- [The web&#39;s clipboard, and how it stores data of different types](https://www.reddit.com/r/javascript/comments/1fmyx33/the_webs_clipboard_and_how_it_stores_data_of/)
+- [Created a Gherkin Linter in TypeScript](https://www.reddit.com/r/javascript/comments/1fmyodm/created_a_gherkin_linter_in_typescript/)
+- [Augmenting the client with Vue.js](https://www.reddit.com/r/javascript/comments/1fmy8vi/augmenting_the_client_with_vuejs/)
+- [Check out my customizable video player component for React: Vidify!](https://www.reddit.com/r/javascript/comments/1fmy6i3/check_out_my_customizable_video_player_component/)
+- [[AskJS] When did Node.js &lpar;nightly&rpar; start supporting default ES Modules for .js files by default?](https://www.reddit.com/r/javascript/comments/1fmxj9t/askjs_when_did_nodejs_nightly_start_supporting/)
+- [This Week&#39;s JavaScript news: TypeScript 5.6, Bun Integrates C, Fastify v5, and more.](https://www.reddit.com/r/javascript/comments/1fmxgyp/this_weeks_javascript_news_typescript_56_bun/)
+- [JavaScript YouTube Digest #1](https://www.reddit.com/r/javascript/comments/1fmvav0/javascript_youtube_digest_1/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
