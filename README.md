@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I started building a personal suite of tools for creating beautiful web apps, and i&#39;m making them open source while learning.](https://www.reddit.com/r/javascript/comments/1fnq13l/i_started_building_a_personal_suite_of_tools_for/)
+- [[RFC] turbo query](https://www.reddit.com/r/javascript/comments/1fnp8ew/rfc_turbo_query/)
+- [Generate state machines from draw.io+ with StateSmith &lpar;JavaScript, TypeScript, Python, Java, C#, C++, C&rpar;. Free &amp; Open source.](https://www.reddit.com/r/javascript/comments/1fnkgxr/generate_state_machines_from_drawio_with/)
+- [Your /r/javascript recap for the week of September 16 - September 22, 2024](https://www.reddit.com/r/javascript/comments/1fng2dr/your_rjavascript_recap_for_the_week_of_september/)
 - [Simple, Lightweight, Responsive Vanilla Datepicker](https://www.reddit.com/r/javascript/comments/1fn58gb/simple_lightweight_responsive_vanilla_datepicker/)
-- [[AskJS] AnimeUI, a frontend library for anime projects! Lmk what you think!](https://www.reddit.com/r/javascript/comments/1fn2x9b/askjs_animeui_a_frontend_library_for_anime/)
 - [Hi guys, can you please give me your feedback on my latest design? I’d be really grateful.](https://www.reddit.com/r/javascript/comments/1fmzy6t/hi_guys_can_you_please_give_me_your_feedback_on/)
 - [The web&#39;s clipboard, and how it stores data of different types](https://www.reddit.com/r/javascript/comments/1fmyx33/the_webs_clipboard_and_how_it_stores_data_of/)
 - [Created a Gherkin Linter in TypeScript](https://www.reddit.com/r/javascript/comments/1fmyodm/created_a_gherkin_linter_in_typescript/)
 - [Augmenting the client with Vue.js](https://www.reddit.com/r/javascript/comments/1fmy8vi/augmenting_the_client_with_vuejs/)
 - [Check out my customizable video player component for React: Vidify!](https://www.reddit.com/r/javascript/comments/1fmy6i3/check_out_my_customizable_video_player_component/)
-- [[AskJS] When did Node.js &lpar;nightly&rpar; start supporting default ES Modules for .js files by default?](https://www.reddit.com/r/javascript/comments/1fmxj9t/askjs_when_did_nodejs_nightly_start_supporting/)
-- [This Week&#39;s JavaScript news: TypeScript 5.6, Bun Integrates C, Fastify v5, and more.](https://www.reddit.com/r/javascript/comments/1fmxgyp/this_weeks_javascript_news_typescript_56_bun/)
-- [JavaScript YouTube Digest #1](https://www.reddit.com/r/javascript/comments/1fmvav0/javascript_youtube_digest_1/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
