@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I started building a personal suite of tools for creating beautiful web apps, and i&#39;m making them open source while learning.](https://www.reddit.com/r/javascript/comments/1fnq13l/i_started_building_a_personal_suite_of_tools_for/)
-- [[RFC] turbo query](https://www.reddit.com/r/javascript/comments/1fnp8ew/rfc_turbo_query/)
-- [Generate state machines from draw.io+ with StateSmith &lpar;JavaScript, TypeScript, Python, Java, C#, C++, C&rpar;. Free &amp; Open source.](https://www.reddit.com/r/javascript/comments/1fnkgxr/generate_state_machines_from_drawio_with/)
-- [Your /r/javascript recap for the week of September 16 - September 22, 2024](https://www.reddit.com/r/javascript/comments/1fng2dr/your_rjavascript_recap_for_the_week_of_september/)
-- [Simple, Lightweight, Responsive Vanilla Datepicker](https://www.reddit.com/r/javascript/comments/1fn58gb/simple_lightweight_responsive_vanilla_datepicker/)
-- [Hi guys, can you please give me your feedback on my latest design? I’d be really grateful.](https://www.reddit.com/r/javascript/comments/1fmzy6t/hi_guys_can_you_please_give_me_your_feedback_on/)
-- [The web&#39;s clipboard, and how it stores data of different types](https://www.reddit.com/r/javascript/comments/1fmyx33/the_webs_clipboard_and_how_it_stores_data_of/)
-- [Created a Gherkin Linter in TypeScript](https://www.reddit.com/r/javascript/comments/1fmyodm/created_a_gherkin_linter_in_typescript/)
-- [Augmenting the client with Vue.js](https://www.reddit.com/r/javascript/comments/1fmy8vi/augmenting_the_client_with_vuejs/)
-- [Check out my customizable video player component for React: Vidify!](https://www.reddit.com/r/javascript/comments/1fmy6i3/check_out_my_customizable_video_player_component/)
+- [Athena Crisis 1.0 is out now: An open source video game built from scratch with React, JS &amp; CSS. Try the demo directly on the website.](https://www.reddit.com/r/javascript/comments/1fos2bv/athena_crisis_10_is_out_now_an_open_source_video/)
+- [[AskJS] What are common performance optimizations in JavaScript where you can substitute certain methods or approaches for others to improve execution speed?](https://www.reddit.com/r/javascript/comments/1fopldz/askjs_what_are_common_performance_optimizations/)
+- [[AskJS] Has anybody experience in Lit + MobX? Can you share your thoughts about advantages and disadvantages](https://www.reddit.com/r/javascript/comments/1folvw1/askjs_has_anybody_experience_in_lit_mobx_can_you/)
+- [Storybook 8.3 release](https://www.reddit.com/r/javascript/comments/1foi9a3/storybook_83_release/)
+- [I created a free browser-based bugfixing AI agent for JavaScript &amp; TypeScript](https://www.reddit.com/r/javascript/comments/1fofvwv/i_created_a_free_browserbased_bugfixing_ai_agent/)
+- [My open-source algorithmic trading platform is at over 1100 stars!](https://www.reddit.com/r/javascript/comments/1fobf1r/my_opensource_algorithmic_trading_platform_is_at/)
+- [Hacktoberfest 2024 - Registration is now open, Event runs from October 1-31](https://www.reddit.com/r/javascript/comments/1fo9jdh/hacktoberfest_2024_registration_is_now_open_event/)
+- [[AskJS] MBTI and Eneagram](https://www.reddit.com/r/javascript/comments/1fo981f/askjs_mbti_and_eneagram/)
+- [[AskJS] how can I make a plugin system for my game engine written in javascript?](https://www.reddit.com/r/javascript/comments/1fo5f9u/askjs_how_can_i_make_a_plugin_system_for_my_game/)
+- [New small package I made, browser + module passphrase generation with EFF wordlists provided out of the box &lpar;and a cryptographically secure method&rpar;. Let me know what you think, happy to refine / overhaul this before a 1.0.0 release in a few weeks.](https://www.reddit.com/r/javascript/comments/1fo4zwa/new_small_package_i_made_browser_module/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
