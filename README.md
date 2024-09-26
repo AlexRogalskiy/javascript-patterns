@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Generate Chrome extension ID from path](https://www.reddit.com/r/javascript/comments/1fpiyg5/generate_chrome_extension_id_from_path/)
+- [[Nuxt ChatGPT] [New] ChatGPT clone with enhanced features, including the ability to organize and sort created documents into folders, offering an improved user experience for managing conversations.](https://www.reddit.com/r/javascript/comments/1fpibwt/nuxt_chatgpt_new_chatgpt_clone_with_enhanced/)
+- [[AskJS] In TradingView widget chart, how can I know when the chart is ready and data is loaded?](https://www.reddit.com/r/javascript/comments/1fpdwt7/askjs_in_tradingview_widget_chart_how_can_i_know/)
+- [Unit Testing With Vitest - A Great Alternative to Jest](https://www.reddit.com/r/javascript/comments/1fp5ze7/unit_testing_with_vitest_a_great_alternative_to/)
+- [[AskJS] Why should I care about JavaScript trademark ?](https://www.reddit.com/r/javascript/comments/1fp4i4e/askjs_why_should_i_care_about_javascript_trademark/)
+- [[AskJS] Need advice with deciding what to use](https://www.reddit.com/r/javascript/comments/1fp36eg/askjs_need_advice_with_deciding_what_to_use/)
+- [WebJSX: A minimal library for building Web Components with JSX.](https://www.reddit.com/r/javascript/comments/1fozd26/webjsx_a_minimal_library_for_building_web/)
+- [WTF Wednesday &lpar;September 25, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1foye4q/wtf_wednesday_september_25_2024/)
+- [[AskJS] Which simple IDE to use for Computer Programming courses? &lpar;2 year college diploma&rpar;](https://www.reddit.com/r/javascript/comments/1fotwzb/askjs_which_simple_ide_to_use_for_computer/)
 - [Athena Crisis 1.0 is out now: An open source video game built from scratch with React, JS &amp; CSS. Try the demo directly on the website.](https://www.reddit.com/r/javascript/comments/1fos2bv/athena_crisis_10_is_out_now_an_open_source_video/)
-- [[AskJS] What are common performance optimizations in JavaScript where you can substitute certain methods or approaches for others to improve execution speed?](https://www.reddit.com/r/javascript/comments/1fopldz/askjs_what_are_common_performance_optimizations/)
-- [[AskJS] Has anybody experience in Lit + MobX? Can you share your thoughts about advantages and disadvantages](https://www.reddit.com/r/javascript/comments/1folvw1/askjs_has_anybody_experience_in_lit_mobx_can_you/)
-- [Storybook 8.3 release](https://www.reddit.com/r/javascript/comments/1foi9a3/storybook_83_release/)
-- [I created a free browser-based bugfixing AI agent for JavaScript &amp; TypeScript](https://www.reddit.com/r/javascript/comments/1fofvwv/i_created_a_free_browserbased_bugfixing_ai_agent/)
-- [My open-source algorithmic trading platform is at over 1100 stars!](https://www.reddit.com/r/javascript/comments/1fobf1r/my_opensource_algorithmic_trading_platform_is_at/)
-- [Hacktoberfest 2024 - Registration is now open, Event runs from October 1-31](https://www.reddit.com/r/javascript/comments/1fo9jdh/hacktoberfest_2024_registration_is_now_open_event/)
-- [[AskJS] MBTI and Eneagram](https://www.reddit.com/r/javascript/comments/1fo981f/askjs_mbti_and_eneagram/)
-- [[AskJS] how can I make a plugin system for my game engine written in javascript?](https://www.reddit.com/r/javascript/comments/1fo5f9u/askjs_how_can_i_make_a_plugin_system_for_my_game/)
-- [New small package I made, browser + module passphrase generation with EFF wordlists provided out of the box &lpar;and a cryptographically secure method&rpar;. Let me know what you think, happy to refine / overhaul this before a 1.0.0 release in a few weeks.](https://www.reddit.com/r/javascript/comments/1fo4zwa/new_small_package_i_made_browser_module/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
