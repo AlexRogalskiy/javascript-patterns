@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Generate Chrome extension ID from path](https://www.reddit.com/r/javascript/comments/1fpiyg5/generate_chrome_extension_id_from_path/)
-- [[Nuxt ChatGPT] [New] ChatGPT clone with enhanced features, including the ability to organize and sort created documents into folders, offering an improved user experience for managing conversations.](https://www.reddit.com/r/javascript/comments/1fpibwt/nuxt_chatgpt_new_chatgpt_clone_with_enhanced/)
-- [[AskJS] In TradingView widget chart, how can I know when the chart is ready and data is loaded?](https://www.reddit.com/r/javascript/comments/1fpdwt7/askjs_in_tradingview_widget_chart_how_can_i_know/)
-- [Unit Testing With Vitest - A Great Alternative to Jest](https://www.reddit.com/r/javascript/comments/1fp5ze7/unit_testing_with_vitest_a_great_alternative_to/)
-- [[AskJS] Why should I care about JavaScript trademark ?](https://www.reddit.com/r/javascript/comments/1fp4i4e/askjs_why_should_i_care_about_javascript_trademark/)
-- [[AskJS] Need advice with deciding what to use](https://www.reddit.com/r/javascript/comments/1fp36eg/askjs_need_advice_with_deciding_what_to_use/)
-- [WebJSX: A minimal library for building Web Components with JSX.](https://www.reddit.com/r/javascript/comments/1fozd26/webjsx_a_minimal_library_for_building_web/)
-- [WTF Wednesday &lpar;September 25, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1foye4q/wtf_wednesday_september_25_2024/)
-- [[AskJS] Which simple IDE to use for Computer Programming courses? &lpar;2 year college diploma&rpar;](https://www.reddit.com/r/javascript/comments/1fotwzb/askjs_which_simple_ide_to_use_for_computer/)
-- [Athena Crisis 1.0 is out now: An open source video game built from scratch with React, JS &amp; CSS. Try the demo directly on the website.](https://www.reddit.com/r/javascript/comments/1fos2bv/athena_crisis_10_is_out_now_an_open_source_video/)
+- [leo-query - connect async queries to Zustand stores](https://www.reddit.com/r/javascript/comments/1fqbbgu/leoquery_connect_async_queries_to_zustand_stores/)
+- [JS Dates Finally Fixed](https://www.reddit.com/r/javascript/comments/1fq9lic/js_dates_finally_fixed/)
+- [I&#39;m working on a video API, a web player and a playlist manipulator &lpar;to insert ads, bumpers, limit resolution, ...&rpar;](https://www.reddit.com/r/javascript/comments/1fq7u5r/im_working_on_a_video_api_a_web_player_and_a/)
+- [I&#39;m building a suite of open source react components for web apps.](https://www.reddit.com/r/javascript/comments/1fq6dac/im_building_a_suite_of_open_source_react/)
+- [Model-Initializer: Setup schemas &lpar;for new instances/validation&rpar; with a similar feel to how you write TypeScript interfaces.](https://www.reddit.com/r/javascript/comments/1fq04ez/modelinitializer_setup_schemas_for_new/)
+- [I have problem to download youtube videos on strategies](https://www.reddit.com/r/javascript/comments/1fpxqf3/i_have_problem_to_download_youtube_videos_on/)
+- [[AskJS] What are the historical factors that led to the weirdness of document.all?](https://www.reddit.com/r/javascript/comments/1fpuzqs/askjs_what_are_the_historical_factors_that_led_to/)
+- [Regexes Got Good: The History And Future Of Regular Expressions In JavaScript](https://www.reddit.com/r/javascript/comments/1fptj7f/regexes_got_good_the_history_and_future_of/)
+- [A simple way to monitor your cpu and memory in Node.js](https://www.reddit.com/r/javascript/comments/1fpr3pz/a_simple_way_to_monitor_your_cpu_and_memory_in/)
+- [Rendering shell-like progress indicators](https://www.reddit.com/r/javascript/comments/1fpmc9u/rendering_shelllike_progress_indicators/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
