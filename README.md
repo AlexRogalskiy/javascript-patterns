@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Internal JS in a local HTML on Safari on Iphone](https://www.reddit.com/r/javascript/comments/1fr2v0h/askjs_internal_js_in_a_local_html_on_safari_on/)
+- [Simple javascript code that could protect civilians from drone strikes carried out by a tyrannical government](https://www.reddit.com/r/javascript/comments/1fr27du/simple_javascript_code_that_could_protect/)
+- [[AskJS] Promises.then&lpar;&rpar; question.](https://www.reddit.com/r/javascript/comments/1fqy5ir/askjs_promisesthen_question/)
+- [Improve your tests with inverse assertions](https://www.reddit.com/r/javascript/comments/1fquefb/improve_your_tests_with_inverse_assertions/)
+- [How to apply Playwright test steps with TypeScript decorators](https://www.reddit.com/r/javascript/comments/1fqkprt/how_to_apply_playwright_test_steps_with/)
 - [leo-query - connect async queries to Zustand stores](https://www.reddit.com/r/javascript/comments/1fqbbgu/leoquery_connect_async_queries_to_zustand_stores/)
 - [JS Dates Finally Fixed](https://www.reddit.com/r/javascript/comments/1fq9lic/js_dates_finally_fixed/)
 - [I&#39;m working on a video API, a web player and a playlist manipulator &lpar;to insert ads, bumpers, limit resolution, ...&rpar;](https://www.reddit.com/r/javascript/comments/1fq7u5r/im_working_on_a_video_api_a_web_player_and_a/)
 - [I&#39;m building a suite of open source react components for web apps.](https://www.reddit.com/r/javascript/comments/1fq6dac/im_building_a_suite_of_open_source_react/)
 - [Model-Initializer: Setup schemas &lpar;for new instances/validation&rpar; with a similar feel to how you write TypeScript interfaces.](https://www.reddit.com/r/javascript/comments/1fq04ez/modelinitializer_setup_schemas_for_new/)
-- [I have problem to download youtube videos on strategies](https://www.reddit.com/r/javascript/comments/1fpxqf3/i_have_problem_to_download_youtube_videos_on/)
-- [[AskJS] What are the historical factors that led to the weirdness of document.all?](https://www.reddit.com/r/javascript/comments/1fpuzqs/askjs_what_are_the_historical_factors_that_led_to/)
-- [Regexes Got Good: The History And Future Of Regular Expressions In JavaScript](https://www.reddit.com/r/javascript/comments/1fptj7f/regexes_got_good_the_history_and_future_of/)
-- [A simple way to monitor your cpu and memory in Node.js](https://www.reddit.com/r/javascript/comments/1fpr3pz/a_simple_way_to_monitor_your_cpu_and_memory_in/)
-- [Rendering shell-like progress indicators](https://www.reddit.com/r/javascript/comments/1fpmc9u/rendering_shelllike_progress_indicators/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
