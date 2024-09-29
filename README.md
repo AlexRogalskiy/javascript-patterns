@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Internal JS in a local HTML on Safari on Iphone](https://www.reddit.com/r/javascript/comments/1fr2v0h/askjs_internal_js_in_a_local_html_on_safari_on/)
-- [Simple javascript code that could protect civilians from drone strikes carried out by a tyrannical government](https://www.reddit.com/r/javascript/comments/1fr27du/simple_javascript_code_that_could_protect/)
-- [[AskJS] Promises.then&lpar;&rpar; question.](https://www.reddit.com/r/javascript/comments/1fqy5ir/askjs_promisesthen_question/)
-- [Improve your tests with inverse assertions](https://www.reddit.com/r/javascript/comments/1fquefb/improve_your_tests_with_inverse_assertions/)
-- [How to apply Playwright test steps with TypeScript decorators](https://www.reddit.com/r/javascript/comments/1fqkprt/how_to_apply_playwright_test_steps_with/)
-- [leo-query - connect async queries to Zustand stores](https://www.reddit.com/r/javascript/comments/1fqbbgu/leoquery_connect_async_queries_to_zustand_stores/)
-- [JS Dates Finally Fixed](https://www.reddit.com/r/javascript/comments/1fq9lic/js_dates_finally_fixed/)
-- [I&#39;m working on a video API, a web player and a playlist manipulator &lpar;to insert ads, bumpers, limit resolution, ...&rpar;](https://www.reddit.com/r/javascript/comments/1fq7u5r/im_working_on_a_video_api_a_web_player_and_a/)
-- [I&#39;m building a suite of open source react components for web apps.](https://www.reddit.com/r/javascript/comments/1fq6dac/im_building_a_suite_of_open_source_react/)
-- [Model-Initializer: Setup schemas &lpar;for new instances/validation&rpar; with a similar feel to how you write TypeScript interfaces.](https://www.reddit.com/r/javascript/comments/1fq04ez/modelinitializer_setup_schemas_for_new/)
+- [[AskJS] is RXJS still recommended?](https://www.reddit.com/r/javascript/comments/1frpavo/askjs_is_rxjs_still_recommended/)
+- [[AskJS] How to derive number from another number in a loop using only the base number?](https://www.reddit.com/r/javascript/comments/1frp55u/askjs_how_to_derive_number_from_another_number_in/)
+- [I built a website that will be won by the first person to count to a million. Scripting is allowed.](https://www.reddit.com/r/javascript/comments/1frjp38/i_built_a_website_that_will_be_won_by_the_first/)
+- [[AskJS] How to create a todo list With Functional Web Components](https://www.reddit.com/r/javascript/comments/1frjhln/askjs_how_to_create_a_todo_list_with_functional/)
+- [Microdoft TypeScript finally implements resizable ArrayBuffer, among other ArrayBuffer features/fixes](https://www.reddit.com/r/javascript/comments/1frgomd/microdoft_typescript_finally_implements_resizable/)
+- [UltimateExpress: make your Express server up to 5 times faster by changing 1 line of code](https://www.reddit.com/r/javascript/comments/1frfijx/ultimateexpress_make_your_express_server_up_to_5/)
+- [How To Personalize Visual Studio Code &lpar;VSCode&rpar;](https://www.reddit.com/r/javascript/comments/1frde14/how_to_personalize_visual_studio_code_vscode/)
+- [Easy Logger Extension, I created the extension to make it easier, an easy-to-use logger controlled by localStorage. The easiest way to control the console: log, info, warn, and error.](https://www.reddit.com/r/javascript/comments/1frcp4m/easy_logger_extension_i_created_the_extension_to/)
+- [Logical concatenation for large arrays](https://www.reddit.com/r/javascript/comments/1frbpzq/logical_concatenation_for_large_arrays/)
+- [[AskJS] Netscape Navigator and navigator interface](https://www.reddit.com/r/javascript/comments/1fr9alx/askjs_netscape_navigator_and_navigator_interface/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
