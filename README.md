@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Augmenting the client with Alpine.js](https://www.reddit.com/r/javascript/comments/1fs8q74/augmenting_the_client_with_alpinejs/)
+- [[AskJS] What Number will your object turn into?](https://www.reddit.com/r/javascript/comments/1fs757i/askjs_what_number_will_your_object_turn_into/)
+- [24/7 local AI screen &amp; mic recording. Build AI plugins that have the full context in Javascript](https://www.reddit.com/r/javascript/comments/1fruk9e/247_local_ai_screen_mic_recording_build_ai/)
 - [[AskJS] is RXJS still recommended?](https://www.reddit.com/r/javascript/comments/1frpavo/askjs_is_rxjs_still_recommended/)
 - [[AskJS] How to derive number from another number in a loop using only the base number?](https://www.reddit.com/r/javascript/comments/1frp55u/askjs_how_to_derive_number_from_another_number_in/)
-- [I built a website that will be won by the first person to count to a million. Scripting is allowed.](https://www.reddit.com/r/javascript/comments/1frjp38/i_built_a_website_that_will_be_won_by_the_first/)
 - [[AskJS] How to create a todo list With Functional Web Components](https://www.reddit.com/r/javascript/comments/1frjhln/askjs_how_to_create_a_todo_list_with_functional/)
 - [Microdoft TypeScript finally implements resizable ArrayBuffer, among other ArrayBuffer features/fixes](https://www.reddit.com/r/javascript/comments/1frgomd/microdoft_typescript_finally_implements_resizable/)
 - [UltimateExpress: make your Express server up to 5 times faster by changing 1 line of code](https://www.reddit.com/r/javascript/comments/1frfijx/ultimateexpress_make_your_express_server_up_to_5/)
-- [How To Personalize Visual Studio Code &lpar;VSCode&rpar;](https://www.reddit.com/r/javascript/comments/1frde14/how_to_personalize_visual_studio_code_vscode/)
 - [Easy Logger Extension, I created the extension to make it easier, an easy-to-use logger controlled by localStorage. The easiest way to control the console: log, info, warn, and error.](https://www.reddit.com/r/javascript/comments/1frcp4m/easy_logger_extension_i_created_the_extension_to/)
 - [Logical concatenation for large arrays](https://www.reddit.com/r/javascript/comments/1frbpzq/logical_concatenation_for_large_arrays/)
-- [[AskJS] Netscape Navigator and navigator interface](https://www.reddit.com/r/javascript/comments/1fr9alx/askjs_netscape_navigator_and_navigator_interface/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
