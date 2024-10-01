@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Augmenting the client with Alpine.js](https://www.reddit.com/r/javascript/comments/1fs8q74/augmenting_the_client_with_alpinejs/)
-- [[AskJS] What Number will your object turn into?](https://www.reddit.com/r/javascript/comments/1fs757i/askjs_what_number_will_your_object_turn_into/)
-- [24/7 local AI screen &amp; mic recording. Build AI plugins that have the full context in Javascript](https://www.reddit.com/r/javascript/comments/1fruk9e/247_local_ai_screen_mic_recording_build_ai/)
-- [[AskJS] is RXJS still recommended?](https://www.reddit.com/r/javascript/comments/1frpavo/askjs_is_rxjs_still_recommended/)
-- [[AskJS] How to derive number from another number in a loop using only the base number?](https://www.reddit.com/r/javascript/comments/1frp55u/askjs_how_to_derive_number_from_another_number_in/)
-- [[AskJS] How to create a todo list With Functional Web Components](https://www.reddit.com/r/javascript/comments/1frjhln/askjs_how_to_create_a_todo_list_with_functional/)
-- [Microdoft TypeScript finally implements resizable ArrayBuffer, among other ArrayBuffer features/fixes](https://www.reddit.com/r/javascript/comments/1frgomd/microdoft_typescript_finally_implements_resizable/)
-- [UltimateExpress: make your Express server up to 5 times faster by changing 1 line of code](https://www.reddit.com/r/javascript/comments/1frfijx/ultimateexpress_make_your_express_server_up_to_5/)
-- [Easy Logger Extension, I created the extension to make it easier, an easy-to-use logger controlled by localStorage. The easiest way to control the console: log, info, warn, and error.](https://www.reddit.com/r/javascript/comments/1frcp4m/easy_logger_extension_i_created_the_extension_to/)
-- [Logical concatenation for large arrays](https://www.reddit.com/r/javascript/comments/1frbpzq/logical_concatenation_for_large_arrays/)
+- [[AskJS] Seeking support in porting TeXMail-Gmail to work with Outlook.](https://www.reddit.com/r/javascript/comments/1ftbxoz/askjs_seeking_support_in_porting_texmailgmail_to/)
+- [One weird trick to speed up feature teams!](https://www.reddit.com/r/javascript/comments/1ft8l22/one_weird_trick_to_speed_up_feature_teams/)
+- [[AskJS] What part of the code do i need to change in order to fix the reply nesting issue!](https://www.reddit.com/r/javascript/comments/1ft8f74/askjs_what_part_of_the_code_do_i_need_to_change/)
+- [[AskJS] If we use typescript, then what&#39;s the point of using Javascript! We can choose C# asp.net instead.](https://www.reddit.com/r/javascript/comments/1ft8ac0/askjs_if_we_use_typescript_then_whats_the_point/)
+- [[AskJS] Googlesheet - Appscript - part of the code isn&#39;t loading](https://www.reddit.com/r/javascript/comments/1ft6ctb/askjs_googlesheet_appscript_part_of_the_code_isnt/)
+- [[AskJS] What do you think about the jsfiddle UI redesign?](https://www.reddit.com/r/javascript/comments/1ft6axj/askjs_what_do_you_think_about_the_jsfiddle_ui/)
+- [[AskJS] Do people actually hate JavaScript or is that a meme?](https://www.reddit.com/r/javascript/comments/1ft4u4w/askjs_do_people_actually_hate_javascript_or_is/)
+- [[AskJS] How to study for JS uni exam?](https://www.reddit.com/r/javascript/comments/1ft4oef/askjs_how_to_study_for_js_uni_exam/)
+- [Sessionless - a FOSS protocol from cross-platform public key auth](https://www.reddit.com/r/javascript/comments/1fsviws/sessionless_a_foss_protocol_from_crossplatform/)
+- [Open Source Tailwind Elements for React. No Lock-In. Just Copy, Paste, Build.](https://www.reddit.com/r/javascript/comments/1fsugek/open_source_tailwind_elements_for_react_no_lockin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
