@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Seeking support in porting TeXMail-Gmail to work with Outlook.](https://www.reddit.com/r/javascript/comments/1ftbxoz/askjs_seeking_support_in_porting_texmailgmail_to/)
-- [One weird trick to speed up feature teams!](https://www.reddit.com/r/javascript/comments/1ft8l22/one_weird_trick_to_speed_up_feature_teams/)
-- [[AskJS] What part of the code do i need to change in order to fix the reply nesting issue!](https://www.reddit.com/r/javascript/comments/1ft8f74/askjs_what_part_of_the_code_do_i_need_to_change/)
-- [[AskJS] If we use typescript, then what&#39;s the point of using Javascript! We can choose C# asp.net instead.](https://www.reddit.com/r/javascript/comments/1ft8ac0/askjs_if_we_use_typescript_then_whats_the_point/)
-- [[AskJS] Googlesheet - Appscript - part of the code isn&#39;t loading](https://www.reddit.com/r/javascript/comments/1ft6ctb/askjs_googlesheet_appscript_part_of_the_code_isnt/)
-- [[AskJS] What do you think about the jsfiddle UI redesign?](https://www.reddit.com/r/javascript/comments/1ft6axj/askjs_what_do_you_think_about_the_jsfiddle_ui/)
-- [[AskJS] Do people actually hate JavaScript or is that a meme?](https://www.reddit.com/r/javascript/comments/1ft4u4w/askjs_do_people_actually_hate_javascript_or_is/)
-- [[AskJS] How to study for JS uni exam?](https://www.reddit.com/r/javascript/comments/1ft4oef/askjs_how_to_study_for_js_uni_exam/)
-- [Sessionless - a FOSS protocol from cross-platform public key auth](https://www.reddit.com/r/javascript/comments/1fsviws/sessionless_a_foss_protocol_from_crossplatform/)
-- [Open Source Tailwind Elements for React. No Lock-In. Just Copy, Paste, Build.](https://www.reddit.com/r/javascript/comments/1fsugek/open_source_tailwind_elements_for_react_no_lockin/)
+- [A TypeScript-based Dependency Injection &lpar;DI&rpar; container with support for various binding types &lpar;singleton, transient, scoped&rpar;, contextual bindings, middleware, circular dependency detection, and Zod schema validation for runtime type safety.](https://www.reddit.com/r/javascript/comments/1fu2aat/a_typescriptbased_dependency_injection_di/)
+- [Void&lpar;0&rpar; seems fascinating](https://www.reddit.com/r/javascript/comments/1fu0gxa/void0_seems_fascinating/)
+- [[AskJS] Internship, bug fixing only?](https://www.reddit.com/r/javascript/comments/1ftvent/askjs_internship_bug_fixing_only/)
+- [astro-react-i18next: Integrates i18next and react-i18next seamlessly into your Astro website to provide robust i18n support for React components.](https://www.reddit.com/r/javascript/comments/1ftv9ns/astroreacti18next_integrates_i18next_and/)
+- [[AskJS] What are the best NodeJS frameworks to use for a beginner?](https://www.reddit.com/r/javascript/comments/1ftuci0/askjs_what_are_the_best_nodejs_frameworks_to_use/)
+- [[AskJS] Should I remove this dangerous thing from my library?](https://www.reddit.com/r/javascript/comments/1fttv3m/askjs_should_i_remove_this_dangerous_thing_from/)
+- [Unleash JavaScript&#39;s Potential with Functional Programming](https://www.reddit.com/r/javascript/comments/1ftsndq/unleash_javascripts_potential_with_functional/)
+- [Mongogrator: A MongoDB migration CLI tool for Typescript &amp; Javascript](https://www.reddit.com/r/javascript/comments/1ftrvdi/mongogrator_a_mongodb_migration_cli_tool_for/)
+- [[AskJS] I asked ChatGPT if I can still code in ES3 &lpar;ECMA Script 1&rpar;](https://www.reddit.com/r/javascript/comments/1ftppdl/askjs_i_asked_chatgpt_if_i_can_still_code_in_es3/)
+- [melody-auth: An OAuth &amp; authentication system](https://www.reddit.com/r/javascript/comments/1fto09f/melodyauth_an_oauth_authentication_system/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
