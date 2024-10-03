@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] When You’ve Spent More Time Finding Docs Than Writing Code](https://www.reddit.com/r/javascript/comments/1fukfml/askjs_when_youve_spent_more_time_finding_docs/)
+- [Create your ideal project today! Define your folder structure, file composition, advanced naming conventions, and create independent modules.](https://www.reddit.com/r/javascript/comments/1fuea2i/create_your_ideal_project_today_define_your/)
+- [Pattern matching proposal - this would be so useful, please spread the word](https://www.reddit.com/r/javascript/comments/1fubtql/pattern_matching_proposal_this_would_be_so_useful/)
+- [[AskJS] What are the interview questions you have faced as a JavaScript developer?](https://www.reddit.com/r/javascript/comments/1fubsn7/askjs_what_are_the_interview_questions_you_have/)
+- [[AskJS] Need suggestions on building a proctoring feature](https://www.reddit.com/r/javascript/comments/1fual46/askjs_need_suggestions_on_building_a_proctoring/)
+- [WTF Wednesday &lpar;October 02, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1fua77j/wtf_wednesday_october_02_2024/)
 - [A TypeScript-based Dependency Injection &lpar;DI&rpar; container with support for various binding types &lpar;singleton, transient, scoped&rpar;, contextual bindings, middleware, circular dependency detection, and Zod schema validation for runtime type safety.](https://www.reddit.com/r/javascript/comments/1fu2aat/a_typescriptbased_dependency_injection_di/)
 - [Void&lpar;0&rpar; seems fascinating](https://www.reddit.com/r/javascript/comments/1fu0gxa/void0_seems_fascinating/)
 - [[AskJS] Internship, bug fixing only?](https://www.reddit.com/r/javascript/comments/1ftvent/askjs_internship_bug_fixing_only/)
 - [astro-react-i18next: Integrates i18next and react-i18next seamlessly into your Astro website to provide robust i18n support for React components.](https://www.reddit.com/r/javascript/comments/1ftv9ns/astroreacti18next_integrates_i18next_and/)
-- [[AskJS] What are the best NodeJS frameworks to use for a beginner?](https://www.reddit.com/r/javascript/comments/1ftuci0/askjs_what_are_the_best_nodejs_frameworks_to_use/)
-- [[AskJS] Should I remove this dangerous thing from my library?](https://www.reddit.com/r/javascript/comments/1fttv3m/askjs_should_i_remove_this_dangerous_thing_from/)
-- [Unleash JavaScript&#39;s Potential with Functional Programming](https://www.reddit.com/r/javascript/comments/1ftsndq/unleash_javascripts_potential_with_functional/)
-- [Mongogrator: A MongoDB migration CLI tool for Typescript &amp; Javascript](https://www.reddit.com/r/javascript/comments/1ftrvdi/mongogrator_a_mongodb_migration_cli_tool_for/)
-- [[AskJS] I asked ChatGPT if I can still code in ES3 &lpar;ECMA Script 1&rpar;](https://www.reddit.com/r/javascript/comments/1ftppdl/askjs_i_asked_chatgpt_if_i_can_still_code_in_es3/)
-- [melody-auth: An OAuth &amp; authentication system](https://www.reddit.com/r/javascript/comments/1fto09f/melodyauth_an_oauth_authentication_system/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
