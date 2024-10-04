@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] When You’ve Spent More Time Finding Docs Than Writing Code](https://www.reddit.com/r/javascript/comments/1fukfml/askjs_when_youve_spent_more_time_finding_docs/)
+- [Node.js can run TypeScript](https://www.reddit.com/r/javascript/comments/1fvks7k/nodejs_can_run_typescript/)
+- [NewPress - We’re in the process of using AI to replicate all of WordPress to a modern tech stack &lpar;Node.js &amp; Next.js&rpar;. Coming in 2025](https://www.reddit.com/r/javascript/comments/1fvkgad/newpress_were_in_the_process_of_using_ai_to/)
+- [[Announcement] Simplify AI Text-to-Speech in Node.js](https://www.reddit.com/r/javascript/comments/1fv83y2/announcement_simplify_ai_texttospeech_in_nodejs/)
+- [doc-avatar: Tiny web component that shows a unique SVG based doc icon depending on a name.](https://www.reddit.com/r/javascript/comments/1fv68lk/docavatar_tiny_web_component_that_shows_a_unique/)
+- [[AskJS] Best debugger to use](https://www.reddit.com/r/javascript/comments/1fv3qog/askjs_best_debugger_to_use/)
+- [Sudoku Game Incomplete](https://www.reddit.com/r/javascript/comments/1fv2d78/sudoku_game_incomplete/)
 - [Create your ideal project today! Define your folder structure, file composition, advanced naming conventions, and create independent modules.](https://www.reddit.com/r/javascript/comments/1fuea2i/create_your_ideal_project_today_define_your/)
 - [Pattern matching proposal - this would be so useful, please spread the word](https://www.reddit.com/r/javascript/comments/1fubtql/pattern_matching_proposal_this_would_be_so_useful/)
 - [[AskJS] What are the interview questions you have faced as a JavaScript developer?](https://www.reddit.com/r/javascript/comments/1fubsn7/askjs_what_are_the_interview_questions_you_have/)
 - [[AskJS] Need suggestions on building a proctoring feature](https://www.reddit.com/r/javascript/comments/1fual46/askjs_need_suggestions_on_building_a_proctoring/)
-- [WTF Wednesday &lpar;October 02, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1fua77j/wtf_wednesday_october_02_2024/)
-- [A TypeScript-based Dependency Injection &lpar;DI&rpar; container with support for various binding types &lpar;singleton, transient, scoped&rpar;, contextual bindings, middleware, circular dependency detection, and Zod schema validation for runtime type safety.](https://www.reddit.com/r/javascript/comments/1fu2aat/a_typescriptbased_dependency_injection_di/)
-- [Void&lpar;0&rpar; seems fascinating](https://www.reddit.com/r/javascript/comments/1fu0gxa/void0_seems_fascinating/)
-- [[AskJS] Internship, bug fixing only?](https://www.reddit.com/r/javascript/comments/1ftvent/askjs_internship_bug_fixing_only/)
-- [astro-react-i18next: Integrates i18next and react-i18next seamlessly into your Astro website to provide robust i18n support for React components.](https://www.reddit.com/r/javascript/comments/1ftv9ns/astroreacti18next_integrates_i18next_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
