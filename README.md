@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Node.js can run TypeScript](https://www.reddit.com/r/javascript/comments/1fvks7k/nodejs_can_run_typescript/)
-- [NewPress - We’re in the process of using AI to replicate all of WordPress to a modern tech stack &lpar;Node.js &amp; Next.js&rpar;. Coming in 2025](https://www.reddit.com/r/javascript/comments/1fvkgad/newpress_were_in_the_process_of_using_ai_to/)
-- [[Announcement] Simplify AI Text-to-Speech in Node.js](https://www.reddit.com/r/javascript/comments/1fv83y2/announcement_simplify_ai_texttospeech_in_nodejs/)
-- [doc-avatar: Tiny web component that shows a unique SVG based doc icon depending on a name.](https://www.reddit.com/r/javascript/comments/1fv68lk/docavatar_tiny_web_component_that_shows_a_unique/)
-- [[AskJS] Best debugger to use](https://www.reddit.com/r/javascript/comments/1fv3qog/askjs_best_debugger_to_use/)
-- [Sudoku Game Incomplete](https://www.reddit.com/r/javascript/comments/1fv2d78/sudoku_game_incomplete/)
-- [Create your ideal project today! Define your folder structure, file composition, advanced naming conventions, and create independent modules.](https://www.reddit.com/r/javascript/comments/1fuea2i/create_your_ideal_project_today_define_your/)
-- [Pattern matching proposal - this would be so useful, please spread the word](https://www.reddit.com/r/javascript/comments/1fubtql/pattern_matching_proposal_this_would_be_so_useful/)
-- [[AskJS] What are the interview questions you have faced as a JavaScript developer?](https://www.reddit.com/r/javascript/comments/1fubsn7/askjs_what_are_the_interview_questions_you_have/)
-- [[AskJS] Need suggestions on building a proctoring feature](https://www.reddit.com/r/javascript/comments/1fual46/askjs_need_suggestions_on_building_a_proctoring/)
+- [[AskJS] Looking for a service where I can just upload my code and everything else is handled automatically](https://www.reddit.com/r/javascript/comments/1fwdsth/askjs_looking_for_a_service_where_i_can_just/)
+- [Animautomata — A zero-dependency solution for creating high-quality, lightweight loading animations that fit your brand identity, using the Canvas API.](https://www.reddit.com/r/javascript/comments/1fwbuim/animautomata_a_zerodependency_solution_for/)
+- [Box2D now available for LittleJS Engine with demo testbed!](https://www.reddit.com/r/javascript/comments/1fw8rdr/box2d_now_available_for_littlejs_engine_with_demo/)
+- [Announcing Azure Cosmos DB Integration with LangChain.js!](https://www.reddit.com/r/javascript/comments/1fw5k6b/announcing_azure_cosmos_db_integration_with/)
+- [Node vs Bun: no backend performance difference](https://www.reddit.com/r/javascript/comments/1fw57b8/node_vs_bun_no_backend_performance_difference/)
+- [SproutJS - a client-side Javascript framework that adds reactivity and state management to native HTML elements, via Web components &lpar;extending the HTMLElement class and other element classes&rpar;, leveraging native browser APIs such as custom elements, templates and Shadow DOM.](https://www.reddit.com/r/javascript/comments/1fw5660/sproutjs_a_clientside_javascript_framework_that/)
+- [One - a new React framework for web and native, built on Vite. It simplifies things with universal, typed routing seamlessly across static, server, and client pages](https://www.reddit.com/r/javascript/comments/1fw4rad/one_a_new_react_framework_for_web_and_native/)
+- [[AskJS] Help with Reverse Engineering JavaScript to Retrieve Secret Code](https://www.reddit.com/r/javascript/comments/1fw4lvq/askjs_help_with_reverse_engineering_javascript_to/)
+- [[AskJS] can javascript trigger &quot;save image as&quot;?](https://www.reddit.com/r/javascript/comments/1fw39dv/askjs_can_javascript_trigger_save_image_as/)
+- [Minimizing Risk: Properly and Safely Resolving CVEs in Your Dependencies](https://www.reddit.com/r/javascript/comments/1fvyr8u/minimizing_risk_properly_and_safely_resolving/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
