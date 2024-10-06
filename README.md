@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Looking for a service where I can just upload my code and everything else is handled automatically](https://www.reddit.com/r/javascript/comments/1fwdsth/askjs_looking_for_a_service_where_i_can_just/)
-- [Animautomata — A zero-dependency solution for creating high-quality, lightweight loading animations that fit your brand identity, using the Canvas API.](https://www.reddit.com/r/javascript/comments/1fwbuim/animautomata_a_zerodependency_solution_for/)
-- [Box2D now available for LittleJS Engine with demo testbed!](https://www.reddit.com/r/javascript/comments/1fw8rdr/box2d_now_available_for_littlejs_engine_with_demo/)
-- [Announcing Azure Cosmos DB Integration with LangChain.js!](https://www.reddit.com/r/javascript/comments/1fw5k6b/announcing_azure_cosmos_db_integration_with/)
-- [Node vs Bun: no backend performance difference](https://www.reddit.com/r/javascript/comments/1fw57b8/node_vs_bun_no_backend_performance_difference/)
-- [SproutJS - a client-side Javascript framework that adds reactivity and state management to native HTML elements, via Web components &lpar;extending the HTMLElement class and other element classes&rpar;, leveraging native browser APIs such as custom elements, templates and Shadow DOM.](https://www.reddit.com/r/javascript/comments/1fw5660/sproutjs_a_clientside_javascript_framework_that/)
-- [One - a new React framework for web and native, built on Vite. It simplifies things with universal, typed routing seamlessly across static, server, and client pages](https://www.reddit.com/r/javascript/comments/1fw4rad/one_a_new_react_framework_for_web_and_native/)
-- [[AskJS] Help with Reverse Engineering JavaScript to Retrieve Secret Code](https://www.reddit.com/r/javascript/comments/1fw4lvq/askjs_help_with_reverse_engineering_javascript_to/)
-- [[AskJS] can javascript trigger &quot;save image as&quot;?](https://www.reddit.com/r/javascript/comments/1fw39dv/askjs_can_javascript_trigger_save_image_as/)
-- [Minimizing Risk: Properly and Safely Resolving CVEs in Your Dependencies](https://www.reddit.com/r/javascript/comments/1fvyr8u/minimizing_risk_properly_and_safely_resolving/)
+- [[AskJS] Am I allowed to ask for help with scripting?](https://www.reddit.com/r/javascript/comments/1fx65vc/askjs_am_i_allowed_to_ask_for_help_with_scripting/)
+- [[AskJS] webUSB help](https://www.reddit.com/r/javascript/comments/1fx5x3n/askjs_webusb_help/)
+- [MediaStreamTrackGenerator vs. AudioWorklet: In your opinion which interface is the most complex to process real-time PCM audio stream?](https://www.reddit.com/r/javascript/comments/1fx5exe/mediastreamtrackgenerator_vs_audioworklet_in_your/)
+- [UltimateWS: a much times faster `ws` server module implementation with &lpar;almost&rpar; full compatibility](https://www.reddit.com/r/javascript/comments/1fwvmn9/ultimatews_a_much_times_faster_ws_server_module/)
+- [[AskJS] Why Don&#39;t They Create a New Programming Language To Act as a replacement or enhancement to JavaScript?](https://www.reddit.com/r/javascript/comments/1fwsnne/askjs_why_dont_they_create_a_new_programming/)
+- [ViteConf 2024 Replay - 43 talks about the Vite ecosystem!](https://www.reddit.com/r/javascript/comments/1fwrbx2/viteconf_2024_replay_43_talks_about_the_vite/)
+- [protect-password &lpar;my first javascript npm package&rpar;](https://www.reddit.com/r/javascript/comments/1fwmelq/protectpassword_my_first_javascript_npm_package/)
+- [[AskJS] Counting Button: React vs Fusor](https://www.reddit.com/r/javascript/comments/1fwlr9f/askjs_counting_button_react_vs_fusor/)
+- [A Guide to animations that feels right](https://www.reddit.com/r/javascript/comments/1fwlbup/a_guide_to_animations_that_feels_right/)
+- [Showoff Saturday &lpar;October 05, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1fwkll3/showoff_saturday_october_05_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
