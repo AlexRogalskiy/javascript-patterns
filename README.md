@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Am I allowed to ask for help with scripting?](https://www.reddit.com/r/javascript/comments/1fx65vc/askjs_am_i_allowed_to_ask_for_help_with_scripting/)
-- [[AskJS] webUSB help](https://www.reddit.com/r/javascript/comments/1fx5x3n/askjs_webusb_help/)
+- [[AskJS] JS array keeps previous values even after clearing.](https://www.reddit.com/r/javascript/comments/1fxw1pt/askjs_js_array_keeps_previous_values_even_after/)
+- [Fixing Chrome&#39;s broken MediaStreamTrack of kind audio to render silence per the specification](https://www.reddit.com/r/javascript/comments/1fxn4lz/fixing_chromes_broken_mediastreamtrack_of_kind/)
+- [This week&#39;s JavaScript news: VoidZero’s unified JavaScript toolchain, new ESLint features, MongoDB 8.0, and more.](https://www.reddit.com/r/javascript/comments/1fxlnve/this_weeks_javascript_news_voidzeros_unified/)
+- [[AskJS] Are SPA/CSR apps less optimal for SEO than SSR in 2024](https://www.reddit.com/r/javascript/comments/1fxigm3/askjs_are_spacsr_apps_less_optimal_for_seo_than/)
 - [MediaStreamTrackGenerator vs. AudioWorklet: In your opinion which interface is the most complex to process real-time PCM audio stream?](https://www.reddit.com/r/javascript/comments/1fx5exe/mediastreamtrackgenerator_vs_audioworklet_in_your/)
 - [UltimateWS: a much times faster `ws` server module implementation with &lpar;almost&rpar; full compatibility](https://www.reddit.com/r/javascript/comments/1fwvmn9/ultimatews_a_much_times_faster_ws_server_module/)
 - [[AskJS] Why Don&#39;t They Create a New Programming Language To Act as a replacement or enhancement to JavaScript?](https://www.reddit.com/r/javascript/comments/1fwsnne/askjs_why_dont_they_create_a_new_programming/)
 - [ViteConf 2024 Replay - 43 talks about the Vite ecosystem!](https://www.reddit.com/r/javascript/comments/1fwrbx2/viteconf_2024_replay_43_talks_about_the_vite/)
 - [protect-password &lpar;my first javascript npm package&rpar;](https://www.reddit.com/r/javascript/comments/1fwmelq/protectpassword_my_first_javascript_npm_package/)
 - [[AskJS] Counting Button: React vs Fusor](https://www.reddit.com/r/javascript/comments/1fwlr9f/askjs_counting_button_react_vs_fusor/)
-- [A Guide to animations that feels right](https://www.reddit.com/r/javascript/comments/1fwlbup/a_guide_to_animations_that_feels_right/)
-- [Showoff Saturday &lpar;October 05, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1fwkll3/showoff_saturday_october_05_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
