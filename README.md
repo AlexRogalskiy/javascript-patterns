@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] JS array keeps previous values even after clearing.](https://www.reddit.com/r/javascript/comments/1fxw1pt/askjs_js_array_keeps_previous_values_even_after/)
-- [Fixing Chrome&#39;s broken MediaStreamTrack of kind audio to render silence per the specification](https://www.reddit.com/r/javascript/comments/1fxn4lz/fixing_chromes_broken_mediastreamtrack_of_kind/)
-- [This week&#39;s JavaScript news: VoidZero’s unified JavaScript toolchain, new ESLint features, MongoDB 8.0, and more.](https://www.reddit.com/r/javascript/comments/1fxlnve/this_weeks_javascript_news_voidzeros_unified/)
-- [[AskJS] Are SPA/CSR apps less optimal for SEO than SSR in 2024](https://www.reddit.com/r/javascript/comments/1fxigm3/askjs_are_spacsr_apps_less_optimal_for_seo_than/)
-- [MediaStreamTrackGenerator vs. AudioWorklet: In your opinion which interface is the most complex to process real-time PCM audio stream?](https://www.reddit.com/r/javascript/comments/1fx5exe/mediastreamtrackgenerator_vs_audioworklet_in_your/)
-- [UltimateWS: a much times faster `ws` server module implementation with &lpar;almost&rpar; full compatibility](https://www.reddit.com/r/javascript/comments/1fwvmn9/ultimatews_a_much_times_faster_ws_server_module/)
-- [[AskJS] Why Don&#39;t They Create a New Programming Language To Act as a replacement or enhancement to JavaScript?](https://www.reddit.com/r/javascript/comments/1fwsnne/askjs_why_dont_they_create_a_new_programming/)
-- [ViteConf 2024 Replay - 43 talks about the Vite ecosystem!](https://www.reddit.com/r/javascript/comments/1fwrbx2/viteconf_2024_replay_43_talks_about_the_vite/)
-- [protect-password &lpar;my first javascript npm package&rpar;](https://www.reddit.com/r/javascript/comments/1fwmelq/protectpassword_my_first_javascript_npm_package/)
-- [[AskJS] Counting Button: React vs Fusor](https://www.reddit.com/r/javascript/comments/1fwlr9f/askjs_counting_button_react_vs_fusor/)
+- [[AskJS] Building a New Payment Gateway - Seeking Your Thoughts and Feedback](https://www.reddit.com/r/javascript/comments/1fyiuh2/askjs_building_a_new_payment_gateway_seeking_your/)
+- [[AskJS] Update to the current state of the .mjs file extension](https://www.reddit.com/r/javascript/comments/1fyigsu/askjs_update_to_the_current_state_of_the_mjs_file/)
+- [[AskJS] Dynamic div disappears when page refreshes!](https://www.reddit.com/r/javascript/comments/1fyhrv3/askjs_dynamic_div_disappears_when_page_refreshes/)
+- [[AskJS] - What&#39;s stopping the ECMA standards from removing parentheses around &quot;if&quot; statements like a lot of other modern languages](https://www.reddit.com/r/javascript/comments/1fydry4/askjs_whats_stopping_the_ecma_standards_from/)
+- [[AskJS] parsing and building json with generated code from protocol buffer schema](https://www.reddit.com/r/javascript/comments/1fyacql/askjs_parsing_and_building_json_with_generated/)
+- [I made a free browser extension that lets you blur highlighted/selected text and media on a page. Available on Chrome and Firefox.](https://www.reddit.com/r/javascript/comments/1fy89ak/i_made_a_free_browser_extension_that_lets_you/)
+- [A simple to use JavaScript function to get the name of any Unicode character or Emoji](https://www.reddit.com/r/javascript/comments/1fy6pki/a_simple_to_use_javascript_function_to_get_the/)
+- [Jeasx 1.0 released - Build fast, scalable, and maintainable web sites with a lightweight framework, which brings together the intuitive syntax of JSX and the rendering efficiency of SSR.](https://www.reddit.com/r/javascript/comments/1fy28lo/jeasx_10_released_build_fast_scalable_and/)
+- [ctree.js - a JavaScript library to print a pretty Christmas tree in your terminal!](https://www.reddit.com/r/javascript/comments/1fy04is/ctreejs_a_javascript_library_to_print_a_pretty/)
+- [JS13K Winners announced! A game jam for making 13 KB JavaScript games.](https://www.reddit.com/r/javascript/comments/1fxzab9/js13k_winners_announced_a_game_jam_for_making_13/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
