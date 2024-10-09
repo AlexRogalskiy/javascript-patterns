@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [GitHub - hviana/faster_react: Full Stack web framework with React + Faster. Automatic routes, reload and component bundle. SSR + Hydration. 100% Deno, no Node dependencies. Fully compatible with Deno Deploy and Serverless Environments.](https://www.reddit.com/r/javascript/comments/1fzcqy9/github_hvianafaster_react_full_stack_web/)
+- [Introducing Releaser: A Rust-powered, cross-platform CLI tool for seamless package releases - now available as a npm package!](https://www.reddit.com/r/javascript/comments/1fzaygp/introducing_releaser_a_rustpowered_crossplatform/)
+- [I made an Ambilight TV for the web.](https://www.reddit.com/r/javascript/comments/1fzalc6/i_made_an_ambilight_tv_for_the_web/)
+- [I wrote a JavaScript Blockchain](https://www.reddit.com/r/javascript/comments/1fz9f7l/i_wrote_a_javascript_blockchain/)
+- [Free JavaScript Obfuscator to Protect Your Code](https://www.reddit.com/r/javascript/comments/1fz8vly/free_javascript_obfuscator_to_protect_your_code/)
+- [React Native Storybook 8.3 release](https://www.reddit.com/r/javascript/comments/1fz61ej/react_native_storybook_83_release/)
+- [bolt.new: prompt, edit, run, and deploy fullstack apps in your browser!](https://www.reddit.com/r/javascript/comments/1fyy15o/boltnew_prompt_edit_run_and_deploy_fullstack_apps/)
 - [[AskJS] Building a New Payment Gateway - Seeking Your Thoughts and Feedback](https://www.reddit.com/r/javascript/comments/1fyiuh2/askjs_building_a_new_payment_gateway_seeking_your/)
 - [[AskJS] Update to the current state of the .mjs file extension](https://www.reddit.com/r/javascript/comments/1fyigsu/askjs_update_to_the_current_state_of_the_mjs_file/)
-- [[AskJS] Dynamic div disappears when page refreshes!](https://www.reddit.com/r/javascript/comments/1fyhrv3/askjs_dynamic_div_disappears_when_page_refreshes/)
 - [[AskJS] - What&#39;s stopping the ECMA standards from removing parentheses around &quot;if&quot; statements like a lot of other modern languages](https://www.reddit.com/r/javascript/comments/1fydry4/askjs_whats_stopping_the_ecma_standards_from/)
-- [[AskJS] parsing and building json with generated code from protocol buffer schema](https://www.reddit.com/r/javascript/comments/1fyacql/askjs_parsing_and_building_json_with_generated/)
-- [I made a free browser extension that lets you blur highlighted/selected text and media on a page. Available on Chrome and Firefox.](https://www.reddit.com/r/javascript/comments/1fy89ak/i_made_a_free_browser_extension_that_lets_you/)
-- [A simple to use JavaScript function to get the name of any Unicode character or Emoji](https://www.reddit.com/r/javascript/comments/1fy6pki/a_simple_to_use_javascript_function_to_get_the/)
-- [Jeasx 1.0 released - Build fast, scalable, and maintainable web sites with a lightweight framework, which brings together the intuitive syntax of JSX and the rendering efficiency of SSR.](https://www.reddit.com/r/javascript/comments/1fy28lo/jeasx_10_released_build_fast_scalable_and/)
-- [ctree.js - a JavaScript library to print a pretty Christmas tree in your terminal!](https://www.reddit.com/r/javascript/comments/1fy04is/ctreejs_a_javascript_library_to_print_a_pretty/)
-- [JS13K Winners announced! A game jam for making 13 KB JavaScript games.](https://www.reddit.com/r/javascript/comments/1fxzab9/js13k_winners_announced_a_game_jam_for_making_13/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
