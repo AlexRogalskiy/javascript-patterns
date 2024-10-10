@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [GitHub - hviana/faster_react: Full Stack web framework with React + Faster. Automatic routes, reload and component bundle. SSR + Hydration. 100% Deno, no Node dependencies. Fully compatible with Deno Deploy and Serverless Environments.](https://www.reddit.com/r/javascript/comments/1fzcqy9/github_hvianafaster_react_full_stack_web/)
-- [Introducing Releaser: A Rust-powered, cross-platform CLI tool for seamless package releases - now available as a npm package!](https://www.reddit.com/r/javascript/comments/1fzaygp/introducing_releaser_a_rustpowered_crossplatform/)
-- [I made an Ambilight TV for the web.](https://www.reddit.com/r/javascript/comments/1fzalc6/i_made_an_ambilight_tv_for_the_web/)
-- [I wrote a JavaScript Blockchain](https://www.reddit.com/r/javascript/comments/1fz9f7l/i_wrote_a_javascript_blockchain/)
-- [Free JavaScript Obfuscator to Protect Your Code](https://www.reddit.com/r/javascript/comments/1fz8vly/free_javascript_obfuscator_to_protect_your_code/)
-- [React Native Storybook 8.3 release](https://www.reddit.com/r/javascript/comments/1fz61ej/react_native_storybook_83_release/)
-- [bolt.new: prompt, edit, run, and deploy fullstack apps in your browser!](https://www.reddit.com/r/javascript/comments/1fyy15o/boltnew_prompt_edit_run_and_deploy_fullstack_apps/)
-- [[AskJS] Building a New Payment Gateway - Seeking Your Thoughts and Feedback](https://www.reddit.com/r/javascript/comments/1fyiuh2/askjs_building_a_new_payment_gateway_seeking_your/)
-- [[AskJS] Update to the current state of the .mjs file extension](https://www.reddit.com/r/javascript/comments/1fyigsu/askjs_update_to_the_current_state_of_the_mjs_file/)
-- [[AskJS] - What&#39;s stopping the ECMA standards from removing parentheses around &quot;if&quot; statements like a lot of other modern languages](https://www.reddit.com/r/javascript/comments/1fydry4/askjs_whats_stopping_the_ecma_standards_from/)
+- [Just added a new feature to Another Redis Desktop Manager, now supporting TTL for Hash keys.](https://www.reddit.com/r/javascript/comments/1g07ine/just_added_a_new_feature_to_another_redis_desktop/)
+- [[AskJS] simple game on a chart - how to appproach this?](https://www.reddit.com/r/javascript/comments/1g06oz0/askjs_simple_game_on_a_chart_how_to_appproach_this/)
+- [Introducing a zero-dependency Searchable Select Web Component](https://www.reddit.com/r/javascript/comments/1g06jl4/introducing_a_zerodependency_searchable_select/)
+- [[AskJS] Help needed with Instagram API](https://www.reddit.com/r/javascript/comments/1g03zt1/askjs_help_needed_with_instagram_api/)
+- [Announcing TypeScript 5.7 Beta](https://www.reddit.com/r/javascript/comments/1g02ekr/announcing_typescript_57_beta/)
+- [Master Cypress Testing with Full-Stack App | E2E Test | Auth, Maps, CRUD, GitHub Actions](https://www.reddit.com/r/javascript/comments/1fzx0z3/master_cypress_testing_with_fullstack_app_e2e/)
+- [What is Memoization? &lpar;In JavaScript &amp; TypeScript&rpar;](https://www.reddit.com/r/javascript/comments/1fzuaxt/what_is_memoization_in_javascript_typescript/)
+- [Just released Rosemary.js: A tool for managing and connecting your ideas/data organically](https://www.reddit.com/r/javascript/comments/1fzruz4/just_released_rosemaryjs_a_tool_for_managing_and/)
+- [A zero-dependency, pure JavaScript implementation of ACME client](https://www.reddit.com/r/javascript/comments/1fzo1a0/a_zerodependency_pure_javascript_implementation/)
+- [Why JSR.io is bad?](https://www.reddit.com/r/javascript/comments/1fznmzo/why_jsrio_is_bad/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
