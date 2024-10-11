@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Is there a modern alternative to CoffeeScript for less typing?](https://www.reddit.com/r/javascript/comments/1g0ygas/askjs_is_there_a_modern_alternative_to/)
+- [[AskJS] How I would&#39;ve done async/await](https://www.reddit.com/r/javascript/comments/1g0ya0k/askjs_how_i_wouldve_done_asyncawait/)
+- [Announcing Deno 2](https://www.reddit.com/r/javascript/comments/1g0vajk/announcing_deno_2/)
+- [Mind Elixir v4 Released — A Powerful JavaScript Mind Map Core](https://www.reddit.com/r/javascript/comments/1g0jev2/mind_elixir_v4_released_a_powerful_javascript/)
+- [New Javascript Framework to orchestrate multiple AI Agents. [Feedback Needed]](https://www.reddit.com/r/javascript/comments/1g0gpj4/new_javascript_framework_to_orchestrate_multiple/)
+- [Introducing a zero-dependency Searchable Select Web Component](https://www.reddit.com/r/javascript/comments/1g0ey0j/introducing_a_zerodependency_searchable_select/)
+- [[AskJS] Evaluating JS boilerplates and libraries - what&#39;s your approach?](https://www.reddit.com/r/javascript/comments/1g0dm2p/askjs_evaluating_js_boilerplates_and_libraries/)
 - [Just added a new feature to Another Redis Desktop Manager, now supporting TTL for Hash keys.](https://www.reddit.com/r/javascript/comments/1g07ine/just_added_a_new_feature_to_another_redis_desktop/)
-- [[AskJS] simple game on a chart - how to appproach this?](https://www.reddit.com/r/javascript/comments/1g06oz0/askjs_simple_game_on_a_chart_how_to_appproach_this/)
-- [Introducing a zero-dependency Searchable Select Web Component](https://www.reddit.com/r/javascript/comments/1g06jl4/introducing_a_zerodependency_searchable_select/)
-- [[AskJS] Help needed with Instagram API](https://www.reddit.com/r/javascript/comments/1g03zt1/askjs_help_needed_with_instagram_api/)
 - [Announcing TypeScript 5.7 Beta](https://www.reddit.com/r/javascript/comments/1g02ekr/announcing_typescript_57_beta/)
 - [Master Cypress Testing with Full-Stack App | E2E Test | Auth, Maps, CRUD, GitHub Actions](https://www.reddit.com/r/javascript/comments/1fzx0z3/master_cypress_testing_with_fullstack_app_e2e/)
-- [What is Memoization? &lpar;In JavaScript &amp; TypeScript&rpar;](https://www.reddit.com/r/javascript/comments/1fzuaxt/what_is_memoization_in_javascript_typescript/)
-- [Just released Rosemary.js: A tool for managing and connecting your ideas/data organically](https://www.reddit.com/r/javascript/comments/1fzruz4/just_released_rosemaryjs_a_tool_for_managing_and/)
-- [A zero-dependency, pure JavaScript implementation of ACME client](https://www.reddit.com/r/javascript/comments/1fzo1a0/a_zerodependency_pure_javascript_implementation/)
-- [Why JSR.io is bad?](https://www.reddit.com/r/javascript/comments/1fznmzo/why_jsrio_is_bad/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
