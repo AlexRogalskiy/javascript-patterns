@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Is there a modern alternative to CoffeeScript for less typing?](https://www.reddit.com/r/javascript/comments/1g0ygas/askjs_is_there_a_modern_alternative_to/)
-- [[AskJS] How I would&#39;ve done async/await](https://www.reddit.com/r/javascript/comments/1g0ya0k/askjs_how_i_wouldve_done_asyncawait/)
-- [Announcing Deno 2](https://www.reddit.com/r/javascript/comments/1g0vajk/announcing_deno_2/)
-- [Mind Elixir v4 Released — A Powerful JavaScript Mind Map Core](https://www.reddit.com/r/javascript/comments/1g0jev2/mind_elixir_v4_released_a_powerful_javascript/)
-- [New Javascript Framework to orchestrate multiple AI Agents. [Feedback Needed]](https://www.reddit.com/r/javascript/comments/1g0gpj4/new_javascript_framework_to_orchestrate_multiple/)
-- [Introducing a zero-dependency Searchable Select Web Component](https://www.reddit.com/r/javascript/comments/1g0ey0j/introducing_a_zerodependency_searchable_select/)
-- [[AskJS] Evaluating JS boilerplates and libraries - what&#39;s your approach?](https://www.reddit.com/r/javascript/comments/1g0dm2p/askjs_evaluating_js_boilerplates_and_libraries/)
-- [Just added a new feature to Another Redis Desktop Manager, now supporting TTL for Hash keys.](https://www.reddit.com/r/javascript/comments/1g07ine/just_added_a_new_feature_to_another_redis_desktop/)
-- [Announcing TypeScript 5.7 Beta](https://www.reddit.com/r/javascript/comments/1g02ekr/announcing_typescript_57_beta/)
-- [Master Cypress Testing with Full-Stack App | E2E Test | Auth, Maps, CRUD, GitHub Actions](https://www.reddit.com/r/javascript/comments/1fzx0z3/master_cypress_testing_with_fullstack_app_e2e/)
+- [DNS in the browser! A dead-simple library for querying DNS records without needing to set up a backend.](https://www.reddit.com/r/javascript/comments/1g1hk9a/dns_in_the_browser_a_deadsimple_library_for/)
+- [[AskJS] Hi, All I am an AI Dec using python. I want to learn Javascript can you see suggest me resources?](https://www.reddit.com/r/javascript/comments/1g1ewq7/askjs_hi_all_i_am_an_ai_dec_using_python_i_want/)
+- [[AskJS] I AM SHOCKED I DIDN&#39;T KNOW THIS](https://www.reddit.com/r/javascript/comments/1g1bmn0/askjs_i_am_shocked_i_didnt_know_this/)
+- [Animate on scroll library](https://www.reddit.com/r/javascript/comments/1g1asta/animate_on_scroll_library/)
+- [use-audio-react-hook: A lightweight React hook for managing audio playback](https://www.reddit.com/r/javascript/comments/1g191c7/useaudioreacthook_a_lightweight_react_hook_for/)
+- [[AskJS] Best JS tree algorithm library](https://www.reddit.com/r/javascript/comments/1g16u4d/askjs_best_js_tree_algorithm_library/)
+- [Superdiff 2 can now stream object diffs](https://www.reddit.com/r/javascript/comments/1g16pxl/superdiff_2_can_now_stream_object_diffs/)
+- [Open Source Tailwind Components Library - FlyonUI](https://www.reddit.com/r/javascript/comments/1g14rgo/open_source_tailwind_components_library_flyonui/)
+- [Structs, Shared Structs, Unsafe Blocks, and Synchronization Primitives](https://www.reddit.com/r/javascript/comments/1g14nx1/structs_shared_structs_unsafe_blocks_and/)
+- [Open-source AI-assisted blog on Node&lpar;with openai integration&rpar;](https://www.reddit.com/r/javascript/comments/1g13xbk/opensource_aiassisted_blog_on_nodewith_openai/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
