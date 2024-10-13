@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [DNS in the browser! A dead-simple library for querying DNS records without needing to set up a backend.](https://www.reddit.com/r/javascript/comments/1g1hk9a/dns_in_the_browser_a_deadsimple_library_for/)
-- [[AskJS] Hi, All I am an AI Dec using python. I want to learn Javascript can you see suggest me resources?](https://www.reddit.com/r/javascript/comments/1g1ewq7/askjs_hi_all_i_am_an_ai_dec_using_python_i_want/)
-- [[AskJS] I AM SHOCKED I DIDN&#39;T KNOW THIS](https://www.reddit.com/r/javascript/comments/1g1bmn0/askjs_i_am_shocked_i_didnt_know_this/)
-- [Animate on scroll library](https://www.reddit.com/r/javascript/comments/1g1asta/animate_on_scroll_library/)
-- [use-audio-react-hook: A lightweight React hook for managing audio playback](https://www.reddit.com/r/javascript/comments/1g191c7/useaudioreacthook_a_lightweight_react_hook_for/)
-- [[AskJS] Best JS tree algorithm library](https://www.reddit.com/r/javascript/comments/1g16u4d/askjs_best_js_tree_algorithm_library/)
-- [Superdiff 2 can now stream object diffs](https://www.reddit.com/r/javascript/comments/1g16pxl/superdiff_2_can_now_stream_object_diffs/)
-- [Open Source Tailwind Components Library - FlyonUI](https://www.reddit.com/r/javascript/comments/1g14rgo/open_source_tailwind_components_library_flyonui/)
-- [Structs, Shared Structs, Unsafe Blocks, and Synchronization Primitives](https://www.reddit.com/r/javascript/comments/1g14nx1/structs_shared_structs_unsafe_blocks_and/)
-- [Open-source AI-assisted blog on Node&lpar;with openai integration&rpar;](https://www.reddit.com/r/javascript/comments/1g13xbk/opensource_aiassisted_blog_on_nodewith_openai/)
+- [Fetch local file from arbitrary Web pages using a Web extension](https://www.reddit.com/r/javascript/comments/1g2a3r4/fetch_local_file_from_arbitrary_web_pages_using_a/)
+- [ts-zen/trycatch - Robust and Type-Safe Errors Management Conventions](https://www.reddit.com/r/javascript/comments/1g24hs8/tszentrycatch_robust_and_typesafe_errors/)
+- [I didn&#39;t know you could use sibling parameters as default values.](https://www.reddit.com/r/javascript/comments/1g22zkk/i_didnt_know_you_could_use_sibling_parameters_as/)
+- [[AskJS] Leak-free way of getting a rejected promise out of AbortSignal?](https://www.reddit.com/r/javascript/comments/1g20p6u/askjs_leakfree_way_of_getting_a_rejected_promise/)
+- [[AskJS] How to use an secret API Key on open-source app](https://www.reddit.com/r/javascript/comments/1g1yqly/askjs_how_to_use_an_secret_api_key_on_opensource/)
+- [[AskJS] What is the main use case for react,vuejs,angular etc?](https://www.reddit.com/r/javascript/comments/1g1wfcs/askjs_what_is_the_main_use_case_for/)
+- [[AskJS] Improve Tiny SVG Analog Clock](https://www.reddit.com/r/javascript/comments/1g1w3ab/askjs_improve_tiny_svg_analog_clock/)
+- [[AskJS] Why did adobe flash fall out of favor and get replaced by HTML5 and JS?](https://www.reddit.com/r/javascript/comments/1g1vhbx/askjs_why_did_adobe_flash_fall_out_of_favor_and/)
+- [[AskJS] Do You Still Use jQuery in 2024, or Is Vanilla JavaScript the Way Forward?](https://www.reddit.com/r/javascript/comments/1g1utmy/askjs_do_you_still_use_jquery_in_2024_or_is/)
+- [Showoff Saturday &lpar;October 12, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1g1uiy7/showoff_saturday_october_12_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
