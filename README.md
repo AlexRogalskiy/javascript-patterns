@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Is there any npm lib that can return available times based on given time slots?](https://www.reddit.com/r/javascript/comments/1g352mh/askjs_is_there_any_npm_lib_that_can_return/)
+- [[AskJS] What is the best Polyfills service ?](https://www.reddit.com/r/javascript/comments/1g32kly/askjs_what_is_the_best_polyfills_service/)
+- [Time duration in Javascript](https://www.reddit.com/r/javascript/comments/1g2ta5v/time_duration_in_javascript/)
+- [Node.js Test Bed Web Server](https://www.reddit.com/r/javascript/comments/1g2s6j4/nodejs_test_bed_web_server/)
 - [Fetch local file from arbitrary Web pages using a Web extension](https://www.reddit.com/r/javascript/comments/1g2a3r4/fetch_local_file_from_arbitrary_web_pages_using_a/)
 - [ts-zen/trycatch - Robust and Type-Safe Errors Management Conventions](https://www.reddit.com/r/javascript/comments/1g24hs8/tszentrycatch_robust_and_typesafe_errors/)
 - [I didn&#39;t know you could use sibling parameters as default values.](https://www.reddit.com/r/javascript/comments/1g22zkk/i_didnt_know_you_could_use_sibling_parameters_as/)
 - [[AskJS] Leak-free way of getting a rejected promise out of AbortSignal?](https://www.reddit.com/r/javascript/comments/1g20p6u/askjs_leakfree_way_of_getting_a_rejected_promise/)
 - [[AskJS] How to use an secret API Key on open-source app](https://www.reddit.com/r/javascript/comments/1g1yqly/askjs_how_to_use_an_secret_api_key_on_opensource/)
 - [[AskJS] What is the main use case for react,vuejs,angular etc?](https://www.reddit.com/r/javascript/comments/1g1wfcs/askjs_what_is_the_main_use_case_for/)
-- [[AskJS] Improve Tiny SVG Analog Clock](https://www.reddit.com/r/javascript/comments/1g1w3ab/askjs_improve_tiny_svg_analog_clock/)
-- [[AskJS] Why did adobe flash fall out of favor and get replaced by HTML5 and JS?](https://www.reddit.com/r/javascript/comments/1g1vhbx/askjs_why_did_adobe_flash_fall_out_of_favor_and/)
-- [[AskJS] Do You Still Use jQuery in 2024, or Is Vanilla JavaScript the Way Forward?](https://www.reddit.com/r/javascript/comments/1g1utmy/askjs_do_you_still_use_jquery_in_2024_or_is/)
-- [Showoff Saturday &lpar;October 12, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1g1uiy7/showoff_saturday_october_12_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
