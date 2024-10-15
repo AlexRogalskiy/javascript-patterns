@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Basic Chrome Unpacked Extension](https://www.reddit.com/r/javascript/comments/1g3wspr/basic_chrome_unpacked_extension/)
+- [Complete catalog of copy-paste alternatives to Lodash functions is nearing completion - Snap.js](https://www.reddit.com/r/javascript/comments/1g3wlb9/complete_catalog_of_copypaste_alternatives_to/)
+- [Debouncing vs Throttling in JavaScript: When and Why You Should Use Them](https://www.reddit.com/r/javascript/comments/1g3p5d3/debouncing_vs_throttling_in_javascript_when_and/)
+- [[AskJS] How to create a Monorepo with native modules and an example app?](https://www.reddit.com/r/javascript/comments/1g3m3ff/askjs_how_to_create_a_monorepo_with_native/)
+- [Universal state management library that can be easily integrated into UI libraries &quot;state-ref&quot;](https://www.reddit.com/r/javascript/comments/1g3kig6/universal_state_management_library_that_can_be/)
+- [useCallback, but without the warts](https://www.reddit.com/r/javascript/comments/1g3jo6t/usecallback_but_without_the_warts/)
+- [[AskJS] Displaying country flags in JS](https://www.reddit.com/r/javascript/comments/1g3four/askjs_displaying_country_flags_in_js/)
+- [Your /r/javascript recap for the week of October 07 - October 13, 2024](https://www.reddit.com/r/javascript/comments/1g3bi25/your_rjavascript_recap_for_the_week_of_october_07/)
+- [Ready to flex your skills? Join the Plugin Development Hackathon running till Oct 31st! Build plugins in JS, and win cash prizes + goodies.](https://www.reddit.com/r/javascript/comments/1g38x71/ready_to_flex_your_skills_join_the_plugin/)
 - [[AskJS] Is there any npm lib that can return available times based on given time slots?](https://www.reddit.com/r/javascript/comments/1g352mh/askjs_is_there_any_npm_lib_that_can_return/)
-- [[AskJS] What is the best Polyfills service ?](https://www.reddit.com/r/javascript/comments/1g32kly/askjs_what_is_the_best_polyfills_service/)
-- [Time duration in Javascript](https://www.reddit.com/r/javascript/comments/1g2ta5v/time_duration_in_javascript/)
-- [Node.js Test Bed Web Server](https://www.reddit.com/r/javascript/comments/1g2s6j4/nodejs_test_bed_web_server/)
-- [Fetch local file from arbitrary Web pages using a Web extension](https://www.reddit.com/r/javascript/comments/1g2a3r4/fetch_local_file_from_arbitrary_web_pages_using_a/)
-- [ts-zen/trycatch - Robust and Type-Safe Errors Management Conventions](https://www.reddit.com/r/javascript/comments/1g24hs8/tszentrycatch_robust_and_typesafe_errors/)
-- [I didn&#39;t know you could use sibling parameters as default values.](https://www.reddit.com/r/javascript/comments/1g22zkk/i_didnt_know_you_could_use_sibling_parameters_as/)
-- [[AskJS] Leak-free way of getting a rejected promise out of AbortSignal?](https://www.reddit.com/r/javascript/comments/1g20p6u/askjs_leakfree_way_of_getting_a_rejected_promise/)
-- [[AskJS] How to use an secret API Key on open-source app](https://www.reddit.com/r/javascript/comments/1g1yqly/askjs_how_to_use_an_secret_api_key_on_opensource/)
-- [[AskJS] What is the main use case for react,vuejs,angular etc?](https://www.reddit.com/r/javascript/comments/1g1wfcs/askjs_what_is_the_main_use_case_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
