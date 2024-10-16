@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Basic Chrome Unpacked Extension](https://www.reddit.com/r/javascript/comments/1g3wspr/basic_chrome_unpacked_extension/)
-- [Complete catalog of copy-paste alternatives to Lodash functions is nearing completion - Snap.js](https://www.reddit.com/r/javascript/comments/1g3wlb9/complete_catalog_of_copypaste_alternatives_to/)
-- [Debouncing vs Throttling in JavaScript: When and Why You Should Use Them](https://www.reddit.com/r/javascript/comments/1g3p5d3/debouncing_vs_throttling_in_javascript_when_and/)
-- [[AskJS] How to create a Monorepo with native modules and an example app?](https://www.reddit.com/r/javascript/comments/1g3m3ff/askjs_how_to_create_a_monorepo_with_native/)
-- [Universal state management library that can be easily integrated into UI libraries &quot;state-ref&quot;](https://www.reddit.com/r/javascript/comments/1g3kig6/universal_state_management_library_that_can_be/)
-- [useCallback, but without the warts](https://www.reddit.com/r/javascript/comments/1g3jo6t/usecallback_but_without_the_warts/)
-- [[AskJS] Displaying country flags in JS](https://www.reddit.com/r/javascript/comments/1g3four/askjs_displaying_country_flags_in_js/)
-- [Your /r/javascript recap for the week of October 07 - October 13, 2024](https://www.reddit.com/r/javascript/comments/1g3bi25/your_rjavascript_recap_for_the_week_of_october_07/)
-- [Ready to flex your skills? Join the Plugin Development Hackathon running till Oct 31st! Build plugins in JS, and win cash prizes + goodies.](https://www.reddit.com/r/javascript/comments/1g38x71/ready_to_flex_your_skills_join_the_plugin/)
-- [[AskJS] Is there any npm lib that can return available times based on given time slots?](https://www.reddit.com/r/javascript/comments/1g352mh/askjs_is_there_any_npm_lib_that_can_return/)
+- [The State of ES5 on the Web](https://www.reddit.com/r/javascript/comments/1g4nnh4/the_state_of_es5_on_the_web/)
+- [[AskJS] Abusing AI during learning becoming normalized](https://www.reddit.com/r/javascript/comments/1g4n09l/askjs_abusing_ai_during_learning_becoming/)
+- [JsTraceToIX is an expression tracer for debugging React or Vue components, arrow functions, method chaining, and expressions in JavaScript - no need to clutter your codebase with `console.log`!](https://www.reddit.com/r/javascript/comments/1g4ke8m/jstracetoix_is_an_expression_tracer_for_debugging/)
+- [[AskJS] Firefox/Chrome extension. Struggling to return a response in my background script via browser.runtime.onMessage](https://www.reddit.com/r/javascript/comments/1g4j9zs/askjs_firefoxchrome_extension_struggling_to/)
+- [Next.js 15 RC 2](https://www.reddit.com/r/javascript/comments/1g4gja6/nextjs_15_rc_2/)
+- [[AskJS] Do you watch any JavaScript YouTube live coders?](https://www.reddit.com/r/javascript/comments/1g4ffih/askjs_do_you_watch_any_javascript_youtube_live/)
+- [VoidZero: Threat or Catalyst for Open Source JavaScript Tooling?](https://www.reddit.com/r/javascript/comments/1g4f5an/voidzero_threat_or_catalyst_for_open_source/)
+- [[AskJS] Embedding CSS Style in Javascript in a library?](https://www.reddit.com/r/javascript/comments/1g4bmlo/askjs_embedding_css_style_in_javascript_in_a/)
+- [React Multi Page Form - for making and testing form sequences](https://www.reddit.com/r/javascript/comments/1g48pdd/react_multi_page_form_for_making_and_testing_form/)
+- [I made a tiny markdown subset parser that returns a tree instead of completed string / components so you can handle that logic yourself.](https://www.reddit.com/r/javascript/comments/1g46ht9/i_made_a_tiny_markdown_subset_parser_that_returns/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
