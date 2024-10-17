@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Node v23.0.0 &lpar;Current&rpar;](https://www.reddit.com/r/javascript/comments/1g51hd4/node_v2300_current/)
+- [Llamafile v0.8.14: a new UI, performance gains, and more](https://www.reddit.com/r/javascript/comments/1g4zs8r/llamafile_v0814_a_new_ui_performance_gains_and/)
+- [LOOT TABLES - for JS game devs out there, this is a highly complete Loot Table implementation. More details in comments.](https://www.reddit.com/r/javascript/comments/1g4to2i/loot_tables_for_js_game_devs_out_there_this_is_a/)
+- [WTF Wednesday &lpar;October 16, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1g4te71/wtf_wednesday_october_16_2024/)
+- [JSON Translator via Google Translate API with optimization strategies](https://www.reddit.com/r/javascript/comments/1g4r58s/json_translator_via_google_translate_api_with/)
 - [The State of ES5 on the Web](https://www.reddit.com/r/javascript/comments/1g4nnh4/the_state_of_es5_on_the_web/)
 - [[AskJS] Abusing AI during learning becoming normalized](https://www.reddit.com/r/javascript/comments/1g4n09l/askjs_abusing_ai_during_learning_becoming/)
 - [JsTraceToIX is an expression tracer for debugging React or Vue components, arrow functions, method chaining, and expressions in JavaScript - no need to clutter your codebase with `console.log`!](https://www.reddit.com/r/javascript/comments/1g4ke8m/jstracetoix_is_an_expression_tracer_for_debugging/)
-- [[AskJS] Firefox/Chrome extension. Struggling to return a response in my background script via browser.runtime.onMessage](https://www.reddit.com/r/javascript/comments/1g4j9zs/askjs_firefoxchrome_extension_struggling_to/)
 - [Next.js 15 RC 2](https://www.reddit.com/r/javascript/comments/1g4gja6/nextjs_15_rc_2/)
 - [[AskJS] Do you watch any JavaScript YouTube live coders?](https://www.reddit.com/r/javascript/comments/1g4ffih/askjs_do_you_watch_any_javascript_youtube_live/)
-- [VoidZero: Threat or Catalyst for Open Source JavaScript Tooling?](https://www.reddit.com/r/javascript/comments/1g4f5an/voidzero_threat_or_catalyst_for_open_source/)
-- [[AskJS] Embedding CSS Style in Javascript in a library?](https://www.reddit.com/r/javascript/comments/1g4bmlo/askjs_embedding_css_style_in_javascript_in_a/)
-- [React Multi Page Form - for making and testing form sequences](https://www.reddit.com/r/javascript/comments/1g48pdd/react_multi_page_form_for_making_and_testing_form/)
-- [I made a tiny markdown subset parser that returns a tree instead of completed string / components so you can handle that logic yourself.](https://www.reddit.com/r/javascript/comments/1g46ht9/i_made_a_tiny_markdown_subset_parser_that_returns/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
