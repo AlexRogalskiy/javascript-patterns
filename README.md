@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [In the future using top-level await might be a BC break in Node](https://www.reddit.com/r/javascript/comments/1g66xaw/in_the_future_using_toplevel_await_might_be_a_bc/)
+- [Lightweight and flexible dependency injection library w/wo ECMAScript decorators](https://www.reddit.com/r/javascript/comments/1g65ruq/lightweight_and_flexible_dependency_injection/)
+- [[AskJS] Why use Array.with&lpar;&rpar; instead of Array.toSpliced&lpar;&rpar;?](https://www.reddit.com/r/javascript/comments/1g5yhuu/askjs_why_use_arraywith_instead_of_arraytospliced/)
+- [How to Create a Modern App with Django and Vue](https://www.reddit.com/r/javascript/comments/1g5raaq/how_to_create_a_modern_app_with_django_and_vue/)
+- [Horrible perspectives for JS/ES20xx](https://www.reddit.com/r/javascript/comments/1g5lrcp/horrible_perspectives_for_jses20xx/)
+- [Emoji-Fallback.js: Provide support for emojis on ALL web browsers!](https://www.reddit.com/r/javascript/comments/1g5izac/emojifallbackjs_provide_support_for_emojis_on_all/)
+- [Grip - simplified error handling for JavaScript](https://www.reddit.com/r/javascript/comments/1g5ipy7/grip_simplified_error_handling_for_javascript/)
+- [Compiling npm to a standalone executable: Which runtime can do this out of the box; node, deno, or bun?](https://www.reddit.com/r/javascript/comments/1g5gmam/compiling_npm_to_a_standalone_executable_which/)
 - [Node v23.0.0 &lpar;Current&rpar;](https://www.reddit.com/r/javascript/comments/1g51hd4/node_v2300_current/)
 - [Llamafile v0.8.14: a new UI, performance gains, and more](https://www.reddit.com/r/javascript/comments/1g4zs8r/llamafile_v0814_a_new_ui_performance_gains_and/)
-- [LOOT TABLES - for JS game devs out there, this is a highly complete Loot Table implementation. More details in comments.](https://www.reddit.com/r/javascript/comments/1g4to2i/loot_tables_for_js_game_devs_out_there_this_is_a/)
-- [WTF Wednesday &lpar;October 16, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1g4te71/wtf_wednesday_october_16_2024/)
-- [JSON Translator via Google Translate API with optimization strategies](https://www.reddit.com/r/javascript/comments/1g4r58s/json_translator_via_google_translate_api_with/)
-- [The State of ES5 on the Web](https://www.reddit.com/r/javascript/comments/1g4nnh4/the_state_of_es5_on_the_web/)
-- [[AskJS] Abusing AI during learning becoming normalized](https://www.reddit.com/r/javascript/comments/1g4n09l/askjs_abusing_ai_during_learning_becoming/)
-- [JsTraceToIX is an expression tracer for debugging React or Vue components, arrow functions, method chaining, and expressions in JavaScript - no need to clutter your codebase with `console.log`!](https://www.reddit.com/r/javascript/comments/1g4ke8m/jstracetoix_is_an_expression_tracer_for_debugging/)
-- [Next.js 15 RC 2](https://www.reddit.com/r/javascript/comments/1g4gja6/nextjs_15_rc_2/)
-- [[AskJS] Do you watch any JavaScript YouTube live coders?](https://www.reddit.com/r/javascript/comments/1g4ffih/askjs_do_you_watch_any_javascript_youtube_live/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
