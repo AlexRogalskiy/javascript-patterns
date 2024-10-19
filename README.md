@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Turborepo 2.2: `turbo query`, cache safety, `--affected` zero config inference](https://www.reddit.com/r/javascript/comments/1g6sxka/turborepo_22_turbo_query_cache_safety_affected/)
+- [Unlocking the Power of React 18’s Server-Side Rendering for Faster Web Applications](https://www.reddit.com/r/javascript/comments/1g6p3qe/unlocking_the_power_of_react_18s_serverside/)
+- [Portfolio Backtesting Platform](https://www.reddit.com/r/javascript/comments/1g6jcek/portfolio_backtesting_platform/)
+- [Khoshnus - An Animation Calligraphy Text Library in JavaScript](https://www.reddit.com/r/javascript/comments/1g6e02z/khoshnus_an_animation_calligraphy_text_library_in/)
+- [[AskJS] Design Choice for a Confirmation Modal: to Promise or not to Promise?](https://www.reddit.com/r/javascript/comments/1g6droh/askjs_design_choice_for_a_confirmation_modal_to/)
+- [QR code generator for WIFI / VCARD / VCALENDAR](https://www.reddit.com/r/javascript/comments/1g6cimj/qr_code_generator_for_wifi_vcard_vcalendar/)
 - [In the future using top-level await might be a BC break in Node](https://www.reddit.com/r/javascript/comments/1g66xaw/in_the_future_using_toplevel_await_might_be_a_bc/)
 - [Lightweight and flexible dependency injection library w/wo ECMAScript decorators](https://www.reddit.com/r/javascript/comments/1g65ruq/lightweight_and_flexible_dependency_injection/)
 - [[AskJS] Why use Array.with&lpar;&rpar; instead of Array.toSpliced&lpar;&rpar;?](https://www.reddit.com/r/javascript/comments/1g5yhuu/askjs_why_use_arraywith_instead_of_arraytospliced/)
 - [How to Create a Modern App with Django and Vue](https://www.reddit.com/r/javascript/comments/1g5raaq/how_to_create_a_modern_app_with_django_and_vue/)
-- [Horrible perspectives for JS/ES20xx](https://www.reddit.com/r/javascript/comments/1g5lrcp/horrible_perspectives_for_jses20xx/)
-- [Emoji-Fallback.js: Provide support for emojis on ALL web browsers!](https://www.reddit.com/r/javascript/comments/1g5izac/emojifallbackjs_provide_support_for_emojis_on_all/)
-- [Grip - simplified error handling for JavaScript](https://www.reddit.com/r/javascript/comments/1g5ipy7/grip_simplified_error_handling_for_javascript/)
-- [Compiling npm to a standalone executable: Which runtime can do this out of the box; node, deno, or bun?](https://www.reddit.com/r/javascript/comments/1g5gmam/compiling_npm_to_a_standalone_executable_which/)
-- [Node v23.0.0 &lpar;Current&rpar;](https://www.reddit.com/r/javascript/comments/1g51hd4/node_v2300_current/)
-- [Llamafile v0.8.14: a new UI, performance gains, and more](https://www.reddit.com/r/javascript/comments/1g4zs8r/llamafile_v0814_a_new_ui_performance_gains_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
