@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Efficient Typescript](https://www.reddit.com/r/javascript/comments/1g7kxp0/efficient_typescript/)
+- [Class Fields vs. Methods in JavaScript &lpar;2023&rpar;](https://www.reddit.com/r/javascript/comments/1g7fbqm/class_fields_vs_methods_in_javascript_2023/)
+- [The Unexpected Complexity of Migrating a Next.js Header to Server Components](https://www.reddit.com/r/javascript/comments/1g76v1v/the_unexpected_complexity_of_migrating_a_nextjs/)
+- [Showoff Saturday &lpar;October 19, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1g73agf/showoff_saturday_october_19_2024/)
+- [OpenAPI definitions, converters and LLM function calling application composer.](https://www.reddit.com/r/javascript/comments/1g705p4/openapi_definitions_converters_and_llm_function/)
 - [Turborepo 2.2: `turbo query`, cache safety, `--affected` zero config inference](https://www.reddit.com/r/javascript/comments/1g6sxka/turborepo_22_turbo_query_cache_safety_affected/)
 - [Unlocking the Power of React 18’s Server-Side Rendering for Faster Web Applications](https://www.reddit.com/r/javascript/comments/1g6p3qe/unlocking_the_power_of_react_18s_serverside/)
 - [Portfolio Backtesting Platform](https://www.reddit.com/r/javascript/comments/1g6jcek/portfolio_backtesting_platform/)
 - [Khoshnus - An Animation Calligraphy Text Library in JavaScript](https://www.reddit.com/r/javascript/comments/1g6e02z/khoshnus_an_animation_calligraphy_text_library_in/)
 - [[AskJS] Design Choice for a Confirmation Modal: to Promise or not to Promise?](https://www.reddit.com/r/javascript/comments/1g6droh/askjs_design_choice_for_a_confirmation_modal_to/)
-- [QR code generator for WIFI / VCARD / VCALENDAR](https://www.reddit.com/r/javascript/comments/1g6cimj/qr_code_generator_for_wifi_vcard_vcalendar/)
-- [In the future using top-level await might be a BC break in Node](https://www.reddit.com/r/javascript/comments/1g66xaw/in_the_future_using_toplevel_await_might_be_a_bc/)
-- [Lightweight and flexible dependency injection library w/wo ECMAScript decorators](https://www.reddit.com/r/javascript/comments/1g65ruq/lightweight_and_flexible_dependency_injection/)
-- [[AskJS] Why use Array.with&lpar;&rpar; instead of Array.toSpliced&lpar;&rpar;?](https://www.reddit.com/r/javascript/comments/1g5yhuu/askjs_why_use_arraywith_instead_of_arraytospliced/)
-- [How to Create a Modern App with Django and Vue](https://www.reddit.com/r/javascript/comments/1g5raaq/how_to_create_a_modern_app_with_django_and_vue/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
