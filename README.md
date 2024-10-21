@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Experimental JavaScript UI library &lpar;frame rate consistency, task scheduling, batching, shared workers, stack-based virtual machine with DOM opcodes, optimizing bytecode IR&rpar;](https://www.reddit.com/r/javascript/comments/1g83lku/experimental_javascript_ui_library_frame_rate/)
+- [What are React Server Components? The Future of Server-Side Rendering](https://www.reddit.com/r/javascript/comments/1g83i6w/what_are_react_server_components_the_future_of/)
+- [Hello JavaScript programmers who use React. If you want to use Deno, this project can help you.](https://www.reddit.com/r/javascript/comments/1g821nw/hello_javascript_programmers_who_use_react_if_you/)
+- [ObservableTypes - Reactive Arrays/Collections with Observable and Observer interfaces](https://www.reddit.com/r/javascript/comments/1g7wzxs/observabletypes_reactive_arrayscollections_with/)
+- [How OOP Developers Can Get To Know TypeScript Through Deno](https://www.reddit.com/r/javascript/comments/1g7w059/how_oop_developers_can_get_to_know_typescript/)
+- [[AskJS] How do you manage static text changes in your projects?](https://www.reddit.com/r/javascript/comments/1g7v4y6/askjs_how_do_you_manage_static_text_changes_in/)
 - [Efficient Typescript](https://www.reddit.com/r/javascript/comments/1g7kxp0/efficient_typescript/)
 - [Class Fields vs. Methods in JavaScript &lpar;2023&rpar;](https://www.reddit.com/r/javascript/comments/1g7fbqm/class_fields_vs_methods_in_javascript_2023/)
 - [The Unexpected Complexity of Migrating a Next.js Header to Server Components](https://www.reddit.com/r/javascript/comments/1g76v1v/the_unexpected_complexity_of_migrating_a_nextjs/)
 - [Showoff Saturday &lpar;October 19, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1g73agf/showoff_saturday_october_19_2024/)
-- [OpenAPI definitions, converters and LLM function calling application composer.](https://www.reddit.com/r/javascript/comments/1g705p4/openapi_definitions_converters_and_llm_function/)
-- [Turborepo 2.2: `turbo query`, cache safety, `--affected` zero config inference](https://www.reddit.com/r/javascript/comments/1g6sxka/turborepo_22_turbo_query_cache_safety_affected/)
-- [Unlocking the Power of React 18’s Server-Side Rendering for Faster Web Applications](https://www.reddit.com/r/javascript/comments/1g6p3qe/unlocking_the_power_of_react_18s_serverside/)
-- [Portfolio Backtesting Platform](https://www.reddit.com/r/javascript/comments/1g6jcek/portfolio_backtesting_platform/)
-- [Khoshnus - An Animation Calligraphy Text Library in JavaScript](https://www.reddit.com/r/javascript/comments/1g6e02z/khoshnus_an_animation_calligraphy_text_library_in/)
-- [[AskJS] Design Choice for a Confirmation Modal: to Promise or not to Promise?](https://www.reddit.com/r/javascript/comments/1g6droh/askjs_design_choice_for_a_confirmation_modal_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
