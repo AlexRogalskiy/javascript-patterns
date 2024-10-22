@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [TC39 proposal to split the language, js0 and jsSugar. Here we go..](https://www.reddit.com/r/javascript/comments/1g90pxm/tc39_proposal_to_split_the_language_js0_and/)
+- [React Compiler Beta Release](https://www.reddit.com/r/javascript/comments/1g8y12z/react_compiler_beta_release/)
+- [Sometimes I get carried away with customizing javascript wherever possible. So to deal with my strange ideas I created a tiny side project.](https://www.reddit.com/r/javascript/comments/1g8x3a2/sometimes_i_get_carried_away_with_customizing/)
+- [Repopack: Pack Your Entire Repository Into A Single File](https://www.reddit.com/r/javascript/comments/1g8nry8/repopack_pack_your_entire_repository_into_a/)
+- [Your /r/javascript recap for the week of October 14 - October 20, 2024](https://www.reddit.com/r/javascript/comments/1g8l9oy/your_rjavascript_recap_for_the_week_of_october_14/)
+- [Understanding npm audit and fixing vulnerabilities](https://www.reddit.com/r/javascript/comments/1g8fuls/understanding_npm_audit_and_fixing_vulnerabilities/)
 - [Experimental JavaScript UI library &lpar;frame rate consistency, task scheduling, batching, shared workers, stack-based virtual machine with DOM opcodes, optimizing bytecode IR&rpar;](https://www.reddit.com/r/javascript/comments/1g83lku/experimental_javascript_ui_library_frame_rate/)
 - [What are React Server Components? The Future of Server-Side Rendering](https://www.reddit.com/r/javascript/comments/1g83i6w/what_are_react_server_components_the_future_of/)
 - [Hello JavaScript programmers who use React. If you want to use Deno, this project can help you.](https://www.reddit.com/r/javascript/comments/1g821nw/hello_javascript_programmers_who_use_react_if_you/)
 - [ObservableTypes - Reactive Arrays/Collections with Observable and Observer interfaces](https://www.reddit.com/r/javascript/comments/1g7wzxs/observabletypes_reactive_arrayscollections_with/)
-- [How OOP Developers Can Get To Know TypeScript Through Deno](https://www.reddit.com/r/javascript/comments/1g7w059/how_oop_developers_can_get_to_know_typescript/)
-- [[AskJS] How do you manage static text changes in your projects?](https://www.reddit.com/r/javascript/comments/1g7v4y6/askjs_how_do_you_manage_static_text_changes_in/)
-- [Efficient Typescript](https://www.reddit.com/r/javascript/comments/1g7kxp0/efficient_typescript/)
-- [Class Fields vs. Methods in JavaScript &lpar;2023&rpar;](https://www.reddit.com/r/javascript/comments/1g7fbqm/class_fields_vs_methods_in_javascript_2023/)
-- [The Unexpected Complexity of Migrating a Next.js Header to Server Components](https://www.reddit.com/r/javascript/comments/1g76v1v/the_unexpected_complexity_of_migrating_a_nextjs/)
-- [Showoff Saturday &lpar;October 19, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1g73agf/showoff_saturday_october_19_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
