@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Zen and the art of software engineering](https://www.reddit.com/r/javascript/comments/1g9sc8x/zen_and_the_art_of_software_engineering/)
+- [React 18 Automatic Batching: How to Minimize Re-Renders and Boost Performance](https://www.reddit.com/r/javascript/comments/1g9psgx/react_18_automatic_batching_how_to_minimize/)
+- [[AskJS] trying to implement enum](https://www.reddit.com/r/javascript/comments/1g9m749/askjs_trying_to_implement_enum/)
+- [SecretLint — A Linter for Preventing Committing Credentials](https://www.reddit.com/r/javascript/comments/1g9ezh9/secretlint_a_linter_for_preventing_committing/)
+- [I tested this apparently bad framework: link But I was impressed, it works well. I recommend.](https://www.reddit.com/r/javascript/comments/1g9ewda/i_tested_this_apparently_bad_framework_link_but_i/)
+- [Made a simple but lightweight performance/traffic tracking library for Svelte](https://www.reddit.com/r/javascript/comments/1g9e1h6/made_a_simple_but_lightweight_performancetraffic/)
+- [Everything I built with Claude Artifacts this week](https://www.reddit.com/r/javascript/comments/1g9c4qp/everything_i_built_with_claude_artifacts_this_week/)
+- [Rendering Markdown in React without using react-markdown](https://www.reddit.com/r/javascript/comments/1g97rty/rendering_markdown_in_react_without_using/)
 - [TC39 proposal to split the language, js0 and jsSugar. Here we go..](https://www.reddit.com/r/javascript/comments/1g90pxm/tc39_proposal_to_split_the_language_js0_and/)
 - [React Compiler Beta Release](https://www.reddit.com/r/javascript/comments/1g8y12z/react_compiler_beta_release/)
-- [Sometimes I get carried away with customizing javascript wherever possible. So to deal with my strange ideas I created a tiny side project.](https://www.reddit.com/r/javascript/comments/1g8x3a2/sometimes_i_get_carried_away_with_customizing/)
-- [Repopack: Pack Your Entire Repository Into A Single File](https://www.reddit.com/r/javascript/comments/1g8nry8/repopack_pack_your_entire_repository_into_a/)
-- [Your /r/javascript recap for the week of October 14 - October 20, 2024](https://www.reddit.com/r/javascript/comments/1g8l9oy/your_rjavascript_recap_for_the_week_of_october_14/)
-- [Understanding npm audit and fixing vulnerabilities](https://www.reddit.com/r/javascript/comments/1g8fuls/understanding_npm_audit_and_fixing_vulnerabilities/)
-- [Experimental JavaScript UI library &lpar;frame rate consistency, task scheduling, batching, shared workers, stack-based virtual machine with DOM opcodes, optimizing bytecode IR&rpar;](https://www.reddit.com/r/javascript/comments/1g83lku/experimental_javascript_ui_library_frame_rate/)
-- [What are React Server Components? The Future of Server-Side Rendering](https://www.reddit.com/r/javascript/comments/1g83i6w/what_are_react_server_components_the_future_of/)
-- [Hello JavaScript programmers who use React. If you want to use Deno, this project can help you.](https://www.reddit.com/r/javascript/comments/1g821nw/hello_javascript_programmers_who_use_react_if_you/)
-- [ObservableTypes - Reactive Arrays/Collections with Observable and Observer interfaces](https://www.reddit.com/r/javascript/comments/1g7wzxs/observabletypes_reactive_arrayscollections_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
