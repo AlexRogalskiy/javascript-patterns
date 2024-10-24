@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [In case you missed: JavaScript Standard Got an Extra Stage](https://www.reddit.com/r/javascript/comments/1gao1ls/in_case_you_missed_javascript_standard_got_an/)
+- [Babbage&#39;s Difference Engine in JS](https://www.reddit.com/r/javascript/comments/1gah0c3/babbages_difference_engine_in_js/)
+- [A Complete Guide to React useEffect vs useLayoutEffect for Beginners](https://www.reddit.com/r/javascript/comments/1gaftn8/a_complete_guide_to_react_useeffect_vs/)
+- [The State of Frontend 2024 - results from a survey completed by over 6,000 developers](https://www.reddit.com/r/javascript/comments/1ga8ue7/the_state_of_frontend_2024_results_from_a_survey/)
+- [Route: Linktree + LinkedIn for Developers](https://www.reddit.com/r/javascript/comments/1ga73eg/route_linktree_linkedin_for_developers/)
+- [WTF Wednesday &lpar;October 23, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1ga4c8f/wtf_wednesday_october_23_2024/)
+- [JavaScript YouTube Digest #2](https://www.reddit.com/r/javascript/comments/1ga1zhv/javascript_youtube_digest_2/)
+- [[AskJS] &quot;nullish coalescing&quot; etymology](https://www.reddit.com/r/javascript/comments/1g9zozh/askjs_nullish_coalescing_etymology/)
 - [Zen and the art of software engineering](https://www.reddit.com/r/javascript/comments/1g9sc8x/zen_and_the_art_of_software_engineering/)
 - [React 18 Automatic Batching: How to Minimize Re-Renders and Boost Performance](https://www.reddit.com/r/javascript/comments/1g9psgx/react_18_automatic_batching_how_to_minimize/)
-- [[AskJS] trying to implement enum](https://www.reddit.com/r/javascript/comments/1g9m749/askjs_trying_to_implement_enum/)
-- [SecretLint — A Linter for Preventing Committing Credentials](https://www.reddit.com/r/javascript/comments/1g9ezh9/secretlint_a_linter_for_preventing_committing/)
-- [I tested this apparently bad framework: link But I was impressed, it works well. I recommend.](https://www.reddit.com/r/javascript/comments/1g9ewda/i_tested_this_apparently_bad_framework_link_but_i/)
-- [Made a simple but lightweight performance/traffic tracking library for Svelte](https://www.reddit.com/r/javascript/comments/1g9e1h6/made_a_simple_but_lightweight_performancetraffic/)
-- [Everything I built with Claude Artifacts this week](https://www.reddit.com/r/javascript/comments/1g9c4qp/everything_i_built_with_claude_artifacts_this_week/)
-- [Rendering Markdown in React without using react-markdown](https://www.reddit.com/r/javascript/comments/1g97rty/rendering_markdown_in_react_without_using/)
-- [TC39 proposal to split the language, js0 and jsSugar. Here we go..](https://www.reddit.com/r/javascript/comments/1g90pxm/tc39_proposal_to_split_the_language_js0_and/)
-- [React Compiler Beta Release](https://www.reddit.com/r/javascript/comments/1g8y12z/react_compiler_beta_release/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
