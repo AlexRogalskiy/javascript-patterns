@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] One button press in webpage, Double execution in JS &lpar;addEventListener button&rpar;](https://www.reddit.com/r/javascript/comments/1gbjqj2/askjs_one_button_press_in_webpage_double/)
+- [Streaming Text Like an LLM with TypeIt &lpar;and React&rpar;](https://www.reddit.com/r/javascript/comments/1gbiwy3/streaming_text_like_an_llm_with_typeit_and_react/)
+- [Claude analysis tool uses JavaScript for code execution](https://www.reddit.com/r/javascript/comments/1gbigv2/claude_analysis_tool_uses_javascript_for_code/)
+- [Our Journey with Caching](https://www.reddit.com/r/javascript/comments/1gbahc6/our_journey_with_caching/)
+- [React Performance Optimization Techniques: Memoization, Lazy Loading, and More](https://www.reddit.com/r/javascript/comments/1gb79db/react_performance_optimization_techniques/)
+- [WebStorm is now free for non-commercial use](https://www.reddit.com/r/javascript/comments/1gb65hc/webstorm_is_now_free_for_noncommercial_use/)
+- [[AskJS] a Js spreadsheet system that sends data and does analysis](https://www.reddit.com/r/javascript/comments/1gb30il/askjs_a_js_spreadsheet_system_that_sends_data_and/)
+- [Todoctor - CLI tool to track and visualize TODO comments in Git repositories and make report](https://www.reddit.com/r/javascript/comments/1gb00tx/todoctor_cli_tool_to_track_and_visualize_todo/)
+- [Where Are You At With Javascript Runtimes?](https://www.reddit.com/r/javascript/comments/1gayhln/where_are_you_at_with_javascript_runtimes/)
 - [In case you missed: JavaScript Standard Got an Extra Stage](https://www.reddit.com/r/javascript/comments/1gao1ls/in_case_you_missed_javascript_standard_got_an/)
-- [Babbage&#39;s Difference Engine in JS](https://www.reddit.com/r/javascript/comments/1gah0c3/babbages_difference_engine_in_js/)
-- [A Complete Guide to React useEffect vs useLayoutEffect for Beginners](https://www.reddit.com/r/javascript/comments/1gaftn8/a_complete_guide_to_react_useeffect_vs/)
-- [The State of Frontend 2024 - results from a survey completed by over 6,000 developers](https://www.reddit.com/r/javascript/comments/1ga8ue7/the_state_of_frontend_2024_results_from_a_survey/)
-- [Route: Linktree + LinkedIn for Developers](https://www.reddit.com/r/javascript/comments/1ga73eg/route_linktree_linkedin_for_developers/)
-- [WTF Wednesday &lpar;October 23, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1ga4c8f/wtf_wednesday_october_23_2024/)
-- [JavaScript YouTube Digest #2](https://www.reddit.com/r/javascript/comments/1ga1zhv/javascript_youtube_digest_2/)
-- [[AskJS] &quot;nullish coalescing&quot; etymology](https://www.reddit.com/r/javascript/comments/1g9zozh/askjs_nullish_coalescing_etymology/)
-- [Zen and the art of software engineering](https://www.reddit.com/r/javascript/comments/1g9sc8x/zen_and_the_art_of_software_engineering/)
-- [React 18 Automatic Batching: How to Minimize Re-Renders and Boost Performance](https://www.reddit.com/r/javascript/comments/1g9psgx/react_18_automatic_batching_how_to_minimize/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
