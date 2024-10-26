@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] One button press in webpage, Double execution in JS &lpar;addEventListener button&rpar;](https://www.reddit.com/r/javascript/comments/1gbjqj2/askjs_one_button_press_in_webpage_double/)
+- [[AskJS] Best practice for organizing test mocks/stubs in a monorepo?](https://www.reddit.com/r/javascript/comments/1gc0svq/askjs_best_practice_for_organizing_test/)
+- [GitHub - web-atoms/media-converter: MP4 to WebM Converter in Browser using WebCodecs](https://www.reddit.com/r/javascript/comments/1gbyl2m/github_webatomsmediaconverter_mp4_to_webm/)
+- [How a tcpdump led us to a bug in Node&#39;s IPv6 handling](https://www.reddit.com/r/javascript/comments/1gby8yd/how_a_tcpdump_led_us_to_a_bug_in_nodes_ipv6/)
+- [&quot;state-ref&quot; is a library that manages state using immutability while allowing easy access and modification of deeply nested structures. It has a reactive programming style as its foundation, but it also allows coding in a similar Flux style.](https://www.reddit.com/r/javascript/comments/1gbwzht/stateref_is_a_library_that_manages_state_using/)
+- [How to add animations to Hotwire&#39;s Turbo Streams](https://www.reddit.com/r/javascript/comments/1gbw9jl/how_to_add_animations_to_hotwires_turbo_streams/)
+- [[AskJS] Standalone javascript file for Post_Processing in ThreeJS?](https://www.reddit.com/r/javascript/comments/1gbl785/askjs_standalone_javascript_file_for_post/)
 - [Streaming Text Like an LLM with TypeIt &lpar;and React&rpar;](https://www.reddit.com/r/javascript/comments/1gbiwy3/streaming_text_like_an_llm_with_typeit_and_react/)
 - [Claude analysis tool uses JavaScript for code execution](https://www.reddit.com/r/javascript/comments/1gbigv2/claude_analysis_tool_uses_javascript_for_code/)
 - [Our Journey with Caching](https://www.reddit.com/r/javascript/comments/1gbahc6/our_journey_with_caching/)
 - [React Performance Optimization Techniques: Memoization, Lazy Loading, and More](https://www.reddit.com/r/javascript/comments/1gb79db/react_performance_optimization_techniques/)
-- [WebStorm is now free for non-commercial use](https://www.reddit.com/r/javascript/comments/1gb65hc/webstorm_is_now_free_for_noncommercial_use/)
-- [[AskJS] a Js spreadsheet system that sends data and does analysis](https://www.reddit.com/r/javascript/comments/1gb30il/askjs_a_js_spreadsheet_system_that_sends_data_and/)
-- [Todoctor - CLI tool to track and visualize TODO comments in Git repositories and make report](https://www.reddit.com/r/javascript/comments/1gb00tx/todoctor_cli_tool_to_track_and_visualize_todo/)
-- [Where Are You At With Javascript Runtimes?](https://www.reddit.com/r/javascript/comments/1gayhln/where_are_you_at_with_javascript_runtimes/)
-- [In case you missed: JavaScript Standard Got an Extra Stage](https://www.reddit.com/r/javascript/comments/1gao1ls/in_case_you_missed_javascript_standard_got_an/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
