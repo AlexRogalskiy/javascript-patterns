@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Best practice for organizing test mocks/stubs in a monorepo?](https://www.reddit.com/r/javascript/comments/1gc0svq/askjs_best_practice_for_organizing_test/)
-- [GitHub - web-atoms/media-converter: MP4 to WebM Converter in Browser using WebCodecs](https://www.reddit.com/r/javascript/comments/1gbyl2m/github_webatomsmediaconverter_mp4_to_webm/)
-- [How a tcpdump led us to a bug in Node&#39;s IPv6 handling](https://www.reddit.com/r/javascript/comments/1gby8yd/how_a_tcpdump_led_us_to_a_bug_in_nodes_ipv6/)
-- [&quot;state-ref&quot; is a library that manages state using immutability while allowing easy access and modification of deeply nested structures. It has a reactive programming style as its foundation, but it also allows coding in a similar Flux style.](https://www.reddit.com/r/javascript/comments/1gbwzht/stateref_is_a_library_that_manages_state_using/)
-- [How to add animations to Hotwire&#39;s Turbo Streams](https://www.reddit.com/r/javascript/comments/1gbw9jl/how_to_add_animations_to_hotwires_turbo_streams/)
-- [[AskJS] Standalone javascript file for Post_Processing in ThreeJS?](https://www.reddit.com/r/javascript/comments/1gbl785/askjs_standalone_javascript_file_for_post/)
-- [Streaming Text Like an LLM with TypeIt &lpar;and React&rpar;](https://www.reddit.com/r/javascript/comments/1gbiwy3/streaming_text_like_an_llm_with_typeit_and_react/)
-- [Claude analysis tool uses JavaScript for code execution](https://www.reddit.com/r/javascript/comments/1gbigv2/claude_analysis_tool_uses_javascript_for_code/)
-- [Our Journey with Caching](https://www.reddit.com/r/javascript/comments/1gbahc6/our_journey_with_caching/)
-- [React Performance Optimization Techniques: Memoization, Lazy Loading, and More](https://www.reddit.com/r/javascript/comments/1gb79db/react_performance_optimization_techniques/)
+- [[AskJS] Did I create something new?](https://www.reddit.com/r/javascript/comments/1gd05x3/askjs_did_i_create_something_new/)
+- [[AskJS] Web Speech API Speech Recognition on mobile](https://www.reddit.com/r/javascript/comments/1gcx56m/askjs_web_speech_api_speech_recognition_on_mobile/)
+- [Reverse Engineering Minified Code Using OpenAI](https://www.reddit.com/r/javascript/comments/1gcutfb/reverse_engineering_minified_code_using_openai/)
+- [[AskJS] Increase my Data Structures and Algorithms knowledge](https://www.reddit.com/r/javascript/comments/1gcuf85/askjs_increase_my_data_structures_and_algorithms/)
+- [A discussion platform for developers.](https://www.reddit.com/r/javascript/comments/1gcr5pu/a_discussion_platform_for_developers/)
+- [[AskJS] Applying Multiple CSS Animations Via JS](https://www.reddit.com/r/javascript/comments/1gcpr5s/askjs_applying_multiple_css_animations_via_js/)
+- [In case you missed: Express 5 was released](https://www.reddit.com/r/javascript/comments/1gcpqvd/in_case_you_missed_express_5_was_released/)
+- [[AskJS] A fun line of code I wrote using JavaScript&#39;s coersion](https://www.reddit.com/r/javascript/comments/1gcpqdp/askjs_a_fun_line_of_code_i_wrote_using/)
+- [[AskJS] Anyone have any idea why I might be getting these errors in JavaScript Jasmine test?](https://www.reddit.com/r/javascript/comments/1gcoouv/askjs_anyone_have_any_idea_why_i_might_be_getting/)
+- [[AskJS] Best coding challenge platform for JS?](https://www.reddit.com/r/javascript/comments/1gcngyo/askjs_best_coding_challenge_platform_for_js/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
