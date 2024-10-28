@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] How would you bundle an internal Node.js module to a standalone script?](https://www.reddit.com/r/javascript/comments/1gdm2l9/askjs_how_would_you_bundle_an_internal_nodejs/)
+- [Falcon9 rocket landing game with JavaScript](https://www.reddit.com/r/javascript/comments/1gdjxg8/falcon9_rocket_landing_game_with_javascript/)
+- [After years using semantic-release, I developed a lightweight alternative tailored for smaller projects – with no dependencies, customizable release notes, and an easy setup to streamline versioning and releases without the extra overhead.](https://www.reddit.com/r/javascript/comments/1gdjixy/after_years_using_semanticrelease_i_developed_a/)
+- [Dynamic class name generation made easy with a lightweight utility &lpar;similar to clsx&rpar; to simplify styling in React, React Native, and more. No fuss, just class names!](https://www.reddit.com/r/javascript/comments/1gdfztq/dynamic_class_name_generation_made_easy_with_a/)
+- [[AskJS] This week&#39;s JavaScript news: Generative AI in JavaScript ft. Microsoft, Svelte 5, Next.js 15, and more.](https://www.reddit.com/r/javascript/comments/1gdftjn/askjs_this_weeks_javascript_news_generative_ai_in/)
+- [[AskJS] Why this sorting function is not working as expected in production environment but working fine in dev environment.](https://www.reddit.com/r/javascript/comments/1gdaj6a/askjs_why_this_sorting_function_is_not_working_as/)
+- [[AskJS] I need help with one of the &quot;Modern JavaScript for the Impatient Programmer&quot; exercises.](https://www.reddit.com/r/javascript/comments/1gdaeih/askjs_i_need_help_with_one_of_the_modern/)
 - [[AskJS] Did I create something new?](https://www.reddit.com/r/javascript/comments/1gd05x3/askjs_did_i_create_something_new/)
 - [[AskJS] Web Speech API Speech Recognition on mobile](https://www.reddit.com/r/javascript/comments/1gcx56m/askjs_web_speech_api_speech_recognition_on_mobile/)
 - [Reverse Engineering Minified Code Using OpenAI](https://www.reddit.com/r/javascript/comments/1gcutfb/reverse_engineering_minified_code_using_openai/)
-- [[AskJS] Increase my Data Structures and Algorithms knowledge](https://www.reddit.com/r/javascript/comments/1gcuf85/askjs_increase_my_data_structures_and_algorithms/)
-- [A discussion platform for developers.](https://www.reddit.com/r/javascript/comments/1gcr5pu/a_discussion_platform_for_developers/)
-- [[AskJS] Applying Multiple CSS Animations Via JS](https://www.reddit.com/r/javascript/comments/1gcpr5s/askjs_applying_multiple_css_animations_via_js/)
-- [In case you missed: Express 5 was released](https://www.reddit.com/r/javascript/comments/1gcpqvd/in_case_you_missed_express_5_was_released/)
-- [[AskJS] A fun line of code I wrote using JavaScript&#39;s coersion](https://www.reddit.com/r/javascript/comments/1gcpqdp/askjs_a_fun_line_of_code_i_wrote_using/)
-- [[AskJS] Anyone have any idea why I might be getting these errors in JavaScript Jasmine test?](https://www.reddit.com/r/javascript/comments/1gcoouv/askjs_anyone_have_any_idea_why_i_might_be_getting/)
-- [[AskJS] Best coding challenge platform for JS?](https://www.reddit.com/r/javascript/comments/1gcngyo/askjs_best_coding_challenge_platform_for_js/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
