@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] How would you bundle an internal Node.js module to a standalone script?](https://www.reddit.com/r/javascript/comments/1gdm2l9/askjs_how_would_you_bundle_an_internal_nodejs/)
-- [Falcon9 rocket landing game with JavaScript](https://www.reddit.com/r/javascript/comments/1gdjxg8/falcon9_rocket_landing_game_with_javascript/)
-- [After years using semantic-release, I developed a lightweight alternative tailored for smaller projects – with no dependencies, customizable release notes, and an easy setup to streamline versioning and releases without the extra overhead.](https://www.reddit.com/r/javascript/comments/1gdjixy/after_years_using_semanticrelease_i_developed_a/)
-- [Dynamic class name generation made easy with a lightweight utility &lpar;similar to clsx&rpar; to simplify styling in React, React Native, and more. No fuss, just class names!](https://www.reddit.com/r/javascript/comments/1gdfztq/dynamic_class_name_generation_made_easy_with_a/)
-- [[AskJS] This week&#39;s JavaScript news: Generative AI in JavaScript ft. Microsoft, Svelte 5, Next.js 15, and more.](https://www.reddit.com/r/javascript/comments/1gdftjn/askjs_this_weeks_javascript_news_generative_ai_in/)
-- [[AskJS] Why this sorting function is not working as expected in production environment but working fine in dev environment.](https://www.reddit.com/r/javascript/comments/1gdaj6a/askjs_why_this_sorting_function_is_not_working_as/)
-- [[AskJS] I need help with one of the &quot;Modern JavaScript for the Impatient Programmer&quot; exercises.](https://www.reddit.com/r/javascript/comments/1gdaeih/askjs_i_need_help_with_one_of_the_modern/)
-- [[AskJS] Did I create something new?](https://www.reddit.com/r/javascript/comments/1gd05x3/askjs_did_i_create_something_new/)
-- [[AskJS] Web Speech API Speech Recognition on mobile](https://www.reddit.com/r/javascript/comments/1gcx56m/askjs_web_speech_api_speech_recognition_on_mobile/)
-- [Reverse Engineering Minified Code Using OpenAI](https://www.reddit.com/r/javascript/comments/1gcutfb/reverse_engineering_minified_code_using_openai/)
+- [Full Stack web framework with React + Faster. Automatic routes, reload and component bundle. It uses its own RSC engine, combining SSR and CSR. 100% Deno, no Node dependencies. Fully compatible with Deno Deploy and Serverless Environments.](https://www.reddit.com/r/javascript/comments/1gehcxu/full_stack_web_framework_with_react_faster/)
+- [[AskJS] I can&#39;t play multiple sounds on iOS due to restrictions. Work-arounds for a game?](https://www.reddit.com/r/javascript/comments/1gefdd8/askjs_i_cant_play_multiple_sounds_on_ios_due_to/)
+- [[AskJS] Are there any benefits to learning/using Python &lpar;instead of JavaScript&rpar; for backend in SaaS?](https://www.reddit.com/r/javascript/comments/1geccyr/askjs_are_there_any_benefits_to_learningusing/)
+- [Last 3 days to participate in Hacktoberfest](https://www.reddit.com/r/javascript/comments/1geagm3/last_3_days_to_participate_in_hacktoberfest/)
+- [[AskJS] Need Tool to Convert Complex HTML Table to JSON – Any Recommendations?](https://www.reddit.com/r/javascript/comments/1ge8zbk/askjs_need_tool_to_convert_complex_html_table_to/)
+- [The Problem with window.localStorage](https://www.reddit.com/r/javascript/comments/1ge3bk9/the_problem_with_windowlocalstorage/)
+- [A game focussed RNG - seedable, serializable, performant, highly flexible &lpar;chancy!&rpar;, dice rolling, random weighted choices, many distribution profiles, and more... details in comments!](https://www.reddit.com/r/javascript/comments/1ge2q6m/a_game_focussed_rng_seedable_serializable/)
+- [Spooky tales to scare your JavaScript developers](https://www.reddit.com/r/javascript/comments/1ge2fjs/spooky_tales_to_scare_your_javascript_developers/)
+- [Your /r/javascript recap for the week of October 21 - October 27, 2024](https://www.reddit.com/r/javascript/comments/1gdxkbg/your_rjavascript_recap_for_the_week_of_october_21/)
+- [JavaScript Truthy and Falsy: A Deep Dive](https://www.reddit.com/r/javascript/comments/1gdwht3/javascript_truthy_and_falsy_a_deep_dive/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
