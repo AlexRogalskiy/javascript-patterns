@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Full Stack web framework with React + Faster. Automatic routes, reload and component bundle. It uses its own RSC engine, combining SSR and CSR. 100% Deno, no Node dependencies. Fully compatible with Deno Deploy and Serverless Environments.](https://www.reddit.com/r/javascript/comments/1gehcxu/full_stack_web_framework_with_react_faster/)
+- [[AskJS] Node and Express REST API for Expense management connected with Firebase.](https://www.reddit.com/r/javascript/comments/1gf62hj/askjs_node_and_express_rest_api_for_expense/)
+- [New Swagger-UI combined with Cloud TypeScript Editor and embedded SDK](https://www.reddit.com/r/javascript/comments/1gf0hl9/new_swaggerui_combined_with_cloud_typescript/)
+- [Strip TypeScript types in Node.js, Deno, and Bun](https://www.reddit.com/r/javascript/comments/1geve30/strip_typescript_types_in_nodejs_deno_and_bun/)
 - [[AskJS] I can&#39;t play multiple sounds on iOS due to restrictions. Work-arounds for a game?](https://www.reddit.com/r/javascript/comments/1gefdd8/askjs_i_cant_play_multiple_sounds_on_ios_due_to/)
 - [[AskJS] Are there any benefits to learning/using Python &lpar;instead of JavaScript&rpar; for backend in SaaS?](https://www.reddit.com/r/javascript/comments/1geccyr/askjs_are_there_any_benefits_to_learningusing/)
 - [Last 3 days to participate in Hacktoberfest](https://www.reddit.com/r/javascript/comments/1geagm3/last_3_days_to_participate_in_hacktoberfest/)
-- [[AskJS] Need Tool to Convert Complex HTML Table to JSON – Any Recommendations?](https://www.reddit.com/r/javascript/comments/1ge8zbk/askjs_need_tool_to_convert_complex_html_table_to/)
 - [The Problem with window.localStorage](https://www.reddit.com/r/javascript/comments/1ge3bk9/the_problem_with_windowlocalstorage/)
 - [A game focussed RNG - seedable, serializable, performant, highly flexible &lpar;chancy!&rpar;, dice rolling, random weighted choices, many distribution profiles, and more... details in comments!](https://www.reddit.com/r/javascript/comments/1ge2q6m/a_game_focussed_rng_seedable_serializable/)
 - [Spooky tales to scare your JavaScript developers](https://www.reddit.com/r/javascript/comments/1ge2fjs/spooky_tales_to_scare_your_javascript_developers/)
 - [Your /r/javascript recap for the week of October 21 - October 27, 2024](https://www.reddit.com/r/javascript/comments/1gdxkbg/your_rjavascript_recap_for_the_week_of_october_21/)
-- [JavaScript Truthy and Falsy: A Deep Dive](https://www.reddit.com/r/javascript/comments/1gdwht3/javascript_truthy_and_falsy_a_deep_dive/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
