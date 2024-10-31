@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Node and Express REST API for Expense management connected with Firebase.](https://www.reddit.com/r/javascript/comments/1gf62hj/askjs_node_and_express_rest_api_for_expense/)
+- [[AskJS] Discord JS Bot Template](https://www.reddit.com/r/javascript/comments/1gg0qzh/askjs_discord_js_bot_template/)
+- [[AskJS] creating bot by node.js](https://www.reddit.com/r/javascript/comments/1gg0fzl/askjs_creating_bot_by_nodejs/)
+- [[AskJS] My First JavaScript Project!](https://www.reddit.com/r/javascript/comments/1gfxdn1/askjs_my_first_javascript_project/)
+- [[AskJS] Passwordless auth vs with password, which one is more convenient?](https://www.reddit.com/r/javascript/comments/1gfu1ek/askjs_passwordless_auth_vs_with_password_which/)
+- [[AskJS] Please provide any references to learn and excel in TYPESCRIPT?](https://www.reddit.com/r/javascript/comments/1gfrpga/askjs_please_provide_any_references_to_learn_and/)
+- [Understanding Loops in Programming: For Loop vs While Loop](https://www.reddit.com/r/javascript/comments/1gfrj33/understanding_loops_in_programming_for_loop_vs/)
+- [WTF Wednesday &lpar;October 30, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1gfgmf6/wtf_wednesday_october_30_2024/)
 - [New Swagger-UI combined with Cloud TypeScript Editor and embedded SDK](https://www.reddit.com/r/javascript/comments/1gf0hl9/new_swaggerui_combined_with_cloud_typescript/)
 - [Strip TypeScript types in Node.js, Deno, and Bun](https://www.reddit.com/r/javascript/comments/1geve30/strip_typescript_types_in_nodejs_deno_and_bun/)
 - [[AskJS] I can&#39;t play multiple sounds on iOS due to restrictions. Work-arounds for a game?](https://www.reddit.com/r/javascript/comments/1gefdd8/askjs_i_cant_play_multiple_sounds_on_ios_due_to/)
-- [[AskJS] Are there any benefits to learning/using Python &lpar;instead of JavaScript&rpar; for backend in SaaS?](https://www.reddit.com/r/javascript/comments/1geccyr/askjs_are_there_any_benefits_to_learningusing/)
-- [Last 3 days to participate in Hacktoberfest](https://www.reddit.com/r/javascript/comments/1geagm3/last_3_days_to_participate_in_hacktoberfest/)
-- [The Problem with window.localStorage](https://www.reddit.com/r/javascript/comments/1ge3bk9/the_problem_with_windowlocalstorage/)
-- [A game focussed RNG - seedable, serializable, performant, highly flexible &lpar;chancy!&rpar;, dice rolling, random weighted choices, many distribution profiles, and more... details in comments!](https://www.reddit.com/r/javascript/comments/1ge2q6m/a_game_focussed_rng_seedable_serializable/)
-- [Spooky tales to scare your JavaScript developers](https://www.reddit.com/r/javascript/comments/1ge2fjs/spooky_tales_to_scare_your_javascript_developers/)
-- [Your /r/javascript recap for the week of October 21 - October 27, 2024](https://www.reddit.com/r/javascript/comments/1gdxkbg/your_rjavascript_recap_for_the_week_of_october_21/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
