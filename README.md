@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Discord JS Bot Template](https://www.reddit.com/r/javascript/comments/1gg0qzh/askjs_discord_js_bot_template/)
-- [[AskJS] creating bot by node.js](https://www.reddit.com/r/javascript/comments/1gg0fzl/askjs_creating_bot_by_nodejs/)
-- [[AskJS] My First JavaScript Project!](https://www.reddit.com/r/javascript/comments/1gfxdn1/askjs_my_first_javascript_project/)
-- [[AskJS] Passwordless auth vs with password, which one is more convenient?](https://www.reddit.com/r/javascript/comments/1gfu1ek/askjs_passwordless_auth_vs_with_password_which/)
-- [[AskJS] Please provide any references to learn and excel in TYPESCRIPT?](https://www.reddit.com/r/javascript/comments/1gfrpga/askjs_please_provide_any_references_to_learn_and/)
-- [Understanding Loops in Programming: For Loop vs While Loop](https://www.reddit.com/r/javascript/comments/1gfrj33/understanding_loops_in_programming_for_loop_vs/)
+- [A scary Halloween story](https://www.reddit.com/r/javascript/comments/1ggutfe/a_scary_halloween_story/)
+- [Honest opinion about my open source SDL](https://www.reddit.com/r/javascript/comments/1ggs4mj/honest_opinion_about_my_open_source_sdl/)
+- [A brief interview with Moonbit creator Hongbo Zhang](https://www.reddit.com/r/javascript/comments/1ggr5k9/a_brief_interview_with_moonbit_creator_hongbo/)
+- [Wasmer JS SDK has just landed full support for Node.js and Bun](https://www.reddit.com/r/javascript/comments/1ggjz55/wasmer_js_sdk_has_just_landed_full_support_for/)
+- [[AskJS] Are you looking forward to Angular 19?](https://www.reddit.com/r/javascript/comments/1gghh8i/askjs_are_you_looking_forward_to_angular_19/)
+- [JavaScript Engine for .NET](https://www.reddit.com/r/javascript/comments/1gg9tof/javascript_engine_for_net/)
+- [Check if a user input string is mixed-script with unicode-script.js](https://www.reddit.com/r/javascript/comments/1gg9l2h/check_if_a_user_input_string_is_mixedscript_with/)
+- [Halloween.dev - Terror-themed programming challenges [JavaScript &amp; TypeScript]](https://www.reddit.com/r/javascript/comments/1gg8uvv/halloweendev_terrorthemed_programming_challenges/)
 - [WTF Wednesday &lpar;October 30, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1gfgmf6/wtf_wednesday_october_30_2024/)
 - [New Swagger-UI combined with Cloud TypeScript Editor and embedded SDK](https://www.reddit.com/r/javascript/comments/1gf0hl9/new_swaggerui_combined_with_cloud_typescript/)
-- [Strip TypeScript types in Node.js, Deno, and Bun](https://www.reddit.com/r/javascript/comments/1geve30/strip_typescript_types_in_nodejs_deno_and_bun/)
-- [[AskJS] I can&#39;t play multiple sounds on iOS due to restrictions. Work-arounds for a game?](https://www.reddit.com/r/javascript/comments/1gefdd8/askjs_i_cant_play_multiple_sounds_on_ios_due_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
