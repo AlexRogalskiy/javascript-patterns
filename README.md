@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Practical uses for first-class classes?](https://www.reddit.com/r/javascript/comments/1gh6gst/askjs_practical_uses_for_firstclass_classes/)
+- [[AskJS] Which JS is best for backend development and why?](https://www.reddit.com/r/javascript/comments/1ggy4rt/askjs_which_js_is_best_for_backend_development/)
+- [[AskJS] Why Eslint 9 is not common?](https://www.reddit.com/r/javascript/comments/1ggxi9e/askjs_why_eslint_9_is_not_common/)
 - [A scary Halloween story](https://www.reddit.com/r/javascript/comments/1ggutfe/a_scary_halloween_story/)
 - [Honest opinion about my open source SDL](https://www.reddit.com/r/javascript/comments/1ggs4mj/honest_opinion_about_my_open_source_sdl/)
 - [A brief interview with Moonbit creator Hongbo Zhang](https://www.reddit.com/r/javascript/comments/1ggr5k9/a_brief_interview_with_moonbit_creator_hongbo/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [[AskJS] Are you looking forward to Angular 19?](https://www.reddit.com/r/javascript/comments/1gghh8i/askjs_are_you_looking_forward_to_angular_19/)
 - [JavaScript Engine for .NET](https://www.reddit.com/r/javascript/comments/1gg9tof/javascript_engine_for_net/)
 - [Check if a user input string is mixed-script with unicode-script.js](https://www.reddit.com/r/javascript/comments/1gg9l2h/check_if_a_user_input_string_is_mixedscript_with/)
-- [Halloween.dev - Terror-themed programming challenges [JavaScript &amp; TypeScript]](https://www.reddit.com/r/javascript/comments/1gg8uvv/halloweendev_terrorthemed_programming_challenges/)
-- [WTF Wednesday &lpar;October 30, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1gfgmf6/wtf_wednesday_october_30_2024/)
-- [New Swagger-UI combined with Cloud TypeScript Editor and embedded SDK](https://www.reddit.com/r/javascript/comments/1gf0hl9/new_swaggerui_combined_with_cloud_typescript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
