@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Should I leave Javascript behind?](https://www.reddit.com/r/javascript/comments/1gi7kb6/askjs_should_i_leave_javascript_behind/)
+- [[AskJS] need help on a clicker game](https://www.reddit.com/r/javascript/comments/1gi6b5e/askjs_need_help_on_a_clicker_game/)
+- [[AskJS] just asking](https://www.reddit.com/r/javascript/comments/1gi0rpc/askjs_just_asking/)
+- [Next.js 15 Deep Dive: Building a Notes App with Advanced Features](https://www.reddit.com/r/javascript/comments/1ghzrlm/nextjs_15_deep_dive_building_a_notes_app_with/)
+- [Micro Survivors: survivors-like game in less than 14kB of JS](https://www.reddit.com/r/javascript/comments/1ghu5tm/micro_survivors_survivorslike_game_in_less_than/)
+- [Showoff Saturday &lpar;November 02, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1ghquio/showoff_saturday_november_02_2024/)
 - [[AskJS] Practical uses for first-class classes?](https://www.reddit.com/r/javascript/comments/1gh6gst/askjs_practical_uses_for_firstclass_classes/)
 - [[AskJS] Which JS is best for backend development and why?](https://www.reddit.com/r/javascript/comments/1ggy4rt/askjs_which_js_is_best_for_backend_development/)
 - [[AskJS] Why Eslint 9 is not common?](https://www.reddit.com/r/javascript/comments/1ggxi9e/askjs_why_eslint_9_is_not_common/)
 - [A scary Halloween story](https://www.reddit.com/r/javascript/comments/1ggutfe/a_scary_halloween_story/)
-- [Honest opinion about my open source SDL](https://www.reddit.com/r/javascript/comments/1ggs4mj/honest_opinion_about_my_open_source_sdl/)
-- [A brief interview with Moonbit creator Hongbo Zhang](https://www.reddit.com/r/javascript/comments/1ggr5k9/a_brief_interview_with_moonbit_creator_hongbo/)
-- [Wasmer JS SDK has just landed full support for Node.js and Bun](https://www.reddit.com/r/javascript/comments/1ggjz55/wasmer_js_sdk_has_just_landed_full_support_for/)
-- [[AskJS] Are you looking forward to Angular 19?](https://www.reddit.com/r/javascript/comments/1gghh8i/askjs_are_you_looking_forward_to_angular_19/)
-- [JavaScript Engine for .NET](https://www.reddit.com/r/javascript/comments/1gg9tof/javascript_engine_for_net/)
-- [Check if a user input string is mixed-script with unicode-script.js](https://www.reddit.com/r/javascript/comments/1gg9l2h/check_if_a_user_input_string_is_mixedscript_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
