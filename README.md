@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Framework best fit for games like NYT Games?](https://www.reddit.com/r/javascript/comments/1gj0fhe/askjs_framework_best_fit_for_games_like_nyt_games/)
+- [[AskJS] is java script just for web or can you make games with it?](https://www.reddit.com/r/javascript/comments/1giwo0d/askjs_is_java_script_just_for_web_or_can_you_make/)
+- [Easily Make Games that fit on QR Codes! &lpar;They&#39;re Multiplatform and No App or Internet is Required&rpar;](https://www.reddit.com/r/javascript/comments/1gikeq3/easily_make_games_that_fit_on_qr_codes_theyre/)
+- [[AskJS] What’s Your Biggest Problem in [Your Field]? I’m Here to Solve It!](https://www.reddit.com/r/javascript/comments/1gihn5v/askjs_whats_your_biggest_problem_in_your_field_im/)
 - [[AskJS] Should I leave Javascript behind?](https://www.reddit.com/r/javascript/comments/1gi7kb6/askjs_should_i_leave_javascript_behind/)
-- [[AskJS] need help on a clicker game](https://www.reddit.com/r/javascript/comments/1gi6b5e/askjs_need_help_on_a_clicker_game/)
-- [[AskJS] just asking](https://www.reddit.com/r/javascript/comments/1gi0rpc/askjs_just_asking/)
 - [Next.js 15 Deep Dive: Building a Notes App with Advanced Features](https://www.reddit.com/r/javascript/comments/1ghzrlm/nextjs_15_deep_dive_building_a_notes_app_with/)
 - [Micro Survivors: survivors-like game in less than 14kB of JS](https://www.reddit.com/r/javascript/comments/1ghu5tm/micro_survivors_survivorslike_game_in_less_than/)
 - [Showoff Saturday &lpar;November 02, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1ghquio/showoff_saturday_november_02_2024/)
 - [[AskJS] Practical uses for first-class classes?](https://www.reddit.com/r/javascript/comments/1gh6gst/askjs_practical_uses_for_firstclass_classes/)
 - [[AskJS] Which JS is best for backend development and why?](https://www.reddit.com/r/javascript/comments/1ggy4rt/askjs_which_js_is_best_for_backend_development/)
-- [[AskJS] Why Eslint 9 is not common?](https://www.reddit.com/r/javascript/comments/1ggxi9e/askjs_why_eslint_9_is_not_common/)
-- [A scary Halloween story](https://www.reddit.com/r/javascript/comments/1ggutfe/a_scary_halloween_story/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
