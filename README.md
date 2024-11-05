@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Demo: Exploiting leaked timestamps from Google Chrome extensions](https://www.reddit.com/r/javascript/comments/1gjg9j8/demo_exploiting_leaked_timestamps_from_google/)
+- [Exploring the browser rendering process in an interactive way](https://www.reddit.com/r/javascript/comments/1gjeipy/exploring_the_browser_rendering_process_in_an/)
+- [Powerful ESLint plugin with rules to help you achieve a scalable, consistent, and well-structured project.](https://www.reddit.com/r/javascript/comments/1gjbe32/powerful_eslint_plugin_with_rules_to_help_you/)
+- [Your /r/javascript recap for the week of October 28 - November 03, 2024](https://www.reddit.com/r/javascript/comments/1gjauq7/your_rjavascript_recap_for_the_week_of_october_28/)
+- [Create HTML canvas graphics without writing code &lpar;you can now draw curved lines too&rpar;](https://www.reddit.com/r/javascript/comments/1gjaubl/create_html_canvas_graphics_without_writing_code/)
+- [[AskJS] GeoMapping/Map js library](https://www.reddit.com/r/javascript/comments/1gj6u2i/askjs_geomappingmap_js_library/)
 - [[AskJS] Framework best fit for games like NYT Games?](https://www.reddit.com/r/javascript/comments/1gj0fhe/askjs_framework_best_fit_for_games_like_nyt_games/)
 - [[AskJS] is java script just for web or can you make games with it?](https://www.reddit.com/r/javascript/comments/1giwo0d/askjs_is_java_script_just_for_web_or_can_you_make/)
 - [Easily Make Games that fit on QR Codes! &lpar;They&#39;re Multiplatform and No App or Internet is Required&rpar;](https://www.reddit.com/r/javascript/comments/1gikeq3/easily_make_games_that_fit_on_qr_codes_theyre/)
 - [[AskJS] What’s Your Biggest Problem in [Your Field]? I’m Here to Solve It!](https://www.reddit.com/r/javascript/comments/1gihn5v/askjs_whats_your_biggest_problem_in_your_field_im/)
-- [[AskJS] Should I leave Javascript behind?](https://www.reddit.com/r/javascript/comments/1gi7kb6/askjs_should_i_leave_javascript_behind/)
-- [Next.js 15 Deep Dive: Building a Notes App with Advanced Features](https://www.reddit.com/r/javascript/comments/1ghzrlm/nextjs_15_deep_dive_building_a_notes_app_with/)
-- [Micro Survivors: survivors-like game in less than 14kB of JS](https://www.reddit.com/r/javascript/comments/1ghu5tm/micro_survivors_survivorslike_game_in_less_than/)
-- [Showoff Saturday &lpar;November 02, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1ghquio/showoff_saturday_november_02_2024/)
-- [[AskJS] Practical uses for first-class classes?](https://www.reddit.com/r/javascript/comments/1gh6gst/askjs_practical_uses_for_firstclass_classes/)
-- [[AskJS] Which JS is best for backend development and why?](https://www.reddit.com/r/javascript/comments/1ggy4rt/askjs_which_js_is_best_for_backend_development/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
