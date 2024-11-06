@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Mastering DOM Manipulation in Vanilla JavaScript: Why It Still Matters | Rajesh Dhiman](https://www.reddit.com/r/javascript/comments/1gkd55c/mastering_dom_manipulation_in_vanilla_javascript/)
+- [JavaScript&#39;s ??= Operator](https://www.reddit.com/r/javascript/comments/1gk5yns/javascripts_operator/)
 - [Demo: Exploiting leaked timestamps from Google Chrome extensions](https://www.reddit.com/r/javascript/comments/1gjg9j8/demo_exploiting_leaked_timestamps_from_google/)
 - [Exploring the browser rendering process in an interactive way](https://www.reddit.com/r/javascript/comments/1gjeipy/exploring_the_browser_rendering_process_in_an/)
 - [Powerful ESLint plugin with rules to help you achieve a scalable, consistent, and well-structured project.](https://www.reddit.com/r/javascript/comments/1gjbe32/powerful_eslint_plugin_with_rules_to_help_you/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [[AskJS] GeoMapping/Map js library](https://www.reddit.com/r/javascript/comments/1gj6u2i/askjs_geomappingmap_js_library/)
 - [[AskJS] Framework best fit for games like NYT Games?](https://www.reddit.com/r/javascript/comments/1gj0fhe/askjs_framework_best_fit_for_games_like_nyt_games/)
 - [[AskJS] is java script just for web or can you make games with it?](https://www.reddit.com/r/javascript/comments/1giwo0d/askjs_is_java_script_just_for_web_or_can_you_make/)
-- [Easily Make Games that fit on QR Codes! &lpar;They&#39;re Multiplatform and No App or Internet is Required&rpar;](https://www.reddit.com/r/javascript/comments/1gikeq3/easily_make_games_that_fit_on_qr_codes_theyre/)
-- [[AskJS] What’s Your Biggest Problem in [Your Field]? I’m Here to Solve It!](https://www.reddit.com/r/javascript/comments/1gihn5v/askjs_whats_your_biggest_problem_in_your_field_im/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
