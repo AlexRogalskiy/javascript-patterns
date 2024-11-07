@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [npmpackage.info – Access comprehensive insights on any npm package.](https://www.reddit.com/r/javascript/comments/1gl76b3/npmpackageinfo_access_comprehensive_insights_on/)
+- [[AskJS] How would you refactor a builder design pattern?](https://www.reddit.com/r/javascript/comments/1gl4cb3/askjs_how_would_you_refactor_a_builder_design/)
+- [[AskJS] If a variable is only able to be used in the function in which it is declared, it is limited by the what?](https://www.reddit.com/r/javascript/comments/1gl0knh/askjs_if_a_variable_is_only_able_to_be_used_in/)
+- [WTF Wednesday &lpar;November 06, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1gktfvj/wtf_wednesday_november_06_2024/)
+- [[AskJS] Can someone whip up a script to add a popular vote red/blue bar to the CNN election site?](https://www.reddit.com/r/javascript/comments/1gkqxfv/askjs_can_someone_whip_up_a_script_to_add_a/)
 - [Mastering DOM Manipulation in Vanilla JavaScript: Why It Still Matters | Rajesh Dhiman](https://www.reddit.com/r/javascript/comments/1gkd55c/mastering_dom_manipulation_in_vanilla_javascript/)
 - [JavaScript&#39;s ??= Operator](https://www.reddit.com/r/javascript/comments/1gk5yns/javascripts_operator/)
 - [Demo: Exploiting leaked timestamps from Google Chrome extensions](https://www.reddit.com/r/javascript/comments/1gjg9j8/demo_exploiting_leaked_timestamps_from_google/)
 - [Exploring the browser rendering process in an interactive way](https://www.reddit.com/r/javascript/comments/1gjeipy/exploring_the_browser_rendering_process_in_an/)
 - [Powerful ESLint plugin with rules to help you achieve a scalable, consistent, and well-structured project.](https://www.reddit.com/r/javascript/comments/1gjbe32/powerful_eslint_plugin_with_rules_to_help_you/)
-- [Your /r/javascript recap for the week of October 28 - November 03, 2024](https://www.reddit.com/r/javascript/comments/1gjauq7/your_rjavascript_recap_for_the_week_of_october_28/)
-- [Create HTML canvas graphics without writing code &lpar;you can now draw curved lines too&rpar;](https://www.reddit.com/r/javascript/comments/1gjaubl/create_html_canvas_graphics_without_writing_code/)
-- [[AskJS] GeoMapping/Map js library](https://www.reddit.com/r/javascript/comments/1gj6u2i/askjs_geomappingmap_js_library/)
-- [[AskJS] Framework best fit for games like NYT Games?](https://www.reddit.com/r/javascript/comments/1gj0fhe/askjs_framework_best_fit_for_games_like_nyt_games/)
-- [[AskJS] is java script just for web or can you make games with it?](https://www.reddit.com/r/javascript/comments/1giwo0d/askjs_is_java_script_just_for_web_or_can_you_make/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
