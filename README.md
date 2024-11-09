@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Beginner looking for tutorials on using ChatGPT API with Node.js](https://www.reddit.com/r/javascript/comments/1gm6ihr/askjs_beginner_looking_for_tutorials_on_using/)
+- [[AskJS] I made a website which searches for music by any description](https://www.reddit.com/r/javascript/comments/1gmtxgl/askjs_i_made_a_website_which_searches_for_music/)
+- [[AskJS] State of OfficeJS?](https://www.reddit.com/r/javascript/comments/1gmqkf5/askjs_state_of_officejs/)
+- [[AskJS] i know it is 2024, but i still have questions about js and ts](https://www.reddit.com/r/javascript/comments/1gmhj1l/askjs_i_know_it_is_2024_but_i_still_have/)
+- [[AskJS] New Url Parameter Manipulation Lib](https://www.reddit.com/r/javascript/comments/1gmgbsf/askjs_new_url_parameter_manipulation_lib/)
+- [Shopping Mall Backend Server made by NestJS + Prisma for Education](https://www.reddit.com/r/javascript/comments/1gmczhd/shopping_mall_backend_server_made_by_nestjs/)
 - [[AskJS] What&#39;s Your Favourite yet Underrated Open Source Library?](https://www.reddit.com/r/javascript/comments/1gloe6z/askjs_whats_your_favourite_yet_underrated_open/)
 - [mono-cd: The quickest way to cd into your workspace folders in a JavaScript monorepo &lpar;supports fuzzy search too&rpar;](https://www.reddit.com/r/javascript/comments/1glm3gq/monocd_the_quickest_way_to_cd_into_your_workspace/)
 - [What is the JavaScript Pipeline Operator |&gt;](https://www.reddit.com/r/javascript/comments/1gll91i/what_is_the_javascript_pipeline_operator/)
 - [npmpackage.info – Access comprehensive insights on any npm package.](https://www.reddit.com/r/javascript/comments/1gl76b3/npmpackageinfo_access_comprehensive_insights_on/)
 - [[AskJS] How would you refactor a builder design pattern?](https://www.reddit.com/r/javascript/comments/1gl4cb3/askjs_how_would_you_refactor_a_builder_design/)
-- [WTF Wednesday &lpar;November 06, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1gktfvj/wtf_wednesday_november_06_2024/)
-- [Mastering DOM Manipulation in Vanilla JavaScript: Why It Still Matters | Rajesh Dhiman](https://www.reddit.com/r/javascript/comments/1gkd55c/mastering_dom_manipulation_in_vanilla_javascript/)
-- [JavaScript&#39;s ??= Operator](https://www.reddit.com/r/javascript/comments/1gk5yns/javascripts_operator/)
-- [Demo: Exploiting leaked timestamps from Google Chrome extensions](https://www.reddit.com/r/javascript/comments/1gjg9j8/demo_exploiting_leaked_timestamps_from_google/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
