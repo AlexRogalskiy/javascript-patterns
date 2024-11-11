@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] If Deno and Bun stopped pretending to be Node.js would you still use them?](https://www.reddit.com/r/javascript/comments/1go8yx7/askjs_if_deno_and_bun_stopped_pretending_to_be/)
+- [[AskJS] Is it not allowed to extend the Date class in TypeScript/JavaScript by adding methods?](https://www.reddit.com/r/javascript/comments/1go75od/askjs_is_it_not_allowed_to_extend_the_date_class/)
+- [Just an idea... Polyglot](https://www.reddit.com/r/javascript/comments/1go2kbo/just_an_idea_polyglot/)
+- [Singleton Design Pattern: Managing Global States in Your Applications](https://www.reddit.com/r/javascript/comments/1go1gbj/singleton_design_pattern_managing_global_states/)
+- [JavaScript Import Attributes &lpar;ES2025&rpar;](https://www.reddit.com/r/javascript/comments/1gnyugg/javascript_import_attributes_es2025/)
 - [Make dangerouslySetInnerHTML Safer by Disabling Inline Event Handlers](https://www.reddit.com/r/javascript/comments/1gnib3p/make_dangerouslysetinnerhtml_safer_by_disabling/)
 - [Tuono - Superfast fullstack react framework](https://www.reddit.com/r/javascript/comments/1gnfhdz/tuono_superfast_fullstack_react_framework/)
 - [datewise javascript npm package](https://www.reddit.com/r/javascript/comments/1gncx8z/datewise_javascript_npm_package/)
 - [[AskJS] For TypeScript power users: How do you handle Node.js and Bun types in the same script?](https://www.reddit.com/r/javascript/comments/1gncp67/askjs_for_typescript_power_users_how_do_you/)
 - [GitHub - SEO friendly way to lazy load responsive images](https://www.reddit.com/r/javascript/comments/1gnaax7/github_seo_friendly_way_to_lazy_load_responsive/)
-- [Showoff Saturday &lpar;November 09, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1gn59n5/showoff_saturday_november_09_2024/)
-- [[AskJS] State of OfficeJS?](https://www.reddit.com/r/javascript/comments/1gmqkf5/askjs_state_of_officejs/)
-- [[AskJS] i know it is 2024, but i still have questions about js and ts](https://www.reddit.com/r/javascript/comments/1gmhj1l/askjs_i_know_it_is_2024_but_i_still_have/)
-- [Shopping Mall Backend Server made by NestJS + Prisma for Education](https://www.reddit.com/r/javascript/comments/1gmczhd/shopping_mall_backend_server_made_by_nestjs/)
-- [[AskJS] What&#39;s Your Favourite yet Underrated Open Source Library?](https://www.reddit.com/r/javascript/comments/1gloe6z/askjs_whats_your_favourite_yet_underrated_open/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
