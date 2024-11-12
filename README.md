@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Jet-Schema: Simple, typescript-first, alternative approach to schema validation.](https://www.reddit.com/r/javascript/comments/1gp5a5e/jetschema_simple_typescriptfirst_alternative/)
+- [TypeScript Missionary Here: I’m on a Mission to Convert JS Devs to TS Followers](https://www.reddit.com/r/javascript/comments/1gp050g/typescript_missionary_here_im_on_a_mission_to/)
+- [Refactoring barrel files with codemods](https://www.reddit.com/r/javascript/comments/1gowbzt/refactoring_barrel_files_with_codemods/)
+- [[AskJS] Is this this best way to build HTML links in 2024?](https://www.reddit.com/r/javascript/comments/1gova1f/askjs_is_this_this_best_way_to_build_html_links/)
+- [MikroORM 6.4 released](https://www.reddit.com/r/javascript/comments/1gouvku/mikroorm_64_released/)
+- [A Personal NotebookLM and Perplexity-like AI Assistant with privacy.](https://www.reddit.com/r/javascript/comments/1goroii/a_personal_notebooklm_and_perplexitylike_ai/)
+- [Your /r/javascript recap for the week of November 04 - November 10, 2024](https://www.reddit.com/r/javascript/comments/1goovtv/your_rjavascript_recap_for_the_week_of_november/)
 - [[AskJS] If Deno and Bun stopped pretending to be Node.js would you still use them?](https://www.reddit.com/r/javascript/comments/1go8yx7/askjs_if_deno_and_bun_stopped_pretending_to_be/)
 - [[AskJS] Is it not allowed to extend the Date class in TypeScript/JavaScript by adding methods?](https://www.reddit.com/r/javascript/comments/1go75od/askjs_is_it_not_allowed_to_extend_the_date_class/)
 - [Just an idea... Polyglot](https://www.reddit.com/r/javascript/comments/1go2kbo/just_an_idea_polyglot/)
-- [Singleton Design Pattern: Managing Global States in Your Applications](https://www.reddit.com/r/javascript/comments/1go1gbj/singleton_design_pattern_managing_global_states/)
-- [JavaScript Import Attributes &lpar;ES2025&rpar;](https://www.reddit.com/r/javascript/comments/1gnyugg/javascript_import_attributes_es2025/)
-- [Make dangerouslySetInnerHTML Safer by Disabling Inline Event Handlers](https://www.reddit.com/r/javascript/comments/1gnib3p/make_dangerouslysetinnerhtml_safer_by_disabling/)
-- [Tuono - Superfast fullstack react framework](https://www.reddit.com/r/javascript/comments/1gnfhdz/tuono_superfast_fullstack_react_framework/)
-- [datewise javascript npm package](https://www.reddit.com/r/javascript/comments/1gncx8z/datewise_javascript_npm_package/)
-- [[AskJS] For TypeScript power users: How do you handle Node.js and Bun types in the same script?](https://www.reddit.com/r/javascript/comments/1gncp67/askjs_for_typescript_power_users_how_do_you/)
-- [GitHub - SEO friendly way to lazy load responsive images](https://www.reddit.com/r/javascript/comments/1gnaax7/github_seo_friendly_way_to_lazy_load_responsive/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
