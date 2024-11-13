@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] I feel lost in Javascript, I&#39;m a beginner](https://www.reddit.com/r/javascript/comments/1gpxq7g/askjs_i_feel_lost_in_javascript_im_a_beginner/)
+- [Server-oriented customizable templating for JavaScript](https://www.reddit.com/r/javascript/comments/1gpxkpl/serveroriented_customizable_templating_for/)
+- [System Design: Trust Scorer - Architecture and Implementation Example](https://www.reddit.com/r/javascript/comments/1gpotul/system_design_trust_scorer_architecture_and/)
+- [[AskJS] JS developers, what is your laptop?](https://www.reddit.com/r/javascript/comments/1gpoi2a/askjs_js_developers_what_is_your_laptop/)
+- [[AskJS] How to handle Image DPI value?](https://www.reddit.com/r/javascript/comments/1gplprv/askjs_how_to_handle_image_dpi_value/)
+- [Mastering the Builder Pattern: Create a Dynamic AI Prompt Generator CLI](https://www.reddit.com/r/javascript/comments/1gpldq8/mastering_the_builder_pattern_create_a_dynamic_ai/)
+- [[AskJS] EsLint replacement or making it fast](https://www.reddit.com/r/javascript/comments/1gpivg2/askjs_eslint_replacement_or_making_it_fast/)
+- [Promise.try: Unified Error Handling for Sync and Async &lpar;ES2025&rpar;](https://www.reddit.com/r/javascript/comments/1gphlyg/promisetry_unified_error_handling_for_sync_and/)
 - [Jet-Schema: Simple, typescript-first, alternative approach to schema validation.](https://www.reddit.com/r/javascript/comments/1gp5a5e/jetschema_simple_typescriptfirst_alternative/)
 - [TypeScript Missionary Here: I’m on a Mission to Convert JS Devs to TS Followers](https://www.reddit.com/r/javascript/comments/1gp050g/typescript_missionary_here_im_on_a_mission_to/)
-- [Refactoring barrel files with codemods](https://www.reddit.com/r/javascript/comments/1gowbzt/refactoring_barrel_files_with_codemods/)
-- [[AskJS] Is this this best way to build HTML links in 2024?](https://www.reddit.com/r/javascript/comments/1gova1f/askjs_is_this_this_best_way_to_build_html_links/)
-- [MikroORM 6.4 released](https://www.reddit.com/r/javascript/comments/1gouvku/mikroorm_64_released/)
-- [A Personal NotebookLM and Perplexity-like AI Assistant with privacy.](https://www.reddit.com/r/javascript/comments/1goroii/a_personal_notebooklm_and_perplexitylike_ai/)
-- [Your /r/javascript recap for the week of November 04 - November 10, 2024](https://www.reddit.com/r/javascript/comments/1goovtv/your_rjavascript_recap_for_the_week_of_november/)
-- [[AskJS] If Deno and Bun stopped pretending to be Node.js would you still use them?](https://www.reddit.com/r/javascript/comments/1go8yx7/askjs_if_deno_and_bun_stopped_pretending_to_be/)
-- [[AskJS] Is it not allowed to extend the Date class in TypeScript/JavaScript by adding methods?](https://www.reddit.com/r/javascript/comments/1go75od/askjs_is_it_not_allowed_to_extend_the_date_class/)
-- [Just an idea... Polyglot](https://www.reddit.com/r/javascript/comments/1go2kbo/just_an_idea_polyglot/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
