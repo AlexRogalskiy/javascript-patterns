@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] I feel lost in Javascript, I&#39;m a beginner](https://www.reddit.com/r/javascript/comments/1gpxq7g/askjs_i_feel_lost_in_javascript_im_a_beginner/)
-- [Server-oriented customizable templating for JavaScript](https://www.reddit.com/r/javascript/comments/1gpxkpl/serveroriented_customizable_templating_for/)
-- [System Design: Trust Scorer - Architecture and Implementation Example](https://www.reddit.com/r/javascript/comments/1gpotul/system_design_trust_scorer_architecture_and/)
+- [[AskJS] Symbolic Algebraic Library for JS](https://www.reddit.com/r/javascript/comments/1gqstqr/askjs_symbolic_algebraic_library_for_js/)
+- [Introducing VSCode Themes Community: Where Sacred Geometry Meets Modern Development - A place to create, share and discover new Visual Studio Code themes to customize your daily work tool with help from sacred geometry patterns. An open source project made using Svelte 5. Check out the repository.](https://www.reddit.com/r/javascript/comments/1gqie6t/introducing_vscode_themes_community_where_sacred/)
+- [C, C++, and Java formatter based on Clang for the Node.js environment.](https://www.reddit.com/r/javascript/comments/1gqgs5k/c_c_and_java_formatter_based_on_clang_for_the/)
+- [[AskJS] Future of GSAP?](https://www.reddit.com/r/javascript/comments/1gqd93q/askjs_future_of_gsap/)
+- [WebVM 2.0: A complete Linux Desktop Environment in the browser via WebAssembly](https://www.reddit.com/r/javascript/comments/1gqb01s/webvm_20_a_complete_linux_desktop_environment_in/)
+- [Framer Motion is now independent, introducing Motion](https://www.reddit.com/r/javascript/comments/1gqae16/framer_motion_is_now_independent_introducing/)
+- [WTF Wednesday &lpar;November 13, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1gq7zll/wtf_wednesday_november_13_2024/)
+- [Add first class Javascript/Typescript support to the Mill build tool &lpar;4500 Bounty&rpar;](https://www.reddit.com/r/javascript/comments/1gq6i5o/add_first_class_javascripttypescript_support_to/)
 - [[AskJS] JS developers, what is your laptop?](https://www.reddit.com/r/javascript/comments/1gpoi2a/askjs_js_developers_what_is_your_laptop/)
 - [[AskJS] How to handle Image DPI value?](https://www.reddit.com/r/javascript/comments/1gplprv/askjs_how_to_handle_image_dpi_value/)
-- [Mastering the Builder Pattern: Create a Dynamic AI Prompt Generator CLI](https://www.reddit.com/r/javascript/comments/1gpldq8/mastering_the_builder_pattern_create_a_dynamic_ai/)
-- [[AskJS] EsLint replacement or making it fast](https://www.reddit.com/r/javascript/comments/1gpivg2/askjs_eslint_replacement_or_making_it_fast/)
-- [Promise.try: Unified Error Handling for Sync and Async &lpar;ES2025&rpar;](https://www.reddit.com/r/javascript/comments/1gphlyg/promisetry_unified_error_handling_for_sync_and/)
-- [Jet-Schema: Simple, typescript-first, alternative approach to schema validation.](https://www.reddit.com/r/javascript/comments/1gp5a5e/jetschema_simple_typescriptfirst_alternative/)
-- [TypeScript Missionary Here: I’m on a Mission to Convert JS Devs to TS Followers](https://www.reddit.com/r/javascript/comments/1gp050g/typescript_missionary_here_im_on_a_mission_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
