@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Anyone excited about upcoming Javascript features?](https://www.reddit.com/r/javascript/comments/1grijds/anyone_excited_about_upcoming_javascript_features/)
+- [Mastering the Factory Method Design Pattern: Building a Task Management CLI](https://www.reddit.com/r/javascript/comments/1grcwi2/mastering_the_factory_method_design_pattern/)
+- [Collect All Requested Images on a Website Using Puppeteer](https://www.reddit.com/r/javascript/comments/1gr9979/collect_all_requested_images_on_a_website_using/)
 - [[AskJS] Symbolic Algebraic Library for JS](https://www.reddit.com/r/javascript/comments/1gqstqr/askjs_symbolic_algebraic_library_for_js/)
 - [Introducing VSCode Themes Community: Where Sacred Geometry Meets Modern Development - A place to create, share and discover new Visual Studio Code themes to customize your daily work tool with help from sacred geometry patterns. An open source project made using Svelte 5. Check out the repository.](https://www.reddit.com/r/javascript/comments/1gqie6t/introducing_vscode_themes_community_where_sacred/)
 - [C, C++, and Java formatter based on Clang for the Node.js environment.](https://www.reddit.com/r/javascript/comments/1gqgs5k/c_c_and_java_formatter_based_on_clang_for_the/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [WebVM 2.0: A complete Linux Desktop Environment in the browser via WebAssembly](https://www.reddit.com/r/javascript/comments/1gqb01s/webvm_20_a_complete_linux_desktop_environment_in/)
 - [Framer Motion is now independent, introducing Motion](https://www.reddit.com/r/javascript/comments/1gqae16/framer_motion_is_now_independent_introducing/)
 - [WTF Wednesday &lpar;November 13, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1gq7zll/wtf_wednesday_november_13_2024/)
-- [Add first class Javascript/Typescript support to the Mill build tool &lpar;4500 Bounty&rpar;](https://www.reddit.com/r/javascript/comments/1gq6i5o/add_first_class_javascripttypescript_support_to/)
-- [[AskJS] JS developers, what is your laptop?](https://www.reddit.com/r/javascript/comments/1gpoi2a/askjs_js_developers_what_is_your_laptop/)
-- [[AskJS] How to handle Image DPI value?](https://www.reddit.com/r/javascript/comments/1gplprv/askjs_how_to_handle_image_dpi_value/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
