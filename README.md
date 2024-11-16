@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] The event loop does not exists](https://www.reddit.com/r/javascript/comments/1gs5kpb/askjs_the_event_loop_does_not_exists/)
+- [Quiz: Destructuring Delights - 12 JS/TS Questions](https://www.reddit.com/r/javascript/comments/1gs237z/quiz_destructuring_delights_12_jsts_questions/)
+- [Feature Engineering Techniques for Healthcare Data Analysis — Part I - PasteFS](https://www.reddit.com/r/javascript/comments/1gs1wco/feature_engineering_techniques_for_healthcare/)
+- [Exploring JavaScript Symbols](https://www.reddit.com/r/javascript/comments/1grvacq/exploring_javascript_symbols/)
+- [[AskJS] Waste of time to build Local Storage based music player in Vanilla JS along with basic HTML &amp; CSS ?](https://www.reddit.com/r/javascript/comments/1grtuwu/askjs_waste_of_time_to_build_local_storage_based/)
 - [Anyone excited about upcoming Javascript features?](https://www.reddit.com/r/javascript/comments/1grijds/anyone_excited_about_upcoming_javascript_features/)
 - [Mastering the Factory Method Design Pattern: Building a Task Management CLI](https://www.reddit.com/r/javascript/comments/1grcwi2/mastering_the_factory_method_design_pattern/)
 - [Collect All Requested Images on a Website Using Puppeteer](https://www.reddit.com/r/javascript/comments/1gr9979/collect_all_requested_images_on_a_website_using/)
 - [[AskJS] Symbolic Algebraic Library for JS](https://www.reddit.com/r/javascript/comments/1gqstqr/askjs_symbolic_algebraic_library_for_js/)
 - [Introducing VSCode Themes Community: Where Sacred Geometry Meets Modern Development - A place to create, share and discover new Visual Studio Code themes to customize your daily work tool with help from sacred geometry patterns. An open source project made using Svelte 5. Check out the repository.](https://www.reddit.com/r/javascript/comments/1gqie6t/introducing_vscode_themes_community_where_sacred/)
-- [C, C++, and Java formatter based on Clang for the Node.js environment.](https://www.reddit.com/r/javascript/comments/1gqgs5k/c_c_and_java_formatter_based_on_clang_for_the/)
-- [[AskJS] Future of GSAP?](https://www.reddit.com/r/javascript/comments/1gqd93q/askjs_future_of_gsap/)
-- [WebVM 2.0: A complete Linux Desktop Environment in the browser via WebAssembly](https://www.reddit.com/r/javascript/comments/1gqb01s/webvm_20_a_complete_linux_desktop_environment_in/)
-- [Framer Motion is now independent, introducing Motion](https://www.reddit.com/r/javascript/comments/1gqae16/framer_motion_is_now_independent_introducing/)
-- [WTF Wednesday &lpar;November 13, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1gq7zll/wtf_wednesday_november_13_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
