@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A model or &#39;feature prototype&#39; for vanilla javascript enums alive at runtime. npm: @danscode/enum](https://www.reddit.com/r/javascript/comments/1gtndr6/a_model_or_feature_prototype_for_vanilla/)
+- [A library to build node-based UI with Angular 16+](https://www.reddit.com/r/javascript/comments/1gtd4wz/a_library_to_build_nodebased_ui_with_angular_16/)
 - [Compiling JavaScript source code to C then a standalone executable using QuickJS qjsc](https://www.reddit.com/r/javascript/comments/1gt0u0p/compiling_javascript_source_code_to_c_then_a/)
 - [[AskJS] What should I focus on to land my next job? &lpar;Self Taught - 8 Years experience&rpar;](https://www.reddit.com/r/javascript/comments/1gszl3z/askjs_what_should_i_focus_on_to_land_my_next_job/)
 - [[AskJS] : How to create OKLCH Color Palette](https://www.reddit.com/r/javascript/comments/1gszjms/askjs_how_to_create_oklch_color_palette/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [[AskJS] How Do You Handle Real-Time Communication Between React and React Native?](https://www.reddit.com/r/javascript/comments/1gstlmx/askjs_how_do_you_handle_realtime_communication/)
 - [Mastering the Prototype Design Pattern: A Comprehensive Guide](https://www.reddit.com/r/javascript/comments/1gsqm91/mastering_the_prototype_design_pattern_a/)
 - [How JavaScript executes your code](https://www.reddit.com/r/javascript/comments/1gskr37/how_javascript_executes_your_code/)
-- [Showoff Saturday &lpar;November 16, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1gsim7r/showoff_saturday_november_16_2024/)
-- [[AskJS] The event loop does not exists](https://www.reddit.com/r/javascript/comments/1gs5kpb/askjs_the_event_loop_does_not_exists/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
