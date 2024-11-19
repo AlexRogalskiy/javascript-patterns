@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] did you ever feel the need to serialize a function?](https://www.reddit.com/r/javascript/comments/1gul4nk/askjs_did_you_ever_feel_the_need_to_serialize_a/)
+- [Can I get feedback forJSKbin?](https://www.reddit.com/r/javascript/comments/1gul4k2/can_i_get_feedback_forjskbin/)
+- [Web Storage APIs Explained: localStorage, sessionStorage, and IndexedDB | Rajesh Dhiman](https://www.reddit.com/r/javascript/comments/1guaioq/web_storage_apis_explained_localstorage/)
+- [[AskJS] Are Framework-Specific Packages Worth It When React Dominates?](https://www.reddit.com/r/javascript/comments/1gu9st8/askjs_are_frameworkspecific_packages_worth_it/)
+- [Tiny Full-Stack React framework. Avoid Overengineering. Automatic routes, reload and component bundle. It uses its own RSC engine, combining SSR and CSR. 100% Deno, no Node dependencies. Fully compatible with Deno Deploy and Serverless Environments.](https://www.reddit.com/r/javascript/comments/1gu9h1v/tiny_fullstack_react_framework_avoid/)
+- [Your /r/javascript recap for the week of November 11 - November 17, 2024](https://www.reddit.com/r/javascript/comments/1gu1gbd/your_rjavascript_recap_for_the_week_of_november/)
+- [[AskJS] what would you name this object and would you ever use it?](https://www.reddit.com/r/javascript/comments/1gu192m/askjs_what_would_you_name_this_object_and_would/)
+- [Precise Decimal Math in JavaScript with Fraction.js](https://www.reddit.com/r/javascript/comments/1gu01j1/precise_decimal_math_in_javascript_with_fractionjs/)
 - [A model or &#39;feature prototype&#39; for vanilla javascript enums alive at runtime. npm: @danscode/enum](https://www.reddit.com/r/javascript/comments/1gtndr6/a_model_or_feature_prototype_for_vanilla/)
 - [A library to build node-based UI with Angular 16+](https://www.reddit.com/r/javascript/comments/1gtd4wz/a_library_to_build_nodebased_ui_with_angular_16/)
-- [Compiling JavaScript source code to C then a standalone executable using QuickJS qjsc](https://www.reddit.com/r/javascript/comments/1gt0u0p/compiling_javascript_source_code_to_c_then_a/)
-- [[AskJS] What should I focus on to land my next job? &lpar;Self Taught - 8 Years experience&rpar;](https://www.reddit.com/r/javascript/comments/1gszl3z/askjs_what_should_i_focus_on_to_land_my_next_job/)
-- [[AskJS] : How to create OKLCH Color Palette](https://www.reddit.com/r/javascript/comments/1gszjms/askjs_how_to_create_oklch_color_palette/)
-- [[AskJS] Need guidance on my upcoming interview](https://www.reddit.com/r/javascript/comments/1gsz2ba/askjs_need_guidance_on_my_upcoming_interview/)
-- [Quick Practical Guide: Parsing External Data with DTOs &lpar;Data Transfer Objects&rpar;](https://www.reddit.com/r/javascript/comments/1gsyuyl/quick_practical_guide_parsing_external_data_with/)
-- [[AskJS] How Do You Handle Real-Time Communication Between React and React Native?](https://www.reddit.com/r/javascript/comments/1gstlmx/askjs_how_do_you_handle_realtime_communication/)
-- [Mastering the Prototype Design Pattern: A Comprehensive Guide](https://www.reddit.com/r/javascript/comments/1gsqm91/mastering_the_prototype_design_pattern_a/)
-- [How JavaScript executes your code](https://www.reddit.com/r/javascript/comments/1gskr37/how_javascript_executes_your_code/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
