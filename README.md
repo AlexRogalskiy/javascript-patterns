@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] did you ever feel the need to serialize a function?](https://www.reddit.com/r/javascript/comments/1gul4nk/askjs_did_you_ever_feel_the_need_to_serialize_a/)
-- [Can I get feedback forJSKbin?](https://www.reddit.com/r/javascript/comments/1gul4k2/can_i_get_feedback_forjskbin/)
-- [Web Storage APIs Explained: localStorage, sessionStorage, and IndexedDB | Rajesh Dhiman](https://www.reddit.com/r/javascript/comments/1guaioq/web_storage_apis_explained_localstorage/)
-- [[AskJS] Are Framework-Specific Packages Worth It When React Dominates?](https://www.reddit.com/r/javascript/comments/1gu9st8/askjs_are_frameworkspecific_packages_worth_it/)
-- [Tiny Full-Stack React framework. Avoid Overengineering. Automatic routes, reload and component bundle. It uses its own RSC engine, combining SSR and CSR. 100% Deno, no Node dependencies. Fully compatible with Deno Deploy and Serverless Environments.](https://www.reddit.com/r/javascript/comments/1gu9h1v/tiny_fullstack_react_framework_avoid/)
-- [Your /r/javascript recap for the week of November 11 - November 17, 2024](https://www.reddit.com/r/javascript/comments/1gu1gbd/your_rjavascript_recap_for_the_week_of_november/)
-- [[AskJS] what would you name this object and would you ever use it?](https://www.reddit.com/r/javascript/comments/1gu192m/askjs_what_would_you_name_this_object_and_would/)
-- [Precise Decimal Math in JavaScript with Fraction.js](https://www.reddit.com/r/javascript/comments/1gu01j1/precise_decimal_math_in_javascript_with_fractionjs/)
-- [A model or &#39;feature prototype&#39; for vanilla javascript enums alive at runtime. npm: @danscode/enum](https://www.reddit.com/r/javascript/comments/1gtndr6/a_model_or_feature_prototype_for_vanilla/)
-- [A library to build node-based UI with Angular 16+](https://www.reddit.com/r/javascript/comments/1gtd4wz/a_library_to_build_nodebased_ui_with_angular_16/)
+- [[AskJS] Where to Start Learning Data Structures and Algorithms for JavaScript? Seeking Book and Course Recommendations!](https://www.reddit.com/r/javascript/comments/1gveoss/askjs_where_to_start_learning_data_structures_and/)
+- [[AskJS] Firefox Nightly never reaches catch or finally in Ecmascript Module: Bug?](https://www.reddit.com/r/javascript/comments/1gvcygb/askjs_firefox_nightly_never_reaches_catch_or/)
+- [Compile JavaScript to a Assembly, AST, C, and executable using Facebook&#39;s shermes](https://www.reddit.com/r/javascript/comments/1gvb9ja/compile_javascript_to_a_assembly_ast_c_and/)
+- [[AskJS] How make hyper causal using JS](https://www.reddit.com/r/javascript/comments/1gv6fco/askjs_how_make_hyper_causal_using_js/)
+- [Meet Angular v19](https://www.reddit.com/r/javascript/comments/1gv5px0/meet_angular_v19/)
+- [[AskJS] What’s the Future of Web Development in 5-10 Years?](https://www.reddit.com/r/javascript/comments/1gv5924/askjs_whats_the_future_of_web_development_in_510/)
+- [[AskJS] What is JS:ScriptXE-inf [Trj]?](https://www.reddit.com/r/javascript/comments/1gv56fi/askjs_what_is_jsscriptxeinf_trj/)
+- [Build a Node.js API in a few minutes with Vratix - Open Source dev tool](https://www.reddit.com/r/javascript/comments/1gv4vln/build_a_nodejs_api_in_a_few_minutes_with_vratix/)
+- [style.setProperty vs setAttribute](https://www.reddit.com/r/javascript/comments/1guzmjw/stylesetproperty_vs_setattribute/)
+- [Performant Game Loops in JavaScript &lpar;mini tutorial&rpar;](https://www.reddit.com/r/javascript/comments/1guzfe0/performant_game_loops_in_javascript_mini_tutorial/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
