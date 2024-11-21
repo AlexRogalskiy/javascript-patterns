@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Where to Start Learning Data Structures and Algorithms for JavaScript? Seeking Book and Course Recommendations!](https://www.reddit.com/r/javascript/comments/1gveoss/askjs_where_to_start_learning_data_structures_and/)
+- [How to build browser-based OAuth into your CLI: open source Node.js project](https://www.reddit.com/r/javascript/comments/1gvsw9g/how_to_build_browserbased_oauth_into_your_cli/)
+- [Using JDBC with JavaScript and Beyond!](https://www.reddit.com/r/javascript/comments/1gvmjfn/using_jdbc_with_javascript_and_beyond/)
+- [Mastering the Abstract Factory Pattern: A Comprehensive Guide](https://www.reddit.com/r/javascript/comments/1gvmiqb/mastering_the_abstract_factory_pattern_a/)
+- [Open Beta - Reverse Job Board for Javascript Devs](https://www.reddit.com/r/javascript/comments/1gvmh15/open_beta_reverse_job_board_for_javascript_devs/)
+- [WTF Wednesday &lpar;November 20, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1gvkkya/wtf_wednesday_november_20_2024/)
 - [[AskJS] Firefox Nightly never reaches catch or finally in Ecmascript Module: Bug?](https://www.reddit.com/r/javascript/comments/1gvcygb/askjs_firefox_nightly_never_reaches_catch_or/)
 - [Compile JavaScript to a Assembly, AST, C, and executable using Facebook&#39;s shermes](https://www.reddit.com/r/javascript/comments/1gvb9ja/compile_javascript_to_a_assembly_ast_c_and/)
-- [[AskJS] How make hyper causal using JS](https://www.reddit.com/r/javascript/comments/1gv6fco/askjs_how_make_hyper_causal_using_js/)
 - [Meet Angular v19](https://www.reddit.com/r/javascript/comments/1gv5px0/meet_angular_v19/)
 - [[AskJS] What’s the Future of Web Development in 5-10 Years?](https://www.reddit.com/r/javascript/comments/1gv5924/askjs_whats_the_future_of_web_development_in_510/)
-- [[AskJS] What is JS:ScriptXE-inf [Trj]?](https://www.reddit.com/r/javascript/comments/1gv56fi/askjs_what_is_jsscriptxeinf_trj/)
 - [Build a Node.js API in a few minutes with Vratix - Open Source dev tool](https://www.reddit.com/r/javascript/comments/1gv4vln/build_a_nodejs_api_in_a_few_minutes_with_vratix/)
-- [style.setProperty vs setAttribute](https://www.reddit.com/r/javascript/comments/1guzmjw/stylesetproperty_vs_setattribute/)
-- [Performant Game Loops in JavaScript &lpar;mini tutorial&rpar;](https://www.reddit.com/r/javascript/comments/1guzfe0/performant_game_loops_in_javascript_mini_tutorial/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
