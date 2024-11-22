@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [&quot;Future&quot; object for vanilla javascript. npm: @danscode/futures](https://www.reddit.com/r/javascript/comments/1gwvd7e/future_object_for_vanilla_javascript_npm/)
+- [Deno 2.1: Wasm Imports and other enhancements](https://www.reddit.com/r/javascript/comments/1gwt2qo/deno_21_wasm_imports_and_other_enhancements/)
+- [Master Thesis About Web Games and WebGPU &lpar; 4 min &rpar;](https://www.reddit.com/r/javascript/comments/1gwrr8i/master_thesis_about_web_games_and_webgpu_4_min/)
+- [How to Convert a SQL Query to an API Request in JS](https://www.reddit.com/r/javascript/comments/1gwljpt/how_to_convert_a_sql_query_to_an_api_request_in_js/)
+- [Mock Service Worker now supports mocking WebSockets!](https://www.reddit.com/r/javascript/comments/1gwegn5/mock_service_worker_now_supports_mocking/)
+- [[AskJS] Why people say JS is easy? What do they mean by “easy”?](https://www.reddit.com/r/javascript/comments/1gw8lhf/askjs_why_people_say_js_is_easy_what_do_they_mean/)
 - [How to build browser-based OAuth into your CLI: open source Node.js project](https://www.reddit.com/r/javascript/comments/1gvsw9g/how_to_build_browserbased_oauth_into_your_cli/)
 - [Using JDBC with JavaScript and Beyond!](https://www.reddit.com/r/javascript/comments/1gvmjfn/using_jdbc_with_javascript_and_beyond/)
 - [Mastering the Abstract Factory Pattern: A Comprehensive Guide](https://www.reddit.com/r/javascript/comments/1gvmiqb/mastering_the_abstract_factory_pattern_a/)
-- [Open Beta - Reverse Job Board for Javascript Devs](https://www.reddit.com/r/javascript/comments/1gvmh15/open_beta_reverse_job_board_for_javascript_devs/)
 - [WTF Wednesday &lpar;November 20, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1gvkkya/wtf_wednesday_november_20_2024/)
-- [[AskJS] Firefox Nightly never reaches catch or finally in Ecmascript Module: Bug?](https://www.reddit.com/r/javascript/comments/1gvcygb/askjs_firefox_nightly_never_reaches_catch_or/)
-- [Compile JavaScript to a Assembly, AST, C, and executable using Facebook&#39;s shermes](https://www.reddit.com/r/javascript/comments/1gvb9ja/compile_javascript_to_a_assembly_ast_c_and/)
-- [Meet Angular v19](https://www.reddit.com/r/javascript/comments/1gv5px0/meet_angular_v19/)
-- [[AskJS] What’s the Future of Web Development in 5-10 Years?](https://www.reddit.com/r/javascript/comments/1gv5924/askjs_whats_the_future_of_web_development_in_510/)
-- [Build a Node.js API in a few minutes with Vratix - Open Source dev tool](https://www.reddit.com/r/javascript/comments/1gv4vln/build_a_nodejs_api_in_a_few_minutes_with_vratix/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
