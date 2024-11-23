@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [zod-path-proxy - helper for determining Zod paths](https://www.reddit.com/r/javascript/comments/1gxfoab/zodpathproxy_helper_for_determining_zod_paths/)
+- [Announcing TypeScript 5.7](https://www.reddit.com/r/javascript/comments/1gxeegg/announcing_typescript_57/)
+- [Deno is filing a USPTO petition to cancel Oracle&#39;s JavaScript trademark](https://www.reddit.com/r/javascript/comments/1gxdcad/deno_is_filing_a_uspto_petition_to_cancel_oracles/)
+- [The Shadow DOM is in the front](https://www.reddit.com/r/javascript/comments/1gxa7w8/the_shadow_dom_is_in_the_front/)
+- [Meteor.js 3.1: A New Dawn for Full-Stack JavaScript Development](https://www.reddit.com/r/javascript/comments/1gx77ri/meteorjs_31_a_new_dawn_for_fullstack_javascript/)
+- [The State of JavaScript 2024 survey is now open](https://www.reddit.com/r/javascript/comments/1gx48kq/the_state_of_javascript_2024_survey_is_now_open/)
 - [&quot;Future&quot; object for vanilla javascript. npm: @danscode/futures](https://www.reddit.com/r/javascript/comments/1gwvd7e/future_object_for_vanilla_javascript_npm/)
 - [Deno 2.1: Wasm Imports and other enhancements](https://www.reddit.com/r/javascript/comments/1gwt2qo/deno_21_wasm_imports_and_other_enhancements/)
 - [Master Thesis About Web Games and WebGPU &lpar; 4 min &rpar;](https://www.reddit.com/r/javascript/comments/1gwrr8i/master_thesis_about_web_games_and_webgpu_4_min/)
 - [How to Convert a SQL Query to an API Request in JS](https://www.reddit.com/r/javascript/comments/1gwljpt/how_to_convert_a_sql_query_to_an_api_request_in_js/)
-- [Mock Service Worker now supports mocking WebSockets!](https://www.reddit.com/r/javascript/comments/1gwegn5/mock_service_worker_now_supports_mocking/)
-- [[AskJS] Why people say JS is easy? What do they mean by “easy”?](https://www.reddit.com/r/javascript/comments/1gw8lhf/askjs_why_people_say_js_is_easy_what_do_they_mean/)
-- [How to build browser-based OAuth into your CLI: open source Node.js project](https://www.reddit.com/r/javascript/comments/1gvsw9g/how_to_build_browserbased_oauth_into_your_cli/)
-- [Using JDBC with JavaScript and Beyond!](https://www.reddit.com/r/javascript/comments/1gvmjfn/using_jdbc_with_javascript_and_beyond/)
-- [Mastering the Abstract Factory Pattern: A Comprehensive Guide](https://www.reddit.com/r/javascript/comments/1gvmiqb/mastering_the_abstract_factory_pattern_a/)
-- [WTF Wednesday &lpar;November 20, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1gvkkya/wtf_wednesday_november_20_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
