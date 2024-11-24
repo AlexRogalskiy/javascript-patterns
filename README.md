@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I made a cool star field background effect](https://www.reddit.com/r/javascript/comments/1gy17hx/i_made_a_cool_star_field_background_effect/)
+- [Showoff Saturday &lpar;November 23, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1gxun8j/showoff_saturday_november_23_2024/)
+- [In modern application development, automated testing ensures high-quality software delivery. This article explores Jest for unit testing, Cypress for end-to-end &lpar;E2E&rpar; testing, and Playwright for cross-browser testing. We&#39;ll build a small React application and integrate all three tools.](https://www.reddit.com/r/javascript/comments/1gxt77u/in_modern_application_development_automated/)
+- [Super Performance Web DataGrid GitHub](https://www.reddit.com/r/javascript/comments/1gxrqqt/super_performance_web_datagrid_github/)
+- [Mutative v1.1.0 - Better and faster immutable data updates.](https://www.reddit.com/r/javascript/comments/1gxrhy2/mutative_v110_better_and_faster_immutable_data/)
 - [zod-path-proxy - helper for determining Zod paths](https://www.reddit.com/r/javascript/comments/1gxfoab/zodpathproxy_helper_for_determining_zod_paths/)
 - [Announcing TypeScript 5.7](https://www.reddit.com/r/javascript/comments/1gxeegg/announcing_typescript_57/)
 - [Deno is filing a USPTO petition to cancel Oracle&#39;s JavaScript trademark](https://www.reddit.com/r/javascript/comments/1gxdcad/deno_is_filing_a_uspto_petition_to_cancel_oracles/)
 - [The Shadow DOM is in the front](https://www.reddit.com/r/javascript/comments/1gxa7w8/the_shadow_dom_is_in_the_front/)
 - [Meteor.js 3.1: A New Dawn for Full-Stack JavaScript Development](https://www.reddit.com/r/javascript/comments/1gx77ri/meteorjs_31_a_new_dawn_for_fullstack_javascript/)
-- [The State of JavaScript 2024 survey is now open](https://www.reddit.com/r/javascript/comments/1gx48kq/the_state_of_javascript_2024_survey_is_now_open/)
-- [&quot;Future&quot; object for vanilla javascript. npm: @danscode/futures](https://www.reddit.com/r/javascript/comments/1gwvd7e/future_object_for_vanilla_javascript_npm/)
-- [Deno 2.1: Wasm Imports and other enhancements](https://www.reddit.com/r/javascript/comments/1gwt2qo/deno_21_wasm_imports_and_other_enhancements/)
-- [Master Thesis About Web Games and WebGPU &lpar; 4 min &rpar;](https://www.reddit.com/r/javascript/comments/1gwrr8i/master_thesis_about_web_games_and_webgpu_4_min/)
-- [How to Convert a SQL Query to an API Request in JS](https://www.reddit.com/r/javascript/comments/1gwljpt/how_to_convert_a_sql_query_to_an_api_request_in_js/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
