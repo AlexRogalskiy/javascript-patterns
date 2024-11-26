@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Recent tech interview experience](https://www.reddit.com/r/javascript/comments/1gz136b/askjs_recent_tech_interview_experience/)
-- [[AskJS] I used my AI interface to make a basic but functional html editor in less than 2 minutes from nothing..](https://www.reddit.com/r/javascript/comments/1gz10jw/askjs_i_used_my_ai_interface_to_make_a_basic_but/)
+- [re2js regexp compiler](https://www.reddit.com/r/javascript/comments/1gzvy8z/re2js_regexp_compiler/)
+- [WallWiz- a terminal based wallpaper and system theme manager for linux.](https://www.reddit.com/r/javascript/comments/1gzoktk/wallwiz_a_terminal_based_wallpaper_and_system/)
+- [Built a Linkedin Automation Bot with every possible scraping!](https://www.reddit.com/r/javascript/comments/1gzntn7/built_a_linkedin_automation_bot_with_every/)
+- [Animautomata — My zero-dependency library for highly customizable loading/wait canvas animations](https://www.reddit.com/r/javascript/comments/1gzmo6h/animautomata_my_zerodependency_library_for_highly/)
+- [Your /r/javascript recap for the week of November 18 - November 24, 2024](https://www.reddit.com/r/javascript/comments/1gzfjgi/your_rjavascript_recap_for_the_week_of_november/)
+- [Vercel Expands AI Toolkit with AI SDK 4.0 Update](https://www.reddit.com/r/javascript/comments/1gzceni/vercel_expands_ai_toolkit_with_ai_sdk_40_update/)
 - [Using Node.js&#39; node:wasi for node and Wasmer&#39;s WASI for Deno, Node.js, Bun](https://www.reddit.com/r/javascript/comments/1gyscz5/using_nodejs_nodewasi_for_node_and_wasmers_wasi/)
 - [Authenticating users in Astro with Better Auth](https://www.reddit.com/r/javascript/comments/1gyq0hs/authenticating_users_in_astro_with_better_auth/)
 - [[AskJS] Help with Designing a Dynamic Dictionary System](https://www.reddit.com/r/javascript/comments/1gyp8w1/askjs_help_with_designing_a_dynamic_dictionary/)
 - [I built a Dynamic Post Distribution Algorithm that adapts content delivery based on user activity. Active users get posts first, while less active ones receive them later. Every user gets the post by the end, helping smaller creators grow. Full code is below in gist](https://www.reddit.com/r/javascript/comments/1gyorgj/i_built_a_dynamic_post_distribution_algorithm/)
-- [I made a cool star field background effect](https://www.reddit.com/r/javascript/comments/1gy17hx/i_made_a_cool_star_field_background_effect/)
-- [Showoff Saturday &lpar;November 23, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1gxun8j/showoff_saturday_november_23_2024/)
-- [In modern application development, automated testing ensures high-quality software delivery. This article explores Jest for unit testing, Cypress for end-to-end &lpar;E2E&rpar; testing, and Playwright for cross-browser testing. We&#39;ll build a small React application and integrate all three tools.](https://www.reddit.com/r/javascript/comments/1gxt77u/in_modern_application_development_automated/)
-- [Super Performance Web DataGrid GitHub](https://www.reddit.com/r/javascript/comments/1gxrqqt/super_performance_web_datagrid_github/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
