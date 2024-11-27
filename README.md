@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [svelte-tiny-pdf - a tiny but powerful PDF.JS wrapper for Svelte!](https://www.reddit.com/r/javascript/comments/1h0q7ez/sveltetinypdf_a_tiny_but_powerful_pdfjs_wrapper/)
+- [Vite 6.0 is out!](https://www.reddit.com/r/javascript/comments/1h0m2s0/vite_60_is_out/)
+- [Unofficial Rotten Tomatoes Library](https://www.reddit.com/r/javascript/comments/1h0hkc3/unofficial_rotten_tomatoes_library/)
+- [[AskJS] How do you manage static text updates in React/Next.js?](https://www.reddit.com/r/javascript/comments/1h0g3zw/askjs_how_do_you_manage_static_text_updates_in/)
+- [Oniguruma-To-ES: Convert advanced Ruby/Oniguruma regexes to native JS RegExp](https://www.reddit.com/r/javascript/comments/1h0fuin/onigurumatoes_convert_advanced_rubyoniguruma/)
+- [TrailBase: Fast, Low-Code API Server with V8-based ES6/TS runtime with Admin, Auth, ... for PWAs](https://www.reddit.com/r/javascript/comments/1h0bpe4/trailbase_fast_lowcode_api_server_with_v8based/)
 - [re2js regexp compiler](https://www.reddit.com/r/javascript/comments/1gzvy8z/re2js_regexp_compiler/)
 - [WallWiz- a terminal based wallpaper and system theme manager for linux.](https://www.reddit.com/r/javascript/comments/1gzoktk/wallwiz_a_terminal_based_wallpaper_and_system/)
 - [Built a Linkedin Automation Bot with every possible scraping!](https://www.reddit.com/r/javascript/comments/1gzntn7/built_a_linkedin_automation_bot_with_every/)
 - [Animautomata — My zero-dependency library for highly customizable loading/wait canvas animations](https://www.reddit.com/r/javascript/comments/1gzmo6h/animautomata_my_zerodependency_library_for_highly/)
-- [Your /r/javascript recap for the week of November 18 - November 24, 2024](https://www.reddit.com/r/javascript/comments/1gzfjgi/your_rjavascript_recap_for_the_week_of_november/)
-- [Vercel Expands AI Toolkit with AI SDK 4.0 Update](https://www.reddit.com/r/javascript/comments/1gzceni/vercel_expands_ai_toolkit_with_ai_sdk_40_update/)
-- [Using Node.js&#39; node:wasi for node and Wasmer&#39;s WASI for Deno, Node.js, Bun](https://www.reddit.com/r/javascript/comments/1gyscz5/using_nodejs_nodewasi_for_node_and_wasmers_wasi/)
-- [Authenticating users in Astro with Better Auth](https://www.reddit.com/r/javascript/comments/1gyq0hs/authenticating_users_in_astro_with_better_auth/)
-- [[AskJS] Help with Designing a Dynamic Dictionary System](https://www.reddit.com/r/javascript/comments/1gyp8w1/askjs_help_with_designing_a_dynamic_dictionary/)
-- [I built a Dynamic Post Distribution Algorithm that adapts content delivery based on user activity. Active users get posts first, while less active ones receive them later. Every user gets the post by the end, helping smaller creators grow. Full code is below in gist](https://www.reddit.com/r/javascript/comments/1gyorgj/i_built_a_dynamic_post_distribution_algorithm/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
