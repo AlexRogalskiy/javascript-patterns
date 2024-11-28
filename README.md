@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [svelte-tiny-pdf - a tiny but powerful PDF.JS wrapper for Svelte!](https://www.reddit.com/r/javascript/comments/1h0q7ez/sveltetinypdf_a_tiny_but_powerful_pdfjs_wrapper/)
-- [Vite 6.0 is out!](https://www.reddit.com/r/javascript/comments/1h0m2s0/vite_60_is_out/)
-- [Unofficial Rotten Tomatoes Library](https://www.reddit.com/r/javascript/comments/1h0hkc3/unofficial_rotten_tomatoes_library/)
-- [[AskJS] How do you manage static text updates in React/Next.js?](https://www.reddit.com/r/javascript/comments/1h0g3zw/askjs_how_do_you_manage_static_text_updates_in/)
-- [Oniguruma-To-ES: Convert advanced Ruby/Oniguruma regexes to native JS RegExp](https://www.reddit.com/r/javascript/comments/1h0fuin/onigurumatoes_convert_advanced_rubyoniguruma/)
-- [TrailBase: Fast, Low-Code API Server with V8-based ES6/TS runtime with Admin, Auth, ... for PWAs](https://www.reddit.com/r/javascript/comments/1h0bpe4/trailbase_fast_lowcode_api_server_with_v8based/)
-- [re2js regexp compiler](https://www.reddit.com/r/javascript/comments/1gzvy8z/re2js_regexp_compiler/)
-- [WallWiz- a terminal based wallpaper and system theme manager for linux.](https://www.reddit.com/r/javascript/comments/1gzoktk/wallwiz_a_terminal_based_wallpaper_and_system/)
-- [Built a Linkedin Automation Bot with every possible scraping!](https://www.reddit.com/r/javascript/comments/1gzntn7/built_a_linkedin_automation_bot_with_every/)
-- [Animautomata — My zero-dependency library for highly customizable loading/wait canvas animations](https://www.reddit.com/r/javascript/comments/1gzmo6h/animautomata_my_zerodependency_library_for_highly/)
+- [[AskJS] Beginners: What do you struggle with when learning JavaScript?](https://www.reddit.com/r/javascript/comments/1h1ktex/askjs_beginners_what_do_you_struggle_with_when/)
+- [Single page applications packaged as zip or rar archives](https://www.reddit.com/r/javascript/comments/1h1iw2s/single_page_applications_packaged_as_zip_or_rar/)
+- [[AskJS] Daily Challenges for All of Us](https://www.reddit.com/r/javascript/comments/1h1g19z/askjs_daily_challenges_for_all_of_us/)
+- [HMPL: Alternative to HTMX and Alpine.js](https://www.reddit.com/r/javascript/comments/1h190bl/hmpl_alternative_to_htmx_and_alpinejs/)
+- [Pipelight - Manage git-hooks without the bloat](https://www.reddit.com/r/javascript/comments/1h18lgl/pipelight_manage_githooks_without_the_bloat/)
+- [[A]synchronous Functional Programming - Intro](https://www.reddit.com/r/javascript/comments/1h15uqs/asynchronous_functional_programming_intro/)
+- [[AskJS] Dart or JavaScript](https://www.reddit.com/r/javascript/comments/1h14378/askjs_dart_or_javascript/)
+- [RV&#39;s free Javascript/DHTML effects](https://www.reddit.com/r/javascript/comments/1h12bqq/rvs_free_javascriptdhtml_effects/)
+- [Training a custom &quot;baby&quot; GPT model &lpar;the model itself is &lt;300 lines of TensorFlow.js code&rpar; directly in the browser](https://www.reddit.com/r/javascript/comments/1h122fr/training_a_custom_baby_gpt_model_the_model_itself/)
+- [Vite 6, a groundbreaking release](https://www.reddit.com/r/javascript/comments/1h11wb3/vite_6_a_groundbreaking_release/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
