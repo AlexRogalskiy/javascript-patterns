@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] I built an AI tool that post tweets and retweets on my behalf and save my time](https://www.reddit.com/r/javascript/comments/1h20m3g/askjs_i_built_an_ai_tool_that_post_tweets_and/)
+- [[AskJS] Advice on learning Python or/and JS for Cybersecurity / Web Dev](https://www.reddit.com/r/javascript/comments/1h1zpxm/askjs_advice_on_learning_python_orand_js_for/)
+- [[AskJS] What&#39;s the tech stack you would recommend me for landing pages with 3D?](https://www.reddit.com/r/javascript/comments/1h1wgtz/askjs_whats_the_tech_stack_you_would_recommend_me/)
+- [[AskJS] We are in 2024. Do we still need the semi-colon or not?](https://www.reddit.com/r/javascript/comments/1h1vkxl/askjs_we_are_in_2024_do_we_still_need_the/)
+- [Neutralinojs v5.5 released](https://www.reddit.com/r/javascript/comments/1h1tbpl/neutralinojs_v55_released/)
+- [[AskJS] Node.js or Python for API development like for a 2-in-1 Soccer News &amp; Player Profiles API?](https://www.reddit.com/r/javascript/comments/1h1nhh0/askjs_nodejs_or_python_for_api_development_like/)
 - [[AskJS] Beginners: What do you struggle with when learning JavaScript?](https://www.reddit.com/r/javascript/comments/1h1ktex/askjs_beginners_what_do_you_struggle_with_when/)
-- [Single page applications packaged as zip or rar archives](https://www.reddit.com/r/javascript/comments/1h1iw2s/single_page_applications_packaged_as_zip_or_rar/)
-- [[AskJS] Daily Challenges for All of Us](https://www.reddit.com/r/javascript/comments/1h1g19z/askjs_daily_challenges_for_all_of_us/)
 - [HMPL: Alternative to HTMX and Alpine.js](https://www.reddit.com/r/javascript/comments/1h190bl/hmpl_alternative_to_htmx_and_alpinejs/)
 - [Pipelight - Manage git-hooks without the bloat](https://www.reddit.com/r/javascript/comments/1h18lgl/pipelight_manage_githooks_without_the_bloat/)
 - [[A]synchronous Functional Programming - Intro](https://www.reddit.com/r/javascript/comments/1h15uqs/asynchronous_functional_programming_intro/)
-- [[AskJS] Dart or JavaScript](https://www.reddit.com/r/javascript/comments/1h14378/askjs_dart_or_javascript/)
-- [RV&#39;s free Javascript/DHTML effects](https://www.reddit.com/r/javascript/comments/1h12bqq/rvs_free_javascriptdhtml_effects/)
-- [Training a custom &quot;baby&quot; GPT model &lpar;the model itself is &lt;300 lines of TensorFlow.js code&rpar; directly in the browser](https://www.reddit.com/r/javascript/comments/1h122fr/training_a_custom_baby_gpt_model_the_model_itself/)
-- [Vite 6, a groundbreaking release](https://www.reddit.com/r/javascript/comments/1h11wb3/vite_6_a_groundbreaking_release/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
