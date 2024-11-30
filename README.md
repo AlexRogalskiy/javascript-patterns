@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] I built an AI tool that post tweets and retweets on my behalf and save my time](https://www.reddit.com/r/javascript/comments/1h20m3g/askjs_i_built_an_ai_tool_that_post_tweets_and/)
-- [[AskJS] Advice on learning Python or/and JS for Cybersecurity / Web Dev](https://www.reddit.com/r/javascript/comments/1h1zpxm/askjs_advice_on_learning_python_orand_js_for/)
+- [We made a free repo of 100+ Black Friday Deals for Front End Devs](https://www.reddit.com/r/javascript/comments/1h31dlm/we_made_a_free_repo_of_100_black_friday_deals_for/)
+- [[Test] A small JS test :&rpar;](https://www.reddit.com/r/javascript/comments/1h2th23/test_a_small_js_test/)
+- [[AskJS] What do you think about lazily evaluated objects?](https://www.reddit.com/r/javascript/comments/1h2ln06/askjs_what_do_you_think_about_lazily_evaluated/)
+- [[AskJS] Suggestions for JS code editors](https://www.reddit.com/r/javascript/comments/1h2k6sy/askjs_suggestions_for_js_code_editors/)
+- [Built a fun &quot;Just a Chill Guy&quot; Meme Generator](https://www.reddit.com/r/javascript/comments/1h2ie5i/built_a_fun_just_a_chill_guy_meme_generator/)
 - [[AskJS] What&#39;s the tech stack you would recommend me for landing pages with 3D?](https://www.reddit.com/r/javascript/comments/1h1wgtz/askjs_whats_the_tech_stack_you_would_recommend_me/)
 - [[AskJS] We are in 2024. Do we still need the semi-colon or not?](https://www.reddit.com/r/javascript/comments/1h1vkxl/askjs_we_are_in_2024_do_we_still_need_the/)
 - [Neutralinojs v5.5 released](https://www.reddit.com/r/javascript/comments/1h1tbpl/neutralinojs_v55_released/)
 - [[AskJS] Node.js or Python for API development like for a 2-in-1 Soccer News &amp; Player Profiles API?](https://www.reddit.com/r/javascript/comments/1h1nhh0/askjs_nodejs_or_python_for_api_development_like/)
 - [[AskJS] Beginners: What do you struggle with when learning JavaScript?](https://www.reddit.com/r/javascript/comments/1h1ktex/askjs_beginners_what_do_you_struggle_with_when/)
-- [HMPL: Alternative to HTMX and Alpine.js](https://www.reddit.com/r/javascript/comments/1h190bl/hmpl_alternative_to_htmx_and_alpinejs/)
-- [Pipelight - Manage git-hooks without the bloat](https://www.reddit.com/r/javascript/comments/1h18lgl/pipelight_manage_githooks_without_the_bloat/)
-- [[A]synchronous Functional Programming - Intro](https://www.reddit.com/r/javascript/comments/1h15uqs/asynchronous_functional_programming_intro/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
