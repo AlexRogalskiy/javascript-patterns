@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [BunBuster: A ridiculously fast web &amp; TCP fuzzer designed for brute-forcing directories, subdomains, and files on web servers.](https://www.reddit.com/r/javascript/comments/1h4a95t/bunbuster_a_ridiculously_fast_web_tcp_fuzzer/)
+- [Jeasx 1.1.0 released - Server-Side Rendering Framework on top of Async JSX - Now More Customizable Than Ever](https://www.reddit.com/r/javascript/comments/1h45wqv/jeasx_110_released_serverside_rendering_framework/)
+- [Playwright E2E Testing with a MERN Stack Project. A video tutorial is also available on YouTube. The link can be found in the Git README.](https://www.reddit.com/r/javascript/comments/1h45i2p/playwright_e2e_testing_with_a_mern_stack_project/)
+- [[AskJS] What specifcally is exploitable about and how would you exploit node:wasi?](https://www.reddit.com/r/javascript/comments/1h44k5r/askjs_what_specifcally_is_exploitable_about_and/)
+- [[AskJS] Has anyone used the facebook api?](https://www.reddit.com/r/javascript/comments/1h3usnv/askjs_has_anyone_used_the_facebook_api/)
 - [[AskJS] Reducing Web Worker Communication Overhead in Data-Intensive Applications](https://www.reddit.com/r/javascript/comments/1h3m2rv/askjs_reducing_web_worker_communication_overhead/)
 - [[AskJS] Looking for a Modern, Performant JavaScript UI Library for IE10/Chakra on Xbox &lpar;No Build Tools, No jQuery&rpar;](https://www.reddit.com/r/javascript/comments/1h3i1l7/askjs_looking_for_a_modern_performant_javascript/)
 - [[AskJS] Program Design, OOP, JavaScript](https://www.reddit.com/r/javascript/comments/1h3dzcn/askjs_program_design_oop_javascript/)
 - [Showoff Saturday &lpar;November 30, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1h37ts0/showoff_saturday_november_30_2024/)
 - [[AskJS] What do you think about lazily evaluated objects?](https://www.reddit.com/r/javascript/comments/1h2ln06/askjs_what_do_you_think_about_lazily_evaluated/)
-- [[AskJS] Suggestions for JS code editors](https://www.reddit.com/r/javascript/comments/1h2k6sy/askjs_suggestions_for_js_code_editors/)
-- [[AskJS] What&#39;s the tech stack you would recommend me for landing pages with 3D?](https://www.reddit.com/r/javascript/comments/1h1wgtz/askjs_whats_the_tech_stack_you_would_recommend_me/)
-- [[AskJS] We are in 2024. Do we still need the semi-colon or not?](https://www.reddit.com/r/javascript/comments/1h1vkxl/askjs_we_are_in_2024_do_we_still_need_the/)
-- [Neutralinojs v5.5 released](https://www.reddit.com/r/javascript/comments/1h1tbpl/neutralinojs_v55_released/)
-- [[AskJS] Node.js or Python for API development like for a 2-in-1 Soccer News &amp; Player Profiles API?](https://www.reddit.com/r/javascript/comments/1h1nhh0/askjs_nodejs_or_python_for_api_development_like/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
