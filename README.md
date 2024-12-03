@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Simple Meal planner AI, Add calorie and get meal based on calorie](https://www.reddit.com/r/javascript/comments/1h5aa21/simple_meal_planner_ai_add_calorie_and_get_meal/)
+- [I made a gamified task manager because regular todo-apps are boring](https://www.reddit.com/r/javascript/comments/1h55yht/i_made_a_gamified_task_manager_because_regular/)
+- [Telegram for developers. An easy way to send yourself push notifications.](https://www.reddit.com/r/javascript/comments/1h4ydml/telegram_for_developers_an_easy_way_to_send/)
+- [How to use PyJokes in Other Programming Languages?!](https://www.reddit.com/r/javascript/comments/1h4vwof/how_to_use_pyjokes_in_other_programming_languages/)
+- [ComputeLite is a true serverless tool that leverages the power of WebAssembly &lpar;WASM&rpar; and SQLite OPFS](https://www.reddit.com/r/javascript/comments/1h4svea/computelite_is_a_true_serverless_tool_that/)
+- [[AskJS] Any polyfill library to use TC39 Signals?](https://www.reddit.com/r/javascript/comments/1h4s7l2/askjs_any_polyfill_library_to_use_tc39_signals/)
+- [[AskJS] Any local database like pocketbase?](https://www.reddit.com/r/javascript/comments/1h4nbhd/askjs_any_local_database_like_pocketbase/)
 - [BunBuster: A ridiculously fast web &amp; TCP fuzzer designed for brute-forcing directories, subdomains, and files on web servers.](https://www.reddit.com/r/javascript/comments/1h4a95t/bunbuster_a_ridiculously_fast_web_tcp_fuzzer/)
 - [Jeasx 1.1.0 released - Server-Side Rendering Framework on top of Async JSX - Now More Customizable Than Ever](https://www.reddit.com/r/javascript/comments/1h45wqv/jeasx_110_released_serverside_rendering_framework/)
 - [Playwright E2E Testing with a MERN Stack Project. A video tutorial is also available on YouTube. The link can be found in the Git README.](https://www.reddit.com/r/javascript/comments/1h45i2p/playwright_e2e_testing_with_a_mern_stack_project/)
-- [[AskJS] What specifcally is exploitable about and how would you exploit node:wasi?](https://www.reddit.com/r/javascript/comments/1h44k5r/askjs_what_specifcally_is_exploitable_about_and/)
-- [[AskJS] Has anyone used the facebook api?](https://www.reddit.com/r/javascript/comments/1h3usnv/askjs_has_anyone_used_the_facebook_api/)
-- [[AskJS] Reducing Web Worker Communication Overhead in Data-Intensive Applications](https://www.reddit.com/r/javascript/comments/1h3m2rv/askjs_reducing_web_worker_communication_overhead/)
-- [[AskJS] Looking for a Modern, Performant JavaScript UI Library for IE10/Chakra on Xbox &lpar;No Build Tools, No jQuery&rpar;](https://www.reddit.com/r/javascript/comments/1h3i1l7/askjs_looking_for_a_modern_performant_javascript/)
-- [[AskJS] Program Design, OOP, JavaScript](https://www.reddit.com/r/javascript/comments/1h3dzcn/askjs_program_design_oop_javascript/)
-- [Showoff Saturday &lpar;November 30, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1h37ts0/showoff_saturday_november_30_2024/)
-- [[AskJS] What do you think about lazily evaluated objects?](https://www.reddit.com/r/javascript/comments/1h2ln06/askjs_what_do_you_think_about_lazily_evaluated/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
