@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Any recommendation for a book that goes in-depth into both JS and TS at the same time?](https://www.reddit.com/r/javascript/comments/1h65dca/askjs_any_recommendation_for_a_book_that_goes/)
+- [Render v0.2 update - JSX support, event store, handlers &amp; bugfixes](https://www.reddit.com/r/javascript/comments/1h5wphx/render_v02_update_jsx_support_event_store/)
+- [Demo: 3D fluid simulation using WebGPU](https://www.reddit.com/r/javascript/comments/1h5qr18/demo_3d_fluid_simulation_using_webgpu/)
+- [Take your project to the next level and save time by automating the review of key principles of a healthy project!](https://www.reddit.com/r/javascript/comments/1h5miva/take_your_project_to_the_next_level_and_save_time/)
+- [[AskJS] Would you like to benefit from macros?](https://www.reddit.com/r/javascript/comments/1h5jn98/askjs_would_you_like_to_benefit_from_macros/)
 - [Simple Meal planner AI, Add calorie and get meal based on calorie](https://www.reddit.com/r/javascript/comments/1h5aa21/simple_meal_planner_ai_add_calorie_and_get_meal/)
 - [I made a gamified task manager because regular todo-apps are boring](https://www.reddit.com/r/javascript/comments/1h55yht/i_made_a_gamified_task_manager_because_regular/)
 - [Telegram for developers. An easy way to send yourself push notifications.](https://www.reddit.com/r/javascript/comments/1h4ydml/telegram_for_developers_an_easy_way_to_send/)
 - [How to use PyJokes in Other Programming Languages?!](https://www.reddit.com/r/javascript/comments/1h4vwof/how_to_use_pyjokes_in_other_programming_languages/)
 - [ComputeLite is a true serverless tool that leverages the power of WebAssembly &lpar;WASM&rpar; and SQLite OPFS](https://www.reddit.com/r/javascript/comments/1h4svea/computelite_is_a_true_serverless_tool_that/)
-- [[AskJS] Any polyfill library to use TC39 Signals?](https://www.reddit.com/r/javascript/comments/1h4s7l2/askjs_any_polyfill_library_to_use_tc39_signals/)
-- [[AskJS] Any local database like pocketbase?](https://www.reddit.com/r/javascript/comments/1h4nbhd/askjs_any_local_database_like_pocketbase/)
-- [BunBuster: A ridiculously fast web &amp; TCP fuzzer designed for brute-forcing directories, subdomains, and files on web servers.](https://www.reddit.com/r/javascript/comments/1h4a95t/bunbuster_a_ridiculously_fast_web_tcp_fuzzer/)
-- [Jeasx 1.1.0 released - Server-Side Rendering Framework on top of Async JSX - Now More Customizable Than Ever](https://www.reddit.com/r/javascript/comments/1h45wqv/jeasx_110_released_serverside_rendering_framework/)
-- [Playwright E2E Testing with a MERN Stack Project. A video tutorial is also available on YouTube. The link can be found in the Git README.](https://www.reddit.com/r/javascript/comments/1h45i2p/playwright_e2e_testing_with_a_mern_stack_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
