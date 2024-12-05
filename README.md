@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Any recommendation for a book that goes in-depth into both JS and TS at the same time?](https://www.reddit.com/r/javascript/comments/1h65dca/askjs_any_recommendation_for_a_book_that_goes/)
-- [Render v0.2 update - JSX support, event store, handlers &amp; bugfixes](https://www.reddit.com/r/javascript/comments/1h5wphx/render_v02_update_jsx_support_event_store/)
-- [Demo: 3D fluid simulation using WebGPU](https://www.reddit.com/r/javascript/comments/1h5qr18/demo_3d_fluid_simulation_using_webgpu/)
-- [Take your project to the next level and save time by automating the review of key principles of a healthy project!](https://www.reddit.com/r/javascript/comments/1h5miva/take_your_project_to_the_next_level_and_save_time/)
-- [[AskJS] Would you like to benefit from macros?](https://www.reddit.com/r/javascript/comments/1h5jn98/askjs_would_you_like_to_benefit_from_macros/)
-- [Simple Meal planner AI, Add calorie and get meal based on calorie](https://www.reddit.com/r/javascript/comments/1h5aa21/simple_meal_planner_ai_add_calorie_and_get_meal/)
-- [I made a gamified task manager because regular todo-apps are boring](https://www.reddit.com/r/javascript/comments/1h55yht/i_made_a_gamified_task_manager_because_regular/)
-- [Telegram for developers. An easy way to send yourself push notifications.](https://www.reddit.com/r/javascript/comments/1h4ydml/telegram_for_developers_an_easy_way_to_send/)
-- [How to use PyJokes in Other Programming Languages?!](https://www.reddit.com/r/javascript/comments/1h4vwof/how_to_use_pyjokes_in_other_programming_languages/)
-- [ComputeLite is a true serverless tool that leverages the power of WebAssembly &lpar;WASM&rpar; and SQLite OPFS](https://www.reddit.com/r/javascript/comments/1h4svea/computelite_is_a_true_serverless_tool_that/)
+- [[AskJS] Need help publishing/releasing NPM package with Github Action](https://www.reddit.com/r/javascript/comments/1h6qkjy/askjs_need_help_publishingreleasing_npm_package/)
+- [Introducing Uniffi for React Native: Rust-Powered Turbo Modules](https://www.reddit.com/r/javascript/comments/1h6qd86/introducing_uniffi_for_react_native_rustpowered/)
+- [[AskJS] NEED HELP: Creating a PSD-based image customization system in NodeJS](https://www.reddit.com/r/javascript/comments/1h6q7fb/askjs_need_help_creating_a_psdbased_image/)
+- [CheerpX 1.0: high performance x86 virtualization in the browser via WebAssembly](https://www.reddit.com/r/javascript/comments/1h6h3xb/cheerpx_10_high_performance_x86_virtualization_in/)
+- [Bringing Rust&#39;s Option and if-let to JavaScript](https://www.reddit.com/r/javascript/comments/1h6h1zg/bringing_rusts_option_and_iflet_to_javascript/)
+- [New Disposable APIs in Javascript | Jonathan&#39;s Blog](https://www.reddit.com/r/javascript/comments/1h6ft6y/new_disposable_apis_in_javascript_jonathans_blog/)
+- [Open source authorization solution for RBAC and ABAC with JavaScript SDK &lpar;also has a playground with pre-built examples, which I like&rpar;](https://www.reddit.com/r/javascript/comments/1h6ffj4/open_source_authorization_solution_for_rbac_and/)
+- [[AskJS] In 2024, is it better to use &lt;script async ... &gt; to load non-blocking scripts, or use a script loader?](https://www.reddit.com/r/javascript/comments/1h6cqja/askjs_in_2024_is_it_better_to_use_script_async_to/)
+- [[AskJS] Any open source libraries that can dynamically process JS code and frameworks](https://www.reddit.com/r/javascript/comments/1h6b491/askjs_any_open_source_libraries_that_can/)
+- [WTF Wednesday &lpar;December 04, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1h6b1ju/wtf_wednesday_december_04_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
