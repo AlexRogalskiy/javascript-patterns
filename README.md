@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Need help publishing/releasing NPM package with Github Action](https://www.reddit.com/r/javascript/comments/1h6qkjy/askjs_need_help_publishingreleasing_npm_package/)
+- [A runtime later... the debugging experience sucks anyway](https://www.reddit.com/r/javascript/comments/1h7huvn/a_runtime_later_the_debugging_experience_sucks/)
+- [React v19 has been released](https://www.reddit.com/r/javascript/comments/1h7gk20/react_v19_has_been_released/)
+- [[AskJS] Should I go all-in on mjs?](https://www.reddit.com/r/javascript/comments/1h7cl1d/askjs_should_i_go_allin_on_mjs/)
+- [Zip archives creation in 219 loc of JS &lpar;in the browser, no dependencies&rpar;](https://www.reddit.com/r/javascript/comments/1h79jwv/zip_archives_creation_in_219_loc_of_js_in_the/)
+- [After years using semantic-release, I developed a lightweight alternative tailored for smaller projects – with no dependencies, customizable release notes, and an easy setup to streamline versioning and releases without the extra overhead.](https://www.reddit.com/r/javascript/comments/1h740qp/after_years_using_semanticrelease_i_developed_a/)
+- [[AskJS] What’s your JS tech stack in 2024](https://www.reddit.com/r/javascript/comments/1h72z8y/askjs_whats_your_js_tech_stack_in_2024/)
+- [Serverless Architecture with Node.js: Practical Use Cases](https://www.reddit.com/r/javascript/comments/1h6zzpo/serverless_architecture_with_nodejs_practical_use/)
+- [[AskJS] I think we should avoid intermediate data structure](https://www.reddit.com/r/javascript/comments/1h6zgqw/askjs_i_think_we_should_avoid_intermediate_data/)
 - [Introducing Uniffi for React Native: Rust-Powered Turbo Modules](https://www.reddit.com/r/javascript/comments/1h6qd86/introducing_uniffi_for_react_native_rustpowered/)
-- [[AskJS] NEED HELP: Creating a PSD-based image customization system in NodeJS](https://www.reddit.com/r/javascript/comments/1h6q7fb/askjs_need_help_creating_a_psdbased_image/)
 - [CheerpX 1.0: high performance x86 virtualization in the browser via WebAssembly](https://www.reddit.com/r/javascript/comments/1h6h3xb/cheerpx_10_high_performance_x86_virtualization_in/)
-- [Bringing Rust&#39;s Option and if-let to JavaScript](https://www.reddit.com/r/javascript/comments/1h6h1zg/bringing_rusts_option_and_iflet_to_javascript/)
-- [New Disposable APIs in Javascript | Jonathan&#39;s Blog](https://www.reddit.com/r/javascript/comments/1h6ft6y/new_disposable_apis_in_javascript_jonathans_blog/)
-- [Open source authorization solution for RBAC and ABAC with JavaScript SDK &lpar;also has a playground with pre-built examples, which I like&rpar;](https://www.reddit.com/r/javascript/comments/1h6ffj4/open_source_authorization_solution_for_rbac_and/)
-- [[AskJS] In 2024, is it better to use &lt;script async ... &gt; to load non-blocking scripts, or use a script loader?](https://www.reddit.com/r/javascript/comments/1h6cqja/askjs_in_2024_is_it_better_to_use_script_async_to/)
-- [[AskJS] Any open source libraries that can dynamically process JS code and frameworks](https://www.reddit.com/r/javascript/comments/1h6b491/askjs_any_open_source_libraries_that_can/)
-- [WTF Wednesday &lpar;December 04, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1h6b1ju/wtf_wednesday_december_04_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
