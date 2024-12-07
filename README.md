@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [A runtime later... the debugging experience sucks anyway](https://www.reddit.com/r/javascript/comments/1h7huvn/a_runtime_later_the_debugging_experience_sucks/)
+- [[AskJS] Buttons grouped or buttons not grouped??](https://www.reddit.com/r/javascript/comments/1h8i921/askjs_buttons_grouped_or_buttons_not_grouped/)
+- [Search Engine of 200k+ Open Source Free SVG Icons](https://www.reddit.com/r/javascript/comments/1h8i6d3/search_engine_of_200k_open_source_free_svg_icons/)
+- [How to build document access control with S3, WorkOS FGA, and Lambda authorizers](https://www.reddit.com/r/javascript/comments/1h808kf/how_to_build_document_access_control_with_s3/)
+- [[AskJS] JavaScript or Python?](https://www.reddit.com/r/javascript/comments/1h808b0/askjs_javascript_or_python/)
+- [[AskJS] Offline AI on Apple Silicon, preferably integrated with an IDE or Sublime?](https://www.reddit.com/r/javascript/comments/1h7z33a/askjs_offline_ai_on_apple_silicon_preferably/)
+- [How To Write Fast Memory-Efficient JavaScript](https://www.reddit.com/r/javascript/comments/1h7x1rk/how_to_write_fast_memoryefficient_javascript/)
+- [Speed up your AI &amp; LLM-integration with HTTP-Streaming](https://www.reddit.com/r/javascript/comments/1h7w8uc/speed_up_your_ai_llmintegration_with_httpstreaming/)
 - [React v19 has been released](https://www.reddit.com/r/javascript/comments/1h7gk20/react_v19_has_been_released/)
 - [[AskJS] Should I go all-in on mjs?](https://www.reddit.com/r/javascript/comments/1h7cl1d/askjs_should_i_go_allin_on_mjs/)
 - [Zip archives creation in 219 loc of JS &lpar;in the browser, no dependencies&rpar;](https://www.reddit.com/r/javascript/comments/1h79jwv/zip_archives_creation_in_219_loc_of_js_in_the/)
-- [After years using semantic-release, I developed a lightweight alternative tailored for smaller projects – with no dependencies, customizable release notes, and an easy setup to streamline versioning and releases without the extra overhead.](https://www.reddit.com/r/javascript/comments/1h740qp/after_years_using_semanticrelease_i_developed_a/)
-- [[AskJS] What’s your JS tech stack in 2024](https://www.reddit.com/r/javascript/comments/1h72z8y/askjs_whats_your_js_tech_stack_in_2024/)
-- [Serverless Architecture with Node.js: Practical Use Cases](https://www.reddit.com/r/javascript/comments/1h6zzpo/serverless_architecture_with_nodejs_practical_use/)
-- [[AskJS] I think we should avoid intermediate data structure](https://www.reddit.com/r/javascript/comments/1h6zgqw/askjs_i_think_we_should_avoid_intermediate_data/)
-- [Introducing Uniffi for React Native: Rust-Powered Turbo Modules](https://www.reddit.com/r/javascript/comments/1h6qd86/introducing_uniffi_for_react_native_rustpowered/)
-- [CheerpX 1.0: high performance x86 virtualization in the browser via WebAssembly](https://www.reddit.com/r/javascript/comments/1h6h3xb/cheerpx_10_high_performance_x86_virtualization_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
