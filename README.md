@@ -277,8 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Hey Deno, time to take the lead. Make Node.js be compatible with Deno: &quot;sandboxing may or may not be implemented&quot; is vague, not specificity, wishy-washy](https://www.reddit.com/r/javascript/comments/1h9mri0/hey_deno_time_to_take_the_lead_make_nodejs_be/)
+- [[AskJS] philosophical question: is typescript a javascript library or a different language that is going to replace JavaScript](https://www.reddit.com/r/javascript/comments/1h9fnf5/askjs_philosophical_question_is_typescript_a/)
 - [Tic Tac Toe in Vue with extra features](https://www.reddit.com/r/javascript/comments/1h92ps3/tic_tac_toe_in_vue_with_extra_features/)
-- [How to share components between sites](https://www.reddit.com/r/javascript/comments/1h90wat/how_to_share_components_between_sites/)
 - [I spent 2 years migrating my algorithmic trading platform from TypeScript to Rust. I have no regrets.](https://www.reddit.com/r/javascript/comments/1h8z147/i_spent_2_years_migrating_my_algorithmic_trading/)
 - [Showoff Saturday &lpar;December 07, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1h8nrvk/showoff_saturday_december_07_2024/)
 - [How to build document access control with S3, WorkOS FGA, and Lambda authorizers](https://www.reddit.com/r/javascript/comments/1h808kf/how_to_build_document_access_control_with_s3/)
@@ -286,7 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [How To Write Fast Memory-Efficient JavaScript](https://www.reddit.com/r/javascript/comments/1h7x1rk/how_to_write_fast_memoryefficient_javascript/)
 - [Speed up your AI &amp; LLM-integration with HTTP-Streaming](https://www.reddit.com/r/javascript/comments/1h7w8uc/speed_up_your_ai_llmintegration_with_httpstreaming/)
 - [React v19 has been released](https://www.reddit.com/r/javascript/comments/1h7gk20/react_v19_has_been_released/)
-- [[AskJS] Should I go all-in on mjs?](https://www.reddit.com/r/javascript/comments/1h7cl1d/askjs_should_i_go_allin_on_mjs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
