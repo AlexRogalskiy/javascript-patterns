@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Dependency Checker CLI is a powerful command-line tool that analyzes the dependencies in your package.json file](https://www.reddit.com/r/javascript/comments/1hbapdk/dependency_checker_cli_is_a_powerful_commandline/)
+- [@react-hookz/deep-equal: The fastest deep comparator with full ES6+ support.](https://www.reddit.com/r/javascript/comments/1hbactd/reacthookzdeepequal_the_fastest_deep_comparator/)
+- [Sheriff v25: Full v9 compatibility achieved internally](https://www.reddit.com/r/javascript/comments/1hb780u/sheriff_v25_full_v9_compatibility_achieved/)
+- [Since Node.js&#39; node:wasi is hopelessly broken in mysterious ways, here&#39;s to calling wasmtime from Node.js, Deno, and Bun](https://www.reddit.com/r/javascript/comments/1hb31zr/since_nodejs_nodewasi_is_hopelessly_broken_in/)
+- [[AskJS] Recommendation for a JavaScript Library for Copy to Clipboard &lpar;Compatible with AJAX&rpar;?](https://www.reddit.com/r/javascript/comments/1hb0neh/askjs_recommendation_for_a_javascript_library_for/)
+- [High-level architecture of my point-of-sales app &lpar;Vue, IndexedDB, Electron, React Native &amp; a Laravel backend&rpar;](https://www.reddit.com/r/javascript/comments/1hayzbd/highlevel_architecture_of_my_pointofsales_app_vue/)
+- [I wrote a opensource BSON toolkit for manipulating, analyzing and cleaning BSON files](https://www.reddit.com/r/javascript/comments/1hay8gk/i_wrote_a_opensource_bson_toolkit_for/)
 - [[AskJS] What’s the best approach for building a cross-platform app for mobile and desktop?](https://www.reddit.com/r/javascript/comments/1hamv3w/askjs_whats_the_best_approach_for_building_a/)
-- [[AskJS] TypeQuery: SQL query builder library built with TypeScript](https://www.reddit.com/r/javascript/comments/1hahpyr/askjs_typequery_sql_query_builder_library_built/)
 - [Dynamic OG Images With Remix](https://www.reddit.com/r/javascript/comments/1hagps4/dynamic_og_images_with_remix/)
-- [[AskJS] Why is my boid algorithm renders ugly looking swarm?](https://www.reddit.com/r/javascript/comments/1hagirb/askjs_why_is_my_boid_algorithm_renders_ugly/)
-- [[AskJS] HomeostasisJS: A Linter for a Well-Structured JavaScript Project](https://www.reddit.com/r/javascript/comments/1hagcx8/askjs_homeostasisjs_a_linter_for_a_wellstructured/)
 - [[Protobuf] Replace Buf Remote Plugins with local vendored plugins [by using bun]](https://www.reddit.com/r/javascript/comments/1haefwo/protobuf_replace_buf_remote_plugins_with_local/)
-- [How to Implement Pagination with JavaScript](https://www.reddit.com/r/javascript/comments/1habq00/how_to_implement_pagination_with_javascript/)
-- [Creating a BLE Chat Application with node js &lpar; source code available&rpar;](https://www.reddit.com/r/javascript/comments/1haatk0/creating_a_ble_chat_application_with_node_js/)
-- [JavaScript Quiz for Beginners: Test Your Knowledge](https://www.reddit.com/r/javascript/comments/1ha8ilk/javascript_quiz_for_beginners_test_your_knowledge/)
-- [[AskJS] Which JavaScript libraries are you ready to ditch in 2025?](https://www.reddit.com/r/javascript/comments/1ha7qds/askjs_which_javascript_libraries_are_you_ready_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
