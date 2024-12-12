@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Was Bringing JavaScript to the Server a Good Decision or Bad?](https://www.reddit.com/r/javascript/comments/1hc015j/askjs_was_bringing_javascript_to_the_server_a/)
+- [The State of Node.js Performance 2024](https://www.reddit.com/r/javascript/comments/1hbzvex/the_state_of_nodejs_performance_2024/)
+- [[AskJS] Framework like React or Pure JavaScript for Lightweight UI Library as a Service with API Integration](https://www.reddit.com/r/javascript/comments/1hbr6nb/askjs_framework_like_react_or_pure_javascript_for/)
+- [WTF Wednesday &lpar;December 11, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1hbonq4/wtf_wednesday_december_11_2024/)
+- [[AskJS] Former MERN stack developer getting back into it after 4 years, what new stuff should I check out?](https://www.reddit.com/r/javascript/comments/1hblthh/askjs_former_mern_stack_developer_getting_back/)
+- [I have built a Stripe.dev-like Terminal for the Browser](https://www.reddit.com/r/javascript/comments/1hbkxzi/i_have_built_a_stripedevlike_terminal_for_the/)
 - [Dependency Checker CLI is a powerful command-line tool that analyzes the dependencies in your package.json file](https://www.reddit.com/r/javascript/comments/1hbapdk/dependency_checker_cli_is_a_powerful_commandline/)
 - [@react-hookz/deep-equal: The fastest deep comparator with full ES6+ support.](https://www.reddit.com/r/javascript/comments/1hbactd/reacthookzdeepequal_the_fastest_deep_comparator/)
 - [Sheriff v25: Full v9 compatibility achieved internally](https://www.reddit.com/r/javascript/comments/1hb780u/sheriff_v25_full_v9_compatibility_achieved/)
 - [Since Node.js&#39; node:wasi is hopelessly broken in mysterious ways, here&#39;s to calling wasmtime from Node.js, Deno, and Bun](https://www.reddit.com/r/javascript/comments/1hb31zr/since_nodejs_nodewasi_is_hopelessly_broken_in/)
-- [[AskJS] Recommendation for a JavaScript Library for Copy to Clipboard &lpar;Compatible with AJAX&rpar;?](https://www.reddit.com/r/javascript/comments/1hb0neh/askjs_recommendation_for_a_javascript_library_for/)
-- [High-level architecture of my point-of-sales app &lpar;Vue, IndexedDB, Electron, React Native &amp; a Laravel backend&rpar;](https://www.reddit.com/r/javascript/comments/1hayzbd/highlevel_architecture_of_my_pointofsales_app_vue/)
-- [I wrote a opensource BSON toolkit for manipulating, analyzing and cleaning BSON files](https://www.reddit.com/r/javascript/comments/1hay8gk/i_wrote_a_opensource_bson_toolkit_for/)
-- [[AskJS] What’s the best approach for building a cross-platform app for mobile and desktop?](https://www.reddit.com/r/javascript/comments/1hamv3w/askjs_whats_the_best_approach_for_building_a/)
-- [Dynamic OG Images With Remix](https://www.reddit.com/r/javascript/comments/1hagps4/dynamic_og_images_with_remix/)
-- [[Protobuf] Replace Buf Remote Plugins with local vendored plugins [by using bun]](https://www.reddit.com/r/javascript/comments/1haefwo/protobuf_replace_buf_remote_plugins_with_local/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
