@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] How to import a function from a Javascript module and use it inside a HTML page?](https://www.reddit.com/r/javascript/comments/1hd0c0k/askjs_how_to_import_a_function_from_a_javascript/)
+- [smoores.dev - Announcing: @smoores/epub](https://www.reddit.com/r/javascript/comments/1hdkun0/smooresdev_announcing_smooresepub/)
 - [finder v4: CSS selector generator](https://www.reddit.com/r/javascript/comments/1hcyjq3/finder_v4_css_selector_generator/)
 - [TypeScript data structure implementations without external dependencies. Fast and Fully Tested](https://www.reddit.com/r/javascript/comments/1hcwqd2/typescript_data_structure_implementations_without/)
-- [I Wrote a DSL for Building Forms &lpar;like Prisma but for forms&rpar;](https://www.reddit.com/r/javascript/comments/1hcq20u/i_wrote_a_dsl_for_building_forms_like_prisma_but/)
 - [Monoco - squircle corners for html elements](https://www.reddit.com/r/javascript/comments/1hcn6ch/monoco_squircle_corners_for_html_elements/)
 - [[AskJS] Is not using optional chaining a bad practice?](https://www.reddit.com/r/javascript/comments/1hcd56s/askjs_is_not_using_optional_chaining_a_bad/)
 - [[AskJS] Was Bringing JavaScript to the Server a Good Decision or Bad?](https://www.reddit.com/r/javascript/comments/1hc015j/askjs_was_bringing_javascript_to_the_server_a/)
 - [The State of Node.js Performance 2024](https://www.reddit.com/r/javascript/comments/1hbzvex/the_state_of_nodejs_performance_2024/)
 - [[AskJS] Framework like React or Pure JavaScript for Lightweight UI Library as a Service with API Integration](https://www.reddit.com/r/javascript/comments/1hbr6nb/askjs_framework_like_react_or_pure_javascript_for/)
 - [WTF Wednesday &lpar;December 11, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1hbonq4/wtf_wednesday_december_11_2024/)
+- [[AskJS] Former MERN stack developer getting back into it after 4 years, what new stuff should I check out?](https://www.reddit.com/r/javascript/comments/1hblthh/askjs_former_mern_stack_developer_getting_back/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
