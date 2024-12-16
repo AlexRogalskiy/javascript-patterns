@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Need help with converting Excel to PDF](https://www.reddit.com/r/javascript/comments/1heimat/askjs_need_help_with_converting_excel_to_pdf/)
+- [AlgoSpeedRun - Solve as many algorithms as you can in a set amount of time.](https://www.reddit.com/r/javascript/comments/1hf3tfi/algospeedrun_solve_as_many_algorithms_as_you_can/)
+- [NanoMD - Lightweight MD Editor](https://www.reddit.com/r/javascript/comments/1hey4e6/nanomd_lightweight_md_editor/)
+- [JS-Confuser 2.0: A powerful JavaScript obfuscation tool made by me! Check out this demo here:](https://www.reddit.com/r/javascript/comments/1hexdxg/jsconfuser_20_a_powerful_javascript_obfuscation/)
+- [Feedback Appreciated for Tailwind CSS Sports Components. Free Tier Pack! [No account creation required!]](https://www.reddit.com/r/javascript/comments/1hev712/feedback_appreciated_for_tailwind_css_sports/)
+- [node-wasi-preopens-escape](https://www.reddit.com/r/javascript/comments/1het6eu/nodewasipreopensescape/)
+- [GitHub - lamualfa/only-make: One-liner helper to initialize complex local dependent variable.](https://www.reddit.com/r/javascript/comments/1hepqus/github_lamualfaonlymake_oneliner_helper_to/)
 - [[AskJS] Type checking &lpar;vanilla javascript&rpar; use cases](https://www.reddit.com/r/javascript/comments/1he547d/askjs_type_checking_vanilla_javascript_use_cases/)
 - [Source to Prompt- Turn your code into an LLM prompt, but with more features](https://www.reddit.com/r/javascript/comments/1he256d/source_to_prompt_turn_your_code_into_an_llm/)
 - [Showoff Saturday &lpar;December 14, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1hdy56k/showoff_saturday_december_14_2024/)
 - [smoores.dev - Announcing: @smoores/epub](https://www.reddit.com/r/javascript/comments/1hdkun0/smooresdev_announcing_smooresepub/)
-- [finder v4: CSS selector generator](https://www.reddit.com/r/javascript/comments/1hcyjq3/finder_v4_css_selector_generator/)
-- [TypeScript data structure implementations without external dependencies. Fast and Fully Tested](https://www.reddit.com/r/javascript/comments/1hcwqd2/typescript_data_structure_implementations_without/)
-- [Monoco - squircle corners for html elements](https://www.reddit.com/r/javascript/comments/1hcn6ch/monoco_squircle_corners_for_html_elements/)
-- [[AskJS] Is not using optional chaining a bad practice?](https://www.reddit.com/r/javascript/comments/1hcd56s/askjs_is_not_using_optional_chaining_a_bad/)
-- [[AskJS] Was Bringing JavaScript to the Server a Good Decision or Bad?](https://www.reddit.com/r/javascript/comments/1hc015j/askjs_was_bringing_javascript_to_the_server_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
