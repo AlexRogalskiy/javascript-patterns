@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] How to switch from Typescript to Javascript](https://www.reddit.com/r/javascript/comments/1hfr4l8/askjs_how_to_switch_from_typescript_to_javascript/)
+- [[Show Reddit] i made a modal plugin for users feedback](https://www.reddit.com/r/javascript/comments/1hfnycr/show_reddit_i_made_a_modal_plugin_for_users/)
+- [[AskJS] why we need to set the value of &#39;this&#39; ?](https://www.reddit.com/r/javascript/comments/1hfmxzi/askjs_why_we_need_to_set_the_value_of_this/)
+- [[Show Reddit] I rebuilt my website like Windows 95](https://www.reddit.com/r/javascript/comments/1hfm63d/show_reddit_i_rebuilt_my_website_like_windows_95/)
+- [Why I choose JavaScript for my project that includes: UI, Graphics, Math, Audio, and Media on Any Device](https://www.reddit.com/r/javascript/comments/1hfln7y/why_i_choose_javascript_for_my_project_that/)
+- [High-Performance, Multithreading-Ready State Management for Building Flexible Web Applications](https://www.reddit.com/r/javascript/comments/1hfl0ze/highperformance_multithreadingready_state/)
+- [[Show reddit] Exploring JavaScript – ES2024 edition &lpar;free online&rpar;](https://www.reddit.com/r/javascript/comments/1hfl0sd/show_reddit_exploring_javascript_es2024_edition/)
+- [[AskJS] :: Who Will Become the Better Engineer: A Deep Specialist or a Well-Rounded Generalist?](https://www.reddit.com/r/javascript/comments/1hffsk5/askjs_who_will_become_the_better_engineer_a_deep/)
 - [AlgoSpeedRun - Solve as many algorithms as you can in a set amount of time.](https://www.reddit.com/r/javascript/comments/1hf3tfi/algospeedrun_solve_as_many_algorithms_as_you_can/)
 - [NanoMD - Lightweight MD Editor](https://www.reddit.com/r/javascript/comments/1hey4e6/nanomd_lightweight_md_editor/)
-- [JS-Confuser 2.0: A powerful JavaScript obfuscation tool made by me! Check out this demo here:](https://www.reddit.com/r/javascript/comments/1hexdxg/jsconfuser_20_a_powerful_javascript_obfuscation/)
-- [Feedback Appreciated for Tailwind CSS Sports Components. Free Tier Pack! [No account creation required!]](https://www.reddit.com/r/javascript/comments/1hev712/feedback_appreciated_for_tailwind_css_sports/)
-- [node-wasi-preopens-escape](https://www.reddit.com/r/javascript/comments/1het6eu/nodewasipreopensescape/)
-- [GitHub - lamualfa/only-make: One-liner helper to initialize complex local dependent variable.](https://www.reddit.com/r/javascript/comments/1hepqus/github_lamualfaonlymake_oneliner_helper_to/)
-- [[AskJS] Type checking &lpar;vanilla javascript&rpar; use cases](https://www.reddit.com/r/javascript/comments/1he547d/askjs_type_checking_vanilla_javascript_use_cases/)
-- [Source to Prompt- Turn your code into an LLM prompt, but with more features](https://www.reddit.com/r/javascript/comments/1he256d/source_to_prompt_turn_your_code_into_an_llm/)
-- [Showoff Saturday &lpar;December 14, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1hdy56k/showoff_saturday_december_14_2024/)
-- [smoores.dev - Announcing: @smoores/epub](https://www.reddit.com/r/javascript/comments/1hdkun0/smooresdev_announcing_smooresepub/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
