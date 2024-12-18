@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Dadado - Improved Performance for Lightweight LRU Cache](https://www.reddit.com/r/javascript/comments/1hghzc7/dadado_improved_performance_for_lightweight_lru/)
+- [[AskJS] What&#39;s Your Biggest Pain Point With Localization and Translation?](https://www.reddit.com/r/javascript/comments/1hgeh5r/askjs_whats_your_biggest_pain_point_with/)
+- [JSON Diagram Visualization &amp; Editor](https://www.reddit.com/r/javascript/comments/1hgctr4/json_diagram_visualization_editor/)
+- [Minimal wasi_snapshot_preview1, without preopens or filesystem read/write intended, for Deno, Node.js, Bun](https://www.reddit.com/r/javascript/comments/1hgbjj6/minimal_wasi_snapshot_preview1_without_preopens/)
+- [FlexPlyr: Modular Media Player](https://www.reddit.com/r/javascript/comments/1hg5duw/flexplyr_modular_media_player/)
 - [[AskJS] How to switch from Typescript to Javascript](https://www.reddit.com/r/javascript/comments/1hfr4l8/askjs_how_to_switch_from_typescript_to_javascript/)
 - [[Show Reddit] i made a modal plugin for users feedback](https://www.reddit.com/r/javascript/comments/1hfnycr/show_reddit_i_made_a_modal_plugin_for_users/)
-- [[AskJS] why we need to set the value of &#39;this&#39; ?](https://www.reddit.com/r/javascript/comments/1hfmxzi/askjs_why_we_need_to_set_the_value_of_this/)
 - [[Show Reddit] I rebuilt my website like Windows 95](https://www.reddit.com/r/javascript/comments/1hfm63d/show_reddit_i_rebuilt_my_website_like_windows_95/)
 - [Why I choose JavaScript for my project that includes: UI, Graphics, Math, Audio, and Media on Any Device](https://www.reddit.com/r/javascript/comments/1hfln7y/why_i_choose_javascript_for_my_project_that/)
 - [High-Performance, Multithreading-Ready State Management for Building Flexible Web Applications](https://www.reddit.com/r/javascript/comments/1hfl0ze/highperformance_multithreadingready_state/)
-- [[Show reddit] Exploring JavaScript – ES2024 edition &lpar;free online&rpar;](https://www.reddit.com/r/javascript/comments/1hfl0sd/show_reddit_exploring_javascript_es2024_edition/)
-- [[AskJS] :: Who Will Become the Better Engineer: A Deep Specialist or a Well-Rounded Generalist?](https://www.reddit.com/r/javascript/comments/1hffsk5/askjs_who_will_become_the_better_engineer_a_deep/)
-- [AlgoSpeedRun - Solve as many algorithms as you can in a set amount of time.](https://www.reddit.com/r/javascript/comments/1hf3tfi/algospeedrun_solve_as_many_algorithms_as_you_can/)
-- [NanoMD - Lightweight MD Editor](https://www.reddit.com/r/javascript/comments/1hey4e6/nanomd_lightweight_md_editor/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
