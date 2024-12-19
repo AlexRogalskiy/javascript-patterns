@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Dadado - Improved Performance for Lightweight LRU Cache](https://www.reddit.com/r/javascript/comments/1hghzc7/dadado_improved_performance_for_lightweight_lru/)
-- [[AskJS] What&#39;s Your Biggest Pain Point With Localization and Translation?](https://www.reddit.com/r/javascript/comments/1hgeh5r/askjs_whats_your_biggest_pain_point_with/)
-- [JSON Diagram Visualization &amp; Editor](https://www.reddit.com/r/javascript/comments/1hgctr4/json_diagram_visualization_editor/)
-- [Minimal wasi_snapshot_preview1, without preopens or filesystem read/write intended, for Deno, Node.js, Bun](https://www.reddit.com/r/javascript/comments/1hgbjj6/minimal_wasi_snapshot_preview1_without_preopens/)
-- [FlexPlyr: Modular Media Player](https://www.reddit.com/r/javascript/comments/1hg5duw/flexplyr_modular_media_player/)
-- [[AskJS] How to switch from Typescript to Javascript](https://www.reddit.com/r/javascript/comments/1hfr4l8/askjs_how_to_switch_from_typescript_to_javascript/)
-- [[Show Reddit] i made a modal plugin for users feedback](https://www.reddit.com/r/javascript/comments/1hfnycr/show_reddit_i_made_a_modal_plugin_for_users/)
-- [[Show Reddit] I rebuilt my website like Windows 95](https://www.reddit.com/r/javascript/comments/1hfm63d/show_reddit_i_rebuilt_my_website_like_windows_95/)
-- [Why I choose JavaScript for my project that includes: UI, Graphics, Math, Audio, and Media on Any Device](https://www.reddit.com/r/javascript/comments/1hfln7y/why_i_choose_javascript_for_my_project_that/)
-- [High-Performance, Multithreading-Ready State Management for Building Flexible Web Applications](https://www.reddit.com/r/javascript/comments/1hfl0ze/highperformance_multithreadingready_state/)
+- [Open-Source React Icon Picker: Lightweight, Customizable, and Built with ShadCN, TailwindCSS!](https://www.reddit.com/r/javascript/comments/1hhh9pi/opensource_react_icon_picker_lightweight/)
+- [[AskJS] As a developer, share your on &lpar;servers, secret keys and best practices&rpar;](https://www.reddit.com/r/javascript/comments/1hhh0xd/askjs_as_a_developer_share_your_on_servers_secret/)
+- [Javascript Books by Seasoned Developers](https://www.reddit.com/r/javascript/comments/1hhcy78/javascript_books_by_seasoned_developers/)
+- [[AskJS] Real question: raw node vs raw php, is there a huge difference?](https://www.reddit.com/r/javascript/comments/1hhb6nl/askjs_real_question_raw_node_vs_raw_php_is_there/)
+- [[AskJS] Would String.prototype.splice be useful?](https://www.reddit.com/r/javascript/comments/1hh8tr9/askjs_would_stringprototypesplice_be_useful/)
+- [Storecraft CLI can create a complete JavaScript Commerce Backend](https://www.reddit.com/r/javascript/comments/1hh4q16/storecraft_cli_can_create_a_complete_javascript/)
+- [Interstice Challenge](https://www.reddit.com/r/javascript/comments/1hh3hwj/interstice_challenge/)
+- [GitHub Wrapped 2024 - Your Coding Year in Review](https://www.reddit.com/r/javascript/comments/1hh1b2s/github_wrapped_2024_your_coding_year_in_review/)
+- [State of JS 2024 Survey Results](https://www.reddit.com/r/javascript/comments/1hh054e/state_of_js_2024_survey_results/)
+- [QuickUI: Lightweight frontend framework](https://www.reddit.com/r/javascript/comments/1hgx7g1/quickui_lightweight_frontend_framework/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
