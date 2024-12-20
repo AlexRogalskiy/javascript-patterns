@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [iMessages Wrapped - Spotify Wrapped for your iMessages](https://www.reddit.com/r/javascript/comments/1hhy7ec/imessages_wrapped_spotify_wrapped_for_your/)
+- [eslint-plugin-sql – auto format SQL using ESLint](https://www.reddit.com/r/javascript/comments/1hhwhfo/eslintpluginsql_auto_format_sql_using_eslint/)
+- [Building a mental model for async programs](https://www.reddit.com/r/javascript/comments/1hhwfgi/building_a_mental_model_for_async_programs/)
+- [[AskJS] Is deno used as much as node.js in the software development industry?](https://www.reddit.com/r/javascript/comments/1hhqcsw/askjs_is_deno_used_as_much_as_nodejs_in_the/)
+- [Two-Direction-Sticky-Sidebar.js](https://www.reddit.com/r/javascript/comments/1hhontd/twodirectionstickysidebarjs/)
 - [Open-Source React Icon Picker: Lightweight, Customizable, and Built with ShadCN, TailwindCSS!](https://www.reddit.com/r/javascript/comments/1hhh9pi/opensource_react_icon_picker_lightweight/)
 - [[AskJS] As a developer, share your on &lpar;servers, secret keys and best practices&rpar;](https://www.reddit.com/r/javascript/comments/1hhh0xd/askjs_as_a_developer_share_your_on_servers_secret/)
 - [Javascript Books by Seasoned Developers](https://www.reddit.com/r/javascript/comments/1hhcy78/javascript_books_by_seasoned_developers/)
 - [[AskJS] Real question: raw node vs raw php, is there a huge difference?](https://www.reddit.com/r/javascript/comments/1hhb6nl/askjs_real_question_raw_node_vs_raw_php_is_there/)
 - [[AskJS] Would String.prototype.splice be useful?](https://www.reddit.com/r/javascript/comments/1hh8tr9/askjs_would_stringprototypesplice_be_useful/)
-- [Storecraft CLI can create a complete JavaScript Commerce Backend](https://www.reddit.com/r/javascript/comments/1hh4q16/storecraft_cli_can_create_a_complete_javascript/)
-- [Interstice Challenge](https://www.reddit.com/r/javascript/comments/1hh3hwj/interstice_challenge/)
-- [GitHub Wrapped 2024 - Your Coding Year in Review](https://www.reddit.com/r/javascript/comments/1hh1b2s/github_wrapped_2024_your_coding_year_in_review/)
-- [State of JS 2024 Survey Results](https://www.reddit.com/r/javascript/comments/1hh054e/state_of_js_2024_survey_results/)
-- [QuickUI: Lightweight frontend framework](https://www.reddit.com/r/javascript/comments/1hgx7g1/quickui_lightweight_frontend_framework/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
