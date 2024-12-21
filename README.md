@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Hi everyone! I just made this smooth scrolling effect on CodePen. It’s simple, lightweight, and might be a good addition to your projects. Let me know your thoughts or how you’d improve it!](https://www.reddit.com/r/javascript/comments/1hivhvt/hi_everyone_i_just_made_this_smooth_scrolling/)
+- [[AskJS] JS Engine, WebAPIs and the Browser](https://www.reddit.com/r/javascript/comments/1hisxb6/askjs_js_engine_webapis_and_the_browser/)
+- [#FreeJavaScript update: Oracle has reached out and asked for an extension to respond to the JavaScript trademark cancellation petition. We&#39;ve agreed to a 30 day extension - Feb 3.](https://www.reddit.com/r/javascript/comments/1hiqtkh/freejavascript_update_oracle_has_reached_out_and/)
+- [[AskJS] Any *actually good* resources about investigating memory leaks?](https://www.reddit.com/r/javascript/comments/1hilqp7/askjs_any_actually_good_resources_about/)
+- [[AskJS] do you like shipping fast?](https://www.reddit.com/r/javascript/comments/1hiljol/askjs_do_you_like_shipping_fast/)
+- [Bloom: An experimental Web Component framework](https://www.reddit.com/r/javascript/comments/1hidjg6/bloom_an_experimental_web_component_framework/)
 - [iMessages Wrapped - Spotify Wrapped for your iMessages](https://www.reddit.com/r/javascript/comments/1hhy7ec/imessages_wrapped_spotify_wrapped_for_your/)
 - [eslint-plugin-sql – auto format SQL using ESLint](https://www.reddit.com/r/javascript/comments/1hhwhfo/eslintpluginsql_auto_format_sql_using_eslint/)
 - [Building a mental model for async programs](https://www.reddit.com/r/javascript/comments/1hhwfgi/building_a_mental_model_for_async_programs/)
 - [[AskJS] Is deno used as much as node.js in the software development industry?](https://www.reddit.com/r/javascript/comments/1hhqcsw/askjs_is_deno_used_as_much_as_nodejs_in_the/)
-- [Two-Direction-Sticky-Sidebar.js](https://www.reddit.com/r/javascript/comments/1hhontd/twodirectionstickysidebarjs/)
-- [Open-Source React Icon Picker: Lightweight, Customizable, and Built with ShadCN, TailwindCSS!](https://www.reddit.com/r/javascript/comments/1hhh9pi/opensource_react_icon_picker_lightweight/)
-- [[AskJS] As a developer, share your on &lpar;servers, secret keys and best practices&rpar;](https://www.reddit.com/r/javascript/comments/1hhh0xd/askjs_as_a_developer_share_your_on_servers_secret/)
-- [Javascript Books by Seasoned Developers](https://www.reddit.com/r/javascript/comments/1hhcy78/javascript_books_by_seasoned_developers/)
-- [[AskJS] Real question: raw node vs raw php, is there a huge difference?](https://www.reddit.com/r/javascript/comments/1hhb6nl/askjs_real_question_raw_node_vs_raw_php_is_there/)
-- [[AskJS] Would String.prototype.splice be useful?](https://www.reddit.com/r/javascript/comments/1hh8tr9/askjs_would_stringprototypesplice_be_useful/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
