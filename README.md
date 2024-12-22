@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Cheating? Or the acumen of modern programming? FOSS, &quot;AI&quot;, and human conscience.](https://www.reddit.com/r/javascript/comments/1hjn21k/cheating_or_the_acumen_of_modern_programming_foss/)
+- [I made a markdown documentation hosting server in nodejs using express css and moustache, it hosts and lists all markdown files inside docs folder which can be navigated and viewed on the server. you can download the source code from the repo.](https://www.reddit.com/r/javascript/comments/1hjh8lj/i_made_a_markdown_documentation_hosting_server_in/)
+- [[AskJS] Help me out please](https://www.reddit.com/r/javascript/comments/1hjg76f/askjs_help_me_out_please/)
+- [After a Year of Work, I’ve Released a Major Version of My Flowchart Library](https://www.reddit.com/r/javascript/comments/1hjf7v8/after_a_year_of_work_ive_released_a_major_version/)
+- [I made OpenAI and LLM schema definitions](https://www.reddit.com/r/javascript/comments/1hje3vx/i_made_openai_and_llm_schema_definitions/)
+- [Welcome to QuickJS-NG](https://www.reddit.com/r/javascript/comments/1hjbip8/welcome_to_quickjsng/)
+- [Showoff Saturday &lpar;December 21, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1hj5ab9/showoff_saturday_december_21_2024/)
 - [Hi everyone! I just made this smooth scrolling effect on CodePen. It’s simple, lightweight, and might be a good addition to your projects. Let me know your thoughts or how you’d improve it!](https://www.reddit.com/r/javascript/comments/1hivhvt/hi_everyone_i_just_made_this_smooth_scrolling/)
 - [[AskJS] JS Engine, WebAPIs and the Browser](https://www.reddit.com/r/javascript/comments/1hisxb6/askjs_js_engine_webapis_and_the_browser/)
 - [#FreeJavaScript update: Oracle has reached out and asked for an extension to respond to the JavaScript trademark cancellation petition. We&#39;ve agreed to a 30 day extension - Feb 3.](https://www.reddit.com/r/javascript/comments/1hiqtkh/freejavascript_update_oracle_has_reached_out_and/)
-- [[AskJS] Any *actually good* resources about investigating memory leaks?](https://www.reddit.com/r/javascript/comments/1hilqp7/askjs_any_actually_good_resources_about/)
-- [[AskJS] do you like shipping fast?](https://www.reddit.com/r/javascript/comments/1hiljol/askjs_do_you_like_shipping_fast/)
-- [Bloom: An experimental Web Component framework](https://www.reddit.com/r/javascript/comments/1hidjg6/bloom_an_experimental_web_component_framework/)
-- [iMessages Wrapped - Spotify Wrapped for your iMessages](https://www.reddit.com/r/javascript/comments/1hhy7ec/imessages_wrapped_spotify_wrapped_for_your/)
-- [eslint-plugin-sql – auto format SQL using ESLint](https://www.reddit.com/r/javascript/comments/1hhwhfo/eslintpluginsql_auto_format_sql_using_eslint/)
-- [Building a mental model for async programs](https://www.reddit.com/r/javascript/comments/1hhwfgi/building_a_mental_model_for_async_programs/)
-- [[AskJS] Is deno used as much as node.js in the software development industry?](https://www.reddit.com/r/javascript/comments/1hhqcsw/askjs_is_deno_used_as_much_as_nodejs_in_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
