@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Are there companies &lpar;startups&rpar; that strictly use full stack js?](https://www.reddit.com/r/javascript/comments/1hlghkk/askjs_are_there_companies_startups_that_strictly/)
+- [[AskJS] Is learning blockchain worth it right now?](https://www.reddit.com/r/javascript/comments/1hldp3l/askjs_is_learning_blockchain_worth_it_right_now/)
+- [Aimed to practice backend by creating a game, ended up with a frontend TS library to display game maps and similar content. Now a noob in both, input welcomed!](https://www.reddit.com/r/javascript/comments/1hlcr26/aimed_to_practice_backend_by_creating_a_game/)
+- [Has anyone used radashi yet? Is it worth upgrading from radash?](https://www.reddit.com/r/javascript/comments/1hlagmb/has_anyone_used_radashi_yet_is_it_worth_upgrading/)
+- [[AskJS] How to run new JS on an old webview?](https://www.reddit.com/r/javascript/comments/1hl6s7x/askjs_how_to_run_new_js_on_an_old_webview/)
 - [New Deeply Immutable Data Structures](https://www.reddit.com/r/javascript/comments/1hkxs44/new_deeply_immutable_data_structures/)
 - [[AskJS] Why different http verbs if same can be implemented using a universal request](https://www.reddit.com/r/javascript/comments/1hkwe1j/askjs_why_different_http_verbs_if_same_can_be/)
 - [Advent of PBT · Day 23](https://www.reddit.com/r/javascript/comments/1hkn32z/advent_of_pbt_day_23/)
 - [Immutability In JavaScript](https://www.reddit.com/r/javascript/comments/1hk8rj4/immutability_in_javascript/)
 - [[AskJS] Ideas for Javascript libraries and tools](https://www.reddit.com/r/javascript/comments/1hk7mcd/askjs_ideas_for_javascript_libraries_and_tools/)
-- [I made Swagger/OpenAPI and LLM function calling schema definitions](https://www.reddit.com/r/javascript/comments/1hk5nrx/i_made_swaggeropenapi_and_llm_function_calling/)
-- [Cheating? Or the acumen of modern programming? FOSS, &quot;AI&quot;, and human conscience.](https://www.reddit.com/r/javascript/comments/1hjn21k/cheating_or_the_acumen_of_modern_programming_foss/)
-- [I made a markdown documentation hosting server in nodejs using express css and moustache, it hosts and lists all markdown files inside docs folder which can be navigated and viewed on the server. you can download the source code from the repo.](https://www.reddit.com/r/javascript/comments/1hjh8lj/i_made_a_markdown_documentation_hosting_server_in/)
-- [After a Year of Work, I’ve Released a Major Version of My Flowchart Library](https://www.reddit.com/r/javascript/comments/1hjf7v8/after_a_year_of_work_ive_released_a_major_version/)
-- [Welcome to QuickJS-NG](https://www.reddit.com/r/javascript/comments/1hjbip8/welcome_to_quickjsng/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
