@@ -277,11 +277,11 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Hi, How can I make this JavaScript script work? Thank You.](https://www.reddit.com/r/javascript/comments/1hm4o9p/askjs_hi_how_can_i_make_this_javascript_script/)
+- [[AskJS] 2024 is almost over ! What You Have Built This Year ?](https://www.reddit.com/r/javascript/comments/1hmxneu/askjs_2024_is_almost_over_what_you_have_built/)
+- [Tiny Full-Stack React framework. Avoid Overengineering. Automatic routes, reload and component bundle. It uses its own RSC engine, combining SSR and CSR. 100% Deno, no Node dependencies. Fully compatible with Deno Deploy and Serverless Environments.](https://www.reddit.com/r/javascript/comments/1hmvftp/tiny_fullstack_react_framework_avoid/)
 - [Santa&#39;s TicTacToe](https://www.reddit.com/r/javascript/comments/1hm2b78/santas_tictactoe/)
 - [WTF Wednesday &lpar;December 25, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1hlwixf/wtf_wednesday_december_25_2024/)
 - [Compiling JavaScript to WASM with Static Hermes and Emscripten](https://www.reddit.com/r/javascript/comments/1hluos1/compiling_javascript_to_wasm_with_static_hermes/)
-- [[AskJS] Are there companies &lpar;startups&rpar; that strictly use full stack js?](https://www.reddit.com/r/javascript/comments/1hlghkk/askjs_are_there_companies_startups_that_strictly/)
 - [[AskJS] Is learning blockchain worth it right now?](https://www.reddit.com/r/javascript/comments/1hldp3l/askjs_is_learning_blockchain_worth_it_right_now/)
 - [Aimed to practice backend by creating a game, ended up with a frontend TS library to display game maps and similar content. Now a noob in both, input welcomed!](https://www.reddit.com/r/javascript/comments/1hlcr26/aimed_to_practice_backend_by_creating_a_game/)
 - [Has anyone used radashi yet? Is it worth upgrading from radash?](https://www.reddit.com/r/javascript/comments/1hlagmb/has_anyone_used_radashi_yet_is_it_worth_upgrading/)
