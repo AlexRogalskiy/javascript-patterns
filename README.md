@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] developing a network management system &lpar;NMS&rpar;](https://www.reddit.com/r/javascript/comments/1hnmthq/askjs_developing_a_network_management_system_nms/)
+- [I made Sudoku in terminal](https://www.reddit.com/r/javascript/comments/1hniop1/i_made_sudoku_in_terminal/)
+- [Unveiling JavaScript Prototypes: How Classes Work Under the Hood](https://www.reddit.com/r/javascript/comments/1hnfis3/unveiling_javascript_prototypes_how_classes_work/)
+- [[FORK] an unholy sourcemap visualization tool](https://www.reddit.com/r/javascript/comments/1hnccke/fork_an_unholy_sourcemap_visualization_tool/)
+- [We&#39;ve built a funny GitHub Wrapped video summary for developers](https://www.reddit.com/r/javascript/comments/1hnc7i6/weve_built_a_funny_github_wrapped_video_summary/)
 - [[AskJS] 2024 is almost over ! What You Have Built This Year ?](https://www.reddit.com/r/javascript/comments/1hmxneu/askjs_2024_is_almost_over_what_you_have_built/)
 - [Tiny Full-Stack React framework. Avoid Overengineering. Automatic routes, reload and component bundle. It uses its own RSC engine, combining SSR and CSR. 100% Deno, no Node dependencies. Fully compatible with Deno Deploy and Serverless Environments.](https://www.reddit.com/r/javascript/comments/1hmvftp/tiny_fullstack_react_framework_avoid/)
 - [Santa&#39;s TicTacToe](https://www.reddit.com/r/javascript/comments/1hm2b78/santas_tictactoe/)
 - [WTF Wednesday &lpar;December 25, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1hlwixf/wtf_wednesday_december_25_2024/)
 - [Compiling JavaScript to WASM with Static Hermes and Emscripten](https://www.reddit.com/r/javascript/comments/1hluos1/compiling_javascript_to_wasm_with_static_hermes/)
-- [[AskJS] Is learning blockchain worth it right now?](https://www.reddit.com/r/javascript/comments/1hldp3l/askjs_is_learning_blockchain_worth_it_right_now/)
-- [Aimed to practice backend by creating a game, ended up with a frontend TS library to display game maps and similar content. Now a noob in both, input welcomed!](https://www.reddit.com/r/javascript/comments/1hlcr26/aimed_to_practice_backend_by_creating_a_game/)
-- [Has anyone used radashi yet? Is it worth upgrading from radash?](https://www.reddit.com/r/javascript/comments/1hlagmb/has_anyone_used_radashi_yet_is_it_worth_upgrading/)
-- [[AskJS] How to run new JS on an old webview?](https://www.reddit.com/r/javascript/comments/1hl6s7x/askjs_how_to_run_new_js_on_an_old_webview/)
-- [New Deeply Immutable Data Structures](https://www.reddit.com/r/javascript/comments/1hkxs44/new_deeply_immutable_data_structures/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
