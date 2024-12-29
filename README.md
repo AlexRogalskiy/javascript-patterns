@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I made an Onboarding Tour Component with Vue3.js](https://www.reddit.com/r/javascript/comments/1hof7jx/i_made_an_onboarding_tour_component_with_vue3js/)
+- [Showoff Saturday &lpar;December 28, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1ho1447/showoff_saturday_december_28_2024/)
 - [[AskJS] developing a network management system &lpar;NMS&rpar;](https://www.reddit.com/r/javascript/comments/1hnmthq/askjs_developing_a_network_management_system_nms/)
 - [I made Sudoku in terminal](https://www.reddit.com/r/javascript/comments/1hniop1/i_made_sudoku_in_terminal/)
 - [Unveiling JavaScript Prototypes: How Classes Work Under the Hood](https://www.reddit.com/r/javascript/comments/1hnfis3/unveiling_javascript_prototypes_how_classes_work/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [[AskJS] 2024 is almost over ! What You Have Built This Year ?](https://www.reddit.com/r/javascript/comments/1hmxneu/askjs_2024_is_almost_over_what_you_have_built/)
 - [Tiny Full-Stack React framework. Avoid Overengineering. Automatic routes, reload and component bundle. It uses its own RSC engine, combining SSR and CSR. 100% Deno, no Node dependencies. Fully compatible with Deno Deploy and Serverless Environments.](https://www.reddit.com/r/javascript/comments/1hmvftp/tiny_fullstack_react_framework_avoid/)
 - [Santa&#39;s TicTacToe](https://www.reddit.com/r/javascript/comments/1hm2b78/santas_tictactoe/)
-- [WTF Wednesday &lpar;December 25, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1hlwixf/wtf_wednesday_december_25_2024/)
-- [Compiling JavaScript to WASM with Static Hermes and Emscripten](https://www.reddit.com/r/javascript/comments/1hluos1/compiling_javascript_to_wasm_with_static_hermes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
