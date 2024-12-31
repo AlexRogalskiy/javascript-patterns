@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Javscript powered Running Program app](https://www.reddit.com/r/javascript/comments/1hq1184/javscript_powered_running_program_app/)
+- [Your App Should Have Been A Website &lpar;And Probably Your Game Too&rpar;](https://www.reddit.com/r/javascript/comments/1hpw9ou/your_app_should_have_been_a_website_and_probably/)
+- [UseSimpleCamera – A simple way to handle camera and audio with react](https://www.reddit.com/r/javascript/comments/1hpr77o/usesimplecamera_a_simple_way_to_handle_camera_and/)
+- [[AskJS] Free vanilla js lightbox suggestions for e-commerce website product detail images](https://www.reddit.com/r/javascript/comments/1hplxg6/askjs_free_vanilla_js_lightbox_suggestions_for/)
+- [[AskJS] Do We Need a Battery-Included Framework for Node.js/Bun](https://www.reddit.com/r/javascript/comments/1hpfurk/askjs_do_we_need_a_batteryincluded_framework_for/)
 - [How does lovable &amp; bolt &amp; softgen shows preview of generated next.js app inside next.js app?](https://www.reddit.com/r/javascript/comments/1hotgmf/how_does_lovable_bolt_softgen_shows_preview_of/)
-- [[AskJS] [Question] Integrating AI into a Web Application](https://www.reddit.com/r/javascript/comments/1hoslk8/askjs_question_integrating_ai_into_a_web/)
 - [I made an Onboarding Tour Component with Vue3.js](https://www.reddit.com/r/javascript/comments/1hof7jx/i_made_an_onboarding_tour_component_with_vue3js/)
 - [Showoff Saturday &lpar;December 28, 2024&rpar;](https://www.reddit.com/r/javascript/comments/1ho1447/showoff_saturday_december_28_2024/)
 - [[AskJS] developing a network management system &lpar;NMS&rpar;](https://www.reddit.com/r/javascript/comments/1hnmthq/askjs_developing_a_network_management_system_nms/)
 - [I made Sudoku in terminal](https://www.reddit.com/r/javascript/comments/1hniop1/i_made_sudoku_in_terminal/)
-- [Unveiling JavaScript Prototypes: How Classes Work Under the Hood](https://www.reddit.com/r/javascript/comments/1hnfis3/unveiling_javascript_prototypes_how_classes_work/)
-- [[FORK] an unholy sourcemap visualization tool](https://www.reddit.com/r/javascript/comments/1hnccke/fork_an_unholy_sourcemap_visualization_tool/)
-- [We&#39;ve built a funny GitHub Wrapped video summary for developers](https://www.reddit.com/r/javascript/comments/1hnc7i6/weve_built_a_funny_github_wrapped_video_summary/)
-- [[AskJS] 2024 is almost over ! What You Have Built This Year ?](https://www.reddit.com/r/javascript/comments/1hmxneu/askjs_2024_is_almost_over_what_you_have_built/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
