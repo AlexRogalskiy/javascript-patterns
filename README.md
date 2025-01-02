@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [But what is a DOM node?](https://www.reddit.com/r/javascript/comments/1hrbccn/but_what_is_a_dom_node/)
+- [[AskJS] Comment Re-formatter](https://www.reddit.com/r/javascript/comments/1hr7w0p/askjs_comment_reformatter/)
+- [Compiling JavaScript to WASM with WASI support using Static Hermes](https://www.reddit.com/r/javascript/comments/1hr7njo/compiling_javascript_to_wasm_with_wasi_support/)
+- [I made an app that turns news articles into something you can read to your toddlers](https://www.reddit.com/r/javascript/comments/1hr6x2o/i_made_an_app_that_turns_news_articles_into/)
+- [Modern Benchmarking Tooling for Javascript](https://www.reddit.com/r/javascript/comments/1hr1p3b/modern_benchmarking_tooling_for_javascript/)
+- [A modern solution to decrease stress of logging in frontend development](https://www.reddit.com/r/javascript/comments/1hqyzvp/a_modern_solution_to_decrease_stress_of_logging/)
+- [WTF Wednesday &lpar;January 01, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1hqyjq9/wtf_wednesday_january_01_2025/)
 - [Fellow humans, it is 2025-01-01T00:00:00+00:00.](https://www.reddit.com/r/javascript/comments/1hqr9g0/fellow_humans_it_is_20250101t0000000000/)
-- [[AskJS] Can I Search A CSV File For A Variable String?](https://www.reddit.com/r/javascript/comments/1hqll78/askjs_can_i_search_a_csv_file_for_a_variable/)
 - [styleconsolelog.com - I made a small tool that makes adding CSS styling to console.log easier.](https://www.reddit.com/r/javascript/comments/1hqg5pn/styleconsolelogcom_i_made_a_small_tool_that_makes/)
 - [I Made My First Library: img-toolkit. It offers basic functionality and was created to study library development.](https://www.reddit.com/r/javascript/comments/1hqeidx/i_made_my_first_library_imgtoolkit_it_offers/)
-- [Javscript powered Running Program app](https://www.reddit.com/r/javascript/comments/1hq1184/javscript_powered_running_program_app/)
-- [Your App Should Have Been A Website &lpar;And Probably Your Game Too&rpar;](https://www.reddit.com/r/javascript/comments/1hpw9ou/your_app_should_have_been_a_website_and_probably/)
-- [UseSimpleCamera – A simple way to handle camera and audio with react](https://www.reddit.com/r/javascript/comments/1hpr77o/usesimplecamera_a_simple_way_to_handle_camera_and/)
-- [[AskJS] Free vanilla js lightbox suggestions for e-commerce website product detail images](https://www.reddit.com/r/javascript/comments/1hplxg6/askjs_free_vanilla_js_lightbox_suggestions_for/)
-- [[AskJS] Do We Need a Battery-Included Framework for Node.js/Bun](https://www.reddit.com/r/javascript/comments/1hpfurk/askjs_do_we_need_a_batteryincluded_framework_for/)
-- [How does lovable &amp; bolt &amp; softgen shows preview of generated next.js app inside next.js app?](https://www.reddit.com/r/javascript/comments/1hotgmf/how_does_lovable_bolt_softgen_shows_preview_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
