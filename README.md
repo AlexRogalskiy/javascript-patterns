@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Does anyone have any where i can find program codes?](https://www.reddit.com/r/javascript/comments/1hsbcke/askjs_does_anyone_have_any_where_i_can_find/)
+- [[AskJS] How to obfuscate?](https://www.reddit.com/r/javascript/comments/1hs7xh1/askjs_how_to_obfuscate/)
+- [Introducing Univer Clipsheet – A Powerful Chrome Extension for Web Scraping](https://www.reddit.com/r/javascript/comments/1hrt6xf/introducing_univer_clipsheet_a_powerful_chrome/)
+- [Build a New Year Resolutions Tracker with Node.js and Redis](https://www.reddit.com/r/javascript/comments/1hrplix/build_a_new_year_resolutions_tracker_with_nodejs/)
 - [But what is a DOM node?](https://www.reddit.com/r/javascript/comments/1hrbccn/but_what_is_a_dom_node/)
 - [[AskJS] Comment Re-formatter](https://www.reddit.com/r/javascript/comments/1hr7w0p/askjs_comment_reformatter/)
 - [Compiling JavaScript to WASM with WASI support using Static Hermes](https://www.reddit.com/r/javascript/comments/1hr7njo/compiling_javascript_to_wasm_with_wasi_support/)
 - [I made an app that turns news articles into something you can read to your toddlers](https://www.reddit.com/r/javascript/comments/1hr6x2o/i_made_an_app_that_turns_news_articles_into/)
 - [Modern Benchmarking Tooling for Javascript](https://www.reddit.com/r/javascript/comments/1hr1p3b/modern_benchmarking_tooling_for_javascript/)
 - [A modern solution to decrease stress of logging in frontend development](https://www.reddit.com/r/javascript/comments/1hqyzvp/a_modern_solution_to_decrease_stress_of_logging/)
-- [WTF Wednesday &lpar;January 01, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1hqyjq9/wtf_wednesday_january_01_2025/)
-- [Fellow humans, it is 2025-01-01T00:00:00+00:00.](https://www.reddit.com/r/javascript/comments/1hqr9g0/fellow_humans_it_is_20250101t0000000000/)
-- [styleconsolelog.com - I made a small tool that makes adding CSS styling to console.log easier.](https://www.reddit.com/r/javascript/comments/1hqg5pn/styleconsolelogcom_i_made_a_small_tool_that_makes/)
-- [I Made My First Library: img-toolkit. It offers basic functionality and was created to study library development.](https://www.reddit.com/r/javascript/comments/1hqeidx/i_made_my_first_library_imgtoolkit_it_offers/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
