@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Does anyone have any where i can find program codes?](https://www.reddit.com/r/javascript/comments/1hsbcke/askjs_does_anyone_have_any_where_i_can_find/)
-- [[AskJS] How to obfuscate?](https://www.reddit.com/r/javascript/comments/1hs7xh1/askjs_how_to_obfuscate/)
+- [Segment-Anything 2, running totally in JS/client-side with WebGPU!](https://www.reddit.com/r/javascript/comments/1hsz5br/segmentanything_2_running_totally_in_jsclientside/)
+- [6 JavaScript Game Source Codes for Beginners](https://www.reddit.com/r/javascript/comments/1hsxcqk/6_javascript_game_source_codes_for_beginners/)
+- [[AskJS] Your favourite Javascript or in general tech/developer blogs](https://www.reddit.com/r/javascript/comments/1hsvofe/askjs_your_favourite_javascript_or_in_general/)
+- [[AskJS] Problem with troubleshooting React application errors](https://www.reddit.com/r/javascript/comments/1hsvlwu/askjs_problem_with_troubleshooting_react/)
+- [How to store multiple on/off states into a single integer](https://www.reddit.com/r/javascript/comments/1hsrp3o/how_to_store_multiple_onoff_states_into_a_single/)
+- [Composable Caching with Next.js](https://www.reddit.com/r/javascript/comments/1hsqk5s/composable_caching_with_nextjs/)
+- [search-queries - a simple and powerful parser for advanced search queries, supported a modifiers and keywords](https://www.reddit.com/r/javascript/comments/1hspiar/searchqueries_a_simple_and_powerful_parser_for/)
+- [[AskJS] Is typescript more popular than just regular JavaScript](https://www.reddit.com/r/javascript/comments/1hskn60/askjs_is_typescript_more_popular_than_just/)
+- [Watch out for shallow clones when you want a structuredClone](https://www.reddit.com/r/javascript/comments/1hsckw0/watch_out_for_shallow_clones_when_you_want_a/)
 - [Introducing Univer Clipsheet – A Powerful Chrome Extension for Web Scraping](https://www.reddit.com/r/javascript/comments/1hrt6xf/introducing_univer_clipsheet_a_powerful_chrome/)
-- [Build a New Year Resolutions Tracker with Node.js and Redis](https://www.reddit.com/r/javascript/comments/1hrplix/build_a_new_year_resolutions_tracker_with_nodejs/)
-- [But what is a DOM node?](https://www.reddit.com/r/javascript/comments/1hrbccn/but_what_is_a_dom_node/)
-- [[AskJS] Comment Re-formatter](https://www.reddit.com/r/javascript/comments/1hr7w0p/askjs_comment_reformatter/)
-- [Compiling JavaScript to WASM with WASI support using Static Hermes](https://www.reddit.com/r/javascript/comments/1hr7njo/compiling_javascript_to_wasm_with_wasi_support/)
-- [I made an app that turns news articles into something you can read to your toddlers](https://www.reddit.com/r/javascript/comments/1hr6x2o/i_made_an_app_that_turns_news_articles_into/)
-- [Modern Benchmarking Tooling for Javascript](https://www.reddit.com/r/javascript/comments/1hr1p3b/modern_benchmarking_tooling_for_javascript/)
-- [A modern solution to decrease stress of logging in frontend development](https://www.reddit.com/r/javascript/comments/1hqyzvp/a_modern_solution_to_decrease_stress_of_logging/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
