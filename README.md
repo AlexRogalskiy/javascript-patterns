@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [trimMiddle&lpar;&rpar; – the missing String trim method](https://www.reddit.com/r/javascript/comments/1hulx8u/trimmiddle_the_missing_string_trim_method/)
+- [[AskJS] Is Oops really an important topic in JS?](https://www.reddit.com/r/javascript/comments/1hu99wn/askjs_is_oops_really_an_important_topic_in_js/)
+- [[AskJS] Best practices of packaging for npm](https://www.reddit.com/r/javascript/comments/1hu59ql/askjs_best_practices_of_packaging_for_npm/)
+- [After 10 years as a frontend dev, I built a free tool to simplify API mocking and debugging. Check it out!](https://www.reddit.com/r/javascript/comments/1htyzz6/after_10_years_as_a_frontend_dev_i_built_a_free/)
 - [[AskJS] Which libraries or frameworks would you like to have?](https://www.reddit.com/r/javascript/comments/1htt5pj/askjs_which_libraries_or_frameworks_would_you/)
 - [Hi, I created a CLI, that creates a Javascript commerce backend and dashboard, that can connect to any database, storage and compute &lpar;links in the comments&rpar;](https://www.reddit.com/r/javascript/comments/1htmcov/hi_i_created_a_cli_that_creates_a_javascript/)
-- [3 Responsive Personal Portfolio Designs for Beginners &lpar;Free Source Code in HTML, CSS &amp; JavaScript&rpar;](https://www.reddit.com/r/javascript/comments/1htm34s/3_responsive_personal_portfolio_designs_for/)
 - [Showoff Saturday &lpar;January 04, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1ht9odj/showoff_saturday_january_04_2025/)
 - [The best way to iterate over a large array without blocking the main thread](https://www.reddit.com/r/javascript/comments/1ht49c9/the_best_way_to_iterate_over_a_large_array/)
 - [Segment-Anything 2, running totally in JS/client-side with WebGPU!](https://www.reddit.com/r/javascript/comments/1hsz5br/segmentanything_2_running_totally_in_jsclientside/)
-- [6 JavaScript Game Source Codes for Beginners](https://www.reddit.com/r/javascript/comments/1hsxcqk/6_javascript_game_source_codes_for_beginners/)
 - [[AskJS] Your favourite Javascript or in general tech/developer blogs](https://www.reddit.com/r/javascript/comments/1hsvofe/askjs_your_favourite_javascript_or_in_general/)
-- [[AskJS] Problem with troubleshooting React application errors](https://www.reddit.com/r/javascript/comments/1hsvlwu/askjs_problem_with_troubleshooting_react/)
-- [How to store multiple on/off states into a single integer](https://www.reddit.com/r/javascript/comments/1hsrp3o/how_to_store_multiple_onoff_states_into_a_single/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
