@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] I am receiving a video file as chunked response from backend and postman is working fine it even plays the video but on my frontend react I am using axios it shows in network the call size as 300 MB but as soon as all chunks are received axios call ends with NETWORK ERROR! Please help](https://www.reddit.com/r/javascript/comments/1hv7xnf/askjs_i_am_receiving_a_video_file_as_chunked/)
-- [Carousel like this, any tutorial?](https://www.reddit.com/r/javascript/comments/1hv3wkv/carousel_like_this_any_tutorial/)
+- [Let&#39;s see if you know JSON and care about program efficiency](https://www.reddit.com/r/javascript/comments/1hw7rg8/lets_see_if_you_know_json_and_care_about_program/)
+- [I just released Notate – Open-source AI research assistant with local LLM support &lpar;TS/ElectronJS/Python/SQLite&rpar;](https://www.reddit.com/r/javascript/comments/1hw7q2i/i_just_released_notate_opensource_ai_research/)
+- [GitHub - javedcodes/JV-Responsive-Card-Slider: JV Responsive Card Slider](https://www.reddit.com/r/javascript/comments/1hw0y95/github_javedcodesjvresponsivecardslider_jv/)
+- [2024 JavaScript Rising Stars](https://www.reddit.com/r/javascript/comments/1hvzprg/2024_javascript_rising_stars/)
+- [We shipped our auth server to your browser with WASM. Here&#39;s how it&#39;s going](https://www.reddit.com/r/javascript/comments/1hvy5cq/we_shipped_our_auth_server_to_your_browser_with/)
+- [GitHub - javedcodes/Modern-Animated-Hero-Section: Modern Animated Hero Section](https://www.reddit.com/r/javascript/comments/1hvwkg4/github_javedcodesmodernanimatedherosection_modern/)
+- [Reading stdin in Static Hermes](https://www.reddit.com/r/javascript/comments/1hvmyfe/reading_stdin_in_static_hermes/)
+- [From your experience what is the easiest library to write code for using AI between React, Vue, Angular and Svelte?](https://www.reddit.com/r/javascript/comments/1hvifww/from_your_experience_what_is_the_easiest_library/)
+- [Slightly better template literals](https://www.reddit.com/r/javascript/comments/1hvhy4v/slightly_better_template_literals/)
 - [Using Forced Reflows, the Event Loop, and the Repaint Cycle to Slide Open a Box](https://www.reddit.com/r/javascript/comments/1hv19pb/using_forced_reflows_the_event_loop_and_the/)
-- [[Release] @rxliuli/vista - A unified interceptor library for both Fetch and XHR with middleware support](https://www.reddit.com/r/javascript/comments/1hv02az/release_rxliulivista_a_unified_interceptor/)
-- [Hawkeye, the Ultimate esbuild Analyzer](https://www.reddit.com/r/javascript/comments/1huy57k/hawkeye_the_ultimate_esbuild_analyzer/)
-- [OpenDating - I built an open source dating app](https://www.reddit.com/r/javascript/comments/1huxd2y/opendating_i_built_an_open_source_dating_app/)
-- [Your /r/javascript recap for the week of December 30 - January 05, 2025](https://www.reddit.com/r/javascript/comments/1huvs2m/your_rjavascript_recap_for_the_week_of_december/)
-- [trimMiddle&lpar;&rpar; – the missing String trim method](https://www.reddit.com/r/javascript/comments/1hulx8u/trimmiddle_the_missing_string_trim_method/)
-- [[AskJS] Is Oops really an important topic in JS?](https://www.reddit.com/r/javascript/comments/1hu99wn/askjs_is_oops_really_an_important_topic_in_js/)
-- [[AskJS] Best practices of packaging for npm](https://www.reddit.com/r/javascript/comments/1hu59ql/askjs_best_practices_of_packaging_for_npm/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
