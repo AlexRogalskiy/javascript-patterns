@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] App Organization for Game Dev](https://www.reddit.com/r/javascript/comments/1hwt5eq/askjs_app_organization_for_game_dev/)
+- [[AskJS] CORS is a waste of time – Change my mind!](https://www.reddit.com/r/javascript/comments/1hwlzhn/askjs_cors_is_a_waste_of_time_change_my_mind/)
+- [Node.js v23.6.0 enables executing TypeScript by default](https://www.reddit.com/r/javascript/comments/1hwkzng/nodejs_v2360_enables_executing_typescript_by/)
+- [GitHub - javedcodes/Smooth-Quad-Image-Gallery: Smooth Quad Image Gallery](https://www.reddit.com/r/javascript/comments/1hwge2z/github_javedcodessmoothquadimagegallery_smooth/)
+- [WTF Wednesday &lpar;January 08, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1hwevft/wtf_wednesday_january_08_2025/)
+- [Create HTML canvas graphics without writing code &lpar;you can now draw freehand too&rpar;](https://www.reddit.com/r/javascript/comments/1hwdnyc/create_html_canvas_graphics_without_writing_code/)
 - [Let&#39;s see if you know JSON and care about program efficiency](https://www.reddit.com/r/javascript/comments/1hw7rg8/lets_see_if_you_know_json_and_care_about_program/)
 - [I just released Notate – Open-source AI research assistant with local LLM support &lpar;TS/ElectronJS/Python/SQLite&rpar;](https://www.reddit.com/r/javascript/comments/1hw7q2i/i_just_released_notate_opensource_ai_research/)
 - [GitHub - javedcodes/JV-Responsive-Card-Slider: JV Responsive Card Slider](https://www.reddit.com/r/javascript/comments/1hw0y95/github_javedcodesjvresponsivecardslider_jv/)
 - [2024 JavaScript Rising Stars](https://www.reddit.com/r/javascript/comments/1hvzprg/2024_javascript_rising_stars/)
-- [We shipped our auth server to your browser with WASM. Here&#39;s how it&#39;s going](https://www.reddit.com/r/javascript/comments/1hvy5cq/we_shipped_our_auth_server_to_your_browser_with/)
-- [GitHub - javedcodes/Modern-Animated-Hero-Section: Modern Animated Hero Section](https://www.reddit.com/r/javascript/comments/1hvwkg4/github_javedcodesmodernanimatedherosection_modern/)
-- [Reading stdin in Static Hermes](https://www.reddit.com/r/javascript/comments/1hvmyfe/reading_stdin_in_static_hermes/)
-- [From your experience what is the easiest library to write code for using AI between React, Vue, Angular and Svelte?](https://www.reddit.com/r/javascript/comments/1hvifww/from_your_experience_what_is_the_easiest_library/)
-- [Slightly better template literals](https://www.reddit.com/r/javascript/comments/1hvhy4v/slightly_better_template_literals/)
-- [Using Forced Reflows, the Event Loop, and the Repaint Cycle to Slide Open a Box](https://www.reddit.com/r/javascript/comments/1hv19pb/using_forced_reflows_the_event_loop_and_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
