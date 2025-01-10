@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Just Publish Youtube to Short JS](https://www.reddit.com/r/javascript/comments/1hxpgvm/just_publish_youtube_to_short_js/)
+- [[AskJS] best editor for JS, not TS](https://www.reddit.com/r/javascript/comments/1hxg2hm/askjs_best_editor_for_js_not_ts/)
+- [[AskJS] Whither or not AJAX?](https://www.reddit.com/r/javascript/comments/1hxfm5t/askjs_whither_or_not_ajax/)
+- [[AskJS] Why Isn’t There a Better System for Viewing TypeScript Packages in Editors?](https://www.reddit.com/r/javascript/comments/1hxdpvk/askjs_why_isnt_there_a_better_system_for_viewing/)
+- [[AskJS] Web App Project: Stick with Vanilla JS or Learn React in 3 Months?](https://www.reddit.com/r/javascript/comments/1hxb3fn/askjs_web_app_project_stick_with_vanilla_js_or/)
+- [[AskJS] People who used struggle with programming and now work in IT field how did you do it??](https://www.reddit.com/r/javascript/comments/1hx9kot/askjs_people_who_used_struggle_with_programming/)
 - [[AskJS] App Organization for Game Dev](https://www.reddit.com/r/javascript/comments/1hwt5eq/askjs_app_organization_for_game_dev/)
 - [[AskJS] CORS is a waste of time – Change my mind!](https://www.reddit.com/r/javascript/comments/1hwlzhn/askjs_cors_is_a_waste_of_time_change_my_mind/)
 - [Node.js v23.6.0 enables executing TypeScript by default](https://www.reddit.com/r/javascript/comments/1hwkzng/nodejs_v2360_enables_executing_typescript_by/)
 - [GitHub - javedcodes/Smooth-Quad-Image-Gallery: Smooth Quad Image Gallery](https://www.reddit.com/r/javascript/comments/1hwge2z/github_javedcodessmoothquadimagegallery_smooth/)
-- [WTF Wednesday &lpar;January 08, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1hwevft/wtf_wednesday_january_08_2025/)
-- [Create HTML canvas graphics without writing code &lpar;you can now draw freehand too&rpar;](https://www.reddit.com/r/javascript/comments/1hwdnyc/create_html_canvas_graphics_without_writing_code/)
-- [Let&#39;s see if you know JSON and care about program efficiency](https://www.reddit.com/r/javascript/comments/1hw7rg8/lets_see_if_you_know_json_and_care_about_program/)
-- [I just released Notate – Open-source AI research assistant with local LLM support &lpar;TS/ElectronJS/Python/SQLite&rpar;](https://www.reddit.com/r/javascript/comments/1hw7q2i/i_just_released_notate_opensource_ai_research/)
-- [GitHub - javedcodes/JV-Responsive-Card-Slider: JV Responsive Card Slider](https://www.reddit.com/r/javascript/comments/1hw0y95/github_javedcodesjvresponsivecardslider_jv/)
-- [2024 JavaScript Rising Stars](https://www.reddit.com/r/javascript/comments/1hvzprg/2024_javascript_rising_stars/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
