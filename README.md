@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Elemap – a TS library to generate hexagon/rectangle game maps. Check out the live demo! Rendered in pure HTML &amp; CSS, making it easy to extend. Best served with Tilted, my library for viewing maps!](https://www.reddit.com/r/javascript/comments/1hz1arz/elemap_a_ts_library_to_generate_hexagonrectangle/)
+- [Html components without ANY runtime javascript &lpar;vite plugin&rpar;](https://www.reddit.com/r/javascript/comments/1hz038q/html_components_without_any_runtime_javascript/)
+- [Buffered Data Grid online demo](https://www.reddit.com/r/javascript/comments/1hyygs6/buffered_data_grid_online_demo/)
+- [Liquid code experiment](https://www.reddit.com/r/javascript/comments/1hyvilw/liquid_code_experiment/)
+- [Showoff Saturday &lpar;January 11, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1hyr7hn/showoff_saturday_january_11_2025/)
+- [Would you use this to construct API endpoint on client?](https://www.reddit.com/r/javascript/comments/1hyr68z/would_you_use_this_to_construct_api_endpoint_on/)
 - [All Javascript Keyboard Shortcut Libraries Are Broken](https://www.reddit.com/r/javascript/comments/1hyf5rw/all_javascript_keyboard_shortcut_libraries_are/)
 - [2,800 Websites Hit by Malicious JavaScript in “zqxq” Attack](https://www.reddit.com/r/javascript/comments/1hyabk9/2800_websites_hit_by_malicious_javascript_in_zqxq/)
 - [GitHub - javedcodes/Sticky-Navigation-Bar: Sticky Navigation Menu Bar](https://www.reddit.com/r/javascript/comments/1hy5b8n/github_javedcodesstickynavigationbar_sticky/)
 - [An open source crawler that can automatically summarize websites at regular intervals](https://www.reddit.com/r/javascript/comments/1hy3rpt/an_open_source_crawler_that_can_automatically/)
-- [[AskJS] Any animated electricity/lightning background?](https://www.reddit.com/r/javascript/comments/1hy32m7/askjs_any_animated_electricitylightning_background/)
-- [Just Publish Youtube to Short JS](https://www.reddit.com/r/javascript/comments/1hxpgvm/just_publish_youtube_to_short_js/)
-- [[AskJS] best editor for JS, not TS](https://www.reddit.com/r/javascript/comments/1hxg2hm/askjs_best_editor_for_js_not_ts/)
-- [[AskJS] Whither or not AJAX?](https://www.reddit.com/r/javascript/comments/1hxfm5t/askjs_whither_or_not_ajax/)
-- [[AskJS] Why Isn’t There a Better System for Viewing TypeScript Packages in Editors?](https://www.reddit.com/r/javascript/comments/1hxdpvk/askjs_why_isnt_there_a_better_system_for_viewing/)
-- [[AskJS] Web App Project: Stick with Vanilla JS or Learn React in 3 Months?](https://www.reddit.com/r/javascript/comments/1hxb3fn/askjs_web_app_project_stick_with_vanilla_js_or/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
