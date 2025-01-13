@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Looking for name ideas and interest](https://www.reddit.com/r/javascript/comments/1hzzgv1/askjs_looking_for_name_ideas_and_interest/)
+- [A small desktop app for your learning purposes, inspired by RunJS](https://www.reddit.com/r/javascript/comments/1hzwf8j/a_small_desktop_app_for_your_learning_purposes/)
+- [GitHub - javedcodes/Navigation-Bar-with-Indicator: Navigation Bar with Indicator](https://www.reddit.com/r/javascript/comments/1hzw61o/github_javedcodesnavigationbarwithindicator/)
+- [iframes and when JavaScript worlds collide](https://www.reddit.com/r/javascript/comments/1hztqnp/iframes_and_when_javascript_worlds_collide/)
+- [Release: Optimising critical rendering paths · neomjs/neo](https://www.reddit.com/r/javascript/comments/1hzsb2v/release_optimising_critical_rendering_paths/)
+- [Shared ESLint &amp; Prettier config package for Next.js v14](https://www.reddit.com/r/javascript/comments/1hzq5vy/shared_eslint_prettier_config_package_for_nextjs/)
+- [In this blog, I’m going to implement a template language.](https://www.reddit.com/r/javascript/comments/1hzlu6r/in_this_blog_im_going_to_implement_a_template/)
+- [Run a command if Git changes a file](https://www.reddit.com/r/javascript/comments/1hzftlz/run_a_command_if_git_changes_a_file/)
+- [WebAssembly System Interface implementation for Deno, Node.js, Bun](https://www.reddit.com/r/javascript/comments/1hzfdze/webassembly_system_interface_implementation_for/)
 - [Elemap – a TS library to generate hexagon/rectangle game maps. Check out the live demo! Rendered in pure HTML &amp; CSS, making it easy to extend. Best served with Tilted, my library for viewing maps!](https://www.reddit.com/r/javascript/comments/1hz1arz/elemap_a_ts_library_to_generate_hexagonrectangle/)
-- [Html components without ANY runtime javascript &lpar;vite plugin&rpar;](https://www.reddit.com/r/javascript/comments/1hz038q/html_components_without_any_runtime_javascript/)
-- [Buffered Data Grid online demo](https://www.reddit.com/r/javascript/comments/1hyygs6/buffered_data_grid_online_demo/)
-- [Liquid code experiment](https://www.reddit.com/r/javascript/comments/1hyvilw/liquid_code_experiment/)
-- [Showoff Saturday &lpar;January 11, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1hyr7hn/showoff_saturday_january_11_2025/)
-- [Would you use this to construct API endpoint on client?](https://www.reddit.com/r/javascript/comments/1hyr68z/would_you_use_this_to_construct_api_endpoint_on/)
-- [All Javascript Keyboard Shortcut Libraries Are Broken](https://www.reddit.com/r/javascript/comments/1hyf5rw/all_javascript_keyboard_shortcut_libraries_are/)
-- [2,800 Websites Hit by Malicious JavaScript in “zqxq” Attack](https://www.reddit.com/r/javascript/comments/1hyabk9/2800_websites_hit_by_malicious_javascript_in_zqxq/)
-- [GitHub - javedcodes/Sticky-Navigation-Bar: Sticky Navigation Menu Bar](https://www.reddit.com/r/javascript/comments/1hy5b8n/github_javedcodesstickynavigationbar_sticky/)
-- [An open source crawler that can automatically summarize websites at regular intervals](https://www.reddit.com/r/javascript/comments/1hy3rpt/an_open_source_crawler_that_can_automatically/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
