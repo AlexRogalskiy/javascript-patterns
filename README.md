@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Looking for name ideas and interest](https://www.reddit.com/r/javascript/comments/1hzzgv1/askjs_looking_for_name_ideas_and_interest/)
-- [A small desktop app for your learning purposes, inspired by RunJS](https://www.reddit.com/r/javascript/comments/1hzwf8j/a_small_desktop_app_for_your_learning_purposes/)
-- [GitHub - javedcodes/Navigation-Bar-with-Indicator: Navigation Bar with Indicator](https://www.reddit.com/r/javascript/comments/1hzw61o/github_javedcodesnavigationbarwithindicator/)
-- [iframes and when JavaScript worlds collide](https://www.reddit.com/r/javascript/comments/1hztqnp/iframes_and_when_javascript_worlds_collide/)
-- [Release: Optimising critical rendering paths · neomjs/neo](https://www.reddit.com/r/javascript/comments/1hzsb2v/release_optimising_critical_rendering_paths/)
-- [Shared ESLint &amp; Prettier config package for Next.js v14](https://www.reddit.com/r/javascript/comments/1hzq5vy/shared_eslint_prettier_config_package_for_nextjs/)
-- [In this blog, I’m going to implement a template language.](https://www.reddit.com/r/javascript/comments/1hzlu6r/in_this_blog_im_going_to_implement_a_template/)
-- [Run a command if Git changes a file](https://www.reddit.com/r/javascript/comments/1hzftlz/run_a_command_if_git_changes_a_file/)
-- [WebAssembly System Interface implementation for Deno, Node.js, Bun](https://www.reddit.com/r/javascript/comments/1hzfdze/webassembly_system_interface_implementation_for/)
-- [Elemap – a TS library to generate hexagon/rectangle game maps. Check out the live demo! Rendered in pure HTML &amp; CSS, making it easy to extend. Best served with Tilted, my library for viewing maps!](https://www.reddit.com/r/javascript/comments/1hz1arz/elemap_a_ts_library_to_generate_hexagonrectangle/)
+- [Short-Lived, Tick-Bound Memoization in JavaScript](https://www.reddit.com/r/javascript/comments/1i0uxuw/shortlived_tickbound_memoization_in_javascript/)
+- [GitHub - javedcodes/Neomorphic-Portfolio-Design-for-Android-App-Developer: Neomorphic Portfolio Design for Android App Developer](https://www.reddit.com/r/javascript/comments/1i0n5rs/github/)
+- [Revealed: React&#39;s experimental animations API](https://www.reddit.com/r/javascript/comments/1i0i0j2/revealed_reacts_experimental_animations_api/)
+- [[AskJS] Are you allowed to use AI at your junior front end job?](https://www.reddit.com/r/javascript/comments/1i0gxo7/askjs_are_you_allowed_to_use_ai_at_your_junior/)
+- [[AskJS] What are JavaScript tricks you wish you knew sooner?](https://www.reddit.com/r/javascript/comments/1i0fo5i/askjs_what_are_javascript_tricks_you_wish_you/)
+- [After years using semantic-release, I developed a lightweight alternative tailored for smaller projects – with no dependencies, customizable release notes, and an easy setup to streamline versioning and releases without the extra overhead.](https://www.reddit.com/r/javascript/comments/1i0c8fg/after_years_using_semanticrelease_i_developed_a/)
+- [Your /r/javascript recap for the week of January 06 - January 12, 2025](https://www.reddit.com/r/javascript/comments/1i0as38/your_rjavascript_recap_for_the_week_of_january_06/)
+- [GitHub - kshutkin/package-size: Measure the size of a package and its dependencies](https://www.reddit.com/r/javascript/comments/1i09l8p/github_kshutkinpackagesize_measure_the_size_of_a/)
+- [neutrix - A type-safe state management solution for React](https://www.reddit.com/r/javascript/comments/1i07p4h/neutrix_a_typesafe_state_management_solution_for/)
+- [Loadable: A Lightweight Alternative to React Query](https://www.reddit.com/r/javascript/comments/1i06p94/loadable_a_lightweight_alternative_to_react_query/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
