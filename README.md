@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [GitHub - javedcodes/Typing-Speed-Test-Game: Typing Speed Test Game Using JavaScript](https://www.reddit.com/r/javascript/comments/1i1f7m5/github_javedcodestypingspeedtestgame_typing_speed/)
+- [[AskJS] Detection of null pointer, my experience with chatGPT](https://www.reddit.com/r/javascript/comments/1i1ewpp/askjs_detection_of_null_pointer_my_experience/)
+- [svelte-5-dashboard | A dashboard boilerplate for Svelte 5 projects.](https://www.reddit.com/r/javascript/comments/1i1erpw/svelte5dashboard_a_dashboard_boilerplate_for/)
+- [Buffered Data Grid with up to 5 million cells](https://www.reddit.com/r/javascript/comments/1i190y0/buffered_data_grid_with_up_to_5_million_cells/)
+- [AI Assistent with file- and shell access](https://www.reddit.com/r/javascript/comments/1i16v0t/ai_assistent_with_file_and_shell_access/)
+- [How to Add speech input &amp; output to your app with the free browser APIs](https://www.reddit.com/r/javascript/comments/1i16a4e/how_to_add_speech_input_output_to_your_app_with/)
+- [[AskJS] Why Handsontable Drives Me Crazy: My Frustrations with Open-Source Spreadsheet Libraries](https://www.reddit.com/r/javascript/comments/1i11kjc/askjs_why_handsontable_drives_me_crazy_my/)
+- [[AskJS] Currently taking a bootcamp. Loved the simplicity of CSS but JavaScript is blowing my mind… I’m curious how much of it you have to master before getting a job because it seems like one of those careers that it’s impossible to remember everything by heart?](https://www.reddit.com/r/javascript/comments/1i0zrwv/askjs_currently_taking_a_bootcamp_loved_the/)
 - [Short-Lived, Tick-Bound Memoization in JavaScript](https://www.reddit.com/r/javascript/comments/1i0uxuw/shortlived_tickbound_memoization_in_javascript/)
 - [GitHub - javedcodes/Neomorphic-Portfolio-Design-for-Android-App-Developer: Neomorphic Portfolio Design for Android App Developer](https://www.reddit.com/r/javascript/comments/1i0n5rs/github/)
-- [Revealed: React&#39;s experimental animations API](https://www.reddit.com/r/javascript/comments/1i0i0j2/revealed_reacts_experimental_animations_api/)
-- [[AskJS] Are you allowed to use AI at your junior front end job?](https://www.reddit.com/r/javascript/comments/1i0gxo7/askjs_are_you_allowed_to_use_ai_at_your_junior/)
-- [[AskJS] What are JavaScript tricks you wish you knew sooner?](https://www.reddit.com/r/javascript/comments/1i0fo5i/askjs_what_are_javascript_tricks_you_wish_you/)
-- [After years using semantic-release, I developed a lightweight alternative tailored for smaller projects – with no dependencies, customizable release notes, and an easy setup to streamline versioning and releases without the extra overhead.](https://www.reddit.com/r/javascript/comments/1i0c8fg/after_years_using_semanticrelease_i_developed_a/)
-- [Your /r/javascript recap for the week of January 06 - January 12, 2025](https://www.reddit.com/r/javascript/comments/1i0as38/your_rjavascript_recap_for_the_week_of_january_06/)
-- [GitHub - kshutkin/package-size: Measure the size of a package and its dependencies](https://www.reddit.com/r/javascript/comments/1i09l8p/github_kshutkinpackagesize_measure_the_size_of_a/)
-- [neutrix - A type-safe state management solution for React](https://www.reddit.com/r/javascript/comments/1i07p4h/neutrix_a_typesafe_state_management_solution_for/)
-- [Loadable: A Lightweight Alternative to React Query](https://www.reddit.com/r/javascript/comments/1i06p94/loadable_a_lightweight_alternative_to_react_query/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
