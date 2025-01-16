@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [GitHub - javedcodes/Typing-Speed-Test-Game: Typing Speed Test Game Using JavaScript](https://www.reddit.com/r/javascript/comments/1i1f7m5/github_javedcodestypingspeedtestgame_typing_speed/)
-- [[AskJS] Detection of null pointer, my experience with chatGPT](https://www.reddit.com/r/javascript/comments/1i1ewpp/askjs_detection_of_null_pointer_my_experience/)
-- [svelte-5-dashboard | A dashboard boilerplate for Svelte 5 projects.](https://www.reddit.com/r/javascript/comments/1i1erpw/svelte5dashboard_a_dashboard_boilerplate_for/)
-- [Buffered Data Grid with up to 5 million cells](https://www.reddit.com/r/javascript/comments/1i190y0/buffered_data_grid_with_up_to_5_million_cells/)
-- [AI Assistent with file- and shell access](https://www.reddit.com/r/javascript/comments/1i16v0t/ai_assistent_with_file_and_shell_access/)
-- [How to Add speech input &amp; output to your app with the free browser APIs](https://www.reddit.com/r/javascript/comments/1i16a4e/how_to_add_speech_input_output_to_your_app_with/)
-- [[AskJS] Why Handsontable Drives Me Crazy: My Frustrations with Open-Source Spreadsheet Libraries](https://www.reddit.com/r/javascript/comments/1i11kjc/askjs_why_handsontable_drives_me_crazy_my/)
-- [[AskJS] Currently taking a bootcamp. Loved the simplicity of CSS but JavaScript is blowing my mind… I’m curious how much of it you have to master before getting a job because it seems like one of those careers that it’s impossible to remember everything by heart?](https://www.reddit.com/r/javascript/comments/1i0zrwv/askjs_currently_taking_a_bootcamp_loved_the/)
-- [Short-Lived, Tick-Bound Memoization in JavaScript](https://www.reddit.com/r/javascript/comments/1i0uxuw/shortlived_tickbound_memoization_in_javascript/)
-- [GitHub - javedcodes/Neomorphic-Portfolio-Design-for-Android-App-Developer: Neomorphic Portfolio Design for Android App Developer](https://www.reddit.com/r/javascript/comments/1i0n5rs/github/)
+- [[AskJS] Help with drawing a character to move across a canvas](https://www.reddit.com/r/javascript/comments/1i2dl7s/askjs_help_with_drawing_a_character_to_move/)
+- [Diving into the new Atomics.pause proposal in JavaScript and how it could improve multithreaded performance in modern apps](https://www.reddit.com/r/javascript/comments/1i25f2b/diving_into_the_new_atomicspause_proposal_in/)
+- [Vite support for automatic video streaming &lt;video src=&quot;video.mp4?hsl&quot;&gt;&lt;/video&gt;](https://www.reddit.com/r/javascript/comments/1i24cyt/vite_support_for_automatic_video_streaming_video/)
+- [GitHub - javedcodes/3D-Social-Media-Icons: 3D Social Media Icons](https://www.reddit.com/r/javascript/comments/1i2426p/github_javedcodes3dsocialmediaicons_3d_social/)
+- [Tuono - Superfast ReactJS fullstack framework](https://www.reddit.com/r/javascript/comments/1i23pge/tuono_superfast_reactjs_fullstack_framework/)
+- [Developer life can be tough! I understand. That&#39;s why I created this Chrome extension to help you. I&#39;ve also included a full 2.5-hour tutorial to improve your JavaScript skills. The video link is in the readme.md file](https://www.reddit.com/r/javascript/comments/1i20jmk/developer_life_can_be_tough_i_understand_thats/)
+- [GitHub - free-news-api/news-widget: A free customizable embeddable JavaScript widget to display news articles about specific topics using the Webz.io News API Lite.](https://www.reddit.com/r/javascript/comments/1i1zut7/github_freenewsapinewswidget_a_free_customizable/)
+- [repo-to-text-watcher - NPM package to create a text file of your repo for LLMs every time a file changes](https://www.reddit.com/r/javascript/comments/1i1xqq9/repototextwatcher_npm_package_to_create_a_text/)
+- [How to use Real-Time Python Sentiment Analysis &lpar;NLP&rpar; in Node.Js](https://www.reddit.com/r/javascript/comments/1i1ui41/how_to_use_realtime_python_sentiment_analysis_nlp/)
+- [eslint-plugin-biome-x, an ESLint plugin that integrates Biome with ESLint](https://www.reddit.com/r/javascript/comments/1i1uhth/eslintpluginbiomex_an_eslint_plugin_that/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
