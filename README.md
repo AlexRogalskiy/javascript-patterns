@@ -277,7 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Help with drawing a character to move across a canvas](https://www.reddit.com/r/javascript/comments/1i2dl7s/askjs_help_with_drawing_a_character_to_move/)
+- [TargetJS distinguishes itself by introducing a novel concept known as &#39;targets,&#39; which forms its core. Targets give methods and variable assignments life cycles and the autonomy to operate independently, with various callbacks to adapt to changes](https://www.reddit.com/r/javascript/comments/1i30b5s/targetjs_distinguishes_itself_by_introducing_a/)
+- [EcommerceBot: Seamless Subscriptions and Sales in Your Discord Server](https://www.reddit.com/r/javascript/comments/1i2w4ti/ecommercebot_seamless_subscriptions_and_sales_in/)
+- [Transact -- A Lightweight Durable Execution Typescript Library](https://www.reddit.com/r/javascript/comments/1i2v0iz/transact_a_lightweight_durable_execution/)
 - [Diving into the new Atomics.pause proposal in JavaScript and how it could improve multithreaded performance in modern apps](https://www.reddit.com/r/javascript/comments/1i25f2b/diving_into_the_new_atomicspause_proposal_in/)
 - [Vite support for automatic video streaming &lt;video src=&quot;video.mp4?hsl&quot;&gt;&lt;/video&gt;](https://www.reddit.com/r/javascript/comments/1i24cyt/vite_support_for_automatic_video_streaming_video/)
 - [GitHub - javedcodes/3D-Social-Media-Icons: 3D Social Media Icons](https://www.reddit.com/r/javascript/comments/1i2426p/github_javedcodes3dsocialmediaicons_3d_social/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Developer life can be tough! I understand. That&#39;s why I created this Chrome extension to help you. I&#39;ve also included a full 2.5-hour tutorial to improve your JavaScript skills. The video link is in the readme.md file](https://www.reddit.com/r/javascript/comments/1i20jmk/developer_life_can_be_tough_i_understand_thats/)
 - [GitHub - free-news-api/news-widget: A free customizable embeddable JavaScript widget to display news articles about specific topics using the Webz.io News API Lite.](https://www.reddit.com/r/javascript/comments/1i1zut7/github_freenewsapinewswidget_a_free_customizable/)
 - [repo-to-text-watcher - NPM package to create a text file of your repo for LLMs every time a file changes](https://www.reddit.com/r/javascript/comments/1i1xqq9/repototextwatcher_npm_package_to_create_a_text/)
-- [How to use Real-Time Python Sentiment Analysis &lpar;NLP&rpar; in Node.Js](https://www.reddit.com/r/javascript/comments/1i1ui41/how_to_use_realtime_python_sentiment_analysis_nlp/)
-- [eslint-plugin-biome-x, an ESLint plugin that integrates Biome with ESLint](https://www.reddit.com/r/javascript/comments/1i1uhth/eslintpluginbiomex_an_eslint_plugin_that/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
