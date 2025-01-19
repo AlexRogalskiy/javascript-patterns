@@ -277,8 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Showoff Saturday &lpar;January 18, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1i42stp/showoff_saturday_january_18_2025/)
+- [GitHub - slider touch scrub slide step range / testing](https://www.reddit.com/r/javascript/comments/1i3zexy/github_slider_touch_scrub_slide_step_range_testing/)
 - [I didn&#39;t know you could compose string literal types in TypeScript.](https://www.reddit.com/r/javascript/comments/1i3suf1/i_didnt_know_you_could_compose_string_literal/)
-- [[AskJS] Help How do I make an event happen again](https://www.reddit.com/r/javascript/comments/1i3s85t/askjs_help_how_do_i_make_an_event_happen_again/)
 - [[AskJS] structuredClone](https://www.reddit.com/r/javascript/comments/1i3p1tl/askjs_structuredclone/)
 - [Announcing ArkType 2.0: Validate 100x faster with DX that will blow your mind](https://www.reddit.com/r/javascript/comments/1i3ollz/announcing_arktype_20_validate_100x_faster_with/)
 - [Readest: A Modern eBook Reader with Cross-Platform Sync and TTS](https://www.reddit.com/r/javascript/comments/1i3n2jc/readest_a_modern_ebook_reader_with_crossplatform/)
@@ -286,7 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Welcome to the RadixVerse](https://www.reddit.com/r/javascript/comments/1i38yv8/welcome_to_the_radixverse/)
 - [TargetJS distinguishes itself by introducing a novel concept known as &#39;targets,&#39; which forms its core. Targets give methods and variable assignments life cycles and the autonomy to operate independently, with various callbacks to adapt to changes](https://www.reddit.com/r/javascript/comments/1i30b5s/targetjs_distinguishes_itself_by_introducing_a/)
 - [EcommerceBot: Seamless Subscriptions and Sales in Your Discord Server](https://www.reddit.com/r/javascript/comments/1i2w4ti/ecommercebot_seamless_subscriptions_and_sales_in/)
-- [Transact -- A Lightweight Durable Execution Typescript Library](https://www.reddit.com/r/javascript/comments/1i2v0iz/transact_a_lightweight_durable_execution/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
