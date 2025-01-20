@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Suddenly Realized Why Dependency Injection Is Necessary](https://www.reddit.com/r/javascript/comments/1i5euza/suddenly_realized_why_dependency_injection_is/)
+- [Introduction to WebAssembly](https://www.reddit.com/r/javascript/comments/1i561fh/introduction_to_webassembly/)
+- [TypeScript .ts file execution benchmarks for Deno, Bun, Node.js](https://www.reddit.com/r/javascript/comments/1i52v0q/typescript_ts_file_execution_benchmarks_for_deno/)
+- [Fetch and HTTP/2 support in Node.js, Bun and Deno](https://www.reddit.com/r/javascript/comments/1i52aqo/fetch_and_http2_support_in_nodejs_bun_and_deno/)
 - [Showoff Saturday &lpar;January 18, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1i42stp/showoff_saturday_january_18_2025/)
 - [GitHub - slider touch scrub slide step range / testing](https://www.reddit.com/r/javascript/comments/1i3zexy/github_slider_touch_scrub_slide_step_range_testing/)
 - [I didn&#39;t know you could compose string literal types in TypeScript.](https://www.reddit.com/r/javascript/comments/1i3suf1/i_didnt_know_you_could_compose_string_literal/)
 - [[AskJS] structuredClone](https://www.reddit.com/r/javascript/comments/1i3p1tl/askjs_structuredclone/)
 - [Announcing ArkType 2.0: Validate 100x faster with DX that will blow your mind](https://www.reddit.com/r/javascript/comments/1i3ollz/announcing_arktype_20_validate_100x_faster_with/)
 - [Readest: A Modern eBook Reader with Cross-Platform Sync and TTS](https://www.reddit.com/r/javascript/comments/1i3n2jc/readest_a_modern_ebook_reader_with_crossplatform/)
-- [[e2e testing tool] Lila: e2e tests using plain text language](https://www.reddit.com/r/javascript/comments/1i3ikhp/e2e_testing_tool_lila_e2e_tests_using_plain_text/)
-- [Welcome to the RadixVerse](https://www.reddit.com/r/javascript/comments/1i38yv8/welcome_to_the_radixverse/)
-- [TargetJS distinguishes itself by introducing a novel concept known as &#39;targets,&#39; which forms its core. Targets give methods and variable assignments life cycles and the autonomy to operate independently, with various callbacks to adapt to changes](https://www.reddit.com/r/javascript/comments/1i30b5s/targetjs_distinguishes_itself_by_introducing_a/)
-- [EcommerceBot: Seamless Subscriptions and Sales in Your Discord Server](https://www.reddit.com/r/javascript/comments/1i2w4ti/ecommercebot_seamless_subscriptions_and_sales_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
