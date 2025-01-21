@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Generating Test Values using JavaScript Generators](https://www.reddit.com/r/javascript/comments/1i5z8x7/generating_test_values_using_javascript_generators/)
+- [Introducing Jolt: AI Codegen and Chat for 100K to Multi-Million Line Codebases](https://www.reddit.com/r/javascript/comments/1i5wpd7/introducing_jolt_ai_codegen_and_chat_for_100k_to/)
+- [Tinder Like Song Voting System &lpar;100% vanilla js, who says you need a framework for &quot;reactive&quot; apps?&rpar;](https://www.reddit.com/r/javascript/comments/1i5wlgs/tinder_like_song_voting_system_100_vanilla_js_who/)
+- [We launched free online frontend meetups](https://www.reddit.com/r/javascript/comments/1i5o8hz/we_launched_free_online_frontend_meetups/)
+- [Your /r/javascript recap for the week of January 13 - January 19, 2025](https://www.reddit.com/r/javascript/comments/1i5myza/your_rjavascript_recap_for_the_week_of_january_13/)
+- [Powerful ESLint plugin with rules to help you achieve a scalable, consistent, and well-structured project.](https://www.reddit.com/r/javascript/comments/1i5makh/powerful_eslint_plugin_with_rules_to_help_you/)
 - [Suddenly Realized Why Dependency Injection Is Necessary](https://www.reddit.com/r/javascript/comments/1i5euza/suddenly_realized_why_dependency_injection_is/)
 - [Introduction to WebAssembly](https://www.reddit.com/r/javascript/comments/1i561fh/introduction_to_webassembly/)
 - [TypeScript .ts file execution benchmarks for Deno, Bun, Node.js](https://www.reddit.com/r/javascript/comments/1i52v0q/typescript_ts_file_execution_benchmarks_for_deno/)
 - [Fetch and HTTP/2 support in Node.js, Bun and Deno](https://www.reddit.com/r/javascript/comments/1i52aqo/fetch_and_http2_support_in_nodejs_bun_and_deno/)
-- [Showoff Saturday &lpar;January 18, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1i42stp/showoff_saturday_january_18_2025/)
-- [GitHub - slider touch scrub slide step range / testing](https://www.reddit.com/r/javascript/comments/1i3zexy/github_slider_touch_scrub_slide_step_range_testing/)
-- [I didn&#39;t know you could compose string literal types in TypeScript.](https://www.reddit.com/r/javascript/comments/1i3suf1/i_didnt_know_you_could_compose_string_literal/)
-- [[AskJS] structuredClone](https://www.reddit.com/r/javascript/comments/1i3p1tl/askjs_structuredclone/)
-- [Announcing ArkType 2.0: Validate 100x faster with DX that will blow your mind](https://www.reddit.com/r/javascript/comments/1i3ollz/announcing_arktype_20_validate_100x_faster_with/)
-- [Readest: A Modern eBook Reader with Cross-Platform Sync and TTS](https://www.reddit.com/r/javascript/comments/1i3n2jc/readest_a_modern_ebook_reader_with_crossplatform/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
