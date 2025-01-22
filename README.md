@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Building a more performant UI rendering engine](https://www.reddit.com/r/javascript/comments/1i6tax6/building_a_more_performant_ui_rendering_engine/)
+- [A small utility to create ECMAScript `Array`s with members of a single type.](https://www.reddit.com/r/javascript/comments/1i6sqg7/a_small_utility_to_create_ecmascript_arrays_with/)
+- [Things people get wrong about Electron](https://www.reddit.com/r/javascript/comments/1i6rkn0/things_people_get_wrong_about_electron/)
+- [My attempt to convert a module from SQLite3 to MySQL. Not quite there..](https://www.reddit.com/r/javascript/comments/1i6ew54/my_attempt_to_convert_a_module_from_sqlite3_to/)
+- [Framework Fatigue: The Real Reason Developers Get Angry About New Tech](https://www.reddit.com/r/javascript/comments/1i6d9fz/framework_fatigue_the_real_reason_developers_get/)
+- [Build your first WebAssembly project](https://www.reddit.com/r/javascript/comments/1i69rkw/build_your_first_webassembly_project/)
 - [Generating Test Values using JavaScript Generators](https://www.reddit.com/r/javascript/comments/1i5z8x7/generating_test_values_using_javascript_generators/)
 - [Introducing Jolt: AI Codegen and Chat for 100K to Multi-Million Line Codebases](https://www.reddit.com/r/javascript/comments/1i5wpd7/introducing_jolt_ai_codegen_and_chat_for_100k_to/)
-- [Tinder Like Song Voting System &lpar;100% vanilla js, who says you need a framework for &quot;reactive&quot; apps?&rpar;](https://www.reddit.com/r/javascript/comments/1i5wlgs/tinder_like_song_voting_system_100_vanilla_js_who/)
 - [We launched free online frontend meetups](https://www.reddit.com/r/javascript/comments/1i5o8hz/we_launched_free_online_frontend_meetups/)
 - [Your /r/javascript recap for the week of January 13 - January 19, 2025](https://www.reddit.com/r/javascript/comments/1i5myza/your_rjavascript_recap_for_the_week_of_january_13/)
-- [Powerful ESLint plugin with rules to help you achieve a scalable, consistent, and well-structured project.](https://www.reddit.com/r/javascript/comments/1i5makh/powerful_eslint_plugin_with_rules_to_help_you/)
-- [Suddenly Realized Why Dependency Injection Is Necessary](https://www.reddit.com/r/javascript/comments/1i5euza/suddenly_realized_why_dependency_injection_is/)
-- [Introduction to WebAssembly](https://www.reddit.com/r/javascript/comments/1i561fh/introduction_to_webassembly/)
-- [TypeScript .ts file execution benchmarks for Deno, Bun, Node.js](https://www.reddit.com/r/javascript/comments/1i52v0q/typescript_ts_file_execution_benchmarks_for_deno/)
-- [Fetch and HTTP/2 support in Node.js, Bun and Deno](https://www.reddit.com/r/javascript/comments/1i52aqo/fetch_and_http2_support_in_nodejs_bun_and_deno/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
