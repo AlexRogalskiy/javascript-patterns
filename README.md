@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A cli to benchmark js with jsdoc comments](https://www.reddit.com/r/javascript/comments/1i7q50x/a_cli_to_benchmark_js_with_jsdoc_comments/)
+- [Pasting into multiple fields at once](https://www.reddit.com/r/javascript/comments/1i7f59i/pasting_into_multiple_fields_at_once/)
+- [WTF Wednesday &lpar;January 22, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1i768nf/wtf_wednesday_january_22_2025/)
 - [Building a more performant UI rendering engine](https://www.reddit.com/r/javascript/comments/1i6tax6/building_a_more_performant_ui_rendering_engine/)
 - [A small utility to create ECMAScript `Array`s with members of a single type.](https://www.reddit.com/r/javascript/comments/1i6sqg7/a_small_utility_to_create_ecmascript_arrays_with/)
 - [Things people get wrong about Electron](https://www.reddit.com/r/javascript/comments/1i6rkn0/things_people_get_wrong_about_electron/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Framework Fatigue: The Real Reason Developers Get Angry About New Tech](https://www.reddit.com/r/javascript/comments/1i6d9fz/framework_fatigue_the_real_reason_developers_get/)
 - [Build your first WebAssembly project](https://www.reddit.com/r/javascript/comments/1i69rkw/build_your_first_webassembly_project/)
 - [Generating Test Values using JavaScript Generators](https://www.reddit.com/r/javascript/comments/1i5z8x7/generating_test_values_using_javascript_generators/)
-- [Introducing Jolt: AI Codegen and Chat for 100K to Multi-Million Line Codebases](https://www.reddit.com/r/javascript/comments/1i5wpd7/introducing_jolt_ai_codegen_and_chat_for_100k_to/)
-- [We launched free online frontend meetups](https://www.reddit.com/r/javascript/comments/1i5o8hz/we_launched_free_online_frontend_meetups/)
-- [Your /r/javascript recap for the week of January 13 - January 19, 2025](https://www.reddit.com/r/javascript/comments/1i5myza/your_rjavascript_recap_for_the_week_of_january_13/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
