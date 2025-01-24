@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Anyone want to help?](https://www.reddit.com/r/javascript/comments/1i8jc7y/anyone_want_to_help/)
+- [Validating React forms easily without third-party libraries](https://www.reddit.com/r/javascript/comments/1i83q7p/validating_react_forms_easily_without_thirdparty/)
+- [The Object Nature of JavaScript: Discover Why Almost Everything Is an Object](https://www.reddit.com/r/javascript/comments/1i7ysjl/the_object_nature_of_javascript_discover_why/)
+- [I built a simple JS framework for building AI Agents](https://www.reddit.com/r/javascript/comments/1i7x5c6/i_built_a_simple_js_framework_for_building_ai/)
+- [Async Iterator over an `IDBDatabase`](https://www.reddit.com/r/javascript/comments/1i7te3r/async_iterator_over_an_idbdatabase/)
 - [A cli to benchmark js with jsdoc comments](https://www.reddit.com/r/javascript/comments/1i7q50x/a_cli_to_benchmark_js_with_jsdoc_comments/)
 - [Pasting into multiple fields at once](https://www.reddit.com/r/javascript/comments/1i7f59i/pasting_into_multiple_fields_at_once/)
 - [WTF Wednesday &lpar;January 22, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1i768nf/wtf_wednesday_january_22_2025/)
 - [Building a more performant UI rendering engine](https://www.reddit.com/r/javascript/comments/1i6tax6/building_a_more_performant_ui_rendering_engine/)
 - [A small utility to create ECMAScript `Array`s with members of a single type.](https://www.reddit.com/r/javascript/comments/1i6sqg7/a_small_utility_to_create_ecmascript_arrays_with/)
-- [Things people get wrong about Electron](https://www.reddit.com/r/javascript/comments/1i6rkn0/things_people_get_wrong_about_electron/)
-- [My attempt to convert a module from SQLite3 to MySQL. Not quite there..](https://www.reddit.com/r/javascript/comments/1i6ew54/my_attempt_to_convert_a_module_from_sqlite3_to/)
-- [Framework Fatigue: The Real Reason Developers Get Angry About New Tech](https://www.reddit.com/r/javascript/comments/1i6d9fz/framework_fatigue_the_real_reason_developers_get/)
-- [Build your first WebAssembly project](https://www.reddit.com/r/javascript/comments/1i69rkw/build_your_first_webassembly_project/)
-- [Generating Test Values using JavaScript Generators](https://www.reddit.com/r/javascript/comments/1i5z8x7/generating_test_values_using_javascript_generators/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
