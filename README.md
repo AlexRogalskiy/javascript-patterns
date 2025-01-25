@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Anyone want to help?](https://www.reddit.com/r/javascript/comments/1i8jc7y/anyone_want_to_help/)
+- [Sliders &amp; ranges | first release | testing](https://www.reddit.com/r/javascript/comments/1i99gxj/sliders_ranges_first_release_testing/)
+- [An in-depth exploration on benefits of TypeScript code generation focusing on the new type predicate generator of mine](https://www.reddit.com/r/javascript/comments/1i9695m/an_indepth_exploration_on_benefits_of_typescript/)
+- [What we Learned from Scaling Websockets for our React App](https://www.reddit.com/r/javascript/comments/1i92u8p/what_we_learned_from_scaling_websockets_for_our/)
+- [A WebAssembly compiler that fits in a tweet](https://www.reddit.com/r/javascript/comments/1i8zzcn/a_webassembly_compiler_that_fits_in_a_tweet/)
+- [[AskJS] Which OOP style to use in current-gen JS?](https://www.reddit.com/r/javascript/comments/1i8xv71/askjs_which_oop_style_to_use_in_currentgen_js/)
+- [Request Quest - fun game to identify when browser calls network request &lpar;lots of tricky questions!&rpar;](https://www.reddit.com/r/javascript/comments/1i8w9yg/request_quest_fun_game_to_identify_when_browser/)
+- [[AskJS] What are you top choices for third-party libs/components?](https://www.reddit.com/r/javascript/comments/1i8w7pe/askjs_what_are_you_top_choices_for_thirdparty/)
+- [I created a type-safe library for designing automations on top of the Bluesky API using a builder pattern.](https://www.reddit.com/r/javascript/comments/1i8ss4t/i_created_a_typesafe_library_for_designing/)
 - [Validating React forms easily without third-party libraries](https://www.reddit.com/r/javascript/comments/1i83q7p/validating_react_forms_easily_without_thirdparty/)
 - [The Object Nature of JavaScript: Discover Why Almost Everything Is an Object](https://www.reddit.com/r/javascript/comments/1i7ysjl/the_object_nature_of_javascript_discover_why/)
-- [I built a simple JS framework for building AI Agents](https://www.reddit.com/r/javascript/comments/1i7x5c6/i_built_a_simple_js_framework_for_building_ai/)
-- [Async Iterator over an `IDBDatabase`](https://www.reddit.com/r/javascript/comments/1i7te3r/async_iterator_over_an_idbdatabase/)
-- [A cli to benchmark js with jsdoc comments](https://www.reddit.com/r/javascript/comments/1i7q50x/a_cli_to_benchmark_js_with_jsdoc_comments/)
-- [Pasting into multiple fields at once](https://www.reddit.com/r/javascript/comments/1i7f59i/pasting_into_multiple_fields_at_once/)
-- [WTF Wednesday &lpar;January 22, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1i768nf/wtf_wednesday_january_22_2025/)
-- [Building a more performant UI rendering engine](https://www.reddit.com/r/javascript/comments/1i6tax6/building_a_more_performant_ui_rendering_engine/)
-- [A small utility to create ECMAScript `Array`s with members of a single type.](https://www.reddit.com/r/javascript/comments/1i6sqg7/a_small_utility_to_create_ecmascript_arrays_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
