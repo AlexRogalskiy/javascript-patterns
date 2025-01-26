@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Hello devs!. I need your guidance, JavaScript or Java?](https://www.reddit.com/r/javascript/comments/1i9zs4t/askjs_hello_devs_i_need_your_guidance_javascript/)
+- [Storecraft project is looking for contributors &lpar;writing extensions / plugins / tests etc..&rpar;](https://www.reddit.com/r/javascript/comments/1i9voww/storecraft_project_is_looking_for_contributors/)
+- [How to use Node&#39;s fs in the browser for custom playgrounds](https://www.reddit.com/r/javascript/comments/1i9ths8/how_to_use_nodes_fs_in_the_browser_for_custom/)
+- [[AskJS] How can I avoid unnecessary async overhead with async callbacks](https://www.reddit.com/r/javascript/comments/1i9s767/askjs_how_can_i_avoid_unnecessary_async_overhead/)
+- [[AskJS] When do we invoke the function?](https://www.reddit.com/r/javascript/comments/1i9mpsj/askjs_when_do_we_invoke_the_function/)
+- [Showoff Saturday &lpar;January 25, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1i9i8as/showoff_saturday_january_25_2025/)
+- [[AskJS] Morphing Animation in JS like in Powerpoint](https://www.reddit.com/r/javascript/comments/1i9gf7l/askjs_morphing_animation_in_js_like_in_powerpoint/)
 - [Sliders &amp; ranges | first release | testing](https://www.reddit.com/r/javascript/comments/1i99gxj/sliders_ranges_first_release_testing/)
 - [An in-depth exploration on benefits of TypeScript code generation focusing on the new type predicate generator of mine](https://www.reddit.com/r/javascript/comments/1i9695m/an_indepth_exploration_on_benefits_of_typescript/)
 - [What we Learned from Scaling Websockets for our React App](https://www.reddit.com/r/javascript/comments/1i92u8p/what_we_learned_from_scaling_websockets_for_our/)
-- [A WebAssembly compiler that fits in a tweet](https://www.reddit.com/r/javascript/comments/1i8zzcn/a_webassembly_compiler_that_fits_in_a_tweet/)
-- [[AskJS] Which OOP style to use in current-gen JS?](https://www.reddit.com/r/javascript/comments/1i8xv71/askjs_which_oop_style_to_use_in_currentgen_js/)
-- [Request Quest - fun game to identify when browser calls network request &lpar;lots of tricky questions!&rpar;](https://www.reddit.com/r/javascript/comments/1i8w9yg/request_quest_fun_game_to_identify_when_browser/)
-- [[AskJS] What are you top choices for third-party libs/components?](https://www.reddit.com/r/javascript/comments/1i8w7pe/askjs_what_are_you_top_choices_for_thirdparty/)
-- [I created a type-safe library for designing automations on top of the Bluesky API using a builder pattern.](https://www.reddit.com/r/javascript/comments/1i8ss4t/i_created_a_typesafe_library_for_designing/)
-- [Validating React forms easily without third-party libraries](https://www.reddit.com/r/javascript/comments/1i83q7p/validating_react_forms_easily_without_thirdparty/)
-- [The Object Nature of JavaScript: Discover Why Almost Everything Is an Object](https://www.reddit.com/r/javascript/comments/1i7ysjl/the_object_nature_of_javascript_discover_why/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
