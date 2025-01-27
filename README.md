@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Need Helping Finding a Library](https://www.reddit.com/r/javascript/comments/1iawvkz/askjs_need_helping_finding_a_library/)
+- [[AskJS] Fullstack app structure](https://www.reddit.com/r/javascript/comments/1iap436/askjs_fullstack_app_structure/)
+- [[AskJS] How long does it take from absolute beginner to building first easy projects?](https://www.reddit.com/r/javascript/comments/1iamueg/askjs_how_long_does_it_take_from_absolute/)
+- [[AskJS] Objects in the exported SVG file aren&#39;t in the right place](https://www.reddit.com/r/javascript/comments/1iamkno/askjs_objects_in_the_exported_svg_file_arent_in/)
+- [The Little I Know About Monads](https://www.reddit.com/r/javascript/comments/1iagawl/the_little_i_know_about_monads/)
+- [[AskJS] Chrome Extension Development: Managing Cross-Script Communication for AI Integration](https://www.reddit.com/r/javascript/comments/1ia82m7/askjs_chrome_extension_development_managing/)
 - [[AskJS] Hello devs!. I need your guidance, JavaScript or Java?](https://www.reddit.com/r/javascript/comments/1i9zs4t/askjs_hello_devs_i_need_your_guidance_javascript/)
 - [Storecraft project is looking for contributors &lpar;writing extensions / plugins / tests etc..&rpar;](https://www.reddit.com/r/javascript/comments/1i9voww/storecraft_project_is_looking_for_contributors/)
 - [How to use Node&#39;s fs in the browser for custom playgrounds](https://www.reddit.com/r/javascript/comments/1i9ths8/how_to_use_nodes_fs_in_the_browser_for_custom/)
 - [[AskJS] How can I avoid unnecessary async overhead with async callbacks](https://www.reddit.com/r/javascript/comments/1i9s767/askjs_how_can_i_avoid_unnecessary_async_overhead/)
-- [[AskJS] When do we invoke the function?](https://www.reddit.com/r/javascript/comments/1i9mpsj/askjs_when_do_we_invoke_the_function/)
-- [Showoff Saturday &lpar;January 25, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1i9i8as/showoff_saturday_january_25_2025/)
-- [[AskJS] Morphing Animation in JS like in Powerpoint](https://www.reddit.com/r/javascript/comments/1i9gf7l/askjs_morphing_animation_in_js_like_in_powerpoint/)
-- [Sliders &amp; ranges | first release | testing](https://www.reddit.com/r/javascript/comments/1i99gxj/sliders_ranges_first_release_testing/)
-- [An in-depth exploration on benefits of TypeScript code generation focusing on the new type predicate generator of mine](https://www.reddit.com/r/javascript/comments/1i9695m/an_indepth_exploration_on_benefits_of_typescript/)
-- [What we Learned from Scaling Websockets for our React App](https://www.reddit.com/r/javascript/comments/1i92u8p/what_we_learned_from_scaling_websockets_for_our/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
