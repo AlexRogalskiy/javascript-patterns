@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Building a 100% Free Coding Platform with 2D Game Dev Tutorials – What Features Do You Want?](https://www.reddit.com/r/javascript/comments/1ici5n2/askjs_building_a_100_free_coding_platform_with_2d/)
+- [Mastra: An open source Typescript AI Framework for building AI Agents](https://www.reddit.com/r/javascript/comments/1ichw03/mastra_an_open_source_typescript_ai_framework_for/)
+- [GitHub - elricmann/query-utils: Query utilities for DOM manipulation](https://www.reddit.com/r/javascript/comments/1icfg3p/github_elricmannqueryutils_query_utilities_for/)
+- [[AskJS] Script in html for fade in, fade out, crossfade on iPhone](https://www.reddit.com/r/javascript/comments/1ic8typ/askjs_script_in_html_for_fade_in_fade_out/)
+- [Shallow vs. Deep Comparison in JavaScript: Unlocking React’s Performance Secrets](https://www.reddit.com/r/javascript/comments/1ic5gw8/shallow_vs_deep_comparison_in_javascript/)
+- [Tilted 0.4.0 – lightweight TS library for displaying maps and other similar content in a modern 2.5D way. Smooth scaling with gliding towards cursor, easy multi-dimensional visuals, dragging, and more!](https://www.reddit.com/r/javascript/comments/1ic3x0l/tilted_040_lightweight_ts_library_for_displaying/)
+- [[AskJS] Indentation: 2 or 4 spaces? What’s the real industry standard in 2025?](https://www.reddit.com/r/javascript/comments/1ibz3g1/askjs_indentation_2_or_4_spaces_whats_the_real/)
 - [[Open Source] Notate is a desktop chat application that takes AI conversations to the next level. It combines the simplicity of chat with advanced features like document analysis, vector search, and multi-model AI support - all while keeping your data private. Built with ElectronJS&lpar;React&rpar; / Python](https://www.reddit.com/r/javascript/comments/1ibpmn1/open_source_notate_is_a_desktop_chat_application/)
 - [GLSL Mine - Modern Shader Gallery](https://www.reddit.com/r/javascript/comments/1ibi0x4/glsl_mine_modern_shader_gallery/)
 - [[AskJS] As far as job market goes, is Python or Javascript/Full stack more in demand?](https://www.reddit.com/r/javascript/comments/1ibgh1n/askjs_as_far_as_job_market_goes_is_python_or/)
-- [Concatenative programming style class-name expressions, w/ tagged templates](https://www.reddit.com/r/javascript/comments/1ib77y7/concatenative_programming_style_classname/)
-- [Your /r/javascript recap for the week of January 20 - January 26, 2025](https://www.reddit.com/r/javascript/comments/1ib51mg/your_rjavascript_recap_for_the_week_of_january_20/)
-- [[AskJS] Fullstack app structure](https://www.reddit.com/r/javascript/comments/1iap436/askjs_fullstack_app_structure/)
-- [The Little I Know About Monads](https://www.reddit.com/r/javascript/comments/1iagawl/the_little_i_know_about_monads/)
-- [[AskJS] Chrome Extension Development: Managing Cross-Script Communication for AI Integration](https://www.reddit.com/r/javascript/comments/1ia82m7/askjs_chrome_extension_development_managing/)
-- [Storecraft project is looking for contributors &lpar;writing extensions / plugins / tests etc..&rpar;](https://www.reddit.com/r/javascript/comments/1i9voww/storecraft_project_is_looking_for_contributors/)
-- [How to use Node&#39;s fs in the browser for custom playgrounds](https://www.reddit.com/r/javascript/comments/1i9ths8/how_to_use_nodes_fs_in_the_browser_for_custom/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
