@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [hi everyone, please check my game inspired in 80&#39;s space games but with modern/realistic style](https://www.reddit.com/r/javascript/comments/1id422o/hi_everyone_please_check_my_game_inspired_in_80s/)
+- [[AskJS] What&#39;s the state of the art approach in user fingerprinting without a paid API call?](https://www.reddit.com/r/javascript/comments/1id3cl6/askjs_whats_the_state_of_the_art_approach_in_user/)
+- [Announcing TypeScript 5.8 Beta](https://www.reddit.com/r/javascript/comments/1id1ctp/announcing_typescript_58_beta/)
+- [Create Interactive Maps in Node.js by Integrating Python’s folium library](https://www.reddit.com/r/javascript/comments/1icplsv/create_interactive_maps_in_nodejs_by_integrating/)
+- [WTF Wednesday &lpar;January 29, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1icox2q/wtf_wednesday_january_29_2025/)
 - [[AskJS] Building a 100% Free Coding Platform with 2D Game Dev Tutorials – What Features Do You Want?](https://www.reddit.com/r/javascript/comments/1ici5n2/askjs_building_a_100_free_coding_platform_with_2d/)
 - [Mastra: An open source Typescript AI Framework for building AI Agents](https://www.reddit.com/r/javascript/comments/1ichw03/mastra_an_open_source_typescript_ai_framework_for/)
 - [GitHub - elricmann/query-utils: Query utilities for DOM manipulation](https://www.reddit.com/r/javascript/comments/1icfg3p/github_elricmannqueryutils_query_utilities_for/)
-- [[AskJS] Script in html for fade in, fade out, crossfade on iPhone](https://www.reddit.com/r/javascript/comments/1ic8typ/askjs_script_in_html_for_fade_in_fade_out/)
 - [Shallow vs. Deep Comparison in JavaScript: Unlocking React’s Performance Secrets](https://www.reddit.com/r/javascript/comments/1ic5gw8/shallow_vs_deep_comparison_in_javascript/)
 - [Tilted 0.4.0 – lightweight TS library for displaying maps and other similar content in a modern 2.5D way. Smooth scaling with gliding towards cursor, easy multi-dimensional visuals, dragging, and more!](https://www.reddit.com/r/javascript/comments/1ic3x0l/tilted_040_lightweight_ts_library_for_displaying/)
-- [[AskJS] Indentation: 2 or 4 spaces? What’s the real industry standard in 2025?](https://www.reddit.com/r/javascript/comments/1ibz3g1/askjs_indentation_2_or_4_spaces_whats_the_real/)
-- [[Open Source] Notate is a desktop chat application that takes AI conversations to the next level. It combines the simplicity of chat with advanced features like document analysis, vector search, and multi-model AI support - all while keeping your data private. Built with ElectronJS&lpar;React&rpar; / Python](https://www.reddit.com/r/javascript/comments/1ibpmn1/open_source_notate_is_a_desktop_chat_application/)
-- [GLSL Mine - Modern Shader Gallery](https://www.reddit.com/r/javascript/comments/1ibi0x4/glsl_mine_modern_shader_gallery/)
-- [[AskJS] As far as job market goes, is Python or Javascript/Full stack more in demand?](https://www.reddit.com/r/javascript/comments/1ibgh1n/askjs_as_far_as_job_market_goes_is_python_or/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
