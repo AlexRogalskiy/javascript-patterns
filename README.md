@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Two features Typescript will never include](https://www.reddit.com/r/javascript/comments/1idvx7b/two_features_typescript_will_never_include/)
+- [Chat with your TypeScript Class &lpar;A.I. Chatbot Builder&rpar;](https://www.reddit.com/r/javascript/comments/1idttgo/chat_with_your_typescript_class_ai_chatbot_builder/)
+- [TypeZero: Zero-config TypeScript starter for modern Node.js development. ESM, Vitest, ESLint, Prettier — production-ready in seconds!](https://www.reddit.com/r/javascript/comments/1idm5z0/typezero_zeroconfig_typescript_starter_for_modern/)
+- [Understanding Value vs. Reference in JavaScript: Differences Between Primitives and Objects](https://www.reddit.com/r/javascript/comments/1idlyn5/understanding_value_vs_reference_in_javascript/)
+- [Building a semantic movie search demo with pgvector and Next.js](https://www.reddit.com/r/javascript/comments/1idk4u3/building_a_semantic_movie_search_demo_with/)
+- [Executing AssemblyScript directly, and compiling to JavaScript with tsc, Deno, and Bun &lpar;and executing WASM directly with bun&rpar;](https://www.reddit.com/r/javascript/comments/1idj3cq/executing_assemblyscript_directly_and_compiling/)
 - [hi everyone, please check my game inspired in 80&#39;s space games but with modern/realistic style](https://www.reddit.com/r/javascript/comments/1id422o/hi_everyone_please_check_my_game_inspired_in_80s/)
 - [[AskJS] What&#39;s the state of the art approach in user fingerprinting without a paid API call?](https://www.reddit.com/r/javascript/comments/1id3cl6/askjs_whats_the_state_of_the_art_approach_in_user/)
 - [Announcing TypeScript 5.8 Beta](https://www.reddit.com/r/javascript/comments/1id1ctp/announcing_typescript_58_beta/)
 - [Create Interactive Maps in Node.js by Integrating Python’s folium library](https://www.reddit.com/r/javascript/comments/1icplsv/create_interactive_maps_in_nodejs_by_integrating/)
-- [WTF Wednesday &lpar;January 29, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1icox2q/wtf_wednesday_january_29_2025/)
-- [[AskJS] Building a 100% Free Coding Platform with 2D Game Dev Tutorials – What Features Do You Want?](https://www.reddit.com/r/javascript/comments/1ici5n2/askjs_building_a_100_free_coding_platform_with_2d/)
-- [Mastra: An open source Typescript AI Framework for building AI Agents](https://www.reddit.com/r/javascript/comments/1ichw03/mastra_an_open_source_typescript_ai_framework_for/)
-- [GitHub - elricmann/query-utils: Query utilities for DOM manipulation](https://www.reddit.com/r/javascript/comments/1icfg3p/github_elricmannqueryutils_query_utilities_for/)
-- [Shallow vs. Deep Comparison in JavaScript: Unlocking React’s Performance Secrets](https://www.reddit.com/r/javascript/comments/1ic5gw8/shallow_vs_deep_comparison_in_javascript/)
-- [Tilted 0.4.0 – lightweight TS library for displaying maps and other similar content in a modern 2.5D way. Smooth scaling with gliding towards cursor, easy multi-dimensional visuals, dragging, and more!](https://www.reddit.com/r/javascript/comments/1ic3x0l/tilted_040_lightweight_ts_library_for_displaying/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
