@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Liquid code update | smooth trails, light effects, live parameters, presets, performance bump, &amp; more](https://www.reddit.com/r/javascript/comments/1ieuy9k/liquid_code_update_smooth_trails_light_effects/)
+- [Trigger Express.js and Next.js API/backend functions directly from user prompts. ArchGW is an intelligent proxy server that offers a language agnostic way to build smarter AI apps with existing business functionality](https://www.reddit.com/r/javascript/comments/1ien5mw/trigger_expressjs_and_nextjs_apibackend_functions/)
+- [A.I. Chat with your TypeScript Class &lpar;Every TypeScript Classes can be Super A.I. Chatbot&rpar;](https://www.reddit.com/r/javascript/comments/1ien4a2/ai_chat_with_your_typescript_class_every/)
+- [Neutralinojs v5.6 released](https://www.reddit.com/r/javascript/comments/1iee2ju/neutralinojs_v56_released/)
 - [Two features Typescript will never include](https://www.reddit.com/r/javascript/comments/1idvx7b/two_features_typescript_will_never_include/)
-- [Chat with your TypeScript Class &lpar;A.I. Chatbot Builder&rpar;](https://www.reddit.com/r/javascript/comments/1idttgo/chat_with_your_typescript_class_ai_chatbot_builder/)
 - [TypeZero: Zero-config TypeScript starter for modern Node.js development. ESM, Vitest, ESLint, Prettier — production-ready in seconds!](https://www.reddit.com/r/javascript/comments/1idm5z0/typezero_zeroconfig_typescript_starter_for_modern/)
-- [Understanding Value vs. Reference in JavaScript: Differences Between Primitives and Objects](https://www.reddit.com/r/javascript/comments/1idlyn5/understanding_value_vs_reference_in_javascript/)
 - [Building a semantic movie search demo with pgvector and Next.js](https://www.reddit.com/r/javascript/comments/1idk4u3/building_a_semantic_movie_search_demo_with/)
 - [Executing AssemblyScript directly, and compiling to JavaScript with tsc, Deno, and Bun &lpar;and executing WASM directly with bun&rpar;](https://www.reddit.com/r/javascript/comments/1idj3cq/executing_assemblyscript_directly_and_compiling/)
 - [hi everyone, please check my game inspired in 80&#39;s space games but with modern/realistic style](https://www.reddit.com/r/javascript/comments/1id422o/hi_everyone_please_check_my_game_inspired_in_80s/)
 - [[AskJS] What&#39;s the state of the art approach in user fingerprinting without a paid API call?](https://www.reddit.com/r/javascript/comments/1id3cl6/askjs_whats_the_state_of_the_art_approach_in_user/)
-- [Announcing TypeScript 5.8 Beta](https://www.reddit.com/r/javascript/comments/1id1ctp/announcing_typescript_58_beta/)
-- [Create Interactive Maps in Node.js by Integrating Python’s folium library](https://www.reddit.com/r/javascript/comments/1icplsv/create_interactive_maps_in_nodejs_by_integrating/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
