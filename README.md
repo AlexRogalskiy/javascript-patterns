@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Looking for a client-side expression language compatible with Symfony Expression Language?](https://www.reddit.com/r/javascript/comments/1igunfd/askjs_looking_for_a_clientside_expression/)
+- [Hi, I made this high-level router for express automatically generating OpenAPI/Swagger with build-in validators and type inference from zod](https://www.reddit.com/r/javascript/comments/1igqfdn/hi_i_made_this_highlevel_router_for_express/)
+- [There are a lot of ways to break up long tasks in JavaScript.](https://www.reddit.com/r/javascript/comments/1igplff/there_are_a_lot_of_ways_to_break_up_long_tasks_in/)
+- [Your /r/javascript recap for the week of January 27 - February 02, 2025](https://www.reddit.com/r/javascript/comments/1igm0tr/your_rjavascript_recap_for_the_week_of_january_27/)
+- [Reflections on Dependency Injection](https://www.reddit.com/r/javascript/comments/1igfwzx/reflections_on_dependency_injection/)
 - [[AskJS] Tech Stack for LLM-Based Web App?](https://www.reddit.com/r/javascript/comments/1ifw4jj/askjs_tech_stack_for_llmbased_web_app/)
 - [Showoff Saturday &lpar;February 01, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1if1mj6/showoff_saturday_february_01_2025/)
 - [Liquid code update | smooth trails, light effects, live parameters, presets, performance bump, &amp; more](https://www.reddit.com/r/javascript/comments/1ieuy9k/liquid_code_update_smooth_trails_light_effects/)
 - [Trigger Express.js and Next.js API/backend functions directly from user prompts. ArchGW is an intelligent proxy server that offers a language agnostic way to build smarter AI apps with existing business functionality](https://www.reddit.com/r/javascript/comments/1ien5mw/trigger_expressjs_and_nextjs_apibackend_functions/)
 - [Neutralinojs v5.6 released](https://www.reddit.com/r/javascript/comments/1iee2ju/neutralinojs_v56_released/)
-- [Two features Typescript will never include](https://www.reddit.com/r/javascript/comments/1idvx7b/two_features_typescript_will_never_include/)
-- [TypeZero: Zero-config TypeScript starter for modern Node.js development. ESM, Vitest, ESLint, Prettier — production-ready in seconds!](https://www.reddit.com/r/javascript/comments/1idm5z0/typezero_zeroconfig_typescript_starter_for_modern/)
-- [Building a semantic movie search demo with pgvector and Next.js](https://www.reddit.com/r/javascript/comments/1idk4u3/building_a_semantic_movie_search_demo_with/)
-- [Executing AssemblyScript directly, and compiling to JavaScript with tsc, Deno, and Bun &lpar;and executing WASM directly with bun&rpar;](https://www.reddit.com/r/javascript/comments/1idj3cq/executing_assemblyscript_directly_and_compiling/)
-- [[AskJS] What&#39;s the state of the art approach in user fingerprinting without a paid API call?](https://www.reddit.com/r/javascript/comments/1id3cl6/askjs_whats_the_state_of_the_art_approach_in_user/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
