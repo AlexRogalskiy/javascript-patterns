@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Hey Guys I made this npm package called clip-creator which lets you create videos using LLM with minimal inputs You can automate your video creation completely with this tool and integrate other services like TTS and social media APIs to automate posting to platforms. Do give your reviews](https://www.reddit.com/r/javascript/comments/1ihe7yf/hey_guys_i_made_this_npm_package_called/)
+- [How JavaScript Overuse Ruined the Web](https://www.reddit.com/r/javascript/comments/1ihcm1v/how_javascript_overuse_ruined_the_web/)
 - [[AskJS] Looking for a client-side expression language compatible with Symfony Expression Language?](https://www.reddit.com/r/javascript/comments/1igunfd/askjs_looking_for_a_clientside_expression/)
 - [Hi, I made this high-level router for express automatically generating OpenAPI/Swagger with build-in validators and type inference from zod](https://www.reddit.com/r/javascript/comments/1igqfdn/hi_i_made_this_highlevel_router_for_express/)
 - [There are a lot of ways to break up long tasks in JavaScript.](https://www.reddit.com/r/javascript/comments/1igplff/there_are_a_lot_of_ways_to_break_up_long_tasks_in/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [[AskJS] Tech Stack for LLM-Based Web App?](https://www.reddit.com/r/javascript/comments/1ifw4jj/askjs_tech_stack_for_llmbased_web_app/)
 - [Showoff Saturday &lpar;February 01, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1if1mj6/showoff_saturday_february_01_2025/)
 - [Liquid code update | smooth trails, light effects, live parameters, presets, performance bump, &amp; more](https://www.reddit.com/r/javascript/comments/1ieuy9k/liquid_code_update_smooth_trails_light_effects/)
-- [Trigger Express.js and Next.js API/backend functions directly from user prompts. ArchGW is an intelligent proxy server that offers a language agnostic way to build smarter AI apps with existing business functionality](https://www.reddit.com/r/javascript/comments/1ien5mw/trigger_expressjs_and_nextjs_apibackend_functions/)
-- [Neutralinojs v5.6 released](https://www.reddit.com/r/javascript/comments/1iee2ju/neutralinojs_v56_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
