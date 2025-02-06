@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Typeconf v0.2.8: Simplified usage, now available without extra package](https://www.reddit.com/r/javascript/comments/1iintvt/typeconf_v028_simplified_usage_now_available/)
+- [[AskJS] Looking for JS Framework to create a graph with auto-connecting lines like Clay](https://www.reddit.com/r/javascript/comments/1iilr82/askjs_looking_for_js_framework_to_create_a_graph/)
+- [Introducing react-exe – Powering Dynamic React Previews!](https://www.reddit.com/r/javascript/comments/1iih90z/introducing_reactexe_powering_dynamic_react/)
+- [Conditioning Vercel deployments on successful CircleCI workflows](https://www.reddit.com/r/javascript/comments/1iig0jx/conditioning_vercel_deployments_on_successful/)
+- [A minimalist Protracker player in ~200 lines of JavaScript](https://www.reddit.com/r/javascript/comments/1iiaaug/a_minimalist_protracker_player_in_200_lines_of/)
+- [Vanilla js Chat-UI with support for chunked encoding for use with LLMs etc.](https://www.reddit.com/r/javascript/comments/1ii8c0l/vanilla_js_chatui_with_support_for_chunked/)
+- [WTF Wednesday &lpar;February 05, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1ii569t/wtf_wednesday_february_05_2025/)
 - [Hey Guys I made this npm package called clip-creator which lets you create videos using LLM with minimal inputs You can automate your video creation completely with this tool and integrate other services like TTS and social media APIs to automate posting to platforms. Do give your reviews](https://www.reddit.com/r/javascript/comments/1ihe7yf/hey_guys_i_made_this_npm_package_called/)
 - [How JavaScript Overuse Ruined the Web](https://www.reddit.com/r/javascript/comments/1ihcm1v/how_javascript_overuse_ruined_the_web/)
 - [[AskJS] Looking for a client-side expression language compatible with Symfony Expression Language?](https://www.reddit.com/r/javascript/comments/1igunfd/askjs_looking_for_a_clientside_expression/)
-- [Hi, I made this high-level router for express automatically generating OpenAPI/Swagger with build-in validators and type inference from zod](https://www.reddit.com/r/javascript/comments/1igqfdn/hi_i_made_this_highlevel_router_for_express/)
-- [There are a lot of ways to break up long tasks in JavaScript.](https://www.reddit.com/r/javascript/comments/1igplff/there_are_a_lot_of_ways_to_break_up_long_tasks_in/)
-- [Your /r/javascript recap for the week of January 27 - February 02, 2025](https://www.reddit.com/r/javascript/comments/1igm0tr/your_rjavascript_recap_for_the_week_of_january_27/)
-- [Reflections on Dependency Injection](https://www.reddit.com/r/javascript/comments/1igfwzx/reflections_on_dependency_injection/)
-- [[AskJS] Tech Stack for LLM-Based Web App?](https://www.reddit.com/r/javascript/comments/1ifw4jj/askjs_tech_stack_for_llmbased_web_app/)
-- [Showoff Saturday &lpar;February 01, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1if1mj6/showoff_saturday_february_01_2025/)
-- [Liquid code update | smooth trails, light effects, live parameters, presets, performance bump, &amp; more](https://www.reddit.com/r/javascript/comments/1ieuy9k/liquid_code_update_smooth_trails_light_effects/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
