@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Is &quot;JavaScript for Dummies&quot; a decent way of actually learning JavaScript?](https://www.reddit.com/r/javascript/comments/1iktpj8/askjs_is_javascript_for_dummies_a_decent_way_of/)
+- [[AskJS] How to Programmatically detect chat fields?](https://www.reddit.com/r/javascript/comments/1iksb47/askjs_how_to_programmatically_detect_chat_fields/)
+- [[AskJS] Need advice: Best approach for real-time 3D terrain visualization &lpar;with possible infrastructure placement later on&rpar;](https://www.reddit.com/r/javascript/comments/1ikqmua/askjs_need_advice_best_approach_for_realtime_3d/)
+- [Showoff Saturday &lpar;February 08, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1ikichv/showoff_saturday_february_08_2025/)
+- [[AskJS] I just spent 3 hours trying to find a huge issue and it was the stupidest thing ever.](https://www.reddit.com/r/javascript/comments/1ikdur0/askjs_i_just_spent_3_hours_trying_to_find_a_huge/)
 - [[AskJS] Does anyone know of any local JSON editor with GUI? &lpar;Windows&rpar;](https://www.reddit.com/r/javascript/comments/1ik9fhe/askjs_does_anyone_know_of_any_local_json_editor/)
-- [[AskJS] Generating Dropdown Options from Two Other Deopdowns](https://www.reddit.com/r/javascript/comments/1ik9dbg/askjs_generating_dropdown_options_from_two_other/)
 - [Pushmatic: A lightweight, framework-agnostic library for handling web push notifications easily.](https://www.reddit.com/r/javascript/comments/1ik09d6/pushmatic_a_lightweight_frameworkagnostic_library/)
-- [[AskJS] Checkout this npm package with OOP design for caching data in JS code!](https://www.reddit.com/r/javascript/comments/1ijwnih/askjs_checkout_this_npm_package_with_oop_design/)
-- [HMPL: Server-oriented customizable templating for JavaScript](https://www.reddit.com/r/javascript/comments/1ijqw1a/hmpl_serveroriented_customizable_templating_for/)
 - [Do you use a JSON formatting plugin regularly?](https://www.reddit.com/r/javascript/comments/1ijpv3c/do_you_use_a_json_formatting_plugin_regularly/)
 - [[New Library] A Swift library to enable Reader Mode using mozilla/readability](https://www.reddit.com/r/javascript/comments/1ijjqct/new_library_a_swift_library_to_enable_reader_mode/)
 - [[AskJS] Has anyone had experience using Javascript to control Rive Animations?](https://www.reddit.com/r/javascript/comments/1ijhkwt/askjs_has_anyone_had_experience_using_javascript/)
-- [How long is a second in JS ?](https://www.reddit.com/r/javascript/comments/1ijcist/how_long_is_a_second_in_js/)
-- [Which rich text editor framework should you choose in 2025?](https://www.reddit.com/r/javascript/comments/1ij7ezs/which_rich_text_editor_framework_should_you/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
