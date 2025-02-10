@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Any nice embeddable javascript runtimes?](https://www.reddit.com/r/javascript/comments/1iluf70/askjs_any_nice_embeddable_javascript_runtimes/)
+- [[AskJS] Good/Simple framework for Personal Project?](https://www.reddit.com/r/javascript/comments/1ilr5kn/askjs_goodsimple_framework_for_personal_project/)
+- [How we shrunk our Javascript monorepo git size by 94%](https://www.reddit.com/r/javascript/comments/1ilmdxc/how_we_shrunk_our_javascript_monorepo_git_size_by/)
+- [Human Regex: Open-Source, Human-Friendly Regex Builder for JavaScript &amp; TypeScript](https://www.reddit.com/r/javascript/comments/1ilbjyc/human_regex_opensource_humanfriendly_regex/)
+- [client.ts - a Redux-toolkit Inspired HTTP Client](https://www.reddit.com/r/javascript/comments/1ilalqi/clientts_a_reduxtoolkit_inspired_http_client/)
 - [[AskJS] Is &quot;JavaScript for Dummies&quot; a decent way of actually learning JavaScript?](https://www.reddit.com/r/javascript/comments/1iktpj8/askjs_is_javascript_for_dummies_a_decent_way_of/)
 - [[AskJS] How to Programmatically detect chat fields?](https://www.reddit.com/r/javascript/comments/1iksb47/askjs_how_to_programmatically_detect_chat_fields/)
 - [[AskJS] Need advice: Best approach for real-time 3D terrain visualization &lpar;with possible infrastructure placement later on&rpar;](https://www.reddit.com/r/javascript/comments/1ikqmua/askjs_need_advice_best_approach_for_realtime_3d/)
 - [Showoff Saturday &lpar;February 08, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1ikichv/showoff_saturday_february_08_2025/)
 - [[AskJS] I just spent 3 hours trying to find a huge issue and it was the stupidest thing ever.](https://www.reddit.com/r/javascript/comments/1ikdur0/askjs_i_just_spent_3_hours_trying_to_find_a_huge/)
-- [[AskJS] Does anyone know of any local JSON editor with GUI? &lpar;Windows&rpar;](https://www.reddit.com/r/javascript/comments/1ik9fhe/askjs_does_anyone_know_of_any_local_json_editor/)
-- [Pushmatic: A lightweight, framework-agnostic library for handling web push notifications easily.](https://www.reddit.com/r/javascript/comments/1ik09d6/pushmatic_a_lightweight_frameworkagnostic_library/)
-- [Do you use a JSON formatting plugin regularly?](https://www.reddit.com/r/javascript/comments/1ijpv3c/do_you_use_a_json_formatting_plugin_regularly/)
-- [[New Library] A Swift library to enable Reader Mode using mozilla/readability](https://www.reddit.com/r/javascript/comments/1ijjqct/new_library_a_swift_library_to_enable_reader_mode/)
-- [[AskJS] Has anyone had experience using Javascript to control Rive Animations?](https://www.reddit.com/r/javascript/comments/1ijhkwt/askjs_has_anyone_had_experience_using_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
