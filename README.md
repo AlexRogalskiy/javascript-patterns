@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [High-performance Canvas Table](https://www.reddit.com/r/javascript/comments/1imimfd/highperformance_canvas_table/)
+- [[AskJS] Want to create a programming forum](https://www.reddit.com/r/javascript/comments/1imhj3z/askjs_want_to_create_a_programming_forum/)
+- [Clipboard API: Clipboard.read&lpar;&rpar; versus &quot;paste&quot; ClipboardEvent - learned from my experience](https://www.reddit.com/r/javascript/comments/1imdcec/clipboard_api_clipboardread_versus_paste/)
+- [Is It More Important to Memorize Backend Code or Understand Concepts Like REST API, Proxy, Caching, and Scaling?](https://www.reddit.com/r/javascript/comments/1imcxne/is_it_more_important_to_memorize_backend_code_or/)
+- [Building a Framework-Agnostic AI Chatbot in JavaScript](https://www.reddit.com/r/javascript/comments/1im7tc4/building_a_frameworkagnostic_ai_chatbot_in/)
+- [[AskJS] What&#39;s your favorite lib for managing tabular data?](https://www.reddit.com/r/javascript/comments/1im08pw/askjs_whats_your_favorite_lib_for_managing/)
 - [[AskJS] Any nice embeddable javascript runtimes?](https://www.reddit.com/r/javascript/comments/1iluf70/askjs_any_nice_embeddable_javascript_runtimes/)
 - [[AskJS] Good/Simple framework for Personal Project?](https://www.reddit.com/r/javascript/comments/1ilr5kn/askjs_goodsimple_framework_for_personal_project/)
 - [How we shrunk our Javascript monorepo git size by 94%](https://www.reddit.com/r/javascript/comments/1ilmdxc/how_we_shrunk_our_javascript_monorepo_git_size_by/)
 - [Human Regex: Open-Source, Human-Friendly Regex Builder for JavaScript &amp; TypeScript](https://www.reddit.com/r/javascript/comments/1ilbjyc/human_regex_opensource_humanfriendly_regex/)
-- [client.ts - a Redux-toolkit Inspired HTTP Client](https://www.reddit.com/r/javascript/comments/1ilalqi/clientts_a_reduxtoolkit_inspired_http_client/)
-- [[AskJS] Is &quot;JavaScript for Dummies&quot; a decent way of actually learning JavaScript?](https://www.reddit.com/r/javascript/comments/1iktpj8/askjs_is_javascript_for_dummies_a_decent_way_of/)
-- [[AskJS] How to Programmatically detect chat fields?](https://www.reddit.com/r/javascript/comments/1iksb47/askjs_how_to_programmatically_detect_chat_fields/)
-- [[AskJS] Need advice: Best approach for real-time 3D terrain visualization &lpar;with possible infrastructure placement later on&rpar;](https://www.reddit.com/r/javascript/comments/1ikqmua/askjs_need_advice_best_approach_for_realtime_3d/)
-- [Showoff Saturday &lpar;February 08, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1ikichv/showoff_saturday_february_08_2025/)
-- [[AskJS] I just spent 3 hours trying to find a huge issue and it was the stupidest thing ever.](https://www.reddit.com/r/javascript/comments/1ikdur0/askjs_i_just_spent_3_hours_trying_to_find_a_huge/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
