@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] pdf library that can embed into web app w/o using canvas or iframe?](https://www.reddit.com/r/javascript/comments/1inev6o/askjs_pdf_library_that_can_embed_into_web_app_wo/)
+- [[AskJS] is `if &lpar;window.console&rpar; {` necessary?](https://www.reddit.com/r/javascript/comments/1in6p5e/askjs_is_if_windowconsole_necessary/)
+- [I created a Figma plugin that helps user create a colour palette using bezier curve](https://www.reddit.com/r/javascript/comments/1imzzkw/i_created_a_figma_plugin_that_helps_user_create_a/)
+- [[AskJS] Find a library that allows user to create alpha-mask pngs with simple brushes/shapes](https://www.reddit.com/r/javascript/comments/1imxexi/askjs_find_a_library_that_allows_user_to_create/)
 - [High-performance Canvas Table](https://www.reddit.com/r/javascript/comments/1imimfd/highperformance_canvas_table/)
 - [[AskJS] Want to create a programming forum](https://www.reddit.com/r/javascript/comments/1imhj3z/askjs_want_to_create_a_programming_forum/)
 - [Clipboard API: Clipboard.read&lpar;&rpar; versus &quot;paste&quot; ClipboardEvent - learned from my experience](https://www.reddit.com/r/javascript/comments/1imdcec/clipboard_api_clipboardread_versus_paste/)
 - [Is It More Important to Memorize Backend Code or Understand Concepts Like REST API, Proxy, Caching, and Scaling?](https://www.reddit.com/r/javascript/comments/1imcxne/is_it_more_important_to_memorize_backend_code_or/)
 - [Building a Framework-Agnostic AI Chatbot in JavaScript](https://www.reddit.com/r/javascript/comments/1im7tc4/building_a_frameworkagnostic_ai_chatbot_in/)
 - [[AskJS] What&#39;s your favorite lib for managing tabular data?](https://www.reddit.com/r/javascript/comments/1im08pw/askjs_whats_your_favorite_lib_for_managing/)
-- [[AskJS] Any nice embeddable javascript runtimes?](https://www.reddit.com/r/javascript/comments/1iluf70/askjs_any_nice_embeddable_javascript_runtimes/)
-- [[AskJS] Good/Simple framework for Personal Project?](https://www.reddit.com/r/javascript/comments/1ilr5kn/askjs_goodsimple_framework_for_personal_project/)
-- [How we shrunk our Javascript monorepo git size by 94%](https://www.reddit.com/r/javascript/comments/1ilmdxc/how_we_shrunk_our_javascript_monorepo_git_size_by/)
-- [Human Regex: Open-Source, Human-Friendly Regex Builder for JavaScript &amp; TypeScript](https://www.reddit.com/r/javascript/comments/1ilbjyc/human_regex_opensource_humanfriendly_regex/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
