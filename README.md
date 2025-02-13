@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] pdf library that can embed into web app w/o using canvas or iframe?](https://www.reddit.com/r/javascript/comments/1inev6o/askjs_pdf_library_that_can_embed_into_web_app_wo/)
-- [[AskJS] is `if &lpar;window.console&rpar; {` necessary?](https://www.reddit.com/r/javascript/comments/1in6p5e/askjs_is_if_windowconsole_necessary/)
-- [I created a Figma plugin that helps user create a colour palette using bezier curve](https://www.reddit.com/r/javascript/comments/1imzzkw/i_created_a_figma_plugin_that_helps_user_create_a/)
-- [[AskJS] Find a library that allows user to create alpha-mask pngs with simple brushes/shapes](https://www.reddit.com/r/javascript/comments/1imxexi/askjs_find_a_library_that_allows_user_to_create/)
-- [High-performance Canvas Table](https://www.reddit.com/r/javascript/comments/1imimfd/highperformance_canvas_table/)
-- [[AskJS] Want to create a programming forum](https://www.reddit.com/r/javascript/comments/1imhj3z/askjs_want_to_create_a_programming_forum/)
-- [Clipboard API: Clipboard.read&lpar;&rpar; versus &quot;paste&quot; ClipboardEvent - learned from my experience](https://www.reddit.com/r/javascript/comments/1imdcec/clipboard_api_clipboardread_versus_paste/)
-- [Is It More Important to Memorize Backend Code or Understand Concepts Like REST API, Proxy, Caching, and Scaling?](https://www.reddit.com/r/javascript/comments/1imcxne/is_it_more_important_to_memorize_backend_code_or/)
-- [Building a Framework-Agnostic AI Chatbot in JavaScript](https://www.reddit.com/r/javascript/comments/1im7tc4/building_a_frameworkagnostic_ai_chatbot_in/)
-- [[AskJS] What&#39;s your favorite lib for managing tabular data?](https://www.reddit.com/r/javascript/comments/1im08pw/askjs_whats_your_favorite_lib_for_managing/)
+- [I created a small functional Netflix clone with a custom video player using React Native](https://www.reddit.com/r/javascript/comments/1io6lhw/i_created_a_small_functional_netflix_clone_with_a/)
+- [[AskJS] Is optional chaining easier to read? Am I just old and out of touch?](https://www.reddit.com/r/javascript/comments/1io08by/askjs_is_optional_chaining_easier_to_read_am_i/)
+- [I&#39;ve launched free html to pdf api](https://www.reddit.com/r/javascript/comments/1inzn03/ive_launched_free_html_to_pdf_api/)
+- [WASM will replace containers](https://www.reddit.com/r/javascript/comments/1inttoz/wasm_will_replace_containers/)
+- [Patterns for Building Realtime Features](https://www.reddit.com/r/javascript/comments/1intto8/patterns_for_building_realtime_features/)
+- [[AskJS] JS Learning, Apps](https://www.reddit.com/r/javascript/comments/1intlxv/askjs_js_learning_apps/)
+- [upfetch - advanced fetch client builder for typescript](https://www.reddit.com/r/javascript/comments/1inq7ph/upfetch_advanced_fetch_client_builder_for/)
+- [TypeScript: the `satisfies` operator](https://www.reddit.com/r/javascript/comments/1innxsg/typescript_the_satisfies_operator/)
+- [Building a blazing fast Buffered Data Grid in public](https://www.reddit.com/r/javascript/comments/1inmqbi/building_a_blazing_fast_buffered_data_grid_in/)
+- [WTF Wednesday &lpar;February 12, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1inm1ly/wtf_wednesday_february_12_2025/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
