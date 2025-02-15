@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Do you like contributing to open source?](https://www.reddit.com/r/javascript/comments/1ipr1l3/askjs_do_you_like_contributing_to_open_source/)
+- [[AskJS] What’s the point of Rhino compiler as it barely support any modern JS features?](https://www.reddit.com/r/javascript/comments/1iplrns/askjs_whats_the_point_of_rhino_compiler_as_it/)
+- [Sunsetting Create React App](https://www.reddit.com/r/javascript/comments/1ipigwz/sunsetting_create_react_app/)
+- [How do you capitalize ID variable?](https://www.reddit.com/r/javascript/comments/1ipigrg/how_do_you_capitalize_id_variable/)
+- [[AskJS] What are your 2025 go-tos for building CLI applications in TS?](https://www.reddit.com/r/javascript/comments/1ipe4dw/askjs_what_are_your_2025_gotos_for_building_cli/)
+- [I made a web markdown table interactor tool that extracts any table from markdown to help interact with, filter, and sort the data.](https://www.reddit.com/r/javascript/comments/1ipa20q/i_made_a_web_markdown_table_interactor_tool_that/)
+- [Easy PDF Viewer - View PDF, Auto-generate thumbnails, Search, Highlight, Download, Customize](https://www.reddit.com/r/javascript/comments/1ip89mt/easy_pdf_viewer_view_pdf_autogenerate_thumbnails/)
 - [Launching Interop 2025](https://www.reddit.com/r/javascript/comments/1ioqan0/launching_interop_2025/)
 - [[AskJS] tabulator dynamic &amp; front-end editable js table library](https://www.reddit.com/r/javascript/comments/1ioovh7/askjs_tabulator_dynamic_frontend_editable_js/)
 - [Sending server logs to the browser console for debugging](https://www.reddit.com/r/javascript/comments/1ionw5m/sending_server_logs_to_the_browser_console_for/)
-- [[AskJS] Could we make the arrow function syntax shorter?](https://www.reddit.com/r/javascript/comments/1ioh3xv/askjs_could_we_make_the_arrow_function_syntax/)
-- [I created a small functional Netflix clone with a custom video player using React Native](https://www.reddit.com/r/javascript/comments/1io6lhw/i_created_a_small_functional_netflix_clone_with_a/)
-- [[AskJS] Is optional chaining easier to read? Am I just old and out of touch?](https://www.reddit.com/r/javascript/comments/1io08by/askjs_is_optional_chaining_easier_to_read_am_i/)
-- [WASM will replace containers](https://www.reddit.com/r/javascript/comments/1inttoz/wasm_will_replace_containers/)
-- [Patterns for Building Realtime Features](https://www.reddit.com/r/javascript/comments/1intto8/patterns_for_building_realtime_features/)
-- [upfetch - advanced fetch client builder for typescript](https://www.reddit.com/r/javascript/comments/1inq7ph/upfetch_advanced_fetch_client_builder_for/)
-- [TypeScript: the `satisfies` operator](https://www.reddit.com/r/javascript/comments/1innxsg/typescript_the_satisfies_operator/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
