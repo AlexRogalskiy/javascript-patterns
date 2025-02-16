@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I built LazyPromise: a Promise-like primitive that gives you typed errors and cancelability, has an API that you mostly already know, and borrows a lot of its design from Observable](https://www.reddit.com/r/javascript/comments/1iq6xqx/i_built_lazypromise_a_promiselike_primitive_that/)
+- [Raoi – TypeScript library to give objects integer ids and retrieve them by said ids at any moment. Use global register or create local ones, with multiple ways to ensure type safety in both TS and vanilla JS!](https://www.reddit.com/r/javascript/comments/1iq6kxo/raoi_typescript_library_to_give_objects_integer/)
+- [Extract and decompose &lpar;fuzzy&rpar; URLs &lpar;including emails, which are conceptually a part of URLs&rpar; in texts with Area-Pattern-based modularity](https://www.reddit.com/r/javascript/comments/1iq2cz8/extract_and_decompose_fuzzy_urls_including_emails/)
+- [I built Forms.md, a JS library that lets you build Typeform-like forms and surveys](https://www.reddit.com/r/javascript/comments/1iq1tp8/i_built_formsmd_a_js_library_that_lets_you_build/)
+- [TryFeature - Javascript library for managing users and their associated features](https://www.reddit.com/r/javascript/comments/1iq1m9v/tryfeature_javascript_library_for_managing_users/)
+- [Showoff Saturday &lpar;February 15, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1ipwpqi/showoff_saturday_february_15_2025/)
+- [Suggestion needed for landing page](https://www.reddit.com/r/javascript/comments/1ipsjsj/suggestion_needed_for_landing_page/)
 - [[AskJS] Do you like contributing to open source?](https://www.reddit.com/r/javascript/comments/1ipr1l3/askjs_do_you_like_contributing_to_open_source/)
 - [[AskJS] What’s the point of Rhino compiler as it barely support any modern JS features?](https://www.reddit.com/r/javascript/comments/1iplrns/askjs_whats_the_point_of_rhino_compiler_as_it/)
 - [Sunsetting Create React App](https://www.reddit.com/r/javascript/comments/1ipigwz/sunsetting_create_react_app/)
-- [How do you capitalize ID variable?](https://www.reddit.com/r/javascript/comments/1ipigrg/how_do_you_capitalize_id_variable/)
-- [[AskJS] What are your 2025 go-tos for building CLI applications in TS?](https://www.reddit.com/r/javascript/comments/1ipe4dw/askjs_what_are_your_2025_gotos_for_building_cli/)
-- [I made a web markdown table interactor tool that extracts any table from markdown to help interact with, filter, and sort the data.](https://www.reddit.com/r/javascript/comments/1ipa20q/i_made_a_web_markdown_table_interactor_tool_that/)
-- [Easy PDF Viewer - View PDF, Auto-generate thumbnails, Search, Highlight, Download, Customize](https://www.reddit.com/r/javascript/comments/1ip89mt/easy_pdf_viewer_view_pdf_autogenerate_thumbnails/)
-- [Launching Interop 2025](https://www.reddit.com/r/javascript/comments/1ioqan0/launching_interop_2025/)
-- [[AskJS] tabulator dynamic &amp; front-end editable js table library](https://www.reddit.com/r/javascript/comments/1ioovh7/askjs_tabulator_dynamic_frontend_editable_js/)
-- [Sending server logs to the browser console for debugging](https://www.reddit.com/r/javascript/comments/1ionw5m/sending_server_logs_to_the_browser_console_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
