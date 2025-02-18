@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [New Javascript AI/ML framework in Sundown](https://www.reddit.com/r/javascript/comments/1irynek/new_javascript_aiml_framework_in_sundown/)
+- [Made a best and biggest movie hub, Filmoteka | www.filmoteka.app](https://www.reddit.com/r/javascript/comments/1irv644/made_a_best_and_biggest_movie_hub_filmoteka/)
+- [Trig.js v3.1.0 - Smoother CSS Scroll Animations](https://www.reddit.com/r/javascript/comments/1irtnzq/trigjs_v310_smoother_css_scroll_animations/)
+- [Build AI Content Moderator with Gemini 1.5 JS SDK](https://www.reddit.com/r/javascript/comments/1irr61i/build_ai_content_moderator_with_gemini_15_js_sdk/)
+- [Node.js v22.14.0 is released](https://www.reddit.com/r/javascript/comments/1irpu08/nodejs_v22140_is_released/)
+- [Notemod: Note-Taking App Open Source | Only - JS HTML CSS](https://www.reddit.com/r/javascript/comments/1irhlr3/notemod_notetaking_app_open_source_only_js_html/)
+- [Your /r/javascript recap for the week of February 10 - February 16, 2025](https://www.reddit.com/r/javascript/comments/1irgktl/your_rjavascript_recap_for_the_week_of_february/)
 - [Clean room tests with JavaScript&#39;s `using` keyword](https://www.reddit.com/r/javascript/comments/1iqx0e7/clean_room_tests_with_javascripts_using_keyword/)
-- [[AskJS] Where do you store reusable code snippets?](https://www.reddit.com/r/javascript/comments/1iqwecg/askjs_where_do_you_store_reusable_code_snippets/)
 - [Release v4.1.0 · react-hook-form/resolvers](https://www.reddit.com/r/javascript/comments/1iqmxla/release_v410_reacthookformresolvers/)
 - [I built LazyPromise: a Promise-like primitive that gives you typed errors and cancelability, has an API that you mostly already know, and borrows a lot of its design from Observable](https://www.reddit.com/r/javascript/comments/1iq6xqx/i_built_lazypromise_a_promiselike_primitive_that/)
-- [Raoi – TypeScript library to give objects integer ids and retrieve them by said ids at any moment. Use global register or create local ones, with multiple ways to ensure type safety in both TS and vanilla JS!](https://www.reddit.com/r/javascript/comments/1iq6kxo/raoi_typescript_library_to_give_objects_integer/)
-- [Extract and decompose &lpar;fuzzy&rpar; URLs &lpar;including emails, which are conceptually a part of URLs&rpar; in texts with Area-Pattern-based modularity](https://www.reddit.com/r/javascript/comments/1iq2cz8/extract_and_decompose_fuzzy_urls_including_emails/)
-- [I built Forms.md, a JS library that lets you build Typeform-like forms and surveys](https://www.reddit.com/r/javascript/comments/1iq1tp8/i_built_formsmd_a_js_library_that_lets_you_build/)
-- [TryFeature - Javascript library for managing users and their associated features](https://www.reddit.com/r/javascript/comments/1iq1m9v/tryfeature_javascript_library_for_managing_users/)
-- [Showoff Saturday &lpar;February 15, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1ipwpqi/showoff_saturday_february_15_2025/)
-- [[AskJS] Do you like contributing to open source?](https://www.reddit.com/r/javascript/comments/1ipr1l3/askjs_do_you_like_contributing_to_open_source/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
