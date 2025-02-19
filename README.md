@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Midwinter.js - A deceptively simple middleware engine for modern HTTP backends](https://www.reddit.com/r/javascript/comments/1isr7f8/midwinterjs_a_deceptively_simple_middleware/)
+- [[AskJS] Tips on implementing scalable UI on a Visual SVG Editor](https://www.reddit.com/r/javascript/comments/1isozwx/askjs_tips_on_implementing_scalable_ui_on_a/)
+- [[AskJS] how to create array object within the code in javascript](https://www.reddit.com/r/javascript/comments/1isoqom/askjs_how_to_create_array_object_within_the_code/)
+- [Introducing a zero-dependency Card Deck &lpar;as Tinder&rpar; Web Component](https://www.reddit.com/r/javascript/comments/1isod4f/introducing_a_zerodependency_card_deck_as_tinder/)
+- [How to Generate PDFs in 2025](https://www.reddit.com/r/javascript/comments/1isks1x/how_to_generate_pdfs_in_2025/)
+- [Usertour: Customizable, Modern, and Analytics-Driven Product Tour Builder](https://www.reddit.com/r/javascript/comments/1isdkvs/usertour_customizable_modern_and_analyticsdriven/)
+- [Standard interface to AI systems Open AI, Gemini, Claude](https://www.reddit.com/r/javascript/comments/1is9yia/standard_interface_to_ai_systems_open_ai_gemini/)
+- [Introducing LISN.js: handle user interactions and layout events + widgets](https://www.reddit.com/r/javascript/comments/1is5x95/introducing_lisnjs_handle_user_interactions_and/)
 - [New Javascript AI/ML framework in Sundown](https://www.reddit.com/r/javascript/comments/1irynek/new_javascript_aiml_framework_in_sundown/)
 - [Made a best and biggest movie hub, Filmoteka | www.filmoteka.app](https://www.reddit.com/r/javascript/comments/1irv644/made_a_best_and_biggest_movie_hub_filmoteka/)
-- [Trig.js v3.1.0 - Smoother CSS Scroll Animations](https://www.reddit.com/r/javascript/comments/1irtnzq/trigjs_v310_smoother_css_scroll_animations/)
-- [Build AI Content Moderator with Gemini 1.5 JS SDK](https://www.reddit.com/r/javascript/comments/1irr61i/build_ai_content_moderator_with_gemini_15_js_sdk/)
-- [Node.js v22.14.0 is released](https://www.reddit.com/r/javascript/comments/1irpu08/nodejs_v22140_is_released/)
-- [Notemod: Note-Taking App Open Source | Only - JS HTML CSS](https://www.reddit.com/r/javascript/comments/1irhlr3/notemod_notetaking_app_open_source_only_js_html/)
-- [Your /r/javascript recap for the week of February 10 - February 16, 2025](https://www.reddit.com/r/javascript/comments/1irgktl/your_rjavascript_recap_for_the_week_of_february/)
-- [Clean room tests with JavaScript&#39;s `using` keyword](https://www.reddit.com/r/javascript/comments/1iqx0e7/clean_room_tests_with_javascripts_using_keyword/)
-- [Release v4.1.0 · react-hook-form/resolvers](https://www.reddit.com/r/javascript/comments/1iqmxla/release_v410_reacthookformresolvers/)
-- [I built LazyPromise: a Promise-like primitive that gives you typed errors and cancelability, has an API that you mostly already know, and borrows a lot of its design from Observable](https://www.reddit.com/r/javascript/comments/1iq6xqx/i_built_lazypromise_a_promiselike_primitive_that/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
