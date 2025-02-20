@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Midwinter.js - A deceptively simple middleware engine for modern HTTP backends](https://www.reddit.com/r/javascript/comments/1isr7f8/midwinterjs_a_deceptively_simple_middleware/)
-- [[AskJS] Tips on implementing scalable UI on a Visual SVG Editor](https://www.reddit.com/r/javascript/comments/1isozwx/askjs_tips_on_implementing_scalable_ui_on_a/)
-- [[AskJS] how to create array object within the code in javascript](https://www.reddit.com/r/javascript/comments/1isoqom/askjs_how_to_create_array_object_within_the_code/)
-- [Introducing a zero-dependency Card Deck &lpar;as Tinder&rpar; Web Component](https://www.reddit.com/r/javascript/comments/1isod4f/introducing_a_zerodependency_card_deck_as_tinder/)
-- [How to Generate PDFs in 2025](https://www.reddit.com/r/javascript/comments/1isks1x/how_to_generate_pdfs_in_2025/)
-- [Usertour: Customizable, Modern, and Analytics-Driven Product Tour Builder](https://www.reddit.com/r/javascript/comments/1isdkvs/usertour_customizable_modern_and_analyticsdriven/)
-- [Standard interface to AI systems Open AI, Gemini, Claude](https://www.reddit.com/r/javascript/comments/1is9yia/standard_interface_to_ai_systems_open_ai_gemini/)
-- [Introducing LISN.js: handle user interactions and layout events + widgets](https://www.reddit.com/r/javascript/comments/1is5x95/introducing_lisnjs_handle_user_interactions_and/)
-- [New Javascript AI/ML framework in Sundown](https://www.reddit.com/r/javascript/comments/1irynek/new_javascript_aiml_framework_in_sundown/)
-- [Made a best and biggest movie hub, Filmoteka | www.filmoteka.app](https://www.reddit.com/r/javascript/comments/1irv644/made_a_best_and_biggest_movie_hub_filmoteka/)
+- [[AskJS] Difficulty button](https://www.reddit.com/r/javascript/comments/1itggej/askjs_difficulty_button/)
+- [Streamthing - A tool to implement real-time features on the web](https://www.reddit.com/r/javascript/comments/1itc5yf/streamthing_a_tool_to_implement_realtime_features/)
+- [Xerus - Minimal Web Framework For Bun](https://www.reddit.com/r/javascript/comments/1itc3um/xerus_minimal_web_framework_for_bun/)
+- [GitHub - Honey-toast: A framework agnostic simple yet powerful Toast Alert or Notification Library](https://www.reddit.com/r/javascript/comments/1itaq89/github_honeytoast_a_framework_agnostic_simple_yet/)
+- [What&#39;s next to micro-frontends? Have you ever come across composable software?](https://www.reddit.com/r/javascript/comments/1it4fka/whats_next_to_microfrontends_have_you_ever_come/)
+- [[AskJS] Anybody tried NestJS with Encore](https://www.reddit.com/r/javascript/comments/1it3lnv/askjs_anybody_tried_nestjs_with_encore/)
+- [WTF Wednesday &lpar;February 19, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1it0cgd/wtf_wednesday_february_19_2025/)
+- [My Website deployed from GitHub](https://www.reddit.com/r/javascript/comments/1iszijc/my_website_deployed_from_github/)
+- [[AskJS] Is JavaScript even a real thing?](https://www.reddit.com/r/javascript/comments/1iswsww/askjs_is_javascript_even_a_real_thing/)
+- [animautomata.js — 0dep html5 canvas loading animation library](https://www.reddit.com/r/javascript/comments/1isvcrx/animautomatajs_0dep_html5_canvas_loading/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
