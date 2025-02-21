@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Boids implemented with p5.js](https://www.reddit.com/r/javascript/comments/1iuabat/boids_implemented_with_p5js/)
+- [TickTock.js to tell you the time. Everywhere.](https://www.reddit.com/r/javascript/comments/1iu3cvv/ticktockjs_to_tell_you_the_time_everywhere/)
+- [Mastra – Open-source JS agent framework, by the developers of Gatsby](https://www.reddit.com/r/javascript/comments/1itxb3y/mastra_opensource_js_agent_framework_by_the/)
 - [[AskJS] Difficulty button](https://www.reddit.com/r/javascript/comments/1itggej/askjs_difficulty_button/)
 - [Streamthing - A tool to implement real-time features on the web](https://www.reddit.com/r/javascript/comments/1itc5yf/streamthing_a_tool_to_implement_realtime_features/)
 - [Xerus - Minimal Web Framework For Bun](https://www.reddit.com/r/javascript/comments/1itc3um/xerus_minimal_web_framework_for_bun/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [What&#39;s next to micro-frontends? Have you ever come across composable software?](https://www.reddit.com/r/javascript/comments/1it4fka/whats_next_to_microfrontends_have_you_ever_come/)
 - [[AskJS] Anybody tried NestJS with Encore](https://www.reddit.com/r/javascript/comments/1it3lnv/askjs_anybody_tried_nestjs_with_encore/)
 - [WTF Wednesday &lpar;February 19, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1it0cgd/wtf_wednesday_february_19_2025/)
-- [My Website deployed from GitHub](https://www.reddit.com/r/javascript/comments/1iszijc/my_website_deployed_from_github/)
-- [[AskJS] Is JavaScript even a real thing?](https://www.reddit.com/r/javascript/comments/1iswsww/askjs_is_javascript_even_a_real_thing/)
-- [animautomata.js — 0dep html5 canvas loading animation library](https://www.reddit.com/r/javascript/comments/1isvcrx/animautomatajs_0dep_html5_canvas_loading/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
