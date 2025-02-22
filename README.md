@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Mastering JavaScript Promises: From Basics to Advanced Techniques](https://www.reddit.com/r/javascript/comments/1iuwgp3/mastering_javascript_promises_from_basics_to/)
+- [Created a zero config, zero dependency Audio Player Library that supports all major format.](https://www.reddit.com/r/javascript/comments/1iuvf0i/created_a_zero_config_zero_dependency_audio/)
+- [While the world builds AI Agents, I&#39;m just building calculators.](https://www.reddit.com/r/javascript/comments/1iuu2et/while_the_world_builds_ai_agents_im_just_building/)
+- [Creating a Web based version of Apple Keynote’s Magic Move effect](https://www.reddit.com/r/javascript/comments/1iut2c2/creating_a_web_based_version_of_apple_keynotes/)
+- [showify — Arguably the most comprehensive library for stringifying any JavaScript value into a human-readable format.](https://www.reddit.com/r/javascript/comments/1iuldfw/showify_arguably_the_most_comprehensive_library/)
 - [Boids implemented with p5.js](https://www.reddit.com/r/javascript/comments/1iuabat/boids_implemented_with_p5js/)
 - [TickTock.js to tell you the time. Everywhere.](https://www.reddit.com/r/javascript/comments/1iu3cvv/ticktockjs_to_tell_you_the_time_everywhere/)
 - [Mastra – Open-source JS agent framework, by the developers of Gatsby](https://www.reddit.com/r/javascript/comments/1itxb3y/mastra_opensource_js_agent_framework_by_the/)
-- [[AskJS] Difficulty button](https://www.reddit.com/r/javascript/comments/1itggej/askjs_difficulty_button/)
 - [Streamthing - A tool to implement real-time features on the web](https://www.reddit.com/r/javascript/comments/1itc5yf/streamthing_a_tool_to_implement_realtime_features/)
 - [Xerus - Minimal Web Framework For Bun](https://www.reddit.com/r/javascript/comments/1itc3um/xerus_minimal_web_framework_for_bun/)
-- [GitHub - Honey-toast: A framework agnostic simple yet powerful Toast Alert or Notification Library](https://www.reddit.com/r/javascript/comments/1itaq89/github_honeytoast_a_framework_agnostic_simple_yet/)
-- [What&#39;s next to micro-frontends? Have you ever come across composable software?](https://www.reddit.com/r/javascript/comments/1it4fka/whats_next_to_microfrontends_have_you_ever_come/)
-- [[AskJS] Anybody tried NestJS with Encore](https://www.reddit.com/r/javascript/comments/1it3lnv/askjs_anybody_tried_nestjs_with_encore/)
-- [WTF Wednesday &lpar;February 19, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1it0cgd/wtf_wednesday_february_19_2025/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
