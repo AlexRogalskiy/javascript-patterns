@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] How do you concatenate variables? What&#39;s the industry standard?](https://www.reddit.com/r/javascript/comments/1ivy2fx/askjs_how_do_you_concatenate_variables_whats_the/)
+- [[AskJS] Wakelock API - Firefox 135.0 - Doesn&#39;t work on phones](https://www.reddit.com/r/javascript/comments/1ivwmz2/askjs_wakelock_api_firefox_1350_doesnt_work_on/)
+- [BrowserBuddy - Create a browser extension, get a grant to ship it to the Chrome Web Store &lpar;Teenagers Only&rpar;](https://www.reddit.com/r/javascript/comments/1ivpn4n/browserbuddy_create_a_browser_extension_get_a/)
+- [[AskJS] How does JS Map maintain insertion order internally?](https://www.reddit.com/r/javascript/comments/1ivmsfx/askjs_how_does_js_map_maintain_insertion_order/)
+- [A deep dive into JS internals](https://www.reddit.com/r/javascript/comments/1ivjd2r/a_deep_dive_into_js_internals/)
+- [[AskJS] How to bypass `isTrusted` property checks in JavaScript?](https://www.reddit.com/r/javascript/comments/1ivh01r/askjs_how_to_bypass_istrusted_property_checks_in/)
+- [Showoff Saturday &lpar;February 22, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1ivdttf/showoff_saturday_february_22_2025/)
+- [[AskJS] How do you discover and manage complex UI components across projects?](https://www.reddit.com/r/javascript/comments/1ivawia/askjs_how_do_you_discover_and_manage_complex_ui/)
 - [Mastering JavaScript Promises: From Basics to Advanced Techniques](https://www.reddit.com/r/javascript/comments/1iuwgp3/mastering_javascript_promises_from_basics_to/)
 - [Created a zero config, zero dependency Audio Player Library that supports all major format.](https://www.reddit.com/r/javascript/comments/1iuvf0i/created_a_zero_config_zero_dependency_audio/)
-- [While the world builds AI Agents, I&#39;m just building calculators.](https://www.reddit.com/r/javascript/comments/1iuu2et/while_the_world_builds_ai_agents_im_just_building/)
-- [Creating a Web based version of Apple Keynote’s Magic Move effect](https://www.reddit.com/r/javascript/comments/1iut2c2/creating_a_web_based_version_of_apple_keynotes/)
-- [showify — Arguably the most comprehensive library for stringifying any JavaScript value into a human-readable format.](https://www.reddit.com/r/javascript/comments/1iuldfw/showify_arguably_the_most_comprehensive_library/)
-- [Boids implemented with p5.js](https://www.reddit.com/r/javascript/comments/1iuabat/boids_implemented_with_p5js/)
-- [TickTock.js to tell you the time. Everywhere.](https://www.reddit.com/r/javascript/comments/1iu3cvv/ticktockjs_to_tell_you_the_time_everywhere/)
-- [Mastra – Open-source JS agent framework, by the developers of Gatsby](https://www.reddit.com/r/javascript/comments/1itxb3y/mastra_opensource_js_agent_framework_by_the/)
-- [Streamthing - A tool to implement real-time features on the web](https://www.reddit.com/r/javascript/comments/1itc5yf/streamthing_a_tool_to_implement_realtime_features/)
-- [Xerus - Minimal Web Framework For Bun](https://www.reddit.com/r/javascript/comments/1itc3um/xerus_minimal_web_framework_for_bun/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
