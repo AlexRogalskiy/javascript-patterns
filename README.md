@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Task Manager / nextjs/shadcn](https://www.reddit.com/r/javascript/comments/1iwlf73/task_manager_nextjsshadcn/)
+- [[AskJS] Can you share clever or silly JavaScript code snippets?](https://www.reddit.com/r/javascript/comments/1iwjoal/askjs_can_you_share_clever_or_silly_javascript/)
+- [Undercover, a Werewolf-like social deduction multiplayer game &lpar;completely free&rpar;](https://www.reddit.com/r/javascript/comments/1iwh7vs/undercover_a_werewolflike_social_deduction/)
+- [[AskJS] Bundling a set of deps, with polyfills, as a HTML shell](https://www.reddit.com/r/javascript/comments/1iwbr4s/askjs_bundling_a_set_of_deps_with_polyfills_as_a/)
+- [[AskJS] Best Practices for Integrating Google &amp; Outlook Calendar APIs in a MERN Stack](https://www.reddit.com/r/javascript/comments/1iw75dt/askjs_best_practices_for_integrating_google/)
+- [Xiorjs – a powerful and tiny HTTP client library with an API similar to axios.](https://www.reddit.com/r/javascript/comments/1iw22k0/xiorjs_a_powerful_and_tiny_http_client_library/)
 - [[AskJS] How do you concatenate variables? What&#39;s the industry standard?](https://www.reddit.com/r/javascript/comments/1ivy2fx/askjs_how_do_you_concatenate_variables_whats_the/)
-- [[AskJS] Wakelock API - Firefox 135.0 - Doesn&#39;t work on phones](https://www.reddit.com/r/javascript/comments/1ivwmz2/askjs_wakelock_api_firefox_1350_doesnt_work_on/)
 - [BrowserBuddy - Create a browser extension, get a grant to ship it to the Chrome Web Store &lpar;Teenagers Only&rpar;](https://www.reddit.com/r/javascript/comments/1ivpn4n/browserbuddy_create_a_browser_extension_get_a/)
 - [[AskJS] How does JS Map maintain insertion order internally?](https://www.reddit.com/r/javascript/comments/1ivmsfx/askjs_how_does_js_map_maintain_insertion_order/)
 - [A deep dive into JS internals](https://www.reddit.com/r/javascript/comments/1ivjd2r/a_deep_dive_into_js_internals/)
-- [[AskJS] How to bypass `isTrusted` property checks in JavaScript?](https://www.reddit.com/r/javascript/comments/1ivh01r/askjs_how_to_bypass_istrusted_property_checks_in/)
-- [Showoff Saturday &lpar;February 22, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1ivdttf/showoff_saturday_february_22_2025/)
-- [[AskJS] How do you discover and manage complex UI components across projects?](https://www.reddit.com/r/javascript/comments/1ivawia/askjs_how_do_you_discover_and_manage_complex_ui/)
-- [Mastering JavaScript Promises: From Basics to Advanced Techniques](https://www.reddit.com/r/javascript/comments/1iuwgp3/mastering_javascript_promises_from_basics_to/)
-- [Created a zero config, zero dependency Audio Player Library that supports all major format.](https://www.reddit.com/r/javascript/comments/1iuvf0i/created_a_zero_config_zero_dependency_audio/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
