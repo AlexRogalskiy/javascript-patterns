@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Task Manager / nextjs/shadcn](https://www.reddit.com/r/javascript/comments/1iwlf73/task_manager_nextjsshadcn/)
-- [[AskJS] Can you share clever or silly JavaScript code snippets?](https://www.reddit.com/r/javascript/comments/1iwjoal/askjs_can_you_share_clever_or_silly_javascript/)
-- [Undercover, a Werewolf-like social deduction multiplayer game &lpar;completely free&rpar;](https://www.reddit.com/r/javascript/comments/1iwh7vs/undercover_a_werewolflike_social_deduction/)
-- [[AskJS] Bundling a set of deps, with polyfills, as a HTML shell](https://www.reddit.com/r/javascript/comments/1iwbr4s/askjs_bundling_a_set_of_deps_with_polyfills_as_a/)
-- [[AskJS] Best Practices for Integrating Google &amp; Outlook Calendar APIs in a MERN Stack](https://www.reddit.com/r/javascript/comments/1iw75dt/askjs_best_practices_for_integrating_google/)
-- [Xiorjs – a powerful and tiny HTTP client library with an API similar to axios.](https://www.reddit.com/r/javascript/comments/1iw22k0/xiorjs_a_powerful_and_tiny_http_client_library/)
-- [[AskJS] How do you concatenate variables? What&#39;s the industry standard?](https://www.reddit.com/r/javascript/comments/1ivy2fx/askjs_how_do_you_concatenate_variables_whats_the/)
-- [BrowserBuddy - Create a browser extension, get a grant to ship it to the Chrome Web Store &lpar;Teenagers Only&rpar;](https://www.reddit.com/r/javascript/comments/1ivpn4n/browserbuddy_create_a_browser_extension_get_a/)
-- [[AskJS] How does JS Map maintain insertion order internally?](https://www.reddit.com/r/javascript/comments/1ivmsfx/askjs_how_does_js_map_maintain_insertion_order/)
-- [A deep dive into JS internals](https://www.reddit.com/r/javascript/comments/1ivjd2r/a_deep_dive_into_js_internals/)
+- [GitHub - suhaotian/lfs-auto-track: Automatically run `git lfs track` to track large files in pre-commit hook.](https://www.reddit.com/r/javascript/comments/1ixjtgy/github_suhaotianlfsautotrack_automatically_run/)
+- [[AskJS] Register Web App?](https://www.reddit.com/r/javascript/comments/1ixc6tu/askjs_register_web_app/)
+- [After years using semantic-release, I developed a lightweight alternative tailored for smaller projects – with no dependencies, customizable release notes, and an easy setup to streamline versioning and releases without the extra overhead. Which new features can I add?](https://www.reddit.com/r/javascript/comments/1ix9lf8/after_years_using_semanticrelease_i_developed_a/)
+- [[OC] built exiftool-web, which runs the original command-line tool by executing Perl in WebAssembly](https://www.reddit.com/r/javascript/comments/1ix4owe/oc_built_exiftoolweb_which_runs_the_original/)
+- [Debouncing Requests in React Router v7](https://www.reddit.com/r/javascript/comments/1ix3dpq/debouncing_requests_in_react_router_v7/)
+- [Vite library mode bundles your library&#39;s dependencies &lpar;which I don&#39;t think is good&rpar;](https://www.reddit.com/r/javascript/comments/1ix2gev/vite_library_mode_bundles_your_librarys/)
+- [Memory hell · Nova](https://www.reddit.com/r/javascript/comments/1ix24vf/memory_hell_nova/)
+- [Implementing RAG for Product Search using MastraAI](https://www.reddit.com/r/javascript/comments/1ix0r0d/implementing_rag_for_product_search_using_mastraai/)
+- [Your /r/javascript recap for the week of February 17 - February 23, 2025](https://www.reddit.com/r/javascript/comments/1iwyohb/your_rjavascript_recap_for_the_week_of_february/)
+- [I built my first npm package: i18n-ai - AI-Powered Translation for i18n Files](https://www.reddit.com/r/javascript/comments/1iwyhz9/i_built_my_first_npm_package_i18nai_aipowered/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
