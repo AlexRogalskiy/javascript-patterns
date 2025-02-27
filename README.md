@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [TargetJS: A Novel JavaScript UI Framework for Simplified Development and Enhanced User Experience](https://www.reddit.com/r/javascript/comments/1iy43y2/targetjs_a_novel_javascript_ui_framework_for/)
-- [jsonblog-cli - minimalist blogging with JSON](https://www.reddit.com/r/javascript/comments/1ixyww5/jsonblogcli_minimalist_blogging_with_json/)
-- [Turbocharging V8 with mutable heap numbers](https://www.reddit.com/r/javascript/comments/1ixvcw6/turbocharging_v8_with_mutable_heap_numbers/)
-- [4 part series on JS/React from F#: Part 1: Compiling F# to JS](https://www.reddit.com/r/javascript/comments/1ixsp3o/4_part_series_on_jsreact_from_f_part_1_compiling/)
-- [GitHub - suhaotian/lfs-auto-track: Automatically run `git lfs track` to track large files in pre-commit hook.](https://www.reddit.com/r/javascript/comments/1ixjtgy/github_suhaotianlfsautotrack_automatically_run/)
-- [[AskJS] Register Web App?](https://www.reddit.com/r/javascript/comments/1ixc6tu/askjs_register_web_app/)
-- [After years using semantic-release, I developed a lightweight alternative tailored for smaller projects – with no dependencies, customizable release notes, and an easy setup to streamline versioning and releases without the extra overhead. Which new features can I add?](https://www.reddit.com/r/javascript/comments/1ix9lf8/after_years_using_semanticrelease_i_developed_a/)
-- [[OC] built exiftool-web, which runs the original command-line tool by executing Perl in WebAssembly](https://www.reddit.com/r/javascript/comments/1ix4owe/oc_built_exiftoolweb_which_runs_the_original/)
-- [Debouncing Requests in React Router v7](https://www.reddit.com/r/javascript/comments/1ix3dpq/debouncing_requests_in_react_router_v7/)
-- [Vite library mode bundles your library&#39;s dependencies &lpar;which I don&#39;t think is good&rpar;](https://www.reddit.com/r/javascript/comments/1ix2gev/vite_library_mode_bundles_your_librarys/)
+- [Just put together a quick reference comparison of for...in loop and Object.keys&lpar;&rpar;](https://www.reddit.com/r/javascript/comments/1iz0zw2/just_put_together_a_quick_reference_comparison_of/)
+- [[AskJS] Should i learn JavaScript first or just start with typescript?](https://www.reddit.com/r/javascript/comments/1iyrmqa/askjs_should_i_learn_javascript_first_or_just/)
+- [[AskJS] How to access logic behind pdf?](https://www.reddit.com/r/javascript/comments/1iyqgta/askjs_how_to_access_logic_behind_pdf/)
+- [JS template for building logs exploration features](https://www.reddit.com/r/javascript/comments/1iyp2re/js_template_for_building_logs_exploration_features/)
+- [[AskJS] Use Vanilla JS in Vue Project](https://www.reddit.com/r/javascript/comments/1iyncwn/askjs_use_vanilla_js_in_vue_project/)
+- [I build this extension to store code snippets like javascript and more is that helpful?](https://www.reddit.com/r/javascript/comments/1iymu5r/i_build_this_extension_to_store_code_snippets/)
+- [I built a simple extension to generate temporary emails to protect your main one.](https://www.reddit.com/r/javascript/comments/1iylknn/i_built_a_simple_extension_to_generate_temporary/)
+- [Using F# to build React apps: components and hooks with Feliz](https://www.reddit.com/r/javascript/comments/1iyk5di/using_f_to_build_react_apps_components_and_hooks/)
+- [WTF Wednesday &lpar;February 26, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1iyiix9/wtf_wednesday_february_26_2025/)
+- [Client-side AI models with Nuxt Workers + Transformers.js](https://www.reddit.com/r/javascript/comments/1iyg1ip/clientside_ai_models_with_nuxt_workers/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
