@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Just put together a quick reference comparison of for...in loop and Object.keys&lpar;&rpar;](https://www.reddit.com/r/javascript/comments/1iz0zw2/just_put_together_a_quick_reference_comparison_of/)
-- [[AskJS] Should i learn JavaScript first or just start with typescript?](https://www.reddit.com/r/javascript/comments/1iyrmqa/askjs_should_i_learn_javascript_first_or_just/)
-- [[AskJS] How to access logic behind pdf?](https://www.reddit.com/r/javascript/comments/1iyqgta/askjs_how_to_access_logic_behind_pdf/)
-- [JS template for building logs exploration features](https://www.reddit.com/r/javascript/comments/1iyp2re/js_template_for_building_logs_exploration_features/)
-- [[AskJS] Use Vanilla JS in Vue Project](https://www.reddit.com/r/javascript/comments/1iyncwn/askjs_use_vanilla_js_in_vue_project/)
-- [I build this extension to store code snippets like javascript and more is that helpful?](https://www.reddit.com/r/javascript/comments/1iymu5r/i_build_this_extension_to_store_code_snippets/)
-- [I built a simple extension to generate temporary emails to protect your main one.](https://www.reddit.com/r/javascript/comments/1iylknn/i_built_a_simple_extension_to_generate_temporary/)
-- [Using F# to build React apps: components and hooks with Feliz](https://www.reddit.com/r/javascript/comments/1iyk5di/using_f_to_build_react_apps_components_and_hooks/)
-- [WTF Wednesday &lpar;February 26, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1iyiix9/wtf_wednesday_february_26_2025/)
-- [Client-side AI models with Nuxt Workers + Transformers.js](https://www.reddit.com/r/javascript/comments/1iyg1ip/clientside_ai_models_with_nuxt_workers/)
+- [I created a library for easy internationalization &lpar;i18n&rpar; for Next.js and React! You can translate entire React components in-line without additional lookup dictionaries!](https://www.reddit.com/r/javascript/comments/1izw34c/i_created_a_library_for_easy_internationalization/)
+- [Building APIs with Next.js](https://www.reddit.com/r/javascript/comments/1izrf6b/building_apis_with_nextjs/)
+- [Introducing ArkType 2.1: The first pattern matcher to bring the power of type syntax to JS](https://www.reddit.com/r/javascript/comments/1izl7bg/introducing_arktype_21_the_first_pattern_matcher/)
+- [I released my first npm package](https://www.reddit.com/r/javascript/comments/1izkwbe/i_released_my_first_npm_package/)
+- [Clima Code Project -Pixcodi- Free Code Source](https://www.reddit.com/r/javascript/comments/1izirzb/clima_code_project_pixcodi_free_code_source/)
+- [I made htmldocs, a LaTeX alternative for building PDFs with React and Tailwind](https://www.reddit.com/r/javascript/comments/1izihmw/i_made_htmldocs_a_latex_alternative_for_building/)
+- [I made my first javascript tool - a simple drawing canvas that allow users to draw](https://www.reddit.com/r/javascript/comments/1izi89m/i_made_my_first_javascript_tool_a_simple_drawing/)
+- [Creative Photography Showcase Slider_The complete source code for free](https://www.reddit.com/r/javascript/comments/1izgcbw/creative_photography_showcase_slider_the_complete/)
+- [Animated Login Form -Free code source](https://www.reddit.com/r/javascript/comments/1izgb0i/animated_login_form_free_code_source/)
+- [Tic-Tac-Toe Game – Free Source Code](https://www.reddit.com/r/javascript/comments/1izeagp/tictactoe_game_free_source_code/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
