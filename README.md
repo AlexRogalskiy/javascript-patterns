@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Announcing TypeScript 5.8](https://www.reddit.com/r/javascript/comments/1j0g8f9/announcing_typescript_58/)
+- [I built a daily puzzle game that tests if you can spot AI art](https://www.reddit.com/r/javascript/comments/1j0f54v/i_built_a_daily_puzzle_game_that_tests_if_you_can/)
+- [QuickJS Sandbox lib v2 - Execute JavaScript and TypeScript code safe and secure](https://www.reddit.com/r/javascript/comments/1j0ci1z/quickjs_sandbox_lib_v2_execute_javascript_and/)
+- [My first ever codePen ! A physics driven link system](https://www.reddit.com/r/javascript/comments/1j06k1s/my_first_ever_codepen_a_physics_driven_link_system/)
+- [I made it easy for you to package your capacitor and web apps to UWP! &lpar;Xbox, Windows, Windows phone&rpar;](https://www.reddit.com/r/javascript/comments/1j06ccl/i_made_it_easy_for_you_to_package_your_capacitor/)
+- [Using F# to build React apps: state management with Elmish](https://www.reddit.com/r/javascript/comments/1j06ahx/using_f_to_build_react_apps_state_management_with/)
+- [I made a javascript web app builder](https://www.reddit.com/r/javascript/comments/1j02bjo/i_made_a_javascript_web_app_builder/)
 - [I created a library for easy internationalization &lpar;i18n&rpar; for Next.js and React! You can translate entire React components in-line without additional lookup dictionaries!](https://www.reddit.com/r/javascript/comments/1izw34c/i_created_a_library_for_easy_internationalization/)
 - [Building APIs with Next.js](https://www.reddit.com/r/javascript/comments/1izrf6b/building_apis_with_nextjs/)
 - [Introducing ArkType 2.1: The first pattern matcher to bring the power of type syntax to JS](https://www.reddit.com/r/javascript/comments/1izl7bg/introducing_arktype_21_the_first_pattern_matcher/)
-- [I released my first npm package](https://www.reddit.com/r/javascript/comments/1izkwbe/i_released_my_first_npm_package/)
-- [Clima Code Project -Pixcodi- Free Code Source](https://www.reddit.com/r/javascript/comments/1izirzb/clima_code_project_pixcodi_free_code_source/)
-- [I made htmldocs, a LaTeX alternative for building PDFs with React and Tailwind](https://www.reddit.com/r/javascript/comments/1izihmw/i_made_htmldocs_a_latex_alternative_for_building/)
-- [I made my first javascript tool - a simple drawing canvas that allow users to draw](https://www.reddit.com/r/javascript/comments/1izi89m/i_made_my_first_javascript_tool_a_simple_drawing/)
-- [Creative Photography Showcase Slider_The complete source code for free](https://www.reddit.com/r/javascript/comments/1izgcbw/creative_photography_showcase_slider_the_complete/)
-- [Animated Login Form -Free code source](https://www.reddit.com/r/javascript/comments/1izgb0i/animated_login_form_free_code_source/)
-- [Tic-Tac-Toe Game – Free Source Code](https://www.reddit.com/r/javascript/comments/1izeagp/tictactoe_game_free_source_code/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
