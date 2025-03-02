@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [recently-published: a simple CLI tool to view which installed packages in your project were published most recently](https://www.reddit.com/r/javascript/comments/1j18g0f/recentlypublished_a_simple_cli_tool_to_view_which/)
+- [[AskJS] do I need babel/core-js with vite.js?](https://www.reddit.com/r/javascript/comments/1j18fu6/askjs_do_i_need_babelcorejs_with_vitejs/)
+- [[AskJS] Anyone can scrape Facebook marketplace automatically? I’m willing to pay.](https://www.reddit.com/r/javascript/comments/1j12dfw/askjs_anyone_can_scrape_facebook_marketplace/)
+- [Which problem do we all share the most, in common ?!](https://www.reddit.com/r/javascript/comments/1j0wkrm/which_problem_do_we_all_share_the_most_in_common/)
+- [Showoff Saturday &lpar;March 01, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1j0ujft/showoff_saturday_march_01_2025/)
+- [My first completed javascript project: A matrix text generator](https://www.reddit.com/r/javascript/comments/1j0t08i/my_first_completed_javascript_project_a_matrix/)
+- [[AskJS] How can i know which methods are being compiled by the JIT?](https://www.reddit.com/r/javascript/comments/1j0r0sq/askjs_how_can_i_know_which_methods_are_being/)
 - [Announcing TypeScript 5.8](https://www.reddit.com/r/javascript/comments/1j0g8f9/announcing_typescript_58/)
 - [I built a daily puzzle game that tests if you can spot AI art](https://www.reddit.com/r/javascript/comments/1j0f54v/i_built_a_daily_puzzle_game_that_tests_if_you_can/)
 - [QuickJS Sandbox lib v2 - Execute JavaScript and TypeScript code safe and secure](https://www.reddit.com/r/javascript/comments/1j0ci1z/quickjs_sandbox_lib_v2_execute_javascript_and/)
-- [My first ever codePen ! A physics driven link system](https://www.reddit.com/r/javascript/comments/1j06k1s/my_first_ever_codepen_a_physics_driven_link_system/)
-- [I made it easy for you to package your capacitor and web apps to UWP! &lpar;Xbox, Windows, Windows phone&rpar;](https://www.reddit.com/r/javascript/comments/1j06ccl/i_made_it_easy_for_you_to_package_your_capacitor/)
-- [Using F# to build React apps: state management with Elmish](https://www.reddit.com/r/javascript/comments/1j06ahx/using_f_to_build_react_apps_state_management_with/)
-- [I made a javascript web app builder](https://www.reddit.com/r/javascript/comments/1j02bjo/i_made_a_javascript_web_app_builder/)
-- [I created a library for easy internationalization &lpar;i18n&rpar; for Next.js and React! You can translate entire React components in-line without additional lookup dictionaries!](https://www.reddit.com/r/javascript/comments/1izw34c/i_created_a_library_for_easy_internationalization/)
-- [Building APIs with Next.js](https://www.reddit.com/r/javascript/comments/1izrf6b/building_apis_with_nextjs/)
-- [Introducing ArkType 2.1: The first pattern matcher to bring the power of type syntax to JS](https://www.reddit.com/r/javascript/comments/1izl7bg/introducing_arktype_21_the_first_pattern_matcher/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
