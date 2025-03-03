@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Would a CLI tool to fix API chaos get your vote?](https://www.reddit.com/r/javascript/comments/1j2845f/askjs_would_a_cli_tool_to_fix_api_chaos_get_your/)
+- [&lpar;Article&rpar; To Parse an Int: Why does JavaScript&#39;s parseInt treat keycap emoji as integers?](https://www.reddit.com/r/javascript/comments/1j1vyty/article_to_parse_an_int_why_does_javascripts/)
+- [[AskJS] Headless SaaS for complex questionnaire data](https://www.reddit.com/r/javascript/comments/1j1vwqq/askjs_headless_saas_for_complex_questionnaire_data/)
+- [The Ultimate Next.js Metadata Guide for 2025 • Boaris](https://www.reddit.com/r/javascript/comments/1j1suso/the_ultimate_nextjs_metadata_guide_for_2025_boaris/)
+- [[AskJS] How many functions are too many for a single file?](https://www.reddit.com/r/javascript/comments/1j1ow33/askjs_how_many_functions_are_too_many_for_a/)
 - [recently-published: a simple CLI tool to view which installed packages in your project were published most recently](https://www.reddit.com/r/javascript/comments/1j18g0f/recentlypublished_a_simple_cli_tool_to_view_which/)
-- [[AskJS] do I need babel/core-js with vite.js?](https://www.reddit.com/r/javascript/comments/1j18fu6/askjs_do_i_need_babelcorejs_with_vitejs/)
-- [[AskJS] Anyone can scrape Facebook marketplace automatically? I’m willing to pay.](https://www.reddit.com/r/javascript/comments/1j12dfw/askjs_anyone_can_scrape_facebook_marketplace/)
-- [Which problem do we all share the most, in common ?!](https://www.reddit.com/r/javascript/comments/1j0wkrm/which_problem_do_we_all_share_the_most_in_common/)
 - [Showoff Saturday &lpar;March 01, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1j0ujft/showoff_saturday_march_01_2025/)
 - [My first completed javascript project: A matrix text generator](https://www.reddit.com/r/javascript/comments/1j0t08i/my_first_completed_javascript_project_a_matrix/)
 - [[AskJS] How can i know which methods are being compiled by the JIT?](https://www.reddit.com/r/javascript/comments/1j0r0sq/askjs_how_can_i_know_which_methods_are_being/)
 - [Announcing TypeScript 5.8](https://www.reddit.com/r/javascript/comments/1j0g8f9/announcing_typescript_58/)
-- [I built a daily puzzle game that tests if you can spot AI art](https://www.reddit.com/r/javascript/comments/1j0f54v/i_built_a_daily_puzzle_game_that_tests_if_you_can/)
-- [QuickJS Sandbox lib v2 - Execute JavaScript and TypeScript code safe and secure](https://www.reddit.com/r/javascript/comments/1j0ci1z/quickjs_sandbox_lib_v2_execute_javascript_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
