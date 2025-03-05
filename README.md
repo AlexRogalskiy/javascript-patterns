@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is there any OS on the web using React, CSS &lpar;SCSS&rpar;, and JavaScript that doesn&#39;t have &quot;Refused To Connect&quot; errors?](https://www.reddit.com/r/javascript/comments/1j3nfpi/is_there_any_os_on_the_web_using_react_css_scss/)
+- [Built a keyboard &amp; mouse automation &lpar;macro&rpar; tool using electron/reactjs](https://www.reddit.com/r/javascript/comments/1j3kd23/built_a_keyboard_mouse_automation_macro_tool/)
+- [Frameworks JavaScript et Intelligence Artificielle](https://www.reddit.com/r/javascript/comments/1j39xqr/frameworks_javascript_et_intelligence_artificielle/)
+- [7 Best Practices of File Upload With JavaScript](https://www.reddit.com/r/javascript/comments/1j34auu/7_best_practices_of_file_upload_with_javascript/)
 - [TanStack Form V1 - Type-safe, Agnostic, Headless Form Library](https://www.reddit.com/r/javascript/comments/1j2vm5j/tanstack_form_v1_typesafe_agnostic_headless_form/)
 - [New OPFS Viewer extension &lpar;devtools&rpar; for chrome](https://www.reddit.com/r/javascript/comments/1j2o4ic/new_opfs_viewer_extension_devtools_for_chrome/)
 - [Awesome JS libraries and hidden gems](https://www.reddit.com/r/javascript/comments/1j2ke40/awesome_js_libraries_and_hidden_gems/)
 - [Named Arguments](https://www.reddit.com/r/javascript/comments/1j2k98g/named_arguments/)
 - [Exploring Seedit P2P Web Tech : a Serverless Reddit Alternative with IPFS and JavaScript](https://www.reddit.com/r/javascript/comments/1j2htih/exploring_seedit_p2p_web_tech_a_serverless_reddit/)
 - [How to Create a Real-Time Customer Support &amp; Communication Hub Using Adaptus2-Framework](https://www.reddit.com/r/javascript/comments/1j2ht4w/how_to_create_a_realtime_customer_support/)
-- [Buffered Grid - Finished all 6 planned selection models](https://www.reddit.com/r/javascript/comments/1j2cyph/buffered_grid_finished_all_6_planned_selection/)
-- [Websocket testing tool - Wasn&#39;t happy with the existing solutions for testing my websocket backend so I cooked this up!](https://www.reddit.com/r/javascript/comments/1j29x1o/websocket_testing_tool_wasnt_happy_with_the/)
-- [[AskJS] Would a CLI tool to fix API chaos get your vote?](https://www.reddit.com/r/javascript/comments/1j2845f/askjs_would_a_cli_tool_to_fix_api_chaos_get_your/)
-- [&lpar;Article&rpar; To Parse an Int: Why does JavaScript&#39;s parseInt treat keycap emoji as integers?](https://www.reddit.com/r/javascript/comments/1j1vyty/article_to_parse_an_int_why_does_javascripts/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
