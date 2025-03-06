@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How ECMAScript Engines Optimize Your Variables](https://www.reddit.com/r/javascript/comments/1j4etnc/how_ecmascript_engines_optimize_your_variables/)
+- [[AskJS] First ever interview with Citi in a week for Front-End Engineer How to prepare?](https://www.reddit.com/r/javascript/comments/1j49dbm/askjs_first_ever_interview_with_citi_in_a_week/)
+- [[AskJS] Total begginner](https://www.reddit.com/r/javascript/comments/1j479z8/askjs_total_begginner/)
+- [Vanilla Web: You Don&#39;t Need that Library • Maximiliano Firtman](https://www.reddit.com/r/javascript/comments/1j43dox/vanilla_web_you_dont_need_that_library/)
+- [Generative AI for beginners with JavaScript](https://www.reddit.com/r/javascript/comments/1j40za9/generative_ai_for_beginners_with_javascript/)
+- [[AskJS] Big companies that DONT use a framework?](https://www.reddit.com/r/javascript/comments/1j3za8m/askjs_big_companies_that_dont_use_a_framework/)
+- [WTF Wednesday &lpar;March 05, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1j3y5m5/wtf_wednesday_march_05_2025/)
+- [React-EXE | Dynamic React Code Playgrounds Made Easy](https://www.reddit.com/r/javascript/comments/1j3xep5/reactexe_dynamic_react_code_playgrounds_made_easy/)
 - [Is there any OS on the web using React, CSS &lpar;SCSS&rpar;, and JavaScript that doesn&#39;t have &quot;Refused To Connect&quot; errors?](https://www.reddit.com/r/javascript/comments/1j3nfpi/is_there_any_os_on_the_web_using_react_css_scss/)
 - [Built a keyboard &amp; mouse automation &lpar;macro&rpar; tool using electron/reactjs](https://www.reddit.com/r/javascript/comments/1j3kd23/built_a_keyboard_mouse_automation_macro_tool/)
-- [Frameworks JavaScript et Intelligence Artificielle](https://www.reddit.com/r/javascript/comments/1j39xqr/frameworks_javascript_et_intelligence_artificielle/)
-- [7 Best Practices of File Upload With JavaScript](https://www.reddit.com/r/javascript/comments/1j34auu/7_best_practices_of_file_upload_with_javascript/)
-- [TanStack Form V1 - Type-safe, Agnostic, Headless Form Library](https://www.reddit.com/r/javascript/comments/1j2vm5j/tanstack_form_v1_typesafe_agnostic_headless_form/)
-- [New OPFS Viewer extension &lpar;devtools&rpar; for chrome](https://www.reddit.com/r/javascript/comments/1j2o4ic/new_opfs_viewer_extension_devtools_for_chrome/)
-- [Awesome JS libraries and hidden gems](https://www.reddit.com/r/javascript/comments/1j2ke40/awesome_js_libraries_and_hidden_gems/)
-- [Named Arguments](https://www.reddit.com/r/javascript/comments/1j2k98g/named_arguments/)
-- [Exploring Seedit P2P Web Tech : a Serverless Reddit Alternative with IPFS and JavaScript](https://www.reddit.com/r/javascript/comments/1j2htih/exploring_seedit_p2p_web_tech_a_serverless_reddit/)
-- [How to Create a Real-Time Customer Support &amp; Communication Hub Using Adaptus2-Framework](https://www.reddit.com/r/javascript/comments/1j2ht4w/how_to_create_a_realtime_customer_support/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
