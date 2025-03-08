@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Automação com puppeteer](https://www.reddit.com/r/javascript/comments/1j600xb/askjs_automação_com_puppeteer/)
+- [FileBokz — a tiny, dependency-free, highly customizable file input with some pretty sweet features](https://www.reddit.com/r/javascript/comments/1j5ydbs/filebokz_a_tiny_dependencyfree_highly/)
+- [[AskJS] Monkey patch Worker code?](https://www.reddit.com/r/javascript/comments/1j5wpbz/askjs_monkey_patch_worker_code/)
+- [Passion for pure vanilla JavaScript led to the creation of a minimalist framework designed for speed, simplicity, and a developer-first experience!](https://www.reddit.com/r/javascript/comments/1j5lgg9/passion_for_pure_vanilla_javascript_led_to_the/)
+- [[AskJS] How to properly communicate with &#39;localhost 8000&#39; Mongoose database across files?](https://www.reddit.com/r/javascript/comments/1j5dnca/askjs_how_to_properly_communicate_with_localhost/)
 - [xior@0.7.2 - jsDocs.io](https://www.reddit.com/r/javascript/comments/1j5bax7/xior072_jsdocsio/)
 - [Neocache is a blazingly fast, minimal Typescript cache library, up to 31% faster than other popular cache libraries.](https://www.reddit.com/r/javascript/comments/1j59zti/neocache_is_a_blazingly_fast_minimal_typescript/)
 - [Goodbye Create React App, Hello TanStack Create React App](https://www.reddit.com/r/javascript/comments/1j55vsh/goodbye_create_react_app_hello_tanstack_create/)
 - [Protect your website with strong battle proof captcha writing just a few lines of code](https://www.reddit.com/r/javascript/comments/1j4w009/protect_your_website_with_strong_battle_proof/)
 - [React-EXE | Dynamic React Code Playgrounds Made Easy](https://www.reddit.com/r/javascript/comments/1j4opf7/reactexe_dynamic_react_code_playgrounds_made_easy/)
-- [How ECMAScript Engines Optimize Your Variables](https://www.reddit.com/r/javascript/comments/1j4etnc/how_ecmascript_engines_optimize_your_variables/)
-- [Vanilla Web: You Don&#39;t Need that Library • Maximiliano Firtman](https://www.reddit.com/r/javascript/comments/1j43dox/vanilla_web_you_dont_need_that_library/)
-- [Generative AI for beginners with JavaScript](https://www.reddit.com/r/javascript/comments/1j40za9/generative_ai_for_beginners_with_javascript/)
-- [[AskJS] Big companies that DONT use a framework?](https://www.reddit.com/r/javascript/comments/1j3za8m/askjs_big_companies_that_dont_use_a_framework/)
-- [WTF Wednesday &lpar;March 05, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1j3y5m5/wtf_wednesday_march_05_2025/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
