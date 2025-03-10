@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] any tips from dev for making base strong in vanilla js](https://www.reddit.com/r/javascript/comments/1j6newe/askjs_any_tips_from_dev_for_making_base_strong_in/)
+- [Free &amp; Open-Source PostHog Mobile App!](https://www.reddit.com/r/javascript/comments/1j7iu8q/free_opensource_posthog_mobile_app/)
+- [[AskJS] What would a generic component have in your ideal Design System?](https://www.reddit.com/r/javascript/comments/1j7iu0t/askjs_what_would_a_generic_component_have_in_your/)
+- [Buildless CJS+ESM+TS+Importmaps for the browser.](https://www.reddit.com/r/javascript/comments/1j7gec3/buildless_cjsesmtsimportmaps_for_the_browser/)
+- [Unlock exciting use cases with the Document Picture-in-Picture API](https://www.reddit.com/r/javascript/comments/1j7ga8h/unlock_exciting_use_cases_with_the_document/)
+- [Introducing Vanilla-State: A Gentle Proof of Concept for React-like State Management in Vanilla JS](https://www.reddit.com/r/javascript/comments/1j7690i/introducing_vanillastate_a_gentle_proof_of/)
+- [I made MCP &lpar;Model Context Protocol&rpar; alternative solution, for OpenAI and all other LLMs, that is cheaper than Anthropic Claude](https://www.reddit.com/r/javascript/comments/1j708f2/i_made_mcp_model_context_protocol_alternative/)
+- [Jeasx 1.5.0 released - the carefree &quot;it just works&quot; web-framework powered by Fastify and JSX.](https://www.reddit.com/r/javascript/comments/1j6ye0k/jeasx_150_released_the_carefree_it_just_works/)
 - [Submit a new link: Done with JavaScript](https://www.reddit.com/r/javascript/comments/1j6h6en/submit_a_new_link_done_with_javascript/)
 - [Wrote a piece on View Transitions API, check it out and share your thoughts](https://www.reddit.com/r/javascript/comments/1j6dbyq/wrote_a_piece_on_view_transitions_api_check_it/)
 - [Showoff Saturday &lpar;March 08, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1j6cfoo/showoff_saturday_march_08_2025/)
-- [[AskJS] Automação com puppeteer](https://www.reddit.com/r/javascript/comments/1j600xb/askjs_automação_com_puppeteer/)
-- [FileBokz — a tiny, dependency-free, highly customizable file input with some pretty sweet features](https://www.reddit.com/r/javascript/comments/1j5ydbs/filebokz_a_tiny_dependencyfree_highly/)
-- [Passion for pure vanilla JavaScript led to the creation of a minimalist framework designed for speed, simplicity, and a developer-first experience!](https://www.reddit.com/r/javascript/comments/1j5lgg9/passion_for_pure_vanilla_javascript_led_to_the/)
-- [[AskJS] How to properly communicate with &#39;localhost 8000&#39; Mongoose database across files?](https://www.reddit.com/r/javascript/comments/1j5dnca/askjs_how_to_properly_communicate_with_localhost/)
-- [xior@0.7.2 - jsDocs.io](https://www.reddit.com/r/javascript/comments/1j5bax7/xior072_jsdocsio/)
-- [Neocache is a blazingly fast, minimal Typescript cache library, up to 31% faster than other popular cache libraries.](https://www.reddit.com/r/javascript/comments/1j59zti/neocache_is_a_blazingly_fast_minimal_typescript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
