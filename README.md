@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Javascript and Python interfacing examples](https://www.reddit.com/r/javascript/comments/1j8fs04/javascript_and_python_interfacing_examples/)
+- [Asyncrush, Up to 67% faster than other popular stream library with middleware](https://www.reddit.com/r/javascript/comments/1j86y40/asyncrush_up_to_67_faster_than_other_popular/)
+- [React Router error reporting from scratch](https://www.reddit.com/r/javascript/comments/1j7z8iz/react_router_error_reporting_from_scratch/)
+- [Everything I Was Lied To About NodeJS Came True With Elixir](https://www.reddit.com/r/javascript/comments/1j7v4ot/everything_i_was_lied_to_about_nodejs_came_true/)
+- [Your /r/javascript recap for the week of March 03 - March 09, 2025](https://www.reddit.com/r/javascript/comments/1j7ufsc/your_rjavascript_recap_for_the_week_of_march_03/)
+- [Animated Filtering &amp; Sorting inside a Buffered Data Grid](https://www.reddit.com/r/javascript/comments/1j7u32c/animated_filtering_sorting_inside_a_buffered_data/)
+- [Trig.js v4 - Configurable predefined CSS scroll animations right out of the box](https://www.reddit.com/r/javascript/comments/1j7tttw/trigjs_v4_configurable_predefined_css_scroll/)
+- [Lynx JS hits 8K+ GitHub Stars in &lt; 8 days of release](https://www.reddit.com/r/javascript/comments/1j7st4j/lynx_js_hits_8k_github_stars_in_8_days_of_release/)
+- [Tuono - Superfast full-stack React framework](https://www.reddit.com/r/javascript/comments/1j7spxv/tuono_superfast_fullstack_react_framework/)
 - [Free &amp; Open-Source PostHog Mobile App!](https://www.reddit.com/r/javascript/comments/1j7iu8q/free_opensource_posthog_mobile_app/)
-- [[AskJS] What would a generic component have in your ideal Design System?](https://www.reddit.com/r/javascript/comments/1j7iu0t/askjs_what_would_a_generic_component_have_in_your/)
-- [Buildless CJS+ESM+TS+Importmaps for the browser.](https://www.reddit.com/r/javascript/comments/1j7gec3/buildless_cjsesmtsimportmaps_for_the_browser/)
-- [Unlock exciting use cases with the Document Picture-in-Picture API](https://www.reddit.com/r/javascript/comments/1j7ga8h/unlock_exciting_use_cases_with_the_document/)
-- [Introducing Vanilla-State: A Gentle Proof of Concept for React-like State Management in Vanilla JS](https://www.reddit.com/r/javascript/comments/1j7690i/introducing_vanillastate_a_gentle_proof_of/)
-- [I made MCP &lpar;Model Context Protocol&rpar; alternative solution, for OpenAI and all other LLMs, that is cheaper than Anthropic Claude](https://www.reddit.com/r/javascript/comments/1j708f2/i_made_mcp_model_context_protocol_alternative/)
-- [Jeasx 1.5.0 released - the carefree &quot;it just works&quot; web-framework powered by Fastify and JSX.](https://www.reddit.com/r/javascript/comments/1j6ye0k/jeasx_150_released_the_carefree_it_just_works/)
-- [Submit a new link: Done with JavaScript](https://www.reddit.com/r/javascript/comments/1j6h6en/submit_a_new_link_done_with_javascript/)
-- [Wrote a piece on View Transitions API, check it out and share your thoughts](https://www.reddit.com/r/javascript/comments/1j6dbyq/wrote_a_piece_on_view_transitions_api_check_it/)
-- [Showoff Saturday &lpar;March 08, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1j6cfoo/showoff_saturday_march_08_2025/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
