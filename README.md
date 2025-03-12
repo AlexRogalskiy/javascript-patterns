@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Javascript and Python interfacing examples](https://www.reddit.com/r/javascript/comments/1j8fs04/javascript_and_python_interfacing_examples/)
-- [Asyncrush, Up to 67% faster than other popular stream library with middleware](https://www.reddit.com/r/javascript/comments/1j86y40/asyncrush_up_to_67_faster_than_other_popular/)
-- [React Router error reporting from scratch](https://www.reddit.com/r/javascript/comments/1j7z8iz/react_router_error_reporting_from_scratch/)
-- [Everything I Was Lied To About NodeJS Came True With Elixir](https://www.reddit.com/r/javascript/comments/1j7v4ot/everything_i_was_lied_to_about_nodejs_came_true/)
-- [Your /r/javascript recap for the week of March 03 - March 09, 2025](https://www.reddit.com/r/javascript/comments/1j7ufsc/your_rjavascript_recap_for_the_week_of_march_03/)
-- [Animated Filtering &amp; Sorting inside a Buffered Data Grid](https://www.reddit.com/r/javascript/comments/1j7u32c/animated_filtering_sorting_inside_a_buffered_data/)
-- [Trig.js v4 - Configurable predefined CSS scroll animations right out of the box](https://www.reddit.com/r/javascript/comments/1j7tttw/trigjs_v4_configurable_predefined_css_scroll/)
-- [Lynx JS hits 8K+ GitHub Stars in &lt; 8 days of release](https://www.reddit.com/r/javascript/comments/1j7st4j/lynx_js_hits_8k_github_stars_in_8_days_of_release/)
-- [Tuono - Superfast full-stack React framework](https://www.reddit.com/r/javascript/comments/1j7spxv/tuono_superfast_fullstack_react_framework/)
-- [Free &amp; Open-Source PostHog Mobile App!](https://www.reddit.com/r/javascript/comments/1j7iu8q/free_opensource_posthog_mobile_app/)
+- [Notemod - New features added - Creating Tasks &amp; Synchronization](https://www.reddit.com/r/javascript/comments/1j97cgy/notemod_new_features_added_creating_tasks/)
+- [[AskJS] How much gamification when learning?](https://www.reddit.com/r/javascript/comments/1j93oyl/askjs_how_much_gamification_when_learning/)
+- [Components Are Just Sparkling Hooks &lpar;React&rpar;](https://www.reddit.com/r/javascript/comments/1j8v0hz/components_are_just_sparkling_hooks_react/)
+- [I just wrote this program on Programiz Online Compiler.](https://www.reddit.com/r/javascript/comments/1j8thjf/i_just_wrote_this_program_on_programiz_online/)
+- [A 10x Faster TypeScript](https://www.reddit.com/r/javascript/comments/1j8s441/a_10x_faster_typescript/)
+- [GitHub - WebAR-rocks/WebAR.rocks.train: 6DoF Object Detection and Tracking in JavaScript/WebGL. A neural network is trained in the web browser using a 3D model rendered with ThreeJS. Then, the trained model is used for augmented reality with React Three Fiber. Released under the MIT License.](https://www.reddit.com/r/javascript/comments/1j8qz2i/github_webarrockswebarrockstrain_6dof_object/)
+- [Backend controllers should NOT call services](https://www.reddit.com/r/javascript/comments/1j8okt9/backend_controllers_should_not_call_services/)
+- [Turn your boring errors into expressive outbursts!](https://www.reddit.com/r/javascript/comments/1j8n5tw/turn_your_boring_errors_into_expressive_outbursts/)
+- [Music Player Project using HTML CSS JS, Source coude in ZIP File](https://www.reddit.com/r/javascript/comments/1j8mwwd/music_player_project_using_html_css_js_source/)
+- [Compact report formatters for noseyparker](https://www.reddit.com/r/javascript/comments/1j8lfvd/compact_report_formatters_for_noseyparker/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
