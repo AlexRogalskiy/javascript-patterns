@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Best practices for handling large file uploads in web apps?](https://www.reddit.com/r/javascript/comments/1j9spmb/askjs_best_practices_for_handling_large_file/)
+- [[AskJS] Struggled with a Tic-Tac-Toe Task in a React Interview—How Can I Improve?](https://www.reddit.com/r/javascript/comments/1j9sncu/askjs_struggled_with_a_tictactoe_task_in_a_react/)
+- [[AskJS] Why is JavaScript making direct calls within WebKit’s internal stack?](https://www.reddit.com/r/javascript/comments/1j9nzxw/askjs_why_is_javascript_making_direct_calls/)
+- [I created an eslint plugin to enforce granular store selectors instead of destructuring](https://www.reddit.com/r/javascript/comments/1j9fqim/i_created_an_eslint_plugin_to_enforce_granular/)
+- [A Simple 3D Drone Demo Developed using JavaScript](https://www.reddit.com/r/javascript/comments/1j9emxr/a_simple_3d_drone_demo_developed_using_javascript/)
+- [WTF Wednesday &lpar;March 12, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1j9dyxi/wtf_wednesday_march_12_2025/)
 - [Notemod - New features added - Creating Tasks &amp; Synchronization](https://www.reddit.com/r/javascript/comments/1j97cgy/notemod_new_features_added_creating_tasks/)
 - [[AskJS] How much gamification when learning?](https://www.reddit.com/r/javascript/comments/1j93oyl/askjs_how_much_gamification_when_learning/)
 - [Components Are Just Sparkling Hooks &lpar;React&rpar;](https://www.reddit.com/r/javascript/comments/1j8v0hz/components_are_just_sparkling_hooks_react/)
-- [I just wrote this program on Programiz Online Compiler.](https://www.reddit.com/r/javascript/comments/1j8thjf/i_just_wrote_this_program_on_programiz_online/)
 - [A 10x Faster TypeScript](https://www.reddit.com/r/javascript/comments/1j8s441/a_10x_faster_typescript/)
-- [GitHub - WebAR-rocks/WebAR.rocks.train: 6DoF Object Detection and Tracking in JavaScript/WebGL. A neural network is trained in the web browser using a 3D model rendered with ThreeJS. Then, the trained model is used for augmented reality with React Three Fiber. Released under the MIT License.](https://www.reddit.com/r/javascript/comments/1j8qz2i/github_webarrockswebarrockstrain_6dof_object/)
-- [Backend controllers should NOT call services](https://www.reddit.com/r/javascript/comments/1j8okt9/backend_controllers_should_not_call_services/)
-- [Turn your boring errors into expressive outbursts!](https://www.reddit.com/r/javascript/comments/1j8n5tw/turn_your_boring_errors_into_expressive_outbursts/)
-- [Music Player Project using HTML CSS JS, Source coude in ZIP File](https://www.reddit.com/r/javascript/comments/1j8mwwd/music_player_project_using_html_css_js_source/)
-- [Compact report formatters for noseyparker](https://www.reddit.com/r/javascript/comments/1j8lfvd/compact_report_formatters_for_noseyparker/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
