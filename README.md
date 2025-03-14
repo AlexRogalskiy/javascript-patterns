@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] need help settling on a learning plan](https://www.reddit.com/r/javascript/comments/1jalje1/askjs_need_help_settling_on_a_learning_plan/)
+- [Web Dev for Beginners course](https://www.reddit.com/r/javascript/comments/1jahotu/web_dev_for_beginners_course/)
+- [[AskJS] Are you all using GitHub Models or similar for working with Generative AI locally?](https://www.reddit.com/r/javascript/comments/1jahiln/askjs_are_you_all_using_github_models_or_similar/)
+- [I made a job board aggregator that uses LLMs to find JavaScript jobs with your exact stack](https://www.reddit.com/r/javascript/comments/1jaec67/i_made_a_job_board_aggregator_that_uses_llms_to/)
+- [How to easily convert HTML to image in NodeJS or in the browser](https://www.reddit.com/r/javascript/comments/1jaajt1/how_to_easily_convert_html_to_image_in_nodejs_or/)
+- [[AskJS] LLRT in production for lambda functions](https://www.reddit.com/r/javascript/comments/1ja9fkm/askjs_llrt_in_production_for_lambda_functions/)
+- [[AskJS] Is this architectural good and follow best practices?](https://www.reddit.com/r/javascript/comments/1ja6nn0/askjs_is_this_architectural_good_and_follow_best/)
+- [[AskJS] Is MongoDB the Best Choice for a Currency System?](https://www.reddit.com/r/javascript/comments/1ja42wb/askjs_is_mongodb_the_best_choice_for_a_currency/)
+- [Peer-to-peer file transfers in the browser](https://www.reddit.com/r/javascript/comments/1ja1ujl/peertopeer_file_transfers_in_the_browser/)
 - [[AskJS] Best practices for handling large file uploads in web apps?](https://www.reddit.com/r/javascript/comments/1j9spmb/askjs_best_practices_for_handling_large_file/)
-- [[AskJS] Struggled with a Tic-Tac-Toe Task in a React Interview—How Can I Improve?](https://www.reddit.com/r/javascript/comments/1j9sncu/askjs_struggled_with_a_tictactoe_task_in_a_react/)
-- [[AskJS] Why is JavaScript making direct calls within WebKit’s internal stack?](https://www.reddit.com/r/javascript/comments/1j9nzxw/askjs_why_is_javascript_making_direct_calls/)
-- [I created an eslint plugin to enforce granular store selectors instead of destructuring](https://www.reddit.com/r/javascript/comments/1j9fqim/i_created_an_eslint_plugin_to_enforce_granular/)
-- [A Simple 3D Drone Demo Developed using JavaScript](https://www.reddit.com/r/javascript/comments/1j9emxr/a_simple_3d_drone_demo_developed_using_javascript/)
-- [WTF Wednesday &lpar;March 12, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1j9dyxi/wtf_wednesday_march_12_2025/)
-- [Notemod - New features added - Creating Tasks &amp; Synchronization](https://www.reddit.com/r/javascript/comments/1j97cgy/notemod_new_features_added_creating_tasks/)
-- [[AskJS] How much gamification when learning?](https://www.reddit.com/r/javascript/comments/1j93oyl/askjs_how_much_gamification_when_learning/)
-- [Components Are Just Sparkling Hooks &lpar;React&rpar;](https://www.reddit.com/r/javascript/comments/1j8v0hz/components_are_just_sparkling_hooks_react/)
-- [A 10x Faster TypeScript](https://www.reddit.com/r/javascript/comments/1j8s441/a_10x_faster_typescript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
