@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [SAMLStorm: Critical Authentication Bypass in xml-crypto and Node.js libraries](https://www.reddit.com/r/javascript/comments/1jbjyeu/samlstorm_critical_authentication_bypass_in/)
+- [[AskJS] Any website that aggregates remote frontend job opportunities from several other sites &lpar;remote ok, we work remotely, etc&rpar;?](https://www.reddit.com/r/javascript/comments/1jbdy6x/askjs_any_website_that_aggregates_remote_frontend/)
+- [[AskJS] How Can I Improve My JavaScript Skills Without a Mentor?](https://www.reddit.com/r/javascript/comments/1jbbu2m/askjs_how_can_i_improve_my_javascript_skills/)
+- [[AskJS] JavaScript courses for complete regards?](https://www.reddit.com/r/javascript/comments/1jb980s/askjs_javascript_courses_for_complete_regards/)
+- [[AskJS] Play button with a slash when trying to play a .MOV on iPhone](https://www.reddit.com/r/javascript/comments/1jb5nds/askjs_play_button_with_a_slash_when_trying_to/)
+- [Announcing Tinybird Forward: Ship web apps with big data requirements, faster](https://www.reddit.com/r/javascript/comments/1jb3y0r/announcing_tinybird_forward_ship_web_apps_with/)
+- [[AskJS] book suggestion for vanilla js and project suggestions for project based learning](https://www.reddit.com/r/javascript/comments/1jb3f6g/askjs_book_suggestion_for_vanilla_js_and_project/)
+- [lexio: UI components for building AI assistants based on retrieval augmented generation](https://www.reddit.com/r/javascript/comments/1jb1yjx/lexio_ui_components_for_building_ai_assistants/)
 - [[AskJS] need help settling on a learning plan](https://www.reddit.com/r/javascript/comments/1jalje1/askjs_need_help_settling_on_a_learning_plan/)
 - [Web Dev for Beginners course](https://www.reddit.com/r/javascript/comments/1jahotu/web_dev_for_beginners_course/)
-- [[AskJS] Are you all using GitHub Models or similar for working with Generative AI locally?](https://www.reddit.com/r/javascript/comments/1jahiln/askjs_are_you_all_using_github_models_or_similar/)
-- [I made a job board aggregator that uses LLMs to find JavaScript jobs with your exact stack](https://www.reddit.com/r/javascript/comments/1jaec67/i_made_a_job_board_aggregator_that_uses_llms_to/)
-- [How to easily convert HTML to image in NodeJS or in the browser](https://www.reddit.com/r/javascript/comments/1jaajt1/how_to_easily_convert_html_to_image_in_nodejs_or/)
-- [[AskJS] LLRT in production for lambda functions](https://www.reddit.com/r/javascript/comments/1ja9fkm/askjs_llrt_in_production_for_lambda_functions/)
-- [[AskJS] Is this architectural good and follow best practices?](https://www.reddit.com/r/javascript/comments/1ja6nn0/askjs_is_this_architectural_good_and_follow_best/)
-- [[AskJS] Is MongoDB the Best Choice for a Currency System?](https://www.reddit.com/r/javascript/comments/1ja42wb/askjs_is_mongodb_the_best_choice_for_a_currency/)
-- [Peer-to-peer file transfers in the browser](https://www.reddit.com/r/javascript/comments/1ja1ujl/peertopeer_file_transfers_in_the_browser/)
-- [[AskJS] Best practices for handling large file uploads in web apps?](https://www.reddit.com/r/javascript/comments/1j9spmb/askjs_best_practices_for_handling_large_file/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
