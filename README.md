@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Check out what I made](https://www.reddit.com/r/javascript/comments/1jc9jxd/check_out_what_i_made/)
+- [Sans library which supports ios/android/windows/macos/linux using webviewjs and Apple&#39;s WKWebView api.](https://www.reddit.com/r/javascript/comments/1jc24jz/sans_library_which_supports/)
+- [Showoff Saturday &lpar;March 15, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1jbpfsg/showoff_saturday_march_15_2025/)
 - [SAMLStorm: Critical Authentication Bypass in xml-crypto and Node.js libraries](https://www.reddit.com/r/javascript/comments/1jbjyeu/samlstorm_critical_authentication_bypass_in/)
 - [[AskJS] Any website that aggregates remote frontend job opportunities from several other sites &lpar;remote ok, we work remotely, etc&rpar;?](https://www.reddit.com/r/javascript/comments/1jbdy6x/askjs_any_website_that_aggregates_remote_frontend/)
 - [[AskJS] How Can I Improve My JavaScript Skills Without a Mentor?](https://www.reddit.com/r/javascript/comments/1jbbu2m/askjs_how_can_i_improve_my_javascript_skills/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [[AskJS] Play button with a slash when trying to play a .MOV on iPhone](https://www.reddit.com/r/javascript/comments/1jb5nds/askjs_play_button_with_a_slash_when_trying_to/)
 - [Announcing Tinybird Forward: Ship web apps with big data requirements, faster](https://www.reddit.com/r/javascript/comments/1jb3y0r/announcing_tinybird_forward_ship_web_apps_with/)
 - [[AskJS] book suggestion for vanilla js and project suggestions for project based learning](https://www.reddit.com/r/javascript/comments/1jb3f6g/askjs_book_suggestion_for_vanilla_js_and_project/)
-- [lexio: UI components for building AI assistants based on retrieval augmented generation](https://www.reddit.com/r/javascript/comments/1jb1yjx/lexio_ui_components_for_building_ai_assistants/)
-- [[AskJS] need help settling on a learning plan](https://www.reddit.com/r/javascript/comments/1jalje1/askjs_need_help_settling_on_a_learning_plan/)
-- [Web Dev for Beginners course](https://www.reddit.com/r/javascript/comments/1jahotu/web_dev_for_beginners_course/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
