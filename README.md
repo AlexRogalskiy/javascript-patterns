@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Interstice is an interactive grid-based game where players manipulate a 10x10 board and compete on a global leaderboard](https://www.reddit.com/r/javascript/comments/1jcy24z/interstice_is_an_interactive_gridbased_game_where/)
+- [[AskJS] Bun / Deno / NodeJS - what do you use and why?](https://www.reddit.com/r/javascript/comments/1jcwygf/askjs_bun_deno_nodejs_what_do_you_use_and_why/)
+- [[AskJS] Has there been any announcement about how Void&lpar;0&rpar; will make money?](https://www.reddit.com/r/javascript/comments/1jcvifa/askjs_has_there_been_any_announcement_about_how/)
+- [Lisp in JavaScript - writing a simple Lisp interpreter in about 60 lines of JS](https://www.reddit.com/r/javascript/comments/1jcpk0m/lisp_in_javascript_writing_a_simple_lisp/)
+- [I ported the Snowball Porter word stemming algorithm to ES6 so you can just import it in React for client-side keyword searching](https://www.reddit.com/r/javascript/comments/1jclz2x/i_ported_the_snowball_porter_word_stemming/)
+- [Evan You announced &quot;Vite Plus&quot; - the &quot;cargo for JavaScript&quot;, brought by VoidZero](https://www.reddit.com/r/javascript/comments/1jcj65z/evan_you_announced_vite_plus_the_cargo_for/)
+- [[AskJS] Fun little thing I made years ago &lpar;20?&rpar; that generates cool pictures. :-&rpar;](https://www.reddit.com/r/javascript/comments/1jcfl3a/askjs_fun_little_thing_i_made_years_ago_20_that/)
 - [Check out what I made](https://www.reddit.com/r/javascript/comments/1jc9jxd/check_out_what_i_made/)
 - [Sans library which supports ios/android/windows/macos/linux using webviewjs and Apple&#39;s WKWebView api.](https://www.reddit.com/r/javascript/comments/1jc24jz/sans_library_which_supports/)
 - [Showoff Saturday &lpar;March 15, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1jbpfsg/showoff_saturday_march_15_2025/)
-- [SAMLStorm: Critical Authentication Bypass in xml-crypto and Node.js libraries](https://www.reddit.com/r/javascript/comments/1jbjyeu/samlstorm_critical_authentication_bypass_in/)
-- [[AskJS] Any website that aggregates remote frontend job opportunities from several other sites &lpar;remote ok, we work remotely, etc&rpar;?](https://www.reddit.com/r/javascript/comments/1jbdy6x/askjs_any_website_that_aggregates_remote_frontend/)
-- [[AskJS] How Can I Improve My JavaScript Skills Without a Mentor?](https://www.reddit.com/r/javascript/comments/1jbbu2m/askjs_how_can_i_improve_my_javascript_skills/)
-- [[AskJS] JavaScript courses for complete regards?](https://www.reddit.com/r/javascript/comments/1jb980s/askjs_javascript_courses_for_complete_regards/)
-- [[AskJS] Play button with a slash when trying to play a .MOV on iPhone](https://www.reddit.com/r/javascript/comments/1jb5nds/askjs_play_button_with_a_slash_when_trying_to/)
-- [Announcing Tinybird Forward: Ship web apps with big data requirements, faster](https://www.reddit.com/r/javascript/comments/1jb3y0r/announcing_tinybird_forward_ship_web_apps_with/)
-- [[AskJS] book suggestion for vanilla js and project suggestions for project based learning](https://www.reddit.com/r/javascript/comments/1jb3f6g/askjs_book_suggestion_for_vanilla_js_and_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
