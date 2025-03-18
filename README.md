@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Write your CI/CD in JS/TS, not YAML](https://www.reddit.com/r/javascript/comments/1jdguvb/write_your_cicd_in_jsts_not_yaml/)
+- [[AskJS] What are your thoughts on terminal-based dev tools for sharing profiles?](https://www.reddit.com/r/javascript/comments/1jdfoll/askjs_what_are_your_thoughts_on_terminalbased_dev/)
+- [[AskJS] any framework agnostic frontend router to recommend?](https://www.reddit.com/r/javascript/comments/1jdeb87/askjs_any_framework_agnostic_frontend_router_to/)
+- [[AskJS] How much Javascript?](https://www.reddit.com/r/javascript/comments/1jdb40a/askjs_how_much_javascript/)
+- [Your /r/javascript recap for the week of March 10 - March 16, 2025](https://www.reddit.com/r/javascript/comments/1jd8bot/your_rjavascript_recap_for_the_week_of_march_10/)
+- [[AskJS] Is using eval really bad?](https://www.reddit.com/r/javascript/comments/1jd6ai3/askjs_is_using_eval_really_bad/)
 - [Interstice is an interactive grid-based game where players manipulate a 10x10 board and compete on a global leaderboard](https://www.reddit.com/r/javascript/comments/1jcy24z/interstice_is_an_interactive_gridbased_game_where/)
 - [[AskJS] Bun / Deno / NodeJS - what do you use and why?](https://www.reddit.com/r/javascript/comments/1jcwygf/askjs_bun_deno_nodejs_what_do_you_use_and_why/)
 - [[AskJS] Has there been any announcement about how Void&lpar;0&rpar; will make money?](https://www.reddit.com/r/javascript/comments/1jcvifa/askjs_has_there_been_any_announcement_about_how/)
 - [Lisp in JavaScript - writing a simple Lisp interpreter in about 60 lines of JS](https://www.reddit.com/r/javascript/comments/1jcpk0m/lisp_in_javascript_writing_a_simple_lisp/)
-- [I ported the Snowball Porter word stemming algorithm to ES6 so you can just import it in React for client-side keyword searching](https://www.reddit.com/r/javascript/comments/1jclz2x/i_ported_the_snowball_porter_word_stemming/)
-- [Evan You announced &quot;Vite Plus&quot; - the &quot;cargo for JavaScript&quot;, brought by VoidZero](https://www.reddit.com/r/javascript/comments/1jcj65z/evan_you_announced_vite_plus_the_cargo_for/)
-- [[AskJS] Fun little thing I made years ago &lpar;20?&rpar; that generates cool pictures. :-&rpar;](https://www.reddit.com/r/javascript/comments/1jcfl3a/askjs_fun_little_thing_i_made_years_ago_20_that/)
-- [Check out what I made](https://www.reddit.com/r/javascript/comments/1jc9jxd/check_out_what_i_made/)
-- [Sans library which supports ios/android/windows/macos/linux using webviewjs and Apple&#39;s WKWebView api.](https://www.reddit.com/r/javascript/comments/1jc24jz/sans_library_which_supports/)
-- [Showoff Saturday &lpar;March 15, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1jbpfsg/showoff_saturday_march_15_2025/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
