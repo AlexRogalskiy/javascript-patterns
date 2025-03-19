@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] What&#39;s the best JS framework for a mainly API backend](https://www.reddit.com/r/javascript/comments/1jemeli/askjs_whats_the_best_js_framework_for_a_mainly/)
+- [Visual AI Simulations in the Browser: Cars, Predators &amp; Prey &lpar;NEAT Algorithm&rpar;](https://www.reddit.com/r/javascript/comments/1jeh3bk/visual_ai_simulations_in_the_browser_cars/)
+- [Just Released: semver-features - A Type-Safe SemVer-Based Feature Toggle Library](https://www.reddit.com/r/javascript/comments/1jeeqlt/just_released_semverfeatures_a_typesafe/)
+- [[AskJS] Checking file safty before uploading &lpar;CSP&rpar;](https://www.reddit.com/r/javascript/comments/1je9gkc/askjs_checking_file_safty_before_uploading_csp/)
+- [Good at React JS? Then join the DOJOCODE React Riddles contest!](https://www.reddit.com/r/javascript/comments/1je36op/good_at_react_js_then_join_the_dojocode_react/)
+- [[AskJS] Monorepo tools](https://www.reddit.com/r/javascript/comments/1je2nr9/askjs_monorepo_tools/)
+- [[AskJS] Hiring Javascript and Playwright Developer](https://www.reddit.com/r/javascript/comments/1je1pum/askjs_hiring_javascript_and_playwright_developer/)
+- [[AskJS] Why are lambda functions called lambda functions everywhere except in JS](https://www.reddit.com/r/javascript/comments/1je0nrd/askjs_why_are_lambda_functions_called_lambda/)
 - [Write your CI/CD in JS/TS, not YAML](https://www.reddit.com/r/javascript/comments/1jdguvb/write_your_cicd_in_jsts_not_yaml/)
 - [[AskJS] What are your thoughts on terminal-based dev tools for sharing profiles?](https://www.reddit.com/r/javascript/comments/1jdfoll/askjs_what_are_your_thoughts_on_terminalbased_dev/)
-- [[AskJS] any framework agnostic frontend router to recommend?](https://www.reddit.com/r/javascript/comments/1jdeb87/askjs_any_framework_agnostic_frontend_router_to/)
-- [[AskJS] How much Javascript?](https://www.reddit.com/r/javascript/comments/1jdb40a/askjs_how_much_javascript/)
-- [Your /r/javascript recap for the week of March 10 - March 16, 2025](https://www.reddit.com/r/javascript/comments/1jd8bot/your_rjavascript_recap_for_the_week_of_march_10/)
-- [[AskJS] Is using eval really bad?](https://www.reddit.com/r/javascript/comments/1jd6ai3/askjs_is_using_eval_really_bad/)
-- [Interstice is an interactive grid-based game where players manipulate a 10x10 board and compete on a global leaderboard](https://www.reddit.com/r/javascript/comments/1jcy24z/interstice_is_an_interactive_gridbased_game_where/)
-- [[AskJS] Bun / Deno / NodeJS - what do you use and why?](https://www.reddit.com/r/javascript/comments/1jcwygf/askjs_bun_deno_nodejs_what_do_you_use_and_why/)
-- [[AskJS] Has there been any announcement about how Void&lpar;0&rpar; will make money?](https://www.reddit.com/r/javascript/comments/1jcvifa/askjs_has_there_been_any_announcement_about_how/)
-- [Lisp in JavaScript - writing a simple Lisp interpreter in about 60 lines of JS](https://www.reddit.com/r/javascript/comments/1jcpk0m/lisp_in_javascript_writing_a_simple_lisp/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
