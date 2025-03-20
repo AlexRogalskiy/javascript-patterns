@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Lying about experience](https://www.reddit.com/r/javascript/comments/1jfaqrf/askjs_lying_about_experience/)
+- [[AskJS] Monorepo docker discussion](https://www.reddit.com/r/javascript/comments/1jex90v/askjs_monorepo_docker_discussion/)
+- [Have knowledge of Working with the DOM in JavaScript](https://www.reddit.com/r/javascript/comments/1jewib5/have_knowledge_of_working_with_the_dom_in/)
+- [Konva.js - Declarative 2D Canvas for React, Vue, and Svelte](https://www.reddit.com/r/javascript/comments/1jewbq8/konvajs_declarative_2d_canvas_for_react_vue_and/)
+- [[AskJS] Is anyone here using Ky?](https://www.reddit.com/r/javascript/comments/1jevyuq/askjs_is_anyone_here_using_ky/)
+- [Folder - open-source Google Drive alternative in nuxt](https://www.reddit.com/r/javascript/comments/1jetfmb/folder_opensource_google_drive_alternative_in_nuxt/)
+- [WTF Wednesday &lpar;March 19, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1jer5yo/wtf_wednesday_march_19_2025/)
 - [[AskJS] What&#39;s the best JS framework for a mainly API backend](https://www.reddit.com/r/javascript/comments/1jemeli/askjs_whats_the_best_js_framework_for_a_mainly/)
-- [Visual AI Simulations in the Browser: Cars, Predators &amp; Prey &lpar;NEAT Algorithm&rpar;](https://www.reddit.com/r/javascript/comments/1jeh3bk/visual_ai_simulations_in_the_browser_cars/)
 - [Just Released: semver-features - A Type-Safe SemVer-Based Feature Toggle Library](https://www.reddit.com/r/javascript/comments/1jeeqlt/just_released_semverfeatures_a_typesafe/)
 - [[AskJS] Checking file safty before uploading &lpar;CSP&rpar;](https://www.reddit.com/r/javascript/comments/1je9gkc/askjs_checking_file_safty_before_uploading_csp/)
-- [Good at React JS? Then join the DOJOCODE React Riddles contest!](https://www.reddit.com/r/javascript/comments/1je36op/good_at_react_js_then_join_the_dojocode_react/)
-- [[AskJS] Monorepo tools](https://www.reddit.com/r/javascript/comments/1je2nr9/askjs_monorepo_tools/)
-- [[AskJS] Hiring Javascript and Playwright Developer](https://www.reddit.com/r/javascript/comments/1je1pum/askjs_hiring_javascript_and_playwright_developer/)
-- [[AskJS] Why are lambda functions called lambda functions everywhere except in JS](https://www.reddit.com/r/javascript/comments/1je0nrd/askjs_why_are_lambda_functions_called_lambda/)
-- [Write your CI/CD in JS/TS, not YAML](https://www.reddit.com/r/javascript/comments/1jdguvb/write_your_cicd_in_jsts_not_yaml/)
-- [[AskJS] What are your thoughts on terminal-based dev tools for sharing profiles?](https://www.reddit.com/r/javascript/comments/1jdfoll/askjs_what_are_your_thoughts_on_terminalbased_dev/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
