@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Lying about experience](https://www.reddit.com/r/javascript/comments/1jfaqrf/askjs_lying_about_experience/)
+- [Debouncing Vs Throttling In JavaScript](https://www.reddit.com/r/javascript/comments/1jg5pu2/debouncing_vs_throttling_in_javascript/)
+- [3D Rotating Cube on Scroll with Trig.js](https://www.reddit.com/r/javascript/comments/1jg12n0/3d_rotating_cube_on_scroll_with_trigjs/)
+- [[AskJS] NEED COLLEGE STUDENTS FOR PROJECT DEVELOPMENT](https://www.reddit.com/r/javascript/comments/1jfyfol/askjs_need_college_students_for_project/)
+- [Launching the 911 Call Series: Architect, Design, Build, Test, and Deploy Scalable Web Applications](https://www.reddit.com/r/javascript/comments/1jfq48p/launching_the_911_call_series_architect_design/)
+- [A Perplexing Javascript Parsing Puzzle](https://www.reddit.com/r/javascript/comments/1jfndlz/a_perplexing_javascript_parsing_puzzle/)
 - [[AskJS] Monorepo docker discussion](https://www.reddit.com/r/javascript/comments/1jex90v/askjs_monorepo_docker_discussion/)
 - [Have knowledge of Working with the DOM in JavaScript](https://www.reddit.com/r/javascript/comments/1jewib5/have_knowledge_of_working_with_the_dom_in/)
 - [Konva.js - Declarative 2D Canvas for React, Vue, and Svelte](https://www.reddit.com/r/javascript/comments/1jewbq8/konvajs_declarative_2d_canvas_for_react_vue_and/)
 - [[AskJS] Is anyone here using Ky?](https://www.reddit.com/r/javascript/comments/1jevyuq/askjs_is_anyone_here_using_ky/)
 - [Folder - open-source Google Drive alternative in nuxt](https://www.reddit.com/r/javascript/comments/1jetfmb/folder_opensource_google_drive_alternative_in_nuxt/)
-- [WTF Wednesday &lpar;March 19, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1jer5yo/wtf_wednesday_march_19_2025/)
-- [[AskJS] What&#39;s the best JS framework for a mainly API backend](https://www.reddit.com/r/javascript/comments/1jemeli/askjs_whats_the_best_js_framework_for_a_mainly/)
-- [Just Released: semver-features - A Type-Safe SemVer-Based Feature Toggle Library](https://www.reddit.com/r/javascript/comments/1jeeqlt/just_released_semverfeatures_a_typesafe/)
-- [[AskJS] Checking file safty before uploading &lpar;CSP&rpar;](https://www.reddit.com/r/javascript/comments/1je9gkc/askjs_checking_file_safty_before_uploading_csp/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
