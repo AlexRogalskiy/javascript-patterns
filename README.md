@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Patterns for Memory Efficient DOM Manipulation with Modern Vanilla JavaScript](https://www.reddit.com/r/javascript/comments/1jhenyx/patterns_for_memory_efficient_dom_manipulation/)
+- [[AskJS] Where to [really] learn js](https://www.reddit.com/r/javascript/comments/1jhdrbi/askjs_where_to_really_learn_js/)
+- [Agentic TDD in Typescript with Minimal Dependencies](https://www.reddit.com/r/javascript/comments/1jhax2q/agentic_tdd_in_typescript_with_minimal/)
+- [F*ck u Next.js...](https://www.reddit.com/r/javascript/comments/1jhatmc/fck_u_nextjs/)
+- [We built a fun multiplayer Pictionary-style game—try it out!](https://www.reddit.com/r/javascript/comments/1jh8yct/we_built_a_fun_multiplayer_pictionarystyle/)
+- [Showoff Saturday &lpar;March 22, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1jh2q8x/showoff_saturday_march_22_2025/)
 - [Nerdy internals of debugging and fixing performance issues of a large JavaScript library](https://www.reddit.com/r/javascript/comments/1jgoa34/nerdy_internals_of_debugging_and_fixing/)
 - [[AskJS] Coding request.](https://www.reddit.com/r/javascript/comments/1jgmm1p/askjs_coding_request/)
 - [Semantic search for JavaScript - SYNG](https://www.reddit.com/r/javascript/comments/1jgm25d/semantic_search_for_javascript_syng/)
 - [Getting Started with Claude Desktop and custom MCP servers using the TypeScript SDK](https://www.reddit.com/r/javascript/comments/1jgilwl/getting_started_with_claude_desktop_and_custom/)
-- [[AskJS] Tutorials on Jest](https://www.reddit.com/r/javascript/comments/1jghp90/askjs_tutorials_on_jest/)
-- [The Frontend Treadmill](https://www.reddit.com/r/javascript/comments/1jghn9x/the_frontend_treadmill/)
-- [How to do Javascript started 1 week ago my teacher is on strings and arrays and I&#39;m not able to get even the basic logic and understanding of javascript](https://www.reddit.com/r/javascript/comments/1jgb8wl/how_to_do_javascript_started_1_week_ago_my/)
-- [Debouncing Vs Throttling In JavaScript](https://www.reddit.com/r/javascript/comments/1jg5pu2/debouncing_vs_throttling_in_javascript/)
-- [3D Rotating Cube on Scroll with Trig.js](https://www.reddit.com/r/javascript/comments/1jg12n0/3d_rotating_cube_on_scroll_with_trigjs/)
-- [Launching the 911 Call Series: Architect, Design, Build, Test, and Deploy Scalable Web Applications](https://www.reddit.com/r/javascript/comments/1jfq48p/launching_the_911_call_series_architect_design/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
