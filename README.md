@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] When do you reach for a background job service—and why?](https://www.reddit.com/r/javascript/comments/1jibsd4/askjs_when_do_you_reach_for_a_background_job/)
+- [[AskJS] How to bypass Object.freeze](https://www.reddit.com/r/javascript/comments/1jiaht6/askjs_how_to_bypass_objectfreeze/)
+- [Free &amp; local OCR API with Node on Windows/WSL](https://www.reddit.com/r/javascript/comments/1jiaeyw/free_local_ocr_api_with_node_on_windowswsl/)
+- [AI Agent needs CDD &lpar;Compiler Driven Development&rpar; and DDD &lpar;Document Driven Development&rpar;](https://www.reddit.com/r/javascript/comments/1jhzqs7/ai_agent_needs_cdd_compiler_driven_development/)
+- [Turn your database design into Express Js GraphQl Api , easily .](https://www.reddit.com/r/javascript/comments/1jhrcuv/turn_your_database_design_into_express_js_graphql/)
 - [Patterns for Memory Efficient DOM Manipulation with Modern Vanilla JavaScript](https://www.reddit.com/r/javascript/comments/1jhenyx/patterns_for_memory_efficient_dom_manipulation/)
 - [[AskJS] Where to [really] learn js](https://www.reddit.com/r/javascript/comments/1jhdrbi/askjs_where_to_really_learn_js/)
 - [Agentic TDD in Typescript with Minimal Dependencies](https://www.reddit.com/r/javascript/comments/1jhax2q/agentic_tdd_in_typescript_with_minimal/)
 - [F*ck u Next.js...](https://www.reddit.com/r/javascript/comments/1jhatmc/fck_u_nextjs/)
 - [We built a fun multiplayer Pictionary-style game—try it out!](https://www.reddit.com/r/javascript/comments/1jh8yct/we_built_a_fun_multiplayer_pictionarystyle/)
-- [Showoff Saturday &lpar;March 22, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1jh2q8x/showoff_saturday_march_22_2025/)
-- [Nerdy internals of debugging and fixing performance issues of a large JavaScript library](https://www.reddit.com/r/javascript/comments/1jgoa34/nerdy_internals_of_debugging_and_fixing/)
-- [[AskJS] Coding request.](https://www.reddit.com/r/javascript/comments/1jgmm1p/askjs_coding_request/)
-- [Semantic search for JavaScript - SYNG](https://www.reddit.com/r/javascript/comments/1jgm25d/semantic_search_for_javascript_syng/)
-- [Getting Started with Claude Desktop and custom MCP servers using the TypeScript SDK](https://www.reddit.com/r/javascript/comments/1jgilwl/getting_started_with_claude_desktop_and_custom/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
