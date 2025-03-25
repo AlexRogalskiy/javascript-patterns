@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Programming Interview Questions to Ask Candidates 2025](https://www.reddit.com/r/javascript/comments/1jj88dq/programming_interview_questions_to_ask_candidates/)
+- [We launched on DevHunt](https://www.reddit.com/r/javascript/comments/1jj4uvd/we_launched_on_devhunt/)
+- [Using JS alongside Trig.js for advanced scroll animation control](https://www.reddit.com/r/javascript/comments/1jipod2/using_js_alongside_trigjs_for_advanced_scroll/)
+- [GitHub - usertour/usertour: Usertour is an open-source user onboarding platform designed for developers. It allows you to create in-app product tours, checklists, and launchers in minutes—effortlessly and with full control.The open-source alternative to Userflow and Appcues](https://www.reddit.com/r/javascript/comments/1jipjqc/github_usertourusertour_usertour_is_an_opensource/)
+- [I made slack agent without langchain](https://www.reddit.com/r/javascript/comments/1jimeqg/i_made_slack_agent_without_langchain/)
+- [Your /r/javascript recap for the week of March 17 - March 23, 2025](https://www.reddit.com/r/javascript/comments/1jimd8v/your_rjavascript_recap_for_the_week_of_march_17/)
+- [I&#39;m planning to develop a simple yet powerful remote JS logs viewer. Is it worth the effort? The goal is to help to developers monitor client-side logs in real-time, making debugging and issue resolution more efficient—especially for mobile and distributed environments. Broader overview with some](https://www.reddit.com/r/javascript/comments/1jilj9f/im_planning_to_develop_a_simple_yet_powerful/)
+- [Portfolio Website Templates - JV Codes](https://www.reddit.com/r/javascript/comments/1jiksic/portfolio_website_templates_jv_codes/)
+- [JavaScript HTML Bootstrap 5](https://www.reddit.com/r/javascript/comments/1jik4fq/javascript_html_bootstrap_5/)
 - [[AskJS] When do you reach for a background job service—and why?](https://www.reddit.com/r/javascript/comments/1jibsd4/askjs_when_do_you_reach_for_a_background_job/)
-- [[AskJS] How to bypass Object.freeze](https://www.reddit.com/r/javascript/comments/1jiaht6/askjs_how_to_bypass_objectfreeze/)
-- [Free &amp; local OCR API with Node on Windows/WSL](https://www.reddit.com/r/javascript/comments/1jiaeyw/free_local_ocr_api_with_node_on_windowswsl/)
-- [AI Agent needs CDD &lpar;Compiler Driven Development&rpar; and DDD &lpar;Document Driven Development&rpar;](https://www.reddit.com/r/javascript/comments/1jhzqs7/ai_agent_needs_cdd_compiler_driven_development/)
-- [Turn your database design into Express Js GraphQl Api , easily .](https://www.reddit.com/r/javascript/comments/1jhrcuv/turn_your_database_design_into_express_js_graphql/)
-- [Patterns for Memory Efficient DOM Manipulation with Modern Vanilla JavaScript](https://www.reddit.com/r/javascript/comments/1jhenyx/patterns_for_memory_efficient_dom_manipulation/)
-- [[AskJS] Where to [really] learn js](https://www.reddit.com/r/javascript/comments/1jhdrbi/askjs_where_to_really_learn_js/)
-- [Agentic TDD in Typescript with Minimal Dependencies](https://www.reddit.com/r/javascript/comments/1jhax2q/agentic_tdd_in_typescript_with_minimal/)
-- [F*ck u Next.js...](https://www.reddit.com/r/javascript/comments/1jhatmc/fck_u_nextjs/)
-- [We built a fun multiplayer Pictionary-style game—try it out!](https://www.reddit.com/r/javascript/comments/1jh8yct/we_built_a_fun_multiplayer_pictionarystyle/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
