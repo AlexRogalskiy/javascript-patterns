@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Programming Interview Questions to Ask Candidates 2025](https://www.reddit.com/r/javascript/comments/1jj88dq/programming_interview_questions_to_ask_candidates/)
+- [[AskJS] Webworkers: passing blobs faster than passing ArrayBuffers as transferable in Chrome](https://www.reddit.com/r/javascript/comments/1jjz5x6/askjs_webworkers_passing_blobs_faster_than/)
+- [typia &lpar;20,000x faster validator&rpar; challenges to Agentic AI framework, with its compiler skill, easier than MCP](https://www.reddit.com/r/javascript/comments/1jjxl48/typia_20000x_faster_validator_challenges_to/)
+- [Improving Firefox Stability in the Enterprise by Reducing DLL Injection](https://www.reddit.com/r/javascript/comments/1jjqx69/improving_firefox_stability_in_the_enterprise_by/)
+- [Land ahoy: leaving the Sea of Nodes](https://www.reddit.com/r/javascript/comments/1jjl2zm/land_ahoy_leaving_the_sea_of_nodes/)
+- [[AskJS] Need help with sencha Studio](https://www.reddit.com/r/javascript/comments/1jji8de/askjs_need_help_with_sencha_studio/)
+- [Nicolas Mattia – SKÅPA, a parametric 3D printing app like an IKEA manual](https://www.reddit.com/r/javascript/comments/1jjdenf/nicolas_mattia_skåpa_a_parametric_3d_printing_app/)
 - [We launched on DevHunt](https://www.reddit.com/r/javascript/comments/1jj4uvd/we_launched_on_devhunt/)
 - [Using JS alongside Trig.js for advanced scroll animation control](https://www.reddit.com/r/javascript/comments/1jipod2/using_js_alongside_trigjs_for_advanced_scroll/)
 - [GitHub - usertour/usertour: Usertour is an open-source user onboarding platform designed for developers. It allows you to create in-app product tours, checklists, and launchers in minutes—effortlessly and with full control.The open-source alternative to Userflow and Appcues](https://www.reddit.com/r/javascript/comments/1jipjqc/github_usertourusertour_usertour_is_an_opensource/)
 - [I made slack agent without langchain](https://www.reddit.com/r/javascript/comments/1jimeqg/i_made_slack_agent_without_langchain/)
-- [Your /r/javascript recap for the week of March 17 - March 23, 2025](https://www.reddit.com/r/javascript/comments/1jimd8v/your_rjavascript_recap_for_the_week_of_march_17/)
-- [I&#39;m planning to develop a simple yet powerful remote JS logs viewer. Is it worth the effort? The goal is to help to developers monitor client-side logs in real-time, making debugging and issue resolution more efficient—especially for mobile and distributed environments. Broader overview with some](https://www.reddit.com/r/javascript/comments/1jilj9f/im_planning_to_develop_a_simple_yet_powerful/)
-- [Portfolio Website Templates - JV Codes](https://www.reddit.com/r/javascript/comments/1jiksic/portfolio_website_templates_jv_codes/)
-- [JavaScript HTML Bootstrap 5](https://www.reddit.com/r/javascript/comments/1jik4fq/javascript_html_bootstrap_5/)
-- [[AskJS] When do you reach for a background job service—and why?](https://www.reddit.com/r/javascript/comments/1jibsd4/askjs_when_do_you_reach_for_a_background_job/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
