@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Show HN: CH-ORM – A Laravel-Inspired ClickHouse ORM for Node.js &lpar;with a full-featured CLI&rpar;](https://www.reddit.com/r/javascript/comments/1jlf85k/show_hn_chorm_a_laravelinspired_clickhouse_orm/)
+- [[AskJS] How to disable Cross Origin Protection?](https://www.reddit.com/r/javascript/comments/1jl8pjm/askjs_how_to_disable_cross_origin_protection/)
+- [Got tired of try-catch everywhere in TS, so I implemented Rust&#39;s Result type](https://www.reddit.com/r/javascript/comments/1jl6yp7/got_tired_of_trycatch_everywhere_in_ts_so_i/)
+- [[AskJS] Is there &quot;automatic update of imports&quot; when moving files in the world of JS and VS Code?](https://www.reddit.com/r/javascript/comments/1jl66xa/askjs_is_there_automatic_update_of_imports_when/)
+- [[AskJS] Understanding JS tools ecosystem](https://www.reddit.com/r/javascript/comments/1jl46uk/askjs_understanding_js_tools_ecosystem/)
+- [MetroJS - Javascript HTTPS Client with Middleware](https://www.reddit.com/r/javascript/comments/1jl36aq/metrojs_javascript_https_client_with_middleware/)
+- [Neutralinojs v6 released](https://www.reddit.com/r/javascript/comments/1jl30q1/neutralinojs_v6_released/)
+- [[AskJS] Node-red - how do you feel about people introducing this into projects?](https://www.reddit.com/r/javascript/comments/1jl2u7l/askjs_nodered_how_do_you_feel_about_people/)
+- [Introducing ls-lint v2.3.0 after 5 years and 7 million downloads](https://www.reddit.com/r/javascript/comments/1jl20tj/introducing_lslint_v230_after_5_years_and_7/)
 - [Every TypeScript Developer is AI Developer](https://www.reddit.com/r/javascript/comments/1jkrtdl/every_typescript_developer_is_ai_developer/)
-- [Kaneo - An open source project management platform focused on simplicity](https://www.reddit.com/r/javascript/comments/1jkk72e/kaneo_an_open_source_project_management_platform/)
-- [Real-time finance buffered grid](https://www.reddit.com/r/javascript/comments/1jkfjfm/realtime_finance_buffered_grid/)
-- [Codepen.io is featuring my codepen example of Trig.js on their homepage!](https://www.reddit.com/r/javascript/comments/1jkdfpt/codepenio_is_featuring_my_codepen_example_of/)
-- [Zod for TypeScript: A must-know library for AI development](https://www.reddit.com/r/javascript/comments/1jkc2gz/zod_for_typescript_a_mustknow_library_for_ai/)
-- [I made Shelly-AI, an open sourced npm package that lets you use AI in the shell/bash. Works with ChatGPT, Claude, Deepseek, Gemini, basically any AI on the backend! :&rpar;](https://www.reddit.com/r/javascript/comments/1jkc1hh/i_made_shellyai_an_open_sourced_npm_package_that/)
-- [es-git: Install &amp; run Git 10x faster in Node.js](https://www.reddit.com/r/javascript/comments/1jkbcf2/esgit_install_run_git_10x_faster_in_nodejs/)
-- [[AskJS] In 2025, what&#39;s your preferred backend API architecture? REST vs GraphQL vs tRPC?](https://www.reddit.com/r/javascript/comments/1jk8kbg/askjs_in_2025_whats_your_preferred_backend_api/)
-- [EventLoop Visualized JavaScript](https://www.reddit.com/r/javascript/comments/1jk6zsi/eventloop_visualized_javascript/)
-- [WTF Wednesday &lpar;March 26, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1jk5vm9/wtf_wednesday_march_26_2025/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
