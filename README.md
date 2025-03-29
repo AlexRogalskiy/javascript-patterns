@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Could JavaScript have synchronous await?](https://www.reddit.com/r/javascript/comments/1jm6v55/could_javascript_have_synchronous_await/)
+- [[AskJS] Autoformatting issue with prettier and vscode](https://www.reddit.com/r/javascript/comments/1jm3302/askjs_autoformatting_issue_with_prettier_and/)
+- [Karui, an 84kb android todo list app with unix like aesthetics, made with AlpineJS. It&#39;s open source on github with reproducible builds and also available to download from fdroid](https://www.reddit.com/r/javascript/comments/1jlyqyn/karui_an_84kb_android_todo_list_app_with_unix/)
+- [#Project_ViewPoint: Expression Parser &amp; Evaluator written in native JS](https://www.reddit.com/r/javascript/comments/1jls3tv/project_viewpoint_expression_parser_evaluator/)
+- [Dear Old ESLint](https://www.reddit.com/r/javascript/comments/1jls3fb/dear_old_eslint/)
+- [inquirer-cli: Inquirer.js wrapper for `npx` usage.](https://www.reddit.com/r/javascript/comments/1jlq7iv/inquirercli_inquirerjs_wrapper_for_npx_usage/)
+- [[AskJS] Stuck on JavaScript Logic &amp; Problem Solving](https://www.reddit.com/r/javascript/comments/1jlplv2/askjs_stuck_on_javascript_logic_problem_solving/)
+- [10 Best Portfolio Website Projects Using JavaScript - JV Codes 2025](https://www.reddit.com/r/javascript/comments/1jlngux/10_best_portfolio_website_projects_using/)
 - [Show HN: CH-ORM – A Laravel-Inspired ClickHouse ORM for Node.js &lpar;with a full-featured CLI&rpar;](https://www.reddit.com/r/javascript/comments/1jlf85k/show_hn_chorm_a_laravelinspired_clickhouse_orm/)
 - [[AskJS] How to disable Cross Origin Protection?](https://www.reddit.com/r/javascript/comments/1jl8pjm/askjs_how_to_disable_cross_origin_protection/)
-- [Got tired of try-catch everywhere in TS, so I implemented Rust&#39;s Result type](https://www.reddit.com/r/javascript/comments/1jl6yp7/got_tired_of_trycatch_everywhere_in_ts_so_i/)
-- [[AskJS] Is there &quot;automatic update of imports&quot; when moving files in the world of JS and VS Code?](https://www.reddit.com/r/javascript/comments/1jl66xa/askjs_is_there_automatic_update_of_imports_when/)
-- [[AskJS] Understanding JS tools ecosystem](https://www.reddit.com/r/javascript/comments/1jl46uk/askjs_understanding_js_tools_ecosystem/)
-- [MetroJS - Javascript HTTPS Client with Middleware](https://www.reddit.com/r/javascript/comments/1jl36aq/metrojs_javascript_https_client_with_middleware/)
-- [Neutralinojs v6 released](https://www.reddit.com/r/javascript/comments/1jl30q1/neutralinojs_v6_released/)
-- [[AskJS] Node-red - how do you feel about people introducing this into projects?](https://www.reddit.com/r/javascript/comments/1jl2u7l/askjs_nodered_how_do_you_feel_about_people/)
-- [Introducing ls-lint v2.3.0 after 5 years and 7 million downloads](https://www.reddit.com/r/javascript/comments/1jl20tj/introducing_lslint_v230_after_5_years_and_7/)
-- [Every TypeScript Developer is AI Developer](https://www.reddit.com/r/javascript/comments/1jkrtdl/every_typescript_developer_is_ai_developer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
