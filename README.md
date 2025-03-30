@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Could JavaScript have synchronous await?](https://www.reddit.com/r/javascript/comments/1jm6v55/could_javascript_have_synchronous_await/)
-- [[AskJS] Autoformatting issue with prettier and vscode](https://www.reddit.com/r/javascript/comments/1jm3302/askjs_autoformatting_issue_with_prettier_and/)
-- [Karui, an 84kb android todo list app with unix like aesthetics, made with AlpineJS. It&#39;s open source on github with reproducible builds and also available to download from fdroid](https://www.reddit.com/r/javascript/comments/1jlyqyn/karui_an_84kb_android_todo_list_app_with_unix/)
-- [#Project_ViewPoint: Expression Parser &amp; Evaluator written in native JS](https://www.reddit.com/r/javascript/comments/1jls3tv/project_viewpoint_expression_parser_evaluator/)
-- [Dear Old ESLint](https://www.reddit.com/r/javascript/comments/1jls3fb/dear_old_eslint/)
-- [inquirer-cli: Inquirer.js wrapper for `npx` usage.](https://www.reddit.com/r/javascript/comments/1jlq7iv/inquirercli_inquirerjs_wrapper_for_npx_usage/)
-- [[AskJS] Stuck on JavaScript Logic &amp; Problem Solving](https://www.reddit.com/r/javascript/comments/1jlplv2/askjs_stuck_on_javascript_logic_problem_solving/)
-- [10 Best Portfolio Website Projects Using JavaScript - JV Codes 2025](https://www.reddit.com/r/javascript/comments/1jlngux/10_best_portfolio_website_projects_using/)
-- [Show HN: CH-ORM – A Laravel-Inspired ClickHouse ORM for Node.js &lpar;with a full-featured CLI&rpar;](https://www.reddit.com/r/javascript/comments/1jlf85k/show_hn_chorm_a_laravelinspired_clickhouse_orm/)
-- [[AskJS] How to disable Cross Origin Protection?](https://www.reddit.com/r/javascript/comments/1jl8pjm/askjs_how_to_disable_cross_origin_protection/)
+- [[AskJS] Implementing ReBAC, ABAC, and RBAC in web apps without overcomplicating it](https://www.reddit.com/r/javascript/comments/1jn17id/askjs_implementing_rebac_abac_and_rbac_in_web/)
+- [[AskJS] Login button change](https://www.reddit.com/r/javascript/comments/1jmy81w/askjs_login_button_change/)
+- [Trigger animations at different scroll positions with Trig.js v4.2](https://www.reddit.com/r/javascript/comments/1jmo0sm/trigger_animations_at_different_scroll_positions/)
+- [[AskJS] Could you recommend benchmark tools and methods?](https://www.reddit.com/r/javascript/comments/1jmmlwe/askjs_could_you_recommend_benchmark_tools_and/)
+- [Just Published My First NPM Package: purify-text-match](https://www.reddit.com/r/javascript/comments/1jml25v/just_published_my_first_npm_package/)
+- [Introducing upfetch - An advanced fetch client builder](https://www.reddit.com/r/javascript/comments/1jmiafp/introducing_upfetch_an_advanced_fetch_client/)
+- [AI Development Made Simple for Web Developers!](https://www.reddit.com/r/javascript/comments/1jmhnq3/ai_development_made_simple_for_web_developers/)
+- [LightQ - Lightweight and simple alternative to BullMq &lpar;queue + redis&rpar;](https://www.reddit.com/r/javascript/comments/1jmhav5/lightq_lightweight_and_simple_alternative_to/)
+- [Declarative Backtracking Search in JS](https://www.reddit.com/r/javascript/comments/1jmh80b/declarative_backtracking_search_in_js/)
+- [Showoff Saturday &lpar;March 29, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1jmgo6o/showoff_saturday_march_29_2025/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
