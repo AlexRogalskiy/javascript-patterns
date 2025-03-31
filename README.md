@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [My “Internet OS” Project Just Hit 200,000 Downloads!](https://www.reddit.com/r/javascript/comments/1jneq9z/my_internet_os_project_just_hit_200000_downloads/)
+- [Make yourself a latte and Latte will do the rest...](https://www.reddit.com/r/javascript/comments/1jnassq/make_yourself_a_latte_and_latte_will_do_the_rest/)
 - [[AskJS] Implementing ReBAC, ABAC, and RBAC in web apps without overcomplicating it](https://www.reddit.com/r/javascript/comments/1jn17id/askjs_implementing_rebac_abac_and_rbac_in_web/)
 - [[AskJS] Login button change](https://www.reddit.com/r/javascript/comments/1jmy81w/askjs_login_button_change/)
 - [Trigger animations at different scroll positions with Trig.js v4.2](https://www.reddit.com/r/javascript/comments/1jmo0sm/trigger_animations_at_different_scroll_positions/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Introducing upfetch - An advanced fetch client builder](https://www.reddit.com/r/javascript/comments/1jmiafp/introducing_upfetch_an_advanced_fetch_client/)
 - [AI Development Made Simple for Web Developers!](https://www.reddit.com/r/javascript/comments/1jmhnq3/ai_development_made_simple_for_web_developers/)
 - [LightQ - Lightweight and simple alternative to BullMq &lpar;queue + redis&rpar;](https://www.reddit.com/r/javascript/comments/1jmhav5/lightq_lightweight_and_simple_alternative_to/)
-- [Declarative Backtracking Search in JS](https://www.reddit.com/r/javascript/comments/1jmh80b/declarative_backtracking_search_in_js/)
-- [Showoff Saturday &lpar;March 29, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1jmgo6o/showoff_saturday_march_29_2025/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
