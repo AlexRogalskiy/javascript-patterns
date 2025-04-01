@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Jeasx 1.7.1 released - the server-side web framework on top of JSX now supports Bun.](https://www.reddit.com/r/javascript/comments/1jodnnh/jeasx_171_released_the_serverside_web_framework/)
+- [Use javascript/typescript to do the bridge between AI models and Whatsapp](https://www.reddit.com/r/javascript/comments/1jobxxw/use_javascripttypescript_to_do_the_bridge_between/)
+- [In Defence of TypeScript Enums: You&#39;re &lpar;Probably&rpar; Using it Wrong](https://www.reddit.com/r/javascript/comments/1jobh80/in_defence_of_typescript_enums_youre_probably/)
+- [I guess some request headers are more trustworthy than others.](https://www.reddit.com/r/javascript/comments/1jo7gce/i_guess_some_request_headers_are_more_trustworthy/)
+- [How to Easily Reproduce a Flaky Test in Playwright](https://www.reddit.com/r/javascript/comments/1jo3ojf/how_to_easily_reproduce_a_flaky_test_in_playwright/)
+- [Your /r/javascript recap for the week of March 24 - March 30, 2025](https://www.reddit.com/r/javascript/comments/1jnyw6i/your_rjavascript_recap_for_the_week_of_march_24/)
+- [[AskJS] Is there any way to track eye movement in JavaScript?](https://www.reddit.com/r/javascript/comments/1jnux6a/askjs_is_there_any_way_to_track_eye_movement_in/)
 - [My “Internet OS” Project Just Hit 200,000 Downloads!](https://www.reddit.com/r/javascript/comments/1jneq9z/my_internet_os_project_just_hit_200000_downloads/)
 - [Make yourself a latte and Latte will do the rest...](https://www.reddit.com/r/javascript/comments/1jnassq/make_yourself_a_latte_and_latte_will_do_the_rest/)
 - [[AskJS] Implementing ReBAC, ABAC, and RBAC in web apps without overcomplicating it](https://www.reddit.com/r/javascript/comments/1jn17id/askjs_implementing_rebac_abac_and_rbac_in_web/)
-- [[AskJS] Login button change](https://www.reddit.com/r/javascript/comments/1jmy81w/askjs_login_button_change/)
-- [Trigger animations at different scroll positions with Trig.js v4.2](https://www.reddit.com/r/javascript/comments/1jmo0sm/trigger_animations_at_different_scroll_positions/)
-- [[AskJS] Could you recommend benchmark tools and methods?](https://www.reddit.com/r/javascript/comments/1jmmlwe/askjs_could_you_recommend_benchmark_tools_and/)
-- [Just Published My First NPM Package: purify-text-match](https://www.reddit.com/r/javascript/comments/1jml25v/just_published_my_first_npm_package/)
-- [Introducing upfetch - An advanced fetch client builder](https://www.reddit.com/r/javascript/comments/1jmiafp/introducing_upfetch_an_advanced_fetch_client/)
-- [AI Development Made Simple for Web Developers!](https://www.reddit.com/r/javascript/comments/1jmhnq3/ai_development_made_simple_for_web_developers/)
-- [LightQ - Lightweight and simple alternative to BullMq &lpar;queue + redis&rpar;](https://www.reddit.com/r/javascript/comments/1jmhav5/lightq_lightweight_and_simple_alternative_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
