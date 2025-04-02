@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I made an vs code extension using javascript , please download it](https://www.reddit.com/r/javascript/comments/1jpbgzy/i_made_an_vs_code_extension_using_javascript/)
+- [I wrote an Astro integration to automatically index my site&#39;s content to Algolia](https://www.reddit.com/r/javascript/comments/1jp2rek/i_wrote_an_astro_integration_to_automatically/)
+- [[AskJS] Developer groups / Communities](https://www.reddit.com/r/javascript/comments/1jp1bfn/askjs_developer_groups_communities/)
+- [The smallest PubSub library possible. Zero Dependencies. 149 bytes.](https://www.reddit.com/r/javascript/comments/1jow0rk/the_smallest_pubsub_library_possible_zero/)
+- [Wasp: The first full-stack framework powered by an LLM. Running on vibes, not a compiler.](https://www.reddit.com/r/javascript/comments/1jovuo2/wasp_the_first_fullstack_framework_powered_by_an/)
 - [Jeasx 1.7.1 released - the server-side web framework on top of JSX now supports Bun.](https://www.reddit.com/r/javascript/comments/1jodnnh/jeasx_171_released_the_serverside_web_framework/)
 - [Use javascript/typescript to do the bridge between AI models and Whatsapp](https://www.reddit.com/r/javascript/comments/1jobxxw/use_javascripttypescript_to_do_the_bridge_between/)
 - [In Defence of TypeScript Enums: You&#39;re &lpar;Probably&rpar; Using it Wrong](https://www.reddit.com/r/javascript/comments/1jobh80/in_defence_of_typescript_enums_youre_probably/)
 - [I guess some request headers are more trustworthy than others.](https://www.reddit.com/r/javascript/comments/1jo7gce/i_guess_some_request_headers_are_more_trustworthy/)
 - [How to Easily Reproduce a Flaky Test in Playwright](https://www.reddit.com/r/javascript/comments/1jo3ojf/how_to_easily_reproduce_a_flaky_test_in_playwright/)
-- [Your /r/javascript recap for the week of March 24 - March 30, 2025](https://www.reddit.com/r/javascript/comments/1jnyw6i/your_rjavascript_recap_for_the_week_of_march_24/)
-- [[AskJS] Is there any way to track eye movement in JavaScript?](https://www.reddit.com/r/javascript/comments/1jnux6a/askjs_is_there_any_way_to_track_eye_movement_in/)
-- [My “Internet OS” Project Just Hit 200,000 Downloads!](https://www.reddit.com/r/javascript/comments/1jneq9z/my_internet_os_project_just_hit_200000_downloads/)
-- [Make yourself a latte and Latte will do the rest...](https://www.reddit.com/r/javascript/comments/1jnassq/make_yourself_a_latte_and_latte_will_do_the_rest/)
-- [[AskJS] Implementing ReBAC, ABAC, and RBAC in web apps without overcomplicating it](https://www.reddit.com/r/javascript/comments/1jn17id/askjs_implementing_rebac_abac_and_rbac_in_web/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
