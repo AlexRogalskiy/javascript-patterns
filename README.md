@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I made an vs code extension using javascript , please download it](https://www.reddit.com/r/javascript/comments/1jpbgzy/i_made_an_vs_code_extension_using_javascript/)
+- [Rust&#39;s `dbg!` for JavaScript, logging values with context effortlessly.](https://www.reddit.com/r/javascript/comments/1jpymim/rusts_dbg_for_javascript_logging_values_with/)
+- [A new component distribution with Shadcn components animated with Motion and more!](https://www.reddit.com/r/javascript/comments/1jpxgjj/a_new_component_distribution_with_shadcn/)
+- [Understanding the Value of TypeScript Enums](https://www.reddit.com/r/javascript/comments/1jpiy2c/understanding_the_value_of_typescript_enums/)
+- [WTF Wednesday &lpar;April 02, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1jpijfd/wtf_wednesday_april_02_2025/)
+- [Transputer emulator in Javascript running my 1995 operating system](https://www.reddit.com/r/javascript/comments/1jphshd/transputer_emulator_in_javascript_running_my_1995/)
 - [I wrote an Astro integration to automatically index my site&#39;s content to Algolia](https://www.reddit.com/r/javascript/comments/1jp2rek/i_wrote_an_astro_integration_to_automatically/)
 - [[AskJS] Developer groups / Communities](https://www.reddit.com/r/javascript/comments/1jp1bfn/askjs_developer_groups_communities/)
 - [The smallest PubSub library possible. Zero Dependencies. 149 bytes.](https://www.reddit.com/r/javascript/comments/1jow0rk/the_smallest_pubsub_library_possible_zero/)
 - [Wasp: The first full-stack framework powered by an LLM. Running on vibes, not a compiler.](https://www.reddit.com/r/javascript/comments/1jovuo2/wasp_the_first_fullstack_framework_powered_by_an/)
 - [Jeasx 1.7.1 released - the server-side web framework on top of JSX now supports Bun.](https://www.reddit.com/r/javascript/comments/1jodnnh/jeasx_171_released_the_serverside_web_framework/)
-- [Use javascript/typescript to do the bridge between AI models and Whatsapp](https://www.reddit.com/r/javascript/comments/1jobxxw/use_javascripttypescript_to_do_the_bridge_between/)
-- [In Defence of TypeScript Enums: You&#39;re &lpar;Probably&rpar; Using it Wrong](https://www.reddit.com/r/javascript/comments/1jobh80/in_defence_of_typescript_enums_youre_probably/)
-- [I guess some request headers are more trustworthy than others.](https://www.reddit.com/r/javascript/comments/1jo7gce/i_guess_some_request_headers_are_more_trustworthy/)
-- [How to Easily Reproduce a Flaky Test in Playwright](https://www.reddit.com/r/javascript/comments/1jo3ojf/how_to_easily_reproduce_a_flaky_test_in_playwright/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
