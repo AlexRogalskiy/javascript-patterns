@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [uWrap.js: A 10x faster and more accurate text wrapping util in &lt; 2KB &lpar;min&rpar;](https://www.reddit.com/r/javascript/comments/1jqy0g6/uwrapjs_a_10x_faster_and_more_accurate_text/)
+- [AutoView - turning your blueprint into UI components &lpar;AI Code Generator&rpar;](https://www.reddit.com/r/javascript/comments/1jqw9wq/autoview_turning_your_blueprint_into_ui/)
+- [GitHub - TargetJS: Rethinking UI with Declarative, Synchronous Pipelines](https://www.reddit.com/r/javascript/comments/1jqszg1/github_targetjs_rethinking_ui_with_declarative/)
+- [Journey to Optimize Cloudflare D1 Database Queries](https://www.reddit.com/r/javascript/comments/1jqnu0p/journey_to_optimize_cloudflare_d1_database_queries/)
+- [Overengineered anchor links](https://www.reddit.com/r/javascript/comments/1jqlrgt/overengineered_anchor_links/)
+- [Tiny Node logger with auto dev/prod modes, rotation, and zero config](https://www.reddit.com/r/javascript/comments/1jqfhu2/tiny_node_logger_with_auto_devprod_modes_rotation/)
+- [Building APIs with Next.js](https://www.reddit.com/r/javascript/comments/1jqd39o/building_apis_with_nextjs/)
+- [Anthony Fu will work with VoidZero on Vite DevTools benefiting all Vite projects](https://www.reddit.com/r/javascript/comments/1jqbe0w/anthony_fu_will_work_with_voidzero_on_vite/)
 - [Rust&#39;s `dbg!` for JavaScript, logging values with context effortlessly.](https://www.reddit.com/r/javascript/comments/1jpymim/rusts_dbg_for_javascript_logging_values_with/)
 - [A new component distribution with Shadcn components animated with Motion and more!](https://www.reddit.com/r/javascript/comments/1jpxgjj/a_new_component_distribution_with_shadcn/)
-- [Understanding the Value of TypeScript Enums](https://www.reddit.com/r/javascript/comments/1jpiy2c/understanding_the_value_of_typescript_enums/)
-- [WTF Wednesday &lpar;April 02, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1jpijfd/wtf_wednesday_april_02_2025/)
-- [Transputer emulator in Javascript running my 1995 operating system](https://www.reddit.com/r/javascript/comments/1jphshd/transputer_emulator_in_javascript_running_my_1995/)
-- [I wrote an Astro integration to automatically index my site&#39;s content to Algolia](https://www.reddit.com/r/javascript/comments/1jp2rek/i_wrote_an_astro_integration_to_automatically/)
-- [[AskJS] Developer groups / Communities](https://www.reddit.com/r/javascript/comments/1jp1bfn/askjs_developer_groups_communities/)
-- [The smallest PubSub library possible. Zero Dependencies. 149 bytes.](https://www.reddit.com/r/javascript/comments/1jow0rk/the_smallest_pubsub_library_possible_zero/)
-- [Wasp: The first full-stack framework powered by an LLM. Running on vibes, not a compiler.](https://www.reddit.com/r/javascript/comments/1jovuo2/wasp_the_first_fullstack_framework_powered_by_an/)
-- [Jeasx 1.7.1 released - the server-side web framework on top of JSX now supports Bun.](https://www.reddit.com/r/javascript/comments/1jodnnh/jeasx_171_released_the_serverside_web_framework/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
