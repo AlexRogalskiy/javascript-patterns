@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Frameworks like Next.js, Remix, Qwik etc and their rendering options with SSG in front](https://www.reddit.com/r/javascript/comments/1jrcl48/frameworks_like_nextjs_remix_qwik_etc_and_their/)
+- [Use the Gemini API with OpenAI fallback in Typescript](https://www.reddit.com/r/javascript/comments/1jr7zdw/use_the_gemini_api_with_openai_fallback_in/)
+- [[AskJS] Confused with the NPM versioning](https://www.reddit.com/r/javascript/comments/1jr6ig3/askjs_confused_with_the_npm_versioning/)
 - [uWrap.js: A 10x faster and more accurate text wrapping util in &lt; 2KB &lpar;min&rpar;](https://www.reddit.com/r/javascript/comments/1jqy0g6/uwrapjs_a_10x_faster_and_more_accurate_text/)
-- [AutoView - turning your blueprint into UI components &lpar;AI Code Generator&rpar;](https://www.reddit.com/r/javascript/comments/1jqw9wq/autoview_turning_your_blueprint_into_ui/)
-- [GitHub - TargetJS: Rethinking UI with Declarative, Synchronous Pipelines](https://www.reddit.com/r/javascript/comments/1jqszg1/github_targetjs_rethinking_ui_with_declarative/)
 - [Journey to Optimize Cloudflare D1 Database Queries](https://www.reddit.com/r/javascript/comments/1jqnu0p/journey_to_optimize_cloudflare_d1_database_queries/)
 - [Overengineered anchor links](https://www.reddit.com/r/javascript/comments/1jqlrgt/overengineered_anchor_links/)
 - [Tiny Node logger with auto dev/prod modes, rotation, and zero config](https://www.reddit.com/r/javascript/comments/1jqfhu2/tiny_node_logger_with_auto_devprod_modes_rotation/)
 - [Building APIs with Next.js](https://www.reddit.com/r/javascript/comments/1jqd39o/building_apis_with_nextjs/)
 - [Anthony Fu will work with VoidZero on Vite DevTools benefiting all Vite projects](https://www.reddit.com/r/javascript/comments/1jqbe0w/anthony_fu_will_work_with_voidzero_on_vite/)
 - [Rust&#39;s `dbg!` for JavaScript, logging values with context effortlessly.](https://www.reddit.com/r/javascript/comments/1jpymim/rusts_dbg_for_javascript_logging_values_with/)
-- [A new component distribution with Shadcn components animated with Motion and more!](https://www.reddit.com/r/javascript/comments/1jpxgjj/a_new_component_distribution_with_shadcn/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
