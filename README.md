@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Building a Subscribe Feature just like Substack](https://www.reddit.com/r/javascript/comments/1jsa44p/building_a_subscribe_feature_just_like_substack/)
+- [[AskJS] New to JavaScript](https://www.reddit.com/r/javascript/comments/1js8arv/askjs_new_to_javascript/)
+- [Open Source Typescript/Javascript Playground](https://www.reddit.com/r/javascript/comments/1js5sro/open_source_typescriptjavascript_playground/)
+- [I am building an open-source platform to simplify api integrations using Next.js and Koa](https://www.reddit.com/r/javascript/comments/1js39hs/i_am_building_an_opensource_platform_to_simplify/)
+- [Showoff Saturday &lpar;April 05, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1jrxnfa/showoff_saturday_april_05_2025/)
 - [Frameworks like Next.js, Remix, Qwik etc and their rendering options with SSG in front](https://www.reddit.com/r/javascript/comments/1jrcl48/frameworks_like_nextjs_remix_qwik_etc_and_their/)
 - [Use the Gemini API with OpenAI fallback in Typescript](https://www.reddit.com/r/javascript/comments/1jr7zdw/use_the_gemini_api_with_openai_fallback_in/)
 - [[AskJS] Confused with the NPM versioning](https://www.reddit.com/r/javascript/comments/1jr6ig3/askjs_confused_with_the_npm_versioning/)
 - [uWrap.js: A 10x faster and more accurate text wrapping util in &lt; 2KB &lpar;min&rpar;](https://www.reddit.com/r/javascript/comments/1jqy0g6/uwrapjs_a_10x_faster_and_more_accurate_text/)
 - [Journey to Optimize Cloudflare D1 Database Queries](https://www.reddit.com/r/javascript/comments/1jqnu0p/journey_to_optimize_cloudflare_d1_database_queries/)
-- [Overengineered anchor links](https://www.reddit.com/r/javascript/comments/1jqlrgt/overengineered_anchor_links/)
-- [Tiny Node logger with auto dev/prod modes, rotation, and zero config](https://www.reddit.com/r/javascript/comments/1jqfhu2/tiny_node_logger_with_auto_devprod_modes_rotation/)
-- [Building APIs with Next.js](https://www.reddit.com/r/javascript/comments/1jqd39o/building_apis_with_nextjs/)
-- [Anthony Fu will work with VoidZero on Vite DevTools benefiting all Vite projects](https://www.reddit.com/r/javascript/comments/1jqbe0w/anthony_fu_will_work_with_voidzero_on_vite/)
-- [Rust&#39;s `dbg!` for JavaScript, logging values with context effortlessly.](https://www.reddit.com/r/javascript/comments/1jpymim/rusts_dbg_for_javascript_logging_values_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
