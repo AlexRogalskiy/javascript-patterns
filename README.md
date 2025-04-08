@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[FOSS]: useTailwind for Vue - perfect for powering your WYSIWYG and CMS projects in Shadow DOM](https://www.reddit.com/r/javascript/comments/1jtzgpl/foss_usetailwind_for_vue_perfect_for_powering/)
+- [Generative AI at the edge with Cloudflare Workers](https://www.reddit.com/r/javascript/comments/1jtzafv/generative_ai_at_the_edge_with_cloudflare_workers/)
+- [Leveraging “unknown” instead of “any” in TypeScript](https://www.reddit.com/r/javascript/comments/1jtqkqj/leveraging_unknown_instead_of_any_in_typescript/)
+- [Don&#39;t Mock Your Framework: Writing Tests You Won&#39;t Regret](https://www.reddit.com/r/javascript/comments/1jtk00i/dont_mock_your_framework_writing_tests_you_wont/)
+- [Your /r/javascript recap for the week of March 31 - April 06, 2025](https://www.reddit.com/r/javascript/comments/1jtgvq0/your_rjavascript_recap_for_the_week_of_march_31/)
 - [[AskJS] how to contribute to large js projects](https://www.reddit.com/r/javascript/comments/1jsyn83/askjs_how_to_contribute_to_large_js_projects/)
 - [Some features that every JavaScript developer should know in 2025](https://www.reddit.com/r/javascript/comments/1jsqyxc/some_features_that_every_javascript_developer/)
 - [I&#39;ve created an open source F1 Discord bot that can provide detailed information about drivers, teams and results!](https://www.reddit.com/r/javascript/comments/1jspgkp/ive_created_an_open_source_f1_discord_bot_that/)
 - [Building a Subscribe Feature just like Substack](https://www.reddit.com/r/javascript/comments/1jsa44p/building_a_subscribe_feature_just_like_substack/)
 - [[AskJS] New to JavaScript](https://www.reddit.com/r/javascript/comments/1js8arv/askjs_new_to_javascript/)
-- [Open Source Typescript/Javascript Playground](https://www.reddit.com/r/javascript/comments/1js5sro/open_source_typescriptjavascript_playground/)
-- [I am building an open-source platform to simplify api integrations using Next.js and Koa](https://www.reddit.com/r/javascript/comments/1js39hs/i_am_building_an_opensource_platform_to_simplify/)
-- [Showoff Saturday &lpar;April 05, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1jrxnfa/showoff_saturday_april_05_2025/)
-- [Frameworks like Next.js, Remix, Qwik etc and their rendering options with SSG in front](https://www.reddit.com/r/javascript/comments/1jrcl48/frameworks_like_nextjs_remix_qwik_etc_and_their/)
-- [Use the Gemini API with OpenAI fallback in Typescript](https://www.reddit.com/r/javascript/comments/1jr7zdw/use_the_gemini_api_with_openai_fallback_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
