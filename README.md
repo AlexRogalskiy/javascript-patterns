@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How I fixed a bug using Prettier](https://www.reddit.com/r/javascript/comments/1judof9/how_i_fixed_a_bug_using_prettier/)
+- [React Server Confusion](https://www.reddit.com/r/javascript/comments/1ju5pjj/react_server_confusion/)
 - [[FOSS]: useTailwind for Vue - perfect for powering your WYSIWYG and CMS projects in Shadow DOM](https://www.reddit.com/r/javascript/comments/1jtzgpl/foss_usetailwind_for_vue_perfect_for_powering/)
 - [Generative AI at the edge with Cloudflare Workers](https://www.reddit.com/r/javascript/comments/1jtzafv/generative_ai_at_the_edge_with_cloudflare_workers/)
 - [Leveraging “unknown” instead of “any” in TypeScript](https://www.reddit.com/r/javascript/comments/1jtqkqj/leveraging_unknown_instead_of_any_in_typescript/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [[AskJS] how to contribute to large js projects](https://www.reddit.com/r/javascript/comments/1jsyn83/askjs_how_to_contribute_to_large_js_projects/)
 - [Some features that every JavaScript developer should know in 2025](https://www.reddit.com/r/javascript/comments/1jsqyxc/some_features_that_every_javascript_developer/)
 - [I&#39;ve created an open source F1 Discord bot that can provide detailed information about drivers, teams and results!](https://www.reddit.com/r/javascript/comments/1jspgkp/ive_created_an_open_source_f1_discord_bot_that/)
-- [Building a Subscribe Feature just like Substack](https://www.reddit.com/r/javascript/comments/1jsa44p/building_a_subscribe_feature_just_like_substack/)
-- [[AskJS] New to JavaScript](https://www.reddit.com/r/javascript/comments/1js8arv/askjs_new_to_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
