@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I made a lib for creating an effect of Flying Thru-Space at LIGHTSPEED!](https://www.reddit.com/r/javascript/comments/1jvgmi9/i_made_a_lib_for_creating_an_effect_of_flying/)
+- [Minimal Curry and Pipe](https://www.reddit.com/r/javascript/comments/1jvexht/minimal_curry_and_pipe/)
+- [Comprehensive Guide to JavaScript Iterables](https://www.reddit.com/r/javascript/comments/1jvc1xf/comprehensive_guide_to_javascript_iterables/)
+- [Wasp Launch Week #9 - The road to 1.0](https://www.reddit.com/r/javascript/comments/1jv7fxb/wasp_launch_week_9_the_road_to_10/)
+- [Guantr - A Type-Safe JS/TS Authorization Library I Built From Production Needs](https://www.reddit.com/r/javascript/comments/1jv72j2/guantr_a_typesafe_jsts_authorization_library_i/)
+- [[AskJS] 2.3 + .4 = 2.6999999999999997?](https://www.reddit.com/r/javascript/comments/1jv5jet/askjs_23_4_26999999999999997/)
+- [React for Two Computers](https://www.reddit.com/r/javascript/comments/1jv12v1/react_for_two_computers/)
+- [WTF Wednesday &lpar;April 09, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1juzoi4/wtf_wednesday_april_09_2025/)
 - [How I fixed a bug using Prettier](https://www.reddit.com/r/javascript/comments/1judof9/how_i_fixed_a_bug_using_prettier/)
 - [React Server Confusion](https://www.reddit.com/r/javascript/comments/1ju5pjj/react_server_confusion/)
-- [[FOSS]: useTailwind for Vue - perfect for powering your WYSIWYG and CMS projects in Shadow DOM](https://www.reddit.com/r/javascript/comments/1jtzgpl/foss_usetailwind_for_vue_perfect_for_powering/)
-- [Generative AI at the edge with Cloudflare Workers](https://www.reddit.com/r/javascript/comments/1jtzafv/generative_ai_at_the_edge_with_cloudflare_workers/)
-- [Leveraging “unknown” instead of “any” in TypeScript](https://www.reddit.com/r/javascript/comments/1jtqkqj/leveraging_unknown_instead_of_any_in_typescript/)
-- [Don&#39;t Mock Your Framework: Writing Tests You Won&#39;t Regret](https://www.reddit.com/r/javascript/comments/1jtk00i/dont_mock_your_framework_writing_tests_you_wont/)
-- [Your /r/javascript recap for the week of March 31 - April 06, 2025](https://www.reddit.com/r/javascript/comments/1jtgvq0/your_rjavascript_recap_for_the_week_of_march_31/)
-- [[AskJS] how to contribute to large js projects](https://www.reddit.com/r/javascript/comments/1jsyn83/askjs_how_to_contribute_to_large_js_projects/)
-- [Some features that every JavaScript developer should know in 2025](https://www.reddit.com/r/javascript/comments/1jsqyxc/some_features_that_every_javascript_developer/)
-- [I&#39;ve created an open source F1 Discord bot that can provide detailed information about drivers, teams and results!](https://www.reddit.com/r/javascript/comments/1jspgkp/ive_created_an_open_source_f1_discord_bot_that/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
