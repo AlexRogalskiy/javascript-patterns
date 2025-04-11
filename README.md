@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [pw-punch – 1.4KB WebCrypto-only JWT/password crypto lib &lpar;no Node.js&rpar;](https://www.reddit.com/r/javascript/comments/1jw25u1/pwpunch_14kb_webcryptoonly_jwtpassword_crypto_lib/)
+- [My first JS project: Wordle like game built using JS and Django!](https://www.reddit.com/r/javascript/comments/1jw1sbq/my_first_js_project_wordle_like_game_built_using/)
+- [[AskJS] javaScript codes for metadata in adobe pdf](https://www.reddit.com/r/javascript/comments/1jvzyf6/askjs_javascript_codes_for_metadata_in_adobe_pdf/)
+- [cursor-rules, a CLI for bootstrapping AI rules in your project](https://www.reddit.com/r/javascript/comments/1jvye4d/cursorrules_a_cli_for_bootstrapping_ai_rules_in/)
+- [Oxlint: Your input on JavaScript lint plugins](https://www.reddit.com/r/javascript/comments/1jvqfr1/oxlint_your_input_on_javascript_lint_plugins/)
 - [I made a lib for creating an effect of Flying Thru-Space at LIGHTSPEED!](https://www.reddit.com/r/javascript/comments/1jvgmi9/i_made_a_lib_for_creating_an_effect_of_flying/)
 - [Minimal Curry and Pipe](https://www.reddit.com/r/javascript/comments/1jvexht/minimal_curry_and_pipe/)
 - [Comprehensive Guide to JavaScript Iterables](https://www.reddit.com/r/javascript/comments/1jvc1xf/comprehensive_guide_to_javascript_iterables/)
 - [Wasp Launch Week #9 - The road to 1.0](https://www.reddit.com/r/javascript/comments/1jv7fxb/wasp_launch_week_9_the_road_to_10/)
 - [Guantr - A Type-Safe JS/TS Authorization Library I Built From Production Needs](https://www.reddit.com/r/javascript/comments/1jv72j2/guantr_a_typesafe_jsts_authorization_library_i/)
-- [[AskJS] 2.3 + .4 = 2.6999999999999997?](https://www.reddit.com/r/javascript/comments/1jv5jet/askjs_23_4_26999999999999997/)
-- [React for Two Computers](https://www.reddit.com/r/javascript/comments/1jv12v1/react_for_two_computers/)
-- [WTF Wednesday &lpar;April 09, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1juzoi4/wtf_wednesday_april_09_2025/)
-- [How I fixed a bug using Prettier](https://www.reddit.com/r/javascript/comments/1judof9/how_i_fixed_a_bug_using_prettier/)
-- [React Server Confusion](https://www.reddit.com/r/javascript/comments/1ju5pjj/react_server_confusion/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
