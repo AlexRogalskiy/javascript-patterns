@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Devs, would you use this? I&#39;m building an AI Code Reviewer that actually understands your codebase.](https://www.reddit.com/r/javascript/comments/1jwxc0y/askjs_devs_would_you_use_this_im_building_an_ai/)
+- [[AskJS] Express JS + Pug JS](https://www.reddit.com/r/javascript/comments/1jwmrgt/askjs_express_js_pug_js/)
+- [Beyond &quot;Lighter Electron&quot;: The Real Architectural Differences Between Tauri and ElectronJS](https://www.reddit.com/r/javascript/comments/1jwk5dr/beyond_lighter_electron_the_real_architectural/)
 - [pw-punch – 1.4KB WebCrypto-only JWT/password crypto lib &lpar;no Node.js&rpar;](https://www.reddit.com/r/javascript/comments/1jw25u1/pwpunch_14kb_webcryptoonly_jwtpassword_crypto_lib/)
 - [My first JS project: Wordle like game built using JS and Django!](https://www.reddit.com/r/javascript/comments/1jw1sbq/my_first_js_project_wordle_like_game_built_using/)
 - [[AskJS] javaScript codes for metadata in adobe pdf](https://www.reddit.com/r/javascript/comments/1jvzyf6/askjs_javascript_codes_for_metadata_in_adobe_pdf/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Oxlint: Your input on JavaScript lint plugins](https://www.reddit.com/r/javascript/comments/1jvqfr1/oxlint_your_input_on_javascript_lint_plugins/)
 - [I made a lib for creating an effect of Flying Thru-Space at LIGHTSPEED!](https://www.reddit.com/r/javascript/comments/1jvgmi9/i_made_a_lib_for_creating_an_effect_of_flying/)
 - [Minimal Curry and Pipe](https://www.reddit.com/r/javascript/comments/1jvexht/minimal_curry_and_pipe/)
-- [Comprehensive Guide to JavaScript Iterables](https://www.reddit.com/r/javascript/comments/1jvc1xf/comprehensive_guide_to_javascript_iterables/)
-- [Wasp Launch Week #9 - The road to 1.0](https://www.reddit.com/r/javascript/comments/1jv7fxb/wasp_launch_week_9_the_road_to_10/)
-- [Guantr - A Type-Safe JS/TS Authorization Library I Built From Production Needs](https://www.reddit.com/r/javascript/comments/1jv72j2/guantr_a_typesafe_jsts_authorization_library_i/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
