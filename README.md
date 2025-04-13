@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Just released: Zero-dependency Web Component for swipeable card decks &lpar;Tinder-style&rpar;](https://www.reddit.com/r/javascript/comments/1jxv978/just_released_zerodependency_web_component_for/)
+- [Fair Weather Society - A weather app inspired by the art of Gustave Caillebotte](https://www.reddit.com/r/javascript/comments/1jxuisz/fair_weather_society_a_weather_app_inspired_by/)
+- [[AskJS] Would you actually use this? I&#39;m building a code review assistant that understands your app like this.](https://www.reddit.com/r/javascript/comments/1jxples/askjs_would_you_actually_use_this_im_building_a/)
+- [[AskJS] How validation is distributed across the different modules in JS ?](https://www.reddit.com/r/javascript/comments/1jxeqni/askjs_how_validation_is_distributed_across_the/)
+- [AI Writes Better Code When It Knows Your Data](https://www.reddit.com/r/javascript/comments/1jxek1l/ai_writes_better_code_when_it_knows_your_data/)
+- [cap — A modern, lightning-quick PoW captcha](https://www.reddit.com/r/javascript/comments/1jxccea/cap_a_modern_lightningquick_pow_captcha/)
+- [Security vulnerability found &lpar;and fixed&rpar; in React Router and Remix](https://www.reddit.com/r/javascript/comments/1jxbrzc/security_vulnerability_found_and_fixed_in_react/)
+- [Showoff Saturday &lpar;April 12, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1jxbfyw/showoff_saturday_april_12_2025/)
+- [[AskJS] ¿Qué me recomiendan para este desarrollo?](https://www.reddit.com/r/javascript/comments/1jx74gt/askjs_qué_me_recomiendan_para_este_desarrollo/)
 - [[AskJS] Devs, would you use this? I&#39;m building an AI Code Reviewer that actually understands your codebase.](https://www.reddit.com/r/javascript/comments/1jwxc0y/askjs_devs_would_you_use_this_im_building_an_ai/)
-- [[AskJS] Express JS + Pug JS](https://www.reddit.com/r/javascript/comments/1jwmrgt/askjs_express_js_pug_js/)
-- [Beyond &quot;Lighter Electron&quot;: The Real Architectural Differences Between Tauri and ElectronJS](https://www.reddit.com/r/javascript/comments/1jwk5dr/beyond_lighter_electron_the_real_architectural/)
-- [pw-punch – 1.4KB WebCrypto-only JWT/password crypto lib &lpar;no Node.js&rpar;](https://www.reddit.com/r/javascript/comments/1jw25u1/pwpunch_14kb_webcryptoonly_jwtpassword_crypto_lib/)
-- [My first JS project: Wordle like game built using JS and Django!](https://www.reddit.com/r/javascript/comments/1jw1sbq/my_first_js_project_wordle_like_game_built_using/)
-- [[AskJS] javaScript codes for metadata in adobe pdf](https://www.reddit.com/r/javascript/comments/1jvzyf6/askjs_javascript_codes_for_metadata_in_adobe_pdf/)
-- [cursor-rules, a CLI for bootstrapping AI rules in your project](https://www.reddit.com/r/javascript/comments/1jvye4d/cursorrules_a_cli_for_bootstrapping_ai_rules_in/)
-- [Oxlint: Your input on JavaScript lint plugins](https://www.reddit.com/r/javascript/comments/1jvqfr1/oxlint_your_input_on_javascript_lint_plugins/)
-- [I made a lib for creating an effect of Flying Thru-Space at LIGHTSPEED!](https://www.reddit.com/r/javascript/comments/1jvgmi9/i_made_a_lib_for_creating_an_effect_of_flying/)
-- [Minimal Curry and Pipe](https://www.reddit.com/r/javascript/comments/1jvexht/minimal_curry_and_pipe/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
