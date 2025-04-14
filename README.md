@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [how actually JavaScript works behind the scenes](https://www.reddit.com/r/javascript/comments/1jyojpj/how_actually_javascript_works_behind_the_scenes/)
+- [Live ImagePuzzle – Rearrange Puzzle Pieces to Complete the Image](https://www.reddit.com/r/javascript/comments/1jyels3/live_imagepuzzle_rearrange_puzzle_pieces_to/)
+- [Tinytime fork rewritten in Typescript: a straightforward date and time formatter in 770 bytes](https://www.reddit.com/r/javascript/comments/1jy6r50/tinytime_fork_rewritten_in_typescript_a/)
+- [Rhythm.js: A New Declarative Framework For The Web Audio API!](https://www.reddit.com/r/javascript/comments/1jy3glg/rhythmjs_a_new_declarative_framework_for_the_web/)
+- [Quasar Login/Signup Form](https://www.reddit.com/r/javascript/comments/1jy0nhf/quasar_loginsignup_form/)
 - [Just released: Zero-dependency Web Component for swipeable card decks &lpar;Tinder-style&rpar;](https://www.reddit.com/r/javascript/comments/1jxv978/just_released_zerodependency_web_component_for/)
 - [Fair Weather Society - A weather app inspired by the art of Gustave Caillebotte](https://www.reddit.com/r/javascript/comments/1jxuisz/fair_weather_society_a_weather_app_inspired_by/)
 - [[AskJS] Would you actually use this? I&#39;m building a code review assistant that understands your app like this.](https://www.reddit.com/r/javascript/comments/1jxples/askjs_would_you_actually_use_this_im_building_a/)
 - [[AskJS] How validation is distributed across the different modules in JS ?](https://www.reddit.com/r/javascript/comments/1jxeqni/askjs_how_validation_is_distributed_across_the/)
 - [AI Writes Better Code When It Knows Your Data](https://www.reddit.com/r/javascript/comments/1jxek1l/ai_writes_better_code_when_it_knows_your_data/)
-- [cap — A modern, lightning-quick PoW captcha](https://www.reddit.com/r/javascript/comments/1jxccea/cap_a_modern_lightningquick_pow_captcha/)
-- [Security vulnerability found &lpar;and fixed&rpar; in React Router and Remix](https://www.reddit.com/r/javascript/comments/1jxbrzc/security_vulnerability_found_and_fixed_in_react/)
-- [Showoff Saturday &lpar;April 12, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1jxbfyw/showoff_saturday_april_12_2025/)
-- [[AskJS] ¿Qué me recomiendan para este desarrollo?](https://www.reddit.com/r/javascript/comments/1jx74gt/askjs_qué_me_recomiendan_para_este_desarrollo/)
-- [[AskJS] Devs, would you use this? I&#39;m building an AI Code Reviewer that actually understands your codebase.](https://www.reddit.com/r/javascript/comments/1jwxc0y/askjs_devs_would_you_use_this_im_building_an_ai/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
