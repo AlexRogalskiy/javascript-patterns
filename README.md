@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [JSX Over The Wire](https://www.reddit.com/r/javascript/comments/1jzvlv4/jsx_over_the_wire/)
-- [Headless Tree is available as Beta!](https://www.reddit.com/r/javascript/comments/1jzuzyh/headless_tree_is_available_as_beta/)
-- [I created the most pretentious way to check if a number is odd. Featuring recursion, philosophy, and a truth table.](https://www.reddit.com/r/javascript/comments/1jzu0e7/i_created_the_most_pretentious_way_to_check_if_a/)
-- [The ECMAScript Records &amp; Tuples proposal has been withdrawn](https://www.reddit.com/r/javascript/comments/1jzrgsx/the_ecmascript_records_tuples_proposal_has_been/)
-- [A single Class to handle all sorts of API requests, with rate limits and other features](https://www.reddit.com/r/javascript/comments/1jzec2e/a_single_class_to_handle_all_sorts_of_api/)
-- [Built a 2D Collision Simulator](https://www.reddit.com/r/javascript/comments/1jzbq7i/built_a_2d_collision_simulator/)
-- [The Vercel AI SDK: A worthwhile investment in bleeding edge GenAI](https://www.reddit.com/r/javascript/comments/1jz0o6j/the_vercel_ai_sdk_a_worthwhile_investment_in/)
-- [Oniguruma to ES: Much more feature-rich regexes in JS &lpar;with native perf!&rpar;](https://www.reddit.com/r/javascript/comments/1jyz3pj/oniguruma_to_es_much_more_featurerich_regexes_in/)
-- [Your /r/javascript recap for the week of April 07 - April 13, 2025](https://www.reddit.com/r/javascript/comments/1jyue4u/your_rjavascript_recap_for_the_week_of_april_07/)
-- [how actually JavaScript works behind the scenes](https://www.reddit.com/r/javascript/comments/1jyojpj/how_actually_javascript_works_behind_the_scenes/)
+- [[AskJS] Tools for security code](https://www.reddit.com/r/javascript/comments/1k0xjg3/askjs_tools_for_security_code/)
+- [WebStorm 2025.1 is available with free AI tier and code agent](https://www.reddit.com/r/javascript/comments/1k0v2kq/webstorm_20251_is_available_with_free_ai_tier_and/)
+- [Built a caffeine cutoff calculator in vanilla JS with a half-life decay model and Chart.js — now part of my daily sleep routine](https://www.reddit.com/r/javascript/comments/1k0uxvb/built_a_caffeine_cutoff_calculator_in_vanilla_js/)
+- [[AskJS] Starting with JEST](https://www.reddit.com/r/javascript/comments/1k0njog/askjs_starting_with_jest/)
+- [Tilted – lightweight zero-dependency TS library for displaying maps and other content in a modern 2.5D way. Smooth scaling w/ gliding towards cursor, easy multi-dimensional visuals, dragging, and more!](https://www.reddit.com/r/javascript/comments/1k0lrmw/tilted_lightweight_zerodependency_ts_library_for/)
+- [[AskJS] I am need of &quot;Forensic&quot; help.](https://www.reddit.com/r/javascript/comments/1k0jyhr/askjs_i_am_need_of_forensic_help/)
+- [Feedsmith — A modern parser for RSS, Atom, JSON Feed, and RDF, supporting popular feed namespaces.](https://www.reddit.com/r/javascript/comments/1k0gj2c/feedsmith_a_modern_parser_for_rss_atom_json_feed/)
+- [[AskJS] Why does typeof undefined return &quot;undefined&quot; — and is there any actual use case where this is helpful?](https://www.reddit.com/r/javascript/comments/1k0g1qa/askjs_why_does_typeof_undefined_return_undefined/)
+- [WTF Wednesday &lpar;April 16, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1k0e8di/wtf_wednesday_april_16_2025/)
+- [GitHub - web-atoms/scroll-timeline: ViewTimeline and ScrollTimeline Polyfill without CSS Parser](https://www.reddit.com/r/javascript/comments/1k0c0dn/github_webatomsscrolltimeline_viewtimeline_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
