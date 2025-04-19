@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Add PIXI.JS filter to Visual Novel Maker](https://www.reddit.com/r/javascript/comments/1k2lojd/askjs_add_pixijs_filter_to_visual_novel_maker/)
+- [a simple zero dependencies webgl image editor](https://www.reddit.com/r/javascript/comments/1k2geuw/a_simple_zero_dependencies_webgl_image_editor/)
+- [[AskJS] What is the most convienient way to integrate code generation?](https://www.reddit.com/r/javascript/comments/1k2902b/askjs_what_is_the_most_convienient_way_to/)
+- [[AskJS] What if the united states go kaput and npm along with it and much more?](https://www.reddit.com/r/javascript/comments/1k26ngm/askjs_what_if_the_united_states_go_kaput_and_npm/)
+- [[AskJS] How do you handle real-time collaboration in editable data grids?](https://www.reddit.com/r/javascript/comments/1k25xlu/askjs_how_do_you_handle_realtime_collaboration_in/)
+- [Wrapper around localStorage/sessionStorage](https://www.reddit.com/r/javascript/comments/1k21hug/wrapper_around_localstoragesessionstorage/)
 - [[AskJS] Graph library similar to Obsidian](https://www.reddit.com/r/javascript/comments/1k18g08/askjs_graph_library_similar_to_obsidian/)
 - [Jest: How do you change the Snapshot Folder?](https://www.reddit.com/r/javascript/comments/1k13oe2/jest_how_do_you_change_the_snapshot_folder/)
 - [[AskJS] Tools for security code](https://www.reddit.com/r/javascript/comments/1k0xjg3/askjs_tools_for_security_code/)
 - [WebStorm 2025.1 is available with free AI tier and code agent](https://www.reddit.com/r/javascript/comments/1k0v2kq/webstorm_20251_is_available_with_free_ai_tier_and/)
-- [Built a caffeine cutoff calculator in vanilla JS with a half-life decay model and Chart.js — now part of my daily sleep routine](https://www.reddit.com/r/javascript/comments/1k0uxvb/built_a_caffeine_cutoff_calculator_in_vanilla_js/)
-- [[AskJS] Starting with JEST](https://www.reddit.com/r/javascript/comments/1k0njog/askjs_starting_with_jest/)
-- [Feedsmith — A modern parser for RSS, Atom, JSON Feed, and RDF, supporting popular feed namespaces.](https://www.reddit.com/r/javascript/comments/1k0gj2c/feedsmith_a_modern_parser_for_rss_atom_json_feed/)
-- [[AskJS] Why does typeof undefined return &quot;undefined&quot; — and is there any actual use case where this is helpful?](https://www.reddit.com/r/javascript/comments/1k0g1qa/askjs_why_does_typeof_undefined_return_undefined/)
-- [WTF Wednesday &lpar;April 16, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1k0e8di/wtf_wednesday_april_16_2025/)
-- [GitHub - web-atoms/scroll-timeline: ViewTimeline and ScrollTimeline Polyfill without CSS Parser](https://www.reddit.com/r/javascript/comments/1k0c0dn/github_webatomsscrolltimeline_viewtimeline_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
