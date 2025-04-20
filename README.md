@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I wrote a book on using Fastify and Vite to build full stack applications, no meta-frameworks involved — it covers all building blocks for SPAs and SSR](https://www.reddit.com/r/javascript/comments/1k3afxw/i_wrote_a_book_on_using_fastify_and_vite_to_build/)
+- [Easy &amp; Fast Library Bundling with tsdown](https://www.reddit.com/r/javascript/comments/1k33o7i/easy_fast_library_bundling_with_tsdown/)
+- [[AskJS] How much are you using AI to write your code on a scale of zero to total vibe coding?](https://www.reddit.com/r/javascript/comments/1k2w8py/askjs_how_much_are_you_using_ai_to_write_your/)
+- [PostCSS plugin to import `styled.css` JS Files](https://www.reddit.com/r/javascript/comments/1k2t1ma/postcss_plugin_to_import_styledcss_js_files/)
+- [Showoff Saturday &lpar;April 19, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1k2qew4/showoff_saturday_april_19_2025/)
+- [I wrote a roadmap for testing and would like feedback.](https://www.reddit.com/r/javascript/comments/1k2pnzq/i_wrote_a_roadmap_for_testing_and_would_like/)
 - [[AskJS] Add PIXI.JS filter to Visual Novel Maker](https://www.reddit.com/r/javascript/comments/1k2lojd/askjs_add_pixijs_filter_to_visual_novel_maker/)
 - [a simple zero dependencies webgl image editor](https://www.reddit.com/r/javascript/comments/1k2geuw/a_simple_zero_dependencies_webgl_image_editor/)
 - [[AskJS] What is the most convienient way to integrate code generation?](https://www.reddit.com/r/javascript/comments/1k2902b/askjs_what_is_the_most_convienient_way_to/)
 - [[AskJS] What if the united states go kaput and npm along with it and much more?](https://www.reddit.com/r/javascript/comments/1k26ngm/askjs_what_if_the_united_states_go_kaput_and_npm/)
-- [[AskJS] How do you handle real-time collaboration in editable data grids?](https://www.reddit.com/r/javascript/comments/1k25xlu/askjs_how_do_you_handle_realtime_collaboration_in/)
-- [Wrapper around localStorage/sessionStorage](https://www.reddit.com/r/javascript/comments/1k21hug/wrapper_around_localstoragesessionstorage/)
-- [[AskJS] Graph library similar to Obsidian](https://www.reddit.com/r/javascript/comments/1k18g08/askjs_graph_library_similar_to_obsidian/)
-- [Jest: How do you change the Snapshot Folder?](https://www.reddit.com/r/javascript/comments/1k13oe2/jest_how_do_you_change_the_snapshot_folder/)
-- [[AskJS] Tools for security code](https://www.reddit.com/r/javascript/comments/1k0xjg3/askjs_tools_for_security_code/)
-- [WebStorm 2025.1 is available with free AI tier and code agent](https://www.reddit.com/r/javascript/comments/1k0v2kq/webstorm_20251_is_available_with_free_ai_tier_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
