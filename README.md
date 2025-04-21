@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I wrote a book on using Fastify and Vite to build full stack applications, no meta-frameworks involved — it covers all building blocks for SPAs and SSR](https://www.reddit.com/r/javascript/comments/1k3afxw/i_wrote_a_book_on_using_fastify_and_vite_to_build/)
-- [Easy &amp; Fast Library Bundling with tsdown](https://www.reddit.com/r/javascript/comments/1k33o7i/easy_fast_library_bundling_with_tsdown/)
-- [[AskJS] How much are you using AI to write your code on a scale of zero to total vibe coding?](https://www.reddit.com/r/javascript/comments/1k2w8py/askjs_how_much_are_you_using_ai_to_write_your/)
-- [PostCSS plugin to import `styled.css` JS Files](https://www.reddit.com/r/javascript/comments/1k2t1ma/postcss_plugin_to_import_styledcss_js_files/)
-- [Showoff Saturday &lpar;April 19, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1k2qew4/showoff_saturday_april_19_2025/)
-- [I wrote a roadmap for testing and would like feedback.](https://www.reddit.com/r/javascript/comments/1k2pnzq/i_wrote_a_roadmap_for_testing_and_would_like/)
-- [[AskJS] Add PIXI.JS filter to Visual Novel Maker](https://www.reddit.com/r/javascript/comments/1k2lojd/askjs_add_pixijs_filter_to_visual_novel_maker/)
-- [a simple zero dependencies webgl image editor](https://www.reddit.com/r/javascript/comments/1k2geuw/a_simple_zero_dependencies_webgl_image_editor/)
-- [[AskJS] What is the most convienient way to integrate code generation?](https://www.reddit.com/r/javascript/comments/1k2902b/askjs_what_is_the_most_convienient_way_to/)
-- [[AskJS] What if the united states go kaput and npm along with it and much more?](https://www.reddit.com/r/javascript/comments/1k26ngm/askjs_what_if_the_united_states_go_kaput_and_npm/)
+- [My working code for Windows Defender Bypass | Cyber Security Research | Education purposes](https://www.reddit.com/r/javascript/comments/1k427mt/my_working_code_for_windows_defender_bypass_cyber/)
+- [[AskJS] Beyond Framework Abstractions: Seeking Real-World, Daily Uses for Closures, Prototypes, &amp; Iterators/Generators](https://www.reddit.com/r/javascript/comments/1k3vfdv/askjs_beyond_framework_abstractions_seeking/)
+- [A virtual routing table in &lpar;almost&rpar; vanilla javacsript with two level of routing in 70 lines](https://www.reddit.com/r/javascript/comments/1k3un54/a_virtual_routing_table_in_almost_vanilla/)
+- [Simple Tool for Git Commit Summaries](https://www.reddit.com/r/javascript/comments/1k3udfm/simple_tool_for_git_commit_summaries/)
+- [Me cansé de las herramientas de analytics, así que desarrollé la que yo mismo necesitaba](https://www.reddit.com/r/javascript/comments/1k3s2lv/me_cansé_de_las_herramientas_de_analytics_así_que/)
+- [[AskJS] What’s the one JavaScript thing that still trips you up, no matter how long you’ve been coding?](https://www.reddit.com/r/javascript/comments/1k3pwe1/askjs_whats_the_one_javascript_thing_that_still/)
+- [QuickMerge PDF - Merge PDFs | Encrypt PDFs | OCR Images | Images to PDF | Convert Image Types](https://www.reddit.com/r/javascript/comments/1k3opcw/quickmerge_pdf_merge_pdfs_encrypt_pdfs_ocr_images/)
+- [I created a cheat sheet for JavaScript – and a few others](https://www.reddit.com/r/javascript/comments/1k3o0j3/i_created_a_cheat_sheet_for_javascript_and_a_few/)
+- [Built a website using vanilla JS that makes your text look cool anywhere](https://www.reddit.com/r/javascript/comments/1k3mkzw/built_a_website_using_vanilla_js_that_makes_your/)
+- [Build your first API for a MERN Stack App](https://www.reddit.com/r/javascript/comments/1k3m6gg/build_your_first_api_for_a_mern_stack_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
