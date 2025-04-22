@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [My working code for Windows Defender Bypass | Cyber Security Research | Education purposes](https://www.reddit.com/r/javascript/comments/1k427mt/my_working_code_for_windows_defender_bypass_cyber/)
-- [[AskJS] Beyond Framework Abstractions: Seeking Real-World, Daily Uses for Closures, Prototypes, &amp; Iterators/Generators](https://www.reddit.com/r/javascript/comments/1k3vfdv/askjs_beyond_framework_abstractions_seeking/)
-- [A virtual routing table in &lpar;almost&rpar; vanilla javacsript with two level of routing in 70 lines](https://www.reddit.com/r/javascript/comments/1k3un54/a_virtual_routing_table_in_almost_vanilla/)
-- [Simple Tool for Git Commit Summaries](https://www.reddit.com/r/javascript/comments/1k3udfm/simple_tool_for_git_commit_summaries/)
-- [Me cansé de las herramientas de analytics, así que desarrollé la que yo mismo necesitaba](https://www.reddit.com/r/javascript/comments/1k3s2lv/me_cansé_de_las_herramientas_de_analytics_así_que/)
-- [[AskJS] What’s the one JavaScript thing that still trips you up, no matter how long you’ve been coding?](https://www.reddit.com/r/javascript/comments/1k3pwe1/askjs_whats_the_one_javascript_thing_that_still/)
-- [QuickMerge PDF - Merge PDFs | Encrypt PDFs | OCR Images | Images to PDF | Convert Image Types](https://www.reddit.com/r/javascript/comments/1k3opcw/quickmerge_pdf_merge_pdfs_encrypt_pdfs_ocr_images/)
-- [I created a cheat sheet for JavaScript – and a few others](https://www.reddit.com/r/javascript/comments/1k3o0j3/i_created_a_cheat_sheet_for_javascript_and_a_few/)
-- [Built a website using vanilla JS that makes your text look cool anywhere](https://www.reddit.com/r/javascript/comments/1k3mkzw/built_a_website_using_vanilla_js_that_makes_your/)
-- [Build your first API for a MERN Stack App](https://www.reddit.com/r/javascript/comments/1k3m6gg/build_your_first_api_for_a_mern_stack_app/)
+- [[AskJS] Unsure of the issue](https://www.reddit.com/r/javascript/comments/1k4vfh1/askjs_unsure_of_the_issue/)
+- [I built an open source test runner 100% compatible with all JavaScript runtimes that challenges 11 years of the language&#39;s history](https://www.reddit.com/r/javascript/comments/1k4t3p8/i_built_an_open_source_test_runner_100_compatible/)
+- [[AskJS] &quot;namespace&quot; and function with same name?](https://www.reddit.com/r/javascript/comments/1k4jftb/askjs_namespace_and_function_with_same_name/)
+- [[Micro Frontends] I rewrote &#39;native-federation-runtime&#39; to support non-javascript host/shell applications](https://www.reddit.com/r/javascript/comments/1k4byhw/micro_frontends_i_rewrote_nativefederationruntime/)
+- [Sleek Portfolio](https://www.reddit.com/r/javascript/comments/1k4acsj/sleek_portfolio/)
+- [this is really cool stuff , I am adding it to my bookmarks bar](https://www.reddit.com/r/javascript/comments/1k49w6p/this_is_really_cool_stuff_i_am_adding_it_to_my/)
+- [[AskJS] Is It Worth Investing Time in Practicing JavaScript &lpar;projects&rpar;, or Should I Jump Straight Into Frameworks Like Angular, React, etc.?](https://www.reddit.com/r/javascript/comments/1k4905s/askjs_is_it_worth_investing_time_in_practicing/)
+- [GitHub - kakasoo/DeepStrictTypes: Utility Types to quickly query and Omit, Pick keys inside nested arrays and objects](https://www.reddit.com/r/javascript/comments/1k46ggq/github_kakasoodeepstricttypes_utility_types_to/)
+- [[AskJS] Why is this language so satisfying to use?](https://www.reddit.com/r/javascript/comments/1k4581x/askjs_why_is_this_language_so_satisfying_to_use/)
+- [[AskJS] how to learn js](https://www.reddit.com/r/javascript/comments/1k43r32/askjs_how_to_learn_js/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
