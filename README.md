@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Monoquash: A 2D, minimalist-style twin-stick shooter game using vanilla CSS, HTML and JavaScript without WebGL.](https://www.reddit.com/r/javascript/comments/1k5cqnv/monoquash_a_2d_minimaliststyle_twinstick_shooter/)
+- [[AskJS] What keeps you coming back to Javascript?](https://www.reddit.com/r/javascript/comments/1k5c5my/askjs_what_keeps_you_coming_back_to_javascript/)
+- [[AskJS] what should I do?](https://www.reddit.com/r/javascript/comments/1k5bvxu/askjs_what_should_i_do/)
+- [Impossible Components](https://www.reddit.com/r/javascript/comments/1k57eb9/impossible_components/)
+- [[AskJS] How to cancel a ReadableStream ?](https://www.reddit.com/r/javascript/comments/1k552si/askjs_how_to_cancel_a_readablestream/)
 - [[AskJS] Unsure of the issue](https://www.reddit.com/r/javascript/comments/1k4vfh1/askjs_unsure_of_the_issue/)
 - [I built an open source test runner 100% compatible with all JavaScript runtimes that challenges 11 years of the language&#39;s history](https://www.reddit.com/r/javascript/comments/1k4t3p8/i_built_an_open_source_test_runner_100_compatible/)
 - [[AskJS] &quot;namespace&quot; and function with same name?](https://www.reddit.com/r/javascript/comments/1k4jftb/askjs_namespace_and_function_with_same_name/)
 - [[Micro Frontends] I rewrote &#39;native-federation-runtime&#39; to support non-javascript host/shell applications](https://www.reddit.com/r/javascript/comments/1k4byhw/micro_frontends_i_rewrote_nativefederationruntime/)
 - [Sleek Portfolio](https://www.reddit.com/r/javascript/comments/1k4acsj/sleek_portfolio/)
-- [this is really cool stuff , I am adding it to my bookmarks bar](https://www.reddit.com/r/javascript/comments/1k49w6p/this_is_really_cool_stuff_i_am_adding_it_to_my/)
-- [[AskJS] Is It Worth Investing Time in Practicing JavaScript &lpar;projects&rpar;, or Should I Jump Straight Into Frameworks Like Angular, React, etc.?](https://www.reddit.com/r/javascript/comments/1k4905s/askjs_is_it_worth_investing_time_in_practicing/)
-- [GitHub - kakasoo/DeepStrictTypes: Utility Types to quickly query and Omit, Pick keys inside nested arrays and objects](https://www.reddit.com/r/javascript/comments/1k46ggq/github_kakasoodeepstricttypes_utility_types_to/)
-- [[AskJS] Why is this language so satisfying to use?](https://www.reddit.com/r/javascript/comments/1k4581x/askjs_why_is_this_language_so_satisfying_to_use/)
-- [[AskJS] how to learn js](https://www.reddit.com/r/javascript/comments/1k43r32/askjs_how_to_learn_js/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
