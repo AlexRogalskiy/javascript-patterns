@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [how actually NodeJS works behind the scenes](https://www.reddit.com/r/javascript/comments/1k7a3d8/how_actually_nodejs_works_behind_the_scenes/)
+- [Built a live execution visualiser into my JS framework &lpar;TargetJS&rpar; - Cool or Overkill?](https://www.reddit.com/r/javascript/comments/1k76qlb/built_a_live_execution_visualiser_into_my_js/)
+- [[AskJS] What is the best resource or website for React/JavaScript interview preparation?](https://www.reddit.com/r/javascript/comments/1k6y554/askjs_what_is_the_best_resource_or_website_for/)
+- [Building a composite Web Component library with Vite, Tailwind CSS and daisyUI](https://www.reddit.com/r/javascript/comments/1k6o9bi/building_a_composite_web_component_library_with/)
+- [[AskJS] MD5 decryption](https://www.reddit.com/r/javascript/comments/1k6m0ae/askjs_md5_decryption/)
+- [[AskJS] Response and Connection timeouts in Fetch compared to axios?](https://www.reddit.com/r/javascript/comments/1k6jeyv/askjs_response_and_connection_timeouts_in_fetch/)
 - [Voltagent.js - We built an open source AI Agent framework with observability first.](https://www.reddit.com/r/javascript/comments/1k67d22/voltagentjs_we_built_an_open_source_ai_agent/)
 - [[AskJS] I&#39;m overwhelmed trying to find a clear path to learn JS](https://www.reddit.com/r/javascript/comments/1k62v2l/askjs_im_overwhelmed_trying_to_find_a_clear_path/)
 - [I built WeaveMap.io — a Vanilla JS + SVG radar chart engine for visualizing cognitive profiles](https://www.reddit.com/r/javascript/comments/1k62utn/i_built_weavemapio_a_vanilla_js_svg_radar_chart/)
 - [[PlayTS] An Open Source TypeScript/JavaScript Playground.](https://www.reddit.com/r/javascript/comments/1k6289r/playts_an_open_source_typescriptjavascript/)
-- [Redacted: A wrapper for sensitive/secret data, limiting exposure with explicit functions. Works With Zod](https://www.reddit.com/r/javascript/comments/1k623qd/redacted_a_wrapper_for_sensitivesecret_data/)
-- [MazeRace – Race Your Friends Through a Maze!](https://www.reddit.com/r/javascript/comments/1k5ziv7/mazerace_race_your_friends_through_a_maze/)
-- [5 Myths About Rendering Videos in Browser &lpar;Debunked&rpar;](https://www.reddit.com/r/javascript/comments/1k5yzio/5_myths_about_rendering_videos_in_browser_debunked/)
-- [Package that bumps package.json semver notation to real installed version](https://www.reddit.com/r/javascript/comments/1k5wzat/package_that_bumps_packagejson_semver_notation_to/)
-- [CheerpJ 4.0: WebAssembly JVM for the browser, now with Java 11 and JNI support](https://www.reddit.com/r/javascript/comments/1k5vqar/cheerpj_40_webassembly_jvm_for_the_browser_now/)
-- [WTF Wednesday &lpar;April 23, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1k5sw7n/wtf_wednesday_april_23_2025/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
