@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [how actually NodeJS works behind the scenes](https://www.reddit.com/r/javascript/comments/1k7a3d8/how_actually_nodejs_works_behind_the_scenes/)
-- [Built a live execution visualiser into my JS framework &lpar;TargetJS&rpar; - Cool or Overkill?](https://www.reddit.com/r/javascript/comments/1k76qlb/built_a_live_execution_visualiser_into_my_js/)
+- [[AskJS] A good pdf tool](https://www.reddit.com/r/javascript/comments/1k7ufjb/askjs_a_good_pdf_tool/)
+- [[AskJS] Zod Field using Autoform](https://www.reddit.com/r/javascript/comments/1k7uegg/askjs_zod_field_using_autoform/)
+- [[AskJS] What&#39;s the simplest way to read an Excel file using JavaScript?](https://www.reddit.com/r/javascript/comments/1k7phyr/askjs_whats_the_simplest_way_to_read_an_excel/)
+- [What Does &quot;use client&quot; Do? — overreacted](https://www.reddit.com/r/javascript/comments/1k7p51v/what_does_use_client_do_overreacted/)
+- [how nodejs works behind the scenes](https://www.reddit.com/r/javascript/comments/1k7lfxf/how_nodejs_works_behind_the_scenes/)
+- [Testing how much data Chrome can prefetch with SXG before offline mode feels broken](https://www.reddit.com/r/javascript/comments/1k7ji6m/testing_how_much_data_chrome_can_prefetch_with/)
+- [Why was Records &amp; Tuples proposal withdrawn in JavaScript?](https://www.reddit.com/r/javascript/comments/1k7hosj/why_was_records_tuples_proposal_withdrawn_in/)
 - [[AskJS] What is the best resource or website for React/JavaScript interview preparation?](https://www.reddit.com/r/javascript/comments/1k6y554/askjs_what_is_the_best_resource_or_website_for/)
 - [Building a composite Web Component library with Vite, Tailwind CSS and daisyUI](https://www.reddit.com/r/javascript/comments/1k6o9bi/building_a_composite_web_component_library_with/)
 - [[AskJS] MD5 decryption](https://www.reddit.com/r/javascript/comments/1k6m0ae/askjs_md5_decryption/)
-- [[AskJS] Response and Connection timeouts in Fetch compared to axios?](https://www.reddit.com/r/javascript/comments/1k6jeyv/askjs_response_and_connection_timeouts_in_fetch/)
-- [Voltagent.js - We built an open source AI Agent framework with observability first.](https://www.reddit.com/r/javascript/comments/1k67d22/voltagentjs_we_built_an_open_source_ai_agent/)
-- [[AskJS] I&#39;m overwhelmed trying to find a clear path to learn JS](https://www.reddit.com/r/javascript/comments/1k62v2l/askjs_im_overwhelmed_trying_to_find_a_clear_path/)
-- [I built WeaveMap.io — a Vanilla JS + SVG radar chart engine for visualizing cognitive profiles](https://www.reddit.com/r/javascript/comments/1k62utn/i_built_weavemapio_a_vanilla_js_svg_radar_chart/)
-- [[PlayTS] An Open Source TypeScript/JavaScript Playground.](https://www.reddit.com/r/javascript/comments/1k6289r/playts_an_open_source_typescriptjavascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
