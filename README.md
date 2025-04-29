@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] JavaScript Learning Roadmap: From Beginner to Pro](https://www.reddit.com/r/javascript/comments/1kad85s/askjs_javascript_learning_roadmap_from_beginner/)
+- [[AskJS] How can I track dynamic event listeners added to a webpage with a Chrome extension?](https://www.reddit.com/r/javascript/comments/1k9seff/askjs_how_can_i_track_dynamic_event_listeners/)
+- [Your /r/javascript recap for the week of April 21 - April 27, 2025](https://www.reddit.com/r/javascript/comments/1k9r1tu/your_rjavascript_recap_for_the_week_of_april_21/)
+- [[AskJS] Which One is Better: React or Vue?](https://www.reddit.com/r/javascript/comments/1k9q1rv/askjs_which_one_is_better_react_or_vue/)
+- [Which one should I learn?](https://www.reddit.com/r/javascript/comments/1k9msj2/which_one_should_i_learn/)
 - [State of Devs: a developer survey about everything that&#39;s *not* code: career, workplace, health, hobbies, and more](https://www.reddit.com/r/javascript/comments/1k9iuom/state_of_devs_a_developer_survey_about_everything/)
 - [Reactylon: A new way to build cross-platform WebXR apps with React + Babylon.js](https://www.reddit.com/r/javascript/comments/1k8ag5g/reactylon_a_new_way_to_build_crossplatform_webxr/)
 - [Showoff Saturday &lpar;April 26, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1k86ytl/showoff_saturday_april_26_2025/)
 - [[AskJS] Offer Casual Code Help for / Debugging Assist for Projects](https://www.reddit.com/r/javascript/comments/1k85jrg/askjs_offer_casual_code_help_for_debugging_assist/)
 - [[AskJS] A good pdf tool](https://www.reddit.com/r/javascript/comments/1k7ufjb/askjs_a_good_pdf_tool/)
-- [[AskJS] Zod Field using Autoform](https://www.reddit.com/r/javascript/comments/1k7uegg/askjs_zod_field_using_autoform/)
-- [[AskJS] What&#39;s the simplest way to read an Excel file using JavaScript?](https://www.reddit.com/r/javascript/comments/1k7phyr/askjs_whats_the_simplest_way_to_read_an_excel/)
-- [What Does &quot;use client&quot; Do? — overreacted](https://www.reddit.com/r/javascript/comments/1k7p51v/what_does_use_client_do_overreacted/)
-- [Testing how much data Chrome can prefetch with SXG before offline mode feels broken](https://www.reddit.com/r/javascript/comments/1k7ji6m/testing_how_much_data_chrome_can_prefetch_with/)
-- [Why was Records &amp; Tuples proposal withdrawn in JavaScript?](https://www.reddit.com/r/javascript/comments/1k7hosj/why_was_records_tuples_proposal_withdrawn_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
