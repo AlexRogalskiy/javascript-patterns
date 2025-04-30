@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] JavaScript Learning Roadmap: From Beginner to Pro](https://www.reddit.com/r/javascript/comments/1kad85s/askjs_javascript_learning_roadmap_from_beginner/)
-- [[AskJS] How can I track dynamic event listeners added to a webpage with a Chrome extension?](https://www.reddit.com/r/javascript/comments/1k9seff/askjs_how_can_i_track_dynamic_event_listeners/)
-- [Your /r/javascript recap for the week of April 21 - April 27, 2025](https://www.reddit.com/r/javascript/comments/1k9r1tu/your_rjavascript_recap_for_the_week_of_april_21/)
-- [[AskJS] Which One is Better: React or Vue?](https://www.reddit.com/r/javascript/comments/1k9q1rv/askjs_which_one_is_better_react_or_vue/)
-- [Which one should I learn?](https://www.reddit.com/r/javascript/comments/1k9msj2/which_one_should_i_learn/)
-- [State of Devs: a developer survey about everything that&#39;s *not* code: career, workplace, health, hobbies, and more](https://www.reddit.com/r/javascript/comments/1k9iuom/state_of_devs_a_developer_survey_about_everything/)
-- [Reactylon: A new way to build cross-platform WebXR apps with React + Babylon.js](https://www.reddit.com/r/javascript/comments/1k8ag5g/reactylon_a_new_way_to_build_crossplatform_webxr/)
-- [Showoff Saturday &lpar;April 26, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1k86ytl/showoff_saturday_april_26_2025/)
-- [[AskJS] Offer Casual Code Help for / Debugging Assist for Projects](https://www.reddit.com/r/javascript/comments/1k85jrg/askjs_offer_casual_code_help_for_debugging_assist/)
-- [[AskJS] A good pdf tool](https://www.reddit.com/r/javascript/comments/1k7ufjb/askjs_a_good_pdf_tool/)
+- [Mastra.ai Quickstart - How to build a TypeScript agent in 5 minutes or less](https://www.reddit.com/r/javascript/comments/1kax5pz/mastraai_quickstart_how_to_build_a_typescript/)
+- [Remote React Component Module Federation Example](https://www.reddit.com/r/javascript/comments/1kavqhz/remote_react_component_module_federation_example/)
+- [Giving V8 a Heads-Up: Faster JavaScript Startup with Explicit Compile Hints](https://www.reddit.com/r/javascript/comments/1kav9zd/giving_v8_a_headsup_faster_javascript_startup/)
+- [**[AskJS] What should I focus on next for backend web development and internships?](https://www.reddit.com/r/javascript/comments/1katjd1/askjs_what_should_i_focus_on_next_for_backend_web/)
+- [go-go-try: Golang-style error handling for JS/TS](https://www.reddit.com/r/javascript/comments/1kaomi7/gogotry_golangstyle_error_handling_for_jsts/)
+- [[AskJS] What is the most space-efficient way to store binary data in js file?](https://www.reddit.com/r/javascript/comments/1kao9ui/askjs_what_is_the_most_spaceefficient_way_to/)
+- [codebase-scanner: detect common Javascript malware signatures](https://www.reddit.com/r/javascript/comments/1kajvox/codebasescanner_detect_common_javascript_malware/)
+- [[AskJS] What are the advantages of using a Proxy object to trap function calls?](https://www.reddit.com/r/javascript/comments/1kaj4r4/askjs_what_are_the_advantages_of_using_a_proxy/)
+- [&quot;get-error&quot;: I published a helper that has been making my life so much easier for the last year](https://www.reddit.com/r/javascript/comments/1kaiiw8/geterror_i_published_a_helper_that_has_been/)
+- [[AskJS] Is JavaScript.info good for total programming beginners?](https://www.reddit.com/r/javascript/comments/1kaeflw/askjs_is_javascriptinfo_good_for_total/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
