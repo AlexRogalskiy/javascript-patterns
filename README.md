@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [New contributors looking to contribute?](https://www.reddit.com/r/javascript/comments/1kbpau2/new_contributors_looking_to_contribute/)
+- [Open-source Sound Effect library for React &lpar;MIT license&rpar;](https://www.reddit.com/r/javascript/comments/1kblb2u/opensource_sound_effect_library_for_react_mit/)
+- [Test everything with Latte!](https://www.reddit.com/r/javascript/comments/1kbl1yq/test_everything_with_latte/)
+- [[AskJS] Getting Wordle Word from JavaScript](https://www.reddit.com/r/javascript/comments/1kbimow/askjs_getting_wordle_word_from_javascript/)
+- [Running Speech to Speech models on microcontrollers using Deno JS runtime](https://www.reddit.com/r/javascript/comments/1kbi0u4/running_speech_to_speech_models_on/)
+- [Understanding Transducers in JavaScript](https://www.reddit.com/r/javascript/comments/1kbhybu/understanding_transducers_in_javascript/)
+- [WTF Wednesday &lpar;April 30, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1kbaaji/wtf_wednesday_april_30_2025/)
+- [Frontend internship help](https://www.reddit.com/r/javascript/comments/1kb9mb0/frontend_internship_help/)
+- [[AskJS] HTLM/JS cash calculator](https://www.reddit.com/r/javascript/comments/1kb78g6/askjs_htlmjs_cash_calculator/)
 - [Mastra.ai Quickstart - How to build a TypeScript agent in 5 minutes or less](https://www.reddit.com/r/javascript/comments/1kax5pz/mastraai_quickstart_how_to_build_a_typescript/)
-- [Remote React Component Module Federation Example](https://www.reddit.com/r/javascript/comments/1kavqhz/remote_react_component_module_federation_example/)
-- [Giving V8 a Heads-Up: Faster JavaScript Startup with Explicit Compile Hints](https://www.reddit.com/r/javascript/comments/1kav9zd/giving_v8_a_headsup_faster_javascript_startup/)
-- [**[AskJS] What should I focus on next for backend web development and internships?](https://www.reddit.com/r/javascript/comments/1katjd1/askjs_what_should_i_focus_on_next_for_backend_web/)
-- [go-go-try: Golang-style error handling for JS/TS](https://www.reddit.com/r/javascript/comments/1kaomi7/gogotry_golangstyle_error_handling_for_jsts/)
-- [[AskJS] What is the most space-efficient way to store binary data in js file?](https://www.reddit.com/r/javascript/comments/1kao9ui/askjs_what_is_the_most_spaceefficient_way_to/)
-- [codebase-scanner: detect common Javascript malware signatures](https://www.reddit.com/r/javascript/comments/1kajvox/codebasescanner_detect_common_javascript_malware/)
-- [[AskJS] What are the advantages of using a Proxy object to trap function calls?](https://www.reddit.com/r/javascript/comments/1kaj4r4/askjs_what_are_the_advantages_of_using_a_proxy/)
-- [&quot;get-error&quot;: I published a helper that has been making my life so much easier for the last year](https://www.reddit.com/r/javascript/comments/1kaiiw8/geterror_i_published_a_helper_that_has_been/)
-- [[AskJS] Is JavaScript.info good for total programming beginners?](https://www.reddit.com/r/javascript/comments/1kaeflw/askjs_is_javascriptinfo_good_for_total/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
