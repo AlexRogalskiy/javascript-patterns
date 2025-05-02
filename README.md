@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Deno&#39;s Decline &lpar;6 Regions and Falling&rpar;](https://www.reddit.com/r/javascript/comments/1kcph2q/denos_decline_6_regions_and_falling/)
+- [Live Chat Starter Kit – Real-time support with Next.js, Zustand, Socket.IO](https://www.reddit.com/r/javascript/comments/1kci2lv/live_chat_starter_kit_realtime_support_with/)
+- [Introducing JSLN](https://www.reddit.com/r/javascript/comments/1kcb5s8/introducing_jsln/)
+- [[AskJS] which javascript framework do you enjoy using the most](https://www.reddit.com/r/javascript/comments/1kc495q/askjs_which_javascript_framework_do_you_enjoy/)
+- [Recursive Data Structures and Lazy Evaluation](https://www.reddit.com/r/javascript/comments/1kc30g9/recursive_data_structures_and_lazy_evaluation/)
+- [[AskJS] Javascript core concepts roadmap](https://www.reddit.com/r/javascript/comments/1kc0x1h/askjs_javascript_core_concepts_roadmap/)
+- [[AskJS] Is there a programmatic way to switch the Chrome DevTools console context to a cross-origin iframe?](https://www.reddit.com/r/javascript/comments/1kc03u5/askjs_is_there_a_programmatic_way_to_switch_the/)
 - [New contributors looking to contribute?](https://www.reddit.com/r/javascript/comments/1kbpau2/new_contributors_looking_to_contribute/)
 - [Open-source Sound Effect library for React &lpar;MIT license&rpar;](https://www.reddit.com/r/javascript/comments/1kblb2u/opensource_sound_effect_library_for_react_mit/)
 - [Test everything with Latte!](https://www.reddit.com/r/javascript/comments/1kbl1yq/test_everything_with_latte/)
-- [[AskJS] Getting Wordle Word from JavaScript](https://www.reddit.com/r/javascript/comments/1kbimow/askjs_getting_wordle_word_from_javascript/)
-- [Running Speech to Speech models on microcontrollers using Deno JS runtime](https://www.reddit.com/r/javascript/comments/1kbi0u4/running_speech_to_speech_models_on/)
-- [Understanding Transducers in JavaScript](https://www.reddit.com/r/javascript/comments/1kbhybu/understanding_transducers_in_javascript/)
-- [WTF Wednesday &lpar;April 30, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1kbaaji/wtf_wednesday_april_30_2025/)
-- [Frontend internship help](https://www.reddit.com/r/javascript/comments/1kb9mb0/frontend_internship_help/)
-- [[AskJS] HTLM/JS cash calculator](https://www.reddit.com/r/javascript/comments/1kb78g6/askjs_htlmjs_cash_calculator/)
-- [Mastra.ai Quickstart - How to build a TypeScript agent in 5 minutes or less](https://www.reddit.com/r/javascript/comments/1kax5pz/mastraai_quickstart_how_to_build_a_typescript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
