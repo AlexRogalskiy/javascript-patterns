@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Just added Express and Sequelize, what would you like to see next?](https://www.reddit.com/r/javascript/comments/1kdal0o/just_added_express_and_sequelize_what_would_you/)
+- [Functional HTML — overreacted](https://www.reddit.com/r/javascript/comments/1kd489q/functional_html_overreacted/)
+- [Open Source NoteTaking &amp; Task App - Html &amp; JS](https://www.reddit.com/r/javascript/comments/1kcyigu/open_source_notetaking_task_app_html_js/)
+- [[AskJS] In what kind of scenarios would you choose to use pure JavaScript instead of a framework?](https://www.reddit.com/r/javascript/comments/1kcwo3p/askjs_in_what_kind_of_scenarios_would_you_choose/)
 - [Deno&#39;s Decline &lpar;6 Regions and Falling&rpar;](https://www.reddit.com/r/javascript/comments/1kcph2q/denos_decline_6_regions_and_falling/)
 - [Live Chat Starter Kit – Real-time support with Next.js, Zustand, Socket.IO](https://www.reddit.com/r/javascript/comments/1kci2lv/live_chat_starter_kit_realtime_support_with/)
 - [Introducing JSLN](https://www.reddit.com/r/javascript/comments/1kcb5s8/introducing_jsln/)
 - [[AskJS] which javascript framework do you enjoy using the most](https://www.reddit.com/r/javascript/comments/1kc495q/askjs_which_javascript_framework_do_you_enjoy/)
 - [Recursive Data Structures and Lazy Evaluation](https://www.reddit.com/r/javascript/comments/1kc30g9/recursive_data_structures_and_lazy_evaluation/)
 - [[AskJS] Javascript core concepts roadmap](https://www.reddit.com/r/javascript/comments/1kc0x1h/askjs_javascript_core_concepts_roadmap/)
-- [[AskJS] Is there a programmatic way to switch the Chrome DevTools console context to a cross-origin iframe?](https://www.reddit.com/r/javascript/comments/1kc03u5/askjs_is_there_a_programmatic_way_to_switch_the/)
-- [New contributors looking to contribute?](https://www.reddit.com/r/javascript/comments/1kbpau2/new_contributors_looking_to_contribute/)
-- [Open-source Sound Effect library for React &lpar;MIT license&rpar;](https://www.reddit.com/r/javascript/comments/1kblb2u/opensource_sound_effect_library_for_react_mit/)
-- [Test everything with Latte!](https://www.reddit.com/r/javascript/comments/1kbl1yq/test_everything_with_latte/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
