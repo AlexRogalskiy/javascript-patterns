@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [HelloCSV: A free, open source alternative to FlatFile](https://www.reddit.com/r/javascript/comments/1ke44py/hellocsv_a_free_open_source_alternative_to/)
+- [how promises work in javascript behind the scenes](https://www.reddit.com/r/javascript/comments/1kdqufc/how_promises_work_in_javascript_behind_the_scenes/)
+- [[AskJS] Web Components](https://www.reddit.com/r/javascript/comments/1kdpuhf/askjs_web_components/)
+- [[AskJS] Any free resources to learn Three.js and React Three Fiber?](https://www.reddit.com/r/javascript/comments/1kdouwu/askjs_any_free_resources_to_learn_threejs_and/)
+- [Showoff Saturday &lpar;May 03, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1kdmws6/showoff_saturday_may_03_2025/)
+- [[AskJS] What are the pros and cons of using web components and a library like Lit-Element to build a relatively large SPA app?](https://www.reddit.com/r/javascript/comments/1kdjcz1/askjs_what_are_the_pros_and_cons_of_using_web/)
 - [Just added Express and Sequelize, what would you like to see next?](https://www.reddit.com/r/javascript/comments/1kdal0o/just_added_express_and_sequelize_what_would_you/)
 - [Functional HTML — overreacted](https://www.reddit.com/r/javascript/comments/1kd489q/functional_html_overreacted/)
-- [Open Source NoteTaking &amp; Task App - Html &amp; JS](https://www.reddit.com/r/javascript/comments/1kcyigu/open_source_notetaking_task_app_html_js/)
 - [[AskJS] In what kind of scenarios would you choose to use pure JavaScript instead of a framework?](https://www.reddit.com/r/javascript/comments/1kcwo3p/askjs_in_what_kind_of_scenarios_would_you_choose/)
 - [Deno&#39;s Decline &lpar;6 Regions and Falling&rpar;](https://www.reddit.com/r/javascript/comments/1kcph2q/denos_decline_6_regions_and_falling/)
-- [Live Chat Starter Kit – Real-time support with Next.js, Zustand, Socket.IO](https://www.reddit.com/r/javascript/comments/1kci2lv/live_chat_starter_kit_realtime_support_with/)
-- [Introducing JSLN](https://www.reddit.com/r/javascript/comments/1kcb5s8/introducing_jsln/)
-- [[AskJS] which javascript framework do you enjoy using the most](https://www.reddit.com/r/javascript/comments/1kc495q/askjs_which_javascript_framework_do_you_enjoy/)
-- [Recursive Data Structures and Lazy Evaluation](https://www.reddit.com/r/javascript/comments/1kc30g9/recursive_data_structures_and_lazy_evaluation/)
-- [[AskJS] Javascript core concepts roadmap](https://www.reddit.com/r/javascript/comments/1kc0x1h/askjs_javascript_core_concepts_roadmap/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
