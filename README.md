@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] request to review Profile as SDE&lpar;Fresher&rpar;](https://www.reddit.com/r/javascript/comments/1kemhcq/askjs_request_to_review_profile_as_sdefresher/)
+- [Reno Stack: A Type-Safe React + Hono Starter with built-in utilities](https://www.reddit.com/r/javascript/comments/1kelwjl/reno_stack_a_typesafe_react_hono_starter_with/)
+- [Recursive regex matching with support for all ES2025 regex syntax &lpar;&lt; 2 kB&rpar;](https://www.reddit.com/r/javascript/comments/1kehic6/recursive_regex_matching_with_support_for_all/)
+- [Flappy Flopper - Simple Flappy Bird clone with vanilla JS, themed around basketball flopping.](https://www.reddit.com/r/javascript/comments/1kef60q/flappy_flopper_simple_flappy_bird_clone_with/)
 - [HelloCSV: A free, open source alternative to FlatFile](https://www.reddit.com/r/javascript/comments/1ke44py/hellocsv_a_free_open_source_alternative_to/)
 - [how promises work in javascript behind the scenes](https://www.reddit.com/r/javascript/comments/1kdqufc/how_promises_work_in_javascript_behind_the_scenes/)
 - [[AskJS] Web Components](https://www.reddit.com/r/javascript/comments/1kdpuhf/askjs_web_components/)
 - [[AskJS] Any free resources to learn Three.js and React Three Fiber?](https://www.reddit.com/r/javascript/comments/1kdouwu/askjs_any_free_resources_to_learn_threejs_and/)
 - [Showoff Saturday &lpar;May 03, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1kdmws6/showoff_saturday_may_03_2025/)
 - [[AskJS] What are the pros and cons of using web components and a library like Lit-Element to build a relatively large SPA app?](https://www.reddit.com/r/javascript/comments/1kdjcz1/askjs_what_are_the_pros_and_cons_of_using_web/)
-- [Just added Express and Sequelize, what would you like to see next?](https://www.reddit.com/r/javascript/comments/1kdal0o/just_added_express_and_sequelize_what_would_you/)
-- [Functional HTML — overreacted](https://www.reddit.com/r/javascript/comments/1kd489q/functional_html_overreacted/)
-- [[AskJS] In what kind of scenarios would you choose to use pure JavaScript instead of a framework?](https://www.reddit.com/r/javascript/comments/1kcwo3p/askjs_in_what_kind_of_scenarios_would_you_choose/)
-- [Deno&#39;s Decline &lpar;6 Regions and Falling&rpar;](https://www.reddit.com/r/javascript/comments/1kcph2q/denos_decline_6_regions_and_falling/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
