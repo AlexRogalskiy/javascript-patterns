@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Jet: ECMAScript 4 + reactivity](https://www.reddit.com/r/javascript/comments/1kfju0z/jet_ecmascript_4_reactivity/)
+- [TrailBase 0.11: Open, sub-millisecond, single-executable FireBase alternative built with Rust, SQLite &amp; V8](https://www.reddit.com/r/javascript/comments/1kfd5ou/trailbase_011_open_submillisecond/)
+- [[AskJS] Javascript UI libraries](https://www.reddit.com/r/javascript/comments/1kfd0v1/askjs_javascript_ui_libraries/)
+- [[AskJS] What you think about wasmer perf](https://www.reddit.com/r/javascript/comments/1kf3kw4/askjs_what_you_think_about_wasmer_perf/)
 - [[AskJS] request to review Profile as SDE&lpar;Fresher&rpar;](https://www.reddit.com/r/javascript/comments/1kemhcq/askjs_request_to_review_profile_as_sdefresher/)
 - [Reno Stack: A Type-Safe React + Hono Starter with built-in utilities](https://www.reddit.com/r/javascript/comments/1kelwjl/reno_stack_a_typesafe_react_hono_starter_with/)
 - [Recursive regex matching with support for all ES2025 regex syntax &lpar;&lt; 2 kB&rpar;](https://www.reddit.com/r/javascript/comments/1kehic6/recursive_regex_matching_with_support_for_all/)
 - [Flappy Flopper - Simple Flappy Bird clone with vanilla JS, themed around basketball flopping.](https://www.reddit.com/r/javascript/comments/1kef60q/flappy_flopper_simple_flappy_bird_clone_with/)
 - [HelloCSV: A free, open source alternative to FlatFile](https://www.reddit.com/r/javascript/comments/1ke44py/hellocsv_a_free_open_source_alternative_to/)
 - [how promises work in javascript behind the scenes](https://www.reddit.com/r/javascript/comments/1kdqufc/how_promises_work_in_javascript_behind_the_scenes/)
-- [[AskJS] Web Components](https://www.reddit.com/r/javascript/comments/1kdpuhf/askjs_web_components/)
-- [[AskJS] Any free resources to learn Three.js and React Three Fiber?](https://www.reddit.com/r/javascript/comments/1kdouwu/askjs_any_free_resources_to_learn_threejs_and/)
-- [Showoff Saturday &lpar;May 03, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1kdmws6/showoff_saturday_may_03_2025/)
-- [[AskJS] What are the pros and cons of using web components and a library like Lit-Element to build a relatively large SPA app?](https://www.reddit.com/r/javascript/comments/1kdjcz1/askjs_what_are_the_pros_and_cons_of_using_web/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
