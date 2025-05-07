@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] I struggle with copy-pasting AI context when using different LLMs, so I am building Window.](https://www.reddit.com/r/javascript/comments/1kg3enf/askjs_i_struggle_with_copypasting_ai_context_when/)
+- [[AskJS] Live Code Editor 2.0](https://www.reddit.com/r/javascript/comments/1kg365d/askjs_live_code_editor_20/)
+- [Tap-It &lpar;extension that lets you maps keys to dom elements&rpar;](https://www.reddit.com/r/javascript/comments/1kfvmle/tapit_extension_that_lets_you_maps_keys_to_dom/)
+- [RSC for Astro Developers](https://www.reddit.com/r/javascript/comments/1kfv94m/rsc_for_astro_developers/)
 - [Jet: ECMAScript 4 + reactivity](https://www.reddit.com/r/javascript/comments/1kfju0z/jet_ecmascript_4_reactivity/)
 - [TrailBase 0.11: Open, sub-millisecond, single-executable FireBase alternative built with Rust, SQLite &amp; V8](https://www.reddit.com/r/javascript/comments/1kfd5ou/trailbase_011_open_submillisecond/)
 - [[AskJS] Javascript UI libraries](https://www.reddit.com/r/javascript/comments/1kfd0v1/askjs_javascript_ui_libraries/)
 - [[AskJS] What you think about wasmer perf](https://www.reddit.com/r/javascript/comments/1kf3kw4/askjs_what_you_think_about_wasmer_perf/)
 - [[AskJS] request to review Profile as SDE&lpar;Fresher&rpar;](https://www.reddit.com/r/javascript/comments/1kemhcq/askjs_request_to_review_profile_as_sdefresher/)
 - [Reno Stack: A Type-Safe React + Hono Starter with built-in utilities](https://www.reddit.com/r/javascript/comments/1kelwjl/reno_stack_a_typesafe_react_hono_starter_with/)
-- [Recursive regex matching with support for all ES2025 regex syntax &lpar;&lt; 2 kB&rpar;](https://www.reddit.com/r/javascript/comments/1kehic6/recursive_regex_matching_with_support_for_all/)
-- [Flappy Flopper - Simple Flappy Bird clone with vanilla JS, themed around basketball flopping.](https://www.reddit.com/r/javascript/comments/1kef60q/flappy_flopper_simple_flappy_bird_clone_with/)
-- [HelloCSV: A free, open source alternative to FlatFile](https://www.reddit.com/r/javascript/comments/1ke44py/hellocsv_a_free_open_source_alternative_to/)
-- [how promises work in javascript behind the scenes](https://www.reddit.com/r/javascript/comments/1kdqufc/how_promises_work_in_javascript_behind_the_scenes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
