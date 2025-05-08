@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] I struggle with copy-pasting AI context when using different LLMs, so I am building Window.](https://www.reddit.com/r/javascript/comments/1kg3enf/askjs_i_struggle_with_copypasting_ai_context_when/)
+- [[AskJS] Choose syntax vs performance](https://www.reddit.com/r/javascript/comments/1khddji/askjs_choose_syntax_vs_performance/)
+- [Reducing SVGs by 90% with Javascript tricks](https://www.reddit.com/r/javascript/comments/1kgydzp/reducing_svgs_by_90_with_javascript_tricks/)
+- [search-sdk: Vercel&#39;s AI SDK but for web search APIs](https://www.reddit.com/r/javascript/comments/1kgvnzf/searchsdk_vercels_ai_sdk_but_for_web_search_apis/)
+- [[AskJS] How do I fix tunnelling in a collision simulator?](https://www.reddit.com/r/javascript/comments/1kguskr/askjs_how_do_i_fix_tunnelling_in_a_collision/)
+- [found this &lpar;hidden&rpar; hypnotic dropper](https://www.reddit.com/r/javascript/comments/1kgr6tj/found_this_hidden_hypnotic_dropper/)
+- [Converting values to strings in JavaScript has pitfalls](https://www.reddit.com/r/javascript/comments/1kgr612/converting_values_to_strings_in_javascript_has/)
+- [JavaScript, when is this?](https://www.reddit.com/r/javascript/comments/1kgr3uy/javascript_when_is_this/)
+- [WTF Wednesday &lpar;May 07, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1kgr3o8/wtf_wednesday_may_07_2025/)
+- [The power of the spread and rest syntax in JavaScript](https://www.reddit.com/r/javascript/comments/1kgr01l/the_power_of_the_spread_and_rest_syntax_in/)
 - [[AskJS] Live Code Editor 2.0](https://www.reddit.com/r/javascript/comments/1kg365d/askjs_live_code_editor_20/)
-- [Tap-It &lpar;extension that lets you maps keys to dom elements&rpar;](https://www.reddit.com/r/javascript/comments/1kfvmle/tapit_extension_that_lets_you_maps_keys_to_dom/)
-- [RSC for Astro Developers](https://www.reddit.com/r/javascript/comments/1kfv94m/rsc_for_astro_developers/)
-- [Jet: ECMAScript 4 + reactivity](https://www.reddit.com/r/javascript/comments/1kfju0z/jet_ecmascript_4_reactivity/)
-- [TrailBase 0.11: Open, sub-millisecond, single-executable FireBase alternative built with Rust, SQLite &amp; V8](https://www.reddit.com/r/javascript/comments/1kfd5ou/trailbase_011_open_submillisecond/)
-- [[AskJS] Javascript UI libraries](https://www.reddit.com/r/javascript/comments/1kfd0v1/askjs_javascript_ui_libraries/)
-- [[AskJS] What you think about wasmer perf](https://www.reddit.com/r/javascript/comments/1kf3kw4/askjs_what_you_think_about_wasmer_perf/)
-- [[AskJS] request to review Profile as SDE&lpar;Fresher&rpar;](https://www.reddit.com/r/javascript/comments/1kemhcq/askjs_request_to_review_profile_as_sdefresher/)
-- [Reno Stack: A Type-Safe React + Hono Starter with built-in utilities](https://www.reddit.com/r/javascript/comments/1kelwjl/reno_stack_a_typesafe_react_hono_starter_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
