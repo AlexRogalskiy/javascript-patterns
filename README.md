@@ -277,10 +277,10 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] is there any simple way using any build tool to find out the next alpha/beta/etc number automatically?](https://www.reddit.com/r/javascript/comments/1kiq2ba/askjs_is_there_any_simple_way_using_any_build/)
 - [[AskJS] Why the TextEncoder/TextDecoder were transposed?](https://www.reddit.com/r/javascript/comments/1ki7sep/askjs_why_the_textencodertextdecoder_were/)
 - [Serving Video with HTTP Range Requests](https://www.reddit.com/r/javascript/comments/1ki1yb3/serving_video_with_http_range_requests/)
 - [Static as a Server](https://www.reddit.com/r/javascript/comments/1ki010g/static_as_a_server/)
-- [Learn to Build a Sonic Themed Infinite Runner Game in TypeScript With KAPLAY](https://www.reddit.com/r/javascript/comments/1khx73g/learn_to_build_a_sonic_themed_infinite_runner/)
 - [[AskJS] Learning JavaScript](https://www.reddit.com/r/javascript/comments/1khv16x/askjs_learning_javascript/)
 - [Powerful ESLint plugin with rules to help you achieve a scalable, consistent, and well-structured project.](https://www.reddit.com/r/javascript/comments/1khkjx9/powerful_eslint_plugin_with_rules_to_help_you/)
 - [[AskJS] Choose syntax vs performance](https://www.reddit.com/r/javascript/comments/1khddji/askjs_choose_syntax_vs_performance/)
