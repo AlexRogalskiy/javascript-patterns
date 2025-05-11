@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [neverever: No bullshit Option&lt;T&gt; and Result&lt;T, E&gt; types for TypeScript](https://www.reddit.com/r/javascript/comments/1kjktpr/neverever_no_bullshit_optiont_and_resultt_e_types/)
+- [[AskJS] What would you guys like for JS?](https://www.reddit.com/r/javascript/comments/1kjfdyb/askjs_what_would_you_guys_like_for_js/)
+- [[AskJS] why do you choose &lpar;or avoid&rpar; JavaScript on the backend?](https://www.reddit.com/r/javascript/comments/1kj8vyl/askjs_why_do_you_choose_or_avoid_javascript_on/)
+- [[AskJS] js for DSA?](https://www.reddit.com/r/javascript/comments/1kj54lt/askjs_js_for_dsa/)
+- [Showoff Saturday &lpar;May 10, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1kj487i/showoff_saturday_may_10_2025/)
+- [Codigo: discover and compare programming languages](https://www.reddit.com/r/javascript/comments/1kj1xyb/codigo_discover_and_compare_programming_languages/)
 - [[AskJS] is there any simple way using any build tool to find out the next alpha/beta/etc number automatically?](https://www.reddit.com/r/javascript/comments/1kiq2ba/askjs_is_there_any_simple_way_using_any_build/)
 - [[AskJS] Why the TextEncoder/TextDecoder were transposed?](https://www.reddit.com/r/javascript/comments/1ki7sep/askjs_why_the_textencodertextdecoder_were/)
 - [Serving Video with HTTP Range Requests](https://www.reddit.com/r/javascript/comments/1ki1yb3/serving_video_with_http_range_requests/)
 - [Static as a Server](https://www.reddit.com/r/javascript/comments/1ki010g/static_as_a_server/)
-- [[AskJS] Learning JavaScript](https://www.reddit.com/r/javascript/comments/1khv16x/askjs_learning_javascript/)
-- [Powerful ESLint plugin with rules to help you achieve a scalable, consistent, and well-structured project.](https://www.reddit.com/r/javascript/comments/1khkjx9/powerful_eslint_plugin_with_rules_to_help_you/)
-- [[AskJS] Choose syntax vs performance](https://www.reddit.com/r/javascript/comments/1khddji/askjs_choose_syntax_vs_performance/)
-- [Reducing SVGs by 90% with Javascript tricks](https://www.reddit.com/r/javascript/comments/1kgydzp/reducing_svgs_by_90_with_javascript_tricks/)
-- [search-sdk: Vercel&#39;s AI SDK but for web search APIs](https://www.reddit.com/r/javascript/comments/1kgvnzf/searchsdk_vercels_ai_sdk_but_for_web_search_apis/)
-- [[AskJS] How do I fix tunnelling in a collision simulator?](https://www.reddit.com/r/javascript/comments/1kguskr/askjs_how_do_i_fix_tunnelling_in_a_collision/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
