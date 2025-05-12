@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Expand the List of Recurring Dates Easily with recur-date-based.](https://www.reddit.com/r/javascript/comments/1kkf0g3/expand_the_list_of_recurring_dates_easily_with/)
+- [How V8 JavaScript Engine Works Behind the Scenes](https://www.reddit.com/r/javascript/comments/1kkalti/how_v8_javascript_engine_works_behind_the_scenes/)
+- [[AskJS] Code Plausibility Question](https://www.reddit.com/r/javascript/comments/1kk6vds/askjs_code_plausibility_question/)
 - [neverever: No bullshit Option&lt;T&gt; and Result&lt;T, E&gt; types for TypeScript](https://www.reddit.com/r/javascript/comments/1kjktpr/neverever_no_bullshit_optiont_and_resultt_e_types/)
 - [[AskJS] What would you guys like for JS?](https://www.reddit.com/r/javascript/comments/1kjfdyb/askjs_what_would_you_guys_like_for_js/)
 - [[AskJS] why do you choose &lpar;or avoid&rpar; JavaScript on the backend?](https://www.reddit.com/r/javascript/comments/1kj8vyl/askjs_why_do_you_choose_or_avoid_javascript_on/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Showoff Saturday &lpar;May 10, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1kj487i/showoff_saturday_may_10_2025/)
 - [Codigo: discover and compare programming languages](https://www.reddit.com/r/javascript/comments/1kj1xyb/codigo_discover_and_compare_programming_languages/)
 - [[AskJS] is there any simple way using any build tool to find out the next alpha/beta/etc number automatically?](https://www.reddit.com/r/javascript/comments/1kiq2ba/askjs_is_there_any_simple_way_using_any_build/)
-- [[AskJS] Why the TextEncoder/TextDecoder were transposed?](https://www.reddit.com/r/javascript/comments/1ki7sep/askjs_why_the_textencodertextdecoder_were/)
-- [Serving Video with HTTP Range Requests](https://www.reddit.com/r/javascript/comments/1ki1yb3/serving_video_with_http_range_requests/)
-- [Static as a Server](https://www.reddit.com/r/javascript/comments/1ki010g/static_as_a_server/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
