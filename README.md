@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [JavaScript&#39;s New Superpower: Explicit Resource Management](https://www.reddit.com/r/javascript/comments/1klsdou/javascripts_new_superpower_explicit_resource/)
-- [[AskJS] General question](https://www.reddit.com/r/javascript/comments/1kls24m/askjs_general_question/)
-- [scira-multilingual – Making AI search available in 14 languages](https://www.reddit.com/r/javascript/comments/1klnisp/sciramultilingual_making_ai_search_available_in/)
-- [Prefetch based on intent, not hover or viewport entering! - ForesightJS open-source library](https://www.reddit.com/r/javascript/comments/1kln4x4/prefetch_based_on_intent_not_hover_or_viewport/)
-- [Package that auto-generates time zone data from IANA DB weekly](https://www.reddit.com/r/javascript/comments/1kll1ky/package_that_autogenerates_time_zone_data_from/)
-- [I built a small node.js CLI tool to turn markdown into simple docs sites &lpar;works with github pages &amp; open source&rpar;](https://www.reddit.com/r/javascript/comments/1kliax2/i_built_a_small_nodejs_cli_tool_to_turn_markdown/)
-- [I built a MCP Chat client from scratch using. Nextjs and Composio](https://www.reddit.com/r/javascript/comments/1klh2wd/i_built_a_mcp_chat_client_from_scratch_using/)
-- [[AskJS] JavaScript: It&#39;s easy to start, hard to master.](https://www.reddit.com/r/javascript/comments/1klgbxs/askjs_javascript_its_easy_to_start_hard_to_master/)
-- [I think the ergonomics of generators is growing on me.](https://www.reddit.com/r/javascript/comments/1kkui1h/i_think_the_ergonomics_of_generators_is_growing/)
-- [[AskJS] Any recommendations for a light weight dataframe package with good typing for browser env?](https://www.reddit.com/r/javascript/comments/1kkt442/askjs_any_recommendations_for_a_light_weight/)
+- [We’re building a decentralized Reddit alternative, fully open-source—JS devs, we need you.](https://www.reddit.com/r/javascript/comments/1kmsor5/were_building_a_decentralized_reddit_alternative/)
+- [Node.js WhatsApp Socket Library](https://www.reddit.com/r/javascript/comments/1kmrm5s/nodejs_whatsapp_socket_library/)
+- [I Built a Fullstack App &lpar;React Native, Node.js&rpar; That&#39;s Now on The iOS App Store &lpar;AMA&rpar;](https://www.reddit.com/r/javascript/comments/1kmpsmx/i_built_a_fullstack_app_react_native_nodejs_thats/)
+- [I&#39;ve started scanning the entire NPM registry for malware and compiling the results](https://www.reddit.com/r/javascript/comments/1kmorle/ive_started_scanning_the_entire_npm_registry_for/)
+- [SnapDOM is an open source JS tool to convert HTML to images](https://www.reddit.com/r/javascript/comments/1kmj48p/snapdom_is_an_open_source_js_tool_to_convert_html/)
+- [How the jax.jit&lpar;&rpar; compiler works in jax-js](https://www.reddit.com/r/javascript/comments/1kmhh0m/how_the_jaxjit_compiler_works_in_jaxjs/)
+- [Real-time Github Analytics with ClickHouse, Redpanda](https://www.reddit.com/r/javascript/comments/1kmh0nv/realtime_github_analytics_with_clickhouse_redpanda/)
+- [Built Reactylon: a React + Babylon.js framework for building cross-platform WebXR apps - Feedback welcome!](https://www.reddit.com/r/javascript/comments/1kmekxi/built_reactylon_a_react_babylonjs_framework_for/)
+- [[AskJS] What’s the weirdest line of code that actually solved a real problem for you?](https://www.reddit.com/r/javascript/comments/1kmb0sh/askjs_whats_the_weirdest_line_of_code_that/)
+- [WTF Wednesday &lpar;May 14, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1km8v0i/wtf_wednesday_may_14_2025/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
