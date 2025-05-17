@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Anyone else struggling with collision detection in mini js games made with ai? Help me](https://www.reddit.com/r/javascript/comments/1ko1ylt/askjs_anyone_else_struggling_with_collision/)
+- [[AskJS] Looking for a robust way to execute JavaScript in Chrome on Windows](https://www.reddit.com/r/javascript/comments/1kny3w9/askjs_looking_for_a_robust_way_to_execute/)
+- [After years using semantic-release, I developed a lightweight alternative tailored for smaller projects – an easy setup to streamline versioning and releases without the extra overhead. I also added AI-release note-generation. Seeking for feedbacks...](https://www.reddit.com/r/javascript/comments/1knv615/after_years_using_semanticrelease_i_developed_a/)
 - [I just launched my first open-source project! Typescript security tool to help secure your projects from hackers.](https://www.reddit.com/r/javascript/comments/1knq6ab/i_just_launched_my_first_opensource_project/)
 - [I made a p2p alternative to discord/slack](https://www.reddit.com/r/javascript/comments/1kmyss7/i_made_a_p2p_alternative_to_discordslack/)
 - [We’re building a decentralized Reddit alternative, fully open-source—JS devs, we need you.](https://www.reddit.com/r/javascript/comments/1kmsor5/were_building_a_decentralized_reddit_alternative/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [I&#39;ve started scanning the entire NPM registry for malware and compiling the results](https://www.reddit.com/r/javascript/comments/1kmorle/ive_started_scanning_the_entire_npm_registry_for/)
 - [SnapDOM is an open source JS tool to convert HTML to images](https://www.reddit.com/r/javascript/comments/1kmj48p/snapdom_is_an_open_source_js_tool_to_convert_html/)
 - [How the jax.jit&lpar;&rpar; compiler works in jax-js](https://www.reddit.com/r/javascript/comments/1kmhh0m/how_the_jaxjit_compiler_works_in_jaxjs/)
-- [Real-time Github Analytics with ClickHouse, Redpanda](https://www.reddit.com/r/javascript/comments/1kmh0nv/realtime_github_analytics_with_clickhouse_redpanda/)
-- [Built Reactylon: a React + Babylon.js framework for building cross-platform WebXR apps - Feedback welcome!](https://www.reddit.com/r/javascript/comments/1kmekxi/built_reactylon_a_react_babylonjs_framework_for/)
-- [[AskJS] What’s the weirdest line of code that actually solved a real problem for you?](https://www.reddit.com/r/javascript/comments/1kmb0sh/askjs_whats_the_weirdest_line_of_code_that/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
