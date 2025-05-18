@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Anyone else struggling with collision detection in mini js games made with ai? Help me](https://www.reddit.com/r/javascript/comments/1ko1ylt/askjs_anyone_else_struggling_with_collision/)
-- [[AskJS] Looking for a robust way to execute JavaScript in Chrome on Windows](https://www.reddit.com/r/javascript/comments/1kny3w9/askjs_looking_for_a_robust_way_to_execute/)
-- [After years using semantic-release, I developed a lightweight alternative tailored for smaller projects – an easy setup to streamline versioning and releases without the extra overhead. I also added AI-release note-generation. Seeking for feedbacks...](https://www.reddit.com/r/javascript/comments/1knv615/after_years_using_semanticrelease_i_developed_a/)
-- [I just launched my first open-source project! Typescript security tool to help secure your projects from hackers.](https://www.reddit.com/r/javascript/comments/1knq6ab/i_just_launched_my_first_opensource_project/)
-- [I made a p2p alternative to discord/slack](https://www.reddit.com/r/javascript/comments/1kmyss7/i_made_a_p2p_alternative_to_discordslack/)
-- [We’re building a decentralized Reddit alternative, fully open-source—JS devs, we need you.](https://www.reddit.com/r/javascript/comments/1kmsor5/were_building_a_decentralized_reddit_alternative/)
-- [Node.js WhatsApp Socket Library](https://www.reddit.com/r/javascript/comments/1kmrm5s/nodejs_whatsapp_socket_library/)
-- [I&#39;ve started scanning the entire NPM registry for malware and compiling the results](https://www.reddit.com/r/javascript/comments/1kmorle/ive_started_scanning_the_entire_npm_registry_for/)
-- [SnapDOM is an open source JS tool to convert HTML to images](https://www.reddit.com/r/javascript/comments/1kmj48p/snapdom_is_an_open_source_js_tool_to_convert_html/)
-- [How the jax.jit&lpar;&rpar; compiler works in jax-js](https://www.reddit.com/r/javascript/comments/1kmhh0m/how_the_jaxjit_compiler_works_in_jaxjs/)
+- [Building a Scalable Chat App](https://www.reddit.com/r/javascript/comments/1kp8s1c/building_a_scalable_chat_app/)
+- [JavaScript&#39;s New Superpower: Explicit Resource Management](https://www.reddit.com/r/javascript/comments/1kp0s16/javascripts_new_superpower_explicit_resource/)
+- [I built AgentForge: A free, enterprise-ready framework for hierarchical agents](https://www.reddit.com/r/javascript/comments/1kozd33/i_built_agentforge_a_free_enterpriseready/)
+- [NodeJS/JS Open Source Friends App](https://www.reddit.com/r/javascript/comments/1koy5j5/nodejsjs_open_source_friends_app/)
+- [Solidis – Tiny TS Redis client, no deps, for serverless](https://www.reddit.com/r/javascript/comments/1kox4bv/solidis_tiny_ts_redis_client_no_deps_for/)
+- [How Memory Works in JavaScript and Node.js](https://www.reddit.com/r/javascript/comments/1kosqmz/how_memory_works_in_javascript_and_nodejs/)
+- [Metro UI Components Library](https://www.reddit.com/r/javascript/comments/1kore44/metro_ui_components_library/)
+- [search-sdk 1.1.0: Easily use and switch between different web search API providers in TypeScript with a single, unified interface.](https://www.reddit.com/r/javascript/comments/1koon2b/searchsdk_110_easily_use_and_switch_between/)
+- [Slex - a no fuss lexer generator](https://www.reddit.com/r/javascript/comments/1kona09/slex_a_no_fuss_lexer_generator/)
+- [Showoff Saturday &lpar;May 17, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1komvog/showoff_saturday_may_17_2025/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
