@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I made a excelize-wasm NPM package for read and write spreadsheets](https://www.reddit.com/r/javascript/comments/1kq0ubs/i_made_a_excelizewasm_npm_package_for_read_and/)
+- [Support SumaristaAI – An Open-Source AI Text Summarizer](https://www.reddit.com/r/javascript/comments/1kpvjpa/support_sumaristaai_an_opensource_ai_text/)
+- [Free opensource minimal wysiwyg text editor for HTML/JS](https://www.reddit.com/r/javascript/comments/1kpl8ez/free_opensource_minimal_wysiwyg_text_editor_for/)
+- [ThinkEntry , Wanna know your feebacks.](https://www.reddit.com/r/javascript/comments/1kphohi/thinkentry_wanna_know_your_feebacks/)
+- [I Tried Serverless for a Month — Here’s Why I Gave Up](https://www.reddit.com/r/javascript/comments/1kpbl81/i_tried_serverless_for_a_month_heres_why_i_gave_up/)
 - [Building a Scalable Chat App](https://www.reddit.com/r/javascript/comments/1kp8s1c/building_a_scalable_chat_app/)
 - [JavaScript&#39;s New Superpower: Explicit Resource Management](https://www.reddit.com/r/javascript/comments/1kp0s16/javascripts_new_superpower_explicit_resource/)
 - [I built AgentForge: A free, enterprise-ready framework for hierarchical agents](https://www.reddit.com/r/javascript/comments/1kozd33/i_built_agentforge_a_free_enterpriseready/)
 - [NodeJS/JS Open Source Friends App](https://www.reddit.com/r/javascript/comments/1koy5j5/nodejsjs_open_source_friends_app/)
-- [Solidis – Tiny TS Redis client, no deps, for serverless](https://www.reddit.com/r/javascript/comments/1kox4bv/solidis_tiny_ts_redis_client_no_deps_for/)
 - [How Memory Works in JavaScript and Node.js](https://www.reddit.com/r/javascript/comments/1kosqmz/how_memory_works_in_javascript_and_nodejs/)
-- [Metro UI Components Library](https://www.reddit.com/r/javascript/comments/1kore44/metro_ui_components_library/)
-- [search-sdk 1.1.0: Easily use and switch between different web search API providers in TypeScript with a single, unified interface.](https://www.reddit.com/r/javascript/comments/1koon2b/searchsdk_110_easily_use_and_switch_between/)
-- [Slex - a no fuss lexer generator](https://www.reddit.com/r/javascript/comments/1kona09/slex_a_no_fuss_lexer_generator/)
-- [Showoff Saturday &lpar;May 17, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1komvog/showoff_saturday_may_17_2025/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
