@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I made a excelize-wasm NPM package for read and write spreadsheets](https://www.reddit.com/r/javascript/comments/1kq0ubs/i_made_a_excelizewasm_npm_package_for_read_and/)
-- [Support SumaristaAI – An Open-Source AI Text Summarizer](https://www.reddit.com/r/javascript/comments/1kpvjpa/support_sumaristaai_an_opensource_ai_text/)
-- [Free opensource minimal wysiwyg text editor for HTML/JS](https://www.reddit.com/r/javascript/comments/1kpl8ez/free_opensource_minimal_wysiwyg_text_editor_for/)
-- [ThinkEntry , Wanna know your feebacks.](https://www.reddit.com/r/javascript/comments/1kphohi/thinkentry_wanna_know_your_feebacks/)
-- [I Tried Serverless for a Month — Here’s Why I Gave Up](https://www.reddit.com/r/javascript/comments/1kpbl81/i_tried_serverless_for_a_month_heres_why_i_gave_up/)
-- [Building a Scalable Chat App](https://www.reddit.com/r/javascript/comments/1kp8s1c/building_a_scalable_chat_app/)
-- [JavaScript&#39;s New Superpower: Explicit Resource Management](https://www.reddit.com/r/javascript/comments/1kp0s16/javascripts_new_superpower_explicit_resource/)
-- [I built AgentForge: A free, enterprise-ready framework for hierarchical agents](https://www.reddit.com/r/javascript/comments/1kozd33/i_built_agentforge_a_free_enterpriseready/)
-- [NodeJS/JS Open Source Friends App](https://www.reddit.com/r/javascript/comments/1koy5j5/nodejsjs_open_source_friends_app/)
-- [How Memory Works in JavaScript and Node.js](https://www.reddit.com/r/javascript/comments/1kosqmz/how_memory_works_in_javascript_and_nodejs/)
+- [Slonik v48: ESM + OpenTelemetry + standard schema](https://www.reddit.com/r/javascript/comments/1kqryah/slonik_v48_esm_opentelemetry_standard_schema/)
+- [A tag-based Pokémon card search engine using Node.js, Express, MongoDB, and the PokémonTCG.io API](https://www.reddit.com/r/javascript/comments/1kqohh0/a_tagbased_pokémon_card_search_engine_using/)
+- [JavaScript security best practices guide for developers](https://www.reddit.com/r/javascript/comments/1kqh3vd/javascript_security_best_practices_guide_for/)
+- [Astra - a new reliable js2exe compiler](https://www.reddit.com/r/javascript/comments/1kqe2wi/astra_a_new_reliable_js2exe_compiler/)
+- [[AskJS] Which framework do you use to create AI Agents?](https://www.reddit.com/r/javascript/comments/1kqcegn/askjs_which_framework_do_you_use_to_create_ai/)
+- [[AskJS] Show me your usage of Trig.js](https://www.reddit.com/r/javascript/comments/1kq96jv/askjs_show_me_your_usage_of_trigjs/)
+- [Your /r/javascript recap for the week of May 12 - May 18, 2025](https://www.reddit.com/r/javascript/comments/1kq73od/your_rjavascript_recap_for_the_week_of_may_12_may/)
+- [[AskJS] What JS framework do you predict will prosper?](https://www.reddit.com/r/javascript/comments/1kq65nu/askjs_what_js_framework_do_you_predict_will/)
+- [ThinkEntry : Write Calmly, Create Freely](https://www.reddit.com/r/javascript/comments/1kq4yyq/thinkentry_write_calmly_create_freely/)
+- [Stop Inventing DB Schema Languages](https://www.reddit.com/r/javascript/comments/1kq37yj/stop_inventing_db_schema_languages/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
