@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How I promoted my open source project and got 1K GitHub stars](https://www.reddit.com/r/javascript/comments/1kr5fzf/how_i_promoted_my_open_source_project_and_got_1k/)
+- [[AskJS] Any libraries to animate gradients on background colors?](https://www.reddit.com/r/javascript/comments/1kr36pm/askjs_any_libraries_to_animate_gradients_on/)
+- [I built a tool to generate the exports field in package.json from your build output](https://www.reddit.com/r/javascript/comments/1kr1swk/i_built_a_tool_to_generate_the_exports_field_in/)
+- [[AskJS] Would you use a CLI tool that explains ESLint rule violations in plain English &lpar;with LLM help&rpar; and optionally auto-fixes them?](https://www.reddit.com/r/javascript/comments/1kr1jon/askjs_would_you_use_a_cli_tool_that_explains/)
+- [[AskJS] Nice VS Code setup](https://www.reddit.com/r/javascript/comments/1kr0p9k/askjs_nice_vs_code_setup/)
 - [Slonik v48: ESM + OpenTelemetry + standard schema](https://www.reddit.com/r/javascript/comments/1kqryah/slonik_v48_esm_opentelemetry_standard_schema/)
 - [A tag-based Pokémon card search engine using Node.js, Express, MongoDB, and the PokémonTCG.io API](https://www.reddit.com/r/javascript/comments/1kqohh0/a_tagbased_pokémon_card_search_engine_using/)
 - [JavaScript security best practices guide for developers](https://www.reddit.com/r/javascript/comments/1kqh3vd/javascript_security_best_practices_guide_for/)
 - [Astra - a new reliable js2exe compiler](https://www.reddit.com/r/javascript/comments/1kqe2wi/astra_a_new_reliable_js2exe_compiler/)
 - [[AskJS] Which framework do you use to create AI Agents?](https://www.reddit.com/r/javascript/comments/1kqcegn/askjs_which_framework_do_you_use_to_create_ai/)
-- [[AskJS] Show me your usage of Trig.js](https://www.reddit.com/r/javascript/comments/1kq96jv/askjs_show_me_your_usage_of_trigjs/)
-- [Your /r/javascript recap for the week of May 12 - May 18, 2025](https://www.reddit.com/r/javascript/comments/1kq73od/your_rjavascript_recap_for_the_week_of_may_12_may/)
-- [[AskJS] What JS framework do you predict will prosper?](https://www.reddit.com/r/javascript/comments/1kq65nu/askjs_what_js_framework_do_you_predict_will/)
-- [ThinkEntry : Write Calmly, Create Freely](https://www.reddit.com/r/javascript/comments/1kq4yyq/thinkentry_write_calmly_create_freely/)
-- [Stop Inventing DB Schema Languages](https://www.reddit.com/r/javascript/comments/1kq37yj/stop_inventing_db_schema_languages/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
