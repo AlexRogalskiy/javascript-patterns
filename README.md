@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How I promoted my open source project and got 1K GitHub stars](https://www.reddit.com/r/javascript/comments/1kr5fzf/how_i_promoted_my_open_source_project_and_got_1k/)
-- [[AskJS] Any libraries to animate gradients on background colors?](https://www.reddit.com/r/javascript/comments/1kr36pm/askjs_any_libraries_to_animate_gradients_on/)
-- [I built a tool to generate the exports field in package.json from your build output](https://www.reddit.com/r/javascript/comments/1kr1swk/i_built_a_tool_to_generate_the_exports_field_in/)
-- [[AskJS] Would you use a CLI tool that explains ESLint rule violations in plain English &lpar;with LLM help&rpar; and optionally auto-fixes them?](https://www.reddit.com/r/javascript/comments/1kr1jon/askjs_would_you_use_a_cli_tool_that_explains/)
-- [[AskJS] Nice VS Code setup](https://www.reddit.com/r/javascript/comments/1kr0p9k/askjs_nice_vs_code_setup/)
-- [Slonik v48: ESM + OpenTelemetry + standard schema](https://www.reddit.com/r/javascript/comments/1kqryah/slonik_v48_esm_opentelemetry_standard_schema/)
-- [A tag-based Pokémon card search engine using Node.js, Express, MongoDB, and the PokémonTCG.io API](https://www.reddit.com/r/javascript/comments/1kqohh0/a_tagbased_pokémon_card_search_engine_using/)
-- [JavaScript security best practices guide for developers](https://www.reddit.com/r/javascript/comments/1kqh3vd/javascript_security_best_practices_guide_for/)
-- [Astra - a new reliable js2exe compiler](https://www.reddit.com/r/javascript/comments/1kqe2wi/astra_a_new_reliable_js2exe_compiler/)
-- [[AskJS] Which framework do you use to create AI Agents?](https://www.reddit.com/r/javascript/comments/1kqcegn/askjs_which_framework_do_you_use_to_create_ai/)
+- [Framework to build analytical backends in typescript](https://www.reddit.com/r/javascript/comments/1ksffcv/framework_to_build_analytical_backends_in/)
+- [Javascript Guess the Output Quiz](https://www.reddit.com/r/javascript/comments/1ks7t5a/javascript_guess_the_output_quiz/)
+- [React, Visualized – A visual exploration of core React concepts](https://www.reddit.com/r/javascript/comments/1ks3i2m/react_visualized_a_visual_exploration_of_core/)
+- [6 Ways Slack, Notion, and VSCode Improved Electron App Performance](https://www.reddit.com/r/javascript/comments/1ks1qp8/6_ways_slack_notion_and_vscode_improved_electron/)
+- [[AskJS] Now that I’ve revisited JavaScript… I have a newfound respect.](https://www.reddit.com/r/javascript/comments/1krvt6y/askjs_now_that_ive_revisited_javascript_i_have_a/)
+- [[AskJS] interview questions on browser APIs?](https://www.reddit.com/r/javascript/comments/1krutw0/askjs_interview_questions_on_browser_apis/)
+- [[AskJS] Does using AsyncLocalStorage in a high-traffic Node.js application impact performance?](https://www.reddit.com/r/javascript/comments/1krsfjx/askjs_does_using_asynclocalstorage_in_a/)
+- [WTF Wednesday &lpar;May 21, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1krrj0l/wtf_wednesday_may_21_2025/)
+- [I published by first ever project to NPM. getopt_long.js, an unopinionated option parser inspired by the getopt_long C library](https://www.reddit.com/r/javascript/comments/1krqhpl/i_published_by_first_ever_project_to_npm_getopt/)
+- [GreyOS: The Meta-OS Redefining Cloud Computing](https://www.reddit.com/r/javascript/comments/1krq8g2/greyos_the_metaos_redefining_cloud_computing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
