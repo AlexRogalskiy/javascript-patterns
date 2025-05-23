@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Complex Defaults [self-promotion]](https://www.reddit.com/r/javascript/comments/1kt0j3v/complex_defaults_selfpromotion/)
+- [HashJump - A tiny, dependency-free JavaScript module for handling anchor links and scrolling elements into view.](https://www.reddit.com/r/javascript/comments/1ksz0e2/hashjump_a_tiny_dependencyfree_javascript_module/)
+- [[AskJS] Vitest or jest?](https://www.reddit.com/r/javascript/comments/1kswpsf/askjs_vitest_or_jest/)
+- [Preview npm packages from any PR](https://www.reddit.com/r/javascript/comments/1ksuzw3/preview_npm_packages_from_any_pr/)
+- [Announcing TypeScript Native Previews](https://www.reddit.com/r/javascript/comments/1kst0dr/announcing_typescript_native_previews/)
+- [[AskJS] Data structure harmonization](https://www.reddit.com/r/javascript/comments/1ksqoh0/askjs_data_structure_harmonization/)
+- [TargetJS: Unifying UI Dev – Animations, State, APIs](https://www.reddit.com/r/javascript/comments/1kslg9j/targetjs_unifying_ui_dev_animations_state_apis/)
+- [Made a simple way to see live logs from deployed JavaScript apps without hassle](https://www.reddit.com/r/javascript/comments/1ksk1z9/made_a_simple_way_to_see_live_logs_from_deployed/)
 - [Framework to build analytical backends in typescript](https://www.reddit.com/r/javascript/comments/1ksffcv/framework_to_build_analytical_backends_in/)
 - [Javascript Guess the Output Quiz](https://www.reddit.com/r/javascript/comments/1ks7t5a/javascript_guess_the_output_quiz/)
-- [React, Visualized – A visual exploration of core React concepts](https://www.reddit.com/r/javascript/comments/1ks3i2m/react_visualized_a_visual_exploration_of_core/)
-- [6 Ways Slack, Notion, and VSCode Improved Electron App Performance](https://www.reddit.com/r/javascript/comments/1ks1qp8/6_ways_slack_notion_and_vscode_improved_electron/)
-- [[AskJS] Now that I’ve revisited JavaScript… I have a newfound respect.](https://www.reddit.com/r/javascript/comments/1krvt6y/askjs_now_that_ive_revisited_javascript_i_have_a/)
-- [[AskJS] interview questions on browser APIs?](https://www.reddit.com/r/javascript/comments/1krutw0/askjs_interview_questions_on_browser_apis/)
-- [[AskJS] Does using AsyncLocalStorage in a high-traffic Node.js application impact performance?](https://www.reddit.com/r/javascript/comments/1krsfjx/askjs_does_using_asynclocalstorage_in_a/)
-- [WTF Wednesday &lpar;May 21, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1krrj0l/wtf_wednesday_may_21_2025/)
-- [I published by first ever project to NPM. getopt_long.js, an unopinionated option parser inspired by the getopt_long C library](https://www.reddit.com/r/javascript/comments/1krqhpl/i_published_by_first_ever_project_to_npm_getopt/)
-- [GreyOS: The Meta-OS Redefining Cloud Computing](https://www.reddit.com/r/javascript/comments/1krq8g2/greyos_the_metaos_redefining_cloud_computing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
