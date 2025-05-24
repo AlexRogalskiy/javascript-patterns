@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Complex Defaults [self-promotion]](https://www.reddit.com/r/javascript/comments/1kt0j3v/complex_defaults_selfpromotion/)
-- [HashJump - A tiny, dependency-free JavaScript module for handling anchor links and scrolling elements into view.](https://www.reddit.com/r/javascript/comments/1ksz0e2/hashjump_a_tiny_dependencyfree_javascript_module/)
-- [[AskJS] Vitest or jest?](https://www.reddit.com/r/javascript/comments/1kswpsf/askjs_vitest_or_jest/)
-- [Preview npm packages from any PR](https://www.reddit.com/r/javascript/comments/1ksuzw3/preview_npm_packages_from_any_pr/)
-- [Announcing TypeScript Native Previews](https://www.reddit.com/r/javascript/comments/1kst0dr/announcing_typescript_native_previews/)
-- [[AskJS] Data structure harmonization](https://www.reddit.com/r/javascript/comments/1ksqoh0/askjs_data_structure_harmonization/)
-- [TargetJS: Unifying UI Dev – Animations, State, APIs](https://www.reddit.com/r/javascript/comments/1kslg9j/targetjs_unifying_ui_dev_animations_state_apis/)
-- [Made a simple way to see live logs from deployed JavaScript apps without hassle](https://www.reddit.com/r/javascript/comments/1ksk1z9/made_a_simple_way_to_see_live_logs_from_deployed/)
-- [Framework to build analytical backends in typescript](https://www.reddit.com/r/javascript/comments/1ksffcv/framework_to_build_analytical_backends_in/)
-- [Javascript Guess the Output Quiz](https://www.reddit.com/r/javascript/comments/1ks7t5a/javascript_guess_the_output_quiz/)
+- [JavaScript&#39;s upcoming Temporal API and what problems it will solve](https://www.reddit.com/r/javascript/comments/1ktxwtm/javascripts_upcoming_temporal_api_and_what/)
+- [Vite is now bundled by Rolldow](https://www.reddit.com/r/javascript/comments/1ktvpez/vite_is_now_bundled_by_rolldow/)
+- [@lilbunnyrabbit/task-manager - TypeScript Task Manager](https://www.reddit.com/r/javascript/comments/1ktsbhk/lilbunnyrabbittaskmanager_typescript_task_manager/)
+- [JSPM 4.0 is now out, featuring a refreshed and opinionated standards-based workflow based on convention over configuration.](https://www.reddit.com/r/javascript/comments/1ktlrok/jspm_40_is_now_out_featuring_a_refreshed_and/)
+- [Plot your repo language stats with cloc-graph](https://www.reddit.com/r/javascript/comments/1ktktrp/plot_your_repo_language_stats_with_clocgraph/)
+- [Pure &quot;HTML first&quot; JS library to connect LLMs with input/textarea elements](https://www.reddit.com/r/javascript/comments/1ktfoj1/pure_html_first_js_library_to_connect_llms_with/)
+- [A brief history of JavaScript | Deno](https://www.reddit.com/r/javascript/comments/1ktf2t6/a_brief_history_of_javascript_deno/)
+- [[AskJS] Is NeoVim a good code editor for programming in JavaScript?](https://www.reddit.com/r/javascript/comments/1ktbxn9/askjs_is_neovim_a_good_code_editor_for/)
+- [An ESLint plugin to preserve the original cause of errors in JavaScript](https://www.reddit.com/r/javascript/comments/1kta0ni/an_eslint_plugin_to_preserve_the_original_cause/)
+- [[AskJS] Discussion: your most prized &quot;voodoo magic&quot;](https://www.reddit.com/r/javascript/comments/1kt9cta/askjs_discussion_your_most_prized_voodoo_magic/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
