@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Copy Code Context - VSCode extension that lets you copy code/folder structure to share &lpar;or prompt with&rpar;](https://www.reddit.com/r/javascript/comments/1kum9hf/copy_code_context_vscode_extension_that_lets_you/)
+- [Showoff Saturday &lpar;May 24, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1ku5izc/showoff_saturday_may_24_2025/)
+- [Building a Responsive Carousel Component in React: The Complete Guide](https://www.reddit.com/r/javascript/comments/1ku3fg6/building_a_responsive_carousel_component_in_react/)
+- [[AskJS] Absolutely terrible syntax sugar idea: [predicate]?=](https://www.reddit.com/r/javascript/comments/1ku1rym/askjs_absolutely_terrible_syntax_sugar_idea/)
 - [JavaScript&#39;s upcoming Temporal API and what problems it will solve](https://www.reddit.com/r/javascript/comments/1ktxwtm/javascripts_upcoming_temporal_api_and_what/)
 - [Vite is now bundled by Rolldow](https://www.reddit.com/r/javascript/comments/1ktvpez/vite_is_now_bundled_by_rolldow/)
 - [@lilbunnyrabbit/task-manager - TypeScript Task Manager](https://www.reddit.com/r/javascript/comments/1ktsbhk/lilbunnyrabbittaskmanager_typescript_task_manager/)
 - [JSPM 4.0 is now out, featuring a refreshed and opinionated standards-based workflow based on convention over configuration.](https://www.reddit.com/r/javascript/comments/1ktlrok/jspm_40_is_now_out_featuring_a_refreshed_and/)
 - [Plot your repo language stats with cloc-graph](https://www.reddit.com/r/javascript/comments/1ktktrp/plot_your_repo_language_stats_with_clocgraph/)
 - [Pure &quot;HTML first&quot; JS library to connect LLMs with input/textarea elements](https://www.reddit.com/r/javascript/comments/1ktfoj1/pure_html_first_js_library_to_connect_llms_with/)
-- [A brief history of JavaScript | Deno](https://www.reddit.com/r/javascript/comments/1ktf2t6/a_brief_history_of_javascript_deno/)
-- [[AskJS] Is NeoVim a good code editor for programming in JavaScript?](https://www.reddit.com/r/javascript/comments/1ktbxn9/askjs_is_neovim_a_good_code_editor_for/)
-- [An ESLint plugin to preserve the original cause of errors in JavaScript](https://www.reddit.com/r/javascript/comments/1kta0ni/an_eslint_plugin_to_preserve_the_original_cause/)
-- [[AskJS] Discussion: your most prized &quot;voodoo magic&quot;](https://www.reddit.com/r/javascript/comments/1kt9cta/askjs_discussion_your_most_prized_voodoo_magic/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
