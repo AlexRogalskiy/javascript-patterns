@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [An ESLint plugin to enforce `@throws` in JSDoc and prevent hidden exceptions](https://www.reddit.com/r/javascript/comments/1kvjcz4/an_eslint_plugin_to_enforce_throws_in_jsdoc_and/)
+- [Built a browser-based VTL &lpar;Velocity&rpar; template emulator for AWS API Gateway — all JS, no backend](https://www.reddit.com/r/javascript/comments/1kvfdd3/built_a_browserbased_vtl_velocity_template/)
+- [[AskJS] How I can convert pdf to html with same visual layout as in pdf, which should be editable in rich text editor. Suggest me a way that I can edit an pdf document in rich text editor and export it.&lpar;React&rpar;](https://www.reddit.com/r/javascript/comments/1kv8ox0/askjs_how_i_can_convert_pdf_to_html_with_same/)
+- [Open-source finite element simulations in the browser with JavaScript](https://www.reddit.com/r/javascript/comments/1kv5v1i/opensource_finite_element_simulations_in_the/)
+- [I made an open source and free dashboard template in Next.js &amp; Tailwind, connected to a Node.js backend. Code links for both in comments](https://www.reddit.com/r/javascript/comments/1kv3v3e/i_made_an_open_source_and_free_dashboard_template/)
+- [[AskJS] Why is it possible for my injected script to edit functions in another file?](https://www.reddit.com/r/javascript/comments/1kv1lt7/askjs_why_is_it_possible_for_my_injected_script/)
 - [Copy Code Context - VSCode extension that lets you copy code/folder structure to share &lpar;or prompt with&rpar;](https://www.reddit.com/r/javascript/comments/1kum9hf/copy_code_context_vscode_extension_that_lets_you/)
 - [Showoff Saturday &lpar;May 24, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1ku5izc/showoff_saturday_may_24_2025/)
 - [Building a Responsive Carousel Component in React: The Complete Guide](https://www.reddit.com/r/javascript/comments/1ku3fg6/building_a_responsive_carousel_component_in_react/)
 - [[AskJS] Absolutely terrible syntax sugar idea: [predicate]?=](https://www.reddit.com/r/javascript/comments/1ku1rym/askjs_absolutely_terrible_syntax_sugar_idea/)
-- [JavaScript&#39;s upcoming Temporal API and what problems it will solve](https://www.reddit.com/r/javascript/comments/1ktxwtm/javascripts_upcoming_temporal_api_and_what/)
-- [Vite is now bundled by Rolldow](https://www.reddit.com/r/javascript/comments/1ktvpez/vite_is_now_bundled_by_rolldow/)
-- [@lilbunnyrabbit/task-manager - TypeScript Task Manager](https://www.reddit.com/r/javascript/comments/1ktsbhk/lilbunnyrabbittaskmanager_typescript_task_manager/)
-- [JSPM 4.0 is now out, featuring a refreshed and opinionated standards-based workflow based on convention over configuration.](https://www.reddit.com/r/javascript/comments/1ktlrok/jspm_40_is_now_out_featuring_a_refreshed_and/)
-- [Plot your repo language stats with cloc-graph](https://www.reddit.com/r/javascript/comments/1ktktrp/plot_your_repo_language_stats_with_clocgraph/)
-- [Pure &quot;HTML first&quot; JS library to connect LLMs with input/textarea elements](https://www.reddit.com/r/javascript/comments/1ktfoj1/pure_html_first_js_library_to_connect_llms_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
