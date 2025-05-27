@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [An ESLint plugin to enforce `@throws` in JSDoc and prevent hidden exceptions](https://www.reddit.com/r/javascript/comments/1kvjcz4/an_eslint_plugin_to_enforce_throws_in_jsdoc_and/)
-- [Built a browser-based VTL &lpar;Velocity&rpar; template emulator for AWS API Gateway — all JS, no backend](https://www.reddit.com/r/javascript/comments/1kvfdd3/built_a_browserbased_vtl_velocity_template/)
-- [[AskJS] How I can convert pdf to html with same visual layout as in pdf, which should be editable in rich text editor. Suggest me a way that I can edit an pdf document in rich text editor and export it.&lpar;React&rpar;](https://www.reddit.com/r/javascript/comments/1kv8ox0/askjs_how_i_can_convert_pdf_to_html_with_same/)
-- [Open-source finite element simulations in the browser with JavaScript](https://www.reddit.com/r/javascript/comments/1kv5v1i/opensource_finite_element_simulations_in_the/)
-- [I made an open source and free dashboard template in Next.js &amp; Tailwind, connected to a Node.js backend. Code links for both in comments](https://www.reddit.com/r/javascript/comments/1kv3v3e/i_made_an_open_source_and_free_dashboard_template/)
-- [[AskJS] Why is it possible for my injected script to edit functions in another file?](https://www.reddit.com/r/javascript/comments/1kv1lt7/askjs_why_is_it_possible_for_my_injected_script/)
-- [Copy Code Context - VSCode extension that lets you copy code/folder structure to share &lpar;or prompt with&rpar;](https://www.reddit.com/r/javascript/comments/1kum9hf/copy_code_context_vscode_extension_that_lets_you/)
-- [Showoff Saturday &lpar;May 24, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1ku5izc/showoff_saturday_may_24_2025/)
-- [Building a Responsive Carousel Component in React: The Complete Guide](https://www.reddit.com/r/javascript/comments/1ku3fg6/building_a_responsive_carousel_component_in_react/)
-- [[AskJS] Absolutely terrible syntax sugar idea: [predicate]?=](https://www.reddit.com/r/javascript/comments/1ku1rym/askjs_absolutely_terrible_syntax_sugar_idea/)
+- [Supercharge Your Testing and Benchmarking with a Customizable JavaScript Object Generator!](https://www.reddit.com/r/javascript/comments/1kwc5of/supercharge_your_testing_and_benchmarking_with_a/)
+- [[AskJS] Data Sharing Between Browser-Based JS Apps on Different Domains With CORS Disabled](https://www.reddit.com/r/javascript/comments/1kw33g6/askjs_data_sharing_between_browserbased_js_apps/)
+- [#Built a Claude Code JS SDK with session forking/revert to unlock new AI workflows](https://www.reddit.com/r/javascript/comments/1kw30nw/built_a_claude_code_js_sdk_with_session/)
+- [JavaScript style for optimal size](https://www.reddit.com/r/javascript/comments/1kvut6q/javascript_style_for_optimal_size/)
+- [I made a library that makes it simple to use server-sent events: real-time server-to-client communication without WebSockets](https://www.reddit.com/r/javascript/comments/1kvurel/i_made_a_library_that_makes_it_simple_to_use/)
+- [Minimalist IPC/RPC package](https://www.reddit.com/r/javascript/comments/1kvt2v2/minimalist_ipcrpc_package/)
+- [[AskJS] How can a third party library return vue/react/svelte reactive objects?](https://www.reddit.com/r/javascript/comments/1kvrbxl/askjs_how_can_a_third_party_library_return/)
+- [[AskJS] pdf editor in react](https://www.reddit.com/r/javascript/comments/1kvq7s6/askjs_pdf_editor_in_react/)
+- [Your /r/javascript recap for the week of May 19 - May 25, 2025](https://www.reddit.com/r/javascript/comments/1kvpu23/your_rjavascript_recap_for_the_week_of_may_19_may/)
+- [[AskJS] I have html code which is created from pdf using pdf.co api, I gave that html code to ckeditor as initialData but it doesn’t show that exact layout. But in online html preview it looks exact like pdf. Suggest me way that i can have same in ckeditor](https://www.reddit.com/r/javascript/comments/1kvnytz/askjs_i_have_html_code_which_is_created_from_pdf/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
