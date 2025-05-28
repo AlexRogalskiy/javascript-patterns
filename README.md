@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] How do I start contributing to open source javascript projects? Where do I look? How do I know the tech debt of open source projects or what issues are there which I can fix? Am I supposed to pick one open source, study the whole code and then figure out what contribution I can make?](https://www.reddit.com/r/javascript/comments/1kx5wqy/askjs_how_do_i_start_contributing_to_open_source/)
+- [Built an open source offline VIN decoder with ~100ms decode times.](https://www.reddit.com/r/javascript/comments/1kwyx66/built_an_open_source_offline_vin_decoder_with/)
+- [JavaScript Implementation of Logical Reversibility of Computation](https://www.reddit.com/r/javascript/comments/1kwrpwc/javascript_implementation_of_logical/)
+- [YJS is not working with y-webrtc](https://www.reddit.com/r/javascript/comments/1kwrgqb/yjs_is_not_working_with_ywebrtc/)
+- [[AskJS] Looking for a sanity check on JavaScript from experienced devs](https://www.reddit.com/r/javascript/comments/1kwq8wi/askjs_looking_for_a_sanity_check_on_javascript/)
+- [Add rich shortcuts to HTML an easy way](https://www.reddit.com/r/javascript/comments/1kwou07/add_rich_shortcuts_to_html_an_easy_way/)
+- [I&#39;ve created this blog site dedicated solely to Next.js, offering several tutorials, how-to&#39;s and more intuitive articles that the official docs don&#39;t offer. Join me and visit the site if you&#39;re passionate about Next.js and code like me.](https://www.reddit.com/r/javascript/comments/1kwjuem/ive_created_this_blog_site_dedicated_solely_to/)
+- [[AskJS] I challenged myself to make a 3D multiplayer FPS game engine with no frameworks and no bullsh*t](https://www.reddit.com/r/javascript/comments/1kwipc8/askjs_i_challenged_myself_to_make_a_3d/)
+- [[AskJS] Guys, I want to gather some cool creative ideas, so please unleash your imagination.](https://www.reddit.com/r/javascript/comments/1kwi4kp/askjs_guys_i_want_to_gather_some_cool_creative/)
 - [Supercharge Your Testing and Benchmarking with a Customizable JavaScript Object Generator!](https://www.reddit.com/r/javascript/comments/1kwc5of/supercharge_your_testing_and_benchmarking_with_a/)
-- [[AskJS] Data Sharing Between Browser-Based JS Apps on Different Domains With CORS Disabled](https://www.reddit.com/r/javascript/comments/1kw33g6/askjs_data_sharing_between_browserbased_js_apps/)
-- [#Built a Claude Code JS SDK with session forking/revert to unlock new AI workflows](https://www.reddit.com/r/javascript/comments/1kw30nw/built_a_claude_code_js_sdk_with_session/)
-- [JavaScript style for optimal size](https://www.reddit.com/r/javascript/comments/1kvut6q/javascript_style_for_optimal_size/)
-- [I made a library that makes it simple to use server-sent events: real-time server-to-client communication without WebSockets](https://www.reddit.com/r/javascript/comments/1kvurel/i_made_a_library_that_makes_it_simple_to_use/)
-- [Minimalist IPC/RPC package](https://www.reddit.com/r/javascript/comments/1kvt2v2/minimalist_ipcrpc_package/)
-- [[AskJS] How can a third party library return vue/react/svelte reactive objects?](https://www.reddit.com/r/javascript/comments/1kvrbxl/askjs_how_can_a_third_party_library_return/)
-- [[AskJS] pdf editor in react](https://www.reddit.com/r/javascript/comments/1kvq7s6/askjs_pdf_editor_in_react/)
-- [Your /r/javascript recap for the week of May 19 - May 25, 2025](https://www.reddit.com/r/javascript/comments/1kvpu23/your_rjavascript_recap_for_the_week_of_may_19_may/)
-- [[AskJS] I have html code which is created from pdf using pdf.co api, I gave that html code to ckeditor as initialData but it doesn’t show that exact layout. But in online html preview it looks exact like pdf. Suggest me way that i can have same in ckeditor](https://www.reddit.com/r/javascript/comments/1kvnytz/askjs_i_have_html_code_which_is_created_from_pdf/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
