@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Apple doesn&#39;t include device info in User-Agent strings, making it impossible to know if you&#39;re dealing with an iPhone 15 or iPhone 12](https://www.reddit.com/r/javascript/comments/1kxdm2c/apple_doesnt_include_device_info_in_useragent/)
+- [CheerpJ 4.1: Java in the browser, now supporting Java 17 &lpar;preview&rpar;](https://www.reddit.com/r/javascript/comments/1kxci1k/cheerpj_41_java_in_the_browser_now_supporting/)
+- [WTF Wednesday &lpar;May 28, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1kxalnb/wtf_wednesday_may_28_2025/)
 - [[AskJS] How do I start contributing to open source javascript projects? Where do I look? How do I know the tech debt of open source projects or what issues are there which I can fix? Am I supposed to pick one open source, study the whole code and then figure out what contribution I can make?](https://www.reddit.com/r/javascript/comments/1kx5wqy/askjs_how_do_i_start_contributing_to_open_source/)
 - [Built an open source offline VIN decoder with ~100ms decode times.](https://www.reddit.com/r/javascript/comments/1kwyx66/built_an_open_source_offline_vin_decoder_with/)
 - [JavaScript Implementation of Logical Reversibility of Computation](https://www.reddit.com/r/javascript/comments/1kwrpwc/javascript_implementation_of_logical/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [[AskJS] Looking for a sanity check on JavaScript from experienced devs](https://www.reddit.com/r/javascript/comments/1kwq8wi/askjs_looking_for_a_sanity_check_on_javascript/)
 - [Add rich shortcuts to HTML an easy way](https://www.reddit.com/r/javascript/comments/1kwou07/add_rich_shortcuts_to_html_an_easy_way/)
 - [I&#39;ve created this blog site dedicated solely to Next.js, offering several tutorials, how-to&#39;s and more intuitive articles that the official docs don&#39;t offer. Join me and visit the site if you&#39;re passionate about Next.js and code like me.](https://www.reddit.com/r/javascript/comments/1kwjuem/ive_created_this_blog_site_dedicated_solely_to/)
-- [[AskJS] I challenged myself to make a 3D multiplayer FPS game engine with no frameworks and no bullsh*t](https://www.reddit.com/r/javascript/comments/1kwipc8/askjs_i_challenged_myself_to_make_a_3d/)
-- [[AskJS] Guys, I want to gather some cool creative ideas, so please unleash your imagination.](https://www.reddit.com/r/javascript/comments/1kwi4kp/askjs_guys_i_want_to_gather_some_cool_creative/)
-- [Supercharge Your Testing and Benchmarking with a Customizable JavaScript Object Generator!](https://www.reddit.com/r/javascript/comments/1kwc5of/supercharge_your_testing_and_benchmarking_with_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
