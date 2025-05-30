@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Best cross-framework UI libraries/platforms?](https://www.reddit.com/r/javascript/comments/1kysusr/askjs_best_crossframework_ui_librariesplatforms/)
+- [Opensource P2P 4chan Alternative using JS](https://www.reddit.com/r/javascript/comments/1kymruh/opensource_p2p_4chan_alternative_using_js/)
+- [One Roundtrip Per Navigation — overreacted](https://www.reddit.com/r/javascript/comments/1kymbsu/one_roundtrip_per_navigation_overreacted/)
+- [[AskJS] Logging with Mongoose](https://www.reddit.com/r/javascript/comments/1ky63c6/askjs_logging_with_mongoose/)
 - [Apple doesn&#39;t include device info in User-Agent strings, making it impossible to know if you&#39;re dealing with an iPhone 15 or iPhone 12](https://www.reddit.com/r/javascript/comments/1kxdm2c/apple_doesnt_include_device_info_in_useragent/)
 - [CheerpJ 4.1: Java in the browser, now supporting Java 17 &lpar;preview&rpar;](https://www.reddit.com/r/javascript/comments/1kxci1k/cheerpj_41_java_in_the_browser_now_supporting/)
 - [WTF Wednesday &lpar;May 28, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1kxalnb/wtf_wednesday_may_28_2025/)
 - [[AskJS] How do I start contributing to open source javascript projects? Where do I look? How do I know the tech debt of open source projects or what issues are there which I can fix? Am I supposed to pick one open source, study the whole code and then figure out what contribution I can make?](https://www.reddit.com/r/javascript/comments/1kx5wqy/askjs_how_do_i_start_contributing_to_open_source/)
 - [Built an open source offline VIN decoder with ~100ms decode times.](https://www.reddit.com/r/javascript/comments/1kwyx66/built_an_open_source_offline_vin_decoder_with/)
 - [JavaScript Implementation of Logical Reversibility of Computation](https://www.reddit.com/r/javascript/comments/1kwrpwc/javascript_implementation_of_logical/)
-- [YJS is not working with y-webrtc](https://www.reddit.com/r/javascript/comments/1kwrgqb/yjs_is_not_working_with_ywebrtc/)
-- [[AskJS] Looking for a sanity check on JavaScript from experienced devs](https://www.reddit.com/r/javascript/comments/1kwq8wi/askjs_looking_for_a_sanity_check_on_javascript/)
-- [Add rich shortcuts to HTML an easy way](https://www.reddit.com/r/javascript/comments/1kwou07/add_rich_shortcuts_to_html_an_easy_way/)
-- [I&#39;ve created this blog site dedicated solely to Next.js, offering several tutorials, how-to&#39;s and more intuitive articles that the official docs don&#39;t offer. Join me and visit the site if you&#39;re passionate about Next.js and code like me.](https://www.reddit.com/r/javascript/comments/1kwjuem/ive_created_this_blog_site_dedicated_solely_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
