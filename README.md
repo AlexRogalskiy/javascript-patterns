@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why Does RSC Integrate with a Bundler?](https://www.reddit.com/r/javascript/comments/1kzlsmq/why_does_rsc_integrate_with_a_bundler/)
+- [[AskJS] memory cache management](https://www.reddit.com/r/javascript/comments/1kzdd93/askjs_memory_cache_management/)
+- [Exploring &quot;No-Build Client Islands&quot;: A &lpar;New&rpar; JavaScript Pattern for SPAs](https://www.reddit.com/r/javascript/comments/1kzbw68/exploring_nobuild_client_islands_a_new_javascript/)
+- [VoidZero announces Rolldown-Vite](https://www.reddit.com/r/javascript/comments/1kz7dsp/voidzero_announces_rolldownvite/)
+- [[AskJS] eslint rule to detect semicolon after if statement](https://www.reddit.com/r/javascript/comments/1kz7bt2/askjs_eslint_rule_to_detect_semicolon_after_if/)
+- [[Forbes] Hope AI Wants To Replace Your Dev Team — But Not How You Think](https://www.reddit.com/r/javascript/comments/1kz0wym/forbes_hope_ai_wants_to_replace_your_dev_team_but/)
+- [[AskJS] Securing API Keys](https://www.reddit.com/r/javascript/comments/1kyzck6/askjs_securing_api_keys/)
 - [[AskJS] Best cross-framework UI libraries/platforms?](https://www.reddit.com/r/javascript/comments/1kysusr/askjs_best_crossframework_ui_librariesplatforms/)
 - [Opensource P2P 4chan Alternative using JS](https://www.reddit.com/r/javascript/comments/1kymruh/opensource_p2p_4chan_alternative_using_js/)
 - [One Roundtrip Per Navigation — overreacted](https://www.reddit.com/r/javascript/comments/1kymbsu/one_roundtrip_per_navigation_overreacted/)
-- [[AskJS] Logging with Mongoose](https://www.reddit.com/r/javascript/comments/1ky63c6/askjs_logging_with_mongoose/)
-- [Apple doesn&#39;t include device info in User-Agent strings, making it impossible to know if you&#39;re dealing with an iPhone 15 or iPhone 12](https://www.reddit.com/r/javascript/comments/1kxdm2c/apple_doesnt_include_device_info_in_useragent/)
-- [CheerpJ 4.1: Java in the browser, now supporting Java 17 &lpar;preview&rpar;](https://www.reddit.com/r/javascript/comments/1kxci1k/cheerpj_41_java_in_the_browser_now_supporting/)
-- [WTF Wednesday &lpar;May 28, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1kxalnb/wtf_wednesday_may_28_2025/)
-- [[AskJS] How do I start contributing to open source javascript projects? Where do I look? How do I know the tech debt of open source projects or what issues are there which I can fix? Am I supposed to pick one open source, study the whole code and then figure out what contribution I can make?](https://www.reddit.com/r/javascript/comments/1kx5wqy/askjs_how_do_i_start_contributing_to_open_source/)
-- [Built an open source offline VIN decoder with ~100ms decode times.](https://www.reddit.com/r/javascript/comments/1kwyx66/built_an_open_source_offline_vin_decoder_with/)
-- [JavaScript Implementation of Logical Reversibility of Computation](https://www.reddit.com/r/javascript/comments/1kwrpwc/javascript_implementation_of_logical/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
