@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [djmill0326/fakels: web-based directory viewer.](https://www.reddit.com/r/javascript/comments/1l0tlj5/djmill0326fakels_webbased_directory_viewer/)
-- [A TypeScript banner](https://www.reddit.com/r/javascript/comments/1l0o9o7/a_typescript_banner/)
-- [I made a library to embed Steam widgets &lpar;e.g. game/app, community group, workshop items, etc&rpar; in your website, with live updated &amp; cached data.](https://www.reddit.com/r/javascript/comments/1l0mwna/i_made_a_library_to_embed_steam_widgets_eg/)
-- [I made the tummies tool](https://www.reddit.com/r/javascript/comments/1l0m6yc/i_made_the_tummies_tool/)
-- [[AskJS] why JS tools are rewritten in rust and not Go?](https://www.reddit.com/r/javascript/comments/1l0lzxp/askjs_why_js_tools_are_rewritten_in_rust_and_not/)
-- [Distributed Systems – Message Bus with NATS Channel in NestJS &lpar;OOP Approach&rpar;](https://www.reddit.com/r/javascript/comments/1l0licg/distributed_systems_message_bus_with_nats_channel/)
-- [opensource typescript/javascript codemod transformers](https://www.reddit.com/r/javascript/comments/1l0k9bu/opensource_typescriptjavascript_codemod/)
-- [[AskJS] Popular stack for full stack?](https://www.reddit.com/r/javascript/comments/1l0jlgm/askjs_popular_stack_for_full_stack/)
-- [[AskJS] An input that accepts both alphabets and mathematical notations](https://www.reddit.com/r/javascript/comments/1l0gwu8/askjs_an_input_that_accepts_both_alphabets_and/)
-- [Built a Cypress test architecture for JavaScript projects – open to feedback](https://www.reddit.com/r/javascript/comments/1l05rdq/built_a_cypress_test_architecture_for_javascript/)
+- [I Learned How to Deobfuscate JavaScript Code — Obfuscated With JScrambler — To Fix an HTML5 Port of a Classic Neopets Flash Game.](https://www.reddit.com/r/javascript/comments/1l1sv6q/i_learned_how_to_deobfuscate_javascript_code/)
+- [A JavaScript Developer&#39;s Guide to Go](https://www.reddit.com/r/javascript/comments/1l1qmzz/a_javascript_developers_guide_to_go/)
+- [I built TryBase to turn your SQL migrations into a Hono API!](https://www.reddit.com/r/javascript/comments/1l1qjj1/i_built_trybase_to_turn_your_sql_migrations_into/)
+- [I was on the Changelog!](https://www.reddit.com/r/javascript/comments/1l1plnp/i_was_on_the_changelog/)
+- [RSC for LISP Developers](https://www.reddit.com/r/javascript/comments/1l1jjd7/rsc_for_lisp_developers/)
+- [I built a lighter, more natural, and faster front-end framework: QingKuai](https://www.reddit.com/r/javascript/comments/1l1jikh/i_built_a_lighter_more_natural_and_faster/)
+- [[AskJS] How would you implement debouncing or throttling in JavaScript, and when would each be appropriate?](https://www.reddit.com/r/javascript/comments/1l1jh3f/askjs_how_would_you_implement_debouncing_or/)
+- [ForesightJS v2.0 - modern prefetch library now with keyboard support](https://www.reddit.com/r/javascript/comments/1l1is7n/foresightjs_v20_modern_prefetch_library_now_with/)
+- [`document.currentScript` is more useful than I thought.](https://www.reddit.com/r/javascript/comments/1l1hf9s/documentcurrentscript_is_more_useful_than_i/)
+- [Your /r/javascript recap for the week of May 26 - June 01, 2025](https://www.reddit.com/r/javascript/comments/1l1d9n6/your_rjavascript_recap_for_the_week_of_may_26/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
