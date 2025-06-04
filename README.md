@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Beachpatrol: CLI to automate your everyday web browser](https://www.reddit.com/r/javascript/comments/1l2qbay/beachpatrol_cli_to_automate_your_everyday_web/)
+- [easy-live2d - Make your Live2D as easy to control as a pixi sprite! Live2D Web SDK based on Pixi.js.](https://www.reddit.com/r/javascript/comments/1l2gkyu/easylive2d_make_your_live2d_as_easy_to_control_as/)
+- [Is this the `Enum` implementation that TS/JS developers have been craving?!](https://www.reddit.com/r/javascript/comments/1l2cjax/is_this_the_enum_implementation_that_tsjs/)
+- [JQx - JQuery, the good parts redone](https://www.reddit.com/r/javascript/comments/1l29kz8/jqx_jquery_the_good_parts_redone/)
+- [I found this JavaScript landing page useful](https://www.reddit.com/r/javascript/comments/1l25ynj/i_found_this_javascript_landing_page_useful/)
+- [Tuono: full-stack React framework written in Rust and Typescript](https://www.reddit.com/r/javascript/comments/1l2447l/tuono_fullstack_react_framework_written_in_rust/)
 - [I Learned How to Deobfuscate JavaScript Code — Obfuscated With JScrambler — To Fix an HTML5 Port of a Classic Neopets Flash Game.](https://www.reddit.com/r/javascript/comments/1l1sv6q/i_learned_how_to_deobfuscate_javascript_code/)
 - [A JavaScript Developer&#39;s Guide to Go](https://www.reddit.com/r/javascript/comments/1l1qmzz/a_javascript_developers_guide_to_go/)
 - [I built TryBase to turn your SQL migrations into a Hono API!](https://www.reddit.com/r/javascript/comments/1l1qjj1/i_built_trybase_to_turn_your_sql_migrations_into/)
 - [I was on the Changelog!](https://www.reddit.com/r/javascript/comments/1l1plnp/i_was_on_the_changelog/)
-- [RSC for LISP Developers](https://www.reddit.com/r/javascript/comments/1l1jjd7/rsc_for_lisp_developers/)
-- [I built a lighter, more natural, and faster front-end framework: QingKuai](https://www.reddit.com/r/javascript/comments/1l1jikh/i_built_a_lighter_more_natural_and_faster/)
-- [[AskJS] How would you implement debouncing or throttling in JavaScript, and when would each be appropriate?](https://www.reddit.com/r/javascript/comments/1l1jh3f/askjs_how_would_you_implement_debouncing_or/)
-- [ForesightJS v2.0 - modern prefetch library now with keyboard support](https://www.reddit.com/r/javascript/comments/1l1is7n/foresightjs_v20_modern_prefetch_library_now_with/)
-- [`document.currentScript` is more useful than I thought.](https://www.reddit.com/r/javascript/comments/1l1hf9s/documentcurrentscript_is_more_useful_than_i/)
-- [Your /r/javascript recap for the week of May 26 - June 01, 2025](https://www.reddit.com/r/javascript/comments/1l1d9n6/your_rjavascript_recap_for_the_week_of_may_26/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
