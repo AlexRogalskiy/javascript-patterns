@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Tailwind is the worst form of CSS, except for all the others](https://www.reddit.com/r/javascript/comments/1l3kvfp/tailwind_is_the_worst_form_of_css_except_for_all/)
+- [[AskJS] do you prefer canvas-based charts or svg-based charts?](https://www.reddit.com/r/javascript/comments/1l3b8sz/askjs_do_you_prefer_canvasbased_charts_or/)
+- [WTF Wednesday &lpar;June 04, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1l2z0wb/wtf_wednesday_june_04_2025/)
 - [Beachpatrol: CLI to automate your everyday web browser](https://www.reddit.com/r/javascript/comments/1l2qbay/beachpatrol_cli_to_automate_your_everyday_web/)
 - [easy-live2d - Make your Live2D as easy to control as a pixi sprite! Live2D Web SDK based on Pixi.js.](https://www.reddit.com/r/javascript/comments/1l2gkyu/easylive2d_make_your_live2d_as_easy_to_control_as/)
 - [Is this the `Enum` implementation that TS/JS developers have been craving?!](https://www.reddit.com/r/javascript/comments/1l2cjax/is_this_the_enum_implementation_that_tsjs/)
-- [JQx - JQuery, the good parts redone](https://www.reddit.com/r/javascript/comments/1l29kz8/jqx_jquery_the_good_parts_redone/)
-- [I found this JavaScript landing page useful](https://www.reddit.com/r/javascript/comments/1l25ynj/i_found_this_javascript_landing_page_useful/)
 - [Tuono: full-stack React framework written in Rust and Typescript](https://www.reddit.com/r/javascript/comments/1l2447l/tuono_fullstack_react_framework_written_in_rust/)
 - [I Learned How to Deobfuscate JavaScript Code — Obfuscated With JScrambler — To Fix an HTML5 Port of a Classic Neopets Flash Game.](https://www.reddit.com/r/javascript/comments/1l1sv6q/i_learned_how_to_deobfuscate_javascript_code/)
 - [A JavaScript Developer&#39;s Guide to Go](https://www.reddit.com/r/javascript/comments/1l1qmzz/a_javascript_developers_guide_to_go/)
 - [I built TryBase to turn your SQL migrations into a Hono API!](https://www.reddit.com/r/javascript/comments/1l1qjj1/i_built_trybase_to_turn_your_sql_migrations_into/)
-- [I was on the Changelog!](https://www.reddit.com/r/javascript/comments/1l1plnp/i_was_on_the_changelog/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
