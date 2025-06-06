@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How Imports Work in RSC — overreacted](https://www.reddit.com/r/javascript/comments/1l47g27/how_imports_work_in_rsc_overreacted/)
+- [[AskJS] Does mastering JavaScript syntax really matter?](https://www.reddit.com/r/javascript/comments/1l46jtv/askjs_does_mastering_javascript_syntax_really/)
+- [Typesafe app search with Typesense](https://www.reddit.com/r/javascript/comments/1l445ad/typesafe_app_search_with_typesense/)
+- [JavaScript Web Serial API to build BLE Star Topology Visualizer Using RSSI signal strength](https://www.reddit.com/r/javascript/comments/1l3wzlu/javascript_web_serial_api_to_build_ble_star/)
+- [[AskJS] javascript or typescript](https://www.reddit.com/r/javascript/comments/1l3v7ko/askjs_javascript_or_typescript/)
+- [[AskJS] HIRING EU/UK- based F/E Dev](https://www.reddit.com/r/javascript/comments/1l3tk7r/askjs_hiring_euuk_based_fe_dev/)
 - [Tailwind is the worst form of CSS, except for all the others](https://www.reddit.com/r/javascript/comments/1l3kvfp/tailwind_is_the_worst_form_of_css_except_for_all/)
 - [[AskJS] do you prefer canvas-based charts or svg-based charts?](https://www.reddit.com/r/javascript/comments/1l3b8sz/askjs_do_you_prefer_canvasbased_charts_or/)
 - [WTF Wednesday &lpar;June 04, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1l2z0wb/wtf_wednesday_june_04_2025/)
 - [Beachpatrol: CLI to automate your everyday web browser](https://www.reddit.com/r/javascript/comments/1l2qbay/beachpatrol_cli_to_automate_your_everyday_web/)
-- [easy-live2d - Make your Live2D as easy to control as a pixi sprite! Live2D Web SDK based on Pixi.js.](https://www.reddit.com/r/javascript/comments/1l2gkyu/easylive2d_make_your_live2d_as_easy_to_control_as/)
-- [Is this the `Enum` implementation that TS/JS developers have been craving?!](https://www.reddit.com/r/javascript/comments/1l2cjax/is_this_the_enum_implementation_that_tsjs/)
-- [Tuono: full-stack React framework written in Rust and Typescript](https://www.reddit.com/r/javascript/comments/1l2447l/tuono_fullstack_react_framework_written_in_rust/)
-- [I Learned How to Deobfuscate JavaScript Code — Obfuscated With JScrambler — To Fix an HTML5 Port of a Classic Neopets Flash Game.](https://www.reddit.com/r/javascript/comments/1l1sv6q/i_learned_how_to_deobfuscate_javascript_code/)
-- [A JavaScript Developer&#39;s Guide to Go](https://www.reddit.com/r/javascript/comments/1l1qmzz/a_javascript_developers_guide_to_go/)
-- [I built TryBase to turn your SQL migrations into a Hono API!](https://www.reddit.com/r/javascript/comments/1l1qjj1/i_built_trybase_to_turn_your_sql_migrations_into/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
