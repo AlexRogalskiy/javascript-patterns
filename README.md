@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Intro to [A]synchronous Functional Programming](https://www.reddit.com/r/javascript/comments/1l4vi8l/intro_to_asynchronous_functional_programming/)
+- [Built a tiny JS utility library to make data human-readable — would love feedback!](https://www.reddit.com/r/javascript/comments/1l4p195/built_a_tiny_js_utility_library_to_make_data/)
+- [Meet Sentereige: A React layout component for grid, Kanban, list, and a powerful staggered grid/Masonry layout with drag-and-drop support! Try it out and simplify your UI. Feedback welcome!](https://www.reddit.com/r/javascript/comments/1l4mbia/meet_sentereige_a_react_layout_component_for_grid/)
 - [How Imports Work in RSC — overreacted](https://www.reddit.com/r/javascript/comments/1l47g27/how_imports_work_in_rsc_overreacted/)
 - [[AskJS] Does mastering JavaScript syntax really matter?](https://www.reddit.com/r/javascript/comments/1l46jtv/askjs_does_mastering_javascript_syntax_really/)
 - [Typesafe app search with Typesense](https://www.reddit.com/r/javascript/comments/1l445ad/typesafe_app_search_with_typesense/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [[AskJS] javascript or typescript](https://www.reddit.com/r/javascript/comments/1l3v7ko/askjs_javascript_or_typescript/)
 - [[AskJS] HIRING EU/UK- based F/E Dev](https://www.reddit.com/r/javascript/comments/1l3tk7r/askjs_hiring_euuk_based_fe_dev/)
 - [Tailwind is the worst form of CSS, except for all the others](https://www.reddit.com/r/javascript/comments/1l3kvfp/tailwind_is_the_worst_form_of_css_except_for_all/)
-- [[AskJS] do you prefer canvas-based charts or svg-based charts?](https://www.reddit.com/r/javascript/comments/1l3b8sz/askjs_do_you_prefer_canvasbased_charts_or/)
-- [WTF Wednesday &lpar;June 04, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1l2z0wb/wtf_wednesday_june_04_2025/)
-- [Beachpatrol: CLI to automate your everyday web browser](https://www.reddit.com/r/javascript/comments/1l2qbay/beachpatrol_cli_to_automate_your_everyday_web/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
