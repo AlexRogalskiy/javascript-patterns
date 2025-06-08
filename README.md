@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I just published my first npm package: rbac-engine - A flexible RBAC system inspired by AWS IAM](https://www.reddit.com/r/javascript/comments/1l5v7i5/i_just_published_my_first_npm_package_rbacengine/)
+- [Reactylon: Build immersive WebXR apps using React + Babylon.js](https://www.reddit.com/r/javascript/comments/1l5k0c1/reactylon_build_immersive_webxr_apps_using_react/)
+- [Built a framework-agnostic chat web component &lpar;feedback welcome!&rpar;](https://www.reddit.com/r/javascript/comments/1l5jztc/built_a_frameworkagnostic_chat_web_component/)
+- [[AskJS] State management patterns for complex list components - Share your approaches](https://www.reddit.com/r/javascript/comments/1l5i2kv/askjs_state_management_patterns_for_complex_list/)
+- [Showoff Saturday &lpar;June 07, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1l5eorq/showoff_saturday_june_07_2025/)
 - [Intro to [A]synchronous Functional Programming](https://www.reddit.com/r/javascript/comments/1l4vi8l/intro_to_asynchronous_functional_programming/)
 - [Built a tiny JS utility library to make data human-readable — would love feedback!](https://www.reddit.com/r/javascript/comments/1l4p195/built_a_tiny_js_utility_library_to_make_data/)
 - [Meet Sentereige: A React layout component for grid, Kanban, list, and a powerful staggered grid/Masonry layout with drag-and-drop support! Try it out and simplify your UI. Feedback welcome!](https://www.reddit.com/r/javascript/comments/1l4mbia/meet_sentereige_a_react_layout_component_for_grid/)
 - [How Imports Work in RSC — overreacted](https://www.reddit.com/r/javascript/comments/1l47g27/how_imports_work_in_rsc_overreacted/)
 - [[AskJS] Does mastering JavaScript syntax really matter?](https://www.reddit.com/r/javascript/comments/1l46jtv/askjs_does_mastering_javascript_syntax_really/)
-- [Typesafe app search with Typesense](https://www.reddit.com/r/javascript/comments/1l445ad/typesafe_app_search_with_typesense/)
-- [JavaScript Web Serial API to build BLE Star Topology Visualizer Using RSSI signal strength](https://www.reddit.com/r/javascript/comments/1l3wzlu/javascript_web_serial_api_to_build_ble_star/)
-- [[AskJS] javascript or typescript](https://www.reddit.com/r/javascript/comments/1l3v7ko/askjs_javascript_or_typescript/)
-- [[AskJS] HIRING EU/UK- based F/E Dev](https://www.reddit.com/r/javascript/comments/1l3tk7r/askjs_hiring_euuk_based_fe_dev/)
-- [Tailwind is the worst form of CSS, except for all the others](https://www.reddit.com/r/javascript/comments/1l3kvfp/tailwind_is_the_worst_form_of_css_except_for_all/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
