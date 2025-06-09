@@ -277,6 +277,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Built an ESLint plugin to manage feature flags lifecycle &lpar;feedback welcome!&rpar;](https://www.reddit.com/r/javascript/comments/1l6cy35/built_an_eslint_plugin_to_manage_feature_flags/)
 - [I just published my first npm package: rbac-engine - A flexible RBAC system inspired by AWS IAM](https://www.reddit.com/r/javascript/comments/1l5v7i5/i_just_published_my_first_npm_package_rbacengine/)
 - [Reactylon: Build immersive WebXR apps using React + Babylon.js](https://www.reddit.com/r/javascript/comments/1l5k0c1/reactylon_build_immersive_webxr_apps_using_react/)
 - [Built a framework-agnostic chat web component &lpar;feedback welcome!&rpar;](https://www.reddit.com/r/javascript/comments/1l5jztc/built_a_frameworkagnostic_chat_web_component/)
@@ -286,7 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Built a tiny JS utility library to make data human-readable — would love feedback!](https://www.reddit.com/r/javascript/comments/1l4p195/built_a_tiny_js_utility_library_to_make_data/)
 - [Meet Sentereige: A React layout component for grid, Kanban, list, and a powerful staggered grid/Masonry layout with drag-and-drop support! Try it out and simplify your UI. Feedback welcome!](https://www.reddit.com/r/javascript/comments/1l4mbia/meet_sentereige_a_react_layout_component_for_grid/)
 - [How Imports Work in RSC — overreacted](https://www.reddit.com/r/javascript/comments/1l47g27/how_imports_work_in_rsc_overreacted/)
-- [[AskJS] Does mastering JavaScript syntax really matter?](https://www.reddit.com/r/javascript/comments/1l46jtv/askjs_does_mastering_javascript_syntax_really/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
