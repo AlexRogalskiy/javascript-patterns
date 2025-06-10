@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Would you pay for a Node.js module that lets you easily add customizable live wallpaper functionality to your Android app?](https://www.reddit.com/r/javascript/comments/1l7jc7k/askjs_would_you_pay_for_a_nodejs_module_that_lets/)
+- [Your /r/javascript recap for the week of June 02 - June 08, 2025](https://www.reddit.com/r/javascript/comments/1l7006a/your_rjavascript_recap_for_the_week_of_june_02/)
+- [Hey folks, presenting humanize-this v2.0 — A tiny, zero-dependency formatter for dashboards, logs &amp; interfaces &lpar;supports Indian number system too&rpar;](https://www.reddit.com/r/javascript/comments/1l6ye37/hey_folks_presenting_humanizethis_v20_a_tiny/)
 - [Built an ESLint plugin to manage feature flags lifecycle &lpar;feedback welcome!&rpar;](https://www.reddit.com/r/javascript/comments/1l6cy35/built_an_eslint_plugin_to_manage_feature_flags/)
 - [I just published my first npm package: rbac-engine - A flexible RBAC system inspired by AWS IAM](https://www.reddit.com/r/javascript/comments/1l5v7i5/i_just_published_my_first_npm_package_rbacengine/)
 - [Reactylon: Build immersive WebXR apps using React + Babylon.js](https://www.reddit.com/r/javascript/comments/1l5k0c1/reactylon_build_immersive_webxr_apps_using_react/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [[AskJS] State management patterns for complex list components - Share your approaches](https://www.reddit.com/r/javascript/comments/1l5i2kv/askjs_state_management_patterns_for_complex_list/)
 - [Showoff Saturday &lpar;June 07, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1l5eorq/showoff_saturday_june_07_2025/)
 - [Intro to [A]synchronous Functional Programming](https://www.reddit.com/r/javascript/comments/1l4vi8l/intro_to_asynchronous_functional_programming/)
-- [Built a tiny JS utility library to make data human-readable — would love feedback!](https://www.reddit.com/r/javascript/comments/1l4p195/built_a_tiny_js_utility_library_to_make_data/)
-- [Meet Sentereige: A React layout component for grid, Kanban, list, and a powerful staggered grid/Masonry layout with drag-and-drop support! Try it out and simplify your UI. Feedback welcome!](https://www.reddit.com/r/javascript/comments/1l4mbia/meet_sentereige_a_react_layout_component_for_grid/)
-- [How Imports Work in RSC — overreacted](https://www.reddit.com/r/javascript/comments/1l47g27/how_imports_work_in_rsc_overreacted/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
