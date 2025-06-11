@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Would you pay for a Node.js module that lets you easily add customizable live wallpaper functionality to your Android app?](https://www.reddit.com/r/javascript/comments/1l7jc7k/askjs_would_you_pay_for_a_nodejs_module_that_lets/)
+- [VoidZero announces Oxlint 1.0 - The first stable version of the Rust-based Linter](https://www.reddit.com/r/javascript/comments/1l87gwx/voidzero_announces_oxlint_10_the_first_stable/)
+- [Why Chrome DevTools Isn’t Enough — Profiling End Users](https://www.reddit.com/r/javascript/comments/1l84e60/why_chrome_devtools_isnt_enough_profiling_end/)
+- [Guide to the package.json `exports` field](https://www.reddit.com/r/javascript/comments/1l82caz/guide_to_the_packagejson_exports_field/)
+- [Koka - Lightweight 3kB Effect-TS alternative library based on Algebraic Effects](https://www.reddit.com/r/javascript/comments/1l7otjc/koka_lightweight_3kb_effectts_alternative_library/)
 - [Your /r/javascript recap for the week of June 02 - June 08, 2025](https://www.reddit.com/r/javascript/comments/1l7006a/your_rjavascript_recap_for_the_week_of_june_02/)
 - [Hey folks, presenting humanize-this v2.0 — A tiny, zero-dependency formatter for dashboards, logs &amp; interfaces &lpar;supports Indian number system too&rpar;](https://www.reddit.com/r/javascript/comments/1l6ye37/hey_folks_presenting_humanizethis_v20_a_tiny/)
 - [Built an ESLint plugin to manage feature flags lifecycle &lpar;feedback welcome!&rpar;](https://www.reddit.com/r/javascript/comments/1l6cy35/built_an_eslint_plugin_to_manage_feature_flags/)
 - [I just published my first npm package: rbac-engine - A flexible RBAC system inspired by AWS IAM](https://www.reddit.com/r/javascript/comments/1l5v7i5/i_just_published_my_first_npm_package_rbacengine/)
 - [Reactylon: Build immersive WebXR apps using React + Babylon.js](https://www.reddit.com/r/javascript/comments/1l5k0c1/reactylon_build_immersive_webxr_apps_using_react/)
 - [Built a framework-agnostic chat web component &lpar;feedback welcome!&rpar;](https://www.reddit.com/r/javascript/comments/1l5jztc/built_a_frameworkagnostic_chat_web_component/)
-- [[AskJS] State management patterns for complex list components - Share your approaches](https://www.reddit.com/r/javascript/comments/1l5i2kv/askjs_state_management_patterns_for_complex_list/)
-- [Showoff Saturday &lpar;June 07, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1l5eorq/showoff_saturday_june_07_2025/)
-- [Intro to [A]synchronous Functional Programming](https://www.reddit.com/r/javascript/comments/1l4vi8l/intro_to_asynchronous_functional_programming/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
