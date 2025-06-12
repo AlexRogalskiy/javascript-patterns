@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Suppressions of Suppressions](https://www.reddit.com/r/javascript/comments/1l9banu/suppressions_of_suppressions/)
+- [Flush your barrel files, now.](https://www.reddit.com/r/javascript/comments/1l8msap/flush_your_barrel_files_now/)
+- [WTF Wednesday &lpar;June 11, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1l8m1vu/wtf_wednesday_june_11_2025/)
 - [VoidZero announces Oxlint 1.0 - The first stable version of the Rust-based Linter](https://www.reddit.com/r/javascript/comments/1l87gwx/voidzero_announces_oxlint_10_the_first_stable/)
 - [Why Chrome DevTools Isn’t Enough — Profiling End Users](https://www.reddit.com/r/javascript/comments/1l84e60/why_chrome_devtools_isnt_enough_profiling_end/)
 - [Guide to the package.json `exports` field](https://www.reddit.com/r/javascript/comments/1l82caz/guide_to_the_packagejson_exports_field/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Your /r/javascript recap for the week of June 02 - June 08, 2025](https://www.reddit.com/r/javascript/comments/1l7006a/your_rjavascript_recap_for_the_week_of_june_02/)
 - [Hey folks, presenting humanize-this v2.0 — A tiny, zero-dependency formatter for dashboards, logs &amp; interfaces &lpar;supports Indian number system too&rpar;](https://www.reddit.com/r/javascript/comments/1l6ye37/hey_folks_presenting_humanizethis_v20_a_tiny/)
 - [Built an ESLint plugin to manage feature flags lifecycle &lpar;feedback welcome!&rpar;](https://www.reddit.com/r/javascript/comments/1l6cy35/built_an_eslint_plugin_to_manage_feature_flags/)
-- [I just published my first npm package: rbac-engine - A flexible RBAC system inspired by AWS IAM](https://www.reddit.com/r/javascript/comments/1l5v7i5/i_just_published_my_first_npm_package_rbacengine/)
-- [Reactylon: Build immersive WebXR apps using React + Babylon.js](https://www.reddit.com/r/javascript/comments/1l5k0c1/reactylon_build_immersive_webxr_apps_using_react/)
-- [Built a framework-agnostic chat web component &lpar;feedback welcome!&rpar;](https://www.reddit.com/r/javascript/comments/1l5jztc/built_a_frameworkagnostic_chat_web_component/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
