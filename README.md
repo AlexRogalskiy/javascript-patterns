@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Simple CQRS TypeScript Library](https://www.reddit.com/r/javascript/comments/1l9qud1/simple_cqrs_typescript_library/)
+- [Modern product tour builder – now with project-level content support &lpar;v0.1.12&rpar;](https://www.reddit.com/r/javascript/comments/1l9obkd/modern_product_tour_builder_now_with_projectlevel/)
+- [[AskJS] Pnpm and Npm difference](https://www.reddit.com/r/javascript/comments/1l9jm5k/askjs_pnpm_and_npm_difference/)
+- [An arcade game in which you can play the same arcade game, in which you can play the same arcade game](https://www.reddit.com/r/javascript/comments/1l9hjna/an_arcade_game_in_which_you_can_play_the_same/)
+- [Jest 30 released](https://www.reddit.com/r/javascript/comments/1l9d6ok/jest_30_released/)
 - [Suppressions of Suppressions](https://www.reddit.com/r/javascript/comments/1l9banu/suppressions_of_suppressions/)
 - [Flush your barrel files, now.](https://www.reddit.com/r/javascript/comments/1l8msap/flush_your_barrel_files_now/)
 - [WTF Wednesday &lpar;June 11, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1l8m1vu/wtf_wednesday_june_11_2025/)
 - [VoidZero announces Oxlint 1.0 - The first stable version of the Rust-based Linter](https://www.reddit.com/r/javascript/comments/1l87gwx/voidzero_announces_oxlint_10_the_first_stable/)
 - [Why Chrome DevTools Isn’t Enough — Profiling End Users](https://www.reddit.com/r/javascript/comments/1l84e60/why_chrome_devtools_isnt_enough_profiling_end/)
-- [Guide to the package.json `exports` field](https://www.reddit.com/r/javascript/comments/1l82caz/guide_to_the_packagejson_exports_field/)
-- [Koka - Lightweight 3kB Effect-TS alternative library based on Algebraic Effects](https://www.reddit.com/r/javascript/comments/1l7otjc/koka_lightweight_3kb_effectts_alternative_library/)
-- [Your /r/javascript recap for the week of June 02 - June 08, 2025](https://www.reddit.com/r/javascript/comments/1l7006a/your_rjavascript_recap_for_the_week_of_june_02/)
-- [Hey folks, presenting humanize-this v2.0 — A tiny, zero-dependency formatter for dashboards, logs &amp; interfaces &lpar;supports Indian number system too&rpar;](https://www.reddit.com/r/javascript/comments/1l6ye37/hey_folks_presenting_humanizethis_v20_a_tiny/)
-- [Built an ESLint plugin to manage feature flags lifecycle &lpar;feedback welcome!&rpar;](https://www.reddit.com/r/javascript/comments/1l6cy35/built_an_eslint_plugin_to_manage_feature_flags/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
