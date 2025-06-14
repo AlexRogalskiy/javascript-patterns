@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [VSCode extension to grab file contents &lpar;explorer and tabs&rpar; as Markdown for AI](https://www.reddit.com/r/javascript/comments/1lahp8j/vscode_extension_to_grab_file_contents_explorer/)
+- [Liquid Glass Effect, web based version &lpar;multithreaded&rpar;](https://www.reddit.com/r/javascript/comments/1lafh32/liquid_glass_effect_web_based_version/)
+- [[AskJS] Oh great, another Liquid Glass UI—battery&#39;s about to file a restraining order](https://www.reddit.com/r/javascript/comments/1lae5t4/askjs_oh_great_another_liquid_glass_uibatterys/)
+- [[AskJS] Python + React = Love or hate? Is it weird?](https://www.reddit.com/r/javascript/comments/1laczzt/askjs_python_react_love_or_hate_is_it_weird/)
+- [package-ui.nvim - Universal Package Manager UI for Neovim](https://www.reddit.com/r/javascript/comments/1lab4r3/packageuinvim_universal_package_manager_ui_for/)
+- [“humanize-this” is now even more stable, more powerful, and more lightweight than ever. I rebuilt it from feedback, and it’s production-ready.](https://www.reddit.com/r/javascript/comments/1la8reo/humanizethis_is_now_even_more_stable_more/)
+- [Learn to build Javascript agents from inside your code editor](https://www.reddit.com/r/javascript/comments/1la742m/learn_to_build_javascript_agents_from_inside_your/)
 - [Simple CQRS TypeScript Library](https://www.reddit.com/r/javascript/comments/1l9qud1/simple_cqrs_typescript_library/)
 - [Modern product tour builder – now with project-level content support &lpar;v0.1.12&rpar;](https://www.reddit.com/r/javascript/comments/1l9obkd/modern_product_tour_builder_now_with_projectlevel/)
 - [[AskJS] Pnpm and Npm difference](https://www.reddit.com/r/javascript/comments/1l9jm5k/askjs_pnpm_and_npm_difference/)
-- [An arcade game in which you can play the same arcade game, in which you can play the same arcade game](https://www.reddit.com/r/javascript/comments/1l9hjna/an_arcade_game_in_which_you_can_play_the_same/)
-- [Jest 30 released](https://www.reddit.com/r/javascript/comments/1l9d6ok/jest_30_released/)
-- [Suppressions of Suppressions](https://www.reddit.com/r/javascript/comments/1l9banu/suppressions_of_suppressions/)
-- [Flush your barrel files, now.](https://www.reddit.com/r/javascript/comments/1l8msap/flush_your_barrel_files_now/)
-- [WTF Wednesday &lpar;June 11, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1l8m1vu/wtf_wednesday_june_11_2025/)
-- [VoidZero announces Oxlint 1.0 - The first stable version of the Rust-based Linter](https://www.reddit.com/r/javascript/comments/1l87gwx/voidzero_announces_oxlint_10_the_first_stable/)
-- [Why Chrome DevTools Isn’t Enough — Profiling End Users](https://www.reddit.com/r/javascript/comments/1l84e60/why_chrome_devtools_isnt_enough_profiling_end/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
