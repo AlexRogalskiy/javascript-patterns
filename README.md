@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [LogTape 0.12.0 Release Notes](https://www.reddit.com/r/javascript/comments/1lbd58p/logtape_0120_release_notes/)
+- [Showoff Saturday &lpar;June 14, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1lb2gj4/showoff_saturday_june_14_2025/)
 - [VSCode extension to grab file contents &lpar;explorer and tabs&rpar; as Markdown for AI](https://www.reddit.com/r/javascript/comments/1lahp8j/vscode_extension_to_grab_file_contents_explorer/)
 - [Liquid Glass Effect, web based version &lpar;multithreaded&rpar;](https://www.reddit.com/r/javascript/comments/1lafh32/liquid_glass_effect_web_based_version/)
 - [[AskJS] Oh great, another Liquid Glass UI—battery&#39;s about to file a restraining order](https://www.reddit.com/r/javascript/comments/1lae5t4/askjs_oh_great_another_liquid_glass_uibatterys/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [“humanize-this” is now even more stable, more powerful, and more lightweight than ever. I rebuilt it from feedback, and it’s production-ready.](https://www.reddit.com/r/javascript/comments/1la8reo/humanizethis_is_now_even_more_stable_more/)
 - [Learn to build Javascript agents from inside your code editor](https://www.reddit.com/r/javascript/comments/1la742m/learn_to_build_javascript_agents_from_inside_your/)
 - [Simple CQRS TypeScript Library](https://www.reddit.com/r/javascript/comments/1l9qud1/simple_cqrs_typescript_library/)
-- [Modern product tour builder – now with project-level content support &lpar;v0.1.12&rpar;](https://www.reddit.com/r/javascript/comments/1l9obkd/modern_product_tour_builder_now_with_projectlevel/)
-- [[AskJS] Pnpm and Npm difference](https://www.reddit.com/r/javascript/comments/1l9jm5k/askjs_pnpm_and_npm_difference/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
