@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Data Types in [A]synchronous Functional Programming](https://www.reddit.com/r/javascript/comments/1lcwkka/data_types_in_asynchronous_functional_programming/)
+- [xash3d-fwgs web port](https://www.reddit.com/r/javascript/comments/1lcqcn7/xash3dfwgs_web_port/)
+- [React-like Hooks Using Vanilla JavaScript in Less Than 50 Lines of Code](https://www.reddit.com/r/javascript/comments/1lckhci/reactlike_hooks_using_vanilla_javascript_in_less/)
+- [Just published idle-observer: a modern idle/session detector for web apps, would love feedback &lpar;Supports Vue 2/3, React coming&rpar;](https://www.reddit.com/r/javascript/comments/1lck3vi/just_published_idleobserver_a_modern_idlesession/)
+- [[AskJS] What do you guys use to expose localhost to the internet — and why that tool over others?](https://www.reddit.com/r/javascript/comments/1lcjsrj/askjs_what_do_you_guys_use_to_expose_localhost_to/)
 - [Feedback Wanted: xStruct — Declarative binary structure toolkit for TypeScript](https://www.reddit.com/r/javascript/comments/1lcf40t/feedback_wanted_xstruct_declarative_binary/)
-- [DevX for AI: A Case for Stronger Investment](https://www.reddit.com/r/javascript/comments/1lc04uy/devx_for_ai_a_case_for_stronger_investment/)
 - [&quot;Mentorless &amp; Stuck: Seeking Epic Guidance to Crush My Coding Journey!&quot;](https://www.reddit.com/r/javascript/comments/1lbx6vz/mentorless_stuck_seeking_epic_guidance_to_crush/)
 - [A new CSS framework : LayoutCSS](https://www.reddit.com/r/javascript/comments/1lbvzzf/a_new_css_framework_layoutcss/)
 - [LogTape 0.12.0 Release Notes](https://www.reddit.com/r/javascript/comments/1lbd58p/logtape_0120_release_notes/)
 - [Showoff Saturday &lpar;June 14, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1lb2gj4/showoff_saturday_june_14_2025/)
-- [VSCode extension to grab file contents &lpar;explorer and tabs&rpar; as Markdown for AI](https://www.reddit.com/r/javascript/comments/1lahp8j/vscode_extension_to_grab_file_contents_explorer/)
-- [Liquid Glass Effect, web based version &lpar;multithreaded&rpar;](https://www.reddit.com/r/javascript/comments/1lafh32/liquid_glass_effect_web_based_version/)
-- [[AskJS] Oh great, another Liquid Glass UI—battery&#39;s about to file a restraining order](https://www.reddit.com/r/javascript/comments/1lae5t4/askjs_oh_great_another_liquid_glass_uibatterys/)
-- [[AskJS] Python + React = Love or hate? Is it weird?](https://www.reddit.com/r/javascript/comments/1laczzt/askjs_python_react_love_or_hate_is_it_weird/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
