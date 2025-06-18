@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Quickly set up consistent code quality tools for NodeJS, NextJS and React codebases with pre-configured linting, formatting, type checking, and CI/CD examples](https://www.reddit.com/r/javascript/comments/1le105v/quickly_set_up_consistent_code_quality_tools_for/)
+- [[AskJS] Are openEDG certifications such as JSE / JSA worth it?](https://www.reddit.com/r/javascript/comments/1ldxh8r/askjs_are_openedg_certifications_such_as_jse_jsa/)
+- [A stream-oriented messagebus for modular reactive applications](https://www.reddit.com/r/javascript/comments/1ldw9iv/a_streamoriented_messagebus_for_modular_reactive/)
+- [3x Faster Builds in Meteor 3.3: Modern Build Stack with SWC and Bundler Optimizations](https://www.reddit.com/r/javascript/comments/1ldp77b/3x_faster_builds_in_meteor_33_modern_build_stack/)
+- [Vanilla Templates – tiny 2 kB HTML-first JS template engine &lpar;GitHub&rpar;](https://www.reddit.com/r/javascript/comments/1ldk2lz/vanilla_templates_tiny_2_kb_htmlfirst_js_template/)
+- [Built a library for adding haptic feedback to web clicks](https://www.reddit.com/r/javascript/comments/1ldh5z9/built_a_library_for_adding_haptic_feedback_to_web/)
 - [Data Types in [A]synchronous Functional Programming](https://www.reddit.com/r/javascript/comments/1lcwkka/data_types_in_asynchronous_functional_programming/)
 - [xash3d-fwgs web port](https://www.reddit.com/r/javascript/comments/1lcqcn7/xash3dfwgs_web_port/)
 - [React-like Hooks Using Vanilla JavaScript in Less Than 50 Lines of Code](https://www.reddit.com/r/javascript/comments/1lckhci/reactlike_hooks_using_vanilla_javascript_in_less/)
 - [Just published idle-observer: a modern idle/session detector for web apps, would love feedback &lpar;Supports Vue 2/3, React coming&rpar;](https://www.reddit.com/r/javascript/comments/1lck3vi/just_published_idleobserver_a_modern_idlesession/)
-- [[AskJS] What do you guys use to expose localhost to the internet — and why that tool over others?](https://www.reddit.com/r/javascript/comments/1lcjsrj/askjs_what_do_you_guys_use_to_expose_localhost_to/)
-- [Feedback Wanted: xStruct — Declarative binary structure toolkit for TypeScript](https://www.reddit.com/r/javascript/comments/1lcf40t/feedback_wanted_xstruct_declarative_binary/)
-- [&quot;Mentorless &amp; Stuck: Seeking Epic Guidance to Crush My Coding Journey!&quot;](https://www.reddit.com/r/javascript/comments/1lbx6vz/mentorless_stuck_seeking_epic_guidance_to_crush/)
-- [A new CSS framework : LayoutCSS](https://www.reddit.com/r/javascript/comments/1lbvzzf/a_new_css_framework_layoutcss/)
-- [LogTape 0.12.0 Release Notes](https://www.reddit.com/r/javascript/comments/1lbd58p/logtape_0120_release_notes/)
-- [Showoff Saturday &lpar;June 14, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1lb2gj4/showoff_saturday_june_14_2025/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
