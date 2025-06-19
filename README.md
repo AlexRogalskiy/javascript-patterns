@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[OC] Created an ESLint plugin to make JavaScript mutations explicit](https://www.reddit.com/r/javascript/comments/1leur6t/oc_created_an_eslint_plugin_to_make_javascript/)
+- [React Liquid Glass](https://www.reddit.com/r/javascript/comments/1leripy/react_liquid_glass/)
+- [[AskJS] How do you promote a JavaScript library ?](https://www.reddit.com/r/javascript/comments/1leo0xt/askjs_how_do_you_promote_a_javascript_library/)
+- [When to Use ES6 Sets Instead of Arrays in JavaScript](https://www.reddit.com/r/javascript/comments/1lekchx/when_to_use_es6_sets_instead_of_arrays_in/)
+- [Biome v2: type-aware rules, monorepo support, plugins and more!](https://www.reddit.com/r/javascript/comments/1led1rl/biome_v2_typeaware_rules_monorepo_support_plugins/)
 - [Quickly set up consistent code quality tools for NodeJS, NextJS and React codebases with pre-configured linting, formatting, type checking, and CI/CD examples](https://www.reddit.com/r/javascript/comments/1le105v/quickly_set_up_consistent_code_quality_tools_for/)
 - [[AskJS] Are openEDG certifications such as JSE / JSA worth it?](https://www.reddit.com/r/javascript/comments/1ldxh8r/askjs_are_openedg_certifications_such_as_jse_jsa/)
 - [A stream-oriented messagebus for modular reactive applications](https://www.reddit.com/r/javascript/comments/1ldw9iv/a_streamoriented_messagebus_for_modular_reactive/)
 - [3x Faster Builds in Meteor 3.3: Modern Build Stack with SWC and Bundler Optimizations](https://www.reddit.com/r/javascript/comments/1ldp77b/3x_faster_builds_in_meteor_33_modern_build_stack/)
 - [Vanilla Templates – tiny 2 kB HTML-first JS template engine &lpar;GitHub&rpar;](https://www.reddit.com/r/javascript/comments/1ldk2lz/vanilla_templates_tiny_2_kb_htmlfirst_js_template/)
-- [Built a library for adding haptic feedback to web clicks](https://www.reddit.com/r/javascript/comments/1ldh5z9/built_a_library_for_adding_haptic_feedback_to_web/)
-- [Data Types in [A]synchronous Functional Programming](https://www.reddit.com/r/javascript/comments/1lcwkka/data_types_in_asynchronous_functional_programming/)
-- [xash3d-fwgs web port](https://www.reddit.com/r/javascript/comments/1lcqcn7/xash3dfwgs_web_port/)
-- [React-like Hooks Using Vanilla JavaScript in Less Than 50 Lines of Code](https://www.reddit.com/r/javascript/comments/1lckhci/reactlike_hooks_using_vanilla_javascript_in_less/)
-- [Just published idle-observer: a modern idle/session detector for web apps, would love feedback &lpar;Supports Vue 2/3, React coming&rpar;](https://www.reddit.com/r/javascript/comments/1lck3vi/just_published_idleobserver_a_modern_idlesession/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
