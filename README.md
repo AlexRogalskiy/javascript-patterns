@@ -277,6 +277,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [JSON Schema Kit — Some &lpar;very&rpar; simple helper functions for writing concise JSON Schema, perfect for OpenAI Structured Outputs.](https://www.reddit.com/r/javascript/comments/1lg017c/json_schema_kit_some_very_simple_helper_functions/)
 - [Sequential Workflow Designer: Now with a Refreshed Template](https://www.reddit.com/r/javascript/comments/1lfkjmp/sequential_workflow_designer_now_with_a_refreshed/)
 - [[AskJS] Are bindings and variables the same in js?](https://www.reddit.com/r/javascript/comments/1lfatoi/askjs_are_bindings_and_variables_the_same_in_js/)
 - [[OC] eslint-plugin-mutate](https://www.reddit.com/r/javascript/comments/1lf7i8o/oc_eslintpluginmutate/)
@@ -286,7 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Biome v2: type-aware rules, monorepo support, plugins and more!](https://www.reddit.com/r/javascript/comments/1led1rl/biome_v2_typeaware_rules_monorepo_support_plugins/)
 - [Quickly set up consistent code quality tools for NodeJS, NextJS and React codebases with pre-configured linting, formatting, type checking, and CI/CD examples](https://www.reddit.com/r/javascript/comments/1le105v/quickly_set_up_consistent_code_quality_tools_for/)
 - [[AskJS] Are openEDG certifications such as JSE / JSA worth it?](https://www.reddit.com/r/javascript/comments/1ldxh8r/askjs_are_openedg_certifications_such_as_jse_jsa/)
-- [A stream-oriented messagebus for modular reactive applications](https://www.reddit.com/r/javascript/comments/1ldw9iv/a_streamoriented_messagebus_for_modular_reactive/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
