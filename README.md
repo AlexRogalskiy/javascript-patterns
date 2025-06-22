@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Walking in the ShockScript plans](https://www.reddit.com/r/javascript/comments/1lgwsmp/walking_in_the_shockscript_plans/)
+- [I created a tool that let you display your most used licenses as an SVG.](https://www.reddit.com/r/javascript/comments/1lgvgsr/i_created_a_tool_that_let_you_display_your_most/)
+- [I created a fluid responsive image web component. It uses seam carving to add/remove &quot;unimportant&quot; parts of an image in real time so that images can fit to any size, within reason, without being noticeably stretched or squished](https://www.reddit.com/r/javascript/comments/1lgvdgy/i_created_a_fluid_responsive_image_web_component/)
+- [Showoff Saturday &lpar;June 21, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1lgqebv/showoff_saturday_june_21_2025/)
+- [[AskJS] How does extracting files from websites such as games and webgl work?](https://www.reddit.com/r/javascript/comments/1lgnuqr/askjs_how_does_extracting_files_from_websites/)
 - [JSON Schema Kit — Some &lpar;very&rpar; simple helper functions for writing concise JSON Schema, perfect for OpenAI Structured Outputs.](https://www.reddit.com/r/javascript/comments/1lg017c/json_schema_kit_some_very_simple_helper_functions/)
 - [Sequential Workflow Designer: Now with a Refreshed Template](https://www.reddit.com/r/javascript/comments/1lfkjmp/sequential_workflow_designer_now_with_a_refreshed/)
 - [[AskJS] Are bindings and variables the same in js?](https://www.reddit.com/r/javascript/comments/1lfatoi/askjs_are_bindings_and_variables_the_same_in_js/)
 - [[OC] eslint-plugin-mutate](https://www.reddit.com/r/javascript/comments/1lf7i8o/oc_eslintpluginmutate/)
 - [Simple INI-file parser &lpar;strongly-typed&rpar;](https://www.reddit.com/r/javascript/comments/1lf73j9/simple_inifile_parser_stronglytyped/)
-- [React Liquid Glass](https://www.reddit.com/r/javascript/comments/1leripy/react_liquid_glass/)
-- [When to Use ES6 Sets Instead of Arrays in JavaScript](https://www.reddit.com/r/javascript/comments/1lekchx/when_to_use_es6_sets_instead_of_arrays_in/)
-- [Biome v2: type-aware rules, monorepo support, plugins and more!](https://www.reddit.com/r/javascript/comments/1led1rl/biome_v2_typeaware_rules_monorepo_support_plugins/)
-- [Quickly set up consistent code quality tools for NodeJS, NextJS and React codebases with pre-configured linting, formatting, type checking, and CI/CD examples](https://www.reddit.com/r/javascript/comments/1le105v/quickly_set_up_consistent_code_quality_tools_for/)
-- [[AskJS] Are openEDG certifications such as JSE / JSA worth it?](https://www.reddit.com/r/javascript/comments/1ldxh8r/askjs_are_openedg_certifications_such_as_jse_jsa/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
