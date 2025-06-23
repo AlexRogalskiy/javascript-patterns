@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [HellaJS - A Reactive Library With Functional Templates](https://www.reddit.com/r/javascript/comments/1lhkfqw/hellajs_a_reactive_library_with_functional/)
+- [[AskJS] JavaScript formatter allowing to exclude sections.](https://www.reddit.com/r/javascript/comments/1lhjbos/askjs_javascript_formatter_allowing_to_exclude/)
+- [Announcing LogTape 1.0.0](https://www.reddit.com/r/javascript/comments/1lhezxj/announcing_logtape_100/)
 - [Walking in the ShockScript plans](https://www.reddit.com/r/javascript/comments/1lgwsmp/walking_in_the_shockscript_plans/)
 - [I created a tool that let you display your most used licenses as an SVG.](https://www.reddit.com/r/javascript/comments/1lgvgsr/i_created_a_tool_that_let_you_display_your_most/)
 - [I created a fluid responsive image web component. It uses seam carving to add/remove &quot;unimportant&quot; parts of an image in real time so that images can fit to any size, within reason, without being noticeably stretched or squished](https://www.reddit.com/r/javascript/comments/1lgvdgy/i_created_a_fluid_responsive_image_web_component/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [[AskJS] How does extracting files from websites such as games and webgl work?](https://www.reddit.com/r/javascript/comments/1lgnuqr/askjs_how_does_extracting_files_from_websites/)
 - [JSON Schema Kit — Some &lpar;very&rpar; simple helper functions for writing concise JSON Schema, perfect for OpenAI Structured Outputs.](https://www.reddit.com/r/javascript/comments/1lg017c/json_schema_kit_some_very_simple_helper_functions/)
 - [Sequential Workflow Designer: Now with a Refreshed Template](https://www.reddit.com/r/javascript/comments/1lfkjmp/sequential_workflow_designer_now_with_a_refreshed/)
-- [[AskJS] Are bindings and variables the same in js?](https://www.reddit.com/r/javascript/comments/1lfatoi/askjs_are_bindings_and_variables_the_same_in_js/)
-- [[OC] eslint-plugin-mutate](https://www.reddit.com/r/javascript/comments/1lf7i8o/oc_eslintpluginmutate/)
-- [Simple INI-file parser &lpar;strongly-typed&rpar;](https://www.reddit.com/r/javascript/comments/1lf73j9/simple_inifile_parser_stronglytyped/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
