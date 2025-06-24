@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [HellaJS - A Reactive Library With Functional Templates](https://www.reddit.com/r/javascript/comments/1lhkfqw/hellajs_a_reactive_library_with_functional/)
-- [[AskJS] JavaScript formatter allowing to exclude sections.](https://www.reddit.com/r/javascript/comments/1lhjbos/askjs_javascript_formatter_allowing_to_exclude/)
-- [Announcing LogTape 1.0.0](https://www.reddit.com/r/javascript/comments/1lhezxj/announcing_logtape_100/)
-- [Walking in the ShockScript plans](https://www.reddit.com/r/javascript/comments/1lgwsmp/walking_in_the_shockscript_plans/)
-- [I created a tool that let you display your most used licenses as an SVG.](https://www.reddit.com/r/javascript/comments/1lgvgsr/i_created_a_tool_that_let_you_display_your_most/)
-- [I created a fluid responsive image web component. It uses seam carving to add/remove &quot;unimportant&quot; parts of an image in real time so that images can fit to any size, within reason, without being noticeably stretched or squished](https://www.reddit.com/r/javascript/comments/1lgvdgy/i_created_a_fluid_responsive_image_web_component/)
-- [Showoff Saturday &lpar;June 21, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1lgqebv/showoff_saturday_june_21_2025/)
-- [[AskJS] How does extracting files from websites such as games and webgl work?](https://www.reddit.com/r/javascript/comments/1lgnuqr/askjs_how_does_extracting_files_from_websites/)
-- [JSON Schema Kit — Some &lpar;very&rpar; simple helper functions for writing concise JSON Schema, perfect for OpenAI Structured Outputs.](https://www.reddit.com/r/javascript/comments/1lg017c/json_schema_kit_some_very_simple_helper_functions/)
-- [Sequential Workflow Designer: Now with a Refreshed Template](https://www.reddit.com/r/javascript/comments/1lfkjmp/sequential_workflow_designer_now_with_a_refreshed/)
+- [I made a Youtube/Twitter/Instagram downloader website that allows for downloads in 15 different formats](https://www.reddit.com/r/javascript/comments/1lix1f1/i_made_a_youtubetwitterinstagram_downloader/)
+- [Built my own HTTP client while rebuilding a legacy business system in vanilla JS - it works better than I expected](https://www.reddit.com/r/javascript/comments/1liwljh/built_my_own_http_client_while_rebuilding_a/)
+- [[AskJS] Visible Confusion in Js Object!](https://www.reddit.com/r/javascript/comments/1lioxy9/askjs_visible_confusion_in_js_object/)
+- [Introducing ovr - a lightweight server framework for streaming HTML using asynchronous generator JSX.](https://www.reddit.com/r/javascript/comments/1liom6p/introducing_ovr_a_lightweight_server_framework/)
+- [Type-Safe Error Handling in GraphQL](https://www.reddit.com/r/javascript/comments/1linnqx/typesafe_error_handling_in_graphql/)
+- [I made a Chrome/Firefox extension that removes duplicate images and GIFs on Reddit profiles](https://www.reddit.com/r/javascript/comments/1lil89d/i_made_a_chromefirefox_extension_that_removes/)
+- [How we cut CKEditor&#39;s bundle size by 40%](https://www.reddit.com/r/javascript/comments/1lijfmt/how_we_cut_ckeditors_bundle_size_by_40/)
+- [RunJS: an OSS MCP server that let&#39;s LLMs safely generate and execute JavaScript](https://www.reddit.com/r/javascript/comments/1lieuqd/runjs_an_oss_mcp_server_that_lets_llms_safely/)
+- [Write more reliable JavaScript with optional chaining](https://www.reddit.com/r/javascript/comments/1lidzln/write_more_reliable_javascript_with_optional/)
+- [Your /r/javascript recap for the week of June 16 - June 22, 2025](https://www.reddit.com/r/javascript/comments/1libsa4/your_rjavascript_recap_for_the_week_of_june_16/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
