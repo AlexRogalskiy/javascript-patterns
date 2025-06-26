@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [LastSip Update: Vanilla JS caffeine calculator now has iOS app + seeking Android beta testers](https://www.reddit.com/r/javascript/comments/1lkdfbh/lastsip_update_vanilla_js_caffeine_calculator_now/)
+- [[AskJS] Who is using bun.sh](https://www.reddit.com/r/javascript/comments/1lkaj5v/askjs_who_is_using_bunsh/)
+- [DOMDOM Times #19: Can We Really Mitigate Client-Side Prototype Pollution by Using iframes?](https://www.reddit.com/r/javascript/comments/1lk99c0/domdom_times_19_can_we_really_mitigate_clientside/)
+- [Top 7 JavaScript Frameworks in 2025](https://www.reddit.com/r/javascript/comments/1lk8bnv/top_7_javascript_frameworks_in_2025/)
+- [[AskJS] what made JavaScript a language for browsers](https://www.reddit.com/r/javascript/comments/1ljxwz7/askjs_what_made_javascript_a_language_for_browsers/)
 - [Built a Chrome extension to stop asking “Where’s that link?”](https://www.reddit.com/r/javascript/comments/1ljn233/built_a_chrome_extension_to_stop_asking_wheres/)
 - [JavaScript Callbacks Explained](https://www.reddit.com/r/javascript/comments/1ljjz7p/javascript_callbacks_explained/)
 - [Check out how we reuse 93% of code between the Jolt IDE plugins, web app, and desktop app](https://www.reddit.com/r/javascript/comments/1ljjpgn/check_out_how_we_reuse_93_of_code_between_the/)
 - [Speculative Optimizations for WebAssembly using Deopts and Inlining](https://www.reddit.com/r/javascript/comments/1ljen6t/speculative_optimizations_for_webassembly_using/)
 - [I created a tool that let you display your most used licenses as an SVG.](https://www.reddit.com/r/javascript/comments/1lj88qg/i_created_a_tool_that_let_you_display_your_most/)
-- [Building Agentic Workflows for my HomeLab](https://www.reddit.com/r/javascript/comments/1lj3us4/building_agentic_workflows_for_my_homelab/)
-- [Built my own HTTP client while rebuilding a legacy business system in vanilla JS - it works better than I expected](https://www.reddit.com/r/javascript/comments/1liwljh/built_my_own_http_client_while_rebuilding_a/)
-- [[AskJS] Visible Confusion in Js Object!](https://www.reddit.com/r/javascript/comments/1lioxy9/askjs_visible_confusion_in_js_object/)
-- [Introducing ovr - a lightweight server framework for streaming HTML using asynchronous generator JSX.](https://www.reddit.com/r/javascript/comments/1liom6p/introducing_ovr_a_lightweight_server_framework/)
-- [Type-Safe Error Handling in GraphQL](https://www.reddit.com/r/javascript/comments/1linnqx/typesafe_error_handling_in_graphql/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
