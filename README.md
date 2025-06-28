@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Handling HTTP in [A]synchronous Functional Programming](https://www.reddit.com/r/javascript/comments/1lm2bf3/handling_http_in_asynchronous_functional/)
+- [No Time To Learn &lpar;Web&rpar; Framework X](https://www.reddit.com/r/javascript/comments/1llpe66/no_time_to_learn_web_framework_x/)
 - [I&#39;m looking for feedback on the new framework we created. It&#39;s full-stack TypeScript and primarily designed for today&#39;s AI use cases. If you&#39;re building a new app with an AI integration today, what&#39;s the most difficult part?](https://www.reddit.com/r/javascript/comments/1lld815/im_looking_for_feedback_on_the_new_framework_we/)
 - [I built Agora - a modern reddit alternative with transparent moderation and 0 ads](https://www.reddit.com/r/javascript/comments/1ll26ck/i_built_agora_a_modern_reddit_alternative_with/)
-- [[AskJS] FreeCodeCamp or The Odin Project](https://www.reddit.com/r/javascript/comments/1lkwwer/askjs_freecodecamp_or_the_odin_project/)
 - [[AskJS] JavaScript and React Native for mobile app development](https://www.reddit.com/r/javascript/comments/1lkvnhs/askjs_javascript_and_react_native_for_mobile_app/)
 - [[AskJS] Am getting confused when I try to check typeOf null to get a different result from what I expected](https://www.reddit.com/r/javascript/comments/1lktk1n/askjs_am_getting_confused_when_i_try_to_check/)
 - [[AskJS] Javascript Best Cource](https://www.reddit.com/r/javascript/comments/1lks5u7/askjs_javascript_best_cource/)
 - [LastSip Update: Vanilla JS caffeine calculator now has iOS app + seeking Android beta testers](https://www.reddit.com/r/javascript/comments/1lkdfbh/lastsip_update_vanilla_js_caffeine_calculator_now/)
 - [[AskJS] Who is using bun.sh](https://www.reddit.com/r/javascript/comments/1lkaj5v/askjs_who_is_using_bunsh/)
 - [DOMDOM Times #19: Can We Really Mitigate Client-Side Prototype Pollution by Using iframes?](https://www.reddit.com/r/javascript/comments/1lk99c0/domdom_times_19_can_we_really_mitigate_clientside/)
-- [Top 7 JavaScript Frameworks in 2025](https://www.reddit.com/r/javascript/comments/1lk8bnv/top_7_javascript_frameworks_in_2025/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
