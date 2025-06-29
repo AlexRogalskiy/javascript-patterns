@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [If you think Oracle owns JavaScript, then don&#39;t sign this petition](https://www.reddit.com/r/javascript/comments/1lmwvf2/if_you_think_oracle_owns_javascript_then_dont/)
+- [Built a Chrome extension to extract and log media info from a streaming site – feedback appreciated!](https://www.reddit.com/r/javascript/comments/1lmvlac/built_a_chrome_extension_to_extract_and_log_media/)
+- [xink - a javascript API router unlike any other](https://www.reddit.com/r/javascript/comments/1lmu20z/xink_a_javascript_api_router_unlike_any_other/)
+- [Showoff Saturday &lpar;June 28, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1lmgim6/showoff_saturday_june_28_2025/)
 - [Handling HTTP in [A]synchronous Functional Programming](https://www.reddit.com/r/javascript/comments/1lm2bf3/handling_http_in_asynchronous_functional/)
 - [No Time To Learn &lpar;Web&rpar; Framework X](https://www.reddit.com/r/javascript/comments/1llpe66/no_time_to_learn_web_framework_x/)
 - [I&#39;m looking for feedback on the new framework we created. It&#39;s full-stack TypeScript and primarily designed for today&#39;s AI use cases. If you&#39;re building a new app with an AI integration today, what&#39;s the most difficult part?](https://www.reddit.com/r/javascript/comments/1lld815/im_looking_for_feedback_on_the_new_framework_we/)
-- [I built Agora - a modern reddit alternative with transparent moderation and 0 ads](https://www.reddit.com/r/javascript/comments/1ll26ck/i_built_agora_a_modern_reddit_alternative_with/)
-- [[AskJS] JavaScript and React Native for mobile app development](https://www.reddit.com/r/javascript/comments/1lkvnhs/askjs_javascript_and_react_native_for_mobile_app/)
-- [[AskJS] Am getting confused when I try to check typeOf null to get a different result from what I expected](https://www.reddit.com/r/javascript/comments/1lktk1n/askjs_am_getting_confused_when_i_try_to_check/)
-- [[AskJS] Javascript Best Cource](https://www.reddit.com/r/javascript/comments/1lks5u7/askjs_javascript_best_cource/)
-- [LastSip Update: Vanilla JS caffeine calculator now has iOS app + seeking Android beta testers](https://www.reddit.com/r/javascript/comments/1lkdfbh/lastsip_update_vanilla_js_caffeine_calculator_now/)
 - [[AskJS] Who is using bun.sh](https://www.reddit.com/r/javascript/comments/1lkaj5v/askjs_who_is_using_bunsh/)
 - [DOMDOM Times #19: Can We Really Mitigate Client-Side Prototype Pollution by Using iframes?](https://www.reddit.com/r/javascript/comments/1lk99c0/domdom_times_19_can_we_really_mitigate_clientside/)
+- [[AskJS] what made JavaScript a language for browsers](https://www.reddit.com/r/javascript/comments/1ljxwz7/askjs_what_made_javascript_a_language_for_browsers/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
