@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Confused About Which Language to Do DSA In - Python or JavaScript?](https://www.reddit.com/r/javascript/comments/1lnvsk0/askjs_confused_about_which_language_to_do_dsa_in/)
+- [prompthub-cli: Git-style Version Control for AI Prompts [Open Source]](https://www.reddit.com/r/javascript/comments/1lna39y/prompthubcli_gitstyle_version_control_for_ai/)
+- [A color picker library for both Vue 2.7 &amp; 3 - feedback welcome!](https://www.reddit.com/r/javascript/comments/1ln9chb/a_color_picker_library_for_both_vue_27_3_feedback/)
 - [If you think Oracle owns JavaScript, then don&#39;t sign this petition](https://www.reddit.com/r/javascript/comments/1lmwvf2/if_you_think_oracle_owns_javascript_then_dont/)
 - [Built a Chrome extension to extract and log media info from a streaming site – feedback appreciated!](https://www.reddit.com/r/javascript/comments/1lmvlac/built_a_chrome_extension_to_extract_and_log_media/)
 - [xink - a javascript API router unlike any other](https://www.reddit.com/r/javascript/comments/1lmu20z/xink_a_javascript_api_router_unlike_any_other/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Handling HTTP in [A]synchronous Functional Programming](https://www.reddit.com/r/javascript/comments/1lm2bf3/handling_http_in_asynchronous_functional/)
 - [No Time To Learn &lpar;Web&rpar; Framework X](https://www.reddit.com/r/javascript/comments/1llpe66/no_time_to_learn_web_framework_x/)
 - [I&#39;m looking for feedback on the new framework we created. It&#39;s full-stack TypeScript and primarily designed for today&#39;s AI use cases. If you&#39;re building a new app with an AI integration today, what&#39;s the most difficult part?](https://www.reddit.com/r/javascript/comments/1lld815/im_looking_for_feedback_on_the_new_framework_we/)
-- [[AskJS] Who is using bun.sh](https://www.reddit.com/r/javascript/comments/1lkaj5v/askjs_who_is_using_bunsh/)
-- [DOMDOM Times #19: Can We Really Mitigate Client-Side Prototype Pollution by Using iframes?](https://www.reddit.com/r/javascript/comments/1lk99c0/domdom_times_19_can_we_really_mitigate_clientside/)
-- [[AskJS] what made JavaScript a language for browsers](https://www.reddit.com/r/javascript/comments/1ljxwz7/askjs_what_made_javascript_a_language_for_browsers/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
