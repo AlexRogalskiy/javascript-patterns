@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I built a toy compiler in TypeScript for Pinky that targets WebAssembly](https://www.reddit.com/r/javascript/comments/1lopzol/i_built_a_toy_compiler_in_typescript_for_pinky/)
+- [[OC] babel-plugin-defer](https://www.reddit.com/r/javascript/comments/1lom2k0/oc_babelplugindefer/)
+- [We just open-sourced SmythOS a framework for Agentic AI](https://www.reddit.com/r/javascript/comments/1lo7tjf/we_just_opensourced_smythos_a_framework_for/)
+- [GitHub - 5hubham5ingh/js-util: JavaScript-powered Stream Manipulation](https://www.reddit.com/r/javascript/comments/1lo4z65/github_5hubham5inghjsutil_javascriptpowered/)
+- [PM2 Process Monitor GUI](https://www.reddit.com/r/javascript/comments/1lo46aq/pm2_process_monitor_gui/)
+- [[AskJS] Need help to get started from Flask](https://www.reddit.com/r/javascript/comments/1lo2wwa/askjs_need_help_to_get_started_from_flask/)
+- [Release Neo.mjs v10.0.0-beta.2: Polishing the Core, Securing the UI, and Enriching the Docs · neomjs/neo](https://www.reddit.com/r/javascript/comments/1lnzgvn/release_neomjs_v1000beta2_polishing_the_core/)
+- [State of Devs 2025 Survey Results](https://www.reddit.com/r/javascript/comments/1lnwzwi/state_of_devs_2025_survey_results/)
 - [[AskJS] Confused About Which Language to Do DSA In - Python or JavaScript?](https://www.reddit.com/r/javascript/comments/1lnvsk0/askjs_confused_about_which_language_to_do_dsa_in/)
 - [prompthub-cli: Git-style Version Control for AI Prompts [Open Source]](https://www.reddit.com/r/javascript/comments/1lna39y/prompthubcli_gitstyle_version_control_for_ai/)
-- [A color picker library for both Vue 2.7 &amp; 3 - feedback welcome!](https://www.reddit.com/r/javascript/comments/1ln9chb/a_color_picker_library_for_both_vue_27_3_feedback/)
-- [If you think Oracle owns JavaScript, then don&#39;t sign this petition](https://www.reddit.com/r/javascript/comments/1lmwvf2/if_you_think_oracle_owns_javascript_then_dont/)
-- [Built a Chrome extension to extract and log media info from a streaming site – feedback appreciated!](https://www.reddit.com/r/javascript/comments/1lmvlac/built_a_chrome_extension_to_extract_and_log_media/)
-- [xink - a javascript API router unlike any other](https://www.reddit.com/r/javascript/comments/1lmu20z/xink_a_javascript_api_router_unlike_any_other/)
-- [Showoff Saturday &lpar;June 28, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1lmgim6/showoff_saturday_june_28_2025/)
-- [Handling HTTP in [A]synchronous Functional Programming](https://www.reddit.com/r/javascript/comments/1lm2bf3/handling_http_in_asynchronous_functional/)
-- [No Time To Learn &lpar;Web&rpar; Framework X](https://www.reddit.com/r/javascript/comments/1llpe66/no_time_to_learn_web_framework_x/)
-- [I&#39;m looking for feedback on the new framework we created. It&#39;s full-stack TypeScript and primarily designed for today&#39;s AI use cases. If you&#39;re building a new app with an AI integration today, what&#39;s the most difficult part?](https://www.reddit.com/r/javascript/comments/1lld815/im_looking_for_feedback_on_the_new_framework_we/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
