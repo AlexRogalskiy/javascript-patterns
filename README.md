@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Built a QR Code Generator That Doesn&#39;t Suck](https://www.reddit.com/r/javascript/comments/1lpki33/built_a_qr_code_generator_that_doesnt_suck/)
+- [[AskJS] Coolmathgames Cursor Trail](https://www.reddit.com/r/javascript/comments/1lpf0ab/askjs_coolmathgames_cursor_trail/)
+- [Rewriting My First Library in Rust + WASM: img-toolkit](https://www.reddit.com/r/javascript/comments/1lp68fy/rewriting_my_first_library_in_rust_wasm_imgtoolkit/)
+- [Built my own digital cabin with lo-fi, rain, and zero distractions — now I live there](https://www.reddit.com/r/javascript/comments/1lp3ds6/built_my_own_digital_cabin_with_lofi_rain_and/)
+- [I built a git wrapper that lets you work in your preferred style locally while maintaining a consistent style remotely.](https://www.reddit.com/r/javascript/comments/1lp18dg/i_built_a_git_wrapper_that_lets_you_work_in_your/)
+- [Protect you website with a strong, AI resistant captcha by adding just several lines of code](https://www.reddit.com/r/javascript/comments/1lozg4q/protect_you_website_with_a_strong_ai_resistant/)
+- [Frontend-agnostic &lpar;no matter the js framework you use&rpar; performance checklist](https://www.reddit.com/r/javascript/comments/1lox94z/frontendagnostic_no_matter_the_js_framework_you/)
+- [[AskJS] Are more people really starting to build this year?](https://www.reddit.com/r/javascript/comments/1lottbj/askjs_are_more_people_really_starting_to_build/)
 - [I built a toy compiler in TypeScript for Pinky that targets WebAssembly](https://www.reddit.com/r/javascript/comments/1lopzol/i_built_a_toy_compiler_in_typescript_for_pinky/)
 - [[OC] babel-plugin-defer](https://www.reddit.com/r/javascript/comments/1lom2k0/oc_babelplugindefer/)
-- [We just open-sourced SmythOS a framework for Agentic AI](https://www.reddit.com/r/javascript/comments/1lo7tjf/we_just_opensourced_smythos_a_framework_for/)
-- [GitHub - 5hubham5ingh/js-util: JavaScript-powered Stream Manipulation](https://www.reddit.com/r/javascript/comments/1lo4z65/github_5hubham5inghjsutil_javascriptpowered/)
-- [PM2 Process Monitor GUI](https://www.reddit.com/r/javascript/comments/1lo46aq/pm2_process_monitor_gui/)
-- [[AskJS] Need help to get started from Flask](https://www.reddit.com/r/javascript/comments/1lo2wwa/askjs_need_help_to_get_started_from_flask/)
-- [Release Neo.mjs v10.0.0-beta.2: Polishing the Core, Securing the UI, and Enriching the Docs · neomjs/neo](https://www.reddit.com/r/javascript/comments/1lnzgvn/release_neomjs_v1000beta2_polishing_the_core/)
-- [State of Devs 2025 Survey Results](https://www.reddit.com/r/javascript/comments/1lnwzwi/state_of_devs_2025_survey_results/)
-- [[AskJS] Confused About Which Language to Do DSA In - Python or JavaScript?](https://www.reddit.com/r/javascript/comments/1lnvsk0/askjs_confused_about_which_language_to_do_dsa_in/)
-- [prompthub-cli: Git-style Version Control for AI Prompts [Open Source]](https://www.reddit.com/r/javascript/comments/1lna39y/prompthubcli_gitstyle_version_control_for_ai/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
