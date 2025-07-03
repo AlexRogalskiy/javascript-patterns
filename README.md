@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Am I basically screwed out of jobs if I&#39;m not familiar with React? Also, where are all of the](https://www.reddit.com/r/javascript/comments/1lqecmf/askjs_am_i_basically_screwed_out_of_jobs_if_im/)
+- [[AskJS] About Maximilian Schwarzmüller&#39;s node course](https://www.reddit.com/r/javascript/comments/1lq6i3u/askjs_about_maximilian_schwarzmüllers_node_course/)
+- [Figma to React Using Cursor AI](https://www.reddit.com/r/javascript/comments/1lpwh8i/figma_to_react_using_cursor_ai/)
+- [Built OAuth-enabled MCP server with TypeScript SDK](https://www.reddit.com/r/javascript/comments/1lpuzz0/built_oauthenabled_mcp_server_with_typescript_sdk/)
+- [Built a way to prefetch based on where the user is heading with their mouse instead of on hovering.](https://www.reddit.com/r/javascript/comments/1lptja1/built_a_way_to_prefetch_based_on_where_the_user/)
+- [Integrate AI into your website in seconds](https://www.reddit.com/r/javascript/comments/1lpsl12/integrate_ai_into_your_website_in_seconds/)
 - [Built a QR Code Generator That Doesn&#39;t Suck](https://www.reddit.com/r/javascript/comments/1lpki33/built_a_qr_code_generator_that_doesnt_suck/)
 - [[AskJS] Coolmathgames Cursor Trail](https://www.reddit.com/r/javascript/comments/1lpf0ab/askjs_coolmathgames_cursor_trail/)
 - [Rewriting My First Library in Rust + WASM: img-toolkit](https://www.reddit.com/r/javascript/comments/1lp68fy/rewriting_my_first_library_in_rust_wasm_imgtoolkit/)
 - [Built my own digital cabin with lo-fi, rain, and zero distractions — now I live there](https://www.reddit.com/r/javascript/comments/1lp3ds6/built_my_own_digital_cabin_with_lofi_rain_and/)
-- [I built a git wrapper that lets you work in your preferred style locally while maintaining a consistent style remotely.](https://www.reddit.com/r/javascript/comments/1lp18dg/i_built_a_git_wrapper_that_lets_you_work_in_your/)
-- [Protect you website with a strong, AI resistant captcha by adding just several lines of code](https://www.reddit.com/r/javascript/comments/1lozg4q/protect_you_website_with_a_strong_ai_resistant/)
-- [Frontend-agnostic &lpar;no matter the js framework you use&rpar; performance checklist](https://www.reddit.com/r/javascript/comments/1lox94z/frontendagnostic_no_matter_the_js_framework_you/)
-- [[AskJS] Are more people really starting to build this year?](https://www.reddit.com/r/javascript/comments/1lottbj/askjs_are_more_people_really_starting_to_build/)
-- [I built a toy compiler in TypeScript for Pinky that targets WebAssembly](https://www.reddit.com/r/javascript/comments/1lopzol/i_built_a_toy_compiler_in_typescript_for_pinky/)
-- [[OC] babel-plugin-defer](https://www.reddit.com/r/javascript/comments/1lom2k0/oc_babelplugindefer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
