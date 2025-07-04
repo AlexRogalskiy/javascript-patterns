@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] How much of your dev work do you accomplish with AI in 2025?](https://www.reddit.com/r/javascript/comments/1lr0sjh/askjs_how_much_of_your_dev_work_do_you_accomplish/)
+- [Introducing Presidium Websocket - a WebSocket client and server for Node.js](https://www.reddit.com/r/javascript/comments/1lr024u/introducing_presidium_websocket_a_websocket/)
+- [[AskJS] How can I optimize a large JS web SDK for speed and small in size?](https://www.reddit.com/r/javascript/comments/1lqya7r/askjs_how_can_i_optimize_a_large_js_web_sdk_for/)
+- [Built a tracer with Mermaid UML visualization support for webpack&#39;s tapable hooks](https://www.reddit.com/r/javascript/comments/1lqv85m/built_a_tracer_with_mermaid_uml_visualization/)
+- [How We Refactored 10,000 i18n Call Sites Without Breaking Production](https://www.reddit.com/r/javascript/comments/1lqs47b/how_we_refactored_10000_i18n_call_sites_without/)
 - [[AskJS] Am I basically screwed out of jobs if I&#39;m not familiar with React? Also, where are all of the](https://www.reddit.com/r/javascript/comments/1lqecmf/askjs_am_i_basically_screwed_out_of_jobs_if_im/)
 - [[AskJS] About Maximilian Schwarzmüller&#39;s node course](https://www.reddit.com/r/javascript/comments/1lq6i3u/askjs_about_maximilian_schwarzmüllers_node_course/)
 - [Figma to React Using Cursor AI](https://www.reddit.com/r/javascript/comments/1lpwh8i/figma_to_react_using_cursor_ai/)
 - [Built OAuth-enabled MCP server with TypeScript SDK](https://www.reddit.com/r/javascript/comments/1lpuzz0/built_oauthenabled_mcp_server_with_typescript_sdk/)
 - [Built a way to prefetch based on where the user is heading with their mouse instead of on hovering.](https://www.reddit.com/r/javascript/comments/1lptja1/built_a_way_to_prefetch_based_on_where_the_user/)
-- [Integrate AI into your website in seconds](https://www.reddit.com/r/javascript/comments/1lpsl12/integrate_ai_into_your_website_in_seconds/)
-- [Built a QR Code Generator That Doesn&#39;t Suck](https://www.reddit.com/r/javascript/comments/1lpki33/built_a_qr_code_generator_that_doesnt_suck/)
-- [[AskJS] Coolmathgames Cursor Trail](https://www.reddit.com/r/javascript/comments/1lpf0ab/askjs_coolmathgames_cursor_trail/)
-- [Rewriting My First Library in Rust + WASM: img-toolkit](https://www.reddit.com/r/javascript/comments/1lp68fy/rewriting_my_first_library_in_rust_wasm_imgtoolkit/)
-- [Built my own digital cabin with lo-fi, rain, and zero distractions — now I live there](https://www.reddit.com/r/javascript/comments/1lp3ds6/built_my_own_digital_cabin_with_lofi_rain_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
