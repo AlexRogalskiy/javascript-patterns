@@ -277,8 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I couldn&#39;t find a good actutor implementation in js, so I decided to code it myself.](https://www.reddit.com/r/javascript/comments/1lsqvql/i_couldnt_find_a_good_actutor_implementation_in/)
+- [Showoff Saturday &lpar;July 05, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1ls3tnt/showoff_saturday_july_05_2025/)
 - [typescript-result 3.3.0 is out: generator support](https://www.reddit.com/r/javascript/comments/1lrsucz/typescriptresult_330_is_out_generator_support/)
-- [How to Round to the Nearest Integer in JavaScript](https://www.reddit.com/r/javascript/comments/1lrsjre/how_to_round_to_the_nearest_integer_in_javascript/)
 - [Built a full-stack Kanban board app with React, Redux, and Node — open to feedback or ideas](https://www.reddit.com/r/javascript/comments/1lrcopg/built_a_fullstack_kanban_board_app_with_react/)
 - [[AskJS] How much of your dev work do you accomplish with AI in 2025?](https://www.reddit.com/r/javascript/comments/1lr0sjh/askjs_how_much_of_your_dev_work_do_you_accomplish/)
 - [Introducing Presidium Websocket - a WebSocket client and server for Node.js](https://www.reddit.com/r/javascript/comments/1lr024u/introducing_presidium_websocket_a_websocket/)
@@ -286,7 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Built a tracer with Mermaid UML visualization support for webpack&#39;s tapable hooks](https://www.reddit.com/r/javascript/comments/1lqv85m/built_a_tracer_with_mermaid_uml_visualization/)
 - [How We Refactored 10,000 i18n Call Sites Without Breaking Production](https://www.reddit.com/r/javascript/comments/1lqs47b/how_we_refactored_10000_i18n_call_sites_without/)
 - [[AskJS] Am I basically screwed out of jobs if I&#39;m not familiar with React? Also, where are all of the](https://www.reddit.com/r/javascript/comments/1lqecmf/askjs_am_i_basically_screwed_out_of_jobs_if_im/)
-- [[AskJS] About Maximilian Schwarzmüller&#39;s node course](https://www.reddit.com/r/javascript/comments/1lq6i3u/askjs_about_maximilian_schwarzmüllers_node_course/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
