@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A complete Hierarchical Deterministic &lpar;HD&rpar; Wallet generator for 200+ cryptocurrencies, built with TypeScript.](https://www.reddit.com/r/javascript/comments/1lt77qz/a_complete_hierarchical_deterministic_hd_wallet/)
+- [How to loosely synchronize React stores across multiple Tauri windows &lpar;without a Rust backend&rpar;](https://www.reddit.com/r/javascript/comments/1lt2l0i/how_to_loosely_synchronize_react_stores_across/)
+- [Create React UI component with uncontrollable](https://www.reddit.com/r/javascript/comments/1lszw5y/create_react_ui_component_with_uncontrollable/)
+- [Cross &lpar;frontend&rpar; framework REPL, with markdown islands](https://www.reddit.com/r/javascript/comments/1lszqyf/cross_frontend_framework_repl_with_markdown/)
+- [Built a CLI tool that generates color shades &lpar;feedback welcome!&rpar;](https://www.reddit.com/r/javascript/comments/1lsuklz/built_a_cli_tool_that_generates_color_shades/)
 - [I couldn&#39;t find a good actutor implementation in js, so I decided to code it myself.](https://www.reddit.com/r/javascript/comments/1lsqvql/i_couldnt_find_a_good_actutor_implementation_in/)
 - [Showoff Saturday &lpar;July 05, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1ls3tnt/showoff_saturday_july_05_2025/)
 - [typescript-result 3.3.0 is out: generator support](https://www.reddit.com/r/javascript/comments/1lrsucz/typescriptresult_330_is_out_generator_support/)
 - [Built a full-stack Kanban board app with React, Redux, and Node — open to feedback or ideas](https://www.reddit.com/r/javascript/comments/1lrcopg/built_a_fullstack_kanban_board_app_with_react/)
 - [[AskJS] How much of your dev work do you accomplish with AI in 2025?](https://www.reddit.com/r/javascript/comments/1lr0sjh/askjs_how_much_of_your_dev_work_do_you_accomplish/)
-- [Introducing Presidium Websocket - a WebSocket client and server for Node.js](https://www.reddit.com/r/javascript/comments/1lr024u/introducing_presidium_websocket_a_websocket/)
-- [[AskJS] How can I optimize a large JS web SDK for speed and small in size?](https://www.reddit.com/r/javascript/comments/1lqya7r/askjs_how_can_i_optimize_a_large_js_web_sdk_for/)
-- [Built a tracer with Mermaid UML visualization support for webpack&#39;s tapable hooks](https://www.reddit.com/r/javascript/comments/1lqv85m/built_a_tracer_with_mermaid_uml_visualization/)
-- [How We Refactored 10,000 i18n Call Sites Without Breaking Production](https://www.reddit.com/r/javascript/comments/1lqs47b/how_we_refactored_10000_i18n_call_sites_without/)
-- [[AskJS] Am I basically screwed out of jobs if I&#39;m not familiar with React? Also, where are all of the](https://www.reddit.com/r/javascript/comments/1lqecmf/askjs_am_i_basically_screwed_out_of_jobs_if_im/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
