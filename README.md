@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Recursive Function - L-System Fractal Demo](https://www.reddit.com/r/javascript/comments/1ludks5/recursive_function_lsystem_fractal_demo/)
+- [[AskJS] Does vite 7 now rolldown or not?](https://www.reddit.com/r/javascript/comments/1lu1x0i/askjs_does_vite_7_now_rolldown_or_not/)
+- [I got so tired of manually translating my web apps that I built a bot to do it for me](https://www.reddit.com/r/javascript/comments/1ltwxi2/i_got_so_tired_of_manually_translating_my_web/)
+- [Share a lightweight JSON editor](https://www.reddit.com/r/javascript/comments/1ltue6z/share_a_lightweight_json_editor/)
+- [JavaScript Promises Explained, But On A Senior-Level](https://www.reddit.com/r/javascript/comments/1ltt9dt/javascript_promises_explained_but_on_a_seniorlevel/)
+- [Your /r/javascript recap for the week of June 30 - July 06, 2025](https://www.reddit.com/r/javascript/comments/1ltpdgh/your_rjavascript_recap_for_the_week_of_june_30/)
+- [A high-performance deep equality comparison utility with engine-aware design.](https://www.reddit.com/r/javascript/comments/1ltm53d/a_highperformance_deep_equality_comparison/)
 - [A complete Hierarchical Deterministic &lpar;HD&rpar; Wallet generator for 200+ cryptocurrencies, built with TypeScript.](https://www.reddit.com/r/javascript/comments/1lt77qz/a_complete_hierarchical_deterministic_hd_wallet/)
 - [How to loosely synchronize React stores across multiple Tauri windows &lpar;without a Rust backend&rpar;](https://www.reddit.com/r/javascript/comments/1lt2l0i/how_to_loosely_synchronize_react_stores_across/)
 - [Create React UI component with uncontrollable](https://www.reddit.com/r/javascript/comments/1lszw5y/create_react_ui_component_with_uncontrollable/)
-- [Cross &lpar;frontend&rpar; framework REPL, with markdown islands](https://www.reddit.com/r/javascript/comments/1lszqyf/cross_frontend_framework_repl_with_markdown/)
-- [Built a CLI tool that generates color shades &lpar;feedback welcome!&rpar;](https://www.reddit.com/r/javascript/comments/1lsuklz/built_a_cli_tool_that_generates_color_shades/)
-- [I couldn&#39;t find a good actutor implementation in js, so I decided to code it myself.](https://www.reddit.com/r/javascript/comments/1lsqvql/i_couldnt_find_a_good_actutor_implementation_in/)
-- [Showoff Saturday &lpar;July 05, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1ls3tnt/showoff_saturday_july_05_2025/)
-- [typescript-result 3.3.0 is out: generator support](https://www.reddit.com/r/javascript/comments/1lrsucz/typescriptresult_330_is_out_generator_support/)
-- [Built a full-stack Kanban board app with React, Redux, and Node — open to feedback or ideas](https://www.reddit.com/r/javascript/comments/1lrcopg/built_a_fullstack_kanban_board_app_with_react/)
-- [[AskJS] How much of your dev work do you accomplish with AI in 2025?](https://www.reddit.com/r/javascript/comments/1lr0sjh/askjs_how_much_of_your_dev_work_do_you_accomplish/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
