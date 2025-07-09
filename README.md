@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Built a simple video downloader from Youtube, Facebook... with Next.js &lpar;open source project&rpar;](https://www.reddit.com/r/javascript/comments/1lv6w0v/built_a_simple_video_downloader_from_youtube/)
+- [Announcing TypeScript 5.9 Beta](https://www.reddit.com/r/javascript/comments/1luuzfh/announcing_typescript_59_beta/)
+- [Built Beycloud File Upload: a Node.js library for unified file uploads to any cloud provider](https://www.reddit.com/r/javascript/comments/1luuvtb/built_beycloud_file_upload_a_nodejs_library_for/)
+- [I got tired of typing `typeof !== &#39;undefined&#39;` 200 times a week… so I made this tiny utility: sd-is](https://www.reddit.com/r/javascript/comments/1lutn4o/i_got_tired_of_typing_typeof_undefined_200_times/)
+- [Mind Elixir v5 – Super Smooth Mind Map Core, Now More Customizable](https://www.reddit.com/r/javascript/comments/1lupgoi/mind_elixir_v5_super_smooth_mind_map_core_now/)
+- [NuxtLabs, creators and stewards of Nitro and Nuxt, are joining Vercel](https://www.reddit.com/r/javascript/comments/1lup09a/nuxtlabs_creators_and_stewards_of_nitro_and_nuxt/)
+- [TrailBase 0.14: Sub-millisecond, open, single-executable Firebase alternative built with Rust, SQLite &amp; V8](https://www.reddit.com/r/javascript/comments/1luj2sl/trailbase_014_submillisecond_open/)
+- [NodeJS is removing corepack for real this time](https://www.reddit.com/r/javascript/comments/1luh0pi/nodejs_is_removing_corepack_for_real_this_time/)
 - [Recursive Function - L-System Fractal Demo](https://www.reddit.com/r/javascript/comments/1ludks5/recursive_function_lsystem_fractal_demo/)
 - [[AskJS] Does vite 7 now rolldown or not?](https://www.reddit.com/r/javascript/comments/1lu1x0i/askjs_does_vite_7_now_rolldown_or_not/)
-- [I got so tired of manually translating my web apps that I built a bot to do it for me](https://www.reddit.com/r/javascript/comments/1ltwxi2/i_got_so_tired_of_manually_translating_my_web/)
-- [Share a lightweight JSON editor](https://www.reddit.com/r/javascript/comments/1ltue6z/share_a_lightweight_json_editor/)
-- [JavaScript Promises Explained, But On A Senior-Level](https://www.reddit.com/r/javascript/comments/1ltt9dt/javascript_promises_explained_but_on_a_seniorlevel/)
-- [Your /r/javascript recap for the week of June 30 - July 06, 2025](https://www.reddit.com/r/javascript/comments/1ltpdgh/your_rjavascript_recap_for_the_week_of_june_30/)
-- [A high-performance deep equality comparison utility with engine-aware design.](https://www.reddit.com/r/javascript/comments/1ltm53d/a_highperformance_deep_equality_comparison/)
-- [A complete Hierarchical Deterministic &lpar;HD&rpar; Wallet generator for 200+ cryptocurrencies, built with TypeScript.](https://www.reddit.com/r/javascript/comments/1lt77qz/a_complete_hierarchical_deterministic_hd_wallet/)
-- [How to loosely synchronize React stores across multiple Tauri windows &lpar;without a Rust backend&rpar;](https://www.reddit.com/r/javascript/comments/1lt2l0i/how_to_loosely_synchronize_react_stores_across/)
-- [Create React UI component with uncontrollable](https://www.reddit.com/r/javascript/comments/1lszw5y/create_react_ui_component_with_uncontrollable/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
