@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Snippets Library](https://www.reddit.com/r/javascript/comments/1lwq3d7/snippets_library/)
+- [Mapping Values from One Range to Another](https://www.reddit.com/r/javascript/comments/1lwesxk/mapping_values_from_one_range_to_another/)
+- [What&#39;s the Most Popular Tech Stack in the Past Two Years? &lpar;Global Survey&rpar;](https://www.reddit.com/r/javascript/comments/1lwcznl/whats_the_most_popular_tech_stack_in_the_past_two/)
+- [OpenAudit – A pluggable auditing library for Node.js with PostgreSQL, MySQL, MongoDB, SQLite, and more](https://www.reddit.com/r/javascript/comments/1lwb2le/openaudit_a_pluggable_auditing_library_for_nodejs/)
 - [[AskJS] Should I abandon JS as project scope increases?](https://www.reddit.com/r/javascript/comments/1lvu26s/askjs_should_i_abandon_js_as_project_scope/)
 - [Hosting JS1024: a JavaScript code golf competition where entries must be 1024 bytes or less](https://www.reddit.com/r/javascript/comments/1lvi9n9/hosting_js1024_a_javascript_code_golf_competition/)
 - [Built a Slack-style workspace platform using Next.js + WebSockets — would love feedback on architecture &amp; real-time design](https://www.reddit.com/r/javascript/comments/1lvfu6i/built_a_slackstyle_workspace_platform_using/)
-- [[AskJS] Is there any browser that support full duplex HTTP connections?](https://www.reddit.com/r/javascript/comments/1lvfmb2/askjs_is_there_any_browser_that_support_full/)
 - [Built my own mini-React as a browser only hobby project and looking for feedback!](https://www.reddit.com/r/javascript/comments/1lvcn33/built_my_own_minireact_as_a_browser_only_hobby/)
 - [Built a simple video downloader from Youtube, Facebook... with Next.js &lpar;open source project&rpar;](https://www.reddit.com/r/javascript/comments/1lv6w0v/built_a_simple_video_downloader_from_youtube/)
 - [Announcing TypeScript 5.9 Beta](https://www.reddit.com/r/javascript/comments/1luuzfh/announcing_typescript_59_beta/)
-- [Built Beycloud File Upload: a Node.js library for unified file uploads to any cloud provider](https://www.reddit.com/r/javascript/comments/1luuvtb/built_beycloud_file_upload_a_nodejs_library_for/)
-- [I got tired of typing `typeof !== &#39;undefined&#39;` 200 times a week… so I made this tiny utility: sd-is](https://www.reddit.com/r/javascript/comments/1lutn4o/i_got_tired_of_typing_typeof_undefined_200_times/)
-- [Mind Elixir v5 – Super Smooth Mind Map Core, Now More Customizable](https://www.reddit.com/r/javascript/comments/1lupgoi/mind_elixir_v5_super_smooth_mind_map_core_now/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
