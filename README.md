@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I built a VSCode extension to see your Javascript/Typescript code on an infinite canvas.](https://www.reddit.com/r/javascript/comments/1ly8kod/i_built_a_vscode_extension_to_see_your/)
+- [[AskJS] Postfix has higher precedence than prefix... but still executes later? What kind of logic is this?](https://www.reddit.com/r/javascript/comments/1ly6ynt/askjs_postfix_has_higher_precedence_than_prefix/)
+- [We are building a fully open source selfhosted peer-to-peer reddit alternative, need feedbacks!](https://www.reddit.com/r/javascript/comments/1ly5guq/we_are_building_a_fully_open_source_selfhosted/)
+- [[AskJS] What do you think of building a minimal HTTP client with smart caching?](https://www.reddit.com/r/javascript/comments/1ly3cwb/askjs_what_do_you_think_of_building_a_minimal/)
+- [How to debug performance in Next.js beyond just logs](https://www.reddit.com/r/javascript/comments/1ly1zw5/how_to_debug_performance_in_nextjs_beyond_just/)
+- [new Date&lpar;&quot;wtf&quot;&rpar; - How well do you know JavaScript&#39;s Date class?](https://www.reddit.com/r/javascript/comments/1lxv9qj/new_datewtf_how_well_do_you_know_javascripts_date/)
+- [Showoff Saturday &lpar;July 12, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1lxu46p/showoff_saturday_july_12_2025/)
+- [[AskJS] What would you fix or avoid in modern frontend frameworks if building your own?](https://www.reddit.com/r/javascript/comments/1lxq5jy/askjs_what_would_you_fix_or_avoid_in_modern/)
 - [[AskJS] Tooling errors preference](https://www.reddit.com/r/javascript/comments/1lxpb87/askjs_tooling_errors_preference/)
 - [[AskJS] I started monitoring websites I’ve built to avoid disasters. Are you doing this too?](https://www.reddit.com/r/javascript/comments/1lxlrv0/askjs_i_started_monitoring_websites_ive_built_to/)
-- [CORS, SameSite and CSRF: The 3 Dimensions of Cookie based Authentication](https://www.reddit.com/r/javascript/comments/1lxed3s/cors_samesite_and_csrf_the_3_dimensions_of_cookie/)
-- [[AskJS] I&#39;ve created an offline POS app in 2025, is it a good idea ?](https://www.reddit.com/r/javascript/comments/1lxaeon/askjs_ive_created_an_offline_pos_app_in_2025_is/)
-- [[AskJS] How do you manage JavaScript logic in complex Retool apps?](https://www.reddit.com/r/javascript/comments/1lx9htz/askjs_how_do_you_manage_javascript_logic_in/)
-- [Snippets Library](https://www.reddit.com/r/javascript/comments/1lwq3d7/snippets_library/)
-- [Mapping Values from One Range to Another](https://www.reddit.com/r/javascript/comments/1lwesxk/mapping_values_from_one_range_to_another/)
-- [What&#39;s the Most Popular Tech Stack in the Past Two Years? &lpar;Global Survey&rpar;](https://www.reddit.com/r/javascript/comments/1lwcznl/whats_the_most_popular_tech_stack_in_the_past_two/)
-- [OpenAudit – A pluggable auditing library for Node.js with PostgreSQL, MySQL, MongoDB, SQLite, and more](https://www.reddit.com/r/javascript/comments/1lwb2le/openaudit_a_pluggable_auditing_library_for_nodejs/)
-- [[AskJS] Should I abandon JS as project scope increases?](https://www.reddit.com/r/javascript/comments/1lvu26s/askjs_should_i_abandon_js_as_project_scope/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
