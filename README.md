@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] How do you name your variables?](https://www.reddit.com/r/javascript/comments/1m0q5p5/askjs_how_do_you_name_your_variables/)
+- [Just published vue3-map-chart: interactive SVG map component for Vue 3 &lpar;world, continents, countries&rpar;](https://www.reddit.com/r/javascript/comments/1m0hax0/just_published_vue3mapchart_interactive_svg_map/)
+- [itty-chroma - chalk, for browser logs.](https://www.reddit.com/r/javascript/comments/1m0gmmy/ittychroma_chalk_for_browser_logs/)
+- [[AskJS] Need some help on the Edit Distance problem&lpar;Levenshtein Distance&rpar;.Anybody Familiar?](https://www.reddit.com/r/javascript/comments/1m0esso/askjs_need_some_help_on_the_edit_distance/)
+- [CLI tool to monitor AI token consumption - prevent costly API overruns](https://www.reddit.com/r/javascript/comments/1m0a9ge/cli_tool_to_monitor_ai_token_consumption_prevent/)
 - [I made this Tic Tac Toe game with Minimax Algorithm and different difficulties. I&#39;m so excited to share this since it&#39;s my first time implementing an algorithm to a web dev project, hope y&#39;all can enjoy it.](https://www.reddit.com/r/javascript/comments/1m01jz6/i_made_this_tic_tac_toe_game_with_minimax/)
 - [How to setup Conventional Commits in JavaScript project](https://www.reddit.com/r/javascript/comments/1lzo1ex/how_to_setup_conventional_commits_in_javascript/)
 - [28 dias estudando TypeScript — monorepo fullstack com backend, frontend, SDK, CLI, testes e CI/CD](https://www.reddit.com/r/javascript/comments/1lznssu/28_dias_estudando_typescript_monorepo_fullstack/)
 - [5 years ago I started to work on the next-gen fetcher, here it is](https://www.reddit.com/r/javascript/comments/1lzn8b8/5_years_ago_i_started_to_work_on_the_nextgen/)
 - [langstats: Languages stats with ISO codes, speakers count, countries list and its population](https://www.reddit.com/r/javascript/comments/1lzm0e4/langstats_languages_stats_with_iso_codes_speakers/)
-- [Core Programming Logic: A JS logic library with snippets + markdown docs](https://www.reddit.com/r/javascript/comments/1lzivwx/core_programming_logic_a_js_logic_library_with/)
-- [I made a JS/TS utility library with 100+ functions across arrays, objects, cache, math, events – looking for feedback!](https://www.reddit.com/r/javascript/comments/1lzhwg5/i_made_a_jsts_utility_library_with_100_functions/)
-- [Your /r/javascript recap for the week of July 07 - July 13, 2025](https://www.reddit.com/r/javascript/comments/1lzhj39/your_rjavascript_recap_for_the_week_of_july_07/)
-- [Just tested the coding capabilities of the new Chinese AI model - Kimi K2. Simple prompt, and the results were better than expected.](https://www.reddit.com/r/javascript/comments/1lz4iyc/just_tested_the_coding_capabilities_of_the_new/)
-- [itty-fetcher: simplify native fetch API for only a few bytes :&rpar;](https://www.reddit.com/r/javascript/comments/1lyxgyw/ittyfetcher_simplify_native_fetch_api_for_only_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
