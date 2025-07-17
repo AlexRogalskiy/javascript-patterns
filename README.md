@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] How to properly start learning JavaScript after a year of Java &lpar;DAW student here&rpar;](https://www.reddit.com/r/javascript/comments/1m1qisx/askjs_how_to_properly_start_learning_javascript/)
+- [Make Your Website Talk with The JavaScript Web Speech API](https://www.reddit.com/r/javascript/comments/1m1oi56/make_your_website_talk_with_the_javascript_web/)
+- [Debug webpages with code using the inspector&#39;s internal API](https://www.reddit.com/r/javascript/comments/1m1hgac/debug_webpages_with_code_using_the_inspectors/)
+- [Nuxt 4.0 is here! A thoughtful evolution focused on developer experience, with better project organization, smarter data fetching, and improved type safety](https://www.reddit.com/r/javascript/comments/1m1dmgd/nuxt_40_is_here_a_thoughtful_evolution_focused_on/)
+- [Build your website with server rendered JSX without any hydration headaches - improved Jeasx quickstart template to get you started more easily](https://www.reddit.com/r/javascript/comments/1m19kq1/build_your_website_with_server_rendered_jsx/)
+- [[AskJS] Why do teams still prefer Next.js/React over Nuxt/Vue, even when the project doesn’t seem to need the added complexity?](https://www.reddit.com/r/javascript/comments/1m17h0t/askjs_why_do_teams_still_prefer_nextjsreact_over/)
 - [[AskJS] How do you name your variables?](https://www.reddit.com/r/javascript/comments/1m0q5p5/askjs_how_do_you_name_your_variables/)
 - [Just published vue3-map-chart: interactive SVG map component for Vue 3 &lpar;world, continents, countries&rpar;](https://www.reddit.com/r/javascript/comments/1m0hax0/just_published_vue3mapchart_interactive_svg_map/)
 - [itty-chroma - chalk, for browser logs.](https://www.reddit.com/r/javascript/comments/1m0gmmy/ittychroma_chalk_for_browser_logs/)
-- [[AskJS] Need some help on the Edit Distance problem&lpar;Levenshtein Distance&rpar;.Anybody Familiar?](https://www.reddit.com/r/javascript/comments/1m0esso/askjs_need_some_help_on_the_edit_distance/)
 - [CLI tool to monitor AI token consumption - prevent costly API overruns](https://www.reddit.com/r/javascript/comments/1m0a9ge/cli_tool_to_monitor_ai_token_consumption_prevent/)
-- [I made this Tic Tac Toe game with Minimax Algorithm and different difficulties. I&#39;m so excited to share this since it&#39;s my first time implementing an algorithm to a web dev project, hope y&#39;all can enjoy it.](https://www.reddit.com/r/javascript/comments/1m01jz6/i_made_this_tic_tac_toe_game_with_minimax/)
-- [How to setup Conventional Commits in JavaScript project](https://www.reddit.com/r/javascript/comments/1lzo1ex/how_to_setup_conventional_commits_in_javascript/)
-- [28 dias estudando TypeScript — monorepo fullstack com backend, frontend, SDK, CLI, testes e CI/CD](https://www.reddit.com/r/javascript/comments/1lznssu/28_dias_estudando_typescript_monorepo_fullstack/)
-- [5 years ago I started to work on the next-gen fetcher, here it is](https://www.reddit.com/r/javascript/comments/1lzn8b8/5_years_ago_i_started_to_work_on_the_nextgen/)
-- [langstats: Languages stats with ISO codes, speakers count, countries list and its population](https://www.reddit.com/r/javascript/comments/1lzm0e4/langstats_languages_stats_with_iso_codes_speakers/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
