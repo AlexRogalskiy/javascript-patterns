@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Install Half-Life, Counter-Strike 1.6, and other mods from NPM and run in JavaScript &lpar;zero deps&rpar;](https://www.reddit.com/r/javascript/comments/1m2nfr0/install_halflife_counterstrike_16_and_other_mods/)
+- [I created YouTubeTempo: An ultimate playback speed controller with a volume booster, custom shortcuts, and a clean settings menu.](https://www.reddit.com/r/javascript/comments/1m2lvka/i_created_youtubetempo_an_ultimate_playback_speed/)
+- [I built a Pokémon-style GitHub profile card generator - 18 types, real-time stats, works in READMEs&quot;](https://www.reddit.com/r/javascript/comments/1m2ghf1/i_built_a_pokémonstyle_github_profile_card/)
+- [GrowField - a tiny, dependency-free JavaScript module that makes textareas grow naturally with their content! Zero dependencies, lightweight &amp; fast, and the perfect UX enhancement.](https://www.reddit.com/r/javascript/comments/1m2foyg/growfield_a_tiny_dependencyfree_javascript_module/)
+- [[AskJS] Are JavaScript frameworks getting too bloated with JSX and virtual DOMs?](https://www.reddit.com/r/javascript/comments/1m2abjs/askjs_are_javascript_frameworks_getting_too/)
+- [Writing a Compiler in TypeScript - Like Crafting Interpreters, but with TypeScript and LLVM](https://www.reddit.com/r/javascript/comments/1m26cg5/writing_a_compiler_in_typescript_like_crafting/)
+- [A Deep Dive into JSON: Part 2. JSON &amp; Numbers](https://www.reddit.com/r/javascript/comments/1m20sqr/a_deep_dive_into_json_part_2_json_numbers/)
 - [[AskJS] How to properly start learning JavaScript after a year of Java &lpar;DAW student here&rpar;](https://www.reddit.com/r/javascript/comments/1m1qisx/askjs_how_to_properly_start_learning_javascript/)
 - [Make Your Website Talk with The JavaScript Web Speech API](https://www.reddit.com/r/javascript/comments/1m1oi56/make_your_website_talk_with_the_javascript_web/)
 - [Debug webpages with code using the inspector&#39;s internal API](https://www.reddit.com/r/javascript/comments/1m1hgac/debug_webpages_with_code_using_the_inspectors/)
-- [Nuxt 4.0 is here! A thoughtful evolution focused on developer experience, with better project organization, smarter data fetching, and improved type safety](https://www.reddit.com/r/javascript/comments/1m1dmgd/nuxt_40_is_here_a_thoughtful_evolution_focused_on/)
-- [Build your website with server rendered JSX without any hydration headaches - improved Jeasx quickstart template to get you started more easily](https://www.reddit.com/r/javascript/comments/1m19kq1/build_your_website_with_server_rendered_jsx/)
-- [[AskJS] Why do teams still prefer Next.js/React over Nuxt/Vue, even when the project doesn’t seem to need the added complexity?](https://www.reddit.com/r/javascript/comments/1m17h0t/askjs_why_do_teams_still_prefer_nextjsreact_over/)
-- [[AskJS] How do you name your variables?](https://www.reddit.com/r/javascript/comments/1m0q5p5/askjs_how_do_you_name_your_variables/)
-- [Just published vue3-map-chart: interactive SVG map component for Vue 3 &lpar;world, continents, countries&rpar;](https://www.reddit.com/r/javascript/comments/1m0hax0/just_published_vue3mapchart_interactive_svg_map/)
-- [itty-chroma - chalk, for browser logs.](https://www.reddit.com/r/javascript/comments/1m0gmmy/ittychroma_chalk_for_browser_logs/)
-- [CLI tool to monitor AI token consumption - prevent costly API overruns](https://www.reddit.com/r/javascript/comments/1m0a9ge/cli_tool_to_monitor_ai_token_consumption_prevent/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
