@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Comparing Neo.mjs to React.js &lpar;By Gemini Pro&rpar;](https://www.reddit.com/r/javascript/comments/1m36t5d/comparing_neomjs_to_reactjs_by_gemini_pro/)
+- [[AskJS] Do JS devs ever think about building apps with blockchain?](https://www.reddit.com/r/javascript/comments/1m34696/askjs_do_js_devs_ever_think_about_building_apps/)
+- [[AskJS] How to read the value of an input without pressing Enter to validate?](https://www.reddit.com/r/javascript/comments/1m33x9k/askjs_how_to_read_the_value_of_an_input_without/)
+- [Why JET™ — points on why I want to work in it](https://www.reddit.com/r/javascript/comments/1m32hgs/why_jet_points_on_why_i_want_to_work_in_it/)
+- [Bun Has Bun Shell But So Does Deno](https://www.reddit.com/r/javascript/comments/1m2z50h/bun_has_bun_shell_but_so_does_deno/)
+- [Ailoy: agent development library supporting local AI models](https://www.reddit.com/r/javascript/comments/1m2xkfm/ailoy_agent_development_library_supporting_local/)
+- [I built a zero-dependency TypeScript library for reading, writing, and converting media files in the browser &lpar;like FFmpeg, but web-native&rpar;](https://www.reddit.com/r/javascript/comments/1m2w4nd/i_built_a_zerodependency_typescript_library_for/)
 - [Install Half-Life, Counter-Strike 1.6, and other mods from NPM and run in JavaScript &lpar;zero deps&rpar;](https://www.reddit.com/r/javascript/comments/1m2nfr0/install_halflife_counterstrike_16_and_other_mods/)
 - [I created YouTubeTempo: An ultimate playback speed controller with a volume booster, custom shortcuts, and a clean settings menu.](https://www.reddit.com/r/javascript/comments/1m2lvka/i_created_youtubetempo_an_ultimate_playback_speed/)
 - [I built a Pokémon-style GitHub profile card generator - 18 types, real-time stats, works in READMEs&quot;](https://www.reddit.com/r/javascript/comments/1m2ghf1/i_built_a_pokémonstyle_github_profile_card/)
-- [GrowField - a tiny, dependency-free JavaScript module that makes textareas grow naturally with their content! Zero dependencies, lightweight &amp; fast, and the perfect UX enhancement.](https://www.reddit.com/r/javascript/comments/1m2foyg/growfield_a_tiny_dependencyfree_javascript_module/)
-- [[AskJS] Are JavaScript frameworks getting too bloated with JSX and virtual DOMs?](https://www.reddit.com/r/javascript/comments/1m2abjs/askjs_are_javascript_frameworks_getting_too/)
-- [Writing a Compiler in TypeScript - Like Crafting Interpreters, but with TypeScript and LLVM](https://www.reddit.com/r/javascript/comments/1m26cg5/writing_a_compiler_in_typescript_like_crafting/)
-- [A Deep Dive into JSON: Part 2. JSON &amp; Numbers](https://www.reddit.com/r/javascript/comments/1m20sqr/a_deep_dive_into_json_part_2_json_numbers/)
-- [[AskJS] How to properly start learning JavaScript after a year of Java &lpar;DAW student here&rpar;](https://www.reddit.com/r/javascript/comments/1m1qisx/askjs_how_to_properly_start_learning_javascript/)
-- [Make Your Website Talk with The JavaScript Web Speech API](https://www.reddit.com/r/javascript/comments/1m1oi56/make_your_website_talk_with_the_javascript_web/)
-- [Debug webpages with code using the inspector&#39;s internal API](https://www.reddit.com/r/javascript/comments/1m1hgac/debug_webpages_with_code_using_the_inspectors/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
