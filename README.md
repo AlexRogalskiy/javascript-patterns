@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Introducing ts-rules-composer – build complex validation pipelines without the pain](https://www.reddit.com/r/javascript/comments/1m529wl/introducing_tsrulescomposer_build_complex/)
+- [I created a flow editor library with multi-layer canvas &amp; DOM rendering to draw thousands of nodes fast](https://www.reddit.com/r/javascript/comments/1m4nbpd/i_created_a_flow_editor_library_with_multilayer/)
+- [Published Pathomorph.js, a small library to morph geometric objects to SVG paths that I used internally for quite some time now](https://www.reddit.com/r/javascript/comments/1m4l67d/published_pathomorphjs_a_small_library_to_morph/)
+- [Found this tiny JS utility library sd-is - surprisingly powerful for type checks + schema](https://www.reddit.com/r/javascript/comments/1m4ho4u/found_this_tiny_js_utility_library_sdis/)
+- [[macOS] Built a unified system event hooking library for Electron apps - iohook-macos](https://www.reddit.com/r/javascript/comments/1m4g3e3/macos_built_a_unified_system_event_hooking/)
 - [[AskJS] javascript library for drag and drop suggestion needed from experts](https://www.reddit.com/r/javascript/comments/1m46fdq/askjs_javascript_library_for_drag_and_drop/)
 - [Showoff Saturday &lpar;July 19, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1m3ps8h/showoff_saturday_july_19_2025/)
 - [Made a Simple Game using JS](https://www.reddit.com/r/javascript/comments/1m3nvtm/made_a_simple_game_using_js/)
 - [Comparing Neo.mjs to React.js &lpar;By Gemini Pro&rpar;](https://www.reddit.com/r/javascript/comments/1m36t5d/comparing_neomjs_to_reactjs_by_gemini_pro/)
 - [[AskJS] Do JS devs ever think about building apps with blockchain?](https://www.reddit.com/r/javascript/comments/1m34696/askjs_do_js_devs_ever_think_about_building_apps/)
-- [[AskJS] How to read the value of an input without pressing Enter to validate?](https://www.reddit.com/r/javascript/comments/1m33x9k/askjs_how_to_read_the_value_of_an_input_without/)
-- [Why JET™ — points on why I want to work in it](https://www.reddit.com/r/javascript/comments/1m32hgs/why_jet_points_on_why_i_want_to_work_in_it/)
-- [Bun Has Bun Shell But So Does Deno](https://www.reddit.com/r/javascript/comments/1m2z50h/bun_has_bun_shell_but_so_does_deno/)
-- [Ailoy: agent development library supporting local AI models](https://www.reddit.com/r/javascript/comments/1m2xkfm/ailoy_agent_development_library_supporting_local/)
-- [I built a zero-dependency TypeScript library for reading, writing, and converting media files in the browser &lpar;like FFmpeg, but web-native&rpar;](https://www.reddit.com/r/javascript/comments/1m2w4nd/i_built_a_zerodependency_typescript_library_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
