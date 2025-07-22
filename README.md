@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Treating types as values with type-level maps](https://www.reddit.com/r/javascript/comments/1m5oxnl/treating_types_as_values_with_typelevel_maps/)
+- [The 16-Line Pattern That Eliminates Prop Drilling](https://www.reddit.com/r/javascript/comments/1m5nxu9/the_16line_pattern_that_eliminates_prop_drilling/)
+- [Mapping JavaScript dependencies across services: static + semantic analysis](https://www.reddit.com/r/javascript/comments/1m5lipo/mapping_javascript_dependencies_across_services/)
+- [Your /r/javascript recap for the week of July 14 - July 20, 2025](https://www.reddit.com/r/javascript/comments/1m5dy1m/your_rjavascript_recap_for_the_week_of_july_14/)
+- [STORJ - fast javascript runtime](https://www.reddit.com/r/javascript/comments/1m5do9r/storj_fast_javascript_runtime/)
 - [Introducing ts-rules-composer – build complex validation pipelines without the pain](https://www.reddit.com/r/javascript/comments/1m529wl/introducing_tsrulescomposer_build_complex/)
 - [I created a flow editor library with multi-layer canvas &amp; DOM rendering to draw thousands of nodes fast](https://www.reddit.com/r/javascript/comments/1m4nbpd/i_created_a_flow_editor_library_with_multilayer/)
 - [Published Pathomorph.js, a small library to morph geometric objects to SVG paths that I used internally for quite some time now](https://www.reddit.com/r/javascript/comments/1m4l67d/published_pathomorphjs_a_small_library_to_morph/)
 - [Found this tiny JS utility library sd-is - surprisingly powerful for type checks + schema](https://www.reddit.com/r/javascript/comments/1m4ho4u/found_this_tiny_js_utility_library_sdis/)
 - [[macOS] Built a unified system event hooking library for Electron apps - iohook-macos](https://www.reddit.com/r/javascript/comments/1m4g3e3/macos_built_a_unified_system_event_hooking/)
-- [[AskJS] javascript library for drag and drop suggestion needed from experts](https://www.reddit.com/r/javascript/comments/1m46fdq/askjs_javascript_library_for_drag_and_drop/)
-- [Showoff Saturday &lpar;July 19, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1m3ps8h/showoff_saturday_july_19_2025/)
-- [Made a Simple Game using JS](https://www.reddit.com/r/javascript/comments/1m3nvtm/made_a_simple_game_using_js/)
-- [Comparing Neo.mjs to React.js &lpar;By Gemini Pro&rpar;](https://www.reddit.com/r/javascript/comments/1m36t5d/comparing_neomjs_to_reactjs_by_gemini_pro/)
-- [[AskJS] Do JS devs ever think about building apps with blockchain?](https://www.reddit.com/r/javascript/comments/1m34696/askjs_do_js_devs_ever_think_about_building_apps/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
