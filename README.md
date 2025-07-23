@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Those who have used both React and Vue 3, please share your experience](https://www.reddit.com/r/javascript/comments/1m6uv9m/askjs_those_who_have_used_both_react_and_vue_3/)
+- [After weeks of work, I finally built and published my first real NPM package from scratch! It&#39;s a React swipe button.](https://www.reddit.com/r/javascript/comments/1m6f919/after_weeks_of_work_i_finally_built_and_published/)
+- [Unify Protocol: for Seamless Data Integration](https://www.reddit.com/r/javascript/comments/1m69h83/unify_protocol_for_seamless_data_integration/)
 - [Treating types as values with type-level maps](https://www.reddit.com/r/javascript/comments/1m5oxnl/treating_types_as_values_with_typelevel_maps/)
 - [The 16-Line Pattern That Eliminates Prop Drilling](https://www.reddit.com/r/javascript/comments/1m5nxu9/the_16line_pattern_that_eliminates_prop_drilling/)
 - [Mapping JavaScript dependencies across services: static + semantic analysis](https://www.reddit.com/r/javascript/comments/1m5lipo/mapping_javascript_dependencies_across_services/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [STORJ - fast javascript runtime](https://www.reddit.com/r/javascript/comments/1m5do9r/storj_fast_javascript_runtime/)
 - [Introducing ts-rules-composer – build complex validation pipelines without the pain](https://www.reddit.com/r/javascript/comments/1m529wl/introducing_tsrulescomposer_build_complex/)
 - [I created a flow editor library with multi-layer canvas &amp; DOM rendering to draw thousands of nodes fast](https://www.reddit.com/r/javascript/comments/1m4nbpd/i_created_a_flow_editor_library_with_multilayer/)
-- [Published Pathomorph.js, a small library to morph geometric objects to SVG paths that I used internally for quite some time now](https://www.reddit.com/r/javascript/comments/1m4l67d/published_pathomorphjs_a_small_library_to_morph/)
-- [Found this tiny JS utility library sd-is - surprisingly powerful for type checks + schema](https://www.reddit.com/r/javascript/comments/1m4ho4u/found_this_tiny_js_utility_library_sdis/)
-- [[macOS] Built a unified system event hooking library for Electron apps - iohook-macos](https://www.reddit.com/r/javascript/comments/1m4g3e3/macos_built_a_unified_system_event_hooking/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
