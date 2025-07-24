@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Ever wish your logs told a story? I’m build that.](https://www.reddit.com/r/javascript/comments/1m7pz6v/askjs_ever_wish_your_logs_told_a_story_im_build/)
+- [Visualize how JavaScript works under the hood](https://www.reddit.com/r/javascript/comments/1m75oeq/visualize_how_javascript_works_under_the_hood/)
 - [[AskJS] Those who have used both React and Vue 3, please share your experience](https://www.reddit.com/r/javascript/comments/1m6uv9m/askjs_those_who_have_used_both_react_and_vue_3/)
 - [After weeks of work, I finally built and published my first real NPM package from scratch! It&#39;s a React swipe button.](https://www.reddit.com/r/javascript/comments/1m6f919/after_weeks_of_work_i_finally_built_and_published/)
 - [Unify Protocol: for Seamless Data Integration](https://www.reddit.com/r/javascript/comments/1m69h83/unify_protocol_for_seamless_data_integration/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Mapping JavaScript dependencies across services: static + semantic analysis](https://www.reddit.com/r/javascript/comments/1m5lipo/mapping_javascript_dependencies_across_services/)
 - [Your /r/javascript recap for the week of July 14 - July 20, 2025](https://www.reddit.com/r/javascript/comments/1m5dy1m/your_rjavascript_recap_for_the_week_of_july_14/)
 - [STORJ - fast javascript runtime](https://www.reddit.com/r/javascript/comments/1m5do9r/storj_fast_javascript_runtime/)
-- [Introducing ts-rules-composer – build complex validation pipelines without the pain](https://www.reddit.com/r/javascript/comments/1m529wl/introducing_tsrulescomposer_build_complex/)
-- [I created a flow editor library with multi-layer canvas &amp; DOM rendering to draw thousands of nodes fast](https://www.reddit.com/r/javascript/comments/1m4nbpd/i_created_a_flow_editor_library_with_multilayer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
