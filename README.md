@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Take advantage of secure and high-performance text-similarity-node](https://www.reddit.com/r/javascript/comments/1m8ectx/take_advantage_of_secure_and_highperformance/)
+- [[AskJS] Why tsup build a lib bundled a dependence&#39;s peerDependence](https://www.reddit.com/r/javascript/comments/1m8bryd/askjs_why_tsup_build_a_lib_bundled_a_dependences/)
+- [Open-source React library that makes file uploads very simple](https://www.reddit.com/r/javascript/comments/1m8bodb/opensource_react_library_that_makes_file_uploads/)
+- [A 3.4kB zero-config router and intelligent prefetcher that makes static sites feel like blazingly fast SPAs.](https://www.reddit.com/r/javascript/comments/1m89n5p/a_34kb_zeroconfig_router_and_intelligent/)
+- [es-toolkit, a drop-in replacement for Lodash, achieves 100% compatibility](https://www.reddit.com/r/javascript/comments/1m83hhi/estoolkit_a_dropin_replacement_for_lodash/)
+- [Popular npm linter packages hijacked via phishing to drop malware &lpar;BleepingComputer&rpar;](https://www.reddit.com/r/javascript/comments/1m81pdp/popular_npm_linter_packages_hijacked_via_phishing/)
+- [[AskJS] Has anyone tested Nuxt 4 yet? Share your experience?](https://www.reddit.com/r/javascript/comments/1m7xjeb/askjs_has_anyone_tested_nuxt_4_yet_share_your/)
+- [Frontend Reactivity Revolution: Named vs. Anonymous State](https://www.reddit.com/r/javascript/comments/1m7x709/frontend_reactivity_revolution_named_vs_anonymous/)
+- [[AskJS] Best practice for interaction with Canvas based implementation](https://www.reddit.com/r/javascript/comments/1m7wa35/askjs_best_practice_for_interaction_with_canvas/)
 - [[AskJS] Ever wish your logs told a story? I’m build that.](https://www.reddit.com/r/javascript/comments/1m7pz6v/askjs_ever_wish_your_logs_told_a_story_im_build/)
-- [Visualize how JavaScript works under the hood](https://www.reddit.com/r/javascript/comments/1m75oeq/visualize_how_javascript_works_under_the_hood/)
-- [[AskJS] Those who have used both React and Vue 3, please share your experience](https://www.reddit.com/r/javascript/comments/1m6uv9m/askjs_those_who_have_used_both_react_and_vue_3/)
-- [After weeks of work, I finally built and published my first real NPM package from scratch! It&#39;s a React swipe button.](https://www.reddit.com/r/javascript/comments/1m6f919/after_weeks_of_work_i_finally_built_and_published/)
-- [Unify Protocol: for Seamless Data Integration](https://www.reddit.com/r/javascript/comments/1m69h83/unify_protocol_for_seamless_data_integration/)
-- [Treating types as values with type-level maps](https://www.reddit.com/r/javascript/comments/1m5oxnl/treating_types_as_values_with_typelevel_maps/)
-- [The 16-Line Pattern That Eliminates Prop Drilling](https://www.reddit.com/r/javascript/comments/1m5nxu9/the_16line_pattern_that_eliminates_prop_drilling/)
-- [Mapping JavaScript dependencies across services: static + semantic analysis](https://www.reddit.com/r/javascript/comments/1m5lipo/mapping_javascript_dependencies_across_services/)
-- [Your /r/javascript recap for the week of July 14 - July 20, 2025](https://www.reddit.com/r/javascript/comments/1m5dy1m/your_rjavascript_recap_for_the_week_of_july_14/)
-- [STORJ - fast javascript runtime](https://www.reddit.com/r/javascript/comments/1m5do9r/storj_fast_javascript_runtime/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
