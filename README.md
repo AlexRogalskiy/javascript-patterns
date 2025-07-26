@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Take advantage of secure and high-performance text-similarity-node](https://www.reddit.com/r/javascript/comments/1m8ectx/take_advantage_of_secure_and_highperformance/)
-- [[AskJS] Why tsup build a lib bundled a dependence&#39;s peerDependence](https://www.reddit.com/r/javascript/comments/1m8bryd/askjs_why_tsup_build_a_lib_bundled_a_dependences/)
-- [Open-source React library that makes file uploads very simple](https://www.reddit.com/r/javascript/comments/1m8bodb/opensource_react_library_that_makes_file_uploads/)
-- [A 3.4kB zero-config router and intelligent prefetcher that makes static sites feel like blazingly fast SPAs.](https://www.reddit.com/r/javascript/comments/1m89n5p/a_34kb_zeroconfig_router_and_intelligent/)
-- [es-toolkit, a drop-in replacement for Lodash, achieves 100% compatibility](https://www.reddit.com/r/javascript/comments/1m83hhi/estoolkit_a_dropin_replacement_for_lodash/)
-- [Popular npm linter packages hijacked via phishing to drop malware &lpar;BleepingComputer&rpar;](https://www.reddit.com/r/javascript/comments/1m81pdp/popular_npm_linter_packages_hijacked_via_phishing/)
-- [[AskJS] Has anyone tested Nuxt 4 yet? Share your experience?](https://www.reddit.com/r/javascript/comments/1m7xjeb/askjs_has_anyone_tested_nuxt_4_yet_share_your/)
-- [Frontend Reactivity Revolution: Named vs. Anonymous State](https://www.reddit.com/r/javascript/comments/1m7x709/frontend_reactivity_revolution_named_vs_anonymous/)
-- [[AskJS] Best practice for interaction with Canvas based implementation](https://www.reddit.com/r/javascript/comments/1m7wa35/askjs_best_practice_for_interaction_with_canvas/)
-- [[AskJS] Ever wish your logs told a story? I’m build that.](https://www.reddit.com/r/javascript/comments/1m7pz6v/askjs_ever_wish_your_logs_told_a_story_im_build/)
+- [Built a lightweight visibility tracking library inspired by arrive.js — meet visible.js](https://www.reddit.com/r/javascript/comments/1m9g0s3/built_a_lightweight_visibility_tracking_library/)
+- [[AutoBE] AI-friendly Compilers for Vibe Coding, achieving 100% build success &lpar;open-source, AWS Kiro like&rpar;](https://www.reddit.com/r/javascript/comments/1m9frzl/autobe_aifriendly_compilers_for_vibe_coding/)
+- [[AskJS] Why should I use JavaScript instead of always using TypeScript?](https://www.reddit.com/r/javascript/comments/1m9fhin/askjs_why_should_i_use_javascript_instead_of/)
+- [GitHub - nkoehring/Solace](https://www.reddit.com/r/javascript/comments/1m98ukb/github_nkoehringsolace/)
+- [Introducing copyguard-js, a lightweight JavaScript utility to block copying, pasting, cutting, and right-clicking.](https://www.reddit.com/r/javascript/comments/1m97out/introducing_copyguardjs_a_lightweight_javascript/)
+- [validated type-safe env vars, directly from your .env file](https://www.reddit.com/r/javascript/comments/1m96vmw/validated_typesafe_env_vars_directly_from_your/)
+- [Vanilla JavaScript support for Tailwind Plus - every UI block in Tailwind Plus is now fully functional, accessible, and interactive, no JavaScript framework required](https://www.reddit.com/r/javascript/comments/1m96qwx/vanilla_javascript_support_for_tailwind_plus/)
+- [Add Magical Fireflies to Your Website in 10 Minutes - Free JavaScript/CSS Code](https://www.reddit.com/r/javascript/comments/1m969r0/add_magical_fireflies_to_your_website_in_10/)
+- [[AskJS] How Do You Compare JavaScript Libraries?](https://www.reddit.com/r/javascript/comments/1m963iw/askjs_how_do_you_compare_javascript_libraries/)
+- [[AskJS] How can I generically access the content on a web page](https://www.reddit.com/r/javascript/comments/1m92axw/askjs_how_can_i_generically_access_the_content_on/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
