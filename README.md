@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [LogPot - A TypeScript-First, Batteries-Included Logger for Node.js](https://www.reddit.com/r/javascript/comments/1maaope/logpot_a_typescriptfirst_batteriesincluded_logger/)
+- [GitHub - kasimlyee/dotenv-gad: Environment variable validation and type safety for Node.js and modern JavaScript applications](https://www.reddit.com/r/javascript/comments/1ma31c3/github_kasimlyeedotenvgad_environment_variable/)
+- [[AskJS] How Using Vanilla JavaScript Instead of jQuery Boosted Our Website Performance by 40%](https://www.reddit.com/r/javascript/comments/1m9yk21/askjs_how_using_vanilla_javascript_instead_of/)
+- [New browser extensions for devs – lightweight, privacy-first tools &lpar;HashPal Labs&rpar;](https://www.reddit.com/r/javascript/comments/1m9s8ck/new_browser_extensions_for_devs_lightweight/)
+- [[AskJS] Storing Product data as a global variable and accessing it directly inside component without props.](https://www.reddit.com/r/javascript/comments/1m9oeqj/askjs_storing_product_data_as_a_global_variable/)
+- [Showoff Saturday &lpar;July 26, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1m9mu97/showoff_saturday_july_26_2025/)
+- [A lightweight library filled with colors!](https://www.reddit.com/r/javascript/comments/1m9md5q/a_lightweight_library_filled_with_colors/)
+- [how JavaScript&#39;s event loop works? &lpar;interactive demo&rpar;](https://www.reddit.com/r/javascript/comments/1m9lzxq/how_javascripts_event_loop_works_interactive_demo/)
+- [Auto Port Detection and Zero Setup: How InstaTunnel Simplifies Dev Workflows](https://www.reddit.com/r/javascript/comments/1m9l2rd/auto_port_detection_and_zero_setup_how/)
 - [Built a lightweight visibility tracking library inspired by arrive.js — meet visible.js](https://www.reddit.com/r/javascript/comments/1m9g0s3/built_a_lightweight_visibility_tracking_library/)
-- [[AutoBE] AI-friendly Compilers for Vibe Coding, achieving 100% build success &lpar;open-source, AWS Kiro like&rpar;](https://www.reddit.com/r/javascript/comments/1m9frzl/autobe_aifriendly_compilers_for_vibe_coding/)
-- [[AskJS] Why should I use JavaScript instead of always using TypeScript?](https://www.reddit.com/r/javascript/comments/1m9fhin/askjs_why_should_i_use_javascript_instead_of/)
-- [GitHub - nkoehring/Solace](https://www.reddit.com/r/javascript/comments/1m98ukb/github_nkoehringsolace/)
-- [Introducing copyguard-js, a lightweight JavaScript utility to block copying, pasting, cutting, and right-clicking.](https://www.reddit.com/r/javascript/comments/1m97out/introducing_copyguardjs_a_lightweight_javascript/)
-- [validated type-safe env vars, directly from your .env file](https://www.reddit.com/r/javascript/comments/1m96vmw/validated_typesafe_env_vars_directly_from_your/)
-- [Vanilla JavaScript support for Tailwind Plus - every UI block in Tailwind Plus is now fully functional, accessible, and interactive, no JavaScript framework required](https://www.reddit.com/r/javascript/comments/1m96qwx/vanilla_javascript_support_for_tailwind_plus/)
-- [Add Magical Fireflies to Your Website in 10 Minutes - Free JavaScript/CSS Code](https://www.reddit.com/r/javascript/comments/1m969r0/add_magical_fireflies_to_your_website_in_10/)
-- [[AskJS] How Do You Compare JavaScript Libraries?](https://www.reddit.com/r/javascript/comments/1m963iw/askjs_how_do_you_compare_javascript_libraries/)
-- [[AskJS] How can I generically access the content on a web page](https://www.reddit.com/r/javascript/comments/1m92axw/askjs_how_can_i_generically_access_the_content_on/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
