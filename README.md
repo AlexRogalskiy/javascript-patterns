@@ -277,6 +277,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The many, many, many JavaScript runtimes of the last decade](https://www.reddit.com/r/javascript/comments/1manrs5/the_many_many_many_javascript_runtimes_of_the/)
 - [LogPot - A TypeScript-First, Batteries-Included Logger for Node.js](https://www.reddit.com/r/javascript/comments/1maaope/logpot_a_typescriptfirst_batteriesincluded_logger/)
 - [GitHub - kasimlyee/dotenv-gad: Environment variable validation and type safety for Node.js and modern JavaScript applications](https://www.reddit.com/r/javascript/comments/1ma31c3/github_kasimlyeedotenvgad_environment_variable/)
 - [[AskJS] How Using Vanilla JavaScript Instead of jQuery Boosted Our Website Performance by 40%](https://www.reddit.com/r/javascript/comments/1m9yk21/askjs_how_using_vanilla_javascript_instead_of/)
@@ -286,7 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [A lightweight library filled with colors!](https://www.reddit.com/r/javascript/comments/1m9md5q/a_lightweight_library_filled_with_colors/)
 - [how JavaScript&#39;s event loop works? &lpar;interactive demo&rpar;](https://www.reddit.com/r/javascript/comments/1m9lzxq/how_javascripts_event_loop_works_interactive_demo/)
 - [Auto Port Detection and Zero Setup: How InstaTunnel Simplifies Dev Workflows](https://www.reddit.com/r/javascript/comments/1m9l2rd/auto_port_detection_and_zero_setup_how/)
-- [Built a lightweight visibility tracking library inspired by arrive.js — meet visible.js](https://www.reddit.com/r/javascript/comments/1m9g0s3/built_a_lightweight_visibility_tracking_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
