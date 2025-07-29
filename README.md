@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [The many, many, many JavaScript runtimes of the last decade](https://www.reddit.com/r/javascript/comments/1manrs5/the_many_many_many_javascript_runtimes_of_the/)
-- [LogPot - A TypeScript-First, Batteries-Included Logger for Node.js](https://www.reddit.com/r/javascript/comments/1maaope/logpot_a_typescriptfirst_batteriesincluded_logger/)
-- [GitHub - kasimlyee/dotenv-gad: Environment variable validation and type safety for Node.js and modern JavaScript applications](https://www.reddit.com/r/javascript/comments/1ma31c3/github_kasimlyeedotenvgad_environment_variable/)
-- [[AskJS] How Using Vanilla JavaScript Instead of jQuery Boosted Our Website Performance by 40%](https://www.reddit.com/r/javascript/comments/1m9yk21/askjs_how_using_vanilla_javascript_instead_of/)
-- [New browser extensions for devs – lightweight, privacy-first tools &lpar;HashPal Labs&rpar;](https://www.reddit.com/r/javascript/comments/1m9s8ck/new_browser_extensions_for_devs_lightweight/)
-- [[AskJS] Storing Product data as a global variable and accessing it directly inside component without props.](https://www.reddit.com/r/javascript/comments/1m9oeqj/askjs_storing_product_data_as_a_global_variable/)
-- [Showoff Saturday &lpar;July 26, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1m9mu97/showoff_saturday_july_26_2025/)
-- [A lightweight library filled with colors!](https://www.reddit.com/r/javascript/comments/1m9md5q/a_lightweight_library_filled_with_colors/)
-- [how JavaScript&#39;s event loop works? &lpar;interactive demo&rpar;](https://www.reddit.com/r/javascript/comments/1m9lzxq/how_javascripts_event_loop_works_interactive_demo/)
-- [Auto Port Detection and Zero Setup: How InstaTunnel Simplifies Dev Workflows](https://www.reddit.com/r/javascript/comments/1m9l2rd/auto_port_detection_and_zero_setup_how/)
+- [Seedit is the first Peer-to-Peer selfhosted reddit alternative using js and IPFS](https://www.reddit.com/r/javascript/comments/1mbynue/seedit_is_the_first_peertopeer_selfhosted_reddit/)
+- [MetroDragon live tiles and combobox](https://www.reddit.com/r/javascript/comments/1mbpm3x/metrodragon_live_tiles_and_combobox/)
+- [Any one Interested in Development of Code editor Web Based &amp; Android app? See details in body!](https://www.reddit.com/r/javascript/comments/1mbeqxr/any_one_interested_in_development_of_code_editor/)
+- [Short Story Short: my devtool SnapDOM celebrates 3 months](https://www.reddit.com/r/javascript/comments/1mbead5/short_story_short_my_devtool_snapdom_celebrates_3/)
+- [vi.mock Is a Footgun: Why vi.spyOn Should Be Your Default](https://www.reddit.com/r/javascript/comments/1mbe3z1/vimock_is_a_footgun_why_vispyon_should_be_your/)
+- [GitHub - pompelmi/pompelmi: Light-weight file scanner with optional YARA integration. Works out-of-the-box in Node.js; supports browser via an HTTP remote engine.](https://www.reddit.com/r/javascript/comments/1mbbryv/github_pompelmipompelmi_lightweight_file_scanner/)
+- [Your /r/javascript recap for the week of July 21 - July 27, 2025](https://www.reddit.com/r/javascript/comments/1mbb8q2/your_rjavascript_recap_for_the_week_of_july_21/)
+- [Designing Functional Components for a Multi-Threaded World](https://www.reddit.com/r/javascript/comments/1mba05e/designing_functional_components_for_a/)
+- [Yet another dev thinking he&#39;s a cybersecurity expert](https://www.reddit.com/r/javascript/comments/1mb9dmk/yet_another_dev_thinking_hes_a_cybersecurity/)
+- [Built a zero-dependency library for cross-tab and micro frontend state sync](https://www.reddit.com/r/javascript/comments/1mb7gry/built_a_zerodependency_library_for_crosstab_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
