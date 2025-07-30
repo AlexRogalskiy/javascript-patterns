@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Seedit is the first Peer-to-Peer selfhosted reddit alternative using js and IPFS](https://www.reddit.com/r/javascript/comments/1mbynue/seedit_is_the_first_peertopeer_selfhosted_reddit/)
+- [[AskJS] Monorepo vs Separate Repos for Client and Api-Server – What’s Worked Best for You?](https://www.reddit.com/r/javascript/comments/1mcv1ew/askjs_monorepo_vs_separate_repos_for_client_and/)
+- [[AskJS] Do you find logging isn&#39;t enough?](https://www.reddit.com/r/javascript/comments/1mclrey/askjs_do_you_find_logging_isnt_enough/)
+- [Pompelmi — a plug‑and‑play upload scanner for Node frameworks &lpar;TS, local, YARA-capable&rpar;](https://www.reddit.com/r/javascript/comments/1mc817g/pompelmi_a_plugandplay_upload_scanner_for_node/)
+- [The Useless useCallback](https://www.reddit.com/r/javascript/comments/1mc7w2m/the_useless_usecallback/)
+- [New features in ECMAScript 2025](https://www.reddit.com/r/javascript/comments/1mc5w1f/new_features_in_ecmascript_2025/)
+- [I built a chess engine that you can give personality to using LLMs, but I&#39;m stuck on Stockfish 10. How can I upgrade to Stockfish 17 while keeping it runnable in an online executor?](https://www.reddit.com/r/javascript/comments/1mc2s9w/i_built_a_chess_engine_that_you_can_give/)
 - [MetroDragon live tiles and combobox](https://www.reddit.com/r/javascript/comments/1mbpm3x/metrodragon_live_tiles_and_combobox/)
 - [Any one Interested in Development of Code editor Web Based &amp; Android app? See details in body!](https://www.reddit.com/r/javascript/comments/1mbeqxr/any_one_interested_in_development_of_code_editor/)
 - [Short Story Short: my devtool SnapDOM celebrates 3 months](https://www.reddit.com/r/javascript/comments/1mbead5/short_story_short_my_devtool_snapdom_celebrates_3/)
 - [vi.mock Is a Footgun: Why vi.spyOn Should Be Your Default](https://www.reddit.com/r/javascript/comments/1mbe3z1/vimock_is_a_footgun_why_vispyon_should_be_your/)
-- [GitHub - pompelmi/pompelmi: Light-weight file scanner with optional YARA integration. Works out-of-the-box in Node.js; supports browser via an HTTP remote engine.](https://www.reddit.com/r/javascript/comments/1mbbryv/github_pompelmipompelmi_lightweight_file_scanner/)
-- [Your /r/javascript recap for the week of July 21 - July 27, 2025](https://www.reddit.com/r/javascript/comments/1mbb8q2/your_rjavascript_recap_for_the_week_of_july_21/)
-- [Designing Functional Components for a Multi-Threaded World](https://www.reddit.com/r/javascript/comments/1mba05e/designing_functional_components_for_a/)
-- [Yet another dev thinking he&#39;s a cybersecurity expert](https://www.reddit.com/r/javascript/comments/1mb9dmk/yet_another_dev_thinking_hes_a_cybersecurity/)
-- [Built a zero-dependency library for cross-tab and micro frontend state sync](https://www.reddit.com/r/javascript/comments/1mb7gry/built_a_zerodependency_library_for_crosstab_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
