@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Lego-isation of the UI with TargetJS](https://www.reddit.com/r/javascript/comments/1mei7s1/legoisation_of_the_ui_with_targetjs/)
+- [[AskJS] What’s the recommended way to merge audio and video in Node.js now that fluent-ffmpeg is deprecated?](https://www.reddit.com/r/javascript/comments/1meb13d/askjs_whats_the_recommended_way_to_merge_audio/)
+- [Imersão dados com python: aprenda python do zero com a Alura](https://www.reddit.com/r/javascript/comments/1me9uuz/imersão_dados_com_python_aprenda_python_do_zero/)
+- [Predicate Time Windows - Regex for time](https://www.reddit.com/r/javascript/comments/1me9dra/predicate_time_windows_regex_for_time/)
+- [Pompelmi: Local File Upload Scanner for Node.js](https://www.reddit.com/r/javascript/comments/1me4v28/pompelmi_local_file_upload_scanner_for_nodejs/)
+- [A faster js markdown parser powered by Wasm/Rust](https://www.reddit.com/r/javascript/comments/1mdym29/a_faster_js_markdown_parser_powered_by_wasmrust/)
 - [The Math Is Haunted](https://www.reddit.com/r/javascript/comments/1mdhzay/the_math_is_haunted/)
 - [[AskJS] JavaScript on Job Sector for University student](https://www.reddit.com/r/javascript/comments/1mdfrd8/askjs_javascript_on_job_sector_for_university/)
 - [[AskJS] Am running into memory management issues and concurrency.](https://www.reddit.com/r/javascript/comments/1mdb1j8/askjs_am_running_into_memory_management_issues/)
 - [GitHub - patternhelloworld/url-knife: Extract and decompose &lpar;fuzzy&rpar; URLs &lpar;including emails, which are conceptually a part of URLs&rpar; in texts with Area-Pattern-based modularity](https://www.reddit.com/r/javascript/comments/1mda339/github_patternhelloworldurlknife_extract_and/)
-- [How To Prevent The Uploads of malware in your site](https://www.reddit.com/r/javascript/comments/1md1xaq/how_to_prevent_the_uploads_of_malware_in_your_site/)
-- [[AskJS] Where do you keep documentation for backend APIs?](https://www.reddit.com/r/javascript/comments/1md156l/askjs_where_do_you_keep_documentation_for_backend/)
-- [[AskJS] Monorepo vs Separate Repos for Client and Api-Server – What’s Worked Best for You?](https://www.reddit.com/r/javascript/comments/1mcv1ew/askjs_monorepo_vs_separate_repos_for_client_and/)
-- [[AskJS] Do you find logging isn&#39;t enough?](https://www.reddit.com/r/javascript/comments/1mclrey/askjs_do_you_find_logging_isnt_enough/)
-- [Pompelmi — a plug‑and‑play upload scanner for Node frameworks &lpar;TS, local, YARA-capable&rpar;](https://www.reddit.com/r/javascript/comments/1mc817g/pompelmi_a_plugandplay_upload_scanner_for_node/)
-- [The Useless useCallback](https://www.reddit.com/r/javascript/comments/1mc7w2m/the_useless_usecallback/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
