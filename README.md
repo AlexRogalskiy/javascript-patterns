@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I finished my side project: a game portal with 18 mini-games built with Vanilla JS, Firebase for leaderboards, and deployed on Vercel.](https://www.reddit.com/r/javascript/comments/1mf7oqu/i_finished_my_side_project_a_game_portal_with_18/)
+- [I built Apeeye! a zero-setup mock API server using Node.js + React Native Web &lpar;for frontend testing, dev tools, and more&rpar;](https://www.reddit.com/r/javascript/comments/1mf6gnv/i_built_apeeye_a_zerosetup_mock_api_server_using/)
+- [I&#39;ve been building and maintaining a Chrome / Firefox extension for Discogs in vanilla JS for over 9 years](https://www.reddit.com/r/javascript/comments/1mf0z0g/ive_been_building_and_maintaining_a_chrome/)
+- [Announcing TypeScript 5.9](https://www.reddit.com/r/javascript/comments/1mf0vk6/announcing_typescript_59/)
+- [Pompelmi — YARA-Powered Malware Scanner for Node.js &amp; Browsers](https://www.reddit.com/r/javascript/comments/1mewgyj/pompelmi_yarapowered_malware_scanner_for_nodejs/)
+- [Released @kyo-services/schedulewise: a minimal scheduling utility for JavaScript/TypeScript projects](https://www.reddit.com/r/javascript/comments/1mervly/released_kyoservicesschedulewise_a_minimal/)
 - [Lego-isation of the UI with TargetJS](https://www.reddit.com/r/javascript/comments/1mei7s1/legoisation_of_the_ui_with_targetjs/)
 - [[AskJS] What’s the recommended way to merge audio and video in Node.js now that fluent-ffmpeg is deprecated?](https://www.reddit.com/r/javascript/comments/1meb13d/askjs_whats_the_recommended_way_to_merge_audio/)
-- [Imersão dados com python: aprenda python do zero com a Alura](https://www.reddit.com/r/javascript/comments/1me9uuz/imersão_dados_com_python_aprenda_python_do_zero/)
 - [Predicate Time Windows - Regex for time](https://www.reddit.com/r/javascript/comments/1me9dra/predicate_time_windows_regex_for_time/)
 - [Pompelmi: Local File Upload Scanner for Node.js](https://www.reddit.com/r/javascript/comments/1me4v28/pompelmi_local_file_upload_scanner_for_nodejs/)
-- [A faster js markdown parser powered by Wasm/Rust](https://www.reddit.com/r/javascript/comments/1mdym29/a_faster_js_markdown_parser_powered_by_wasmrust/)
-- [The Math Is Haunted](https://www.reddit.com/r/javascript/comments/1mdhzay/the_math_is_haunted/)
-- [[AskJS] JavaScript on Job Sector for University student](https://www.reddit.com/r/javascript/comments/1mdfrd8/askjs_javascript_on_job_sector_for_university/)
-- [[AskJS] Am running into memory management issues and concurrency.](https://www.reddit.com/r/javascript/comments/1mdb1j8/askjs_am_running_into_memory_management_issues/)
-- [GitHub - patternhelloworld/url-knife: Extract and decompose &lpar;fuzzy&rpar; URLs &lpar;including emails, which are conceptually a part of URLs&rpar; in texts with Area-Pattern-based modularity](https://www.reddit.com/r/javascript/comments/1mda339/github_patternhelloworldurlknife_extract_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
