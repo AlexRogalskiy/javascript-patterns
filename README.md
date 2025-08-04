@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I finished my side project: a game portal with 18 mini-games built with Vanilla JS, Firebase for leaderboards, and deployed on Vercel.](https://www.reddit.com/r/javascript/comments/1mf7oqu/i_finished_my_side_project_a_game_portal_with_18/)
-- [I built Apeeye! a zero-setup mock API server using Node.js + React Native Web &lpar;for frontend testing, dev tools, and more&rpar;](https://www.reddit.com/r/javascript/comments/1mf6gnv/i_built_apeeye_a_zerosetup_mock_api_server_using/)
-- [I&#39;ve been building and maintaining a Chrome / Firefox extension for Discogs in vanilla JS for over 9 years](https://www.reddit.com/r/javascript/comments/1mf0z0g/ive_been_building_and_maintaining_a_chrome/)
-- [Announcing TypeScript 5.9](https://www.reddit.com/r/javascript/comments/1mf0vk6/announcing_typescript_59/)
-- [Pompelmi — YARA-Powered Malware Scanner for Node.js &amp; Browsers](https://www.reddit.com/r/javascript/comments/1mewgyj/pompelmi_yarapowered_malware_scanner_for_nodejs/)
-- [Released @kyo-services/schedulewise: a minimal scheduling utility for JavaScript/TypeScript projects](https://www.reddit.com/r/javascript/comments/1mervly/released_kyoservicesschedulewise_a_minimal/)
-- [Lego-isation of the UI with TargetJS](https://www.reddit.com/r/javascript/comments/1mei7s1/legoisation_of_the_ui_with_targetjs/)
-- [[AskJS] What’s the recommended way to merge audio and video in Node.js now that fluent-ffmpeg is deprecated?](https://www.reddit.com/r/javascript/comments/1meb13d/askjs_whats_the_recommended_way_to_merge_audio/)
-- [Predicate Time Windows - Regex for time](https://www.reddit.com/r/javascript/comments/1me9dra/predicate_time_windows_regex_for_time/)
-- [Pompelmi: Local File Upload Scanner for Node.js](https://www.reddit.com/r/javascript/comments/1me4v28/pompelmi_local_file_upload_scanner_for_nodejs/)
+- [Beat Rate Limits with Style — Node.js Rotator for OpenAI &amp; Gemini, No Dependencies](https://www.reddit.com/r/javascript/comments/1mguurj/beat_rate_limits_with_style_nodejs_rotator_for/)
+- [I built a tiny NodeJS logger that outputs structured JSON](https://www.reddit.com/r/javascript/comments/1mgtpvv/i_built_a_tiny_nodejs_logger_that_outputs/)
+- [Custom String Formatter](https://www.reddit.com/r/javascript/comments/1mgq0gr/custom_string_formatter/)
+- [Built this for myself](https://www.reddit.com/r/javascript/comments/1mggoyg/built_this_for_myself/)
+- [Deployed my first Canvas Project](https://www.reddit.com/r/javascript/comments/1mgfpl7/deployed_my_first_canvas_project/)
+- [I built a streaming XML/HTML tokenizer in TypeScript - no DOM, just tokens](https://www.reddit.com/r/javascript/comments/1mgequi/i_built_a_streaming_xmlhtml_tokenizer_in/)
+- [[AskJS] Jest with typescript and ecma modules](https://www.reddit.com/r/javascript/comments/1mge6ux/askjs_jest_with_typescript_and_ecma_modules/)
+- [Conway’s Game of Life in vanilla JavaScript with efficient implementation](https://www.reddit.com/r/javascript/comments/1mfxsqi/conways_game_of_life_in_vanilla_javascript_with/)
+- [ForesightJS now offers full prefetch support for touch devices! &lpar;open-source&rpar;](https://www.reddit.com/r/javascript/comments/1mfuk9e/foresightjs_now_offers_full_prefetch_support_for/)
+- [I built a lightweight browser fingerprinting lib in 5kB, no deps &lpar;fingerprinter-js&rpar;](https://www.reddit.com/r/javascript/comments/1mftrea/i_built_a_lightweight_browser_fingerprinting_lib/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
