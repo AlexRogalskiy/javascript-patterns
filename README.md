@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Just &#39;finished&#39; my portfolio. I hope you might check it out!](https://www.reddit.com/r/javascript/comments/1milnd1/just_finished_my_portfolio_i_hope_you_might_check/)
+- [Alternate option to using flatpickr for creating calendars](https://www.reddit.com/r/javascript/comments/1mjkjyf/alternate_option_to_using_flatpickr_for_creating/)
+- [vanilla JS 3D engine finally on webgl](https://www.reddit.com/r/javascript/comments/1mj624o/vanilla_js_3d_engine_finally_on_webgl/)
+- [I built a React library for HTML radial wheel menus](https://www.reddit.com/r/javascript/comments/1mj47a3/i_built_a_react_library_for_html_radial_wheel/)
+- [I built a small tool to handle async request/response between microfrontends using a controller-based approach](https://www.reddit.com/r/javascript/comments/1mj3oil/i_built_a_small_tool_to_handle_async/)
 - [Method of finding the center of rotated rect for image editor](https://www.reddit.com/r/javascript/comments/1miec1s/method_of_finding_the_center_of_rotated_rect_for/)
-- [Github is down, from more than 15 minutes. Still down](https://www.reddit.com/r/javascript/comments/1midas7/github_is_down_from_more_than_15_minutes_still/)
 - [New Vite Plugin for SvelteKit – Automatic Function Decorators - Feedback welcome!](https://www.reddit.com/r/javascript/comments/1mic8y9/new_vite_plugin_for_sveltekit_automatic_function/)
 - [CORS Unblock - Make Web Apps Work Like Native Apps](https://www.reddit.com/r/javascript/comments/1mi8gxu/cors_unblock_make_web_apps_work_like_native_apps/)
 - [What’s New in ViteLand: July 2025 Recap from VoidZero](https://www.reddit.com/r/javascript/comments/1mi2ahr/whats_new_in_viteland_july_2025_recap_from/)
 - [openapi-typescript-server: Codegen TypeScript servers from OpenAPI](https://www.reddit.com/r/javascript/comments/1mhvg4k/openapitypescriptserver_codegen_typescript/)
 - [I built the worlds fastest VIN decoder](https://www.reddit.com/r/javascript/comments/1mhsekl/i_built_the_worlds_fastest_vin_decoder/)
-- [I made a JavaScript game and released it on Steam - thoughts](https://www.reddit.com/r/javascript/comments/1mhqntg/i_made_a_javascript_game_and_released_it_on_steam/)
-- [[AskJS] How dangerous malicious code in js can possibly be?](https://www.reddit.com/r/javascript/comments/1mhoxwy/askjs_how_dangerous_malicious_code_in_js_can/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
