@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [GPT-5 and Cursor built a 3D world animation in Three.js - I just watched it happen. Are we cooked now?](https://www.reddit.com/r/javascript/comments/1mkck6c/gpt5_and_cursor_built_a_3d_world_animation_in/)
-- [[AskJS] Need a review on a job offer.](https://www.reddit.com/r/javascript/comments/1mk61hz/askjs_need_a_review_on_a_job_offer/)
-- [Frontend Developer – Remote](https://www.reddit.com/r/javascript/comments/1mk36a2/frontend_developer_remote/)
-- [[AskJS] Really confused about how to make create a javascript tab](https://www.reddit.com/r/javascript/comments/1mk1dgg/askjs_really_confused_about_how_to_make_create_a/)
-- [[AskJS] Does it matter where I learn Java &amp; other languages?](https://www.reddit.com/r/javascript/comments/1mk18dl/askjs_does_it_matter_where_i_learn_java_other/)
-- [[AskJS] Full Stack Javascript Engineer Self Branding](https://www.reddit.com/r/javascript/comments/1mjyprm/askjs_full_stack_javascript_engineer_self_branding/)
+- [[AskJS] Primitive types](https://www.reddit.com/r/javascript/comments/1mkww4k/askjs_primitive_types/)
+- [[AskJS] What are the biggest challenges you&#39;ve faced with large JavaScript spreadsheets?](https://www.reddit.com/r/javascript/comments/1mkvnca/askjs_what_are_the_biggest_challenges_youve_faced/)
 - [I made u18n.com to help you translate your app in all languages](https://www.reddit.com/r/javascript/comments/1mjyia3/i_made_u18ncom_to_help_you_translate_your_app_in/)
 - [Learn New Languages by Comparing with JavaScript — LangShift.dev](https://www.reddit.com/r/javascript/comments/1mjwhcw/learn_new_languages_by_comparing_with_javascript/)
 - [Alternate option to using flatpickr for creating calendars](https://www.reddit.com/r/javascript/comments/1mjkjyf/alternate_option_to_using_flatpickr_for_creating/)
 - [vanilla JS 3D engine finally on webgl](https://www.reddit.com/r/javascript/comments/1mj624o/vanilla_js_3d_engine_finally_on_webgl/)
+- [I built a React library for HTML radial wheel menus](https://www.reddit.com/r/javascript/comments/1mj47a3/i_built_a_react_library_for_html_radial_wheel/)
+- [I built a small tool to handle async request/response between microfrontends using a controller-based approach](https://www.reddit.com/r/javascript/comments/1mj3oil/i_built_a_small_tool_to_handle_async/)
+- [Method of finding the center of rotated rect for image editor](https://www.reddit.com/r/javascript/comments/1miec1s/method_of_finding_the_center_of_rotated_rect_for/)
+- [New Vite Plugin for SvelteKit – Automatic Function Decorators - Feedback welcome!](https://www.reddit.com/r/javascript/comments/1mic8y9/new_vite_plugin_for_sveltekit_automatic_function/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
