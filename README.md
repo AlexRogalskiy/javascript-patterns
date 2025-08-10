@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Next.js PWA offline capability with Service Worker, no extra package](https://www.reddit.com/r/javascript/comments/1mm6z7h/nextjs_pwa_offline_capability_with_service_worker/)
+- [I needed to get transcripts from YouTube lectures, so I built this tool with Python and Whisper to automate it. Hope you find it useful!](https://www.reddit.com/r/javascript/comments/1mly9ru/i_needed_to_get_transcripts_from_youtube_lectures/)
+- [I made a small framework and would like to know your opinion about it](https://www.reddit.com/r/javascript/comments/1mlt9ui/i_made_a_small_framework_and_would_like_to_know/)
+- [[AskJS] Need recommendations for a library](https://www.reddit.com/r/javascript/comments/1mlt7qd/askjs_need_recommendations_for_a_library/)
+- [Auto Web OTP – Automatically read OTP codes in React using WebOTP API](https://www.reddit.com/r/javascript/comments/1mlocyi/auto_web_otp_automatically_read_otp_codes_in/)
+- [Rich-syntax string formatter for any output](https://www.reddit.com/r/javascript/comments/1mlmbdr/richsyntax_string_formatter_for_any_output/)
+- [[AskJS] Use a SWITCH CASE statement to run correspond block of code when there are multiple conditions to check.](https://www.reddit.com/r/javascript/comments/1mlk8ie/askjs_use_a_switch_case_statement_to_run/)
+- [Showoff Saturday &lpar;August 09, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1mlj2ny/showoff_saturday_august_09_2025/)
 - [[AskJS] Primitive types](https://www.reddit.com/r/javascript/comments/1mkww4k/askjs_primitive_types/)
 - [[AskJS] What are the biggest challenges you&#39;ve faced with large JavaScript spreadsheets?](https://www.reddit.com/r/javascript/comments/1mkvnca/askjs_what_are_the_biggest_challenges_youve_faced/)
-- [I made u18n.com to help you translate your app in all languages](https://www.reddit.com/r/javascript/comments/1mjyia3/i_made_u18ncom_to_help_you_translate_your_app_in/)
-- [Learn New Languages by Comparing with JavaScript — LangShift.dev](https://www.reddit.com/r/javascript/comments/1mjwhcw/learn_new_languages_by_comparing_with_javascript/)
-- [Alternate option to using flatpickr for creating calendars](https://www.reddit.com/r/javascript/comments/1mjkjyf/alternate_option_to_using_flatpickr_for_creating/)
-- [vanilla JS 3D engine finally on webgl](https://www.reddit.com/r/javascript/comments/1mj624o/vanilla_js_3d_engine_finally_on_webgl/)
-- [I built a React library for HTML radial wheel menus](https://www.reddit.com/r/javascript/comments/1mj47a3/i_built_a_react_library_for_html_radial_wheel/)
-- [I built a small tool to handle async request/response between microfrontends using a controller-based approach](https://www.reddit.com/r/javascript/comments/1mj3oil/i_built_a_small_tool_to_handle_async/)
-- [Method of finding the center of rotated rect for image editor](https://www.reddit.com/r/javascript/comments/1miec1s/method_of_finding_the_center_of_rotated_rect_for/)
-- [New Vite Plugin for SvelteKit – Automatic Function Decorators - Feedback welcome!](https://www.reddit.com/r/javascript/comments/1mic8y9/new_vite_plugin_for_sveltekit_automatic_function/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
