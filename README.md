@@ -283,10 +283,10 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [[AskJS] Need recommendations for a library](https://www.reddit.com/r/javascript/comments/1mlt7qd/askjs_need_recommendations_for_a_library/)
 - [Auto Web OTP – Automatically read OTP codes in React using WebOTP API](https://www.reddit.com/r/javascript/comments/1mlocyi/auto_web_otp_automatically_read_otp_codes_in/)
 - [Rich-syntax string formatter for any output](https://www.reddit.com/r/javascript/comments/1mlmbdr/richsyntax_string_formatter_for_any_output/)
-- [[AskJS] Use a SWITCH CASE statement to run correspond block of code when there are multiple conditions to check.](https://www.reddit.com/r/javascript/comments/1mlk8ie/askjs_use_a_switch_case_statement_to_run/)
 - [Showoff Saturday &lpar;August 09, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1mlj2ny/showoff_saturday_august_09_2025/)
 - [[AskJS] Primitive types](https://www.reddit.com/r/javascript/comments/1mkww4k/askjs_primitive_types/)
 - [[AskJS] What are the biggest challenges you&#39;ve faced with large JavaScript spreadsheets?](https://www.reddit.com/r/javascript/comments/1mkvnca/askjs_what_are_the_biggest_challenges_youve_faced/)
+- [I made u18n.com to help you translate your app in all languages](https://www.reddit.com/r/javascript/comments/1mjyia3/i_made_u18ncom_to_help_you_translate_your_app_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
