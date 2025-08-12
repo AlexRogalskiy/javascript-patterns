@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [jQuery 4.0.0 Release Candidate 1](https://www.reddit.com/r/javascript/comments/1mnnjuv/jquery_400_release_candidate_1/)
+- [[AskJS] From React to Deep JS/TS Mastery — What courses do you recommend?](https://www.reddit.com/r/javascript/comments/1mngynt/askjs_from_react_to_deep_jsts_mastery_what/)
+- [I built a lightweight React image editor component](https://www.reddit.com/r/javascript/comments/1mndvlq/i_built_a_lightweight_react_image_editor_component/)
+- [Your /r/javascript recap for the week of August 04 - August 10, 2025](https://www.reddit.com/r/javascript/comments/1mn7zi8/your_rjavascript_recap_for_the_week_of_august_04/)
 - [Next.js PWA offline capability with Service Worker, no extra package](https://www.reddit.com/r/javascript/comments/1mm6z7h/nextjs_pwa_offline_capability_with_service_worker/)
 - [I needed to get transcripts from YouTube lectures, so I built this tool with Python and Whisper to automate it. Hope you find it useful!](https://www.reddit.com/r/javascript/comments/1mly9ru/i_needed_to_get_transcripts_from_youtube_lectures/)
 - [I made a small framework and would like to know your opinion about it](https://www.reddit.com/r/javascript/comments/1mlt9ui/i_made_a_small_framework_and_would_like_to_know/)
 - [[AskJS] Need recommendations for a library](https://www.reddit.com/r/javascript/comments/1mlt7qd/askjs_need_recommendations_for_a_library/)
 - [Auto Web OTP – Automatically read OTP codes in React using WebOTP API](https://www.reddit.com/r/javascript/comments/1mlocyi/auto_web_otp_automatically_read_otp_codes_in/)
 - [Rich-syntax string formatter for any output](https://www.reddit.com/r/javascript/comments/1mlmbdr/richsyntax_string_formatter_for_any_output/)
-- [Showoff Saturday &lpar;August 09, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1mlj2ny/showoff_saturday_august_09_2025/)
-- [[AskJS] Primitive types](https://www.reddit.com/r/javascript/comments/1mkww4k/askjs_primitive_types/)
-- [[AskJS] What are the biggest challenges you&#39;ve faced with large JavaScript spreadsheets?](https://www.reddit.com/r/javascript/comments/1mkvnca/askjs_what_are_the_biggest_challenges_youve_faced/)
-- [I made u18n.com to help you translate your app in all languages](https://www.reddit.com/r/javascript/comments/1mjyia3/i_made_u18ncom_to_help_you_translate_your_app_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
