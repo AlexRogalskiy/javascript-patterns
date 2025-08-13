@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Signals Polyfill version based on alien-signals](https://www.reddit.com/r/javascript/comments/1mo98im/signals_polyfill_version_based_on_aliensignals/)
+- [[AskJS] Is a naive ECMAScript implementation necessarily slow?](https://www.reddit.com/r/javascript/comments/1mo8m66/askjs_is_a_naive_ecmascript_implementation/)
+- [Stacktrace is Underrated: How I use stacktrace for non-error use cases.](https://www.reddit.com/r/javascript/comments/1mo69fq/stacktrace_is_underrated_how_i_use_stacktrace_for/)
+- [The Heart Breaking Inadequacy Of AbortController](https://www.reddit.com/r/javascript/comments/1mo696l/the_heart_breaking_inadequacy_of_abortcontroller/)
+- [[AskJS] Rejected by ATS for “no JavaScript experience” despite 10+ years in TypeScript](https://www.reddit.com/r/javascript/comments/1mo5xfx/askjs_rejected_by_ats_for_no_javascript/)
+- [[AskJS] How I document my React components without hating my life](https://www.reddit.com/r/javascript/comments/1mo5rtd/askjs_how_i_document_my_react_components_without/)
+- [Logical assignment operators in JavaScript: small syntax, big wins](https://www.reddit.com/r/javascript/comments/1mo2o9k/logical_assignment_operators_in_javascript_small/)
 - [jQuery 4.0.0 Release Candidate 1](https://www.reddit.com/r/javascript/comments/1mnnjuv/jquery_400_release_candidate_1/)
 - [[AskJS] From React to Deep JS/TS Mastery — What courses do you recommend?](https://www.reddit.com/r/javascript/comments/1mngynt/askjs_from_react_to_deep_jsts_mastery_what/)
 - [I built a lightweight React image editor component](https://www.reddit.com/r/javascript/comments/1mndvlq/i_built_a_lightweight_react_image_editor_component/)
-- [Your /r/javascript recap for the week of August 04 - August 10, 2025](https://www.reddit.com/r/javascript/comments/1mn7zi8/your_rjavascript_recap_for_the_week_of_august_04/)
-- [Next.js PWA offline capability with Service Worker, no extra package](https://www.reddit.com/r/javascript/comments/1mm6z7h/nextjs_pwa_offline_capability_with_service_worker/)
-- [I needed to get transcripts from YouTube lectures, so I built this tool with Python and Whisper to automate it. Hope you find it useful!](https://www.reddit.com/r/javascript/comments/1mly9ru/i_needed_to_get_transcripts_from_youtube_lectures/)
-- [I made a small framework and would like to know your opinion about it](https://www.reddit.com/r/javascript/comments/1mlt9ui/i_made_a_small_framework_and_would_like_to_know/)
-- [[AskJS] Need recommendations for a library](https://www.reddit.com/r/javascript/comments/1mlt7qd/askjs_need_recommendations_for_a_library/)
-- [Auto Web OTP – Automatically read OTP codes in React using WebOTP API](https://www.reddit.com/r/javascript/comments/1mlocyi/auto_web_otp_automatically_read_otp_codes_in/)
-- [Rich-syntax string formatter for any output](https://www.reddit.com/r/javascript/comments/1mlmbdr/richsyntax_string_formatter_for_any_output/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
