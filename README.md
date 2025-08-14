@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Why learn 10 different APIs when you can generate one MCP client for all of them?](https://www.reddit.com/r/javascript/comments/1mpenrp/askjs_why_learn_10_different_apis_when_you_can/)
+- [This is a tool for solving problems encountered when using Verdaccio on a daily basis.](https://www.reddit.com/r/javascript/comments/1mpclay/this_is_a_tool_for_solving_problems_encountered/)
+- [Observables are back, stronger than ever](https://www.reddit.com/r/javascript/comments/1mpbwnl/observables_are_back_stronger_than_ever/)
+- [[AskJS] If you had to hire a dev would you choose a “vibe coder” or a “traditional coder”?](https://www.reddit.com/r/javascript/comments/1mp8s24/askjs_if_you_had_to_hire_a_dev_would_you_choose_a/)
+- [Practice: Building Full-Stack Applications with Hono](https://www.reddit.com/r/javascript/comments/1mp4feu/practice_building_fullstack_applications_with_hono/)
+- [I created the easiest way to share frontend projects](https://www.reddit.com/r/javascript/comments/1mp1qmr/i_created_the_easiest_way_to_share_frontend/)
 - [Signals Polyfill version based on alien-signals](https://www.reddit.com/r/javascript/comments/1mo98im/signals_polyfill_version_based_on_aliensignals/)
 - [[AskJS] Is a naive ECMAScript implementation necessarily slow?](https://www.reddit.com/r/javascript/comments/1mo8m66/askjs_is_a_naive_ecmascript_implementation/)
 - [Stacktrace is Underrated: How I use stacktrace for non-error use cases.](https://www.reddit.com/r/javascript/comments/1mo69fq/stacktrace_is_underrated_how_i_use_stacktrace_for/)
 - [The Heart Breaking Inadequacy Of AbortController](https://www.reddit.com/r/javascript/comments/1mo696l/the_heart_breaking_inadequacy_of_abortcontroller/)
-- [[AskJS] Rejected by ATS for “no JavaScript experience” despite 10+ years in TypeScript](https://www.reddit.com/r/javascript/comments/1mo5xfx/askjs_rejected_by_ats_for_no_javascript/)
-- [[AskJS] How I document my React components without hating my life](https://www.reddit.com/r/javascript/comments/1mo5rtd/askjs_how_i_document_my_react_components_without/)
-- [Logical assignment operators in JavaScript: small syntax, big wins](https://www.reddit.com/r/javascript/comments/1mo2o9k/logical_assignment_operators_in_javascript_small/)
-- [jQuery 4.0.0 Release Candidate 1](https://www.reddit.com/r/javascript/comments/1mnnjuv/jquery_400_release_candidate_1/)
-- [[AskJS] From React to Deep JS/TS Mastery — What courses do you recommend?](https://www.reddit.com/r/javascript/comments/1mngynt/askjs_from_react_to_deep_jsts_mastery_what/)
-- [I built a lightweight React image editor component](https://www.reddit.com/r/javascript/comments/1mndvlq/i_built_a_lightweight_react_image_editor_component/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
