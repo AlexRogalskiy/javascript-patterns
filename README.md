@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[Tampermonkey] A small JS script to batch add Twitter/X accounts into a List &lpar;no API needed&rpar;](https://www.reddit.com/r/javascript/comments/1ms8cey/tampermonkey_a_small_js_script_to_batch_add/)
+- [Beyond Booleans](https://www.reddit.com/r/javascript/comments/1ms7mzk/beyond_booleans/)
+- [[AskJS] When should you define types in frontend?](https://www.reddit.com/r/javascript/comments/1ms61k9/askjs_when_should_you_define_types_in_frontend/)
+- [I wrote an article about how to build shapes from paths with a planar graph &lpar;in p5js&rpar;](https://www.reddit.com/r/javascript/comments/1ms3mlv/i_wrote_an_article_about_how_to_build_shapes_from/)
+- [i build a Taxonomy Explorer](https://www.reddit.com/r/javascript/comments/1ms2okt/i_build_a_taxonomy_explorer/)
+- [[AskJS] Next time you can’t figure out where your “alert” is coming from:](https://www.reddit.com/r/javascript/comments/1ms2iyz/askjs_next_time_you_cant_figure_out_where_your/)
+- [I made a micro library for generating Web Workers](https://www.reddit.com/r/javascript/comments/1mrukjl/i_made_a_micro_library_for_generating_web_workers/)
+- [Showoff Saturday &lpar;August 16, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1mrnm4t/showoff_saturday_august_16_2025/)
 - [Native fetch replacement with timeout, retries, retry strategies, circuit breaker and lifecycle hooks](https://www.reddit.com/r/javascript/comments/1mrewjs/native_fetch_replacement_with_timeout_retries/)
 - [Should analytics get ORM-like DX? An “ORM-adjacent” approach for ClickHouse in TypeScript &lpar;Moose&rpar;](https://www.reddit.com/r/javascript/comments/1mr42yh/should_analytics_get_ormlike_dx_an_ormadjacent/)
-- [Stop wasting time on Express setup! Meet create-rjx — the CRAZY npm package that scaffolds a full Express app in seconds. JS or TS, animated CLI, ready-to-go structure](https://www.reddit.com/r/javascript/comments/1mr350q/stop_wasting_time_on_express_setup_meet_createrjx/)
-- [Introducing Taxum - A Node.js Web Framework Inspired by Tower and Axum](https://www.reddit.com/r/javascript/comments/1mqxjk3/introducing_taxum_a_nodejs_web_framework_inspired/)
-- [Never been easier to work with Observables in the UI](https://www.reddit.com/r/javascript/comments/1mpu76r/never_been_easier_to_work_with_observables_in_the/)
-- [This is a tool for solving problems encountered when using Verdaccio on a daily basis.](https://www.reddit.com/r/javascript/comments/1mpclay/this_is_a_tool_for_solving_problems_encountered/)
-- [[AskJS] If you had to hire a dev would you choose a “vibe coder” or a “traditional coder”?](https://www.reddit.com/r/javascript/comments/1mp8s24/askjs_if_you_had_to_hire_a_dev_would_you_choose_a/)
-- [Practice: Building Full-Stack Applications with Hono](https://www.reddit.com/r/javascript/comments/1mp4feu/practice_building_fullstack_applications_with_hono/)
-- [I created the easiest way to share frontend projects](https://www.reddit.com/r/javascript/comments/1mp1qmr/i_created_the_easiest_way_to_share_frontend/)
-- [Signals Polyfill version based on alien-signals](https://www.reddit.com/r/javascript/comments/1mo98im/signals_polyfill_version_based_on_aliensignals/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
