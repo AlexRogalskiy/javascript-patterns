@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Got tired of try-catch everywhere in TS, so I built a Result type that&#39;s just a tuple](https://www.reddit.com/r/javascript/comments/1mswif3/got_tired_of_trycatch_everywhere_in_ts_so_i_built/)
+- [[AskJS] Web Visemes from Audio](https://www.reddit.com/r/javascript/comments/1msvcq6/askjs_web_visemes_from_audio/)
 - [[Tampermonkey] A small JS script to batch add Twitter/X accounts into a List &lpar;no API needed&rpar;](https://www.reddit.com/r/javascript/comments/1ms8cey/tampermonkey_a_small_js_script_to_batch_add/)
 - [Beyond Booleans](https://www.reddit.com/r/javascript/comments/1ms7mzk/beyond_booleans/)
 - [[AskJS] When should you define types in frontend?](https://www.reddit.com/r/javascript/comments/1ms61k9/askjs_when_should_you_define_types_in_frontend/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [[AskJS] Next time you can’t figure out where your “alert” is coming from:](https://www.reddit.com/r/javascript/comments/1ms2iyz/askjs_next_time_you_cant_figure_out_where_your/)
 - [I made a micro library for generating Web Workers](https://www.reddit.com/r/javascript/comments/1mrukjl/i_made_a_micro_library_for_generating_web_workers/)
 - [Showoff Saturday &lpar;August 16, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1mrnm4t/showoff_saturday_august_16_2025/)
-- [Native fetch replacement with timeout, retries, retry strategies, circuit breaker and lifecycle hooks](https://www.reddit.com/r/javascript/comments/1mrewjs/native_fetch_replacement_with_timeout_retries/)
-- [Should analytics get ORM-like DX? An “ORM-adjacent” approach for ClickHouse in TypeScript &lpar;Moose&rpar;](https://www.reddit.com/r/javascript/comments/1mr42yh/should_analytics_get_ormlike_dx_an_ormadjacent/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
