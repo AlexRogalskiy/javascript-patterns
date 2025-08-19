@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Cache-aware prefetch experiment &lpar;Cloudflare + browser cache checks&rpar;](https://www.reddit.com/r/javascript/comments/1mtrrss/cacheaware_prefetch_experiment_cloudflare_browser/)
+- [Tech Talks Weekly: latest Software Engineering conference talk recordings in your inbox every week](https://www.reddit.com/r/javascript/comments/1mtp935/tech_talks_weekly_latest_software_engineering/)
+- [totally free, open-source file scanner for express, react, next and koa](https://www.reddit.com/r/javascript/comments/1mtl1bt/totally_free_opensource_file_scanner_for_express/)
+- [Benchmarking Frontends in 2025](https://www.reddit.com/r/javascript/comments/1mti52z/benchmarking_frontends_in_2025/)
+- [Your /r/javascript recap for the week of August 11 - August 17, 2025](https://www.reddit.com/r/javascript/comments/1mtgve3/your_rjavascript_recap_for_the_week_of_august_11/)
+- [A &quot;livestream&quot; dashboard for Hacker News - Newest Story + Live Comments](https://www.reddit.com/r/javascript/comments/1mte24g/a_livestream_dashboard_for_hacker_news_newest/)
 - [Got tired of try-catch everywhere in TS, so I built a Result type that&#39;s just a tuple](https://www.reddit.com/r/javascript/comments/1mswif3/got_tired_of_trycatch_everywhere_in_ts_so_i_built/)
 - [[AskJS] Web Visemes from Audio](https://www.reddit.com/r/javascript/comments/1msvcq6/askjs_web_visemes_from_audio/)
 - [[Tampermonkey] A small JS script to batch add Twitter/X accounts into a List &lpar;no API needed&rpar;](https://www.reddit.com/r/javascript/comments/1ms8cey/tampermonkey_a_small_js_script_to_batch_add/)
 - [Beyond Booleans](https://www.reddit.com/r/javascript/comments/1ms7mzk/beyond_booleans/)
-- [[AskJS] When should you define types in frontend?](https://www.reddit.com/r/javascript/comments/1ms61k9/askjs_when_should_you_define_types_in_frontend/)
-- [I wrote an article about how to build shapes from paths with a planar graph &lpar;in p5js&rpar;](https://www.reddit.com/r/javascript/comments/1ms3mlv/i_wrote_an_article_about_how_to_build_shapes_from/)
-- [i build a Taxonomy Explorer](https://www.reddit.com/r/javascript/comments/1ms2okt/i_build_a_taxonomy_explorer/)
-- [[AskJS] Next time you can’t figure out where your “alert” is coming from:](https://www.reddit.com/r/javascript/comments/1ms2iyz/askjs_next_time_you_cant_figure_out_where_your/)
-- [I made a micro library for generating Web Workers](https://www.reddit.com/r/javascript/comments/1mrukjl/i_made_a_micro_library_for_generating_web_workers/)
-- [Showoff Saturday &lpar;August 16, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1mrnm4t/showoff_saturday_august_16_2025/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
