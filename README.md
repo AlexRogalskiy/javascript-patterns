@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Cache-aware prefetch experiment &lpar;Cloudflare + browser cache checks&rpar;](https://www.reddit.com/r/javascript/comments/1mtrrss/cacheaware_prefetch_experiment_cloudflare_browser/)
-- [Tech Talks Weekly: latest Software Engineering conference talk recordings in your inbox every week](https://www.reddit.com/r/javascript/comments/1mtp935/tech_talks_weekly_latest_software_engineering/)
-- [totally free, open-source file scanner for express, react, next and koa](https://www.reddit.com/r/javascript/comments/1mtl1bt/totally_free_opensource_file_scanner_for_express/)
-- [Benchmarking Frontends in 2025](https://www.reddit.com/r/javascript/comments/1mti52z/benchmarking_frontends_in_2025/)
-- [Your /r/javascript recap for the week of August 11 - August 17, 2025](https://www.reddit.com/r/javascript/comments/1mtgve3/your_rjavascript_recap_for_the_week_of_august_11/)
-- [A &quot;livestream&quot; dashboard for Hacker News - Newest Story + Live Comments](https://www.reddit.com/r/javascript/comments/1mte24g/a_livestream_dashboard_for_hacker_news_newest/)
-- [Got tired of try-catch everywhere in TS, so I built a Result type that&#39;s just a tuple](https://www.reddit.com/r/javascript/comments/1mswif3/got_tired_of_trycatch_everywhere_in_ts_so_i_built/)
-- [[AskJS] Web Visemes from Audio](https://www.reddit.com/r/javascript/comments/1msvcq6/askjs_web_visemes_from_audio/)
-- [[Tampermonkey] A small JS script to batch add Twitter/X accounts into a List &lpar;no API needed&rpar;](https://www.reddit.com/r/javascript/comments/1ms8cey/tampermonkey_a_small_js_script_to_batch_add/)
-- [Beyond Booleans](https://www.reddit.com/r/javascript/comments/1ms7mzk/beyond_booleans/)
+- [[AskJS] beginner here!](https://www.reddit.com/r/javascript/comments/1mv0put/askjs_beginner_here/)
+- [[AskJS] Does my plan have any chance of getting me a job as a software engineer?](https://www.reddit.com/r/javascript/comments/1muurqo/askjs_does_my_plan_have_any_chance_of_getting_me/)
+- [Working on building a simple, privacy‑first analytics tool, need blunt feedback and ideas](https://www.reddit.com/r/javascript/comments/1mus9bm/working_on_building_a_simple_privacyfirst/)
+- [I built an 3d Solar System Website Using JavaScript - ThreeJs and VibeCoding](https://www.reddit.com/r/javascript/comments/1mupx53/i_built_an_3d_solar_system_website_using/)
+- [Native apps had a good run, but PWA is the future](https://www.reddit.com/r/javascript/comments/1mun5gc/native_apps_had_a_good_run_but_pwa_is_the_future/)
+- [CRLite: Fast, private, and comprehensive certificate revocation checking in](https://www.reddit.com/r/javascript/comments/1mun19z/crlite_fast_private_and_comprehensive_certificate/)
+- [Inspired by Java&#39;s MapStruct, I created an open-source JS/TS object mapping library](https://www.reddit.com/r/javascript/comments/1mumvqj/inspired_by_javas_mapstruct_i_created_an/)
+- [Executing api requests in React Router](https://www.reddit.com/r/javascript/comments/1muk42q/executing_api_requests_in_react_router/)
+- [[AskJS] I need to parse JS to AST and visit it to change the source code, what libs can I use?](https://www.reddit.com/r/javascript/comments/1muh723/askjs_i_need_to_parse_js_to_ast_and_visit_it_to/)
+- [JSON.stringify got faster](https://www.reddit.com/r/javascript/comments/1mueqqm/jsonstringify_got_faster/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
