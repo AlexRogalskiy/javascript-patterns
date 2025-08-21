@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] beginner here!](https://www.reddit.com/r/javascript/comments/1mv0put/askjs_beginner_here/)
-- [[AskJS] Does my plan have any chance of getting me a job as a software engineer?](https://www.reddit.com/r/javascript/comments/1muurqo/askjs_does_my_plan_have_any_chance_of_getting_me/)
-- [Working on building a simple, privacy‑first analytics tool, need blunt feedback and ideas](https://www.reddit.com/r/javascript/comments/1mus9bm/working_on_building_a_simple_privacyfirst/)
-- [I built an 3d Solar System Website Using JavaScript - ThreeJs and VibeCoding](https://www.reddit.com/r/javascript/comments/1mupx53/i_built_an_3d_solar_system_website_using/)
-- [Native apps had a good run, but PWA is the future](https://www.reddit.com/r/javascript/comments/1mun5gc/native_apps_had_a_good_run_but_pwa_is_the_future/)
-- [CRLite: Fast, private, and comprehensive certificate revocation checking in](https://www.reddit.com/r/javascript/comments/1mun19z/crlite_fast_private_and_comprehensive_certificate/)
-- [Inspired by Java&#39;s MapStruct, I created an open-source JS/TS object mapping library](https://www.reddit.com/r/javascript/comments/1mumvqj/inspired_by_javas_mapstruct_i_created_an/)
-- [Executing api requests in React Router](https://www.reddit.com/r/javascript/comments/1muk42q/executing_api_requests_in_react_router/)
-- [[AskJS] I need to parse JS to AST and visit it to change the source code, what libs can I use?](https://www.reddit.com/r/javascript/comments/1muh723/askjs_i_need_to_parse_js_to_ast_and_visit_it_to/)
-- [JSON.stringify got faster](https://www.reddit.com/r/javascript/comments/1mueqqm/jsonstringify_got_faster/)
+- [[AskJS] Good mid - high level Javascript-based coded projects from Github to learn from](https://www.reddit.com/r/javascript/comments/1mvxwnm/askjs_good_mid_high_level_javascriptbased_coded/)
+- [[AskJS] Would this be useful as a published Chrome extension?](https://www.reddit.com/r/javascript/comments/1mvx1h9/askjs_would_this_be_useful_as_a_published_chrome/)
+- [[AskJS] How do you showcase side projects in a way that actually matters for your career?](https://www.reddit.com/r/javascript/comments/1mvow95/askjs_how_do_you_showcase_side_projects_in_a_way/)
+- [I built a massive JavaScript quiz with 500+ interview questions &lpar;beginner to advanced&rpar; - how well do you know JS?](https://www.reddit.com/r/javascript/comments/1mvnhdx/i_built_a_massive_javascript_quiz_with_500/)
+- [Cache-aware prefetch experiment &lpar;Cloudflare + browser cache checks&rpar;](https://www.reddit.com/r/javascript/comments/1mvkiep/cacheaware_prefetch_experiment_cloudflare_browser/)
+- [[AskJS] Can you tell me some interesting projects to do with node.js?](https://www.reddit.com/r/javascript/comments/1mvibol/askjs_can_you_tell_me_some_interesting_projects/)
+- [[AskJS] Is it worth creating video games based primarily on JavaScript language and JavaScript libraries?](https://www.reddit.com/r/javascript/comments/1mvh1j0/askjs_is_it_worth_creating_video_games_based/)
+- [I built a Postman-like tool with React that can run and open without needing Nginx.](https://www.reddit.com/r/javascript/comments/1mvg969/i_built_a_postmanlike_tool_with_react_that_can/)
+- [[AskJS] what type of project should I make in JavaScript boost my résumé and my chances of being hired](https://www.reddit.com/r/javascript/comments/1mv6tu1/askjs_what_type_of_project_should_i_make_in/)
+- [Interactive Double Pendulum Playground](https://www.reddit.com/r/javascript/comments/1mv6iam/interactive_double_pendulum_playground/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
