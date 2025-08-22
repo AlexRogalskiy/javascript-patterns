@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] My JS files are all named [a-z]_functionName.js What file naming structure do you prefer and why?](https://www.reddit.com/r/javascript/comments/1mwtfyp/askjs_my_js_files_are_all_named_az_functionnamejs/)
+- [I developed a small tool called har2jsonl that convert HAR file to JSON responses](https://www.reddit.com/r/javascript/comments/1mwtcvk/i_developed_a_small_tool_called_har2jsonl_that/)
+- [I developed IntervalMap.js a Map like data structure where the key is an interval](https://www.reddit.com/r/javascript/comments/1mwp6l2/i_developed_intervalmapjs_a_map_like_data/)
+- [Just Built: &quot;CCheckpoints&quot; — Automatic Checkpoints for Claude Code CLI with a Web Dashboard, Diff View &amp; Session Tracker!](https://www.reddit.com/r/javascript/comments/1mwmhdp/just_built_ccheckpoints_automatic_checkpoints_for/)
+- [Why Be Reactive?](https://www.reddit.com/r/javascript/comments/1mwemp6/why_be_reactive/)
+- [[AskJS] Learning frontend for product building &lpar;Next.js + TS + Tailwind&rpar; – runtime confusion &lpar;Node vs Deno vs Bun&rpar;](https://www.reddit.com/r/javascript/comments/1mw71ws/askjs_learning_frontend_for_product_building/)
+- [[AskJS] Testing Script in the Browser: What Sort of Backup/Reversion/Safety-Net Allows You to Experiment?](https://www.reddit.com/r/javascript/comments/1mw6d79/askjs_testing_script_in_the_browser_what_sort_of/)
+- [Less boilerplate, more signals.](https://www.reddit.com/r/javascript/comments/1mw5q7j/less_boilerplate_more_signals/)
+- [Optique: Type-safe combinatorial CLI parser for TypeScript](https://www.reddit.com/r/javascript/comments/1mvzpvs/optique_typesafe_combinatorial_cli_parser_for/)
 - [[AskJS] Good mid - high level Javascript-based coded projects from Github to learn from](https://www.reddit.com/r/javascript/comments/1mvxwnm/askjs_good_mid_high_level_javascriptbased_coded/)
-- [[AskJS] Would this be useful as a published Chrome extension?](https://www.reddit.com/r/javascript/comments/1mvx1h9/askjs_would_this_be_useful_as_a_published_chrome/)
-- [[AskJS] How do you showcase side projects in a way that actually matters for your career?](https://www.reddit.com/r/javascript/comments/1mvow95/askjs_how_do_you_showcase_side_projects_in_a_way/)
-- [I built a massive JavaScript quiz with 500+ interview questions &lpar;beginner to advanced&rpar; - how well do you know JS?](https://www.reddit.com/r/javascript/comments/1mvnhdx/i_built_a_massive_javascript_quiz_with_500/)
-- [Cache-aware prefetch experiment &lpar;Cloudflare + browser cache checks&rpar;](https://www.reddit.com/r/javascript/comments/1mvkiep/cacheaware_prefetch_experiment_cloudflare_browser/)
-- [[AskJS] Can you tell me some interesting projects to do with node.js?](https://www.reddit.com/r/javascript/comments/1mvibol/askjs_can_you_tell_me_some_interesting_projects/)
-- [[AskJS] Is it worth creating video games based primarily on JavaScript language and JavaScript libraries?](https://www.reddit.com/r/javascript/comments/1mvh1j0/askjs_is_it_worth_creating_video_games_based/)
-- [I built a Postman-like tool with React that can run and open without needing Nginx.](https://www.reddit.com/r/javascript/comments/1mvg969/i_built_a_postmanlike_tool_with_react_that_can/)
-- [[AskJS] what type of project should I make in JavaScript boost my résumé and my chances of being hired](https://www.reddit.com/r/javascript/comments/1mv6tu1/askjs_what_type_of_project_should_i_make_in/)
-- [Interactive Double Pendulum Playground](https://www.reddit.com/r/javascript/comments/1mv6iam/interactive_double_pendulum_playground/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
