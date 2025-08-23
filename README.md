@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] My JS files are all named [a-z]_functionName.js What file naming structure do you prefer and why?](https://www.reddit.com/r/javascript/comments/1mwtfyp/askjs_my_js_files_are_all_named_az_functionnamejs/)
-- [I developed a small tool called har2jsonl that convert HAR file to JSON responses](https://www.reddit.com/r/javascript/comments/1mwtcvk/i_developed_a_small_tool_called_har2jsonl_that/)
-- [I developed IntervalMap.js a Map like data structure where the key is an interval](https://www.reddit.com/r/javascript/comments/1mwp6l2/i_developed_intervalmapjs_a_map_like_data/)
-- [Just Built: &quot;CCheckpoints&quot; — Automatic Checkpoints for Claude Code CLI with a Web Dashboard, Diff View &amp; Session Tracker!](https://www.reddit.com/r/javascript/comments/1mwmhdp/just_built_ccheckpoints_automatic_checkpoints_for/)
-- [Why Be Reactive?](https://www.reddit.com/r/javascript/comments/1mwemp6/why_be_reactive/)
-- [[AskJS] Learning frontend for product building &lpar;Next.js + TS + Tailwind&rpar; – runtime confusion &lpar;Node vs Deno vs Bun&rpar;](https://www.reddit.com/r/javascript/comments/1mw71ws/askjs_learning_frontend_for_product_building/)
-- [[AskJS] Testing Script in the Browser: What Sort of Backup/Reversion/Safety-Net Allows You to Experiment?](https://www.reddit.com/r/javascript/comments/1mw6d79/askjs_testing_script_in_the_browser_what_sort_of/)
-- [Less boilerplate, more signals.](https://www.reddit.com/r/javascript/comments/1mw5q7j/less_boilerplate_more_signals/)
-- [Optique: Type-safe combinatorial CLI parser for TypeScript](https://www.reddit.com/r/javascript/comments/1mvzpvs/optique_typesafe_combinatorial_cli_parser_for/)
-- [[AskJS] Good mid - high level Javascript-based coded projects from Github to learn from](https://www.reddit.com/r/javascript/comments/1mvxwnm/askjs_good_mid_high_level_javascriptbased_coded/)
+- [[AskJS] What Text Editor Do You Use? Does It Inherently Determine Your Workflow To Some Degree?](https://www.reddit.com/r/javascript/comments/1mxle8s/askjs_what_text_editor_do_you_use_does_it/)
+- [[AskJS] Any platform that allows you to host a Node js project for free and does not require a credit card?](https://www.reddit.com/r/javascript/comments/1mxjll7/askjs_any_platform_that_allows_you_to_host_a_node/)
+- [[AskJS] What Method Exists to Translate the Commentary in Our Code? Is there some standard in place?](https://www.reddit.com/r/javascript/comments/1mxj95k/askjs_what_method_exists_to_translate_the/)
+- [Announcing geoai.js - geoai for JavaScript ecosystem](https://www.reddit.com/r/javascript/comments/1mxfnmx/announcing_geoaijs_geoai_for_javascript_ecosystem/)
+- [JSON Viewer/Explorer for Developers with Instant Code Generation](https://www.reddit.com/r/javascript/comments/1mxf5sx/json_viewerexplorer_for_developers_with_instant/)
+- [I made a full, open-source file malware scanner](https://www.reddit.com/r/javascript/comments/1mxayp4/i_made_a_full_opensource_file_malware_scanner/)
+- [I made a CLI app toolkit for Typescript and Commanderjs inspired by cobra-cli in Go](https://www.reddit.com/r/javascript/comments/1mxa871/i_made_a_cli_app_toolkit_for_typescript_and/)
+- [How to implement Server-Sent Events](https://www.reddit.com/r/javascript/comments/1mx3tu1/how_to_implement_serversent_events/)
+- [I made a dynamic wallpaper engine that lets you make wallpapers with JS](https://www.reddit.com/r/javascript/comments/1mx3j83/i_made_a_dynamic_wallpaper_engine_that_lets_you/)
+- [Help Me For Editing Website](https://www.reddit.com/r/javascript/comments/1mx3bpt/help_me_for_editing_website/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
