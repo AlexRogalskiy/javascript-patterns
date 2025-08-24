@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] What Text Editor Do You Use? Does It Inherently Determine Your Workflow To Some Degree?](https://www.reddit.com/r/javascript/comments/1mxle8s/askjs_what_text_editor_do_you_use_does_it/)
+- [We&#39;re building an all-in-one platform for TypeScript - with batteries included](https://www.reddit.com/r/javascript/comments/1mydal0/were_building_an_allinone_platform_for_typescript/)
+- [I built a free car recall lookup app](https://www.reddit.com/r/javascript/comments/1my4qwc/i_built_a_free_car_recall_lookup_app/)
+- [Showoff Saturday &lpar;August 23, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1mxukp9/showoff_saturday_august_23_2025/)
 - [[AskJS] Any platform that allows you to host a Node js project for free and does not require a credit card?](https://www.reddit.com/r/javascript/comments/1mxjll7/askjs_any_platform_that_allows_you_to_host_a_node/)
-- [[AskJS] What Method Exists to Translate the Commentary in Our Code? Is there some standard in place?](https://www.reddit.com/r/javascript/comments/1mxj95k/askjs_what_method_exists_to_translate_the/)
 - [Announcing geoai.js - geoai for JavaScript ecosystem](https://www.reddit.com/r/javascript/comments/1mxfnmx/announcing_geoaijs_geoai_for_javascript_ecosystem/)
 - [JSON Viewer/Explorer for Developers with Instant Code Generation](https://www.reddit.com/r/javascript/comments/1mxf5sx/json_viewerexplorer_for_developers_with_instant/)
 - [I made a full, open-source file malware scanner](https://www.reddit.com/r/javascript/comments/1mxayp4/i_made_a_full_opensource_file_malware_scanner/)
 - [I made a CLI app toolkit for Typescript and Commanderjs inspired by cobra-cli in Go](https://www.reddit.com/r/javascript/comments/1mxa871/i_made_a_cli_app_toolkit_for_typescript_and/)
 - [How to implement Server-Sent Events](https://www.reddit.com/r/javascript/comments/1mx3tu1/how_to_implement_serversent_events/)
 - [I made a dynamic wallpaper engine that lets you make wallpapers with JS](https://www.reddit.com/r/javascript/comments/1mx3j83/i_made_a_dynamic_wallpaper_engine_that_lets_you/)
-- [Help Me For Editing Website](https://www.reddit.com/r/javascript/comments/1mx3bpt/help_me_for_editing_website/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
