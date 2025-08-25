@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I built the best portfolio template: Open-source, animated with Framer Motion, and fully customizable via simple JSON files.](https://www.reddit.com/r/javascript/comments/1mzegh7/i_built_the_best_portfolio_template_opensource/)
+- [[AskJS] I optimized Base64 in QuickJS and accidentally made it 6× faster than Deno](https://www.reddit.com/r/javascript/comments/1mzak0v/askjs_i_optimized_base64_in_quickjs_and/)
+- [The Angular Custom Profiling Track is now available](https://www.reddit.com/r/javascript/comments/1mz0a33/the_angular_custom_profiling_track_is_now/)
+- [Say bye with JavaScript Beacon](https://www.reddit.com/r/javascript/comments/1mz026m/say_bye_with_javascript_beacon/)
+- [I&#39;m continually working on a lerp-themed portfolio to eventually put on neocities. What&#39;s the verdict?](https://www.reddit.com/r/javascript/comments/1myycje/im_continually_working_on_a_lerpthemed_portfolio/)
+- [GitHub - larswaechter/markular: A lightweight Markdown Editor for Angular.](https://www.reddit.com/r/javascript/comments/1myx1hy/github_larswaechtermarkular_a_lightweight/)
+- [Just Finished My First Vibe Coded Browser Game – Would Love Your Feedback!](https://www.reddit.com/r/javascript/comments/1mypxak/just_finished_my_first_vibe_coded_browser_game/)
+- [My First Webpage](https://www.reddit.com/r/javascript/comments/1mylgj0/my_first_webpage/)
+- [built a browser extension that automatically checks thousands of stores for better prices](https://www.reddit.com/r/javascript/comments/1mykugm/built_a_browser_extension_that_automatically/)
 - [We&#39;re building an all-in-one platform for TypeScript - with batteries included](https://www.reddit.com/r/javascript/comments/1mydal0/were_building_an_allinone_platform_for_typescript/)
-- [I built a free car recall lookup app](https://www.reddit.com/r/javascript/comments/1my4qwc/i_built_a_free_car_recall_lookup_app/)
-- [Showoff Saturday &lpar;August 23, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1mxukp9/showoff_saturday_august_23_2025/)
-- [[AskJS] Any platform that allows you to host a Node js project for free and does not require a credit card?](https://www.reddit.com/r/javascript/comments/1mxjll7/askjs_any_platform_that_allows_you_to_host_a_node/)
-- [Announcing geoai.js - geoai for JavaScript ecosystem](https://www.reddit.com/r/javascript/comments/1mxfnmx/announcing_geoaijs_geoai_for_javascript_ecosystem/)
-- [JSON Viewer/Explorer for Developers with Instant Code Generation](https://www.reddit.com/r/javascript/comments/1mxf5sx/json_viewerexplorer_for_developers_with_instant/)
-- [I made a full, open-source file malware scanner](https://www.reddit.com/r/javascript/comments/1mxayp4/i_made_a_full_opensource_file_malware_scanner/)
-- [I made a CLI app toolkit for Typescript and Commanderjs inspired by cobra-cli in Go](https://www.reddit.com/r/javascript/comments/1mxa871/i_made_a_cli_app_toolkit_for_typescript_and/)
-- [How to implement Server-Sent Events](https://www.reddit.com/r/javascript/comments/1mx3tu1/how_to_implement_serversent_events/)
-- [I made a dynamic wallpaper engine that lets you make wallpapers with JS](https://www.reddit.com/r/javascript/comments/1mx3j83/i_made_a_dynamic_wallpaper_engine_that_lets_you/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
