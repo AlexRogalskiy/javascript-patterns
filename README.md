@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I built the best portfolio template: Open-source, animated with Framer Motion, and fully customizable via simple JSON files.](https://www.reddit.com/r/javascript/comments/1mzegh7/i_built_the_best_portfolio_template_opensource/)
-- [[AskJS] I optimized Base64 in QuickJS and accidentally made it 6× faster than Deno](https://www.reddit.com/r/javascript/comments/1mzak0v/askjs_i_optimized_base64_in_quickjs_and/)
-- [The Angular Custom Profiling Track is now available](https://www.reddit.com/r/javascript/comments/1mz0a33/the_angular_custom_profiling_track_is_now/)
-- [Say bye with JavaScript Beacon](https://www.reddit.com/r/javascript/comments/1mz026m/say_bye_with_javascript_beacon/)
-- [I&#39;m continually working on a lerp-themed portfolio to eventually put on neocities. What&#39;s the verdict?](https://www.reddit.com/r/javascript/comments/1myycje/im_continually_working_on_a_lerpthemed_portfolio/)
-- [GitHub - larswaechter/markular: A lightweight Markdown Editor for Angular.](https://www.reddit.com/r/javascript/comments/1myx1hy/github_larswaechtermarkular_a_lightweight/)
-- [Just Finished My First Vibe Coded Browser Game – Would Love Your Feedback!](https://www.reddit.com/r/javascript/comments/1mypxak/just_finished_my_first_vibe_coded_browser_game/)
-- [My First Webpage](https://www.reddit.com/r/javascript/comments/1mylgj0/my_first_webpage/)
-- [built a browser extension that automatically checks thousands of stores for better prices](https://www.reddit.com/r/javascript/comments/1mykugm/built_a_browser_extension_that_automatically/)
-- [We&#39;re building an all-in-one platform for TypeScript - with batteries included](https://www.reddit.com/r/javascript/comments/1mydal0/were_building_an_allinone_platform_for_typescript/)
+- [[AskJS] What&#39;s the recommended online courses for learning modern/standard JavaScript and then TypeScript?](https://www.reddit.com/r/javascript/comments/1n09h03/askjs_whats_the_recommended_online_courses_for/)
+- [Type-Aware Linting in Oxlint &lpar;Rust Linter&rpar;](https://www.reddit.com/r/javascript/comments/1n07jzk/typeaware_linting_in_oxlint_rust_linter/)
+- [I built an open-source learning platform for hacking, programming, tools, and more](https://www.reddit.com/r/javascript/comments/1mzy1rq/i_built_an_opensource_learning_platform_for/)
+- [Found this tool &quot;Better-T Stack&quot;](https://www.reddit.com/r/javascript/comments/1mzuhik/found_this_tool_bettert_stack/)
+- [Truncatable Primes in JavaScript](https://www.reddit.com/r/javascript/comments/1mztyq6/truncatable_primes_in_javascript/)
+- [Looking for contributors on a 5E TTRPG compatible character generator](https://www.reddit.com/r/javascript/comments/1mzsk3q/looking_for_contributors_on_a_5e_ttrpg_compatible/)
+- [[AskJS] does anyone know how to make a java script bookmark? i will pay well](https://www.reddit.com/r/javascript/comments/1mzs0w9/askjs_does_anyone_know_how_to_make_a_java_script/)
+- [Extend you website with a file sharing functionality by adding just several lines of code](https://www.reddit.com/r/javascript/comments/1mzpxih/extend_you_website_with_a_file_sharing/)
+- [I built Ubon, a tool to catch bugs that AI misses to stop the &quot;You&#39;re absolutely right!&quot; debugging circles.](https://www.reddit.com/r/javascript/comments/1mzo1mz/i_built_ubon_a_tool_to_catch_bugs_that_ai_misses/)
+- [Slimcontext — Lightweight library to compress AI agent chat history &lpar;JS/TS&rpar;](https://www.reddit.com/r/javascript/comments/1mznb6b/slimcontext_lightweight_library_to_compress_ai/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
