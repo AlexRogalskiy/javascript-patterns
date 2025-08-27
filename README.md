@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] What&#39;s the recommended online courses for learning modern/standard JavaScript and then TypeScript?](https://www.reddit.com/r/javascript/comments/1n09h03/askjs_whats_the_recommended_online_courses_for/)
-- [Type-Aware Linting in Oxlint &lpar;Rust Linter&rpar;](https://www.reddit.com/r/javascript/comments/1n07jzk/typeaware_linting_in_oxlint_rust_linter/)
-- [I built an open-source learning platform for hacking, programming, tools, and more](https://www.reddit.com/r/javascript/comments/1mzy1rq/i_built_an_opensource_learning_platform_for/)
-- [Found this tool &quot;Better-T Stack&quot;](https://www.reddit.com/r/javascript/comments/1mzuhik/found_this_tool_bettert_stack/)
-- [Truncatable Primes in JavaScript](https://www.reddit.com/r/javascript/comments/1mztyq6/truncatable_primes_in_javascript/)
-- [Looking for contributors on a 5E TTRPG compatible character generator](https://www.reddit.com/r/javascript/comments/1mzsk3q/looking_for_contributors_on_a_5e_ttrpg_compatible/)
-- [[AskJS] does anyone know how to make a java script bookmark? i will pay well](https://www.reddit.com/r/javascript/comments/1mzs0w9/askjs_does_anyone_know_how_to_make_a_java_script/)
-- [Extend you website with a file sharing functionality by adding just several lines of code](https://www.reddit.com/r/javascript/comments/1mzpxih/extend_you_website_with_a_file_sharing/)
-- [I built Ubon, a tool to catch bugs that AI misses to stop the &quot;You&#39;re absolutely right!&quot; debugging circles.](https://www.reddit.com/r/javascript/comments/1mzo1mz/i_built_ubon_a_tool_to_catch_bugs_that_ai_misses/)
-- [Slimcontext — Lightweight library to compress AI agent chat history &lpar;JS/TS&rpar;](https://www.reddit.com/r/javascript/comments/1mznb6b/slimcontext_lightweight_library_to_compress_ai/)
+- [DX for integrating data &amp; analytics infra in javascript apps](https://www.reddit.com/r/javascript/comments/1n0ykmk/dx_for_integrating_data_analytics_infra_in/)
+- [We&#39;ve open-sourced Hopp, a remote pair programming app](https://www.reddit.com/r/javascript/comments/1n0x12a/weve_opensourced_hopp_a_remote_pair_programming/)
+- [[AskJS] Best SolidJS course?](https://www.reddit.com/r/javascript/comments/1n0w991/askjs_best_solidjs_course/)
+- [[AskJS] Is Solid better or Svelte?](https://www.reddit.com/r/javascript/comments/1n0w746/askjs_is_solid_better_or_svelte/)
+- [ASCII-based Audio Visualizer for Dittytoy &lpar;Desktop only&rpar;](https://www.reddit.com/r/javascript/comments/1n0vuj6/asciibased_audio_visualizer_for_dittytoy_desktop/)
+- [[AskJS] What is the difference between for and while loops?](https://www.reddit.com/r/javascript/comments/1n0t4p9/askjs_what_is_the_difference_between_for_and/)
+- [[AskJS] Is SPA really dead? Exploring HTML-First architectures](https://www.reddit.com/r/javascript/comments/1n0sird/askjs_is_spa_really_dead_exploring_htmlfirst/)
+- [[AskJS] Why Javascript does not solve &quot;this&quot; keyword like Java ?](https://www.reddit.com/r/javascript/comments/1n0k9lg/askjs_why_javascript_does_not_solve_this_keyword/)
+- [Open-Source Agentic AI for Company Research](https://www.reddit.com/r/javascript/comments/1n0ixqb/opensource_agentic_ai_for_company_research/)
+- [[AskJS] Flight Dynamics Model](https://www.reddit.com/r/javascript/comments/1n0ij4a/askjs_flight_dynamics_model/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
