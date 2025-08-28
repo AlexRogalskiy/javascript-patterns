@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Next.js, AdonisJS, and Inertia](https://www.reddit.com/r/javascript/comments/1n1r910/askjs_nextjs_adonisjs_and_inertia/)
+- [[AskJS] Fuzzy text search libraries](https://www.reddit.com/r/javascript/comments/1n1kdr5/askjs_fuzzy_text_search_libraries/)
+- [React Web Camera – Fix &lt;input type=file&gt; single-photo limit](https://www.reddit.com/r/javascript/comments/1n1k3fv/react_web_camera_fix_input_typefile_singlephoto/)
+- [I open-sourced a local NoSQL Database.](https://www.reddit.com/r/javascript/comments/1n1hzmx/i_opensourced_a_local_nosql_database/)
+- [Exploring Minimal JS Frameworks: Qyavix &lpar;~10 lines&rpar; rendering 100,000 elements](https://www.reddit.com/r/javascript/comments/1n1hbqr/exploring_minimal_js_frameworks_qyavix_10_lines/)
+- [[AskJS] These days when AI writes code, do you feel less creative and valued?](https://www.reddit.com/r/javascript/comments/1n1fc75/askjs_these_days_when_ai_writes_code_do_you_feel/)
+- [AI code editors and assistants for 2025](https://www.reddit.com/r/javascript/comments/1n1asmk/ai_code_editors_and_assistants_for_2025/)
 - [DX for integrating data &amp; analytics infra in javascript apps](https://www.reddit.com/r/javascript/comments/1n0ykmk/dx_for_integrating_data_analytics_infra_in/)
 - [We&#39;ve open-sourced Hopp, a remote pair programming app](https://www.reddit.com/r/javascript/comments/1n0x12a/weve_opensourced_hopp_a_remote_pair_programming/)
 - [[AskJS] Best SolidJS course?](https://www.reddit.com/r/javascript/comments/1n0w991/askjs_best_solidjs_course/)
-- [[AskJS] Is Solid better or Svelte?](https://www.reddit.com/r/javascript/comments/1n0w746/askjs_is_solid_better_or_svelte/)
-- [ASCII-based Audio Visualizer for Dittytoy &lpar;Desktop only&rpar;](https://www.reddit.com/r/javascript/comments/1n0vuj6/asciibased_audio_visualizer_for_dittytoy_desktop/)
-- [[AskJS] What is the difference between for and while loops?](https://www.reddit.com/r/javascript/comments/1n0t4p9/askjs_what_is_the_difference_between_for_and/)
-- [[AskJS] Is SPA really dead? Exploring HTML-First architectures](https://www.reddit.com/r/javascript/comments/1n0sird/askjs_is_spa_really_dead_exploring_htmlfirst/)
-- [[AskJS] Why Javascript does not solve &quot;this&quot; keyword like Java ?](https://www.reddit.com/r/javascript/comments/1n0k9lg/askjs_why_javascript_does_not_solve_this_keyword/)
-- [Open-Source Agentic AI for Company Research](https://www.reddit.com/r/javascript/comments/1n0ixqb/opensource_agentic_ai_for_company_research/)
-- [[AskJS] Flight Dynamics Model](https://www.reddit.com/r/javascript/comments/1n0ij4a/askjs_flight_dynamics_model/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
