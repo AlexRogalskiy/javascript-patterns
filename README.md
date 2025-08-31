@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I built an AI alt text generator that helps you make your images more accessible](https://www.reddit.com/r/javascript/comments/1n2sozu/i_built_an_ai_alt_text_generator_that_helps_you/)
-- [CLI to automatically update GitHub Actions with SHA pinning](https://www.reddit.com/r/javascript/comments/1n2qe6v/cli_to_automatically_update_github_actions_with/)
-- [[AskJS] How can I make my website multilingual?](https://www.reddit.com/r/javascript/comments/1n2otr7/askjs_how_can_i_make_my_website_multilingual/)
-- [I built an open-source image resizer that&#39;s 100% private &lpar;runs in your browser&rpar; and has a killer feature: you can set a target file size &lpar;e.g., &quot;under 500 KB&quot;&rpar;.](https://www.reddit.com/r/javascript/comments/1n2me62/i_built_an_opensource_image_resizer_thats_100/)
-- [I built an expense tracked for digital nomads](https://www.reddit.com/r/javascript/comments/1n2ffay/i_built_an_expense_tracked_for_digital_nomads/)
-- [free, open-source file scanner](https://www.reddit.com/r/javascript/comments/1n2c1ff/free_opensource_file_scanner/)
-- [[AskJS] I&#39;m writing a custom game engine/platform, and want it to be independent of overridable behaviour. Am I overengineering things?](https://www.reddit.com/r/javascript/comments/1n2ap2m/askjs_im_writing_a_custom_game_engineplatform_and/)
-- [Built a modern way to prefetch using the mouse trajectory!](https://www.reddit.com/r/javascript/comments/1n2andc/built_a_modern_way_to_prefetch_using_the_mouse/)
-- [[AskJS] Is using libraries okay?](https://www.reddit.com/r/javascript/comments/1n29045/askjs_is_using_libraries_okay/)
-- [Serviz-JS: Command object Interface for JavaScript](https://www.reddit.com/r/javascript/comments/1n27tsc/servizjs_command_object_interface_for_javascript/)
+- [Comctx: A Better Cross-Context Communication Library Than Comlink](https://www.reddit.com/r/javascript/comments/1n4en8y/comctx_a_better_crosscontext_communication/)
+- [I built a tiny TypeScript library to catch &quot;dead clicks&quot; &lpar;fake buttons/links&rpar; and visualize them with a heatmap](https://www.reddit.com/r/javascript/comments/1n4cg6s/i_built_a_tiny_typescript_library_to_catch_dead/)
+- [auto-fixing package-lock.json conflicts](https://www.reddit.com/r/javascript/comments/1n4byor/autofixing_packagelockjson_conflicts/)
+- [A fully open source peer-to-peer media protocol JS and IPFS based, anyone can build their favorite UI on](https://www.reddit.com/r/javascript/comments/1n4bosf/a_fully_open_source_peertopeer_media_protocol_js/)
+- [Showoff Saturday &lpar;August 30, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1n3v2h2/showoff_saturday_august_30_2025/)
+- [It took me 3 months to implement React Server Components from scratch](https://www.reddit.com/r/javascript/comments/1n3tubu/it_took_me_3_months_to_implement_react_server/)
+- [[AskJS] Best practices for serving multiple AI models in a Node.js backend?](https://www.reddit.com/r/javascript/comments/1n3iepf/askjs_best_practices_for_serving_multiple_ai/)
+- [[AskJS] SaaS Bundled ISP?](https://www.reddit.com/r/javascript/comments/1n3a733/askjs_saas_bundled_isp/)
+- [You&#39;re not logging properly. Here&#39;s the right way to do it.](https://www.reddit.com/r/javascript/comments/1n35obx/youre_not_logging_properly_heres_the_right_way_to/)
+- [I built a Markdown note-taking app for students and creators — and I’d love your feedback](https://www.reddit.com/r/javascript/comments/1n35mb9/i_built_a_markdown_notetaking_app_for_students/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
