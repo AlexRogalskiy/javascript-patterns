@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Built a tiny tool to mask sensitive fields before sharing JSON](https://www.reddit.com/r/javascript/comments/1n5uj9p/built_a_tiny_tool_to_mask_sensitive_fields_before/)
+- [What’s New in ViteLand: August 2025 Recap](https://www.reddit.com/r/javascript/comments/1n5p862/whats_new_in_viteland_august_2025_recap/)
+- [Stop writing try/catch around fetch — I built safe-fetch &lpar;tiny, 0 deps, ~3kb&rpar;](https://www.reddit.com/r/javascript/comments/1n5oy05/stop_writing_trycatch_around_fetch_i_built/)
+- [Block-based optimization for image diffing](https://www.reddit.com/r/javascript/comments/1n5o4s2/blockbased_optimization_for_image_diffing/)
+- [Your /r/javascript recap for the week of August 25 - August 31, 2025](https://www.reddit.com/r/javascript/comments/1n5jshq/your_rjavascript_recap_for_the_week_of_august_25/)
+- [Free Online JSON Tools for Developers](https://www.reddit.com/r/javascript/comments/1n4zjbt/free_online_json_tools_for_developers/)
+- [What do you think about this CLI tool for managing and opening multiple projects easily?](https://www.reddit.com/r/javascript/comments/1n4uyvl/what_do_you_think_about_this_cli_tool_for/)
 - [Comctx: A Better Cross-Context Communication Library Than Comlink](https://www.reddit.com/r/javascript/comments/1n4en8y/comctx_a_better_crosscontext_communication/)
 - [I built a tiny TypeScript library to catch &quot;dead clicks&quot; &lpar;fake buttons/links&rpar; and visualize them with a heatmap](https://www.reddit.com/r/javascript/comments/1n4cg6s/i_built_a_tiny_typescript_library_to_catch_dead/)
 - [auto-fixing package-lock.json conflicts](https://www.reddit.com/r/javascript/comments/1n4byor/autofixing_packagelockjson_conflicts/)
-- [A fully open source peer-to-peer media protocol JS and IPFS based, anyone can build their favorite UI on](https://www.reddit.com/r/javascript/comments/1n4bosf/a_fully_open_source_peertopeer_media_protocol_js/)
-- [Showoff Saturday &lpar;August 30, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1n3v2h2/showoff_saturday_august_30_2025/)
-- [It took me 3 months to implement React Server Components from scratch](https://www.reddit.com/r/javascript/comments/1n3tubu/it_took_me_3_months_to_implement_react_server/)
-- [[AskJS] Best practices for serving multiple AI models in a Node.js backend?](https://www.reddit.com/r/javascript/comments/1n3iepf/askjs_best_practices_for_serving_multiple_ai/)
-- [[AskJS] SaaS Bundled ISP?](https://www.reddit.com/r/javascript/comments/1n3a733/askjs_saas_bundled_isp/)
-- [You&#39;re not logging properly. Here&#39;s the right way to do it.](https://www.reddit.com/r/javascript/comments/1n35obx/youre_not_logging_properly_heres_the_right_way_to/)
-- [I built a Markdown note-taking app for students and creators — and I’d love your feedback](https://www.reddit.com/r/javascript/comments/1n35mb9/i_built_a_markdown_notetaking_app_for_students/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
