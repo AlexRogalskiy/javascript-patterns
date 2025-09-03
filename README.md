@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Built a tiny tool to mask sensitive fields before sharing JSON](https://www.reddit.com/r/javascript/comments/1n5uj9p/built_a_tiny_tool_to_mask_sensitive_fields_before/)
-- [What’s New in ViteLand: August 2025 Recap](https://www.reddit.com/r/javascript/comments/1n5p862/whats_new_in_viteland_august_2025_recap/)
-- [Stop writing try/catch around fetch — I built safe-fetch &lpar;tiny, 0 deps, ~3kb&rpar;](https://www.reddit.com/r/javascript/comments/1n5oy05/stop_writing_trycatch_around_fetch_i_built/)
-- [Block-based optimization for image diffing](https://www.reddit.com/r/javascript/comments/1n5o4s2/blockbased_optimization_for_image_diffing/)
-- [Your /r/javascript recap for the week of August 25 - August 31, 2025](https://www.reddit.com/r/javascript/comments/1n5jshq/your_rjavascript_recap_for_the_week_of_august_25/)
-- [Free Online JSON Tools for Developers](https://www.reddit.com/r/javascript/comments/1n4zjbt/free_online_json_tools_for_developers/)
-- [What do you think about this CLI tool for managing and opening multiple projects easily?](https://www.reddit.com/r/javascript/comments/1n4uyvl/what_do_you_think_about_this_cli_tool_for/)
-- [Comctx: A Better Cross-Context Communication Library Than Comlink](https://www.reddit.com/r/javascript/comments/1n4en8y/comctx_a_better_crosscontext_communication/)
-- [I built a tiny TypeScript library to catch &quot;dead clicks&quot; &lpar;fake buttons/links&rpar; and visualize them with a heatmap](https://www.reddit.com/r/javascript/comments/1n4cg6s/i_built_a_tiny_typescript_library_to_catch_dead/)
-- [auto-fixing package-lock.json conflicts](https://www.reddit.com/r/javascript/comments/1n4byor/autofixing_packagelockjson_conflicts/)
+- [[AskJS] Are full-time web dev jobs actually common?](https://www.reddit.com/r/javascript/comments/1n6sml0/askjs_are_fulltime_web_dev_jobs_actually_common/)
+- [GitHub - ali-master/pingu: A modern ping utility with beautiful CLI output](https://www.reddit.com/r/javascript/comments/1n6shqq/github_alimasterpingu_a_modern_ping_utility_with/)
+- [Open Source Rule Engine](https://www.reddit.com/r/javascript/comments/1n6sgli/open_source_rule_engine/)
+- [Lean for JavaScript Developers](https://www.reddit.com/r/javascript/comments/1n6n174/lean_for_javascript_developers/)
+- [Finally added service workers to my app, it loads instantly!](https://www.reddit.com/r/javascript/comments/1n6j0fx/finally_added_service_workers_to_my_app_it_loads/)
+- [Everything About Bitflags: How to store up to 32 booleans in one value?](https://www.reddit.com/r/javascript/comments/1n6izor/everything_about_bitflags_how_to_store_up_to_32/)
+- [Dependency Hell: The Hidden Costs of Dependency Bloat in Software Development](https://www.reddit.com/r/javascript/comments/1n6icdw/dependency_hell_the_hidden_costs_of_dependency/)
+- [Vanilla JS SmartWizard](https://www.reddit.com/r/javascript/comments/1n6g5o2/vanilla_js_smartwizard/)
+- [[AskJS] Can I learn OOP with JavaScript?](https://www.reddit.com/r/javascript/comments/1n6fn3v/askjs_can_i_learn_oop_with_javascript/)
+- [[AskJS] What’s a small coding tip that saved you HOURS?](https://www.reddit.com/r/javascript/comments/1n6bnrl/askjs_whats_a_small_coding_tip_that_saved_you/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
