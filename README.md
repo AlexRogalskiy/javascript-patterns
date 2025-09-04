@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] is it possible to deobfuscate .jsc bytenode code](https://www.reddit.com/r/javascript/comments/1n7y2vq/askjs_is_it_possible_to_deobfuscate_jsc_bytenode/)
+- [Integrate Trigger.dev and Anchor Browser for Automatic Browser Automation](https://www.reddit.com/r/javascript/comments/1n7vl04/integrate_triggerdev_and_anchor_browser_for/)
+- [Creating a JavaScript Debugging Utility to Guard Noisy Production Consoles](https://www.reddit.com/r/javascript/comments/1n7rfqo/creating_a_javascript_debugging_utility_to_guard/)
+- [Turning an entire book into a few paragraphs in minutes? Yes, it’s possible…](https://www.reddit.com/r/javascript/comments/1n7pcch/turning_an_entire_book_into_a_few_paragraphs_in/)
+- [BootstrapSearch: A Powerful, AJAX-Enabled Searchbox Component for Bootstrap 5](https://www.reddit.com/r/javascript/comments/1n7ce0b/bootstrapsearch_a_powerful_ajaxenabled_searchbox/)
+- [Is JavaScript&#39;s BigInt broken?](https://www.reddit.com/r/javascript/comments/1n7btmm/is_javascripts_bigint_broken/)
+- [Accurate text lengths with Intl.Segmenter API](https://www.reddit.com/r/javascript/comments/1n77itj/accurate_text_lengths_with_intlsegmenter_api/)
 - [[AskJS] Are full-time web dev jobs actually common?](https://www.reddit.com/r/javascript/comments/1n6sml0/askjs_are_fulltime_web_dev_jobs_actually_common/)
 - [GitHub - ali-master/pingu: A modern ping utility with beautiful CLI output](https://www.reddit.com/r/javascript/comments/1n6shqq/github_alimasterpingu_a_modern_ping_utility_with/)
 - [Open Source Rule Engine](https://www.reddit.com/r/javascript/comments/1n6sgli/open_source_rule_engine/)
-- [Lean for JavaScript Developers](https://www.reddit.com/r/javascript/comments/1n6n174/lean_for_javascript_developers/)
-- [Finally added service workers to my app, it loads instantly!](https://www.reddit.com/r/javascript/comments/1n6j0fx/finally_added_service_workers_to_my_app_it_loads/)
-- [Everything About Bitflags: How to store up to 32 booleans in one value?](https://www.reddit.com/r/javascript/comments/1n6izor/everything_about_bitflags_how_to_store_up_to_32/)
-- [Dependency Hell: The Hidden Costs of Dependency Bloat in Software Development](https://www.reddit.com/r/javascript/comments/1n6icdw/dependency_hell_the_hidden_costs_of_dependency/)
-- [Vanilla JS SmartWizard](https://www.reddit.com/r/javascript/comments/1n6g5o2/vanilla_js_smartwizard/)
-- [[AskJS] Can I learn OOP with JavaScript?](https://www.reddit.com/r/javascript/comments/1n6fn3v/askjs_can_i_learn_oop_with_javascript/)
-- [[AskJS] What’s a small coding tip that saved you HOURS?](https://www.reddit.com/r/javascript/comments/1n6bnrl/askjs_whats_a_small_coding_tip_that_saved_you/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
