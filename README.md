@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I built nocojs - a built time library to create inline placeholder for images](https://www.reddit.com/r/javascript/comments/1n8dmd7/i_built_nocojs_a_built_time_library_to_create/)
+- [[AskJS] Planning to build a Backend Framework for Node-JS](https://www.reddit.com/r/javascript/comments/1n86px0/askjs_planning_to_build_a_backend_framework_for/)
+- [[AskJS] Node vs Deno vs Bun , what are you actually using in 2025?](https://www.reddit.com/r/javascript/comments/1n85kdg/askjs_node_vs_deno_vs_bun_what_are_you_actually/)
+- [I built USAL.js - a 9KB scroll animation library with text effects and framework support for React, Vue, Svelte, Angular + Web Components](https://www.reddit.com/r/javascript/comments/1n83l78/i_built_usaljs_a_9kb_scroll_animation_library/)
 - [[AskJS] is it possible to deobfuscate .jsc bytenode code](https://www.reddit.com/r/javascript/comments/1n7y2vq/askjs_is_it_possible_to_deobfuscate_jsc_bytenode/)
 - [Integrate Trigger.dev and Anchor Browser for Automatic Browser Automation](https://www.reddit.com/r/javascript/comments/1n7vl04/integrate_triggerdev_and_anchor_browser_for/)
 - [Creating a JavaScript Debugging Utility to Guard Noisy Production Consoles](https://www.reddit.com/r/javascript/comments/1n7rfqo/creating_a_javascript_debugging_utility_to_guard/)
 - [Turning an entire book into a few paragraphs in minutes? Yes, it’s possible…](https://www.reddit.com/r/javascript/comments/1n7pcch/turning_an_entire_book_into_a_few_paragraphs_in/)
 - [BootstrapSearch: A Powerful, AJAX-Enabled Searchbox Component for Bootstrap 5](https://www.reddit.com/r/javascript/comments/1n7ce0b/bootstrapsearch_a_powerful_ajaxenabled_searchbox/)
 - [Is JavaScript&#39;s BigInt broken?](https://www.reddit.com/r/javascript/comments/1n7btmm/is_javascripts_bigint_broken/)
-- [Accurate text lengths with Intl.Segmenter API](https://www.reddit.com/r/javascript/comments/1n77itj/accurate_text_lengths_with_intlsegmenter_api/)
-- [[AskJS] Are full-time web dev jobs actually common?](https://www.reddit.com/r/javascript/comments/1n6sml0/askjs_are_fulltime_web_dev_jobs_actually_common/)
-- [GitHub - ali-master/pingu: A modern ping utility with beautiful CLI output](https://www.reddit.com/r/javascript/comments/1n6shqq/github_alimasterpingu_a_modern_ping_utility_with/)
-- [Open Source Rule Engine](https://www.reddit.com/r/javascript/comments/1n6sgli/open_source_rule_engine/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
