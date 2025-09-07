@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I built nocojs - a built time library to create inline placeholder for images](https://www.reddit.com/r/javascript/comments/1n8dmd7/i_built_nocojs_a_built_time_library_to_create/)
-- [[AskJS] Planning to build a Backend Framework for Node-JS](https://www.reddit.com/r/javascript/comments/1n86px0/askjs_planning_to_build_a_backend_framework_for/)
-- [[AskJS] Node vs Deno vs Bun , what are you actually using in 2025?](https://www.reddit.com/r/javascript/comments/1n85kdg/askjs_node_vs_deno_vs_bun_what_are_you_actually/)
-- [I built USAL.js - a 9KB scroll animation library with text effects and framework support for React, Vue, Svelte, Angular + Web Components](https://www.reddit.com/r/javascript/comments/1n83l78/i_built_usaljs_a_9kb_scroll_animation_library/)
-- [[AskJS] is it possible to deobfuscate .jsc bytenode code](https://www.reddit.com/r/javascript/comments/1n7y2vq/askjs_is_it_possible_to_deobfuscate_jsc_bytenode/)
-- [Integrate Trigger.dev and Anchor Browser for Automatic Browser Automation](https://www.reddit.com/r/javascript/comments/1n7vl04/integrate_triggerdev_and_anchor_browser_for/)
-- [Creating a JavaScript Debugging Utility to Guard Noisy Production Consoles](https://www.reddit.com/r/javascript/comments/1n7rfqo/creating_a_javascript_debugging_utility_to_guard/)
-- [Turning an entire book into a few paragraphs in minutes? Yes, it’s possible…](https://www.reddit.com/r/javascript/comments/1n7pcch/turning_an_entire_book_into_a_few_paragraphs_in/)
-- [BootstrapSearch: A Powerful, AJAX-Enabled Searchbox Component for Bootstrap 5](https://www.reddit.com/r/javascript/comments/1n7ce0b/bootstrapsearch_a_powerful_ajaxenabled_searchbox/)
-- [Is JavaScript&#39;s BigInt broken?](https://www.reddit.com/r/javascript/comments/1n7btmm/is_javascripts_bigint_broken/)
+- [[AskJS] connecting backend with Primavera P6](https://www.reddit.com/r/javascript/comments/1nah91d/askjs_connecting_backend_with_primavera_p6/)
+- [Corsfix - open source and secure CORS proxy](https://www.reddit.com/r/javascript/comments/1na2njb/corsfix_open_source_and_secure_cors_proxy/)
+- [ffetch 2.0 released - Enhanced fetch&lpar;&rpar; wrapper with proper AbortSignal handling](https://www.reddit.com/r/javascript/comments/1na2gpe/ffetch_20_released_enhanced_fetch_wrapper_with/)
+- [GitHub - mxxii/peberminta: Simple, transparent parser combinators toolkit that supports any tokens](https://www.reddit.com/r/javascript/comments/1n9wq1z/github_mxxiipeberminta_simple_transparent_parser/)
+- [Showoff Saturday &lpar;September 06, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1n9syis/showoff_saturday_september_06_2025/)
+- [[AskJS] Is adding methods to elements a good idea?](https://www.reddit.com/r/javascript/comments/1n9o2c7/askjs_is_adding_methods_to_elements_a_good_idea/)
+- [Just hit my first 2 stars on GitHub + 100 npm downloads](https://www.reddit.com/r/javascript/comments/1n9dmk5/just_hit_my_first_2_stars_on_github_100_npm/)
+- [Made a VSCode extension to clean up messy fetch requests from DevTools](https://www.reddit.com/r/javascript/comments/1n96ofx/made_a_vscode_extension_to_clean_up_messy_fetch/)
+- [[AskJS] Is WebStorm still the better IDE for modern JavaScript/TypeScript dev vs VS Code?](https://www.reddit.com/r/javascript/comments/1n92pxn/askjs_is_webstorm_still_the_better_ide_for_modern/)
+- [[AskJS] Multiple videos managed in electron, will it work?](https://www.reddit.com/r/javascript/comments/1n928po/askjs_multiple_videos_managed_in_electron_will_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
