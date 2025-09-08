@@ -277,6 +277,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [GitHub - beep8/beep8-sdk: SDK for developing games and tools for the BEEP-8 fantasy console.](https://www.reddit.com/r/javascript/comments/1navf6o/github_beep8beep8sdk_sdk_for_developing_games_and/)
 - [[AskJS] connecting backend with Primavera P6](https://www.reddit.com/r/javascript/comments/1nah91d/askjs_connecting_backend_with_primavera_p6/)
 - [Corsfix - open source and secure CORS proxy](https://www.reddit.com/r/javascript/comments/1na2njb/corsfix_open_source_and_secure_cors_proxy/)
 - [ffetch 2.0 released - Enhanced fetch&lpar;&rpar; wrapper with proper AbortSignal handling](https://www.reddit.com/r/javascript/comments/1na2gpe/ffetch_20_released_enhanced_fetch_wrapper_with/)
@@ -286,7 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Just hit my first 2 stars on GitHub + 100 npm downloads](https://www.reddit.com/r/javascript/comments/1n9dmk5/just_hit_my_first_2_stars_on_github_100_npm/)
 - [Made a VSCode extension to clean up messy fetch requests from DevTools](https://www.reddit.com/r/javascript/comments/1n96ofx/made_a_vscode_extension_to_clean_up_messy_fetch/)
 - [[AskJS] Is WebStorm still the better IDE for modern JavaScript/TypeScript dev vs VS Code?](https://www.reddit.com/r/javascript/comments/1n92pxn/askjs_is_webstorm_still_the_better_ide_for_modern/)
-- [[AskJS] Multiple videos managed in electron, will it work?](https://www.reddit.com/r/javascript/comments/1n928po/askjs_multiple_videos_managed_in_electron_will_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
