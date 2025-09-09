@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [GitHub - beep8/beep8-sdk: SDK for developing games and tools for the BEEP-8 fantasy console.](https://www.reddit.com/r/javascript/comments/1navf6o/github_beep8beep8sdk_sdk_for_developing_games_and/)
-- [[AskJS] connecting backend with Primavera P6](https://www.reddit.com/r/javascript/comments/1nah91d/askjs_connecting_backend_with_primavera_p6/)
-- [Corsfix - open source and secure CORS proxy](https://www.reddit.com/r/javascript/comments/1na2njb/corsfix_open_source_and_secure_cors_proxy/)
-- [ffetch 2.0 released - Enhanced fetch&lpar;&rpar; wrapper with proper AbortSignal handling](https://www.reddit.com/r/javascript/comments/1na2gpe/ffetch_20_released_enhanced_fetch_wrapper_with/)
-- [GitHub - mxxii/peberminta: Simple, transparent parser combinators toolkit that supports any tokens](https://www.reddit.com/r/javascript/comments/1n9wq1z/github_mxxiipeberminta_simple_transparent_parser/)
-- [Showoff Saturday &lpar;September 06, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1n9syis/showoff_saturday_september_06_2025/)
-- [[AskJS] Is adding methods to elements a good idea?](https://www.reddit.com/r/javascript/comments/1n9o2c7/askjs_is_adding_methods_to_elements_a_good_idea/)
-- [Just hit my first 2 stars on GitHub + 100 npm downloads](https://www.reddit.com/r/javascript/comments/1n9dmk5/just_hit_my_first_2_stars_on_github_100_npm/)
-- [Made a VSCode extension to clean up messy fetch requests from DevTools](https://www.reddit.com/r/javascript/comments/1n96ofx/made_a_vscode_extension_to_clean_up_messy_fetch/)
-- [[AskJS] Is WebStorm still the better IDE for modern JavaScript/TypeScript dev vs VS Code?](https://www.reddit.com/r/javascript/comments/1n92pxn/askjs_is_webstorm_still_the_better_ide_for_modern/)
+- [[AskJS] Looking for a JS app for showing off photos from S3 Bucket](https://www.reddit.com/r/javascript/comments/1nc4tq9/askjs_looking_for_a_js_app_for_showing_off_photos/)
+- [[AskJS] Handling Full-Balance Ethereum Transfers with ethers.js](https://www.reddit.com/r/javascript/comments/1nbzlxt/askjs_handling_fullbalance_ethereum_transfers/)
+- [React AI Agent Chat SDK](https://www.reddit.com/r/javascript/comments/1nbupnu/react_ai_agent_chat_sdk/)
+- [[AskJS] Count lines for a contenteditable div?](https://www.reddit.com/r/javascript/comments/1nbtxfg/askjs_count_lines_for_a_contenteditable_div/)
+- [Higher-Order Transform Streams: Sequentially Injecting Streams Within Streams](https://www.reddit.com/r/javascript/comments/1nbt6ef/higherorder_transform_streams_sequentially/)
+- [NPM package &quot;error-ex&quot; just got published with malware &lpar;47m downloads&rpar;](https://www.reddit.com/r/javascript/comments/1nbp3c4/npm_package_errorex_just_got_published_with/)
+- [True End-to-End Type Safety Across Your Entire TypeScript Stack](https://www.reddit.com/r/javascript/comments/1nbnl5w/true_endtoend_type_safety_across_your_entire/)
+- [Runner - javascript framework with powerful observability toolkit](https://www.reddit.com/r/javascript/comments/1nbky1n/runner_javascript_framework_with_powerful/)
+- [Your /r/javascript recap for the week of September 01 - September 07, 2025](https://www.reddit.com/r/javascript/comments/1nbiroz/your_rjavascript_recap_for_the_week_of_september/)
+- [[AskJS] Is Remix or Astro better than NextJS for non-vercel production?](https://www.reddit.com/r/javascript/comments/1nbhzvn/askjs_is_remix_or_astro_better_than_nextjs_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
