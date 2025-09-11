@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Looking for a JS app for showing off photos from S3 Bucket](https://www.reddit.com/r/javascript/comments/1nc4tq9/askjs_looking_for_a_js_app_for_showing_off_photos/)
-- [[AskJS] Handling Full-Balance Ethereum Transfers with ethers.js](https://www.reddit.com/r/javascript/comments/1nbzlxt/askjs_handling_fullbalance_ethereum_transfers/)
-- [React AI Agent Chat SDK](https://www.reddit.com/r/javascript/comments/1nbupnu/react_ai_agent_chat_sdk/)
-- [[AskJS] Count lines for a contenteditable div?](https://www.reddit.com/r/javascript/comments/1nbtxfg/askjs_count_lines_for_a_contenteditable_div/)
-- [Higher-Order Transform Streams: Sequentially Injecting Streams Within Streams](https://www.reddit.com/r/javascript/comments/1nbt6ef/higherorder_transform_streams_sequentially/)
-- [NPM package &quot;error-ex&quot; just got published with malware &lpar;47m downloads&rpar;](https://www.reddit.com/r/javascript/comments/1nbp3c4/npm_package_errorex_just_got_published_with/)
-- [True End-to-End Type Safety Across Your Entire TypeScript Stack](https://www.reddit.com/r/javascript/comments/1nbnl5w/true_endtoend_type_safety_across_your_entire/)
-- [Runner - javascript framework with powerful observability toolkit](https://www.reddit.com/r/javascript/comments/1nbky1n/runner_javascript_framework_with_powerful/)
-- [Your /r/javascript recap for the week of September 01 - September 07, 2025](https://www.reddit.com/r/javascript/comments/1nbiroz/your_rjavascript_recap_for_the_week_of_september/)
-- [[AskJS] Is Remix or Astro better than NextJS for non-vercel production?](https://www.reddit.com/r/javascript/comments/1nbhzvn/askjs_is_remix_or_astro_better_than_nextjs_for/)
+- [Preventing the npm Debug/Chalk Compromise in 200 lines of Javascript](https://www.reddit.com/r/javascript/comments/1ndx424/preventing_the_npm_debugchalk_compromise_in_200/)
+- [How To Set Up Express 5 In 2025](https://www.reddit.com/r/javascript/comments/1ndkxr9/how_to_set_up_express_5_in_2025/)
+- [Open Source Multi-Chat for Twitch + YouTube + TikTok &lpar;Node.js Project&rpar;](https://www.reddit.com/r/javascript/comments/1ndjvwr/open_source_multichat_for_twitch_youtube_tiktok/)
+- [Make Your Website Talk with The JavaScript Web Speech API](https://www.reddit.com/r/javascript/comments/1ndg83w/make_your_website_talk_with_the_javascript_web/)
+- [[AskJS] What is a good blogging CMS js-based?](https://www.reddit.com/r/javascript/comments/1nd9rsf/askjs_what_is_a_good_blogging_cms_jsbased/)
+- [[AskJS] Why aren&#39;t there HtmlEncode-Decode methods in pure JS](https://www.reddit.com/r/javascript/comments/1ncs67b/askjs_why_arent_there_htmlencodedecode_methods_in/)
+- [Lessons from npm&#39;s Security Failures](https://www.reddit.com/r/javascript/comments/1ncnfwu/lessons_from_npms_security_failures/)
+- [color npm package compromised](https://www.reddit.com/r/javascript/comments/1ncklq1/color_npm_package_compromised/)
+- [Common FP - A New JS Utility Lib](https://www.reddit.com/r/javascript/comments/1ncjl9t/common_fp_a_new_js_utility_lib/)
+- [htms-js: Stream Async HTML, Stay SEO-Friendly](https://www.reddit.com/r/javascript/comments/1nci9sw/htmsjs_stream_async_html_stay_seofriendly/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
