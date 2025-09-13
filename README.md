@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Preventing the npm Debug/Chalk Compromise in 200 lines of Javascript](https://www.reddit.com/r/javascript/comments/1ndx424/preventing_the_npm_debugchalk_compromise_in_200/)
-- [How To Set Up Express 5 In 2025](https://www.reddit.com/r/javascript/comments/1ndkxr9/how_to_set_up_express_5_in_2025/)
-- [Open Source Multi-Chat for Twitch + YouTube + TikTok &lpar;Node.js Project&rpar;](https://www.reddit.com/r/javascript/comments/1ndjvwr/open_source_multichat_for_twitch_youtube_tiktok/)
-- [Make Your Website Talk with The JavaScript Web Speech API](https://www.reddit.com/r/javascript/comments/1ndg83w/make_your_website_talk_with_the_javascript_web/)
-- [[AskJS] What is a good blogging CMS js-based?](https://www.reddit.com/r/javascript/comments/1nd9rsf/askjs_what_is_a_good_blogging_cms_jsbased/)
-- [[AskJS] Why aren&#39;t there HtmlEncode-Decode methods in pure JS](https://www.reddit.com/r/javascript/comments/1ncs67b/askjs_why_arent_there_htmlencodedecode_methods_in/)
-- [Lessons from npm&#39;s Security Failures](https://www.reddit.com/r/javascript/comments/1ncnfwu/lessons_from_npms_security_failures/)
-- [color npm package compromised](https://www.reddit.com/r/javascript/comments/1ncklq1/color_npm_package_compromised/)
-- [Common FP - A New JS Utility Lib](https://www.reddit.com/r/javascript/comments/1ncjl9t/common_fp_a_new_js_utility_lib/)
-- [htms-js: Stream Async HTML, Stay SEO-Friendly](https://www.reddit.com/r/javascript/comments/1nci9sw/htmsjs_stream_async_html_stay_seofriendly/)
+- [We are building a fully peer-to-peer selfhosted 4chan alternative using javascript and ipfs, looking for honest review and feed back](https://www.reddit.com/r/javascript/comments/1nfid0i/we_are_building_a_fully_peertopeer_selfhosted/)
+- [We built the most comprehensive vehicle history reports.](https://www.reddit.com/r/javascript/comments/1nffvyo/we_built_the_most_comprehensive_vehicle_history/)
+- [ESLint Airbnb Extended - Alternative of Eslint Config Airbnb &lpar; Base + React + Typescript &rpar;](https://www.reddit.com/r/javascript/comments/1nfftwm/eslint_airbnb_extended_alternative_of_eslint/)
+- [Built a simple, open-source test planner your team can start using today](https://www.reddit.com/r/javascript/comments/1nfe3vj/built_a_simple_opensource_test_planner_your_team/)
+- [[AskJS] Why is Javascript chosen this much?](https://www.reddit.com/r/javascript/comments/1nf5xd1/askjs_why_is_javascript_chosen_this_much/)
+- [[AskJS] is there a way to make my buttons fit the screen size?](https://www.reddit.com/r/javascript/comments/1nf5nu3/askjs_is_there_a_way_to_make_my_buttons_fit_the/)
+- [Published BloomFilter.js, a small library to check if requests or lookups are necessary to make and similar, using an optimal hashing design based on Kirsch/Mitzenmacher](https://www.reddit.com/r/javascript/comments/1nf14bc/published_bloomfilterjs_a_small_library_to_check/)
+- [[AskJS] Boosting SEO with Structured Data, JSON-LD, and Proper Headings](https://www.reddit.com/r/javascript/comments/1nevyr9/askjs_boosting_seo_with_structured_data_jsonld/)
+- [[AskJS] Should take the pay, or keep my code?](https://www.reddit.com/r/javascript/comments/1netnn6/askjs_should_take_the_pay_or_keep_my_code/)
+- [We forked styled-components because it never implemented React 18&#39;s performance APIs. 40% faster for Linear, zero code changes needed.](https://www.reddit.com/r/javascript/comments/1nefcw8/we_forked_styledcomponents_because_it_never/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
