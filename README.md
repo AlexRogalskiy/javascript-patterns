@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [We are building a fully peer-to-peer selfhosted 4chan alternative using javascript and ipfs, looking for honest review and feed back](https://www.reddit.com/r/javascript/comments/1nfid0i/we_are_building_a_fully_peertopeer_selfhosted/)
-- [We built the most comprehensive vehicle history reports.](https://www.reddit.com/r/javascript/comments/1nffvyo/we_built_the_most_comprehensive_vehicle_history/)
-- [ESLint Airbnb Extended - Alternative of Eslint Config Airbnb &lpar; Base + React + Typescript &rpar;](https://www.reddit.com/r/javascript/comments/1nfftwm/eslint_airbnb_extended_alternative_of_eslint/)
-- [Built a simple, open-source test planner your team can start using today](https://www.reddit.com/r/javascript/comments/1nfe3vj/built_a_simple_opensource_test_planner_your_team/)
-- [[AskJS] Why is Javascript chosen this much?](https://www.reddit.com/r/javascript/comments/1nf5xd1/askjs_why_is_javascript_chosen_this_much/)
-- [[AskJS] is there a way to make my buttons fit the screen size?](https://www.reddit.com/r/javascript/comments/1nf5nu3/askjs_is_there_a_way_to_make_my_buttons_fit_the/)
-- [Published BloomFilter.js, a small library to check if requests or lookups are necessary to make and similar, using an optimal hashing design based on Kirsch/Mitzenmacher](https://www.reddit.com/r/javascript/comments/1nf14bc/published_bloomfilterjs_a_small_library_to_check/)
-- [[AskJS] Boosting SEO with Structured Data, JSON-LD, and Proper Headings](https://www.reddit.com/r/javascript/comments/1nevyr9/askjs_boosting_seo_with_structured_data_jsonld/)
-- [[AskJS] Should take the pay, or keep my code?](https://www.reddit.com/r/javascript/comments/1netnn6/askjs_should_take_the_pay_or_keep_my_code/)
-- [We forked styled-components because it never implemented React 18&#39;s performance APIs. 40% faster for Linear, zero code changes needed.](https://www.reddit.com/r/javascript/comments/1nefcw8/we_forked_styledcomponents_because_it_never/)
+- [A Bunch of Ideas](https://www.reddit.com/r/javascript/comments/1nger6a/a_bunch_of_ideas/)
+- [A simple but fun Risk-ish game](https://www.reddit.com/r/javascript/comments/1ng9fwq/a_simple_but_fun_riskish_game/)
+- [I built a 100% client-side, serverless AI workspace using React, TensorFlow.js, and WebAssembly.](https://www.reddit.com/r/javascript/comments/1ng7oh9/i_built_a_100_clientside_serverless_ai_workspace/)
+- [[AskJS] Has anyone out here built an Extension?](https://www.reddit.com/r/javascript/comments/1ng3jvx/askjs_has_anyone_out_here_built_an_extension/)
+- [I built Envie, a secrets manager and drop-in replacement for .env files and dotenv](https://www.reddit.com/r/javascript/comments/1ng10iq/i_built_envie_a_secrets_manager_and_dropin/)
+- [Do you accept CSVs from users? Require exact column names? This is a CSV column mapper for the browser with optional UI, auto-mapping, transforms, and validation.](https://www.reddit.com/r/javascript/comments/1ng0uz7/do_you_accept_csvs_from_users_require_exact/)
+- [[AskJS] Used Adonis JS instead of Next/Svelte - I love it](https://www.reddit.com/r/javascript/comments/1nfxxmi/askjs_used_adonis_js_instead_of_nextsvelte_i_love/)
+- [I built YT Marker, a Chrome Extension that turns YouTube into a knowledge base.](https://www.reddit.com/r/javascript/comments/1nfxthh/i_built_yt_marker_a_chrome_extension_that_turns/)
+- [[AskJS] Has anyone written any code that will break if `typeof null` didn&#39;t evaluate to &quot;object&quot;?](https://www.reddit.com/r/javascript/comments/1nfv4jw/askjs_has_anyone_written_any_code_that_will_break/)
+- [Showoff Saturday &lpar;September 13, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1nfqu58/showoff_saturday_september_13_2025/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
