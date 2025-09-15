@@ -277,9 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Postgres Notification Listener for pg-promise](https://www.reddit.com/r/javascript/comments/1ngw04q/postgres_notification_listener_for_pgpromise/)
 - [A Bunch of Ideas](https://www.reddit.com/r/javascript/comments/1nger6a/a_bunch_of_ideas/)
 - [A simple but fun Risk-ish game](https://www.reddit.com/r/javascript/comments/1ng9fwq/a_simple_but_fun_riskish_game/)
-- [I built a 100% client-side, serverless AI workspace using React, TensorFlow.js, and WebAssembly.](https://www.reddit.com/r/javascript/comments/1ng7oh9/i_built_a_100_clientside_serverless_ai_workspace/)
 - [[AskJS] Has anyone out here built an Extension?](https://www.reddit.com/r/javascript/comments/1ng3jvx/askjs_has_anyone_out_here_built_an_extension/)
 - [I built Envie, a secrets manager and drop-in replacement for .env files and dotenv](https://www.reddit.com/r/javascript/comments/1ng10iq/i_built_envie_a_secrets_manager_and_dropin/)
 - [Do you accept CSVs from users? Require exact column names? This is a CSV column mapper for the browser with optional UI, auto-mapping, transforms, and validation.](https://www.reddit.com/r/javascript/comments/1ng0uz7/do_you_accept_csvs_from_users_require_exact/)
