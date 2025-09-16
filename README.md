@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] How to download LinkedIn full size post images?](https://www.reddit.com/r/javascript/comments/1nhyfkl/askjs_how_to_download_linkedin_full_size_post/)
+- [GitHub - pompelmi/pompelmi: free, open-source file scanner](https://www.reddit.com/r/javascript/comments/1nht47q/github_pompelmipompelmi_free_opensource_file/)
+- [[AskJS] What resources do you recommend for learning how to create a browser extension?](https://www.reddit.com/r/javascript/comments/1nhojww/askjs_what_resources_do_you_recommend_for/)
+- [[AskJS] Would you use Object.create today?](https://www.reddit.com/r/javascript/comments/1nhmu34/askjs_would_you_use_objectcreate_today/)
+- [[AskJS] Struggling with async concurrency and race conditions in real projects—What patterns or tips do you recommend for managing this cleanly?](https://www.reddit.com/r/javascript/comments/1nhhdml/askjs_struggling_with_async_concurrency_and_race/)
+- [Your /r/javascript recap for the week of September 08 - September 14, 2025](https://www.reddit.com/r/javascript/comments/1nhgtbe/your_rjavascript_recap_for_the_week_of_september/)
+- [I built a free, open-source starter kit to create a real-time React chat app in minutes &lpar;no backend needed&rpar;](https://www.reddit.com/r/javascript/comments/1nhggi6/i_built_a_free_opensource_starter_kit_to_create_a/)
 - [Postgres Notification Listener for pg-promise](https://www.reddit.com/r/javascript/comments/1ngw04q/postgres_notification_listener_for_pgpromise/)
 - [A Bunch of Ideas](https://www.reddit.com/r/javascript/comments/1nger6a/a_bunch_of_ideas/)
 - [A simple but fun Risk-ish game](https://www.reddit.com/r/javascript/comments/1ng9fwq/a_simple_but_fun_riskish_game/)
-- [[AskJS] Has anyone out here built an Extension?](https://www.reddit.com/r/javascript/comments/1ng3jvx/askjs_has_anyone_out_here_built_an_extension/)
-- [I built Envie, a secrets manager and drop-in replacement for .env files and dotenv](https://www.reddit.com/r/javascript/comments/1ng10iq/i_built_envie_a_secrets_manager_and_dropin/)
-- [Do you accept CSVs from users? Require exact column names? This is a CSV column mapper for the browser with optional UI, auto-mapping, transforms, and validation.](https://www.reddit.com/r/javascript/comments/1ng0uz7/do_you_accept_csvs_from_users_require_exact/)
-- [[AskJS] Used Adonis JS instead of Next/Svelte - I love it](https://www.reddit.com/r/javascript/comments/1nfxxmi/askjs_used_adonis_js_instead_of_nextsvelte_i_love/)
-- [I built YT Marker, a Chrome Extension that turns YouTube into a knowledge base.](https://www.reddit.com/r/javascript/comments/1nfxthh/i_built_yt_marker_a_chrome_extension_that_turns/)
-- [[AskJS] Has anyone written any code that will break if `typeof null` didn&#39;t evaluate to &quot;object&quot;?](https://www.reddit.com/r/javascript/comments/1nfv4jw/askjs_has_anyone_written_any_code_that_will_break/)
-- [Showoff Saturday &lpar;September 13, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1nfqu58/showoff_saturday_september_13_2025/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
