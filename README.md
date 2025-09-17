@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] How to download LinkedIn full size post images?](https://www.reddit.com/r/javascript/comments/1nhyfkl/askjs_how_to_download_linkedin_full_size_post/)
+- [Gingee - A GenAI Authored Javascript App Server](https://www.reddit.com/r/javascript/comments/1nior2u/gingee_a_genai_authored_javascript_app_server/)
+- [Frontend Performance Measuring, KPIs, and Monitoring](https://www.reddit.com/r/javascript/comments/1nijxl7/frontend_performance_measuring_kpis_and_monitoring/)
+- [Hacktoberfest 2025](https://www.reddit.com/r/javascript/comments/1nigk5z/hacktoberfest_2025/)
+- [a second attack has hit npm, over 40 packages compromised.](https://www.reddit.com/r/javascript/comments/1nifp98/a_second_attack_has_hit_npm_over_40_packages/)
+- [eslint-plugin-panda – a 4x faster ESLint plugin for Panda CSS](https://www.reddit.com/r/javascript/comments/1nid7id/eslintpluginpanda_a_4x_faster_eslint_plugin_for/)
 - [GitHub - pompelmi/pompelmi: free, open-source file scanner](https://www.reddit.com/r/javascript/comments/1nht47q/github_pompelmipompelmi_free_opensource_file/)
-- [[AskJS] What resources do you recommend for learning how to create a browser extension?](https://www.reddit.com/r/javascript/comments/1nhojww/askjs_what_resources_do_you_recommend_for/)
 - [[AskJS] Would you use Object.create today?](https://www.reddit.com/r/javascript/comments/1nhmu34/askjs_would_you_use_objectcreate_today/)
 - [[AskJS] Struggling with async concurrency and race conditions in real projects—What patterns or tips do you recommend for managing this cleanly?](https://www.reddit.com/r/javascript/comments/1nhhdml/askjs_struggling_with_async_concurrency_and_race/)
 - [Your /r/javascript recap for the week of September 08 - September 14, 2025](https://www.reddit.com/r/javascript/comments/1nhgtbe/your_rjavascript_recap_for_the_week_of_september/)
 - [I built a free, open-source starter kit to create a real-time React chat app in minutes &lpar;no backend needed&rpar;](https://www.reddit.com/r/javascript/comments/1nhggi6/i_built_a_free_opensource_starter_kit_to_create_a/)
-- [Postgres Notification Listener for pg-promise](https://www.reddit.com/r/javascript/comments/1ngw04q/postgres_notification_listener_for_pgpromise/)
-- [A Bunch of Ideas](https://www.reddit.com/r/javascript/comments/1nger6a/a_bunch_of_ideas/)
-- [A simple but fun Risk-ish game](https://www.reddit.com/r/javascript/comments/1ng9fwq/a_simple_but_fun_riskish_game/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
