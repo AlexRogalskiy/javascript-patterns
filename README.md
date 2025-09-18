@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] PR nitpick or no?](https://www.reddit.com/r/javascript/comments/1njtkpi/askjs_pr_nitpick_or_no/)
+- [[AskJS] JS in CS2 maps?](https://www.reddit.com/r/javascript/comments/1njtjko/askjs_js_in_cs2_maps/)
+- [Shai-Hulud Detector: script to check for the npm supply chain worm attack](https://www.reddit.com/r/javascript/comments/1njt486/shaihulud_detector_script_to_check_for_the_npm/)
+- [pnpm v10.16 introduces a new setting for delayed dependency updates to help protect against supply chain attacks.](https://www.reddit.com/r/javascript/comments/1njqxl9/pnpm_v1016_introduces_a_new_setting_for_delayed/)
+- [Monitoring Safari Park Camera Feeds with Mastra.ai](https://www.reddit.com/r/javascript/comments/1njeq8o/monitoring_safari_park_camera_feeds_with_mastraai/)
+- [A benchmark of Tauri vs Electron for desktop apps](https://www.reddit.com/r/javascript/comments/1njbafr/a_benchmark_of_tauri_vs_electron_for_desktop_apps/)
+- [Designing a State Manager for Performance: A Deep Dive into Hierarchical Reactivity](https://www.reddit.com/r/javascript/comments/1nja94c/designing_a_state_manager_for_performance_a_deep/)
+- [[AskJS] What JavaScript certification is equivalent to OCP Java SE?](https://www.reddit.com/r/javascript/comments/1nj7vdw/askjs_what_javascript_certification_is_equivalent/)
+- [Introducing TypeBox 1.0: A Runtime Type System for JavaScript](https://www.reddit.com/r/javascript/comments/1nj3b5k/introducing_typebox_10_a_runtime_type_system_for/)
 - [Gingee - A GenAI Authored Javascript App Server](https://www.reddit.com/r/javascript/comments/1nior2u/gingee_a_genai_authored_javascript_app_server/)
-- [Frontend Performance Measuring, KPIs, and Monitoring](https://www.reddit.com/r/javascript/comments/1nijxl7/frontend_performance_measuring_kpis_and_monitoring/)
-- [Hacktoberfest 2025](https://www.reddit.com/r/javascript/comments/1nigk5z/hacktoberfest_2025/)
-- [a second attack has hit npm, over 40 packages compromised.](https://www.reddit.com/r/javascript/comments/1nifp98/a_second_attack_has_hit_npm_over_40_packages/)
-- [eslint-plugin-panda – a 4x faster ESLint plugin for Panda CSS](https://www.reddit.com/r/javascript/comments/1nid7id/eslintpluginpanda_a_4x_faster_eslint_plugin_for/)
-- [GitHub - pompelmi/pompelmi: free, open-source file scanner](https://www.reddit.com/r/javascript/comments/1nht47q/github_pompelmipompelmi_free_opensource_file/)
-- [[AskJS] Would you use Object.create today?](https://www.reddit.com/r/javascript/comments/1nhmu34/askjs_would_you_use_objectcreate_today/)
-- [[AskJS] Struggling with async concurrency and race conditions in real projects—What patterns or tips do you recommend for managing this cleanly?](https://www.reddit.com/r/javascript/comments/1nhhdml/askjs_struggling_with_async_concurrency_and_race/)
-- [Your /r/javascript recap for the week of September 08 - September 14, 2025](https://www.reddit.com/r/javascript/comments/1nhgtbe/your_rjavascript_recap_for_the_week_of_september/)
-- [I built a free, open-source starter kit to create a real-time React chat app in minutes &lpar;no backend needed&rpar;](https://www.reddit.com/r/javascript/comments/1nhggi6/i_built_a_free_opensource_starter_kit_to_create_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
