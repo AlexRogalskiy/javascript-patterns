@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [script for dependency scanning](https://www.reddit.com/r/javascript/comments/1nkqecp/script_for_dependency_scanning/)
+- [Deno: Help Us Raise $200k to Free JavaScript from Oracle](https://www.reddit.com/r/javascript/comments/1nkg7bn/deno_help_us_raise_200k_to_free_javascript_from/)
+- [[AskJS] What are some cool JavaScript libraries &lpar;like mermaid.js, math.js, sql.js&rpar; that you think every dev should try at least once?](https://www.reddit.com/r/javascript/comments/1nk5w1v/askjs_what_are_some_cool_javascript_libraries/)
+- [Awesome Shai-Hulud Attack](https://www.reddit.com/r/javascript/comments/1nk3goo/awesome_shaihulud_attack/)
+- [Using Nx? Using ESLint? There might be a better option!](https://www.reddit.com/r/javascript/comments/1nk2v5f/using_nx_using_eslint_there_might_be_a_better/)
+- [Finally, safe array methods in JavaScript](https://www.reddit.com/r/javascript/comments/1nk0x5d/finally_safe_array_methods_in_javascript/)
 - [[AskJS] PR nitpick or no?](https://www.reddit.com/r/javascript/comments/1njtkpi/askjs_pr_nitpick_or_no/)
 - [[AskJS] JS in CS2 maps?](https://www.reddit.com/r/javascript/comments/1njtjko/askjs_js_in_cs2_maps/)
 - [Shai-Hulud Detector: script to check for the npm supply chain worm attack](https://www.reddit.com/r/javascript/comments/1njt486/shaihulud_detector_script_to_check_for_the_npm/)
 - [pnpm v10.16 introduces a new setting for delayed dependency updates to help protect against supply chain attacks.](https://www.reddit.com/r/javascript/comments/1njqxl9/pnpm_v1016_introduces_a_new_setting_for_delayed/)
-- [Monitoring Safari Park Camera Feeds with Mastra.ai](https://www.reddit.com/r/javascript/comments/1njeq8o/monitoring_safari_park_camera_feeds_with_mastraai/)
-- [A benchmark of Tauri vs Electron for desktop apps](https://www.reddit.com/r/javascript/comments/1njbafr/a_benchmark_of_tauri_vs_electron_for_desktop_apps/)
-- [Designing a State Manager for Performance: A Deep Dive into Hierarchical Reactivity](https://www.reddit.com/r/javascript/comments/1nja94c/designing_a_state_manager_for_performance_a_deep/)
-- [[AskJS] What JavaScript certification is equivalent to OCP Java SE?](https://www.reddit.com/r/javascript/comments/1nj7vdw/askjs_what_javascript_certification_is_equivalent/)
-- [Introducing TypeBox 1.0: A Runtime Type System for JavaScript](https://www.reddit.com/r/javascript/comments/1nj3b5k/introducing_typebox_10_a_runtime_type_system_for/)
-- [Gingee - A GenAI Authored Javascript App Server](https://www.reddit.com/r/javascript/comments/1nior2u/gingee_a_genai_authored_javascript_app_server/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
