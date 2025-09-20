@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [TokenLoom : a Robust Streaming Parser for LLM/SSE Outputs &lpar;Handles Fragmented Tags &amp; Code Blocks&rpar;](https://www.reddit.com/r/javascript/comments/1nlczyr/tokenloom_a_robust_streaming_parser_for_llmsse/)
+- [I&#39;ve created a small package-lock.json analyzer to ensure you have no supply-chain issues](https://www.reddit.com/r/javascript/comments/1nkz3gy/ive_created_a_small_packagelockjson_analyzer_to/)
+- [[AskJS] what makes NPM less secure than other package providers?](https://www.reddit.com/r/javascript/comments/1nkw6gr/askjs_what_makes_npm_less_secure_than_other/)
+- [Mastering DOM with JavaScript](https://www.reddit.com/r/javascript/comments/1nkuyf1/mastering_dom_with_javascript/)
+- [Daffodil – Open-Source Ecommerce Framework to connect to any platform](https://www.reddit.com/r/javascript/comments/1nkryi0/daffodil_opensource_ecommerce_framework_to/)
 - [script for dependency scanning](https://www.reddit.com/r/javascript/comments/1nkqecp/script_for_dependency_scanning/)
 - [Deno: Help Us Raise $200k to Free JavaScript from Oracle](https://www.reddit.com/r/javascript/comments/1nkg7bn/deno_help_us_raise_200k_to_free_javascript_from/)
 - [[AskJS] What are some cool JavaScript libraries &lpar;like mermaid.js, math.js, sql.js&rpar; that you think every dev should try at least once?](https://www.reddit.com/r/javascript/comments/1nk5w1v/askjs_what_are_some_cool_javascript_libraries/)
 - [Awesome Shai-Hulud Attack](https://www.reddit.com/r/javascript/comments/1nk3goo/awesome_shaihulud_attack/)
 - [Using Nx? Using ESLint? There might be a better option!](https://www.reddit.com/r/javascript/comments/1nk2v5f/using_nx_using_eslint_there_might_be_a_better/)
-- [Finally, safe array methods in JavaScript](https://www.reddit.com/r/javascript/comments/1nk0x5d/finally_safe_array_methods_in_javascript/)
-- [[AskJS] PR nitpick or no?](https://www.reddit.com/r/javascript/comments/1njtkpi/askjs_pr_nitpick_or_no/)
-- [[AskJS] JS in CS2 maps?](https://www.reddit.com/r/javascript/comments/1njtjko/askjs_js_in_cs2_maps/)
-- [Shai-Hulud Detector: script to check for the npm supply chain worm attack](https://www.reddit.com/r/javascript/comments/1njt486/shaihulud_detector_script_to_check_for_the_npm/)
-- [pnpm v10.16 introduces a new setting for delayed dependency updates to help protect against supply chain attacks.](https://www.reddit.com/r/javascript/comments/1njqxl9/pnpm_v1016_introduces_a_new_setting_for_delayed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
