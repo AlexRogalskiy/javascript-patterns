@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] So nobody is building classic client/server anymore?](https://www.reddit.com/r/javascript/comments/1nm5m5h/askjs_so_nobody_is_building_classic_clientserver/)
+- [Chaos Proxy – Simulate API failures, latency, and rate limits for testing](https://www.reddit.com/r/javascript/comments/1nlxybi/chaos_proxy_simulate_api_failures_latency_and/)
+- [Building 3D and XR with React? Reactylon might be what you&#39;ve been looking for](https://www.reddit.com/r/javascript/comments/1nlv528/building_3d_and_xr_with_react_reactylon_might_be/)
+- [If you had enough influence, what would you rename JS?](https://www.reddit.com/r/javascript/comments/1nlv11y/if_you_had_enough_influence_what_would_you_rename/)
+- [Showoff Saturday &lpar;September 20, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1nlrdfl/showoff_saturday_september_20_2025/)
+- [[AskJS] Best SVG/Animation/Web animation Software&lpar;Free or Freemium&rpar;.](https://www.reddit.com/r/javascript/comments/1nlqxm4/askjs_best_svganimationweb_animation_softwarefree/)
 - [TokenLoom : a Robust Streaming Parser for LLM/SSE Outputs &lpar;Handles Fragmented Tags &amp; Code Blocks&rpar;](https://www.reddit.com/r/javascript/comments/1nlczyr/tokenloom_a_robust_streaming_parser_for_llmsse/)
 - [I&#39;ve created a small package-lock.json analyzer to ensure you have no supply-chain issues](https://www.reddit.com/r/javascript/comments/1nkz3gy/ive_created_a_small_packagelockjson_analyzer_to/)
 - [[AskJS] what makes NPM less secure than other package providers?](https://www.reddit.com/r/javascript/comments/1nkw6gr/askjs_what_makes_npm_less_secure_than_other/)
 - [Mastering DOM with JavaScript](https://www.reddit.com/r/javascript/comments/1nkuyf1/mastering_dom_with_javascript/)
-- [Daffodil – Open-Source Ecommerce Framework to connect to any platform](https://www.reddit.com/r/javascript/comments/1nkryi0/daffodil_opensource_ecommerce_framework_to/)
-- [script for dependency scanning](https://www.reddit.com/r/javascript/comments/1nkqecp/script_for_dependency_scanning/)
-- [Deno: Help Us Raise $200k to Free JavaScript from Oracle](https://www.reddit.com/r/javascript/comments/1nkg7bn/deno_help_us_raise_200k_to_free_javascript_from/)
-- [[AskJS] What are some cool JavaScript libraries &lpar;like mermaid.js, math.js, sql.js&rpar; that you think every dev should try at least once?](https://www.reddit.com/r/javascript/comments/1nk5w1v/askjs_what_are_some_cool_javascript_libraries/)
-- [Awesome Shai-Hulud Attack](https://www.reddit.com/r/javascript/comments/1nk3goo/awesome_shaihulud_attack/)
-- [Using Nx? Using ESLint? There might be a better option!](https://www.reddit.com/r/javascript/comments/1nk2v5f/using_nx_using_eslint_there_might_be_a_better/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
