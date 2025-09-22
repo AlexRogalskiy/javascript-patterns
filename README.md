@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] What aviation accidents taught me about debugging complex JS systems &lpar;and how you can use it this week&rpar;](https://www.reddit.com/r/javascript/comments/1nn19qk/askjs_what_aviation_accidents_taught_me_about/)
+- [MutativeJS v1.3.0 is out with performance gains](https://www.reddit.com/r/javascript/comments/1nmwmas/mutativejs_v130_is_out_with_performance_gains/)
+- [Has anybody read Douglas Crockfords&lpar;invented json&rpar; How js works?](https://www.reddit.com/r/javascript/comments/1nmn97a/has_anybody_read_douglas_crockfordsinvented_json/)
 - [[AskJS] So nobody is building classic client/server anymore?](https://www.reddit.com/r/javascript/comments/1nm5m5h/askjs_so_nobody_is_building_classic_clientserver/)
 - [Chaos Proxy – Simulate API failures, latency, and rate limits for testing](https://www.reddit.com/r/javascript/comments/1nlxybi/chaos_proxy_simulate_api_failures_latency_and/)
 - [Building 3D and XR with React? Reactylon might be what you&#39;ve been looking for](https://www.reddit.com/r/javascript/comments/1nlv528/building_3d_and_xr_with_react_reactylon_might_be/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Showoff Saturday &lpar;September 20, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1nlrdfl/showoff_saturday_september_20_2025/)
 - [[AskJS] Best SVG/Animation/Web animation Software&lpar;Free or Freemium&rpar;.](https://www.reddit.com/r/javascript/comments/1nlqxm4/askjs_best_svganimationweb_animation_softwarefree/)
 - [TokenLoom : a Robust Streaming Parser for LLM/SSE Outputs &lpar;Handles Fragmented Tags &amp; Code Blocks&rpar;](https://www.reddit.com/r/javascript/comments/1nlczyr/tokenloom_a_robust_streaming_parser_for_llmsse/)
-- [I&#39;ve created a small package-lock.json analyzer to ensure you have no supply-chain issues](https://www.reddit.com/r/javascript/comments/1nkz3gy/ive_created_a_small_packagelockjson_analyzer_to/)
-- [[AskJS] what makes NPM less secure than other package providers?](https://www.reddit.com/r/javascript/comments/1nkw6gr/askjs_what_makes_npm_less_secure_than_other/)
-- [Mastering DOM with JavaScript](https://www.reddit.com/r/javascript/comments/1nkuyf1/mastering_dom_with_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
