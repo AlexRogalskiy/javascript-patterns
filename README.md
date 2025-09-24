@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Looking for a lightweight JS framework/library for special effects in a clicker game](https://www.reddit.com/r/javascript/comments/1nosa59/askjs_looking_for_a_lightweight_js/)
+- [Github Trending CLI](https://www.reddit.com/r/javascript/comments/1nos046/github_trending_cli/)
+- [Archived NYT Crosswords as a PWA](https://www.reddit.com/r/javascript/comments/1nooquv/archived_nyt_crosswords_as_a_pwa/)
+- [[AskJS] Could anyone help this beginner with some workplace automation for Chrome?](https://www.reddit.com/r/javascript/comments/1noik6y/askjs_could_anyone_help_this_beginner_with_some/)
+- [Your Images Are &lpar;Probably&rpar; Oversized](https://www.reddit.com/r/javascript/comments/1noghr4/your_images_are_probably_oversized/)
+- [AI-Native, Not AI-Assisted: A Platform That Answers Your Questions](https://www.reddit.com/r/javascript/comments/1noeakq/ainative_not_aiassisted_a_platform_that_answers/)
+- [[AskJS] Do you check the code in the package before while using it?](https://www.reddit.com/r/javascript/comments/1no9kyc/askjs_do_you_check_the_code_in_the_package_before/)
+- [Aanlyse your githhub profile with this tool](https://www.reddit.com/r/javascript/comments/1no76vv/aanlyse_your_githhub_profile_with_this_tool/)
 - [[AskJS] Asked to create interactive HTML via JS during React interview - Weird?](https://www.reddit.com/r/javascript/comments/1nnv79w/askjs_asked_to_create_interactive_html_via_js/)
 - [Exploring Service Workers with React: From Offline to Push Notifications](https://www.reddit.com/r/javascript/comments/1nnlkwh/exploring_service_workers_with_react_from_offline/)
-- [Built a powerful extension for both firefox and chrome](https://www.reddit.com/r/javascript/comments/1nnl1wm/built_a_powerful_extension_for_both_firefox_and/)
-- [Your /r/javascript recap for the week of September 15 - September 21, 2025](https://www.reddit.com/r/javascript/comments/1nnhgw5/your_rjavascript_recap_for_the_week_of_september/)
-- [Automatically compress images to approximate target file size using binary search algorithm.](https://www.reddit.com/r/javascript/comments/1nnbprl/automatically_compress_images_to_approximate/)
-- [Thoughts on my module to use a Map as an Object?](https://www.reddit.com/r/javascript/comments/1nnbb4z/thoughts_on_my_module_to_use_a_map_as_an_object/)
-- [[AskJS] What aviation accidents taught me about debugging complex JS systems &lpar;and how you can use it this week&rpar;](https://www.reddit.com/r/javascript/comments/1nn19qk/askjs_what_aviation_accidents_taught_me_about/)
-- [MutativeJS v1.3.0 is out with performance gains](https://www.reddit.com/r/javascript/comments/1nmwmas/mutativejs_v130_is_out_with_performance_gains/)
-- [Has anybody read Douglas Crockfords&lpar;invented json&rpar; How js works?](https://www.reddit.com/r/javascript/comments/1nmn97a/has_anybody_read_douglas_crockfordsinvented_json/)
-- [[AskJS] So nobody is building classic client/server anymore?](https://www.reddit.com/r/javascript/comments/1nm5m5h/askjs_so_nobody_is_building_classic_clientserver/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
