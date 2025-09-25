@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Free Visual JSON Schema Builder – Generate, Validate &amp; Export Schemas Instantly](https://www.reddit.com/r/javascript/comments/1npqh0b/free_visual_json_schema_builder_generate_validate/)
+- [State of JavaScript Survey 2025](https://www.reddit.com/r/javascript/comments/1npmx0h/state_of_javascript_survey_2025/)
+- [I vibe coded an automatic translation util: u18n.com](https://www.reddit.com/r/javascript/comments/1nplbbt/i_vibe_coded_an_automatic_translation_util_u18ncom/)
+- [Temporal_rs is here! The datetime library powering Temporal in Boa and V8](https://www.reddit.com/r/javascript/comments/1npgz0l/temporal_rs_is_here_the_datetime_library_powering/)
+- [Open Infrastructure is Not Free: A Joint Statement on Sustainable Stewardship](https://www.reddit.com/r/javascript/comments/1npdyow/open_infrastructure_is_not_free_a_joint_statement/)
+- [[AskJS] Bangs vs Comparisons](https://www.reddit.com/r/javascript/comments/1npd9da/askjs_bangs_vs_comparisons/)
+- [Better Comments for GitHub - A browser extension that imrove the GitHub comment box with a powerful modern editor](https://www.reddit.com/r/javascript/comments/1npcyim/better_comments_for_github_a_browser_extension/)
+- [[AskJS] When should we actually reach for Promises vs Observables in modern JS?](https://www.reddit.com/r/javascript/comments/1npbatf/askjs_when_should_we_actually_reach_for_promises/)
+- [React Portal with dynamic mounting support](https://www.reddit.com/r/javascript/comments/1npae9x/react_portal_with_dynamic_mounting_support/)
 - [[AskJS] Looking for a lightweight JS framework/library for special effects in a clicker game](https://www.reddit.com/r/javascript/comments/1nosa59/askjs_looking_for_a_lightweight_js/)
-- [Github Trending CLI](https://www.reddit.com/r/javascript/comments/1nos046/github_trending_cli/)
-- [Archived NYT Crosswords as a PWA](https://www.reddit.com/r/javascript/comments/1nooquv/archived_nyt_crosswords_as_a_pwa/)
-- [[AskJS] Could anyone help this beginner with some workplace automation for Chrome?](https://www.reddit.com/r/javascript/comments/1noik6y/askjs_could_anyone_help_this_beginner_with_some/)
-- [Your Images Are &lpar;Probably&rpar; Oversized](https://www.reddit.com/r/javascript/comments/1noghr4/your_images_are_probably_oversized/)
-- [AI-Native, Not AI-Assisted: A Platform That Answers Your Questions](https://www.reddit.com/r/javascript/comments/1noeakq/ainative_not_aiassisted_a_platform_that_answers/)
-- [[AskJS] Do you check the code in the package before while using it?](https://www.reddit.com/r/javascript/comments/1no9kyc/askjs_do_you_check_the_code_in_the_package_before/)
-- [Aanlyse your githhub profile with this tool](https://www.reddit.com/r/javascript/comments/1no76vv/aanlyse_your_githhub_profile_with_this_tool/)
-- [[AskJS] Asked to create interactive HTML via JS during React interview - Weird?](https://www.reddit.com/r/javascript/comments/1nnv79w/askjs_asked_to_create_interactive_html_via_js/)
-- [Exploring Service Workers with React: From Offline to Push Notifications](https://www.reddit.com/r/javascript/comments/1nnlkwh/exploring_service_workers_with_react_from_offline/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
