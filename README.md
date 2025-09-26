@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [We have 60 days to upvote this issue to get PNPM&#39;s minimumReleaseAge flag supported within VSCode&#39;s package suggestion feature](https://www.reddit.com/r/javascript/comments/1nqlp78/we_have_60_days_to_upvote_this_issue_to_get_pnpms/)
+- [dharma: A state management library](https://www.reddit.com/r/javascript/comments/1nqezle/dharma_a_state_management_library/)
+- [Yet another JS playground, with a simple rule: Your code never leaves your browser](https://www.reddit.com/r/javascript/comments/1nqb8tw/yet_another_js_playground_with_a_simple_rule_your/)
+- [GitHub - doeixd/invokers: A library that brings declarative actions to vanilla HTML](https://www.reddit.com/r/javascript/comments/1nqazqu/github_doeixdinvokers_a_library_that_brings/)
+- [New JS Inspired Lang named &#39;Hi&#39;](https://www.reddit.com/r/javascript/comments/1nqajew/new_js_inspired_lang_named_hi/)
+- [TypingSVG: Multi-line typing animation for GitHub READMEs and websites](https://www.reddit.com/r/javascript/comments/1nq34q8/typingsvg_multiline_typing_animation_for_github/)
+- [modern-tar - Zero-dependency streaming tar parser and writer for every JavaScript runtime](https://www.reddit.com/r/javascript/comments/1nq2451/moderntar_zerodependency_streaming_tar_parser_and/)
+- [A pretty clever way to build voice agents in Node.js](https://www.reddit.com/r/javascript/comments/1nq0ut3/a_pretty_clever_way_to_build_voice_agents_in/)
+- [Yt-dlp: Soon you&#39;ll need Deno or another supported JS runtime, to keep YouTube downloads working as normal.](https://www.reddit.com/r/javascript/comments/1nq0r4h/ytdlp_soon_youll_need_deno_or_another_supported/)
 - [Free Visual JSON Schema Builder – Generate, Validate &amp; Export Schemas Instantly](https://www.reddit.com/r/javascript/comments/1npqh0b/free_visual_json_schema_builder_generate_validate/)
-- [State of JavaScript Survey 2025](https://www.reddit.com/r/javascript/comments/1npmx0h/state_of_javascript_survey_2025/)
-- [I vibe coded an automatic translation util: u18n.com](https://www.reddit.com/r/javascript/comments/1nplbbt/i_vibe_coded_an_automatic_translation_util_u18ncom/)
-- [Temporal_rs is here! The datetime library powering Temporal in Boa and V8](https://www.reddit.com/r/javascript/comments/1npgz0l/temporal_rs_is_here_the_datetime_library_powering/)
-- [Open Infrastructure is Not Free: A Joint Statement on Sustainable Stewardship](https://www.reddit.com/r/javascript/comments/1npdyow/open_infrastructure_is_not_free_a_joint_statement/)
-- [[AskJS] Bangs vs Comparisons](https://www.reddit.com/r/javascript/comments/1npd9da/askjs_bangs_vs_comparisons/)
-- [Better Comments for GitHub - A browser extension that imrove the GitHub comment box with a powerful modern editor](https://www.reddit.com/r/javascript/comments/1npcyim/better_comments_for_github_a_browser_extension/)
-- [[AskJS] When should we actually reach for Promises vs Observables in modern JS?](https://www.reddit.com/r/javascript/comments/1npbatf/askjs_when_should_we_actually_reach_for_promises/)
-- [React Portal with dynamic mounting support](https://www.reddit.com/r/javascript/comments/1npae9x/react_portal_with_dynamic_mounting_support/)
-- [[AskJS] Looking for a lightweight JS framework/library for special effects in a clicker game](https://www.reddit.com/r/javascript/comments/1nosa59/askjs_looking_for_a_lightweight_js/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
