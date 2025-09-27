@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [TypeScript library for simulating network chaos in fetch requests](https://www.reddit.com/r/javascript/comments/1nrey15/typescript_library_for_simulating_network_chaos/)
+- [[AskJS] Compress wav file size on javascript client](https://www.reddit.com/r/javascript/comments/1nr8kit/askjs_compress_wav_file_size_on_javascript_client/)
+- [[AskJS] After our Promises vs Observables chat, hit a new async snag—how do you handle errors in mixed flows?](https://www.reddit.com/r/javascript/comments/1nqxan8/askjs_after_our_promises_vs_observables_chat_hit/)
+- [[AskJS] Trouble Typing Numbers One to Nine on Reddit?](https://www.reddit.com/r/javascript/comments/1nqwf1b/askjs_trouble_typing_numbers_one_to_nine_on_reddit/)
+- [How to create multiple types of notifications with Tailwind CSS and Alpine JS](https://www.reddit.com/r/javascript/comments/1nqvjhj/how_to_create_multiple_types_of_notifications/)
 - [We have 60 days to upvote this issue to get PNPM&#39;s minimumReleaseAge flag supported within VSCode&#39;s package suggestion feature](https://www.reddit.com/r/javascript/comments/1nqlp78/we_have_60_days_to_upvote_this_issue_to_get_pnpms/)
 - [dharma: A state management library](https://www.reddit.com/r/javascript/comments/1nqezle/dharma_a_state_management_library/)
 - [Yet another JS playground, with a simple rule: Your code never leaves your browser](https://www.reddit.com/r/javascript/comments/1nqb8tw/yet_another_js_playground_with_a_simple_rule_your/)
 - [GitHub - doeixd/invokers: A library that brings declarative actions to vanilla HTML](https://www.reddit.com/r/javascript/comments/1nqazqu/github_doeixdinvokers_a_library_that_brings/)
 - [New JS Inspired Lang named &#39;Hi&#39;](https://www.reddit.com/r/javascript/comments/1nqajew/new_js_inspired_lang_named_hi/)
-- [TypingSVG: Multi-line typing animation for GitHub READMEs and websites](https://www.reddit.com/r/javascript/comments/1nq34q8/typingsvg_multiline_typing_animation_for_github/)
-- [modern-tar - Zero-dependency streaming tar parser and writer for every JavaScript runtime](https://www.reddit.com/r/javascript/comments/1nq2451/moderntar_zerodependency_streaming_tar_parser_and/)
-- [A pretty clever way to build voice agents in Node.js](https://www.reddit.com/r/javascript/comments/1nq0ut3/a_pretty_clever_way_to_build_voice_agents_in/)
-- [Yt-dlp: Soon you&#39;ll need Deno or another supported JS runtime, to keep YouTube downloads working as normal.](https://www.reddit.com/r/javascript/comments/1nq0r4h/ytdlp_soon_youll_need_deno_or_another_supported/)
-- [Free Visual JSON Schema Builder – Generate, Validate &amp; Export Schemas Instantly](https://www.reddit.com/r/javascript/comments/1npqh0b/free_visual_json_schema_builder_generate_validate/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
