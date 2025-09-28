@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Towards a faster &quot;deep equal&quot; function in javaScript](https://www.reddit.com/r/javascript/comments/1nsc8lz/towards_a_faster_deep_equal_function_in_javascript/)
+- [just nuked 120+ unused npm deps from a huge Nx monorepo](https://www.reddit.com/r/javascript/comments/1nsah9m/just_nuked_120_unused_npm_deps_from_a_huge_nx/)
+- [[AskJS] I no longer hate truthy/falsy, no compile-time type checking and random abbreviations](https://www.reddit.com/r/javascript/comments/1ns9acr/askjs_i_no_longer_hate_truthyfalsy_no_compiletime/)
+- [New VSCode extension: Pkg Script Groups](https://www.reddit.com/r/javascript/comments/1nruxlp/new_vscode_extension_pkg_script_groups/)
+- [Showoff Saturday &lpar;September 27, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1nrol9d/showoff_saturday_september_27_2025/)
 - [TypeScript library for simulating network chaos in fetch requests](https://www.reddit.com/r/javascript/comments/1nrey15/typescript_library_for_simulating_network_chaos/)
 - [[AskJS] Compress wav file size on javascript client](https://www.reddit.com/r/javascript/comments/1nr8kit/askjs_compress_wav_file_size_on_javascript_client/)
 - [[AskJS] After our Promises vs Observables chat, hit a new async snag—how do you handle errors in mixed flows?](https://www.reddit.com/r/javascript/comments/1nqxan8/askjs_after_our_promises_vs_observables_chat_hit/)
 - [[AskJS] Trouble Typing Numbers One to Nine on Reddit?](https://www.reddit.com/r/javascript/comments/1nqwf1b/askjs_trouble_typing_numbers_one_to_nine_on_reddit/)
 - [How to create multiple types of notifications with Tailwind CSS and Alpine JS](https://www.reddit.com/r/javascript/comments/1nqvjhj/how_to_create_multiple_types_of_notifications/)
-- [We have 60 days to upvote this issue to get PNPM&#39;s minimumReleaseAge flag supported within VSCode&#39;s package suggestion feature](https://www.reddit.com/r/javascript/comments/1nqlp78/we_have_60_days_to_upvote_this_issue_to_get_pnpms/)
-- [dharma: A state management library](https://www.reddit.com/r/javascript/comments/1nqezle/dharma_a_state_management_library/)
-- [Yet another JS playground, with a simple rule: Your code never leaves your browser](https://www.reddit.com/r/javascript/comments/1nqb8tw/yet_another_js_playground_with_a_simple_rule_your/)
-- [GitHub - doeixd/invokers: A library that brings declarative actions to vanilla HTML](https://www.reddit.com/r/javascript/comments/1nqazqu/github_doeixdinvokers_a_library_that_brings/)
-- [New JS Inspired Lang named &#39;Hi&#39;](https://www.reddit.com/r/javascript/comments/1nqajew/new_js_inspired_lang_named_hi/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
