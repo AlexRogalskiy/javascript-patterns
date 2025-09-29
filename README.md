@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [tiny-cookie-session.js: Cookie-based session management library with session forking detection – feedback wanted!](https://www.reddit.com/r/javascript/comments/1nslw7b/tinycookiesessionjs_cookiebased_session/)
+- [[New Project] Forming Jotform](https://www.reddit.com/r/javascript/comments/1nsguix/new_project_forming_jotform/)
 - [Towards a faster &quot;deep equal&quot; function in javaScript](https://www.reddit.com/r/javascript/comments/1nsc8lz/towards_a_faster_deep_equal_function_in_javascript/)
 - [just nuked 120+ unused npm deps from a huge Nx monorepo](https://www.reddit.com/r/javascript/comments/1nsah9m/just_nuked_120_unused_npm_deps_from_a_huge_nx/)
 - [[AskJS] I no longer hate truthy/falsy, no compile-time type checking and random abbreviations](https://www.reddit.com/r/javascript/comments/1ns9acr/askjs_i_no_longer_hate_truthyfalsy_no_compiletime/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [TypeScript library for simulating network chaos in fetch requests](https://www.reddit.com/r/javascript/comments/1nrey15/typescript_library_for_simulating_network_chaos/)
 - [[AskJS] Compress wav file size on javascript client](https://www.reddit.com/r/javascript/comments/1nr8kit/askjs_compress_wav_file_size_on_javascript_client/)
 - [[AskJS] After our Promises vs Observables chat, hit a new async snag—how do you handle errors in mixed flows?](https://www.reddit.com/r/javascript/comments/1nqxan8/askjs_after_our_promises_vs_observables_chat_hit/)
-- [[AskJS] Trouble Typing Numbers One to Nine on Reddit?](https://www.reddit.com/r/javascript/comments/1nqwf1b/askjs_trouble_typing_numbers_one_to_nine_on_reddit/)
-- [How to create multiple types of notifications with Tailwind CSS and Alpine JS](https://www.reddit.com/r/javascript/comments/1nqvjhj/how_to_create_multiple_types_of_notifications/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
