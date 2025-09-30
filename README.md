@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Short Authentication Strings authenticated E2EE File Transfer with WebRTC](https://www.reddit.com/r/javascript/comments/1ntt1qt/short_authentication_strings_authenticated_e2ee/)
+- [A Leet Code algorithm absolutely gets I enlightened solving a problem of work](https://www.reddit.com/r/javascript/comments/1ntrg8m/a_leet_code_algorithm_absolutely_gets_i/)
+- [[AskJS] getaddrinfo ENOTFOUND &lt;host name&gt;](https://www.reddit.com/r/javascript/comments/1ntq5xu/askjs_getaddrinfo_enotfound_host_name/)
+- [Jeasx 1.9.0 released - lightweight server-side JSX rendering framework for people who love HTML.](https://www.reddit.com/r/javascript/comments/1ntpm50/jeasx_190_released_lightweight_serverside_jsx/)
+- [[AskJS] Add an image to canvas in Javascript?](https://www.reddit.com/r/javascript/comments/1ntp3i2/askjs_add_an_image_to_canvas_in_javascript/)
+- [Your /r/javascript recap for the week of September 22 - September 28, 2025](https://www.reddit.com/r/javascript/comments/1ntd4zn/your_rjavascript_recap_for_the_week_of_september/)
+- [Helium - a tiny JS library similar to Alpine](https://www.reddit.com/r/javascript/comments/1ntcq0j/helium_a_tiny_js_library_similar_to_alpine/)
 - [tiny-cookie-session.js: Cookie-based session management library with session forking detection – feedback wanted!](https://www.reddit.com/r/javascript/comments/1nslw7b/tinycookiesessionjs_cookiebased_session/)
 - [[New Project] Forming Jotform](https://www.reddit.com/r/javascript/comments/1nsguix/new_project_forming_jotform/)
 - [Towards a faster &quot;deep equal&quot; function in javaScript](https://www.reddit.com/r/javascript/comments/1nsc8lz/towards_a_faster_deep_equal_function_in_javascript/)
-- [just nuked 120+ unused npm deps from a huge Nx monorepo](https://www.reddit.com/r/javascript/comments/1nsah9m/just_nuked_120_unused_npm_deps_from_a_huge_nx/)
-- [[AskJS] I no longer hate truthy/falsy, no compile-time type checking and random abbreviations](https://www.reddit.com/r/javascript/comments/1ns9acr/askjs_i_no_longer_hate_truthyfalsy_no_compiletime/)
-- [New VSCode extension: Pkg Script Groups](https://www.reddit.com/r/javascript/comments/1nruxlp/new_vscode_extension_pkg_script_groups/)
-- [Showoff Saturday &lpar;September 27, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1nrol9d/showoff_saturday_september_27_2025/)
-- [TypeScript library for simulating network chaos in fetch requests](https://www.reddit.com/r/javascript/comments/1nrey15/typescript_library_for_simulating_network_chaos/)
-- [[AskJS] Compress wav file size on javascript client](https://www.reddit.com/r/javascript/comments/1nr8kit/askjs_compress_wav_file_size_on_javascript_client/)
-- [[AskJS] After our Promises vs Observables chat, hit a new async snag—how do you handle errors in mixed flows?](https://www.reddit.com/r/javascript/comments/1nqxan8/askjs_after_our_promises_vs_observables_chat_hit/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
