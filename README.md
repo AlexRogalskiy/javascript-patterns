@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [mutative-yjs: A high-performance library for building Yjs collaborative web applications with Mutative](https://www.reddit.com/r/javascript/comments/1numxxq/mutativeyjs_a_highperformance_library_for/)
+- [Deep Linking for Desktop Apps: Avoiding Browser Blocks](https://www.reddit.com/r/javascript/comments/1nui73x/deep_linking_for_desktop_apps_avoiding_browser/)
+- [A website built in 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝 that uses 𝚄𝚗𝚒𝚌𝚘𝚍𝚎 to make any text look 𝕮𝖔𝖔𝖑](https://www.reddit.com/r/javascript/comments/1nuhez6/a_website_built_in_𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝_that_uses_𝚄𝚗𝚒𝚌𝚘𝚍𝚎/)
+- [WebChat - Chat with anyone on any website](https://www.reddit.com/r/javascript/comments/1nud2s9/webchat_chat_with_anyone_on_any_website/)
+- [BrowserPod: In-browser full-stack environments for IDEs and Agents via Wasm](https://www.reddit.com/r/javascript/comments/1nu85hy/browserpod_inbrowser_fullstack_environments_for/)
 - [Short Authentication Strings authenticated E2EE File Transfer with WebRTC](https://www.reddit.com/r/javascript/comments/1ntt1qt/short_authentication_strings_authenticated_e2ee/)
 - [A Leet Code algorithm absolutely gets I enlightened solving a problem of work](https://www.reddit.com/r/javascript/comments/1ntrg8m/a_leet_code_algorithm_absolutely_gets_i/)
 - [[AskJS] getaddrinfo ENOTFOUND &lt;host name&gt;](https://www.reddit.com/r/javascript/comments/1ntq5xu/askjs_getaddrinfo_enotfound_host_name/)
 - [Jeasx 1.9.0 released - lightweight server-side JSX rendering framework for people who love HTML.](https://www.reddit.com/r/javascript/comments/1ntpm50/jeasx_190_released_lightweight_serverside_jsx/)
 - [[AskJS] Add an image to canvas in Javascript?](https://www.reddit.com/r/javascript/comments/1ntp3i2/askjs_add_an_image_to_canvas_in_javascript/)
-- [Your /r/javascript recap for the week of September 22 - September 28, 2025](https://www.reddit.com/r/javascript/comments/1ntd4zn/your_rjavascript_recap_for_the_week_of_september/)
-- [Helium - a tiny JS library similar to Alpine](https://www.reddit.com/r/javascript/comments/1ntcq0j/helium_a_tiny_js_library_similar_to_alpine/)
-- [tiny-cookie-session.js: Cookie-based session management library with session forking detection – feedback wanted!](https://www.reddit.com/r/javascript/comments/1nslw7b/tinycookiesessionjs_cookiebased_session/)
-- [[New Project] Forming Jotform](https://www.reddit.com/r/javascript/comments/1nsguix/new_project_forming_jotform/)
-- [Towards a faster &quot;deep equal&quot; function in javaScript](https://www.reddit.com/r/javascript/comments/1nsc8lz/towards_a_faster_deep_equal_function_in_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
