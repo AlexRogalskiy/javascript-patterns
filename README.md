@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [React 19.2.0 – &lt;Activity&gt;, useEffectEvent, cacheSignal](https://www.reddit.com/r/javascript/comments/1nvmb3j/react_1920_activity_useeffectevent_cachesignal/)
-- [GitHub - debba/storytel-player: Storytel Unofficial Player for Desktop](https://www.reddit.com/r/javascript/comments/1nve6rc/github_debbastorytelplayer_storytel_unofficial/)
-- [[AskJS] Subtle JS memory leaks with heavy DOM/SVG use—anyone else see this creep up after hours?](https://www.reddit.com/r/javascript/comments/1nv49a7/askjs_subtle_js_memory_leaks_with_heavy_domsvg/)
-- [mutative-yjs: A high-performance library for building Yjs collaborative web applications with Mutative](https://www.reddit.com/r/javascript/comments/1numxxq/mutativeyjs_a_highperformance_library_for/)
-- [Deep Linking for Desktop Apps: Avoiding Browser Blocks](https://www.reddit.com/r/javascript/comments/1nui73x/deep_linking_for_desktop_apps_avoiding_browser/)
-- [A website built in 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝 that uses 𝚄𝚗𝚒𝚌𝚘𝚍𝚎 to make any text look 𝕮𝖔𝖔𝖑](https://www.reddit.com/r/javascript/comments/1nuhez6/a_website_built_in_𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝_that_uses_𝚄𝚗𝚒𝚌𝚘𝚍𝚎/)
-- [WebChat - Chat with anyone on any website](https://www.reddit.com/r/javascript/comments/1nud2s9/webchat_chat_with_anyone_on_any_website/)
-- [BrowserPod: In-browser full-stack environments for IDEs and Agents via Wasm](https://www.reddit.com/r/javascript/comments/1nu85hy/browserpod_inbrowser_fullstack_environments_for/)
-- [Short Authentication Strings authenticated E2EE File Transfer with WebRTC](https://www.reddit.com/r/javascript/comments/1ntt1qt/short_authentication_strings_authenticated_e2ee/)
-- [A Leet Code algorithm absolutely gets I enlightened solving a problem of work](https://www.reddit.com/r/javascript/comments/1ntrg8m/a_leet_code_algorithm_absolutely_gets_i/)
+- [Where It&#39;s at://](https://www.reddit.com/r/javascript/comments/1nwk7xc/where_its_at/)
+- [[AskJS] How should I store a large JSON file &lpar;around 50MB&rpar;—in a database or in object storage &lpar;OSS&rpar;? And how can I mutate it with minimal cost?](https://www.reddit.com/r/javascript/comments/1nwjp4t/askjs_how_should_i_store_a_large_json_file_around/)
+- [[AskJS] Something to help me remember syntax](https://www.reddit.com/r/javascript/comments/1nwg19i/askjs_something_to_help_me_remember_syntax/)
+- [[AskJS] Questions about my first job](https://www.reddit.com/r/javascript/comments/1nwf0ta/askjs_questions_about_my_first_job/)
+- [[FOSS] I implemented a linear-time extension of the Reingold–Tilford algorithm in JavaScript.](https://www.reddit.com/r/javascript/comments/1nwcrsl/foss_i_implemented_a_lineartime_extension_of_the/)
+- [TravelsJS: A fast, framework-agnostic undo/redo core powered by Mutative patches](https://www.reddit.com/r/javascript/comments/1nwazgn/travelsjs_a_fast_frameworkagnostic_undoredo_core/)
+- [ChatGPT made me a DOM shooter game for older browsers. You can try it here:](https://www.reddit.com/r/javascript/comments/1nw93ny/chatgpt_made_me_a_dom_shooter_game_for_older/)
+- [Why Next.js Falls Short on Software Engineering](https://www.reddit.com/r/javascript/comments/1nw5rm3/why_nextjs_falls_short_on_software_engineering/)
+- [[AskJS] looking for JS example code to write and read from public S3 bucket](https://www.reddit.com/r/javascript/comments/1nw3zgs/askjs_looking_for_js_example_code_to_write_and/)
+- [GitHub - goutham-05/gmaps-kit: A framework-agnostic Google Maps toolkit with core utilities and framework wrappers &lpar;React, Vue, Angular&rpar;.](https://www.reddit.com/r/javascript/comments/1nvx6r2/github_goutham05gmapskit_a_frameworkagnostic/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
