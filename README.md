@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Where It&#39;s at://](https://www.reddit.com/r/javascript/comments/1nwk7xc/where_its_at/)
-- [[AskJS] How should I store a large JSON file &lpar;around 50MB&rpar;—in a database or in object storage &lpar;OSS&rpar;? And how can I mutate it with minimal cost?](https://www.reddit.com/r/javascript/comments/1nwjp4t/askjs_how_should_i_store_a_large_json_file_around/)
-- [[AskJS] Something to help me remember syntax](https://www.reddit.com/r/javascript/comments/1nwg19i/askjs_something_to_help_me_remember_syntax/)
-- [[AskJS] Questions about my first job](https://www.reddit.com/r/javascript/comments/1nwf0ta/askjs_questions_about_my_first_job/)
-- [[FOSS] I implemented a linear-time extension of the Reingold–Tilford algorithm in JavaScript.](https://www.reddit.com/r/javascript/comments/1nwcrsl/foss_i_implemented_a_lineartime_extension_of_the/)
-- [TravelsJS: A fast, framework-agnostic undo/redo core powered by Mutative patches](https://www.reddit.com/r/javascript/comments/1nwazgn/travelsjs_a_fast_frameworkagnostic_undoredo_core/)
-- [ChatGPT made me a DOM shooter game for older browsers. You can try it here:](https://www.reddit.com/r/javascript/comments/1nw93ny/chatgpt_made_me_a_dom_shooter_game_for_older/)
-- [Why Next.js Falls Short on Software Engineering](https://www.reddit.com/r/javascript/comments/1nw5rm3/why_nextjs_falls_short_on_software_engineering/)
-- [[AskJS] looking for JS example code to write and read from public S3 bucket](https://www.reddit.com/r/javascript/comments/1nw3zgs/askjs_looking_for_js_example_code_to_write_and/)
-- [GitHub - goutham-05/gmaps-kit: A framework-agnostic Google Maps toolkit with core utilities and framework wrappers &lpar;React, Vue, Angular&rpar;.](https://www.reddit.com/r/javascript/comments/1nvx6r2/github_goutham05gmapskit_a_frameworkagnostic/)
+- [Javascript Chessbot Browser App / Stockfish Engine UI](https://www.reddit.com/r/javascript/comments/1ny9qcx/javascript_chessbot_browser_app_stockfish_engine/)
+- [Built a local development tool to tune large vector tiles](https://www.reddit.com/r/javascript/comments/1ny4gtr/built_a_local_development_tool_to_tune_large/)
+- [[AskJS] Feedback wanted live online classes for beginner web design including HTML, CSS and JavaScript](https://www.reddit.com/r/javascript/comments/1ny481r/askjs_feedback_wanted_live_online_classes_for/)
+- [Recovering Webmentions from the Fediverse After Migrating to Cloudflare](https://www.reddit.com/r/javascript/comments/1ny3ipx/recovering_webmentions_from_the_fediverse_after/)
+- [Oxbow UI is now free &amp; MIT! Tailwind CSS &amp; Alpine JS blocks and components.](https://www.reddit.com/r/javascript/comments/1nxpbk9/oxbow_ui_is_now_free_mit_tailwind_css_alpine_js/)
+- [Showoff Saturday &lpar;October 04, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1nxn51a/showoff_saturday_october_04_2025/)
+- [[AskJS] How do people develop against multiple projects?](https://www.reddit.com/r/javascript/comments/1nxf740/askjs_how_do_people_develop_against_multiple/)
+- [[AskJS] HELP : I WANT TO TEST MY PROJECTS](https://www.reddit.com/r/javascript/comments/1nx8u12/askjs_help_i_want_to_test_my_projects/)
+- [[AskJS] How to understand CRDT in a most straightforward way that how it resolves conflicts?](https://www.reddit.com/r/javascript/comments/1nx4072/askjs_how_to_understand_crdt_in_a_most/)
+- [Deco - Easy request coalescing](https://www.reddit.com/r/javascript/comments/1nwyp6j/deco_easy_request_coalescing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
