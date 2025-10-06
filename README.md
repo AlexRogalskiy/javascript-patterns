@@ -277,8 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Vjeux » Birth of Prettier](https://www.reddit.com/r/javascript/comments/1nyqeot/vjeux_birth_of_prettier/)
 - [Javascript Chessbot Browser App / Stockfish Engine UI](https://www.reddit.com/r/javascript/comments/1ny9qcx/javascript_chessbot_browser_app_stockfish_engine/)
-- [Built a local development tool to tune large vector tiles](https://www.reddit.com/r/javascript/comments/1ny4gtr/built_a_local_development_tool_to_tune_large/)
 - [[AskJS] Feedback wanted live online classes for beginner web design including HTML, CSS and JavaScript](https://www.reddit.com/r/javascript/comments/1ny481r/askjs_feedback_wanted_live_online_classes_for/)
 - [Recovering Webmentions from the Fediverse After Migrating to Cloudflare](https://www.reddit.com/r/javascript/comments/1ny3ipx/recovering_webmentions_from_the_fediverse_after/)
 - [Oxbow UI is now free &amp; MIT! Tailwind CSS &amp; Alpine JS blocks and components.](https://www.reddit.com/r/javascript/comments/1nxpbk9/oxbow_ui_is_now_free_mit_tailwind_css_alpine_js/)
