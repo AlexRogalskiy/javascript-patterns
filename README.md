@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Vjeux » Birth of Prettier](https://www.reddit.com/r/javascript/comments/1nyqeot/vjeux_birth_of_prettier/)
-- [Javascript Chessbot Browser App / Stockfish Engine UI](https://www.reddit.com/r/javascript/comments/1ny9qcx/javascript_chessbot_browser_app_stockfish_engine/)
-- [[AskJS] Feedback wanted live online classes for beginner web design including HTML, CSS and JavaScript](https://www.reddit.com/r/javascript/comments/1ny481r/askjs_feedback_wanted_live_online_classes_for/)
-- [Recovering Webmentions from the Fediverse After Migrating to Cloudflare](https://www.reddit.com/r/javascript/comments/1ny3ipx/recovering_webmentions_from_the_fediverse_after/)
-- [Oxbow UI is now free &amp; MIT! Tailwind CSS &amp; Alpine JS blocks and components.](https://www.reddit.com/r/javascript/comments/1nxpbk9/oxbow_ui_is_now_free_mit_tailwind_css_alpine_js/)
-- [Showoff Saturday &lpar;October 04, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1nxn51a/showoff_saturday_october_04_2025/)
-- [[AskJS] How do people develop against multiple projects?](https://www.reddit.com/r/javascript/comments/1nxf740/askjs_how_do_people_develop_against_multiple/)
-- [[AskJS] HELP : I WANT TO TEST MY PROJECTS](https://www.reddit.com/r/javascript/comments/1nx8u12/askjs_help_i_want_to_test_my_projects/)
-- [[AskJS] How to understand CRDT in a most straightforward way that how it resolves conflicts?](https://www.reddit.com/r/javascript/comments/1nx4072/askjs_how_to_understand_crdt_in_a_most/)
-- [Deco - Easy request coalescing](https://www.reddit.com/r/javascript/comments/1nwyp6j/deco_easy_request_coalescing/)
+- [UI framework - declarative async operations &amp; animation](https://www.reddit.com/r/javascript/comments/1o0qz1i/ui_framework_declarative_async_operations/)
+- [Introducing the React Foundation - Today, we’re announcing our plans to create the React Foundation and a new technical governance structure](https://www.reddit.com/r/javascript/comments/1o0pn8p/introducing_the_react_foundation_today_were/)
+- [Simplify Your JavaScript Code with Logical Assignment Techniques](https://www.reddit.com/r/javascript/comments/1o0p3h1/simplify_your_javascript_code_with_logical/)
+- [I built a free GIF generator using JavaScript — runs 100% in the browser](https://www.reddit.com/r/javascript/comments/1o0l1yu/i_built_a_free_gif_generator_using_javascript/)
+- [oBerry: a modern approach to jQuery](https://www.reddit.com/r/javascript/comments/1o0i6dj/oberry_a_modern_approach_to_jquery/)
+- [zustand-travel: A powerful and high-performance undo/redo middleware for Zustand with Travels](https://www.reddit.com/r/javascript/comments/1o0eojz/zustandtravel_a_powerful_and_highperformance/)
+- [Colanode - an open-source and local-first Slack &amp; Notion alternative built entirely in Typescript](https://www.reddit.com/r/javascript/comments/1o0cm0y/colanode_an_opensource_and_localfirst_slack/)
+- [Tarot.js: A powerful and customizable JavaScript library for creating and managing Tarot card decks, custom spreads, and readings.](https://www.reddit.com/r/javascript/comments/1nzxfuj/tarotjs_a_powerful_and_customizable_javascript/)
+- [Iterator Helpers For Lazy Computation in Javascript](https://www.reddit.com/r/javascript/comments/1nzwee7/iterator_helpers_for_lazy_computation_in/)
+- [Anthony of Boston’s Secondary Detection: A Beginner’s Guide on Advanced Drone Detection for Military Systems](https://www.reddit.com/r/javascript/comments/1nzuoqg/anthony_of_bostons_secondary_detection_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
