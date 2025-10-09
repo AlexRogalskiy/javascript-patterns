@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The Vibe-Coding Security Guide: For Devs Who Ship First and Secure Later](https://www.reddit.com/r/javascript/comments/1o1t1la/the_vibecoding_security_guide_for_devs_who_ship/)
+- [Behaviour - Create more sophisticated vanilla JavaScript solutions while still keeping it understandable and extendible for LLM-based AI&#39;s.](https://www.reddit.com/r/javascript/comments/1o1fe84/behaviour_create_more_sophisticated_vanilla/)
+- [[AskJS] Stream-Oriented Programming — a new paradigm to replace OOP?](https://www.reddit.com/r/javascript/comments/1o1b9ql/askjs_streamoriented_programming_a_new_paradigm/)
+- [Is there something wrong with the name of the project?](https://www.reddit.com/r/javascript/comments/1o171vk/is_there_something_wrong_with_the_name_of_the/)
+- [Add Hotkeys/menmonics to your web app](https://www.reddit.com/r/javascript/comments/1o16vla/add_hotkeysmenmonics_to_your_web_app/)
 - [UI framework - declarative async operations &amp; animation](https://www.reddit.com/r/javascript/comments/1o0qz1i/ui_framework_declarative_async_operations/)
 - [Introducing the React Foundation - Today, we’re announcing our plans to create the React Foundation and a new technical governance structure](https://www.reddit.com/r/javascript/comments/1o0pn8p/introducing_the_react_foundation_today_were/)
 - [Simplify Your JavaScript Code with Logical Assignment Techniques](https://www.reddit.com/r/javascript/comments/1o0p3h1/simplify_your_javascript_code_with_logical/)
 - [I built a free GIF generator using JavaScript — runs 100% in the browser](https://www.reddit.com/r/javascript/comments/1o0l1yu/i_built_a_free_gif_generator_using_javascript/)
 - [oBerry: a modern approach to jQuery](https://www.reddit.com/r/javascript/comments/1o0i6dj/oberry_a_modern_approach_to_jquery/)
-- [zustand-travel: A powerful and high-performance undo/redo middleware for Zustand with Travels](https://www.reddit.com/r/javascript/comments/1o0eojz/zustandtravel_a_powerful_and_highperformance/)
-- [Colanode - an open-source and local-first Slack &amp; Notion alternative built entirely in Typescript](https://www.reddit.com/r/javascript/comments/1o0cm0y/colanode_an_opensource_and_localfirst_slack/)
-- [Tarot.js: A powerful and customizable JavaScript library for creating and managing Tarot card decks, custom spreads, and readings.](https://www.reddit.com/r/javascript/comments/1nzxfuj/tarotjs_a_powerful_and_customizable_javascript/)
-- [Iterator Helpers For Lazy Computation in Javascript](https://www.reddit.com/r/javascript/comments/1nzwee7/iterator_helpers_for_lazy_computation_in/)
-- [Anthony of Boston’s Secondary Detection: A Beginner’s Guide on Advanced Drone Detection for Military Systems](https://www.reddit.com/r/javascript/comments/1nzuoqg/anthony_of_bostons_secondary_detection_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
