@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [CReact - Universal Reactive Runtime for Declarative Systems](https://www.reddit.com/r/javascript/comments/1o4949g/creact_universal_reactive_runtime_for_declarative/)
+- [Markon • Minimal Distraction‑free Markdown editor](https://www.reddit.com/r/javascript/comments/1o3w3js/markon_minimal_distractionfree_markdown_editor/)
+- [I created a Wikipedia Speedrun using JavaScript](https://www.reddit.com/r/javascript/comments/1o3t4c4/i_created_a_wikipedia_speedrun_using_javascript/)
+- [Showoff Saturday &lpar;October 11, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1o3ox0i/showoff_saturday_october_11_2025/)
 - [GitHub - nyambogahezron/workspace-version-aligner: CLI tool to detect and fix mismatched dependency versions in monorepos](https://www.reddit.com/r/javascript/comments/1o3grit/github_nyambogahezronworkspaceversionaligner_cli/)
 - [I combined ZetaMac and MonkeyType into the best quick math game. Go try it!](https://www.reddit.com/r/javascript/comments/1o3dwgw/i_combined_zetamac_and_monkeytype_into_the_best/)
 - [Recently build a new vaporwave themed portfolio](https://www.reddit.com/r/javascript/comments/1o39cai/recently_build_a_new_vaporwave_themed_portfolio/)
 - [Next.js 16 &lpar;beta&rpar;](https://www.reddit.com/r/javascript/comments/1o365tx/nextjs_16_beta/)
 - [Best.js v0.1: NextJS is slow to compile. BestJS uses Vite for Faster Development and Server Side Rendering of React Modules.](https://www.reddit.com/r/javascript/comments/1o33elv/bestjs_v01_nextjs_is_slow_to_compile_bestjs_uses/)
 - [I built a Signal-like Event Emitter with full type support, batch &amp; merge triggers, and ordered dependencies](https://www.reddit.com/r/javascript/comments/1o2wmjx/i_built_a_signallike_event_emitter_with_full_type/)
-- [[AskJS] Tech events and meetup](https://www.reddit.com/r/javascript/comments/1o2gyub/askjs_tech_events_and_meetup/)
-- [Understanding Currying in JavaScript](https://www.reddit.com/r/javascript/comments/1o2gria/understanding_currying_in_javascript/)
-- [IO – Lightweight JS library to simplify DOM &amp; I/O &lpar;modern, chainable, ~30% faster than jQuery&rpar;](https://www.reddit.com/r/javascript/comments/1o2ftzm/io_lightweight_js_library_to_simplify_dom_io/)
-- [Build a BLE realtime Air Quality Dashboard with Node-RED](https://www.reddit.com/r/javascript/comments/1o28elr/build_a_ble_realtime_air_quality_dashboard_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
