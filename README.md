@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [CReact - Universal Reactive Runtime for Declarative Systems](https://www.reddit.com/r/javascript/comments/1o4949g/creact_universal_reactive_runtime_for_declarative/)
-- [Markon • Minimal Distraction‑free Markdown editor](https://www.reddit.com/r/javascript/comments/1o3w3js/markon_minimal_distractionfree_markdown_editor/)
-- [I created a Wikipedia Speedrun using JavaScript](https://www.reddit.com/r/javascript/comments/1o3t4c4/i_created_a_wikipedia_speedrun_using_javascript/)
-- [Showoff Saturday &lpar;October 11, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1o3ox0i/showoff_saturday_october_11_2025/)
-- [GitHub - nyambogahezron/workspace-version-aligner: CLI tool to detect and fix mismatched dependency versions in monorepos](https://www.reddit.com/r/javascript/comments/1o3grit/github_nyambogahezronworkspaceversionaligner_cli/)
-- [I combined ZetaMac and MonkeyType into the best quick math game. Go try it!](https://www.reddit.com/r/javascript/comments/1o3dwgw/i_combined_zetamac_and_monkeytype_into_the_best/)
-- [Recently build a new vaporwave themed portfolio](https://www.reddit.com/r/javascript/comments/1o39cai/recently_build_a_new_vaporwave_themed_portfolio/)
-- [Next.js 16 &lpar;beta&rpar;](https://www.reddit.com/r/javascript/comments/1o365tx/nextjs_16_beta/)
-- [Best.js v0.1: NextJS is slow to compile. BestJS uses Vite for Faster Development and Server Side Rendering of React Modules.](https://www.reddit.com/r/javascript/comments/1o33elv/bestjs_v01_nextjs_is_slow_to_compile_bestjs_uses/)
-- [I built a Signal-like Event Emitter with full type support, batch &amp; merge triggers, and ordered dependencies](https://www.reddit.com/r/javascript/comments/1o2wmjx/i_built_a_signallike_event_emitter_with_full_type/)
+- [[AskJS] I&#39;m loosing my mind with a vitest importActual bug](https://www.reddit.com/r/javascript/comments/1o6061u/askjs_im_loosing_my_mind_with_a_vitest/)
+- [If you have an npm package, read this before November 2025](https://www.reddit.com/r/javascript/comments/1o5rgl6/if_you_have_an_npm_package_read_this_before/)
+- [VoidZero Announces Vite+](https://www.reddit.com/r/javascript/comments/1o5qhmq/voidzero_announces_vite/)
+- [Stop shipping useless error logs. A guide to fixing Sentry stack traces with source maps](https://www.reddit.com/r/javascript/comments/1o5nst0/stop_shipping_useless_error_logs_a_guide_to/)
+- [Jeasx 2.0.0 released - a JSX-powered server side framework for people who love the power of modern HTML](https://www.reddit.com/r/javascript/comments/1o5fely/jeasx_200_released_a_jsxpowered_server_side/)
+- [Your /r/javascript recap for the week of October 06 - October 12, 2025](https://www.reddit.com/r/javascript/comments/1o5epf0/your_rjavascript_recap_for_the_week_of_october_06/)
+- [[AskJS] Promises in JavaScript. Is their use still relevant today?](https://www.reddit.com/r/javascript/comments/1o5dzpz/askjs_promises_in_javascript_is_their_use_still/)
+- [Claudiomiro: How to Achieve 100% Autonomous &lpar;Complex&rpar; Coding](https://www.reddit.com/r/javascript/comments/1o4vtks/claudiomiro_how_to_achieve_100_autonomous_complex/)
+- [We&#39;re building an open source create-react-app for the entire JS ecosystem. We want you to install your libraries + scaffold your app in a single command.](https://www.reddit.com/r/javascript/comments/1o4vkk4/were_building_an_open_source_createreactapp_for/)
+- [[AskJS] Caching handling](https://www.reddit.com/r/javascript/comments/1o4v71s/askjs_caching_handling/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
