@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I built a SAX-style XML parser](https://www.reddit.com/r/javascript/comments/1o6jp1k/i_built_a_saxstyle_xml_parser/)
+- [Heightmap Grayscale Image → STL. Javascript 100% client side.](https://www.reddit.com/r/javascript/comments/1o6grq7/heightmap_grayscale_image_stl_javascript_100/)
+- [The World&#39;s Smallest JS Codec for Protobuf Data](https://www.reddit.com/r/javascript/comments/1o6fsgf/the_worlds_smallest_js_codec_for_protobuf_data/)
+- [[AskJS] VSCode Trouble with Node](https://www.reddit.com/r/javascript/comments/1o6eguh/askjs_vscode_trouble_with_node/)
+- [Why is `typeof null === &#39;object&#39;` in JavaScript? The 30-year story of a bug we can&#39;t fix](https://www.reddit.com/r/javascript/comments/1o6dilj/why_is_typeof_null_object_in_javascript_the/)
+- [[AskJS] Seeking feedback on a JS-based website idea — ever felt stuck launching your own project?](https://www.reddit.com/r/javascript/comments/1o6defs/askjs_seeking_feedback_on_a_jsbased_website_idea/)
 - [[AskJS] I&#39;m loosing my mind with a vitest importActual bug](https://www.reddit.com/r/javascript/comments/1o6061u/askjs_im_loosing_my_mind_with_a_vitest/)
 - [If you have an npm package, read this before November 2025](https://www.reddit.com/r/javascript/comments/1o5rgl6/if_you_have_an_npm_package_read_this_before/)
 - [VoidZero Announces Vite+](https://www.reddit.com/r/javascript/comments/1o5qhmq/voidzero_announces_vite/)
 - [Stop shipping useless error logs. A guide to fixing Sentry stack traces with source maps](https://www.reddit.com/r/javascript/comments/1o5nst0/stop_shipping_useless_error_logs_a_guide_to/)
-- [Jeasx 2.0.0 released - a JSX-powered server side framework for people who love the power of modern HTML](https://www.reddit.com/r/javascript/comments/1o5fely/jeasx_200_released_a_jsxpowered_server_side/)
-- [Your /r/javascript recap for the week of October 06 - October 12, 2025](https://www.reddit.com/r/javascript/comments/1o5epf0/your_rjavascript_recap_for_the_week_of_october_06/)
-- [[AskJS] Promises in JavaScript. Is their use still relevant today?](https://www.reddit.com/r/javascript/comments/1o5dzpz/askjs_promises_in_javascript_is_their_use_still/)
-- [Claudiomiro: How to Achieve 100% Autonomous &lpar;Complex&rpar; Coding](https://www.reddit.com/r/javascript/comments/1o4vtks/claudiomiro_how_to_achieve_100_autonomous_complex/)
-- [We&#39;re building an open source create-react-app for the entire JS ecosystem. We want you to install your libraries + scaffold your app in a single command.](https://www.reddit.com/r/javascript/comments/1o4vkk4/were_building_an_open_source_createreactapp_for/)
-- [[AskJS] Caching handling](https://www.reddit.com/r/javascript/comments/1o4v71s/askjs_caching_handling/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
