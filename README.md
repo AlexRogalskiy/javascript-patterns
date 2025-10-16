@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Nyno &lpar;open-source n8n alternative using YAML&rpar; now supports JavaScript extensions for high performing Workflow commands.](https://www.reddit.com/r/javascript/comments/1o7nsp7/nyno_opensource_n8n_alternative_using_yaml_now/)
+- [49 string utilities in 8.84KB with zero dependencies &lpar;8x smaller than lodash, faster too&rpar;](https://www.reddit.com/r/javascript/comments/1o7fs3m/49_string_utilities_in_884kb_with_zero/)
+- [I built a website where you can upvote coding courses. Feedback appreciated!](https://www.reddit.com/r/javascript/comments/1o7elwa/i_built_a_website_where_you_can_upvote_coding/)
+- [I built a Zod-inspired prompt injection detection library for TypeScript](https://www.reddit.com/r/javascript/comments/1o73zuu/i_built_a_zodinspired_prompt_injection_detection/)
 - [I built a SAX-style XML parser](https://www.reddit.com/r/javascript/comments/1o6jp1k/i_built_a_saxstyle_xml_parser/)
 - [Heightmap Grayscale Image → STL. Javascript 100% client side.](https://www.reddit.com/r/javascript/comments/1o6grq7/heightmap_grayscale_image_stl_javascript_100/)
 - [The World&#39;s Smallest JS Codec for Protobuf Data](https://www.reddit.com/r/javascript/comments/1o6fsgf/the_worlds_smallest_js_codec_for_protobuf_data/)
 - [[AskJS] VSCode Trouble with Node](https://www.reddit.com/r/javascript/comments/1o6eguh/askjs_vscode_trouble_with_node/)
 - [Why is `typeof null === &#39;object&#39;` in JavaScript? The 30-year story of a bug we can&#39;t fix](https://www.reddit.com/r/javascript/comments/1o6dilj/why_is_typeof_null_object_in_javascript_the/)
 - [[AskJS] Seeking feedback on a JS-based website idea — ever felt stuck launching your own project?](https://www.reddit.com/r/javascript/comments/1o6defs/askjs_seeking_feedback_on_a_jsbased_website_idea/)
-- [[AskJS] I&#39;m loosing my mind with a vitest importActual bug](https://www.reddit.com/r/javascript/comments/1o6061u/askjs_im_loosing_my_mind_with_a_vitest/)
-- [If you have an npm package, read this before November 2025](https://www.reddit.com/r/javascript/comments/1o5rgl6/if_you_have_an_npm_package_read_this_before/)
-- [VoidZero Announces Vite+](https://www.reddit.com/r/javascript/comments/1o5qhmq/voidzero_announces_vite/)
-- [Stop shipping useless error logs. A guide to fixing Sentry stack traces with source maps](https://www.reddit.com/r/javascript/comments/1o5nst0/stop_shipping_useless_error_logs_a_guide_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
