@@ -277,9 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Node.js v25.0.0 &lpar;Current&rpar;](https://www.reddit.com/r/javascript/comments/1o7w54l/nodejs_v2500_current/)
 - [Nyno &lpar;open-source n8n alternative using YAML&rpar; now supports JavaScript extensions for high performing Workflow commands.](https://www.reddit.com/r/javascript/comments/1o7nsp7/nyno_opensource_n8n_alternative_using_yaml_now/)
 - [49 string utilities in 8.84KB with zero dependencies &lpar;8x smaller than lodash, faster too&rpar;](https://www.reddit.com/r/javascript/comments/1o7fs3m/49_string_utilities_in_884kb_with_zero/)
-- [I built a website where you can upvote coding courses. Feedback appreciated!](https://www.reddit.com/r/javascript/comments/1o7elwa/i_built_a_website_where_you_can_upvote_coding/)
 - [I built a Zod-inspired prompt injection detection library for TypeScript](https://www.reddit.com/r/javascript/comments/1o73zuu/i_built_a_zodinspired_prompt_injection_detection/)
 - [I built a SAX-style XML parser](https://www.reddit.com/r/javascript/comments/1o6jp1k/i_built_a_saxstyle_xml_parser/)
 - [Heightmap Grayscale Image → STL. Javascript 100% client side.](https://www.reddit.com/r/javascript/comments/1o6grq7/heightmap_grayscale_image_stl_javascript_100/)
