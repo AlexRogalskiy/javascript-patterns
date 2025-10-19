@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Extension developer here, business wiped out. Could &quot;.env&quot; files or information leaks be the cause?](https://www.reddit.com/r/javascript/comments/1o9q2t0/askjs_extension_developer_here_business_wiped_out/)
+- [Showoff Saturday &lpar;October 18, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1o9p0z1/showoff_saturday_october_18_2025/)
 - [Made a tiny useFetch Hook with built-in abort &amp; perfect type inference](https://www.reddit.com/r/javascript/comments/1o9eszi/made_a_tiny_usefetch_hook_with_builtin_abort/)
 - [Automerge is a local-first sync engine for multiplayer apps that works offline, prevents conflicts, and runs fast](https://www.reddit.com/r/javascript/comments/1o8zj0j/automerge_is_a_localfirst_sync_engine_for/)
 - [Inglorious Store: A state manager inspired by Redux and videogames!](https://www.reddit.com/r/javascript/comments/1o8uc1t/inglorious_store_a_state_manager_inspired_by/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [49 string utilities in 8.84KB with zero dependencies &lpar;8x smaller than lodash, faster too&rpar;](https://www.reddit.com/r/javascript/comments/1o7fs3m/49_string_utilities_in_884kb_with_zero/)
 - [I built a Zod-inspired prompt injection detection library for TypeScript](https://www.reddit.com/r/javascript/comments/1o73zuu/i_built_a_zodinspired_prompt_injection_detection/)
 - [I built a SAX-style XML parser](https://www.reddit.com/r/javascript/comments/1o6jp1k/i_built_a_saxstyle_xml_parser/)
-- [Heightmap Grayscale Image → STL. Javascript 100% client side.](https://www.reddit.com/r/javascript/comments/1o6grq7/heightmap_grayscale_image_stl_javascript_100/)
-- [The World&#39;s Smallest JS Codec for Protobuf Data](https://www.reddit.com/r/javascript/comments/1o6fsgf/the_worlds_smallest_js_codec_for_protobuf_data/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
