@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I built a browser-based ant colony simulation with vanilla JS + Canvas](https://www.reddit.com/r/javascript/comments/1ob4ed8/i_built_a_browserbased_ant_colony_simulation_with/)
+- [[AskJS] How many versions of the same library/package does your codebase use?](https://www.reddit.com/r/javascript/comments/1ob3sgg/askjs_how_many_versions_of_the_same/)
+- [Looking for contributors: open-source TypeScript library](https://www.reddit.com/r/javascript/comments/1ob0oy9/looking_for_contributors_opensource_typescript/)
+- [Built a JSON/YAML diff tool - feedback welcome](https://www.reddit.com/r/javascript/comments/1oaqwuk/built_a_jsonyaml_diff_tool_feedback_welcome/)
+- [[AskJS] With all the new features in JS, why don&#39;t they add a += variant that treats null as 0 so I don&#39;t have to check for 0 first?](https://www.reddit.com/r/javascript/comments/1oaoglm/askjs_with_all_the_new_features_in_js_why_dont/)
+- [Built a modern way to prefetch using the mouse trajectory!](https://www.reddit.com/r/javascript/comments/1oajqzh/built_a_modern_way_to_prefetch_using_the_mouse/)
 - [[AskJS] Extension developer here, business wiped out. Could &quot;.env&quot; files or information leaks be the cause?](https://www.reddit.com/r/javascript/comments/1o9q2t0/askjs_extension_developer_here_business_wiped_out/)
 - [Showoff Saturday &lpar;October 18, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1o9p0z1/showoff_saturday_october_18_2025/)
 - [Made a tiny useFetch Hook with built-in abort &amp; perfect type inference](https://www.reddit.com/r/javascript/comments/1o9eszi/made_a_tiny_usefetch_hook_with_builtin_abort/)
 - [Automerge is a local-first sync engine for multiplayer apps that works offline, prevents conflicts, and runs fast](https://www.reddit.com/r/javascript/comments/1o8zj0j/automerge_is_a_localfirst_sync_engine_for/)
-- [Inglorious Store: A state manager inspired by Redux and videogames!](https://www.reddit.com/r/javascript/comments/1o8uc1t/inglorious_store_a_state_manager_inspired_by/)
-- [Node.js v25.0.0 &lpar;Current&rpar;](https://www.reddit.com/r/javascript/comments/1o7w54l/nodejs_v2500_current/)
-- [Nyno &lpar;open-source n8n alternative using YAML&rpar; now supports JavaScript extensions for high performing Workflow commands.](https://www.reddit.com/r/javascript/comments/1o7nsp7/nyno_opensource_n8n_alternative_using_yaml_now/)
-- [49 string utilities in 8.84KB with zero dependencies &lpar;8x smaller than lodash, faster too&rpar;](https://www.reddit.com/r/javascript/comments/1o7fs3m/49_string_utilities_in_884kb_with_zero/)
-- [I built a Zod-inspired prompt injection detection library for TypeScript](https://www.reddit.com/r/javascript/comments/1o73zuu/i_built_a_zodinspired_prompt_injection_detection/)
-- [I built a SAX-style XML parser](https://www.reddit.com/r/javascript/comments/1o6jp1k/i_built_a_saxstyle_xml_parser/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
