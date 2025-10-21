@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to Fix Any Bug](https://www.reddit.com/r/javascript/comments/1obyz5p/how_to_fix_any_bug/)
+- [Exploring test isolation performance](https://www.reddit.com/r/javascript/comments/1obx6to/exploring_test_isolation_performance/)
+- [Better-Auth Critical Account Takeover via Unauthenticated API Key Creation &lpar;CVE-2025-61928&rpar;](https://www.reddit.com/r/javascript/comments/1obrq3f/betterauth_critical_account_takeover_via/)
+- [[AskJS] Looking to hire an India based Json/HTML developer for a three month project for my sports website](https://www.reddit.com/r/javascript/comments/1obrn8b/askjs_looking_to_hire_an_india_based_jsonhtml/)
+- [I created a browser extension that turns any article into a text-only reading view and applies design choices backed by readability and accessibility research.](https://www.reddit.com/r/javascript/comments/1obp1qu/i_created_a_browser_extension_that_turns_any/)
+- [[AskJS] Currying in Junior FrontEnd Developer Interview?](https://www.reddit.com/r/javascript/comments/1obgw93/askjs_currying_in_junior_frontend_developer/)
 - [I built a browser-based ant colony simulation with vanilla JS + Canvas](https://www.reddit.com/r/javascript/comments/1ob4ed8/i_built_a_browserbased_ant_colony_simulation_with/)
 - [[AskJS] How many versions of the same library/package does your codebase use?](https://www.reddit.com/r/javascript/comments/1ob3sgg/askjs_how_many_versions_of_the_same/)
 - [Looking for contributors: open-source TypeScript library](https://www.reddit.com/r/javascript/comments/1ob0oy9/looking_for_contributors_opensource_typescript/)
 - [Built a JSON/YAML diff tool - feedback welcome](https://www.reddit.com/r/javascript/comments/1oaqwuk/built_a_jsonyaml_diff_tool_feedback_welcome/)
-- [[AskJS] With all the new features in JS, why don&#39;t they add a += variant that treats null as 0 so I don&#39;t have to check for 0 first?](https://www.reddit.com/r/javascript/comments/1oaoglm/askjs_with_all_the_new_features_in_js_why_dont/)
-- [Built a modern way to prefetch using the mouse trajectory!](https://www.reddit.com/r/javascript/comments/1oajqzh/built_a_modern_way_to_prefetch_using_the_mouse/)
-- [[AskJS] Extension developer here, business wiped out. Could &quot;.env&quot; files or information leaks be the cause?](https://www.reddit.com/r/javascript/comments/1o9q2t0/askjs_extension_developer_here_business_wiped_out/)
-- [Showoff Saturday &lpar;October 18, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1o9p0z1/showoff_saturday_october_18_2025/)
-- [Made a tiny useFetch Hook with built-in abort &amp; perfect type inference](https://www.reddit.com/r/javascript/comments/1o9eszi/made_a_tiny_usefetch_hook_with_builtin_abort/)
-- [Automerge is a local-first sync engine for multiplayer apps that works offline, prevents conflicts, and runs fast](https://www.reddit.com/r/javascript/comments/1o8zj0j/automerge_is_a_localfirst_sync_engine_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
