@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Vitest 4.0 was released today](https://www.reddit.com/r/javascript/comments/1odq2t9/vitest_40_was_released_today/)
+- [Boa 0.21.0 release - a JavaScript engine written in Rust](https://www.reddit.com/r/javascript/comments/1odnzw4/boa_0210_release_a_javascript_engine_written_in/)
+- [Articles Shouldn&#39;t Be Exhausting to Read, So I Built Yumi Reader](https://www.reddit.com/r/javascript/comments/1odg7d2/articles_shouldnt_be_exhausting_to_read_so_i/)
+- [I built a reactive Framework with template strings](https://www.reddit.com/r/javascript/comments/1oddipx/i_built_a_reactive_framework_with_template_strings/)
+- [Ordinality - framework-agnostic migrations for Browser, Node, Deno](https://www.reddit.com/r/javascript/comments/1odc2n5/ordinality_frameworkagnostic_migrations_for/)
+- [Ky — tiny JavaScript HTTP client, now with context option](https://www.reddit.com/r/javascript/comments/1od56oh/ky_tiny_javascript_http_client_now_with_context/)
+- [[AskJS] What is the most underrated JavaScript feature you use regularly?](https://www.reddit.com/r/javascript/comments/1od21qr/askjs_what_is_the_most_underrated_javascript/)
+- [I made a cool metallic orb that does a ripple when you click it](https://www.reddit.com/r/javascript/comments/1ocwten/i_made_a_cool_metallic_orb_that_does_a_ripple/)
 - [I built an educational fun website](https://www.reddit.com/r/javascript/comments/1oco9oy/i_built_an_educational_fun_website/)
 - [JavaScript Secret: Self-Guarding Objects](https://www.reddit.com/r/javascript/comments/1ocdd94/javascript_secret_selfguarding_objects/)
-- [I built a new web framework which is very lightweight called Rynex](https://www.reddit.com/r/javascript/comments/1ocankb/i_built_a_new_web_framework_which_is_very/)
-- [What do you guys think about Seedit ? A peer-to-peer selfhosted reddit alternative using Javascript and IPFS](https://www.reddit.com/r/javascript/comments/1oc9rpc/what_do_you_guys_think_about_seedit_a_peertopeer/)
-- [[AskJS] &lpar;pretty simple request from a beginner&rpar;, how can I make an image change onclick change to a diffrent one](https://www.reddit.com/r/javascript/comments/1oc29mm/askjs_pretty_simple_request_from_a_beginner_how/)
-- [How to Fix Any Bug](https://www.reddit.com/r/javascript/comments/1obyz5p/how_to_fix_any_bug/)
-- [Exploring test isolation performance](https://www.reddit.com/r/javascript/comments/1obx6to/exploring_test_isolation_performance/)
-- [Better-Auth Critical Account Takeover via Unauthenticated API Key Creation &lpar;CVE-2025-61928&rpar;](https://www.reddit.com/r/javascript/comments/1obrq3f/betterauth_critical_account_takeover_via/)
-- [[AskJS] Looking to hire an India based Json/HTML developer for a three month project for my sports website](https://www.reddit.com/r/javascript/comments/1obrn8b/askjs_looking_to_hire_an_india_based_jsonhtml/)
-- [[AskJS] Currying in Junior FrontEnd Developer Interview?](https://www.reddit.com/r/javascript/comments/1obgw93/askjs_currying_in_junior_frontend_developer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
