@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Vitest 4.0 was released today](https://www.reddit.com/r/javascript/comments/1odq2t9/vitest_40_was_released_today/)
-- [Boa 0.21.0 release - a JavaScript engine written in Rust](https://www.reddit.com/r/javascript/comments/1odnzw4/boa_0210_release_a_javascript_engine_written_in/)
-- [Articles Shouldn&#39;t Be Exhausting to Read, So I Built Yumi Reader](https://www.reddit.com/r/javascript/comments/1odg7d2/articles_shouldnt_be_exhausting_to_read_so_i/)
-- [I built a reactive Framework with template strings](https://www.reddit.com/r/javascript/comments/1oddipx/i_built_a_reactive_framework_with_template_strings/)
-- [Ordinality - framework-agnostic migrations for Browser, Node, Deno](https://www.reddit.com/r/javascript/comments/1odc2n5/ordinality_frameworkagnostic_migrations_for/)
-- [Ky — tiny JavaScript HTTP client, now with context option](https://www.reddit.com/r/javascript/comments/1od56oh/ky_tiny_javascript_http_client_now_with_context/)
-- [[AskJS] What is the most underrated JavaScript feature you use regularly?](https://www.reddit.com/r/javascript/comments/1od21qr/askjs_what_is_the_most_underrated_javascript/)
-- [I made a cool metallic orb that does a ripple when you click it](https://www.reddit.com/r/javascript/comments/1ocwten/i_made_a_cool_metallic_orb_that_does_a_ripple/)
-- [I built an educational fun website](https://www.reddit.com/r/javascript/comments/1oco9oy/i_built_an_educational_fun_website/)
-- [JavaScript Secret: Self-Guarding Objects](https://www.reddit.com/r/javascript/comments/1ocdd94/javascript_secret_selfguarding_objects/)
+- [Composable Functions in Angular — A Modern, Functional Pattern for Reuse](https://www.reddit.com/r/javascript/comments/1oelywr/composable_functions_in_angular_a_modern/)
+- [Effortless values &amp; ranges Slider update](https://www.reddit.com/r/javascript/comments/1oejwh1/effortless_values_ranges_slider_update/)
+- [Made a javascript quiz lol](https://www.reddit.com/r/javascript/comments/1oedt2v/made_a_javascript_quiz_lol/)
+- [[AskJS] When Null Pointers Became Delicious Fruits](https://www.reddit.com/r/javascript/comments/1oe8rlc/askjs_when_null_pointers_became_delicious_fruits/)
+- [[AskJS] Working with groups of array elements in JavaScript](https://www.reddit.com/r/javascript/comments/1oe7t4a/askjs_working_with_groups_of_array_elements_in/)
+- [Importing vs fetching JSON](https://www.reddit.com/r/javascript/comments/1oe50fw/importing_vs_fetching_json/)
+- [[AskJS] Do we need OOP?](https://www.reddit.com/r/javascript/comments/1oe2yy8/askjs_do_we_need_oop/)
+- [React and Remix Choose Different Futures](https://www.reddit.com/r/javascript/comments/1oe1vkl/react_and_remix_choose_different_futures/)
+- [Masonry Grid - fast, lightweight, and responsive masonry grid layout library.](https://www.reddit.com/r/javascript/comments/1odz7qj/masonry_grid_fast_lightweight_and_responsive/)
+- [[Tool] Thanks Stars — A CLI that automatically stars all the GitHub repos from your package.json](https://www.reddit.com/r/javascript/comments/1odxrb0/tool_thanks_stars_a_cli_that_automatically_stars/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
