@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [We created an opensource wasm 3D viewer and shipped it in npm! Let us know what you think!](https://www.reddit.com/r/javascript/comments/1of9r4t/we_created_an_opensource_wasm_3d_viewer_and/)
+- [A structured logging library for Node.js applications inspired by Go&#39;s log/slog](https://www.reddit.com/r/javascript/comments/1of9qro/a_structured_logging_library_for_nodejs/)
+- [Tanner Linsley: Directives are becoming the new framework lock in](https://www.reddit.com/r/javascript/comments/1of3wzl/tanner_linsley_directives_are_becoming_the_new/)
+- [[AskJS] Secure/compartmentalized/secure JS proposals - its a rabbit hole - what is even relevant anymore?](https://www.reddit.com/r/javascript/comments/1of27br/askjs_securecompartmentalizedsecure_js_proposals/)
+- [[AskJS] How would you sync YouTube playback perfectly with a JS clock? &lpar;We turned this into a friendly coding challenge&rpar;](https://www.reddit.com/r/javascript/comments/1oeza6g/askjs_how_would_you_sync_youtube_playback/)
+- [Why funnels fail to explain user behavior &lpar;and what we built instead&rpar;](https://www.reddit.com/r/javascript/comments/1oeu4z1/why_funnels_fail_to_explain_user_behavior_and/)
+- [Javascript naming conventions based on Douglas Crockfords recommendations](https://www.reddit.com/r/javascript/comments/1oeqxgu/javascript_naming_conventions_based_on_douglas/)
 - [Composable Functions in Angular — A Modern, Functional Pattern for Reuse](https://www.reddit.com/r/javascript/comments/1oelywr/composable_functions_in_angular_a_modern/)
-- [Effortless values &amp; ranges Slider update](https://www.reddit.com/r/javascript/comments/1oejwh1/effortless_values_ranges_slider_update/)
 - [Made a javascript quiz lol](https://www.reddit.com/r/javascript/comments/1oedt2v/made_a_javascript_quiz_lol/)
 - [[AskJS] When Null Pointers Became Delicious Fruits](https://www.reddit.com/r/javascript/comments/1oe8rlc/askjs_when_null_pointers_became_delicious_fruits/)
-- [[AskJS] Working with groups of array elements in JavaScript](https://www.reddit.com/r/javascript/comments/1oe7t4a/askjs_working_with_groups_of_array_elements_in/)
-- [Importing vs fetching JSON](https://www.reddit.com/r/javascript/comments/1oe50fw/importing_vs_fetching_json/)
-- [[AskJS] Do we need OOP?](https://www.reddit.com/r/javascript/comments/1oe2yy8/askjs_do_we_need_oop/)
-- [React and Remix Choose Different Futures](https://www.reddit.com/r/javascript/comments/1oe1vkl/react_and_remix_choose_different_futures/)
-- [Masonry Grid - fast, lightweight, and responsive masonry grid layout library.](https://www.reddit.com/r/javascript/comments/1odz7qj/masonry_grid_fast_lightweight_and_responsive/)
-- [[Tool] Thanks Stars — A CLI that automatically stars all the GitHub repos from your package.json](https://www.reddit.com/r/javascript/comments/1odxrb0/tool_thanks_stars_a_cli_that_automatically_stars/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
