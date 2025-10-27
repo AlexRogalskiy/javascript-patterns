@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I built an open-source RAG system in JavaScript/TypeScript that lets you chat with any website &lpar;using local embeddings&rpar;](https://www.reddit.com/r/javascript/comments/1oh2jpd/i_built_an_opensource_rag_system_in/)
+- [[AskJS] Call vs Apply in modern javascript.](https://www.reddit.com/r/javascript/comments/1ogyf04/askjs_call_vs_apply_in_modern_javascript/)
+- [[AskJS] outlook plugin help](https://www.reddit.com/r/javascript/comments/1ogu1w6/askjs_outlook_plugin_help/)
+- [The Async Mind - Substack](https://www.reddit.com/r/javascript/comments/1ogi9jb/the_async_mind_substack/)
+- [Ember 6.8 Released - Vite by default and more](https://www.reddit.com/r/javascript/comments/1oggeoh/ember_68_released_vite_by_default_and_more/)
+- [micro-frontend platform that standardizes development, deployment, and execution of frontend experiences.](https://www.reddit.com/r/javascript/comments/1ogfooe/microfrontend_platform_that_standardizes/)
 - [Slim Select v3 Released!](https://www.reddit.com/r/javascript/comments/1og7tky/slim_select_v3_released/)
 - [[AskJS] Which type of Advanced Javascript Interview questions are Mostly asked in FAANG/ MAANG ?](https://www.reddit.com/r/javascript/comments/1ofwq5q/askjs_which_type_of_advanced_javascript_interview/)
 - [I built a free and open-source game](https://www.reddit.com/r/javascript/comments/1ofpv9f/i_built_a_free_and_opensource_game/)
 - [Let me know what you think about my app and how it’s working so far!](https://www.reddit.com/r/javascript/comments/1ofla0u/let_me_know_what_you_think_about_my_app_and_how/)
-- [Showoff Saturday &lpar;October 25, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1ofkzvd/showoff_saturday_october_25_2025/)
-- [We created an opensource wasm 3D viewer and shipped it in npm! Let us know what you think!](https://www.reddit.com/r/javascript/comments/1of9r4t/we_created_an_opensource_wasm_3d_viewer_and/)
-- [A structured logging library for Node.js applications inspired by Go&#39;s log/slog](https://www.reddit.com/r/javascript/comments/1of9qro/a_structured_logging_library_for_nodejs/)
-- [Tanner Linsley: Directives are becoming the new framework lock in](https://www.reddit.com/r/javascript/comments/1of3wzl/tanner_linsley_directives_are_becoming_the_new/)
-- [[AskJS] Secure/compartmentalized/secure JS proposals - its a rabbit hole - what is even relevant anymore?](https://www.reddit.com/r/javascript/comments/1of27br/askjs_securecompartmentalizedsecure_js_proposals/)
-- [[AskJS] How would you sync YouTube playback perfectly with a JS clock? &lpar;We turned this into a friendly coding challenge&rpar;](https://www.reddit.com/r/javascript/comments/1oeza6g/askjs_how_would_you_sync_youtube_playback/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
