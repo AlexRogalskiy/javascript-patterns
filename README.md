@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Simple tool for Natural Language-based JSON Transformation &lpar;provides javascript code output&rpar;](https://www.reddit.com/r/javascript/comments/1ohfyy9/simple_tool_for_natural_languagebased_json/)
+- [[AskJS] Node accessing WPF App?](https://www.reddit.com/r/javascript/comments/1ohf6qq/askjs_node_accessing_wpf_app/)
+- [VoidZero&#39;s ViteConf 2025 Recap](https://www.reddit.com/r/javascript/comments/1ohczo2/voidzeros_viteconf_2025_recap/)
+- [I built a zero-dependency workflow engine](https://www.reddit.com/r/javascript/comments/1ohbonv/i_built_a_zerodependency_workflow_engine/)
+- [I made a library that makes it simple to use server-sent events: real-time server-to-client communication without WebSockets](https://www.reddit.com/r/javascript/comments/1ohbifv/i_made_a_library_that_makes_it_simple_to_use/)
+- [Your /r/javascript recap for the week of October 20 - October 26, 2025](https://www.reddit.com/r/javascript/comments/1oh9iwe/your_rjavascript_recap_for_the_week_of_october_20/)
+- [Why NaN !== NaN in JavaScript &lpar;and the IEEE 754 story behind it&rpar;](https://www.reddit.com/r/javascript/comments/1oh78xg/why_nan_nan_in_javascript_and_the_ieee_754_story/)
 - [I built an open-source RAG system in JavaScript/TypeScript that lets you chat with any website &lpar;using local embeddings&rpar;](https://www.reddit.com/r/javascript/comments/1oh2jpd/i_built_an_opensource_rag_system_in/)
 - [[AskJS] Call vs Apply in modern javascript.](https://www.reddit.com/r/javascript/comments/1ogyf04/askjs_call_vs_apply_in_modern_javascript/)
 - [[AskJS] outlook plugin help](https://www.reddit.com/r/javascript/comments/1ogu1w6/askjs_outlook_plugin_help/)
-- [The Async Mind - Substack](https://www.reddit.com/r/javascript/comments/1ogi9jb/the_async_mind_substack/)
-- [Ember 6.8 Released - Vite by default and more](https://www.reddit.com/r/javascript/comments/1oggeoh/ember_68_released_vite_by_default_and_more/)
-- [micro-frontend platform that standardizes development, deployment, and execution of frontend experiences.](https://www.reddit.com/r/javascript/comments/1ogfooe/microfrontend_platform_that_standardizes/)
-- [Slim Select v3 Released!](https://www.reddit.com/r/javascript/comments/1og7tky/slim_select_v3_released/)
-- [[AskJS] Which type of Advanced Javascript Interview questions are Mostly asked in FAANG/ MAANG ?](https://www.reddit.com/r/javascript/comments/1ofwq5q/askjs_which_type_of_advanced_javascript_interview/)
-- [I built a free and open-source game](https://www.reddit.com/r/javascript/comments/1ofpv9f/i_built_a_free_and_opensource_game/)
-- [Let me know what you think about my app and how it’s working so far!](https://www.reddit.com/r/javascript/comments/1ofla0u/let_me_know_what_you_think_about_my_app_and_how/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
