@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Fought ESM-only Faker v10 with Jest... My blood, sweat, and transformIgnorePatterns tears.](https://www.reddit.com/r/javascript/comments/1oifm69/fought_esmonly_faker_v10_with_jest_my_blood_sweat/)
+- [Introducing ArkRegex: a drop in replacement for new RegExp&lpar;&rpar; with types](https://www.reddit.com/r/javascript/comments/1oidwz5/introducing_arkregex_a_drop_in_replacement_for/)
+- [Feedback on @norbulcz/num-parse: strict, zero-dependency number parser for US/EU/Swiss formats](https://www.reddit.com/r/javascript/comments/1oi3erh/feedback_on_norbulcznumparse_strict/)
 - [Simple tool for Natural Language-based JSON Transformation &lpar;provides javascript code output&rpar;](https://www.reddit.com/r/javascript/comments/1ohfyy9/simple_tool_for_natural_languagebased_json/)
 - [[AskJS] Node accessing WPF App?](https://www.reddit.com/r/javascript/comments/1ohf6qq/askjs_node_accessing_wpf_app/)
 - [VoidZero&#39;s ViteConf 2025 Recap](https://www.reddit.com/r/javascript/comments/1ohczo2/voidzeros_viteconf_2025_recap/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [I made a library that makes it simple to use server-sent events: real-time server-to-client communication without WebSockets](https://www.reddit.com/r/javascript/comments/1ohbifv/i_made_a_library_that_makes_it_simple_to_use/)
 - [Your /r/javascript recap for the week of October 20 - October 26, 2025](https://www.reddit.com/r/javascript/comments/1oh9iwe/your_rjavascript_recap_for_the_week_of_october_20/)
 - [Why NaN !== NaN in JavaScript &lpar;and the IEEE 754 story behind it&rpar;](https://www.reddit.com/r/javascript/comments/1oh78xg/why_nan_nan_in_javascript_and_the_ieee_754_story/)
-- [I built an open-source RAG system in JavaScript/TypeScript that lets you chat with any website &lpar;using local embeddings&rpar;](https://www.reddit.com/r/javascript/comments/1oh2jpd/i_built_an_opensource_rag_system_in/)
-- [[AskJS] Call vs Apply in modern javascript.](https://www.reddit.com/r/javascript/comments/1ogyf04/askjs_call_vs_apply_in_modern_javascript/)
-- [[AskJS] outlook plugin help](https://www.reddit.com/r/javascript/comments/1ogu1w6/askjs_outlook_plugin_help/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
