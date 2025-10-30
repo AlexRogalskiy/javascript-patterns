@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Jeasx 2.1.0 released - an old-school server-side-framework on top of JSX and Fastify for people who believe in the growing capabilities of web-browsers.](https://www.reddit.com/r/javascript/comments/1oj8k4u/jeasx_210_released_an_oldschool/)
+- [Making Sense of Lambda Calculus 6: Recurring Problems](https://www.reddit.com/r/javascript/comments/1oj0oxg/making_sense_of_lambda_calculus_6_recurring/)
+- [I built Tasky, a tiny open-source task manager built with TypeScript.](https://www.reddit.com/r/javascript/comments/1oiyqr2/i_built_tasky_a_tiny_opensource_task_manager/)
+- [Frontend Fuzzy + Substring + Prefix Search](https://www.reddit.com/r/javascript/comments/1oix9pj/frontend_fuzzy_substring_prefix_search/)
 - [Fought ESM-only Faker v10 with Jest... My blood, sweat, and transformIgnorePatterns tears.](https://www.reddit.com/r/javascript/comments/1oifm69/fought_esmonly_faker_v10_with_jest_my_blood_sweat/)
 - [Introducing ArkRegex: a drop in replacement for new RegExp&lpar;&rpar; with types](https://www.reddit.com/r/javascript/comments/1oidwz5/introducing_arkregex_a_drop_in_replacement_for/)
 - [Feedback on @norbulcz/num-parse: strict, zero-dependency number parser for US/EU/Swiss formats](https://www.reddit.com/r/javascript/comments/1oi3erh/feedback_on_norbulcznumparse_strict/)
 - [Simple tool for Natural Language-based JSON Transformation &lpar;provides javascript code output&rpar;](https://www.reddit.com/r/javascript/comments/1ohfyy9/simple_tool_for_natural_languagebased_json/)
 - [[AskJS] Node accessing WPF App?](https://www.reddit.com/r/javascript/comments/1ohf6qq/askjs_node_accessing_wpf_app/)
 - [VoidZero&#39;s ViteConf 2025 Recap](https://www.reddit.com/r/javascript/comments/1ohczo2/voidzeros_viteconf_2025_recap/)
-- [I built a zero-dependency workflow engine](https://www.reddit.com/r/javascript/comments/1ohbonv/i_built_a_zerodependency_workflow_engine/)
-- [I made a library that makes it simple to use server-sent events: real-time server-to-client communication without WebSockets](https://www.reddit.com/r/javascript/comments/1ohbifv/i_made_a_library_that_makes_it_simple_to_use/)
-- [Your /r/javascript recap for the week of October 20 - October 26, 2025](https://www.reddit.com/r/javascript/comments/1oh9iwe/your_rjavascript_recap_for_the_week_of_october_20/)
-- [Why NaN !== NaN in JavaScript &lpar;and the IEEE 754 story behind it&rpar;](https://www.reddit.com/r/javascript/comments/1oh78xg/why_nan_nan_in_javascript_and_the_ieee_754_story/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
