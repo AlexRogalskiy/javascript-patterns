@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [reactish-query: 1.5kB Lightweight query library with automatic cache cleanup](https://www.reddit.com/r/javascript/comments/1oken8q/reactishquery_15kb_lightweight_query_library_with/)
+- [NaN, the not-a-number number that isn’t NaN](https://www.reddit.com/r/javascript/comments/1okcitx/nan_the_notanumber_number_that_isnt_nan/)
+- [quick-seed - A universal database seeder CLI for Prisma, Drizzle &amp; SQL](https://www.reddit.com/r/javascript/comments/1okbos3/quickseed_a_universal_database_seeder_cli_for/)
+- [[AskJS] How do you handle theme toggles &lpar;Light/Dark mode&rpar; efficiently in pure JavaScript?](https://www.reddit.com/r/javascript/comments/1okarsu/askjs_how_do_you_handle_theme_toggles_lightdark/)
+- [I built SonicDB, a zero-dependency in-memory DB with a Mongoose-like API and B-Tree indexing](https://www.reddit.com/r/javascript/comments/1ok7a0t/i_built_sonicdb_a_zerodependency_inmemory_db_with/)
+- [Why Elm is the Best Way for React Developers to Learn Real Functional Programming](https://www.reddit.com/r/javascript/comments/1ojzgyk/why_elm_is_the_best_way_for_react_developers_to/)
+- [Earning 10K with 161 Lines of JavaScript](https://www.reddit.com/r/javascript/comments/1ojtjmv/earning_10k_with_161_lines_of_javascript/)
 - [Jeasx 2.1.0 released - an old-school server-side-framework on top of JSX and Fastify for people who believe in the growing capabilities of web-browsers.](https://www.reddit.com/r/javascript/comments/1oj8k4u/jeasx_210_released_an_oldschool/)
 - [Making Sense of Lambda Calculus 6: Recurring Problems](https://www.reddit.com/r/javascript/comments/1oj0oxg/making_sense_of_lambda_calculus_6_recurring/)
-- [I built Tasky, a tiny open-source task manager built with TypeScript.](https://www.reddit.com/r/javascript/comments/1oiyqr2/i_built_tasky_a_tiny_opensource_task_manager/)
 - [Frontend Fuzzy + Substring + Prefix Search](https://www.reddit.com/r/javascript/comments/1oix9pj/frontend_fuzzy_substring_prefix_search/)
-- [Fought ESM-only Faker v10 with Jest... My blood, sweat, and transformIgnorePatterns tears.](https://www.reddit.com/r/javascript/comments/1oifm69/fought_esmonly_faker_v10_with_jest_my_blood_sweat/)
-- [Introducing ArkRegex: a drop in replacement for new RegExp&lpar;&rpar; with types](https://www.reddit.com/r/javascript/comments/1oidwz5/introducing_arkregex_a_drop_in_replacement_for/)
-- [Feedback on @norbulcz/num-parse: strict, zero-dependency number parser for US/EU/Swiss formats](https://www.reddit.com/r/javascript/comments/1oi3erh/feedback_on_norbulcznumparse_strict/)
-- [Simple tool for Natural Language-based JSON Transformation &lpar;provides javascript code output&rpar;](https://www.reddit.com/r/javascript/comments/1ohfyy9/simple_tool_for_natural_languagebased_json/)
-- [[AskJS] Node accessing WPF App?](https://www.reddit.com/r/javascript/comments/1ohf6qq/askjs_node_accessing_wpf_app/)
-- [VoidZero&#39;s ViteConf 2025 Recap](https://www.reddit.com/r/javascript/comments/1ohczo2/voidzeros_viteconf_2025_recap/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
