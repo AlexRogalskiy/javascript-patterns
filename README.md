@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Rethinking async loops in JavaScript](https://www.reddit.com/r/javascript/comments/1okrzt6/rethinking_async_loops_in_javascript/)
+- [Realtime BLE based Particulate Monitor with JavaScript](https://www.reddit.com/r/javascript/comments/1okr079/realtime_ble_based_particulate_monitor_with/)
+- [Announcing Rspack &amp; Rsbuild 1.6](https://www.reddit.com/r/javascript/comments/1okn74p/announcing_rspack_rsbuild_16/)
+- [I built a web automation library for AI agents so they can browse the web like a human, not a bot](https://www.reddit.com/r/javascript/comments/1okkhyw/i_built_a_web_automation_library_for_ai_agents_so/)
 - [reactish-query: 1.5kB Lightweight query library with automatic cache cleanup](https://www.reddit.com/r/javascript/comments/1oken8q/reactishquery_15kb_lightweight_query_library_with/)
 - [NaN, the not-a-number number that isn’t NaN](https://www.reddit.com/r/javascript/comments/1okcitx/nan_the_notanumber_number_that_isnt_nan/)
 - [quick-seed - A universal database seeder CLI for Prisma, Drizzle &amp; SQL](https://www.reddit.com/r/javascript/comments/1okbos3/quickseed_a_universal_database_seeder_cli_for/)
 - [[AskJS] How do you handle theme toggles &lpar;Light/Dark mode&rpar; efficiently in pure JavaScript?](https://www.reddit.com/r/javascript/comments/1okarsu/askjs_how_do_you_handle_theme_toggles_lightdark/)
 - [I built SonicDB, a zero-dependency in-memory DB with a Mongoose-like API and B-Tree indexing](https://www.reddit.com/r/javascript/comments/1ok7a0t/i_built_sonicdb_a_zerodependency_inmemory_db_with/)
 - [Why Elm is the Best Way for React Developers to Learn Real Functional Programming](https://www.reddit.com/r/javascript/comments/1ojzgyk/why_elm_is_the_best_way_for_react_developers_to/)
-- [Earning 10K with 161 Lines of JavaScript](https://www.reddit.com/r/javascript/comments/1ojtjmv/earning_10k_with_161_lines_of_javascript/)
-- [Jeasx 2.1.0 released - an old-school server-side-framework on top of JSX and Fastify for people who believe in the growing capabilities of web-browsers.](https://www.reddit.com/r/javascript/comments/1oj8k4u/jeasx_210_released_an_oldschool/)
-- [Making Sense of Lambda Calculus 6: Recurring Problems](https://www.reddit.com/r/javascript/comments/1oj0oxg/making_sense_of_lambda_calculus_6_recurring/)
-- [Frontend Fuzzy + Substring + Prefix Search](https://www.reddit.com/r/javascript/comments/1oix9pj/frontend_fuzzy_substring_prefix_search/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
