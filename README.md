@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I’ve released a game where players write real JavaScript code to battle other players online.](https://www.reddit.com/r/javascript/comments/1olyn2q/ive_released_a_game_where_players_write_real/)
+- [Markdrop - A powerful visual markdown editor and builder](https://www.reddit.com/r/javascript/comments/1olxwym/markdrop_a_powerful_visual_markdown_editor_and/)
+- [I built this simple react package for text animation](https://www.reddit.com/r/javascript/comments/1olrwvd/i_built_this_simple_react_package_for_text/)
+- [Ucom - Utterly Unified Components](https://www.reddit.com/r/javascript/comments/1olq86k/ucom_utterly_unified_components/)
+- [I built an open-source GitHub analysis platform in Node.js/React that lets you analyze, compare, and rank developer stats.](https://www.reddit.com/r/javascript/comments/1olp0gg/i_built_an_opensource_github_analysis_platform_in/)
+- [Alpine + HTMX = Helium](https://www.reddit.com/r/javascript/comments/1olonbo/alpine_htmx_helium/)
+- [[AskJS] How does Tampermonkey manage to inject userscripts containing external dependencies?](https://www.reddit.com/r/javascript/comments/1olo21w/askjs_how_does_tampermonkey_manage_to_inject/)
+- [Showoff Saturday &lpar;November 01, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1olhd48/showoff_saturday_november_01_2025/)
 - [Rethinking async loops in JavaScript](https://www.reddit.com/r/javascript/comments/1okrzt6/rethinking_async_loops_in_javascript/)
 - [Realtime BLE based Particulate Monitor with JavaScript](https://www.reddit.com/r/javascript/comments/1okr079/realtime_ble_based_particulate_monitor_with/)
-- [Announcing Rspack &amp; Rsbuild 1.6](https://www.reddit.com/r/javascript/comments/1okn74p/announcing_rspack_rsbuild_16/)
-- [I built a web automation library for AI agents so they can browse the web like a human, not a bot](https://www.reddit.com/r/javascript/comments/1okkhyw/i_built_a_web_automation_library_for_ai_agents_so/)
-- [reactish-query: 1.5kB Lightweight query library with automatic cache cleanup](https://www.reddit.com/r/javascript/comments/1oken8q/reactishquery_15kb_lightweight_query_library_with/)
-- [NaN, the not-a-number number that isn’t NaN](https://www.reddit.com/r/javascript/comments/1okcitx/nan_the_notanumber_number_that_isnt_nan/)
-- [quick-seed - A universal database seeder CLI for Prisma, Drizzle &amp; SQL](https://www.reddit.com/r/javascript/comments/1okbos3/quickseed_a_universal_database_seeder_cli_for/)
-- [[AskJS] How do you handle theme toggles &lpar;Light/Dark mode&rpar; efficiently in pure JavaScript?](https://www.reddit.com/r/javascript/comments/1okarsu/askjs_how_do_you_handle_theme_toggles_lightdark/)
-- [I built SonicDB, a zero-dependency in-memory DB with a Mongoose-like API and B-Tree indexing](https://www.reddit.com/r/javascript/comments/1ok7a0t/i_built_sonicdb_a_zerodependency_inmemory_db_with/)
-- [Why Elm is the Best Way for React Developers to Learn Real Functional Programming](https://www.reddit.com/r/javascript/comments/1ojzgyk/why_elm_is_the_best_way_for_react_developers_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
