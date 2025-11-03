@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Russian students began to learn Cyrillic [JavaScript] programming](https://www.reddit.com/r/javascript/comments/1omw71y/russian_students_began_to_learn_cyrillic/)
+- [Torque — a declarative TypeScript DSL for generating synthetic datasets &lpar;Zod, Faker&rpar;](https://www.reddit.com/r/javascript/comments/1omnwo8/torque_a_declarative_typescript_dsl_for/)
+- [SyncPit - Ephemeral shared whiteboards powered by Yjs](https://www.reddit.com/r/javascript/comments/1omn22v/syncpit_ephemeral_shared_whiteboards_powered_by/)
+- [WebRTC: Serverless Multiplayer Game with WebRTC and Barcodes](https://www.reddit.com/r/javascript/comments/1omma2p/webrtc_serverless_multiplayer_game_with_webrtc/)
 - [I’ve released a game where players write real JavaScript code to battle other players online.](https://www.reddit.com/r/javascript/comments/1olyn2q/ive_released_a_game_where_players_write_real/)
 - [Markdrop - A powerful visual markdown editor and builder](https://www.reddit.com/r/javascript/comments/1olxwym/markdrop_a_powerful_visual_markdown_editor_and/)
 - [I built this simple react package for text animation](https://www.reddit.com/r/javascript/comments/1olrwvd/i_built_this_simple_react_package_for_text/)
 - [Ucom - Utterly Unified Components](https://www.reddit.com/r/javascript/comments/1olq86k/ucom_utterly_unified_components/)
 - [I built an open-source GitHub analysis platform in Node.js/React that lets you analyze, compare, and rank developer stats.](https://www.reddit.com/r/javascript/comments/1olp0gg/i_built_an_opensource_github_analysis_platform_in/)
 - [Alpine + HTMX = Helium](https://www.reddit.com/r/javascript/comments/1olonbo/alpine_htmx_helium/)
-- [[AskJS] How does Tampermonkey manage to inject userscripts containing external dependencies?](https://www.reddit.com/r/javascript/comments/1olo21w/askjs_how_does_tampermonkey_manage_to_inject/)
-- [Showoff Saturday &lpar;November 01, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1olhd48/showoff_saturday_november_01_2025/)
-- [Rethinking async loops in JavaScript](https://www.reddit.com/r/javascript/comments/1okrzt6/rethinking_async_loops_in_javascript/)
-- [Realtime BLE based Particulate Monitor with JavaScript](https://www.reddit.com/r/javascript/comments/1okr079/realtime_ble_based_particulate_monitor_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
