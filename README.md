@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Why Do you like javascript?](https://www.reddit.com/r/javascript/comments/1oogwvl/askjs_why_do_you_like_javascript/)
+- [How devtools map minified JS code back to your TypeScript source code](https://www.reddit.com/r/javascript/comments/1ooa4nj/how_devtools_map_minified_js_code_back_to_your/)
+- [[Library] Yupee 1.0: A minimalist JavaScript framework for building component-based apps](https://www.reddit.com/r/javascript/comments/1oo7g57/library_yupee_10_a_minimalist_javascript/)
+- [I built a tool to send files and directories across the room and across internet. Unlimited transfers, fast open-source and free.](https://www.reddit.com/r/javascript/comments/1oo4ic4/i_built_a_tool_to_send_files_and_directories/)
+- [[AskJS] Notes/books for learning js](https://www.reddit.com/r/javascript/comments/1oo0tba/askjs_notesbooks_for_learning_js/)
 - [[AskJS] willing to help you with bugs or questions about JavaScript.](https://www.reddit.com/r/javascript/comments/1onr7yb/askjs_willing_to_help_you_with_bugs_or_questions/)
 - [Your /r/javascript recap for the week of October 27 - November 02, 2025](https://www.reddit.com/r/javascript/comments/1on7va4/your_rjavascript_recap_for_the_week_of_october_27/)
 - [What the hardest thing the tech?](https://www.reddit.com/r/javascript/comments/1on5375/what_the_hardest_thing_the_tech/)
 - [Russian students began to learn Cyrillic [JavaScript] programming](https://www.reddit.com/r/javascript/comments/1omw71y/russian_students_began_to_learn_cyrillic/)
 - [Torque — a declarative TypeScript DSL for generating synthetic datasets &lpar;Zod, Faker&rpar;](https://www.reddit.com/r/javascript/comments/1omnwo8/torque_a_declarative_typescript_dsl_for/)
-- [SyncPit - Ephemeral shared whiteboards powered by Yjs](https://www.reddit.com/r/javascript/comments/1omn22v/syncpit_ephemeral_shared_whiteboards_powered_by/)
-- [WebRTC: Serverless Multiplayer Game with WebRTC and Barcodes](https://www.reddit.com/r/javascript/comments/1omma2p/webrtc_serverless_multiplayer_game_with_webrtc/)
-- [I’ve released a game where players write real JavaScript code to battle other players online.](https://www.reddit.com/r/javascript/comments/1olyn2q/ive_released_a_game_where_players_write_real/)
-- [Markdrop - A powerful visual markdown editor and builder](https://www.reddit.com/r/javascript/comments/1olxwym/markdrop_a_powerful_visual_markdown_editor_and/)
-- [I built this simple react package for text animation](https://www.reddit.com/r/javascript/comments/1olrwvd/i_built_this_simple_react_package_for_text/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
