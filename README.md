@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ovr v5 - The Streaming Framework](https://www.reddit.com/r/javascript/comments/1opfq80/ovr_v5_the_streaming_framework/)
+- [[AskJS] How do you streamline debugging console errors?](https://www.reddit.com/r/javascript/comments/1opex11/askjs_how_do_you_streamline_debugging_console/)
+- [[AskJS] How do you keep your code truly “yours” when AI generates parts of it?](https://www.reddit.com/r/javascript/comments/1opdzoj/askjs_how_do_you_keep_your_code_truly_yours_when/)
+- [[AskJS] Anyone has done wrk http load testing before?](https://www.reddit.com/r/javascript/comments/1opagrm/askjs_anyone_has_done_wrk_http_load_testing_before/)
+- [Fast, lightweight, and responsive Masonry Grid now available for SolidJS!](https://www.reddit.com/r/javascript/comments/1op52hx/fast_lightweight_and_responsive_masonry_grid_now/)
+- [A Practical Guide to LLM Tool Integration in Javascript](https://www.reddit.com/r/javascript/comments/1ooz69a/a_practical_guide_to_llm_tool_integration_in/)
 - [[AskJS] Why Do you like javascript?](https://www.reddit.com/r/javascript/comments/1oogwvl/askjs_why_do_you_like_javascript/)
 - [How devtools map minified JS code back to your TypeScript source code](https://www.reddit.com/r/javascript/comments/1ooa4nj/how_devtools_map_minified_js_code_back_to_your/)
-- [[Library] Yupee 1.0: A minimalist JavaScript framework for building component-based apps](https://www.reddit.com/r/javascript/comments/1oo7g57/library_yupee_10_a_minimalist_javascript/)
 - [I built a tool to send files and directories across the room and across internet. Unlimited transfers, fast open-source and free.](https://www.reddit.com/r/javascript/comments/1oo4ic4/i_built_a_tool_to_send_files_and_directories/)
 - [[AskJS] Notes/books for learning js](https://www.reddit.com/r/javascript/comments/1oo0tba/askjs_notesbooks_for_learning_js/)
-- [[AskJS] willing to help you with bugs or questions about JavaScript.](https://www.reddit.com/r/javascript/comments/1onr7yb/askjs_willing_to_help_you_with_bugs_or_questions/)
-- [Your /r/javascript recap for the week of October 27 - November 02, 2025](https://www.reddit.com/r/javascript/comments/1on7va4/your_rjavascript_recap_for_the_week_of_october_27/)
-- [What the hardest thing the tech?](https://www.reddit.com/r/javascript/comments/1on5375/what_the_hardest_thing_the_tech/)
-- [Russian students began to learn Cyrillic [JavaScript] programming](https://www.reddit.com/r/javascript/comments/1omw71y/russian_students_began_to_learn_cyrillic/)
-- [Torque — a declarative TypeScript DSL for generating synthetic datasets &lpar;Zod, Faker&rpar;](https://www.reddit.com/r/javascript/comments/1omnwo8/torque_a_declarative_typescript_dsl_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
