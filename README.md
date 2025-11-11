@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I built a UI site with 100+ copy-ready components/blocks and a builder](https://www.reddit.com/r/javascript/comments/1os4wn6/i_built_a_ui_site_with_100_copyready/)
-- [Twitch Chat Translator – Break Language Barriers!](https://www.reddit.com/r/javascript/comments/1orqsso/twitch_chat_translator_break_language_barriers/)
-- [Built a framework-agnostic chat web component](https://www.reddit.com/r/javascript/comments/1orpvw9/built_a_frameworkagnostic_chat_web_component/)
-- [Showoff Saturday &lpar;November 08, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1orjsg6/showoff_saturday_november_08_2025/)
-- [testing-mcp -- Write complex integration tests for web app](https://www.reddit.com/r/javascript/comments/1or0jgl/testingmcp_write_complex_integration_tests_for/)
-- [The Clipboard API: How Did We Get Here?](https://www.reddit.com/r/javascript/comments/1oqxprr/the_clipboard_api_how_did_we_get_here/)
-- [I built Scrype, a library for devs who want a cool way to showcase their code. Looking for feedback!](https://www.reddit.com/r/javascript/comments/1oqxbqu/i_built_scrype_a_library_for_devs_who_want_a_cool/)
-- [A Stream-Oriented UI library](https://www.reddit.com/r/javascript/comments/1oquuwr/a_streamoriented_ui_library/)
-- [[AskJS] Rate my .env parser](https://www.reddit.com/r/javascript/comments/1oqu5ff/askjs_rate_my_env_parser/)
-- [I tried Atlas and Comet, than built my own Chrome Extension that does it better](https://www.reddit.com/r/javascript/comments/1oq2df3/i_tried_atlas_and_comet_than_built_my_own_chrome/)
+- [Open-source tool that turns your local code into an interactive knowledge base](https://www.reddit.com/r/javascript/comments/1otrjr6/opensource_tool_that_turns_your_local_code_into/)
+- [5 Secure-Coding Habits For Every JavaScript Developer](https://www.reddit.com/r/javascript/comments/1otm8t0/5_securecoding_habits_for_every_javascript/)
+- [Hire Me in Japan](https://www.reddit.com/r/javascript/comments/1otm7uq/hire_me_in_japan/)
+- [slidef: Transform PDF presentations into embeddable web slides](https://www.reddit.com/r/javascript/comments/1otevwg/slidef_transform_pdf_presentations_into/)
+- [[AskJS] Hoping for better type coercion](https://www.reddit.com/r/javascript/comments/1otdutu/askjs_hoping_for_better_type_coercion/)
+- [[AskJS] Is Knex.js still maintained ?](https://www.reddit.com/r/javascript/comments/1otdg0z/askjs_is_knexjs_still_maintained/)
+- [I have created a modern masonry grid library](https://www.reddit.com/r/javascript/comments/1otbc20/i_have_created_a_modern_masonry_grid_library/)
+- [Your /r/javascript recap for the week of November 03 - November 09, 2025](https://www.reddit.com/r/javascript/comments/1ot9z5a/your_rjavascript_recap_for_the_week_of_november/)
+- [388 Tickets in 6 Weeks: Context Engineering Done Right](https://www.reddit.com/r/javascript/comments/1ot9wrt/388_tickets_in_6_weeks_context_engineering_done/)
+- [My first Chrome Extension! Transform everything into a text-only article](https://www.reddit.com/r/javascript/comments/1ot9mvo/my_first_chrome_extension_transform_everything/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
