@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I created a Monkey Type for programmers! &lpar;with cool IDE-like behavior&rpar;](https://www.reddit.com/r/javascript/comments/1ouo08m/i_created_a_monkey_type_for_programmers_with_cool/)
+- [Use the Agent2Agent&lpar;A2A&rpar; protocol with any OpenAI API compatible endpoint](https://www.reddit.com/r/javascript/comments/1oum9iv/use_the_agent2agenta2a_protocol_with_any_openai/)
+- [MikroORM 6.6 released: better filters, accessors and entity generator](https://www.reddit.com/r/javascript/comments/1ough1n/mikroorm_66_released_better_filters_accessors_and/)
+- [Zero-dependency module to redact PII before it hits your LLM. 186 downloads in 2 days. Would love your feedback!](https://www.reddit.com/r/javascript/comments/1oud3wc/zerodependency_module_to_redact_pii_before_it/)
+- [[AskJS] How Do You Extract Text From Between HTML Tags?](https://www.reddit.com/r/javascript/comments/1oucxvp/askjs_how_do_you_extract_text_from_between_html/)
+- [LogTape 1.2.0: Nested property access and context isolation](https://www.reddit.com/r/javascript/comments/1ouaqsv/logtape_120_nested_property_access_and_context/)
+- [JavaScript Fundamentals: A Comprehensive Guide](https://www.reddit.com/r/javascript/comments/1ou28pu/javascript_fundamentals_a_comprehensive_guide/)
 - [Open-source tool that turns your local code into an interactive knowledge base](https://www.reddit.com/r/javascript/comments/1otrjr6/opensource_tool_that_turns_your_local_code_into/)
 - [5 Secure-Coding Habits For Every JavaScript Developer](https://www.reddit.com/r/javascript/comments/1otm8t0/5_securecoding_habits_for_every_javascript/)
 - [Hire Me in Japan](https://www.reddit.com/r/javascript/comments/1otm7uq/hire_me_in_japan/)
-- [slidef: Transform PDF presentations into embeddable web slides](https://www.reddit.com/r/javascript/comments/1otevwg/slidef_transform_pdf_presentations_into/)
-- [[AskJS] Hoping for better type coercion](https://www.reddit.com/r/javascript/comments/1otdutu/askjs_hoping_for_better_type_coercion/)
-- [[AskJS] Is Knex.js still maintained ?](https://www.reddit.com/r/javascript/comments/1otdg0z/askjs_is_knexjs_still_maintained/)
-- [I have created a modern masonry grid library](https://www.reddit.com/r/javascript/comments/1otbc20/i_have_created_a_modern_masonry_grid_library/)
-- [Your /r/javascript recap for the week of November 03 - November 09, 2025](https://www.reddit.com/r/javascript/comments/1ot9z5a/your_rjavascript_recap_for_the_week_of_november/)
-- [388 Tickets in 6 Weeks: Context Engineering Done Right](https://www.reddit.com/r/javascript/comments/1ot9wrt/388_tickets_in_6_weeks_context_engineering_done/)
-- [My first Chrome Extension! Transform everything into a text-only article](https://www.reddit.com/r/javascript/comments/1ot9mvo/my_first_chrome_extension_transform_everything/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
