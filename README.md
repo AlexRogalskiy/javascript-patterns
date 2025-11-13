@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I&#39;ve created a modern masonry grid again — this time CSS-only.](https://www.reddit.com/r/javascript/comments/1ovgg38/ive_created_a_modern_masonry_grid_again_this_time/)
+- [Immutable Records &amp; Tuples that compare-by-value in O&lpar;1&rpar; via ===, WITH SCHEMAS!](https://www.reddit.com/r/javascript/comments/1ovep1j/immutable_records_tuples_that_comparebyvalue_in/)
+- [LocalSpace: A TypeScript-first, drop-in upgrade to localForage for modern async storage.](https://www.reddit.com/r/javascript/comments/1ovbnmy/localspace_a_typescriptfirst_dropin_upgrade_to/)
+- [[AskJS] Storing logic to a database](https://www.reddit.com/r/javascript/comments/1ov8vg0/askjs_storing_logic_to_a_database/)
+- [Open source tool that allows you to go from frontend components to the component source code](https://www.reddit.com/r/javascript/comments/1ov8met/open_source_tool_that_allows_you_to_go_from/)
+- [I built a code review platform without subscriptions](https://www.reddit.com/r/javascript/comments/1ov0tqy/i_built_a_code_review_platform_without/)
+- [[AskJS] Is AI-generated test coverage meaningful or just vanity metrics?](https://www.reddit.com/r/javascript/comments/1ouzssd/askjs_is_aigenerated_test_coverage_meaningful_or/)
+- [Created a Chrome extension for Selectively Blurring Gmail Messages](https://www.reddit.com/r/javascript/comments/1ouxrqb/created_a_chrome_extension_for_selectively/)
 - [I created a Monkey Type for programmers! &lpar;with cool IDE-like behavior&rpar;](https://www.reddit.com/r/javascript/comments/1ouo08m/i_created_a_monkey_type_for_programmers_with_cool/)
 - [Use the Agent2Agent&lpar;A2A&rpar; protocol with any OpenAI API compatible endpoint](https://www.reddit.com/r/javascript/comments/1oum9iv/use_the_agent2agenta2a_protocol_with_any_openai/)
-- [MikroORM 6.6 released: better filters, accessors and entity generator](https://www.reddit.com/r/javascript/comments/1ough1n/mikroorm_66_released_better_filters_accessors_and/)
-- [Zero-dependency module to redact PII before it hits your LLM. 186 downloads in 2 days. Would love your feedback!](https://www.reddit.com/r/javascript/comments/1oud3wc/zerodependency_module_to_redact_pii_before_it/)
-- [[AskJS] How Do You Extract Text From Between HTML Tags?](https://www.reddit.com/r/javascript/comments/1oucxvp/askjs_how_do_you_extract_text_from_between_html/)
-- [LogTape 1.2.0: Nested property access and context isolation](https://www.reddit.com/r/javascript/comments/1ouaqsv/logtape_120_nested_property_access_and_context/)
-- [JavaScript Fundamentals: A Comprehensive Guide](https://www.reddit.com/r/javascript/comments/1ou28pu/javascript_fundamentals_a_comprehensive_guide/)
-- [Open-source tool that turns your local code into an interactive knowledge base](https://www.reddit.com/r/javascript/comments/1otrjr6/opensource_tool_that_turns_your_local_code_into/)
-- [5 Secure-Coding Habits For Every JavaScript Developer](https://www.reddit.com/r/javascript/comments/1otm8t0/5_securecoding_habits_for_every_javascript/)
-- [Hire Me in Japan](https://www.reddit.com/r/javascript/comments/1otm7uq/hire_me_in_japan/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
