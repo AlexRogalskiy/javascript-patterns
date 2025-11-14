@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Introducing: @monitext/nprint a consistent console/terminal styling lib](https://www.reddit.com/r/javascript/comments/1owkdlz/introducing_monitextnprint_a_consistent/)
+- [What do you all think of these docs as MoroJS?](https://www.reddit.com/r/javascript/comments/1ow8eja/what_do_you_all_think_of_these_docs_as_morojs/)
+- [I built a VS Code extension with TS that turns your code into interactive flowcharts and visualizes your entire codebase dependencies](https://www.reddit.com/r/javascript/comments/1ovqwvd/i_built_a_vs_code_extension_with_ts_that_turns/)
 - [I&#39;ve created a modern masonry grid again — this time CSS-only.](https://www.reddit.com/r/javascript/comments/1ovgg38/ive_created_a_modern_masonry_grid_again_this_time/)
 - [Immutable Records &amp; Tuples that compare-by-value in O&lpar;1&rpar; via ===, WITH SCHEMAS!](https://www.reddit.com/r/javascript/comments/1ovep1j/immutable_records_tuples_that_comparebyvalue_in/)
 - [LocalSpace: A TypeScript-first, drop-in upgrade to localForage for modern async storage.](https://www.reddit.com/r/javascript/comments/1ovbnmy/localspace_a_typescriptfirst_dropin_upgrade_to/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Open source tool that allows you to go from frontend components to the component source code](https://www.reddit.com/r/javascript/comments/1ov8met/open_source_tool_that_allows_you_to_go_from/)
 - [I built a code review platform without subscriptions](https://www.reddit.com/r/javascript/comments/1ov0tqy/i_built_a_code_review_platform_without/)
 - [[AskJS] Is AI-generated test coverage meaningful or just vanity metrics?](https://www.reddit.com/r/javascript/comments/1ouzssd/askjs_is_aigenerated_test_coverage_meaningful_or/)
-- [Created a Chrome extension for Selectively Blurring Gmail Messages](https://www.reddit.com/r/javascript/comments/1ouxrqb/created_a_chrome_extension_for_selectively/)
-- [I created a Monkey Type for programmers! &lpar;with cool IDE-like behavior&rpar;](https://www.reddit.com/r/javascript/comments/1ouo08m/i_created_a_monkey_type_for_programmers_with_cool/)
-- [Use the Agent2Agent&lpar;A2A&rpar; protocol with any OpenAI API compatible endpoint](https://www.reddit.com/r/javascript/comments/1oum9iv/use_the_agent2agenta2a_protocol_with_any_openai/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
