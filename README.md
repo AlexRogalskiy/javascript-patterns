@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I Made a CLI Tool That Fixes Dependency Conflicts!](https://www.reddit.com/r/javascript/comments/1owv3du/i_made_a_cli_tool_that_fixes_dependency_conflicts/)
+- [[AskJS] Promises as Mutexes / Queues?](https://www.reddit.com/r/javascript/comments/1owu523/askjs_promises_as_mutexes_queues/)
 - [Introducing: @monitext/nprint a consistent console/terminal styling lib](https://www.reddit.com/r/javascript/comments/1owkdlz/introducing_monitextnprint_a_consistent/)
 - [What do you all think of these docs as MoroJS?](https://www.reddit.com/r/javascript/comments/1ow8eja/what_do_you_all_think_of_these_docs_as_morojs/)
 - [I built a VS Code extension with TS that turns your code into interactive flowcharts and visualizes your entire codebase dependencies](https://www.reddit.com/r/javascript/comments/1ovqwvd/i_built_a_vs_code_extension_with_ts_that_turns/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [LocalSpace: A TypeScript-first, drop-in upgrade to localForage for modern async storage.](https://www.reddit.com/r/javascript/comments/1ovbnmy/localspace_a_typescriptfirst_dropin_upgrade_to/)
 - [[AskJS] Storing logic to a database](https://www.reddit.com/r/javascript/comments/1ov8vg0/askjs_storing_logic_to_a_database/)
 - [Open source tool that allows you to go from frontend components to the component source code](https://www.reddit.com/r/javascript/comments/1ov8met/open_source_tool_that_allows_you_to_go_from/)
-- [I built a code review platform without subscriptions](https://www.reddit.com/r/javascript/comments/1ov0tqy/i_built_a_code_review_platform_without/)
-- [[AskJS] Is AI-generated test coverage meaningful or just vanity metrics?](https://www.reddit.com/r/javascript/comments/1ouzssd/askjs_is_aigenerated_test_coverage_meaningful_or/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
