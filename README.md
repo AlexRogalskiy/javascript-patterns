@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I&#39;m fuming. Yes, another JavaScript crossword generator.](https://www.reddit.com/r/javascript/comments/1oy76ss/im_fuming_yes_another_javascript_crossword/)
+- [Hey guys, I released a modern lightweight dialog component](https://www.reddit.com/r/javascript/comments/1oy6e8x/hey_guys_i_released_a_modern_lightweight_dialog/)
+- [Scan your package.json No set up needed!](https://www.reddit.com/r/javascript/comments/1oy1jia/scan_your_packagejson_no_set_up_needed/)
+- [Showoff Saturday &lpar;November 15, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1oxm2wh/showoff_saturday_november_15_2025/)
+- [Another one!! Now it&#39;s my turn to make a Sudoku Generator in Javascript](https://www.reddit.com/r/javascript/comments/1oxhzlg/another_one_now_its_my_turn_to_make_a_sudoku/)
 - [I Made a CLI Tool That Fixes Dependency Conflicts!](https://www.reddit.com/r/javascript/comments/1owv3du/i_made_a_cli_tool_that_fixes_dependency_conflicts/)
 - [[AskJS] Promises as Mutexes / Queues?](https://www.reddit.com/r/javascript/comments/1owu523/askjs_promises_as_mutexes_queues/)
 - [Introducing: @monitext/nprint a consistent console/terminal styling lib](https://www.reddit.com/r/javascript/comments/1owkdlz/introducing_monitextnprint_a_consistent/)
 - [What do you all think of these docs as MoroJS?](https://www.reddit.com/r/javascript/comments/1ow8eja/what_do_you_all_think_of_these_docs_as_morojs/)
 - [I built a VS Code extension with TS that turns your code into interactive flowcharts and visualizes your entire codebase dependencies](https://www.reddit.com/r/javascript/comments/1ovqwvd/i_built_a_vs_code_extension_with_ts_that_turns/)
-- [I&#39;ve created a modern masonry grid again — this time CSS-only.](https://www.reddit.com/r/javascript/comments/1ovgg38/ive_created_a_modern_masonry_grid_again_this_time/)
-- [Immutable Records &amp; Tuples that compare-by-value in O&lpar;1&rpar; via ===, WITH SCHEMAS!](https://www.reddit.com/r/javascript/comments/1ovep1j/immutable_records_tuples_that_comparebyvalue_in/)
-- [LocalSpace: A TypeScript-first, drop-in upgrade to localForage for modern async storage.](https://www.reddit.com/r/javascript/comments/1ovbnmy/localspace_a_typescriptfirst_dropin_upgrade_to/)
-- [[AskJS] Storing logic to a database](https://www.reddit.com/r/javascript/comments/1ov8vg0/askjs_storing_logic_to_a_database/)
-- [Open source tool that allows you to go from frontend components to the component source code](https://www.reddit.com/r/javascript/comments/1ov8met/open_source_tool_that_allows_you_to_go_from/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
