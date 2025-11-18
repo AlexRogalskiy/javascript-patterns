@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I created Stiches, a modern, hassle-free Next.js boilerplate designed to help you develop web experiences fast.](https://www.reddit.com/r/javascript/comments/1oyuzxt/i_created_stiches_a_modern_hasslefree_nextjs/)
-- [Natural PI &lpar;product internationalization&rpar; package with Project Fluent FTL and React.js boilerplate](https://www.reddit.com/r/javascript/comments/1oyl1wy/natural_pi_product_internationalization_package/)
-- [[AskJS] Route labelling in order to follow restful conventions?](https://www.reddit.com/r/javascript/comments/1oycqoo/askjs_route_labelling_in_order_to_follow_restful/)
-- [I made an npm module to calculate the Australian/New Zealand Health Star Rating of foods/drinks](https://www.reddit.com/r/javascript/comments/1oychqf/i_made_an_npm_module_to_calculate_the/)
-- [I&#39;m fuming. Yes, another JavaScript crossword generator.](https://www.reddit.com/r/javascript/comments/1oy76ss/im_fuming_yes_another_javascript_crossword/)
-- [Scan your package.json No set up needed!](https://www.reddit.com/r/javascript/comments/1oy1jia/scan_your_packagejson_no_set_up_needed/)
-- [Showoff Saturday &lpar;November 15, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1oxm2wh/showoff_saturday_november_15_2025/)
-- [Another one!! Now it&#39;s my turn to make a Sudoku Generator in Javascript](https://www.reddit.com/r/javascript/comments/1oxhzlg/another_one_now_its_my_turn_to_make_a_sudoku/)
-- [I Made a CLI Tool That Fixes Dependency Conflicts!](https://www.reddit.com/r/javascript/comments/1owv3du/i_made_a_cli_tool_that_fixes_dependency_conflicts/)
-- [[AskJS] Promises as Mutexes / Queues?](https://www.reddit.com/r/javascript/comments/1owu523/askjs_promises_as_mutexes_queues/)
+- [[AskJS] Looking for a service to host a simple 24/7 Node.js server for an indie game for free](https://www.reddit.com/r/javascript/comments/1ozz92s/askjs_looking_for_a_service_to_host_a_simple_247/)
+- [ElementSnap JavaScript library for selecting DOM elements and capturing their details](https://www.reddit.com/r/javascript/comments/1ozx4vk/elementsnap_javascript_library_for_selecting_dom/)
+- [Programming on Paper](https://www.reddit.com/r/javascript/comments/1ozw413/programming_on_paper/)
+- [I accidentally found a userscript that completely kills YouTube animated thumbnails &amp; channel trailers &lpar;no login, no settings needed&rpar;](https://www.reddit.com/r/javascript/comments/1ozvf4s/i_accidentally_found_a_userscript_that_completely/)
+- [AI Vibe Software Development Coding Repair](https://www.reddit.com/r/javascript/comments/1ozsxe6/ai_vibe_software_development_coding_repair/)
+- [I got tired of js frameworks… so I wrote my own in Kotlin](https://www.reddit.com/r/javascript/comments/1ozs8vx/i_got_tired_of_js_frameworks_so_i_wrote_my_own_in/)
+- [Built an addition calculator over the weekend](https://www.reddit.com/r/javascript/comments/1ozmqd2/built_an_addition_calculator_over_the_weekend/)
+- [OpenMicrofrontends Specification - First major release](https://www.reddit.com/r/javascript/comments/1ozli2p/openmicrofrontends_specification_first_major/)
+- [[AskJS] Web devs, what’s one thing you wish you learned years earlier because it would&#39;ve saved you insane amounts of time?](https://www.reddit.com/r/javascript/comments/1ozkbq5/askjs_web_devs_whats_one_thing_you_wish_you/)
+- [[AskJS] I built Random Programming Duels](https://www.reddit.com/r/javascript/comments/1oziahj/askjs_i_built_random_programming_duels/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
