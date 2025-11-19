@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Create beautiful console.log browser messages with this library I made](https://www.reddit.com/r/javascript/comments/1p0pbf3/create_beautiful_consolelog_browser_messages_with/)
+- [Introducing: Tiny FSM library for Svelte](https://www.reddit.com/r/javascript/comments/1p0jayi/introducing_tiny_fsm_library_for_svelte/)
+- [[AskJS] Could someone tell me how to do things concurrently with multiple iframes?](https://www.reddit.com/r/javascript/comments/1p0cy51/askjs_could_someone_tell_me_how_to_do_things/)
+- [I built an AI-powered QA system that uses OpenAI/Claude to test web apps with a simple vocal instruction [Open Source]](https://www.reddit.com/r/javascript/comments/1p0csed/i_built_an_aipowered_qa_system_that_uses/)
+- [JavaScript failed your tests](https://www.reddit.com/r/javascript/comments/1p05yqx/javascript_failed_your_tests/)
 - [[AskJS] Looking for a service to host a simple 24/7 Node.js server for an indie game for free](https://www.reddit.com/r/javascript/comments/1ozz92s/askjs_looking_for_a_service_to_host_a_simple_247/)
 - [ElementSnap JavaScript library for selecting DOM elements and capturing their details](https://www.reddit.com/r/javascript/comments/1ozx4vk/elementsnap_javascript_library_for_selecting_dom/)
 - [Programming on Paper](https://www.reddit.com/r/javascript/comments/1ozw413/programming_on_paper/)
 - [I accidentally found a userscript that completely kills YouTube animated thumbnails &amp; channel trailers &lpar;no login, no settings needed&rpar;](https://www.reddit.com/r/javascript/comments/1ozvf4s/i_accidentally_found_a_userscript_that_completely/)
 - [AI Vibe Software Development Coding Repair](https://www.reddit.com/r/javascript/comments/1ozsxe6/ai_vibe_software_development_coding_repair/)
-- [I got tired of js frameworks… so I wrote my own in Kotlin](https://www.reddit.com/r/javascript/comments/1ozs8vx/i_got_tired_of_js_frameworks_so_i_wrote_my_own_in/)
-- [Built an addition calculator over the weekend](https://www.reddit.com/r/javascript/comments/1ozmqd2/built_an_addition_calculator_over_the_weekend/)
-- [OpenMicrofrontends Specification - First major release](https://www.reddit.com/r/javascript/comments/1ozli2p/openmicrofrontends_specification_first_major/)
-- [[AskJS] Web devs, what’s one thing you wish you learned years earlier because it would&#39;ve saved you insane amounts of time?](https://www.reddit.com/r/javascript/comments/1ozkbq5/askjs_web_devs_whats_one_thing_you_wish_you/)
-- [[AskJS] I built Random Programming Duels](https://www.reddit.com/r/javascript/comments/1oziahj/askjs_i_built_random_programming_duels/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
