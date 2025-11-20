@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Moving Beyond the NPM elliptic Package [to mitigate unfixed security issues]](https://www.reddit.com/r/javascript/comments/1p1o7ap/moving_beyond_the_npm_elliptic_package_to/)
+- [A lightweight high-performance object/JSON viewer for React &lpar;virtualized tree view&rpar;](https://www.reddit.com/r/javascript/comments/1p138ht/a_lightweight_highperformance_objectjson_viewer/)
+- [Better DOM Morphing with Morphlex](https://www.reddit.com/r/javascript/comments/1p122ce/better_dom_morphing_with_morphlex/)
 - [Create beautiful console.log browser messages with this library I made](https://www.reddit.com/r/javascript/comments/1p0pbf3/create_beautiful_consolelog_browser_messages_with/)
 - [Introducing: Tiny FSM library for Svelte](https://www.reddit.com/r/javascript/comments/1p0jayi/introducing_tiny_fsm_library_for_svelte/)
 - [[AskJS] Could someone tell me how to do things concurrently with multiple iframes?](https://www.reddit.com/r/javascript/comments/1p0cy51/askjs_could_someone_tell_me_how_to_do_things/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [JavaScript failed your tests](https://www.reddit.com/r/javascript/comments/1p05yqx/javascript_failed_your_tests/)
 - [[AskJS] Looking for a service to host a simple 24/7 Node.js server for an indie game for free](https://www.reddit.com/r/javascript/comments/1ozz92s/askjs_looking_for_a_service_to_host_a_simple_247/)
 - [ElementSnap JavaScript library for selecting DOM elements and capturing their details](https://www.reddit.com/r/javascript/comments/1ozx4vk/elementsnap_javascript_library_for_selecting_dom/)
-- [Programming on Paper](https://www.reddit.com/r/javascript/comments/1ozw413/programming_on_paper/)
-- [I accidentally found a userscript that completely kills YouTube animated thumbnails &amp; channel trailers &lpar;no login, no settings needed&rpar;](https://www.reddit.com/r/javascript/comments/1ozvf4s/i_accidentally_found_a_userscript_that_completely/)
-- [AI Vibe Software Development Coding Repair](https://www.reddit.com/r/javascript/comments/1ozsxe6/ai_vibe_software_development_coding_repair/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
