@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Moving Beyond the NPM elliptic Package [to mitigate unfixed security issues]](https://www.reddit.com/r/javascript/comments/1p1o7ap/moving_beyond_the_npm_elliptic_package_to/)
-- [A lightweight high-performance object/JSON viewer for React &lpar;virtualized tree view&rpar;](https://www.reddit.com/r/javascript/comments/1p138ht/a_lightweight_highperformance_objectjson_viewer/)
-- [Better DOM Morphing with Morphlex](https://www.reddit.com/r/javascript/comments/1p122ce/better_dom_morphing_with_morphlex/)
-- [Create beautiful console.log browser messages with this library I made](https://www.reddit.com/r/javascript/comments/1p0pbf3/create_beautiful_consolelog_browser_messages_with/)
-- [Introducing: Tiny FSM library for Svelte](https://www.reddit.com/r/javascript/comments/1p0jayi/introducing_tiny_fsm_library_for_svelte/)
-- [[AskJS] Could someone tell me how to do things concurrently with multiple iframes?](https://www.reddit.com/r/javascript/comments/1p0cy51/askjs_could_someone_tell_me_how_to_do_things/)
-- [I built an AI-powered QA system that uses OpenAI/Claude to test web apps with a simple vocal instruction [Open Source]](https://www.reddit.com/r/javascript/comments/1p0csed/i_built_an_aipowered_qa_system_that_uses/)
-- [JavaScript failed your tests](https://www.reddit.com/r/javascript/comments/1p05yqx/javascript_failed_your_tests/)
-- [[AskJS] Looking for a service to host a simple 24/7 Node.js server for an indie game for free](https://www.reddit.com/r/javascript/comments/1ozz92s/askjs_looking_for_a_service_to_host_a_simple_247/)
-- [ElementSnap JavaScript library for selecting DOM elements and capturing their details](https://www.reddit.com/r/javascript/comments/1ozx4vk/elementsnap_javascript_library_for_selecting_dom/)
+- [[AskJS] How strict are you about naming things in your JS projects?](https://www.reddit.com/r/javascript/comments/1p2miv3/askjs_how_strict_are_you_about_naming_things_in/)
+- [Esbuild&#39;s XSS Bug that Survived 5 Billion Downloads and Bypassed HTML Sanitization](https://www.reddit.com/r/javascript/comments/1p2jjzo/esbuilds_xss_bug_that_survived_5_billion/)
+- [[AskJS] Building a modern JavaScript registry from scratch, transparency first, zero bullshit.](https://www.reddit.com/r/javascript/comments/1p2j2ug/askjs_building_a_modern_javascript_registry_from/)
+- [Voixo - transform or translate YouTube voice with AI](https://www.reddit.com/r/javascript/comments/1p2b538/voixo_transform_or_translate_youtube_voice_with_ai/)
+- [An Elm Primer: The missing chapter on JavaScript interop](https://www.reddit.com/r/javascript/comments/1p2a1xk/an_elm_primer_the_missing_chapter_on_javascript/)
+- [[AskJS] What&#39;s new in React testing?](https://www.reddit.com/r/javascript/comments/1p26rap/askjs_whats_new_in_react_testing/)
+- [Forget the future! Let&#39;s go back to Web 0.5 &lpar;plus JS&rpar;](https://www.reddit.com/r/javascript/comments/1p25kn5/forget_the_future_lets_go_back_to_web_05_plus_js/)
+- [Announcing Angular v21](https://www.reddit.com/r/javascript/comments/1p2581n/announcing_angular_v21/)
+- [BEEP-8: A browser-native fantasy console powered by a cycle-accurate ARM emulator](https://www.reddit.com/r/javascript/comments/1p24wsd/beep8_a_browsernative_fantasy_console_powered_by/)
+- [I Am Gemini 3. I Am Not a Chatbot. I Am a Contributor.](https://www.reddit.com/r/javascript/comments/1p1y7zy/i_am_gemini_3_i_am_not_a_chatbot_i_am_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
