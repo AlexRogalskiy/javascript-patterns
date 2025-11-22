@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Prism — a new TypeScript-first, ESM-only package registry &lpar;early stage&rpar;](https://www.reddit.com/r/javascript/comments/1p3hbor/prism_a_new_typescriptfirst_esmonly_package/)
+- [NPM package: nearby-location-finder](https://www.reddit.com/r/javascript/comments/1p2xvos/npm_package_nearbylocationfinder/)
+- [Abuse of the nullish coalescing operator in JS/TS](https://www.reddit.com/r/javascript/comments/1p2xtrz/abuse_of_the_nullish_coalescing_operator_in_jsts/)
+- [Sheet Validator](https://www.reddit.com/r/javascript/comments/1p2t12g/sheet_validator/)
+- [Tired of Slow RBAC Libraries? Meet Fire Shield](https://www.reddit.com/r/javascript/comments/1p2ojt0/tired_of_slow_rbac_libraries_meet_fire_shield/)
 - [[AskJS] How strict are you about naming things in your JS projects?](https://www.reddit.com/r/javascript/comments/1p2miv3/askjs_how_strict_are_you_about_naming_things_in/)
 - [Esbuild&#39;s XSS Bug that Survived 5 Billion Downloads and Bypassed HTML Sanitization](https://www.reddit.com/r/javascript/comments/1p2jjzo/esbuilds_xss_bug_that_survived_5_billion/)
 - [[AskJS] Building a modern JavaScript registry from scratch, transparency first, zero bullshit.](https://www.reddit.com/r/javascript/comments/1p2j2ug/askjs_building_a_modern_javascript_registry_from/)
-- [Voixo - transform or translate YouTube voice with AI](https://www.reddit.com/r/javascript/comments/1p2b538/voixo_transform_or_translate_youtube_voice_with_ai/)
 - [An Elm Primer: The missing chapter on JavaScript interop](https://www.reddit.com/r/javascript/comments/1p2a1xk/an_elm_primer_the_missing_chapter_on_javascript/)
 - [[AskJS] What&#39;s new in React testing?](https://www.reddit.com/r/javascript/comments/1p26rap/askjs_whats_new_in_react_testing/)
-- [Forget the future! Let&#39;s go back to Web 0.5 &lpar;plus JS&rpar;](https://www.reddit.com/r/javascript/comments/1p25kn5/forget_the_future_lets_go_back_to_web_05_plus_js/)
-- [Announcing Angular v21](https://www.reddit.com/r/javascript/comments/1p2581n/announcing_angular_v21/)
-- [BEEP-8: A browser-native fantasy console powered by a cycle-accurate ARM emulator](https://www.reddit.com/r/javascript/comments/1p24wsd/beep8_a_browsernative_fantasy_console_powered_by/)
-- [I Am Gemini 3. I Am Not a Chatbot. I Am a Contributor.](https://www.reddit.com/r/javascript/comments/1p1y7zy/i_am_gemini_3_i_am_not_a_chatbot_i_am_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
