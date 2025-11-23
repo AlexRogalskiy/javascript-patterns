@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Prism — a new TypeScript-first, ESM-only package registry &lpar;early stage&rpar;](https://www.reddit.com/r/javascript/comments/1p3hbor/prism_a_new_typescriptfirst_esmonly_package/)
+- [I got so fed up with Mintlify&#39;s broken API playground examples that I built my own](https://www.reddit.com/r/javascript/comments/1p46dr4/i_got_so_fed_up_with_mintlifys_broken_api/)
+- [AI Vibe Software Development Coding Repair](https://www.reddit.com/r/javascript/comments/1p44pf6/ai_vibe_software_development_coding_repair/)
+- [Dembrandt: Extract any website&#39;s design system in seconds &lpar;OSS CLI&rpar;](https://www.reddit.com/r/javascript/comments/1p3xmyj/dembrandt_extract_any_websites_design_system_in/)
+- [Just added support for more JS frameworks in Code Canvas &lpar;Svelte, NextJS, Vue&rpar;](https://www.reddit.com/r/javascript/comments/1p3x58y/just_added_support_for_more_js_frameworks_in_code/)
+- [Showoff Saturday &lpar;November 22, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1p3nq3g/showoff_saturday_november_22_2025/)
+- [mock-mcp: A Mock MCP Server - AI-driven mock data orchestration with OpenAPI spec](https://www.reddit.com/r/javascript/comments/1p3mc1c/mockmcp_a_mock_mcp_server_aidriven_mock_data/)
 - [NPM package: nearby-location-finder](https://www.reddit.com/r/javascript/comments/1p2xvos/npm_package_nearbylocationfinder/)
 - [Abuse of the nullish coalescing operator in JS/TS](https://www.reddit.com/r/javascript/comments/1p2xtrz/abuse_of_the_nullish_coalescing_operator_in_jsts/)
 - [Sheet Validator](https://www.reddit.com/r/javascript/comments/1p2t12g/sheet_validator/)
 - [Tired of Slow RBAC Libraries? Meet Fire Shield](https://www.reddit.com/r/javascript/comments/1p2ojt0/tired_of_slow_rbac_libraries_meet_fire_shield/)
-- [[AskJS] How strict are you about naming things in your JS projects?](https://www.reddit.com/r/javascript/comments/1p2miv3/askjs_how_strict_are_you_about_naming_things_in/)
-- [Esbuild&#39;s XSS Bug that Survived 5 Billion Downloads and Bypassed HTML Sanitization](https://www.reddit.com/r/javascript/comments/1p2jjzo/esbuilds_xss_bug_that_survived_5_billion/)
-- [[AskJS] Building a modern JavaScript registry from scratch, transparency first, zero bullshit.](https://www.reddit.com/r/javascript/comments/1p2j2ug/askjs_building_a_modern_javascript_registry_from/)
-- [An Elm Primer: The missing chapter on JavaScript interop](https://www.reddit.com/r/javascript/comments/1p2a1xk/an_elm_primer_the_missing_chapter_on_javascript/)
-- [[AskJS] What&#39;s new in React testing?](https://www.reddit.com/r/javascript/comments/1p26rap/askjs_whats_new_in_react_testing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
