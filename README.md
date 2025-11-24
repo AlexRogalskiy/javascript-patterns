@@ -277,8 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [On-device TTS model](https://www.reddit.com/r/javascript/comments/1p4od05/ondevice_tts_model/)
+- [Styleframe - Type-safe, composable CSS](https://www.reddit.com/r/javascript/comments/1p4n84h/styleframe_typesafe_composable_css/)
 - [I got so fed up with Mintlify&#39;s broken API playground examples that I built my own](https://www.reddit.com/r/javascript/comments/1p46dr4/i_got_so_fed_up_with_mintlifys_broken_api/)
-- [AI Vibe Software Development Coding Repair](https://www.reddit.com/r/javascript/comments/1p44pf6/ai_vibe_software_development_coding_repair/)
 - [Dembrandt: Extract any website&#39;s design system in seconds &lpar;OSS CLI&rpar;](https://www.reddit.com/r/javascript/comments/1p3xmyj/dembrandt_extract_any_websites_design_system_in/)
 - [Just added support for more JS frameworks in Code Canvas &lpar;Svelte, NextJS, Vue&rpar;](https://www.reddit.com/r/javascript/comments/1p3x58y/just_added_support_for_more_js_frameworks_in_code/)
 - [Showoff Saturday &lpar;November 22, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1p3nq3g/showoff_saturday_november_22_2025/)
@@ -286,7 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [NPM package: nearby-location-finder](https://www.reddit.com/r/javascript/comments/1p2xvos/npm_package_nearbylocationfinder/)
 - [Abuse of the nullish coalescing operator in JS/TS](https://www.reddit.com/r/javascript/comments/1p2xtrz/abuse_of_the_nullish_coalescing_operator_in_jsts/)
 - [Sheet Validator](https://www.reddit.com/r/javascript/comments/1p2t12g/sheet_validator/)
-- [Tired of Slow RBAC Libraries? Meet Fire Shield](https://www.reddit.com/r/javascript/comments/1p2ojt0/tired_of_slow_rbac_libraries_meet_fire_shield/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
