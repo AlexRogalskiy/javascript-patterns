@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Live tiles 3rd implementation re-iteration](https://www.reddit.com/r/javascript/comments/1p5r26s/live_tiles_3rd_implementation_reiteration/)
+- [[AskJS] just want to learn more](https://www.reddit.com/r/javascript/comments/1p5iaki/askjs_just_want_to_learn_more/)
+- [LLMs keep inserting U+00A0 and other garbage - made unllm to fix it](https://www.reddit.com/r/javascript/comments/1p5eu3n/llms_keep_inserting_u00a0_and_other_garbage_made/)
+- [Your /r/javascript recap for the week of November 17 - November 23, 2025](https://www.reddit.com/r/javascript/comments/1p5d7yb/your_rjavascript_recap_for_the_week_of_november/)
 - [On-device TTS model](https://www.reddit.com/r/javascript/comments/1p4od05/ondevice_tts_model/)
 - [Styleframe - Type-safe, composable CSS](https://www.reddit.com/r/javascript/comments/1p4n84h/styleframe_typesafe_composable_css/)
 - [I got so fed up with Mintlify&#39;s broken API playground examples that I built my own](https://www.reddit.com/r/javascript/comments/1p46dr4/i_got_so_fed_up_with_mintlifys_broken_api/)
 - [Dembrandt: Extract any website&#39;s design system in seconds &lpar;OSS CLI&rpar;](https://www.reddit.com/r/javascript/comments/1p3xmyj/dembrandt_extract_any_websites_design_system_in/)
 - [Just added support for more JS frameworks in Code Canvas &lpar;Svelte, NextJS, Vue&rpar;](https://www.reddit.com/r/javascript/comments/1p3x58y/just_added_support_for_more_js_frameworks_in_code/)
 - [Showoff Saturday &lpar;November 22, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1p3nq3g/showoff_saturday_november_22_2025/)
-- [mock-mcp: A Mock MCP Server - AI-driven mock data orchestration with OpenAPI spec](https://www.reddit.com/r/javascript/comments/1p3mc1c/mockmcp_a_mock_mcp_server_aidriven_mock_data/)
-- [NPM package: nearby-location-finder](https://www.reddit.com/r/javascript/comments/1p2xvos/npm_package_nearbylocationfinder/)
-- [Abuse of the nullish coalescing operator in JS/TS](https://www.reddit.com/r/javascript/comments/1p2xtrz/abuse_of_the_nullish_coalescing_operator_in_jsts/)
-- [Sheet Validator](https://www.reddit.com/r/javascript/comments/1p2t12g/sheet_validator/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
