@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Live tiles 3rd implementation re-iteration](https://www.reddit.com/r/javascript/comments/1p5r26s/live_tiles_3rd_implementation_reiteration/)
-- [[AskJS] just want to learn more](https://www.reddit.com/r/javascript/comments/1p5iaki/askjs_just_want_to_learn_more/)
-- [LLMs keep inserting U+00A0 and other garbage - made unllm to fix it](https://www.reddit.com/r/javascript/comments/1p5eu3n/llms_keep_inserting_u00a0_and_other_garbage_made/)
-- [Your /r/javascript recap for the week of November 17 - November 23, 2025](https://www.reddit.com/r/javascript/comments/1p5d7yb/your_rjavascript_recap_for_the_week_of_november/)
-- [On-device TTS model](https://www.reddit.com/r/javascript/comments/1p4od05/ondevice_tts_model/)
-- [Styleframe - Type-safe, composable CSS](https://www.reddit.com/r/javascript/comments/1p4n84h/styleframe_typesafe_composable_css/)
-- [I got so fed up with Mintlify&#39;s broken API playground examples that I built my own](https://www.reddit.com/r/javascript/comments/1p46dr4/i_got_so_fed_up_with_mintlifys_broken_api/)
-- [Dembrandt: Extract any website&#39;s design system in seconds &lpar;OSS CLI&rpar;](https://www.reddit.com/r/javascript/comments/1p3xmyj/dembrandt_extract_any_websites_design_system_in/)
-- [Just added support for more JS frameworks in Code Canvas &lpar;Svelte, NextJS, Vue&rpar;](https://www.reddit.com/r/javascript/comments/1p3x58y/just_added_support_for_more_js_frameworks_in_code/)
-- [Showoff Saturday &lpar;November 22, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1p3nq3g/showoff_saturday_november_22_2025/)
+- [Take a coffe break while installing nothing, Watch an endless, realistic Linux terminal installation that never actually installs anything](https://www.reddit.com/r/javascript/comments/1p6n56u/take_a_coffe_break_while_installing_nothing_watch/)
+- [bgub/ts-base: Starter TS library template. Vitest, Biome, tsdown, CI publishing, JSR, Deno, etc.](https://www.reddit.com/r/javascript/comments/1p6kyad/bgubtsbase_starter_ts_library_template_vitest/)
+- [I got tired of “Why did you add a semicolon?” comments — so I built a tool to end those debates forever.](https://www.reddit.com/r/javascript/comments/1p6izew/i_got_tired_of_why_did_you_add_a_semicolon/)
+- [JS Event Loop Visualizer](https://www.reddit.com/r/javascript/comments/1p6igak/js_event_loop_visualizer/)
+- [I&#39;ve released a Biome plugin to prevent Typescript type assertions](https://www.reddit.com/r/javascript/comments/1p6g3jw/ive_released_a_biome_plugin_to_prevent_typescript/)
+- [Optique 0.7.0: Smarter error messages and validation library integrations](https://www.reddit.com/r/javascript/comments/1p6elip/optique_070_smarter_error_messages_and_validation/)
+- [Bogorg/sha1-hulud-installer: Simple package.json containing all packages affected by the sh1-hulud worm attack.](https://www.reddit.com/r/javascript/comments/1p68wi5/bogorgsha1huludinstaller_simple_packagejson/)
+- [Custom Flappy Bird](https://www.reddit.com/r/javascript/comments/1p66ql7/custom_flappy_bird/)
+- [Sheet Validator](https://www.reddit.com/r/javascript/comments/1p66hx6/sheet_validator/)
+- [[AskJS] Which is best js framework for headless](https://www.reddit.com/r/javascript/comments/1p63q80/askjs_which_is_best_js_framework_for_headless/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
