@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Taking down Next.js servers for 0.0001 cents a pop](https://www.reddit.com/r/javascript/comments/1p7ovqn/taking_down_nextjs_servers_for_00001_cents_a_pop/)
+- [Managing Side Effects: A JavaScript Effect System in 30 Lines or Less](https://www.reddit.com/r/javascript/comments/1p7eaqc/managing_side_effects_a_javascript_effect_system/)
+- [Are your optimizations making any improvement? A simple setup to benchmark two branches with vitest and puppeteer](https://www.reddit.com/r/javascript/comments/1p7c6ew/are_your_optimizations_making_any_improvement_a/)
+- [[AskJS] What’s a JS feature you never use but wish you did?](https://www.reddit.com/r/javascript/comments/1p788t8/askjs_whats_a_js_feature_you_never_use_but_wish/)
 - [Take a coffe break while installing nothing, Watch an endless, realistic Linux terminal installation that never actually installs anything](https://www.reddit.com/r/javascript/comments/1p6n56u/take_a_coffe_break_while_installing_nothing_watch/)
 - [bgub/ts-base: Starter TS library template. Vitest, Biome, tsdown, CI publishing, JSR, Deno, etc.](https://www.reddit.com/r/javascript/comments/1p6kyad/bgubtsbase_starter_ts_library_template_vitest/)
 - [I got tired of “Why did you add a semicolon?” comments — so I built a tool to end those debates forever.](https://www.reddit.com/r/javascript/comments/1p6izew/i_got_tired_of_why_did_you_add_a_semicolon/)
 - [JS Event Loop Visualizer](https://www.reddit.com/r/javascript/comments/1p6igak/js_event_loop_visualizer/)
 - [I&#39;ve released a Biome plugin to prevent Typescript type assertions](https://www.reddit.com/r/javascript/comments/1p6g3jw/ive_released_a_biome_plugin_to_prevent_typescript/)
 - [Optique 0.7.0: Smarter error messages and validation library integrations](https://www.reddit.com/r/javascript/comments/1p6elip/optique_070_smarter_error_messages_and_validation/)
-- [Bogorg/sha1-hulud-installer: Simple package.json containing all packages affected by the sh1-hulud worm attack.](https://www.reddit.com/r/javascript/comments/1p68wi5/bogorgsha1huludinstaller_simple_packagejson/)
-- [Custom Flappy Bird](https://www.reddit.com/r/javascript/comments/1p66ql7/custom_flappy_bird/)
-- [Sheet Validator](https://www.reddit.com/r/javascript/comments/1p66hx6/sheet_validator/)
-- [[AskJS] Which is best js framework for headless](https://www.reddit.com/r/javascript/comments/1p63q80/askjs_which_is_best_js_framework_for_headless/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
