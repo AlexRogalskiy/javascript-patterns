@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Taking down Next.js servers for 0.0001 cents a pop](https://www.reddit.com/r/javascript/comments/1p7ovqn/taking_down_nextjs_servers_for_00001_cents_a_pop/)
-- [Managing Side Effects: A JavaScript Effect System in 30 Lines or Less](https://www.reddit.com/r/javascript/comments/1p7eaqc/managing_side_effects_a_javascript_effect_system/)
-- [Are your optimizations making any improvement? A simple setup to benchmark two branches with vitest and puppeteer](https://www.reddit.com/r/javascript/comments/1p7c6ew/are_your_optimizations_making_any_improvement_a/)
-- [[AskJS] What’s a JS feature you never use but wish you did?](https://www.reddit.com/r/javascript/comments/1p788t8/askjs_whats_a_js_feature_you_never_use_but_wish/)
-- [Take a coffe break while installing nothing, Watch an endless, realistic Linux terminal installation that never actually installs anything](https://www.reddit.com/r/javascript/comments/1p6n56u/take_a_coffe_break_while_installing_nothing_watch/)
-- [bgub/ts-base: Starter TS library template. Vitest, Biome, tsdown, CI publishing, JSR, Deno, etc.](https://www.reddit.com/r/javascript/comments/1p6kyad/bgubtsbase_starter_ts_library_template_vitest/)
-- [I got tired of “Why did you add a semicolon?” comments — so I built a tool to end those debates forever.](https://www.reddit.com/r/javascript/comments/1p6izew/i_got_tired_of_why_did_you_add_a_semicolon/)
-- [JS Event Loop Visualizer](https://www.reddit.com/r/javascript/comments/1p6igak/js_event_loop_visualizer/)
-- [I&#39;ve released a Biome plugin to prevent Typescript type assertions](https://www.reddit.com/r/javascript/comments/1p6g3jw/ive_released_a_biome_plugin_to_prevent_typescript/)
-- [Optique 0.7.0: Smarter error messages and validation library integrations](https://www.reddit.com/r/javascript/comments/1p6elip/optique_070_smarter_error_messages_and_validation/)
+- [URLock : Store encrypted text or file in URL #hash](https://www.reddit.com/r/javascript/comments/1p99jk0/urlock_store_encrypted_text_or_file_in_url_hash/)
+- [[AskJS] Do you know any tools / SaaS to prepare Tech interviews ?](https://www.reddit.com/r/javascript/comments/1p93itx/askjs_do_you_know_any_tools_saas_to_prepare_tech/)
+- [Nomini: The tiny reactive library inspired by htmx, Alpine, and Datastar](https://www.reddit.com/r/javascript/comments/1p90jbi/nomini_the_tiny_reactive_library_inspired_by_htmx/)
+- [[AskJS] How can i learn Javascript?](https://www.reddit.com/r/javascript/comments/1p8ysjw/askjs_how_can_i_learn_javascript/)
+- [Black Friday deals for developers and designers – templates, devtools, courses, books, and more](https://www.reddit.com/r/javascript/comments/1p8v4w7/black_friday_deals_for_developers_and_designers/)
+- [If a tool analyzed your GitHub activity to give you “human insights”, what would you actually want it to tell you?](https://www.reddit.com/r/javascript/comments/1p8urzc/if_a_tool_analyzed_your_github_activity_to_give/)
+- [Bun&#39;s is about to overtake leadership as JS Runtime soon](https://www.reddit.com/r/javascript/comments/1p8tk1d/buns_is_about_to_overtake_leadership_as_js/)
+- [Drone-ambient-noise synthesizer in Javascript: when instability is a feature, not a bug](https://www.reddit.com/r/javascript/comments/1p8swqe/droneambientnoise_synthesizer_in_javascript_when/)
+- [GitHub - ShoryaDs7/schema-extractor: Lightweight tool to convert raw HTML into a machine-readable JSON schema: page type, product cards, buttons, forms, links.](https://www.reddit.com/r/javascript/comments/1p84xu3/github_shoryads7schemaextractor_lightweight_tool/)
+- [The cutest UI component library?](https://www.reddit.com/r/javascript/comments/1p812g8/the_cutest_ui_component_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
