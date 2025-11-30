@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Testing signup forms was driving me crazy, so I automated the entire process &lpar;Chrome extension beta&rpar;](https://www.reddit.com/r/javascript/comments/1pa1sqm/testing_signup_forms_was_driving_me_crazy_so_i/)
+- [Made my first npm package, a filtering input with autocomplete](https://www.reddit.com/r/javascript/comments/1pa0g1x/made_my_first_npm_package_a_filtering_input_with/)
+- [AI Vibe Software Development Coding Repair](https://www.reddit.com/r/javascript/comments/1pa0afe/ai_vibe_software_development_coding_repair/)
+- [[AskJS] People who have been writing code professionally for 10+ years, what practices, knowledge etc do you take for granted that might be useful to newer programmer](https://www.reddit.com/r/javascript/comments/1p9on4s/askjs_people_who_have_been_writing_code/)
+- [Orbyss: A 2D shooter made in JavaScript](https://www.reddit.com/r/javascript/comments/1p9my75/orbyss_a_2d_shooter_made_in_javascript/)
+- [[AskJS] This is kinda fast](https://www.reddit.com/r/javascript/comments/1p9l3tx/askjs_this_is_kinda_fast/)
+- [Showoff Saturday &lpar;November 29, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1p9jdd8/showoff_saturday_november_29_2025/)
 - [URLock : Store encrypted text or file in URL #hash](https://www.reddit.com/r/javascript/comments/1p99jk0/urlock_store_encrypted_text_or_file_in_url_hash/)
 - [[AskJS] Do you know any tools / SaaS to prepare Tech interviews ?](https://www.reddit.com/r/javascript/comments/1p93itx/askjs_do_you_know_any_tools_saas_to_prepare_tech/)
 - [Nomini: The tiny reactive library inspired by htmx, Alpine, and Datastar](https://www.reddit.com/r/javascript/comments/1p90jbi/nomini_the_tiny_reactive_library_inspired_by_htmx/)
-- [[AskJS] How can i learn Javascript?](https://www.reddit.com/r/javascript/comments/1p8ysjw/askjs_how_can_i_learn_javascript/)
-- [Black Friday deals for developers and designers – templates, devtools, courses, books, and more](https://www.reddit.com/r/javascript/comments/1p8v4w7/black_friday_deals_for_developers_and_designers/)
-- [If a tool analyzed your GitHub activity to give you “human insights”, what would you actually want it to tell you?](https://www.reddit.com/r/javascript/comments/1p8urzc/if_a_tool_analyzed_your_github_activity_to_give/)
-- [Bun&#39;s is about to overtake leadership as JS Runtime soon](https://www.reddit.com/r/javascript/comments/1p8tk1d/buns_is_about_to_overtake_leadership_as_js/)
-- [Drone-ambient-noise synthesizer in Javascript: when instability is a feature, not a bug](https://www.reddit.com/r/javascript/comments/1p8swqe/droneambientnoise_synthesizer_in_javascript_when/)
-- [GitHub - ShoryaDs7/schema-extractor: Lightweight tool to convert raw HTML into a machine-readable JSON schema: page type, product cards, buttons, forms, links.](https://www.reddit.com/r/javascript/comments/1p84xu3/github_shoryads7schemaextractor_lightweight_tool/)
-- [The cutest UI component library?](https://www.reddit.com/r/javascript/comments/1p812g8/the_cutest_ui_component_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
