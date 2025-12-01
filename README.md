@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Darkness of the Dungeons - a browser game created using PhaserJS](https://www.reddit.com/r/javascript/comments/1pav51r/darkness_of_the_dungeons_a_browser_game_created/)
+- [I promise not to write stupid things like this JavaScript text-to-speech converter again](https://www.reddit.com/r/javascript/comments/1pau9uy/i_promise_not_to_write_stupid_things_like_this/)
+- [[AskJS] I am making a tool for kids to learn coding as a side project. wanted to see what you all think as a start for learning html, css, and JS?](https://www.reddit.com/r/javascript/comments/1pam55r/askjs_i_am_making_a_tool_for_kids_to_learn_coding/)
 - [Testing signup forms was driving me crazy, so I automated the entire process &lpar;Chrome extension beta&rpar;](https://www.reddit.com/r/javascript/comments/1pa1sqm/testing_signup_forms_was_driving_me_crazy_so_i/)
 - [Made my first npm package, a filtering input with autocomplete](https://www.reddit.com/r/javascript/comments/1pa0g1x/made_my_first_npm_package_a_filtering_input_with/)
 - [AI Vibe Software Development Coding Repair](https://www.reddit.com/r/javascript/comments/1pa0afe/ai_vibe_software_development_coding_repair/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Orbyss: A 2D shooter made in JavaScript](https://www.reddit.com/r/javascript/comments/1p9my75/orbyss_a_2d_shooter_made_in_javascript/)
 - [[AskJS] This is kinda fast](https://www.reddit.com/r/javascript/comments/1p9l3tx/askjs_this_is_kinda_fast/)
 - [Showoff Saturday &lpar;November 29, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1p9jdd8/showoff_saturday_november_29_2025/)
-- [URLock : Store encrypted text or file in URL #hash](https://www.reddit.com/r/javascript/comments/1p99jk0/urlock_store_encrypted_text_or_file_in_url_hash/)
-- [[AskJS] Do you know any tools / SaaS to prepare Tech interviews ?](https://www.reddit.com/r/javascript/comments/1p93itx/askjs_do_you_know_any_tools_saas_to_prepare_tech/)
-- [Nomini: The tiny reactive library inspired by htmx, Alpine, and Datastar](https://www.reddit.com/r/javascript/comments/1p90jbi/nomini_the_tiny_reactive_library_inspired_by_htmx/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
