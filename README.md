@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Convert document and count exact pages](https://www.reddit.com/r/javascript/comments/1pbvz72/askjs_convert_document_and_count_exact_pages/)
+- [First alpha of Oxfmt, the rust-based Prettier-compatible Formatter, released](https://www.reddit.com/r/javascript/comments/1pbid6b/first_alpha_of_oxfmt_the_rustbased/)
+- [Built an open-source Website Understanding SDK - define how agents should understand &amp; act on any website](https://www.reddit.com/r/javascript/comments/1pbfqch/built_an_opensource_website_understanding_sdk/)
+- [Jeasx 2.2.0 released - build long-lasting web experiences with server rendered JSX on top of Fastify](https://www.reddit.com/r/javascript/comments/1pbe7dk/jeasx_220_released_build_longlasting_web/)
+- [Your /r/javascript recap for the week of November 24 - November 30, 2025](https://www.reddit.com/r/javascript/comments/1pb90jo/your_rjavascript_recap_for_the_week_of_november/)
+- [Organizing Files and Modules in Elm: Building an Advent Calendar](https://www.reddit.com/r/javascript/comments/1pb84ey/organizing_files_and_modules_in_elm_building_an/)
+- [[AskJS] Look for alternate javascript framework](https://www.reddit.com/r/javascript/comments/1pb6nzc/askjs_look_for_alternate_javascript_framework/)
+- [Built a DOM→PPTX engine after realizing most HTML-to-PowerPoint tools break on modern CSS](https://www.reddit.com/r/javascript/comments/1pb3jin/built_a_dompptx_engine_after_realizing_most/)
 - [Darkness of the Dungeons - a browser game created using PhaserJS](https://www.reddit.com/r/javascript/comments/1pav51r/darkness_of_the_dungeons_a_browser_game_created/)
 - [I promise not to write stupid things like this JavaScript text-to-speech converter again](https://www.reddit.com/r/javascript/comments/1pau9uy/i_promise_not_to_write_stupid_things_like_this/)
-- [[AskJS] I am making a tool for kids to learn coding as a side project. wanted to see what you all think as a start for learning html, css, and JS?](https://www.reddit.com/r/javascript/comments/1pam55r/askjs_i_am_making_a_tool_for_kids_to_learn_coding/)
-- [Testing signup forms was driving me crazy, so I automated the entire process &lpar;Chrome extension beta&rpar;](https://www.reddit.com/r/javascript/comments/1pa1sqm/testing_signup_forms_was_driving_me_crazy_so_i/)
-- [Made my first npm package, a filtering input with autocomplete](https://www.reddit.com/r/javascript/comments/1pa0g1x/made_my_first_npm_package_a_filtering_input_with/)
-- [AI Vibe Software Development Coding Repair](https://www.reddit.com/r/javascript/comments/1pa0afe/ai_vibe_software_development_coding_repair/)
-- [[AskJS] People who have been writing code professionally for 10+ years, what practices, knowledge etc do you take for granted that might be useful to newer programmer](https://www.reddit.com/r/javascript/comments/1p9on4s/askjs_people_who_have_been_writing_code/)
-- [Orbyss: A 2D shooter made in JavaScript](https://www.reddit.com/r/javascript/comments/1p9my75/orbyss_a_2d_shooter_made_in_javascript/)
-- [[AskJS] This is kinda fast](https://www.reddit.com/r/javascript/comments/1p9l3tx/askjs_this_is_kinda_fast/)
-- [Showoff Saturday &lpar;November 29, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1p9jdd8/showoff_saturday_november_29_2025/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
