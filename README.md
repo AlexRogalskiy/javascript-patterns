@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Bun is joining Anthropic](https://www.reddit.com/r/javascript/comments/1pcpo0i/bun_is_joining_anthropic/)
+- [Essential JavaScript Helpers For Every Developer&#39;s Toolbox](https://www.reddit.com/r/javascript/comments/1pcl98l/essential_javascript_helpers_for_every_developers/)
+- [Anthropic Acquires Bun: Supercharging Claude Code&#39;s $1 Billion AI Coding Revolution](https://www.reddit.com/r/javascript/comments/1pch25q/anthropic_acquires_bun_supercharging_claude_codes/)
+- [I rebuilt localForage from scratch with TypeScript and got 3-10x faster writes with automatic batching](https://www.reddit.com/r/javascript/comments/1pcgpbz/i_rebuilt_localforage_from_scratch_with/)
+- [Announcing DocNode: TypeScript OT library for local-first apps](https://www.reddit.com/r/javascript/comments/1pcfxqr/announcing_docnode_typescript_ot_library_for/)
+- [Progress on TypeScript 7 - December 2025](https://www.reddit.com/r/javascript/comments/1pceqa8/progress_on_typescript_7_december_2025/)
+- [[AskJS] What are the best free JavaScript courses &amp; resources to learn from beginner to expert?](https://www.reddit.com/r/javascript/comments/1pcdzm9/askjs_what_are_the_best_free_javascript_courses/)
+- [Open-source alternative to RunJS](https://www.reddit.com/r/javascript/comments/1pc1w9g/opensource_alternative_to_runjs/)
 - [[AskJS] Convert document and count exact pages](https://www.reddit.com/r/javascript/comments/1pbvz72/askjs_convert_document_and_count_exact_pages/)
 - [First alpha of Oxfmt, the rust-based Prettier-compatible Formatter, released](https://www.reddit.com/r/javascript/comments/1pbid6b/first_alpha_of_oxfmt_the_rustbased/)
-- [Built an open-source Website Understanding SDK - define how agents should understand &amp; act on any website](https://www.reddit.com/r/javascript/comments/1pbfqch/built_an_opensource_website_understanding_sdk/)
-- [Jeasx 2.2.0 released - build long-lasting web experiences with server rendered JSX on top of Fastify](https://www.reddit.com/r/javascript/comments/1pbe7dk/jeasx_220_released_build_longlasting_web/)
-- [Your /r/javascript recap for the week of November 24 - November 30, 2025](https://www.reddit.com/r/javascript/comments/1pb90jo/your_rjavascript_recap_for_the_week_of_november/)
-- [Organizing Files and Modules in Elm: Building an Advent Calendar](https://www.reddit.com/r/javascript/comments/1pb84ey/organizing_files_and_modules_in_elm_building_an/)
-- [[AskJS] Look for alternate javascript framework](https://www.reddit.com/r/javascript/comments/1pb6nzc/askjs_look_for_alternate_javascript_framework/)
-- [Built a DOM→PPTX engine after realizing most HTML-to-PowerPoint tools break on modern CSS](https://www.reddit.com/r/javascript/comments/1pb3jin/built_a_dompptx_engine_after_realizing_most/)
-- [Darkness of the Dungeons - a browser game created using PhaserJS](https://www.reddit.com/r/javascript/comments/1pav51r/darkness_of_the_dungeons_a_browser_game_created/)
-- [I promise not to write stupid things like this JavaScript text-to-speech converter again](https://www.reddit.com/r/javascript/comments/1pau9uy/i_promise_not_to_write_stupid_things_like_this/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
