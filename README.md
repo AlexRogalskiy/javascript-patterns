@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Bun is joining Anthropic](https://www.reddit.com/r/javascript/comments/1pcpo0i/bun_is_joining_anthropic/)
-- [Essential JavaScript Helpers For Every Developer&#39;s Toolbox](https://www.reddit.com/r/javascript/comments/1pcl98l/essential_javascript_helpers_for_every_developers/)
+- [maplibre-gl-layers: Enabling large number of moveable sprites in MapLibre GL JS](https://www.reddit.com/r/javascript/comments/1pdmkar/maplibregllayers_enabling_large_number_of/)
+- [Side project: NumPy for TypeScript/JavaScript](https://www.reddit.com/r/javascript/comments/1pdkk1g/side_project_numpy_for_typescriptjavascript/)
+- [an open-source package to generate a visual editable wiki of your codebase](https://www.reddit.com/r/javascript/comments/1pdi4pe/an_opensource_package_to_generate_a_visual/)
+- [How we built the world&#39;s fastest VIN decoder](https://www.reddit.com/r/javascript/comments/1pdfqc7/how_we_built_the_worlds_fastest_vin_decoder/)
+- [Security Advisory: CVE-2025-66478](https://www.reddit.com/r/javascript/comments/1pd8xxi/security_advisory_cve202566478/)
+- [Critical Vulnerabilities in React and Next.js: everything you need to know - A critical vulnerability has been identified in the React Server Components &lpar;RSC&rpar; &quot;Flight&quot; protocol, affecting the React 19 ecosystem and frameworks that implement it, most notably Next.js](https://www.reddit.com/r/javascript/comments/1pd8k9c/critical_vulnerabilities_in_react_and_nextjs/)
+- [I updated my npm-threat-hunter to detect the Shai-Hulud 2.0 attack. 25,000+ repos infected. It&#39;s still spreading.](https://www.reddit.com/r/javascript/comments/1pd6ppe/i_updated_my_npmthreathunter_to_detect_the/)
+- [The first Vite 8 Beta is out!](https://www.reddit.com/r/javascript/comments/1pd2ok1/the_first_vite_8_beta_is_out/)
+- [Resource for NextJS/ReactJS developers, ShandCN UI block and component finder using AI, You can find all components and blocks in one place. Just taught of sharing this with you guys.](https://www.reddit.com/r/javascript/comments/1pd0s9i/resource_for_nextjsreactjs_developers_shandcn_ui/)
 - [Anthropic Acquires Bun: Supercharging Claude Code&#39;s $1 Billion AI Coding Revolution](https://www.reddit.com/r/javascript/comments/1pch25q/anthropic_acquires_bun_supercharging_claude_codes/)
-- [I rebuilt localForage from scratch with TypeScript and got 3-10x faster writes with automatic batching](https://www.reddit.com/r/javascript/comments/1pcgpbz/i_rebuilt_localforage_from_scratch_with/)
-- [Announcing DocNode: TypeScript OT library for local-first apps](https://www.reddit.com/r/javascript/comments/1pcfxqr/announcing_docnode_typescript_ot_library_for/)
-- [Progress on TypeScript 7 - December 2025](https://www.reddit.com/r/javascript/comments/1pceqa8/progress_on_typescript_7_december_2025/)
-- [[AskJS] What are the best free JavaScript courses &amp; resources to learn from beginner to expert?](https://www.reddit.com/r/javascript/comments/1pcdzm9/askjs_what_are_the_best_free_javascript_courses/)
-- [Open-source alternative to RunJS](https://www.reddit.com/r/javascript/comments/1pc1w9g/opensource_alternative_to_runjs/)
-- [[AskJS] Convert document and count exact pages](https://www.reddit.com/r/javascript/comments/1pbvz72/askjs_convert_document_and_count_exact_pages/)
-- [First alpha of Oxfmt, the rust-based Prettier-compatible Formatter, released](https://www.reddit.com/r/javascript/comments/1pbid6b/first_alpha_of_oxfmt_the_rustbased/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
