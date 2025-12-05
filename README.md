@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [In 1995, a Netscape employee wrote a hack in 10 days that now runs the Internet](https://www.reddit.com/r/javascript/comments/1pe7lds/in_1995_a_netscape_employee_wrote_a_hack_in_10/)
+- [React RCE vul technical blog](https://www.reddit.com/r/javascript/comments/1pe3f1x/react_rce_vul_technical_blog/)
+- [[AskJS] What&#39;s your biggest pain point with CI/CD for JavaScript projects?](https://www.reddit.com/r/javascript/comments/1pdxx20/askjs_whats_your_biggest_pain_point_with_cicd_for/)
+- [EventRecord pattern](https://www.reddit.com/r/javascript/comments/1pdwcw8/eventrecord_pattern/)
+- [Good news: JavaScript is 30 years old today! Sad news: Its own name still doesn&#39;t belong to it](https://www.reddit.com/r/javascript/comments/1pdv1nr/good_news_javascript_is_30_years_old_today_sad/)
 - [maplibre-gl-layers: Enabling large number of moveable sprites in MapLibre GL JS](https://www.reddit.com/r/javascript/comments/1pdmkar/maplibregllayers_enabling_large_number_of/)
 - [Side project: NumPy for TypeScript/JavaScript](https://www.reddit.com/r/javascript/comments/1pdkk1g/side_project_numpy_for_typescriptjavascript/)
 - [an open-source package to generate a visual editable wiki of your codebase](https://www.reddit.com/r/javascript/comments/1pdi4pe/an_opensource_package_to_generate_a_visual/)
 - [How we built the world&#39;s fastest VIN decoder](https://www.reddit.com/r/javascript/comments/1pdfqc7/how_we_built_the_worlds_fastest_vin_decoder/)
 - [Security Advisory: CVE-2025-66478](https://www.reddit.com/r/javascript/comments/1pd8xxi/security_advisory_cve202566478/)
-- [Critical Vulnerabilities in React and Next.js: everything you need to know - A critical vulnerability has been identified in the React Server Components &lpar;RSC&rpar; &quot;Flight&quot; protocol, affecting the React 19 ecosystem and frameworks that implement it, most notably Next.js](https://www.reddit.com/r/javascript/comments/1pd8k9c/critical_vulnerabilities_in_react_and_nextjs/)
-- [I updated my npm-threat-hunter to detect the Shai-Hulud 2.0 attack. 25,000+ repos infected. It&#39;s still spreading.](https://www.reddit.com/r/javascript/comments/1pd6ppe/i_updated_my_npmthreathunter_to_detect_the/)
-- [The first Vite 8 Beta is out!](https://www.reddit.com/r/javascript/comments/1pd2ok1/the_first_vite_8_beta_is_out/)
-- [Resource for NextJS/ReactJS developers, ShandCN UI block and component finder using AI, You can find all components and blocks in one place. Just taught of sharing this with you guys.](https://www.reddit.com/r/javascript/comments/1pd0s9i/resource_for_nextjsreactjs_developers_shandcn_ui/)
-- [Anthropic Acquires Bun: Supercharging Claude Code&#39;s $1 Billion AI Coding Revolution](https://www.reddit.com/r/javascript/comments/1pch25q/anthropic_acquires_bun_supercharging_claude_codes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
