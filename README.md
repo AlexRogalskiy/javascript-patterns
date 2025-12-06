@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [In 1995, a Netscape employee wrote a hack in 10 days that now runs the Internet](https://www.reddit.com/r/javascript/comments/1pe7lds/in_1995_a_netscape_employee_wrote_a_hack_in_10/)
-- [React RCE vul technical blog](https://www.reddit.com/r/javascript/comments/1pe3f1x/react_rce_vul_technical_blog/)
-- [[AskJS] What&#39;s your biggest pain point with CI/CD for JavaScript projects?](https://www.reddit.com/r/javascript/comments/1pdxx20/askjs_whats_your_biggest_pain_point_with_cicd_for/)
-- [EventRecord pattern](https://www.reddit.com/r/javascript/comments/1pdwcw8/eventrecord_pattern/)
-- [Good news: JavaScript is 30 years old today! Sad news: Its own name still doesn&#39;t belong to it](https://www.reddit.com/r/javascript/comments/1pdv1nr/good_news_javascript_is_30_years_old_today_sad/)
-- [maplibre-gl-layers: Enabling large number of moveable sprites in MapLibre GL JS](https://www.reddit.com/r/javascript/comments/1pdmkar/maplibregllayers_enabling_large_number_of/)
-- [Side project: NumPy for TypeScript/JavaScript](https://www.reddit.com/r/javascript/comments/1pdkk1g/side_project_numpy_for_typescriptjavascript/)
-- [an open-source package to generate a visual editable wiki of your codebase](https://www.reddit.com/r/javascript/comments/1pdi4pe/an_opensource_package_to_generate_a_visual/)
-- [How we built the world&#39;s fastest VIN decoder](https://www.reddit.com/r/javascript/comments/1pdfqc7/how_we_built_the_worlds_fastest_vin_decoder/)
-- [Security Advisory: CVE-2025-66478](https://www.reddit.com/r/javascript/comments/1pd8xxi/security_advisory_cve202566478/)
+- [[AskJS] TikTok bans me every time I test my extension](https://www.reddit.com/r/javascript/comments/1pf8ygf/askjs_tiktok_bans_me_every_time_i_test_my/)
+- [[AskJS] There is Nuxt for Vue, Next for React. Is there no good option for Angular?](https://www.reddit.com/r/javascript/comments/1pf8hq7/askjs_there_is_nuxt_for_vue_next_for_react_is/)
+- [GitHub - larswaechter/tokemon: A Node.js library for reading streamed JSON.](https://www.reddit.com/r/javascript/comments/1pf6sp1/github_larswaechtertokemon_a_nodejs_library_for/)
+- [The missing standard library for multithreading in JavaScript](https://www.reddit.com/r/javascript/comments/1pf2q0f/the_missing_standard_library_for_multithreading/)
+- [[AskJS] Could I use Javascript and Plotly.js to effectively display interactive, customizable maps within a static webpage?](https://www.reddit.com/r/javascript/comments/1pf2225/askjs_could_i_use_javascript_and_plotlyjs_to/)
+- [Turning messy Playwright scripts into visual flows — has anyone else tried mixing code with no-code tools?](https://www.reddit.com/r/javascript/comments/1pezgc1/turning_messy_playwright_scripts_into_visual/)
+- [[AskJS] Is the type annotation proposal dead?](https://www.reddit.com/r/javascript/comments/1pey204/askjs_is_the_type_annotation_proposal_dead/)
+- [I&#39;ve build a granular+procedural synthesiser in JS, any feedbacks?](https://www.reddit.com/r/javascript/comments/1pessl3/ive_build_a_granularprocedural_synthesiser_in_js/)
+- [GitHub - webix-hub/text-to-speech-ui-demo: This demo shows how to integrate the Webix UI library with the OpenAI text-to-speech API.](https://www.reddit.com/r/javascript/comments/1per8zq/github_webixhubtexttospeechuidemo_this_demo_shows/)
+- [[AskJS] Looking for feedback on SurveyJS. What should we focus on next?](https://www.reddit.com/r/javascript/comments/1per65c/askjs_looking_for_feedback_on_surveyjs_what/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
