@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I built a fetch client that types itself](https://www.reddit.com/r/javascript/comments/1pgqp4z/i_built_a_fetch_client_that_types_itself/)
+- [Our ZoneGFX build system — Made of TypeScript](https://www.reddit.com/r/javascript/comments/1pgoiwd/our_zonegfx_build_system_made_of_typescript/)
+- [[AskJS] What is the best framework for embedding a relatively complex widget into a vanilla app?](https://www.reddit.com/r/javascript/comments/1pgnmj3/askjs_what_is_the_best_framework_for_embedding_a/)
+- [[AskJS] How does JS fight memory fragmentation?](https://www.reddit.com/r/javascript/comments/1pghdk4/askjs_how_does_js_fight_memory_fragmentation/)
+- [[AskJS] Unit-testing ancient ES5 - any advice?](https://www.reddit.com/r/javascript/comments/1pgh68x/askjs_unittesting_ancient_es5_any_advice/)
+- [Hand-drawn checkbox, a progressively enhanced Web Component](https://www.reddit.com/r/javascript/comments/1pgev70/handdrawn_checkbox_a_progressively_enhanced_web/)
+- [Made an three.js and pixi.js Car Chase game in 1 month and uploaded to Reddit using Devvit SDK, will love to hear feedback of improvements!](https://www.reddit.com/r/javascript/comments/1pge8e6/made_an_threejs_and_pixijs_car_chase_game_in_1/)
+- [How do you manage tech debt in a real org where rewriting isn’t always an option?](https://www.reddit.com/r/javascript/comments/1pgdnvn/how_do_you_manage_tech_debt_in_a_real_org_where/)
 - [Built a lightweight Svelte 5 library for non-trivial UI patterns](https://www.reddit.com/r/javascript/comments/1pg4ri2/built_a_lightweight_svelte_5_library_for/)
 - [Social Media API Posting and Interactions](https://www.reddit.com/r/javascript/comments/1pg0htu/social_media_api_posting_and_interactions/)
-- [A blazing-fast, type-safe, and lazy data processing library for TypeScript &amp; JavaScript.](https://www.reddit.com/r/javascript/comments/1pfyglq/a_blazingfast_typesafe_and_lazy_data_processing/)
-- [Showoff Saturday &lpar;December 06, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1pfjw6z/showoff_saturday_december_06_2025/)
-- [[AskJS] Any americans want to grind leetcode with JS for fun](https://www.reddit.com/r/javascript/comments/1pfft75/askjs_any_americans_want_to_grind_leetcode_with/)
-- [[AskJS] TikTok bans me every time I test my extension](https://www.reddit.com/r/javascript/comments/1pf8ygf/askjs_tiktok_bans_me_every_time_i_test_my/)
-- [[AskJS] There is Nuxt for Vue, Next for React. Is there no good option for Angular?](https://www.reddit.com/r/javascript/comments/1pf8hq7/askjs_there_is_nuxt_for_vue_next_for_react_is/)
-- [GitHub - larswaechter/tokemon: A Node.js library for reading streamed JSON.](https://www.reddit.com/r/javascript/comments/1pf6sp1/github_larswaechtertokemon_a_nodejs_library_for/)
-- [The missing standard library for multithreading in JavaScript](https://www.reddit.com/r/javascript/comments/1pf2q0f/the_missing_standard_library_for_multithreading/)
-- [[AskJS] Could I use Javascript and Plotly.js to effectively display interactive, customizable maps within a static webpage?](https://www.reddit.com/r/javascript/comments/1pf2225/askjs_could_i_use_javascript_and_plotlyjs_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
