@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [&quot;Onion Tears&quot;: this tool can analyze TypeScript functions for complexity and generate Mermaid graphs showing program flow.](https://www.reddit.com/r/javascript/comments/1phrw35/onion_tears_this_tool_can_analyze_typescript/)
+- [RANDEVU - Universal Probabilistic Daily Reminder Coordination System for Anything](https://www.reddit.com/r/javascript/comments/1phrliz/randevu_universal_probabilistic_daily_reminder/)
+- [ARM64 and X86_64 AI Audio Classification &lpar;521 Classes, YAMNet&rpar;](https://www.reddit.com/r/javascript/comments/1phovo6/arm64_and_x86_64_ai_audio_classification_521/)
+- [Writing good test seams - better than what mocking libraries or DI can give you.](https://www.reddit.com/r/javascript/comments/1phgg9r/writing_good_test_seams_better_than_what_mocking/)
+- [Make Your Website Talk with The JavaScript Web Speech API](https://www.reddit.com/r/javascript/comments/1phfgmb/make_your_website_talk_with_the_javascript_web/)
+- [BEEP-8 – a JavaScript-only ARMv4-ish console emulator running at 4 MHz in the browser](https://www.reddit.com/r/javascript/comments/1ph9vsq/beep8_a_javascriptonly_armv4ish_console_emulator/)
+- [Your /r/javascript recap for the week of December 01 - December 07, 2025](https://www.reddit.com/r/javascript/comments/1ph8qgx/your_rjavascript_recap_for_the_week_of_december/)
+- [[AskJS] Real-World Wins with Bun + ElysiaJS in TypeScript: Who&#39;s Shipping Production Apps and How?](https://www.reddit.com/r/javascript/comments/1ph73k5/askjs_realworld_wins_with_bun_elysiajs_in/)
 - [I built a fetch client that types itself](https://www.reddit.com/r/javascript/comments/1pgqp4z/i_built_a_fetch_client_that_types_itself/)
 - [Our ZoneGFX build system — Made of TypeScript](https://www.reddit.com/r/javascript/comments/1pgoiwd/our_zonegfx_build_system_made_of_typescript/)
-- [[AskJS] What is the best framework for embedding a relatively complex widget into a vanilla app?](https://www.reddit.com/r/javascript/comments/1pgnmj3/askjs_what_is_the_best_framework_for_embedding_a/)
-- [[AskJS] How does JS fight memory fragmentation?](https://www.reddit.com/r/javascript/comments/1pghdk4/askjs_how_does_js_fight_memory_fragmentation/)
-- [[AskJS] Unit-testing ancient ES5 - any advice?](https://www.reddit.com/r/javascript/comments/1pgh68x/askjs_unittesting_ancient_es5_any_advice/)
-- [Hand-drawn checkbox, a progressively enhanced Web Component](https://www.reddit.com/r/javascript/comments/1pgev70/handdrawn_checkbox_a_progressively_enhanced_web/)
-- [Made an three.js and pixi.js Car Chase game in 1 month and uploaded to Reddit using Devvit SDK, will love to hear feedback of improvements!](https://www.reddit.com/r/javascript/comments/1pge8e6/made_an_threejs_and_pixijs_car_chase_game_in_1/)
-- [How do you manage tech debt in a real org where rewriting isn’t always an option?](https://www.reddit.com/r/javascript/comments/1pgdnvn/how_do_you_manage_tech_debt_in_a_real_org_where/)
-- [Built a lightweight Svelte 5 library for non-trivial UI patterns](https://www.reddit.com/r/javascript/comments/1pg4ri2/built_a_lightweight_svelte_5_library_for/)
-- [Social Media API Posting and Interactions](https://www.reddit.com/r/javascript/comments/1pg0htu/social_media_api_posting_and_interactions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
