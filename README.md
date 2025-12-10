@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Three years ago, ArrowJS boasted &quot;reactivity without the framework&quot;. Here&#39;s the framework](https://www.reddit.com/r/javascript/comments/1piqmhf/three_years_ago_arrowjs_boasted_reactivity/)
+- [I’m building &quot;another task manager&quot;](https://www.reddit.com/r/javascript/comments/1piqehu/im_building_another_task_manager/)
+- [I built a faster, free, open source alternative to Wappalyzer for developers](https://www.reddit.com/r/javascript/comments/1pida9q/i_built_a_faster_free_open_source_alternative_to/)
+- [Avatune - framework agnostic, AI-powered SVG avatar system](https://www.reddit.com/r/javascript/comments/1piauhw/avatune_framework_agnostic_aipowered_svg_avatar/)
+- [is this tiny game I built with javascript any fun?](https://www.reddit.com/r/javascript/comments/1piau7b/is_this_tiny_game_i_built_with_javascript_any_fun/)
+- [rac-delta - Storage agnostic delta patching protocol SDK in NodeJs. With streaming support and file reconstruction.](https://www.reddit.com/r/javascript/comments/1pi8tlm/racdelta_storage_agnostic_delta_patching_protocol/)
+- [Hi Everyone, This is updated ShadCN UI Components &amp; Blocks Finder for NextJS/ReactJS Devs, You can describe the component you need and get results in one place instantly.](https://www.reddit.com/r/javascript/comments/1pi7bob/hi_everyone_this_is_updated_shadcn_ui_components/)
+- [Wire - A GitHub Action for releasing multiple independently-versioned workflows from a single repository](https://www.reddit.com/r/javascript/comments/1pi19a3/wire_a_github_action_for_releasing_multiple/)
+- [Optique 0.8.0: Conditional parsing, pass-through options, and LogTape integration](https://www.reddit.com/r/javascript/comments/1phytoo/optique_080_conditional_parsing_passthrough/)
 - [&quot;Onion Tears&quot;: this tool can analyze TypeScript functions for complexity and generate Mermaid graphs showing program flow.](https://www.reddit.com/r/javascript/comments/1phrw35/onion_tears_this_tool_can_analyze_typescript/)
-- [RANDEVU - Universal Probabilistic Daily Reminder Coordination System for Anything](https://www.reddit.com/r/javascript/comments/1phrliz/randevu_universal_probabilistic_daily_reminder/)
-- [ARM64 and X86_64 AI Audio Classification &lpar;521 Classes, YAMNet&rpar;](https://www.reddit.com/r/javascript/comments/1phovo6/arm64_and_x86_64_ai_audio_classification_521/)
-- [Writing good test seams - better than what mocking libraries or DI can give you.](https://www.reddit.com/r/javascript/comments/1phgg9r/writing_good_test_seams_better_than_what_mocking/)
-- [Make Your Website Talk with The JavaScript Web Speech API](https://www.reddit.com/r/javascript/comments/1phfgmb/make_your_website_talk_with_the_javascript_web/)
-- [BEEP-8 – a JavaScript-only ARMv4-ish console emulator running at 4 MHz in the browser](https://www.reddit.com/r/javascript/comments/1ph9vsq/beep8_a_javascriptonly_armv4ish_console_emulator/)
-- [Your /r/javascript recap for the week of December 01 - December 07, 2025](https://www.reddit.com/r/javascript/comments/1ph8qgx/your_rjavascript_recap_for_the_week_of_december/)
-- [[AskJS] Real-World Wins with Bun + ElysiaJS in TypeScript: Who&#39;s Shipping Production Apps and How?](https://www.reddit.com/r/javascript/comments/1ph73k5/askjs_realworld_wins_with_bun_elysiajs_in/)
-- [I built a fetch client that types itself](https://www.reddit.com/r/javascript/comments/1pgqp4z/i_built_a_fetch_client_that_types_itself/)
-- [Our ZoneGFX build system — Made of TypeScript](https://www.reddit.com/r/javascript/comments/1pgoiwd/our_zonegfx_build_system_made_of_typescript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
