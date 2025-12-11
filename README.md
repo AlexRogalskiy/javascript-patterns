@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ovr@6.0.0 - Streaming Fetch Based Multipart Uploads](https://www.reddit.com/r/javascript/comments/1pjk0ht/ovr600_streaming_fetch_based_multipart_uploads/)
+- [is this small game I made with javascript any fun?](https://www.reddit.com/r/javascript/comments/1pjhd2c/is_this_small_game_i_made_with_javascript_any_fun/)
+- [GitHub - necdetsanli/do-not-ghost-me: Anonymous reports and stats about recruitment ghosting. Next.js + PostgreSQL, privacy-first and open source.](https://www.reddit.com/r/javascript/comments/1pjayil/github_necdetsanlidonotghostme_anonymous_reports/)
+- [Props for Web Components](https://www.reddit.com/r/javascript/comments/1pj4ros/props_for_web_components/)
+- [fate: A modern data client for React &amp; tRPC](https://www.reddit.com/r/javascript/comments/1pj3nnb/fate_a_modern_data_client_for_react_trpc/)
+- [How to Cultivate an Open-source Platform for learning Japanese from scratch](https://www.reddit.com/r/javascript/comments/1pj1n3q/how_to_cultivate_an_opensource_platform_for/)
+- [155-byte DOM runtime — zero deps, hook-style state &amp; render &lpar;Qyavix&rpar;](https://www.reddit.com/r/javascript/comments/1pj19ix/155byte_dom_runtime_zero_deps_hookstyle_state/)
+- [I’m building “another task manager”](https://www.reddit.com/r/javascript/comments/1pirtqt/im_building_another_task_manager/)
 - [Three years ago, ArrowJS boasted &quot;reactivity without the framework&quot;. Here&#39;s the framework](https://www.reddit.com/r/javascript/comments/1piqmhf/three_years_ago_arrowjs_boasted_reactivity/)
-- [I’m building &quot;another task manager&quot;](https://www.reddit.com/r/javascript/comments/1piqehu/im_building_another_task_manager/)
 - [I built a faster, free, open source alternative to Wappalyzer for developers](https://www.reddit.com/r/javascript/comments/1pida9q/i_built_a_faster_free_open_source_alternative_to/)
-- [Avatune - framework agnostic, AI-powered SVG avatar system](https://www.reddit.com/r/javascript/comments/1piauhw/avatune_framework_agnostic_aipowered_svg_avatar/)
-- [is this tiny game I built with javascript any fun?](https://www.reddit.com/r/javascript/comments/1piau7b/is_this_tiny_game_i_built_with_javascript_any_fun/)
-- [rac-delta - Storage agnostic delta patching protocol SDK in NodeJs. With streaming support and file reconstruction.](https://www.reddit.com/r/javascript/comments/1pi8tlm/racdelta_storage_agnostic_delta_patching_protocol/)
-- [Hi Everyone, This is updated ShadCN UI Components &amp; Blocks Finder for NextJS/ReactJS Devs, You can describe the component you need and get results in one place instantly.](https://www.reddit.com/r/javascript/comments/1pi7bob/hi_everyone_this_is_updated_shadcn_ui_components/)
-- [Wire - A GitHub Action for releasing multiple independently-versioned workflows from a single repository](https://www.reddit.com/r/javascript/comments/1pi19a3/wire_a_github_action_for_releasing_multiple/)
-- [Optique 0.8.0: Conditional parsing, pass-through options, and LogTape integration](https://www.reddit.com/r/javascript/comments/1phytoo/optique_080_conditional_parsing_passthrough/)
-- [&quot;Onion Tears&quot;: this tool can analyze TypeScript functions for complexity and generate Mermaid graphs showing program flow.](https://www.reddit.com/r/javascript/comments/1phrw35/onion_tears_this_tool_can_analyze_typescript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
