@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Made an App CodeLens that explains programming errors in - plain English !](https://www.reddit.com/r/javascript/comments/1pkcjui/askjs_made_an_app_codelens_that_explains/)
+- [Turns out primes look beautiful in a grid… so I built a visualizer](https://www.reddit.com/r/javascript/comments/1pk3wif/turns_out_primes_look_beautiful_in_a_grid_so_i/)
+- [How We Balanced Camera Quality and Bandwidth in Our Scren-sharing App](https://www.reddit.com/r/javascript/comments/1pk2e4p/how_we_balanced_camera_quality_and_bandwidth_in/)
+- [BrowserPod: WebAssembly in-browser code sandboxes for Node, Python, and Rails](https://www.reddit.com/r/javascript/comments/1pjwn4r/browserpod_webassembly_inbrowser_code_sandboxes/)
+- [Tailwind CSS: Targeting Child Elements &lpar;when you have to&rpar;](https://www.reddit.com/r/javascript/comments/1pjs63h/tailwind_css_targeting_child_elements_when_you/)
+- [Announcing ReScript 12](https://www.reddit.com/r/javascript/comments/1pjo2v2/announcing_rescript_12/)
 - [ovr@6.0.0 - Streaming Fetch Based Multipart Uploads](https://www.reddit.com/r/javascript/comments/1pjk0ht/ovr600_streaming_fetch_based_multipart_uploads/)
 - [is this small game I made with javascript any fun?](https://www.reddit.com/r/javascript/comments/1pjhd2c/is_this_small_game_i_made_with_javascript_any_fun/)
 - [GitHub - necdetsanli/do-not-ghost-me: Anonymous reports and stats about recruitment ghosting. Next.js + PostgreSQL, privacy-first and open source.](https://www.reddit.com/r/javascript/comments/1pjayil/github_necdetsanlidonotghostme_anonymous_reports/)
 - [Props for Web Components](https://www.reddit.com/r/javascript/comments/1pj4ros/props_for_web_components/)
-- [fate: A modern data client for React &amp; tRPC](https://www.reddit.com/r/javascript/comments/1pj3nnb/fate_a_modern_data_client_for_react_trpc/)
-- [How to Cultivate an Open-source Platform for learning Japanese from scratch](https://www.reddit.com/r/javascript/comments/1pj1n3q/how_to_cultivate_an_opensource_platform_for/)
-- [155-byte DOM runtime — zero deps, hook-style state &amp; render &lpar;Qyavix&rpar;](https://www.reddit.com/r/javascript/comments/1pj19ix/155byte_dom_runtime_zero_deps_hookstyle_state/)
-- [I’m building “another task manager”](https://www.reddit.com/r/javascript/comments/1pirtqt/im_building_another_task_manager/)
-- [Three years ago, ArrowJS boasted &quot;reactivity without the framework&quot;. Here&#39;s the framework](https://www.reddit.com/r/javascript/comments/1piqmhf/three_years_ago_arrowjs_boasted_reactivity/)
-- [I built a faster, free, open source alternative to Wappalyzer for developers](https://www.reddit.com/r/javascript/comments/1pida9q/i_built_a_faster_free_open_source_alternative_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
