@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Is ES24 better?](https://www.reddit.com/r/javascript/comments/1pl4gxq/askjs_is_es24_better/)
+- [Toastflow – a headless toast notification engine with a Vue 3 renderer](https://www.reddit.com/r/javascript/comments/1pl2kgx/toastflow_a_headless_toast_notification_engine/)
+- [[AskJS] Can no longer send fetch requests after backend server restarts?](https://www.reddit.com/r/javascript/comments/1pky8es/askjs_can_no_longer_send_fetch_requests_after/)
+- [[AskJS] Building a complete LLM inference engine in pure JavaScript. Looking for feedback on this educational approach](https://www.reddit.com/r/javascript/comments/1pkwkeg/askjs_building_a_complete_llm_inference_engine_in/)
+- [Two New React 19 Vulnerabilities - two important vulnerabilities in React, Next.js, and other frameworks that require immediate action &lpar;neither of these new issues allow for Remote Code Execution&rpar;](https://www.reddit.com/r/javascript/comments/1pkvi0t/two_new_react_19_vulnerabilities_two_important/)
+- [I couldn&#39;t find a logging library that worked for my library, so I made one](https://www.reddit.com/r/javascript/comments/1pkv3mo/i_couldnt_find_a_logging_library_that_worked_for/)
 - [[AskJS] Made an App CodeLens that explains programming errors in - plain English !](https://www.reddit.com/r/javascript/comments/1pkcjui/askjs_made_an_app_codelens_that_explains/)
 - [Turns out primes look beautiful in a grid… so I built a visualizer](https://www.reddit.com/r/javascript/comments/1pk3wif/turns_out_primes_look_beautiful_in_a_grid_so_i/)
 - [How We Balanced Camera Quality and Bandwidth in Our Scren-sharing App](https://www.reddit.com/r/javascript/comments/1pk2e4p/how_we_balanced_camera_quality_and_bandwidth_in/)
 - [BrowserPod: WebAssembly in-browser code sandboxes for Node, Python, and Rails](https://www.reddit.com/r/javascript/comments/1pjwn4r/browserpod_webassembly_inbrowser_code_sandboxes/)
-- [Tailwind CSS: Targeting Child Elements &lpar;when you have to&rpar;](https://www.reddit.com/r/javascript/comments/1pjs63h/tailwind_css_targeting_child_elements_when_you/)
-- [Announcing ReScript 12](https://www.reddit.com/r/javascript/comments/1pjo2v2/announcing_rescript_12/)
-- [ovr@6.0.0 - Streaming Fetch Based Multipart Uploads](https://www.reddit.com/r/javascript/comments/1pjk0ht/ovr600_streaming_fetch_based_multipart_uploads/)
-- [is this small game I made with javascript any fun?](https://www.reddit.com/r/javascript/comments/1pjhd2c/is_this_small_game_i_made_with_javascript_any_fun/)
-- [GitHub - necdetsanli/do-not-ghost-me: Anonymous reports and stats about recruitment ghosting. Next.js + PostgreSQL, privacy-first and open source.](https://www.reddit.com/r/javascript/comments/1pjayil/github_necdetsanlidonotghostme_anonymous_reports/)
-- [Props for Web Components](https://www.reddit.com/r/javascript/comments/1pj4ros/props_for_web_components/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
