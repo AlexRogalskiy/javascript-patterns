@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Is ES24 better?](https://www.reddit.com/r/javascript/comments/1pl4gxq/askjs_is_es24_better/)
+- [Looking for contributors: React + WASM image-to-color-by-number](https://www.reddit.com/r/javascript/comments/1pm147i/looking_for_contributors_react_wasm/)
+- [tpmjs - npm for ai tools](https://www.reddit.com/r/javascript/comments/1pm0sgv/tpmjs_npm_for_ai_tools/)
+- [WebGL2 &amp; GLSL primer: A zero-to-hero, spaced-repetition guide](https://www.reddit.com/r/javascript/comments/1plz115/webgl2_glsl_primer_a_zerotohero_spacedrepetition/)
+- [Social Media API Posting and Interactions](https://www.reddit.com/r/javascript/comments/1plwhwi/social_media_api_posting_and_interactions/)
+- [A JS Dev&#39;s Guide to Not Dismissing Blockchain by Brian Whippo](https://www.reddit.com/r/javascript/comments/1plp2nl/a_js_devs_guide_to_not_dismissing_blockchain_by/)
+- [Why I chose JavaScript &lpar;React Native + Expo&rpar; over Python for a production mobile app](https://www.reddit.com/r/javascript/comments/1plhs16/why_i_chose_javascript_react_native_expo_over/)
+- [Showoff Saturday &lpar;December 13, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1plg4zx/showoff_saturday_december_13_2025/)
 - [Toastflow – a headless toast notification engine with a Vue 3 renderer](https://www.reddit.com/r/javascript/comments/1pl2kgx/toastflow_a_headless_toast_notification_engine/)
 - [[AskJS] Can no longer send fetch requests after backend server restarts?](https://www.reddit.com/r/javascript/comments/1pky8es/askjs_can_no_longer_send_fetch_requests_after/)
 - [[AskJS] Building a complete LLM inference engine in pure JavaScript. Looking for feedback on this educational approach](https://www.reddit.com/r/javascript/comments/1pkwkeg/askjs_building_a_complete_llm_inference_engine_in/)
-- [Two New React 19 Vulnerabilities - two important vulnerabilities in React, Next.js, and other frameworks that require immediate action &lpar;neither of these new issues allow for Remote Code Execution&rpar;](https://www.reddit.com/r/javascript/comments/1pkvi0t/two_new_react_19_vulnerabilities_two_important/)
-- [I couldn&#39;t find a logging library that worked for my library, so I made one](https://www.reddit.com/r/javascript/comments/1pkv3mo/i_couldnt_find_a_logging_library_that_worked_for/)
-- [[AskJS] Made an App CodeLens that explains programming errors in - plain English !](https://www.reddit.com/r/javascript/comments/1pkcjui/askjs_made_an_app_codelens_that_explains/)
-- [Turns out primes look beautiful in a grid… so I built a visualizer](https://www.reddit.com/r/javascript/comments/1pk3wif/turns_out_primes_look_beautiful_in_a_grid_so_i/)
-- [How We Balanced Camera Quality and Bandwidth in Our Scren-sharing App](https://www.reddit.com/r/javascript/comments/1pk2e4p/how_we_balanced_camera_quality_and_bandwidth_in/)
-- [BrowserPod: WebAssembly in-browser code sandboxes for Node, Python, and Rails](https://www.reddit.com/r/javascript/comments/1pjwn4r/browserpod_webassembly_inbrowser_code_sandboxes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
