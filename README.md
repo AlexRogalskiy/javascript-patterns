@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Looking for contributors: React + WASM image-to-color-by-number](https://www.reddit.com/r/javascript/comments/1pm147i/looking_for_contributors_react_wasm/)
-- [tpmjs - npm for ai tools](https://www.reddit.com/r/javascript/comments/1pm0sgv/tpmjs_npm_for_ai_tools/)
-- [WebGL2 &amp; GLSL primer: A zero-to-hero, spaced-repetition guide](https://www.reddit.com/r/javascript/comments/1plz115/webgl2_glsl_primer_a_zerotohero_spacedrepetition/)
-- [Social Media API Posting and Interactions](https://www.reddit.com/r/javascript/comments/1plwhwi/social_media_api_posting_and_interactions/)
-- [A JS Dev&#39;s Guide to Not Dismissing Blockchain by Brian Whippo](https://www.reddit.com/r/javascript/comments/1plp2nl/a_js_devs_guide_to_not_dismissing_blockchain_by/)
-- [Why I chose JavaScript &lpar;React Native + Expo&rpar; over Python for a production mobile app](https://www.reddit.com/r/javascript/comments/1plhs16/why_i_chose_javascript_react_native_expo_over/)
-- [Showoff Saturday &lpar;December 13, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1plg4zx/showoff_saturday_december_13_2025/)
-- [Toastflow – a headless toast notification engine with a Vue 3 renderer](https://www.reddit.com/r/javascript/comments/1pl2kgx/toastflow_a_headless_toast_notification_engine/)
-- [[AskJS] Can no longer send fetch requests after backend server restarts?](https://www.reddit.com/r/javascript/comments/1pky8es/askjs_can_no_longer_send_fetch_requests_after/)
-- [[AskJS] Building a complete LLM inference engine in pure JavaScript. Looking for feedback on this educational approach](https://www.reddit.com/r/javascript/comments/1pkwkeg/askjs_building_a_complete_llm_inference_engine_in/)
+- [Neuroevolution of Augmenting Topologies in JavaScript](https://www.reddit.com/r/javascript/comments/1pmrtlb/neuroevolution_of_augmenting_topologies_in/)
+- [I&#39;ve released a Biome plugin that enforces braces around arrow function bodies](https://www.reddit.com/r/javascript/comments/1pmoqdw/ive_released_a_biome_plugin_that_enforces_braces/)
+- [I built a real-time ASCII camera in the browser &lpar;60 FPS, Canvas, TypeScript&rpar;](https://www.reddit.com/r/javascript/comments/1pmni0a/i_built_a_realtime_ascii_camera_in_the_browser_60/)
+- [I built a real-time ASCII camera in the browser &lpar;60 FPS, Canvas, TypeScript&rpar;](https://www.reddit.com/r/javascript/comments/1pmnf9u/i_built_a_realtime_ascii_camera_in_the_browser_60/)
+- [Trendgetter v2.0: An API for getting trending content from various platforms](https://www.reddit.com/r/javascript/comments/1pmmqnz/trendgetter_v20_an_api_for_getting_trending/)
+- [GraphQL: the enterprise honeymoon is over](https://www.reddit.com/r/javascript/comments/1pmjlo8/graphql_the_enterprise_honeymoon_is_over/)
+- [Lessons learned from React&#39;s RCE](https://www.reddit.com/r/javascript/comments/1pmjino/lessons_learned_from_reacts_rce/)
+- [[AskJS] New Community for Developers and Programmers , define yourself with new branding &quot;Nulf&quot;](https://www.reddit.com/r/javascript/comments/1pmje7n/askjs_new_community_for_developers_and/)
+- [Iron-Clad-Ledger PostgreSQL project](https://www.reddit.com/r/javascript/comments/1pmgtbx/ironcladledger_postgresql_project/)
+- [I built a TypeScript-first country intelligence npm package &lpar;ISO, phone validation, SVG flags&rpar;](https://www.reddit.com/r/javascript/comments/1pma2mf/i_built_a_typescriptfirst_country_intelligence/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
