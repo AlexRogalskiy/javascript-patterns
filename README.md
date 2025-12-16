@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Ai &amp; JS Generation](https://www.reddit.com/r/javascript/comments/1pnqtqq/askjs_ai_js_generation/)
+- [ARM64 and X86_64 AI Audio Classification &lpar;521 Classes, YAMNet&rpar;](https://www.reddit.com/r/javascript/comments/1pnjil8/arm64_and_x86_64_ai_audio_classification_521/)
+- [I wanted a type-safe authorization library with minimal boilerplate — so I made my own](https://www.reddit.com/r/javascript/comments/1pngu1y/i_wanted_a_typesafe_authorization_library_with/)
+- [is this tiny game I built with javascript any fun?](https://www.reddit.com/r/javascript/comments/1pnakwo/is_this_tiny_game_i_built_with_javascript_any_fun/)
+- [Your /r/javascript recap for the week of December 08 - December 14, 2025](https://www.reddit.com/r/javascript/comments/1pn3s4x/your_rjavascript_recap_for_the_week_of_december/)
+- [I built a zero-config Swagger/OpenAPI generator for Express that uses the TypeScript AST to infer schemas.](https://www.reddit.com/r/javascript/comments/1pn0yys/i_built_a_zeroconfig_swaggeropenapi_generator_for/)
 - [Neuroevolution of Augmenting Topologies in JavaScript](https://www.reddit.com/r/javascript/comments/1pmrtlb/neuroevolution_of_augmenting_topologies_in/)
 - [I&#39;ve released a Biome plugin that enforces braces around arrow function bodies](https://www.reddit.com/r/javascript/comments/1pmoqdw/ive_released_a_biome_plugin_that_enforces_braces/)
 - [I built a real-time ASCII camera in the browser &lpar;60 FPS, Canvas, TypeScript&rpar;](https://www.reddit.com/r/javascript/comments/1pmni0a/i_built_a_realtime_ascii_camera_in_the_browser_60/)
 - [I built a real-time ASCII camera in the browser &lpar;60 FPS, Canvas, TypeScript&rpar;](https://www.reddit.com/r/javascript/comments/1pmnf9u/i_built_a_realtime_ascii_camera_in_the_browser_60/)
-- [Trendgetter v2.0: An API for getting trending content from various platforms](https://www.reddit.com/r/javascript/comments/1pmmqnz/trendgetter_v20_an_api_for_getting_trending/)
-- [GraphQL: the enterprise honeymoon is over](https://www.reddit.com/r/javascript/comments/1pmjlo8/graphql_the_enterprise_honeymoon_is_over/)
-- [Lessons learned from React&#39;s RCE](https://www.reddit.com/r/javascript/comments/1pmjino/lessons_learned_from_reacts_rce/)
-- [[AskJS] New Community for Developers and Programmers , define yourself with new branding &quot;Nulf&quot;](https://www.reddit.com/r/javascript/comments/1pmje7n/askjs_new_community_for_developers_and/)
-- [Iron-Clad-Ledger PostgreSQL project](https://www.reddit.com/r/javascript/comments/1pmgtbx/ironcladledger_postgresql_project/)
-- [I built a TypeScript-first country intelligence npm package &lpar;ISO, phone validation, SVG flags&rpar;](https://www.reddit.com/r/javascript/comments/1pma2mf/i_built_a_typescriptfirst_country_intelligence/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
