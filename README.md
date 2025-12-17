@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [domco@5.0.0 - use your favorite server framework with Vite](https://www.reddit.com/r/javascript/comments/1poieym/domco500_use_your_favorite_server_framework_with/)
+- [As my first Chrome extension in JS, I created an app that with a shortcut makes the page more readable and less stressful for the eyes. I used Mozilla&#39;s Readability library with custom CSS. I created it for myself, but if it could be useful to someone, I&#39;ve published it.](https://www.reddit.com/r/javascript/comments/1po9bk0/as_my_first_chrome_extension_in_js_i_created_an/)
+- [I made a browser extension because I kept ending research sessions with 100000000 tabs](https://www.reddit.com/r/javascript/comments/1po7twf/i_made_a_browser_extension_because_i_kept_ending/)
+- [Built a GitHub repo visualizer where your code never leaves your machine - single HTML file, zero tracking, completely free](https://www.reddit.com/r/javascript/comments/1po5chk/built_a_github_repo_visualizer_where_your_code/)
+- [BlazeDiff goes native – TypeScript API for the fastest image diff &lpar;native Rust binary&rpar;](https://www.reddit.com/r/javascript/comments/1po2105/blazediff_goes_native_typescript_api_for_the/)
+- [Ever wondered how JS with a single thread can still handle tons of async work, UI updates, promises, timers, network calls and still feel smooth?](https://www.reddit.com/r/javascript/comments/1pnytjv/ever_wondered_how_js_with_a_single_thread_can/)
+- [TIL the Web Speech API exists and it’s way more useful than I expected](https://www.reddit.com/r/javascript/comments/1pnwi29/til_the_web_speech_api_exists_and_its_way_more/)
+- [[AskJS] Component Library CSS/ tokens not imported and being overwritten](https://www.reddit.com/r/javascript/comments/1pnrs3i/askjs_component_library_css_tokens_not_imported/)
+- [Mastering Rive Animation: A Complete Guide for React Developers](https://www.reddit.com/r/javascript/comments/1pnr9h9/mastering_rive_animation_a_complete_guide_for/)
 - [[AskJS] Ai &amp; JS Generation](https://www.reddit.com/r/javascript/comments/1pnqtqq/askjs_ai_js_generation/)
-- [ARM64 and X86_64 AI Audio Classification &lpar;521 Classes, YAMNet&rpar;](https://www.reddit.com/r/javascript/comments/1pnjil8/arm64_and_x86_64_ai_audio_classification_521/)
-- [I wanted a type-safe authorization library with minimal boilerplate — so I made my own](https://www.reddit.com/r/javascript/comments/1pngu1y/i_wanted_a_typesafe_authorization_library_with/)
-- [is this tiny game I built with javascript any fun?](https://www.reddit.com/r/javascript/comments/1pnakwo/is_this_tiny_game_i_built_with_javascript_any_fun/)
-- [Your /r/javascript recap for the week of December 08 - December 14, 2025](https://www.reddit.com/r/javascript/comments/1pn3s4x/your_rjavascript_recap_for_the_week_of_december/)
-- [I built a zero-config Swagger/OpenAPI generator for Express that uses the TypeScript AST to infer schemas.](https://www.reddit.com/r/javascript/comments/1pn0yys/i_built_a_zeroconfig_swaggeropenapi_generator_for/)
-- [Neuroevolution of Augmenting Topologies in JavaScript](https://www.reddit.com/r/javascript/comments/1pmrtlb/neuroevolution_of_augmenting_topologies_in/)
-- [I&#39;ve released a Biome plugin that enforces braces around arrow function bodies](https://www.reddit.com/r/javascript/comments/1pmoqdw/ive_released_a_biome_plugin_that_enforces_braces/)
-- [I built a real-time ASCII camera in the browser &lpar;60 FPS, Canvas, TypeScript&rpar;](https://www.reddit.com/r/javascript/comments/1pmni0a/i_built_a_realtime_ascii_camera_in_the_browser_60/)
-- [I built a real-time ASCII camera in the browser &lpar;60 FPS, Canvas, TypeScript&rpar;](https://www.reddit.com/r/javascript/comments/1pmnf9u/i_built_a_realtime_ascii_camera_in_the_browser_60/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
