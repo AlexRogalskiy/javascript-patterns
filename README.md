@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Looking for web developers to chat about a UI feedback tool for shipping web apps with confidence](https://www.reddit.com/r/javascript/comments/1pp9225/looking_for_web_developers_to_chat_about_a_ui/)
+- [[AskJS] GraphQL or WP rest API in 2026?](https://www.reddit.com/r/javascript/comments/1pp4v93/askjs_graphql_or_wp_rest_api_in_2026/)
+- [I built an open-source site that lets students play games at school](https://www.reddit.com/r/javascript/comments/1pozzkx/i_built_an_opensource_site_that_lets_students/)
+- [[AskJS] Finding reliable packages?](https://www.reddit.com/r/javascript/comments/1poyvj1/askjs_finding_reliable_packages/)
+- [I built a chess engine + AI entirely in JavaScript](https://www.reddit.com/r/javascript/comments/1pou7e5/i_built_a_chess_engine_ai_entirely_in_javascript/)
+- [[AskJS] Should JS start considering big numbers?](https://www.reddit.com/r/javascript/comments/1poqxea/askjs_should_js_start_considering_big_numbers/)
+- [I’ve spent over an hour trying to solve what seemed like a simple problem: detecting whether my page is opened inside the Telegram embedded browser using JavaScript. None of the implementations suggested by Cursor actually worked, so I had to dig into the problem myself the old-school way](https://www.reddit.com/r/javascript/comments/1poo7fy/ive_spent_over_an_hour_trying_to_solve_what/)
 - [domco@5.0.0 - use your favorite server framework with Vite](https://www.reddit.com/r/javascript/comments/1poieym/domco500_use_your_favorite_server_framework_with/)
 - [As my first Chrome extension in JS, I created an app that with a shortcut makes the page more readable and less stressful for the eyes. I used Mozilla&#39;s Readability library with custom CSS. I created it for myself, but if it could be useful to someone, I&#39;ve published it.](https://www.reddit.com/r/javascript/comments/1po9bk0/as_my_first_chrome_extension_in_js_i_created_an/)
 - [I made a browser extension because I kept ending research sessions with 100000000 tabs](https://www.reddit.com/r/javascript/comments/1po7twf/i_made_a_browser_extension_because_i_kept_ending/)
-- [Built a GitHub repo visualizer where your code never leaves your machine - single HTML file, zero tracking, completely free](https://www.reddit.com/r/javascript/comments/1po5chk/built_a_github_repo_visualizer_where_your_code/)
-- [BlazeDiff goes native – TypeScript API for the fastest image diff &lpar;native Rust binary&rpar;](https://www.reddit.com/r/javascript/comments/1po2105/blazediff_goes_native_typescript_api_for_the/)
-- [Ever wondered how JS with a single thread can still handle tons of async work, UI updates, promises, timers, network calls and still feel smooth?](https://www.reddit.com/r/javascript/comments/1pnytjv/ever_wondered_how_js_with_a_single_thread_can/)
-- [TIL the Web Speech API exists and it’s way more useful than I expected](https://www.reddit.com/r/javascript/comments/1pnwi29/til_the_web_speech_api_exists_and_its_way_more/)
-- [[AskJS] Component Library CSS/ tokens not imported and being overwritten](https://www.reddit.com/r/javascript/comments/1pnrs3i/askjs_component_library_css_tokens_not_imported/)
-- [Mastering Rive Animation: A Complete Guide for React Developers](https://www.reddit.com/r/javascript/comments/1pnr9h9/mastering_rive_animation_a_complete_guide_for/)
-- [[AskJS] Ai &amp; JS Generation](https://www.reddit.com/r/javascript/comments/1pnqtqq/askjs_ai_js_generation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
