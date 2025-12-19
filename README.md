@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I got tired of manually creating folders from ChatGPT outputs, so I built a tiny CLI to do it for me](https://www.reddit.com/r/javascript/comments/1pq8kor/i_got_tired_of_manually_creating_folders_from/)
+- [Introducing RSC Explorer](https://www.reddit.com/r/javascript/comments/1ppvzgx/introducing_rsc_explorer/)
+- [Minification isn&#39;t obfuscation - Claude Code proves it](https://www.reddit.com/r/javascript/comments/1pprmsy/minification_isnt_obfuscation_claude_code_proves/)
+- [syntux - build deterministic, generative UIs.](https://www.reddit.com/r/javascript/comments/1ppras5/syntux_build_deterministic_generative_uis/)
+- [I built a TypeScript codebase analyzer using ASTs to generate deterministic context JSON files](https://www.reddit.com/r/javascript/comments/1ppouxh/i_built_a_typescript_codebase_analyzer_using_asts/)
 - [Looking for web developers to chat about a UI feedback tool for shipping web apps with confidence](https://www.reddit.com/r/javascript/comments/1pp9225/looking_for_web_developers_to_chat_about_a_ui/)
 - [[AskJS] GraphQL or WP rest API in 2026?](https://www.reddit.com/r/javascript/comments/1pp4v93/askjs_graphql_or_wp_rest_api_in_2026/)
 - [I built an open-source site that lets students play games at school](https://www.reddit.com/r/javascript/comments/1pozzkx/i_built_an_opensource_site_that_lets_students/)
 - [[AskJS] Finding reliable packages?](https://www.reddit.com/r/javascript/comments/1poyvj1/askjs_finding_reliable_packages/)
 - [I built a chess engine + AI entirely in JavaScript](https://www.reddit.com/r/javascript/comments/1pou7e5/i_built_a_chess_engine_ai_entirely_in_javascript/)
-- [[AskJS] Should JS start considering big numbers?](https://www.reddit.com/r/javascript/comments/1poqxea/askjs_should_js_start_considering_big_numbers/)
-- [I’ve spent over an hour trying to solve what seemed like a simple problem: detecting whether my page is opened inside the Telegram embedded browser using JavaScript. None of the implementations suggested by Cursor actually worked, so I had to dig into the problem myself the old-school way](https://www.reddit.com/r/javascript/comments/1poo7fy/ive_spent_over_an_hour_trying_to_solve_what/)
-- [domco@5.0.0 - use your favorite server framework with Vite](https://www.reddit.com/r/javascript/comments/1poieym/domco500_use_your_favorite_server_framework_with/)
-- [As my first Chrome extension in JS, I created an app that with a shortcut makes the page more readable and less stressful for the eyes. I used Mozilla&#39;s Readability library with custom CSS. I created it for myself, but if it could be useful to someone, I&#39;ve published it.](https://www.reddit.com/r/javascript/comments/1po9bk0/as_my_first_chrome_extension_in_js_i_created_an/)
-- [I made a browser extension because I kept ending research sessions with 100000000 tabs](https://www.reddit.com/r/javascript/comments/1po7twf/i_made_a_browser_extension_because_i_kept_ending/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
