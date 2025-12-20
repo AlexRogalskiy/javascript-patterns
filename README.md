@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Why everything is written in Javascript?](https://www.reddit.com/r/javascript/comments/1pqw2q5/askjs_why_everything_is_written_in_javascript/)
+- [modern ES6 rewrite of the original litegraph.js library](https://www.reddit.com/r/javascript/comments/1pqtqp7/modern_es6_rewrite_of_the_original_litegraphjs/)
+- [Small JavaScript enum function](https://www.reddit.com/r/javascript/comments/1pqm09r/small_javascript_enum_function/)
+- [Search, extract, vectorize and outline a topic base with AI Research Agent](https://www.reddit.com/r/javascript/comments/1pql29n/search_extract_vectorize_and_outline_a_topic_base/)
+- [Upgraded a Node Angular project from 16 to 20 without dependency hell: first npm i succeeded](https://www.reddit.com/r/javascript/comments/1pqjx3b/upgraded_a_node_angular_project_from_16_to_20/)
+- [[AskJS] Is anyone using SolidJs in production? What&#39;s your experience like?](https://www.reddit.com/r/javascript/comments/1pqhgfi/askjs_is_anyone_using_solidjs_in_production_whats/)
+- [Elm on the Backend with Node.js: An Experiment in Opaque Values](https://www.reddit.com/r/javascript/comments/1pqgpub/elm_on_the_backend_with_nodejs_an_experiment_in/)
+- [C-style scanning in JS &lpar;no parsing&rpar;](https://www.reddit.com/r/javascript/comments/1pqfgre/cstyle_scanning_in_js_no_parsing/)
 - [I got tired of manually creating folders from ChatGPT outputs, so I built a tiny CLI to do it for me](https://www.reddit.com/r/javascript/comments/1pq8kor/i_got_tired_of_manually_creating_folders_from/)
 - [Introducing RSC Explorer](https://www.reddit.com/r/javascript/comments/1ppvzgx/introducing_rsc_explorer/)
-- [Minification isn&#39;t obfuscation - Claude Code proves it](https://www.reddit.com/r/javascript/comments/1pprmsy/minification_isnt_obfuscation_claude_code_proves/)
-- [syntux - build deterministic, generative UIs.](https://www.reddit.com/r/javascript/comments/1ppras5/syntux_build_deterministic_generative_uis/)
-- [I built a TypeScript codebase analyzer using ASTs to generate deterministic context JSON files](https://www.reddit.com/r/javascript/comments/1ppouxh/i_built_a_typescript_codebase_analyzer_using_asts/)
-- [Looking for web developers to chat about a UI feedback tool for shipping web apps with confidence](https://www.reddit.com/r/javascript/comments/1pp9225/looking_for_web_developers_to_chat_about_a_ui/)
-- [[AskJS] GraphQL or WP rest API in 2026?](https://www.reddit.com/r/javascript/comments/1pp4v93/askjs_graphql_or_wp_rest_api_in_2026/)
-- [I built an open-source site that lets students play games at school](https://www.reddit.com/r/javascript/comments/1pozzkx/i_built_an_opensource_site_that_lets_students/)
-- [[AskJS] Finding reliable packages?](https://www.reddit.com/r/javascript/comments/1poyvj1/askjs_finding_reliable_packages/)
-- [I built a chess engine + AI entirely in JavaScript](https://www.reddit.com/r/javascript/comments/1pou7e5/i_built_a_chess_engine_ai_entirely_in_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
