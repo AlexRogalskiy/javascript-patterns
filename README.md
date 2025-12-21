@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Social Media API Posting and Interactions](https://www.reddit.com/r/javascript/comments/1prp774/social_media_api_posting_and_interactions/)
+- [I built a serverless file converter using React and WebAssembly &lpar;Client-Side&rpar;](https://www.reddit.com/r/javascript/comments/1prmokj/i_built_a_serverless_file_converter_using_react/)
+- [Component Design for JavaScript Frameworks](https://www.reddit.com/r/javascript/comments/1pritir/component_design_for_javascript_frameworks/)
+- [I built an open-source browser automation agent that automates and uses websites like a human](https://www.reddit.com/r/javascript/comments/1pri228/i_built_an_opensource_browser_automation_agent/)
+- [Letter &quot;Goodbye to scripting&quot;](https://www.reddit.com/r/javascript/comments/1pre8lg/letter_goodbye_to_scripting/)
+- [Looking for your feedback on a small design system I just released](https://www.reddit.com/r/javascript/comments/1prcqpb/looking_for_your_feedback_on_a_small_design/)
+- [Showoff Saturday &lpar;December 20, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1pr949t/showoff_saturday_december_20_2025/)
+- [How to make a game engine in javascript](https://www.reddit.com/r/javascript/comments/1pr44ag/how_to_make_a_game_engine_in_javascript/)
 - [[AskJS] Why everything is written in Javascript?](https://www.reddit.com/r/javascript/comments/1pqw2q5/askjs_why_everything_is_written_in_javascript/)
 - [modern ES6 rewrite of the original litegraph.js library](https://www.reddit.com/r/javascript/comments/1pqtqp7/modern_es6_rewrite_of_the_original_litegraphjs/)
-- [Small JavaScript enum function](https://www.reddit.com/r/javascript/comments/1pqm09r/small_javascript_enum_function/)
-- [Search, extract, vectorize and outline a topic base with AI Research Agent](https://www.reddit.com/r/javascript/comments/1pql29n/search_extract_vectorize_and_outline_a_topic_base/)
-- [Upgraded a Node Angular project from 16 to 20 without dependency hell: first npm i succeeded](https://www.reddit.com/r/javascript/comments/1pqjx3b/upgraded_a_node_angular_project_from_16_to_20/)
-- [[AskJS] Is anyone using SolidJs in production? What&#39;s your experience like?](https://www.reddit.com/r/javascript/comments/1pqhgfi/askjs_is_anyone_using_solidjs_in_production_whats/)
-- [Elm on the Backend with Node.js: An Experiment in Opaque Values](https://www.reddit.com/r/javascript/comments/1pqgpub/elm_on_the_backend_with_nodejs_an_experiment_in/)
-- [C-style scanning in JS &lpar;no parsing&rpar;](https://www.reddit.com/r/javascript/comments/1pqfgre/cstyle_scanning_in_js_no_parsing/)
-- [I got tired of manually creating folders from ChatGPT outputs, so I built a tiny CLI to do it for me](https://www.reddit.com/r/javascript/comments/1pq8kor/i_got_tired_of_manually_creating_folders_from/)
-- [Introducing RSC Explorer](https://www.reddit.com/r/javascript/comments/1ppvzgx/introducing_rsc_explorer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
