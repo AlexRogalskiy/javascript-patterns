@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [QFChart: Open Source Charting library for candlestick and technical indicator visualization with overlay, drawing tools and multi-pane support](https://www.reddit.com/r/javascript/comments/1psi6qx/qfchart_open_source_charting_library_for/)
+- [syntux - build generative UIs for the web.](https://www.reddit.com/r/javascript/comments/1psceqs/syntux_build_generative_uis_for_the_web/)
+- [Built an AI presentation tool in JavaScript with a real 1920×1080 canvas](https://www.reddit.com/r/javascript/comments/1ps1obp/built_an_ai_presentation_tool_in_javascript_with/)
 - [Social Media API Posting and Interactions](https://www.reddit.com/r/javascript/comments/1prp774/social_media_api_posting_and_interactions/)
 - [I built a serverless file converter using React and WebAssembly &lpar;Client-Side&rpar;](https://www.reddit.com/r/javascript/comments/1prmokj/i_built_a_serverless_file_converter_using_react/)
 - [Component Design for JavaScript Frameworks](https://www.reddit.com/r/javascript/comments/1pritir/component_design_for_javascript_frameworks/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Letter &quot;Goodbye to scripting&quot;](https://www.reddit.com/r/javascript/comments/1pre8lg/letter_goodbye_to_scripting/)
 - [Looking for your feedback on a small design system I just released](https://www.reddit.com/r/javascript/comments/1prcqpb/looking_for_your_feedback_on_a_small_design/)
 - [Showoff Saturday &lpar;December 20, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1pr949t/showoff_saturday_december_20_2025/)
-- [How to make a game engine in javascript](https://www.reddit.com/r/javascript/comments/1pr44ag/how_to_make_a_game_engine_in_javascript/)
-- [[AskJS] Why everything is written in Javascript?](https://www.reddit.com/r/javascript/comments/1pqw2q5/askjs_why_everything_is_written_in_javascript/)
-- [modern ES6 rewrite of the original litegraph.js library](https://www.reddit.com/r/javascript/comments/1pqtqp7/modern_es6_rewrite_of_the_original_litegraphjs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
