@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [QFChart: Open Source Charting library for candlestick and technical indicator visualization with overlay, drawing tools and multi-pane support](https://www.reddit.com/r/javascript/comments/1psi6qx/qfchart_open_source_charting_library_for/)
-- [syntux - build generative UIs for the web.](https://www.reddit.com/r/javascript/comments/1psceqs/syntux_build_generative_uis_for_the_web/)
-- [Built an AI presentation tool in JavaScript with a real 1920×1080 canvas](https://www.reddit.com/r/javascript/comments/1ps1obp/built_an_ai_presentation_tool_in_javascript_with/)
-- [Social Media API Posting and Interactions](https://www.reddit.com/r/javascript/comments/1prp774/social_media_api_posting_and_interactions/)
-- [I built a serverless file converter using React and WebAssembly &lpar;Client-Side&rpar;](https://www.reddit.com/r/javascript/comments/1prmokj/i_built_a_serverless_file_converter_using_react/)
-- [Component Design for JavaScript Frameworks](https://www.reddit.com/r/javascript/comments/1pritir/component_design_for_javascript_frameworks/)
-- [I built an open-source browser automation agent that automates and uses websites like a human](https://www.reddit.com/r/javascript/comments/1pri228/i_built_an_opensource_browser_automation_agent/)
-- [Letter &quot;Goodbye to scripting&quot;](https://www.reddit.com/r/javascript/comments/1pre8lg/letter_goodbye_to_scripting/)
-- [Looking for your feedback on a small design system I just released](https://www.reddit.com/r/javascript/comments/1prcqpb/looking_for_your_feedback_on_a_small_design/)
-- [Showoff Saturday &lpar;December 20, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1pr949t/showoff_saturday_december_20_2025/)
+- [[AskJS] Should I Stick with React or Switch to Vue for a Startup That Integrates Unity WebGL?](https://www.reddit.com/r/javascript/comments/1ptcgw6/askjs_should_i_stick_with_react_or_switch_to_vue/)
+- [ARM64 and X86_64 AI Audio Classification &lpar;521 Classes, YAMNet&rpar;](https://www.reddit.com/r/javascript/comments/1ptbhb9/arm64_and_x86_64_ai_audio_classification_521/)
+- [How Websites can Detect Vision-Based AI Agents like Claude Computer Use and Open AI Operator](https://www.reddit.com/r/javascript/comments/1pt7szr/how_websites_can_detect_visionbased_ai_agents/)
+- [ZenDB - Define Zod tables. Write raw SQL. Get typed objects.](https://www.reddit.com/r/javascript/comments/1pt6xtf/zendb_define_zod_tables_write_raw_sql_get_typed/)
+- [Musical Staff Package](https://www.reddit.com/r/javascript/comments/1pt69nw/musical_staff_package/)
+- [iso-bench: Isolated benchmarks to avoid optimization pollution](https://www.reddit.com/r/javascript/comments/1pt3fh8/isobench_isolated_benchmarks_to_avoid/)
+- [Your /r/javascript recap for the week of December 15 - December 21, 2025](https://www.reddit.com/r/javascript/comments/1pt2ivc/your_rjavascript_recap_for_the_week_of_december/)
+- [[AskJS] Should I take on this job interview?](https://www.reddit.com/r/javascript/comments/1pt1gov/askjs_should_i_take_on_this_job_interview/)
+- [Nuxt &amp; Cloudflare Vectorize: Setting up D1, Drizzle, and Workers AI](https://www.reddit.com/r/javascript/comments/1pszic9/nuxt_cloudflare_vectorize_setting_up_d1_drizzle/)
+- [Survey: Perceptions of artificial intelligence and its impact on work, income, and ethics](https://www.reddit.com/r/javascript/comments/1pstuaq/survey_perceptions_of_artificial_intelligence_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
