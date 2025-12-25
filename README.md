@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Should I Stick with React or Switch to Vue for a Startup That Integrates Unity WebGL?](https://www.reddit.com/r/javascript/comments/1ptcgw6/askjs_should_i_stick_with_react_or_switch_to_vue/)
-- [ARM64 and X86_64 AI Audio Classification &lpar;521 Classes, YAMNet&rpar;](https://www.reddit.com/r/javascript/comments/1ptbhb9/arm64_and_x86_64_ai_audio_classification_521/)
-- [How Websites can Detect Vision-Based AI Agents like Claude Computer Use and Open AI Operator](https://www.reddit.com/r/javascript/comments/1pt7szr/how_websites_can_detect_visionbased_ai_agents/)
-- [ZenDB - Define Zod tables. Write raw SQL. Get typed objects.](https://www.reddit.com/r/javascript/comments/1pt6xtf/zendb_define_zod_tables_write_raw_sql_get_typed/)
-- [Musical Staff Package](https://www.reddit.com/r/javascript/comments/1pt69nw/musical_staff_package/)
-- [iso-bench: Isolated benchmarks to avoid optimization pollution](https://www.reddit.com/r/javascript/comments/1pt3fh8/isobench_isolated_benchmarks_to_avoid/)
-- [Your /r/javascript recap for the week of December 15 - December 21, 2025](https://www.reddit.com/r/javascript/comments/1pt2ivc/your_rjavascript_recap_for_the_week_of_december/)
-- [[AskJS] Should I take on this job interview?](https://www.reddit.com/r/javascript/comments/1pt1gov/askjs_should_i_take_on_this_job_interview/)
-- [Nuxt &amp; Cloudflare Vectorize: Setting up D1, Drizzle, and Workers AI](https://www.reddit.com/r/javascript/comments/1pszic9/nuxt_cloudflare_vectorize_setting_up_d1_drizzle/)
-- [Survey: Perceptions of artificial intelligence and its impact on work, income, and ethics](https://www.reddit.com/r/javascript/comments/1pstuaq/survey_perceptions_of_artificial_intelligence_and/)
+- [Alpine.js Playground](https://www.reddit.com/r/javascript/comments/1puvz26/alpinejs_playground/)
+- [Get a walkthrough for anything by sharing your screen with AI &lpar;Open Source&rpar;](https://www.reddit.com/r/javascript/comments/1puvnd8/get_a_walkthrough_for_anything_by_sharing_your/)
+- [Your Next JS app is already hacked, you just don&#39;t know it yet - Also logs show nothing!](https://www.reddit.com/r/javascript/comments/1puj9ju/your_next_js_app_is_already_hacked_you_just_dont/)
+- [amqp-contract: Type-safe RabbitMQ/AMQP for TypeScript](https://www.reddit.com/r/javascript/comments/1pucoa3/amqpcontract_typesafe_rabbitmqamqp_for_typescript/)
+- [How to keep package.json under control](https://www.reddit.com/r/javascript/comments/1puaszb/how_to_keep_packagejson_under_control/)
+- [[AskJS] is there free repo to pull request for code review?](https://www.reddit.com/r/javascript/comments/1pu291q/askjs_is_there_free_repo_to_pull_request_for_code/)
+- [Fabrice Bellard Releases MicroQuickJS](https://www.reddit.com/r/javascript/comments/1pu17vg/fabrice_bellard_releases_microquickjs/)
+- [Small Avatune update + holiday assets &lpar;Merry Christmas &amp; Happy New Year&rpar;](https://www.reddit.com/r/javascript/comments/1ptzvi4/small_avatune_update_holiday_assets_merry/)
+- [LetItSnow.js - Free snow effect widget &lpar;1 line, no tracking, MIT licensed&rpar;](https://www.reddit.com/r/javascript/comments/1ptyepm/letitsnowjs_free_snow_effect_widget_1_line_no/)
+- [I made Yomi - repair messy LLM JSON, coerce it with Zod, get typed objects](https://www.reddit.com/r/javascript/comments/1ptrb5i/i_made_yomi_repair_messy_llm_json_coerce_it_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
