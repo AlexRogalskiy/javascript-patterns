@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Is this confusing?](https://www.reddit.com/r/javascript/comments/1pvssa2/askjs_is_this_confusing/)
 - [Alpine.js Playground](https://www.reddit.com/r/javascript/comments/1puvz26/alpinejs_playground/)
-- [Get a walkthrough for anything by sharing your screen with AI &lpar;Open Source&rpar;](https://www.reddit.com/r/javascript/comments/1puvnd8/get_a_walkthrough_for_anything_by_sharing_your/)
 - [Your Next JS app is already hacked, you just don&#39;t know it yet - Also logs show nothing!](https://www.reddit.com/r/javascript/comments/1puj9ju/your_next_js_app_is_already_hacked_you_just_dont/)
 - [amqp-contract: Type-safe RabbitMQ/AMQP for TypeScript](https://www.reddit.com/r/javascript/comments/1pucoa3/amqpcontract_typesafe_rabbitmqamqp_for_typescript/)
-- [How to keep package.json under control](https://www.reddit.com/r/javascript/comments/1puaszb/how_to_keep_packagejson_under_control/)
 - [[AskJS] is there free repo to pull request for code review?](https://www.reddit.com/r/javascript/comments/1pu291q/askjs_is_there_free_repo_to_pull_request_for_code/)
 - [Fabrice Bellard Releases MicroQuickJS](https://www.reddit.com/r/javascript/comments/1pu17vg/fabrice_bellard_releases_microquickjs/)
 - [Small Avatune update + holiday assets &lpar;Merry Christmas &amp; Happy New Year&rpar;](https://www.reddit.com/r/javascript/comments/1ptzvi4/small_avatune_update_holiday_assets_merry/)
 - [LetItSnow.js - Free snow effect widget &lpar;1 line, no tracking, MIT licensed&rpar;](https://www.reddit.com/r/javascript/comments/1ptyepm/letitsnowjs_free_snow_effect_widget_1_line_no/)
 - [I made Yomi - repair messy LLM JSON, coerce it with Zod, get typed objects](https://www.reddit.com/r/javascript/comments/1ptrb5i/i_made_yomi_repair_messy_llm_json_coerce_it_with/)
+- [[AskJS] Should I Stick with React or Switch to Vue for a Startup That Integrates Unity WebGL?](https://www.reddit.com/r/javascript/comments/1ptcgw6/askjs_should_i_stick_with_react_or_switch_to_vue/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
