@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [npm needs an analog to pnpm&#39;s minimumReleaseAge and yarn&#39;s npmMinimalAgeGate](https://www.reddit.com/r/javascript/comments/1py9723/npm_needs_an_analog_to_pnpms_minimumreleaseage/)
+- [[AskJS] So I guess Volta is dead?](https://www.reddit.com/r/javascript/comments/1py8ozq/askjs_so_i_guess_volta_is_dead/)
+- [Replacing JS with just HTML](https://www.reddit.com/r/javascript/comments/1py1rl9/replacing_js_with_just_html/)
+- [Xmas.JS a new JavaScript/Typescript Runtime in RUST](https://www.reddit.com/r/javascript/comments/1pxyejp/xmasjs_a_new_javascripttypescript_runtime_in_rust/)
+- [I built an offline semantic search engine in JS &lpar;no DB, no APIs&rpar;, Feedback Appreciated](https://www.reddit.com/r/javascript/comments/1pxnwde/i_built_an_offline_semantic_search_engine_in_js/)
 - [[AskJS] Is there an open-source resource for AES cryptography? Specifically, GCM?](https://www.reddit.com/r/javascript/comments/1pxdr8n/askjs_is_there_an_opensource_resource_for_aes/)
 - [[AskJS] What do you think makes a debugging tool actually helpful for beginners?](https://www.reddit.com/r/javascript/comments/1pxbn7x/askjs_what_do_you_think_makes_a_debugging_tool/)
-- [Connect four online](https://www.reddit.com/r/javascript/comments/1pxants/connect_four_online/)
 - [Social Media API Posting and Interactions](https://www.reddit.com/r/javascript/comments/1px932i/social_media_api_posting_and_interactions/)
 - [[AskJS] How do you read an AST with certainty?](https://www.reddit.com/r/javascript/comments/1px5g9s/askjs_how_do_you_read_an_ast_with_certainty/)
 - [I built an oxlint plugin for cyclomatic and cognitive complexity](https://www.reddit.com/r/javascript/comments/1px4pyh/i_built_an_oxlint_plugin_for_cyclomatic_and/)
-- [[AskJS] How do you find a good code buddy for DSA &amp; system design?](https://www.reddit.com/r/javascript/comments/1pwudf6/askjs_how_do_you_find_a_good_code_buddy_for_dsa/)
-- [Showoff Saturday &lpar;December 27, 2025&rpar;](https://www.reddit.com/r/javascript/comments/1pwsew2/showoff_saturday_december_27_2025/)
-- [just made my first code with a bit of chatgpt&#39;s help](https://www.reddit.com/r/javascript/comments/1pwlu3s/just_made_my_first_code_with_a_bit_of_chatgpts/)
-- [TR-808 drum machine with Web Audio API and React - interesting audio programming example](https://www.reddit.com/r/javascript/comments/1pwdl16/tr808_drum_machine_with_web_audio_api_and_react/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
