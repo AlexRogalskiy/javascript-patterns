@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Program on Paper or iPad/iPhone](https://www.reddit.com/r/javascript/comments/1pzw772/program_on_paper_or_ipadiphone/)
+- [Vertana: LLM-powered agentic translation library for JavaScript/TypeScript](https://www.reddit.com/r/javascript/comments/1pzgun9/vertana_llmpowered_agentic_translation_library/)
+- [Deep dive: Building a viral word game with JavaScript - Performance, algorithms, and architecture](https://www.reddit.com/r/javascript/comments/1pzc7lf/deep_dive_building_a_viral_word_game_with/)
+- [ARM64 and X86_64 AI Audio Classification &lpar;521 Classes, YAMNet&rpar;](https://www.reddit.com/r/javascript/comments/1pyypjm/arm64_and_x86_64_ai_audio_classification_521/)
+- [Spent 3 hours debugging a failed Stripe webhook. Built this tool so you won&#39;t have to.](https://www.reddit.com/r/javascript/comments/1pysrf0/spent_3_hours_debugging_a_failed_stripe_webhook/)
+- [Why Object of Arrays &lpar;SoA pattern&rpar; beat interleaved arrays: a JavaScript performance rabbit hole](https://www.reddit.com/r/javascript/comments/1pysn08/why_object_of_arrays_soa_pattern_beat_interleaved/)
+- [syntux - build generative UIs for the web. Now streamable!](https://www.reddit.com/r/javascript/comments/1pynrjq/syntux_build_generative_uis_for_the_web_now/)
+- [I created a tiny JS type-checker module &lpar;Node + browser&rpar; — would love some honest feedback](https://www.reddit.com/r/javascript/comments/1pyj5fj/i_created_a_tiny_js_typechecker_module_node/)
+- [[AskJS] Do you trust AI-generated frontend code in production?](https://www.reddit.com/r/javascript/comments/1pybmug/askjs_do_you_trust_aigenerated_frontend_code_in/)
 - [npm needs an analog to pnpm&#39;s minimumReleaseAge and yarn&#39;s npmMinimalAgeGate](https://www.reddit.com/r/javascript/comments/1py9723/npm_needs_an_analog_to_pnpms_minimumreleaseage/)
-- [[AskJS] So I guess Volta is dead?](https://www.reddit.com/r/javascript/comments/1py8ozq/askjs_so_i_guess_volta_is_dead/)
-- [Replacing JS with just HTML](https://www.reddit.com/r/javascript/comments/1py1rl9/replacing_js_with_just_html/)
-- [Xmas.JS a new JavaScript/Typescript Runtime in RUST](https://www.reddit.com/r/javascript/comments/1pxyejp/xmasjs_a_new_javascripttypescript_runtime_in_rust/)
-- [I built an offline semantic search engine in JS &lpar;no DB, no APIs&rpar;, Feedback Appreciated](https://www.reddit.com/r/javascript/comments/1pxnwde/i_built_an_offline_semantic_search_engine_in_js/)
-- [[AskJS] Is there an open-source resource for AES cryptography? Specifically, GCM?](https://www.reddit.com/r/javascript/comments/1pxdr8n/askjs_is_there_an_opensource_resource_for_aes/)
-- [[AskJS] What do you think makes a debugging tool actually helpful for beginners?](https://www.reddit.com/r/javascript/comments/1pxbn7x/askjs_what_do_you_think_makes_a_debugging_tool/)
-- [Social Media API Posting and Interactions](https://www.reddit.com/r/javascript/comments/1px932i/social_media_api_posting_and_interactions/)
-- [[AskJS] How do you read an AST with certainty?](https://www.reddit.com/r/javascript/comments/1px5g9s/askjs_how_do_you_read_an_ast_with_certainty/)
-- [I built an oxlint plugin for cyclomatic and cognitive complexity](https://www.reddit.com/r/javascript/comments/1px4pyh/i_built_an_oxlint_plugin_for_cyclomatic_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
