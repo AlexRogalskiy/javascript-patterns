@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Reddo.js: I built a tiny undo/redo lib for VanillaJS, React, Vue, and Svelte](https://www.reddit.com/r/javascript/comments/1q0ruyj/reddojs_i_built_a_tiny_undoredo_lib_for_vanillajs/)
+- [Fellow humans, it is 2026-01-01T00:00:00+00:00.](https://www.reddit.com/r/javascript/comments/1q0qvhk/fellow_humans_it_is_20260101t0000000000/)
+- [[AskJS] Current MERN stack salary](https://www.reddit.com/r/javascript/comments/1q0ptot/askjs_current_mern_stack_salary/)
+- [[AskJS] Would you choose Refine or plain React for a long-term ERP project?](https://www.reddit.com/r/javascript/comments/1q0oht0/askjs_would_you_choose_refine_or_plain_react_for/)
+- [Fict – A compiler that makes JavaScript variables automatically reactive](https://www.reddit.com/r/javascript/comments/1q0g6wc/fict_a_compiler_that_makes_javascript_variables/)
+- [is this small game I made with javascript any fun?](https://www.reddit.com/r/javascript/comments/1q0f3xy/is_this_small_game_i_made_with_javascript_any_fun/)
+- [FracturedJson v5 released - highly readable JSON formatting for JavaScript, .NET, Python, and VSCode](https://www.reddit.com/r/javascript/comments/1q0dv4e/fracturedjson_v5_released_highly_readable_json/)
+- [[AskJS] Does anybody know how to explain how your components are connected in your project through a diagram? &lpar;React&rpar;](https://www.reddit.com/r/javascript/comments/1q06q7g/askjs_does_anybody_know_how_to_explain_how_your/)
 - [Program on Paper or iPad/iPhone](https://www.reddit.com/r/javascript/comments/1pzw772/program_on_paper_or_ipadiphone/)
 - [Vertana: LLM-powered agentic translation library for JavaScript/TypeScript](https://www.reddit.com/r/javascript/comments/1pzgun9/vertana_llmpowered_agentic_translation_library/)
-- [Deep dive: Building a viral word game with JavaScript - Performance, algorithms, and architecture](https://www.reddit.com/r/javascript/comments/1pzc7lf/deep_dive_building_a_viral_word_game_with/)
-- [ARM64 and X86_64 AI Audio Classification &lpar;521 Classes, YAMNet&rpar;](https://www.reddit.com/r/javascript/comments/1pyypjm/arm64_and_x86_64_ai_audio_classification_521/)
-- [Spent 3 hours debugging a failed Stripe webhook. Built this tool so you won&#39;t have to.](https://www.reddit.com/r/javascript/comments/1pysrf0/spent_3_hours_debugging_a_failed_stripe_webhook/)
-- [Why Object of Arrays &lpar;SoA pattern&rpar; beat interleaved arrays: a JavaScript performance rabbit hole](https://www.reddit.com/r/javascript/comments/1pysn08/why_object_of_arrays_soa_pattern_beat_interleaved/)
-- [syntux - build generative UIs for the web. Now streamable!](https://www.reddit.com/r/javascript/comments/1pynrjq/syntux_build_generative_uis_for_the_web_now/)
-- [I created a tiny JS type-checker module &lpar;Node + browser&rpar; — would love some honest feedback](https://www.reddit.com/r/javascript/comments/1pyj5fj/i_created_a_tiny_js_typechecker_module_node/)
-- [[AskJS] Do you trust AI-generated frontend code in production?](https://www.reddit.com/r/javascript/comments/1pybmug/askjs_do_you_trust_aigenerated_frontend_code_in/)
-- [npm needs an analog to pnpm&#39;s minimumReleaseAge and yarn&#39;s npmMinimalAgeGate](https://www.reddit.com/r/javascript/comments/1py9723/npm_needs_an_analog_to_pnpms_minimumreleaseage/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
