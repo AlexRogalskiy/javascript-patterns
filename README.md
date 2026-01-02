@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Made my first JS library; could someone please help me set it up](https://www.reddit.com/r/javascript/comments/1q1jgl6/made_my_first_js_library_could_someone_please/)
+- [Happy to release my working v1.2.1 for dotenv-gad](https://www.reddit.com/r/javascript/comments/1q16mf1/happy_to_release_my_working_v121_for_dotenvgad/)
+- [GitHub - beep8/beep8-sdk: SDK for developing games and tools for the BEEP-8 fantasy console.](https://www.reddit.com/r/javascript/comments/1q1405z/github_beep8beep8sdk_sdk_for_developing_games_and/)
+- [GitHub - supunlakmal/spreadsheet: A lightweight, client-only spreadsheet web application. All data persists in the URL hash for instant sharing—no backend required.](https://www.reddit.com/r/javascript/comments/1q0zone/github_supunlakmalspreadsheet_a_lightweight/)
+- [syntux - build generative UIs for the web.](https://www.reddit.com/r/javascript/comments/1q0yf43/syntux_build_generative_uis_for_the_web/)
 - [Reddo.js: I built a tiny undo/redo lib for VanillaJS, React, Vue, and Svelte](https://www.reddit.com/r/javascript/comments/1q0ruyj/reddojs_i_built_a_tiny_undoredo_lib_for_vanillajs/)
 - [Fellow humans, it is 2026-01-01T00:00:00+00:00.](https://www.reddit.com/r/javascript/comments/1q0qvhk/fellow_humans_it_is_20260101t0000000000/)
 - [[AskJS] Current MERN stack salary](https://www.reddit.com/r/javascript/comments/1q0ptot/askjs_current_mern_stack_salary/)
 - [[AskJS] Would you choose Refine or plain React for a long-term ERP project?](https://www.reddit.com/r/javascript/comments/1q0oht0/askjs_would_you_choose_refine_or_plain_react_for/)
 - [Fict – A compiler that makes JavaScript variables automatically reactive](https://www.reddit.com/r/javascript/comments/1q0g6wc/fict_a_compiler_that_makes_javascript_variables/)
-- [is this small game I made with javascript any fun?](https://www.reddit.com/r/javascript/comments/1q0f3xy/is_this_small_game_i_made_with_javascript_any_fun/)
-- [FracturedJson v5 released - highly readable JSON formatting for JavaScript, .NET, Python, and VSCode](https://www.reddit.com/r/javascript/comments/1q0dv4e/fracturedjson_v5_released_highly_readable_json/)
-- [[AskJS] Does anybody know how to explain how your components are connected in your project through a diagram? &lpar;React&rpar;](https://www.reddit.com/r/javascript/comments/1q06q7g/askjs_does_anybody_know_how_to_explain_how_your/)
-- [Program on Paper or iPad/iPhone](https://www.reddit.com/r/javascript/comments/1pzw772/program_on_paper_or_ipadiphone/)
-- [Vertana: LLM-powered agentic translation library for JavaScript/TypeScript](https://www.reddit.com/r/javascript/comments/1pzgun9/vertana_llmpowered_agentic_translation_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
