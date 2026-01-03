@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [An Express library for centralized error handling](https://www.reddit.com/r/javascript/comments/1q1yzpz/an_express_library_for_centralized_error_handling/)
+- [FuncScript -The JS library with only functions](https://www.reddit.com/r/javascript/comments/1q1npsy/funcscript_the_js_library_with_only_functions/)
 - [Made my first JS library; could someone please help me set it up](https://www.reddit.com/r/javascript/comments/1q1jgl6/made_my_first_js_library_could_someone_please/)
 - [Happy to release my working v1.2.1 for dotenv-gad](https://www.reddit.com/r/javascript/comments/1q16mf1/happy_to_release_my_working_v121_for_dotenvgad/)
 - [GitHub - beep8/beep8-sdk: SDK for developing games and tools for the BEEP-8 fantasy console.](https://www.reddit.com/r/javascript/comments/1q1405z/github_beep8beep8sdk_sdk_for_developing_games_and/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Reddo.js: I built a tiny undo/redo lib for VanillaJS, React, Vue, and Svelte](https://www.reddit.com/r/javascript/comments/1q0ruyj/reddojs_i_built_a_tiny_undoredo_lib_for_vanillajs/)
 - [Fellow humans, it is 2026-01-01T00:00:00+00:00.](https://www.reddit.com/r/javascript/comments/1q0qvhk/fellow_humans_it_is_20260101t0000000000/)
 - [[AskJS] Current MERN stack salary](https://www.reddit.com/r/javascript/comments/1q0ptot/askjs_current_mern_stack_salary/)
-- [[AskJS] Would you choose Refine or plain React for a long-term ERP project?](https://www.reddit.com/r/javascript/comments/1q0oht0/askjs_would_you_choose_refine_or_plain_react_for/)
-- [Fict – A compiler that makes JavaScript variables automatically reactive](https://www.reddit.com/r/javascript/comments/1q0g6wc/fict_a_compiler_that_makes_javascript_variables/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
