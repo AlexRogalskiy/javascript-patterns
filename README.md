@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [introducing NeoComp, a new concept framework that merges imperative with declarative](https://www.reddit.com/r/javascript/comments/1q319pq/introducing_neocomp_a_new_concept_framework_that/)
+- [Showoff Saturday &lpar;January 03, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1q2oyzj/showoff_saturday_january_03_2026/)
 - [An Express library for centralized error handling](https://www.reddit.com/r/javascript/comments/1q1yzpz/an_express_library_for_centralized_error_handling/)
 - [FuncScript -The JS library with only functions](https://www.reddit.com/r/javascript/comments/1q1npsy/funcscript_the_js_library_with_only_functions/)
 - [Made my first JS library; could someone please help me set it up](https://www.reddit.com/r/javascript/comments/1q1jgl6/made_my_first_js_library_could_someone_please/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [GitHub - supunlakmal/spreadsheet: A lightweight, client-only spreadsheet web application. All data persists in the URL hash for instant sharing—no backend required.](https://www.reddit.com/r/javascript/comments/1q0zone/github_supunlakmalspreadsheet_a_lightweight/)
 - [syntux - build generative UIs for the web.](https://www.reddit.com/r/javascript/comments/1q0yf43/syntux_build_generative_uis_for_the_web/)
 - [Reddo.js: I built a tiny undo/redo lib for VanillaJS, React, Vue, and Svelte](https://www.reddit.com/r/javascript/comments/1q0ruyj/reddojs_i_built_a_tiny_undoredo_lib_for_vanillajs/)
-- [Fellow humans, it is 2026-01-01T00:00:00+00:00.](https://www.reddit.com/r/javascript/comments/1q0qvhk/fellow_humans_it_is_20260101t0000000000/)
-- [[AskJS] Current MERN stack salary](https://www.reddit.com/r/javascript/comments/1q0ptot/askjs_current_mern_stack_salary/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
