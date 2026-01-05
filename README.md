@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Should I Learn javascript?](https://www.reddit.com/r/javascript/comments/1q49hii/askjs_should_i_learn_javascript/)
+- [Functional Programming + Rust Inspired Code Style Library!](https://www.reddit.com/r/javascript/comments/1q3qrmm/functional_programming_rust_inspired_code_style/)
 - [introducing NeoComp, a new concept framework that merges imperative with declarative](https://www.reddit.com/r/javascript/comments/1q319pq/introducing_neocomp_a_new_concept_framework_that/)
 - [Showoff Saturday &lpar;January 03, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1q2oyzj/showoff_saturday_january_03_2026/)
 - [An Express library for centralized error handling](https://www.reddit.com/r/javascript/comments/1q1yzpz/an_express_library_for_centralized_error_handling/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Happy to release my working v1.2.1 for dotenv-gad](https://www.reddit.com/r/javascript/comments/1q16mf1/happy_to_release_my_working_v121_for_dotenvgad/)
 - [GitHub - beep8/beep8-sdk: SDK for developing games and tools for the BEEP-8 fantasy console.](https://www.reddit.com/r/javascript/comments/1q1405z/github_beep8beep8sdk_sdk_for_developing_games_and/)
 - [GitHub - supunlakmal/spreadsheet: A lightweight, client-only spreadsheet web application. All data persists in the URL hash for instant sharing—no backend required.](https://www.reddit.com/r/javascript/comments/1q0zone/github_supunlakmalspreadsheet_a_lightweight/)
-- [syntux - build generative UIs for the web.](https://www.reddit.com/r/javascript/comments/1q0yf43/syntux_build_generative_uis_for_the_web/)
-- [Reddo.js: I built a tiny undo/redo lib for VanillaJS, React, Vue, and Svelte](https://www.reddit.com/r/javascript/comments/1q0ruyj/reddojs_i_built_a_tiny_undoredo_lib_for_vanillajs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
