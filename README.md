@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Javascript editor with custom tags](https://www.reddit.com/r/javascript/comments/1q4urh7/askjs_javascript_editor_with_custom_tags/)
+- [Annoucing WebF Beta: Bring JavaScript and the Web dev to Flutter](https://www.reddit.com/r/javascript/comments/1q4tlf8/annoucing_webf_beta_bring_javascript_and_the_web/)
+- [[AskJS] :: Am I using AI coding tools wrong? My projects keep drifting over time](https://www.reddit.com/r/javascript/comments/1q4q7uo/askjs_am_i_using_ai_coding_tools_wrong_my/)
+- [JavaScript engines zoo](https://www.reddit.com/r/javascript/comments/1q4mfyl/javascript_engines_zoo/)
+- [[AskJS] Am I learning JS from correct resource?](https://www.reddit.com/r/javascript/comments/1q4le6w/askjs_am_i_learning_js_from_correct_resource/)
+- [[AskJS] .innerText vs .textContent](https://www.reddit.com/r/javascript/comments/1q4kf9r/askjs_innertext_vs_textcontent/)
+- [Your /r/javascript recap for the week of December 29 - January 04, 2026](https://www.reddit.com/r/javascript/comments/1q4hu4f/your_rjavascript_recap_for_the_week_of_december/)
+- [Anyone have experience submitting extensions using WXT?](https://www.reddit.com/r/javascript/comments/1q4gkfh/anyone_have_experience_submitting_extensions/)
+- [[AskJS] :: AI coding tools keep breaking architecture — so I built a guard layer. Would love honest feedback.](https://www.reddit.com/r/javascript/comments/1q4frkg/askjs_ai_coding_tools_keep_breaking_architecture/)
 - [[AskJS] Should I Learn javascript?](https://www.reddit.com/r/javascript/comments/1q49hii/askjs_should_i_learn_javascript/)
-- [Functional Programming + Rust Inspired Code Style Library!](https://www.reddit.com/r/javascript/comments/1q3qrmm/functional_programming_rust_inspired_code_style/)
-- [introducing NeoComp, a new concept framework that merges imperative with declarative](https://www.reddit.com/r/javascript/comments/1q319pq/introducing_neocomp_a_new_concept_framework_that/)
-- [Showoff Saturday &lpar;January 03, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1q2oyzj/showoff_saturday_january_03_2026/)
-- [An Express library for centralized error handling](https://www.reddit.com/r/javascript/comments/1q1yzpz/an_express_library_for_centralized_error_handling/)
-- [FuncScript -The JS library with only functions](https://www.reddit.com/r/javascript/comments/1q1npsy/funcscript_the_js_library_with_only_functions/)
-- [Made my first JS library; could someone please help me set it up](https://www.reddit.com/r/javascript/comments/1q1jgl6/made_my_first_js_library_could_someone_please/)
-- [Happy to release my working v1.2.1 for dotenv-gad](https://www.reddit.com/r/javascript/comments/1q16mf1/happy_to_release_my_working_v121_for_dotenvgad/)
-- [GitHub - beep8/beep8-sdk: SDK for developing games and tools for the BEEP-8 fantasy console.](https://www.reddit.com/r/javascript/comments/1q1405z/github_beep8beep8sdk_sdk_for_developing_games_and/)
-- [GitHub - supunlakmal/spreadsheet: A lightweight, client-only spreadsheet web application. All data persists in the URL hash for instant sharing—no backend required.](https://www.reddit.com/r/javascript/comments/1q0zone/github_supunlakmalspreadsheet_a_lightweight/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
