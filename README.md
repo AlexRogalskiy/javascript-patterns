@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I built a library that compresses JSON keys over the wire and transparently expands them on the client](https://www.reddit.com/r/javascript/comments/1q60fgz/i_built_a_library_that_compresses_json_keys_over/)
+- [Backpressure in JavaScript: The Hidden Force Behind Streams, Fetch, and Async Code](https://www.reddit.com/r/javascript/comments/1q5y2p7/backpressure_in_javascript_the_hidden_force/)
+- [Nested json ? no worry you can visualize here | jsonmaster](https://www.reddit.com/r/javascript/comments/1q5pw9f/nested_json_no_worry_you_can_visualize_here/)
+- [Built a new hybrid programming language - Epoxy](https://www.reddit.com/r/javascript/comments/1q5hjde/built_a_new_hybrid_programming_language_epoxy/)
+- [I built a deterministic engine to verify peer-dependency health because npm install hides too many errors](https://www.reddit.com/r/javascript/comments/1q5grl8/i_built_a_deterministic_engine_to_verify/)
+- [Pre-tenuring in V8](https://www.reddit.com/r/javascript/comments/1q5dch1/pretenuring_in_v8/)
+- [I built a Neural Link for my JS Application Engine to let AI agents hot-patch it live](https://www.reddit.com/r/javascript/comments/1q5daho/i_built_a_neural_link_for_my_js_application/)
+- [Streaming JSON in just 200 lines of JavaScript](https://www.reddit.com/r/javascript/comments/1q5bqaf/streaming_json_in_just_200_lines_of_javascript/)
 - [[AskJS] Javascript editor with custom tags](https://www.reddit.com/r/javascript/comments/1q4urh7/askjs_javascript_editor_with_custom_tags/)
 - [Annoucing WebF Beta: Bring JavaScript and the Web dev to Flutter](https://www.reddit.com/r/javascript/comments/1q4tlf8/annoucing_webf_beta_bring_javascript_and_the_web/)
-- [[AskJS] :: Am I using AI coding tools wrong? My projects keep drifting over time](https://www.reddit.com/r/javascript/comments/1q4q7uo/askjs_am_i_using_ai_coding_tools_wrong_my/)
-- [JavaScript engines zoo](https://www.reddit.com/r/javascript/comments/1q4mfyl/javascript_engines_zoo/)
-- [[AskJS] Am I learning JS from correct resource?](https://www.reddit.com/r/javascript/comments/1q4le6w/askjs_am_i_learning_js_from_correct_resource/)
-- [[AskJS] .innerText vs .textContent](https://www.reddit.com/r/javascript/comments/1q4kf9r/askjs_innertext_vs_textcontent/)
-- [Your /r/javascript recap for the week of December 29 - January 04, 2026](https://www.reddit.com/r/javascript/comments/1q4hu4f/your_rjavascript_recap_for_the_week_of_december/)
-- [Anyone have experience submitting extensions using WXT?](https://www.reddit.com/r/javascript/comments/1q4gkfh/anyone_have_experience_submitting_extensions/)
-- [[AskJS] :: AI coding tools keep breaking architecture — so I built a guard layer. Would love honest feedback.](https://www.reddit.com/r/javascript/comments/1q4frkg/askjs_ai_coding_tools_keep_breaking_architecture/)
-- [[AskJS] Should I Learn javascript?](https://www.reddit.com/r/javascript/comments/1q49hii/askjs_should_i_learn_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
