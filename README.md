@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I built a CLI tool that makes utility-first CSS &lpar;Tailwind, Bootstrap&rpar; render 50% faster in the browser [open source]](https://www.reddit.com/r/javascript/comments/1q6xe5f/i_built_a_cli_tool_that_makes_utilityfirst_css/)
+- [I wrote the first zero-dependency PSLQ algorithm in pure JavaScript &lpar;based on mpmath&rpar;](https://www.reddit.com/r/javascript/comments/1q6wwa0/i_wrote_the_first_zerodependency_pslq_algorithm/)
+- [&quot;Just enable Gzip&quot; - Sure, but 68% of production sites haven&#39;t. TerseJSON is for the rest of us.](https://www.reddit.com/r/javascript/comments/1q6hyld/just_enable_gzip_sure_but_68_of_production_sites/)
+- [We chose Tauri over Electron. 18 months later, WebKit is breaking us.](https://www.reddit.com/r/javascript/comments/1q6hts7/we_chose_tauri_over_electron_18_months_later/)
+- [The 33 JS Concepts repo &lpar;63k+ stars&rpar; went from a list of links to a website with in-depth explanations for every concept](https://www.reddit.com/r/javascript/comments/1q6gjl0/the_33_js_concepts_repo_63k_stars_went_from_a/)
+- [Built a self-evolving codebase - anyone can PR, community votes, winner gets merged every Sunday](https://www.reddit.com/r/javascript/comments/1q6ca6l/built_a_selfevolving_codebase_anyone_can_pr/)
+- [Injee - The no configuration instant Database for front end developers.](https://www.reddit.com/r/javascript/comments/1q67juz/injee_the_no_configuration_instant_database_for/)
 - [I built a library that compresses JSON keys over the wire and transparently expands them on the client](https://www.reddit.com/r/javascript/comments/1q60fgz/i_built_a_library_that_compresses_json_keys_over/)
 - [Backpressure in JavaScript: The Hidden Force Behind Streams, Fetch, and Async Code](https://www.reddit.com/r/javascript/comments/1q5y2p7/backpressure_in_javascript_the_hidden_force/)
 - [Nested json ? no worry you can visualize here | jsonmaster](https://www.reddit.com/r/javascript/comments/1q5pw9f/nested_json_no_worry_you_can_visualize_here/)
-- [Built a new hybrid programming language - Epoxy](https://www.reddit.com/r/javascript/comments/1q5hjde/built_a_new_hybrid_programming_language_epoxy/)
-- [I built a deterministic engine to verify peer-dependency health because npm install hides too many errors](https://www.reddit.com/r/javascript/comments/1q5grl8/i_built_a_deterministic_engine_to_verify/)
-- [Pre-tenuring in V8](https://www.reddit.com/r/javascript/comments/1q5dch1/pretenuring_in_v8/)
-- [I built a Neural Link for my JS Application Engine to let AI agents hot-patch it live](https://www.reddit.com/r/javascript/comments/1q5daho/i_built_a_neural_link_for_my_js_application/)
-- [Streaming JSON in just 200 lines of JavaScript](https://www.reddit.com/r/javascript/comments/1q5bqaf/streaming_json_in_just_200_lines_of_javascript/)
-- [[AskJS] Javascript editor with custom tags](https://www.reddit.com/r/javascript/comments/1q4urh7/askjs_javascript_editor_with_custom_tags/)
-- [Annoucing WebF Beta: Bring JavaScript and the Web dev to Flutter](https://www.reddit.com/r/javascript/comments/1q4tlf8/annoucing_webf_beta_bring_javascript_and_the_web/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
