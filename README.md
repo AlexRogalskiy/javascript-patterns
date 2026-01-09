@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I built a CLI tool that makes utility-first CSS &lpar;Tailwind, Bootstrap&rpar; render 50% faster in the browser [open source]](https://www.reddit.com/r/javascript/comments/1q6xe5f/i_built_a_cli_tool_that_makes_utilityfirst_css/)
-- [I wrote the first zero-dependency PSLQ algorithm in pure JavaScript &lpar;based on mpmath&rpar;](https://www.reddit.com/r/javascript/comments/1q6wwa0/i_wrote_the_first_zerodependency_pslq_algorithm/)
-- [&quot;Just enable Gzip&quot; - Sure, but 68% of production sites haven&#39;t. TerseJSON is for the rest of us.](https://www.reddit.com/r/javascript/comments/1q6hyld/just_enable_gzip_sure_but_68_of_production_sites/)
-- [We chose Tauri over Electron. 18 months later, WebKit is breaking us.](https://www.reddit.com/r/javascript/comments/1q6hts7/we_chose_tauri_over_electron_18_months_later/)
-- [The 33 JS Concepts repo &lpar;63k+ stars&rpar; went from a list of links to a website with in-depth explanations for every concept](https://www.reddit.com/r/javascript/comments/1q6gjl0/the_33_js_concepts_repo_63k_stars_went_from_a/)
-- [Built a self-evolving codebase - anyone can PR, community votes, winner gets merged every Sunday](https://www.reddit.com/r/javascript/comments/1q6ca6l/built_a_selfevolving_codebase_anyone_can_pr/)
-- [Injee - The no configuration instant Database for front end developers.](https://www.reddit.com/r/javascript/comments/1q67juz/injee_the_no_configuration_instant_database_for/)
-- [I built a library that compresses JSON keys over the wire and transparently expands them on the client](https://www.reddit.com/r/javascript/comments/1q60fgz/i_built_a_library_that_compresses_json_keys_over/)
-- [Backpressure in JavaScript: The Hidden Force Behind Streams, Fetch, and Async Code](https://www.reddit.com/r/javascript/comments/1q5y2p7/backpressure_in_javascript_the_hidden_force/)
-- [Nested json ? no worry you can visualize here | jsonmaster](https://www.reddit.com/r/javascript/comments/1q5pw9f/nested_json_no_worry_you_can_visualize_here/)
+- [I’ve been building an open-source 2D canvas engine for interactive editors — looking for feedback](https://www.reddit.com/r/javascript/comments/1q7r16h/ive_been_building_an_opensource_2d_canvas_engine/)
+- [Open source library that cuts JSON memory allocation by 70% - with zero-config database wrappers for MongoDB, PostgreSQL, MySQL](https://www.reddit.com/r/javascript/comments/1q7qwjq/open_source_library_that_cuts_json_memory/)
+- [Fastest rising JS projects last year - n8n, React Bits, shadcn, Excalidraw](https://www.reddit.com/r/javascript/comments/1q7p39a/fastest_rising_js_projects_last_year_n8n_react/)
+- [Scaffold production-ready MCP servers &lpar;TypeScript&rpar; in seconds with create-mcp-server](https://www.reddit.com/r/javascript/comments/1q7nuei/scaffold_productionready_mcp_servers_typescript/)
+- [I made a peer-to-peer online chess game all in JS, HTML, and CSS](https://www.reddit.com/r/javascript/comments/1q7joro/i_made_a_peertopeer_online_chess_game_all_in_js/)
+- [Mini-Signals 3.0.0](https://www.reddit.com/r/javascript/comments/1q7h9ll/minisignals_300/)
+- [[AskJS] Javascript - a part of Java?](https://www.reddit.com/r/javascript/comments/1q7glz7/askjs_javascript_a_part_of_java/)
+- [I just released V2 of the Boilerplate API &lpar;CLI&rpar;](https://www.reddit.com/r/javascript/comments/1q7c6x2/i_just_released_v2_of_the_boilerplate_api_cli/)
+- [Interview: David Haz, creator of React Bits](https://www.reddit.com/r/javascript/comments/1q7b9gi/interview_david_haz_creator_of_react_bits/)
+- [Why I chose Nuxt 4 over React for my 7-day SaaS sprint &lpar;The &quot;Muscle Memory&quot; Stack&rpar;](https://www.reddit.com/r/javascript/comments/1q7atbe/why_i_chose_nuxt_4_over_react_for_my_7day_saas/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
