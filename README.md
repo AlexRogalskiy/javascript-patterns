@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Is there a linter rule that can prevent classes being used just as namespaces.](https://www.reddit.com/r/javascript/comments/1q8bmvu/askjs_is_there_a_linter_rule_that_can_prevent/)
+- [[AskJS] Recommend a vanilla ES6 JSON -&gt; Form generator](https://www.reddit.com/r/javascript/comments/1q88zvf/askjs_recommend_a_vanilla_es6_json_form_generator/)
+- [[AskJS] What should I learn to get a job as Javascript Developer in 2026](https://www.reddit.com/r/javascript/comments/1q81a3c/askjs_what_should_i_learn_to_get_a_job_as/)
 - [I’ve been building an open-source 2D canvas engine for interactive editors — looking for feedback](https://www.reddit.com/r/javascript/comments/1q7r16h/ive_been_building_an_opensource_2d_canvas_engine/)
 - [Open source library that cuts JSON memory allocation by 70% - with zero-config database wrappers for MongoDB, PostgreSQL, MySQL](https://www.reddit.com/r/javascript/comments/1q7qwjq/open_source_library_that_cuts_json_memory/)
 - [Fastest rising JS projects last year - n8n, React Bits, shadcn, Excalidraw](https://www.reddit.com/r/javascript/comments/1q7p39a/fastest_rising_js_projects_last_year_n8n_react/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [I made a peer-to-peer online chess game all in JS, HTML, and CSS](https://www.reddit.com/r/javascript/comments/1q7joro/i_made_a_peertopeer_online_chess_game_all_in_js/)
 - [Mini-Signals 3.0.0](https://www.reddit.com/r/javascript/comments/1q7h9ll/minisignals_300/)
 - [[AskJS] Javascript - a part of Java?](https://www.reddit.com/r/javascript/comments/1q7glz7/askjs_javascript_a_part_of_java/)
-- [I just released V2 of the Boilerplate API &lpar;CLI&rpar;](https://www.reddit.com/r/javascript/comments/1q7c6x2/i_just_released_v2_of_the_boilerplate_api_cli/)
-- [Interview: David Haz, creator of React Bits](https://www.reddit.com/r/javascript/comments/1q7b9gi/interview_david_haz_creator_of_react_bits/)
-- [Why I chose Nuxt 4 over React for my 7-day SaaS sprint &lpar;The &quot;Muscle Memory&quot; Stack&rpar;](https://www.reddit.com/r/javascript/comments/1q7atbe/why_i_chose_nuxt_4_over_react_for_my_7day_saas/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
