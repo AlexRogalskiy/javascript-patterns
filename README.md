@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] A decent JS PubSub implementation?](https://www.reddit.com/r/javascript/comments/1q9d7k8/askjs_a_decent_js_pubsub_implementation/)
+- [just finished a small book on how javascript works, would love your feedback](https://www.reddit.com/r/javascript/comments/1q9cdy9/just_finished_a_small_book_on_how_javascript/)
+- [Persisting Animation State Across Page-Views With JavaScript &amp; CSS](https://www.reddit.com/r/javascript/comments/1q95e85/persisting_animation_state_across_pageviews_with/)
+- [Why ARM has a JavaScript Instruction](https://www.reddit.com/r/javascript/comments/1q950p8/why_arm_has_a_javascript_instruction/)
+- [Tinker: Open-source toolbox desktop app with 20+ developer utilities](https://www.reddit.com/r/javascript/comments/1q938xu/tinker_opensource_toolbox_desktop_app_with_20/)
+- [Showoff Saturday &lpar;January 10, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1q8yf2x/showoff_saturday_january_10_2026/)
+- [I built a privacy-first developer tools site for JSON workflows](https://www.reddit.com/r/javascript/comments/1q8ya2o/i_built_a_privacyfirst_developer_tools_site_for/)
+- [[AskJS] Streak tracker app for developers — Dev Streaks](https://www.reddit.com/r/javascript/comments/1q8y05y/askjs_streak_tracker_app_for_developers_dev/)
 - [[AskJS] Is there a linter rule that can prevent classes being used just as namespaces.](https://www.reddit.com/r/javascript/comments/1q8bmvu/askjs_is_there_a_linter_rule_that_can_prevent/)
 - [[AskJS] Recommend a vanilla ES6 JSON -&gt; Form generator](https://www.reddit.com/r/javascript/comments/1q88zvf/askjs_recommend_a_vanilla_es6_json_form_generator/)
-- [[AskJS] What should I learn to get a job as Javascript Developer in 2026](https://www.reddit.com/r/javascript/comments/1q81a3c/askjs_what_should_i_learn_to_get_a_job_as/)
-- [I’ve been building an open-source 2D canvas engine for interactive editors — looking for feedback](https://www.reddit.com/r/javascript/comments/1q7r16h/ive_been_building_an_opensource_2d_canvas_engine/)
-- [Open source library that cuts JSON memory allocation by 70% - with zero-config database wrappers for MongoDB, PostgreSQL, MySQL](https://www.reddit.com/r/javascript/comments/1q7qwjq/open_source_library_that_cuts_json_memory/)
-- [Fastest rising JS projects last year - n8n, React Bits, shadcn, Excalidraw](https://www.reddit.com/r/javascript/comments/1q7p39a/fastest_rising_js_projects_last_year_n8n_react/)
-- [Scaffold production-ready MCP servers &lpar;TypeScript&rpar; in seconds with create-mcp-server](https://www.reddit.com/r/javascript/comments/1q7nuei/scaffold_productionready_mcp_servers_typescript/)
-- [I made a peer-to-peer online chess game all in JS, HTML, and CSS](https://www.reddit.com/r/javascript/comments/1q7joro/i_made_a_peertopeer_online_chess_game_all_in_js/)
-- [Mini-Signals 3.0.0](https://www.reddit.com/r/javascript/comments/1q7h9ll/minisignals_300/)
-- [[AskJS] Javascript - a part of Java?](https://www.reddit.com/r/javascript/comments/1q7glz7/askjs_javascript_a_part_of_java/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
