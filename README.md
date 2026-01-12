@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] A decent JS PubSub implementation?](https://www.reddit.com/r/javascript/comments/1q9d7k8/askjs_a_decent_js_pubsub_implementation/)
-- [just finished a small book on how javascript works, would love your feedback](https://www.reddit.com/r/javascript/comments/1q9cdy9/just_finished_a_small_book_on_how_javascript/)
-- [Persisting Animation State Across Page-Views With JavaScript &amp; CSS](https://www.reddit.com/r/javascript/comments/1q95e85/persisting_animation_state_across_pageviews_with/)
-- [Why ARM has a JavaScript Instruction](https://www.reddit.com/r/javascript/comments/1q950p8/why_arm_has_a_javascript_instruction/)
-- [Tinker: Open-source toolbox desktop app with 20+ developer utilities](https://www.reddit.com/r/javascript/comments/1q938xu/tinker_opensource_toolbox_desktop_app_with_20/)
-- [Showoff Saturday &lpar;January 10, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1q8yf2x/showoff_saturday_january_10_2026/)
-- [I built a privacy-first developer tools site for JSON workflows](https://www.reddit.com/r/javascript/comments/1q8ya2o/i_built_a_privacyfirst_developer_tools_site_for/)
-- [[AskJS] Streak tracker app for developers — Dev Streaks](https://www.reddit.com/r/javascript/comments/1q8y05y/askjs_streak_tracker_app_for_developers_dev/)
-- [[AskJS] Is there a linter rule that can prevent classes being used just as namespaces.](https://www.reddit.com/r/javascript/comments/1q8bmvu/askjs_is_there_a_linter_rule_that_can_prevent/)
-- [[AskJS] Recommend a vanilla ES6 JSON -&gt; Form generator](https://www.reddit.com/r/javascript/comments/1q88zvf/askjs_recommend_a_vanilla_es6_json_form_generator/)
+- [Announcing Rspack &amp; Rsbuild 1.7](https://www.reddit.com/r/javascript/comments/1qaiy70/announcing_rspack_rsbuild_17/)
+- [does anyone like this game I made with javascript?](https://www.reddit.com/r/javascript/comments/1qais32/does_anyone_like_this_game_i_made_with_javascript/)
+- [Introducing NALTH.JS A Security Framework Without Compromise](https://www.reddit.com/r/javascript/comments/1qa9dlc/introducing_nalthjs_a_security_framework_without/)
+- [InfrontJS – a small, stable,ai-ready “anti-framework” for JavaScript](https://www.reddit.com/r/javascript/comments/1qa8fis/infrontjs_a_small_stableaiready_antiframework_for/)
+- [Atrion: A digital physics engine for Node.js reliability](https://www.reddit.com/r/javascript/comments/1qa4q6l/atrion_a_digital_physics_engine_for_nodejs/)
+- [I made a Tailwind alternative for Preact](https://www.reddit.com/r/javascript/comments/1qa3hjo/i_made_a_tailwind_alternative_for_preact/)
+- [Why you should start using &quot;projects&quot; in Vitest configuration](https://www.reddit.com/r/javascript/comments/1qa1avb/why_you_should_start_using_projects_in_vitest/)
+- [Why Object of Arrays beat interleaved arrays: a JavaScript performance issue](https://www.reddit.com/r/javascript/comments/1q9xr5t/why_object_of_arrays_beat_interleaved_arrays_a/)
+- [[AskJS] Is there an alternative to HTMX?](https://www.reddit.com/r/javascript/comments/1q9xr5w/askjs_is_there_an_alternative_to_htmx/)
+- [I built a small CLI to save and run setup commands &lpar;because I keep forgetting them&rpar;](https://www.reddit.com/r/javascript/comments/1q9x2as/i_built_a_small_cli_to_save_and_run_setup/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
