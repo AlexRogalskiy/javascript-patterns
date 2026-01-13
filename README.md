@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] What actually helped you understand JavaScript errors when you were starting out?](https://www.reddit.com/r/javascript/comments/1qbau3g/askjs_what_actually_helped_you_understand/)
+- [I used a generator to build a replenishable queue in JavaScript.](https://www.reddit.com/r/javascript/comments/1qavt9y/i_used_a_generator_to_build_a_replenishable_queue/)
+- [Introducing Quizolve - A quiz portal built in vue-laravel](https://www.reddit.com/r/javascript/comments/1qatlc3/introducing_quizolve_a_quiz_portal_built_in/)
+- [Your /r/javascript recap for the week of January 05 - January 11, 2026](https://www.reddit.com/r/javascript/comments/1qar2nr/your_rjavascript_recap_for_the_week_of_january_05/)
+- [Date + 1 month = 9 months previous](https://www.reddit.com/r/javascript/comments/1qar0j0/date_1_month_9_months_previous/)
+- [[AskJS] When it comes to JSON readability, do you prefer 2-space or 4-space indentation, and why?](https://www.reddit.com/r/javascript/comments/1qalccj/askjs_when_it_comes_to_json_readability_do_you/)
 - [Announcing Rspack &amp; Rsbuild 1.7](https://www.reddit.com/r/javascript/comments/1qaiy70/announcing_rspack_rsbuild_17/)
-- [does anyone like this game I made with javascript?](https://www.reddit.com/r/javascript/comments/1qais32/does_anyone_like_this_game_i_made_with_javascript/)
 - [Introducing NALTH.JS A Security Framework Without Compromise](https://www.reddit.com/r/javascript/comments/1qa9dlc/introducing_nalthjs_a_security_framework_without/)
 - [InfrontJS – a small, stable,ai-ready “anti-framework” for JavaScript](https://www.reddit.com/r/javascript/comments/1qa8fis/infrontjs_a_small_stableaiready_antiframework_for/)
 - [Atrion: A digital physics engine for Node.js reliability](https://www.reddit.com/r/javascript/comments/1qa4q6l/atrion_a_digital_physics_engine_for_nodejs/)
-- [I made a Tailwind alternative for Preact](https://www.reddit.com/r/javascript/comments/1qa3hjo/i_made_a_tailwind_alternative_for_preact/)
-- [Why you should start using &quot;projects&quot; in Vitest configuration](https://www.reddit.com/r/javascript/comments/1qa1avb/why_you_should_start_using_projects_in_vitest/)
-- [Why Object of Arrays beat interleaved arrays: a JavaScript performance issue](https://www.reddit.com/r/javascript/comments/1q9xr5t/why_object_of_arrays_beat_interleaved_arrays_a/)
-- [[AskJS] Is there an alternative to HTMX?](https://www.reddit.com/r/javascript/comments/1q9xr5w/askjs_is_there_an_alternative_to_htmx/)
-- [I built a small CLI to save and run setup commands &lpar;because I keep forgetting them&rpar;](https://www.reddit.com/r/javascript/comments/1q9x2as/i_built_a_small_cli_to_save_and_run_setup/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
