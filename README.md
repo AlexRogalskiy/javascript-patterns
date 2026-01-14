@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Published an npm package: 220 lines, zero dependencies, gives any AI a visual display](https://www.reddit.com/r/javascript/comments/1qc958c/published_an_npm_package_220_lines_zero/)
+- [Temporal Playground – Interactive way to learn the Temporal API](https://www.reddit.com/r/javascript/comments/1qbxyyq/temporal_playground_interactive_way_to_learn_the/)
+- [I built a Graph RAG pipeline &lpar;VeritasGraph&rpar; that runs entirely locally with Ollama &lpar;Llama 3.1&rpar; and has full source attribution.](https://www.reddit.com/r/javascript/comments/1qbudzn/i_built_a_graph_rag_pipeline_veritasgraph_that/)
+- [The package provides components/blocks built with Framer Motion, available in two core versions: shadcn/ui and Base UI and builders](https://www.reddit.com/r/javascript/comments/1qbr3d5/the_package_provides_componentsblocks_built_with/)
+- [Your CLI&#39;s completion should know what options you&#39;ve already typed](https://www.reddit.com/r/javascript/comments/1qbinv8/your_clis_completion_should_know_what_options/)
+- [Timelang: Natural Language Time Parser](https://www.reddit.com/r/javascript/comments/1qbijvz/timelang_natural_language_time_parser/)
 - [[AskJS] What actually helped you understand JavaScript errors when you were starting out?](https://www.reddit.com/r/javascript/comments/1qbau3g/askjs_what_actually_helped_you_understand/)
 - [I used a generator to build a replenishable queue in JavaScript.](https://www.reddit.com/r/javascript/comments/1qavt9y/i_used_a_generator_to_build_a_replenishable_queue/)
 - [Introducing Quizolve - A quiz portal built in vue-laravel](https://www.reddit.com/r/javascript/comments/1qatlc3/introducing_quizolve_a_quiz_portal_built_in/)
 - [Your /r/javascript recap for the week of January 05 - January 11, 2026](https://www.reddit.com/r/javascript/comments/1qar2nr/your_rjavascript_recap_for_the_week_of_january_05/)
-- [Date + 1 month = 9 months previous](https://www.reddit.com/r/javascript/comments/1qar0j0/date_1_month_9_months_previous/)
-- [[AskJS] When it comes to JSON readability, do you prefer 2-space or 4-space indentation, and why?](https://www.reddit.com/r/javascript/comments/1qalccj/askjs_when_it_comes_to_json_readability_do_you/)
-- [Announcing Rspack &amp; Rsbuild 1.7](https://www.reddit.com/r/javascript/comments/1qaiy70/announcing_rspack_rsbuild_17/)
-- [Introducing NALTH.JS A Security Framework Without Compromise](https://www.reddit.com/r/javascript/comments/1qa9dlc/introducing_nalthjs_a_security_framework_without/)
-- [InfrontJS – a small, stable,ai-ready “anti-framework” for JavaScript](https://www.reddit.com/r/javascript/comments/1qa8fis/infrontjs_a_small_stableaiready_antiframework_for/)
-- [Atrion: A digital physics engine for Node.js reliability](https://www.reddit.com/r/javascript/comments/1qa4q6l/atrion_a_digital_physics_engine_for_nodejs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
