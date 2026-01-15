@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I got tired of rewriting the same code, so I built this](https://www.reddit.com/r/javascript/comments/1qd1g23/i_got_tired_of_rewriting_the_same_code_so_i_built/)
+- [I built a small browser game using Phaser + TypeScript &lpar;with Devvit&rpar;. Would love honest feedback! is it actually fun?](https://www.reddit.com/r/javascript/comments/1qd0n00/i_built_a_small_browser_game_using_phaser/)
+- [The RAG Bot Problem: When AI Fetches Content Real-Time and how to catch them with Javascript](https://www.reddit.com/r/javascript/comments/1qcwruk/the_rag_bot_problem_when_ai_fetches_content/)
+- [How should a typing tool measure real JavaScript typing skill?](https://www.reddit.com/r/javascript/comments/1qcvflh/how_should_a_typing_tool_measure_real_javascript/)
+- [Please help me guys](https://www.reddit.com/r/javascript/comments/1qcvfib/please_help_me_guys/)
+- [Dither / ASCII Effect Pro &lpar;JavaScript&rpar;](https://www.reddit.com/r/javascript/comments/1qct3ka/dither_ascii_effect_pro_javascript/)
+- [Stop turning everything into arrays &lpar;and do less work instead&rpar;](https://www.reddit.com/r/javascript/comments/1qcljla/stop_turning_everything_into_arrays_and_do_less/)
+- [JSON to TypeScript Converter | Generate TypeScript Types from JSON](https://www.reddit.com/r/javascript/comments/1qclczh/json_to_typescript_converter_generate_typescript/)
+- [If you also dislike pnpm&#39;s end-to-end pollution, you can check out the monorepo tool I developed for npm, which is non-intrusive and requires no modification; it&#39;s ready to use right out of the box.](https://www.reddit.com/r/javascript/comments/1qcgxgv/if_you_also_dislike_pnpms_endtoend_pollution_you/)
 - [Published an npm package: 220 lines, zero dependencies, gives any AI a visual display](https://www.reddit.com/r/javascript/comments/1qc958c/published_an_npm_package_220_lines_zero/)
-- [Temporal Playground – Interactive way to learn the Temporal API](https://www.reddit.com/r/javascript/comments/1qbxyyq/temporal_playground_interactive_way_to_learn_the/)
-- [I built a Graph RAG pipeline &lpar;VeritasGraph&rpar; that runs entirely locally with Ollama &lpar;Llama 3.1&rpar; and has full source attribution.](https://www.reddit.com/r/javascript/comments/1qbudzn/i_built_a_graph_rag_pipeline_veritasgraph_that/)
-- [The package provides components/blocks built with Framer Motion, available in two core versions: shadcn/ui and Base UI and builders](https://www.reddit.com/r/javascript/comments/1qbr3d5/the_package_provides_componentsblocks_built_with/)
-- [Your CLI&#39;s completion should know what options you&#39;ve already typed](https://www.reddit.com/r/javascript/comments/1qbinv8/your_clis_completion_should_know_what_options/)
-- [Timelang: Natural Language Time Parser](https://www.reddit.com/r/javascript/comments/1qbijvz/timelang_natural_language_time_parser/)
-- [[AskJS] What actually helped you understand JavaScript errors when you were starting out?](https://www.reddit.com/r/javascript/comments/1qbau3g/askjs_what_actually_helped_you_understand/)
-- [I used a generator to build a replenishable queue in JavaScript.](https://www.reddit.com/r/javascript/comments/1qavt9y/i_used_a_generator_to_build_a_replenishable_queue/)
-- [Introducing Quizolve - A quiz portal built in vue-laravel](https://www.reddit.com/r/javascript/comments/1qatlc3/introducing_quizolve_a_quiz_portal_built_in/)
-- [Your /r/javascript recap for the week of January 05 - January 11, 2026](https://www.reddit.com/r/javascript/comments/1qar2nr/your_rjavascript_recap_for_the_week_of_january_05/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
