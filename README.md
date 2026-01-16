@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I got tired of rewriting the same code, so I built this](https://www.reddit.com/r/javascript/comments/1qd1g23/i_got_tired_of_rewriting_the_same_code_so_i_built/)
-- [I built a small browser game using Phaser + TypeScript &lpar;with Devvit&rpar;. Would love honest feedback! is it actually fun?](https://www.reddit.com/r/javascript/comments/1qd0n00/i_built_a_small_browser_game_using_phaser/)
-- [The RAG Bot Problem: When AI Fetches Content Real-Time and how to catch them with Javascript](https://www.reddit.com/r/javascript/comments/1qcwruk/the_rag_bot_problem_when_ai_fetches_content/)
-- [How should a typing tool measure real JavaScript typing skill?](https://www.reddit.com/r/javascript/comments/1qcvflh/how_should_a_typing_tool_measure_real_javascript/)
-- [Please help me guys](https://www.reddit.com/r/javascript/comments/1qcvfib/please_help_me_guys/)
-- [Dither / ASCII Effect Pro &lpar;JavaScript&rpar;](https://www.reddit.com/r/javascript/comments/1qct3ka/dither_ascii_effect_pro_javascript/)
-- [Stop turning everything into arrays &lpar;and do less work instead&rpar;](https://www.reddit.com/r/javascript/comments/1qcljla/stop_turning_everything_into_arrays_and_do_less/)
-- [JSON to TypeScript Converter | Generate TypeScript Types from JSON](https://www.reddit.com/r/javascript/comments/1qclczh/json_to_typescript_converter_generate_typescript/)
-- [If you also dislike pnpm&#39;s end-to-end pollution, you can check out the monorepo tool I developed for npm, which is non-intrusive and requires no modification; it&#39;s ready to use right out of the box.](https://www.reddit.com/r/javascript/comments/1qcgxgv/if_you_also_dislike_pnpms_endtoend_pollution_you/)
-- [Published an npm package: 220 lines, zero dependencies, gives any AI a visual display](https://www.reddit.com/r/javascript/comments/1qc958c/published_an_npm_package_220_lines_zero/)
+- [I made an open source, locally hosted Javscript client for YouTube that recommends trending videos based on your subscriptions rather than recommending random slop.](https://www.reddit.com/r/javascript/comments/1qe3r0h/i_made_an_open_source_locally_hosted_javscript/)
+- [State of TypeScript 2026](https://www.reddit.com/r/javascript/comments/1qe2f4t/state_of_typescript_2026/)
+- [[AskJS] TIL that `console.log` in JavaScript doesn&#39;t always print things in the order you&#39;d expect](https://www.reddit.com/r/javascript/comments/1qdwvne/askjs_til_that_consolelog_in_javascript_doesnt/)
+- [Determistic context bundles for React/TypeScript codebases](https://www.reddit.com/r/javascript/comments/1qdt6id/determistic_context_bundles_for_reacttypescript/)
+- [Patterns I used building a real-time webhook debugger in Node.js](https://www.reddit.com/r/javascript/comments/1qdqlx5/patterns_i_used_building_a_realtime_webhook/)
+- [Azure Cosmos DB Conf 2026 — Call for Proposals Is Now Open, JS talks wanted!](https://www.reddit.com/r/javascript/comments/1qdmzbw/azure_cosmos_db_conf_2026_call_for_proposals_is/)
+- [Introducing the &lt;geolocation&gt; HTML element](https://www.reddit.com/r/javascript/comments/1qdlboi/introducing_the_geolocation_html_element/)
+- [Simple chromostereoptic torus made with three.js](https://www.reddit.com/r/javascript/comments/1qdk0k2/simple_chromostereoptic_torus_made_with_threejs/)
+- [Localspace v1.0 – A modern localForage alternative with TypeScript and 6x faster batch ops](https://www.reddit.com/r/javascript/comments/1qdjz1t/localspace_v10_a_modern_localforage_alternative/)
+- [Zonfig - typed Node.js config library with validation + encryption](https://www.reddit.com/r/javascript/comments/1qdhb15/zonfig_typed_nodejs_config_library_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
