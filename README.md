@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Developer-first Push Notifications: Easy JS SDK for React/Expo integration that won&#39;t break the bank.](https://www.reddit.com/r/javascript/comments/1qexucv/developerfirst_push_notifications_easy_js_sdk_for/)
+- [Vulnerability info about NPM packages right in your browser](https://www.reddit.com/r/javascript/comments/1qevofs/vulnerability_info_about_npm_packages_right_in/)
+- [Temporal API Ships in Chrome 144, Marking a Major Shift for JavaScript Date Handling](https://www.reddit.com/r/javascript/comments/1qeteu4/temporal_api_ships_in_chrome_144_marking_a_major/)
+- [Ripple - a TypeScript UI framework that combines the best parts of React, Solid, and Svelte into one package &lpar;currently in early development&rpar;](https://www.reddit.com/r/javascript/comments/1qet6fp/ripple_a_typescript_ui_framework_that_combines/)
+- [I built a small game using JavaScript/TypeScript with Phaser &lpar;via Devvit&rpar; does anyone like it?](https://www.reddit.com/r/javascript/comments/1qek0z9/i_built_a_small_game_using_javascripttypescript/)
+- [Micro-Flow - Workflow Library](https://www.reddit.com/r/javascript/comments/1qeiyeo/microflow_workflow_library/)
+- [[AskJS] Do you think semantic selectors are worth the complexity for web scraping?](https://www.reddit.com/r/javascript/comments/1qeeaz7/askjs_do_you_think_semantic_selectors_are_worth/)
+- [Building a Custom Chat Widget with Discord and Cloudflare Workers: Why We Ditched Intercom, Crisp, and the Rest | Tasrie IT Services](https://www.reddit.com/r/javascript/comments/1qedvi6/building_a_custom_chat_widget_with_discord_and/)
 - [I made an open source, locally hosted Javscript client for YouTube that recommends trending videos based on your subscriptions rather than recommending random slop.](https://www.reddit.com/r/javascript/comments/1qe3r0h/i_made_an_open_source_locally_hosted_javscript/)
 - [State of TypeScript 2026](https://www.reddit.com/r/javascript/comments/1qe2f4t/state_of_typescript_2026/)
-- [[AskJS] TIL that `console.log` in JavaScript doesn&#39;t always print things in the order you&#39;d expect](https://www.reddit.com/r/javascript/comments/1qdwvne/askjs_til_that_consolelog_in_javascript_doesnt/)
-- [Determistic context bundles for React/TypeScript codebases](https://www.reddit.com/r/javascript/comments/1qdt6id/determistic_context_bundles_for_reacttypescript/)
-- [Patterns I used building a real-time webhook debugger in Node.js](https://www.reddit.com/r/javascript/comments/1qdqlx5/patterns_i_used_building_a_realtime_webhook/)
-- [Azure Cosmos DB Conf 2026 — Call for Proposals Is Now Open, JS talks wanted!](https://www.reddit.com/r/javascript/comments/1qdmzbw/azure_cosmos_db_conf_2026_call_for_proposals_is/)
-- [Introducing the &lt;geolocation&gt; HTML element](https://www.reddit.com/r/javascript/comments/1qdlboi/introducing_the_geolocation_html_element/)
-- [Simple chromostereoptic torus made with three.js](https://www.reddit.com/r/javascript/comments/1qdk0k2/simple_chromostereoptic_torus_made_with_threejs/)
-- [Localspace v1.0 – A modern localForage alternative with TypeScript and 6x faster batch ops](https://www.reddit.com/r/javascript/comments/1qdjz1t/localspace_v10_a_modern_localforage_alternative/)
-- [Zonfig - typed Node.js config library with validation + encryption](https://www.reddit.com/r/javascript/comments/1qdhb15/zonfig_typed_nodejs_config_library_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
