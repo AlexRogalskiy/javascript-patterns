@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Userscript Tampermonkey qui analyse les connexions WebRTC sur Azar Live et affiche la géolocalisation IP en temps réel](https://www.reddit.com/r/javascript/comments/1qgkcdq/userscript_tampermonkey_qui_analyse_les/)
+- [I built a Tampermonkey userscript that analyzes WebRTC connections on Azar Live and shows real-time IP geolocation](https://www.reddit.com/r/javascript/comments/1qgkbhq/i_built_a_tampermonkey_userscript_that_analyzes/)
+- [Built a small Reddit game with JavaScript, TypeScript, Phaser, and Devvit .... is it any fun?](https://www.reddit.com/r/javascript/comments/1qgg3f6/built_a_small_reddit_game_with_javascript/)
+- [Built a lightweight JS library that predicts user intent to prefetch before hover/click/tab](https://www.reddit.com/r/javascript/comments/1qg61xj/built_a_lightweight_js_library_that_predicts_user/)
+- [jQuery 4.0 released](https://www.reddit.com/r/javascript/comments/1qg0zbc/jquery_40_released/)
 - [[AskJS] Does anyone have a working PWA that works fully offline on iPhone?](https://www.reddit.com/r/javascript/comments/1qftq8x/askjs_does_anyone_have_a_working_pwa_that_works/)
 - [[AskJS] Does the company you work at use pure Javascript in production instead of Typescript?](https://www.reddit.com/r/javascript/comments/1qfk6l0/askjs_does_the_company_you_work_at_use_pure/)
 - [I built a lightweight Unity-like 2D game engine in JavaScript](https://www.reddit.com/r/javascript/comments/1qfaqlh/i_built_a_lightweight_unitylike_2d_game_engine_in/)
 - [Showoff Saturday &lpar;January 17, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1qf7gqk/showoff_saturday_january_17_2026/)
 - [Cloudflare acquires Astro!](https://www.reddit.com/r/javascript/comments/1qf2e7a/cloudflare_acquires_astro/)
-- [Vulnerability info about NPM packages right in your browser](https://www.reddit.com/r/javascript/comments/1qevofs/vulnerability_info_about_npm_packages_right_in/)
-- [Temporal API Ships in Chrome 144, Marking a Major Shift for JavaScript Date Handling](https://www.reddit.com/r/javascript/comments/1qeteu4/temporal_api_ships_in_chrome_144_marking_a_major/)
-- [Ripple - a TypeScript UI framework that combines the best parts of React, Solid, and Svelte into one package &lpar;currently in early development&rpar;](https://www.reddit.com/r/javascript/comments/1qet6fp/ripple_a_typescript_ui_framework_that_combines/)
-- [Micro-Flow - Workflow Library](https://www.reddit.com/r/javascript/comments/1qeiyeo/microflow_workflow_library/)
-- [[AskJS] Do you think semantic selectors are worth the complexity for web scraping?](https://www.reddit.com/r/javascript/comments/1qeeaz7/askjs_do_you_think_semantic_selectors_are_worth/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
