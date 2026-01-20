@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Help you to debug SSE Streams](https://www.reddit.com/r/javascript/comments/1qhgnem/help_you_to_debug_sse_streams/)
+- [I ported shadcn/ui to modern Ember](https://www.reddit.com/r/javascript/comments/1qhbx4t/i_ported_shadcnui_to_modern_ember/)
+- [Make Your Website Talk with The JavaScript Web Speech API](https://www.reddit.com/r/javascript/comments/1qh92t6/make_your_website_talk_with_the_javascript_web/)
+- [Debugging our app&#39;s thermal performance using Bun, macmon, and Grafana](https://www.reddit.com/r/javascript/comments/1qh5t47/debugging_our_apps_thermal_performance_using_bun/)
+- [depaudit - Inspect and triage npm/yarn/pnpm dependency vulnerabilities in the terminal.](https://www.reddit.com/r/javascript/comments/1qh5f2r/depaudit_inspect_and_triage_npmyarnpnpm/)
+- [Two live demos: preventing LLM context leaks before runtime &lpar;types + linting&rpar;](https://www.reddit.com/r/javascript/comments/1qh3m01/two_live_demos_preventing_llm_context_leaks/)
+- [Your /r/javascript recap for the week of January 12 - January 18, 2026](https://www.reddit.com/r/javascript/comments/1qh0av1/your_rjavascript_recap_for_the_week_of_january_12/)
+- [Jeasx 2.2.2 Released - Enhanced Server-Side JSX Rendering Framework with Simplified Static Site Generation Support](https://www.reddit.com/r/javascript/comments/1qgzlp6/jeasx_222_released_enhanced_serverside_jsx/)
 - [Userscript Tampermonkey qui analyse les connexions WebRTC sur Azar Live et affiche la géolocalisation IP en temps réel](https://www.reddit.com/r/javascript/comments/1qgkcdq/userscript_tampermonkey_qui_analyse_les/)
 - [I built a Tampermonkey userscript that analyzes WebRTC connections on Azar Live and shows real-time IP geolocation](https://www.reddit.com/r/javascript/comments/1qgkbhq/i_built_a_tampermonkey_userscript_that_analyzes/)
-- [Built a small Reddit game with JavaScript, TypeScript, Phaser, and Devvit .... is it any fun?](https://www.reddit.com/r/javascript/comments/1qgg3f6/built_a_small_reddit_game_with_javascript/)
-- [Built a lightweight JS library that predicts user intent to prefetch before hover/click/tab](https://www.reddit.com/r/javascript/comments/1qg61xj/built_a_lightweight_js_library_that_predicts_user/)
-- [jQuery 4.0 released](https://www.reddit.com/r/javascript/comments/1qg0zbc/jquery_40_released/)
-- [[AskJS] Does anyone have a working PWA that works fully offline on iPhone?](https://www.reddit.com/r/javascript/comments/1qftq8x/askjs_does_anyone_have_a_working_pwa_that_works/)
-- [[AskJS] Does the company you work at use pure Javascript in production instead of Typescript?](https://www.reddit.com/r/javascript/comments/1qfk6l0/askjs_does_the_company_you_work_at_use_pure/)
-- [I built a lightweight Unity-like 2D game engine in JavaScript](https://www.reddit.com/r/javascript/comments/1qfaqlh/i_built_a_lightweight_unitylike_2d_game_engine_in/)
-- [Showoff Saturday &lpar;January 17, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1qf7gqk/showoff_saturday_january_17_2026/)
-- [Cloudflare acquires Astro!](https://www.reddit.com/r/javascript/comments/1qf2e7a/cloudflare_acquires_astro/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
