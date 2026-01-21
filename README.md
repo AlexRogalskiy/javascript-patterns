@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [AfterPack — a free, Rust-powered JavaScript obfuscator](https://www.reddit.com/r/javascript/comments/1qikmai/afterpack_a_free_rustpowered_javascript_obfuscator/)
+- [Inside Turbopack: Building Faster by Building Less](https://www.reddit.com/r/javascript/comments/1qi9nkt/inside_turbopack_building_faster_by_building_less/)
+- [Syntux - experimental generative UI library for the web.](https://www.reddit.com/r/javascript/comments/1qhqwjd/syntux_experimental_generative_ui_library_for_the/)
 - [Help you to debug SSE Streams](https://www.reddit.com/r/javascript/comments/1qhgnem/help_you_to_debug_sse_streams/)
 - [I ported shadcn/ui to modern Ember](https://www.reddit.com/r/javascript/comments/1qhbx4t/i_ported_shadcnui_to_modern_ember/)
 - [Make Your Website Talk with The JavaScript Web Speech API](https://www.reddit.com/r/javascript/comments/1qh92t6/make_your_website_talk_with_the_javascript_web/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [depaudit - Inspect and triage npm/yarn/pnpm dependency vulnerabilities in the terminal.](https://www.reddit.com/r/javascript/comments/1qh5f2r/depaudit_inspect_and_triage_npmyarnpnpm/)
 - [Two live demos: preventing LLM context leaks before runtime &lpar;types + linting&rpar;](https://www.reddit.com/r/javascript/comments/1qh3m01/two_live_demos_preventing_llm_context_leaks/)
 - [Your /r/javascript recap for the week of January 12 - January 18, 2026](https://www.reddit.com/r/javascript/comments/1qh0av1/your_rjavascript_recap_for_the_week_of_january_12/)
-- [Jeasx 2.2.2 Released - Enhanced Server-Side JSX Rendering Framework with Simplified Static Site Generation Support](https://www.reddit.com/r/javascript/comments/1qgzlp6/jeasx_222_released_enhanced_serverside_jsx/)
-- [Userscript Tampermonkey qui analyse les connexions WebRTC sur Azar Live et affiche la géolocalisation IP en temps réel](https://www.reddit.com/r/javascript/comments/1qgkcdq/userscript_tampermonkey_qui_analyse_les/)
-- [I built a Tampermonkey userscript that analyzes WebRTC connections on Azar Live and shows real-time IP geolocation](https://www.reddit.com/r/javascript/comments/1qgkbhq/i_built_a_tampermonkey_userscript_that_analyzes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
