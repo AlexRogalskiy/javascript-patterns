@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Rebranding our Open-source Peer-to-peer Javascript and IPFS Based Social media Project to Bitsocial](https://www.reddit.com/r/javascript/comments/1ql7oxz/rebranding_our_opensource_peertopeer_javascript/)
+- [[AskJS] Which language should I use to start my business?](https://www.reddit.com/r/javascript/comments/1ql2y4o/askjs_which_language_should_i_use_to_start_my/)
+- [Browser Code - a coding agent for user scripts](https://www.reddit.com/r/javascript/comments/1ql097b/browser_code_a_coding_agent_for_user_scripts/)
+- [Travels v1.0 – A 10x faster undo/redo library using JSON Patches instead of snapshots](https://www.reddit.com/r/javascript/comments/1qkxqpu/travels_v10_a_10x_faster_undoredo_library_using/)
+- [[AskJS] ORM for my next Typescript project](https://www.reddit.com/r/javascript/comments/1qkq1d8/askjs_orm_for_my_next_typescript_project/)
+- [[AskJS] Looking for a way to generate a codebase based on another one](https://www.reddit.com/r/javascript/comments/1qk5lu4/askjs_looking_for_a_way_to_generate_a_codebase/)
 - [[AskJS] recording a gif entirely in the browser &lpar;client-side&rpar; is harder than i thought](https://www.reddit.com/r/javascript/comments/1qj4p5h/askjs_recording_a_gif_entirely_in_the_browser/)
 - [Building a JavaScript Debugging Utility to Guard Noisy Production Consoles](https://www.reddit.com/r/javascript/comments/1qizbih/building_a_javascript_debugging_utility_to_guard/)
 - [JS/TS refactor safety tool adds GUI + role detection &lpar;Arbor v1.4&rpar;](https://www.reddit.com/r/javascript/comments/1qit8xp/jsts_refactor_safety_tool_adds_gui_role_detection/)
 - [I Built a Localhost Tunneling tool in TypeScript - Here&#39;s What Surprised Me](https://www.reddit.com/r/javascript/comments/1qit7pz/i_built_a_localhost_tunneling_tool_in_typescript/)
-- [AfterPack — a free, Rust-powered JavaScript obfuscator](https://www.reddit.com/r/javascript/comments/1qikmai/afterpack_a_free_rustpowered_javascript_obfuscator/)
-- [Inside Turbopack: Building Faster by Building Less](https://www.reddit.com/r/javascript/comments/1qi9nkt/inside_turbopack_building_faster_by_building_less/)
-- [Syntux - experimental generative UI library for the web.](https://www.reddit.com/r/javascript/comments/1qhqwjd/syntux_experimental_generative_ui_library_for_the/)
-- [Help you to debug SSE Streams](https://www.reddit.com/r/javascript/comments/1qhgnem/help_you_to_debug_sse_streams/)
-- [I ported shadcn/ui to modern Ember](https://www.reddit.com/r/javascript/comments/1qhbx4t/i_ported_shadcnui_to_modern_ember/)
-- [Make Your Website Talk with The JavaScript Web Speech API](https://www.reddit.com/r/javascript/comments/1qh92t6/make_your_website_talk_with_the_javascript_web/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
