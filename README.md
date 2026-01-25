@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I built a tabbed Notepad replacement that doubles as a JS Scratchpad &lpar;execute code without saving, Monaco editor, side-by-side diffs&rpar;](https://www.reddit.com/r/javascript/comments/1qm2jy5/i_built_a_tabbed_notepad_replacement_that_doubles/)
+- [Create Presentation From Terminal](https://www.reddit.com/r/javascript/comments/1qm1ayz/create_presentation_from_terminal/)
+- [Showoff Saturday &lpar;January 24, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1qlh78h/showoff_saturday_january_24_2026/)
+- [Introducing LibPDF, the PDF library for TypeScript that I always needed](https://www.reddit.com/r/javascript/comments/1qlgpra/introducing_libpdf_the_pdf_library_for_typescript/)
+- [SineSpace — Interactive waveform &amp; frequency playground &lpar;Web Audio API, no frameworks&rpar;](https://www.reddit.com/r/javascript/comments/1qlbdlq/sinespace_interactive_waveform_frequency/)
 - [Rebranding our Open-source Peer-to-peer Javascript and IPFS Based Social media Project to Bitsocial](https://www.reddit.com/r/javascript/comments/1ql7oxz/rebranding_our_opensource_peertopeer_javascript/)
 - [[AskJS] Which language should I use to start my business?](https://www.reddit.com/r/javascript/comments/1ql2y4o/askjs_which_language_should_i_use_to_start_my/)
 - [Browser Code - a coding agent for user scripts](https://www.reddit.com/r/javascript/comments/1ql097b/browser_code_a_coding_agent_for_user_scripts/)
 - [Travels v1.0 – A 10x faster undo/redo library using JSON Patches instead of snapshots](https://www.reddit.com/r/javascript/comments/1qkxqpu/travels_v10_a_10x_faster_undoredo_library_using/)
 - [[AskJS] ORM for my next Typescript project](https://www.reddit.com/r/javascript/comments/1qkq1d8/askjs_orm_for_my_next_typescript_project/)
-- [[AskJS] Looking for a way to generate a codebase based on another one](https://www.reddit.com/r/javascript/comments/1qk5lu4/askjs_looking_for_a_way_to_generate_a_codebase/)
-- [[AskJS] recording a gif entirely in the browser &lpar;client-side&rpar; is harder than i thought](https://www.reddit.com/r/javascript/comments/1qj4p5h/askjs_recording_a_gif_entirely_in_the_browser/)
-- [Building a JavaScript Debugging Utility to Guard Noisy Production Consoles](https://www.reddit.com/r/javascript/comments/1qizbih/building_a_javascript_debugging_utility_to_guard/)
-- [JS/TS refactor safety tool adds GUI + role detection &lpar;Arbor v1.4&rpar;](https://www.reddit.com/r/javascript/comments/1qit8xp/jsts_refactor_safety_tool_adds_gui_role_detection/)
-- [I Built a Localhost Tunneling tool in TypeScript - Here&#39;s What Surprised Me](https://www.reddit.com/r/javascript/comments/1qit7pz/i_built_a_localhost_tunneling_tool_in_typescript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
