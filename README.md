@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A Web Guitar Hero for Neurons](https://www.reddit.com/r/javascript/comments/1qn3nb9/a_web_guitar_hero_for_neurons/)
+- [I built the fetch&lpar;&rpar; integrity check that browsers have refused to ship for 10 years](https://www.reddit.com/r/javascript/comments/1qmwmo4/i_built_the_fetch_integrity_check_that_browsers/)
+- [Built a primitive UI component for unified Markdown editing](https://www.reddit.com/r/javascript/comments/1qmvwtp/built_a_primitive_ui_component_for_unified/)
+- [Check out the new homepage, where you can quickly explore the components](https://www.reddit.com/r/javascript/comments/1qmvjvc/check_out_the_new_homepage_where_you_can_quickly/)
+- [Hacker News #5 front page, how my side project achieve this.](https://www.reddit.com/r/javascript/comments/1qmueiv/hacker_news_5_front_page_how_my_side_project/)
+- [Nano Queries, a state of the art Query Builder](https://www.reddit.com/r/javascript/comments/1qmk44w/nano_queries_a_state_of_the_art_query_builder/)
+- [Building a visual editor that overlays on external websites](https://www.reddit.com/r/javascript/comments/1qmglb8/building_a_visual_editor_that_overlays_on/)
+- [PromptChart - generate charts with prompts](https://www.reddit.com/r/javascript/comments/1qmdf16/promptchart_generate_charts_with_prompts/)
 - [I built a tabbed Notepad replacement that doubles as a JS Scratchpad &lpar;execute code without saving, Monaco editor, side-by-side diffs&rpar;](https://www.reddit.com/r/javascript/comments/1qm2jy5/i_built_a_tabbed_notepad_replacement_that_doubles/)
 - [Create Presentation From Terminal](https://www.reddit.com/r/javascript/comments/1qm1ayz/create_presentation_from_terminal/)
-- [Showoff Saturday &lpar;January 24, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1qlh78h/showoff_saturday_january_24_2026/)
-- [Introducing LibPDF, the PDF library for TypeScript that I always needed](https://www.reddit.com/r/javascript/comments/1qlgpra/introducing_libpdf_the_pdf_library_for_typescript/)
-- [SineSpace — Interactive waveform &amp; frequency playground &lpar;Web Audio API, no frameworks&rpar;](https://www.reddit.com/r/javascript/comments/1qlbdlq/sinespace_interactive_waveform_frequency/)
-- [Rebranding our Open-source Peer-to-peer Javascript and IPFS Based Social media Project to Bitsocial](https://www.reddit.com/r/javascript/comments/1ql7oxz/rebranding_our_opensource_peertopeer_javascript/)
-- [[AskJS] Which language should I use to start my business?](https://www.reddit.com/r/javascript/comments/1ql2y4o/askjs_which_language_should_i_use_to_start_my/)
-- [Browser Code - a coding agent for user scripts](https://www.reddit.com/r/javascript/comments/1ql097b/browser_code_a_coding_agent_for_user_scripts/)
-- [Travels v1.0 – A 10x faster undo/redo library using JSON Patches instead of snapshots](https://www.reddit.com/r/javascript/comments/1qkxqpu/travels_v10_a_10x_faster_undoredo_library_using/)
-- [[AskJS] ORM for my next Typescript project](https://www.reddit.com/r/javascript/comments/1qkq1d8/askjs_orm_for_my_next_typescript_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
