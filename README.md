@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [​I built Getqrify: A fast, minimal toolkit for QR generation, secure passwords, and more](https://www.reddit.com/r/javascript/comments/1qnssu9/i_built_getqrify_a_fast_minimal_toolkit_for_qr/)
+- [I built bullstudio: a self-hosted BullMQ monitoring + job inspection tool](https://www.reddit.com/r/javascript/comments/1qnrl6l/i_built_bullstudio_a_selfhosted_bullmq_monitoring/)
+- [Early Bird tickets for React Norway 2026 conference end Feb 1st. Speaker lineup is set.](https://www.reddit.com/r/javascript/comments/1qndrv7/early_bird_tickets_for_react_norway_2026/)
+- [Your /r/javascript recap for the week of January 19 - January 25, 2026](https://www.reddit.com/r/javascript/comments/1qnc4wz/your_rjavascript_recap_for_the_week_of_january_19/)
+- [[AskJS] what is your preference to load config values?](https://www.reddit.com/r/javascript/comments/1qn9h9n/askjs_what_is_your_preference_to_load_config/)
+- [Sharing two JavaScript utilities I use daily for cleaner async code &amp; easier debugging](https://www.reddit.com/r/javascript/comments/1qn7m4j/sharing_two_javascript_utilities_i_use_daily_for/)
 - [A Web Guitar Hero for Neurons](https://www.reddit.com/r/javascript/comments/1qn3nb9/a_web_guitar_hero_for_neurons/)
 - [I built the fetch&lpar;&rpar; integrity check that browsers have refused to ship for 10 years](https://www.reddit.com/r/javascript/comments/1qmwmo4/i_built_the_fetch_integrity_check_that_browsers/)
 - [Built a primitive UI component for unified Markdown editing](https://www.reddit.com/r/javascript/comments/1qmvwtp/built_a_primitive_ui_component_for_unified/)
 - [Check out the new homepage, where you can quickly explore the components](https://www.reddit.com/r/javascript/comments/1qmvjvc/check_out_the_new_homepage_where_you_can_quickly/)
-- [Hacker News #5 front page, how my side project achieve this.](https://www.reddit.com/r/javascript/comments/1qmueiv/hacker_news_5_front_page_how_my_side_project/)
-- [Nano Queries, a state of the art Query Builder](https://www.reddit.com/r/javascript/comments/1qmk44w/nano_queries_a_state_of_the_art_query_builder/)
-- [Building a visual editor that overlays on external websites](https://www.reddit.com/r/javascript/comments/1qmglb8/building_a_visual_editor_that_overlays_on/)
-- [PromptChart - generate charts with prompts](https://www.reddit.com/r/javascript/comments/1qmdf16/promptchart_generate_charts_with_prompts/)
-- [I built a tabbed Notepad replacement that doubles as a JS Scratchpad &lpar;execute code without saving, Monaco editor, side-by-side diffs&rpar;](https://www.reddit.com/r/javascript/comments/1qm2jy5/i_built_a_tabbed_notepad_replacement_that_doubles/)
-- [Create Presentation From Terminal](https://www.reddit.com/r/javascript/comments/1qm1ayz/create_presentation_from_terminal/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
