@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [​I built Getqrify: A fast, minimal toolkit for QR generation, secure passwords, and more](https://www.reddit.com/r/javascript/comments/1qnssu9/i_built_getqrify_a_fast_minimal_toolkit_for_qr/)
+- [I built a minesweeper game that got on HN front page, pls try it out](https://www.reddit.com/r/javascript/comments/1qovckq/i_built_a_minesweeper_game_that_got_on_hn_front/)
+- [I built a native WebGPU JS runtime &lpar;no browser needed&rpar;](https://www.reddit.com/r/javascript/comments/1qoswga/i_built_a_native_webgpu_js_runtime_no_browser/)
+- [What are the top frontend debugging tools for 2026? A deep comparative guide for best dev options in debugging](https://www.reddit.com/r/javascript/comments/1qoqg54/what_are_the_top_frontend_debugging_tools_for/)
+- [I built a faster alternative to npm run &lpar;26x speedup in benchmarks&rpar;](https://www.reddit.com/r/javascript/comments/1qofn3v/i_built_a_faster_alternative_to_npm_run_26x/)
+- [I’m building a Unity-inspired ECS Game Engine for JS — Just hit v0.1.2 with Multi-Renderer support!](https://www.reddit.com/r/javascript/comments/1qo9lzj/im_building_a_unityinspired_ecs_game_engine_for/)
+- [Atomix - Interactive Periodic Table of Elements](https://www.reddit.com/r/javascript/comments/1qo285u/atomix_interactive_periodic_table_of_elements/)
 - [I built bullstudio: a self-hosted BullMQ monitoring + job inspection tool](https://www.reddit.com/r/javascript/comments/1qnrl6l/i_built_bullstudio_a_selfhosted_bullmq_monitoring/)
 - [Early Bird tickets for React Norway 2026 conference end Feb 1st. Speaker lineup is set.](https://www.reddit.com/r/javascript/comments/1qndrv7/early_bird_tickets_for_react_norway_2026/)
 - [Your /r/javascript recap for the week of January 19 - January 25, 2026](https://www.reddit.com/r/javascript/comments/1qnc4wz/your_rjavascript_recap_for_the_week_of_january_19/)
 - [[AskJS] what is your preference to load config values?](https://www.reddit.com/r/javascript/comments/1qn9h9n/askjs_what_is_your_preference_to_load_config/)
-- [Sharing two JavaScript utilities I use daily for cleaner async code &amp; easier debugging](https://www.reddit.com/r/javascript/comments/1qn7m4j/sharing_two_javascript_utilities_i_use_daily_for/)
-- [A Web Guitar Hero for Neurons](https://www.reddit.com/r/javascript/comments/1qn3nb9/a_web_guitar_hero_for_neurons/)
-- [I built the fetch&lpar;&rpar; integrity check that browsers have refused to ship for 10 years](https://www.reddit.com/r/javascript/comments/1qmwmo4/i_built_the_fetch_integrity_check_that_browsers/)
-- [Built a primitive UI component for unified Markdown editing](https://www.reddit.com/r/javascript/comments/1qmvwtp/built_a_primitive_ui_component_for_unified/)
-- [Check out the new homepage, where you can quickly explore the components](https://www.reddit.com/r/javascript/comments/1qmvjvc/check_out_the_new_homepage_where_you_can_quickly/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
