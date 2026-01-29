@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Help with scanning QR codes](https://www.reddit.com/r/javascript/comments/1qpvy2t/askjs_help_with_scanning_qr_codes/)
+- [I built a chrome extension to debug and format javascript code in Browser.](https://www.reddit.com/r/javascript/comments/1qpsfoz/i_built_a_chrome_extension_to_debug_and_format/)
+- [I built a way to safely execute untrusted Javascript using WebAssembly sandboxes](https://www.reddit.com/r/javascript/comments/1qpkkn3/i_built_a_way_to_safely_execute_untrusted/)
+- [A real-time signal-decoding playground in the browser &lpar;for BCI research&rpar;](https://www.reddit.com/r/javascript/comments/1qpfa24/a_realtime_signaldecoding_playground_in_the/)
+- [I built a zero-config CLI for monorepo versioning &lpar;alternative to Changesets/Nx&rpar;](https://www.reddit.com/r/javascript/comments/1qpazui/i_built_a_zeroconfig_cli_for_monorepo_versioning/)
 - [I built a minesweeper game that got on HN front page, pls try it out](https://www.reddit.com/r/javascript/comments/1qovckq/i_built_a_minesweeper_game_that_got_on_hn_front/)
 - [I built a native WebGPU JS runtime &lpar;no browser needed&rpar;](https://www.reddit.com/r/javascript/comments/1qoswga/i_built_a_native_webgpu_js_runtime_no_browser/)
 - [What are the top frontend debugging tools for 2026? A deep comparative guide for best dev options in debugging](https://www.reddit.com/r/javascript/comments/1qoqg54/what_are_the_top_frontend_debugging_tools_for/)
 - [I built a faster alternative to npm run &lpar;26x speedup in benchmarks&rpar;](https://www.reddit.com/r/javascript/comments/1qofn3v/i_built_a_faster_alternative_to_npm_run_26x/)
 - [I’m building a Unity-inspired ECS Game Engine for JS — Just hit v0.1.2 with Multi-Renderer support!](https://www.reddit.com/r/javascript/comments/1qo9lzj/im_building_a_unityinspired_ecs_game_engine_for/)
-- [Atomix - Interactive Periodic Table of Elements](https://www.reddit.com/r/javascript/comments/1qo285u/atomix_interactive_periodic_table_of_elements/)
-- [I built bullstudio: a self-hosted BullMQ monitoring + job inspection tool](https://www.reddit.com/r/javascript/comments/1qnrl6l/i_built_bullstudio_a_selfhosted_bullmq_monitoring/)
-- [Early Bird tickets for React Norway 2026 conference end Feb 1st. Speaker lineup is set.](https://www.reddit.com/r/javascript/comments/1qndrv7/early_bird_tickets_for_react_norway_2026/)
-- [Your /r/javascript recap for the week of January 19 - January 25, 2026](https://www.reddit.com/r/javascript/comments/1qnc4wz/your_rjavascript_recap_for_the_week_of_january_19/)
-- [[AskJS] what is your preference to load config values?](https://www.reddit.com/r/javascript/comments/1qn9h9n/askjs_what_is_your_preference_to_load_config/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
