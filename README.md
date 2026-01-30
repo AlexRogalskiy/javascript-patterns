@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Rust-inspired multithreading tasks in JavaScript](https://www.reddit.com/r/javascript/comments/1qqkefm/rustinspired_multithreading_tasks_in_javascript/)
+- [Handling Responses and In-Flight Requests with Durable Objects](https://www.reddit.com/r/javascript/comments/1qqjx4i/handling_responses_and_inflight_requests_with/)
 - [[AskJS] Help with scanning QR codes](https://www.reddit.com/r/javascript/comments/1qpvy2t/askjs_help_with_scanning_qr_codes/)
 - [I built a chrome extension to debug and format javascript code in Browser.](https://www.reddit.com/r/javascript/comments/1qpsfoz/i_built_a_chrome_extension_to_debug_and_format/)
 - [I built a way to safely execute untrusted Javascript using WebAssembly sandboxes](https://www.reddit.com/r/javascript/comments/1qpkkn3/i_built_a_way_to_safely_execute_untrusted/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [I built a minesweeper game that got on HN front page, pls try it out](https://www.reddit.com/r/javascript/comments/1qovckq/i_built_a_minesweeper_game_that_got_on_hn_front/)
 - [I built a native WebGPU JS runtime &lpar;no browser needed&rpar;](https://www.reddit.com/r/javascript/comments/1qoswga/i_built_a_native_webgpu_js_runtime_no_browser/)
 - [What are the top frontend debugging tools for 2026? A deep comparative guide for best dev options in debugging](https://www.reddit.com/r/javascript/comments/1qoqg54/what_are_the_top_frontend_debugging_tools_for/)
-- [I built a faster alternative to npm run &lpar;26x speedup in benchmarks&rpar;](https://www.reddit.com/r/javascript/comments/1qofn3v/i_built_a_faster_alternative_to_npm_run_26x/)
-- [I’m building a Unity-inspired ECS Game Engine for JS — Just hit v0.1.2 with Multi-Renderer support!](https://www.reddit.com/r/javascript/comments/1qo9lzj/im_building_a_unityinspired_ecs_game_engine_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
