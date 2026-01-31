@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Lix v0.5 - Version control library for JS](https://www.reddit.com/r/javascript/comments/1qrkazt/lix_v05_version_control_library_for_js/)
+- [I implemented an ARMv4 CPU emulator in pure JavaScript — no WASM, runs at 60fps in browser](https://www.reddit.com/r/javascript/comments/1qr5wpz/i_implemented_an_armv4_cpu_emulator_in_pure/)
+- [I built a cached, self-healing alternative to Google Places API using OSM](https://www.reddit.com/r/javascript/comments/1qr4o9x/i_built_a_cached_selfhealing_alternative_to/)
 - [Rust-inspired multithreading tasks in JavaScript](https://www.reddit.com/r/javascript/comments/1qqkefm/rustinspired_multithreading_tasks_in_javascript/)
 - [Handling Responses and In-Flight Requests with Durable Objects](https://www.reddit.com/r/javascript/comments/1qqjx4i/handling_responses_and_inflight_requests_with/)
 - [[AskJS] Help with scanning QR codes](https://www.reddit.com/r/javascript/comments/1qpvy2t/askjs_help_with_scanning_qr_codes/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [I built a way to safely execute untrusted Javascript using WebAssembly sandboxes](https://www.reddit.com/r/javascript/comments/1qpkkn3/i_built_a_way_to_safely_execute_untrusted/)
 - [A real-time signal-decoding playground in the browser &lpar;for BCI research&rpar;](https://www.reddit.com/r/javascript/comments/1qpfa24/a_realtime_signaldecoding_playground_in_the/)
 - [I built a zero-config CLI for monorepo versioning &lpar;alternative to Changesets/Nx&rpar;](https://www.reddit.com/r/javascript/comments/1qpazui/i_built_a_zeroconfig_cli_for_monorepo_versioning/)
-- [I built a minesweeper game that got on HN front page, pls try it out](https://www.reddit.com/r/javascript/comments/1qovckq/i_built_a_minesweeper_game_that_got_on_hn_front/)
-- [I built a native WebGPU JS runtime &lpar;no browser needed&rpar;](https://www.reddit.com/r/javascript/comments/1qoswga/i_built_a_native_webgpu_js_runtime_no_browser/)
-- [What are the top frontend debugging tools for 2026? A deep comparative guide for best dev options in debugging](https://www.reddit.com/r/javascript/comments/1qoqg54/what_are_the_top_frontend_debugging_tools_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
