@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Tiny WebGL library with shader first approach](https://www.reddit.com/r/javascript/comments/1qsa72l/tiny_webgl_library_with_shader_first_approach/)
+- [[AskJS] Option to create virtual input devices with node?](https://www.reddit.com/r/javascript/comments/1qs1f4e/askjs_option_to_create_virtual_input_devices_with/)
+- [[AskJS] How do you preserve runtime object context when debugging JavaScript across breakpoints?](https://www.reddit.com/r/javascript/comments/1qrzv8g/askjs_how_do_you_preserve_runtime_object_context/)
+- [I built an AST-based contract tracker to catch structural drift and prop hallucinations during large-scale refactors](https://www.reddit.com/r/javascript/comments/1qrz6i4/i_built_an_astbased_contract_tracker_to_catch/)
+- [Showoff Saturday &lpar;January 31, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1qrwgvj/showoff_saturday_january_31_2026/)
+- [[AskJS] In production JavaScript apps, how do you decide when abstraction becomes overengineering?](https://www.reddit.com/r/javascript/comments/1qrv2u1/askjs_in_production_javascript_apps_how_do_you/)
 - [Lix v0.5 - Version control library for JS](https://www.reddit.com/r/javascript/comments/1qrkazt/lix_v05_version_control_library_for_js/)
 - [I implemented an ARMv4 CPU emulator in pure JavaScript — no WASM, runs at 60fps in browser](https://www.reddit.com/r/javascript/comments/1qr5wpz/i_implemented_an_armv4_cpu_emulator_in_pure/)
 - [I built a cached, self-healing alternative to Google Places API using OSM](https://www.reddit.com/r/javascript/comments/1qr4o9x/i_built_a_cached_selfhealing_alternative_to/)
 - [Rust-inspired multithreading tasks in JavaScript](https://www.reddit.com/r/javascript/comments/1qqkefm/rustinspired_multithreading_tasks_in_javascript/)
-- [Handling Responses and In-Flight Requests with Durable Objects](https://www.reddit.com/r/javascript/comments/1qqjx4i/handling_responses_and_inflight_requests_with/)
-- [[AskJS] Help with scanning QR codes](https://www.reddit.com/r/javascript/comments/1qpvy2t/askjs_help_with_scanning_qr_codes/)
-- [I built a chrome extension to debug and format javascript code in Browser.](https://www.reddit.com/r/javascript/comments/1qpsfoz/i_built_a_chrome_extension_to_debug_and_format/)
-- [I built a way to safely execute untrusted Javascript using WebAssembly sandboxes](https://www.reddit.com/r/javascript/comments/1qpkkn3/i_built_a_way_to_safely_execute_untrusted/)
-- [A real-time signal-decoding playground in the browser &lpar;for BCI research&rpar;](https://www.reddit.com/r/javascript/comments/1qpfa24/a_realtime_signaldecoding_playground_in_the/)
-- [I built a zero-config CLI for monorepo versioning &lpar;alternative to Changesets/Nx&rpar;](https://www.reddit.com/r/javascript/comments/1qpazui/i_built_a_zeroconfig_cli_for_monorepo_versioning/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
