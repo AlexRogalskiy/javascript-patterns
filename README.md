@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [TS Table Library](https://www.reddit.com/r/javascript/comments/1qtjx1b/ts_table_library/)
+- [Been working on a JavaScript browser IDE](https://www.reddit.com/r/javascript/comments/1qthca5/been_working_on_a_javascript_browser_ide/)
+- [Created my first package, looking for feedback](https://www.reddit.com/r/javascript/comments/1qtdhtt/created_my_first_package_looking_for_feedback/)
+- [I built a browser fingerprinting library with 19 collectors and bot detection - just released v2.0](https://www.reddit.com/r/javascript/comments/1qt3n2v/i_built_a_browser_fingerprinting_library_with_19/)
+- [[AskJS] :: can&#39;t maintain contsistency, and forgeting everything, give me solution](https://www.reddit.com/r/javascript/comments/1qsyh1h/askjs_cant_maintain_contsistency_and_forgeting/)
+- [made a localstorage compression lib thats 14x faster than lz-string](https://www.reddit.com/r/javascript/comments/1qsuvka/made_a_localstorage_compression_lib_thats_14x/)
+- [JavaScript objects - memory ref and shallow copy](https://www.reddit.com/r/javascript/comments/1qsq9fk/javascript_objects_memory_ref_and_shallow_copy/)
 - [Tiny WebGL library with shader first approach](https://www.reddit.com/r/javascript/comments/1qsa72l/tiny_webgl_library_with_shader_first_approach/)
 - [[AskJS] Option to create virtual input devices with node?](https://www.reddit.com/r/javascript/comments/1qs1f4e/askjs_option_to_create_virtual_input_devices_with/)
 - [[AskJS] How do you preserve runtime object context when debugging JavaScript across breakpoints?](https://www.reddit.com/r/javascript/comments/1qrzv8g/askjs_how_do_you_preserve_runtime_object_context/)
-- [I built an AST-based contract tracker to catch structural drift and prop hallucinations during large-scale refactors](https://www.reddit.com/r/javascript/comments/1qrz6i4/i_built_an_astbased_contract_tracker_to_catch/)
-- [Showoff Saturday &lpar;January 31, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1qrwgvj/showoff_saturday_january_31_2026/)
-- [[AskJS] In production JavaScript apps, how do you decide when abstraction becomes overengineering?](https://www.reddit.com/r/javascript/comments/1qrv2u1/askjs_in_production_javascript_apps_how_do_you/)
-- [Lix v0.5 - Version control library for JS](https://www.reddit.com/r/javascript/comments/1qrkazt/lix_v05_version_control_library_for_js/)
-- [I implemented an ARMv4 CPU emulator in pure JavaScript — no WASM, runs at 60fps in browser](https://www.reddit.com/r/javascript/comments/1qr5wpz/i_implemented_an_armv4_cpu_emulator_in_pure/)
-- [I built a cached, self-healing alternative to Google Places API using OSM](https://www.reddit.com/r/javascript/comments/1qr4o9x/i_built_a_cached_selfhealing_alternative_to/)
-- [Rust-inspired multithreading tasks in JavaScript](https://www.reddit.com/r/javascript/comments/1qqkefm/rustinspired_multithreading_tasks_in_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
