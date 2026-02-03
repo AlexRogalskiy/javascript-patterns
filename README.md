@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Mini Logo Interpreter in 100 lines of pure JS](https://www.reddit.com/r/javascript/comments/1qudzlx/mini_logo_interpreter_in_100_lines_of_pure_js/)
+- [Effection 4.0 - Easy path to Structured Concurrency in JavaScript](https://www.reddit.com/r/javascript/comments/1qubaa2/effection_40_easy_path_to_structured_concurrency/)
+- [Predicting Math.random&lpar;&rpar; in Firefox using Z3 SMT-solver](https://www.reddit.com/r/javascript/comments/1qu7rcx/predicting_mathrandom_in_firefox_using_z3/)
+- [From 88 to 24 Seconds: JS Drop-In Replacements That Cut CI/CD Runtime by Over Half](https://www.reddit.com/r/javascript/comments/1qu66vm/from_88_to_24_seconds_js_dropin_replacements_that/)
+- [I’m using JSX to program execution instead of UI](https://www.reddit.com/r/javascript/comments/1qu5z3l/im_using_jsx_to_program_execution_instead_of_ui/)
+- [Asked Claude to port Quake to plain JavaScript and Three.js](https://www.reddit.com/r/javascript/comments/1qts1z1/asked_claude_to_port_quake_to_plain_javascript/)
+- [[AskJS] How do you analyze and fix slow builds?](https://www.reddit.com/r/javascript/comments/1qtoopr/askjs_how_do_you_analyze_and_fix_slow_builds/)
 - [TS Table Library](https://www.reddit.com/r/javascript/comments/1qtjx1b/ts_table_library/)
 - [Been working on a JavaScript browser IDE](https://www.reddit.com/r/javascript/comments/1qthca5/been_working_on_a_javascript_browser_ide/)
 - [Created my first package, looking for feedback](https://www.reddit.com/r/javascript/comments/1qtdhtt/created_my_first_package_looking_for_feedback/)
-- [I built a browser fingerprinting library with 19 collectors and bot detection - just released v2.0](https://www.reddit.com/r/javascript/comments/1qt3n2v/i_built_a_browser_fingerprinting_library_with_19/)
-- [[AskJS] :: can&#39;t maintain contsistency, and forgeting everything, give me solution](https://www.reddit.com/r/javascript/comments/1qsyh1h/askjs_cant_maintain_contsistency_and_forgeting/)
-- [made a localstorage compression lib thats 14x faster than lz-string](https://www.reddit.com/r/javascript/comments/1qsuvka/made_a_localstorage_compression_lib_thats_14x/)
-- [JavaScript objects - memory ref and shallow copy](https://www.reddit.com/r/javascript/comments/1qsq9fk/javascript_objects_memory_ref_and_shallow_copy/)
-- [Tiny WebGL library with shader first approach](https://www.reddit.com/r/javascript/comments/1qsa72l/tiny_webgl_library_with_shader_first_approach/)
-- [[AskJS] Option to create virtual input devices with node?](https://www.reddit.com/r/javascript/comments/1qs1f4e/askjs_option_to_create_virtual_input_devices_with/)
-- [[AskJS] How do you preserve runtime object context when debugging JavaScript across breakpoints?](https://www.reddit.com/r/javascript/comments/1qrzv8g/askjs_how_do_you_preserve_runtime_object_context/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
