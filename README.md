@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Mini Logo Interpreter in 100 lines of pure JS](https://www.reddit.com/r/javascript/comments/1qudzlx/mini_logo_interpreter_in_100_lines_of_pure_js/)
-- [Effection 4.0 - Easy path to Structured Concurrency in JavaScript](https://www.reddit.com/r/javascript/comments/1qubaa2/effection_40_easy_path_to_structured_concurrency/)
-- [Predicting Math.random&lpar;&rpar; in Firefox using Z3 SMT-solver](https://www.reddit.com/r/javascript/comments/1qu7rcx/predicting_mathrandom_in_firefox_using_z3/)
-- [From 88 to 24 Seconds: JS Drop-In Replacements That Cut CI/CD Runtime by Over Half](https://www.reddit.com/r/javascript/comments/1qu66vm/from_88_to_24_seconds_js_dropin_replacements_that/)
-- [I’m using JSX to program execution instead of UI](https://www.reddit.com/r/javascript/comments/1qu5z3l/im_using_jsx_to_program_execution_instead_of_ui/)
-- [Asked Claude to port Quake to plain JavaScript and Three.js](https://www.reddit.com/r/javascript/comments/1qts1z1/asked_claude_to_port_quake_to_plain_javascript/)
-- [[AskJS] How do you analyze and fix slow builds?](https://www.reddit.com/r/javascript/comments/1qtoopr/askjs_how_do_you_analyze_and_fix_slow_builds/)
-- [TS Table Library](https://www.reddit.com/r/javascript/comments/1qtjx1b/ts_table_library/)
-- [Been working on a JavaScript browser IDE](https://www.reddit.com/r/javascript/comments/1qthca5/been_working_on_a_javascript_browser_ide/)
-- [Created my first package, looking for feedback](https://www.reddit.com/r/javascript/comments/1qtdhtt/created_my_first_package_looking_for_feedback/)
+- [I built a fetch&lpar;&rpar; wrapper that catches file corruption mid-download and resumes where it left off](https://www.reddit.com/r/javascript/comments/1qvzi8m/i_built_a_fetch_wrapper_that_catches_file/)
+- [Personalized user interfaces with generative UI!](https://www.reddit.com/r/javascript/comments/1qvzcz2/personalized_user_interfaces_with_generative_ui/)
+- [State of JavaScript 2025](https://www.reddit.com/r/javascript/comments/1qvvlt6/state_of_javascript_2025/)
+- [[AskJS] What makes a developer tool worth bookmarking for you?](https://www.reddit.com/r/javascript/comments/1qvtche/askjs_what_makes_a_developer_tool_worth/)
+- [[AskJS] Best JS-friendly approach for accurate citation metadata from arbitrary URLs &lpar;including PDFs&rpar;?](https://www.reddit.com/r/javascript/comments/1qvgwhq/askjs_best_jsfriendly_approach_for_accurate/)
+- [What if UI was developed as a sequence instead of state? I built a framework to test the idea.](https://www.reddit.com/r/javascript/comments/1qv909x/what_if_ui_was_developed_as_a_sequence_instead_of/)
+- [[AskJS] Considering using an ORM, help me!](https://www.reddit.com/r/javascript/comments/1qurvdh/askjs_considering_using_an_orm_help_me/)
+- [Can someone explain the Destructured parameter with default value assignment?](https://www.reddit.com/r/javascript/comments/1qur4um/can_someone_explain_the_destructured_parameter/)
+- [FlowSquire: a Node.js rule engine for local filesystem automation &lpar;open source&rpar;](https://www.reddit.com/r/javascript/comments/1quphej/flowsquire_a_nodejs_rule_engine_for_local/)
+- [A browser benchmark that actually uses all your CPU/GPU cores](https://www.reddit.com/r/javascript/comments/1qumocs/a_browser_benchmark_that_actually_uses_all_your/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
