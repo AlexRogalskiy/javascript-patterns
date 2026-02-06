@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I built a fetch&lpar;&rpar; wrapper that catches file corruption mid-download and resumes where it left off](https://www.reddit.com/r/javascript/comments/1qvzi8m/i_built_a_fetch_wrapper_that_catches_file/)
-- [Personalized user interfaces with generative UI!](https://www.reddit.com/r/javascript/comments/1qvzcz2/personalized_user_interfaces_with_generative_ui/)
-- [State of JavaScript 2025](https://www.reddit.com/r/javascript/comments/1qvvlt6/state_of_javascript_2025/)
-- [[AskJS] What makes a developer tool worth bookmarking for you?](https://www.reddit.com/r/javascript/comments/1qvtche/askjs_what_makes_a_developer_tool_worth/)
-- [[AskJS] Best JS-friendly approach for accurate citation metadata from arbitrary URLs &lpar;including PDFs&rpar;?](https://www.reddit.com/r/javascript/comments/1qvgwhq/askjs_best_jsfriendly_approach_for_accurate/)
-- [What if UI was developed as a sequence instead of state? I built a framework to test the idea.](https://www.reddit.com/r/javascript/comments/1qv909x/what_if_ui_was_developed_as_a_sequence_instead_of/)
-- [[AskJS] Considering using an ORM, help me!](https://www.reddit.com/r/javascript/comments/1qurvdh/askjs_considering_using_an_orm_help_me/)
-- [Can someone explain the Destructured parameter with default value assignment?](https://www.reddit.com/r/javascript/comments/1qur4um/can_someone_explain_the_destructured_parameter/)
-- [FlowSquire: a Node.js rule engine for local filesystem automation &lpar;open source&rpar;](https://www.reddit.com/r/javascript/comments/1quphej/flowsquire_a_nodejs_rule_engine_for_local/)
-- [A browser benchmark that actually uses all your CPU/GPU cores](https://www.reddit.com/r/javascript/comments/1qumocs/a_browser_benchmark_that_actually_uses_all_your/)
+- [Need Suggestion](https://www.reddit.com/r/javascript/comments/1qx4l4p/need_suggestion/)
+- [MicroState - an isometric 2.5D city builder in JavaScript [WIP]](https://www.reddit.com/r/javascript/comments/1qx4k0v/microstate_an_isometric_25d_city_builder_in/)
+- [[AskJS] If you could delete one thing from JS that would make life way eaiser, what would it be?](https://www.reddit.com/r/javascript/comments/1qwuwxp/askjs_if_you_could_delete_one_thing_from_js_that/)
+- [autodisco - A discovery tool for third-party APIs to create OpenAPI / Zod / JSON Schemas and TypeScript types by probing their endpoints](https://www.reddit.com/r/javascript/comments/1qwtxrp/autodisco_a_discovery_tool_for_thirdparty_apis_to/)
+- [An Elm Primer: Declarative Dialogs with MutationObserver · cekrem.github.io](https://www.reddit.com/r/javascript/comments/1qwsy0s/an_elm_primer_declarative_dialogs_with/)
+- [Usertour: one-click Railway template for an open-source user onboarding platform](https://www.reddit.com/r/javascript/comments/1qwntl6/usertour_oneclick_railway_template_for_an/)
+- [fetch&lpar;&rpar; still can&#39;t resume a failed download so i built that](https://www.reddit.com/r/javascript/comments/1qwkt11/fetch_still_cant_resume_a_failed_download_so_i/)
+- [Built a small Chrome extension to inspect JSON/JWTs locally &lpar;JS dev tool&rpar;](https://www.reddit.com/r/javascript/comments/1qwk5mg/built_a_small_chrome_extension_to_inspect/)
+- [Battle-testing Lynx at Allegro](https://www.reddit.com/r/javascript/comments/1qwh5ss/battletesting_lynx_at_allegro/)
+- [markdown-to-jsx, a highly configurable and fast toolchain](https://www.reddit.com/r/javascript/comments/1qwd4qt/markdowntojsx_a_highly_configurable_and_fast/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
