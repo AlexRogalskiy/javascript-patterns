@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Introducing Shovel.js | What if your server was just a Service Worker?](https://www.reddit.com/r/javascript/comments/1qyj35m/introducing_shoveljs_what_if_your_server_was_just/)
+- [I built a tiny Vanilla JS template engine using only valid HTML – and just added declarative event binding](https://www.reddit.com/r/javascript/comments/1qyhvjk/i_built_a_tiny_vanilla_js_template_engine_using/)
+- [blECSd - a modern blessed rewrite](https://www.reddit.com/r/javascript/comments/1qygjqt/blecsd_a_modern_blessed_rewrite/)
+- [I built a 15Kb, zero-dependency, renderer-agnostic streaming lip-sync engine for browser-based 2D animation. Real-time viseme detection via AudioWorklet + Web Audio API.](https://www.reddit.com/r/javascript/comments/1qyfzw2/i_built_a_15kb_zerodependency_rendereragnostic/)
+- [[AskJS] I heard some rumor about &quot;wasm is dead&quot; ...](https://www.reddit.com/r/javascript/comments/1qybbo4/askjs_i_heard_some_rumor_about_wasm_is_dead/)
+- [Making WPF working with js, even with JSX!](https://www.reddit.com/r/javascript/comments/1qya71h/making_wpf_working_with_js_even_with_jsx/)
+- [Showoff Saturday &lpar;February 07, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1qy82rq/showoff_saturday_february_07_2026/)
+- [mermaid-formatter – Auto-format Mermaid diagram syntax &lpar;indentation, spacing, arrow normalization&rpar;](https://www.reddit.com/r/javascript/comments/1qy7r0l/mermaidformatter_autoformat_mermaid_diagram/)
 - [What’s New in ViteLand: January 2026 Recap](https://www.reddit.com/r/javascript/comments/1qxzzob/whats_new_in_viteland_january_2026_recap/)
 - [Ember v6.10 Released](https://www.reddit.com/r/javascript/comments/1qxov90/ember_v610_released/)
-- [[AskJS] What is expected to get a job as junior front-end dev?](https://www.reddit.com/r/javascript/comments/1qxk3dn/askjs_what_is_expected_to_get_a_job_as_junior/)
-- [Javascript Web Sqlite Editor 100% Javascript](https://www.reddit.com/r/javascript/comments/1qxjspp/javascript_web_sqlite_editor_100_javascript/)
-- [[Show] urgot-cli: one-command TS/Node bootstrap &lpar;eslint+prettier+vitest+husky+CI&rpar;](https://www.reddit.com/r/javascript/comments/1qxfgjo/show_urgotcli_onecommand_tsnode_bootstrap/)
-- [Need Suggestion](https://www.reddit.com/r/javascript/comments/1qx4l4p/need_suggestion/)
-- [MicroState - an isometric 2.5D city builder in JavaScript [WIP]](https://www.reddit.com/r/javascript/comments/1qx4k0v/microstate_an_isometric_25d_city_builder_in/)
-- [[AskJS] If you could delete one thing from JS that would make life way eaiser, what would it be?](https://www.reddit.com/r/javascript/comments/1qwuwxp/askjs_if_you_could_delete_one_thing_from_js_that/)
-- [autodisco - A discovery tool for third-party APIs to create OpenAPI / Zod / JSON Schemas and TypeScript types by probing their endpoints](https://www.reddit.com/r/javascript/comments/1qwtxrp/autodisco_a_discovery_tool_for_thirdparty_apis_to/)
-- [An Elm Primer: Declarative Dialogs with MutationObserver · cekrem.github.io](https://www.reddit.com/r/javascript/comments/1qwsy0s/an_elm_primer_declarative_dialogs_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
