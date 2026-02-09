@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I built this Steam game in javascript](https://www.reddit.com/r/javascript/comments/1qzrbw0/i_built_this_steam_game_in_javascript/)
+- [I deploy to AWS using JSX](https://www.reddit.com/r/javascript/comments/1qzn4y6/i_deploy_to_aws_using_jsx/)
+- [I was fed up with process.env for configs, so I built something much, much better](https://www.reddit.com/r/javascript/comments/1qzj9e7/i_was_fed_up_with_processenv_for_configs_so_i/)
+- [I built a small ESLint plugin to validate Next.js Pages Router routes &lpar;route/asPath/push/replace&rpar; against pages/ manifest](https://www.reddit.com/r/javascript/comments/1qzhos8/i_built_a_small_eslint_plugin_to_validate_nextjs/)
+- [Elysia JIT &quot;Compiler&quot;, why it&#39;s one of the fastest JavaScript backend framework](https://www.reddit.com/r/javascript/comments/1qz6uk1/elysia_jit_compiler_why_its_one_of_the_fastest/)
+- [CReact version 0.3.0 released](https://www.reddit.com/r/javascript/comments/1qyzsne/creact_version_030_released/)
 - [Introducing Shovel.js | What if your server was just a Service Worker?](https://www.reddit.com/r/javascript/comments/1qyj35m/introducing_shoveljs_what_if_your_server_was_just/)
 - [I built a tiny Vanilla JS template engine using only valid HTML – and just added declarative event binding](https://www.reddit.com/r/javascript/comments/1qyhvjk/i_built_a_tiny_vanilla_js_template_engine_using/)
 - [blECSd - a modern blessed rewrite](https://www.reddit.com/r/javascript/comments/1qygjqt/blecsd_a_modern_blessed_rewrite/)
 - [I built a 15Kb, zero-dependency, renderer-agnostic streaming lip-sync engine for browser-based 2D animation. Real-time viseme detection via AudioWorklet + Web Audio API.](https://www.reddit.com/r/javascript/comments/1qyfzw2/i_built_a_15kb_zerodependency_rendereragnostic/)
-- [[AskJS] I heard some rumor about &quot;wasm is dead&quot; ...](https://www.reddit.com/r/javascript/comments/1qybbo4/askjs_i_heard_some_rumor_about_wasm_is_dead/)
-- [Making WPF working with js, even with JSX!](https://www.reddit.com/r/javascript/comments/1qya71h/making_wpf_working_with_js_even_with_jsx/)
-- [Showoff Saturday &lpar;February 07, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1qy82rq/showoff_saturday_february_07_2026/)
-- [mermaid-formatter – Auto-format Mermaid diagram syntax &lpar;indentation, spacing, arrow normalization&rpar;](https://www.reddit.com/r/javascript/comments/1qy7r0l/mermaidformatter_autoformat_mermaid_diagram/)
-- [What’s New in ViteLand: January 2026 Recap](https://www.reddit.com/r/javascript/comments/1qxzzob/whats_new_in_viteland_january_2026_recap/)
-- [Ember v6.10 Released](https://www.reddit.com/r/javascript/comments/1qxov90/ember_v610_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
