@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I built this Steam game in javascript](https://www.reddit.com/r/javascript/comments/1qzrbw0/i_built_this_steam_game_in_javascript/)
-- [I deploy to AWS using JSX](https://www.reddit.com/r/javascript/comments/1qzn4y6/i_deploy_to_aws_using_jsx/)
-- [I was fed up with process.env for configs, so I built something much, much better](https://www.reddit.com/r/javascript/comments/1qzj9e7/i_was_fed_up_with_processenv_for_configs_so_i/)
-- [I built a small ESLint plugin to validate Next.js Pages Router routes &lpar;route/asPath/push/replace&rpar; against pages/ manifest](https://www.reddit.com/r/javascript/comments/1qzhos8/i_built_a_small_eslint_plugin_to_validate_nextjs/)
-- [Elysia JIT &quot;Compiler&quot;, why it&#39;s one of the fastest JavaScript backend framework](https://www.reddit.com/r/javascript/comments/1qz6uk1/elysia_jit_compiler_why_its_one_of_the_fastest/)
-- [CReact version 0.3.0 released](https://www.reddit.com/r/javascript/comments/1qyzsne/creact_version_030_released/)
-- [Introducing Shovel.js | What if your server was just a Service Worker?](https://www.reddit.com/r/javascript/comments/1qyj35m/introducing_shoveljs_what_if_your_server_was_just/)
-- [I built a tiny Vanilla JS template engine using only valid HTML – and just added declarative event binding](https://www.reddit.com/r/javascript/comments/1qyhvjk/i_built_a_tiny_vanilla_js_template_engine_using/)
-- [blECSd - a modern blessed rewrite](https://www.reddit.com/r/javascript/comments/1qygjqt/blecsd_a_modern_blessed_rewrite/)
-- [I built a 15Kb, zero-dependency, renderer-agnostic streaming lip-sync engine for browser-based 2D animation. Real-time viseme detection via AudioWorklet + Web Audio API.](https://www.reddit.com/r/javascript/comments/1qyfzw2/i_built_a_15kb_zerodependency_rendereragnostic/)
+- [Left to Right Programming](https://www.reddit.com/r/javascript/comments/1rfo1pq/left_to_right_programming/)
+- [I built i18n-scan to make internationalization a breeze](https://www.reddit.com/r/javascript/comments/1rfjuin/i_built_i18nscan_to_make_internationalization_a/)
+- [Explicit Resource Management Has a Color Problem](https://www.reddit.com/r/javascript/comments/1rfjev6/explicit_resource_management_has_a_color_problem/)
+- [TIL about Math.hypot&lpar;&rpar;](https://www.reddit.com/r/javascript/comments/1rf99ak/til_about_mathhypot/)
+- [[AskJS] Do most developers misunderstand how state batching actually works?](https://www.reddit.com/r/javascript/comments/1rf5h7f/askjs_do_most_developers_misunderstand_how_state/)
+- [[AskJS] In React Native, where do performance bottlenecks usually occur in the setState → render pipeline?](https://www.reddit.com/r/javascript/comments/1rf4xql/askjs_in_react_native_where_do_performance/)
+- [I built a CLI that lets you ship only the country/city data you actually need — 218 countries, 17 languages, zero runtime deps](https://www.reddit.com/r/javascript/comments/1rekynm/i_built_a_cli_that_lets_you_ship_only_the/)
+- [Dwitter Beta - Creative coding in 140 characters](https://www.reddit.com/r/javascript/comments/1rehunn/dwitter_beta_creative_coding_in_140_characters/)
+- [Blop 1.2: An Experimental Language for the Web](https://www.reddit.com/r/javascript/comments/1regpqy/blop_12_an_experimental_language_for_the_web/)
+- [Time-Travel Debugging: Replaying Production Bugs Locally](https://www.reddit.com/r/javascript/comments/1ree5uo/timetravel_debugging_replaying_production_bugs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
