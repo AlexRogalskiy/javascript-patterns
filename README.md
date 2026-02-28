@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Is anyone using vanilla javascript + jQuery for modern enterprise applications?](https://www.reddit.com/r/javascript/comments/1rgngd0/askjs_is_anyone_using_vanilla_javascript_jquery/)
+- [I build an HTML-first reactive framework &lpar;no JS required on your end&rpar; called NoJS](https://www.reddit.com/r/javascript/comments/1rgkuyj/i_build_an_htmlfirst_reactive_framework_no_js/)
+- [People are STILL Writing JavaScript &quot;DRM&quot;](https://www.reddit.com/r/javascript/comments/1rgajy7/people_are_still_writing_javascript_drm/)
+- [An AI Attacked a Developer. Naturally, I Built My Own Bot. Because Terminator II! · cekrem.github.io](https://www.reddit.com/r/javascript/comments/1rg447b/an_ai_attacked_a_developer_naturally_i_built_my/)
 - [Left to Right Programming](https://www.reddit.com/r/javascript/comments/1rfo1pq/left_to_right_programming/)
 - [I built i18n-scan to make internationalization a breeze](https://www.reddit.com/r/javascript/comments/1rfjuin/i_built_i18nscan_to_make_internationalization_a/)
 - [Explicit Resource Management Has a Color Problem](https://www.reddit.com/r/javascript/comments/1rfjev6/explicit_resource_management_has_a_color_problem/)
 - [TIL about Math.hypot&lpar;&rpar;](https://www.reddit.com/r/javascript/comments/1rf99ak/til_about_mathhypot/)
 - [[AskJS] Do most developers misunderstand how state batching actually works?](https://www.reddit.com/r/javascript/comments/1rf5h7f/askjs_do_most_developers_misunderstand_how_state/)
 - [[AskJS] In React Native, where do performance bottlenecks usually occur in the setState → render pipeline?](https://www.reddit.com/r/javascript/comments/1rf4xql/askjs_in_react_native_where_do_performance/)
-- [I built a CLI that lets you ship only the country/city data you actually need — 218 countries, 17 languages, zero runtime deps](https://www.reddit.com/r/javascript/comments/1rekynm/i_built_a_cli_that_lets_you_ship_only_the/)
-- [Dwitter Beta - Creative coding in 140 characters](https://www.reddit.com/r/javascript/comments/1rehunn/dwitter_beta_creative_coding_in_140_characters/)
-- [Blop 1.2: An Experimental Language for the Web](https://www.reddit.com/r/javascript/comments/1regpqy/blop_12_an_experimental_language_for_the_web/)
-- [Time-Travel Debugging: Replaying Production Bugs Locally](https://www.reddit.com/r/javascript/comments/1ree5uo/timetravel_debugging_replaying_production_bugs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
