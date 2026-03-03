@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Is anyone using vanilla javascript + jQuery for modern enterprise applications?](https://www.reddit.com/r/javascript/comments/1rgngd0/askjs_is_anyone_using_vanilla_javascript_jquery/)
-- [I build an HTML-first reactive framework &lpar;no JS required on your end&rpar; called NoJS](https://www.reddit.com/r/javascript/comments/1rgkuyj/i_build_an_htmlfirst_reactive_framework_no_js/)
-- [People are STILL Writing JavaScript &quot;DRM&quot;](https://www.reddit.com/r/javascript/comments/1rgajy7/people_are_still_writing_javascript_drm/)
-- [An AI Attacked a Developer. Naturally, I Built My Own Bot. Because Terminator II! · cekrem.github.io](https://www.reddit.com/r/javascript/comments/1rg447b/an_ai_attacked_a_developer_naturally_i_built_my/)
-- [Left to Right Programming](https://www.reddit.com/r/javascript/comments/1rfo1pq/left_to_right_programming/)
-- [I built i18n-scan to make internationalization a breeze](https://www.reddit.com/r/javascript/comments/1rfjuin/i_built_i18nscan_to_make_internationalization_a/)
-- [Explicit Resource Management Has a Color Problem](https://www.reddit.com/r/javascript/comments/1rfjev6/explicit_resource_management_has_a_color_problem/)
-- [TIL about Math.hypot&lpar;&rpar;](https://www.reddit.com/r/javascript/comments/1rf99ak/til_about_mathhypot/)
-- [[AskJS] Do most developers misunderstand how state batching actually works?](https://www.reddit.com/r/javascript/comments/1rf5h7f/askjs_do_most_developers_misunderstand_how_state/)
-- [[AskJS] In React Native, where do performance bottlenecks usually occur in the setState → render pipeline?](https://www.reddit.com/r/javascript/comments/1rf4xql/askjs_in_react_native_where_do_performance/)
+- [[AskJS] Quick guide from JS to both app stores, asking for feedback](https://www.reddit.com/r/javascript/comments/1rixuac/askjs_quick_guide_from_js_to_both_app_stores/)
+- [dotenv-gad now supports at rest schema based encryption for your .env secrets](https://www.reddit.com/r/javascript/comments/1rix0fm/dotenvgad_now_supports_at_rest_schema_based/)
+- [GraphGPU - WebGPU-accelerated graph visualization](https://www.reddit.com/r/javascript/comments/1riviat/graphgpu_webgpuaccelerated_graph_visualization/)
+- [What&#39;s New in ViteLand: Oxfmt Beta, Vite 8 Devtools &amp; Rolldown Gains](https://www.reddit.com/r/javascript/comments/1rit53n/whats_new_in_viteland_oxfmt_beta_vite_8_devtools/)
+- [JSON-formatter chrome extension has gone closed source and now begs for donations by hijacking checkout pages using give freely](https://www.reddit.com/r/javascript/comments/1riqacf/jsonformatter_chrome_extension_has_gone_closed/)
+- [[AskJS] Is immutable DI a real architectural value in large JS apps?](https://www.reddit.com/r/javascript/comments/1riozgs/askjs_is_immutable_di_a_real_architectural_value/)
+- [Your /r/javascript recap for the week of February 23 - March 01, 2026](https://www.reddit.com/r/javascript/comments/1riox8w/your_rjavascript_recap_for_the_week_of_february/)
+- [Showcase: Vira Theme — Formerly Material Theme](https://www.reddit.com/r/javascript/comments/1rin8zz/showcase_vira_theme_formerly_material_theme/)
+- [[AskJS] Have you ever seen a production bug caused by partial execution?](https://www.reddit.com/r/javascript/comments/1riijk3/askjs_have_you_ever_seen_a_production_bug_caused/)
+- [I built Pongo - self-hosted uptime monitoring with configuration-as-code](https://www.reddit.com/r/javascript/comments/1ri7bqr/i_built_pongo_selfhosted_uptime_monitoring_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
