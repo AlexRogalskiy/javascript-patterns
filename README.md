@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Quick guide from JS to both app stores, asking for feedback](https://www.reddit.com/r/javascript/comments/1rixuac/askjs_quick_guide_from_js_to_both_app_stores/)
-- [dotenv-gad now supports at rest schema based encryption for your .env secrets](https://www.reddit.com/r/javascript/comments/1rix0fm/dotenvgad_now_supports_at_rest_schema_based/)
-- [GraphGPU - WebGPU-accelerated graph visualization](https://www.reddit.com/r/javascript/comments/1riviat/graphgpu_webgpuaccelerated_graph_visualization/)
-- [What&#39;s New in ViteLand: Oxfmt Beta, Vite 8 Devtools &amp; Rolldown Gains](https://www.reddit.com/r/javascript/comments/1rit53n/whats_new_in_viteland_oxfmt_beta_vite_8_devtools/)
-- [JSON-formatter chrome extension has gone closed source and now begs for donations by hijacking checkout pages using give freely](https://www.reddit.com/r/javascript/comments/1riqacf/jsonformatter_chrome_extension_has_gone_closed/)
-- [[AskJS] Is immutable DI a real architectural value in large JS apps?](https://www.reddit.com/r/javascript/comments/1riozgs/askjs_is_immutable_di_a_real_architectural_value/)
-- [Your /r/javascript recap for the week of February 23 - March 01, 2026](https://www.reddit.com/r/javascript/comments/1riox8w/your_rjavascript_recap_for_the_week_of_february/)
-- [Showcase: Vira Theme — Formerly Material Theme](https://www.reddit.com/r/javascript/comments/1rin8zz/showcase_vira_theme_formerly_material_theme/)
-- [[AskJS] Have you ever seen a production bug caused by partial execution?](https://www.reddit.com/r/javascript/comments/1riijk3/askjs_have_you_ever_seen_a_production_bug_caused/)
-- [I built Pongo - self-hosted uptime monitoring with configuration-as-code](https://www.reddit.com/r/javascript/comments/1ri7bqr/i_built_pongo_selfhosted_uptime_monitoring_with/)
+- [I built a CLI tool in pure JS that generates documentation from your Node.js app&#39;s runtime data + source code](https://www.reddit.com/r/javascript/comments/1rs3jaz/i_built_a_cli_tool_in_pure_js_that_generates/)
+- [Vite 8 has been released](https://www.reddit.com/r/javascript/comments/1rs17jt/vite_8_has_been_released/)
+- [Type-safe offline VIN decoder with community-extensible patterns](https://www.reddit.com/r/javascript/comments/1rru9qn/typesafe_offline_vin_decoder_with/)
+- [[AskJS] Advice for game menus?](https://www.reddit.com/r/javascript/comments/1rrtmbg/askjs_advice_for_game_menus/)
+- [[AskJS] What concept in JS is the hardest to learn and understand?](https://www.reddit.com/r/javascript/comments/1rrpgsf/askjs_what_concept_in_js_is_the_hardest_to_learn/)
+- [I built a CLI that detects design anti-patterns in your JS/TS codebase using AST analysis](https://www.reddit.com/r/javascript/comments/1rrjyxt/i_built_a_cli_that_detects_design_antipatterns_in/)
+- [I&#39;m 16 and built a free AI scam detector for texts, emails and phone calls scamsnap.vercel.app](https://www.reddit.com/r/javascript/comments/1rrj0iu/im_16_and_built_a_free_ai_scam_detector_for_texts/)
+- [[AskJS] JSDoc Reality Check](https://www.reddit.com/r/javascript/comments/1rrieiy/askjs_jsdoc_reality_check/)
+- [[AskJS] Have you been through this, what was your experience?](https://www.reddit.com/r/javascript/comments/1rrfwqt/askjs_have_you_been_through_this_what_was_your/)
+- [DAUB – classless CSS + JS component library with a JSON rendering spec for AI-generated UIs](https://www.reddit.com/r/javascript/comments/1rr4ykm/daub_classless_css_js_component_library_with_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
