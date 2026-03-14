@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [If you’re working with Akamai sensors and need to gen correctly, here’s a correctly VM-decompiled version for Akamai 3.0.](https://www.reddit.com/r/javascript/comments/1rt4sow/if_youre_working_with_akamai_sensors_and_need_to/)
+- [GitHub - ecx2f/wtf: cli that explains, roasts, rates and analyzes your codebase, fully offline, no ai, no api keys](https://www.reddit.com/r/javascript/comments/1rt1vla/github_ecx2fwtf_cli_that_explains_roasts_rates/)
+- [Refactor: When It Actually Changes Things](https://www.reddit.com/r/javascript/comments/1rsyxpq/refactor_when_it_actually_changes_things/)
+- [Announcing Vite+ Alpha](https://www.reddit.com/r/javascript/comments/1rshxh6/announcing_vite_alpha/)
+- [New lib and with demo: Hide &amp; show elements on scroll up &amp; scroll down](https://www.reddit.com/r/javascript/comments/1rse0hg/new_lib_and_with_demo_hide_show_elements_on/)
 - [I built a CLI tool in pure JS that generates documentation from your Node.js app&#39;s runtime data + source code](https://www.reddit.com/r/javascript/comments/1rs3jaz/i_built_a_cli_tool_in_pure_js_that_generates/)
 - [Vite 8 has been released](https://www.reddit.com/r/javascript/comments/1rs17jt/vite_8_has_been_released/)
 - [Type-safe offline VIN decoder with community-extensible patterns](https://www.reddit.com/r/javascript/comments/1rru9qn/typesafe_offline_vin_decoder_with/)
 - [[AskJS] Advice for game menus?](https://www.reddit.com/r/javascript/comments/1rrtmbg/askjs_advice_for_game_menus/)
 - [[AskJS] What concept in JS is the hardest to learn and understand?](https://www.reddit.com/r/javascript/comments/1rrpgsf/askjs_what_concept_in_js_is_the_hardest_to_learn/)
-- [I built a CLI that detects design anti-patterns in your JS/TS codebase using AST analysis](https://www.reddit.com/r/javascript/comments/1rrjyxt/i_built_a_cli_that_detects_design_antipatterns_in/)
-- [I&#39;m 16 and built a free AI scam detector for texts, emails and phone calls scamsnap.vercel.app](https://www.reddit.com/r/javascript/comments/1rrj0iu/im_16_and_built_a_free_ai_scam_detector_for_texts/)
-- [[AskJS] JSDoc Reality Check](https://www.reddit.com/r/javascript/comments/1rrieiy/askjs_jsdoc_reality_check/)
-- [[AskJS] Have you been through this, what was your experience?](https://www.reddit.com/r/javascript/comments/1rrfwqt/askjs_have_you_been_through_this_what_was_your/)
-- [DAUB – classless CSS + JS component library with a JSON rendering spec for AI-generated UIs](https://www.reddit.com/r/javascript/comments/1rr4ykm/daub_classless_css_js_component_library_with_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
