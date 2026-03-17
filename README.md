@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A good dev is a lazy dev...](https://www.reddit.com/r/javascript/comments/1rvt7m1/a_good_dev_is_a_lazy_dev/)
+- [[AskJS] I’m building a CAD system where the file format is just TypeScript. Great for 1&rpar; complex mechanics and 2&rpar; AI.](https://www.reddit.com/r/javascript/comments/1rvjfs7/askjs_im_building_a_cad_system_where_the_file/)
+- [HTML Forms with Standards](https://www.reddit.com/r/javascript/comments/1rvb1hu/html_forms_with_standards/)
 - [Vibe SDK: A typesafe AI Agent SDK for Typescript inspired by Pydantic AI](https://www.reddit.com/r/javascript/comments/1ruvx6o/vibe_sdk_a_typesafe_ai_agent_sdk_for_typescript/)
 - [bonsai - a safe expression language for JS that does 30M ops/sec with zero dependencies](https://www.reddit.com/r/javascript/comments/1ruphgo/bonsai_a_safe_expression_language_for_js_that/)
 - [docmd v0.6 - A zero-config docs engine that ships under 20kb script. No React, no YAML hell, just high-performance Markdown](https://www.reddit.com/r/javascript/comments/1ruojml/docmd_v06_a_zeroconfig_docs_engine_that_ships/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [[AskJS] Is anyone else wasting hours every sprint on manual cherry-picks and backports?](https://www.reddit.com/r/javascript/comments/1rummyc/askjs_is_anyone_else_wasting_hours_every_sprint/)
 - [[AskJS] What is the nullish coalescing](https://www.reddit.com/r/javascript/comments/1ruk2ba/askjs_what_is_the_nullish_coalescing/)
 - [JCGE — A Vanilla JS 2D Game Engine, 5 Years in the Making](https://www.reddit.com/r/javascript/comments/1rud0o6/jcge_a_vanilla_js_2d_game_engine_5_years_in_the/)
-- [Cap&#39;n Web: a new RPC system for browsers and web servers](https://www.reddit.com/r/javascript/comments/1ruaf4i/capn_web_a_new_rpc_system_for_browsers_and_web/)
-- [I&#39;m building a visual scene editor for my Unity-inspired JS game engine &lpar;KernelPlay&rpar;](https://www.reddit.com/r/javascript/comments/1ru8bzi/im_building_a_visual_scene_editor_for_my/)
-- [Tired of syncing state? I built a UI framework where state moves toward a destination.](https://www.reddit.com/r/javascript/comments/1ru0m1g/tired_of_syncing_state_i_built_a_ui_framework/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
