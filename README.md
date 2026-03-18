@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [A good dev is a lazy dev...](https://www.reddit.com/r/javascript/comments/1rvt7m1/a_good_dev_is_a_lazy_dev/)
-- [[AskJS] I’m building a CAD system where the file format is just TypeScript. Great for 1&rpar; complex mechanics and 2&rpar; AI.](https://www.reddit.com/r/javascript/comments/1rvjfs7/askjs_im_building_a_cad_system_where_the_file/)
-- [HTML Forms with Standards](https://www.reddit.com/r/javascript/comments/1rvb1hu/html_forms_with_standards/)
-- [Vibe SDK: A typesafe AI Agent SDK for Typescript inspired by Pydantic AI](https://www.reddit.com/r/javascript/comments/1ruvx6o/vibe_sdk_a_typesafe_ai_agent_sdk_for_typescript/)
-- [bonsai - a safe expression language for JS that does 30M ops/sec with zero dependencies](https://www.reddit.com/r/javascript/comments/1ruphgo/bonsai_a_safe_expression_language_for_js_that/)
-- [docmd v0.6 - A zero-config docs engine that ships under 20kb script. No React, no YAML hell, just high-performance Markdown](https://www.reddit.com/r/javascript/comments/1ruojml/docmd_v06_a_zeroconfig_docs_engine_that_ships/)
-- [A very basic component framework for building reactive web interfaces](https://www.reddit.com/r/javascript/comments/1runi67/a_very_basic_component_framework_for_building/)
-- [[AskJS] Is anyone else wasting hours every sprint on manual cherry-picks and backports?](https://www.reddit.com/r/javascript/comments/1rummyc/askjs_is_anyone_else_wasting_hours_every_sprint/)
-- [[AskJS] What is the nullish coalescing](https://www.reddit.com/r/javascript/comments/1ruk2ba/askjs_what_is_the_nullish_coalescing/)
-- [JCGE — A Vanilla JS 2D Game Engine, 5 Years in the Making](https://www.reddit.com/r/javascript/comments/1rud0o6/jcge_a_vanilla_js_2d_game_engine_5_years_in_the/)
+- [ORM Comparison &lpar;2026&rpar;](https://www.reddit.com/r/javascript/comments/1rwm8sa/orm_comparison_2026/)
+- [I built a TypeScript library to simplify SEPA &lpar;EPC&rpar; QR payments in Europe + live demo](https://www.reddit.com/r/javascript/comments/1rwjmf7/i_built_a_typescript_library_to_simplify_sepa_epc/)
+- [I rebuilt Backbone.js without jQuery, Underscore. Now it has Classes, Typescript and ES modules](https://www.reddit.com/r/javascript/comments/1rwg7ly/i_rebuilt_backbonejs_without_jquery_underscore/)
+- [I built a keyboard shortcut manager that shows a GitHub-style overlay when you press ?](https://www.reddit.com/r/javascript/comments/1rwfq85/i_built_a_keyboard_shortcut_manager_that_shows_a/)
+- [auto-api-observe, zero-config observability middleware for Express/Fastify &lpar;structured logs, distributed tracing in one line&rpar;](https://www.reddit.com/r/javascript/comments/1rwf5jv/autoapiobserve_zeroconfig_observability/)
+- [Edge.js: Running Node apps inside a WebAssembly Sandbox](https://www.reddit.com/r/javascript/comments/1rwe7vr/edgejs_running_node_apps_inside_a_webassembly/)
+- [JS-native tool for generating portable JSON proofs for files and directories](https://www.reddit.com/r/javascript/comments/1rwasw0/jsnative_tool_for_generating_portable_json_proofs/)
+- [Introducing Revise.js – A foundational library for building contenteditable-based web text editors](https://www.reddit.com/r/javascript/comments/1rwan4l/introducing_revisejs_a_foundational_library_for/)
+- [I needed a tiny frontend framework with no bloat, so I built a 1.7kb one](https://www.reddit.com/r/javascript/comments/1rwahzi/i_needed_a_tiny_frontend_framework_with_no_bloat/)
+- [recur-date-based v2 — cron expressions, 100+ output formats &amp; typed extend for recurring date generation on TypeScript](https://www.reddit.com/r/javascript/comments/1rwa338/recurdatebased_v2_cron_expressions_100_output/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
