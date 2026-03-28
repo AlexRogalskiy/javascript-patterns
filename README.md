@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [ORM Comparison &lpar;2026&rpar;](https://www.reddit.com/r/javascript/comments/1rwm8sa/orm_comparison_2026/)
-- [I built a TypeScript library to simplify SEPA &lpar;EPC&rpar; QR payments in Europe + live demo](https://www.reddit.com/r/javascript/comments/1rwjmf7/i_built_a_typescript_library_to_simplify_sepa_epc/)
-- [I rebuilt Backbone.js without jQuery, Underscore. Now it has Classes, Typescript and ES modules](https://www.reddit.com/r/javascript/comments/1rwg7ly/i_rebuilt_backbonejs_without_jquery_underscore/)
-- [I built a keyboard shortcut manager that shows a GitHub-style overlay when you press ?](https://www.reddit.com/r/javascript/comments/1rwfq85/i_built_a_keyboard_shortcut_manager_that_shows_a/)
-- [auto-api-observe, zero-config observability middleware for Express/Fastify &lpar;structured logs, distributed tracing in one line&rpar;](https://www.reddit.com/r/javascript/comments/1rwf5jv/autoapiobserve_zeroconfig_observability/)
-- [Edge.js: Running Node apps inside a WebAssembly Sandbox](https://www.reddit.com/r/javascript/comments/1rwe7vr/edgejs_running_node_apps_inside_a_webassembly/)
-- [JS-native tool for generating portable JSON proofs for files and directories](https://www.reddit.com/r/javascript/comments/1rwasw0/jsnative_tool_for_generating_portable_json_proofs/)
-- [Introducing Revise.js – A foundational library for building contenteditable-based web text editors](https://www.reddit.com/r/javascript/comments/1rwan4l/introducing_revisejs_a_foundational_library_for/)
-- [I needed a tiny frontend framework with no bloat, so I built a 1.7kb one](https://www.reddit.com/r/javascript/comments/1rwahzi/i_needed_a_tiny_frontend_framework_with_no_bloat/)
-- [recur-date-based v2 — cron expressions, 100+ output formats &amp; typed extend for recurring date generation on TypeScript](https://www.reddit.com/r/javascript/comments/1rwa338/recurdatebased_v2_cron_expressions_100_output/)
+- [[Qwen Meetup] Function Calling Harness with Qwen, turning 6.75% to 100%](https://www.reddit.com/r/javascript/comments/1s5odtr/qwen_meetup_function_calling_harness_with_qwen/)
+- [Basic physics engine in about 100 lines of pure JavaScript](https://www.reddit.com/r/javascript/comments/1s5o5da/basic_physics_engine_in_about_100_lines_of_pure/)
+- [Paint pixel-art on your GitHub contribution graph via backdated commits. Static frontend + GitHub API.](https://www.reddit.com/r/javascript/comments/1s5jhr4/paint_pixelart_on_your_github_contribution_graph/)
+- [open source cli to auto-generate AI helper configs for js/ts projects &lpar;13k installs&rpar;](https://www.reddit.com/r/javascript/comments/1s5jcl1/open_source_cli_to_autogenerate_ai_helper_configs/)
+- [Legal pages as components, not scripts](https://www.reddit.com/r/javascript/comments/1s59jf9/legal_pages_as_components_not_scripts/)
+- [LogicStamp: AST-based context compiler for TypeScript](https://www.reddit.com/r/javascript/comments/1s52vgz/logicstamp_astbased_context_compiler_for/)
+- [How npm workspaces work under the hood: a visual guide](https://www.reddit.com/r/javascript/comments/1s516o1/how_npm_workspaces_work_under_the_hood_a_visual/)
+- [I always wondered about streaming torrents](https://www.reddit.com/r/javascript/comments/1s5056w/i_always_wondered_about_streaming_torrents/)
+- [I Coded this dev tool entirely with Claude](https://www.reddit.com/r/javascript/comments/1s4zhrg/i_coded_this_dev_tool_entirely_with_claude/)
+- [New WYSIWYG wants fresh e](https://www.reddit.com/r/javascript/comments/1s4y4zm/new_wysiwyg_wants_fresh_e/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
