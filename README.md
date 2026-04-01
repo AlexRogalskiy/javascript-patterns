@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[Qwen Meetup] Function Calling Harness with Qwen, turning 6.75% to 100%](https://www.reddit.com/r/javascript/comments/1s5odtr/qwen_meetup_function_calling_harness_with_qwen/)
-- [Basic physics engine in about 100 lines of pure JavaScript](https://www.reddit.com/r/javascript/comments/1s5o5da/basic_physics_engine_in_about_100_lines_of_pure/)
-- [Paint pixel-art on your GitHub contribution graph via backdated commits. Static frontend + GitHub API.](https://www.reddit.com/r/javascript/comments/1s5jhr4/paint_pixelart_on_your_github_contribution_graph/)
-- [open source cli to auto-generate AI helper configs for js/ts projects &lpar;13k installs&rpar;](https://www.reddit.com/r/javascript/comments/1s5jcl1/open_source_cli_to_autogenerate_ai_helper_configs/)
-- [Legal pages as components, not scripts](https://www.reddit.com/r/javascript/comments/1s59jf9/legal_pages_as_components_not_scripts/)
-- [LogicStamp: AST-based context compiler for TypeScript](https://www.reddit.com/r/javascript/comments/1s52vgz/logicstamp_astbased_context_compiler_for/)
-- [How npm workspaces work under the hood: a visual guide](https://www.reddit.com/r/javascript/comments/1s516o1/how_npm_workspaces_work_under_the_hood_a_visual/)
-- [I always wondered about streaming torrents](https://www.reddit.com/r/javascript/comments/1s5056w/i_always_wondered_about_streaming_torrents/)
-- [I Coded this dev tool entirely with Claude](https://www.reddit.com/r/javascript/comments/1s4zhrg/i_coded_this_dev_tool_entirely_with_claude/)
-- [New WYSIWYG wants fresh e](https://www.reddit.com/r/javascript/comments/1s4y4zm/new_wysiwyg_wants_fresh_e/)
+- [ZeroText — Zero-allocation text layout engine: arena pools, prefix-sum binary search, 100ns cached layouts, 5KB](https://www.reddit.com/r/javascript/comments/1s91qtp/zerotext_zeroallocation_text_layout_engine_arena/)
+- [[AskJS] How do you handle source maps in production builds?](https://www.reddit.com/r/javascript/comments/1s8w95u/askjs_how_do_you_handle_source_maps_in_production/)
+- [I built a frontend framework without React, build tools or dependencies](https://www.reddit.com/r/javascript/comments/1s8w416/i_built_a_frontend_framework_without_react_build/)
+- [Minimum Release Age is an Underrated Supply Chain Defense](https://www.reddit.com/r/javascript/comments/1s8twrp/minimum_release_age_is_an_underrated_supply_chain/)
+- [I built the fastest way to render rich text on canvas 5x faster than SVG foreignObject](https://www.reddit.com/r/javascript/comments/1s8nvm4/i_built_the_fastest_way_to_render_rich_text_on/)
+- [Tool for automating translations in React/JS apps &lpar;AI-powered&rpar;](https://www.reddit.com/r/javascript/comments/1s8k4j6/tool_for_automating_translations_in_reactjs_apps/)
+- [LayoutSans: Pure TS 2D layout engine powered by Pretext &lpar;flex/grid/magazine, zero DOM&rpar;](https://www.reddit.com/r/javascript/comments/1s8itae/layoutsans_pure_ts_2d_layout_engine_powered_by/)
+- [Your Throttling Is Lying to You: why trailing throttle should be your default](https://www.reddit.com/r/javascript/comments/1s8fvyj/your_throttling_is_lying_to_you_why_trailing/)
+- [axios 1.14.1 and 0.30.4 on npm are compromised - dependency injection via stolen maintainer account](https://www.reddit.com/r/javascript/comments/1s8cvcb/axios_1141_and_0304_on_npm_are_compromised/)
+- [Jaga – Ultra-Lightweight Context-Aware XSS Protection for HTML Template](https://www.reddit.com/r/javascript/comments/1s82xou/jaga_ultralightweight_contextaware_xss_protection/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
