@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I built a collection of 130+ JavaScript-powered animations you can preview live and copy into your projects.](https://www.reddit.com/r/javascript/comments/1sasz7i/i_built_a_collection_of_130_javascriptpowered/)
-- [[AskJS] Has anyone seen npm packages using postinstall to inject prompt injection files into AI coding assistants?](https://www.reddit.com/r/javascript/comments/1sapj8c/askjs_has_anyone_seen_npm_packages_using/)
-- [[AskJS] State machines feel heavy for UI flows. What are people using?](https://www.reddit.com/r/javascript/comments/1sanmnb/askjs_state_machines_feel_heavy_for_ui_flows_what/)
-- [Axios npm package compromised with RAT malware via hijacked maintainer account — versions 1.14.1 and 0.30.4 affected](https://www.reddit.com/r/javascript/comments/1saks7d/axios_npm_package_compromised_with_rat_malware/)
-- [[AskJS] Building an affordable SEO + AEO + GEO SaaS , Need feedback ?](https://www.reddit.com/r/javascript/comments/1saig3h/askjs_building_an_affordable_seo_aeo_geo_saas/)
-- [[AskJS] React is overkill for embeddable widgets - Preact + iframe isolation is a better default](https://www.reddit.com/r/javascript/comments/1sahio2/askjs_react_is_overkill_for_embeddable_widgets/)
-- [After 5 long years, ES1995 project lives again](https://www.reddit.com/r/javascript/comments/1s9yirv/after_5_long_years_es1995_project_lives_again/)
-- [Anthropic accidentally shipped source maps in their NPM package, exposing Claude Code&#39;s entire 380k-line TypeScript source](https://www.reddit.com/r/javascript/comments/1s9sxok/anthropic_accidentally_shipped_source_maps_in/)
-- [[AskJS] Lightweight IDE recommendations for JS/TS + React + React Native?](https://www.reddit.com/r/javascript/comments/1s9iifi/askjs_lightweight_ide_recommendations_for_jsts/)
-- [I built a zero-dependency CLI that catches source leaks and supply chain attacks across 7 languages](https://www.reddit.com/r/javascript/comments/1s9gow1/i_built_a_zerodependency_cli_that_catches_source/)
+- [Decorating a Promise with convenience methods without subclassing or changing what await returns](https://www.reddit.com/r/javascript/comments/1shsnmc/decorating_a_promise_with_convenience_methods/)
+- [[AskJS] Anyone else found Math.random&lpar;&rpar; flagged in a security audit? How did you handle the remediation?](https://www.reddit.com/r/javascript/comments/1shs0mk/askjs_anyone_else_found_mathrandom_flagged_in_a/)
+- [Zero-build privacy policies with Astro](https://www.reddit.com/r/javascript/comments/1shkyh1/zerobuild_privacy_policies_with_astro/)
+- [What To Know in JavaScript &lpar;2026 Edition&rpar;](https://www.reddit.com/r/javascript/comments/1shgwxb/what_to_know_in_javascript_2026_edition/)
+- [[AskJS] Is it still socially acceptable to use 4 space indentation?](https://www.reddit.com/r/javascript/comments/1shfhl0/askjs_is_it_still_socially_acceptable_to_use_4/)
+- [ffetch 5.1.0 adds opt-in request and response shortcuts](https://www.reddit.com/r/javascript/comments/1sh8502/ffetch_510_adds_optin_request_and_response/)
+- [Bulk mute all Reddit community notifications: browser console script &lpar;2026&rpar;](https://www.reddit.com/r/javascript/comments/1sh3p83/bulk_mute_all_reddit_community_notifications/)
+- [[AskJS] Is it just me or is debugging memory leaks in Node/V8 way worse than it used to be?](https://www.reddit.com/r/javascript/comments/1sh23kp/askjs_is_it_just_me_or_is_debugging_memory_leaks/)
+- [styled-components 6.4 now available](https://www.reddit.com/r/javascript/comments/1sgvzbq/styledcomponents_64_now_available/)
+- [Render tsx on an e-ink display](https://www.reddit.com/r/javascript/comments/1sgslgj/render_tsx_on_an_eink_display/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
