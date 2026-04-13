@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Decorating a Promise with convenience methods without subclassing or changing what await returns](https://www.reddit.com/r/javascript/comments/1shsnmc/decorating_a_promise_with_convenience_methods/)
-- [[AskJS] Anyone else found Math.random&lpar;&rpar; flagged in a security audit? How did you handle the remediation?](https://www.reddit.com/r/javascript/comments/1shs0mk/askjs_anyone_else_found_mathrandom_flagged_in_a/)
-- [Zero-build privacy policies with Astro](https://www.reddit.com/r/javascript/comments/1shkyh1/zerobuild_privacy_policies_with_astro/)
-- [What To Know in JavaScript &lpar;2026 Edition&rpar;](https://www.reddit.com/r/javascript/comments/1shgwxb/what_to_know_in_javascript_2026_edition/)
-- [[AskJS] Is it still socially acceptable to use 4 space indentation?](https://www.reddit.com/r/javascript/comments/1shfhl0/askjs_is_it_still_socially_acceptable_to_use_4/)
-- [ffetch 5.1.0 adds opt-in request and response shortcuts](https://www.reddit.com/r/javascript/comments/1sh8502/ffetch_510_adds_optin_request_and_response/)
-- [Bulk mute all Reddit community notifications: browser console script &lpar;2026&rpar;](https://www.reddit.com/r/javascript/comments/1sh3p83/bulk_mute_all_reddit_community_notifications/)
-- [[AskJS] Is it just me or is debugging memory leaks in Node/V8 way worse than it used to be?](https://www.reddit.com/r/javascript/comments/1sh23kp/askjs_is_it_just_me_or_is_debugging_memory_leaks/)
-- [styled-components 6.4 now available](https://www.reddit.com/r/javascript/comments/1sgvzbq/styledcomponents_64_now_available/)
-- [Render tsx on an e-ink display](https://www.reddit.com/r/javascript/comments/1sgslgj/render_tsx_on_an_eink_display/)
+- [terminal-element: Terminal interface as Web Component](https://www.reddit.com/r/javascript/comments/1sjiwat/terminalelement_terminal_interface_as_web/)
+- [[ Removed by Reddit ]](https://www.reddit.com/r/javascript/comments/1sja9eh/removed_by_reddit/)
+- [Release Re2js v2 - A pure JS RegExp engine that defeats ReDoS](https://www.reddit.com/r/javascript/comments/1sj5z8i/release_re2js_v2_a_pure_js_regexp_engine_that/)
+- [I built an open-source WYSIWYG editor in vanilla JavaScript &lpar;no frameworks, CDN-ready&rpar;](https://www.reddit.com/r/javascript/comments/1siy3br/i_built_an_opensource_wysiwyg_editor_in_vanilla/)
+- [I built an engine for creating browser extensions](https://www.reddit.com/r/javascript/comments/1siuzzc/i_built_an_engine_for_creating_browser_extensions/)
+- [How we made the Angular Compiler 10x faster using Rust and AI](https://www.reddit.com/r/javascript/comments/1sio8rz/how_we_made_the_angular_compiler_10x_faster_using/)
+- [[AskJS] A quick breakdown of JS error types that every developer should know](https://www.reddit.com/r/javascript/comments/1sinatf/askjs_a_quick_breakdown_of_js_error_types_that/)
+- [cargo-npm: Distribute Rust CLIs via npm without postinstall scripts](https://www.reddit.com/r/javascript/comments/1siggfp/cargonpm_distribute_rust_clis_via_npm_without/)
+- [We transpiled PHPUnit &lpar;54k lines, 412 files&rpar; to JavaScript. 61.3% of tests passing](https://www.reddit.com/r/javascript/comments/1sifv7w/we_transpiled_phpunit_54k_lines_412_files_to/)
+- [Showoff Saturday &lpar;April 11, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1sibyc7/showoff_saturday_april_11_2026/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
