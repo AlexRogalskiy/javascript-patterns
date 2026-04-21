@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [terminal-element: Terminal interface as Web Component](https://www.reddit.com/r/javascript/comments/1sjiwat/terminalelement_terminal_interface_as_web/)
-- [[ Removed by Reddit ]](https://www.reddit.com/r/javascript/comments/1sja9eh/removed_by_reddit/)
-- [Release Re2js v2 - A pure JS RegExp engine that defeats ReDoS](https://www.reddit.com/r/javascript/comments/1sj5z8i/release_re2js_v2_a_pure_js_regexp_engine_that/)
-- [I built an open-source WYSIWYG editor in vanilla JavaScript &lpar;no frameworks, CDN-ready&rpar;](https://www.reddit.com/r/javascript/comments/1siy3br/i_built_an_opensource_wysiwyg_editor_in_vanilla/)
-- [I built an engine for creating browser extensions](https://www.reddit.com/r/javascript/comments/1siuzzc/i_built_an_engine_for_creating_browser_extensions/)
-- [How we made the Angular Compiler 10x faster using Rust and AI](https://www.reddit.com/r/javascript/comments/1sio8rz/how_we_made_the_angular_compiler_10x_faster_using/)
-- [[AskJS] A quick breakdown of JS error types that every developer should know](https://www.reddit.com/r/javascript/comments/1sinatf/askjs_a_quick_breakdown_of_js_error_types_that/)
-- [cargo-npm: Distribute Rust CLIs via npm without postinstall scripts](https://www.reddit.com/r/javascript/comments/1siggfp/cargonpm_distribute_rust_clis_via_npm_without/)
-- [We transpiled PHPUnit &lpar;54k lines, 412 files&rpar; to JavaScript. 61.3% of tests passing](https://www.reddit.com/r/javascript/comments/1sifv7w/we_transpiled_phpunit_54k_lines_412_files_to/)
-- [Showoff Saturday &lpar;April 11, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1sibyc7/showoff_saturday_april_11_2026/)
+- [Truss v2: Emotion to StyleX to Vite](https://www.reddit.com/r/javascript/comments/1sr9ssx/truss_v2_emotion_to_stylex_to_vite/)
+- [Free tool to check for NPM package typosquatting](https://www.reddit.com/r/javascript/comments/1sqxn9x/free_tool_to_check_for_npm_package_typosquatting/)
+- [I built WebBlackbox – a &quot;flight recorder&quot; for web apps that captures 57 event types &lpar;network, console, DOM, storage, screenshots&rpar; and lets you replay sessions with time-travel debugging](https://www.reddit.com/r/javascript/comments/1squ53k/i_built_webblackbox_a_flight_recorder_for_web/)
+- [Progress Update: Sprite &amp; Animation System in My ECS Game Engine in &lpar;kernelplay-js&rpar;](https://www.reddit.com/r/javascript/comments/1sqn6h0/progress_update_sprite_animation_system_in_my_ecs/)
+- [HTTP resilience tradeoffs in practice: retry vs Retry-After vs hedging &lpar;scenario data&rpar;](https://www.reddit.com/r/javascript/comments/1sqmuej/http_resilience_tradeoffs_in_practice_retry_vs/)
+- [Your /r/javascript recap for the week of April 13 - April 19, 2026](https://www.reddit.com/r/javascript/comments/1sqjxu2/your_rjavascript_recap_for_the_week_of_april_13/)
+- [Just shipped docmd 0.7.0 : zero-config docs with native i18n](https://www.reddit.com/r/javascript/comments/1sqekae/just_shipped_docmd_070_zeroconfig_docs_with/)
+- [diagrams-js - Cloud architecture diagrams as code](https://www.reddit.com/r/javascript/comments/1sqdgr9/diagramsjs_cloud_architecture_diagrams_as_code/)
+- [Show r/javascript: pretext-flow, embed shapes and animated objects in text flow without writing collision math](https://www.reddit.com/r/javascript/comments/1sqaws7/show_rjavascript_pretextflow_embed_shapes_and/)
+- [Web Bro: Full in-browser AI agent with WebGPU, ONNX, and direct File System Access API integration](https://www.reddit.com/r/javascript/comments/1sq9ild/web_bro_full_inbrowser_ai_agent_with_webgpu_onnx/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
