@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Truss v2: Emotion to StyleX to Vite](https://www.reddit.com/r/javascript/comments/1sr9ssx/truss_v2_emotion_to_stylex_to_vite/)
-- [Free tool to check for NPM package typosquatting](https://www.reddit.com/r/javascript/comments/1sqxn9x/free_tool_to_check_for_npm_package_typosquatting/)
-- [I built WebBlackbox – a &quot;flight recorder&quot; for web apps that captures 57 event types &lpar;network, console, DOM, storage, screenshots&rpar; and lets you replay sessions with time-travel debugging](https://www.reddit.com/r/javascript/comments/1squ53k/i_built_webblackbox_a_flight_recorder_for_web/)
-- [Progress Update: Sprite &amp; Animation System in My ECS Game Engine in &lpar;kernelplay-js&rpar;](https://www.reddit.com/r/javascript/comments/1sqn6h0/progress_update_sprite_animation_system_in_my_ecs/)
-- [HTTP resilience tradeoffs in practice: retry vs Retry-After vs hedging &lpar;scenario data&rpar;](https://www.reddit.com/r/javascript/comments/1sqmuej/http_resilience_tradeoffs_in_practice_retry_vs/)
-- [Your /r/javascript recap for the week of April 13 - April 19, 2026](https://www.reddit.com/r/javascript/comments/1sqjxu2/your_rjavascript_recap_for_the_week_of_april_13/)
-- [Just shipped docmd 0.7.0 : zero-config docs with native i18n](https://www.reddit.com/r/javascript/comments/1sqekae/just_shipped_docmd_070_zeroconfig_docs_with/)
-- [diagrams-js - Cloud architecture diagrams as code](https://www.reddit.com/r/javascript/comments/1sqdgr9/diagramsjs_cloud_architecture_diagrams_as_code/)
-- [Show r/javascript: pretext-flow, embed shapes and animated objects in text flow without writing collision math](https://www.reddit.com/r/javascript/comments/1sqaws7/show_rjavascript_pretextflow_embed_shapes_and/)
-- [Web Bro: Full in-browser AI agent with WebGPU, ONNX, and direct File System Access API integration](https://www.reddit.com/r/javascript/comments/1sq9ild/web_bro_full_inbrowser_ai_agent_with_webgpu_onnx/)
+- [[AskJS] CORS errors wasted hours of my time until I finally understood whats actually happening](https://www.reddit.com/r/javascript/comments/1ssa4zy/askjs_cors_errors_wasted_hours_of_my_time_until_i/)
+- [Pushing a Linux shell experience further in a static website](https://www.reddit.com/r/javascript/comments/1ss3c0x/pushing_a_linux_shell_experience_further_in_a/)
+- [CReact - React meets Temporal.io](https://www.reddit.com/r/javascript/comments/1srzchy/creact_react_meets_temporalio/)
+- [[AskJS] How do you measure structural blast radius in large JS/TS repos?](https://www.reddit.com/r/javascript/comments/1sryz14/askjs_how_do_you_measure_structural_blast_radius/)
+- [Announcing TypeScript 7.0 Beta](https://www.reddit.com/r/javascript/comments/1srwc0g/announcing_typescript_70_beta/)
+- [Universal Deploy — deploy Vite apps anywhere](https://www.reddit.com/r/javascript/comments/1srsyay/universal_deploy_deploy_vite_apps_anywhere/)
+- [SVG Jar - The best way to use SVGs in your web apps](https://www.reddit.com/r/javascript/comments/1sroqca/svg_jar_the_best_way_to_use_svgs_in_your_web_apps/)
+- [[AskJS] What YouTube channels actually helped you get JavaScript?](https://www.reddit.com/r/javascript/comments/1srmt5p/askjs_what_youtube_channels_actually_helped_you/)
+- [CheerpJ 4.3 - Run unmodified Java applications in the browser](https://www.reddit.com/r/javascript/comments/1srl9ea/cheerpj_43_run_unmodified_java_applications_in/)
+- [Javascript Quiz](https://www.reddit.com/r/javascript/comments/1srk474/javascript_quiz/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
