@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] CORS errors wasted hours of my time until I finally understood whats actually happening](https://www.reddit.com/r/javascript/comments/1ssa4zy/askjs_cors_errors_wasted_hours_of_my_time_until_i/)
-- [Pushing a Linux shell experience further in a static website](https://www.reddit.com/r/javascript/comments/1ss3c0x/pushing_a_linux_shell_experience_further_in_a/)
-- [CReact - React meets Temporal.io](https://www.reddit.com/r/javascript/comments/1srzchy/creact_react_meets_temporalio/)
-- [[AskJS] How do you measure structural blast radius in large JS/TS repos?](https://www.reddit.com/r/javascript/comments/1sryz14/askjs_how_do_you_measure_structural_blast_radius/)
-- [Announcing TypeScript 7.0 Beta](https://www.reddit.com/r/javascript/comments/1srwc0g/announcing_typescript_70_beta/)
-- [Universal Deploy — deploy Vite apps anywhere](https://www.reddit.com/r/javascript/comments/1srsyay/universal_deploy_deploy_vite_apps_anywhere/)
-- [SVG Jar - The best way to use SVGs in your web apps](https://www.reddit.com/r/javascript/comments/1sroqca/svg_jar_the_best_way_to_use_svgs_in_your_web_apps/)
-- [[AskJS] What YouTube channels actually helped you get JavaScript?](https://www.reddit.com/r/javascript/comments/1srmt5p/askjs_what_youtube_channels_actually_helped_you/)
-- [CheerpJ 4.3 - Run unmodified Java applications in the browser](https://www.reddit.com/r/javascript/comments/1srl9ea/cheerpj_43_run_unmodified_java_applications_in/)
-- [Javascript Quiz](https://www.reddit.com/r/javascript/comments/1srk474/javascript_quiz/)
+- [eslint-plugin-logical-imports](https://www.reddit.com/r/javascript/comments/1sw855m/eslintpluginlogicalimports/)
+- [ctxbrew - is a CLI and protocol for shipping and consuming AI-friendly package context.](https://www.reddit.com/r/javascript/comments/1sw6r8c/ctxbrew_is_a_cli_and_protocol_for_shipping_and/)
+- [[AskJS] I built a tool that writes README for you &lpar;from your repo&rpar;](https://www.reddit.com/r/javascript/comments/1svv0hp/askjs_i_built_a_tool_that_writes_readme_for_you/)
+- [How to notify users about privacy policy changes without spamming everyone](https://www.reddit.com/r/javascript/comments/1svlkvq/how_to_notify_users_about_privacy_policy_changes/)
+- [[AskJS] Has AI made you worse at debugging JavaScript?](https://www.reddit.com/r/javascript/comments/1svdu7g/askjs_has_ai_made_you_worse_at_debugging/)
+- [[AskJS] Why did everyone stop using Meteor.js?](https://www.reddit.com/r/javascript/comments/1svc62t/askjs_why_did_everyone_stop_using_meteorjs/)
+- [Showoff Saturday &lpar;April 25, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1sv4yh0/showoff_saturday_april_25_2026/)
+- [Super fast and easy Social Media Sharing Buttons. No JavaScript. No tracking.](https://www.reddit.com/r/javascript/comments/1sv3xq1/super_fast_and_easy_social_media_sharing_buttons/)
+- [A simple physics engine in around 100 lines of pure JS](https://www.reddit.com/r/javascript/comments/1suya5p/a_simple_physics_engine_in_around_100_lines_of/)
+- [TTSC, TypeScript-Go compiler and runner with transformer plugins &lpar;10x faster than ts-node&rpar;](https://www.reddit.com/r/javascript/comments/1sushv7/ttsc_typescriptgo_compiler_and_runner_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
