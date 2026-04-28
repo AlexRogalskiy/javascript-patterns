@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Has our reliance on WASM made us lazy about native JS performance?](https://www.reddit.com/r/javascript/comments/1sxhssf/askjs_has_our_reliance_on_wasm_made_us_lazy_about/)
+- [50 Hours Building a Next.js Boilerplate So You Can Ship in 30 Minutes!](https://www.reddit.com/r/javascript/comments/1sxdher/50_hours_building_a_nextjs_boilerplate_so_you_can/)
+- [Your /r/javascript recap for the week of April 20 - April 26, 2026](https://www.reddit.com/r/javascript/comments/1swy8k5/your_rjavascript_recap_for_the_week_of_april_20/)
 - [eslint-plugin-logical-imports](https://www.reddit.com/r/javascript/comments/1sw855m/eslintpluginlogicalimports/)
 - [ctxbrew - is a CLI and protocol for shipping and consuming AI-friendly package context.](https://www.reddit.com/r/javascript/comments/1sw6r8c/ctxbrew_is_a_cli_and_protocol_for_shipping_and/)
 - [[AskJS] I built a tool that writes README for you &lpar;from your repo&rpar;](https://www.reddit.com/r/javascript/comments/1svv0hp/askjs_i_built_a_tool_that_writes_readme_for_you/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [[AskJS] Has AI made you worse at debugging JavaScript?](https://www.reddit.com/r/javascript/comments/1svdu7g/askjs_has_ai_made_you_worse_at_debugging/)
 - [[AskJS] Why did everyone stop using Meteor.js?](https://www.reddit.com/r/javascript/comments/1svc62t/askjs_why_did_everyone_stop_using_meteorjs/)
 - [Showoff Saturday &lpar;April 25, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1sv4yh0/showoff_saturday_april_25_2026/)
-- [Super fast and easy Social Media Sharing Buttons. No JavaScript. No tracking.](https://www.reddit.com/r/javascript/comments/1sv3xq1/super_fast_and_easy_social_media_sharing_buttons/)
-- [A simple physics engine in around 100 lines of pure JS](https://www.reddit.com/r/javascript/comments/1suya5p/a_simple_physics_engine_in_around_100_lines_of/)
-- [TTSC, TypeScript-Go compiler and runner with transformer plugins &lpar;10x faster than ts-node&rpar;](https://www.reddit.com/r/javascript/comments/1sushv7/ttsc_typescriptgo_compiler_and_runner_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
