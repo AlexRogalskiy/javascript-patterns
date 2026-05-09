@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Has our reliance on WASM made us lazy about native JS performance?](https://www.reddit.com/r/javascript/comments/1sxhssf/askjs_has_our_reliance_on_wasm_made_us_lazy_about/)
-- [50 Hours Building a Next.js Boilerplate So You Can Ship in 30 Minutes!](https://www.reddit.com/r/javascript/comments/1sxdher/50_hours_building_a_nextjs_boilerplate_so_you_can/)
-- [Your /r/javascript recap for the week of April 20 - April 26, 2026](https://www.reddit.com/r/javascript/comments/1swy8k5/your_rjavascript_recap_for_the_week_of_april_20/)
-- [eslint-plugin-logical-imports](https://www.reddit.com/r/javascript/comments/1sw855m/eslintpluginlogicalimports/)
-- [ctxbrew - is a CLI and protocol for shipping and consuming AI-friendly package context.](https://www.reddit.com/r/javascript/comments/1sw6r8c/ctxbrew_is_a_cli_and_protocol_for_shipping_and/)
-- [[AskJS] I built a tool that writes README for you &lpar;from your repo&rpar;](https://www.reddit.com/r/javascript/comments/1svv0hp/askjs_i_built_a_tool_that_writes_readme_for_you/)
-- [How to notify users about privacy policy changes without spamming everyone](https://www.reddit.com/r/javascript/comments/1svlkvq/how_to_notify_users_about_privacy_policy_changes/)
-- [[AskJS] Has AI made you worse at debugging JavaScript?](https://www.reddit.com/r/javascript/comments/1svdu7g/askjs_has_ai_made_you_worse_at_debugging/)
-- [[AskJS] Why did everyone stop using Meteor.js?](https://www.reddit.com/r/javascript/comments/1svc62t/askjs_why_did_everyone_stop_using_meteorjs/)
-- [Showoff Saturday &lpar;April 25, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1sv4yh0/showoff_saturday_april_25_2026/)
+- [I built a DevTools extension that converts any network request to fetch, Axios, TypeScript, React Query — one click](https://www.reddit.com/r/javascript/comments/1t7rwcs/i_built_a_devtools_extension_that_converts_any/)
+- [Untapped Way to Learn a Codebase: Build a Visualizer](https://www.reddit.com/r/javascript/comments/1t7r0j6/untapped_way_to_learn_a_codebase_build_a/)
+- [I wrote a workbook for writing and reading code away from the computer](https://www.reddit.com/r/javascript/comments/1t7n8j3/i_wrote_a_workbook_for_writing_and_reading_code/)
+- [Guantr: Type-Safe JS/TS Authorization Library - Major v2 Release](https://www.reddit.com/r/javascript/comments/1t7juth/guantr_typesafe_jsts_authorization_library_major/)
+- [Meteor 3.4.1 is out: Rspack consolidation, revitalized examples, and important fixes](https://www.reddit.com/r/javascript/comments/1t7esnx/meteor_341_is_out_rspack_consolidation/)
+- [I built Omni Copy: A browser extension that gives you full control over text selection and your clipboard.](https://www.reddit.com/r/javascript/comments/1t71oaa/i_built_omni_copy_a_browser_extension_that_gives/)
+- [[AskJS] How to decide api url structure?](https://www.reddit.com/r/javascript/comments/1t6y2cg/askjs_how_to_decide_api_url_structure/)
+- [I Built an open-source API engine that unifies REST, SSE, and WebSockets](https://www.reddit.com/r/javascript/comments/1t6fhlu/i_built_an_opensource_api_engine_that_unifies/)
+- [Critical vm2 Sandbox Escape Bugs Allow Host RCE in Node.js Environments](https://www.reddit.com/r/javascript/comments/1t6e384/critical_vm2_sandbox_escape_bugs_allow_host_rce/)
+- [[AskJS] Confused with Frontend unit testing](https://www.reddit.com/r/javascript/comments/1t6cuhk/askjs_confused_with_frontend_unit_testing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
