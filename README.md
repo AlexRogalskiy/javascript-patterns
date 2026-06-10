@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I built a DevTools extension that converts any network request to fetch, Axios, TypeScript, React Query — one click](https://www.reddit.com/r/javascript/comments/1t7rwcs/i_built_a_devtools_extension_that_converts_any/)
-- [Untapped Way to Learn a Codebase: Build a Visualizer](https://www.reddit.com/r/javascript/comments/1t7r0j6/untapped_way_to_learn_a_codebase_build_a/)
-- [I wrote a workbook for writing and reading code away from the computer](https://www.reddit.com/r/javascript/comments/1t7n8j3/i_wrote_a_workbook_for_writing_and_reading_code/)
-- [Guantr: Type-Safe JS/TS Authorization Library - Major v2 Release](https://www.reddit.com/r/javascript/comments/1t7juth/guantr_typesafe_jsts_authorization_library_major/)
-- [Meteor 3.4.1 is out: Rspack consolidation, revitalized examples, and important fixes](https://www.reddit.com/r/javascript/comments/1t7esnx/meteor_341_is_out_rspack_consolidation/)
-- [I built Omni Copy: A browser extension that gives you full control over text selection and your clipboard.](https://www.reddit.com/r/javascript/comments/1t71oaa/i_built_omni_copy_a_browser_extension_that_gives/)
-- [[AskJS] How to decide api url structure?](https://www.reddit.com/r/javascript/comments/1t6y2cg/askjs_how_to_decide_api_url_structure/)
-- [I Built an open-source API engine that unifies REST, SSE, and WebSockets](https://www.reddit.com/r/javascript/comments/1t6fhlu/i_built_an_opensource_api_engine_that_unifies/)
-- [Critical vm2 Sandbox Escape Bugs Allow Host RCE in Node.js Environments](https://www.reddit.com/r/javascript/comments/1t6e384/critical_vm2_sandbox_escape_bugs_allow_host_rce/)
-- [[AskJS] Confused with Frontend unit testing](https://www.reddit.com/r/javascript/comments/1t6cuhk/askjs_confused_with_frontend_unit_testing/)
+- [Upcoming breaking changes for npm v12](https://www.reddit.com/r/javascript/comments/1u1qymu/upcoming_breaking_changes_for_npm_v12/)
+- [Why are we not using Service Workers more?](https://www.reddit.com/r/javascript/comments/1u1euk5/why_are_we_not_using_service_workers_more/)
+- [I built a vanilla JS framework focused on DX, performance and zero re-renders - no compiler, no virtual DOM](https://www.reddit.com/r/javascript/comments/1u19ztm/i_built_a_vanilla_js_framework_focused_on_dx/)
+- [I self-hosted NLLB so my image-generation API can render text in 70+ languages](https://www.reddit.com/r/javascript/comments/1u18tas/i_selfhosted_nllb_so_my_imagegeneration_api_can/)
+- [Making numpy-ts as fast as native](https://www.reddit.com/r/javascript/comments/1u18rzb/making_numpyts_as_fast_as_native/)
+- [[AskJS] i keep saving &#39;what&#39;s new in version x&#39; posts and never actually reading them](https://www.reddit.com/r/javascript/comments/1u1807z/askjs_i_keep_saving_whats_new_in_version_x_posts/)
+- [How we sync Postgres to the browser: ElectricSQL for rows, Yjs for documents](https://www.reddit.com/r/javascript/comments/1u149e2/how_we_sync_postgres_to_the_browser_electricsql/)
+- [I built ogimagecn to help ship OG images faster](https://www.reddit.com/r/javascript/comments/1u12bha/i_built_ogimagecn_to_help_ship_og_images_faster/)
+- [TSZIG: An experimental TypeScript-to-Zig compiler](https://www.reddit.com/r/javascript/comments/1u0oc81/tszig_an_experimental_typescripttozig_compiler/)
+- [FixtureKit – Local TypeScript &amp; Zod fixture generator](https://www.reddit.com/r/javascript/comments/1u0ki9z/fixturekit_local_typescript_zod_fixture_generator/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
