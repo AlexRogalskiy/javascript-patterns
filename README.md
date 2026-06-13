@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Upcoming breaking changes for npm v12](https://www.reddit.com/r/javascript/comments/1u1qymu/upcoming_breaking_changes_for_npm_v12/)
-- [Why are we not using Service Workers more?](https://www.reddit.com/r/javascript/comments/1u1euk5/why_are_we_not_using_service_workers_more/)
-- [I built a vanilla JS framework focused on DX, performance and zero re-renders - no compiler, no virtual DOM](https://www.reddit.com/r/javascript/comments/1u19ztm/i_built_a_vanilla_js_framework_focused_on_dx/)
-- [I self-hosted NLLB so my image-generation API can render text in 70+ languages](https://www.reddit.com/r/javascript/comments/1u18tas/i_selfhosted_nllb_so_my_imagegeneration_api_can/)
-- [Making numpy-ts as fast as native](https://www.reddit.com/r/javascript/comments/1u18rzb/making_numpyts_as_fast_as_native/)
-- [[AskJS] i keep saving &#39;what&#39;s new in version x&#39; posts and never actually reading them](https://www.reddit.com/r/javascript/comments/1u1807z/askjs_i_keep_saving_whats_new_in_version_x_posts/)
-- [How we sync Postgres to the browser: ElectricSQL for rows, Yjs for documents](https://www.reddit.com/r/javascript/comments/1u149e2/how_we_sync_postgres_to_the_browser_electricsql/)
-- [I built ogimagecn to help ship OG images faster](https://www.reddit.com/r/javascript/comments/1u12bha/i_built_ogimagecn_to_help_ship_og_images_faster/)
-- [TSZIG: An experimental TypeScript-to-Zig compiler](https://www.reddit.com/r/javascript/comments/1u0oc81/tszig_an_experimental_typescripttozig_compiler/)
-- [FixtureKit – Local TypeScript &amp; Zod fixture generator](https://www.reddit.com/r/javascript/comments/1u0ki9z/fixturekit_local_typescript_zod_fixture_generator/)
+- [A UML-ish diagram for javascript iterators and iterables](https://www.reddit.com/r/javascript/comments/1u4c9xd/a_umlish_diagram_for_javascript_iterators_and/)
+- [Javascript &lpar;High Difficulty&rpar;](https://www.reddit.com/r/javascript/comments/1u47tjc/javascript_high_difficulty/)
+- [GitHub - tada5hi/orkos: A lightweight modular application orchestrator for TypeScript with dependency-ordered startup, shutdown, and topological module resolution.](https://www.reddit.com/r/javascript/comments/1u4408w/github_tada5hiorkos_a_lightweight_modular/)
+- [GitHub - tada5hi/eldin: A lightweight, type-safe dependency injection container for TypeScript with scoped lifetimes and hierarchical containers.](https://www.reddit.com/r/javascript/comments/1u43uwt/github_tada5hieldin_a_lightweight_typesafe/)
+- [[AskJS] How to effectively prevent JS supply chain attacks?](https://www.reddit.com/r/javascript/comments/1u42fox/askjs_how_to_effectively_prevent_js_supply_chain/)
+- [Mature Gantt released Community Edition under the MIT](https://www.reddit.com/r/javascript/comments/1u3wrwh/mature_gantt_released_community_edition_under_the/)
+- [Memory Leaks in Node.js: How They Happen, How Garbage Collection Works, and How to Debug Them](https://www.reddit.com/r/javascript/comments/1u3voh4/memory_leaks_in_nodejs_how_they_happen_how/)
+- [[AskJS] If you were building a charting library on top of Lightweight Charts, what extension points would you expect?](https://www.reddit.com/r/javascript/comments/1u3u45g/askjs_if_you_were_building_a_charting_library_on/)
+- [GitHub - tada5hi/vuecs: Vue 3 theming framework — themeable components, design tokens, dark mode &amp; runtime palettes. Themes for Tailwind, Bootstrap &amp; Bulma: one app.use&lpar;&rpar; reskins everything. SSR-ready via @vuecs/nuxt.](https://www.reddit.com/r/javascript/comments/1u3tl5n/github_tada5hivuecs_vue_3_theming_framework/)
+- [[AskJS] Built a shared-memory Worker Pool runtime to learn Web Workers, SharedArrayBuffer, and runtime architecture](https://www.reddit.com/r/javascript/comments/1u3t0b1/askjs_built_a_sharedmemory_worker_pool_runtime_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
