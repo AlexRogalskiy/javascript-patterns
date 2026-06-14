@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [P2P file sharing app without cloud, free and open-source](https://www.reddit.com/r/javascript/comments/1u52mfr/p2p_file_sharing_app_without_cloud_free_and/)
+- [Cracked job interview - built serverless web app](https://www.reddit.com/r/javascript/comments/1u4y2ql/cracked_job_interview_built_serverless_web_app/)
+- [Building Astro Websites with Almost No JavaScript - Introducing Webuum v0.x](https://www.reddit.com/r/javascript/comments/1u4se1m/building_astro_websites_with_almost_no_javascript/)
+- [A web framework based on Web Standards, SSR and Islands Architecture](https://www.reddit.com/r/javascript/comments/1u4q6p3/a_web_framework_based_on_web_standards_ssr_and/)
+- [GitHub - tada5hi/validup: TypeScript validation library, compose validators and nested containers onto object paths, with integrations for Zod, Standard Schema, validator.js, and Vue 3.](https://www.reddit.com/r/javascript/comments/1u4mq1f/github_tada5hivalidup_typescript_validation/)
+- [Showoff Saturday &lpar;June 13, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1u4jyyn/showoff_saturday_june_13_2026/)
 - [A UML-ish diagram for javascript iterators and iterables](https://www.reddit.com/r/javascript/comments/1u4c9xd/a_umlish_diagram_for_javascript_iterators_and/)
-- [Javascript &lpar;High Difficulty&rpar;](https://www.reddit.com/r/javascript/comments/1u47tjc/javascript_high_difficulty/)
 - [GitHub - tada5hi/orkos: A lightweight modular application orchestrator for TypeScript with dependency-ordered startup, shutdown, and topological module resolution.](https://www.reddit.com/r/javascript/comments/1u4408w/github_tada5hiorkos_a_lightweight_modular/)
 - [GitHub - tada5hi/eldin: A lightweight, type-safe dependency injection container for TypeScript with scoped lifetimes and hierarchical containers.](https://www.reddit.com/r/javascript/comments/1u43uwt/github_tada5hieldin_a_lightweight_typesafe/)
 - [[AskJS] How to effectively prevent JS supply chain attacks?](https://www.reddit.com/r/javascript/comments/1u42fox/askjs_how_to_effectively_prevent_js_supply_chain/)
-- [Mature Gantt released Community Edition under the MIT](https://www.reddit.com/r/javascript/comments/1u3wrwh/mature_gantt_released_community_edition_under_the/)
-- [Memory Leaks in Node.js: How They Happen, How Garbage Collection Works, and How to Debug Them](https://www.reddit.com/r/javascript/comments/1u3voh4/memory_leaks_in_nodejs_how_they_happen_how/)
-- [[AskJS] If you were building a charting library on top of Lightweight Charts, what extension points would you expect?](https://www.reddit.com/r/javascript/comments/1u3u45g/askjs_if_you_were_building_a_charting_library_on/)
-- [GitHub - tada5hi/vuecs: Vue 3 theming framework — themeable components, design tokens, dark mode &amp; runtime palettes. Themes for Tailwind, Bootstrap &amp; Bulma: one app.use&lpar;&rpar; reskins everything. SSR-ready via @vuecs/nuxt.](https://www.reddit.com/r/javascript/comments/1u3tl5n/github_tada5hivuecs_vue_3_theming_framework/)
-- [[AskJS] Built a shared-memory Worker Pool runtime to learn Web Workers, SharedArrayBuffer, and runtime architecture](https://www.reddit.com/r/javascript/comments/1u3t0b1/askjs_built_a_sharedmemory_worker_pool_runtime_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
