@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] are there any alternatives to npm registry in 2026?](https://www.reddit.com/r/javascript/comments/1u74gml/askjs_are_there_any_alternatives_to_npm_registry/)
+- [Browser-use agent in Javascript and Webgpu](https://www.reddit.com/r/javascript/comments/1u71eku/browseruse_agent_in_javascript_and_webgpu/)
+- [There are too many JavaScript schema libraries, so support only one](https://www.reddit.com/r/javascript/comments/1u6ijva/there_are_too_many_javascript_schema_libraries_so/)
+- [Your /r/javascript recap for the week of June 08 - June 14, 2026](https://www.reddit.com/r/javascript/comments/1u6b962/your_rjavascript_recap_for_the_week_of_june_08/)
+- [[AskJS] Burned out on WordPress: Is transitioning to AstroJS + ApostropheCMS a smart move for a solo dev?](https://www.reddit.com/r/javascript/comments/1u69iqd/askjs_burned_out_on_wordpress_is_transitioning_to/)
 - [Icon Scout - Find, inspect, and download website favicons](https://www.reddit.com/r/javascript/comments/1u62mp3/icon_scout_find_inspect_and_download_website/)
 - [I built a fetch resilience toolkit and a live chaos arena to test it - everything is now at fetchkit.org](https://www.reddit.com/r/javascript/comments/1u5urvh/i_built_a_fetch_resilience_toolkit_and_a_live/)
 - [P2P file sharing app without cloud, free and open-source](https://www.reddit.com/r/javascript/comments/1u52mfr/p2p_file_sharing_app_without_cloud_free_and/)
 - [Cracked job interview - built serverless web app](https://www.reddit.com/r/javascript/comments/1u4y2ql/cracked_job_interview_built_serverless_web_app/)
 - [Building Astro Websites with Almost No JavaScript - Introducing Webuum v0.x](https://www.reddit.com/r/javascript/comments/1u4se1m/building_astro_websites_with_almost_no_javascript/)
-- [A web framework based on Web Standards, SSR and Islands Architecture](https://www.reddit.com/r/javascript/comments/1u4q6p3/a_web_framework_based_on_web_standards_ssr_and/)
-- [GitHub - tada5hi/validup: TypeScript validation library, compose validators and nested containers onto object paths, with integrations for Zod, Standard Schema, validator.js, and Vue 3.](https://www.reddit.com/r/javascript/comments/1u4mq1f/github_tada5hivalidup_typescript_validation/)
-- [Showoff Saturday &lpar;June 13, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1u4jyyn/showoff_saturday_june_13_2026/)
-- [A UML-ish diagram for javascript iterators and iterables](https://www.reddit.com/r/javascript/comments/1u4c9xd/a_umlish_diagram_for_javascript_iterators_and/)
-- [GitHub - tada5hi/orkos: A lightweight modular application orchestrator for TypeScript with dependency-ordered startup, shutdown, and topological module resolution.](https://www.reddit.com/r/javascript/comments/1u4408w/github_tada5hiorkos_a_lightweight_modular/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
