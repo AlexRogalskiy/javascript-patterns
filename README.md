@@ -277,7 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] are there any alternatives to npm registry in 2026?](https://www.reddit.com/r/javascript/comments/1u74gml/askjs_are_there_any_alternatives_to_npm_registry/)
+- [What if your runtime blocked post-install scripts by default? 3va does — and runs your existing Express/Next.js code unchanged](https://www.reddit.com/r/javascript/comments/1u7q8wy/what_if_your_runtime_blocked_postinstall_scripts/)
+- [[ShowJS] Color Lab v1 beta — interactive 3D color-space explorer built with SvelteKit + WebGL2 &lpar;open source&rpar;](https://www.reddit.com/r/javascript/comments/1u7mi25/showjs_color_lab_v1_beta_interactive_3d/)
+- [LoggerJS: A faster, more powerful isomorphic logger](https://www.reddit.com/r/javascript/comments/1u7i40w/loggerjs_a_faster_more_powerful_isomorphic_logger/)
 - [Browser-use agent in Javascript and Webgpu](https://www.reddit.com/r/javascript/comments/1u71eku/browseruse_agent_in_javascript_and_webgpu/)
 - [There are too many JavaScript schema libraries, so support only one](https://www.reddit.com/r/javascript/comments/1u6ijva/there_are_too_many_javascript_schema_libraries_so/)
 - [Your /r/javascript recap for the week of June 08 - June 14, 2026](https://www.reddit.com/r/javascript/comments/1u6b962/your_rjavascript_recap_for_the_week_of_june_08/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Icon Scout - Find, inspect, and download website favicons](https://www.reddit.com/r/javascript/comments/1u62mp3/icon_scout_find_inspect_and_download_website/)
 - [I built a fetch resilience toolkit and a live chaos arena to test it - everything is now at fetchkit.org](https://www.reddit.com/r/javascript/comments/1u5urvh/i_built_a_fetch_resilience_toolkit_and_a_live/)
 - [P2P file sharing app without cloud, free and open-source](https://www.reddit.com/r/javascript/comments/1u52mfr/p2p_file_sharing_app_without_cloud_free_and/)
-- [Cracked job interview - built serverless web app](https://www.reddit.com/r/javascript/comments/1u4y2ql/cracked_job_interview_built_serverless_web_app/)
-- [Building Astro Websites with Almost No JavaScript - Introducing Webuum v0.x](https://www.reddit.com/r/javascript/comments/1u4se1m/building_astro_websites_with_almost_no_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
