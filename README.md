@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] How much do you hate this pattern?](https://www.reddit.com/r/javascript/comments/1u8p14x/askjs_how_much_do_you_hate_this_pattern/)
+- [My Node.js Server Was Leaking Memory in Production. Here&#39;s How I Found It.](https://www.reddit.com/r/javascript/comments/1u8eoez/my_nodejs_server_was_leaking_memory_in_production/)
+- [Prefetch based on mouse trajectory. ForesightJS v4.0 is out with official React &amp; Vue packages](https://www.reddit.com/r/javascript/comments/1u89g0a/prefetch_based_on_mouse_trajectory_foresightjs/)
+- [Wasp framework now lets you write your &quot;full-stack&quot; logic, next to frontend and backend logic, as a spec in TypeScript](https://www.reddit.com/r/javascript/comments/1u89fpb/wasp_framework_now_lets_you_write_your_fullstack/)
+- [[AskJS] 40 tests passed, I shipped to production, and my core feature was completely broken. Here is what I learned about testing Chrome extensions.](https://www.reddit.com/r/javascript/comments/1u88154/askjs_40_tests_passed_i_shipped_to_production_and/)
+- [New Framework-Native Event Calendar for React, Svelte &amp; Vue](https://www.reddit.com/r/javascript/comments/1u865bp/new_frameworknative_event_calendar_for_react/)
 - [What if your runtime blocked post-install scripts by default? 3va does — and runs your existing Express/Next.js code unchanged](https://www.reddit.com/r/javascript/comments/1u7q8wy/what_if_your_runtime_blocked_postinstall_scripts/)
 - [[ShowJS] Color Lab v1 beta — interactive 3D color-space explorer built with SvelteKit + WebGL2 &lpar;open source&rpar;](https://www.reddit.com/r/javascript/comments/1u7mi25/showjs_color_lab_v1_beta_interactive_3d/)
-- [LoggerJS: A faster, more powerful isomorphic logger](https://www.reddit.com/r/javascript/comments/1u7i40w/loggerjs_a_faster_more_powerful_isomorphic_logger/)
 - [Browser-use agent in Javascript and Webgpu](https://www.reddit.com/r/javascript/comments/1u71eku/browseruse_agent_in_javascript_and_webgpu/)
 - [There are too many JavaScript schema libraries, so support only one](https://www.reddit.com/r/javascript/comments/1u6ijva/there_are_too_many_javascript_schema_libraries_so/)
-- [Your /r/javascript recap for the week of June 08 - June 14, 2026](https://www.reddit.com/r/javascript/comments/1u6b962/your_rjavascript_recap_for_the_week_of_june_08/)
-- [[AskJS] Burned out on WordPress: Is transitioning to AstroJS + ApostropheCMS a smart move for a solo dev?](https://www.reddit.com/r/javascript/comments/1u69iqd/askjs_burned_out_on_wordpress_is_transitioning_to/)
-- [Icon Scout - Find, inspect, and download website favicons](https://www.reddit.com/r/javascript/comments/1u62mp3/icon_scout_find_inspect_and_download_website/)
-- [I built a fetch resilience toolkit and a live chaos arena to test it - everything is now at fetchkit.org](https://www.reddit.com/r/javascript/comments/1u5urvh/i_built_a_fetch_resilience_toolkit_and_a_live/)
-- [P2P file sharing app without cloud, free and open-source](https://www.reddit.com/r/javascript/comments/1u52mfr/p2p_file_sharing_app_without_cloud_free_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
