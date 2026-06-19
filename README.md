@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I made TTSC, TypeScript v7 ToolChain for Plugins like Typia](https://www.reddit.com/r/javascript/comments/1u9fviv/i_made_ttsc_typescript_v7_toolchain_for_plugins/)
+- [[Showoff] React Native 0.86, Charting Your Financial Ruin, and the Junk Drawer in Your Package.json](https://www.reddit.com/r/javascript/comments/1u99h4u/showoff_react_native_086_charting_your_financial/)
+- [Announcing TypeScript 7.0 RC](https://www.reddit.com/r/javascript/comments/1u97wgx/announcing_typescript_70_rc/)
+- [Declarative Partial Updates unlock a new Native Component Model](https://www.reddit.com/r/javascript/comments/1u954yg/declarative_partial_updates_unlock_a_new_native/)
+- [My PostgreSQL query went from 57ms to 1.4ms on a 1 million + row table. I didn&#39;t change the query. Here&#39;s what I did.](https://www.reddit.com/r/javascript/comments/1u93eb9/my_postgresql_query_went_from_57ms_to_14ms_on_a_1/)
+- [How we built meetings on LiveKit and Deepgram](https://www.reddit.com/r/javascript/comments/1u939u5/how_we_built_meetings_on_livekit_and_deepgram/)
 - [[AskJS] How much do you hate this pattern?](https://www.reddit.com/r/javascript/comments/1u8p14x/askjs_how_much_do_you_hate_this_pattern/)
 - [My Node.js Server Was Leaking Memory in Production. Here&#39;s How I Found It.](https://www.reddit.com/r/javascript/comments/1u8eoez/my_nodejs_server_was_leaking_memory_in_production/)
 - [Prefetch based on mouse trajectory. ForesightJS v4.0 is out with official React &amp; Vue packages](https://www.reddit.com/r/javascript/comments/1u89g0a/prefetch_based_on_mouse_trajectory_foresightjs/)
 - [Wasp framework now lets you write your &quot;full-stack&quot; logic, next to frontend and backend logic, as a spec in TypeScript](https://www.reddit.com/r/javascript/comments/1u89fpb/wasp_framework_now_lets_you_write_your_fullstack/)
-- [[AskJS] 40 tests passed, I shipped to production, and my core feature was completely broken. Here is what I learned about testing Chrome extensions.](https://www.reddit.com/r/javascript/comments/1u88154/askjs_40_tests_passed_i_shipped_to_production_and/)
-- [New Framework-Native Event Calendar for React, Svelte &amp; Vue](https://www.reddit.com/r/javascript/comments/1u865bp/new_frameworknative_event_calendar_for_react/)
-- [What if your runtime blocked post-install scripts by default? 3va does — and runs your existing Express/Next.js code unchanged](https://www.reddit.com/r/javascript/comments/1u7q8wy/what_if_your_runtime_blocked_postinstall_scripts/)
-- [[ShowJS] Color Lab v1 beta — interactive 3D color-space explorer built with SvelteKit + WebGL2 &lpar;open source&rpar;](https://www.reddit.com/r/javascript/comments/1u7mi25/showjs_color_lab_v1_beta_interactive_3d/)
-- [Browser-use agent in Javascript and Webgpu](https://www.reddit.com/r/javascript/comments/1u71eku/browseruse_agent_in_javascript_and_webgpu/)
-- [There are too many JavaScript schema libraries, so support only one](https://www.reddit.com/r/javascript/comments/1u6ijva/there_are_too_many_javascript_schema_libraries_so/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
