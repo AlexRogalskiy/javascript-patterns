@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I made TTSC, TypeScript v7 ToolChain for Plugins like Typia](https://www.reddit.com/r/javascript/comments/1u9fviv/i_made_ttsc_typescript_v7_toolchain_for_plugins/)
+- [Nifra - The full stack framework for AI](https://www.reddit.com/r/javascript/comments/1uai7z9/nifra_the_full_stack_framework_for_ai/)
+- [[AskJS] what &#39;turn X into a podcast&#39; workflows are people actually running](https://www.reddit.com/r/javascript/comments/1ua9qce/askjs_what_turn_x_into_a_podcast_workflows_are/)
+- [Signals, the push-pull based algorithm](https://www.reddit.com/r/javascript/comments/1ua79ja/signals_the_pushpull_based_algorithm/)
+- [[AskJS] I tried patching Vite and E2B to catch silent Node.js crashes. They rejected. So I built a non-invasive wrapper instead.](https://www.reddit.com/r/javascript/comments/1ua71jz/askjs_i_tried_patching_vite_and_e2b_to_catch/)
+- [There Are No Instances in atproto](https://www.reddit.com/r/javascript/comments/1ua4dpy/there_are_no_instances_in_atproto/)
+- [Open source JS browser interfaces for hacked POS terminals used as live instruments](https://www.reddit.com/r/javascript/comments/1ua0840/open_source_js_browser_interfaces_for_hacked_pos/)
+- [bote: Fast, low-memory streaming JSON parser. Can process MB/GBs of JSON by up to 16x less memory than JSON.parse&lpar;&rpar; whilst being 1.5x faster. FOSS](https://www.reddit.com/r/javascript/comments/1u9zy4r/bote_fast_lowmemory_streaming_json_parser_can/)
 - [[Showoff] React Native 0.86, Charting Your Financial Ruin, and the Junk Drawer in Your Package.json](https://www.reddit.com/r/javascript/comments/1u99h4u/showoff_react_native_086_charting_your_financial/)
 - [Announcing TypeScript 7.0 RC](https://www.reddit.com/r/javascript/comments/1u97wgx/announcing_typescript_70_rc/)
 - [Declarative Partial Updates unlock a new Native Component Model](https://www.reddit.com/r/javascript/comments/1u954yg/declarative_partial_updates_unlock_a_new_native/)
-- [My PostgreSQL query went from 57ms to 1.4ms on a 1 million + row table. I didn&#39;t change the query. Here&#39;s what I did.](https://www.reddit.com/r/javascript/comments/1u93eb9/my_postgresql_query_went_from_57ms_to_14ms_on_a_1/)
-- [How we built meetings on LiveKit and Deepgram](https://www.reddit.com/r/javascript/comments/1u939u5/how_we_built_meetings_on_livekit_and_deepgram/)
-- [[AskJS] How much do you hate this pattern?](https://www.reddit.com/r/javascript/comments/1u8p14x/askjs_how_much_do_you_hate_this_pattern/)
-- [My Node.js Server Was Leaking Memory in Production. Here&#39;s How I Found It.](https://www.reddit.com/r/javascript/comments/1u8eoez/my_nodejs_server_was_leaking_memory_in_production/)
-- [Prefetch based on mouse trajectory. ForesightJS v4.0 is out with official React &amp; Vue packages](https://www.reddit.com/r/javascript/comments/1u89g0a/prefetch_based_on_mouse_trajectory_foresightjs/)
-- [Wasp framework now lets you write your &quot;full-stack&quot; logic, next to frontend and backend logic, as a spec in TypeScript](https://www.reddit.com/r/javascript/comments/1u89fpb/wasp_framework_now_lets_you_write_your_fullstack/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
