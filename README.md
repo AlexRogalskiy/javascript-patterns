@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I made a free chrome extension that shows how empty New Zealand movie screenings are before you book](https://www.reddit.com/r/javascript/comments/1ubdjiw/i_made_a_free_chrome_extension_that_shows_how/)
+- [Incorporate monads and category theory · Issue #94 · promises-aplus/promises-spec](https://www.reddit.com/r/javascript/comments/1uawwyg/incorporate_monads_and_category_theory_issue_94/)
+- [Parse, Don&#39;t Validate — In a Language That Doesn&#39;t Want You To](https://www.reddit.com/r/javascript/comments/1uaqzb2/parse_dont_validate_in_a_language_that_doesnt/)
+- [Showoff Saturday &lpar;June 20, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1uapsn5/showoff_saturday_june_20_2026/)
 - [Nifra - The full stack framework for AI](https://www.reddit.com/r/javascript/comments/1uai7z9/nifra_the_full_stack_framework_for_ai/)
 - [[AskJS] what &#39;turn X into a podcast&#39; workflows are people actually running](https://www.reddit.com/r/javascript/comments/1ua9qce/askjs_what_turn_x_into_a_podcast_workflows_are/)
 - [Signals, the push-pull based algorithm](https://www.reddit.com/r/javascript/comments/1ua79ja/signals_the_pushpull_based_algorithm/)
 - [[AskJS] I tried patching Vite and E2B to catch silent Node.js crashes. They rejected. So I built a non-invasive wrapper instead.](https://www.reddit.com/r/javascript/comments/1ua71jz/askjs_i_tried_patching_vite_and_e2b_to_catch/)
 - [There Are No Instances in atproto](https://www.reddit.com/r/javascript/comments/1ua4dpy/there_are_no_instances_in_atproto/)
 - [Open source JS browser interfaces for hacked POS terminals used as live instruments](https://www.reddit.com/r/javascript/comments/1ua0840/open_source_js_browser_interfaces_for_hacked_pos/)
-- [bote: Fast, low-memory streaming JSON parser. Can process MB/GBs of JSON by up to 16x less memory than JSON.parse&lpar;&rpar; whilst being 1.5x faster. FOSS](https://www.reddit.com/r/javascript/comments/1u9zy4r/bote_fast_lowmemory_streaming_json_parser_can/)
-- [[Showoff] React Native 0.86, Charting Your Financial Ruin, and the Junk Drawer in Your Package.json](https://www.reddit.com/r/javascript/comments/1u99h4u/showoff_react_native_086_charting_your_financial/)
-- [Announcing TypeScript 7.0 RC](https://www.reddit.com/r/javascript/comments/1u97wgx/announcing_typescript_70_rc/)
-- [Declarative Partial Updates unlock a new Native Component Model](https://www.reddit.com/r/javascript/comments/1u954yg/declarative_partial_updates_unlock_a_new_native/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
