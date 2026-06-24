@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [csv-pipe: a small, zero-dependency CSV library for JavaScript and TypeScript](https://www.reddit.com/r/javascript/comments/1udkuq5/csvpipe_a_small_zerodependency_csv_library_for/)
+- [Vite 8.1 has been released and includes the experimental full bundle mode!](https://www.reddit.com/r/javascript/comments/1udf7pg/vite_81_has_been_released_and_includes_the/)
+- [[AskJS] Cloud Storage library that works across Backend &amp; browser](https://www.reddit.com/r/javascript/comments/1uddiqs/askjs_cloud_storage_library_that_works_across/)
 - [[AskJS] I&#39;m not a big fan of tuples here](https://www.reddit.com/r/javascript/comments/1ud4mga/askjs_im_not_a_big_fan_of_tuples_here/)
 - [Uses for nested promises](https://www.reddit.com/r/javascript/comments/1ud3jjc/uses_for_nested_promises/)
 - [I built a 3KB cookie-consent toolkit for React/Next.js that respects GPC/Do-Not-Track and won&#39;t break SSR hydration](https://www.reddit.com/r/javascript/comments/1ucn1bn/i_built_a_3kb_cookieconsent_toolkit_for/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [33-byte JS signal implementation](https://www.reddit.com/r/javascript/comments/1uc0scy/33byte_js_signal_implementation/)
 - [Factories.ts: Build HTML/SVG/MathML with plain TypeScript functions, no template engine](https://www.reddit.com/r/javascript/comments/1ubxvpj/factoriests_build_htmlsvgmathml_with_plain/)
 - [We assume attackers have fully deobfuscated our JS bundle and design the detection around that](https://www.reddit.com/r/javascript/comments/1ubr3e9/we_assume_attackers_have_fully_deobfuscated_our/)
-- [A benchmark focusing on the performance of Postgres client libraries for Node.js, brianc/node-postgres VS porsager/postgres](https://www.reddit.com/r/javascript/comments/1ubq4ca/a_benchmark_focusing_on_the_performance_of/)
-- [Incorporate monads and category theory · Issue #94 · promises-aplus/promises-spec](https://www.reddit.com/r/javascript/comments/1uawwyg/incorporate_monads_and_category_theory_issue_94/)
-- [Parse, Don&#39;t Validate — In a Language That Doesn&#39;t Want You To](https://www.reddit.com/r/javascript/comments/1uaqzb2/parse_dont_validate_in_a_language_that_doesnt/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
