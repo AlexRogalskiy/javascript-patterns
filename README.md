@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [UI Toolkit Slint 1.17 released with drag &amp; drop, system tray icons, tooltips, two-way model bindings, and improved Node.js integration](https://www.reddit.com/r/javascript/comments/1ueqwac/ui_toolkit_slint_117_released_with_drag_drop/)
+- [Javascript still can&#39;t ship a full-stack module.](https://www.reddit.com/r/javascript/comments/1uefso1/javascript_still_cant_ship_a_fullstack_module/)
+- [A batch job, in The Elm Architecture](https://www.reddit.com/r/javascript/comments/1ueboj2/a_batch_job_in_the_elm_architecture/)
 - [csv-pipe: a small, zero-dependency CSV library for JavaScript and TypeScript](https://www.reddit.com/r/javascript/comments/1udkuq5/csvpipe_a_small_zerodependency_csv_library_for/)
 - [Vite 8.1 has been released and includes the experimental full bundle mode!](https://www.reddit.com/r/javascript/comments/1udf7pg/vite_81_has_been_released_and_includes_the/)
 - [[AskJS] Cloud Storage library that works across Backend &amp; browser](https://www.reddit.com/r/javascript/comments/1uddiqs/askjs_cloud_storage_library_that_works_across/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Uses for nested promises](https://www.reddit.com/r/javascript/comments/1ud3jjc/uses_for_nested_promises/)
 - [I built a 3KB cookie-consent toolkit for React/Next.js that respects GPC/Do-Not-Track and won&#39;t break SSR hydration](https://www.reddit.com/r/javascript/comments/1ucn1bn/i_built_a_3kb_cookieconsent_toolkit_for/)
 - [Your /r/javascript recap for the week of June 15 - June 21, 2026](https://www.reddit.com/r/javascript/comments/1ucffl8/your_rjavascript_recap_for_the_week_of_june_15/)
-- [33-byte JS signal implementation](https://www.reddit.com/r/javascript/comments/1uc0scy/33byte_js_signal_implementation/)
-- [Factories.ts: Build HTML/SVG/MathML with plain TypeScript functions, no template engine](https://www.reddit.com/r/javascript/comments/1ubxvpj/factoriests_build_htmlsvgmathml_with_plain/)
-- [We assume attackers have fully deobfuscated our JS bundle and design the detection around that](https://www.reddit.com/r/javascript/comments/1ubr3e9/we_assume_attackers_have_fully_deobfuscated_our/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
