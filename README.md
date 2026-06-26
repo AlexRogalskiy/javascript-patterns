@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Persona.js – a vanilla-JS agent UI library with native WebMCP &lpar;MIT&rpar;](https://www.reddit.com/r/javascript/comments/1ufwacf/personajs_a_vanillajs_agent_ui_library_with/)
+- [eslint-plugin-unicorn now with 300+ rules to catch bugs and improve your JS](https://www.reddit.com/r/javascript/comments/1ufpb24/eslintpluginunicorn_now_with_300_rules_to_catch/)
+- [Sipp - a high-performance inference library with 3x faster decode speeds than WebLLM and full GGUF support](https://www.reddit.com/r/javascript/comments/1ufogpm/sipp_a_highperformance_inference_library_with_3x/)
+- [Node.js worker threads in production](https://www.reddit.com/r/javascript/comments/1ufeq6y/nodejs_worker_threads_in_production/)
+- [Validare – TypeScript-first form validation library, successor to the discontinued FormValidation](https://www.reddit.com/r/javascript/comments/1uf82g2/validare_typescriptfirst_form_validation_library/)
+- [[Showoff] Vercel Eve, Tauri Desktop Shells, and Buying Canned Food for a Cat Named Coke](https://www.reddit.com/r/javascript/comments/1uf5mlj/showoff_vercel_eve_tauri_desktop_shells_and/)
+- [Writing Node.js addons with .NET Native AOT](https://www.reddit.com/r/javascript/comments/1uf3wmm/writing_nodejs_addons_with_net_native_aot/)
 - [UI Toolkit Slint 1.17 released with drag &amp; drop, system tray icons, tooltips, two-way model bindings, and improved Node.js integration](https://www.reddit.com/r/javascript/comments/1ueqwac/ui_toolkit_slint_117_released_with_drag_drop/)
 - [Javascript still can&#39;t ship a full-stack module.](https://www.reddit.com/r/javascript/comments/1uefso1/javascript_still_cant_ship_a_fullstack_module/)
-- [A batch job, in The Elm Architecture](https://www.reddit.com/r/javascript/comments/1ueboj2/a_batch_job_in_the_elm_architecture/)
-- [csv-pipe: a small, zero-dependency CSV library for JavaScript and TypeScript](https://www.reddit.com/r/javascript/comments/1udkuq5/csvpipe_a_small_zerodependency_csv_library_for/)
-- [Vite 8.1 has been released and includes the experimental full bundle mode!](https://www.reddit.com/r/javascript/comments/1udf7pg/vite_81_has_been_released_and_includes_the/)
-- [[AskJS] Cloud Storage library that works across Backend &amp; browser](https://www.reddit.com/r/javascript/comments/1uddiqs/askjs_cloud_storage_library_that_works_across/)
-- [[AskJS] I&#39;m not a big fan of tuples here](https://www.reddit.com/r/javascript/comments/1ud4mga/askjs_im_not_a_big_fan_of_tuples_here/)
-- [Uses for nested promises](https://www.reddit.com/r/javascript/comments/1ud3jjc/uses_for_nested_promises/)
-- [I built a 3KB cookie-consent toolkit for React/Next.js that respects GPC/Do-Not-Track and won&#39;t break SSR hydration](https://www.reddit.com/r/javascript/comments/1ucn1bn/i_built_a_3kb_cookieconsent_toolkit_for/)
-- [Your /r/javascript recap for the week of June 15 - June 21, 2026](https://www.reddit.com/r/javascript/comments/1ucffl8/your_rjavascript_recap_for_the_week_of_june_15/)
+- [[AskJS] Should reactive operators support both sync and async callbacks?](https://www.reddit.com/r/javascript/comments/1ueelpc/askjs_should_reactive_operators_support_both_sync/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
