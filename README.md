@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] the dev podcasts you queue to keep up with your stack are a to-do list you never play](https://www.reddit.com/r/javascript/comments/1ugoe42/askjs_the_dev_podcasts_you_queue_to_keep_up_with/)
+- [Your Package Manager Is Lying to You: npm, Yarn, pnpm, Bun &amp; Deno](https://www.reddit.com/r/javascript/comments/1ugh058/your_package_manager_is_lying_to_you_npm_yarn/)
+- [Why the single package.json monorepo policy is a trap](https://www.reddit.com/r/javascript/comments/1ug7txe/why_the_single_packagejson_monorepo_policy_is_a/)
+- [Rspack 2.1: React Compiler support in Rust, 7-13× faster](https://www.reddit.com/r/javascript/comments/1ug2edd/rspack_21_react_compiler_support_in_rust_713/)
 - [Persona.js – a vanilla-JS agent UI library with native WebMCP &lpar;MIT&rpar;](https://www.reddit.com/r/javascript/comments/1ufwacf/personajs_a_vanillajs_agent_ui_library_with/)
 - [eslint-plugin-unicorn now with 300+ rules to catch bugs and improve your JS](https://www.reddit.com/r/javascript/comments/1ufpb24/eslintpluginunicorn_now_with_300_rules_to_catch/)
 - [Sipp - a high-performance inference library with 3x faster decode speeds than WebLLM and full GGUF support](https://www.reddit.com/r/javascript/comments/1ufogpm/sipp_a_highperformance_inference_library_with_3x/)
 - [Node.js worker threads in production](https://www.reddit.com/r/javascript/comments/1ufeq6y/nodejs_worker_threads_in_production/)
 - [Validare – TypeScript-first form validation library, successor to the discontinued FormValidation](https://www.reddit.com/r/javascript/comments/1uf82g2/validare_typescriptfirst_form_validation_library/)
 - [[Showoff] Vercel Eve, Tauri Desktop Shells, and Buying Canned Food for a Cat Named Coke](https://www.reddit.com/r/javascript/comments/1uf5mlj/showoff_vercel_eve_tauri_desktop_shells_and/)
-- [Writing Node.js addons with .NET Native AOT](https://www.reddit.com/r/javascript/comments/1uf3wmm/writing_nodejs_addons_with_net_native_aot/)
-- [UI Toolkit Slint 1.17 released with drag &amp; drop, system tray icons, tooltips, two-way model bindings, and improved Node.js integration](https://www.reddit.com/r/javascript/comments/1ueqwac/ui_toolkit_slint_117_released_with_drag_drop/)
-- [Javascript still can&#39;t ship a full-stack module.](https://www.reddit.com/r/javascript/comments/1uefso1/javascript_still_cant_ship_a_fullstack_module/)
-- [[AskJS] Should reactive operators support both sync and async callbacks?](https://www.reddit.com/r/javascript/comments/1ueelpc/askjs_should_reactive_operators_support_both_sync/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
