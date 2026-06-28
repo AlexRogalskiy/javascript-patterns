@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [GitHub - aalex2017/hierarchical-structure-builder: A lightweight JavaScript library for visually creating, previewing, and validating hierarchical data structures before submitting them to a database, API, or custom backend.](https://www.reddit.com/r/javascript/comments/1uhf4aj/github_aalex2017hierarchicalstructurebuilder_a/)
+- [Creating websites with a library inspired by Vanilla JS.](https://www.reddit.com/r/javascript/comments/1uh5wzk/creating_websites_with_a_library_inspired_by/)
+- [Showoff Saturday &lpar;June 27, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1ugvp0o/showoff_saturday_june_27_2026/)
 - [[AskJS] the dev podcasts you queue to keep up with your stack are a to-do list you never play](https://www.reddit.com/r/javascript/comments/1ugoe42/askjs_the_dev_podcasts_you_queue_to_keep_up_with/)
 - [Your Package Manager Is Lying to You: npm, Yarn, pnpm, Bun &amp; Deno](https://www.reddit.com/r/javascript/comments/1ugh058/your_package_manager_is_lying_to_you_npm_yarn/)
-- [Why the single package.json monorepo policy is a trap](https://www.reddit.com/r/javascript/comments/1ug7txe/why_the_single_packagejson_monorepo_policy_is_a/)
+- [npm link breaks with nvm. yalc needs reinstalling per Node version. So I built a fix – kley](https://www.reddit.com/r/javascript/comments/1uge93v/npm_link_breaks_with_nvm_yalc_needs_reinstalling/)
 - [Rspack 2.1: React Compiler support in Rust, 7-13× faster](https://www.reddit.com/r/javascript/comments/1ug2edd/rspack_21_react_compiler_support_in_rust_713/)
 - [Persona.js – a vanilla-JS agent UI library with native WebMCP &lpar;MIT&rpar;](https://www.reddit.com/r/javascript/comments/1ufwacf/personajs_a_vanillajs_agent_ui_library_with/)
 - [eslint-plugin-unicorn now with 300+ rules to catch bugs and improve your JS](https://www.reddit.com/r/javascript/comments/1ufpb24/eslintpluginunicorn_now_with_300_rules_to_catch/)
 - [Sipp - a high-performance inference library with 3x faster decode speeds than WebLLM and full GGUF support](https://www.reddit.com/r/javascript/comments/1ufogpm/sipp_a_highperformance_inference_library_with_3x/)
-- [Node.js worker threads in production](https://www.reddit.com/r/javascript/comments/1ufeq6y/nodejs_worker_threads_in_production/)
-- [Validare – TypeScript-first form validation library, successor to the discontinued FormValidation](https://www.reddit.com/r/javascript/comments/1uf82g2/validare_typescriptfirst_form_validation_library/)
-- [[Showoff] Vercel Eve, Tauri Desktop Shells, and Buying Canned Food for a Cat Named Coke](https://www.reddit.com/r/javascript/comments/1uf5mlj/showoff_vercel_eve_tauri_desktop_shells_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
