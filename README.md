@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I stashed arbitrary data in WOFF2 color glyphs to get free Brotli decompression via Canvas](https://www.reddit.com/r/javascript/comments/1ujcxl6/i_stashed_arbitrary_data_in_woff2_color_glyphs_to/)
+- [I wrote a glob matcher in Rust as a JS native addon &lpar;picomatch compatible&rpar;](https://www.reddit.com/r/javascript/comments/1uj39a8/i_wrote_a_glob_matcher_in_rust_as_a_js_native/)
+- [TurboRes, an extremely fast Apple ProRes decoder for the web &lpar;faster than FFmpeg native!&rpar;](https://www.reddit.com/r/javascript/comments/1uj1wpn/turbores_an_extremely_fast_apple_prores_decoder/)
+- [Your /r/javascript recap for the week of June 22 - June 28, 2026](https://www.reddit.com/r/javascript/comments/1uin85i/your_rjavascript_recap_for_the_week_of_june_22/)
 - [peek-cli: let coding agents see your browser!](https://www.reddit.com/r/javascript/comments/1ui51kp/peekcli_let_coding_agents_see_your_browser/)
 - [Your console.log Is Lying to You](https://www.reddit.com/r/javascript/comments/1uhwgtj/your_consolelog_is_lying_to_you/)
 - [GitHub - aalex2017/hierarchical-structure-builder: A lightweight JavaScript library for visually creating, previewing, and validating hierarchical data structures before submitting them to a database, API, or custom backend.](https://www.reddit.com/r/javascript/comments/1uhf4aj/github_aalex2017hierarchicalstructurebuilder_a/)
 - [Creating websites with a library inspired by Vanilla JS.](https://www.reddit.com/r/javascript/comments/1uh5wzk/creating_websites_with_a_library_inspired_by/)
 - [arhus - A local-first security analyzer &amp; auto-fixer for TypeScript &amp; JavaScript](https://www.reddit.com/r/javascript/comments/1uh2ycu/arhus_a_localfirst_security_analyzer_autofixer/)
 - [Showoff Saturday &lpar;June 27, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1ugvp0o/showoff_saturday_june_27_2026/)
-- [[AskJS] the dev podcasts you queue to keep up with your stack are a to-do list you never play](https://www.reddit.com/r/javascript/comments/1ugoe42/askjs_the_dev_podcasts_you_queue_to_keep_up_with/)
-- [Your Package Manager Is Lying to You: npm, Yarn, pnpm, Bun &amp; Deno](https://www.reddit.com/r/javascript/comments/1ugh058/your_package_manager_is_lying_to_you_npm_yarn/)
-- [npm link breaks with nvm. yalc needs reinstalling per Node version. So I built a fix – kley](https://www.reddit.com/r/javascript/comments/1uge93v/npm_link_breaks_with_nvm_yalc_needs_reinstalling/)
-- [Rspack 2.1: React Compiler support in Rust, 7-13× faster](https://www.reddit.com/r/javascript/comments/1ug2edd/rspack_21_react_compiler_support_in_rust_713/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
