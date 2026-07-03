@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Hosting js code golfing competition, make your demo under 1 KiB about &quot;dreaming&quot;](https://www.reddit.com/r/javascript/comments/1ulj8g9/hosting_js_code_golfing_competition_make_your/)
+- [Vite+ is now in beta](https://www.reddit.com/r/javascript/comments/1ulfe35/vite_is_now_in_beta/)
 - [[AskJS] are Copying by reference in JS similar with Pointers in C in a way?](https://www.reddit.com/r/javascript/comments/1ul5ml1/askjs_are_copying_by_reference_in_js_similar_with/)
 - [Different hydration and rendering strategies](https://www.reddit.com/r/javascript/comments/1ukseli/different_hydration_and_rendering_strategies/)
 - [[AskJS] Are destructuring assignments often used &lpar;both for arrays and objects&rpar;?](https://www.reddit.com/r/javascript/comments/1ukn51f/askjs_are_destructuring_assignments_often_used/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [I wrote a glob matcher in Rust as a JS native addon &lpar;picomatch compatible&rpar;](https://www.reddit.com/r/javascript/comments/1uj39a8/i_wrote_a_glob_matcher_in_rust_as_a_js_native/)
 - [TurboRes, an extremely fast Apple ProRes decoder for the web &lpar;faster than FFmpeg native!&rpar;](https://www.reddit.com/r/javascript/comments/1uj1wpn/turbores_an_extremely_fast_apple_prores_decoder/)
 - [Your /r/javascript recap for the week of June 22 - June 28, 2026](https://www.reddit.com/r/javascript/comments/1uin85i/your_rjavascript_recap_for_the_week_of_june_22/)
-- [peek-cli: let coding agents see your browser!](https://www.reddit.com/r/javascript/comments/1ui51kp/peekcli_let_coding_agents_see_your_browser/)
-- [Your console.log Is Lying to You](https://www.reddit.com/r/javascript/comments/1uhwgtj/your_consolelog_is_lying_to_you/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
