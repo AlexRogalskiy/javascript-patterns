@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] dashboards on my js projects taught me nothing, hearing the week&#39;s commits read back did](https://www.reddit.com/r/javascript/comments/1umuew9/askjs_dashboards_on_my_js_projects_taught_me/)
+- [Yet Another TypeScript Template: Opinionated and minimal.](https://www.reddit.com/r/javascript/comments/1umgj05/yet_another_typescript_template_opinionated_and/)
 - [Hosting js code golfing competition, make your demo under 1 KiB about &quot;dreaming&quot;](https://www.reddit.com/r/javascript/comments/1ulj8g9/hosting_js_code_golfing_competition_make_your/)
 - [Vite+ is now in beta](https://www.reddit.com/r/javascript/comments/1ulfe35/vite_is_now_in_beta/)
 - [[AskJS] are Copying by reference in JS similar with Pointers in C in a way?](https://www.reddit.com/r/javascript/comments/1ul5ml1/askjs_are_copying_by_reference_in_js_similar_with/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [[Showoff] A Rust Replacement for Metro, 3D Ducks in Bold Tags, and the Swift Feature Apple Forgot to Share](https://www.reddit.com/r/javascript/comments/1ukk69y/showoff_a_rust_replacement_for_metro_3d_ducks_in/)
 - [I stashed arbitrary data in WOFF2 color glyphs to get free Brotli decompression via Canvas](https://www.reddit.com/r/javascript/comments/1ujcxl6/i_stashed_arbitrary_data_in_woff2_color_glyphs_to/)
 - [I wrote a glob matcher in Rust as a JS native addon &lpar;picomatch compatible&rpar;](https://www.reddit.com/r/javascript/comments/1uj39a8/i_wrote_a_glob_matcher_in_rust_as_a_js_native/)
-- [TurboRes, an extremely fast Apple ProRes decoder for the web &lpar;faster than FFmpeg native!&rpar;](https://www.reddit.com/r/javascript/comments/1uj1wpn/turbores_an_extremely_fast_apple_prores_decoder/)
-- [Your /r/javascript recap for the week of June 22 - June 28, 2026](https://www.reddit.com/r/javascript/comments/1uin85i/your_rjavascript_recap_for_the_week_of_june_22/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
