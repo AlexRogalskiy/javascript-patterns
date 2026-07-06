@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [DFCraft — our free open source first extension](https://www.reddit.com/r/javascript/comments/1uo4fk0/dfcraft_our_free_open_source_first_extension/)
+- [Oxc &lpar;popular front-end tooling&rpar; forked my parser but deliberately removed my copyright notice](https://www.reddit.com/r/javascript/comments/1uo3zm7/oxc_popular_frontend_tooling_forked_my_parser_but/)
+- [[AskJS] What small JavaScript pattern made your React code cleaner?](https://www.reddit.com/r/javascript/comments/1uo3h5n/askjs_what_small_javascript_pattern_made_your/)
+- [I built a browser-based 3D annotation viewer in React + three.js — curious about your feedback on the architecture](https://www.reddit.com/r/javascript/comments/1unxjec/i_built_a_browserbased_3d_annotation_viewer_in/)
+- [I made a markdown editor that doesn&#39;t send your text to a server — everything runs in the browser](https://www.reddit.com/r/javascript/comments/1un7r31/i_made_a_markdown_editor_that_doesnt_send_your/)
 - [Showoff Saturday &lpar;July 04, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1un2680/showoff_saturday_july_04_2026/)
 - [TS Compiler Graph, 10x fewer tokens in Claude Code and Codex, by TypeScript-Go toolchain](https://www.reddit.com/r/javascript/comments/1umzv5y/ts_compiler_graph_10x_fewer_tokens_in_claude_code/)
 - [[AskJS] dashboards on my js projects taught me nothing, hearing the week&#39;s commits read back did](https://www.reddit.com/r/javascript/comments/1umuew9/askjs_dashboards_on_my_js_projects_taught_me/)
 - [Yet Another TypeScript Template: Opinionated and minimal.](https://www.reddit.com/r/javascript/comments/1umgj05/yet_another_typescript_template_opinionated_and/)
 - [Hosting js code golfing competition, make your demo under 1 KiB about &quot;dreaming&quot;](https://www.reddit.com/r/javascript/comments/1ulj8g9/hosting_js_code_golfing_competition_make_your/)
-- [Vite+ is now in beta](https://www.reddit.com/r/javascript/comments/1ulfe35/vite_is_now_in_beta/)
-- [[AskJS] are Copying by reference in JS similar with Pointers in C in a way?](https://www.reddit.com/r/javascript/comments/1ul5ml1/askjs_are_copying_by_reference_in_js_similar_with/)
-- [Different hydration and rendering strategies](https://www.reddit.com/r/javascript/comments/1ukseli/different_hydration_and_rendering_strategies/)
-- [[AskJS] Are destructuring assignments often used &lpar;both for arrays and objects&rpar;?](https://www.reddit.com/r/javascript/comments/1ukn51f/askjs_are_destructuring_assignments_often_used/)
-- [[Showoff] A Rust Replacement for Metro, 3D Ducks in Bold Tags, and the Swift Feature Apple Forgot to Share](https://www.reddit.com/r/javascript/comments/1ukk69y/showoff_a_rust_replacement_for_metro_3d_ducks_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
