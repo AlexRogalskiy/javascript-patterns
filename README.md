@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] a daily audio readback of my own repo made me start writing commit messages like someone&#39;s listening](https://www.reddit.com/r/javascript/comments/1upfwfa/askjs_a_daily_audio_readback_of_my_own_repo_made/)
+- [Nameless Drive: A self hosted storage](https://www.reddit.com/r/javascript/comments/1up2wnu/nameless_drive_a_self_hosted_storage/)
+- [lanterm: PTY-backed terminal UX toolkit for web apps](https://www.reddit.com/r/javascript/comments/1uoyhiz/lanterm_ptybacked_terminal_ux_toolkit_for_web_apps/)
+- [An interactive visualization that follows a single HTTP request through its entire ~200ms life](https://www.reddit.com/r/javascript/comments/1uovk63/an_interactive_visualization_that_follows_a/)
+- [lintp — a linter for file names and directory structure &lpar;Rust&rpar;](https://www.reddit.com/r/javascript/comments/1uoushi/lintp_a_linter_for_file_names_and_directory/)
+- [Your /r/javascript recap for the week of June 29 - July 05, 2026](https://www.reddit.com/r/javascript/comments/1uorz96/your_rjavascript_recap_for_the_week_of_june_29/)
+- [I built a mathematical expression parser and evaluation engine from scratch with runtime data type checking, entirely in vanilla JavaScript.](https://www.reddit.com/r/javascript/comments/1uobr72/i_built_a_mathematical_expression_parser_and/)
 - [DFCraft — our free open source first extension](https://www.reddit.com/r/javascript/comments/1uo4fk0/dfcraft_our_free_open_source_first_extension/)
 - [Oxc &lpar;popular front-end tooling&rpar; forked my parser but deliberately removed my copyright notice](https://www.reddit.com/r/javascript/comments/1uo3zm7/oxc_popular_frontend_tooling_forked_my_parser_but/)
 - [[AskJS] What small JavaScript pattern made your React code cleaner?](https://www.reddit.com/r/javascript/comments/1uo3h5n/askjs_what_small_javascript_pattern_made_your/)
-- [I built a browser-based 3D annotation viewer in React + three.js — curious about your feedback on the architecture](https://www.reddit.com/r/javascript/comments/1unxjec/i_built_a_browserbased_3d_annotation_viewer_in/)
-- [I made a markdown editor that doesn&#39;t send your text to a server — everything runs in the browser](https://www.reddit.com/r/javascript/comments/1un7r31/i_made_a_markdown_editor_that_doesnt_send_your/)
-- [Showoff Saturday &lpar;July 04, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1un2680/showoff_saturday_july_04_2026/)
-- [TS Compiler Graph, 10x fewer tokens in Claude Code and Codex, by TypeScript-Go toolchain](https://www.reddit.com/r/javascript/comments/1umzv5y/ts_compiler_graph_10x_fewer_tokens_in_claude_code/)
-- [[AskJS] dashboards on my js projects taught me nothing, hearing the week&#39;s commits read back did](https://www.reddit.com/r/javascript/comments/1umuew9/askjs_dashboards_on_my_js_projects_taught_me/)
-- [Yet Another TypeScript Template: Opinionated and minimal.](https://www.reddit.com/r/javascript/comments/1umgj05/yet_another_typescript_template_opinionated_and/)
-- [Hosting js code golfing competition, make your demo under 1 KiB about &quot;dreaming&quot;](https://www.reddit.com/r/javascript/comments/1ulj8g9/hosting_js_code_golfing_competition_make_your/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
