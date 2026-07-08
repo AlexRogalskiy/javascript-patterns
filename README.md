@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Browser based AI algorithm](https://www.reddit.com/r/javascript/comments/1uqa1be/browser_based_ai_algorithm/)
+- [80+ ESLint rules for improving your Node.js tests](https://www.reddit.com/r/javascript/comments/1upst2e/80_eslint_rules_for_improving_your_nodejs_tests/)
 - [[AskJS] a daily audio readback of my own repo made me start writing commit messages like someone&#39;s listening](https://www.reddit.com/r/javascript/comments/1upfwfa/askjs_a_daily_audio_readback_of_my_own_repo_made/)
 - [Nameless Drive: A self hosted storage](https://www.reddit.com/r/javascript/comments/1up2wnu/nameless_drive_a_self_hosted_storage/)
 - [lanterm: PTY-backed terminal UX toolkit for web apps](https://www.reddit.com/r/javascript/comments/1uoyhiz/lanterm_ptybacked_terminal_ux_toolkit_for_web_apps/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Your /r/javascript recap for the week of June 29 - July 05, 2026](https://www.reddit.com/r/javascript/comments/1uorz96/your_rjavascript_recap_for_the_week_of_june_29/)
 - [I built a mathematical expression parser and evaluation engine from scratch with runtime data type checking, entirely in vanilla JavaScript.](https://www.reddit.com/r/javascript/comments/1uobr72/i_built_a_mathematical_expression_parser_and/)
 - [DFCraft — our free open source first extension](https://www.reddit.com/r/javascript/comments/1uo4fk0/dfcraft_our_free_open_source_first_extension/)
-- [Oxc &lpar;popular front-end tooling&rpar; forked my parser but deliberately removed my copyright notice](https://www.reddit.com/r/javascript/comments/1uo3zm7/oxc_popular_frontend_tooling_forked_my_parser_but/)
-- [[AskJS] What small JavaScript pattern made your React code cleaner?](https://www.reddit.com/r/javascript/comments/1uo3h5n/askjs_what_small_javascript_pattern_made_your/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
