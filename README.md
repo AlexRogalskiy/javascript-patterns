@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Looking for guidance on recreating this Fire Tribe logo animation](https://www.reddit.com/r/javascript/comments/1ur8lxi/looking_for_guidance_on_recreating_this_fire/)
+- [Ship a cookie banner and privacy policy in your Wasp app](https://www.reddit.com/r/javascript/comments/1ur6gvt/ship_a_cookie_banner_and_privacy_policy_in_your/)
+- [littlebag — a 343-byte reactive framework](https://www.reddit.com/r/javascript/comments/1ur5bo9/littlebag_a_343byte_reactive_framework/)
+- [What&#39;s the best way to do store auth tokens](https://www.reddit.com/r/javascript/comments/1uqxw72/whats_the_best_way_to_do_store_auth_tokens/)
+- [Announcing TypeScript 7.0](https://www.reddit.com/r/javascript/comments/1uqx3n9/announcing_typescript_70/)
+- [Javascript TUI Network Throughput Inspection](https://www.reddit.com/r/javascript/comments/1uqvyuk/javascript_tui_network_throughput_inspection/)
+- [I built a JS/TS Web SDK for AI Agent to handle frontend-to-kernel streaming](https://www.reddit.com/r/javascript/comments/1uqtv3a/i_built_a_jsts_web_sdk_for_ai_agent_to_handle/)
+- [I wrote a quick tutorial on detecting visitor country + currency in vanilla JS &lpar;no backend, no API key&rpar;](https://www.reddit.com/r/javascript/comments/1uqqtz8/i_wrote_a_quick_tutorial_on_detecting_visitor/)
+- [How do we make coding agents write good code?](https://www.reddit.com/r/javascript/comments/1uqn3t7/how_do_we_make_coding_agents_write_good_code/)
 - [Browser based AI algorithm](https://www.reddit.com/r/javascript/comments/1uqa1be/browser_based_ai_algorithm/)
-- [80+ ESLint rules for improving your Node.js tests](https://www.reddit.com/r/javascript/comments/1upst2e/80_eslint_rules_for_improving_your_nodejs_tests/)
-- [[AskJS] a daily audio readback of my own repo made me start writing commit messages like someone&#39;s listening](https://www.reddit.com/r/javascript/comments/1upfwfa/askjs_a_daily_audio_readback_of_my_own_repo_made/)
-- [Nameless Drive: A self hosted storage](https://www.reddit.com/r/javascript/comments/1up2wnu/nameless_drive_a_self_hosted_storage/)
-- [lanterm: PTY-backed terminal UX toolkit for web apps](https://www.reddit.com/r/javascript/comments/1uoyhiz/lanterm_ptybacked_terminal_ux_toolkit_for_web_apps/)
-- [An interactive visualization that follows a single HTTP request through its entire ~200ms life](https://www.reddit.com/r/javascript/comments/1uovk63/an_interactive_visualization_that_follows_a/)
-- [lintp — a linter for file names and directory structure &lpar;Rust&rpar;](https://www.reddit.com/r/javascript/comments/1uoushi/lintp_a_linter_for_file_names_and_directory/)
-- [Your /r/javascript recap for the week of June 29 - July 05, 2026](https://www.reddit.com/r/javascript/comments/1uorz96/your_rjavascript_recap_for_the_week_of_june_29/)
-- [I built a mathematical expression parser and evaluation engine from scratch with runtime data type checking, entirely in vanilla JavaScript.](https://www.reddit.com/r/javascript/comments/1uobr72/i_built_a_mathematical_expression_parser_and/)
-- [DFCraft — our free open source first extension](https://www.reddit.com/r/javascript/comments/1uo4fk0/dfcraft_our_free_open_source_first_extension/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
