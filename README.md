@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] most js changelogs don&#39;t survive being read aloud, which is how i noticed i wasn&#39;t reading them](https://www.reddit.com/r/javascript/comments/1ut5rmm/askjs_most_js_changelogs_dont_survive_being_read/)
+- [I built a zero-dependency CLI tool to validate and repair missing .env variables before startup](https://www.reddit.com/r/javascript/comments/1usu0wd/i_built_a_zerodependency_cli_tool_to_validate_and/)
+- [[AskJS] Looking for a solid vanilla JS datepicker. Am I completely out of options?](https://www.reddit.com/r/javascript/comments/1ussaun/askjs_looking_for_a_solid_vanilla_js_datepicker/)
+- [[AskJS] Large in-memory caches were causing GC pauses in our Node service, so I built an off-heap cache addon for it](https://www.reddit.com/r/javascript/comments/1uspw7p/askjs_large_inmemory_caches_were_causing_gc/)
+- [History of JavaScript: Browser wars, ECMAScript, Node.js, TypeScript, and React](https://www.reddit.com/r/javascript/comments/1usndcq/history_of_javascript_browser_wars_ecmascript/)
+- [TypeScript v7 Toolchain TTSC: compiler plugin &lpar;typia&rpar;, AI codegraph 90% reducing token cost, compiler integrated Lint, unplugin for vite/nextjs/etc](https://www.reddit.com/r/javascript/comments/1usktcs/typescript_v7_toolchain_ttsc_compiler_plugin/)
+- [Simple Release v3 is out! Also with a new documentation website](https://www.reddit.com/r/javascript/comments/1usjezu/simple_release_v3_is_out_also_with_a_new/)
 - [Built a dynamic replacement for skillicons.dev - way more icons, more variants, self-hostable](https://www.reddit.com/r/javascript/comments/1us6th0/built_a_dynamic_replacement_for_skilliconsdev_way/)
 - [[AskJS] Has anyone else come across IBM Bob while working on JavaScript projects?](https://www.reddit.com/r/javascript/comments/1us1c0h/askjs_has_anyone_else_come_across_ibm_bob_while/)
 - [peek-cli: let coding agents see your browser.](https://www.reddit.com/r/javascript/comments/1urvb33/peekcli_let_coding_agents_see_your_browser/)
-- [Tracking unique visitors without cookies](https://www.reddit.com/r/javascript/comments/1urq3rg/tracking_unique_visitors_without_cookies/)
-- [[AskJS] Did anyone else move away from TypeScript and feel like it was obviously the right call?](https://www.reddit.com/r/javascript/comments/1urpnc2/askjs_did_anyone_else_move_away_from_typescript/)
-- [Conventional Changelog finally has a documentation website - 12 years after the first commit](https://www.reddit.com/r/javascript/comments/1urlbnx/conventional_changelog_finally_has_a/)
-- [Ship a cookie banner and privacy policy in your Wasp app](https://www.reddit.com/r/javascript/comments/1ur6gvt/ship_a_cookie_banner_and_privacy_policy_in_your/)
-- [littlebag — a 343-byte reactive framework](https://www.reddit.com/r/javascript/comments/1ur5bo9/littlebag_a_343byte_reactive_framework/)
-- [What&#39;s the best way to do store auth tokens](https://www.reddit.com/r/javascript/comments/1uqxw72/whats_the_best_way_to_do_store_auth_tokens/)
-- [Announcing TypeScript 7.0](https://www.reddit.com/r/javascript/comments/1uqx3n9/announcing_typescript_70/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
