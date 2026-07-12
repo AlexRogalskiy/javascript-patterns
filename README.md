@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I need your vote: Padding Line Between Statements - ESLint Rule Currently Missing in Biome](https://www.reddit.com/r/javascript/comments/1uthidt/i_need_your_vote_padding_line_between_statements/)
+- [[AskJS] I might never write a constructor ever again](https://www.reddit.com/r/javascript/comments/1utfziv/askjs_i_might_never_write_a_constructor_ever_again/)
+- [Showoff Saturday &lpar;July 11, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1utcvux/showoff_saturday_july_11_2026/)
 - [[AskJS] most js changelogs don&#39;t survive being read aloud, which is how i noticed i wasn&#39;t reading them](https://www.reddit.com/r/javascript/comments/1ut5rmm/askjs_most_js_changelogs_dont_survive_being_read/)
 - [I built a zero-dependency CLI tool to validate and repair missing .env variables before startup](https://www.reddit.com/r/javascript/comments/1usu0wd/i_built_a_zerodependency_cli_tool_to_validate_and/)
 - [[AskJS] Looking for a solid vanilla JS datepicker. Am I completely out of options?](https://www.reddit.com/r/javascript/comments/1ussaun/askjs_looking_for_a_solid_vanilla_js_datepicker/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [History of JavaScript: Browser wars, ECMAScript, Node.js, TypeScript, and React](https://www.reddit.com/r/javascript/comments/1usndcq/history_of_javascript_browser_wars_ecmascript/)
 - [TypeScript v7 Toolchain TTSC: compiler plugin &lpar;typia&rpar;, AI codegraph 90% reducing token cost, compiler integrated Lint, unplugin for vite/nextjs/etc](https://www.reddit.com/r/javascript/comments/1usktcs/typescript_v7_toolchain_ttsc_compiler_plugin/)
 - [Simple Release v3 is out! Also with a new documentation website](https://www.reddit.com/r/javascript/comments/1usjezu/simple_release_v3_is_out_also_with_a_new/)
-- [Built a dynamic replacement for skillicons.dev - way more icons, more variants, self-hostable](https://www.reddit.com/r/javascript/comments/1us6th0/built_a_dynamic_replacement_for_skilliconsdev_way/)
-- [[AskJS] Has anyone else come across IBM Bob while working on JavaScript projects?](https://www.reddit.com/r/javascript/comments/1us1c0h/askjs_has_anyone_else_come_across_ibm_bob_while/)
-- [peek-cli: let coding agents see your browser.](https://www.reddit.com/r/javascript/comments/1urvb33/peekcli_let_coding_agents_see_your_browser/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
