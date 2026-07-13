@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why Vanilla JavaScript](https://www.reddit.com/r/javascript/comments/1uuu801/why_vanilla_javascript/)
+- [WebSocket desde cero, ECDH, y UDP para descubrimiento local en Node.js&quot;.](https://www.reddit.com/r/javascript/comments/1uuteww/websocket_desde_cero_ecdh_y_udp_para/)
+- [P2P cifrada sin depender de npm ni infraestructura externa &lpar;WebSocket desde cero, ECDH, UDP&rpar;](https://www.reddit.com/r/javascript/comments/1uutbg4/p2p_cifrada_sin_depender_de_npm_ni/)
+- [I built KratosJS – an open-source admin framework for Node.js inspired by FilamentPHP](https://www.reddit.com/r/javascript/comments/1uui2p1/i_built_kratosjs_an_opensource_admin_framework/)
+- [[AskJS] Barrel files and slice/domain boundaries](https://www.reddit.com/r/javascript/comments/1uue00i/askjs_barrel_files_and_slicedomain_boundaries/)
+- [[AskJS] Building a SpiderMonkey-based JavaScript runtime to learn JS internals — what APIs are still missing from JS runtimes?](https://www.reddit.com/r/javascript/comments/1uucpxu/askjs_building_a_spidermonkeybased_javascript/)
 - [I need your vote: Padding Line Between Statements - ESLint Rule Currently Missing in Biome](https://www.reddit.com/r/javascript/comments/1uthidt/i_need_your_vote_padding_line_between_statements/)
 - [[AskJS] I might never write a constructor ever again](https://www.reddit.com/r/javascript/comments/1utfziv/askjs_i_might_never_write_a_constructor_ever_again/)
 - [Showoff Saturday &lpar;July 11, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1utcvux/showoff_saturday_july_11_2026/)
 - [[AskJS] most js changelogs don&#39;t survive being read aloud, which is how i noticed i wasn&#39;t reading them](https://www.reddit.com/r/javascript/comments/1ut5rmm/askjs_most_js_changelogs_dont_survive_being_read/)
-- [I built a zero-dependency CLI tool to validate and repair missing .env variables before startup](https://www.reddit.com/r/javascript/comments/1usu0wd/i_built_a_zerodependency_cli_tool_to_validate_and/)
-- [[AskJS] Looking for a solid vanilla JS datepicker. Am I completely out of options?](https://www.reddit.com/r/javascript/comments/1ussaun/askjs_looking_for_a_solid_vanilla_js_datepicker/)
-- [[AskJS] Large in-memory caches were causing GC pauses in our Node service, so I built an off-heap cache addon for it](https://www.reddit.com/r/javascript/comments/1uspw7p/askjs_large_inmemory_caches_were_causing_gc/)
-- [History of JavaScript: Browser wars, ECMAScript, Node.js, TypeScript, and React](https://www.reddit.com/r/javascript/comments/1usndcq/history_of_javascript_browser_wars_ecmascript/)
-- [TypeScript v7 Toolchain TTSC: compiler plugin &lpar;typia&rpar;, AI codegraph 90% reducing token cost, compiler integrated Lint, unplugin for vite/nextjs/etc](https://www.reddit.com/r/javascript/comments/1usktcs/typescript_v7_toolchain_ttsc_compiler_plugin/)
-- [Simple Release v3 is out! Also with a new documentation website](https://www.reddit.com/r/javascript/comments/1usjezu/simple_release_v3_is_out_also_with_a_new/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
