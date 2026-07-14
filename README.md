@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I created a zero dependency JavaScript framework that is a React alternative](https://www.reddit.com/r/javascript/comments/1uvudcw/i_created_a_zero_dependency_javascript_framework/)
+- [PSA: The official jscrambler npm package was compromised &lpar;v8.14.0&rpar;](https://www.reddit.com/r/javascript/comments/1uvgbr0/psa_the_official_jscrambler_npm_package_was/)
+- [JavaScript Magic Objects](https://www.reddit.com/r/javascript/comments/1uvdhby/javascript_magic_objects/)
+- [The LinkedIn scam that gets you hacked - Solving a take-home interview test can quickly turn into a nightmare. Notes on developer trust, JavaScript malware, and autonomous detection](https://www.reddit.com/r/javascript/comments/1uvd2iv/the_linkedin_scam_that_gets_you_hacked_solving_a/)
+- [[Showoff] Zoomable Calendar Grids, On-Device Gemini Nano, and a Gothic Theme for Your Company&#39;s 13,000 Internal Apps](https://www.reddit.com/r/javascript/comments/1uvay9i/showoff_zoomable_calendar_grids_ondevice_gemini/)
+- [Your /r/javascript recap for the week of July 06 - July 12, 2026](https://www.reddit.com/r/javascript/comments/1uv682c/your_rjavascript_recap_for_the_week_of_july_06/)
 - [Why Vanilla JavaScript](https://www.reddit.com/r/javascript/comments/1uuu801/why_vanilla_javascript/)
 - [WebSocket desde cero, ECDH, y UDP para descubrimiento local en Node.js&quot;.](https://www.reddit.com/r/javascript/comments/1uuteww/websocket_desde_cero_ecdh_y_udp_para/)
 - [P2P cifrada sin depender de npm ni infraestructura externa &lpar;WebSocket desde cero, ECDH, UDP&rpar;](https://www.reddit.com/r/javascript/comments/1uutbg4/p2p_cifrada_sin_depender_de_npm_ni/)
 - [I built KratosJS – an open-source admin framework for Node.js inspired by FilamentPHP](https://www.reddit.com/r/javascript/comments/1uui2p1/i_built_kratosjs_an_opensource_admin_framework/)
-- [[AskJS] Barrel files and slice/domain boundaries](https://www.reddit.com/r/javascript/comments/1uue00i/askjs_barrel_files_and_slicedomain_boundaries/)
-- [[AskJS] Building a SpiderMonkey-based JavaScript runtime to learn JS internals — what APIs are still missing from JS runtimes?](https://www.reddit.com/r/javascript/comments/1uucpxu/askjs_building_a_spidermonkeybased_javascript/)
-- [I need your vote: Padding Line Between Statements - ESLint Rule Currently Missing in Biome](https://www.reddit.com/r/javascript/comments/1uthidt/i_need_your_vote_padding_line_between_statements/)
-- [[AskJS] I might never write a constructor ever again](https://www.reddit.com/r/javascript/comments/1utfziv/askjs_i_might_never_write_a_constructor_ever_again/)
-- [Showoff Saturday &lpar;July 11, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1utcvux/showoff_saturday_july_11_2026/)
-- [[AskJS] most js changelogs don&#39;t survive being read aloud, which is how i noticed i wasn&#39;t reading them](https://www.reddit.com/r/javascript/comments/1ut5rmm/askjs_most_js_changelogs_dont_survive_being_read/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
