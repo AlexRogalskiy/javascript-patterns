@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I created a zero dependency JavaScript framework that is a React alternative](https://www.reddit.com/r/javascript/comments/1uvudcw/i_created_a_zero_dependency_javascript_framework/)
-- [PSA: The official jscrambler npm package was compromised &lpar;v8.14.0&rpar;](https://www.reddit.com/r/javascript/comments/1uvgbr0/psa_the_official_jscrambler_npm_package_was/)
-- [JavaScript Magic Objects](https://www.reddit.com/r/javascript/comments/1uvdhby/javascript_magic_objects/)
-- [The LinkedIn scam that gets you hacked - Solving a take-home interview test can quickly turn into a nightmare. Notes on developer trust, JavaScript malware, and autonomous detection](https://www.reddit.com/r/javascript/comments/1uvd2iv/the_linkedin_scam_that_gets_you_hacked_solving_a/)
-- [[Showoff] Zoomable Calendar Grids, On-Device Gemini Nano, and a Gothic Theme for Your Company&#39;s 13,000 Internal Apps](https://www.reddit.com/r/javascript/comments/1uvay9i/showoff_zoomable_calendar_grids_ondevice_gemini/)
-- [Your /r/javascript recap for the week of July 06 - July 12, 2026](https://www.reddit.com/r/javascript/comments/1uv682c/your_rjavascript_recap_for_the_week_of_july_06/)
-- [Why Vanilla JavaScript](https://www.reddit.com/r/javascript/comments/1uuu801/why_vanilla_javascript/)
-- [WebSocket desde cero, ECDH, y UDP para descubrimiento local en Node.js&quot;.](https://www.reddit.com/r/javascript/comments/1uuteww/websocket_desde_cero_ecdh_y_udp_para/)
-- [P2P cifrada sin depender de npm ni infraestructura externa &lpar;WebSocket desde cero, ECDH, UDP&rpar;](https://www.reddit.com/r/javascript/comments/1uutbg4/p2p_cifrada_sin_depender_de_npm_ni/)
-- [I built KratosJS – an open-source admin framework for Node.js inspired by FilamentPHP](https://www.reddit.com/r/javascript/comments/1uui2p1/i_built_kratosjs_an_opensource_admin_framework/)
+- [Why Meteor 3.5 Is the Most Important Release in Years](https://www.reddit.com/r/javascript/comments/1uwiwj1/why_meteor_35_is_the_most_important_release_in/)
+- [Pitter Patter — building better editing &lpar;update!&rpar;](https://www.reddit.com/r/javascript/comments/1uwfnun/pitter_patter_building_better_editing_update/)
+- [Nerve: Connecting Node.js to Rust, Go, and Python via local IPC](https://www.reddit.com/r/javascript/comments/1uwd2dv/nerve_connecting_nodejs_to_rust_go_and_python_via/)
+- [yace: highlight code or anything else as you type](https://www.reddit.com/r/javascript/comments/1uwccfq/yace_highlight_code_or_anything_else_as_you_type/)
+- [Awesome Vitest ‎](https://www.reddit.com/r/javascript/comments/1uwcced/awesome_vitest/)
+- [We rewrote our custom visualisation renderers from SVG to be in Canvas.](https://www.reddit.com/r/javascript/comments/1uwbvzm/we_rewrote_our_custom_visualisation_renderers/)
+- [Why design matters for a web framework: a 7-year evolution](https://www.reddit.com/r/javascript/comments/1uwbtyn/why_design_matters_for_a_web_framework_a_7year/)
+- [[AskJS] every github repo already exposes releases.atom, tags.atom, and commits.atom, so keeping up is a summarization problem not a feed problem](https://www.reddit.com/r/javascript/comments/1uwbozg/askjs_every_github_repo_already_exposes/)
+- [How to setup Conventional Commits in a JavaScript project: 2026 edition](https://www.reddit.com/r/javascript/comments/1uwa0qw/how_to_setup_conventional_commits_in_a_javascript/)
+- [I built an Excel library](https://www.reddit.com/r/javascript/comments/1uw1f9n/i_built_an_excel_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
