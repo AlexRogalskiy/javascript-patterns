@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Understanding Value vs. Reference in JavaScript: Differences Between Primitives and Objects](https://www.reddit.com/r/javascript/comments/1uxj8lc/understanding_value_vs_reference_in_javascript/)
+- [Firefox in WebAssembly!](https://www.reddit.com/r/javascript/comments/1uxiwgq/firefox_in_webassembly/)
+- [I compiled Apache Xerces-C &lpar;C++&rpar; to WebAssembly to bring proper XSD validation to JavaScript - try the playground](https://www.reddit.com/r/javascript/comments/1uxbuat/i_compiled_apache_xercesc_c_to_webassembly_to/)
+- [Building a modern Companies House SDK turned out to be a much more interesting problem than I expected](https://www.reddit.com/r/javascript/comments/1uxado1/building_a_modern_companies_house_sdk_turned_out/)
+- [Just Let Me Write Digits](https://www.reddit.com/r/javascript/comments/1uwynhp/just_let_me_write_digits/)
 - [Why Meteor 3.5 Is the Most Important Release in Years](https://www.reddit.com/r/javascript/comments/1uwiwj1/why_meteor_35_is_the_most_important_release_in/)
 - [Pitter Patter — building better editing &lpar;update!&rpar;](https://www.reddit.com/r/javascript/comments/1uwfnun/pitter_patter_building_better_editing_update/)
 - [Nerve: Connecting Node.js to Rust, Go, and Python via local IPC](https://www.reddit.com/r/javascript/comments/1uwd2dv/nerve_connecting_nodejs_to_rust_go_and_python_via/)
 - [yace: highlight code or anything else as you type](https://www.reddit.com/r/javascript/comments/1uwccfq/yace_highlight_code_or_anything_else_as_you_type/)
 - [Awesome Vitest ‎](https://www.reddit.com/r/javascript/comments/1uwcced/awesome_vitest/)
-- [We rewrote our custom visualisation renderers from SVG to be in Canvas.](https://www.reddit.com/r/javascript/comments/1uwbvzm/we_rewrote_our_custom_visualisation_renderers/)
-- [Why design matters for a web framework: a 7-year evolution](https://www.reddit.com/r/javascript/comments/1uwbtyn/why_design_matters_for_a_web_framework_a_7year/)
-- [[AskJS] every github repo already exposes releases.atom, tags.atom, and commits.atom, so keeping up is a summarization problem not a feed problem](https://www.reddit.com/r/javascript/comments/1uwbozg/askjs_every_github_repo_already_exposes/)
-- [How to setup Conventional Commits in a JavaScript project: 2026 edition](https://www.reddit.com/r/javascript/comments/1uwa0qw/how_to_setup_conventional_commits_in_a_javascript/)
-- [I built an Excel library](https://www.reddit.com/r/javascript/comments/1uw1f9n/i_built_an_excel_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
