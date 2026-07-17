@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Understanding Value vs. Reference in JavaScript: Differences Between Primitives and Objects](https://www.reddit.com/r/javascript/comments/1uxj8lc/understanding_value_vs_reference_in_javascript/)
-- [Firefox in WebAssembly!](https://www.reddit.com/r/javascript/comments/1uxiwgq/firefox_in_webassembly/)
-- [I compiled Apache Xerces-C &lpar;C++&rpar; to WebAssembly to bring proper XSD validation to JavaScript - try the playground](https://www.reddit.com/r/javascript/comments/1uxbuat/i_compiled_apache_xercesc_c_to_webassembly_to/)
-- [Building a modern Companies House SDK turned out to be a much more interesting problem than I expected](https://www.reddit.com/r/javascript/comments/1uxado1/building_a_modern_companies_house_sdk_turned_out/)
-- [Just Let Me Write Digits](https://www.reddit.com/r/javascript/comments/1uwynhp/just_let_me_write_digits/)
-- [Why Meteor 3.5 Is the Most Important Release in Years](https://www.reddit.com/r/javascript/comments/1uwiwj1/why_meteor_35_is_the_most_important_release_in/)
-- [Pitter Patter — building better editing &lpar;update!&rpar;](https://www.reddit.com/r/javascript/comments/1uwfnun/pitter_patter_building_better_editing_update/)
-- [Nerve: Connecting Node.js to Rust, Go, and Python via local IPC](https://www.reddit.com/r/javascript/comments/1uwd2dv/nerve_connecting_nodejs_to_rust_go_and_python_via/)
-- [yace: highlight code or anything else as you type](https://www.reddit.com/r/javascript/comments/1uwccfq/yace_highlight_code_or_anything_else_as_you_type/)
-- [Awesome Vitest ‎](https://www.reddit.com/r/javascript/comments/1uwcced/awesome_vitest/)
+- [GitHub - commandprompt/plx: PostgreSQL extension: write stored functions in Ruby, PHP, JavaScript, or Python dialects that transpile to plpgsql.](https://www.reddit.com/r/javascript/comments/1uygz6l/github_commandpromptplx_postgresql_extension/)
+- [easy-tz – A fast, 10KB, dependency-free getTimeZonesAt&lpar;timestamp&rpar;](https://www.reddit.com/r/javascript/comments/1uybn3a/easytz_a_fast_10kb_dependencyfree/)
+- [[AskJS] From Node Js to Java spring?????? 4.8 yrs EXP](https://www.reddit.com/r/javascript/comments/1uyacrm/askjs_from_node_js_to_java_spring_48_yrs_exp/)
+- [PDF engine from scratch on JS](https://www.reddit.com/r/javascript/comments/1uy71go/pdf_engine_from_scratch_on_js/)
+- [I built lottie.js – zero-dependency Lottie renderer for browser and Node.js](https://www.reddit.com/r/javascript/comments/1uy0w12/i_built_lottiejs_zerodependency_lottie_renderer/)
+- [Coaction 3.0 — a Zustand-style store where React renders need no selectors, computed getters cache themselves, and actions can run in Web Workers](https://www.reddit.com/r/javascript/comments/1uy0a6q/coaction_30_a_zustandstyle_store_where_react/)
+- [I created Skeletor, a modern persistence library based on Backbone&#39;s Models and Collections.](https://www.reddit.com/r/javascript/comments/1uxzm3y/i_created_skeletor_a_modern_persistence_library/)
+- [I stopped destructuring everything](https://www.reddit.com/r/javascript/comments/1uxy50l/i_stopped_destructuring_everything/)
+- [I made TTSX, a new TypeScript-Go Runner like legacy TS-NODE](https://www.reddit.com/r/javascript/comments/1uxxqni/i_made_ttsx_a_new_typescriptgo_runner_like_legacy/)
+- [[Showoff] Vercel Reinvents React Native, Sub-Second OTA Updates, and an X Button Finally Doing Its Job](https://www.reddit.com/r/javascript/comments/1uxwz5t/showoff_vercel_reinvents_react_native_subsecond/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
