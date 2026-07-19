@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [RestQL – GraphQL-like queries over REST, purely client-side: schema-driven mapping, batching, request dedup, caching](https://www.reddit.com/r/javascript/comments/1v0f6uf/restql_graphqllike_queries_over_rest_purely/)
+- [Typed and validate config for decoupled codebases in any JS runtime](https://www.reddit.com/r/javascript/comments/1v04bw5/typed_and_validate_config_for_decoupled_codebases/)
+- [Showoff Saturday &lpar;July 18, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1uzorve/showoff_saturday_july_18_2026/)
 - [I made TTSC, TS-NODE alternative in TS v7 as a toolchain. The toolchain even reduces Claude Code&#39;s token consumption about 90% by graph skill.](https://www.reddit.com/r/javascript/comments/1uzkes0/i_made_ttsc_tsnode_alternative_in_ts_v7_as_a/)
 - [TSRX in TanStack Start: what we like, and three bugs we filed](https://www.reddit.com/r/javascript/comments/1uyw741/tsrx_in_tanstack_start_what_we_like_and_three/)
 - [Collection of clocks made with JS](https://www.reddit.com/r/javascript/comments/1uys6z3/collection_of_clocks_made_with_js/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [GitHub - commandprompt/plx: PostgreSQL extension: write stored functions in Ruby, PHP, JavaScript, or Python dialects that transpile to plpgsql.](https://www.reddit.com/r/javascript/comments/1uygz6l/github_commandpromptplx_postgresql_extension/)
 - [easy-tz – A fast, 10KB, dependency-free getTimeZonesAt&lpar;timestamp&rpar;](https://www.reddit.com/r/javascript/comments/1uybn3a/easytz_a_fast_10kb_dependencyfree/)
 - [[AskJS] From Node Js to Java spring?????? 4.8 yrs EXP](https://www.reddit.com/r/javascript/comments/1uyacrm/askjs_from_node_js_to_java_spring_48_yrs_exp/)
-- [PDF engine from scratch on JS](https://www.reddit.com/r/javascript/comments/1uy71go/pdf_engine_from_scratch_on_js/)
-- [I built lottie.js – zero-dependency Lottie renderer for browser and Node.js](https://www.reddit.com/r/javascript/comments/1uy0w12/i_built_lottiejs_zerodependency_lottie_renderer/)
-- [Coaction 3.0 — a Zustand-style store where React renders need no selectors, computed getters cache themselves, and actions can run in Web Workers](https://www.reddit.com/r/javascript/comments/1uy0a6q/coaction_30_a_zustandstyle_store_where_react/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
