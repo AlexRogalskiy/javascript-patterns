@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Your Recursion Is Lying to You](https://www.reddit.com/r/javascript/comments/1v1be7h/your_recursion_is_lying_to_you/)
+- [GitHub - ArcadeMode/unplugin-dotnet-wasm: Seamless bundling of .NET Browser apps &lpar;WASM&rpar; into your JS projects](https://www.reddit.com/r/javascript/comments/1v0zrav/github_arcademodeunplugindotnetwasm_seamless/)
+- [GitHub - sysmaya/AI-Image-Colorizer: Colorize old photos instantly with AI. 100% JavaScript, ONNX running in the browser](https://www.reddit.com/r/javascript/comments/1v0zdxe/github_sysmayaaiimagecolorizer_colorize_old/)
+- [GitHub - sysmaya/AI-Image-Colorizer: Colorize old photos instantly with AI. 100% JavaScript, ONNX running in the browser](https://www.reddit.com/r/javascript/comments/1v0zdjd/github_sysmayaaiimagecolorizer_colorize_old/)
+- [Made a Vector heavily inspired by C++&#39;s std::vector, not like a stub or a gimmick.](https://www.reddit.com/r/javascript/comments/1v0xqda/made_a_vector_heavily_inspired_by_cs_stdvector/)
+- [LIA - Open Source - Personal Assistant - Self hostable on Raspberry Pi 5](https://www.reddit.com/r/javascript/comments/1v0tqt4/lia_open_source_personal_assistant_self_hostable/)
+- [Vue 3.6 just entered RC stage](https://www.reddit.com/r/javascript/comments/1v0sebi/vue_36_just_entered_rc_stage/)
+- [I coded a 60fps browser game from scratch in single-file Vanilla JS, mapping Upanishadic philosophy to state variables. No frameworks.](https://www.reddit.com/r/javascript/comments/1v0n6jg/i_coded_a_60fps_browser_game_from_scratch_in/)
 - [RestQL – GraphQL-like queries over REST, purely client-side: schema-driven mapping, batching, request dedup, caching](https://www.reddit.com/r/javascript/comments/1v0f6uf/restql_graphqllike_queries_over_rest_purely/)
 - [Typed and validate config for decoupled codebases in any JS runtime](https://www.reddit.com/r/javascript/comments/1v04bw5/typed_and_validate_config_for_decoupled_codebases/)
-- [Showoff Saturday &lpar;July 18, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1uzorve/showoff_saturday_july_18_2026/)
-- [I made TTSC, TS-NODE alternative in TS v7 as a toolchain. The toolchain even reduces Claude Code&#39;s token consumption about 90% by graph skill.](https://www.reddit.com/r/javascript/comments/1uzkes0/i_made_ttsc_tsnode_alternative_in_ts_v7_as_a/)
-- [TSRX in TanStack Start: what we like, and three bugs we filed](https://www.reddit.com/r/javascript/comments/1uyw741/tsrx_in_tanstack_start_what_we_like_and_three/)
-- [Collection of clocks made with JS](https://www.reddit.com/r/javascript/comments/1uys6z3/collection_of_clocks_made_with_js/)
-- [The same app built in 10 different frontend frameworks. For automated performance benchmarking](https://www.reddit.com/r/javascript/comments/1uyrkft/the_same_app_built_in_10_different_frontend/)
-- [GitHub - commandprompt/plx: PostgreSQL extension: write stored functions in Ruby, PHP, JavaScript, or Python dialects that transpile to plpgsql.](https://www.reddit.com/r/javascript/comments/1uygz6l/github_commandpromptplx_postgresql_extension/)
-- [easy-tz – A fast, 10KB, dependency-free getTimeZonesAt&lpar;timestamp&rpar;](https://www.reddit.com/r/javascript/comments/1uybn3a/easytz_a_fast_10kb_dependencyfree/)
-- [[AskJS] From Node Js to Java spring?????? 4.8 yrs EXP](https://www.reddit.com/r/javascript/comments/1uyacrm/askjs_from_node_js_to_java_spring_48_yrs_exp/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
