@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I made zero-allocation FAST s3-fifo cache package&lpar;would love to get feedback!&rpar;](https://www.reddit.com/r/javascript/comments/1v23vlx/i_made_zeroallocation_fast_s3fifo_cache/)
+- [GitHub - sysmaya/Javascript-Image-Background-Remover: I promise not to write any more stupid things.](https://www.reddit.com/r/javascript/comments/1v1zm1d/github_sysmayajavascriptimagebackgroundremover_i/)
+- [The TypeScript patterns that made the biggest difference after moving from JavaScript](https://www.reddit.com/r/javascript/comments/1v1i8rj/the_typescript_patterns_that_made_the_biggest/)
+- [Your /r/javascript recap for the week of July 13 - July 19, 2026](https://www.reddit.com/r/javascript/comments/1v1g8ww/your_rjavascript_recap_for_the_week_of_july_13/)
+- [I built a browser-only video auto-editor using optical flow and Chrome’s built-in AI](https://www.reddit.com/r/javascript/comments/1v1cyhk/i_built_a_browseronly_video_autoeditor_using/)
 - [Your Recursion Is Lying to You](https://www.reddit.com/r/javascript/comments/1v1be7h/your_recursion_is_lying_to_you/)
 - [GitHub - ArcadeMode/unplugin-dotnet-wasm: Seamless bundling of .NET Browser apps &lpar;WASM&rpar; into your JS projects](https://www.reddit.com/r/javascript/comments/1v0zrav/github_arcademodeunplugindotnetwasm_seamless/)
 - [GitHub - sysmaya/AI-Image-Colorizer: Colorize old photos instantly with AI. 100% JavaScript, ONNX running in the browser](https://www.reddit.com/r/javascript/comments/1v0zdxe/github_sysmayaaiimagecolorizer_colorize_old/)
 - [GitHub - sysmaya/AI-Image-Colorizer: Colorize old photos instantly with AI. 100% JavaScript, ONNX running in the browser](https://www.reddit.com/r/javascript/comments/1v0zdjd/github_sysmayaaiimagecolorizer_colorize_old/)
 - [Made a Vector heavily inspired by C++&#39;s std::vector, not like a stub or a gimmick.](https://www.reddit.com/r/javascript/comments/1v0xqda/made_a_vector_heavily_inspired_by_cs_stdvector/)
-- [LIA - Open Source - Personal Assistant - Self hostable on Raspberry Pi 5](https://www.reddit.com/r/javascript/comments/1v0tqt4/lia_open_source_personal_assistant_self_hostable/)
-- [Vue 3.6 just entered RC stage](https://www.reddit.com/r/javascript/comments/1v0sebi/vue_36_just_entered_rc_stage/)
-- [I coded a 60fps browser game from scratch in single-file Vanilla JS, mapping Upanishadic philosophy to state variables. No frameworks.](https://www.reddit.com/r/javascript/comments/1v0n6jg/i_coded_a_60fps_browser_game_from_scratch_in/)
-- [RestQL – GraphQL-like queries over REST, purely client-side: schema-driven mapping, batching, request dedup, caching](https://www.reddit.com/r/javascript/comments/1v0f6uf/restql_graphqllike_queries_over_rest_purely/)
-- [Typed and validate config for decoupled codebases in any JS runtime](https://www.reddit.com/r/javascript/comments/1v04bw5/typed_and_validate_config_for_decoupled_codebases/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
