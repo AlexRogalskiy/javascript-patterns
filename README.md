@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I cut my build time from 4:34 min to 1:08 min by moving asset compression from node:zlib to a native Rust rolldown plugin](https://www.reddit.com/r/javascript/comments/1v2qqq4/i_cut_my_build_time_from_434_min_to_108_min_by/)
+- [Your JS Date Is Lying to You: parsing ambiguity, silent mutation, timezone traps, and how Temporal fixes most of them](https://www.reddit.com/r/javascript/comments/1v2ooro/your_js_date_is_lying_to_you_parsing_ambiguity/)
+- [Modyra 0.3.0 is here](https://www.reddit.com/r/javascript/comments/1v2o0mf/modyra_030_is_here/)
 - [I made zero-allocation FAST s3-fifo cache package&lpar;would love to get feedback!&rpar;](https://www.reddit.com/r/javascript/comments/1v23vlx/i_made_zeroallocation_fast_s3fifo_cache/)
 - [GitHub - sysmaya/Javascript-Image-Background-Remover: I promise not to write any more stupid things.](https://www.reddit.com/r/javascript/comments/1v1zm1d/github_sysmayajavascriptimagebackgroundremover_i/)
 - [The TypeScript patterns that made the biggest difference after moving from JavaScript](https://www.reddit.com/r/javascript/comments/1v1i8rj/the_typescript_patterns_that_made_the_biggest/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [I built a browser-only video auto-editor using optical flow and Chrome’s built-in AI](https://www.reddit.com/r/javascript/comments/1v1cyhk/i_built_a_browseronly_video_autoeditor_using/)
 - [Your Recursion Is Lying to You](https://www.reddit.com/r/javascript/comments/1v1be7h/your_recursion_is_lying_to_you/)
 - [GitHub - ArcadeMode/unplugin-dotnet-wasm: Seamless bundling of .NET Browser apps &lpar;WASM&rpar; into your JS projects](https://www.reddit.com/r/javascript/comments/1v0zrav/github_arcademodeunplugindotnetwasm_seamless/)
-- [GitHub - sysmaya/AI-Image-Colorizer: Colorize old photos instantly with AI. 100% JavaScript, ONNX running in the browser](https://www.reddit.com/r/javascript/comments/1v0zdxe/github_sysmayaaiimagecolorizer_colorize_old/)
-- [GitHub - sysmaya/AI-Image-Colorizer: Colorize old photos instantly with AI. 100% JavaScript, ONNX running in the browser](https://www.reddit.com/r/javascript/comments/1v0zdjd/github_sysmayaaiimagecolorizer_colorize_old/)
-- [Made a Vector heavily inspired by C++&#39;s std::vector, not like a stub or a gimmick.](https://www.reddit.com/r/javascript/comments/1v0xqda/made_a_vector_heavily_inspired_by_cs_stdvector/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
