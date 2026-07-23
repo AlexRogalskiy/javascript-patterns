@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Built a modern restaurant website with React, TypeScript &amp; Vite — feedback welcome](https://www.reddit.com/r/javascript/comments/1v3m7ts/built_a_modern_restaurant_website_with_react/)
+- [Angular is moving to a yearly major version release cycle](https://www.reddit.com/r/javascript/comments/1v3hrca/angular_is_moving_to_a_yearly_major_version/)
+- [[Showoff] Blue Checkmark Coding Agents, Simulated DoorDash Orders, and a Cyberpunk Wizard of Oz](https://www.reddit.com/r/javascript/comments/1v3gpdu/showoff_blue_checkmark_coding_agents_simulated/)
+- [Travels 2.1 - Efficient framework-agnostic undo/redo library based on JSON patches rather than snapshots.](https://www.reddit.com/r/javascript/comments/1v3fu86/travels_21_efficient_frameworkagnostic_undoredo/)
+- [color-space v3: 162 color spaces, one small API, values that match CSS, verified](https://www.reddit.com/r/javascript/comments/1v3fgbz/colorspace_v3_162_color_spaces_one_small_api/)
+- [[AskJS] what&#39;s a javascript feature you mass-adopted way too late and felt dumb about](https://www.reddit.com/r/javascript/comments/1v3e7eb/askjs_whats_a_javascript_feature_you_massadopted/)
+- [July 2026 Security Release](https://www.reddit.com/r/javascript/comments/1v39knv/july_2026_security_release/)
 - [I cut my build time from 4:34 min to 1:08 min by moving asset compression from node:zlib to a native Rust rolldown plugin](https://www.reddit.com/r/javascript/comments/1v2qqq4/i_cut_my_build_time_from_434_min_to_108_min_by/)
 - [Your JS Date Is Lying to You: parsing ambiguity, silent mutation, timezone traps, and how Temporal fixes most of them](https://www.reddit.com/r/javascript/comments/1v2ooro/your_js_date_is_lying_to_you_parsing_ambiguity/)
 - [Modyra 0.3.0 is here](https://www.reddit.com/r/javascript/comments/1v2o0mf/modyra_030_is_here/)
-- [I made zero-allocation FAST s3-fifo cache package&lpar;would love to get feedback!&rpar;](https://www.reddit.com/r/javascript/comments/1v23vlx/i_made_zeroallocation_fast_s3fifo_cache/)
-- [GitHub - sysmaya/Javascript-Image-Background-Remover: I promise not to write any more stupid things.](https://www.reddit.com/r/javascript/comments/1v1zm1d/github_sysmayajavascriptimagebackgroundremover_i/)
-- [The TypeScript patterns that made the biggest difference after moving from JavaScript](https://www.reddit.com/r/javascript/comments/1v1i8rj/the_typescript_patterns_that_made_the_biggest/)
-- [Your /r/javascript recap for the week of July 13 - July 19, 2026](https://www.reddit.com/r/javascript/comments/1v1g8ww/your_rjavascript_recap_for_the_week_of_july_13/)
-- [I built a browser-only video auto-editor using optical flow and Chrome’s built-in AI](https://www.reddit.com/r/javascript/comments/1v1cyhk/i_built_a_browseronly_video_autoeditor_using/)
-- [Your Recursion Is Lying to You](https://www.reddit.com/r/javascript/comments/1v1be7h/your_recursion_is_lying_to_you/)
-- [GitHub - ArcadeMode/unplugin-dotnet-wasm: Seamless bundling of .NET Browser apps &lpar;WASM&rpar; into your JS projects](https://www.reddit.com/r/javascript/comments/1v0zrav/github_arcademodeunplugindotnetwasm_seamless/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
