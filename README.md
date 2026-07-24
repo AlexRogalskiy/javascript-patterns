@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [pacwich: Monorepo tooling for Bun/pnpm/npm workspaces &lpar;zero-config required, both a CLI and TypeScript library, orchestrates plain package.json scripts, has an affected graph, docs tailored for agents and people, has a browser CLI demo, and more&rpar;](https://www.reddit.com/r/javascript/comments/1v4mj0j/pacwich_monorepo_tooling_for_bunpnpmnpm/)
+- [ui-date: A 1.6kB, zero-dependency JavaScript date &amp; relative time utility](https://www.reddit.com/r/javascript/comments/1v4h2t4/uidate_a_16kb_zerodependency_javascript_date/)
+- [Posecode: an open source TypeScript parser and Three.js renderer for human movement](https://www.reddit.com/r/javascript/comments/1v4emcw/posecode_an_open_source_typescript_parser_and/)
+- [50+ ESLint rules for package.json](https://www.reddit.com/r/javascript/comments/1v4djwc/50_eslint_rules_for_packagejson/)
+- [An approach to testing web animations, css transitions with visual regression testing](https://www.reddit.com/r/javascript/comments/1v4d6km/an_approach_to_testing_web_animations_css/)
+- [I spent two years building Nano Kit - a nanostores-inspired state management ecosystem. It just hit 1.0](https://www.reddit.com/r/javascript/comments/1v4cvnx/i_spent_two_years_building_nano_kit_a/)
 - [Built a modern restaurant website with React, TypeScript &amp; Vite — feedback welcome](https://www.reddit.com/r/javascript/comments/1v3m7ts/built_a_modern_restaurant_website_with_react/)
 - [Angular is moving to a yearly major version release cycle](https://www.reddit.com/r/javascript/comments/1v3hrca/angular_is_moving_to_a_yearly_major_version/)
 - [[Showoff] Blue Checkmark Coding Agents, Simulated DoorDash Orders, and a Cyberpunk Wizard of Oz](https://www.reddit.com/r/javascript/comments/1v3gpdu/showoff_blue_checkmark_coding_agents_simulated/)
 - [Travels 2.1 - Efficient framework-agnostic undo/redo library based on JSON patches rather than snapshots.](https://www.reddit.com/r/javascript/comments/1v3fu86/travels_21_efficient_frameworkagnostic_undoredo/)
-- [color-space v3: 162 color spaces, one small API, values that match CSS, verified](https://www.reddit.com/r/javascript/comments/1v3fgbz/colorspace_v3_162_color_spaces_one_small_api/)
-- [[AskJS] what&#39;s a javascript feature you mass-adopted way too late and felt dumb about](https://www.reddit.com/r/javascript/comments/1v3e7eb/askjs_whats_a_javascript_feature_you_massadopted/)
-- [July 2026 Security Release](https://www.reddit.com/r/javascript/comments/1v39knv/july_2026_security_release/)
-- [I cut my build time from 4:34 min to 1:08 min by moving asset compression from node:zlib to a native Rust rolldown plugin](https://www.reddit.com/r/javascript/comments/1v2qqq4/i_cut_my_build_time_from_434_min_to_108_min_by/)
-- [Your JS Date Is Lying to You: parsing ambiguity, silent mutation, timezone traps, and how Temporal fixes most of them](https://www.reddit.com/r/javascript/comments/1v2ooro/your_js_date_is_lying_to_you_parsing_ambiguity/)
-- [Modyra 0.3.0 is here](https://www.reddit.com/r/javascript/comments/1v2o0mf/modyra_030_is_here/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
