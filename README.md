@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [GitHub - gchumillas/usignals: A tiny, dependency-free reactive signals library for JavaScript/TypeScript.](https://www.reddit.com/r/javascript/comments/1v6nahs/github_gchumillasusignals_a_tiny_dependencyfree/)
+- [Fluux Messenger 0.17.2: gapless history, faster transfers, and emoji autocomplete](https://www.reddit.com/r/javascript/comments/1v6jc5e/fluux_messenger_0172_gapless_history_faster/)
+- [StropheJS 5.0.0 &lpar;2026-07-21&rpar; · strophe/strophejs](https://www.reddit.com/r/javascript/comments/1v6j4cp/strophejs_500_20260721_strophestrophejs/)
+- [I built KD Screen Guard: A zero-dependency, tamper-resistant lock screen overlay with WebAuthn biometrics &amp; intruder camera capture](https://www.reddit.com/r/javascript/comments/1v6fja1/i_built_kd_screen_guard_a_zerodependency/)
+- [Showoff Saturday &lpar;July 25, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1v610q4/showoff_saturday_july_25_2026/)
 - [Targetjs: Transition is the state and not just glued on after](https://www.reddit.com/r/javascript/comments/1v5f97v/targetjs_transition_is_the_state_and_not_just/)
 - [ECMAScript - Introducing Deferred Module Evaluation with import defer](https://www.reddit.com/r/javascript/comments/1v59ebr/ecmascript_introducing_deferred_module_evaluation/)
 - [Akan.js: Full-stack Typescript framework that ships web, iOS, Android, server, and database together.](https://www.reddit.com/r/javascript/comments/1v59ccc/akanjs_fullstack_typescript_framework_that_ships/)
 - [GitHub - openHacking/pptkit: Modern presentation generation toolkit for JavaScript.](https://www.reddit.com/r/javascript/comments/1v51g7r/github_openhackingpptkit_modern_presentation/)
 - [pacwich: Monorepo tooling for Bun/pnpm/npm workspaces &lpar;zero-config required, both a CLI and TypeScript library, orchestrates plain package.json scripts, has an affected graph, docs tailored for agents and people, has a browser CLI demo, and more&rpar;](https://www.reddit.com/r/javascript/comments/1v4mj0j/pacwich_monorepo_tooling_for_bunpnpmnpm/)
-- [ui-date: A 1.6kB, zero-dependency JavaScript date &amp; relative time utility](https://www.reddit.com/r/javascript/comments/1v4h2t4/uidate_a_16kb_zerodependency_javascript_date/)
-- [Posecode: an open source TypeScript parser and Three.js renderer for human movement](https://www.reddit.com/r/javascript/comments/1v4emcw/posecode_an_open_source_typescript_parser_and/)
-- [50+ ESLint rules for package.json](https://www.reddit.com/r/javascript/comments/1v4djwc/50_eslint_rules_for_packagejson/)
-- [An approach to testing web animations, css transitions with visual regression testing](https://www.reddit.com/r/javascript/comments/1v4d6km/an_approach_to_testing_web_animations_css/)
-- [I spent two years building Nano Kit - a nanostores-inspired state management ecosystem. It just hit 1.0](https://www.reddit.com/r/javascript/comments/1v4cvnx/i_spent_two_years_building_nano_kit_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
