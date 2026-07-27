@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I spent over a year building a framework-agnostic virtual scrolling engine with an index-based architecture. I’d love feedback from developers who’ve built virtualization systems.](https://www.reddit.com/r/javascript/comments/1v7jvaz/i_spent_over_a_year_building_a_frameworkagnostic/)
+- [I&#39;ve been building a CAD library in TypeScript. Code goes in, an STL or STEP file comes out](https://www.reddit.com/r/javascript/comments/1v7dwnp/ive_been_building_a_cad_library_in_typescript/)
+- [Mousecrack: Human mouse imitation with deep learning.](https://www.reddit.com/r/javascript/comments/1v7cu3u/mousecrack_human_mouse_imitation_with_deep/)
 - [GitHub - gchumillas/usignals: A tiny, dependency-free reactive signals library for JavaScript/TypeScript.](https://www.reddit.com/r/javascript/comments/1v6nahs/github_gchumillasusignals_a_tiny_dependencyfree/)
 - [Fluux Messenger 0.17.2: gapless history, faster transfers, and emoji autocomplete](https://www.reddit.com/r/javascript/comments/1v6jc5e/fluux_messenger_0172_gapless_history_faster/)
 - [StropheJS 5.0.0 &lpar;2026-07-21&rpar; · strophe/strophejs](https://www.reddit.com/r/javascript/comments/1v6j4cp/strophejs_500_20260721_strophestrophejs/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Showoff Saturday &lpar;July 25, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1v610q4/showoff_saturday_july_25_2026/)
 - [Targetjs: Transition is the state and not just glued on after](https://www.reddit.com/r/javascript/comments/1v5f97v/targetjs_transition_is_the_state_and_not_just/)
 - [ECMAScript - Introducing Deferred Module Evaluation with import defer](https://www.reddit.com/r/javascript/comments/1v59ebr/ecmascript_introducing_deferred_module_evaluation/)
-- [Akan.js: Full-stack Typescript framework that ships web, iOS, Android, server, and database together.](https://www.reddit.com/r/javascript/comments/1v59ccc/akanjs_fullstack_typescript_framework_that_ships/)
-- [GitHub - openHacking/pptkit: Modern presentation generation toolkit for JavaScript.](https://www.reddit.com/r/javascript/comments/1v51g7r/github_openhackingpptkit_modern_presentation/)
-- [pacwich: Monorepo tooling for Bun/pnpm/npm workspaces &lpar;zero-config required, both a CLI and TypeScript library, orchestrates plain package.json scripts, has an affected graph, docs tailored for agents and people, has a browser CLI demo, and more&rpar;](https://www.reddit.com/r/javascript/comments/1v4mj0j/pacwich_monorepo_tooling_for_bunpnpmnpm/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
