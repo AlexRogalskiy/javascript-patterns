@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I spent over a year building a framework-agnostic virtual scrolling engine with an index-based architecture. I’d love feedback from developers who’ve built virtualization systems.](https://www.reddit.com/r/javascript/comments/1v7jvaz/i_spent_over_a_year_building_a_frameworkagnostic/)
-- [I&#39;ve been building a CAD library in TypeScript. Code goes in, an STL or STEP file comes out](https://www.reddit.com/r/javascript/comments/1v7dwnp/ive_been_building_a_cad_library_in_typescript/)
-- [Mousecrack: Human mouse imitation with deep learning.](https://www.reddit.com/r/javascript/comments/1v7cu3u/mousecrack_human_mouse_imitation_with_deep/)
-- [GitHub - gchumillas/usignals: A tiny, dependency-free reactive signals library for JavaScript/TypeScript.](https://www.reddit.com/r/javascript/comments/1v6nahs/github_gchumillasusignals_a_tiny_dependencyfree/)
-- [Fluux Messenger 0.17.2: gapless history, faster transfers, and emoji autocomplete](https://www.reddit.com/r/javascript/comments/1v6jc5e/fluux_messenger_0172_gapless_history_faster/)
-- [StropheJS 5.0.0 &lpar;2026-07-21&rpar; · strophe/strophejs](https://www.reddit.com/r/javascript/comments/1v6j4cp/strophejs_500_20260721_strophestrophejs/)
-- [I built KD Screen Guard: A zero-dependency, tamper-resistant lock screen overlay with WebAuthn biometrics &amp; intruder camera capture](https://www.reddit.com/r/javascript/comments/1v6fja1/i_built_kd_screen_guard_a_zerodependency/)
-- [Showoff Saturday &lpar;July 25, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1v610q4/showoff_saturday_july_25_2026/)
-- [Targetjs: Transition is the state and not just glued on after](https://www.reddit.com/r/javascript/comments/1v5f97v/targetjs_transition_is_the_state_and_not_just/)
-- [ECMAScript - Introducing Deferred Module Evaluation with import defer](https://www.reddit.com/r/javascript/comments/1v59ebr/ecmascript_introducing_deferred_module_evaluation/)
+- [[AskJS] Did anyone else move away from TypeScript and feel like it was obviously the right call?](https://www.reddit.com/r/javascript/comments/1urpnc2/askjs_did_anyone_else_move_away_from_typescript/)
+- [Ship a cookie banner and privacy policy in your Wasp app](https://www.reddit.com/r/javascript/comments/1ur6gvt/ship_a_cookie_banner_and_privacy_policy_in_your/)
+- [What&#39;s the best way to do store auth tokens](https://www.reddit.com/r/javascript/comments/1uqxw72/whats_the_best_way_to_do_store_auth_tokens/)
+- [Javascript TUI Network Throughput Inspection](https://www.reddit.com/r/javascript/comments/1uqvyuk/javascript_tui_network_throughput_inspection/)
+- [I built a JS/TS Web SDK for AI Agent to handle frontend-to-kernel streaming](https://www.reddit.com/r/javascript/comments/1uqtv3a/i_built_a_jsts_web_sdk_for_ai_agent_to_handle/)
+- [I wrote a quick tutorial on detecting visitor country + currency in vanilla JS &lpar;no backend, no API key&rpar;](https://www.reddit.com/r/javascript/comments/1uqqtz8/i_wrote_a_quick_tutorial_on_detecting_visitor/)
+- [How do we make coding agents write good code?](https://www.reddit.com/r/javascript/comments/1uqn3t7/how_do_we_make_coding_agents_write_good_code/)
+- [Browser based AI algorithm](https://www.reddit.com/r/javascript/comments/1uqa1be/browser_based_ai_algorithm/)
+- [80+ ESLint rules for improving your Node.js tests](https://www.reddit.com/r/javascript/comments/1upst2e/80_eslint_rules_for_improving_your_nodejs_tests/)
+- [Nameless Drive: A self hosted storage](https://www.reddit.com/r/javascript/comments/1up2wnu/nameless_drive_a_self_hosted_storage/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
