@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[AskJS] Did anyone else move away from TypeScript and feel like it was obviously the right call?](https://www.reddit.com/r/javascript/comments/1urpnc2/askjs_did_anyone_else_move_away_from_typescript/)
-- [Ship a cookie banner and privacy policy in your Wasp app](https://www.reddit.com/r/javascript/comments/1ur6gvt/ship_a_cookie_banner_and_privacy_policy_in_your/)
-- [What&#39;s the best way to do store auth tokens](https://www.reddit.com/r/javascript/comments/1uqxw72/whats_the_best_way_to_do_store_auth_tokens/)
-- [Javascript TUI Network Throughput Inspection](https://www.reddit.com/r/javascript/comments/1uqvyuk/javascript_tui_network_throughput_inspection/)
-- [I built a JS/TS Web SDK for AI Agent to handle frontend-to-kernel streaming](https://www.reddit.com/r/javascript/comments/1uqtv3a/i_built_a_jsts_web_sdk_for_ai_agent_to_handle/)
-- [I wrote a quick tutorial on detecting visitor country + currency in vanilla JS &lpar;no backend, no API key&rpar;](https://www.reddit.com/r/javascript/comments/1uqqtz8/i_wrote_a_quick_tutorial_on_detecting_visitor/)
-- [How do we make coding agents write good code?](https://www.reddit.com/r/javascript/comments/1uqn3t7/how_do_we_make_coding_agents_write_good_code/)
-- [Browser based AI algorithm](https://www.reddit.com/r/javascript/comments/1uqa1be/browser_based_ai_algorithm/)
-- [80+ ESLint rules for improving your Node.js tests](https://www.reddit.com/r/javascript/comments/1upst2e/80_eslint_rules_for_improving_your_nodejs_tests/)
-- [Nameless Drive: A self hosted storage](https://www.reddit.com/r/javascript/comments/1up2wnu/nameless_drive_a_self_hosted_storage/)
+- [Spent weeks manually forwarding files on Telegram, so I built an open-source bot to automate it](https://www.reddit.com/r/javascript/comments/1v9imzj/spent_weeks_manually_forwarding_files_on_telegram/)
+- [[AskJS] Book Recommendations: JS -&gt; React -&gt; TypeScript](https://www.reddit.com/r/javascript/comments/1v8xeau/askjs_book_recommendations_js_react_typescript/)
+- [KernelPlay-JS v0.4.0 Coming Soon — New UI System and Official Beta Release](https://www.reddit.com/r/javascript/comments/1v8r30c/kernelplayjs_v040_coming_soon_new_ui_system_and/)
+- [IA for Escargot MSN &lpar;PT-BR&rpar;](https://www.reddit.com/r/javascript/comments/1v8oydr/ia_for_escargot_msn_ptbr/)
+- [Dynamic Windows Runtime API projections for Node.js](https://www.reddit.com/r/javascript/comments/1v8n1bi/dynamic_windows_runtime_api_projections_for_nodejs/)
+- [Announcing Ada v4: Validating 35.6M URLs per second](https://www.reddit.com/r/javascript/comments/1v8hzc4/announcing_ada_v4_validating_356m_urls_per_second/)
+- [Ember 7.1 Released](https://www.reddit.com/r/javascript/comments/1v866of/ember_71_released/)
+- [Malicious sites use JavaScript to build malware in browser memory](https://www.reddit.com/r/javascript/comments/1v820hs/malicious_sites_use_javascript_to_build_malware/)
+- [Nubjs - A fast all-in-one toolkit that augments Node.js instead of replacing it](https://www.reddit.com/r/javascript/comments/1v7vfoi/nubjs_a_fast_allinone_toolkit_that_augments/)
+- [Your /r/javascript recap for the week of July 20 - July 26, 2026](https://www.reddit.com/r/javascript/comments/1v7uzkp/your_rjavascript_recap_for_the_week_of_july_20/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
