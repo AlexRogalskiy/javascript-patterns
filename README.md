@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [We ran the same PDF operations inside real Chromium, Firefox and WebKit — WebKit was 2.4× faster than Chrome at some of them. Full reproducible harness &lpar;MIT&rpar;.](https://www.reddit.com/r/javascript/comments/1vb2w9g/we_ran_the_same_pdf_operations_inside_real/)
+- [LogTape 2.3.0: Scoped configuration, failure-only test logs, and GraphQL Yoga](https://www.reddit.com/r/javascript/comments/1vap1wr/logtape_230_scoped_configuration_failureonly_test/)
 - [Typed HTTP client inferred from your route definitions &lpar;Deno&rpar;](https://www.reddit.com/r/javascript/comments/1vaczpy/typed_http_client_inferred_from_your_route/)
 - [Reuse libraries, or let your AI reinvent the wheel?... We think the age of libraries is coming.](https://www.reddit.com/r/javascript/comments/1v9x3fb/reuse_libraries_or_let_your_ai_reinvent_the_wheel/)
 - [I&#39;ve made an open source JavaScript playground with support for npm packages, syntax highlighting, autocomplete, code sharing and much more!](https://www.reddit.com/r/javascript/comments/1v9vwkv/ive_made_an_open_source_javascript_playground/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Spent weeks manually forwarding files on Telegram, so I built an open-source bot to automate it](https://www.reddit.com/r/javascript/comments/1v9imzj/spent_weeks_manually_forwarding_files_on_telegram/)
 - [[AskJS] Book Recommendations: JS -&gt; React -&gt; TypeScript](https://www.reddit.com/r/javascript/comments/1v8xeau/askjs_book_recommendations_js_react_typescript/)
 - [KernelPlay-JS v0.4.0 Coming Soon — New UI System and Official Beta Release](https://www.reddit.com/r/javascript/comments/1v8r30c/kernelplayjs_v040_coming_soon_new_ui_system_and/)
-- [Dynamic Windows Runtime API projections for Node.js](https://www.reddit.com/r/javascript/comments/1v8n1bi/dynamic_windows_runtime_api_projections_for_nodejs/)
-- [Announcing Ada v4: Validating 35.6M URLs per second](https://www.reddit.com/r/javascript/comments/1v8hzc4/announcing_ada_v4_validating_356m_urls_per_second/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
