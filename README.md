@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I built a 50+ component mobile UI library for Solid.js — inspired by Vant, looking for feedback](https://www.reddit.com/r/javascript/comments/1vc69he/i_built_a_50_component_mobile_ui_library_for/)
+- [A reactivity and rendering &lpar;combined&rpar; benchmark for frontend frameworks](https://www.reddit.com/r/javascript/comments/1vc605e/a_reactivity_and_rendering_combined_benchmark_for/)
+- [[AskJS] FOSS mini games](https://www.reddit.com/r/javascript/comments/1vby7nf/askjs_foss_mini_games/)
+- [[AskJS] Dubbio veloce di architettura/stile con le classi JS](https://www.reddit.com/r/javascript/comments/1vbxpic/askjs_dubbio_veloce_di_architetturastile_con_le/)
+- [Canvas Path Animations using SVG](https://www.reddit.com/r/javascript/comments/1vbopmg/canvas_path_animations_using_svg/)
 - [We ran the same PDF operations inside real Chromium, Firefox and WebKit — WebKit was 2.4× faster than Chrome at some of them. Full reproducible harness &lpar;MIT&rpar;.](https://www.reddit.com/r/javascript/comments/1vb2w9g/we_ran_the_same_pdf_operations_inside_real/)
 - [LogTape 2.3.0: Scoped configuration, failure-only test logs, and GraphQL Yoga](https://www.reddit.com/r/javascript/comments/1vap1wr/logtape_230_scoped_configuration_failureonly_test/)
 - [Typed HTTP client inferred from your route definitions &lpar;Deno&rpar;](https://www.reddit.com/r/javascript/comments/1vaczpy/typed_http_client_inferred_from_your_route/)
 - [Reuse libraries, or let your AI reinvent the wheel?... We think the age of libraries is coming.](https://www.reddit.com/r/javascript/comments/1v9x3fb/reuse_libraries_or_let_your_ai_reinvent_the_wheel/)
 - [I&#39;ve made an open source JavaScript playground with support for npm packages, syntax highlighting, autocomplete, code sharing and much more!](https://www.reddit.com/r/javascript/comments/1v9vwkv/ive_made_an_open_source_javascript_playground/)
-- [Transform raw github data into an interactive map with gitcharta](https://www.reddit.com/r/javascript/comments/1v9pnqk/transform_raw_github_data_into_an_interactive_map/)
-- [Mousecrack - Bypass agent cursor detection with deep learning.](https://www.reddit.com/r/javascript/comments/1v9mx2d/mousecrack_bypass_agent_cursor_detection_with/)
-- [Spent weeks manually forwarding files on Telegram, so I built an open-source bot to automate it](https://www.reddit.com/r/javascript/comments/1v9imzj/spent_weeks_manually_forwarding_files_on_telegram/)
-- [[AskJS] Book Recommendations: JS -&gt; React -&gt; TypeScript](https://www.reddit.com/r/javascript/comments/1v8xeau/askjs_book_recommendations_js_react_typescript/)
-- [KernelPlay-JS v0.4.0 Coming Soon — New UI System and Official Beta Release](https://www.reddit.com/r/javascript/comments/1v8r30c/kernelplayjs_v040_coming_soon_new_ui_system_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
