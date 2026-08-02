@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Run webpage on iphone](https://www.reddit.com/r/javascript/comments/1vctzcs/askjs_run_webpage_on_iphone/)
+- [[AskJS] how are you handling autocomplete on top of elasticsearch?](https://www.reddit.com/r/javascript/comments/1vct72c/askjs_how_are_you_handling_autocomplete_on_top_of/)
+- [[AskJS] Ottimizzazione dynamic img rendering in JS: Eager/Lazy + contentVisibility. Voi come gestite il primo fold?](https://www.reddit.com/r/javascript/comments/1vcphqq/askjs_ottimizzazione_dynamic_img_rendering_in_js/)
+- [[AskJS] Best practices for Javascript Local Dev Environment](https://www.reddit.com/r/javascript/comments/1vcp6in/askjs_best_practices_for_javascript_local_dev/)
+- [WordJS – An open-source CMS in Node.js where plugins run in OS-isolated sandboxes](https://www.reddit.com/r/javascript/comments/1vcp0tr/wordjs_an_opensource_cms_in_nodejs_where_plugins/)
+- [Showoff Saturday &lpar;August 01, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1vcg5tn/showoff_saturday_august_01_2026/)
+- [Quickdraw: a zero-dependency infinite-canvas whiteboard engine in plain ESM &lpar;MIT&rpar; — with React and React Native bindings](https://www.reddit.com/r/javascript/comments/1vcds6k/quickdraw_a_zerodependency_infinitecanvas/)
 - [I built a 50+ component mobile UI library for Solid.js — inspired by Vant, looking for feedback](https://www.reddit.com/r/javascript/comments/1vc69he/i_built_a_50_component_mobile_ui_library_for/)
 - [A reactivity and rendering &lpar;combined&rpar; benchmark for frontend frameworks](https://www.reddit.com/r/javascript/comments/1vc605e/a_reactivity_and_rendering_combined_benchmark_for/)
 - [[AskJS] FOSS mini games](https://www.reddit.com/r/javascript/comments/1vby7nf/askjs_foss_mini_games/)
-- [[AskJS] Dubbio veloce di architettura/stile con le classi JS](https://www.reddit.com/r/javascript/comments/1vbxpic/askjs_dubbio_veloce_di_architetturastile_con_le/)
-- [Canvas Path Animations using SVG](https://www.reddit.com/r/javascript/comments/1vbopmg/canvas_path_animations_using_svg/)
-- [We ran the same PDF operations inside real Chromium, Firefox and WebKit — WebKit was 2.4× faster than Chrome at some of them. Full reproducible harness &lpar;MIT&rpar;.](https://www.reddit.com/r/javascript/comments/1vb2w9g/we_ran_the_same_pdf_operations_inside_real/)
-- [LogTape 2.3.0: Scoped configuration, failure-only test logs, and GraphQL Yoga](https://www.reddit.com/r/javascript/comments/1vap1wr/logtape_230_scoped_configuration_failureonly_test/)
-- [Typed HTTP client inferred from your route definitions &lpar;Deno&rpar;](https://www.reddit.com/r/javascript/comments/1vaczpy/typed_http_client_inferred_from_your_route/)
-- [Reuse libraries, or let your AI reinvent the wheel?... We think the age of libraries is coming.](https://www.reddit.com/r/javascript/comments/1v9x3fb/reuse_libraries_or_let_your_ai_reinvent_the_wheel/)
-- [I&#39;ve made an open source JavaScript playground with support for npm packages, syntax highlighting, autocomplete, code sharing and much more!](https://www.reddit.com/r/javascript/comments/1v9vwkv/ive_made_an_open_source_javascript_playground/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
