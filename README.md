@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Your JSON Is Lying to You: What JavaScript silently loses at serialization boundaries](https://www.reddit.com/r/javascript/comments/1vdzwys/your_json_is_lying_to_you_what_javascript/)
+- [[AskJS] Building a 2D Game Engine from scratch in pure ES6 Vanilla JS. Here is how I handle SpriteSheets &amp; AnimatedSprites!](https://www.reddit.com/r/javascript/comments/1vdjan4/askjs_building_a_2d_game_engine_from_scratch_in/)
 - [[AskJS] Run webpage on iphone](https://www.reddit.com/r/javascript/comments/1vctzcs/askjs_run_webpage_on_iphone/)
 - [[AskJS] how are you handling autocomplete on top of elasticsearch?](https://www.reddit.com/r/javascript/comments/1vct72c/askjs_how_are_you_handling_autocomplete_on_top_of/)
 - [[AskJS] Ottimizzazione dynamic img rendering in JS: Eager/Lazy + contentVisibility. Voi come gestite il primo fold?](https://www.reddit.com/r/javascript/comments/1vcphqq/askjs_ottimizzazione_dynamic_img_rendering_in_js/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Showoff Saturday &lpar;August 01, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1vcg5tn/showoff_saturday_august_01_2026/)
 - [Quickdraw: a zero-dependency infinite-canvas whiteboard engine in plain ESM &lpar;MIT&rpar; — with React and React Native bindings](https://www.reddit.com/r/javascript/comments/1vcds6k/quickdraw_a_zerodependency_infinitecanvas/)
 - [I built a 50+ component mobile UI library for Solid.js — inspired by Vant, looking for feedback](https://www.reddit.com/r/javascript/comments/1vc69he/i_built_a_50_component_mobile_ui_library_for/)
-- [A reactivity and rendering &lpar;combined&rpar; benchmark for frontend frameworks](https://www.reddit.com/r/javascript/comments/1vc605e/a_reactivity_and_rendering_combined_benchmark_for/)
-- [[AskJS] FOSS mini games](https://www.reddit.com/r/javascript/comments/1vby7nf/askjs_foss_mini_games/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
