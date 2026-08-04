@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Looking for a feedback - Production-build explanations and regression blame for Next.js](https://www.reddit.com/r/javascript/comments/1vertug/looking_for_a_feedback_productionbuild/)
+- [Looking for feedback on a fast browser-based JSON Formatter &amp; Validator](https://www.reddit.com/r/javascript/comments/1vei9if/looking_for_feedback_on_a_fast_browserbased_json/)
+- [[AskJS] If you were hiring a junior JavaScript developer today, what would make them stand out in the AI era?](https://www.reddit.com/r/javascript/comments/1veg1x8/askjs_if_you_were_hiring_a_junior_javascript/)
+- [[AskJS] How did you deal with ESlint 10 Breaking Changes?](https://www.reddit.com/r/javascript/comments/1vecu0e/askjs_how_did_you_deal_with_eslint_10_breaking/)
+- [Your /r/javascript recap for the week of July 27 - August 02, 2026](https://www.reddit.com/r/javascript/comments/1ve877x/your_rjavascript_recap_for_the_week_of_july_27/)
 - [Your JSON Is Lying to You: What JavaScript silently loses at serialization boundaries](https://www.reddit.com/r/javascript/comments/1vdzwys/your_json_is_lying_to_you_what_javascript/)
 - [[AskJS] Building a 2D Game Engine from scratch in pure ES6 Vanilla JS. Here is how I handle SpriteSheets &amp; AnimatedSprites!](https://www.reddit.com/r/javascript/comments/1vdjan4/askjs_building_a_2d_game_engine_from_scratch_in/)
 - [[AskJS] Run webpage on iphone](https://www.reddit.com/r/javascript/comments/1vctzcs/askjs_run_webpage_on_iphone/)
 - [[AskJS] how are you handling autocomplete on top of elasticsearch?](https://www.reddit.com/r/javascript/comments/1vct72c/askjs_how_are_you_handling_autocomplete_on_top_of/)
 - [[AskJS] Ottimizzazione dynamic img rendering in JS: Eager/Lazy + contentVisibility. Voi come gestite il primo fold?](https://www.reddit.com/r/javascript/comments/1vcphqq/askjs_ottimizzazione_dynamic_img_rendering_in_js/)
-- [[AskJS] Best practices for Javascript Local Dev Environment](https://www.reddit.com/r/javascript/comments/1vcp6in/askjs_best_practices_for_javascript_local_dev/)
-- [WordJS – An open-source CMS in Node.js where plugins run in OS-isolated sandboxes](https://www.reddit.com/r/javascript/comments/1vcp0tr/wordjs_an_opensource_cms_in_nodejs_where_plugins/)
-- [Showoff Saturday &lpar;August 01, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1vcg5tn/showoff_saturday_august_01_2026/)
-- [Quickdraw: a zero-dependency infinite-canvas whiteboard engine in plain ESM &lpar;MIT&rpar; — with React and React Native bindings](https://www.reddit.com/r/javascript/comments/1vcds6k/quickdraw_a_zerodependency_infinitecanvas/)
-- [I built a 50+ component mobile UI library for Solid.js — inspired by Vant, looking for feedback](https://www.reddit.com/r/javascript/comments/1vc69he/i_built_a_50_component_mobile_ui_library_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
