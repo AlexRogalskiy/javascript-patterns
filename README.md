@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Vkcha SVG Core - A lightweight TypeScript alternative to heavy canvas engines with Viewport Culling &amp; Scene Graph &lpar;2-6k weekly npm downloads&rpar;](https://www.reddit.com/r/javascript/comments/1vfqeba/vkcha_svg_core_a_lightweight_typescript/)
+- [Valkey-WASM – Redis running inside your Node process, no Docker &lpar;like PGlite&rpar;](https://www.reddit.com/r/javascript/comments/1vfmlao/valkeywasm_redis_running_inside_your_node_process/)
+- [[AskJS] Has a larger competitor ever benchmarked your library incorrectly?](https://www.reddit.com/r/javascript/comments/1vffkjs/askjs_has_a_larger_competitor_ever_benchmarked/)
+- [Serene Doc Search - A small, Apache 2.0 alternative to Algolia DocSearch](https://www.reddit.com/r/javascript/comments/1vfdxu9/serene_doc_search_a_small_apache_20_alternative/)
 - [Looking for a feedback - Production-build explanations and regression blame for Next.js](https://www.reddit.com/r/javascript/comments/1vertug/looking_for_a_feedback_productionbuild/)
-- [Looking for feedback on a fast browser-based JSON Formatter &amp; Validator](https://www.reddit.com/r/javascript/comments/1vei9if/looking_for_feedback_on_a_fast_browserbased_json/)
 - [[AskJS] If you were hiring a junior JavaScript developer today, what would make them stand out in the AI era?](https://www.reddit.com/r/javascript/comments/1veg1x8/askjs_if_you_were_hiring_a_junior_javascript/)
 - [[AskJS] How did you deal with ESlint 10 Breaking Changes?](https://www.reddit.com/r/javascript/comments/1vecu0e/askjs_how_did_you_deal_with_eslint_10_breaking/)
 - [Your /r/javascript recap for the week of July 27 - August 02, 2026](https://www.reddit.com/r/javascript/comments/1ve877x/your_rjavascript_recap_for_the_week_of_july_27/)
 - [Your JSON Is Lying to You: What JavaScript silently loses at serialization boundaries](https://www.reddit.com/r/javascript/comments/1vdzwys/your_json_is_lying_to_you_what_javascript/)
 - [[AskJS] Building a 2D Game Engine from scratch in pure ES6 Vanilla JS. Here is how I handle SpriteSheets &amp; AnimatedSprites!](https://www.reddit.com/r/javascript/comments/1vdjan4/askjs_building_a_2d_game_engine_from_scratch_in/)
-- [[AskJS] Run webpage on iphone](https://www.reddit.com/r/javascript/comments/1vctzcs/askjs_run_webpage_on_iphone/)
-- [[AskJS] how are you handling autocomplete on top of elasticsearch?](https://www.reddit.com/r/javascript/comments/1vct72c/askjs_how_are_you_handling_autocomplete_on_top_of/)
-- [[AskJS] Ottimizzazione dynamic img rendering in JS: Eager/Lazy + contentVisibility. Voi come gestite il primo fold?](https://www.reddit.com/r/javascript/comments/1vcphqq/askjs_ottimizzazione_dynamic_img_rendering_in_js/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
