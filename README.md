@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Node.JS in the Browser - An Open-source Alternative to WebContainers](https://www.reddit.com/r/javascript/comments/1vhc3q0/nodejs_in_the_browser_an_opensource_alternative/)
+- [[Showoff] GPU-Powered Crayons, NPM Package Quarantine and Dave Branching Off Your Code Without Asking](https://www.reddit.com/r/javascript/comments/1vh1c3f/showoff_gpupowered_crayons_npm_package_quarantine/)
+- [Meet canc, a complete lib for promise cancellation](https://www.reddit.com/r/javascript/comments/1vgzevt/meet_canc_a_complete_lib_for_promise_cancellation/)
+- [DriftJS - Exploring a Register-Based Bytecode VM for UI Frameworks](https://www.reddit.com/r/javascript/comments/1vgw1ox/driftjs_exploring_a_registerbased_bytecode_vm_for/)
 - [CryptoJS.lib.WordArray.random&lpar;&rpar; before 4.0.0 uses a weak PRNG &lpar;Ill Bloom&rpar;](https://www.reddit.com/r/javascript/comments/1vgrib6/cryptojslibwordarrayrandom_before_400_uses_a_weak/)
 - [archbird: architecture mapping and verification for large codebases &lpar;c core + js/py frontends, open/free&rpar;. try giving it your coding agents [•_•]](https://www.reddit.com/r/javascript/comments/1vg0izs/archbird_architecture_mapping_and_verification/)
 - [Valkey-WASM – Redis running inside your Node process, no Docker &lpar;like PGlite&rpar;](https://www.reddit.com/r/javascript/comments/1vfmlao/valkeywasm_redis_running_inside_your_node_process/)
 - [[AskJS] Has a larger competitor ever benchmarked your library incorrectly?](https://www.reddit.com/r/javascript/comments/1vffkjs/askjs_has_a_larger_competitor_ever_benchmarked/)
 - [Serene Doc Search - A small, Apache 2.0 alternative to Algolia DocSearch](https://www.reddit.com/r/javascript/comments/1vfdxu9/serene_doc_search_a_small_apache_20_alternative/)
 - [Looking for a feedback - Production-build explanations and regression blame for Next.js](https://www.reddit.com/r/javascript/comments/1vertug/looking_for_a_feedback_productionbuild/)
-- [[AskJS] If you were hiring a junior JavaScript developer today, what would make them stand out in the AI era?](https://www.reddit.com/r/javascript/comments/1veg1x8/askjs_if_you_were_hiring_a_junior_javascript/)
-- [[AskJS] How did you deal with ESlint 10 Breaking Changes?](https://www.reddit.com/r/javascript/comments/1vecu0e/askjs_how_did_you_deal_with_eslint_10_breaking/)
-- [Your /r/javascript recap for the week of July 27 - August 02, 2026](https://www.reddit.com/r/javascript/comments/1ve877x/your_rjavascript_recap_for_the_week_of_july_27/)
-- [Your JSON Is Lying to You: What JavaScript silently loses at serialization boundaries](https://www.reddit.com/r/javascript/comments/1vdzwys/your_json_is_lying_to_you_what_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
