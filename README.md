@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I built a 2KB library that answers one specific question: should I show a &quot;Sign in with Face ID&quot; button?](https://www.reddit.com/r/javascript/comments/1vidl9e/i_built_a_2kb_library_that_answers_one_specific/)
+- [Flow for TypeScript Users](https://www.reddit.com/r/javascript/comments/1vhxdu7/flow_for_typescript_users/)
 - [Node.JS in the Browser - An Open-source Alternative to WebContainers](https://www.reddit.com/r/javascript/comments/1vhc3q0/nodejs_in_the_browser_an_opensource_alternative/)
 - [[Showoff] GPU-Powered Crayons, NPM Package Quarantine and Dave Branching Off Your Code Without Asking](https://www.reddit.com/r/javascript/comments/1vh1c3f/showoff_gpupowered_crayons_npm_package_quarantine/)
 - [Meet canc, a complete lib for promise cancellation](https://www.reddit.com/r/javascript/comments/1vgzevt/meet_canc_a_complete_lib_for_promise_cancellation/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [archbird: architecture mapping and verification for large codebases &lpar;c core + js/py frontends, open/free&rpar;. try giving it your coding agents [•_•]](https://www.reddit.com/r/javascript/comments/1vg0izs/archbird_architecture_mapping_and_verification/)
 - [Valkey-WASM – Redis running inside your Node process, no Docker &lpar;like PGlite&rpar;](https://www.reddit.com/r/javascript/comments/1vfmlao/valkeywasm_redis_running_inside_your_node_process/)
 - [[AskJS] Has a larger competitor ever benchmarked your library incorrectly?](https://www.reddit.com/r/javascript/comments/1vffkjs/askjs_has_a_larger_competitor_ever_benchmarked/)
-- [Serene Doc Search - A small, Apache 2.0 alternative to Algolia DocSearch](https://www.reddit.com/r/javascript/comments/1vfdxu9/serene_doc_search_a_small_apache_20_alternative/)
-- [Looking for a feedback - Production-build explanations and regression blame for Next.js](https://www.reddit.com/r/javascript/comments/1vertug/looking_for_a_feedback_productionbuild/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
