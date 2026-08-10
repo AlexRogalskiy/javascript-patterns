@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Pointers in Javascript](https://www.reddit.com/r/javascript/comments/1vk7b23/askjs_pointers_in_javascript/)
+- [[AskJS] any hope for pattern matching to actually make progress through tc39?](https://www.reddit.com/r/javascript/comments/1vk5z85/askjs_any_hope_for_pattern_matching_to_actually/)
+- [I built DriftEngine, a WebGL2 3D engine in strict TypeScript](https://www.reddit.com/r/javascript/comments/1vjsuek/i_built_driftengine_a_webgl2_3d_engine_in_strict/)
+- [[AskJS] JavaScript doing cursed desktop automation](https://www.reddit.com/r/javascript/comments/1vjm6df/askjs_javascript_doing_cursed_desktop_automation/)
 - [[AskJS] Input Sanitization for ChatGPT API in Node.js Using 4 Hardened Layers to Stop Injection Risks](https://www.reddit.com/r/javascript/comments/1viz4ge/askjs_input_sanitization_for_chatgpt_api_in/)
 - [TermDOM – HTML and CSS rendering in the terminal, with a real DOM](https://www.reddit.com/r/javascript/comments/1viv3h2/termdom_html_and_css_rendering_in_the_terminal/)
 - [Free Online Multiplayer 2D Boxing Game](https://www.reddit.com/r/javascript/comments/1viuec4/free_online_multiplayer_2d_boxing_game/)
 - [Showoff Saturday &lpar;August 08, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1vip2w2/showoff_saturday_august_08_2026/)
 - [I built a 2KB library that answers one specific question: should I show a &quot;Sign in with Face ID&quot; button?](https://www.reddit.com/r/javascript/comments/1vidl9e/i_built_a_2kb_library_that_answers_one_specific/)
 - [Flow for TypeScript Users](https://www.reddit.com/r/javascript/comments/1vhxdu7/flow_for_typescript_users/)
-- [Node.JS in the Browser - An Open-source Alternative to WebContainers](https://www.reddit.com/r/javascript/comments/1vhc3q0/nodejs_in_the_browser_an_opensource_alternative/)
-- [[Showoff] GPU-Powered Crayons, NPM Package Quarantine and Dave Branching Off Your Code Without Asking](https://www.reddit.com/r/javascript/comments/1vh1c3f/showoff_gpupowered_crayons_npm_package_quarantine/)
-- [Meet canc, a complete lib for promise cancellation](https://www.reddit.com/r/javascript/comments/1vgzevt/meet_canc_a_complete_lib_for_promise_cancellation/)
-- [DriftJS - Exploring a Register-Based Bytecode VM for UI Frameworks](https://www.reddit.com/r/javascript/comments/1vgw1ox/driftjs_exploring_a_registerbased_bytecode_vm_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
