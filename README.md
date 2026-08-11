@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I made a Windows 98 styled portfolio website with an applet system, and many nostalgic things to discover](https://www.reddit.com/r/javascript/comments/1vkyiak/i_made_a_windows_98_styled_portfolio_website_with/)
+- [Zero dependencies: what we deleted and upgraded](https://www.reddit.com/r/javascript/comments/1vkygqw/zero_dependencies_what_we_deleted_and_upgraded/)
+- [Signals and Effects Using Vanilla JavaScript &amp; Web APIs](https://www.reddit.com/r/javascript/comments/1vkry17/signals_and_effects_using_vanilla_javascript_web/)
+- [Dependabot CLI to pull requests for BitBucket and GitLab](https://www.reddit.com/r/javascript/comments/1vkrdfp/dependabot_cli_to_pull_requests_for_bitbucket_and/)
+- [I built a tiny zero-dependency audio slicer for the browser](https://www.reddit.com/r/javascript/comments/1vkk40j/i_built_a_tiny_zerodependency_audio_slicer_for/)
+- [Your /r/javascript recap for the week of August 03 - August 09, 2026](https://www.reddit.com/r/javascript/comments/1vkfnfl/your_rjavascript_recap_for_the_week_of_august_03/)
 - [[AskJS] Pointers in Javascript](https://www.reddit.com/r/javascript/comments/1vk7b23/askjs_pointers_in_javascript/)
 - [[AskJS] any hope for pattern matching to actually make progress through tc39?](https://www.reddit.com/r/javascript/comments/1vk5z85/askjs_any_hope_for_pattern_matching_to_actually/)
 - [I built DriftEngine, a WebGL2 3D engine in strict TypeScript](https://www.reddit.com/r/javascript/comments/1vjsuek/i_built_driftengine_a_webgl2_3d_engine_in_strict/)
-- [[AskJS] JavaScript doing cursed desktop automation](https://www.reddit.com/r/javascript/comments/1vjm6df/askjs_javascript_doing_cursed_desktop_automation/)
-- [[AskJS] Input Sanitization for ChatGPT API in Node.js Using 4 Hardened Layers to Stop Injection Risks](https://www.reddit.com/r/javascript/comments/1viz4ge/askjs_input_sanitization_for_chatgpt_api_in/)
 - [TermDOM – HTML and CSS rendering in the terminal, with a real DOM](https://www.reddit.com/r/javascript/comments/1viv3h2/termdom_html_and_css_rendering_in_the_terminal/)
-- [Free Online Multiplayer 2D Boxing Game](https://www.reddit.com/r/javascript/comments/1viuec4/free_online_multiplayer_2d_boxing_game/)
-- [Showoff Saturday &lpar;August 08, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1vip2w2/showoff_saturday_august_08_2026/)
-- [I built a 2KB library that answers one specific question: should I show a &quot;Sign in with Face ID&quot; button?](https://www.reddit.com/r/javascript/comments/1vidl9e/i_built_a_2kb_library_that_answers_one_specific/)
-- [Flow for TypeScript Users](https://www.reddit.com/r/javascript/comments/1vhxdu7/flow_for_typescript_users/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
