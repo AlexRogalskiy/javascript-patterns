@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I built a tool for system administrators who are tired of remembering commands using javascript](https://www.reddit.com/r/javascript/comments/1vluo3m/i_built_a_tool_for_system_administrators_who_are/)
+- [flo-webcomponents: Take back control of rendering + events using WebComponents with one minimal superclass.](https://www.reddit.com/r/javascript/comments/1vlhac7/flowebcomponents_take_back_control_of_rendering/)
+- [[AskJS] I&#39;m sick of AI slop; I want to learn how to use ESLint properly.](https://www.reddit.com/r/javascript/comments/1vlebqt/askjs_im_sick_of_ai_slop_i_want_to_learn_how_to/)
 - [I made a Windows 98 styled portfolio website with an applet system, and many nostalgic things to discover](https://www.reddit.com/r/javascript/comments/1vkyiak/i_made_a_windows_98_styled_portfolio_website_with/)
 - [Zero dependencies: what we deleted and upgraded](https://www.reddit.com/r/javascript/comments/1vkygqw/zero_dependencies_what_we_deleted_and_upgraded/)
 - [Signals and Effects Using Vanilla JavaScript &amp; Web APIs](https://www.reddit.com/r/javascript/comments/1vkry17/signals_and_effects_using_vanilla_javascript_web/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [I built a tiny zero-dependency audio slicer for the browser](https://www.reddit.com/r/javascript/comments/1vkk40j/i_built_a_tiny_zerodependency_audio_slicer_for/)
 - [Your /r/javascript recap for the week of August 03 - August 09, 2026](https://www.reddit.com/r/javascript/comments/1vkfnfl/your_rjavascript_recap_for_the_week_of_august_03/)
 - [[AskJS] Pointers in Javascript](https://www.reddit.com/r/javascript/comments/1vk7b23/askjs_pointers_in_javascript/)
-- [[AskJS] any hope for pattern matching to actually make progress through tc39?](https://www.reddit.com/r/javascript/comments/1vk5z85/askjs_any_hope_for_pattern_matching_to_actually/)
-- [I built DriftEngine, a WebGL2 3D engine in strict TypeScript](https://www.reddit.com/r/javascript/comments/1vjsuek/i_built_driftengine_a_webgl2_3d_engine_in_strict/)
-- [TermDOM – HTML and CSS rendering in the terminal, with a real DOM](https://www.reddit.com/r/javascript/comments/1viv3h2/termdom_html_and_css_rendering_in_the_terminal/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
