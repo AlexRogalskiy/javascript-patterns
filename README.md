@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Check out what I just built with Lovable!](https://www.reddit.com/r/javascript/comments/1vmobs3/check_out_what_i_just_built_with_lovable/)
+- [Building KernelPlay-JS together — looking for open-source contributors](https://www.reddit.com/r/javascript/comments/1vmb99q/building_kernelplayjs_together_looking_for/)
+- [rapiq: typed query params for REST APIs &lpar;filters, sort, pagination, fields, relations&rpar; that run on TypeORM, Prisma, Drizzle or plain arrays](https://www.reddit.com/r/javascript/comments/1vm8b0k/rapiq_typed_query_params_for_rest_apis_filters/)
 - [I built a tool for system administrators who are tired of remembering commands using javascript](https://www.reddit.com/r/javascript/comments/1vluo3m/i_built_a_tool_for_system_administrators_who_are/)
 - [flo-webcomponents: Take back control of rendering + events using WebComponents with one minimal superclass.](https://www.reddit.com/r/javascript/comments/1vlhac7/flowebcomponents_take_back_control_of_rendering/)
 - [[AskJS] I&#39;m sick of AI slop; I want to learn how to use ESLint properly.](https://www.reddit.com/r/javascript/comments/1vlebqt/askjs_im_sick_of_ai_slop_i_want_to_learn_how_to/)
-- [I made a Windows 98 styled portfolio website with an applet system, and many nostalgic things to discover](https://www.reddit.com/r/javascript/comments/1vkyiak/i_made_a_windows_98_styled_portfolio_website_with/)
 - [Zero dependencies: what we deleted and upgraded](https://www.reddit.com/r/javascript/comments/1vkygqw/zero_dependencies_what_we_deleted_and_upgraded/)
 - [Signals and Effects Using Vanilla JavaScript &amp; Web APIs](https://www.reddit.com/r/javascript/comments/1vkry17/signals_and_effects_using_vanilla_javascript_web/)
 - [Dependabot CLI to pull requests for BitBucket and GitLab](https://www.reddit.com/r/javascript/comments/1vkrdfp/dependabot_cli_to_pull_requests_for_bitbucket_and/)
 - [I built a tiny zero-dependency audio slicer for the browser](https://www.reddit.com/r/javascript/comments/1vkk40j/i_built_a_tiny_zerodependency_audio_slicer_for/)
-- [Your /r/javascript recap for the week of August 03 - August 09, 2026](https://www.reddit.com/r/javascript/comments/1vkfnfl/your_rjavascript_recap_for_the_week_of_august_03/)
-- [[AskJS] Pointers in Javascript](https://www.reddit.com/r/javascript/comments/1vk7b23/askjs_pointers_in_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
