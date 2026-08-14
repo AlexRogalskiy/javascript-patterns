@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Your Modules Are Lying to You](https://www.reddit.com/r/javascript/comments/1vnrw14/your_modules_are_lying_to_you/)
+- [[AskJS] Ho ritrovato questo vecchio snippet per un rullo 3D in CSS/JS puro: niente di complesso, ma a me fa ancora impazzire!](https://www.reddit.com/r/javascript/comments/1vnidh8/askjs_ho_ritrovato_questo_vecchio_snippet_per_un/)
+- [[AskJS] Ho ritrovato questo vecchio snippet per un rullo 3D in CSS/JS puro: niente di complesso, ma a me fa ancora impazzire!](https://www.reddit.com/r/javascript/comments/1vni5iu/askjs_ho_ritrovato_questo_vecchio_snippet_per_un/)
+- [The Simple AI Dictionary: putting an end to buzzwords, all without AI](https://www.reddit.com/r/javascript/comments/1vnf8dp/the_simple_ai_dictionary_putting_an_end_to/)
+- [Plain White Tees in React Native, Meta’s Muse Code, and Making It to the Pub by 6 PM on a Friday](https://www.reddit.com/r/javascript/comments/1vn9y98/plain_white_tees_in_react_native_metas_muse_code/)
+- [[AskJS] Are employed Developers still programming with vanilla JavaScript ?](https://www.reddit.com/r/javascript/comments/1vn2qe5/askjs_are_employed_developers_still_programming/)
+- [[AskJS] jsbin is down??](https://www.reddit.com/r/javascript/comments/1vn26gi/askjs_jsbin_is_down/)
 - [Check out what I just built with Lovable!](https://www.reddit.com/r/javascript/comments/1vmobs3/check_out_what_i_just_built_with_lovable/)
 - [Building KernelPlay-JS together — looking for open-source contributors](https://www.reddit.com/r/javascript/comments/1vmb99q/building_kernelplayjs_together_looking_for/)
 - [rapiq: typed query params for REST APIs &lpar;filters, sort, pagination, fields, relations&rpar; that run on TypeORM, Prisma, Drizzle or plain arrays](https://www.reddit.com/r/javascript/comments/1vm8b0k/rapiq_typed_query_params_for_rest_apis_filters/)
-- [I built a tool for system administrators who are tired of remembering commands using javascript](https://www.reddit.com/r/javascript/comments/1vluo3m/i_built_a_tool_for_system_administrators_who_are/)
-- [flo-webcomponents: Take back control of rendering + events using WebComponents with one minimal superclass.](https://www.reddit.com/r/javascript/comments/1vlhac7/flowebcomponents_take_back_control_of_rendering/)
-- [[AskJS] I&#39;m sick of AI slop; I want to learn how to use ESLint properly.](https://www.reddit.com/r/javascript/comments/1vlebqt/askjs_im_sick_of_ai_slop_i_want_to_learn_how_to/)
-- [Zero dependencies: what we deleted and upgraded](https://www.reddit.com/r/javascript/comments/1vkygqw/zero_dependencies_what_we_deleted_and_upgraded/)
-- [Signals and Effects Using Vanilla JavaScript &amp; Web APIs](https://www.reddit.com/r/javascript/comments/1vkry17/signals_and_effects_using_vanilla_javascript_web/)
-- [Dependabot CLI to pull requests for BitBucket and GitLab](https://www.reddit.com/r/javascript/comments/1vkrdfp/dependabot_cli_to_pull_requests_for_bitbucket_and/)
-- [I built a tiny zero-dependency audio slicer for the browser](https://www.reddit.com/r/javascript/comments/1vkk40j/i_built_a_tiny_zerodependency_audio_slicer_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
