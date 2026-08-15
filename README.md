@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [We built the same data grid in React, Vue &amp; Svelte, here&#39;s what we learned](https://www.reddit.com/r/javascript/comments/1vo89vt/we_built_the_same_data_grid_in_react_vue_svelte/)
+- [I&#39;m an Angular dev and I spent some weeks building a 3D map of the universe in the browser using three.js](https://www.reddit.com/r/javascript/comments/1vo2v9e/im_an_angular_dev_and_i_spent_some_weeks_building/)
 - [Your Modules Are Lying to You](https://www.reddit.com/r/javascript/comments/1vnrw14/your_modules_are_lying_to_you/)
 - [[AskJS] Ho ritrovato questo vecchio snippet per un rullo 3D in CSS/JS puro: niente di complesso, ma a me fa ancora impazzire!](https://www.reddit.com/r/javascript/comments/1vnidh8/askjs_ho_ritrovato_questo_vecchio_snippet_per_un/)
 - [[AskJS] Ho ritrovato questo vecchio snippet per un rullo 3D in CSS/JS puro: niente di complesso, ma a me fa ancora impazzire!](https://www.reddit.com/r/javascript/comments/1vni5iu/askjs_ho_ritrovato_questo_vecchio_snippet_per_un/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [[AskJS] Are employed Developers still programming with vanilla JavaScript ?](https://www.reddit.com/r/javascript/comments/1vn2qe5/askjs_are_employed_developers_still_programming/)
 - [[AskJS] jsbin is down??](https://www.reddit.com/r/javascript/comments/1vn26gi/askjs_jsbin_is_down/)
 - [Check out what I just built with Lovable!](https://www.reddit.com/r/javascript/comments/1vmobs3/check_out_what_i_just_built_with_lovable/)
-- [Building KernelPlay-JS together — looking for open-source contributors](https://www.reddit.com/r/javascript/comments/1vmb99q/building_kernelplayjs_together_looking_for/)
-- [rapiq: typed query params for REST APIs &lpar;filters, sort, pagination, fields, relations&rpar; that run on TypeORM, Prisma, Drizzle or plain arrays](https://www.reddit.com/r/javascript/comments/1vm8b0k/rapiq_typed_query_params_for_rest_apis_filters/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
