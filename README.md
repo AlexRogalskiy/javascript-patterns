@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] How to find the best/ideal ratio or dimensions for a device?](https://www.reddit.com/r/javascript/comments/1vp6i3g/askjs_how_to_find_the_bestideal_ratio_or/)
+- [Is there any other JS REST API framework that is secure by default, plus OpenAPI support like FastAPI, runtime-agnostic like Hono, Contract-first api like Elysia &amp; TS-rest, and scoped plugins like Fastify?](https://www.reddit.com/r/javascript/comments/1vp3iql/is_there_any_other_js_rest_api_framework_that_is/)
+- [TwinScope — one diff tool for JSON, CSV, PDFs, folders, git refs and images. Local-first, handles large files.](https://www.reddit.com/r/javascript/comments/1vp09ms/twinscope_one_diff_tool_for_json_csv_pdfs_folders/)
+- [C99 real mode compiler written in TS that outputs raw bootable 16bit binaries](https://www.reddit.com/r/javascript/comments/1vows3p/c99_real_mode_compiler_written_in_ts_that_outputs/)
+- [Showoff Saturday &lpar;August 15, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1vovvsx/showoff_saturday_august_15_2026/)
+- [[AskJS] How much do you actually trust the version number on an npm update?](https://www.reddit.com/r/javascript/comments/1vosn6a/askjs_how_much_do_you_actually_trust_the_version/)
 - [We built the same data grid in React, Vue &amp; Svelte, here&#39;s what we learned](https://www.reddit.com/r/javascript/comments/1vo89vt/we_built_the_same_data_grid_in_react_vue_svelte/)
-- [I&#39;m an Angular dev and I spent some weeks building a 3D map of the universe in the browser using three.js](https://www.reddit.com/r/javascript/comments/1vo2v9e/im_an_angular_dev_and_i_spent_some_weeks_building/)
 - [Your Modules Are Lying to You](https://www.reddit.com/r/javascript/comments/1vnrw14/your_modules_are_lying_to_you/)
-- [[AskJS] Ho ritrovato questo vecchio snippet per un rullo 3D in CSS/JS puro: niente di complesso, ma a me fa ancora impazzire!](https://www.reddit.com/r/javascript/comments/1vnidh8/askjs_ho_ritrovato_questo_vecchio_snippet_per_un/)
-- [[AskJS] Ho ritrovato questo vecchio snippet per un rullo 3D in CSS/JS puro: niente di complesso, ma a me fa ancora impazzire!](https://www.reddit.com/r/javascript/comments/1vni5iu/askjs_ho_ritrovato_questo_vecchio_snippet_per_un/)
 - [The Simple AI Dictionary: putting an end to buzzwords, all without AI](https://www.reddit.com/r/javascript/comments/1vnf8dp/the_simple_ai_dictionary_putting_an_end_to/)
 - [Plain White Tees in React Native, Meta’s Muse Code, and Making It to the Pub by 6 PM on a Friday](https://www.reddit.com/r/javascript/comments/1vn9y98/plain_white_tees_in_react_native_metas_muse_code/)
-- [[AskJS] Are employed Developers still programming with vanilla JavaScript ?](https://www.reddit.com/r/javascript/comments/1vn2qe5/askjs_are_employed_developers_still_programming/)
-- [[AskJS] jsbin is down??](https://www.reddit.com/r/javascript/comments/1vn26gi/askjs_jsbin_is_down/)
-- [Check out what I just built with Lovable!](https://www.reddit.com/r/javascript/comments/1vmobs3/check_out_what_i_just_built_with_lovable/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
