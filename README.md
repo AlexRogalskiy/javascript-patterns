@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] I reproduced a PDF.js Worker mismatch caused by dependency hoisting](https://www.reddit.com/r/javascript/comments/1vqf0pq/askjs_i_reproduced_a_pdfjs_worker_mismatch_caused/)
+- [[AskJS] TypeScript 7 is 10x faster, but typed linting still runs on the 6.0 API. What are you doing in the gap?](https://www.reddit.com/r/javascript/comments/1vq4r91/askjs_typescript_7_is_10x_faster_but_typed/)
+- [I built a MapLibre GL utility to keep markers visible around UI overlays](https://www.reddit.com/r/javascript/comments/1vpwern/i_built_a_maplibre_gl_utility_to_keep_markers/)
 - [[AskJS] How to find the best/ideal ratio or dimensions for a device?](https://www.reddit.com/r/javascript/comments/1vp6i3g/askjs_how_to_find_the_bestideal_ratio_or/)
 - [Is there any other JS REST API framework that is secure by default, plus OpenAPI support like FastAPI, runtime-agnostic like Hono, Contract-first api like Elysia &amp; TS-rest, and scoped plugins like Fastify?](https://www.reddit.com/r/javascript/comments/1vp3iql/is_there_any_other_js_rest_api_framework_that_is/)
 - [TwinScope — one diff tool for JSON, CSV, PDFs, folders, git refs and images. Local-first, handles large files.](https://www.reddit.com/r/javascript/comments/1vp09ms/twinscope_one_diff_tool_for_json_csv_pdfs_folders/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Showoff Saturday &lpar;August 15, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1vovvsx/showoff_saturday_august_15_2026/)
 - [[AskJS] How much do you actually trust the version number on an npm update?](https://www.reddit.com/r/javascript/comments/1vosn6a/askjs_how_much_do_you_actually_trust_the_version/)
 - [We built the same data grid in React, Vue &amp; Svelte, here&#39;s what we learned](https://www.reddit.com/r/javascript/comments/1vo89vt/we_built_the_same_data_grid_in_react_vue_svelte/)
-- [Your Modules Are Lying to You](https://www.reddit.com/r/javascript/comments/1vnrw14/your_modules_are_lying_to_you/)
-- [The Simple AI Dictionary: putting an end to buzzwords, all without AI](https://www.reddit.com/r/javascript/comments/1vnf8dp/the_simple_ai_dictionary_putting_an_end_to/)
-- [Plain White Tees in React Native, Meta’s Muse Code, and Making It to the Pub by 6 PM on a Friday](https://www.reddit.com/r/javascript/comments/1vn9y98/plain_white_tees_in_react_native_metas_muse_code/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
