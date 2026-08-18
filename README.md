@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Signal/Effect vs Event Handler](https://www.reddit.com/r/javascript/comments/1vr3r8v/askjs_signaleffect_vs_event_handler/)
+- [A from-scratch JSON engine for JavaScript: recursive descent parser, escape-aware tokenizer, and spec-compliant serializer. No dependencies, no shortcuts, 107 tests.](https://www.reddit.com/r/javascript/comments/1vqx7m0/a_fromscratch_json_engine_for_javascript/)
+- [A regex engine built from scratch in vanilla JavaScript — a hand-written parser and a backtracking matcher. No native RegExp, no dependencies.](https://www.reddit.com/r/javascript/comments/1vqx6xw/a_regex_engine_built_from_scratch_in_vanilla/)
+- [Your /r/javascript recap for the week of August 10 - August 16, 2026](https://www.reddit.com/r/javascript/comments/1vqn22d/your_rjavascript_recap_for_the_week_of_august_10/)
 - [[AskJS] I reproduced a PDF.js Worker mismatch caused by dependency hoisting](https://www.reddit.com/r/javascript/comments/1vqf0pq/askjs_i_reproduced_a_pdfjs_worker_mismatch_caused/)
 - [[AskJS] TypeScript 7 is 10x faster, but typed linting still runs on the 6.0 API. What are you doing in the gap?](https://www.reddit.com/r/javascript/comments/1vq4r91/askjs_typescript_7_is_10x_faster_but_typed/)
 - [I built a MapLibre GL utility to keep markers visible around UI overlays](https://www.reddit.com/r/javascript/comments/1vpwern/i_built_a_maplibre_gl_utility_to_keep_markers/)
 - [[AskJS] How to find the best/ideal ratio or dimensions for a device?](https://www.reddit.com/r/javascript/comments/1vp6i3g/askjs_how_to_find_the_bestideal_ratio_or/)
 - [Is there any other JS REST API framework that is secure by default, plus OpenAPI support like FastAPI, runtime-agnostic like Hono, Contract-first api like Elysia &amp; TS-rest, and scoped plugins like Fastify?](https://www.reddit.com/r/javascript/comments/1vp3iql/is_there_any_other_js_rest_api_framework_that_is/)
 - [TwinScope — one diff tool for JSON, CSV, PDFs, folders, git refs and images. Local-first, handles large files.](https://www.reddit.com/r/javascript/comments/1vp09ms/twinscope_one_diff_tool_for_json_csv_pdfs_folders/)
-- [C99 real mode compiler written in TS that outputs raw bootable 16bit binaries](https://www.reddit.com/r/javascript/comments/1vows3p/c99_real_mode_compiler_written_in_ts_that_outputs/)
-- [Showoff Saturday &lpar;August 15, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1vovvsx/showoff_saturday_august_15_2026/)
-- [[AskJS] How much do you actually trust the version number on an npm update?](https://www.reddit.com/r/javascript/comments/1vosn6a/askjs_how_much_do_you_actually_trust_the_version/)
-- [We built the same data grid in React, Vue &amp; Svelte, here&#39;s what we learned](https://www.reddit.com/r/javascript/comments/1vo89vt/we_built_the_same_data_grid_in_react_vue_svelte/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
