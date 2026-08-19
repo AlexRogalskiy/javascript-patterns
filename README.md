@@ -277,6 +277,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Updated Typescript GitHub Action Template](https://www.reddit.com/r/javascript/comments/1vs6kqc/updated_typescript_github_action_template/)
 - [[AskJS] Signal/Effect vs Event Handler](https://www.reddit.com/r/javascript/comments/1vr3r8v/askjs_signaleffect_vs_event_handler/)
 - [A from-scratch JSON engine for JavaScript: recursive descent parser, escape-aware tokenizer, and spec-compliant serializer. No dependencies, no shortcuts, 107 tests.](https://www.reddit.com/r/javascript/comments/1vqx7m0/a_fromscratch_json_engine_for_javascript/)
 - [A regex engine built from scratch in vanilla JavaScript — a hand-written parser and a backtracking matcher. No native RegExp, no dependencies.](https://www.reddit.com/r/javascript/comments/1vqx6xw/a_regex_engine_built_from_scratch_in_vanilla/)
@@ -286,7 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [I built a MapLibre GL utility to keep markers visible around UI overlays](https://www.reddit.com/r/javascript/comments/1vpwern/i_built_a_maplibre_gl_utility_to_keep_markers/)
 - [[AskJS] How to find the best/ideal ratio or dimensions for a device?](https://www.reddit.com/r/javascript/comments/1vp6i3g/askjs_how_to_find_the_bestideal_ratio_or/)
 - [Is there any other JS REST API framework that is secure by default, plus OpenAPI support like FastAPI, runtime-agnostic like Hono, Contract-first api like Elysia &amp; TS-rest, and scoped plugins like Fastify?](https://www.reddit.com/r/javascript/comments/1vp3iql/is_there_any_other_js_rest_api_framework_that_is/)
-- [TwinScope — one diff tool for JSON, CSV, PDFs, folders, git refs and images. Local-first, handles large files.](https://www.reddit.com/r/javascript/comments/1vp09ms/twinscope_one_diff_tool_for_json_csv_pdfs_folders/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
