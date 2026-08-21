@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [YouTube Notification Expander is here! Version 1.0](https://www.reddit.com/r/javascript/comments/1vt9qvs/youtube_notification_expander_is_here_version_10/)
 - [[AskJS] Our app didn&#39;t leak memory,it leaked memory four hundred modals later](https://www.reddit.com/r/javascript/comments/1vsqv17/askjs_our_app_didnt_leak_memoryit_leaked_memory/)
-- [[AskJS] Help to find best js and react playlist](https://www.reddit.com/r/javascript/comments/1vsqtvv/askjs_help_to_find_best_js_and_react_playlist/)
 - [React Native 0.87, Instant Paywall A/B Testing, and Buying Mike Hardy a Beer](https://www.reddit.com/r/javascript/comments/1vsi83l/react_native_087_instant_paywall_ab_testing_and/)
 - [Updated Typescript GitHub Action Template](https://www.reddit.com/r/javascript/comments/1vs6kqc/updated_typescript_github_action_template/)
 - [[AskJS] Signal/Effect vs Event Handler](https://www.reddit.com/r/javascript/comments/1vr3r8v/askjs_signaleffect_vs_event_handler/)
 - [A from-scratch JSON engine for JavaScript: recursive descent parser, escape-aware tokenizer, and spec-compliant serializer. No dependencies, no shortcuts, 107 tests.](https://www.reddit.com/r/javascript/comments/1vqx7m0/a_fromscratch_json_engine_for_javascript/)
-- [A regex engine built from scratch in vanilla JavaScript — a hand-written parser and a backtracking matcher. No native RegExp, no dependencies.](https://www.reddit.com/r/javascript/comments/1vqx6xw/a_regex_engine_built_from_scratch_in_vanilla/)
 - [Your /r/javascript recap for the week of August 10 - August 16, 2026](https://www.reddit.com/r/javascript/comments/1vqn22d/your_rjavascript_recap_for_the_week_of_august_10/)
 - [[AskJS] I reproduced a PDF.js Worker mismatch caused by dependency hoisting](https://www.reddit.com/r/javascript/comments/1vqf0pq/askjs_i_reproduced_a_pdfjs_worker_mismatch_caused/)
 - [[AskJS] TypeScript 7 is 10x faster, but typed linting still runs on the 6.0 API. What are you doing in the gap?](https://www.reddit.com/r/javascript/comments/1vq4r91/askjs_typescript_7_is_10x_faster_but_typed/)
+- [I built a MapLibre GL utility to keep markers visible around UI overlays](https://www.reddit.com/r/javascript/comments/1vpwern/i_built_a_maplibre_gl_utility_to_keep_markers/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
