@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Bringing Type1 support to Opentype.js](https://www.reddit.com/r/javascript/comments/1vvr052/bringing_type1_support_to_opentypejs/)
+- [ffetch: a production-ready http client with resilience features and a plugin architecture](https://www.reddit.com/r/javascript/comments/1vvowf1/ffetch_a_productionready_http_client_with/)
+- [ttsc/packages/evidence at master · samchon/ttsc](https://www.reddit.com/r/javascript/comments/1vvix79/ttscpackagesevidence_at_master_samchonttsc/)
+- [[AskJS] I built a reactive JS framework where components are plain HTML files](https://www.reddit.com/r/javascript/comments/1vvcsm1/askjs_i_built_a_reactive_js_framework_where/)
+- [Made a small library called strokes.js.](https://www.reddit.com/r/javascript/comments/1vvawfa/made_a_small_library_called_strokesjs/)
+- [LilScript makes js modules 20% smaller](https://www.reddit.com/r/javascript/comments/1vv6e2f/lilscript_makes_js_modules_20_smaller/)
+- [Showoff Saturday &lpar;August 22, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1vv59kr/showoff_saturday_august_22_2026/)
 - [The Structured Clone Algorithm: What JavaScript Can and Cannot Move Between Boundaries](https://www.reddit.com/r/javascript/comments/1vux0xh/the_structured_clone_algorithm_what_javascript/)
 - [GitHub - ziflex/pinterval: Advanced setInterval](https://www.reddit.com/r/javascript/comments/1vune4n/github_ziflexpinterval_advanced_setinterval/)
 - [[AskJS] We&#39;re building the agenda for AI.js Day &lpar;Nov 13&rpar; around your questions. What&#39;s the AI tension in frontend you can&#39;t stop thinking about?](https://www.reddit.com/r/javascript/comments/1vufsj7/askjs_were_building_the_agenda_for_aijs_day_nov/)
-- [Bun and Elm &lpar;: r&rpar;Are Friends · cekrem.github.io](https://www.reddit.com/r/javascript/comments/1vued8v/bun_and_elm_rare_friends_cekremgithubio/)
-- [YouTube Notification Expander is here! Version 1.0](https://www.reddit.com/r/javascript/comments/1vt9qvs/youtube_notification_expander_is_here_version_10/)
-- [[AskJS] Our app didn&#39;t leak memory,it leaked memory four hundred modals later](https://www.reddit.com/r/javascript/comments/1vsqv17/askjs_our_app_didnt_leak_memoryit_leaked_memory/)
-- [React Native 0.87, Instant Paywall A/B Testing, and Buying Mike Hardy a Beer](https://www.reddit.com/r/javascript/comments/1vsi83l/react_native_087_instant_paywall_ab_testing_and/)
-- [Updated Typescript GitHub Action Template](https://www.reddit.com/r/javascript/comments/1vs6kqc/updated_typescript_github_action_template/)
-- [[AskJS] Signal/Effect vs Event Handler](https://www.reddit.com/r/javascript/comments/1vr3r8v/askjs_signaleffect_vs_event_handler/)
-- [A from-scratch JSON engine for JavaScript: recursive descent parser, escape-aware tokenizer, and spec-compliant serializer. No dependencies, no shortcuts, 107 tests.](https://www.reddit.com/r/javascript/comments/1vqx7m0/a_fromscratch_json_engine_for_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
