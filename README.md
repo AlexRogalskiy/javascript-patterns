@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Web Components with Type Validation without Build Tools/TypeScript](https://www.reddit.com/r/javascript/comments/1vwnjy3/web_components_with_type_validation_without_build/)
+- [How an Underrated Refactor Saved 90% Memory Usage](https://www.reddit.com/r/javascript/comments/1vwkbui/how_an_underrated_refactor_saved_90_memory_usage/)
+- [Cerious-Scroll v1.1.0 adds Masonry layouts with Dynamic Heights](https://www.reddit.com/r/javascript/comments/1vwj4w0/ceriousscroll_v110_adds_masonry_layouts_with/)
 - [Bringing Type1 support to Opentype.js](https://www.reddit.com/r/javascript/comments/1vvr052/bringing_type1_support_to_opentypejs/)
 - [ffetch: a production-ready http client with resilience features and a plugin architecture](https://www.reddit.com/r/javascript/comments/1vvowf1/ffetch_a_productionready_http_client_with/)
 - [ttsc/packages/evidence at master · samchon/ttsc](https://www.reddit.com/r/javascript/comments/1vvix79/ttscpackagesevidence_at_master_samchonttsc/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Made a small library called strokes.js.](https://www.reddit.com/r/javascript/comments/1vvawfa/made_a_small_library_called_strokesjs/)
 - [LilScript makes js modules 20% smaller](https://www.reddit.com/r/javascript/comments/1vv6e2f/lilscript_makes_js_modules_20_smaller/)
 - [Showoff Saturday &lpar;August 22, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1vv59kr/showoff_saturday_august_22_2026/)
-- [The Structured Clone Algorithm: What JavaScript Can and Cannot Move Between Boundaries](https://www.reddit.com/r/javascript/comments/1vux0xh/the_structured_clone_algorithm_what_javascript/)
-- [GitHub - ziflex/pinterval: Advanced setInterval](https://www.reddit.com/r/javascript/comments/1vune4n/github_ziflexpinterval_advanced_setinterval/)
-- [[AskJS] We&#39;re building the agenda for AI.js Day &lpar;Nov 13&rpar; around your questions. What&#39;s the AI tension in frontend you can&#39;t stop thinking about?](https://www.reddit.com/r/javascript/comments/1vufsj7/askjs_were_building_the_agenda_for_aijs_day_nov/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
