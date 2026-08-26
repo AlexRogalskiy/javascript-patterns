@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Have you seen the new browser Email Verification API?](https://www.reddit.com/r/javascript/comments/1vyhdys/have_you_seen_the_new_browser_email_verification/)
+- [[AskJS] How common is the term &quot;Barrel&quot; and do you know what it means?](https://www.reddit.com/r/javascript/comments/1vy90ve/askjs_how_common_is_the_term_barrel_and_do_you/)
+- [[AskJS] Building an in-browser APK compiler — binary XML streams and signature blocks in client-side JS](https://www.reddit.com/r/javascript/comments/1vy8kcv/askjs_building_an_inbrowser_apk_compiler_binary/)
+- [`bun-plugin-elm`: import { Elm } from &quot;./Main.elm&quot; &lpar;Made by Hand, btw&rpar; · cekrem.github.io](https://www.reddit.com/r/javascript/comments/1vy1d5t/bunpluginelm_import_elm_from_mainelm_made_by_hand/)
+- [[AskJS] Can someone provide me Roadmap to be become an AI specialist.](https://www.reddit.com/r/javascript/comments/1vy14qs/askjs_can_someone_provide_me_roadmap_to_be_become/)
+- [[AskJS] referring to parent or grandparent class instance properties](https://www.reddit.com/r/javascript/comments/1vxs817/askjs_referring_to_parent_or_grandparent_class/)
 - [Announcing a maintained PptxGenJS fork](https://www.reddit.com/r/javascript/comments/1vx2bd6/announcing_a_maintained_pptxgenjs_fork/)
 - [Learning music theory through JavaScript, with runnable Web Audio examples](https://www.reddit.com/r/javascript/comments/1vx1xpo/learning_music_theory_through_javascript_with/)
 - [JojoScript — a tiny JS-compatible language with pipelines and lazy iterators](https://www.reddit.com/r/javascript/comments/1vx1rei/jojoscript_a_tiny_jscompatible_language_with/)
 - [Modernising Project GoldScript for 2026](https://www.reddit.com/r/javascript/comments/1vx1fuy/modernising_project_goldscript_for_2026/)
-- [// Clean up memory allocation URL.revokeallObjectiveURL&lpar;url&rpar;; }](https://www.reddit.com/r/javascript/comments/1vwzzp1/clean_up_memory_allocation/)
-- [Your /r/javascript recap for the week of August 17 - August 23, 2026](https://www.reddit.com/r/javascript/comments/1vwxhcp/your_rjavascript_recap_for_the_week_of_august_17/)
-- [Web Components with Type Validation without Build Tools/TypeScript](https://www.reddit.com/r/javascript/comments/1vwnjy3/web_components_with_type_validation_without_build/)
-- [How an Underrated Refactor Saved 90% Memory Usage](https://www.reddit.com/r/javascript/comments/1vwkbui/how_an_underrated_refactor_saved_90_memory_usage/)
-- [Cerious-Scroll v1.1.0 adds Masonry layouts with Dynamic Heights](https://www.reddit.com/r/javascript/comments/1vwj4w0/ceriousscroll_v110_adds_masonry_layouts_with/)
-- [Bringing Type1 support to Opentype.js](https://www.reddit.com/r/javascript/comments/1vvr052/bringing_type1_support_to_opentypejs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
