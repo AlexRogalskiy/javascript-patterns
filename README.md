@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Caravan, a flexible TypeScript-first logger for JavaScript applications](https://www.reddit.com/r/javascript/comments/1w0bx4c/caravan_a_flexible_typescriptfirst_logger_for/)
+- [Lightweight, native HTTP client built in C++20 — a fast, local-first alternative to Postman and Insomnia.](https://www.reddit.com/r/javascript/comments/1w01olr/lightweight_native_http_client_built_in_c20_a/)
+- [Open-Source Gwent classic &lpar;The Witcher 3&rpar; Web &amp; APK!](https://www.reddit.com/r/javascript/comments/1vzwsov/opensource_gwent_classic_the_witcher_3_web_apk/)
+- [[AskJS] Which UI component library or DataGrid solution do you use for your web projects?](https://www.reddit.com/r/javascript/comments/1vzsbu1/askjs_which_ui_component_library_or_datagrid/)
+- [[AskJS] Where should attribution logic stop in a JavaScript app?](https://www.reddit.com/r/javascript/comments/1vzr3hx/askjs_where_should_attribution_logic_stop_in_a/)
 - [Crossflight: distributed cache stampede protection](https://www.reddit.com/r/javascript/comments/1vznr48/crossflight_distributed_cache_stampede_protection/)
 - [How to drive your frontend from the backend](https://www.reddit.com/r/javascript/comments/1vz70la/how_to_drive_your_frontend_from_the_backend/)
 - [Swift on WebAssembly, Telegram-Style Spoilers, and Deleting Babel From Your Life](https://www.reddit.com/r/javascript/comments/1vz31oe/swift_on_webassembly_telegramstyle_spoilers_and/)
 - [Telixon - phone number library that compiles Google&#39;s libphonenumber metadata into a DFA &lpar;10x faster, 26 kB&rpar;](https://www.reddit.com/r/javascript/comments/1vz28vj/telixon_phone_number_library_that_compiles/)
 - [Problem with concurrent linter fixes](https://www.reddit.com/r/javascript/comments/1vyw7om/problem_with_concurrent_linter_fixes/)
-- [KernelPlay-JS v0.5.0 Released — Unified Input Manager](https://www.reddit.com/r/javascript/comments/1vytoxh/kernelplayjs_v050_released_unified_input_manager/)
-- [Have you seen the new browser Email Verification API?](https://www.reddit.com/r/javascript/comments/1vyhdys/have_you_seen_the_new_browser_email_verification/)
-- [[AskJS] How common is the term &quot;Barrel&quot; and do you know what it means?](https://www.reddit.com/r/javascript/comments/1vy90ve/askjs_how_common_is_the_term_barrel_and_do_you/)
-- [[AskJS] Building an in-browser APK compiler — binary XML streams and signature blocks in client-side JS](https://www.reddit.com/r/javascript/comments/1vy8kcv/askjs_building_an_inbrowser_apk_compiler_binary/)
-- [`bun-plugin-elm`: import { Elm } from &quot;./Main.elm&quot; &lpar;Made by Hand, btw&rpar; · cekrem.github.io](https://www.reddit.com/r/javascript/comments/1vy1d5t/bunpluginelm_import_elm_from_mainelm_made_by_hand/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
