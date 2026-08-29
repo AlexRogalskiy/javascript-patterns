@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Showoff Saturday &lpar;August 29, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1w1fex6/showoff_saturday_august_29_2026/)
+- [Reducing Zod&#39;s memory footprint by an order of magnitude with memoizing prototypes](https://www.reddit.com/r/javascript/comments/1w1aq5e/reducing_zods_memory_footprint_by_an_order_of/)
+- [DriftJS – Exploring Bytecode-Based Reactivity for VM Architecture](https://www.reddit.com/r/javascript/comments/1w0z5u0/driftjs_exploring_bytecodebased_reactivity_for_vm/)
+- [Browser Test: A browser-based automated javascript testing framework in one .html file](https://www.reddit.com/r/javascript/comments/1w0se5w/browser_test_a_browserbased_automated_javascript/)
 - [Caravan, a flexible TypeScript-first logger for JavaScript applications](https://www.reddit.com/r/javascript/comments/1w0bx4c/caravan_a_flexible_typescriptfirst_logger_for/)
 - [Lightweight, native HTTP client built in C++20 — a fast, local-first alternative to Postman and Insomnia.](https://www.reddit.com/r/javascript/comments/1w01olr/lightweight_native_http_client_built_in_c20_a/)
 - [Open-Source Gwent classic &lpar;The Witcher 3&rpar; Web &amp; APK!](https://www.reddit.com/r/javascript/comments/1vzwsov/opensource_gwent_classic_the_witcher_3_web_apk/)
 - [[AskJS] Which UI component library or DataGrid solution do you use for your web projects?](https://www.reddit.com/r/javascript/comments/1vzsbu1/askjs_which_ui_component_library_or_datagrid/)
 - [[AskJS] Where should attribution logic stop in a JavaScript app?](https://www.reddit.com/r/javascript/comments/1vzr3hx/askjs_where_should_attribution_logic_stop_in_a/)
 - [Crossflight: distributed cache stampede protection](https://www.reddit.com/r/javascript/comments/1vznr48/crossflight_distributed_cache_stampede_protection/)
-- [How to drive your frontend from the backend](https://www.reddit.com/r/javascript/comments/1vz70la/how_to_drive_your_frontend_from_the_backend/)
-- [Swift on WebAssembly, Telegram-Style Spoilers, and Deleting Babel From Your Life](https://www.reddit.com/r/javascript/comments/1vz31oe/swift_on_webassembly_telegramstyle_spoilers_and/)
-- [Telixon - phone number library that compiles Google&#39;s libphonenumber metadata into a DFA &lpar;10x faster, 26 kB&rpar;](https://www.reddit.com/r/javascript/comments/1vz28vj/telixon_phone_number_library_that_compiles/)
-- [Problem with concurrent linter fixes](https://www.reddit.com/r/javascript/comments/1vyw7om/problem_with_concurrent_linter_fixes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
