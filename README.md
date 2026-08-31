@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Самый быстрый в мире фреймворк для создания веб-сайтов.](https://www.reddit.com/r/javascript/comments/1w20895/самый_быстрый_в_мире_фреймворк_для_создания/)
-- [TS Evidence Graph, 100% Requirements Coverage and Compliance](https://www.reddit.com/r/javascript/comments/1w1q1gj/ts_evidence_graph_100_requirements_coverage_and/)
+- [Anyone interested in Git for your test database? useful for assisting QA doing a test.](https://www.reddit.com/r/javascript/comments/1w32w0m/anyone_interested_in_git_for_your_test_database/)
+- [[AskJS] Our server boot got slower and the commit history had no answer, so I timed every require](https://www.reddit.com/r/javascript/comments/1w32mg4/askjs_our_server_boot_got_slower_and_the_commit/)
+- [Object.hasOwn&lpar;&rpar; vs hasOwnProperty&lpar;&rpar; vs in — The JS Property Check Showdown](https://www.reddit.com/r/javascript/comments/1w31drx/objecthasown_vs_hasownproperty_vs_in_the_js/)
+- [Let&#39;s go another framework! A fast little framework for server-first React apps, fully compatible with Next.js.](https://www.reddit.com/r/javascript/comments/1w2z99k/lets_go_another_framework_a_fast_little_framework/)
+- [[AskJS] Good References for JS Design Patterns?](https://www.reddit.com/r/javascript/comments/1w2uune/askjs_good_references_for_js_design_patterns/)
+- [[AskJS] How securely can we store a private key in the browser? &lpar;details inside&rpar;](https://www.reddit.com/r/javascript/comments/1w2t1cx/askjs_how_securely_can_we_store_a_private_key_in/)
 - [Showoff Saturday &lpar;August 29, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1w1fex6/showoff_saturday_august_29_2026/)
 - [Reducing Zod&#39;s memory footprint by an order of magnitude with memoizing prototypes](https://www.reddit.com/r/javascript/comments/1w1aq5e/reducing_zods_memory_footprint_by_an_order_of/)
 - [DriftJS – Exploring Bytecode-Based Reactivity for VM Architecture](https://www.reddit.com/r/javascript/comments/1w0z5u0/driftjs_exploring_bytecodebased_reactivity_for_vm/)
 - [Browser Test: A browser-based automated javascript testing framework in one .html file](https://www.reddit.com/r/javascript/comments/1w0se5w/browser_test_a_browserbased_automated_javascript/)
-- [Caravan, a flexible TypeScript-first logger for JavaScript applications](https://www.reddit.com/r/javascript/comments/1w0bx4c/caravan_a_flexible_typescriptfirst_logger_for/)
-- [Open-Source Gwent classic &lpar;The Witcher 3&rpar; Web &amp; APK!](https://www.reddit.com/r/javascript/comments/1vzwsov/opensource_gwent_classic_the_witcher_3_web_apk/)
-- [[AskJS] Which UI component library or DataGrid solution do you use for your web projects?](https://www.reddit.com/r/javascript/comments/1vzsbu1/askjs_which_ui_component_library_or_datagrid/)
-- [[AskJS] Where should attribution logic stop in a JavaScript app?](https://www.reddit.com/r/javascript/comments/1vzr3hx/askjs_where_should_attribution_logic_stop_in_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
