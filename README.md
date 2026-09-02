@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A free and open source service to get a name.runs-on.dev subdomain for students and builders](https://www.reddit.com/r/javascript/comments/1w5179p/a_free_and_open_source_service_to_get_a/)
+- [Wasmer SDK: Open Source alternative to WebContainers](https://www.reddit.com/r/javascript/comments/1w4ld5q/wasmer_sdk_open_source_alternative_to/)
+- [10 checks and tools for frontend projects with AI code going faster than humans can review](https://www.reddit.com/r/javascript/comments/1w4hzc1/10_checks_and_tools_for_frontend_projects_with_ai/)
+- [Made an client side free file encryption](https://www.reddit.com/r/javascript/comments/1w4722s/made_an_client_side_free_file_encryption/)
 - [RDR2-style volumetric WebGL 2 clouds in the browser](https://www.reddit.com/r/javascript/comments/1w3oh6w/rdr2style_volumetric_webgl_2_clouds_in_the_browser/)
 - [[AskJS] I&#39;m thinking of creating a JS dialect for scientists](https://www.reddit.com/r/javascript/comments/1w3ls6t/askjs_im_thinking_of_creating_a_js_dialect_for/)
 - [Node.js sandboxes powered by QuickJS and WebAssembly](https://www.reddit.com/r/javascript/comments/1w3j4e8/nodejs_sandboxes_powered_by_quickjs_and/)
 - [[AskJS] AI is destroying JavaScript](https://www.reddit.com/r/javascript/comments/1w3i75q/askjs_ai_is_destroying_javascript/)
 - [Your /r/javascript recap for the week of August 24 - August 30, 2026](https://www.reddit.com/r/javascript/comments/1w38am1/your_rjavascript_recap_for_the_week_of_august_24/)
 - [Anyone interested in Git for your test database? useful for assisting QA doing a test.](https://www.reddit.com/r/javascript/comments/1w32w0m/anyone_interested_in_git_for_your_test_database/)
-- [[AskJS] Our server boot got slower and the commit history had no answer, so I timed every require](https://www.reddit.com/r/javascript/comments/1w32mg4/askjs_our_server_boot_got_slower_and_the_commit/)
-- [Object.hasOwn&lpar;&rpar; vs hasOwnProperty&lpar;&rpar; vs in — The JS Property Check Showdown](https://www.reddit.com/r/javascript/comments/1w31drx/objecthasown_vs_hasownproperty_vs_in_the_js/)
-- [Let&#39;s go another framework! A fast little framework for server-first React apps, fully compatible with Next.js.](https://www.reddit.com/r/javascript/comments/1w2z99k/lets_go_another_framework_a_fast_little_framework/)
-- [[AskJS] Good References for JS Design Patterns?](https://www.reddit.com/r/javascript/comments/1w2uune/askjs_good_references_for_js_design_patterns/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
