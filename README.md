@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can AI agents run purely in the browser with vanilla JS? Exploring $0 hosting &amp; zero data egress](https://www.reddit.com/r/javascript/comments/1w6mw3l/can_ai_agents_run_purely_in_the_browser_with/)
+- [[AskJS] BeeLadybug — Open Source Canvas 2D Debug Overlay in Vanilla JS &lpar;Zero Dependencies&rpar;](https://www.reddit.com/r/javascript/comments/1w6jov7/askjs_beeladybug_open_source_canvas_2d_debug/)
+- [Headless phone input controller with no baked-in UI to fight](https://www.reddit.com/r/javascript/comments/1w6h3fz/headless_phone_input_controller_with_no_bakedin/)
+- [GitHub - unadlib/localspace: A library that unifies the APIs of IndexedDB, localStorage and other storage into a consistent API](https://www.reddit.com/r/javascript/comments/1w6c271/github_unadliblocalspace_a_library_that_unifies/)
+- [[AskJS] Best way to handle rotating proxies in Node.js?](https://www.reddit.com/r/javascript/comments/1w68x6y/askjs_best_way_to_handle_rotating_proxies_in/)
+- [Zustand is now the top state management library in new JS repos, and it&#39;s still accelerating &lpar;+7.3% this week&rpar;. Pulled this from a dataset of 5,000+ live repos.](https://www.reddit.com/r/javascript/comments/1w6813a/zustand_is_now_the_top_state_management_library/)
+- [I made a WebGL 2D renderer for browser games that keeps pace with PixiJS in my benchmarks](https://www.reddit.com/r/javascript/comments/1w67via/i_made_a_webgl_2d_renderer_for_browser_games_that/)
+- [What &quot;import defer&quot; Actually Changes About Module Loading](https://www.reddit.com/r/javascript/comments/1w62ekh/what_import_defer_actually_changes_about_module/)
 - [I made a GitHub Action that lets you find and replace text… with JS!](https://www.reddit.com/r/javascript/comments/1w5qbuy/i_made_a_github_action_that_lets_you_find_and/)
 - [A breakdown of errors found in the TypeScript code of VS code](https://www.reddit.com/r/javascript/comments/1w5bu1p/a_breakdown_of_errors_found_in_the_typescript/)
-- [WASI 0.3 Launched](https://www.reddit.com/r/javascript/comments/1w59ojn/wasi_03_launched/)
-- [A free and open source service to get a name.runs-on.dev subdomain for students and builders](https://www.reddit.com/r/javascript/comments/1w5179p/a_free_and_open_source_service_to_get_a/)
-- [Wasmer SDK: Open Source alternative to WebContainers](https://www.reddit.com/r/javascript/comments/1w4ld5q/wasmer_sdk_open_source_alternative_to/)
-- [10 checks and tools for frontend projects with AI code going faster than humans can review](https://www.reddit.com/r/javascript/comments/1w4hzc1/10_checks_and_tools_for_frontend_projects_with_ai/)
-- [RDR2-style volumetric WebGL 2 clouds in the browser](https://www.reddit.com/r/javascript/comments/1w3oh6w/rdr2style_volumetric_webgl_2_clouds_in_the_browser/)
-- [[AskJS] I&#39;m thinking of creating a JS dialect for scientists](https://www.reddit.com/r/javascript/comments/1w3ls6t/askjs_im_thinking_of_creating_a_js_dialect_for/)
-- [Node.js sandboxes powered by QuickJS and WebAssembly](https://www.reddit.com/r/javascript/comments/1w3j4e8/nodejs_sandboxes_powered_by_quickjs_and/)
-- [[AskJS] AI is destroying JavaScript](https://www.reddit.com/r/javascript/comments/1w3i75q/askjs_ai_is_destroying_javascript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
