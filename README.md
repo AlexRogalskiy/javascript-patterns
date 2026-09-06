@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Brightpixels — HDR text and image highlights for the web](https://www.reddit.com/r/javascript/comments/1w8c5zb/brightpixels_hdr_text_and_image_highlights_for/)
+- [nos4: A nostalgia right on your browser!](https://www.reddit.com/r/javascript/comments/1w84xuu/nos4_a_nostalgia_right_on_your_browser/)
+- [Building a fully open-source P2P network for censorship resistant social apps](https://www.reddit.com/r/javascript/comments/1w8479w/building_a_fully_opensource_p2p_network_for/)
+- [[AskJS] Genuine question, why we hating on well-made but LLM-written projects?](https://www.reddit.com/r/javascript/comments/1w81yso/askjs_genuine_question_why_we_hating_on_wellmade/)
+- [CVE-2026-85046 and Northstar](https://www.reddit.com/r/javascript/comments/1w7wvj5/cve202685046_and_northstar/)
+- [Showoff Saturday &lpar;September 05, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1w7tfnm/showoff_saturday_september_05_2026/)
 - [Open-Source Gwent Classic - V5.0 Release! &lpar;New Factions: Ofir &amp; Novigrad&rpar;](https://www.reddit.com/r/javascript/comments/1w7l3d6/opensource_gwent_classic_v50_release_new_factions/)
-- [4K/60 animated maps in Canvas 2D, no WebGL and no mapping library](https://www.reddit.com/r/javascript/comments/1w7kg5b/4k60_animated_maps_in_canvas_2d_no_webgl_and_no/)
 - [[ Removed by Reddit ]](https://www.reddit.com/r/javascript/comments/1w6wosr/removed_by_reddit/)
 - [Can AI agents run purely in the browser with vanilla JS? Exploring $0 hosting &amp; zero data egress](https://www.reddit.com/r/javascript/comments/1w6mw3l/can_ai_agents_run_purely_in_the_browser_with/)
 - [[AskJS] BeeLadybug — Open Source Canvas 2D Debug Overlay in Vanilla JS &lpar;Zero Dependencies&rpar;](https://www.reddit.com/r/javascript/comments/1w6jov7/askjs_beeladybug_open_source_canvas_2d_debug/)
-- [Headless phone input controller with no baked-in UI to fight](https://www.reddit.com/r/javascript/comments/1w6h3fz/headless_phone_input_controller_with_no_bakedin/)
-- [GitHub - unadlib/localspace: A library that unifies the APIs of IndexedDB, localStorage and other storage into a consistent API](https://www.reddit.com/r/javascript/comments/1w6c271/github_unadliblocalspace_a_library_that_unifies/)
-- [[AskJS] Best way to handle rotating proxies in Node.js?](https://www.reddit.com/r/javascript/comments/1w68x6y/askjs_best_way_to_handle_rotating_proxies_in/)
-- [Zustand is now the top state management library in new JS repos, and it&#39;s still accelerating &lpar;+7.3% this week&rpar;. Pulled this from a dataset of 5,000+ live repos.](https://www.reddit.com/r/javascript/comments/1w6813a/zustand_is_now_the_top_state_management_library/)
-- [I made a WebGL 2D renderer for browser games that keeps pace with PixiJS in my benchmarks](https://www.reddit.com/r/javascript/comments/1w67via/i_made_a_webgl_2d_renderer_for_browser_games_that/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
