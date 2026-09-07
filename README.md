@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Has anyone used Cloudflare/Cap’n Web? Any hidden downsides?](https://www.reddit.com/r/javascript/comments/1w9g7y6/askjs_has_anyone_used_cloudflarecapn_web_any/)
+- [[AskJS] If you could have one Node.js tool/package built for you, what would it be?](https://www.reddit.com/r/javascript/comments/1w9e2lz/askjs_if_you_could_have_one_nodejs_toolpackage/)
+- [responsive-state — a tiny, typed, SSR-safe matchMedia store for responsive JavaScript behavior](https://www.reddit.com/r/javascript/comments/1w990v3/responsivestate_a_tiny_typed_ssrsafe_matchmedia/)
+- [Twenty Years of jQuery: How a Little Library Rewired Web Development](https://www.reddit.com/r/javascript/comments/1w90kxp/twenty_years_of_jquery_how_a_little_library/)
 - [Brightpixels — HDR text and image highlights for the web](https://www.reddit.com/r/javascript/comments/1w8c5zb/brightpixels_hdr_text_and_image_highlights_for/)
 - [nos4: A nostalgia right on your browser!](https://www.reddit.com/r/javascript/comments/1w84xuu/nos4_a_nostalgia_right_on_your_browser/)
 - [Building a fully open-source P2P network for censorship resistant social apps](https://www.reddit.com/r/javascript/comments/1w8479w/building_a_fully_opensource_p2p_network_for/)
 - [[AskJS] Genuine question, why we hating on well-made but LLM-written projects?](https://www.reddit.com/r/javascript/comments/1w81yso/askjs_genuine_question_why_we_hating_on_wellmade/)
-- [CVE-2026-85046 and Northstar](https://www.reddit.com/r/javascript/comments/1w7wvj5/cve202685046_and_northstar/)
 - [Showoff Saturday &lpar;September 05, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1w7tfnm/showoff_saturday_september_05_2026/)
 - [Open-Source Gwent Classic - V5.0 Release! &lpar;New Factions: Ofir &amp; Novigrad&rpar;](https://www.reddit.com/r/javascript/comments/1w7l3d6/opensource_gwent_classic_v50_release_new_factions/)
-- [[ Removed by Reddit ]](https://www.reddit.com/r/javascript/comments/1w6wosr/removed_by_reddit/)
-- [Can AI agents run purely in the browser with vanilla JS? Exploring $0 hosting &amp; zero data egress](https://www.reddit.com/r/javascript/comments/1w6mw3l/can_ai_agents_run_purely_in_the_browser_with/)
-- [[AskJS] BeeLadybug — Open Source Canvas 2D Debug Overlay in Vanilla JS &lpar;Zero Dependencies&rpar;](https://www.reddit.com/r/javascript/comments/1w6jov7/askjs_beeladybug_open_source_canvas_2d_debug/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
