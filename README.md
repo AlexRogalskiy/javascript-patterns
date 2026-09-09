@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [online boxing game using JavaScript](https://www.reddit.com/r/javascript/comments/1waabuu/online_boxing_game_using_javascript/)
+- [I made a Molecular Dynamics sim using JS](https://www.reddit.com/r/javascript/comments/1wbbblh/i_made_a_molecular_dynamics_sim_using_js/)
+- [Saradom — frontend architecture pattern](https://www.reddit.com/r/javascript/comments/1wawv9c/saradom_frontend_architecture_pattern/)
+- [WebLLM: run a language model in the browser on WebGPU](https://www.reddit.com/r/javascript/comments/1wav01t/webllm_run_a_language_model_in_the_browser_on/)
+- [WebLLM vs Transformers.js: which in-browser LLM engine should you ship?](https://www.reddit.com/r/javascript/comments/1waqqku/webllm_vs_transformersjs_which_inbrowser_llm/)
+- [KernelPlay-JS Update: Giving Developers X-Ray Vision!](https://www.reddit.com/r/javascript/comments/1wakrcj/kernelplayjs_update_giving_developers_xray_vision/)
+- [Daily coding challenges that build habits, not frustration.](https://www.reddit.com/r/javascript/comments/1wajay7/daily_coding_challenges_that_build_habits_not/)
+- [MikroORM 7.2: row level security, to-one relations through a pivot, sql.js driver with a live docs playground, cursor pagination rework, and more](https://www.reddit.com/r/javascript/comments/1wai0bu/mikroorm_72_row_level_security_toone_relations/)
 - [Half Past Fetch: how the fetch promise resolves and its consequences](https://www.reddit.com/r/javascript/comments/1wa8r5p/half_past_fetch_how_the_fetch_promise_resolves/)
 - [Browser-wide network chaos for every tab](https://www.reddit.com/r/javascript/comments/1w9rjry/browserwide_network_chaos_for_every_tab/)
 - [Shipping a Web Worker inside an npm package without asking users to touch their bundler config](https://www.reddit.com/r/javascript/comments/1w9nr4d/shipping_a_web_worker_inside_an_npm_package/)
-- [Your /r/javascript recap for the week of August 31 - September 06, 2026](https://www.reddit.com/r/javascript/comments/1w9n02t/your_rjavascript_recap_for_the_week_of_august_31/)
-- [I Dislike TypeScript Because I&#39;ve Never Maintained JavaScript Before](https://www.reddit.com/r/javascript/comments/1w9kjdm/i_dislike_typescript_because_ive_never_maintained/)
-- [[AskJS] Has anyone used Cloudflare/Cap’n Web? Any hidden downsides?](https://www.reddit.com/r/javascript/comments/1w9g7y6/askjs_has_anyone_used_cloudflarecapn_web_any/)
-- [[AskJS] If you could have one Node.js tool/package built for you, what would it be?](https://www.reddit.com/r/javascript/comments/1w9e2lz/askjs_if_you_could_have_one_nodejs_toolpackage/)
-- [responsive-state — a tiny, typed, SSR-safe matchMedia store for responsive JavaScript behavior](https://www.reddit.com/r/javascript/comments/1w990v3/responsivestate_a_tiny_typed_ssrsafe_matchmedia/)
-- [Twenty Years of jQuery: How a Little Library Rewired Web Development](https://www.reddit.com/r/javascript/comments/1w90kxp/twenty_years_of_jquery_how_a_little_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
