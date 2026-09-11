@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Infinite Shaders - Javascript, WebGL, and a compiler written in Typescript](https://www.reddit.com/r/javascript/comments/1wd4xxz/infinite_shaders_javascript_webgl_and_a_compiler/)
+- [Dates are a language. We built a parser for them instead of more regexes.](https://www.reddit.com/r/javascript/comments/1wd04gl/dates_are_a_language_we_built_a_parser_for_them/)
+- [Orchid Charts: SVG charts for dashboards, activity calendars and timelines](https://www.reddit.com/r/javascript/comments/1wcu12r/orchid_charts_svg_charts_for_dashboards_activity/)
+- [qfil: jq but in JavaScript](https://www.reddit.com/r/javascript/comments/1wclj2v/qfil_jq_but_in_javascript/)
+- [[Showoff] EAS Cloud iPhones, Automated Screenshot Pipelines, and Nuking Every Simulator You Ever Loved](https://www.reddit.com/r/javascript/comments/1wclcy5/showoff_eas_cloud_iphones_automated_screenshot/)
+- [Hype Stack: a React + Hono template that ships empty, plus a CLI that writes full-stack features into it as source you own &lpar;MIT&rpar;](https://www.reddit.com/r/javascript/comments/1wcl4lt/hype_stack_a_react_hono_template_that_ships_empty/)
 - [eslint-plugin-react 7.37.5 crashes 38 of its 101 rules on ESLint 10, and @eslint/compat clears all 38](https://www.reddit.com/r/javascript/comments/1wc9wti/eslintpluginreact_7375_crashes_38_of_its_101/)
 - [stagelint: a faster lint-staged alternative that never fails on conflicts](https://www.reddit.com/r/javascript/comments/1wblrx4/stagelint_a_faster_lintstaged_alternative_that/)
 - [A copy-paste fetch&lpar;&rpar; wrapper, plus information on replicating Axios-like features](https://www.reddit.com/r/javascript/comments/1wbl4ox/a_copypaste_fetch_wrapper_plus_information_on/)
 - [Upyo 0.6.0: MIME composition, streaming attachments, and calendar invitations](https://www.reddit.com/r/javascript/comments/1wbk0hu/upyo_060_mime_composition_streaming_attachments/)
-- [GitHub - orange-groove/react-map-annotate: Draw on Mapbox, MapLibre, Google, Leaflet, or ArcGIS in React](https://www.reddit.com/r/javascript/comments/1wbjzfw/github_orangegroovereactmapannotate_draw_on/)
-- [GitHub - bakemd: Minimal docs engine that ships 1 KB of JS to the client](https://www.reddit.com/r/javascript/comments/1wbhy10/github_bakemd_minimal_docs_engine_that_ships_1_kb/)
-- [I made a Molecular Dynamics sim using JS](https://www.reddit.com/r/javascript/comments/1wbbblh/i_made_a_molecular_dynamics_sim_using_js/)
-- [Saradom — frontend architecture pattern](https://www.reddit.com/r/javascript/comments/1wawv9c/saradom_frontend_architecture_pattern/)
-- [WebLLM: run a language model in the browser on WebGPU](https://www.reddit.com/r/javascript/comments/1wav01t/webllm_run_a_language_model_in_the_browser_on/)
-- [WebLLM vs Transformers.js: which in-browser LLM engine should you ship?](https://www.reddit.com/r/javascript/comments/1waqqku/webllm_vs_transformersjs_which_inbrowser_llm/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
