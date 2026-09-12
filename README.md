@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Made Duolingo + cursor using react and jsx .. totally freee,prompt to duolingo like lessons](https://www.reddit.com/r/javascript/comments/1we1xlu/made_duolingo_cursor_using_react_and_jsx_totally/)
+- [GitHub - evoluteur/archimedean-solids: Turn all thirteen Archimedean solids in 3D, show their Catalan duals, read their measurements, and print the nets to fold your own](https://www.reddit.com/r/javascript/comments/1we0pdb/github_evoluteurarchimedeansolids_turn_all/)
+- [GitHub - evoluteur/cymatics: Play a frequency and watch the sand settle into its Chladni figure, computed from the wave equation.](https://www.reddit.com/r/javascript/comments/1wdyrtr/github_evoluteurcymatics_play_a_frequency_and/)
+- [Comparing performance of different offline first solutions](https://www.reddit.com/r/javascript/comments/1wdv1gi/comparing_performance_of_different_offline_first/)
+- [[AskJS] Is a managed scraping API worth it for web scraping api and scraper tools, or is it better to build in-house?](https://www.reddit.com/r/javascript/comments/1wdglg9/askjs_is_a_managed_scraping_api_worth_it_for_web/)
+- [Type definitions to retrieve objects from localStorage](https://www.reddit.com/r/javascript/comments/1wdfgod/type_definitions_to_retrieve_objects_from/)
+- [GitHub - evoluteur/platonic-solids: Turn the five Platonic solids in 3D, show their duals, read their measurements, and print the nets to fold your own.](https://www.reddit.com/r/javascript/comments/1wd9hm1/github_evoluteurplatonicsolids_turn_the_five/)
 - [Infinite Shaders - Javascript, WebGL, and a compiler written in Typescript](https://www.reddit.com/r/javascript/comments/1wd4xxz/infinite_shaders_javascript_webgl_and_a_compiler/)
 - [Dates are a language. We built a parser for them instead of more regexes.](https://www.reddit.com/r/javascript/comments/1wd04gl/dates_are_a_language_we_built_a_parser_for_them/)
 - [Orchid Charts: SVG charts for dashboards, activity calendars and timelines](https://www.reddit.com/r/javascript/comments/1wcu12r/orchid_charts_svg_charts_for_dashboards_activity/)
-- [qfil: jq but in JavaScript](https://www.reddit.com/r/javascript/comments/1wclj2v/qfil_jq_but_in_javascript/)
-- [[Showoff] EAS Cloud iPhones, Automated Screenshot Pipelines, and Nuking Every Simulator You Ever Loved](https://www.reddit.com/r/javascript/comments/1wclcy5/showoff_eas_cloud_iphones_automated_screenshot/)
-- [Hype Stack: a React + Hono template that ships empty, plus a CLI that writes full-stack features into it as source you own &lpar;MIT&rpar;](https://www.reddit.com/r/javascript/comments/1wcl4lt/hype_stack_a_react_hono_template_that_ships_empty/)
-- [eslint-plugin-react 7.37.5 crashes 38 of its 101 rules on ESLint 10, and @eslint/compat clears all 38](https://www.reddit.com/r/javascript/comments/1wc9wti/eslintpluginreact_7375_crashes_38_of_its_101/)
-- [stagelint: a faster lint-staged alternative that never fails on conflicts](https://www.reddit.com/r/javascript/comments/1wblrx4/stagelint_a_faster_lintstaged_alternative_that/)
-- [A copy-paste fetch&lpar;&rpar; wrapper, plus information on replicating Axios-like features](https://www.reddit.com/r/javascript/comments/1wbl4ox/a_copypaste_fetch_wrapper_plus_information_on/)
-- [Upyo 0.6.0: MIME composition, streaming attachments, and calendar invitations](https://www.reddit.com/r/javascript/comments/1wbk0hu/upyo_060_mime_composition_streaming_attachments/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
