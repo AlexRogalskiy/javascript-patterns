@@ -277,7 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Made Duolingo + cursor using react and jsx .. totally freee,prompt to duolingo like lessons](https://www.reddit.com/r/javascript/comments/1we1xlu/made_duolingo_cursor_using_react_and_jsx_totally/)
+- [GitHub - 323ws/KeyFlip: An instant, offline physical keyboard layout converter for Windows, Linux, and web browsers. Fixes text typed in the wrong language across 23 layouts.](https://www.reddit.com/r/javascript/comments/1we9zyy/github_323wskeyflip_an_instant_offline_physical/)
+- [Showoff Saturday &lpar;September 12, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1we5g1h/showoff_saturday_september_12_2026/)
 - [GitHub - evoluteur/archimedean-solids: Turn all thirteen Archimedean solids in 3D, show their Catalan duals, read their measurements, and print the nets to fold your own](https://www.reddit.com/r/javascript/comments/1we0pdb/github_evoluteurarchimedeansolids_turn_all/)
 - [GitHub - evoluteur/cymatics: Play a frequency and watch the sand settle into its Chladni figure, computed from the wave equation.](https://www.reddit.com/r/javascript/comments/1wdyrtr/github_evoluteurcymatics_play_a_frequency_and/)
 - [Comparing performance of different offline first solutions](https://www.reddit.com/r/javascript/comments/1wdv1gi/comparing_performance_of_different_offline_first/)
@@ -286,7 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [GitHub - evoluteur/platonic-solids: Turn the five Platonic solids in 3D, show their duals, read their measurements, and print the nets to fold your own.](https://www.reddit.com/r/javascript/comments/1wd9hm1/github_evoluteurplatonicsolids_turn_the_five/)
 - [Infinite Shaders - Javascript, WebGL, and a compiler written in Typescript](https://www.reddit.com/r/javascript/comments/1wd4xxz/infinite_shaders_javascript_webgl_and_a_compiler/)
 - [Dates are a language. We built a parser for them instead of more regexes.](https://www.reddit.com/r/javascript/comments/1wd04gl/dates_are_a_language_we_built_a_parser_for_them/)
-- [Orchid Charts: SVG charts for dashboards, activity calendars and timelines](https://www.reddit.com/r/javascript/comments/1wcu12r/orchid_charts_svg_charts_for_dashboards_activity/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
