@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to Implement a Distributed Circuit Breaker](https://www.reddit.com/r/javascript/comments/1wfmpso/how_to_implement_a_distributed_circuit_breaker/)
+- [[AskJS] What ORM would you use?](https://www.reddit.com/r/javascript/comments/1wfk77e/askjs_what_orm_would_you_use/)
+- [Would you find DINAH &lpar;Dinah is not a harness&rpar; useful? If so please drop any ideas for improvement.](https://www.reddit.com/r/javascript/comments/1wfdz9j/would_you_find_dinah_dinah_is_not_a_harness/)
+- [[AskJS] What’s your experience with AI tools during JavaScript technical interviews?](https://www.reddit.com/r/javascript/comments/1wf9sw5/askjs_whats_your_experience_with_ai_tools_during/)
+- [Classic Game v1.0](https://www.reddit.com/r/javascript/comments/1wf1hl7/classic_game_v10/)
 - [GitHub - 323ws/KeyFlip: An instant, offline physical keyboard layout converter for Windows, Linux, and web browsers. Fixes text typed in the wrong language across 23 layouts.](https://www.reddit.com/r/javascript/comments/1we9zyy/github_323wskeyflip_an_instant_offline_physical/)
 - [Showoff Saturday &lpar;September 12, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1we5g1h/showoff_saturday_september_12_2026/)
 - [GitHub - evoluteur/archimedean-solids: Turn all thirteen Archimedean solids in 3D, show their Catalan duals, read their measurements, and print the nets to fold your own](https://www.reddit.com/r/javascript/comments/1we0pdb/github_evoluteurarchimedeansolids_turn_all/)
 - [GitHub - evoluteur/cymatics: Play a frequency and watch the sand settle into its Chladni figure, computed from the wave equation.](https://www.reddit.com/r/javascript/comments/1wdyrtr/github_evoluteurcymatics_play_a_frequency_and/)
 - [Comparing performance of different offline first solutions](https://www.reddit.com/r/javascript/comments/1wdv1gi/comparing_performance_of_different_offline_first/)
-- [[AskJS] Is a managed scraping API worth it for web scraping api and scraper tools, or is it better to build in-house?](https://www.reddit.com/r/javascript/comments/1wdglg9/askjs_is_a_managed_scraping_api_worth_it_for_web/)
-- [Type definitions to retrieve objects from localStorage](https://www.reddit.com/r/javascript/comments/1wdfgod/type_definitions_to_retrieve_objects_from/)
-- [GitHub - evoluteur/platonic-solids: Turn the five Platonic solids in 3D, show their duals, read their measurements, and print the nets to fold your own.](https://www.reddit.com/r/javascript/comments/1wd9hm1/github_evoluteurplatonicsolids_turn_the_five/)
-- [Infinite Shaders - Javascript, WebGL, and a compiler written in Typescript](https://www.reddit.com/r/javascript/comments/1wd4xxz/infinite_shaders_javascript_webgl_and_a_compiler/)
-- [Dates are a language. We built a parser for them instead of more regexes.](https://www.reddit.com/r/javascript/comments/1wd04gl/dates_are_a_language_we_built_a_parser_for_them/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
