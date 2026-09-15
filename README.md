@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Does anyone use exclussively Javascript and not TypeScript?](https://www.reddit.com/r/javascript/comments/1wghkh8/askjs_does_anyone_use_exclussively_javascript_and/)
+- [[AskJS] How do you find new devs to follow?](https://www.reddit.com/r/javascript/comments/1wgc0b6/askjs_how_do_you_find_new_devs_to_follow/)
+- [Trained the fly to close B2B enterprise deals &lpar;with Three.js&rpar;](https://www.reddit.com/r/javascript/comments/1wg8gxx/trained_the_fly_to_close_b2b_enterprise_deals/)
+- [Becoming a Time Mage to make the engine testable](https://www.reddit.com/r/javascript/comments/1wg1oy7/becoming_a_time_mage_to_make_the_engine_testable/)
+- [srvquery: the TypeScript toolkit for querying game servers](https://www.reddit.com/r/javascript/comments/1wg0vmk/srvquery_the_typescript_toolkit_for_querying_game/)
+- [Your /r/javascript recap for the week of September 07 - September 13, 2026](https://www.reddit.com/r/javascript/comments/1wfy8j0/your_rjavascript_recap_for_the_week_of_september/)
 - [How to Implement a Distributed Circuit Breaker](https://www.reddit.com/r/javascript/comments/1wfmpso/how_to_implement_a_distributed_circuit_breaker/)
 - [[AskJS] What ORM would you use?](https://www.reddit.com/r/javascript/comments/1wfk77e/askjs_what_orm_would_you_use/)
 - [Would you find DINAH &lpar;Dinah is not a harness&rpar; useful? If so please drop any ideas for improvement.](https://www.reddit.com/r/javascript/comments/1wfdz9j/would_you_find_dinah_dinah_is_not_a_harness/)
 - [[AskJS] What’s your experience with AI tools during JavaScript technical interviews?](https://www.reddit.com/r/javascript/comments/1wf9sw5/askjs_whats_your_experience_with_ai_tools_during/)
-- [Classic Game v1.0](https://www.reddit.com/r/javascript/comments/1wf1hl7/classic_game_v10/)
-- [GitHub - 323ws/KeyFlip: An instant, offline physical keyboard layout converter for Windows, Linux, and web browsers. Fixes text typed in the wrong language across 23 layouts.](https://www.reddit.com/r/javascript/comments/1we9zyy/github_323wskeyflip_an_instant_offline_physical/)
-- [Showoff Saturday &lpar;September 12, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1we5g1h/showoff_saturday_september_12_2026/)
-- [GitHub - evoluteur/archimedean-solids: Turn all thirteen Archimedean solids in 3D, show their Catalan duals, read their measurements, and print the nets to fold your own](https://www.reddit.com/r/javascript/comments/1we0pdb/github_evoluteurarchimedeansolids_turn_all/)
-- [GitHub - evoluteur/cymatics: Play a frequency and watch the sand settle into its Chladni figure, computed from the wave equation.](https://www.reddit.com/r/javascript/comments/1wdyrtr/github_evoluteurcymatics_play_a_frequency_and/)
-- [Comparing performance of different offline first solutions](https://www.reddit.com/r/javascript/comments/1wdv1gi/comparing_performance_of_different_offline_first/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
