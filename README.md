@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [TraceUX: a self-hosted TypeScript tracker for session replay and user feedback](https://www.reddit.com/r/javascript/comments/1whj8zc/traceux_a_selfhosted_typescript_tracker_for/)
+- [Page Rage: A game that lets you destroy any page](https://www.reddit.com/r/javascript/comments/1whiaxc/page_rage_a_game_that_lets_you_destroy_any_page/)
+- [[AskJS] Architectural discussion: Managing continuous collision detection &lpar;Swept-AABB&rpar; vs discrete checks in vanilla Canvas loops](https://www.reddit.com/r/javascript/comments/1whdrz7/askjs_architectural_discussion_managing/)
+- [How tool calling actually works under the hood &lpar;40 lines of vanilla JS&rpar;](https://www.reddit.com/r/javascript/comments/1wh7zl4/how_tool_calling_actually_works_under_the_hood_40/)
+- [Optique 1.3.0: Dependency-aware prompts, an OS keychain fallback, and a testing package](https://www.reddit.com/r/javascript/comments/1wh4wcr/optique_130_dependencyaware_prompts_an_os/)
+- [GoJS is now free for personal, non-commercial use](https://www.reddit.com/r/javascript/comments/1wh0f6o/gojs_is_now_free_for_personal_noncommercial_use/)
+- [[AskJS] What JavaScript feature do you think is underrated?](https://www.reddit.com/r/javascript/comments/1wgzdjn/askjs_what_javascript_feature_do_you_think_is/)
 - [[AskJS] Does anyone use exclussively Javascript and not TypeScript?](https://www.reddit.com/r/javascript/comments/1wghkh8/askjs_does_anyone_use_exclussively_javascript_and/)
 - [[AskJS] How do you find new devs to follow?](https://www.reddit.com/r/javascript/comments/1wgc0b6/askjs_how_do_you_find_new_devs_to_follow/)
 - [Trained the fly to close B2B enterprise deals &lpar;with Three.js&rpar;](https://www.reddit.com/r/javascript/comments/1wg8gxx/trained_the_fly_to_close_b2b_enterprise_deals/)
-- [Becoming a Time Mage to make the engine testable](https://www.reddit.com/r/javascript/comments/1wg1oy7/becoming_a_time_mage_to_make_the_engine_testable/)
-- [srvquery: the TypeScript toolkit for querying game servers](https://www.reddit.com/r/javascript/comments/1wg0vmk/srvquery_the_typescript_toolkit_for_querying_game/)
-- [Your /r/javascript recap for the week of September 07 - September 13, 2026](https://www.reddit.com/r/javascript/comments/1wfy8j0/your_rjavascript_recap_for_the_week_of_september/)
-- [How to Implement a Distributed Circuit Breaker](https://www.reddit.com/r/javascript/comments/1wfmpso/how_to_implement_a_distributed_circuit_breaker/)
-- [[AskJS] What ORM would you use?](https://www.reddit.com/r/javascript/comments/1wfk77e/askjs_what_orm_would_you_use/)
-- [Would you find DINAH &lpar;Dinah is not a harness&rpar; useful? If so please drop any ideas for improvement.](https://www.reddit.com/r/javascript/comments/1wfdz9j/would_you_find_dinah_dinah_is_not_a_harness/)
-- [[AskJS] What’s your experience with AI tools during JavaScript technical interviews?](https://www.reddit.com/r/javascript/comments/1wf9sw5/askjs_whats_your_experience_with_ai_tools_during/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
