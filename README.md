@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[Showoff] React Native is DEAD, Expo Modules 2.0, and a $49 Flutter knockoff](https://www.reddit.com/r/javascript/comments/1wi68m0/showoff_react_native_is_dead_expo_modules_20_and/)
+- [[AskJS] Headless table libraries or a full grid component: which did you pick, and would you again?](https://www.reddit.com/r/javascript/comments/1whsop1/askjs_headless_table_libraries_or_a_full_grid/)
+- [Using JavaScript to run SQL queries on client storage](https://www.reddit.com/r/javascript/comments/1whq83m/using_javascript_to_run_sql_queries_on_client/)
+- [Understanding Why You&#39;d Use Effect TS](https://www.reddit.com/r/javascript/comments/1whpqg2/understanding_why_youd_use_effect_ts/)
 - [TraceUX: a self-hosted TypeScript tracker for session replay and user feedback](https://www.reddit.com/r/javascript/comments/1whj8zc/traceux_a_selfhosted_typescript_tracker_for/)
-- [Page Rage: A game that lets you destroy any page](https://www.reddit.com/r/javascript/comments/1whiaxc/page_rage_a_game_that_lets_you_destroy_any_page/)
 - [[AskJS] Architectural discussion: Managing continuous collision detection &lpar;Swept-AABB&rpar; vs discrete checks in vanilla Canvas loops](https://www.reddit.com/r/javascript/comments/1whdrz7/askjs_architectural_discussion_managing/)
 - [How tool calling actually works under the hood &lpar;40 lines of vanilla JS&rpar;](https://www.reddit.com/r/javascript/comments/1wh7zl4/how_tool_calling_actually_works_under_the_hood_40/)
 - [Optique 1.3.0: Dependency-aware prompts, an OS keychain fallback, and a testing package](https://www.reddit.com/r/javascript/comments/1wh4wcr/optique_130_dependencyaware_prompts_an_os/)
 - [GoJS is now free for personal, non-commercial use](https://www.reddit.com/r/javascript/comments/1wh0f6o/gojs_is_now_free_for_personal_noncommercial_use/)
 - [[AskJS] What JavaScript feature do you think is underrated?](https://www.reddit.com/r/javascript/comments/1wgzdjn/askjs_what_javascript_feature_do_you_think_is/)
-- [[AskJS] Does anyone use exclussively Javascript and not TypeScript?](https://www.reddit.com/r/javascript/comments/1wghkh8/askjs_does_anyone_use_exclussively_javascript_and/)
-- [[AskJS] How do you find new devs to follow?](https://www.reddit.com/r/javascript/comments/1wgc0b6/askjs_how_do_you_find_new_devs_to_follow/)
-- [Trained the fly to close B2B enterprise deals &lpar;with Three.js&rpar;](https://www.reddit.com/r/javascript/comments/1wg8gxx/trained_the_fly_to_close_b2b_enterprise_deals/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
