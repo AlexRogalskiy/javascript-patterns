@@ -277,6 +277,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to Implement a Distributed Bulkhead](https://www.reddit.com/r/javascript/comments/1wj3hnv/how_to_implement_a_distributed_bulkhead/)
 - [[Showoff] React Native is DEAD, Expo Modules 2.0, and a $49 Flutter knockoff](https://www.reddit.com/r/javascript/comments/1wi68m0/showoff_react_native_is_dead_expo_modules_20_and/)
 - [[AskJS] Headless table libraries or a full grid component: which did you pick, and would you again?](https://www.reddit.com/r/javascript/comments/1whsop1/askjs_headless_table_libraries_or_a_full_grid/)
 - [Using JavaScript to run SQL queries on client storage](https://www.reddit.com/r/javascript/comments/1whq83m/using_javascript_to_run_sql_queries_on_client/)
@@ -286,7 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [How tool calling actually works under the hood &lpar;40 lines of vanilla JS&rpar;](https://www.reddit.com/r/javascript/comments/1wh7zl4/how_tool_calling_actually_works_under_the_hood_40/)
 - [Optique 1.3.0: Dependency-aware prompts, an OS keychain fallback, and a testing package](https://www.reddit.com/r/javascript/comments/1wh4wcr/optique_130_dependencyaware_prompts_an_os/)
 - [GoJS is now free for personal, non-commercial use](https://www.reddit.com/r/javascript/comments/1wh0f6o/gojs_is_now_free_for_personal_noncommercial_use/)
-- [[AskJS] What JavaScript feature do you think is underrated?](https://www.reddit.com/r/javascript/comments/1wgzdjn/askjs_what_javascript_feature_do_you_think_is/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
