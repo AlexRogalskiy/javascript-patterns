@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Trying to write a pure function to pass Fizz Buzz test Leet Code](https://www.reddit.com/r/javascript/comments/1wk89ka/askjs_trying_to_write_a_pure_function_to_pass/)
+- [Modern cross-spawn port to ESM and Typescript](https://www.reddit.com/r/javascript/comments/1wk4evq/modern_crossspawn_port_to_esm_and_typescript/)
+- [Open-source Chrome extension that matches messy SoundCloud titles to Spotify tracks](https://www.reddit.com/r/javascript/comments/1wjwf7x/opensource_chrome_extension_that_matches_messy/)
+- [[AskJS] High latency when using SignalR&lpar;messagepack&rpar; in K6](https://www.reddit.com/r/javascript/comments/1wjw156/askjs_high_latency_when_using_signalrmessagepack/)
+- [Running Doom on Risk-V Linux inside TinyEmu inside docker inside WASM inside Electron](https://www.reddit.com/r/javascript/comments/1wjkcgy/running_doom_on_riskv_linux_inside_tinyemu_inside/)
 - [How to Implement a Distributed Bulkhead](https://www.reddit.com/r/javascript/comments/1wj3hnv/how_to_implement_a_distributed_bulkhead/)
 - [[Showoff] React Native is DEAD, Expo Modules 2.0, and a $49 Flutter knockoff](https://www.reddit.com/r/javascript/comments/1wi68m0/showoff_react_native_is_dead_expo_modules_20_and/)
 - [[AskJS] Headless table libraries or a full grid component: which did you pick, and would you again?](https://www.reddit.com/r/javascript/comments/1whsop1/askjs_headless_table_libraries_or_a_full_grid/)
 - [Using JavaScript to run SQL queries on client storage](https://www.reddit.com/r/javascript/comments/1whq83m/using_javascript_to_run_sql_queries_on_client/)
 - [Understanding Why You&#39;d Use Effect TS](https://www.reddit.com/r/javascript/comments/1whpqg2/understanding_why_youd_use_effect_ts/)
-- [TraceUX: a self-hosted TypeScript tracker for session replay and user feedback](https://www.reddit.com/r/javascript/comments/1whj8zc/traceux_a_selfhosted_typescript_tracker_for/)
-- [[AskJS] Architectural discussion: Managing continuous collision detection &lpar;Swept-AABB&rpar; vs discrete checks in vanilla Canvas loops](https://www.reddit.com/r/javascript/comments/1whdrz7/askjs_architectural_discussion_managing/)
-- [How tool calling actually works under the hood &lpar;40 lines of vanilla JS&rpar;](https://www.reddit.com/r/javascript/comments/1wh7zl4/how_tool_calling_actually_works_under_the_hood_40/)
-- [Optique 1.3.0: Dependency-aware prompts, an OS keychain fallback, and a testing package](https://www.reddit.com/r/javascript/comments/1wh4wcr/optique_130_dependencyaware_prompts_an_os/)
-- [GoJS is now free for personal, non-commercial use](https://www.reddit.com/r/javascript/comments/1wh0f6o/gojs_is_now_free_for_personal_noncommercial_use/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
