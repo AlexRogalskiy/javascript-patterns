@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [tinyjs — desktop apps for macOS, Windows, and Linux in ~6 MB](https://www.reddit.com/r/javascript/comments/1wm1mbg/tinyjs_desktop_apps_for_macos_windows_and_linux/)
+- [GitHub - evoluteur/rune-reading: Pick a spread, draw runes from the bag, and read what each one says about its place in the layout.](https://www.reddit.com/r/javascript/comments/1wm1eby/github_evoluteurrunereading_pick_a_spread_draw/)
+- [How would I read the fan speed variable from the JavaScript in my project and pass it to the Python script?](https://www.reddit.com/r/javascript/comments/1wlvigl/how_would_i_read_the_fan_speed_variable_from_the/)
+- [[AskJS] PLACER — A new game platform?](https://www.reddit.com/r/javascript/comments/1wlnm07/askjs_placer_a_new_game_platform/)
+- [DriftJS: My &quot;Fine-Grained” Reactivity Was Re-rendering 1,000 Rows](https://www.reddit.com/r/javascript/comments/1wlkhy5/driftjs_my_finegrained_reactivity_was_rerendering/)
+- [I built a browser-based AR system with MediaPipe, TypeScript and Canvas VFX](https://www.reddit.com/r/javascript/comments/1wlfe4y/i_built_a_browserbased_ar_system_with_mediapipe/)
+- [Built this to help with Frontend Interviews after conducting them for about 5 years](https://www.reddit.com/r/javascript/comments/1wldugb/built_this_to_help_with_frontend_interviews_after/)
+- [&quot;Ho costruito un overlay di telemetria visiva a bassa latenza, indipendente dal framework, in Vanilla JS &lpar;con hook contestuali in Python e AI&rpar;&quot;](https://www.reddit.com/r/javascript/comments/1wlcu4k/ho_costruito_un_overlay_di_telemetria_visiva_a/)
 - [GitHub - evoluteur/mandala-maker: Draw a mandala with mirrored symmetry: pick the number of folds, paint with a brush, and export your mandala as PNG or SVG.](https://www.reddit.com/r/javascript/comments/1wl31tw/github_evoluteurmandalamaker_draw_a_mandala_with/)
 - [I finally wrote my own feed-forward neural network, neo.js, from scratch in vanilla &lpar;pure&rpar; JavaScript](https://www.reddit.com/r/javascript/comments/1wkz5pt/i_finally_wrote_my_own_feedforward_neural_network/)
-- [React Native is DEAD, Expo Modules 2.0, and a $49 Flutter knockoff](https://www.reddit.com/r/javascript/comments/1wkxovl/react_native_is_dead_expo_modules_20_and_a_49/)
-- [I wrote a music programming language and song to go with it :&rpar;](https://www.reddit.com/r/javascript/comments/1wkxewu/i_wrote_a_music_programming_language_and_song_to/)
-- [Update Progress Post: introducing Modular Architecture, Universal Renderer Cores, and Decoupled Physics in kernelplay-js](https://www.reddit.com/r/javascript/comments/1wkijb1/update_progress_post_introducing_modular/)
-- [What Should a Green Test Prove? Vue Testing with Vitest Browser Mode](https://www.reddit.com/r/javascript/comments/1wkiivp/what_should_a_green_test_prove_vue_testing_with/)
-- [Showoff Saturday &lpar;September 19, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1wkf39r/showoff_saturday_september_19_2026/)
-- [[AskJS] Trying to write a pure function to pass Fizz Buzz test Leet Code](https://www.reddit.com/r/javascript/comments/1wk89ka/askjs_trying_to_write_a_pure_function_to_pass/)
-- [Modern cross-spawn port to ESM and Typescript](https://www.reddit.com/r/javascript/comments/1wk4evq/modern_crossspawn_port_to_esm_and_typescript/)
-- [Open-source Chrome extension that matches messy SoundCloud titles to Spotify tracks](https://www.reddit.com/r/javascript/comments/1wjwf7x/opensource_chrome_extension_that_matches_messy/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
