@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [tinyjs — desktop apps for macOS, Windows, and Linux in ~6 MB](https://www.reddit.com/r/javascript/comments/1wm1mbg/tinyjs_desktop_apps_for_macos_windows_and_linux/)
+- [GitHub - evoluteur/sri-yantra: Sri Yantra generator: the nine interlocking triangles with their lotus petals, circles and gates, drawn to scale, colorable, and exportable as SVG or PNG.](https://www.reddit.com/r/javascript/comments/1wmzaiw/github_evoluteursriyantra_sri_yantra_generator/)
+- [GitHub - evoluteur/tibetan-singing-bowls: Strike or rub a set of virtual Tibetan singing bowls: synthesized in the browser with Web Audio, with the beating overtones of the real thing.](https://www.reddit.com/r/javascript/comments/1wmwykx/github_evoluteurtibetansingingbowls_strike_or_rub/)
+- [I built a JS contributor ranking from GitHub activity, here’s what surprised me](https://www.reddit.com/r/javascript/comments/1wmhnsm/i_built_a_js_contributor_ranking_from_github/)
+- [Your /r/javascript recap for the week of September 14 - September 20, 2026](https://www.reddit.com/r/javascript/comments/1wm7huz/your_rjavascript_recap_for_the_week_of_september/)
 - [GitHub - evoluteur/rune-reading: Pick a spread, draw runes from the bag, and read what each one says about its place in the layout.](https://www.reddit.com/r/javascript/comments/1wm1eby/github_evoluteurrunereading_pick_a_spread_draw/)
 - [How would I read the fan speed variable from the JavaScript in my project and pass it to the Python script?](https://www.reddit.com/r/javascript/comments/1wlvigl/how_would_i_read_the_fan_speed_variable_from_the/)
 - [[AskJS] PLACER — A new game platform?](https://www.reddit.com/r/javascript/comments/1wlnm07/askjs_placer_a_new_game_platform/)
 - [DriftJS: My &quot;Fine-Grained” Reactivity Was Re-rendering 1,000 Rows](https://www.reddit.com/r/javascript/comments/1wlkhy5/driftjs_my_finegrained_reactivity_was_rerendering/)
 - [I built a browser-based AR system with MediaPipe, TypeScript and Canvas VFX](https://www.reddit.com/r/javascript/comments/1wlfe4y/i_built_a_browserbased_ar_system_with_mediapipe/)
 - [Built this to help with Frontend Interviews after conducting them for about 5 years](https://www.reddit.com/r/javascript/comments/1wldugb/built_this_to_help_with_frontend_interviews_after/)
-- [&quot;Ho costruito un overlay di telemetria visiva a bassa latenza, indipendente dal framework, in Vanilla JS &lpar;con hook contestuali in Python e AI&rpar;&quot;](https://www.reddit.com/r/javascript/comments/1wlcu4k/ho_costruito_un_overlay_di_telemetria_visiva_a/)
-- [GitHub - evoluteur/mandala-maker: Draw a mandala with mirrored symmetry: pick the number of folds, paint with a brush, and export your mandala as PNG or SVG.](https://www.reddit.com/r/javascript/comments/1wl31tw/github_evoluteurmandalamaker_draw_a_mandala_with/)
-- [I finally wrote my own feed-forward neural network, neo.js, from scratch in vanilla &lpar;pure&rpar; JavaScript](https://www.reddit.com/r/javascript/comments/1wkz5pt/i_finally_wrote_my_own_feedforward_neural_network/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
