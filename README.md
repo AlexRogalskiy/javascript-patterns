@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [GitHub - evoluteur/music-of-the-spheres: Music of the spheres: a live orrery where each planet sings a tone that follows its speed around the Sun, as Kepler described in Harmonices Mundi, played with Web Audio.](https://www.reddit.com/r/javascript/comments/1wnued2/github_evoluteurmusicofthespheres_music_of_the/)
+- [I just completed JavaScript: Simple Demo room on TryHackMe! Explore what a basic JavaScript program looks like.](https://www.reddit.com/r/javascript/comments/1wnteh5/i_just_completed_javascript_simple_demo_room_on/)
+- [capsurface: an offline tool for comparing npm dependency capability indicators between updates](https://www.reddit.com/r/javascript/comments/1wngo42/capsurface_an_offline_tool_for_comparing_npm/)
+- [Universal Video Uploader: Single or multi-video uploads for React and React Native. Customizable drop-in UI or headless, any backend.](https://www.reddit.com/r/javascript/comments/1wng6is/universal_video_uploader_single_or_multivideo/)
+- [[AskJS] Why I am unbothered by AI](https://www.reddit.com/r/javascript/comments/1wn955o/askjs_why_i_am_unbothered_by_ai/)
 - [GitHub - evoluteur/sri-yantra: Sri Yantra generator: the nine interlocking triangles with their lotus petals, circles and gates, drawn to scale, colorable, and exportable as SVG or PNG.](https://www.reddit.com/r/javascript/comments/1wmzaiw/github_evoluteursriyantra_sri_yantra_generator/)
 - [GitHub - evoluteur/tibetan-singing-bowls: Strike or rub a set of virtual Tibetan singing bowls: synthesized in the browser with Web Audio, with the beating overtones of the real thing.](https://www.reddit.com/r/javascript/comments/1wmwykx/github_evoluteurtibetansingingbowls_strike_or_rub/)
-- [I built a JS contributor ranking from GitHub activity, here’s what surprised me](https://www.reddit.com/r/javascript/comments/1wmhnsm/i_built_a_js_contributor_ranking_from_github/)
 - [Your /r/javascript recap for the week of September 14 - September 20, 2026](https://www.reddit.com/r/javascript/comments/1wm7huz/your_rjavascript_recap_for_the_week_of_september/)
 - [GitHub - evoluteur/rune-reading: Pick a spread, draw runes from the bag, and read what each one says about its place in the layout.](https://www.reddit.com/r/javascript/comments/1wm1eby/github_evoluteurrunereading_pick_a_spread_draw/)
 - [How would I read the fan speed variable from the JavaScript in my project and pass it to the Python script?](https://www.reddit.com/r/javascript/comments/1wlvigl/how_would_i_read_the_fan_speed_variable_from_the/)
-- [[AskJS] PLACER — A new game platform?](https://www.reddit.com/r/javascript/comments/1wlnm07/askjs_placer_a_new_game_platform/)
-- [DriftJS: My &quot;Fine-Grained” Reactivity Was Re-rendering 1,000 Rows](https://www.reddit.com/r/javascript/comments/1wlkhy5/driftjs_my_finegrained_reactivity_was_rerendering/)
-- [I built a browser-based AR system with MediaPipe, TypeScript and Canvas VFX](https://www.reddit.com/r/javascript/comments/1wlfe4y/i_built_a_browserbased_ar_system_with_mediapipe/)
-- [Built this to help with Frontend Interviews after conducting them for about 5 years](https://www.reddit.com/r/javascript/comments/1wldugb/built_this_to_help_with_frontend_interviews_after/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
