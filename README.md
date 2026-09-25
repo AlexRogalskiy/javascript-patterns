@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [From a local GCRA rate limiter to a shared Redis implementation in JS](https://www.reddit.com/r/javascript/comments/1wp6rvx/from_a_local_gcra_rate_limiter_to_a_shared_redis/)
+- [[AskJS] Vite Plus is amazing](https://www.reddit.com/r/javascript/comments/1wp5u6q/askjs_vite_plus_is_amazing/)
 - [[AskJS] How do you stop sub-cent amounts like $500.004 from sneaking into state?](https://www.reddit.com/r/javascript/comments/1wocw3s/askjs_how_do_you_stop_subcent_amounts_like_500004/)
 - [GitHub - evoluteur/labyrinth-maker: Labyrinth maker: draw the classical Cretan labyrinth, an 11-circuit Troy Town or your own design from a path sequence, walk it to the center, and export it as SVG or PNG.](https://www.reddit.com/r/javascript/comments/1woavl7/github_evoluteurlabyrinthmaker_labyrinth_maker/)
 - [[Showoff] Uninstalling Cursor, Extreme PR Makeovers, and 33 Percent Less Thread-Blocking JSON](https://www.reddit.com/r/javascript/comments/1wo8tjq/showoff_uninstalling_cursor_extreme_pr_makeovers/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [I just completed JavaScript: Simple Demo room on TryHackMe! Explore what a basic JavaScript program looks like.](https://www.reddit.com/r/javascript/comments/1wnteh5/i_just_completed_javascript_simple_demo_room_on/)
 - [capsurface: an offline tool for comparing npm dependency capability indicators between updates](https://www.reddit.com/r/javascript/comments/1wngo42/capsurface_an_offline_tool_for_comparing_npm/)
 - [Universal Video Uploader: Single or multi-video uploads for React and React Native. Customizable drop-in UI or headless, any backend.](https://www.reddit.com/r/javascript/comments/1wng6is/universal_video_uploader_single_or_multivideo/)
-- [[AskJS] Why I am unbothered by AI](https://www.reddit.com/r/javascript/comments/1wn955o/askjs_why_i_am_unbothered_by_ai/)
-- [GitHub - evoluteur/sri-yantra: Sri Yantra generator: the nine interlocking triangles with their lotus petals, circles and gates, drawn to scale, colorable, and exportable as SVG or PNG.](https://www.reddit.com/r/javascript/comments/1wmzaiw/github_evoluteursriyantra_sri_yantra_generator/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
