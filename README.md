@@ -277,6 +277,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [λm.me - Why I like JavaScript as a compilation target](https://www.reddit.com/r/javascript/comments/1wpr4vw/λmme_why_i_like_javascript_as_a_compilation_target/)
 - [From a local GCRA rate limiter to a shared Redis implementation in JS](https://www.reddit.com/r/javascript/comments/1wp6rvx/from_a_local_gcra_rate_limiter_to_a_shared_redis/)
 - [[AskJS] Vite Plus is amazing](https://www.reddit.com/r/javascript/comments/1wp5u6q/askjs_vite_plus_is_amazing/)
 - [[AskJS] How do you stop sub-cent amounts like $500.004 from sneaking into state?](https://www.reddit.com/r/javascript/comments/1wocw3s/askjs_how_do_you_stop_subcent_amounts_like_500004/)
@@ -286,7 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [GitHub - evoluteur/music-of-the-spheres: Music of the spheres: a live orrery where each planet sings a tone that follows its speed around the Sun, as Kepler described in Harmonices Mundi, played with Web Audio.](https://www.reddit.com/r/javascript/comments/1wnued2/github_evoluteurmusicofthespheres_music_of_the/)
 - [I just completed JavaScript: Simple Demo room on TryHackMe! Explore what a basic JavaScript program looks like.](https://www.reddit.com/r/javascript/comments/1wnteh5/i_just_completed_javascript_simple_demo_room_on/)
 - [capsurface: an offline tool for comparing npm dependency capability indicators between updates](https://www.reddit.com/r/javascript/comments/1wngo42/capsurface_an_offline_tool_for_comparing_npm/)
-- [Universal Video Uploader: Single or multi-video uploads for React and React Native. Customizable drop-in UI or headless, any backend.](https://www.reddit.com/r/javascript/comments/1wng6is/universal_video_uploader_single_or_multivideo/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
