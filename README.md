@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to Sync a Design System with Claude Design](https://www.reddit.com/r/javascript/comments/1wse2gh/how_to_sync_a_design_system_with_claude_design/)
+- [Your /r/javascript recap for the week of September 21 - September 27, 2026](https://www.reddit.com/r/javascript/comments/1ws9k0v/your_rjavascript_recap_for_the_week_of_september/)
+- [A-ha, Take On Me - recreated in javascript](https://www.reddit.com/r/javascript/comments/1ws9c2i/aha_take_on_me_recreated_in_javascript/)
 - [Data-Oriented Design in Yuku&#39;s Parser](https://www.reddit.com/r/javascript/comments/1wra7rz/dataoriented_design_in_yukus_parser/)
 - [GitHub - evoluteur/maze-maker: Generate square, circular, triangular and heart-shaped mazes with seven algorithms &lpar;backtracker, Prim, Kruskal, Wilson, hunt-and-kill, growing tree, Aldous-Broder&rpar;, solve them with the keyboard or a finger, and export them as SVG or PNG.](https://www.reddit.com/r/javascript/comments/1wr21rk/github_evoluteurmazemaker_generate_square/)
 - [Caracal: scoped distributed resilience policies for asynchronous operations](https://www.reddit.com/r/javascript/comments/1wqzd1b/caracal_scoped_distributed_resilience_policies/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Showoff Saturday &lpar;September 26, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1wqjub7/showoff_saturday_september_26_2026/)
 - [λm.me - Why I like JavaScript as a compilation target](https://www.reddit.com/r/javascript/comments/1wpr4vw/λmme_why_i_like_javascript_as_a_compilation_target/)
 - [From a local GCRA rate limiter to a shared Redis implementation in JS](https://www.reddit.com/r/javascript/comments/1wp6rvx/from_a_local_gcra_rate_limiter_to_a_shared_redis/)
-- [[AskJS] Vite Plus is amazing](https://www.reddit.com/r/javascript/comments/1wp5u6q/askjs_vite_plus_is_amazing/)
-- [[AskJS] How do you stop sub-cent amounts like $500.004 from sneaking into state?](https://www.reddit.com/r/javascript/comments/1wocw3s/askjs_how_do_you_stop_subcent_amounts_like_500004/)
-- [GitHub - evoluteur/labyrinth-maker: Labyrinth maker: draw the classical Cretan labyrinth, an 11-circuit Troy Town or your own design from a path sequence, walk it to the center, and export it as SVG or PNG.](https://www.reddit.com/r/javascript/comments/1woavl7/github_evoluteurlabyrinthmaker_labyrinth_maker/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
