@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [GitHub - jcubic/mitty: A transport-agnostic proxy RPC for executing method chains from any isolated context &lpar;Workers, Tabs, or Servers&rpar; using lazy evaluation.](https://www.reddit.com/r/javascript/comments/1wtftup/github_jcubicmitty_a_transportagnostic_proxy_rpc/)
+- [Build your own Spamfilter behind Postfix or Sendmail using JavaScript and your favorite LLM](https://www.reddit.com/r/javascript/comments/1wtfqm3/build_your_own_spamfilter_behind_postfix_or/)
+- [Screen sharing sends a picture of your page](https://www.reddit.com/r/javascript/comments/1wtf09b/screen_sharing_sends_a_picture_of_your_page/)
+- [GitHub - jskits/openapi-chain: Type-safe OpenAPI client for complex and large APIs. Requests follow the document&#39;s parameter styles, media types and encodings exactly. Fluent paths, scoped CLI generation and an openapi-fetch adapter.](https://www.reddit.com/r/javascript/comments/1wt7z2p/github_jskitsopenapichain_typesafe_openapi_client/)
 - [How to Sync a Design System with Claude Design](https://www.reddit.com/r/javascript/comments/1wse2gh/how_to_sync_a_design_system_with_claude_design/)
 - [Your /r/javascript recap for the week of September 21 - September 27, 2026](https://www.reddit.com/r/javascript/comments/1ws9k0v/your_rjavascript_recap_for_the_week_of_september/)
 - [A-ha, Take On Me - recreated in javascript](https://www.reddit.com/r/javascript/comments/1ws9c2i/aha_take_on_me_recreated_in_javascript/)
 - [Data-Oriented Design in Yuku&#39;s Parser](https://www.reddit.com/r/javascript/comments/1wra7rz/dataoriented_design_in_yukus_parser/)
 - [GitHub - evoluteur/maze-maker: Generate square, circular, triangular and heart-shaped mazes with seven algorithms &lpar;backtracker, Prim, Kruskal, Wilson, hunt-and-kill, growing tree, Aldous-Broder&rpar;, solve them with the keyboard or a finger, and export them as SVG or PNG.](https://www.reddit.com/r/javascript/comments/1wr21rk/github_evoluteurmazemaker_generate_square/)
 - [Caracal: scoped distributed resilience policies for asynchronous operations](https://www.reddit.com/r/javascript/comments/1wqzd1b/caracal_scoped_distributed_resilience_policies/)
-- [FlowName – AST-guided JS identifier recovery&lpar;85% faster, 36% cheaper&rpar;](https://www.reddit.com/r/javascript/comments/1wqyudg/flowname_astguided_js_identifier_recovery85/)
-- [Showoff Saturday &lpar;September 26, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1wqjub7/showoff_saturday_september_26_2026/)
-- [λm.me - Why I like JavaScript as a compilation target](https://www.reddit.com/r/javascript/comments/1wpr4vw/λmme_why_i_like_javascript_as_a_compilation_target/)
-- [From a local GCRA rate limiter to a shared Redis implementation in JS](https://www.reddit.com/r/javascript/comments/1wp6rvx/from_a_local_gcra_rate_limiter_to_a_shared_redis/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
