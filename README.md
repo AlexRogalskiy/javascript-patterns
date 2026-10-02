@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Linter for the things a regular linter can&#39;t catch](https://www.reddit.com/r/javascript/comments/1wvghgh/linter_for_the_things_a_regular_linter_cant_catch/)
+- [Announcing @storyteller-platform/epub v1.0.0](https://www.reddit.com/r/javascript/comments/1wvcv6j/announcing_storytellerplatformepub_v100/)
+- [Pastoralist, a tool to manage package overrides, including security fixes](https://www.reddit.com/r/javascript/comments/1wv47pr/pastoralist_a_tool_to_manage_package_overrides/)
+- [The JavaScript midlife crisis](https://www.reddit.com/r/javascript/comments/1wuxhrz/the_javascript_midlife_crisis/)
+- [mini react - React like UI library](https://www.reddit.com/r/javascript/comments/1wuw4j1/mini_react_react_like_ui_library/)
+- [[AskJS] Anyone still on Nx &lt;20.8 because upgrading is difficult?](https://www.reddit.com/r/javascript/comments/1wuvnqn/askjs_anyone_still_on_nx_208_because_upgrading_is/)
 - [What are the practical scaling limits of an instruction-based template VM vs AOT compilation in zero-build runtimes?](https://www.reddit.com/r/javascript/comments/1wulyi0/what_are_the_practical_scaling_limits_of_an/)
 - [Readable Regular Expressions for JavaScript/TypeScript, Inspired by Emacs&#39; rx](https://www.reddit.com/r/javascript/comments/1wuiy89/readable_regular_expressions_for/)
 - [Adrenaline.js – A 56KB Electron alternative that keeps Node.js &amp; npm without Chromium bloat](https://www.reddit.com/r/javascript/comments/1wuhkpv/adrenalinejs_a_56kb_electron_alternative_that/)
 - [Crossflight: cross-process cache stampede protection for the cache you already use &lpar;v0.3.2&rpar;](https://www.reddit.com/r/javascript/comments/1wuerzn/crossflight_crossprocess_cache_stampede/)
-- [I made an interactive star map where you can explore tonight&#39;s night sky and learn to read the constellations](https://www.reddit.com/r/javascript/comments/1wucd3v/i_made_an_interactive_star_map_where_you_can/)
-- [[Showoff] Crease-Proof Layouts, Brain Rot Without the Black Frames, and Un-Breaking a Non-Breaking Release](https://www.reddit.com/r/javascript/comments/1wu6kgz/showoff_creaseproof_layouts_brain_rot_without_the/)
-- [GitHub - FarazKelhini/stack-pulse: TypeScript is now in 76% of actively-maintained JavaScript repos I&#39;m sampling](https://www.reddit.com/r/javascript/comments/1wu4cuc/github_farazkelhinistackpulse_typescript_is_now/)
-- [Announcing Vite+ 1.0](https://www.reddit.com/r/javascript/comments/1wu45s9/announcing_vite_10/)
-- [GitHub - grishmadev/malfilter: A security script to detect potential malware packages](https://www.reddit.com/r/javascript/comments/1wu0hix/github_grishmadevmalfilter_a_security_script_to/)
-- [GitHub - jcubic/mitty: A transport-agnostic proxy RPC for executing method chains from any isolated context &lpar;Workers, Tabs, or Servers&rpar; using lazy evaluation.](https://www.reddit.com/r/javascript/comments/1wtftup/github_jcubicmitty_a_transportagnostic_proxy_rpc/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
