@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I’m starting Open Components, an open standard for UI components that work for people, developers and AI agents](https://www.reddit.com/r/javascript/comments/1wx7z4d/im_starting_open_components_an_open_standard_for/)
+- [Node.js now lists Vite+ as a community installation method](https://www.reddit.com/r/javascript/comments/1wx6gny/nodejs_now_lists_vite_as_a_community_installation/)
+- [I Tested 11 HTTP Resilience Libraries](https://www.reddit.com/r/javascript/comments/1wx50pp/i_tested_11_http_resilience_libraries/)
+- [Your JSON Is Lying to You](https://www.reddit.com/r/javascript/comments/1wwv1sv/your_json_is_lying_to_you/)
+- [Showoff Saturday &lpar;October 03, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1wwgn5u/showoff_saturday_october_03_2026/)
 - [I built a hover-to-play audio preview card with a real-time Web Audio EQ in vanilla JS -- no frameworks](https://www.reddit.com/r/javascript/comments/1ww8ocw/i_built_a_hovertoplay_audio_preview_card_with_a/)
 - [GitHub - PureStackStudio/PureStack: TypeScript-native frontend framework for building content, components, styles, and interactive apps in one coherent stack.](https://www.reddit.com/r/javascript/comments/1ww87pk/github_purestackstudiopurestack_typescriptnative/)
 - [Introducing Codebeast - new coding harness](https://www.reddit.com/r/javascript/comments/1ww67op/introducing_codebeast_new_coding_harness/)
 - [MDN documents JavaScript features before the spec is officially published](https://www.reddit.com/r/javascript/comments/1ww5tq7/mdn_documents_javascript_features_before_the_spec/)
 - [Building Doom from scratch in JavaScript/WebGL — no WASM, now with WebRTC multiplayer](https://www.reddit.com/r/javascript/comments/1ww2hkk/building_doom_from_scratch_in_javascriptwebgl_no/)
-- [Linter for the things a regular linter can&#39;t catch](https://www.reddit.com/r/javascript/comments/1wvghgh/linter_for_the_things_a_regular_linter_cant_catch/)
-- [Announcing @storyteller-platform/epub v1.0.0](https://www.reddit.com/r/javascript/comments/1wvcv6j/announcing_storytellerplatformepub_v100/)
-- [Pastoralist, a tool to manage package overrides, including security fixes](https://www.reddit.com/r/javascript/comments/1wv47pr/pastoralist_a_tool_to_manage_package_overrides/)
-- [The JavaScript midlife crisis](https://www.reddit.com/r/javascript/comments/1wuxhrz/the_javascript_midlife_crisis/)
-- [mini react - React like UI library](https://www.reddit.com/r/javascript/comments/1wuw4j1/mini_react_react_like_ui_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
