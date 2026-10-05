@@ -277,6 +277,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Claude Code Mods are JavaScript or TypeScript functions running with your permissions](https://www.reddit.com/r/javascript/comments/1wxalyf/claude_code_mods_are_javascript_or_typescript/)
 - [I’m starting Open Components, an open standard for UI components that work for people, developers and AI agents](https://www.reddit.com/r/javascript/comments/1wx7z4d/im_starting_open_components_an_open_standard_for/)
 - [Node.js now lists Vite+ as a community installation method](https://www.reddit.com/r/javascript/comments/1wx6gny/nodejs_now_lists_vite_as_a_community_installation/)
 - [I Tested 11 HTTP Resilience Libraries](https://www.reddit.com/r/javascript/comments/1wx50pp/i_tested_11_http_resilience_libraries/)
@@ -286,7 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [GitHub - PureStackStudio/PureStack: TypeScript-native frontend framework for building content, components, styles, and interactive apps in one coherent stack.](https://www.reddit.com/r/javascript/comments/1ww87pk/github_purestackstudiopurestack_typescriptnative/)
 - [Introducing Codebeast - new coding harness](https://www.reddit.com/r/javascript/comments/1ww67op/introducing_codebeast_new_coding_harness/)
 - [MDN documents JavaScript features before the spec is officially published](https://www.reddit.com/r/javascript/comments/1ww5tq7/mdn_documents_javascript_features_before_the_spec/)
-- [Building Doom from scratch in JavaScript/WebGL — no WASM, now with WebRTC multiplayer](https://www.reddit.com/r/javascript/comments/1ww2hkk/building_doom_from_scratch_in_javascriptwebgl_no/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
