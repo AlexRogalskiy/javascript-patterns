@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [We made 1000 PDFs 32% smaller with zero quality loss using Brotli and JPEG XL.](https://www.reddit.com/r/javascript/comments/1wylgqw/we_made_1000_pdfs_32_smaller_with_zero_quality/)
+- [Online comparison of tf.js, litert.js and Uchen on VS Code language detection model](https://www.reddit.com/r/javascript/comments/1wyfq90/online_comparison_of_tfjs_litertjs_and_uchen_on/)
+- [[Show] I built an open-source npm loading checker for Node.js, Bun and Deno. Looking for packages that break.](https://www.reddit.com/r/javascript/comments/1wy88fi/show_i_built_an_opensource_npm_loading_checker/)
+- [Your /r/javascript recap for the week of September 28 - October 04, 2026](https://www.reddit.com/r/javascript/comments/1wy3r07/your_rjavascript_recap_for_the_week_of_september/)
 - [Claude Code Mods are JavaScript or TypeScript functions running with your permissions](https://www.reddit.com/r/javascript/comments/1wxalyf/claude_code_mods_are_javascript_or_typescript/)
 - [I’m starting Open Components, an open standard for UI components that work for people, developers and AI agents](https://www.reddit.com/r/javascript/comments/1wx7z4d/im_starting_open_components_an_open_standard_for/)
 - [Node.js now lists Vite+ as a community installation method](https://www.reddit.com/r/javascript/comments/1wx6gny/nodejs_now_lists_vite_as_a_community_installation/)
 - [I Tested 11 HTTP Resilience Libraries](https://www.reddit.com/r/javascript/comments/1wx50pp/i_tested_11_http_resilience_libraries/)
 - [Your JSON Is Lying to You](https://www.reddit.com/r/javascript/comments/1wwv1sv/your_json_is_lying_to_you/)
 - [Showoff Saturday &lpar;October 03, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1wwgn5u/showoff_saturday_october_03_2026/)
-- [I built a hover-to-play audio preview card with a real-time Web Audio EQ in vanilla JS -- no frameworks](https://www.reddit.com/r/javascript/comments/1ww8ocw/i_built_a_hovertoplay_audio_preview_card_with_a/)
-- [GitHub - PureStackStudio/PureStack: TypeScript-native frontend framework for building content, components, styles, and interactive apps in one coherent stack.](https://www.reddit.com/r/javascript/comments/1ww87pk/github_purestackstudiopurestack_typescriptnative/)
-- [Introducing Codebeast - new coding harness](https://www.reddit.com/r/javascript/comments/1ww67op/introducing_codebeast_new_coding_harness/)
-- [MDN documents JavaScript features before the spec is officially published](https://www.reddit.com/r/javascript/comments/1ww5tq7/mdn_documents_javascript_features_before_the_spec/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
