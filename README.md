@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [GitHub - evoluteur/snowflake-grower: Grow snow crystals live on a hexagonal grid with Reiter&#39;s cellular automaton. Set the humidity and frost to get stellar dendrites, ferns, plates or lace, and download the snowflake.](https://www.reddit.com/r/javascript/comments/1wzni06/github_evoluteursnowflakegrower_grow_snow/)
+- [I built Polar and Ticket a typed language for JS and a Rails-shaped framework](https://www.reddit.com/r/javascript/comments/1wzcvwl/i_built_polar_and_ticket_a_typed_language_for_js/)
+- [[AskJS] My simulation runs in about 1 second in the terminal but took 13 seconds in a Chrome page. The culprit was setTimeout&lpar;0&rpar;.](https://www.reddit.com/r/javascript/comments/1wzb4kv/askjs_my_simulation_runs_in_about_1_second_in_the/)
+- [LogTape 2.4.0: Source locations, configuration inspection, sink draining, and request completion levels](https://www.reddit.com/r/javascript/comments/1wz6ffy/logtape_240_source_locations_configuration/)
+- [i made this javascript deobfuscator for &quot;javascript-obfuscator&quot; &lpar;repo name&rpar; on github :&rpar;](https://www.reddit.com/r/javascript/comments/1wz52uw/i_made_this_javascript_deobfuscator_for/)
 - [We made 1000 PDFs 32% smaller with zero quality loss using Brotli and JPEG XL.](https://www.reddit.com/r/javascript/comments/1wylgqw/we_made_1000_pdfs_32_smaller_with_zero_quality/)
 - [Online comparison of tf.js, litert.js and Uchen on VS Code language detection model](https://www.reddit.com/r/javascript/comments/1wyfq90/online_comparison_of_tfjs_litertjs_and_uchen_on/)
 - [[Show] I built an open-source npm loading checker for Node.js, Bun and Deno. Looking for packages that break.](https://www.reddit.com/r/javascript/comments/1wy88fi/show_i_built_an_opensource_npm_loading_checker/)
 - [Your /r/javascript recap for the week of September 28 - October 04, 2026](https://www.reddit.com/r/javascript/comments/1wy3r07/your_rjavascript_recap_for_the_week_of_september/)
 - [Claude Code Mods are JavaScript or TypeScript functions running with your permissions](https://www.reddit.com/r/javascript/comments/1wxalyf/claude_code_mods_are_javascript_or_typescript/)
-- [I’m starting Open Components, an open standard for UI components that work for people, developers and AI agents](https://www.reddit.com/r/javascript/comments/1wx7z4d/im_starting_open_components_an_open_standard_for/)
-- [Node.js now lists Vite+ as a community installation method](https://www.reddit.com/r/javascript/comments/1wx6gny/nodejs_now_lists_vite_as_a_community_installation/)
-- [I Tested 11 HTTP Resilience Libraries](https://www.reddit.com/r/javascript/comments/1wx50pp/i_tested_11_http_resilience_libraries/)
-- [Your JSON Is Lying to You](https://www.reddit.com/r/javascript/comments/1wwv1sv/your_json_is_lying_to_you/)
-- [Showoff Saturday &lpar;October 03, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1wwgn5u/showoff_saturday_october_03_2026/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
