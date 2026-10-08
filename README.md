@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I found yet another way to invoke JavaScript functions without parentheses](https://www.reddit.com/r/javascript/comments/1x0hqjh/i_found_yet_another_way_to_invoke_javascript/)
+- [I hate Spotify ads, so I created my own music player](https://www.reddit.com/r/javascript/comments/1x0gvj6/i_hate_spotify_ads_so_i_created_my_own_music/)
+- [GitHub - evoluteur/reaction-diffusion: Grow Turing patterns &lpar;spots, stripes, coral, worms, waves&rpar; from the Gray-Scott model in real time, tune the feed and kill rates, paint with chemicals, and download the pattern.](https://www.reddit.com/r/javascript/comments/1x0cvno/github_evoluteurreactiondiffusion_grow_turing/)
+- [Componyx.UI: 25+ UI components and data binding for plain HTML, no build step](https://www.reddit.com/r/javascript/comments/1x04eti/componyxui_25_ui_components_and_data_binding_for/)
+- [iwrzwr/visual archive - sound &amp; music visualizer experiments](https://www.reddit.com/r/javascript/comments/1x025n1/iwrzwrvisual_archive_sound_music_visualizer/)
+- [[Showoff] Mega Carrots for Monty, Angular Through the Sliding Door, and Lynx on Foldables](https://www.reddit.com/r/javascript/comments/1wzyc1n/showoff_mega_carrots_for_monty_angular_through/)
+- [[AskJS] How would you structure state for VidLoader&#39;s local media library?](https://www.reddit.com/r/javascript/comments/1wzxma1/askjs_how_would_you_structure_state_for/)
+- [MS Office: I made a clone of office &lpar;Contains word, powerpoint, excel and onenote&rpar;! Fully fontend! Just by HTML, CSS and vanilla JS!](https://www.reddit.com/r/javascript/comments/1wzsdx9/ms_office_i_made_a_clone_of_office_contains_word/)
+- [Win11WebOS – An open-source, local-first Windows 11 desktop built in React, Vite, and JS](https://www.reddit.com/r/javascript/comments/1wzrht2/win11webos_an_opensource_localfirst_windows_11/)
 - [GitHub - evoluteur/snowflake-grower: Grow snow crystals live on a hexagonal grid with Reiter&#39;s cellular automaton. Set the humidity and frost to get stellar dendrites, ferns, plates or lace, and download the snowflake.](https://www.reddit.com/r/javascript/comments/1wzni06/github_evoluteursnowflakegrower_grow_snow/)
-- [I built Polar and Ticket a typed language for JS and a Rails-shaped framework](https://www.reddit.com/r/javascript/comments/1wzcvwl/i_built_polar_and_ticket_a_typed_language_for_js/)
-- [[AskJS] My simulation runs in about 1 second in the terminal but took 13 seconds in a Chrome page. The culprit was setTimeout&lpar;0&rpar;.](https://www.reddit.com/r/javascript/comments/1wzb4kv/askjs_my_simulation_runs_in_about_1_second_in_the/)
-- [LogTape 2.4.0: Source locations, configuration inspection, sink draining, and request completion levels](https://www.reddit.com/r/javascript/comments/1wz6ffy/logtape_240_source_locations_configuration/)
-- [i made this javascript deobfuscator for &quot;javascript-obfuscator&quot; &lpar;repo name&rpar; on github :&rpar;](https://www.reddit.com/r/javascript/comments/1wz52uw/i_made_this_javascript_deobfuscator_for/)
-- [We made 1000 PDFs 32% smaller with zero quality loss using Brotli and JPEG XL.](https://www.reddit.com/r/javascript/comments/1wylgqw/we_made_1000_pdfs_32_smaller_with_zero_quality/)
-- [Online comparison of tf.js, litert.js and Uchen on VS Code language detection model](https://www.reddit.com/r/javascript/comments/1wyfq90/online_comparison_of_tfjs_litertjs_and_uchen_on/)
-- [[Show] I built an open-source npm loading checker for Node.js, Bun and Deno. Looking for packages that break.](https://www.reddit.com/r/javascript/comments/1wy88fi/show_i_built_an_opensource_npm_loading_checker/)
-- [Your /r/javascript recap for the week of September 28 - October 04, 2026](https://www.reddit.com/r/javascript/comments/1wy3r07/your_rjavascript_recap_for_the_week_of_september/)
-- [Claude Code Mods are JavaScript or TypeScript functions running with your permissions](https://www.reddit.com/r/javascript/comments/1wxalyf/claude_code_mods_are_javascript_or_typescript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
