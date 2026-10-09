@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I built RipIDE: IDE-like refactoring for agents, powered by TypeScript’s native language server](https://www.reddit.com/r/javascript/comments/1x1e0ct/i_built_ripide_idelike_refactoring_for_agents/)
+- [chegou – send files between your phone and PC with one command &lpar;npx chegou, scan a QR, done&rpar;](https://www.reddit.com/r/javascript/comments/1x1aobx/chegou_send_files_between_your_phone_and_pc_with/)
 - [I found yet another way to invoke JavaScript functions without parentheses](https://www.reddit.com/r/javascript/comments/1x0hqjh/i_found_yet_another_way_to_invoke_javascript/)
 - [I hate Spotify ads, so I created my own music player](https://www.reddit.com/r/javascript/comments/1x0gvj6/i_hate_spotify_ads_so_i_created_my_own_music/)
 - [GitHub - evoluteur/reaction-diffusion: Grow Turing patterns &lpar;spots, stripes, coral, worms, waves&rpar; from the Gray-Scott model in real time, tune the feed and kill rates, paint with chemicals, and download the pattern.](https://www.reddit.com/r/javascript/comments/1x0cvno/github_evoluteurreactiondiffusion_grow_turing/)
@@ -284,8 +286,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [iwrzwr/visual archive - sound &amp; music visualizer experiments](https://www.reddit.com/r/javascript/comments/1x025n1/iwrzwrvisual_archive_sound_music_visualizer/)
 - [[Showoff] Mega Carrots for Monty, Angular Through the Sliding Door, and Lynx on Foldables](https://www.reddit.com/r/javascript/comments/1wzyc1n/showoff_mega_carrots_for_monty_angular_through/)
 - [[AskJS] How would you structure state for VidLoader&#39;s local media library?](https://www.reddit.com/r/javascript/comments/1wzxma1/askjs_how_would_you_structure_state_for/)
-- [MS Office: I made a clone of office &lpar;Contains word, powerpoint, excel and onenote&rpar;! Fully fontend! Just by HTML, CSS and vanilla JS!](https://www.reddit.com/r/javascript/comments/1wzsdx9/ms_office_i_made_a_clone_of_office_contains_word/)
-- [Win11WebOS – An open-source, local-first Windows 11 desktop built in React, Vite, and JS](https://www.reddit.com/r/javascript/comments/1wzrht2/win11webos_an_opensource_localfirst_windows_11/)
 - [GitHub - evoluteur/snowflake-grower: Grow snow crystals live on a hexagonal grid with Reiter&#39;s cellular automaton. Set the humidity and frost to get stellar dendrites, ferns, plates or lace, and download the snowflake.](https://www.reddit.com/r/javascript/comments/1wzni06/github_evoluteursnowflakegrower_grow_snow/)
 <!-- REDDIT-POST-LIST:END -->
 
