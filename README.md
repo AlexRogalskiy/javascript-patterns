@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Do Frameworks Matter Anymore?](https://www.reddit.com/r/javascript/comments/1x1tud9/do_frameworks_matter_anymore/)
+- [Deno is joining Cloudflare - &quot;We will support the Deno runtime for another year with monthly releases containing bug fixes and security updates. After that year we will end our development of the Deno runtime. Deno will remain open source, and we welcome others who want to continue its development.&quot;](https://www.reddit.com/r/javascript/comments/1x1lw8s/deno_is_joining_cloudflare_we_will_support_the/)
 - [I built RipIDE: IDE-like refactoring for agents, powered by TypeScript’s native language server](https://www.reddit.com/r/javascript/comments/1x1e0ct/i_built_ripide_idelike_refactoring_for_agents/)
 - [chegou – send files between your phone and PC with one command &lpar;npx chegou, scan a QR, done&rpar;](https://www.reddit.com/r/javascript/comments/1x1aobx/chegou_send_files_between_your_phone_and_pc_with/)
 - [I found yet another way to invoke JavaScript functions without parentheses](https://www.reddit.com/r/javascript/comments/1x0hqjh/i_found_yet_another_way_to_invoke_javascript/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Componyx.UI: 25+ UI components and data binding for plain HTML, no build step](https://www.reddit.com/r/javascript/comments/1x04eti/componyxui_25_ui_components_and_data_binding_for/)
 - [iwrzwr/visual archive - sound &amp; music visualizer experiments](https://www.reddit.com/r/javascript/comments/1x025n1/iwrzwrvisual_archive_sound_music_visualizer/)
 - [[Showoff] Mega Carrots for Monty, Angular Through the Sliding Door, and Lynx on Foldables](https://www.reddit.com/r/javascript/comments/1wzyc1n/showoff_mega_carrots_for_monty_angular_through/)
-- [[AskJS] How would you structure state for VidLoader&#39;s local media library?](https://www.reddit.com/r/javascript/comments/1wzxma1/askjs_how_would_you_structure_state_for/)
-- [GitHub - evoluteur/snowflake-grower: Grow snow crystals live on a hexagonal grid with Reiter&#39;s cellular automaton. Set the humidity and frost to get stellar dendrites, ferns, plates or lace, and download the snowflake.](https://www.reddit.com/r/javascript/comments/1wzni06/github_evoluteursnowflakegrower_grow_snow/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
