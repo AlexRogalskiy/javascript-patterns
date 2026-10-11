@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Marionette 5 is out. No Backbone. Still opinionated.](https://www.reddit.com/r/javascript/comments/1x2lui8/marionette_5_is_out_no_backbone_still_opinionated/)
+- [part-of.my.id - a free subdomain service](https://www.reddit.com/r/javascript/comments/1x2ldph/partofmyid_a_free_subdomain_service/)
+- [The CLI that scans your project in a fraction of a second.](https://www.reddit.com/r/javascript/comments/1x2emla/the_cli_that_scans_your_project_in_a_fraction_of/)
+- [Showoff Saturday &lpar;October 10, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1x28m4r/showoff_saturday_october_10_2026/)
 - [Do Frameworks Matter Anymore?](https://www.reddit.com/r/javascript/comments/1x1tud9/do_frameworks_matter_anymore/)
 - [Deno is joining Cloudflare - &quot;We will support the Deno runtime for another year with monthly releases containing bug fixes and security updates. After that year we will end our development of the Deno runtime. Deno will remain open source, and we welcome others who want to continue its development.&quot;](https://www.reddit.com/r/javascript/comments/1x1lw8s/deno_is_joining_cloudflare_we_will_support_the/)
 - [I built RipIDE: IDE-like refactoring for agents, powered by TypeScript’s native language server](https://www.reddit.com/r/javascript/comments/1x1e0ct/i_built_ripide_idelike_refactoring_for_agents/)
 - [chegou – send files between your phone and PC with one command &lpar;npx chegou, scan a QR, done&rpar;](https://www.reddit.com/r/javascript/comments/1x1aobx/chegou_send_files_between_your_phone_and_pc_with/)
 - [I found yet another way to invoke JavaScript functions without parentheses](https://www.reddit.com/r/javascript/comments/1x0hqjh/i_found_yet_another_way_to_invoke_javascript/)
 - [I hate Spotify ads, so I created my own music player](https://www.reddit.com/r/javascript/comments/1x0gvj6/i_hate_spotify_ads_so_i_created_my_own_music/)
-- [GitHub - evoluteur/reaction-diffusion: Grow Turing patterns &lpar;spots, stripes, coral, worms, waves&rpar; from the Gray-Scott model in real time, tune the feed and kill rates, paint with chemicals, and download the pattern.](https://www.reddit.com/r/javascript/comments/1x0cvno/github_evoluteurreactiondiffusion_grow_turing/)
-- [Componyx.UI: 25+ UI components and data binding for plain HTML, no build step](https://www.reddit.com/r/javascript/comments/1x04eti/componyxui_25_ui_components_and_data_binding_for/)
-- [iwrzwr/visual archive - sound &amp; music visualizer experiments](https://www.reddit.com/r/javascript/comments/1x025n1/iwrzwrvisual_archive_sound_music_visualizer/)
-- [[Showoff] Mega Carrots for Monty, Angular Through the Sliding Door, and Lynx on Foldables](https://www.reddit.com/r/javascript/comments/1wzyc1n/showoff_mega_carrots_for_monty_angular_through/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
