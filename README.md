@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I spent almost 3 years porting Paint.NET from C# to JavaScript](https://www.reddit.com/r/javascript/comments/1x3l37v/i_spent_almost_3_years_porting_paintnet_from_c_to/)
+- [StaleDocs: flag unchanged Markdown docs when JavaScript/TypeScript APIs change](https://www.reddit.com/r/javascript/comments/1x35mny/staledocs_flag_unchanged_markdown_docs_when/)
+- [48 JavaScript interview questions with full answers, including the implement-it-yourself ones &lpar;Promise, bind, debounce&rpar;](https://www.reddit.com/r/javascript/comments/1x356h0/48_javascript_interview_questions_with_full/)
 - [Marionette 5 is out. No Backbone. Still opinionated.](https://www.reddit.com/r/javascript/comments/1x2lui8/marionette_5_is_out_no_backbone_still_opinionated/)
 - [part-of.my.id - a free subdomain service](https://www.reddit.com/r/javascript/comments/1x2ldph/partofmyid_a_free_subdomain_service/)
 - [The CLI that scans your project in a fraction of a second.](https://www.reddit.com/r/javascript/comments/1x2emla/the_cli_that_scans_your_project_in_a_fraction_of/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Do Frameworks Matter Anymore?](https://www.reddit.com/r/javascript/comments/1x1tud9/do_frameworks_matter_anymore/)
 - [Deno is joining Cloudflare - &quot;We will support the Deno runtime for another year with monthly releases containing bug fixes and security updates. After that year we will end our development of the Deno runtime. Deno will remain open source, and we welcome others who want to continue its development.&quot;](https://www.reddit.com/r/javascript/comments/1x1lw8s/deno_is_joining_cloudflare_we_will_support_the/)
 - [I built RipIDE: IDE-like refactoring for agents, powered by TypeScript’s native language server](https://www.reddit.com/r/javascript/comments/1x1e0ct/i_built_ripide_idelike_refactoring_for_agents/)
-- [chegou – send files between your phone and PC with one command &lpar;npx chegou, scan a QR, done&rpar;](https://www.reddit.com/r/javascript/comments/1x1aobx/chegou_send_files_between_your_phone_and_pc_with/)
-- [I found yet another way to invoke JavaScript functions without parentheses](https://www.reddit.com/r/javascript/comments/1x0hqjh/i_found_yet_another_way_to_invoke_javascript/)
-- [I hate Spotify ads, so I created my own music player](https://www.reddit.com/r/javascript/comments/1x0gvj6/i_hate_spotify_ads_so_i_created_my_own_music/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
