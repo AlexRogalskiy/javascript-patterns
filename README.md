@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Mutative v2 - better immutability and faster immutable updates](https://www.reddit.com/r/javascript/comments/1x48ht8/mutative_v2_better_immutability_and_faster/)
+- [Multi-window web apps without syncing state: one SharedWorker, windows only render](https://www.reddit.com/r/javascript/comments/1x3zqnc/multiwindow_web_apps_without_syncing_state_one/)
+- [xuan – a 6 MB Node-compatible JavaScript runtime for IoT/edge, ~5 ms cold start](https://www.reddit.com/r/javascript/comments/1x3xc5t/xuan_a_6_mb_nodecompatible_javascript_runtime_for/)
+- [Your /r/javascript recap for the week of October 05 - October 11, 2026](https://www.reddit.com/r/javascript/comments/1x3wymm/your_rjavascript_recap_for_the_week_of_october_05/)
 - [I spent almost 3 years porting Paint.NET from C# to JavaScript](https://www.reddit.com/r/javascript/comments/1x3l37v/i_spent_almost_3_years_porting_paintnet_from_c_to/)
 - [StaleDocs: flag unchanged Markdown docs when JavaScript/TypeScript APIs change](https://www.reddit.com/r/javascript/comments/1x35mny/staledocs_flag_unchanged_markdown_docs_when/)
-- [48 JavaScript interview questions with full answers, including the implement-it-yourself ones &lpar;Promise, bind, debounce&rpar;](https://www.reddit.com/r/javascript/comments/1x356h0/48_javascript_interview_questions_with_full/)
 - [Marionette 5 is out. No Backbone. Still opinionated.](https://www.reddit.com/r/javascript/comments/1x2lui8/marionette_5_is_out_no_backbone_still_opinionated/)
-- [part-of.my.id - a free subdomain service](https://www.reddit.com/r/javascript/comments/1x2ldph/partofmyid_a_free_subdomain_service/)
 - [The CLI that scans your project in a fraction of a second.](https://www.reddit.com/r/javascript/comments/1x2emla/the_cli_that_scans_your_project_in_a_fraction_of/)
 - [Showoff Saturday &lpar;October 10, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1x28m4r/showoff_saturday_october_10_2026/)
 - [Do Frameworks Matter Anymore?](https://www.reddit.com/r/javascript/comments/1x1tud9/do_frameworks_matter_anymore/)
-- [Deno is joining Cloudflare - &quot;We will support the Deno runtime for another year with monthly releases containing bug fixes and security updates. After that year we will end our development of the Deno runtime. Deno will remain open source, and we welcome others who want to continue its development.&quot;](https://www.reddit.com/r/javascript/comments/1x1lw8s/deno_is_joining_cloudflare_we_will_support_the/)
-- [I built RipIDE: IDE-like refactoring for agents, powered by TypeScript’s native language server](https://www.reddit.com/r/javascript/comments/1x1e0ct/i_built_ripide_idelike_refactoring_for_agents/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
