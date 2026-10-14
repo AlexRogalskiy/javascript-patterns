@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I built a real-time multiplayer drawing game &lpar;InkLink&rpar; using React and modern web tech—here is how it works and what I learned](https://www.reddit.com/r/javascript/comments/1x4tvfm/i_built_a_realtime_multiplayer_drawing_game/)
+- [How we made JavaScript analyzer understand control flow](https://www.reddit.com/r/javascript/comments/1x4r31f/how_we_made_javascript_analyzer_understand/)
 - [Mutative v2 - better immutability and faster immutable updates](https://www.reddit.com/r/javascript/comments/1x48ht8/mutative_v2_better_immutability_and_faster/)
 - [Multi-window web apps without syncing state: one SharedWorker, windows only render](https://www.reddit.com/r/javascript/comments/1x3zqnc/multiwindow_web_apps_without_syncing_state_one/)
 - [xuan – a 6 MB Node-compatible JavaScript runtime for IoT/edge, ~5 ms cold start](https://www.reddit.com/r/javascript/comments/1x3xc5t/xuan_a_6_mb_nodecompatible_javascript_runtime_for/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [StaleDocs: flag unchanged Markdown docs when JavaScript/TypeScript APIs change](https://www.reddit.com/r/javascript/comments/1x35mny/staledocs_flag_unchanged_markdown_docs_when/)
 - [Marionette 5 is out. No Backbone. Still opinionated.](https://www.reddit.com/r/javascript/comments/1x2lui8/marionette_5_is_out_no_backbone_still_opinionated/)
 - [The CLI that scans your project in a fraction of a second.](https://www.reddit.com/r/javascript/comments/1x2emla/the_cli_that_scans_your_project_in_a_fraction_of/)
-- [Showoff Saturday &lpar;October 10, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1x28m4r/showoff_saturday_october_10_2026/)
-- [Do Frameworks Matter Anymore?](https://www.reddit.com/r/javascript/comments/1x1tud9/do_frameworks_matter_anymore/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
