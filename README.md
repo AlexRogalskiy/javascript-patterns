@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] How do you host your smaller Node.js apps? Building something and want opinions](https://www.reddit.com/r/javascript/comments/1x60wff/askjs_how_do_you_host_your_smaller_nodejs_apps/)
+- [Mimic - a browser-based dev environment that runs Node.js](https://www.reddit.com/r/javascript/comments/1x5zw4b/mimic_a_browserbased_dev_environment_that_runs/)
+- [LittleJS is 2D and 3D now!](https://www.reddit.com/r/javascript/comments/1x5zcb5/littlejs_is_2d_and_3d_now/)
+- [The Great Graphite Migration, Derek Joins Fat Fighters, and a Leaderboard for Your Dependency Tree](https://www.reddit.com/r/javascript/comments/1x5yq1r/the_great_graphite_migration_derek_joins_fat/)
+- [I embedded Node.js in a native program to render JSX without a browser and without React](https://www.reddit.com/r/javascript/comments/1x5sico/i_embedded_nodejs_in_a_native_program_to_render/)
 - [I built a real-time multiplayer drawing game &lpar;InkLink&rpar; using React and modern web tech—here is how it works and what I learned](https://www.reddit.com/r/javascript/comments/1x4tvfm/i_built_a_realtime_multiplayer_drawing_game/)
 - [How we made JavaScript analyzer understand control flow](https://www.reddit.com/r/javascript/comments/1x4r31f/how_we_made_javascript_analyzer_understand/)
 - [Mutative v2 - better immutability and faster immutable updates](https://www.reddit.com/r/javascript/comments/1x48ht8/mutative_v2_better_immutability_and_faster/)
 - [Multi-window web apps without syncing state: one SharedWorker, windows only render](https://www.reddit.com/r/javascript/comments/1x3zqnc/multiwindow_web_apps_without_syncing_state_one/)
 - [xuan – a 6 MB Node-compatible JavaScript runtime for IoT/edge, ~5 ms cold start](https://www.reddit.com/r/javascript/comments/1x3xc5t/xuan_a_6_mb_nodecompatible_javascript_runtime_for/)
-- [Your /r/javascript recap for the week of October 05 - October 11, 2026](https://www.reddit.com/r/javascript/comments/1x3wymm/your_rjavascript_recap_for_the_week_of_october_05/)
-- [I spent almost 3 years porting Paint.NET from C# to JavaScript](https://www.reddit.com/r/javascript/comments/1x3l37v/i_spent_almost_3_years_porting_paintnet_from_c_to/)
-- [StaleDocs: flag unchanged Markdown docs when JavaScript/TypeScript APIs change](https://www.reddit.com/r/javascript/comments/1x35mny/staledocs_flag_unchanged_markdown_docs_when/)
-- [Marionette 5 is out. No Backbone. Still opinionated.](https://www.reddit.com/r/javascript/comments/1x2lui8/marionette_5_is_out_no_backbone_still_opinionated/)
-- [The CLI that scans your project in a fraction of a second.](https://www.reddit.com/r/javascript/comments/1x2emla/the_cli_that_scans_your_project_in_a_fraction_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
