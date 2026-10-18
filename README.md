@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise](https://www.reddit.com/r/javascript/comments/1x8nwrp/the_decoherence_trap_when_ai_slop_drowns_out_the/)
+- [[AskJS] I compare full move logs instead of a hash to prove two bots played the same games. Overkill?](https://www.reddit.com/r/javascript/comments/1x8l6hb/askjs_i_compare_full_move_logs_instead_of_a_hash/)
+- [eval&lpar;&rpar; in a straitjacket: sandboxing JavaScript under CSP](https://www.reddit.com/r/javascript/comments/1x8hfpp/eval_in_a_straitjacket_sandboxing_javascript/)
+- [Why do Next.js boilerplates force you to delete half their code? Built 4 isolated kits instead.](https://www.reddit.com/r/javascript/comments/1x8coxm/why_do_nextjs_boilerplates_force_you_to_delete/)
+- [Showoff Saturday &lpar;October 17, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1x83kd2/showoff_saturday_october_17_2026/)
 - [Making the web 3D - Extensible Scalable 3D File Format](https://www.reddit.com/r/javascript/comments/1x7uzmm/making_the_web_3d_extensible_scalable_3d_file/)
-- [Running your code through prettier can change what it does.](https://www.reddit.com/r/javascript/comments/1x7uz6m/running_your_code_through_prettier_can_change/)
 - [[AskJS] What are your opinions on express-zod-api?](https://www.reddit.com/r/javascript/comments/1x7mxvl/askjs_what_are_your_opinions_on_expresszodapi/)
 - [I built a free anime “where to watch” site with 45k static pages, here’s how it keeps its data fresh without a backend](https://www.reddit.com/r/javascript/comments/1x7ejks/i_built_a_free_anime_where_to_watch_site_with_45k/)
 - [Chartist v2: we brought the 10-year-old SVG charting library back on track &lpar;now with SSR and terminal charts&rpar;](https://www.reddit.com/r/javascript/comments/1x7d937/chartist_v2_we_brought_the_10yearold_svg_charting/)
 - [[AskJS] How do you host your smaller Node.js apps? Building something and want opinions](https://www.reddit.com/r/javascript/comments/1x60wff/askjs_how_do_you_host_your_smaller_nodejs_apps/)
-- [Mimic - a browser-based dev environment that runs Node.js](https://www.reddit.com/r/javascript/comments/1x5zw4b/mimic_a_browserbased_dev_environment_that_runs/)
-- [LittleJS is 2D and 3D now!](https://www.reddit.com/r/javascript/comments/1x5zcb5/littlejs_is_2d_and_3d_now/)
-- [The Great Graphite Migration, Derek Joins Fat Fighters, and a Leaderboard for Your Dependency Tree](https://www.reddit.com/r/javascript/comments/1x5yq1r/the_great_graphite_migration_derek_joins_fat/)
-- [I embedded Node.js in a native program to render JSX without a browser and without React](https://www.reddit.com/r/javascript/comments/1x5sico/i_embedded_nodejs_in_a_native_program_to_render/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
