@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise](https://www.reddit.com/r/javascript/comments/1x8nwrp/the_decoherence_trap_when_ai_slop_drowns_out_the/)
+- [How to Implement a Distributed Recovery Ramp in JavaScript](https://www.reddit.com/r/javascript/comments/1x9iums/how_to_implement_a_distributed_recovery_ramp_in/)
+- [contextjsx - Composable JSX for prompts. Type-safe tools and skills, defined once and exportable as CLI help, docs, SKILL.md and an MCP server.](https://www.reddit.com/r/javascript/comments/1x9b7or/contextjsx_composable_jsx_for_prompts_typesafe/)
+- [Some things I&#39;ve built, some things I&#39;ve learned.](https://www.reddit.com/r/javascript/comments/1x99i2t/some_things_ive_built_some_things_ive_learned/)
+- [In March 2026, I, my audio engineer, and his partner created Prudence Audio to provide filters and fx which DAWs should have but don&#39;t, and filters/fx which cost way too much.](https://www.reddit.com/r/javascript/comments/1x94gyh/in_march_2026_i_my_audio_engineer_and_his_partner/)
+- [[AskJS] Building a clone like Spline](https://www.reddit.com/r/javascript/comments/1x8vlue/askjs_building_a_clone_like_spline/)
 - [[AskJS] I compare full move logs instead of a hash to prove two bots played the same games. Overkill?](https://www.reddit.com/r/javascript/comments/1x8l6hb/askjs_i_compare_full_move_logs_instead_of_a_hash/)
 - [eval&lpar;&rpar; in a straitjacket: sandboxing JavaScript under CSP](https://www.reddit.com/r/javascript/comments/1x8hfpp/eval_in_a_straitjacket_sandboxing_javascript/)
 - [Why do Next.js boilerplates force you to delete half their code? Built 4 isolated kits instead.](https://www.reddit.com/r/javascript/comments/1x8coxm/why_do_nextjs_boilerplates_force_you_to_delete/)
 - [Showoff Saturday &lpar;October 17, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1x83kd2/showoff_saturday_october_17_2026/)
 - [Making the web 3D - Extensible Scalable 3D File Format](https://www.reddit.com/r/javascript/comments/1x7uzmm/making_the_web_3d_extensible_scalable_3d_file/)
-- [[AskJS] What are your opinions on express-zod-api?](https://www.reddit.com/r/javascript/comments/1x7mxvl/askjs_what_are_your_opinions_on_expresszodapi/)
-- [I built a free anime “where to watch” site with 45k static pages, here’s how it keeps its data fresh without a backend](https://www.reddit.com/r/javascript/comments/1x7ejks/i_built_a_free_anime_where_to_watch_site_with_45k/)
-- [Chartist v2: we brought the 10-year-old SVG charting library back on track &lpar;now with SSR and terminal charts&rpar;](https://www.reddit.com/r/javascript/comments/1x7d937/chartist_v2_we_brought_the_10yearold_svg_charting/)
-- [[AskJS] How do you host your smaller Node.js apps? Building something and want opinions](https://www.reddit.com/r/javascript/comments/1x60wff/askjs_how_do_you_host_your_smaller_nodejs_apps/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
