@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Announcing TypeScript 7.1 Beta](https://www.reddit.com/r/javascript/comments/1xaz5vm/announcing_typescript_71_beta/)
+- [Built a logic gate simulator using HTML Canvas](https://www.reddit.com/r/javascript/comments/1xaz0qm/built_a_logic_gate_simulator_using_html_canvas/)
+- [I am working on a playwright with JS/TS. I want to prepare for the upcoming SDET interview including coding practice on JavaScript and TypeScript. Can someone guide me from where and what I should learn/prepare?](https://www.reddit.com/r/javascript/comments/1xax1fw/i_am_working_on_a_playwright_with_jsts_i_want_to/)
+- [Knitting — a shared-memory concurrency runtime for JavaScript](https://www.reddit.com/r/javascript/comments/1xau3tt/knitting_a_sharedmemory_concurrency_runtime_for/)
+- [langgraph-harness: a LangGraph.js agent system for GitLab, written in TypeScript](https://www.reddit.com/r/javascript/comments/1xasppa/langgraphharness_a_langgraphjs_agent_system_for/)
+- [Introducing tsrs: a Port of TypeScript to Rust](https://www.reddit.com/r/javascript/comments/1xas5pu/introducing_tsrs_a_port_of_typescript_to_rust/)
 - [How to Gaslight JavaScript Programmers](https://www.reddit.com/r/javascript/comments/1xaahuj/how_to_gaslight_javascript_programmers/)
 - [Your /r/javascript recap for the week of October 12 - October 18, 2026](https://www.reddit.com/r/javascript/comments/1x9rvfk/your_rjavascript_recap_for_the_week_of_october_12/)
 - [three-nebula v13.3.0 &lpar;Helix&rpar; released, deterministic particle behaviors with seeded noise and JSON round-tripping](https://www.reddit.com/r/javascript/comments/1x9qvfn/threenebula_v1330_helix_released_deterministic/)
 - [How to Implement a Distributed Recovery Ramp in JavaScript](https://www.reddit.com/r/javascript/comments/1x9iums/how_to_implement_a_distributed_recovery_ramp_in/)
-- [contextjsx - Composable JSX for prompts. Type-safe tools and skills, defined once and exportable as CLI help, docs, SKILL.md and an MCP server.](https://www.reddit.com/r/javascript/comments/1x9b7or/contextjsx_composable_jsx_for_prompts_typesafe/)
-- [Some things I&#39;ve built, some things I&#39;ve learned.](https://www.reddit.com/r/javascript/comments/1x99i2t/some_things_ive_built_some_things_ive_learned/)
-- [[AskJS] Building a clone like Spline](https://www.reddit.com/r/javascript/comments/1x8vlue/askjs_building_a_clone_like_spline/)
-- [[AskJS] I compare full move logs instead of a hash to prove two bots played the same games. Overkill?](https://www.reddit.com/r/javascript/comments/1x8l6hb/askjs_i_compare_full_move_logs_instead_of_a_hash/)
-- [eval&lpar;&rpar; in a straitjacket: sandboxing JavaScript under CSP](https://www.reddit.com/r/javascript/comments/1x8hfpp/eval_in_a_straitjacket_sandboxing_javascript/)
-- [Why do Next.js boilerplates force you to delete half their code? Built 4 isolated kits instead.](https://www.reddit.com/r/javascript/comments/1x8coxm/why_do_nextjs_boilerplates_force_you_to_delete/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
