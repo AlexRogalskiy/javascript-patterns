@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I made a map where you drag a year slider and see who ruled each state &lpar;1000 BC to today, every claim sourced&rpar;](https://www.reddit.com/r/javascript/comments/1xbvjhh/i_made_a_map_where_you_drag_a_year_slider_and_see/)
+- [made a CLI that generates a typed client from a HAR capture — here&#39;s what the output looks like](https://www.reddit.com/r/javascript/comments/1xbs5oy/made_a_cli_that_generates_a_typed_client_from_a/)
+- [i built a browser civilization sandbox: rust/wasm sim core with a react ui, MIT](https://www.reddit.com/r/javascript/comments/1xbqg9z/i_built_a_browser_civilization_sandbox_rustwasm/)
+- [3 drop-in JS widgets &lpar;forecast, dashboard, anomaly detection&rpar; that run 100% in the browser via WASM](https://www.reddit.com/r/javascript/comments/1xbmbym/3_dropin_js_widgets_forecast_dashboard_anomaly/)
+- [Wasp web framework v1.0 is coming: the roadmap and what changes](https://www.reddit.com/r/javascript/comments/1xbl00g/wasp_web_framework_v10_is_coming_the_roadmap_and/)
+- [I made a practice tool for JavaScript that requires you to type all answers](https://www.reddit.com/r/javascript/comments/1xbja6r/i_made_a_practice_tool_for_javascript_that/)
 - [Announcing TypeScript 7.1 Beta](https://www.reddit.com/r/javascript/comments/1xaz5vm/announcing_typescript_71_beta/)
-- [Built a logic gate simulator using HTML Canvas](https://www.reddit.com/r/javascript/comments/1xaz0qm/built_a_logic_gate_simulator_using_html_canvas/)
 - [I am working on a playwright with JS/TS. I want to prepare for the upcoming SDET interview including coding practice on JavaScript and TypeScript. Can someone guide me from where and what I should learn/prepare?](https://www.reddit.com/r/javascript/comments/1xax1fw/i_am_working_on_a_playwright_with_jsts_i_want_to/)
 - [Knitting — a shared-memory concurrency runtime for JavaScript](https://www.reddit.com/r/javascript/comments/1xau3tt/knitting_a_sharedmemory_concurrency_runtime_for/)
 - [langgraph-harness: a LangGraph.js agent system for GitLab, written in TypeScript](https://www.reddit.com/r/javascript/comments/1xasppa/langgraphharness_a_langgraphjs_agent_system_for/)
-- [Introducing tsrs: a Port of TypeScript to Rust](https://www.reddit.com/r/javascript/comments/1xas5pu/introducing_tsrs_a_port_of_typescript_to_rust/)
-- [How to Gaslight JavaScript Programmers](https://www.reddit.com/r/javascript/comments/1xaahuj/how_to_gaslight_javascript_programmers/)
-- [Your /r/javascript recap for the week of October 12 - October 18, 2026](https://www.reddit.com/r/javascript/comments/1x9rvfk/your_rjavascript_recap_for_the_week_of_october_12/)
-- [three-nebula v13.3.0 &lpar;Helix&rpar; released, deterministic particle behaviors with seeded noise and JSON round-tripping](https://www.reddit.com/r/javascript/comments/1x9qvfn/threenebula_v1330_helix_released_deterministic/)
-- [How to Implement a Distributed Recovery Ramp in JavaScript](https://www.reddit.com/r/javascript/comments/1x9iums/how_to_implement_a_distributed_recovery_ramp_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
