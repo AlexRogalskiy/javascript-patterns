@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [HTML is Alive - an exhortation to remove its ventilator](https://www.reddit.com/r/javascript/comments/1xcnyxf/html_is_alive_an_exhortation_to_remove_its/)
+- [I created a new &lpar;digital&rpar; musical instrument which I call the Harmonophone, entirely in vanilla JavaScript. [Prudence Audio]](https://www.reddit.com/r/javascript/comments/1xcnk1g/i_created_a_new_digital_musical_instrument_which/)
+- [a website that lets you play with antennas and visualize the electromagnetic field](https://www.reddit.com/r/javascript/comments/1xck13p/a_website_that_lets_you_play_with_antennas_and/)
+- [Wasp web framework v1.0 is coming: the roadmap and what changes](https://www.reddit.com/r/javascript/comments/1xck06z/wasp_web_framework_v10_is_coming_the_roadmap_and/)
+- [Nano Kit 2.0 is out: my state management library now has DevTools](https://www.reddit.com/r/javascript/comments/1xci4rq/nano_kit_20_is_out_my_state_management_library/)
+- [tiptap-a4-pagination: free A4 page layout for TipTap 3 – tables split across pages and repeat their header](https://www.reddit.com/r/javascript/comments/1xcfvg2/tiptapa4pagination_free_a4_page_layout_for_tiptap/)
+- [We just gave a million dollars to Open Source maintainers](https://www.reddit.com/r/javascript/comments/1xcd2bj/we_just_gave_a_million_dollars_to_open_source/)
 - [I made a map where you drag a year slider and see who ruled each state &lpar;1000 BC to today, every claim sourced&rpar;](https://www.reddit.com/r/javascript/comments/1xbvjhh/i_made_a_map_where_you_drag_a_year_slider_and_see/)
 - [made a CLI that generates a typed client from a HAR capture — here&#39;s what the output looks like](https://www.reddit.com/r/javascript/comments/1xbs5oy/made_a_cli_that_generates_a_typed_client_from_a/)
 - [i built a browser civilization sandbox: rust/wasm sim core with a react ui, MIT](https://www.reddit.com/r/javascript/comments/1xbqg9z/i_built_a_browser_civilization_sandbox_rustwasm/)
-- [3 drop-in JS widgets &lpar;forecast, dashboard, anomaly detection&rpar; that run 100% in the browser via WASM](https://www.reddit.com/r/javascript/comments/1xbmbym/3_dropin_js_widgets_forecast_dashboard_anomaly/)
-- [Wasp web framework v1.0 is coming: the roadmap and what changes](https://www.reddit.com/r/javascript/comments/1xbl00g/wasp_web_framework_v10_is_coming_the_roadmap_and/)
-- [I made a practice tool for JavaScript that requires you to type all answers](https://www.reddit.com/r/javascript/comments/1xbja6r/i_made_a_practice_tool_for_javascript_that/)
-- [Announcing TypeScript 7.1 Beta](https://www.reddit.com/r/javascript/comments/1xaz5vm/announcing_typescript_71_beta/)
-- [I am working on a playwright with JS/TS. I want to prepare for the upcoming SDET interview including coding practice on JavaScript and TypeScript. Can someone guide me from where and what I should learn/prepare?](https://www.reddit.com/r/javascript/comments/1xax1fw/i_am_working_on_a_playwright_with_jsts_i_want_to/)
-- [Knitting — a shared-memory concurrency runtime for JavaScript](https://www.reddit.com/r/javascript/comments/1xau3tt/knitting_a_sharedmemory_concurrency_runtime_for/)
-- [langgraph-harness: a LangGraph.js agent system for GitLab, written in TypeScript](https://www.reddit.com/r/javascript/comments/1xasppa/langgraphharness_a_langgraphjs_agent_system_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
