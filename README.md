@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [HTML is Alive - an exhortation to remove its ventilator](https://www.reddit.com/r/javascript/comments/1xcnyxf/html_is_alive_an_exhortation_to_remove_its/)
-- [I created a new &lpar;digital&rpar; musical instrument which I call the Harmonophone, entirely in vanilla JavaScript. [Prudence Audio]](https://www.reddit.com/r/javascript/comments/1xcnk1g/i_created_a_new_digital_musical_instrument_which/)
+- [[AskJS] :Recently got a PR merged into TanStack Query](https://www.reddit.com/r/javascript/comments/1xdhjza/askjs_recently_got_a_pr_merged_into_tanstack_query/)
+- [Inline rendering with document​.currentScript](https://www.reddit.com/r/javascript/comments/1xdelos/inline_rendering_with_documentcurrentscript/)
+- [I spent three years building Nanoviews, a tiny UI library on signals. It just hit 1.0](https://www.reddit.com/r/javascript/comments/1xdc8fm/i_spent_three_years_building_nanoviews_a_tiny_ui/)
+- [Article: I replaced EsLint. The First Attempt Worked. I threw it away.](https://www.reddit.com/r/javascript/comments/1xdbl62/article_i_replaced_eslint_the_first_attempt/)
 - [a website that lets you play with antennas and visualize the electromagnetic field](https://www.reddit.com/r/javascript/comments/1xck13p/a_website_that_lets_you_play_with_antennas_and/)
 - [Wasp web framework v1.0 is coming: the roadmap and what changes](https://www.reddit.com/r/javascript/comments/1xck06z/wasp_web_framework_v10_is_coming_the_roadmap_and/)
 - [Nano Kit 2.0 is out: my state management library now has DevTools](https://www.reddit.com/r/javascript/comments/1xci4rq/nano_kit_20_is_out_my_state_management_library/)
 - [tiptap-a4-pagination: free A4 page layout for TipTap 3 – tables split across pages and repeat their header](https://www.reddit.com/r/javascript/comments/1xcfvg2/tiptapa4pagination_free_a4_page_layout_for_tiptap/)
 - [We just gave a million dollars to Open Source maintainers](https://www.reddit.com/r/javascript/comments/1xcd2bj/we_just_gave_a_million_dollars_to_open_source/)
 - [I made a map where you drag a year slider and see who ruled each state &lpar;1000 BC to today, every claim sourced&rpar;](https://www.reddit.com/r/javascript/comments/1xbvjhh/i_made_a_map_where_you_drag_a_year_slider_and_see/)
-- [made a CLI that generates a typed client from a HAR capture — here&#39;s what the output looks like](https://www.reddit.com/r/javascript/comments/1xbs5oy/made_a_cli_that_generates_a_typed_client_from_a/)
-- [i built a browser civilization sandbox: rust/wasm sim core with a react ui, MIT](https://www.reddit.com/r/javascript/comments/1xbqg9z/i_built_a_browser_civilization_sandbox_rustwasm/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
