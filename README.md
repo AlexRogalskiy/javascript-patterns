@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [GitHub - evoluteur/braille-quiz: Learn to read Braille: guess words letter group by letter group &lpar;a-j, a-t, a-z&rpar;, with and without a cheat sheet, against the clock.](https://www.reddit.com/r/javascript/comments/1xfje2j/github_evoluteurbraillequiz_learn_to_read_braille/)
+- [LittleJS Engine is 2D and 3D now](https://www.reddit.com/r/javascript/comments/1xf8iai/littlejs_engine_is_2d_and_3d_now/)
+- [Biblioteca HTML y CSS](https://www.reddit.com/r/javascript/comments/1xf069g/biblioteca_html_y_css/)
 - [Handcrafted HTML-first progressive framework that outperforms React](https://www.reddit.com/r/javascript/comments/1xes1qa/handcrafted_htmlfirst_progressive_framework_that/)
 - [DigitalVisualMixer: live visuals, no experience required](https://www.reddit.com/r/javascript/comments/1xe28ev/digitalvisualmixer_live_visuals_no_experience/)
 - [Showoff Saturday &lpar;October 24, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1xe1tzg/showoff_saturday_october_24_2026/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Inline rendering with document​.currentScript](https://www.reddit.com/r/javascript/comments/1xdelos/inline_rendering_with_documentcurrentscript/)
 - [I spent three years building Nanoviews, a tiny UI library on signals. It just hit 1.0](https://www.reddit.com/r/javascript/comments/1xdc8fm/i_spent_three_years_building_nanoviews_a_tiny_ui/)
 - [Article: I replaced EsLint. The First Attempt Worked. I threw it away.](https://www.reddit.com/r/javascript/comments/1xdbl62/article_i_replaced_eslint_the_first_attempt/)
-- [a website that lets you play with antennas and visualize the electromagnetic field](https://www.reddit.com/r/javascript/comments/1xck13p/a_website_that_lets_you_play_with_antennas_and/)
-- [Wasp web framework v1.0 is coming: the roadmap and what changes](https://www.reddit.com/r/javascript/comments/1xck06z/wasp_web_framework_v10_is_coming_the_roadmap_and/)
-- [Nano Kit 2.0 is out: my state management library now has DevTools](https://www.reddit.com/r/javascript/comments/1xci4rq/nano_kit_20_is_out_my_state_management_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
