@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [penciled – persistent text highlights/notes with the CSS Custom Highlight API &lpar;no DOM wrapping&rpar;](https://www.reddit.com/r/javascript/comments/1xgzbwm/penciled_persistent_text_highlightsnotes_with_the/)
+- [I&#39;ve proven that you don&#39;t need quotes or parentheses in JavaScript](https://www.reddit.com/r/javascript/comments/1xgvg10/ive_proven_that_you_dont_need_quotes_or/)
 - [Typescript/React](https://www.reddit.com/r/javascript/comments/1xggog0/typescriptreact/)
 - [A New Node.js library](https://www.reddit.com/r/javascript/comments/1xgbmbc/a_new_nodejs_library/)
 - [Your /r/javascript recap for the week of October 19 - October 25, 2026](https://www.reddit.com/r/javascript/comments/1xfrolf/your_rjavascript_recap_for_the_week_of_october_19/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [Biblioteca HTML y CSS](https://www.reddit.com/r/javascript/comments/1xf069g/biblioteca_html_y_css/)
 - [Handcrafted HTML-first progressive framework that outperforms React](https://www.reddit.com/r/javascript/comments/1xes1qa/handcrafted_htmlfirst_progressive_framework_that/)
 - [DigitalVisualMixer: live visuals, no experience required](https://www.reddit.com/r/javascript/comments/1xe28ev/digitalvisualmixer_live_visuals_no_experience/)
-- [Showoff Saturday &lpar;October 24, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1xe1tzg/showoff_saturday_october_24_2026/)
-- [[AskJS] :Recently got a PR merged into TanStack Query](https://www.reddit.com/r/javascript/comments/1xdhjza/askjs_recently_got_a_pr_merged_into_tanstack_query/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
