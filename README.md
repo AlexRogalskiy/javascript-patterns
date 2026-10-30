@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Factories.ts: An efficient JS DSL for building HTML, SVG, and MathML directly in backend code, without a template engine.](https://www.reddit.com/r/javascript/comments/1xj0tzj/factoriests_an_efficient_js_dsl_for_building_html/)
+- [Since 2017 I&#39;ve been trying to get zoom navigation right. Zumly is the closest I&#39;ve got](https://www.reddit.com/r/javascript/comments/1xixnwt/since_2017_ive_been_trying_to_get_zoom_navigation/)
 - [[AskJS] How do you plan the frontend?](https://www.reddit.com/r/javascript/comments/1xiba03/askjs_how_do_you_plan_the_frontend/)
 - [Dependabot alerts don&#39;t read bun.lock, so transitive dependencies in Bun projects never get an alert](https://www.reddit.com/r/javascript/comments/1xhmzbw/dependabot_alerts_dont_read_bunlock_so_transitive/)
-- [I built Native Form: Zero-registration, HTML-first form library for React &lpar;no {...register&lpar;&rpar;} boilerplate&rpar;](https://www.reddit.com/r/javascript/comments/1xhkk1j/i_built_native_form_zeroregistration_htmlfirst/)
 - [penciled – persistent text highlights/notes with the CSS Custom Highlight API &lpar;no DOM wrapping&rpar;](https://www.reddit.com/r/javascript/comments/1xgzbwm/penciled_persistent_text_highlightsnotes_with_the/)
 - [I&#39;ve proven that you don&#39;t need quotes or parentheses in JavaScript](https://www.reddit.com/r/javascript/comments/1xgvg10/ive_proven_that_you_dont_need_quotes_or/)
 - [Typescript/React](https://www.reddit.com/r/javascript/comments/1xggog0/typescriptreact/)
 - [A New Node.js library](https://www.reddit.com/r/javascript/comments/1xgbmbc/a_new_nodejs_library/)
 - [Your /r/javascript recap for the week of October 19 - October 25, 2026](https://www.reddit.com/r/javascript/comments/1xfrolf/your_rjavascript_recap_for_the_week_of_october_19/)
 - [GitHub - evoluteur/braille-quiz: Learn to read Braille: guess words letter group by letter group &lpar;a-j, a-t, a-z&rpar;, with and without a cheat sheet, against the clock.](https://www.reddit.com/r/javascript/comments/1xfje2j/github_evoluteurbraillequiz_learn_to_read_braille/)
-- [LittleJS Engine is 2D and 3D now](https://www.reddit.com/r/javascript/comments/1xf8iai/littlejs_engine_is_2d_and_3d_now/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
