@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Lean explained with TypeScript](https://www.reddit.com/r/javascript/comments/1xjwu7s/lean_explained_with_typescript/)
+- [TypeSQL: type-safe raw SQL in TypeScript](https://www.reddit.com/r/javascript/comments/1xktd3q/typesql_typesafe_raw_sql_in_typescript/)
+- [[AskJS] How to host your webhook consumer middleware that integrates WooCommerce and HubSpot?](https://www.reddit.com/r/javascript/comments/1xklaax/askjs_how_to_host_your_webhook_consumer/)
+- [A Kanji lookup table, five commands, and 36% less Base64](https://www.reddit.com/r/javascript/comments/1xkcsx5/a_kanji_lookup_table_five_commands_and_36_less/)
+- [Showoff Saturday &lpar;October 31, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1xk3fsr/showoff_saturday_october_31_2026/)
 - [The Void SDK and Platform is open source now!](https://www.reddit.com/r/javascript/comments/1xjo4xn/the_void_sdk_and_platform_is_open_source_now/)
 - [No, npm, “estee” is not a typo of “testem”](https://www.reddit.com/r/javascript/comments/1xjhovb/no_npm_estee_is_not_a_typo_of_testem/)
 - [We published the full index of our internal Node stack: 348 npm packages, 257 repos](https://www.reddit.com/r/javascript/comments/1xja8i6/we_published_the_full_index_of_our_internal_node/)
 - [Factories.ts: An efficient JS DSL for building HTML, SVG, and MathML directly in backend code, without a template engine.](https://www.reddit.com/r/javascript/comments/1xj0tzj/factoriests_an_efficient_js_dsl_for_building_html/)
 - [Since 2017 I&#39;ve been trying to get zoom navigation right. Zumly is the closest I&#39;ve got](https://www.reddit.com/r/javascript/comments/1xixnwt/since_2017_ive_been_trying_to_get_zoom_navigation/)
 - [[AskJS] How do you plan the frontend?](https://www.reddit.com/r/javascript/comments/1xiba03/askjs_how_do_you_plan_the_frontend/)
-- [Dependabot alerts don&#39;t read bun.lock, so transitive dependencies in Bun projects never get an alert](https://www.reddit.com/r/javascript/comments/1xhmzbw/dependabot_alerts_dont_read_bunlock_so_transitive/)
-- [penciled – persistent text highlights/notes with the CSS Custom Highlight API &lpar;no DOM wrapping&rpar;](https://www.reddit.com/r/javascript/comments/1xgzbwm/penciled_persistent_text_highlightsnotes_with_the/)
-- [I&#39;ve proven that you don&#39;t need quotes or parentheses in JavaScript](https://www.reddit.com/r/javascript/comments/1xgvg10/ive_proven_that_you_dont_need_quotes_or/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
