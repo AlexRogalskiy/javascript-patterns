@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [We stopped installing npm packages less than a week old](https://www.reddit.com/r/javascript/comments/1xlh6xq/we_stopped_installing_npm_packages_less_than_a/)
+- [Made open-source bot and tamper detection for websites with Claude. One script tag. Try to break it](https://www.reddit.com/r/javascript/comments/1xlh2qk/made_opensource_bot_and_tamper_detection_for/)
+- [Distributed Resilience - Cutting the Cost of Centralized Coordination](https://www.reddit.com/r/javascript/comments/1xlc4kx/distributed_resilience_cutting_the_cost_of/)
+- [Offline Vin Decoder / Vehicle specs](https://www.reddit.com/r/javascript/comments/1xlbofe/offline_vin_decoder_vehicle_specs/)
+- [I built a client-side cache in Rust and compiled it to WebAssembly](https://www.reddit.com/r/javascript/comments/1xkxi2a/i_built_a_clientside_cache_in_rust_and_compiled/)
 - [TypeSQL: type-safe raw SQL in TypeScript](https://www.reddit.com/r/javascript/comments/1xktd3q/typesql_typesafe_raw_sql_in_typescript/)
 - [[AskJS] How to host your webhook consumer middleware that integrates WooCommerce and HubSpot?](https://www.reddit.com/r/javascript/comments/1xklaax/askjs_how_to_host_your_webhook_consumer/)
 - [A Kanji lookup table, five commands, and 36% less Base64](https://www.reddit.com/r/javascript/comments/1xkcsx5/a_kanji_lookup_table_five_commands_and_36_less/)
 - [Showoff Saturday &lpar;October 31, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1xk3fsr/showoff_saturday_october_31_2026/)
 - [The Void SDK and Platform is open source now!](https://www.reddit.com/r/javascript/comments/1xjo4xn/the_void_sdk_and_platform_is_open_source_now/)
-- [No, npm, “estee” is not a typo of “testem”](https://www.reddit.com/r/javascript/comments/1xjhovb/no_npm_estee_is_not_a_typo_of_testem/)
-- [We published the full index of our internal Node stack: 348 npm packages, 257 repos](https://www.reddit.com/r/javascript/comments/1xja8i6/we_published_the_full_index_of_our_internal_node/)
-- [Factories.ts: An efficient JS DSL for building HTML, SVG, and MathML directly in backend code, without a template engine.](https://www.reddit.com/r/javascript/comments/1xj0tzj/factoriests_an_efficient_js_dsl_for_building_html/)
-- [Since 2017 I&#39;ve been trying to get zoom navigation right. Zumly is the closest I&#39;ve got](https://www.reddit.com/r/javascript/comments/1xixnwt/since_2017_ive_been_trying_to_get_zoom_navigation/)
-- [[AskJS] How do you plan the frontend?](https://www.reddit.com/r/javascript/comments/1xiba03/askjs_how_do_you_plan_the_frontend/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
