@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Prism2D.js – An open-source 2D game engine built with JavaScript](https://www.reddit.com/r/javascript/comments/1xmhocg/prism2djs_an_opensource_2d_game_engine_built_with/)
+- [System One model in the browser, learns from an LLM when it isn&#39;t confident.](https://www.reddit.com/r/javascript/comments/1xmd0t6/system_one_model_in_the_browser_learns_from_an/)
+- [serialport-rs for Node.js: Rust-backed serial ports for Node.js with parallel I/O and SerialPort-compatible APIs](https://www.reddit.com/r/javascript/comments/1xm88rf/serialportrs_for_nodejs_rustbacked_serial_ports/)
+- [[AskJS] Do you ban positional boolean arguments in code review, or is an options object overkill?](https://www.reddit.com/r/javascript/comments/1xlxogi/askjs_do_you_ban_positional_boolean_arguments_in/)
+- [Measure your CPU&#39;s clock speed online and compete on the leaderboard.](https://www.reddit.com/r/javascript/comments/1xlvbdb/measure_your_cpus_clock_speed_online_and_compete/)
+- [Jeasx 3.0 is out: async JSX on the server, now streaming to the browser and about 2x faster](https://www.reddit.com/r/javascript/comments/1xlv1cl/jeasx_30_is_out_async_jsx_on_the_server_now/)
+- [CheerpJ 5.0: Java 21/25 in the browser, full OpenJDK, and a new WasmGC engine](https://www.reddit.com/r/javascript/comments/1xluupy/cheerpj_50_java_2125_in_the_browser_full_openjdk/)
+- [Your /r/javascript recap for the week of October 26 - November 01, 2026](https://www.reddit.com/r/javascript/comments/1xlt9tf/your_rjavascript_recap_for_the_week_of_october_26/)
+- [Designsystemet, Now in Elm · cekrem.github.io](https://www.reddit.com/r/javascript/comments/1xlsmop/designsystemet_now_in_elm_cekremgithubio/)
 - [We stopped installing npm packages less than a week old](https://www.reddit.com/r/javascript/comments/1xlh6xq/we_stopped_installing_npm_packages_less_than_a/)
-- [Made open-source bot and tamper detection for websites with Claude. One script tag. Try to break it](https://www.reddit.com/r/javascript/comments/1xlh2qk/made_opensource_bot_and_tamper_detection_for/)
-- [Distributed Resilience - Cutting the Cost of Centralized Coordination](https://www.reddit.com/r/javascript/comments/1xlc4kx/distributed_resilience_cutting_the_cost_of/)
-- [Offline Vin Decoder / Vehicle specs](https://www.reddit.com/r/javascript/comments/1xlbofe/offline_vin_decoder_vehicle_specs/)
-- [I built a client-side cache in Rust and compiled it to WebAssembly](https://www.reddit.com/r/javascript/comments/1xkxi2a/i_built_a_clientside_cache_in_rust_and_compiled/)
-- [TypeSQL: type-safe raw SQL in TypeScript](https://www.reddit.com/r/javascript/comments/1xktd3q/typesql_typesafe_raw_sql_in_typescript/)
-- [[AskJS] How to host your webhook consumer middleware that integrates WooCommerce and HubSpot?](https://www.reddit.com/r/javascript/comments/1xklaax/askjs_how_to_host_your_webhook_consumer/)
-- [A Kanji lookup table, five commands, and 36% less Base64](https://www.reddit.com/r/javascript/comments/1xkcsx5/a_kanji_lookup_table_five_commands_and_36_less/)
-- [Showoff Saturday &lpar;October 31, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1xk3fsr/showoff_saturday_october_31_2026/)
-- [The Void SDK and Platform is open source now!](https://www.reddit.com/r/javascript/comments/1xjo4xn/the_void_sdk_and_platform_is_open_source_now/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
