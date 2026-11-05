@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Farm.js – an MIT full-stack framework for the web and agents, where React, Vue, Svelte, Solid, and Preact share the same typed server contracts](https://www.reddit.com/r/javascript/comments/1xo56t0/farmjs_an_mit_fullstack_framework_for_the_web_and/)
+- [A server function that pauses on await until a person answers a form in the browser](https://www.reddit.com/r/javascript/comments/1xo0pff/a_server_function_that_pauses_on_await_until_a/)
+- [Screenplay: a CLI + MCP server that lets coding agents film and edit screen recordings &lpar;Playwright, CDP screencast, @napi-rs/canvas, ffmpeg&rpar;](https://www.reddit.com/r/javascript/comments/1xnyng6/screenplay_a_cli_mcp_server_that_lets_coding/)
+- [I built a gamified 3D space simulator for my portfolio using AI concepts](https://www.reddit.com/r/javascript/comments/1xnngp0/i_built_a_gamified_3d_space_simulator_for_my/)
 - [[AskJS] Is it actually possible for an iframe to control the parent page’s URL without the host app doing anything?](https://www.reddit.com/r/javascript/comments/1xnhrsw/askjs_is_it_actually_possible_for_an_iframe_to/)
 - [I built Domicile, a Linux desktop platform where native application windows are DOM elements](https://www.reddit.com/r/javascript/comments/1xn4i6g/i_built_domicile_a_linux_desktop_platform_where/)
 - [playthru: scripted, looping product demos that drive your real DOM with a fake cursor instead of a video file](https://www.reddit.com/r/javascript/comments/1xmyb37/playthru_scripted_looping_product_demos_that/)
 - [Our JavaScript hero entrance kept LCP at ~50ms but visibly flashed. Hiding it until scripts loaded pushed LCP to ~1.75s](https://www.reddit.com/r/javascript/comments/1xmtoqt/our_javascript_hero_entrance_kept_lcp_at_50ms_but/)
 - [[AskJS] Would you use a mature UI library that nobody’s heard of?](https://www.reddit.com/r/javascript/comments/1xmsib9/askjs_would_you_use_a_mature_ui_library_that/)
 - [Prism2D.js – An open-source 2D game engine built with JavaScript](https://www.reddit.com/r/javascript/comments/1xmhocg/prism2djs_an_opensource_2d_game_engine_built_with/)
-- [System One model in the browser, learns from an LLM when it isn&#39;t confident.](https://www.reddit.com/r/javascript/comments/1xmd0t6/system_one_model_in_the_browser_learns_from_an/)
-- [serialport-rs for Node.js: Rust-backed serial ports for Node.js with parallel I/O and SerialPort-compatible APIs](https://www.reddit.com/r/javascript/comments/1xm88rf/serialportrs_for_nodejs_rustbacked_serial_ports/)
-- [[AskJS] Do you ban positional boolean arguments in code review, or is an options object overkill?](https://www.reddit.com/r/javascript/comments/1xlxogi/askjs_do_you_ban_positional_boolean_arguments_in/)
-- [Jeasx 3.0 is out: async JSX on the server, now streaming to the browser and about 2x faster](https://www.reddit.com/r/javascript/comments/1xlv1cl/jeasx_30_is_out_async_jsx_on_the_server_now/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
