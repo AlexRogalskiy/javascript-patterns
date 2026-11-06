@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Serverless multiplayer via webrtc/camera/barcode &lpar;no signal/stun/turn servers&rpar;](https://www.reddit.com/r/javascript/comments/1xokvyx/serverless_multiplayer_via_webrtccamerabarcode_no/)
+- [GB.js - GameBoy and GBA emulator core in Typescript](https://www.reddit.com/r/javascript/comments/1xoienw/gbjs_gameboy_and_gba_emulator_core_in_typescript/)
+- [[AskJS] How do you keep un-awaited expect&lpar;...&rpar;.resolves out of your test suites?](https://www.reddit.com/r/javascript/comments/1xohskh/askjs_how_do_you_keep_unawaited_expectresolves/)
 - [Farm.js – an MIT full-stack framework for the web and agents, where React, Vue, Svelte, Solid, and Preact share the same typed server contracts](https://www.reddit.com/r/javascript/comments/1xo56t0/farmjs_an_mit_fullstack_framework_for_the_web_and/)
 - [A server function that pauses on await until a person answers a form in the browser](https://www.reddit.com/r/javascript/comments/1xo0pff/a_server_function_that_pauses_on_await_until_a/)
 - [Screenplay: a CLI + MCP server that lets coding agents film and edit screen recordings &lpar;Playwright, CDP screencast, @napi-rs/canvas, ffmpeg&rpar;](https://www.reddit.com/r/javascript/comments/1xnyng6/screenplay_a_cli_mcp_server_that_lets_coding/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [[AskJS] Is it actually possible for an iframe to control the parent page’s URL without the host app doing anything?](https://www.reddit.com/r/javascript/comments/1xnhrsw/askjs_is_it_actually_possible_for_an_iframe_to/)
 - [I built Domicile, a Linux desktop platform where native application windows are DOM elements](https://www.reddit.com/r/javascript/comments/1xn4i6g/i_built_domicile_a_linux_desktop_platform_where/)
 - [playthru: scripted, looping product demos that drive your real DOM with a fake cursor instead of a video file](https://www.reddit.com/r/javascript/comments/1xmyb37/playthru_scripted_looping_product_demos_that/)
-- [Our JavaScript hero entrance kept LCP at ~50ms but visibly flashed. Hiding it until scripts loaded pushed LCP to ~1.75s](https://www.reddit.com/r/javascript/comments/1xmtoqt/our_javascript_hero_entrance_kept_lcp_at_50ms_but/)
-- [[AskJS] Would you use a mature UI library that nobody’s heard of?](https://www.reddit.com/r/javascript/comments/1xmsib9/askjs_would_you_use_a_mature_ui_library_that/)
-- [Prism2D.js – An open-source 2D game engine built with JavaScript](https://www.reddit.com/r/javascript/comments/1xmhocg/prism2djs_an_opensource_2d_game_engine_built_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
