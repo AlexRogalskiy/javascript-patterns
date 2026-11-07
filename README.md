@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Problem with concurrent linter fixes](https://www.reddit.com/r/javascript/comments/1xppgtc/problem_with_concurrent_linter_fixes/)
+- [Ho creato una canzone su JavaScript con l&#39;IA](https://www.reddit.com/r/javascript/comments/1xpmfw5/ho_creato_una_canzone_su_javascript_con_lia/)
+- [tryimpasto: turn any photo into a palette-knife painting you can relight &lpar;TypeScript, zero dependencies&rpar;](https://www.reddit.com/r/javascript/comments/1xpexdg/tryimpasto_turn_any_photo_into_a_paletteknife/)
 - [Serverless multiplayer via webrtc/camera/barcode &lpar;no signal/stun/turn servers&rpar;](https://www.reddit.com/r/javascript/comments/1xokvyx/serverless_multiplayer_via_webrtccamerabarcode_no/)
 - [GB.js - GameBoy and GBA emulator core in Typescript](https://www.reddit.com/r/javascript/comments/1xoienw/gbjs_gameboy_and_gba_emulator_core_in_typescript/)
 - [[AskJS] How do you keep un-awaited expect&lpar;...&rpar;.resolves out of your test suites?](https://www.reddit.com/r/javascript/comments/1xohskh/askjs_how_do_you_keep_unawaited_expectresolves/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [A server function that pauses on await until a person answers a form in the browser](https://www.reddit.com/r/javascript/comments/1xo0pff/a_server_function_that_pauses_on_await_until_a/)
 - [Screenplay: a CLI + MCP server that lets coding agents film and edit screen recordings &lpar;Playwright, CDP screencast, @napi-rs/canvas, ffmpeg&rpar;](https://www.reddit.com/r/javascript/comments/1xnyng6/screenplay_a_cli_mcp_server_that_lets_coding/)
 - [I built a gamified 3D space simulator for my portfolio using AI concepts](https://www.reddit.com/r/javascript/comments/1xnngp0/i_built_a_gamified_3d_space_simulator_for_my/)
-- [[AskJS] Is it actually possible for an iframe to control the parent page’s URL without the host app doing anything?](https://www.reddit.com/r/javascript/comments/1xnhrsw/askjs_is_it_actually_possible_for_an_iframe_to/)
-- [I built Domicile, a Linux desktop platform where native application windows are DOM elements](https://www.reddit.com/r/javascript/comments/1xn4i6g/i_built_domicile_a_linux_desktop_platform_where/)
-- [playthru: scripted, looping product demos that drive your real DOM with a fake cursor instead of a video file](https://www.reddit.com/r/javascript/comments/1xmyb37/playthru_scripted_looping_product_demos_that/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
