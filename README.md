@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Making Browser OCR Read Real Phone Photos](https://www.reddit.com/r/javascript/comments/1xqqa4b/making_browser_ocr_read_real_phone_photos/)
+- [[First Website] I made a website that generates nonsense from input text](https://www.reddit.com/r/javascript/comments/1xqoa2p/first_website_i_made_a_website_that_generates/)
+- [Crystal Singing Bowls: Play seven quartz crystal singing bowls tuned to the chakras, synthesized live with Web Audio, with a guided chakra journey.](https://www.reddit.com/r/javascript/comments/1xqo420/crystal_singing_bowls_play_seven_quartz_crystal/)
+- [[AskJS] Do you think vanilla JS will be #1 for everything and anything thanks to AI?](https://www.reddit.com/r/javascript/comments/1xqhmky/askjs_do_you_think_vanilla_js_will_be_1_for/)
+- [Got tired of scattering console.log&lpar;&#39;here 1&#39;&rpar; to find promises that hang silently, so I built a zero-dep dev tool to trace them](https://www.reddit.com/r/javascript/comments/1xqdy2u/got_tired_of_scattering_consoleloghere_1_to_find/)
+- [SpaceHex - Rotate the rooms to capture the orbs while avoiding the critters](https://www.reddit.com/r/javascript/comments/1xqbdwl/spacehex_rotate_the_rooms_to_capture_the_orbs/)
+- [Showoff Saturday &lpar;November 07, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1xq10e3/showoff_saturday_november_07_2026/)
 - [Problem with concurrent linter fixes](https://www.reddit.com/r/javascript/comments/1xppgtc/problem_with_concurrent_linter_fixes/)
 - [Ho creato una canzone su JavaScript con l&#39;IA](https://www.reddit.com/r/javascript/comments/1xpmfw5/ho_creato_una_canzone_su_javascript_con_lia/)
 - [tryimpasto: turn any photo into a palette-knife painting you can relight &lpar;TypeScript, zero dependencies&rpar;](https://www.reddit.com/r/javascript/comments/1xpexdg/tryimpasto_turn_any_photo_into_a_paletteknife/)
-- [Serverless multiplayer via webrtc/camera/barcode &lpar;no signal/stun/turn servers&rpar;](https://www.reddit.com/r/javascript/comments/1xokvyx/serverless_multiplayer_via_webrtccamerabarcode_no/)
-- [GB.js - GameBoy and GBA emulator core in Typescript](https://www.reddit.com/r/javascript/comments/1xoienw/gbjs_gameboy_and_gba_emulator_core_in_typescript/)
-- [[AskJS] How do you keep un-awaited expect&lpar;...&rpar;.resolves out of your test suites?](https://www.reddit.com/r/javascript/comments/1xohskh/askjs_how_do_you_keep_unawaited_expectresolves/)
-- [Farm.js – an MIT full-stack framework for the web and agents, where React, Vue, Svelte, Solid, and Preact share the same typed server contracts](https://www.reddit.com/r/javascript/comments/1xo56t0/farmjs_an_mit_fullstack_framework_for_the_web_and/)
-- [A server function that pauses on await until a person answers a form in the browser](https://www.reddit.com/r/javascript/comments/1xo0pff/a_server_function_that_pauses_on_await_until_a/)
-- [Screenplay: a CLI + MCP server that lets coding agents film and edit screen recordings &lpar;Playwright, CDP screencast, @napi-rs/canvas, ffmpeg&rpar;](https://www.reddit.com/r/javascript/comments/1xnyng6/screenplay_a_cli_mcp_server_that_lets_coding/)
-- [I built a gamified 3D space simulator for my portfolio using AI concepts](https://www.reddit.com/r/javascript/comments/1xnngp0/i_built_a_gamified_3d_space_simulator_for_my/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
