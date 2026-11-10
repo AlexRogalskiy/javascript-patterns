@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What we learned operating auth for 1,000+ APIs](https://www.reddit.com/r/javascript/comments/1xs9fgf/what_we_learned_operating_auth_for_1000_apis/)
+- [[AskJS] Are we putting too much application logic in the frontend?](https://www.reddit.com/r/javascript/comments/1xs650b/askjs_are_we_putting_too_much_application_logic/)
+- [claude-bulkhead: a dependency-free Node hook that parses shell commands before Claude Code runs them, so parallel sessions stop breaking each other](https://www.reddit.com/r/javascript/comments/1xrzdyy/claudebulkhead_a_dependencyfree_node_hook_that/)
+- [Computing a Factorial with Church Numerals](https://www.reddit.com/r/javascript/comments/1xrxzss/computing_a_factorial_with_church_numerals/)
+- [We moved Master CSS&#39;s core semantics to Rust and check the JS browser engine against it for identical output](https://www.reddit.com/r/javascript/comments/1xrtlvf/we_moved_master_csss_core_semantics_to_rust_and/)
+- [The future of Software Engineering is boring](https://www.reddit.com/r/javascript/comments/1xrthfj/the_future_of_software_engineering_is_boring/)
+- [Your /r/javascript recap for the week of November 02 - November 08, 2026](https://www.reddit.com/r/javascript/comments/1xrnvcs/your_rjavascript_recap_for_the_week_of_november/)
 - [Porting SwiftUI&#39;s spring animation &lpar;duration + bounce&rpar; to plain JS](https://www.reddit.com/r/javascript/comments/1xr0ccv/porting_swiftuis_spring_animation_duration_bounce/)
 - [Making Browser OCR Read Real Phone Photos](https://www.reddit.com/r/javascript/comments/1xqqa4b/making_browser_ocr_read_real_phone_photos/)
 - [[AskJS] Do you think vanilla JS will be #1 for everything and anything thanks to AI?](https://www.reddit.com/r/javascript/comments/1xqhmky/askjs_do_you_think_vanilla_js_will_be_1_for/)
-- [Got tired of scattering console.log&lpar;&#39;here 1&#39;&rpar; to find promises that hang silently, so I built a zero-dep dev tool to trace them](https://www.reddit.com/r/javascript/comments/1xqdy2u/got_tired_of_scattering_consoleloghere_1_to_find/)
-- [SpaceHex - Rotate the rooms to capture the orbs while avoiding the critters](https://www.reddit.com/r/javascript/comments/1xqbdwl/spacehex_rotate_the_rooms_to_capture_the_orbs/)
-- [Showoff Saturday &lpar;November 07, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1xq10e3/showoff_saturday_november_07_2026/)
-- [Problem with concurrent linter fixes](https://www.reddit.com/r/javascript/comments/1xppgtc/problem_with_concurrent_linter_fixes/)
-- [tryimpasto: turn any photo into a palette-knife painting you can relight &lpar;TypeScript, zero dependencies&rpar;](https://www.reddit.com/r/javascript/comments/1xpexdg/tryimpasto_turn_any_photo_into_a_paletteknife/)
-- [Serverless multiplayer via webrtc/camera/barcode &lpar;no signal/stun/turn servers&rpar;](https://www.reddit.com/r/javascript/comments/1xokvyx/serverless_multiplayer_via_webrtccamerabarcode_no/)
-- [GB.js - GameBoy and GBA emulator core in Typescript](https://www.reddit.com/r/javascript/comments/1xoienw/gbjs_gameboy_and_gba_emulator_core_in_typescript/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
