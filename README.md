@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Top 10 things AI gets wrong in web development | Blog | Chrome for Developers](https://www.reddit.com/r/javascript/comments/1xt9uzb/top_10_things_ai_gets_wrong_in_web_development/)
+- [I built a multi-core SQL engine for JavaScript &lpar;pure JS + WebAssembly, no native addon&rpar;](https://www.reddit.com/r/javascript/comments/1xsp7lt/i_built_a_multicore_sql_engine_for_javascript/)
+- [AngularLynx: idiomatic Angular rendering natively on iOS and Android via Lynx, with Renderer2 implemented on Lynx’s element API](https://www.reddit.com/r/javascript/comments/1xsnehz/angularlynx_idiomatic_angular_rendering_natively/)
 - [What we learned operating auth for 1,000+ APIs](https://www.reddit.com/r/javascript/comments/1xs9fgf/what_we_learned_operating_auth_for_1000_apis/)
 - [[AskJS] Are we putting too much application logic in the frontend?](https://www.reddit.com/r/javascript/comments/1xs650b/askjs_are_we_putting_too_much_application_logic/)
 - [claude-bulkhead: a dependency-free Node hook that parses shell commands before Claude Code runs them, so parallel sessions stop breaking each other](https://www.reddit.com/r/javascript/comments/1xrzdyy/claudebulkhead_a_dependencyfree_node_hook_that/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [We moved Master CSS&#39;s core semantics to Rust and check the JS browser engine against it for identical output](https://www.reddit.com/r/javascript/comments/1xrtlvf/we_moved_master_csss_core_semantics_to_rust_and/)
 - [The future of Software Engineering is boring](https://www.reddit.com/r/javascript/comments/1xrthfj/the_future_of_software_engineering_is_boring/)
 - [Your /r/javascript recap for the week of November 02 - November 08, 2026](https://www.reddit.com/r/javascript/comments/1xrnvcs/your_rjavascript_recap_for_the_week_of_november/)
-- [Porting SwiftUI&#39;s spring animation &lpar;duration + bounce&rpar; to plain JS](https://www.reddit.com/r/javascript/comments/1xr0ccv/porting_swiftuis_spring_animation_duration_bounce/)
-- [Making Browser OCR Read Real Phone Photos](https://www.reddit.com/r/javascript/comments/1xqqa4b/making_browser_ocr_read_real_phone_photos/)
-- [[AskJS] Do you think vanilla JS will be #1 for everything and anything thanks to AI?](https://www.reddit.com/r/javascript/comments/1xqhmky/askjs_do_you_think_vanilla_js_will_be_1_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
