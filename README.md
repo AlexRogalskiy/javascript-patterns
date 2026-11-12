@@ -277,6 +277,8 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Your JS Error Is Lying to You](https://www.reddit.com/r/javascript/comments/1xu2lig/your_js_error_is_lying_to_you/)
+- [[AskJS] Hash &lpar;#&rpar; vs underscore &lpar;_&rpar; for naming properties with Lit](https://www.reddit.com/r/javascript/comments/1xtoi6g/askjs_hash_vs_underscore_for_naming_properties/)
 - [Top 10 things AI gets wrong in web development | Blog | Chrome for Developers](https://www.reddit.com/r/javascript/comments/1xt9uzb/top_10_things_ai_gets_wrong_in_web_development/)
 - [I built a multi-core SQL engine for JavaScript &lpar;pure JS + WebAssembly, no native addon&rpar;](https://www.reddit.com/r/javascript/comments/1xsp7lt/i_built_a_multicore_sql_engine_for_javascript/)
 - [AngularLynx: idiomatic Angular rendering natively on iOS and Android via Lynx, with Renderer2 implemented on Lynx’s element API](https://www.reddit.com/r/javascript/comments/1xsnehz/angularlynx_idiomatic_angular_rendering_natively/)
@@ -285,8 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [claude-bulkhead: a dependency-free Node hook that parses shell commands before Claude Code runs them, so parallel sessions stop breaking each other](https://www.reddit.com/r/javascript/comments/1xrzdyy/claudebulkhead_a_dependencyfree_node_hook_that/)
 - [Computing a Factorial with Church Numerals](https://www.reddit.com/r/javascript/comments/1xrxzss/computing_a_factorial_with_church_numerals/)
 - [We moved Master CSS&#39;s core semantics to Rust and check the JS browser engine against it for identical output](https://www.reddit.com/r/javascript/comments/1xrtlvf/we_moved_master_csss_core_semantics_to_rust_and/)
-- [The future of Software Engineering is boring](https://www.reddit.com/r/javascript/comments/1xrthfj/the_future_of_software_engineering_is_boring/)
-- [Your /r/javascript recap for the week of November 02 - November 08, 2026](https://www.reddit.com/r/javascript/comments/1xrnvcs/your_rjavascript_recap_for_the_week_of_november/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
