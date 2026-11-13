@@ -277,7 +277,7 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Your JS Error Is Lying to You](https://www.reddit.com/r/javascript/comments/1xu2lig/your_js_error_is_lying_to_you/)
+- [[AskJS] new Date&lpar;&quot;2026-03-10&quot;&rpar; and new Date&lpar;&quot;2026-03-10T00:00&quot;&rpar; look the same but aren’t, and the difference depends on the time zone](https://www.reddit.com/r/javascript/comments/1xugjgn/askjs_new_date20260310_and_new_date20260310t0000/)
 - [[AskJS] Hash &lpar;#&rpar; vs underscore &lpar;_&rpar; for naming properties with Lit](https://www.reddit.com/r/javascript/comments/1xtoi6g/askjs_hash_vs_underscore_for_naming_properties/)
 - [Top 10 things AI gets wrong in web development | Blog | Chrome for Developers](https://www.reddit.com/r/javascript/comments/1xt9uzb/top_10_things_ai_gets_wrong_in_web_development/)
 - [I built a multi-core SQL engine for JavaScript &lpar;pure JS + WebAssembly, no native addon&rpar;](https://www.reddit.com/r/javascript/comments/1xsp7lt/i_built_a_multicore_sql_engine_for_javascript/)
