@@ -4,7 +4,9 @@ permalink: pretty
 
 baseurl: https://github.com/AlexRogalskiy/javascript-patterns
 title: JavaScript Design Patterns
-description: Explores different architectural concepts and design principles for JavaScript applications
+description:
+  Explores different architectural concepts and design principles for JavaScript
+  applications
 
 author: Alexander Rogalskiy
 
