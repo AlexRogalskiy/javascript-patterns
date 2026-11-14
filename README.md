@@ -277,6 +277,9 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[AskJS] Which Node.js framework gives you the best developer experience, and why?](https://www.reddit.com/r/javascript/comments/1xvh80r/askjs_which_nodejs_framework_gives_you_the_best/)
+- [GitHub - pavex/safebox: One encrypted file with named secrets for a Node.js app, plus a CLI to manage it.](https://www.reddit.com/r/javascript/comments/1xvbn9d/github_pavexsafebox_one_encrypted_file_with_named/)
+- [The AI Cost of Marionette](https://www.reddit.com/r/javascript/comments/1xv9bbi/the_ai_cost_of_marionette/)
 - [[AskJS] new Date&lpar;&quot;2026-03-10&quot;&rpar; and new Date&lpar;&quot;2026-03-10T00:00&quot;&rpar; look the same but aren’t, and the difference depends on the time zone](https://www.reddit.com/r/javascript/comments/1xugjgn/askjs_new_date20260310_and_new_date20260310t0000/)
 - [[AskJS] Hash &lpar;#&rpar; vs underscore &lpar;_&rpar; for naming properties with Lit](https://www.reddit.com/r/javascript/comments/1xtoi6g/askjs_hash_vs_underscore_for_naming_properties/)
 - [Top 10 things AI gets wrong in web development | Blog | Chrome for Developers](https://www.reddit.com/r/javascript/comments/1xt9uzb/top_10_things_ai_gets_wrong_in_web_development/)
@@ -284,9 +287,6 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 - [AngularLynx: idiomatic Angular rendering natively on iOS and Android via Lynx, with Renderer2 implemented on Lynx’s element API](https://www.reddit.com/r/javascript/comments/1xsnehz/angularlynx_idiomatic_angular_rendering_natively/)
 - [What we learned operating auth for 1,000+ APIs](https://www.reddit.com/r/javascript/comments/1xs9fgf/what_we_learned_operating_auth_for_1000_apis/)
 - [[AskJS] Are we putting too much application logic in the frontend?](https://www.reddit.com/r/javascript/comments/1xs650b/askjs_are_we_putting_too_much_application_logic/)
-- [claude-bulkhead: a dependency-free Node hook that parses shell commands before Claude Code runs them, so parallel sessions stop breaking each other](https://www.reddit.com/r/javascript/comments/1xrzdyy/claudebulkhead_a_dependencyfree_node_hook_that/)
-- [Computing a Factorial with Church Numerals](https://www.reddit.com/r/javascript/comments/1xrxzss/computing_a_factorial_with_church_numerals/)
-- [We moved Master CSS&#39;s core semantics to Rust and check the JS browser engine against it for identical output](https://www.reddit.com/r/javascript/comments/1xrtlvf/we_moved_master_csss_core_semantics_to_rust_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
