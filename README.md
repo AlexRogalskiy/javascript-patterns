@@ -277,16 +277,16 @@ and ***JavaScript Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [My FOSS Pinball Engine Uses Javascript On Linux](https://www.reddit.com/r/javascript/comments/1xwdxr2/my_foss_pinball_engine_uses_javascript_on_linux/)
+- [[AskJS] Any use for JS decorators?](https://www.reddit.com/r/javascript/comments/1xw6qmk/askjs_any_use_for_js_decorators/)
+- [Diary Dev - Staxis is coming!](https://www.reddit.com/r/javascript/comments/1xw5gem/diary_dev_staxis_is_coming/)
+- [[AskJS] What&#39;s the longest-running personal project you&#39;ve developed and maintained?](https://www.reddit.com/r/javascript/comments/1xw2ak8/askjs_whats_the_longestrunning_personal_project/)
+- [Showoff Saturday &lpar;November 14, 2026&rpar;](https://www.reddit.com/r/javascript/comments/1xvwvgr/showoff_saturday_november_14_2026/)
 - [[AskJS] Which Node.js framework gives you the best developer experience, and why?](https://www.reddit.com/r/javascript/comments/1xvh80r/askjs_which_nodejs_framework_gives_you_the_best/)
 - [GitHub - pavex/safebox: One encrypted file with named secrets for a Node.js app, plus a CLI to manage it.](https://www.reddit.com/r/javascript/comments/1xvbn9d/github_pavexsafebox_one_encrypted_file_with_named/)
 - [The AI Cost of Marionette](https://www.reddit.com/r/javascript/comments/1xv9bbi/the_ai_cost_of_marionette/)
 - [[AskJS] new Date&lpar;&quot;2026-03-10&quot;&rpar; and new Date&lpar;&quot;2026-03-10T00:00&quot;&rpar; look the same but aren’t, and the difference depends on the time zone](https://www.reddit.com/r/javascript/comments/1xugjgn/askjs_new_date20260310_and_new_date20260310t0000/)
 - [[AskJS] Hash &lpar;#&rpar; vs underscore &lpar;_&rpar; for naming properties with Lit](https://www.reddit.com/r/javascript/comments/1xtoi6g/askjs_hash_vs_underscore_for_naming_properties/)
-- [Top 10 things AI gets wrong in web development | Blog | Chrome for Developers](https://www.reddit.com/r/javascript/comments/1xt9uzb/top_10_things_ai_gets_wrong_in_web_development/)
-- [I built a multi-core SQL engine for JavaScript &lpar;pure JS + WebAssembly, no native addon&rpar;](https://www.reddit.com/r/javascript/comments/1xsp7lt/i_built_a_multicore_sql_engine_for_javascript/)
-- [AngularLynx: idiomatic Angular rendering natively on iOS and Android via Lynx, with Renderer2 implemented on Lynx’s element API](https://www.reddit.com/r/javascript/comments/1xsnehz/angularlynx_idiomatic_angular_rendering_natively/)
-- [What we learned operating auth for 1,000+ APIs](https://www.reddit.com/r/javascript/comments/1xs9fgf/what_we_learned_operating_auth_for_1000_apis/)
-- [[AskJS] Are we putting too much application logic in the frontend?](https://www.reddit.com/r/javascript/comments/1xs650b/askjs_are_we_putting_too_much_application_logic/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
